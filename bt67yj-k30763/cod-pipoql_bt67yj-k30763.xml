@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="82"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k30763"><!-- l1d25c3" -->
+            <head xml:id="bt67yj-k30763-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k30763-Hd1e103" type="question-title">Res et ens in divinis quomodo sumantur</head>
+            <p xml:id="bt67yj-k30763-d1e106">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> §. 3. Res &amp; ens in divinis quomodo sumantur.
+    </p>
+            <p xml:id="bt67yj-k30763-d1e113">
+               <lb ed="#P" n="121"/>JAEc duo vocabula res e ens, apud Catholicos 
+      <lb ed="#P" n="122"/>Iscriptores de Trinitate disserentes, ita fere 
+      ac<lb ed="#P" n="123" break="no"/>cipiuntur ut tantum essentiam significent. Unde alibi 
+      <lb ed="#P" n="124"/>iis docetur patrem, &amp; filium, &amp; spiritum sanctum esse 
+      <lb ed="#P" n="125"/>rem unam &amp; ens unum, non plures res aut plura 
+      en<lb ed="#P" n="126" break="no"/>tia. Quod ex eo patet, quia quaerentibus Arianis quid 
+      <lb ed="#P" n="127"/>tres, aut quid tria, respondere Catholici noluerunt, 
+      <lb ed="#P" n="128"/>tres res, aut tres entes, aut tria entia. Quae tamen 
+      res<lb ed="#P" n="129" break="no"/>ponsio maxime videbatur esse in promptu. 
+      Vereban<lb ed="#P" n="130" break="no"/>tur enim ne hujusmodi responsione tres essentias in 
+      <lb ed="#P" n="131"/>Deo viderentur admisisse. Nonnunquam tamen 
+      ea<lb ed="#P" n="132" break="no"/>dem haec vocabula, ubi de Trinitate sermo est, 
+      trans<lb ed="#P" n="133" break="no"/>cendenter sumuntur, ita ut amplitudine 
+      suaesignifica<lb ed="#P" n="134" break="no"/>tionis tam relationem quam supstantiam 
+      comprehen<lb ed="#P" n="135" break="no"/>dant. Atque hoc modo August. lib. I. de doct. Chr. 
+      <lb ed="#P" n="136"/>cap. 3. &amp; 5. dicit plurali numero eas res quibus 
+      fruen<lb ed="#P" n="137" break="no"/>dum est, esse patrem, &amp; filium, &amp; spiritum sanctum, 
+      <lb ed="#P" n="138"/>subjiciens tamen eandem Trinit. esse unam rem 
+      sum<lb ed="#P" n="139" break="no"/>mam. Huc &amp; illud referendum quod idem Aug. l. 7. 
+      <lb ed="#P" n="140"/>de trin. cap. 4. &amp; 6. non modo tres genere personali, 
+      <!--0106.xml-->
+      <pb ed="#P" n="83"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sed tria quaedam esse in Trinitate scribit ac subinde 
+      <lb ed="#P" n="2"/>repetit, affirmans Sabellium in haercsim lapsum, 
+      <lb ed="#P" n="3"/>quod id negasset. Sic contra eundem Sabellium 
+      Pru<lb ed="#P" n="4" break="no"/>dentius in praefatione apotheosis, cecinit: Est tria 
+      <lb ed="#P" n="5"/>summa Deus. Tria autem illa transcendenti vocabulo 
+      <lb ed="#P" n="6"/>entia non incommode supplemus, nec vero aliter 
+      <lb ed="#P" n="7"/>commode supplere possumus. Eodem sensu &amp; a 
+      Da<lb ed="#P" n="8" break="no"/>masceno scriptum est lib. 3. de fide cap. 5. in 
+      Dei<lb ed="#P" n="9" break="no"/>tate unam naturam &amp; tres hypostases secundum 
+      <lb ed="#P" n="10"/>veritatem entes confitendas esse. Nec mirum, cum 
+      <lb ed="#P" n="11"/>verbum substantivum tam plurali quam singulari 
+      <lb ed="#P" n="12"/>numero sic resolvatur, ut ens in numero 
+      respon<lb ed="#P" n="13" break="no"/>denti praedicatum fiat. Sicut enim haec propositio,
+      <!-- missing line -->Deus est, ita resolvitur, Deus est ens, sic ista 
+      pa<lb ed="#P" n="14" break="no"/>ter &amp; filius &amp; spiritus sanctus sunt, resolvitur hoc 
+      <lb ed="#P" n="15"/>modo, pater &amp; filius &amp; spiritus sanctus sunt entes 
+      <lb ed="#P" n="16"/>vel entia. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

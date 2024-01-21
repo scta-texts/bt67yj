@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="92"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k34519"><!-- l1d30c2" -->
+            <head xml:id="bt67yj-k34519-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k34519-Hd1e103" type="question-title">Utrum Deus ex tempore, an ab aeterno 
+      sit Dominus</head>
+            <p xml:id="bt67yj-k34519-d1e106">
+               <lb ed="#P" n="68"/>§. 2. Utrum Deus ex tempore, an ab aeterno 
+      <lb ed="#P" n="69"/>sit Dominus?
+    </p>
+            <p xml:id="bt67yj-k34519-d1e113">
+               <lb ed="#P" n="70"/>QUaestionem hanc, an Deus semper fuerit 
+      Do<lb ed="#P" n="71" break="no"/>minus, difficilem sibi videri testatur 
+      Augusti<lb ed="#P" n="72" break="no"/>nus libr. 12. de Civitate cap. 15. Unde nec certi ali¬ 
+      <!--0115.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>quid eo loco definit, tantum affirmans Deum ex 
+      tem<lb ed="#P" n="74" break="no"/>pore meum vel tuum Dominum dici, sed utrum 
+      ab<lb ed="#P" n="75" break="no"/>solute Dominus in tempore factus sit, in quaestione 
+      <lb ed="#P" n="76"/>reliquit. Caeterum duplex S. Augustino dubitandi 
+      <lb ed="#P" n="77"/>causa fuisse videtur. Altera, ex voce, semper, quae si 
+      <lb ed="#P" n="78"/>idem fignificat quod omni tempore, jam ut apparet 
+      <lb ed="#P" n="79"/>vere dicere licebit, Deum semper fuisse Dominum, 
+      <lb ed="#P" n="80"/>quia omni tempore fuit Dominus, ut minimum, ipsius 
+      <lb ed="#P" n="81"/>temporis. Verum hanc responsionem quaestioni 
+      pro<lb ed="#P" n="82" break="no"/>positae minus congruere, satis ipse Augustinus 
+      intel<lb ed="#P" n="83" break="no"/>lexit. Cum enim dicimus, verbi gratia, Deum semper 
+      <lb ed="#P" n="84"/>fuisse justum aut sapientem, non tantum significamus 
+      <lb ed="#P" n="85"/>tempus creatum, quod est caeterarum rerum 
+      secun<lb ed="#P" n="86" break="no"/>dum durationem mensura (sic enim &amp; mundum 
+      <lb ed="#P" n="87"/>semper fuisse fateri oporteret) sed intelligimus 
+      tem<lb ed="#P" n="88" break="no"/>pus verum vel imaginarium aut certe ipsam 
+      aeterni<lb ed="#P" n="89" break="no"/>tatem, quae eadem est cum Dei essentia. Idem enim 
+      <lb ed="#P" n="90"/>est, sive quaeramus, an semper, sive an ab aeterno 
+      <lb ed="#P" n="91"/>Deus fuerit Dominus. Patres quoque syn. Nicaenae, 
+      <lb ed="#P" n="92"/>damnantes hanc Arianorum de filio Dei sententiam: 
+      <lb ed="#P" n="93"/>Erat quando non erat, eamque in omni creatura, 
+      ve<lb ed="#P" n="94" break="no"/>ritatem habere fatentes hac voce, quando omne 
+      il<lb ed="#P" n="95" break="no"/>lud durationis spatium comprehensum esse 
+      volue<lb ed="#P" n="96" break="no"/>runt, quod vel intellectu a nopis ante mundum 
+      con<lb ed="#P" n="97" break="no"/>ditum concipi potest. Non igitur hoc pacto recte 
+      <lb ed="#P" n="98"/>ostenditur Deumsemper fuisse Dominum. 
+    </p>
+            <p xml:id="bt67yj-k34519-d1e183">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Altera dubitandi causa fuit, quod videretur non 
+      <lb ed="#P" n="100"/>satis pie de Deo sentire, qui negaret eum semper 
+      <lb ed="#P" n="101"/>fuisse Dominum. Quod cum non omnino absque 
+      <lb ed="#P" n="102"/>ratione videatur, pro quaestionis praesentis 
+      determi<lb ed="#P" n="103" break="no"/>natione distinguendum est duplex Domini 
+      significa<lb ed="#P" n="104" break="no"/>tum. Aut enim significat eum, qui servum habet, 
+      <lb ed="#P" n="105"/>sicut pater qui habet filium. Aut eum qui habet 
+      po<lb ed="#P" n="106" break="no"/>testatem dominandi pro arbitrio suae voluntatis, 
+      <lb ed="#P" n="107"/>quique potest cum voluerit, eas res in promptu 
+      ha<lb ed="#P" n="108" break="no"/>bere quibus dominetur, etiamsi forte actu nihil 
+      ta<lb ed="#P" n="109" break="no"/>le vel faciat, vel habeat. Igitur priori modo Deum 
+      <lb ed="#P" n="110"/>non semper fuisse Dominum ratio manifesta 
+      con<lb ed="#P" n="111" break="no"/>vincit, quia servum non semper habuit cui 
+      domina<lb ed="#P" n="112" break="no"/>retur. Sicut enim pater non est qui filium non 
+      ha<lb ed="#P" n="113" break="no"/>bet, ita nec Dominus dicetur quispiam, qui non 
+      ha<lb ed="#P" n="114" break="no"/>beat servum. Atque hoc modo Augustinus lib. 5. de 
+      <lb ed="#P" n="115"/>Trinitate, capit. 16. incunctanter affirmat Deum 
+      <lb ed="#P" n="116"/>non fuisse Dominum ab aeterno, ne fateri cogatur 
+      <lb ed="#P" n="117"/>creaturam aliquam esse Deo coaeternam. Sic &amp; 
+      Ma<lb ed="#P" n="118" break="no"/>gister hac dist. &amp; sanct. Thomas loco dudum 
+      allega<lb ed="#P" n="119" break="no"/>to. Posteriori autem modo nihil dubium est, quin 
+      <lb ed="#P" n="120"/>ab aeterno Deus sit Dominus, maxime si &amp; illud 
+      ac<lb ed="#P" n="121" break="no"/>cedat quod ab aeterno praeordinaverit creaturam 
+      fa<lb ed="#P" n="122" break="no"/>cere, cui dominarerur, sicut supra diximus de hoc 
+      <lb ed="#P" n="123"/>nomine, creator, &amp; similibus. Hoc sensu Patres 
+      con<lb ed="#P" n="124" break="no"/>cilii Constant. definiverunt Spiritum sanctum 
+      Do<lb ed="#P" n="125" break="no"/>minum esse, id est, pari cum patre &amp; filii dominandi 
+      <lb ed="#P" n="126"/>potestate praeditum, contra eos qui eum patris &amp; 
+      <lb ed="#P" n="127"/>filii ministrum esse docebant. Hoc etiam modo 
+      scri<lb ed="#P" n="128" break="no"/>pturae Latinus interpres Deum passim dominum 
+      ap<lb ed="#P" n="129" break="no"/>pellat, non tantum ubi Hebraice est Adonai, sed 
+      fre<lb ed="#P" n="130" break="no"/>quentius multo, ubi in Hebraeo est nomen Dei 
+      <lb ed="#P" n="131"/>τετραγράμματον. Quod &amp; 70. passim vertunt Graeco 
+      <lb ed="#P" n="132"/>vocabulo κύριος, id est, Dominus. Estque illud 
+      no<lb ed="#P" n="133" break="no"/>men quod inter Dei nomina praecipuum haberi 
+      di<lb ed="#P" n="134" break="no"/>ximus ad distinctionem 8. Quod proinde 
+      consenta<lb ed="#P" n="135" break="no"/>neum est nequaquam ei ex initio temporis 
+      compe<lb ed="#P" n="136" break="no"/>tere, sed ab aeterno. De quo &amp; Isa. 40. scriptum est: 
+      <lb ed="#P" n="137"/>Deus sempiternus Dominus, vel ut in Hebraeo semper 
+      <lb ed="#P" n="138"/>Dominus. 
+    </p>
+            <p xml:id="bt67yj-k34519-d1e275">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Porro hanc posteriorem significationem in 
+      voca<lb ed="#P" n="140" break="no"/>bulo, Domini, etiam veteres attenderunt ut 
+      Dio<lb ed="#P" n="141" break="no"/>nysius Areopagita de div. nom. cap. 12. Athanasius 
+      <lb ed="#P" n="142"/>in symbolo. Hilarius lib. 8. de Trinit. Basilius lib. de 
+      <lb ed="#P" n="143"/>Spiritu sancto cap. 20. &amp; 21. Ambrosius lib. I. do fid. 
+      <lb ed="#P" n="144"/>ad Gra. c. 1. &amp; lib. 3. de Spiritu sancto c. 16. &amp; 17. &amp; 
+      <lb ed="#P" n="145"/>Cyrillus lib. 8. contra Julianum, iis verbis quibus 
+      <lb ed="#P" n="146"/>affirmat divinitati semper conjunctam esse domina¬ 
+      <!--0116.xml-->
+      <pb ed="#P" n="93"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tionem. Nec diversum ab his sentit Damascen. qui 
+      <lb ed="#P" n="2"/>cum dixisset lib. I. de fide c. 12. vocabulo domini 
+      si<lb ed="#P" n="3" break="no"/>gnificari relationem, postea lib. 3. c. 12. docet 
+      signifi<lb ed="#P" n="4" break="no"/>cari substantiam divinam. Quae duo non pugnant. 
+      <lb ed="#P" n="5"/>Significat enim Dominus potestatem dominandi. Sed 
+      <lb ed="#P" n="6"/>ea potestas in Deo est ipsa Dei substantia, sic tamen 
+      <lb ed="#P" n="7"/>ut illo nomine expressa respiciat creaturas, quibus 
+      <lb ed="#P" n="8"/>Deus dominetur aut dominari possit. 
+    </p>
+            <p xml:id="bt67yj-k34519-d1e321">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Illud autem quod apud Arnobium legitur super 
+      <lb ed="#P" n="10"/>Ps. 103. priusquam veniret Dei filius, non erat 
+      ho<lb ed="#P" n="11" break="no"/>minum Dominus, ne supra dictis, imo Catholicae 
+      fi<lb ed="#P" n="12" break="no"/>dei contrarium videatur, intelligendum est de 
+      Chri<lb ed="#P" n="13" break="no"/>sto secundum humanam naturam. Juxta quod ipse 
+      <lb ed="#P" n="14"/>ait Matt. 11. Omnia mihi tradita sunt a patre meo. Et 
+      <lb ed="#P" n="15"/>28. Data est mihi omnis potestas, &amp;c. &amp; quod de eo 
+      <lb ed="#P" n="16"/>dicitur Ps. 8. exponente Apostolo Heb. 2. Constituisti 
+      <lb ed="#P" n="17"/>cum super opera manuum tuarum; Et omnia subjecisti 
+      <lb ed="#P" n="18"/>sub pedibus ejus. 
+    </p>
+            <p xml:id="bt67yj-k34519-d1e347">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Jam ex dictis satis etiam apparet quid 
+      responden<lb ed="#P" n="20" break="no"/>dum ad quaestionem, utrum Deus ab aeterno rex 
+      fue<lb ed="#P" n="21" break="no"/>rit. Similis enim adhibenda est distinctio. Nec vero 
+      <lb ed="#P" n="22"/>regem ab aeterno fuisse convincunt hae scripturae Ps. 
+      <lb ed="#P" n="23"/>144. Regnum tuum, regnum omnium saeculorum. 1. 
+      <lb ed="#P" n="24"/>Timot. 1. Regi saeculorum immortali, &amp;c. Recte enim 
+      <lb ed="#P" n="25"/>utrobique intelliguntur saecula, id est, tempora 
+      crea<lb ed="#P" n="26" break="no"/>ta, praesertim cum in Psalmo subjungatur: Et 
+      domi<lb ed="#P" n="27" break="no"/>natio tua in generatione &amp; generatione. Quod palam 
+      <lb ed="#P" n="28"/>est ad mundi mutabilitatem &amp; temporum 
+      volubilita<lb ed="#P" n="29" break="no"/>tem pertinere. 
+    </p>
+            <p xml:id="bt67yj-k34519-d1e376">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Postremo quaeri de multis aliis potest, an Deo 
+      <lb ed="#P" n="31"/>competant ab aeterno, ut, fueritne ab aeterno 
+      mise<lb ed="#P" n="32" break="no"/>ricors, clemens, justus, remunerator, vindex, 
+      zelo<lb ed="#P" n="33" break="no"/>tes, gloriosus, laudabilis, &amp;c. Sed ad haec omnia 
+      pro<lb ed="#P" n="34" break="no"/>babilis responsio sumi potest ex iis quae vel hoc capit. 
+      <lb ed="#P" n="35"/>vel generaliter cap. praecedente dicta sunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="59"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k21889"><!-- l1d13c3" -->
+            <head xml:id="bt67yj-k21889-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k21889-Hd1e103" type="question-title">Utrum Spiritus sanctus ingenitus dici debeat</head>
+            <p xml:id="bt67yj-k21889-d1e106">
+               <lb ed="#P" n="38"/>§. 3. Utrum Spiritus sanctus ingenitus dici debeat. 
+    </p>
+            <p xml:id="bt67yj-k21889-d1e111">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> CUm sit ostensum Spiritum sanctum non esse 
+      ge<lb ed="#P" n="40" break="no"/>Cnitum, proxima quaestio est, num igitur 
+      inge<lb ed="#P" n="41" break="no"/>nitus dicendus sit. Hoc enim consequens videtur 
+      <lb ed="#P" n="42"/>argumento a contradicentibus. Ad quod 
+      respon<lb ed="#P" n="43" break="no"/>dentes, distinguendam esse dicimus variam 
+      ingeni<lb ed="#P" n="44" break="no"/>ti significationem. Uno enim modo, sicut 
+      geni<lb ed="#P" n="45" break="no"/>tum apud authores Graecos &amp; Latinos aliquando 
+      <lb ed="#P" n="46"/>significat idem quod factum: ita ingenitum idem 
+      <lb ed="#P" n="47"/>quod non factum, id est, non ab externo principio 
+      <lb ed="#P" n="48"/>productum. Qua significatione Deo essentialiter 
+      <lb ed="#P" n="49"/>competit esse ingenitum, quod proinde toti 
+      trini<lb ed="#P" n="50" break="no"/>tati commune est. Hoc sensu Lactantius lib. I. div. 
+      <lb ed="#P" n="51"/>inst. cap. 6. &amp; 7. approbat oraculum Sibyllae 
+      Ery<lb ed="#P" n="52" break="no"/>thraeae, in quo Deus ingenitus vocatur Graece ἀγένητος 
+      <lb ed="#P" n="53"/>quod ipse ἀπόιητον, id est non factum interpretatur 
+      <lb ed="#P" n="54"/>&amp; Gregorius Nazianzenus in oratione de filio. τ 
+      <lb ed="#P" n="55"/>ἀγέννητον ingenitum ut Deo proprium a creaturis 
+      re<lb ed="#P" n="56" break="no"/>movet: &amp; post eum Damascenus lib. I. cap. 8. 
+      in<lb ed="#P" n="57" break="no"/>genitum inter essentiales Dei proprietates recenset. 
+      <lb ed="#P" n="58"/>Cujus &amp; significationem cap. 9. distinguendo 
+      ex<lb ed="#P" n="59" break="no"/>plicat. Huc quoque pertinet quod Cyrillus lib. 10. 
+      <lb ed="#P" n="60"/>thes. cap. 1. &amp; 2. &amp; lib. 2. al. 3. Dialogorum cum 
+      <lb ed="#P" n="61"/>Hermia, affirmat filium quaecunque habet, a seipso 
+      <lb ed="#P" n="62"/>habere, videlicet extra positum principium ab eo 
+      <lb ed="#P" n="63"/>excludens. 
+    </p>
+            <p xml:id="bt67yj-k21889-d1e170">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Secundo juxta propriam geniti significationem, 
+      <lb ed="#P" n="65"/>accipi potest ingenitum, ut genito sic accepto 
+      con<lb ed="#P" n="66" break="no"/>tradictorie opponatur, idemque sit quod non 
+      ge<lb ed="#P" n="67" break="no"/>nitum. Hoc modo, cum inter tres personas solus 
+      <lb ed="#P" n="68"/>filius genitus sit, dicere licebit, non tantum patrem 
+      <lb ed="#P" n="69"/>ingenitum esse, sed etiam Spiritum sanctum, ut quem 
+      <lb ed="#P" n="70"/>constet esse non genitum. Atque in hunc sensum 
+      <!--0082.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>recte Magister in textu Hieronymum 
+      interpreta<lb ed="#P" n="72" break="no"/>tur in regulis definitionum contra haereticos 
+      di<lb ed="#P" n="73" break="no"/>centem: Spiritus sanctus pater non est; sed 
+      inge<lb ed="#P" n="74" break="no"/>nitus atque infectus. Idem enim illa sententia 
+      signi<lb ed="#P" n="75" break="no"/>ficatur, quod istis verbis in symbolo Athanasii: 
+      <lb ed="#P" n="76"/>Spiritus sanctus non factus nec genitus; tametsi apud 
+      <lb ed="#P" n="77"/>Hieronymum, nullus eo titulo liber extat, nec 
+      <lb ed="#P" n="78"/>omnino verba a Magistro recitata apud eum 
+      repe<lb ed="#P" n="79" break="no"/>riuntur. 
+    </p>
+            <p xml:id="bt67yj-k21889-d1e215">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Tertio, ingenitum, usurpatione patrum &amp; 
+      conci<lb ed="#P" n="81" break="no"/>liorum accipitur, pro eo quod absolute a nullo 
+      origi<lb ed="#P" n="82" break="no"/>nem habet; ut ingenitum sit idem quod 
+      improces<lb ed="#P" n="83" break="no"/>sibile, id est, principio seu origine carens. Quod 
+      <lb ed="#P" n="84"/>Hilarius vocat innascibile. Hac ingeniti acceptione, 
+      <lb ed="#P" n="85"/>non filius, non Spiritus sanctus, sed solus pater 
+      inge<lb ed="#P" n="86" break="no"/>nitus est. Sic loquitur &amp; definit contra Photinum 
+      <lb ed="#P" n="87"/>haereticum synodus Syrmiensis anathematismo 19. 
+      <lb ed="#P" n="88"/>Cujus declarationem videre est apud Hilarium 
+      li<lb ed="#P" n="89" break="no"/>bro de synodis. Sic loquitur idem Hilarius libro 4. 
+      <lb ed="#P" n="90"/>de Trinit. Item Athanasius libro scripto contra 
+      Eu<lb ed="#P" n="91" break="no"/>sebium Nicomediensem, Basilius hom. 28. contra 
+      <lb ed="#P" n="92"/>Sabellianos, Augustinus lib. 15. de trinit. cap. 26. &amp; 
+      <lb ed="#P" n="93"/>dialogo ipsi ascripto quaestionum 65. q. 2. Cyrillus 
+      <lb ed="#P" n="94"/>lib. 1. thes. cap. 1. &amp; lib. 11. cap. unico, ubi tamen 
+      <lb ed="#P" n="95"/>inter Graecas voces, primae &amp; tertiae acceptionis, 
+      tan<lb ed="#P" n="96" break="no"/>quam diversas distinguit. Item Damascenus lib. 1. 
+      <lb ed="#P" n="97"/>Orth. fidei cap. 8. &amp; 10. Amplius autem hoc ipsum 
+      <lb ed="#P" n="98"/>confirmat Romanum symbolum insertum concilio 
+      <lb ed="#P" n="99"/>Chalcedonensi, Damasi symbolum inter opera 
+      Hie<lb ed="#P" n="100" break="no"/>ronymi, &amp; symbolum Gregorii primi, quod in ejus 
+      <lb ed="#P" n="101"/>vita habet Joannes Diaconus lib. 2. circa initium. 
+      <lb ed="#P" n="102"/>Denique concilium Toletanum in art. 1. In quibus 
+      <lb ed="#P" n="103"/>fidei formulis confitentur Patres Spiritum sanctum 
+      <lb ed="#P" n="104"/>nec genitum esse, nec ingenitum. Quocirca, juxta 
+      <lb ed="#P" n="105"/>Patrum definitiones, simpliciter negandum est, 
+      Spi<lb ed="#P" n="106" break="no"/>ritum sanctum ingenitum esse, praesertim cum apud 
+      <lb ed="#P" n="107"/>eos, nusquam scriptum reperiatur Spiritum sanctum 
+      <lb ed="#P" n="108"/>dici ingenitum. Nam de Hieronymi loco, qui apud 
+      <lb ed="#P" n="109"/>Magistrum est, jam diximus. Verum de his adhuc 
+      <lb ed="#P" n="110"/>sermo recurret ad distinct. 28. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

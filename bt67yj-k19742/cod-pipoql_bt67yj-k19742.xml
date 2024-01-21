@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="53"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k19742"><!-- l1d11c4" -->
+            <head xml:id="bt67yj-k19742-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k19742-Hd1e103" type="question-title">Respondetur ad argumenta Graecorum</head>
+            <p xml:id="bt67yj-k19742-d1e106">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> §. 4. Respondetur ad argumenta Graecorum.
+    </p>
+            <p xml:id="bt67yj-k19742-d1e113">
+               <lb ed="#P" n="52"/>GRaecos in quaestione de spiritus sancti ex filio 
+      <lb ed="#P" n="53"/>processione, non verbis modo, quod 
+      Magi<lb ed="#P" n="54" break="no"/>ster putare videtur, sed sensu plane discrepare a 
+      La<lb ed="#P" n="55" break="no"/>tinis satis probat tot saeculorum schisma, quo ab 
+      <lb ed="#P" n="56"/>Ecclesia Romana propter hunc maxime articulum 
+      <lb ed="#P" n="57"/>divulsi fuerunt. Evidentius autem probant scripta 
+      <lb ed="#P" n="58"/>eorum &amp; disputationes acerrimae atque operosissimae 
+      <lb ed="#P" n="59"/>cum Latinis habitae. Quamvis enim faterentur 
+      spi<lb ed="#P" n="60" break="no"/>ritum sanctum esse filii, qui hoc scriptura diserte 
+      <lb ed="#P" n="61"/>testatur, negaverunt tamen eum vel esse, vel 
+      pro<lb ed="#P" n="62" break="no"/>cedere, vel originem habere quocunque modo ex 
+      <lb ed="#P" n="63"/>filio. Quod haud dubie Catholico sensui contrarium 
+      <lb ed="#P" n="64"/>est. Utuntur autem his argumentis. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e144">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Primo, quia nulla scriptura dicit spiritum sanctum 
+      <lb ed="#P" n="66"/>a filio procedere, sed sicubi processionis ejus meminit 
+      <lb ed="#P" n="67"/>ut Joannis 15. Patrem solum nominat. Verum ad 
+      <lb ed="#P" n="68"/>hoc facilis est responsio, tum quia non omnia fidei 
+      <lb ed="#P" n="69"/>mysteria sacris litteris sunt comprehensa. Sunt enim 
+      <lb ed="#P" n="70"/>quaedam traditiones non scriptae parem vim 
+      autho<lb ed="#P" n="71" break="no"/>ritatis, cum iis quae scriptae sunt, habentes, ut prae¬ 
+      <!--0076.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>clare scripsit ille Graecorum Theologorum 
+      doctis<lb ed="#P" n="73" break="no"/>simus Basilius lib. de spiritu sancto cap. 27. Deinde 
+      <lb ed="#P" n="74"/>quia falsum est hoc de quo agitur, sacris litteris non 
+      <lb ed="#P" n="75"/>contineri; quemadmodum patet ex scripturis supra 
+      <lb ed="#P" n="76"/>in testimonium adductis, nisi forte dicant ideo non 
+      <lb ed="#P" n="77"/>haberi in scripturis, quia ibi non habentur expresse 
+      <lb ed="#P" n="78"/>haec verba, spiritum sanctum procedere ex filio. At 
+      <lb ed="#P" n="79"/>hoc modo nec ibi legitur Deum esse trinum in 
+      perso<lb ed="#P" n="80" break="no"/>nis, nec legitur filium &amp; spiritum sanctum esse patri 
+      <lb ed="#P" n="81"/>ὁμοούσιους, id est, consubstantiales. Quae tamen Graeci 
+      <lb ed="#P" n="82"/>nobiscum certissime credunt. Denique quia hoc 
+      ip<lb ed="#P" n="83" break="no"/>sum quod a patre procedere dicitur spiritus sanctus, 
+      <lb ed="#P" n="84"/>convincit eundem procedere a filio. Non enim 
+      pro<lb ed="#P" n="85" break="no"/>cedit a patre ut pater est; sic enim esset filius ejus, 
+      <lb ed="#P" n="86"/>quia pater ut pater non refertur nisi ad filium: 
+      Pro<lb ed="#P" n="87" break="no"/>cedit ergo a patre secundum quod indistinctus est 
+      pa<lb ed="#P" n="88" break="no"/>ter a filio; &amp; proinde procedit etiam a filio, juxta 
+      il<lb ed="#P" n="89" break="no"/>lud quod filius ipse de spiritus sancti processione 
+      lo<lb ed="#P" n="90" break="no"/>quens dicit Joan. 16. Omnia quae habet pater mea 
+      <lb ed="#P" n="91"/>sunt. Porro mirum videri non debet, quod Christus 
+      <lb ed="#P" n="92"/>Joan. 15. suo nomine tacito solum patrem 
+      nomina<lb ed="#P" n="93" break="no"/>verit, dicens: Qui a patre procedit. Solet enim filius 
+      <lb ed="#P" n="94"/>omnia sua patri accepta referre, a quo habet etiam 
+      <lb ed="#P" n="95"/>hoc ipsum quod est; ut docet Augustinus lib. 15. de 
+      <lb ed="#P" n="96"/>trinit. c. 27. &amp; tract. 99. in Joan. de hac ipsa 
+      quae<lb ed="#P" n="97" break="no"/>stione prolixe disserens &amp; difficultatem jam 
+      proposi<lb ed="#P" n="98" break="no"/>tam solvens. Qui &amp; lib. 3. contra Maximinum cap. 
+      <lb ed="#P" n="99"/>14. dicit ideo nominari solum patrem, non ut filius 
+      <lb ed="#P" n="100"/>excludatur, sed quia pater est principalis author 
+      spi<lb ed="#P" n="101" break="no"/>ritus sancti, a quo nimirum filius habet ut spiret sicut 
+      <lb ed="#P" n="102"/>&amp; caetera omnia. Unde alibi filius ait: Mea doctrina 
+      <lb ed="#P" n="103"/>non est mea, sed ejus qui misitme patris. Item, Pater 
+      <lb ed="#P" n="104"/>in me manens, ipse facit opera. Et alio loco: Sermo 
+      <lb ed="#P" n="105"/>quem audistis, non est meus, sed ejus qui misit me 
+      pa<lb ed="#P" n="106" break="no"/>tris. Quoniam enim essentiam filius accepit a patre, 
+      <lb ed="#P" n="107"/>nihil reliquum est quod non a patre haberet. Quod 
+      <lb ed="#P" n="108"/>proinde totum ut filium decebat, ad patrem 
+      autho<lb ed="#P" n="109" break="no"/>rem retulit. Quanquam in eadem sententia, qua 
+      <lb ed="#P" n="110"/>spiritum sanctum ex patre procedentem dixit, non 
+      <lb ed="#P" n="111"/>omnino seipsum tacuit. Hoc enim jam dixerat. 
+      <lb ed="#P" n="112"/>Quem ego mittam vobis a patre. Quin vero etiamsi 
+      <lb ed="#P" n="113"/>dixisset Spiritum sanctum a solo patre procedere, 
+      <lb ed="#P" n="114"/>non continuo intelligendus esset seipsum exclusisse. 
+      <lb ed="#P" n="115"/>Nam &amp; Matth. 1I. dixit: Nemo novit filium nisi 
+      pa<lb ed="#P" n="116" break="no"/>ter. Quod tale est ac si dixisset, Solus pater novit 
+      fi<lb ed="#P" n="117" break="no"/>lium; ubi tamen a filii cognitione, neque Spiritus 
+      <lb ed="#P" n="118"/>sanctus, neque filius ipse excluditur, ut infra 
+      decla<lb ed="#P" n="119" break="no"/>rabitur ad distinctionem 21. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e273">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Secundum argumentum petunt ex symbolo 
+      Con<lb ed="#P" n="121" break="no"/>stantinopolitano, quod cum studiose a patribus pro 
+      <lb ed="#P" n="122"/>explicatione fidei conditum fuerit, solus tamen 
+      pa<lb ed="#P" n="123" break="no"/>ter ibi nominatus est his verbis: Qui a patre procedit. 
+      <lb ed="#P" n="124"/>Unde consequens esse volunt patrum illius concilii 
+      <lb ed="#P" n="125"/>sententiam fuisse, Spiritum sanctum a solo patre 
+      <lb ed="#P" n="126"/>non autem a filio procedere. Repondeo, cur patres 
+      <lb ed="#P" n="127"/>illi symbolo non addiderint, ex Filio, sed satis 
+      ha<lb ed="#P" n="128" break="no"/>buerint dicere qui ex patre procedit, rationem hanc 
+      <lb ed="#P" n="129"/>esse, quia illo tempore non vocabatur in 
+      quaestio<lb ed="#P" n="130" break="no"/>nem an Spiritus sanctus ex filio procederet. Hoc 
+      <lb ed="#P" n="131"/>enim etiam haeretici Spiritus sancti divinitatem 
+      op<lb ed="#P" n="132" break="no"/>pugnantes, verum esse fatebantur, ut patet ex 
+      Ba<lb ed="#P" n="133" break="no"/>silio lib. 2. contra Eunomium. Sed utrum ex patre 
+      <lb ed="#P" n="134"/>procederet, in dubium vocabat Eunomius; imo 
+      <lb ed="#P" n="135"/>simpliciter negabat, dicens Spiritum sanctum a 
+      pa<lb ed="#P" n="136" break="no"/>tre omnino alienum esse tanquam solius filii 
+      creatu<lb ed="#P" n="137" break="no"/>ram. Hoc ergo, de quo solo nunc quaestio 
+      verte<lb ed="#P" n="138" break="no"/>batur, in symbolo posuisse, satis pro tempore 
+      vi<lb ed="#P" n="139" break="no"/>sum est illius concilii patribus. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e321">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Tertium. In passione S. Andreae apostoli scripta per 
+      <lb ed="#P" n="141"/>presbyteros &amp; diaconos Eccles. Achaiae dicitur sub 
+      <lb ed="#P" n="142"/>initium: Pax omnibus qui credunt patrem &amp; filium 
+      <lb ed="#P" n="143"/>&amp; spiritum sanctum procedentem ex patre in filio 
+      per<lb ed="#P" n="144" break="no"/>manentem, ut ostendatur vivis spiritus esse in patre 
+      <lb ed="#P" n="145"/>&amp; filio: Atquinihil procedit ab eo in quo permanet 
+      <!--0077.xml-->
+      <pb ed="#P" n="54"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>&amp; quiescit. Ergo Spiritus sanctus non procedit a filio. 
+      <lb ed="#P" n="2"/>Ad quod responderi potest cum S. Thoma, per hoc 
+      <lb ed="#P" n="3"/>quod dicitur Spiritus sanctus permanere in filio, non 
+      <lb ed="#P" n="4"/>excludit quin ab eo procedat; quia &amp; filius in patre 
+      <lb ed="#P" n="5"/>manere dicitur Joan. 6. 14. &amp; 15. qui tamen a patre 
+      <lb ed="#P" n="6"/>procedit. Quin &amp; Spiritum sanctum in patre 
+      perma<lb ed="#P" n="7" break="no"/>nere non est negandum, licet a patre procedat. Non 
+      <lb ed="#P" n="8"/>enim ita procedit a patre &amp; filio, ut ab illis recedat. 
+      <lb ed="#P" n="9"/>Unde additum est ut ostendatur unus spiritus esse in 
+      <lb ed="#P" n="10"/>patre &amp; filio. Recte etiam intelligitur hoc dictum de 
+      <lb ed="#P" n="11"/>filio secundum humanam naturam, propter id quod 
+      <lb ed="#P" n="12"/>scriptum est Joan. 1. &amp; Marci 1. Spiritum sanctum 
+      <lb ed="#P" n="13"/>corporali specie descendisse &amp; mansisse super eum, &amp; 
+      <lb ed="#P" n="14"/>Isa. 11. Requiescet super eum spiritus Domini. 
+      Verum<lb ed="#P" n="15" break="no"/>tamen sciendum in aliquibus exemplaribus 
+      manu<lb ed="#P" n="16" break="no"/>scriptis &amp; nonnullis impressis, non haberi ea verba, 
+      <lb ed="#P" n="17"/>a patre procedentem &amp; in filio permanentem, ut 
+      <lb ed="#P" n="18"/>suspicio sit non improbabilis haec a Graecis 
+      posterio<lb ed="#P" n="19" break="no"/>ribus addita esse 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e386">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Quartum, In concilio Ephesino publice lectum est 
+      <lb ed="#P" n="21"/>symbolum Nestorianum, una cum libro Theodoreti 
+      <lb ed="#P" n="22"/>scripto contra anathematismos Cyrilli. In utroque 
+      <lb ed="#P" n="23"/>autem negatur Spiritum sanctum procedere a filio: 
+      <lb ed="#P" n="24"/>Cum ergo illius concilii patres, non legantur 
+      hujus<lb ed="#P" n="25" break="no"/>modi doctrinae contradixisse, videntur eam 
+      approbas<lb ed="#P" n="26" break="no"/>se. Primo respondeo non constare quod patres non 
+      <lb ed="#P" n="27"/>contradixerint. Neque enim omnia quae in conciliis 
+      <lb ed="#P" n="28"/>gesta sunt, scripta habentur. Deinde lectam quoque 
+      <lb ed="#P" n="29"/>ibidem fuisse epistolam Cyrilli cum anathematismis 
+      <lb ed="#P" n="30"/>ad Nostorium, in qua bis legitur Spiritum sanctum a 
+      <lb ed="#P" n="31"/>filio habere suum esse. Cui adco patres non 
+      contradi<lb ed="#P" n="32" break="no"/>xerunt, ut etiam magno consensu non epistolam 
+      mo<lb ed="#P" n="33" break="no"/>do, sed totam Cyrilli contra Nestorianos doctrinam 
+      <lb ed="#P" n="34"/>probaverint, damnatis iis quae contra illum 
+      Theo<lb ed="#P" n="35" break="no"/>doretus scripserat. Quod &amp; fecerunt aliquot synodi 
+      <lb ed="#P" n="36"/>sequentes. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e428">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Quintum, Dionys. cap. 2. de divinis nominibus 
+      <lb ed="#P" n="38"/>solum patrem dicit esse fontem deitatis. Ergo solus 
+      <lb ed="#P" n="39"/>pater est a quo deitatem accipit ut filius, ita Spiritus 
+      <lb ed="#P" n="40"/>sanctus. Respondetur patrem solum recte dici fontem 
+      <lb ed="#P" n="41"/>deitatis, quia instar fontis qui praebet aquam non 
+      <lb ed="#P" n="42"/>aliunde acceptam, pater divinam naturam aliis 
+      per<lb ed="#P" n="43" break="no"/>sonis communicat, quam non ab alia accepit. Nam 
+      <lb ed="#P" n="44"/>alioqui si in fonte tantum consideres hoc quod est: 
+      <lb ed="#P" n="45"/>aquam de se emittere, sive eam aliunde habeat, sive 
+      <lb ed="#P" n="46"/>non, isto modo filius quoque fons deitatis dici 
+      po<lb ed="#P" n="47" break="no"/>test; quomodo dixit Epiphanius haer. 69. filium 
+      fon<lb ed="#P" n="48" break="no"/>tem de fonte, sicut Deum de Deo. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e459">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Sextum, Basilius epist. 43. propriam notionem 
+      <lb ed="#P" n="50"/>Spiritus sancti esse dicit, quod per filium &amp; cum filio 
+      <lb ed="#P" n="51"/>cognoscatur, &amp; ex patre subsistentiam habeat. Quae 
+      <lb ed="#P" n="52"/>distincta locutio exigere videtur Spiritum sanctum 
+      <lb ed="#P" n="53"/>ita ex patre subsistentiam habere, ut non ex filio. 
+      Re<lb ed="#P" n="54" break="no"/>spondetur Spiritum sanctum ex sententia Basilii 
+      co<lb ed="#P" n="55" break="no"/>gnosci per filium tanquam spiratorem; quomodo 
+      fi<lb ed="#P" n="56" break="no"/>lius cognoscitur per patrem tanquam patrem seu 
+      ge<lb ed="#P" n="57" break="no"/>nitorem, ac proinde prioribus verbis significari quod 
+      <lb ed="#P" n="58"/>spiritus a filio procedat. Nec repugnant verba 
+      poste<lb ed="#P" n="59" break="no"/>riora, ut quae non aliud significent quam Spiritum 
+      <lb ed="#P" n="60"/>sanctum subsistere ex patre solo tanquam authore 
+      <lb ed="#P" n="61"/>principali, ut loquitur Augustinus lib. 3. contra 
+      <lb ed="#P" n="62"/>Maxim. cap. 14 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e494">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Septimum, Greg. Nazianzenus in oratione ad 
+      <lb ed="#P" n="64"/>Episcopos Aegypti: Omnia, inquit, quae habet pater, 
+      <lb ed="#P" n="65"/>habet etiam filius, excepta causalitate. Ergo filio 
+      pa<lb ed="#P" n="66" break="no"/>ter non communicat esse causam Spiritus sancti. 
+      Re<lb ed="#P" n="67" break="no"/>spondetur a Gregorio, intelligi causalitatem eam 
+      <lb ed="#P" n="68"/>quam pater habet ad filium, id est, generationem 
+      <lb ed="#P" n="69"/>activam. Tantum enim comparat patrem &amp; filium 
+      <lb ed="#P" n="70"/>inter se. Vel certe causalitatem intelligit, qua quid 
+      <lb ed="#P" n="71"/>est principium primum, id est, principium sine 
+      princi<lb ed="#P" n="72" break="no"/>pio. Neque enim omnem causalitatem removit a 
+      fi<lb ed="#P" n="73" break="no"/>lio, quem constat omnis creaturae causam esse una 
+      <lb ed="#P" n="74"/>cum patre &amp; Spiritu sancto.
+    </p>
+            <p xml:id="bt67yj-k19742-d1e526">
+      <!--0077.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/>Octavum, Joannes Damascenus lib. 1. de fide 
+      <lb ed="#P" n="76"/>Orth. cap. 11. Spiritum sanctum, inquit, &amp; ex patre 
+      <lb ed="#P" n="77"/>&amp; spiritum patris nominamus. Ex filio autem 
+      spiri<lb ed="#P" n="78" break="no"/>tum sanctum non dicimus, sed spiritum filii 
+      nomina<lb ed="#P" n="79" break="no"/>mus. Respondet S. Thomas in disputatis de potentia 
+      <lb ed="#P" n="80"/>q. 10. art. 4. non esse standum sententiae Damasceni, 
+      <lb ed="#P" n="81"/>quia secutus fuerit errorem Graecorum haustum a 
+      <lb ed="#P" n="82"/>Theodoreto. Idem respondet in summa 1. q. 36. art. 2. 
+      <lb ed="#P" n="83"/>ad 3. addens tamen &amp; aliam quorundam 
+      responsio<lb ed="#P" n="84" break="no"/>nem, quod Damascenus, sicut non confitetur Spiritum 
+      <lb ed="#P" n="85"/>sanctum esse a filio, ita etiam non negat ex vi illorum 
+      <lb ed="#P" n="86"/>verborum. Videtur enim Damascenus non tam rem 
+      <lb ed="#P" n="87"/>ipsam negare, quam modum loquendi subterfugere, 
+      <lb ed="#P" n="88"/>videlicet propter haeresim Macedonii &amp; Eunomii 
+      <lb ed="#P" n="89"/>qui ex filio tanquam prima &amp; sola causa processisse 
+      <lb ed="#P" n="90"/>Spiritum sanctum dicebant, a patre eum alienantes. 
+      <lb ed="#P" n="91"/>Nam suam alioqui de reipsa sententiam satis ibidem 
+      <lb ed="#P" n="92"/>insinuat Damascenus, cum dicit Spiritum sanctum per 
+      <lb ed="#P" n="93"/>filium nobis traditum esse juxta illud Joan. 20. 
+      insuf<lb ed="#P" n="94" break="no"/>flavit in eos dicens: Accipite Spiritum sanctum, 
+      cum<lb ed="#P" n="95" break="no"/>que subjungit comparationem de sele, radio &amp; 
+      splen<lb ed="#P" n="96" break="no"/>dore qui per radium nobis tribuitur. Magis autem 
+      in<lb ed="#P" n="97" break="no"/>dicat hoc ipsum cap. 18. dicens imagnem patris esse 
+      <lb ed="#P" n="98"/>filium, &amp; filii Spiritum sanctum, atque hunc per 
+      fi<lb ed="#P" n="99" break="no"/>lium patri esse conjunctum. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e589">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Nonum, Theophilactus super illud Joan. 3. Qui 
+      <lb ed="#P" n="101"/>desursum est, super omnes est. Latini, inquit, male 
+      <lb ed="#P" n="102"/>haec exponentes, &amp; minus recte intelligentes dicunt, 
+      <lb ed="#P" n="103"/>quod spiritus etiam ex filio procedat. Sed 
+      responde<lb ed="#P" n="104" break="no"/>tur Theophylactum vixisse nata jam controversia 
+      <lb ed="#P" n="105"/>de processione de Spiritus sancti ex filio inter Graecos 
+      <lb ed="#P" n="106"/>&amp; Latinos; ideoque ejus &amp; aliorum Ciaecorum, qui 
+      <lb ed="#P" n="107"/>eodem tempore vixerunt, authoritatem hac in 
+      par<lb ed="#P" n="108" break="no"/>te, merito a Latinis reprobari. Quamvis enim 
+      qui<lb ed="#P" n="109" break="no"/>dam eorum docti fuerint ac celebres, communi 
+      ta<lb ed="#P" n="110" break="no"/>men illo suae gentis errore tenebantur impliciti. 
+      <lb ed="#P" n="111"/>Verum quia non statim facta fuit ob hanc causam 
+      <lb ed="#P" n="112"/>aperta divisio Graecorum ab Ecclesia Romana, 
+      ne<lb ed="#P" n="113" break="no"/>que determinata quaestio per concilium generale, 
+      <lb ed="#P" n="114"/>fit ut ab haeresi pariter &amp; schismate videantur 
+      ex<lb ed="#P" n="115" break="no"/>cusandi; quomodo excusari non possunt, qui 
+      post<lb ed="#P" n="116" break="no"/>modum secuti, in errore perstiterunt, inter quos 
+      Ni<lb ed="#P" n="117" break="no"/>cephorus Callistus, ut videre est in praefatione 
+      histo<lb ed="#P" n="118" break="no"/>riae hujus Ecclesiasticae, &amp; alii permulti usque in 
+      <lb ed="#P" n="119"/>hodiernum diem 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e637">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Decimum argumentum, quo impugnatur prima 
+      <lb ed="#P" n="121"/>ratio superius adducta, tale est. In divinis realiter 
+      <lb ed="#P" n="122"/>distinguuntur paternitas &amp; spiratio passiva, nec 
+      ta<lb ed="#P" n="123" break="no"/>men sunt relationes oppositae; non ergo solae 
+      rela<lb ed="#P" n="124" break="no"/>tiones oppositae in Deo distinguuntur realiter; 
+      idem<lb ed="#P" n="125" break="no"/>que judicium de filiatione &amp; spiratione passiva, &amp; 
+      <lb ed="#P" n="126"/>proinde per has relationes sufficienter inter se 
+      distin<lb ed="#P" n="127" break="no"/>guentur filius &amp; Spiritus sanctus, ut non sit necesse 
+      <lb ed="#P" n="128"/>distinctionem eorum realem petere ab oppositis 
+      <lb ed="#P" n="129"/>relationibus, quae consequuntur originationem 
+      u<lb ed="#P" n="130" break="no"/>nius ab altero. Ad hoc varie a diversis 
+      responde<lb ed="#P" n="131" break="no"/>tur; Sed optima responsio videtur, si dicemus quod 
+      <lb ed="#P" n="132"/>etsi paternitas spirationi passivae non opponatur, 
+      <lb ed="#P" n="133"/>distinguitur tamen ab ea ratione alicujus oppositae 
+      <lb ed="#P" n="134"/>relationis. Non tantum enim distinguuntur 
+      reali<lb ed="#P" n="135" break="no"/>ter in divinis ipsae relationes oppositae, sed propter 
+      <lb ed="#P" n="136"/>eas etiam ipsa supposita relativa, quae sunt 
+      perso<lb ed="#P" n="137" break="no"/>nae subsistentes; &amp; ita consequenter distinguuntur 
+      <lb ed="#P" n="138"/>etiam proprietates earundem personarum 
+      constitu<lb ed="#P" n="139" break="no"/>tivae. Quoniam ergo relationes oppositae sunt 
+      spi<lb ed="#P" n="140" break="no"/>ratio activa &amp; passiva, quae proinde realiter 
+      distin<lb ed="#P" n="141" break="no"/>guuntur, consequens inde est non modo supposita 
+      <lb ed="#P" n="142"/>relativa, nempe personarum spirantem &amp; spiratam 
+      <lb ed="#P" n="143"/>realiter distingui, verum etiam proprietates 
+      utrius<lb ed="#P" n="144" break="no"/>que personae constitutivas: Atqui spirantem 
+      perso<lb ed="#P" n="145" break="no"/>nam constituit paternitas, quare paternitatem 
+      neces<lb ed="#P" n="146" break="no"/>se est consequenter a spiratione passiva distinctam 
+      <lb ed="#P" n="147"/>esse realiter. Ratio tamen distinctionis semper 
+      pe<lb ed="#P" n="148" break="no"/>tenda est ab oppositione relativa, qua sublata tol¬ 
+      <!--0078.xml-->
+      <pb ed="#P" n="55"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>letur etiam distinctio. Quocirca si non esset inter 
+      fi<lb ed="#P" n="2" break="no"/>lium &amp; spiritum sanctum oppositio relativa, 
+      nimi<lb ed="#P" n="3" break="no"/>rum per hoc quod alter ab altero procedit, nec 
+      perso<lb ed="#P" n="4" break="no"/>nae, nec earum proprietates, quae sunt filiatio &amp; 
+      spi<lb ed="#P" n="5" break="no"/>ratio passiva, distinguerentur. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e722">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Undecimum, contra eandem rationem. Spiritus 
+      <lb ed="#P" n="7"/>sanctus a filio sufficienter distinguitur, per hoc quod 
+      <lb ed="#P" n="8"/>alter gignitur, alter spiratur, qui sunt duo modi 
+      pro<lb ed="#P" n="9" break="no"/>ductionis incompossibiles. Quod &amp; probatur 
+      testi<lb ed="#P" n="10" break="no"/>monio Anselmi qui cap. I. de processione spiritus 
+      san<lb ed="#P" n="11" break="no"/>cti dicit filium &amp; spiritum sanctum per hoc esse alios 
+      <lb ed="#P" n="12"/>ab invicem, quia diverso modo habent esse a patre; 
+      <lb ed="#P" n="13"/>scilicet alter nascendo, alter procedendo. Nam, 
+      in<lb ed="#P" n="14" break="no"/>quit, si per aliud non essent plures, per hoc solum essent 
+      <lb ed="#P" n="15"/>diversi: ergo ad inveniendam horum distinctionem, 
+      <lb ed="#P" n="16"/>non est necesse confugere ad relationes oppositas. 
+      <lb ed="#P" n="17"/>Respondetur cum eodem Anselmo ibid. &amp; cum S. 
+      <lb ed="#P" n="18"/>Thoma in summa ubi supra, duos illos 
+      productio<lb ed="#P" n="19" break="no"/>nis modos, non esse distinctos realiter, nisi propter 
+      re<lb ed="#P" n="20" break="no"/>lationes oppositas, a quibus neccssario petenda est 
+      <lb ed="#P" n="21"/>omnis distinctio realis in divinis, ut jam dictum est, 
+      <lb ed="#P" n="22"/>quia teste eodem Anselmo: in Deo omnia sunt unum, 
+      <lb ed="#P" n="23"/>ubi non obviat relationis oppositio. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e766">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Duodecimum, quod est Theophil. Spiritus sanctus 
+      <lb ed="#P" n="25"/>unus est, ergo ab uno principio una spiratione 
+      proce<lb ed="#P" n="26" break="no"/>dit. Respondetur hoc verum esse, nec tamen ulterius 
+      <lb ed="#P" n="27"/>consequi, quod non procedat a patre &amp; filio; quia 
+      <lb ed="#P" n="28"/>pater &amp; filius unum sunt principium spiritus sancti, 
+      <lb ed="#P" n="29"/>eumque una spiratione producunt, ut proxima 
+      distin<lb ed="#P" n="30" break="no"/>ctione docebitur. Similiter omnes tres personae unum 
+      <lb ed="#P" n="31"/>sunt principium totius creaturae, neque ex eo quia 
+      pa<lb ed="#P" n="32" break="no"/>ter est creaturae principium, recte collegeris idem 
+      <lb ed="#P" n="33"/>principium non esse filium &amp; spiritum sanctum. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e792">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Decimumtertium: Spiritus sanctus sufficienter &amp; 
+      <lb ed="#P" n="35"/>perfectissime procedit a patre: Frustra ergo ad ejus 
+      <lb ed="#P" n="36"/>productionem adjungitur patri filius. Respondetur. 
+      <lb ed="#P" n="37"/>adjungi filium non propter insufficientiam patris, sed 
+      <lb ed="#P" n="38"/>quia filius habet omnia quae pater. Unde nec frustra 
+      <lb ed="#P" n="39"/>producuntur creaturae tribus personis, fit enim hoc 
+      <lb ed="#P" n="40"/>propter communem omnibus tribus essentiam atque 
+      <lb ed="#P" n="41"/>potentiam. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e815">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Decimumquartum: Esse principium spiritus sancti, 
+      <lb ed="#P" n="43"/>filio competit aut ratione personae, aut naturae. Sed 
+      <lb ed="#P" n="44"/>neutrum dici potest; Non naturae, quia sic etiam 
+      com<lb ed="#P" n="45" break="no"/>peteret spiritui sancto, quippe cum natura tribus sit 
+      <lb ed="#P" n="46"/>communis: At neque ratione personae, quia sic ei soli 
+      <lb ed="#P" n="47"/>competeret. Respondendum neutro modo 
+      compete<lb ed="#P" n="48" break="no"/>re hoc filio, sicut nec patri. Nam pater, ut pater 
+      tan<lb ed="#P" n="49" break="no"/>tum est principium filii; filius autem ut filius non est 
+      <lb ed="#P" n="50"/>principium alicujus, sed principiatum respectu 
+      pa<lb ed="#P" n="51" break="no"/>tris. Competit autem utrique esse principium 
+      spiri<lb ed="#P" n="52" break="no"/>tus sancti ratione actus cujusdam notionalis, qui est 
+      <lb ed="#P" n="53"/>activa spiratio. Qui quidem actus duobus est 
+      com<lb ed="#P" n="54" break="no"/>munis, ideóque personam non constituit, uti 
+      ple<lb ed="#P" n="55" break="no"/>nius explicandum ad distinctionem 26. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e850">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Postrema Graecorum objectio, quae non tam 
+      <lb ed="#P" n="57"/>contra doctrinam Latinorum est, quam contra 
+      ad<lb ed="#P" n="58" break="no"/>ditionem symbolo factam a Latinis. Nam ut parte 
+      <lb ed="#P" n="59"/>Graecorum sibi objicit Magister, in principalibus 
+      <lb ed="#P" n="60"/>conciliis ac nominatim in Ephesino, ita symbola 
+      eo<lb ed="#P" n="61" break="no"/>rum subjunctis anathematibus sancita sunt, ut 
+      nemi<lb ed="#P" n="62" break="no"/>ni de trinitatis fide aliud docere, vel aliter 
+      praedica<lb ed="#P" n="63" break="no"/>re, quam ibi continetur, liceat. In quibus quidem 
+      <lb ed="#P" n="64"/>symbolis cum tantum dictum sit spiritum sanctum 
+      <lb ed="#P" n="65"/>procedere a filio, quicunque symbolo addunt eum 
+      <lb ed="#P" n="66"/>procedere a filio, anathema videntur incurrere. Huic 
+      <lb ed="#P" n="67"/>objectioni primum respondeamus, Ecclesiam sine 
+      <lb ed="#P" n="68"/>dubio potestatem habere aliquid addandi symbolis 
+      <lb ed="#P" n="69"/>a se compositis; nec si id faciat ulli anathemati fieri 
+      <lb ed="#P" n="70"/>obnoxiam. Deinde justa ratione motos fuisse 
+      Lati<lb ed="#P" n="71" break="no"/>nos, ut additionem illam, filioque, ad symbolum 
+      fa<lb ed="#P" n="72" break="no"/>cerent. Mota enim controversia exigebat, ut 
+      doctri<lb ed="#P" n="73" break="no"/>na Catholica explicaretur. Quod quidem unius 
+      vo<lb ed="#P" n="74" break="no"/>culae ad symbolum adjectione commodissime factum 
+      <!--0078.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>est. Neque vero hinc sequitur Latinos aliud quam 
+      <lb ed="#P" n="76"/>in symbolo continetur, docuisse, secundum mentem 
+      <lb ed="#P" n="77"/>concilii id sub anathemate prohibentis. Non enim 
+      <lb ed="#P" n="78"/>aliter intelligi debet anathema concilii, quam 
+      Apo<lb ed="#P" n="79" break="no"/>stoli Gal. 1. dicentis: Si quis vobis evangelizaverit 
+      <lb ed="#P" n="80"/>praeter id quod accepistis, anathema sit. Nam ut 
+      Au<lb ed="#P" n="81" break="no"/>gustinus eandem doctrinam exponens tract. 98. in 
+      <lb ed="#P" n="82"/>Joan. ait: Qui supplet, quod minus erat, addit, non 
+      <lb ed="#P" n="83"/>quod inerat tollit. Aliud ergo non quomodocunque 
+      <lb ed="#P" n="84"/>diversum, sed pugnans &amp; contrarium intelligitur. 
+      <lb ed="#P" n="85"/>Probatur autem hoc etiam ipsorum conciliorum 
+      <lb ed="#P" n="86"/>exemplo. Constat enim posteriora concilia fere 
+      sem<lb ed="#P" n="87" break="no"/>per aliquid decretis priorum addidisse, nec non 
+      sym<lb ed="#P" n="88" break="no"/>bola edidisse, qua plus aliquid quam priora 
+      contine<lb ed="#P" n="89" break="no"/>rent. Pauciora enim continet symbolum 
+      Apostoli<lb ed="#P" n="90" break="no"/>cum, quam Nicaenum, &amp; hoc rursum quam 
+      Constan<lb ed="#P" n="91" break="no"/>tinopolitanum, &amp; ita deinceps, dum propter haereses 
+      <lb ed="#P" n="92"/>emergentes aut controversias subortas doctrina 
+      Ca<lb ed="#P" n="93" break="no"/>tholica in scripturis &amp; Apostolica traditione 
+      com<lb ed="#P" n="94" break="no"/>prehensa magis ac magis aperitur. Hanc 
+      responsio<lb ed="#P" n="95" break="no"/>nem late prosequuntur patres concilii Florentini in 
+      <lb ed="#P" n="96"/>disputatione cum Graecis. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e948">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Respondent alii non esse factam a Latinis 
+      addi<lb ed="#P" n="98" break="no"/>tionem; sed explicationem quia illud, Filioque, 
+      in<lb ed="#P" n="99" break="no"/>cluditur in eo quod dicitur, a patre, cum dicat 
+      fi<lb ed="#P" n="100" break="no"/>lius, Quaecunque habet pater mea sunt. Sed &amp; hanc 
+      <lb ed="#P" n="101"/>responsionem legere est in actis ejusdem concilii. 
+      <lb ed="#P" n="102"/>Sensus autem hujus responsionis est, verbo quidem 
+      <lb ed="#P" n="103"/>factam esse additionem, reipsa autem explicationem; 
+      <lb ed="#P" n="104"/>eo quod pars addita in priori latenter contineretur. 
+      <lb ed="#P" n="105"/>Unde concilium Flo. Graecis consentientibus ita 
+      con<lb ed="#P" n="106" break="no"/>cludit: definitum explicationem illorum verborum, 
+      fi<lb ed="#P" n="107" break="no"/>lioque, veritatis declarandae gratia, &amp; immmente tunc 
+      <lb ed="#P" n="108"/>necessitate licite &amp; rationabiliter symbolo fuisse 
+      appo<lb ed="#P" n="109" break="no"/>sitam. 
+    </p>
+            <p xml:id="bt67yj-k19742-d1e981">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Verum adhuc insistet aliquis &amp; dicet, nemini 
+      li<lb ed="#P" n="111" break="no"/>cere ac ne toti quidem Ecclesiae, addere aliquid ad 
+      <lb ed="#P" n="112"/>symbolum apostolicum, uti nec ad scripturam 
+      sa<lb ed="#P" n="113" break="no"/>cram; imo nec ad scripta patrum &amp; conciliorum 
+      de<lb ed="#P" n="114" break="no"/>creta. Falsarius enim haberetur qui id faceret, si illa 
+      <lb ed="#P" n="115"/>cum additione ederet aut recitaret pro scriptura 
+      sa<lb ed="#P" n="116" break="no"/>cra aut concilii decreto, aut libro alicujus patris. 
+      <lb ed="#P" n="117"/>Hoc autem videntur Latini fecisse, dum totum illud 
+      <lb ed="#P" n="118"/>symbolum additione auctum recitant ut symbolum 
+      <lb ed="#P" n="119"/>Constantinopolitanum. Quo nomine passim a 
+      do<lb ed="#P" n="120" break="no"/>ctis appellatur. Respondetur Ecclesiam simpliciter 
+      <lb ed="#P" n="121"/>illud recitare seu cantare tanquam symbolum fidei, 
+      <lb ed="#P" n="122"/>non autem sub nomine certi concilii a quo editum 
+      <lb ed="#P" n="123"/>fuerit. Libenter enim agnoscit &amp; profitetur partem 
+      <lb ed="#P" n="124"/>illam, filioque, ad symbolum ut in concilio 
+      Con<lb ed="#P" n="125" break="no"/>stantinopolitano editum est, non pertinere, &amp; 
+      pro<lb ed="#P" n="126" break="no"/>inde symbolum ea parte non esse illius concilii. 
+      Id<lb ed="#P" n="127" break="no"/>que facto ipso declaravit Leo III. quando ut refert 
+      <lb ed="#P" n="128"/>Magister symbolum illud sine dicta additione jussit 
+      <lb ed="#P" n="129"/>inscribi tabulae argenteae &amp; post altare B. Petri ad 
+      <lb ed="#P" n="130"/>perpetuam memoriam repositum custodiri. Non 
+      <lb ed="#P" n="131"/>enim hoc ideo fecit, ut additionem damnaret, uti 
+      <lb ed="#P" n="132"/>calumniantur adversarii, sed ut ipsius 
+      Constantino<lb ed="#P" n="133" break="no"/>politani symboli, quale a concilio editum est, 
+      ex<lb ed="#P" n="134" break="no"/>taret memoria. Dicimus tamen idem ipsum cum 
+      ad<lb ed="#P" n="135" break="no"/>ditione esse symbolum Ecclesiae, quae non prohibetur 
+      <lb ed="#P" n="136"/>alicujus concilii symbolo aliquid addere, atque illud 
+      <lb ed="#P" n="137"/>non ut illius concilii symbolum, sed tanquam suum 
+      <lb ed="#P" n="138"/>recitare. Quomodo licet etiam verbis scripturae 
+      <lb ed="#P" n="139"/>pium aliquid adjungere, aut intermiscere, ut in 
+      lau<lb ed="#P" n="140" break="no"/>dibus divinis saepe facit Ecclesia, velut dum singulis 
+      <lb ed="#P" n="141"/>psalmis subjungit, Gloria Patri, &amp;c. dum 
+      lectioni<lb ed="#P" n="142" break="no"/>bus ex scriptura sumptis addit: Tu autem 
+      Domine<lb ed="#P" n="143" break="no"/>&amp;c. &amp; alia hujusmodi. Nam &amp; Graeci orationi 
+      do<lb ed="#P" n="144" break="no"/>minicae (quae profecto symbolo quovis venerabilior 
+      <lb ed="#P" n="145"/>est) annectunt haec verba: quia tuum est regnum &amp; 
+      <lb ed="#P" n="146"/>potestas &amp; gloria in secula, Amen. Quae omnia satis 
+      <lb ed="#P" n="147"/>ostendunt in hujusmodi additionibus nullum esse 
+      <lb ed="#P" n="148"/>crimon salsitatis, nec omnino quicquam dignum 
+      <!--0079.xml-->
+      <pb ed="#P" n="56"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>reprehensione, &amp; proinde Ecclesiam Romanam non 
+      <lb ed="#P" n="2"/>modo citra periculum anathematis, verum licite &amp; 
+      <lb ed="#P" n="3"/>sancte, quando justa ratio sic exposcebat, additionem 
+      <lb ed="#P" n="4"/>ad symbolum facere potuisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="52"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k19560"><!-- l1d11c3" -->
+            <head xml:id="bt67yj-k19560-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k19560-Hd1e103" type="question-title">Eadem doctrina rationibus confirmata</head>
+            <p xml:id="bt67yj-k19560-d1e106">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> §. 3. Eadem doctrina rationibus confirmata. 
+    </p>
+            <p xml:id="bt67yj-k19560-d1e113">
+               <lb ed="#P" n="131"/>TRibus potissimum rationibus utuntur 
+      Theolo<lb ed="#P" n="132" break="no"/>I gi quibus doceant Spiritum sanctum a filio 
+      pro<lb ed="#P" n="133" break="no"/>cedere. Quarum prima ac praecipua haec est: 
+      perso<lb ed="#P" n="134" break="no"/>nas divinas singulas a singulis distingui certum est, 
+      <lb ed="#P" n="135"/>idque non per aliquid absolutum &amp; essentiale (
+      quic<lb ed="#P" n="136" break="no"/>quid enim tale est omnibus commune est, uti 
+      com<lb ed="#P" n="137" break="no"/>munis est ipsa essentia (sed per id quod est ad 
+      ali<lb ed="#P" n="138" break="no"/>quid, id est, per relationes oppositas easque reales, 
+      <lb ed="#P" n="139"/>eo quod personas ipsas realiter distingui oporteat. 
+      <lb ed="#P" n="140"/>Caeterum hujusmodi relationes in divinis nullae sunt, 
+      <lb ed="#P" n="141"/>nisi ratione originis, qua persona una ex alia 
+      pro<lb ed="#P" n="142" break="no"/>cedit. Ergo sicut a patre filius distinguitur tanquam 
+      <lb ed="#P" n="143"/>genitus a gignente, &amp; rursum a patre Spiritus 
+      san<lb ed="#P" n="144" break="no"/>ctus ut spiratus a spirante; ita necesse est Spiritum 
+      <lb ed="#P" n="145"/>sanctum distingui a filio ratione originis ac 
+      processio<lb ed="#P" n="146" break="no"/>nis alterius ex altero: Atqui filium ex Spiritu sancto 
+      <!--0076.xml-->
+      <pb ed="#P" n="53"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>procedere, nemo vel Graecorum unquam dixit: 
+      Reli<lb ed="#P" n="2" break="no"/>quum ergo est, ut dicatur Spiritus sanctus procedere 
+      <lb ed="#P" n="3"/>ex filio. Nec est quod Graecus respondeat ad 
+      Persona<lb ed="#P" n="4" break="no"/>rum distinctionem sufficere relationes plures ac 
+      rea<lb ed="#P" n="5" break="no"/>les, licet non oppositas; ideóque adhuc salvam 
+      ma<lb ed="#P" n="6" break="no"/>nere distinctionem inter filium &amp; Spiritum sanctum, 
+      <lb ed="#P" n="7"/>per filiationem quae in illo est, &amp; spirationem 
+      passi<lb ed="#P" n="8" break="no"/>vam quae in isto tanquam distinctas relationes; Hoc 
+      <lb ed="#P" n="9"/>inquam, dici non potest, eo quod constet in Patre 
+      <lb ed="#P" n="10"/>duas esse relationes, paternitatem &amp; spirationem 
+      <lb ed="#P" n="11"/>activam, quae tamen in illo duas Personas non 
+      consti<lb ed="#P" n="12" break="no"/>tuunt: Sic enim quatuor in divinis essent personae. 
+      <lb ed="#P" n="13"/>Quare ad Personarum distinctionem, omnino 
+      ne<lb ed="#P" n="14" break="no"/>cessaria est relationum oppositio. Quod ipsum etiam 
+      <lb ed="#P" n="15"/>veteres tam Graeci quam Latini docuerunt, ut 
+      Grae<lb ed="#P" n="16" break="no"/>gorius Nazianzenus oratione 5. de Theologia, 
+      Nys<lb ed="#P" n="17" break="no"/>senus in fine libri ad Ablabium, Augustinus lib. 7. 
+      <lb ed="#P" n="18"/>de trin. c. ult. &amp; l. 15. c. 14. &amp; Boetius, l. 1. de trin. c. 
+      <lb ed="#P" n="19"/>12. Quos secuti sunt Anselmus de processione 
+      spiri<lb ed="#P" n="20" break="no"/>tus sancti c. 2. &amp; Richardus Victorinus de trin. l. 2. 
+    </p>
+            <p xml:id="bt67yj-k19560-d1e200">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Secunda ratio. Quaecunque naturaliter ab eodem 
+      <lb ed="#P" n="22"/>aliquo procedunt, ea certo solent ordine procedere, 
+      <lb ed="#P" n="23"/>licet id forte necessarium non sit, in his quae a 
+      volun<lb ed="#P" n="24" break="no"/>tate procedunt: Cum ergo filius &amp; spiritus sanctus, 
+      <lb ed="#P" n="25"/>a Patre procedant, non libera, sed naturali actione, 
+      <lb ed="#P" n="26"/>necesse est inter eos ordinem aliquem reperiri: Qui 
+      <lb ed="#P" n="27"/>sane alius esse non potest quam ordo originis, sicut 
+      <lb ed="#P" n="28"/>ostensum est ad distinctionem 9. Quare consequens 
+      <lb ed="#P" n="29"/>est alterum ab altero procedere. Antecedens facile 
+      <lb ed="#P" n="30"/>potest exemplis declarari, velut mentis a qua 
+      cogni<lb ed="#P" n="31" break="no"/>tio &amp; per cognitionem amor procedit; Solis a quo 
+      <lb ed="#P" n="32"/>splendor, &amp; per hunc calorem egreditur; &amp; 
+      simi<lb ed="#P" n="33" break="no"/>lium rerum. Quod si ergo non procedit spiritus 
+      <lb ed="#P" n="34"/>sanctus a filio, non erit ordo inter filium &amp; 
+      spiri<lb ed="#P" n="35" break="no"/>tum sanctum; ac proinde erit quidem Pater in 
+      di<lb ed="#P" n="36" break="no"/>vinis prima persona, quia a Patre procedunt reliquae 
+      <lb ed="#P" n="37"/>duae. Cur autem filius potius quam spiritus sanctus 
+      <lb ed="#P" n="38"/>secunda persona dicatur, nulla erit ratio. Itaque 
+      <lb ed="#P" n="39"/>non erit potius dicendum: Pater Filius &amp; Spiritus 
+      <lb ed="#P" n="40"/>sanctus, quam Pater spiritus sanctus &amp; filius, quod 
+      <lb ed="#P" n="41"/>sane perabsurdum est 
+    </p>
+            <p xml:id="bt67yj-k19560-d1e251">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Tertia, sicut a Patre velut a mente aeterna 
+      proce<lb ed="#P" n="43" break="no"/>dit filius per modum verbi, sic spiritus sanctus ab 
+      <lb ed="#P" n="44"/>eadem procedit per modum amoris. Atqui amor non 
+      <lb ed="#P" n="45"/>procedit a mente nisi per verbum. Non enim amari 
+      <lb ed="#P" n="46"/>quid potest, nisi prius cognitum; ergo spiritus 
+      san<lb ed="#P" n="47" break="no"/>ctus non procedit a patre nisi per filium. 
+    </p>
+            <p xml:id="bt67yj-k19560-d1e269">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Plures rationes videre est apud S. Thomam lib. 
+      <lb ed="#P" n="49"/>4. contra gent. cap. 24. &amp; in disputatis de potentia 
+      <lb ed="#P" n="50"/>q. 10. art. 4. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

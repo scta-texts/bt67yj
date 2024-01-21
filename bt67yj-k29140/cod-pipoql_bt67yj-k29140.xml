@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="78"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k29140"><!-- l1d22c1" -->
+            <head xml:id="bt67yj-k29140-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k29140-Hd1e103" type="question-title">Quaedam observationes circa nomina 
+      Deo attributa</head>
+            <p xml:id="bt67yj-k29140-d1e106">
+               <lb ed="#P" n="83"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="84"/>VICESIMAMSECUNDAM. 
+      <lb ed="#P" n="85"/>§. 1. Quaedam observationes circa nomina 
+      <lb ed="#P" n="86"/>Deo attributa.
+    </p>
+            <p xml:id="bt67yj-k29140-d1e117">
+               <lb ed="#P" n="87"/>CIRCA diversitatem nominum, quibus 
+      uti<lb ed="#P" n="88" break="no"/>mur loquentes de Deo, priusquam ea 
+      divi<lb ed="#P" n="89" break="no"/>Adendo explicemus, praemittenda sunt 
+      quae<lb ed="#P" n="90" break="no"/>dam scitu necessaria. Quorum hoc primum est: 
+      <lb ed="#P" n="91"/>Nullum esse nomen quod Dei naturam nobis 
+      perfe<lb ed="#P" n="92" break="no"/>cte repraesentet; tametsi alia aliis aut propius ad 
+      <lb ed="#P" n="93"/>eam repraesentandam accedant, aut ab ea minus 
+      <lb ed="#P" n="94"/>longe recedant, ut intelligi potest ex dictis ad 
+      di<lb ed="#P" n="95" break="no"/>stinctionem octavam, ubi quaerebatur, quod sit 
+      no<lb ed="#P" n="96" break="no"/>men Deo maxime proprium. Ratio autem est, quia 
+      <lb ed="#P" n="97"/>unaquaeque res ut intelligitur, ita nominatur. 
+      No<lb ed="#P" n="98" break="no"/>mina enim rebus imposita sunt ad significandas 
+      pro<lb ed="#P" n="99" break="no"/>prias earum naturas, quae definitionibus 
+      explican<lb ed="#P" n="100" break="no"/>tur. Cum ergo Dei natura capacitatem intellectus 
+      <lb ed="#P" n="101"/>humani in infinitum excedat, consequens est 
+      ean<lb ed="#P" n="102" break="no"/>dem naturam, respectu nostri, proprio nomine 
+      ex<lb ed="#P" n="103" break="no"/>plicari non posse. Atque hoc est quod Sanctus 
+      Dio<lb ed="#P" n="104" break="no"/>nysius Areopagita lib. de divin. nominib. c. 1. dicit 
+      <lb ed="#P" n="105"/>de Deo neque nomen extare, neque opinionem 
+      ha<lb ed="#P" n="106" break="no"/>beri, id est, conceptum proprium &amp; adaequatum de 
+      <lb ed="#P" n="107"/>Deo formari non posse; quia videlicet omnis 
+      intel<lb ed="#P" n="108" break="no"/>lectus creatus, cum finitus sit, infinitam illam 
+      na<lb ed="#P" n="109" break="no"/>turam, sicut est, assequi cogitando non valet. 
+    </p>
+            <p xml:id="bt67yj-k29140-d1e169">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Secundum: Ad Dei naturam sermone 
+      declaran<lb ed="#P" n="111" break="no"/>dam, multis ac variis nominibus utendum esse. Cum 
+      <lb ed="#P" n="112"/>enim in Deo sint omnes omnium rerum perfectiones, 
+      <lb ed="#P" n="113"/>modo perfectissimo, necesse est, ut vel pluribus 
+      no<lb ed="#P" n="114" break="no"/>minibus illa divinae naturae excellentia nobis 
+      signifi<lb ed="#P" n="115" break="no"/>cetur atque innotescat, quam singula repraesentare 
+      <lb ed="#P" n="116"/>minus queunt. 
+    </p>
+            <p xml:id="bt67yj-k29140-d1e190">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Tertium: Non res multas, sed rem prorsus unam 
+      <lb ed="#P" n="118"/>&amp; eandem, omni illa nominum varietate quae Deo 
+      <lb ed="#P" n="119"/>tribuuntur, significari. 
+    </p>
+            <p xml:id="bt67yj-k29140-d1e201">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Quartum: Licet rem unam, eamque 
+      simplicissi<lb ed="#P" n="121" break="no"/>mam multa Dei nomina significent, non tamen 
+      ca<lb ed="#P" n="122" break="no"/>lynonyma esse, sed diversis notionibus, seu propriis 
+      <lb ed="#P" n="123"/>conceptibus, rem unam &amp; eandem significare. 
+    </p>
+            <p xml:id="bt67yj-k29140-d1e214">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Postremum: Eam notionum divarsitatem, quae 
+      di<lb ed="#P" n="125" break="no"/>versis Dei nominibus respondet, nullam involvere 
+      <lb ed="#P" n="126"/>falsitatem, propterea quod nihil vetet rem in se 
+      u<lb ed="#P" n="127" break="no"/>nam, varie apprehendi, prout varias in se perfectio 
+      <lb ed="#P" n="128"/>nes includit. Unde licet in Deo, verbi gratia, non 
+      <lb ed="#P" n="129"/>aliud sit potentia, aliud sapientia, aliud bonitas, 
+      ali<lb ed="#P" n="130" break="no"/>ter tamen atque aliter mente concipimus divinam 
+      <lb ed="#P" n="131"/>naturam, ut diversis illis nominibus exprimitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

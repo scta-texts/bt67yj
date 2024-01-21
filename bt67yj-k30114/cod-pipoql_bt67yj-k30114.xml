@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="81"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k30114"><!-- l1d23c4" -->
+            <head xml:id="bt67yj-k30114-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k30114-Hd1e103" type="question-title">Quomodo in Trinitate nec diversitas sit nec 
+      singularitas</head>
+            <p xml:id="bt67yj-k30114-d1e106">
+               <lb ed="#P" n="23"/>§. 4. Quomodo in Trinitate nec diversitas sit nec 
+      <lb ed="#P" n="24"/>singularitas.
+    </p>
+            <p xml:id="bt67yj-k30114-d1e113">
+               <lb ed="#P" n="25"/>QUi de Trinitate contra Arianos disseruerunt, 
+      <lb ed="#P" n="26"/>ita docent esse in divinis personarum 
+      distinctio<lb ed="#P" n="27" break="no"/>nem, ut tamen diversitatem ibi nullam agnoscant. Et 
+      <lb ed="#P" n="28"/>rursum, ita naturae unitatem confitentur, ut tamen ab 
+      <lb ed="#P" n="29"/>ea removeri velint singularitatem. Ita loquuntur 
+      Hi<lb ed="#P" n="30" break="no"/>larius, lib. 3. de Trinitate circa finem, lib. 4. circa 
+      <lb ed="#P" n="31"/>medium, &amp; lib. 7. circa finem. Ambrosius lib. 1. de 
+      <lb ed="#P" n="32"/>fide ad Gratianum cap. 2. lib. 2. c. 2. &amp; lib. 5. cap. 
+      <lb ed="#P" n="33"/>2. &amp; Aug. lib. de Trin. cap. 4. A quibus non 
+      dis<lb ed="#P" n="34" break="no"/>lentit author quaest. veteris &amp; novi cestamenti apud 
+      <lb ed="#P" n="35"/>August. quaest. 122. 
+    </p>
+            <p xml:id="bt67yj-k30114-d1e139">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Intellexerunt autem diversitatis nomine non 
+      quam<lb ed="#P" n="37" break="no"/>cunque &amp; undecunque sumptam distinctionem, sed 
+      <lb ed="#P" n="38"/>eam tantum, qua res secundum naturam, vel certe 
+      <lb ed="#P" n="39"/>secundum aliquid absolutum distinguitur, quomodo 
+      <lb ed="#P" n="40"/>diversus est homo ab equo, imo homo albus ab 
+      ho<lb ed="#P" n="41" break="no"/>mine nigro. Singularitatem vero solitudinem 
+      inter<lb ed="#P" n="42" break="no"/>pretantur iidem patres quae videlicet consortium 
+      ex<lb ed="#P" n="43" break="no"/>cludat. Item singularem intelligunt eum qui solus est, 
+      <lb ed="#P" n="44"/>quemadmodum accipitur in versiculo Psalmi: 
+      Sin<lb ed="#P" n="45" break="no"/>gularis sum ego donec transeam. Et quomodo dicitur 
+      <lb ed="#P" n="46"/>de Christo homine, Marci 4. Cum esset singularis, 
+      in<lb ed="#P" n="47" break="no"/>terrogaverunt eum. Cum ergo in Deo, neque solitudo 
+      <lb ed="#P" n="48"/>sit, sed beatissimum consortium trium personarum, 
+      <lb ed="#P" n="49"/>neque rursus ea differentia qua competat uni natura 
+      <lb ed="#P" n="50"/>vel proprietas absoluta, quae non alii, constat hoc 
+      sen<lb ed="#P" n="51" break="no"/>su tam diversitatem contra Arianos, quam 
+      singulari<lb ed="#P" n="52" break="no"/>tatem contra Sabellianos, a sanctissima Trinitate 
+      re<lb ed="#P" n="53" break="no"/>movendam esse. Sicubi autem patres singularitatem 
+      <lb ed="#P" n="54"/>in Deonominant, vel diversitatem (quomodo dixit 
+      <lb ed="#P" n="55"/>Isidorus lib. 1. Etymol. cap. 4. unitatem esse in Deo 
+      <lb ed="#P" n="56"/>singularem, Trinitatem vero multiplicem) 
+      quomo<lb ed="#P" n="57" break="no"/>do &amp; personas in Deo diversas esse alicubilegitur, ea 
+      <lb ed="#P" n="58"/>commode sunt accipienda, ut, singulare sit, quod 
+      u<lb ed="#P" n="59" break="no"/>num est &amp; indivisum, diversum autem &amp; multiplex, 
+      <lb ed="#P" n="60"/>quod distinctum. Unde S. Thomas 1. quaest. 13. art. 
+      <lb ed="#P" n="61"/>11. non simpliciter sed cum cautela nomen 
+      singulari<lb ed="#P" n="62" break="no"/>tatis in divmis usurpavit dicens, Dei substantiam esse 
+      <lb ed="#P" n="63"/>incommunicabilem, &amp; ut sic liceat loqui, 
+      singula<lb ed="#P" n="64" break="no"/>rem. Verum de hoc vocabulo nonnihil quoque, 
+      <lb ed="#P" n="65"/>quod ad rem praesentem pertineat, dictum est ad dist. 
+      <lb ed="#P" n="66"/>2. circa finem. Neque sane videtur negandum, quo 
+      <lb ed="#P" n="67"/>minus hoc vocabulum secundum eam 
+      significatio<lb ed="#P" n="68" break="no"/>nem, quam habet apud logicos, inoffense possit in 
+      <lb ed="#P" n="69"/>divinis usurpari, cum satis appareat veteres usum 
+      <lb ed="#P" n="70"/>ejus refugientes, ad aliam significationem, scilicet 
+      <lb ed="#P" n="71"/>eam quam nunc exposuimus, respexisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="65"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k24097"><!-- l1d16c2" -->
+            <head xml:id="bt67yj-k24097-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k24097-Hd1e103" type="question-title">Quo sensu dictum sit patrem esse filio 
+      majorem</head>
+            <p xml:id="bt67yj-k24097-d1e106">
+               <lb ed="#P" n="15"/>§. 2. Quo sensu dictum sit patrem esse filio 
+      <lb ed="#P" n="16"/>majorem.
+    </p>
+            <p xml:id="bt67yj-k24097-d1e113">
+               <lb ed="#P" n="17"/>QUamvis ex ratione missionis non sit consequens 
+      <lb ed="#P" n="18"/>Qeum qui mittitur, esse minorem mittente, 
+      nihi<lb ed="#P" n="19" break="no"/>lo magis quam ex ratione processionis consequens sit 
+      <lb ed="#P" n="20"/>procedentem minorem esse eo a quo procedit (est 
+      <lb ed="#P" n="21"/>enim originis quaestio, non aequalitatis, quis de quo 
+      <lb ed="#P" n="22"/>sit, ut ait Augustinus lib. 3. contra Maximmum) vere 
+      <lb ed="#P" n="23"/>tamen dixit filius, Joan. 14. Pater majorme est. Quod 
+      <lb ed="#P" n="24"/>utrum similiter de Spiritu sancto dici possit, nempe 
+      <lb ed="#P" n="25"/>patrem eo majorem esse inquirendum, si tamen prius 
+      <lb ed="#P" n="26"/>ostenderimus, quo sensu id dictum sit de filio. Sunt 
+      <lb ed="#P" n="27"/>autem hujus sententiae duae celebres expositiones. 
+    </p>
+            <p xml:id="bt67yj-k24097-d1e139">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Una est eaque promptior &amp; expeditior, qua pater 
+      <lb ed="#P" n="29"/>intelligitur dici major filio, considerato secundum 
+      <lb ed="#P" n="30"/>humanam naturam, ut sit sensus: Pater me homine 
+      <lb ed="#P" n="31"/>major est. Juxta hanc igitur expositionem dixit hoc 
+      <lb ed="#P" n="32"/>Christus ut filius hominis, non ut filius Dei. Qua 
+      qui<lb ed="#P" n="33" break="no"/>dem ratione non tantum pater, sed &amp; Spiritus sanctus 
+      <lb ed="#P" n="34"/>filio major est, &amp; ipse filius major seipso idemque 
+      fi<lb ed="#P" n="35" break="no"/>lius patre &amp; Spiritu sancto &amp; seipso minor, juxta illud 
+      <lb ed="#P" n="36"/>Philipp. 2. Cum in forma Dei esset exinamvit seipsum, 
+      <lb ed="#P" n="37"/>formam servi accipiens, id est, factus est seipso minor 
+      <lb ed="#P" n="38"/>Imo secundum assumptam naturam non solum Deo. 
+      <lb ed="#P" n="39"/>sed &amp; angelis minor est, dicente Psalmista Psalm. 8. 
+      <lb ed="#P" n="40"/>Minuisti eum paulo minus ab Angelis. Quod de 
+      Chri<lb ed="#P" n="41" break="no"/>sto interpretatur Apostolus Hebr. 2. Hic intellectus 
+      <lb ed="#P" n="42"/>probabilis fit ex ipso contextu sermonis Christi. Si, 
+      <lb ed="#P" n="43"/>inquit, diligeretis me, gauderetis utique quia ad patrem 
+      <lb ed="#P" n="44"/>vado, quia pater major me est; quasi diceret, ea 
+      ratio<lb ed="#P" n="45" break="no"/>ne Pater major me est, qua ad eum vado nempe 
+      se<lb ed="#P" n="46" break="no"/>cundum naturam humanam. Nam secundum 
+      natu<lb ed="#P" n="47" break="no"/>ram divinam a patre recesserat. Sic intelligit &amp; 
+      intel<lb ed="#P" n="48" break="no"/>ligentiam ex contextu probat sanctus Augustinus 
+      <lb ed="#P" n="49"/>scribens super Joannem in expositione hujus loci. Sic 
+      <lb ed="#P" n="50"/>idem alibi saepe exponit ut lib. I. de Trinit. cap. 7. 8. 
+      <lb ed="#P" n="51"/>&amp; 11. lib. 2. cap. 5. &amp; 6. I. de fide &amp; symbolo cap. 9. 
+      <lb ed="#P" n="52"/>lib. 83. q. quaest. 69. l. 3. contra Maxim. cap. 24. &amp; 
+      <lb ed="#P" n="53"/>25. &amp;c. Sequuntur hanc expositionem plerique 
+      La<lb ed="#P" n="54" break="no"/>tinorum &amp; inter Graecos Athanasius in symbolo, ubi 
+      <lb ed="#P" n="55"/>dicitur Christus aequalis patri secundum divinitatem, 
+      <lb ed="#P" n="56"/>minor patre secundum humamtatem, ubi etiam 
+      di<lb ed="#P" n="57" break="no"/>serte negat in illa Trinitate quicquam esse majus aut 
+      <lb ed="#P" n="58"/>minus. Et idem in tract. de humana natura suscepta a 
+      <lb ed="#P" n="59"/>verbo in fine: Et in disputatione contra Arium in 
+      <lb ed="#P" n="60"/>conc. Nicaeno non procul ab initio. Et in altera 
+      dis<lb ed="#P" n="61" break="no"/>putatione contra Arium habita Laodiceae, post 
+      me<lb ed="#P" n="62" break="no"/>dium, licet hujus ipse Athanasius non sit author. Et 
+      <lb ed="#P" n="63"/>lib. 3. de unica deitate Trinitatis: Sed nec ille 
+      Atha<lb ed="#P" n="64" break="no"/>nasii est. Item Chrysostomus &amp; Theophylactus in 
+      <lb ed="#P" n="65"/>Joan. &amp; Cyrillus lib. 2. Thesauri cap. 3. Denique 
+      pro<lb ed="#P" n="66" break="no"/>bari potest ex aliis scripturae locis, quibus significatur 
+      <lb ed="#P" n="67"/>patrem filio superiorem esse secundum naturam 
+      as<lb ed="#P" n="68" break="no"/>sumptamconsideratio, utI. Cor. 11. Caput Christi Dens, 
+      <lb ed="#P" n="69"/>Et 1. Cor. 15. Cum tradiderit regnum Deo &amp; Patri, tunc 
+      <lb ed="#P" n="70"/>&amp; ipse filius subjectus erit ei, qui subjecit sibi omnia. 
+    </p>
+            <p xml:id="bt67yj-k24097-d1e238">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Altera expositio est eaque difficilior, qua pater 
+      <!--0088.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Christo etiam ut Dei filio major dicitur, non ulla 
+      es<lb ed="#P" n="73" break="no"/>sentiali proprietate quae in patre sit &amp; non in filio, aut 
+      <lb ed="#P" n="74"/>in patre major ac perfectior, quam in filio, sed sola 
+      <lb ed="#P" n="75"/>authoritate principii, id est, eo solo, quod pater sit 
+      <lb ed="#P" n="76"/>autor, principium &amp; origo filii. Qua etiam ratione 
+      <lb ed="#P" n="77"/>quandam prioritatem patri competere comparatione 
+      <lb ed="#P" n="78"/>filii, diximus ad dist. 9. ubi de ordine divinarum 
+      <lb ed="#P" n="79"/>personarum agebamus. Hac ratione dictum quoque 
+      <lb ed="#P" n="80"/>est a Basilio initio lib. 3. contra Eunomium, filium 
+      di<lb ed="#P" n="81" break="no"/>gnitate secundum esse a patre, &amp; Spiritum sanctum 
+      <lb ed="#P" n="82"/>secundum a filio, dignitatis nomine autoritatem 
+      in<lb ed="#P" n="83" break="no"/>telligendo, id est principii rationem, ut alibi diximus. 
+      <lb ed="#P" n="84"/>Tradunt hanc expositionem plerique Graeci autores, 
+      <lb ed="#P" n="85"/>ut patres conc. Sardicensis in epist. scripta ad 
+      univer<lb ed="#P" n="86" break="no"/>sos Episcopos, quae habetur lib. 4. hist. trip. c. 24. 
+      <lb ed="#P" n="87"/>ex Theodoreto lib. 2. cap. 8. Athanasius in oratione2. 
+      <lb ed="#P" n="88"/>contra Arianos haud procul a fine. Basilius epistola 
+      <lb ed="#P" n="89"/>143. ad Caesarienses &amp; in fine l. 3. contra Eunomium, 
+      <lb ed="#P" n="90"/>&amp; lib. 4. contra eundem Gregorius Nazianzenus in 
+      <lb ed="#P" n="91"/>oratione 4. de Theologia, objectione 3. etiam cum 
+      <lb ed="#P" n="92"/>improbatione prioris expositionis. Quibus accedit 
+      <lb ed="#P" n="93"/>Joannes Damascenus lib. I. de Orth. fid. cap. 9. 
+      Ean<lb ed="#P" n="94" break="no"/>dem sequitur inter Latinos Hilarius lib. 9. de Trinit. 
+      <lb ed="#P" n="95"/>&amp; in lib. de Synodis. 
+    </p>
+            <p xml:id="bt67yj-k24097-d1e301">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Porro Chrysostomus &amp; Theophylactus in 
+      Joan<lb ed="#P" n="97" break="no"/>nem, &amp; Cyrillus lib. 2. thes. cap. 3. utriusque 
+      exposi<lb ed="#P" n="98" break="no"/>tionis meminerunt, &amp; adeo priorem non improbant, 
+      <lb ed="#P" n="99"/>ut eam etiam praeferant posteriori. 
+    </p>
+            <p xml:id="bt67yj-k24097-d1e314">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Secundum hanc igitur posteriorem expositionem, 
+      <lb ed="#P" n="101"/>major dicitur pater filio, quia prior, non natura, 
+      ne<lb ed="#P" n="102" break="no"/>que tempore, neque perfectione quacunque, sed 
+      ori<lb ed="#P" n="103" break="no"/>ginis duntaxat ratione, quia videlicet filius ex patre, 
+      <lb ed="#P" n="104"/>non pater ex filio. 
+    </p>
+            <p xml:id="bt67yj-k24097-d1e330">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Neque repugnat illud symboli Athanasiani, in 
+      Tri<lb ed="#P" n="106" break="no"/>nitate nihil esse majus aut minus. Sic enim ibi nihil 
+      <lb ed="#P" n="107"/>majus minusve fateri licet, quomodo nec prius 
+      quic<lb ed="#P" n="108" break="no"/>quam aut posterius. Haec enim dicta sunt ad 
+      exclu<lb ed="#P" n="109" break="no"/>dendam a divinis omnem inaequalitatem, quae 
+      qui<lb ed="#P" n="110" break="no"/>dem attendenda est ex parte naturae &amp; proprietatum 
+      <lb ed="#P" n="111"/>essentialium, non ad tollendam originis ac 
+      princi<lb ed="#P" n="112" break="no"/>pii rationem. Quamquam Augustinus libr. 4. de 
+      <lb ed="#P" n="113"/>Trinitate cap. 20. non admittit ratione principii 
+      <lb ed="#P" n="114"/>patrem dici filio majorem. Verum ille majoritatem 
+      <lb ed="#P" n="115"/>intellexit absolutam &amp; proprie dictam, ut patet ex 
+      <lb ed="#P" n="116"/>initio capitis; sicut enim in creaturis magnum 
+      ali<lb ed="#P" n="117" break="no"/>quid dicitur ratione quantitatis, quae est accidens 
+      <lb ed="#P" n="118"/>absolutum, sic magnitudo quae Deo tribuitur, in iis 
+      <lb ed="#P" n="119"/>quae absoluta sunt fundari debet, cujusmodi sunt, 
+      <lb ed="#P" n="120"/>sapientia, omnipotentia, bonitas. In quibus quidem 
+      <lb ed="#P" n="121"/>ita tres personae magnitudine sunt aequales ut nulla 
+      <lb ed="#P" n="122"/>earum respectu alius, major aut minor dici possit. Ex 
+      <lb ed="#P" n="123"/>quo patet non nisi improprie dici patrem filio 
+      majo<lb ed="#P" n="124" break="no"/>rem ratione principii, cum principium sit ad aliquid. 
+      <lb ed="#P" n="125"/>Ideóque hujusmodi sententiae nec cum Ario loqui 
+      <lb ed="#P" n="126"/>videamur sobrie sunt usurpandae, quemadmodum 
+      <lb ed="#P" n="127"/>&amp; illa Hilarii verba, exponentis anathematismum 
+      <lb ed="#P" n="128"/>17. &amp; 27. Synodi Syrmiensis in libro de Synodis, 
+      <lb ed="#P" n="129"/>fane intelligenda sunt, quibus dicit filium etiam 
+      se<lb ed="#P" n="130" break="no"/>cundum naturam divinam ministrare, subjectum 
+      <lb ed="#P" n="131"/>esse &amp; obedientem patri. Haec enim non aliud 
+      signi<lb ed="#P" n="132" break="no"/>ficant, quam filium in omni actione exacte 
+      respon<lb ed="#P" n="133" break="no"/>dere voluntati patris, a quo cum natura voluntatem 
+      <lb ed="#P" n="134"/>&amp; ipsum agere accepit. Jam autem in eo quod idem 
+      <lb ed="#P" n="135"/>Hilarius lib. 9. de Trinit. negat filium recte dici 
+      mi<lb ed="#P" n="136" break="no"/>norem patre, etiamsi pater dicatur filio major, quod 
+      <lb ed="#P" n="137"/>tamen omnino ex natura relatorum consequens 
+      vi<lb ed="#P" n="138" break="no"/>detur, putamus eum respexisse ad intentionem 
+      A<lb ed="#P" n="139" break="no"/>rianorum, qui ex eo scripturae loco contendebant 
+      <lb ed="#P" n="140"/>consequens esse filium simpliciter ac natura patre 
+      <lb ed="#P" n="141"/>esse minorem. Dicit enim Hilarius ex eo quod 
+      p<lb ed="#P" n="142" break="no"/>ter donantis autoritate sit major, non sequi ut si 
+      <lb ed="#P" n="143"/>lius confessione doni sit minor, quia pater donat. 
+      <lb ed="#P" n="144"/>ei tantum esse, quantus ipse est. Negat ergo filium 
+      <lb ed="#P" n="145"/>minorem natura, ut qui prorsus eandem, quam pa¬ 
+      <!--0089.xml-->
+      <pb ed="#P" n="66"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ter habet, ab eo naturam acceperit, quamvis interim 
+      <lb ed="#P" n="2"/>pater major sit authoritate principii, qua dator est 
+      na<lb ed="#P" n="3" break="no"/>turae. Ad hoc autem citat scripturam ad Philip. 2. 
+      Do<lb ed="#P" n="4" break="no"/>navit illi nomen quod est super oome nomen, &amp;c. 
+      quam<lb ed="#P" n="5" break="no"/>quam Apostolus ibi non loquitur de aeterna 
+      donatio<lb ed="#P" n="6" break="no"/>ne aequalis gloriae, quomodo ea verba intellexisse 
+      vi<lb ed="#P" n="7" break="no"/>detur Hilarius, sed de glorificatione Christi hominis, 
+      <lb ed="#P" n="8"/>qua scilicet pro praemio redditum est illi a patre, ut ab 
+      <lb ed="#P" n="9"/>omnibus tanquam Deus patri aequalis agnosceretur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

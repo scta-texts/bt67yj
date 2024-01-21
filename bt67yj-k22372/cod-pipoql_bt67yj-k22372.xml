@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="60"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k22372"><!-- l1d14c3" -->
+            <head xml:id="bt67yj-k22372-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k22372-Hd1e103" type="question-title">Quomodo Spiritus sanctus dari dicatur 
+      <pc type="indent"/> hominibus</head>
+            <p xml:id="bt67yj-k22372-d1e108">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> §. 3. Quomodo Spiritus sanctus dari dicatur 
+      <lb ed="#P" n="83"/>
+               <pc type="indent"/> hominibus. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e119">
+               <lb ed="#P" n="84"/>QUod saepe testatur scriptura Spiritum sanctum 
+      <lb ed="#P" n="85"/>Chominibus dari, &amp; ab hominibus accipi, 
+      eum<lb ed="#P" n="86" break="no"/>que in hominibus habitare, quaeritur utrum 
+      intelli<lb ed="#P" n="87" break="no"/>gendum fit de Spiritu sancto secundum se, an vero 
+      <lb ed="#P" n="88"/>tantum secundum ipsius dona &amp; operationes. Quod 
+      <lb ed="#P" n="89"/>enim ipsemet spiritus sanctus detur nobis &amp; non 
+      tan<lb ed="#P" n="90" break="no"/>tum ejus dona, nititur ostendere Magister 
+      testimo<lb ed="#P" n="91" break="no"/>niis aliquot scripturae &amp; sanctorum Ambrosii &amp; 
+      Au<lb ed="#P" n="92" break="no"/>gustini. Quibus addi potest locus ejusdem 
+      Augusti<lb ed="#P" n="93" break="no"/>ni lib. 15. de trinit. c. 18. &amp; 19. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e143">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Pro contraria vero sententia facere videtur 
+      mani<lb ed="#P" n="95" break="no"/>festa ratio. Cum enim Spiritus sanctus per naturam 
+      <lb ed="#P" n="96"/>ubique sit, &amp; omnia impleat, juxta illud Sap. 1. 
+      Spiri<lb ed="#P" n="97" break="no"/>tus Domini replevit orbem terrarum, &amp; Ps. 138. Quo ibo 
+      <lb ed="#P" n="98"/>a spiritu tuo? non videtur intelligi posse, quomodo 
+      <lb ed="#P" n="99"/>dari, vel accipi, vel habitare incipiat, nisi ratione 
+      do<lb ed="#P" n="100" break="no"/>norum suorum atque operationum. Unde 
+      Chryso<lb ed="#P" n="101" break="no"/>stomus exponens illud Joan. 20. Accipite Spiritum 
+      <lb ed="#P" n="102"/>sanctum, per Spiritum sanctum dicit, intelligi dona 
+      <lb ed="#P" n="103"/>ejus, non ibi tantum, sed &amp; aliis scripturae locis. 
+      <lb ed="#P" n="104"/>Idemque in hom. de sancto &amp; adorando spiritu, 
+      di<lb ed="#P" n="105" break="no"/>serte affirmat non spiritum sanctum mitti, sed ejus 
+      <lb ed="#P" n="106"/>dona. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e177">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Pro cujus quaestionis explicatione, principio 
+      sta<lb ed="#P" n="108" break="no"/>tuendum est tanquam dogma fidei, Deum &amp; 
+      unam<lb ed="#P" n="109" break="no"/>quamque personam divinam esse ubique, per 
+      essen<lb ed="#P" n="110" break="no"/>tiam, praesentiam &amp; potentiam, uti docetur ex 
+      pro<lb ed="#P" n="111" break="no"/>fesso ad dist. 37. Deinde fatendum nihilominus vere 
+      <lb ed="#P" n="112"/>&amp; recte dici, quod Deus alicubi esse incipiat, idque 
+      <lb ed="#P" n="113"/>vel simpliciter vel secundum quid; quod quidem fit 
+      <lb ed="#P" n="114"/>pluribus modis. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e199">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Primo, per hoc quod res ipsae incipiant esse. Cum 
+      <lb ed="#P" n="116"/>enim Deus sit in rebus omnibus existentibus, non 
+      au<lb ed="#P" n="117" break="no"/>tem in iis quae non sunt, fit ut eo ipso, quo res aliqua 
+      <lb ed="#P" n="118"/>esse incipit, Deus quoque in eadem re incipiat esse.
+    </p>
+            <p xml:id="bt67yj-k22372-d1e212">
+               <lb ed="#P" n="119"/>Secundo proprie &amp; personaliter alicubi esse 
+      in<lb ed="#P" n="120" break="no"/>cipit secundum naturam assumptam. Hujus enim 
+      <lb ed="#P" n="121"/>naturae ratione, filius Dei proprie loco continetur, 
+      <lb ed="#P" n="122"/>&amp; de loco in locum motus est, imo &amp; in loco esse 
+      <lb ed="#P" n="123"/>coepit, quando naturam humanam in utero virginis 
+      <lb ed="#P" n="124"/>assumpsit. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e228">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Tertio: divina persona alicubi esse incipit in 
+      si<lb ed="#P" n="126" break="no"/>gno. Quo modo Spiritus sanctus descendisse dicitur 
+      <lb ed="#P" n="127"/>super Christum in specie columbae. Non enim tunc 
+      <lb ed="#P" n="128"/>incepit eo loco personaliter contineri, quia non in 
+      <lb ed="#P" n="129"/>unitatem personae naturam columbae sibi 
+      conjunxe<lb ed="#P" n="130" break="no"/>rat. At neque ratione sanctificationis alicujus dici 
+      <lb ed="#P" n="131"/>potest ibi tunc esse coepisse, quia Christo, qui ab 
+      <lb ed="#P" n="132"/>mitio suae incarnationis erat plenus gratia, nihil 
+      <lb ed="#P" n="133"/>gratiae sanctificantis, per hunc Spiritus sancti 
+      des<lb ed="#P" n="134" break="no"/>censum accessit. Sed in columbae specie se 
+      repraesen<lb ed="#P" n="135" break="no"/>tavit, tanquam in signo suo. Significabat enim 
+      co<lb ed="#P" n="136" break="no"/>lumba Spiritum sanctum, quo &amp; Christus homo 
+      <lb ed="#P" n="137"/>secundum se plenus erat, &amp; quem in membris suis 
+      <lb ed="#P" n="138"/>per baptismum esset accepturus. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e263">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Quarto: Deus incipit alicubi esse, nempe in 
+      homi<lb ed="#P" n="140" break="no"/>ne, quando homo incipit eum invisibiliter habere 
+      <lb ed="#P" n="141"/>praesentem, scilicet per fidem, spem &amp; charitatem, 
+      <lb ed="#P" n="142"/>qua templum Dei efficitur, &amp; habitatorem incipit 
+      <lb ed="#P" n="143"/>habere Deum, juxta illud Ephes. 3. Christum habi¬ 
+      <!--0084.xml-->
+      <pb ed="#P" n="61"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tare per fidem in cordibus vestris. Sicut enim Deus 
+      <lb ed="#P" n="2"/>dicitur habere cuncta semper praesentia, quia ea 
+      <lb ed="#P" n="3"/>semper cognoscit &amp; diligit: ita homo Deum tunc 
+      in<lb ed="#P" n="4" break="no"/>cipit habere praesentem, quando incipit eum 
+      cognos<lb ed="#P" n="5" break="no"/>cere &amp; diligere. Tunc autem perfecte praesentem 
+      <lb ed="#P" n="6"/>habebit, quando eum perfecte cognoscet &amp; diliget. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e298">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> His praemissis ad propositam quaestionem 
+      respon<lb ed="#P" n="8" break="no"/>detur, recte dici cum Magistro, licet forte non 
+      eo<lb ed="#P" n="9" break="no"/>dem sensu cum illo, Spiritum Sanctum dari 
+      homini<lb ed="#P" n="10" break="no"/>bus, non tantum secundum dona sua, verum etiam 
+      <lb ed="#P" n="11"/>secundum se; quia nimirum sic datur, ut ipsemet per 
+      <lb ed="#P" n="12"/>cognitionem &amp; amorem incipiat homini praesens 
+      es<lb ed="#P" n="13" break="no"/>se. Quamvis enim cognitio &amp; amor Dei, non sint 
+      <lb ed="#P" n="14"/>ipse Deus, sed dona Dei, reddunt tamen ipsum 
+      <lb ed="#P" n="15"/>Deum homini praesentem, modo quodam, quo prius 
+      <lb ed="#P" n="16"/>praesens non erat. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e325">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Confirmatur haec responsio ex eo, quia propter 
+      <lb ed="#P" n="18"/>hanc praesentiam vocatur homo templum Spiritus 
+      <lb ed="#P" n="19"/>sancti. Hoc autem de donis Spiritus sancti intellig 
+      <lb ed="#P" n="20"/>non potest, quia proprie soli Deo templum debetur, 
+      <lb ed="#P" n="21"/>sicut &amp; soli debetur sacrificium, dicente Augustino 
+      <lb ed="#P" n="22"/>sermone 101. de diversis cap. 4. Templum solus verus 
+      <lb ed="#P" n="23"/>Deus habere debet: Sacrificium soli vero Deo offerri 
+      <lb ed="#P" n="24"/>debet. Item dicitur Deus homini praesens fieri, 
+      quan<lb ed="#P" n="25" break="no"/>do incipit ab homine cognosci &amp; amari, ut jam 
+      di<lb ed="#P" n="26" break="no"/>ctum est: Atqui non est hoc intelligendum de 
+      do<lb ed="#P" n="27" break="no"/>nis Dei, sed de ipso Deo, quem per fidem 
+      cognosci<lb ed="#P" n="28" break="no"/>mus &amp; per charitatem amamus. Quare consequens 
+      <lb ed="#P" n="29"/>est Deum secundum se nobis praesentem fieri, &amp; 
+      pro<lb ed="#P" n="30" break="no"/>inde Spiritum sanctum secundum se nobis dari. Dixi 
+      <lb ed="#P" n="31"/>autem: licet forte non eodem sensu cum Magistro; 
+      <lb ed="#P" n="32"/>quia Magister in hac sua responsione videri potest eo 
+      <lb ed="#P" n="33"/>tendere, ut doceat charitatem, quae Deidonum est, 
+      <lb ed="#P" n="34"/>non aliam esse quam ipsum Spiritum sanctum, ut 
+      <lb ed="#P" n="35"/>aperte docet dist 17. ubi de ea opinione pluribus est 
+      <lb ed="#P" n="36"/>disserendum. 
+    </p>
+            <p xml:id="bt67yj-k22372-d1e373">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Ex his quae dicta sunt; patet responsio ad rationem 
+      <lb ed="#P" n="38"/>in contrarium adductam. Manifestum est enim 
+      <lb ed="#P" n="39"/>Deum sine ulla sui mutatione, esse incipere alicubi I. 
+      <lb ed="#P" n="40"/>secundum modos enumeratos. Omnis quippe 
+      muta<lb ed="#P" n="41" break="no"/>tio modis illis significata, vel est in creatura dum 
+      in<lb ed="#P" n="42" break="no"/>cipit esse, vel specialiter in natura assumpta, vel in 
+      si<lb ed="#P" n="43" break="no"/>gno usurpato, vel in homine sanctificato. Nec mirum 
+      <lb ed="#P" n="44"/>si Deus alicubi esse incipiat sine sui mutatione, 
+      quan<lb ed="#P" n="45" break="no"/>do &amp; sol iste corporeus, nulla sui mutatione, fit 
+      <lb ed="#P" n="46"/>praesens homini oculos ad eum intuendum aperienti. 
+      <lb ed="#P" n="47"/>Illud autem Joan. 20. Accipite Spiritum sanctum, 
+      <lb ed="#P" n="48"/>quamvis Chrysostomus de donis Spiritus sancti 
+      in<lb ed="#P" n="49" break="no"/>terpretetur; plenius tamen &amp; rectius Augustinus 
+      lo<lb ed="#P" n="50" break="no"/>cis supra indicatis de Spiritu sancto secundum se, 
+      di<lb ed="#P" n="51" break="no"/>ctum intelligit modo jam explicato; tametsi 
+      Chryso<lb ed="#P" n="52" break="no"/>stomi interpretatio etiam in hunc sensum conveniat. 
+      <lb ed="#P" n="53"/>Hoc enim agitur per dona Spiritus sancti in nobis 
+      <lb ed="#P" n="54"/>suscepta, ut ipsum Deum fide, spe, charitate 
+      con<lb ed="#P" n="55" break="no"/>junctum nobis atque praesentem habeamus. Nec 
+      sa<lb ed="#P" n="56" break="no"/>ne aliud vult Chrysostomus, quam Spiritum sanctum 
+      <lb ed="#P" n="57"/>nobis, non dari, quasi ipse mutetur, sed quia nos 
+      mu<lb ed="#P" n="58" break="no"/>tamur, tali operatione seu dono quod circa ipsum 
+      <lb ed="#P" n="59"/>versetur, &amp; non tantum circa dona ejus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

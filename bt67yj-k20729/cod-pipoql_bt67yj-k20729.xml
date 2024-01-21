@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="56"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k20729"><!-- l1d12c1" -->
+            <head xml:id="bt67yj-k20729-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k20729-Hd1e103" type="question-title">Spiritum sanctum nec prius nec plenius a 
+      patre procedere quam a filio</head>
+            <p xml:id="bt67yj-k20729-d1e106">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> IN DISTINCTIONEM 
+      <lb ed="#P" n="6"/>
+               <pc type="indent"/> DUODECIMAM. 
+      <lb ed="#P" n="7"/>§. 1. Spiritum sanctum nec prius nec plenius a 
+      <lb ed="#P" n="8"/>patre procedere quam a filio. 
+    </p>
+            <p xml:id="bt67yj-k20729-d1e122">
+               <lb ed="#P" n="9"/>QUONIAM satis ex superioribus liquet 
+      Spiri<lb ed="#P" n="10" break="no"/>tum sanctum procedere ex patre &amp; filio, 
+      <lb ed="#P" n="11"/>quaeritur nunc, utrum aut prius, aut 
+      ple<lb ed="#P" n="12" break="no"/>nius atque perfectius procedat ex patre quam ex 
+      fi<lb ed="#P" n="13" break="no"/>lio. Ad quod respondendum, si temporis ordo 
+      quae<lb ed="#P" n="14" break="no"/>ritur, dubitandum non esse, quin sicut ab aeterno filius 
+      <lb ed="#P" n="15"/>ex patre genitus est, ita etiam ab aeterno spiritus 
+      san<lb ed="#P" n="16" break="no"/>ctus ex patre filioque processerit. Cum enim 
+      immu<lb ed="#P" n="17" break="no"/>tabilis sit Deus, quicquid in eo est, aeternum est. Unde 
+      <lb ed="#P" n="18"/>illa est ecclesiae in symbolo Athanasii professio, in 
+      <lb ed="#P" n="19"/>Deo nihil esse prius aut posterius. Sed &amp; Augustinus 
+      <lb ed="#P" n="20"/>de hac re peculiariter agens &amp; haereticorum cavillo 
+      <lb ed="#P" n="21"/>respondens lib. 15. de trinitate cap. 26. docet sic 
+      in<lb ed="#P" n="22" break="no"/>telligendam sine tempore spiritus sancti 
+      processio<lb ed="#P" n="23" break="no"/>nem de utroque, sicut intelligitur sine tempore 
+      gene<lb ed="#P" n="24" break="no"/>ratio filii de patre. Cavillum haereticorum cum 
+      res<lb ed="#P" n="25" break="no"/>ponsione Augustini vide in Magistro §. 1. &amp; 2. 
+      Quo<lb ed="#P" n="26" break="no"/>circa Lateranensis synodus sub Innocentio tertio cap. 
+      <lb ed="#P" n="27"/>1. definivit spiritum sanctum ab utroque pariter 
+      abs<lb ed="#P" n="28" break="no"/>que initio, semper &amp; fine, procedere. Porro nec 
+      or<lb ed="#P" n="29" break="no"/>dine dignitatis, aut naturae, quicquam in illa 
+      Trinita<lb ed="#P" n="30" break="no"/>te prius esse posteriusve, patet ex iis quae ad 9. 
+      distin<lb ed="#P" n="31" break="no"/>ctionem dicta sunt. Unde consequitur, nec magis 
+      <lb ed="#P" n="32"/>aut plenius aut perfectius (quae tria idem in 
+      propo<lb ed="#P" n="33" break="no"/>sito significant) spiritum sanctum a patre procedere 
+      <lb ed="#P" n="34"/>quam a filio. Sic enim esset ibi ordo dignitatis, aut 
+      <lb ed="#P" n="35"/>naturae. Idem hac ratione ostenditur: Una 
+      eadem<lb ed="#P" n="36" break="no"/>que spirandi virtus est in patre &amp; filio, quae seipsa nec 
+      <lb ed="#P" n="37"/>major esse potest, nec minor, sicut est eadem in 
+      utro<lb ed="#P" n="38" break="no"/>que divinitas: Imo unus idemque est in utroque 
+      spi<lb ed="#P" n="39" break="no"/>randi actus, qui seipso nequit esse perfectior aut 
+      im<lb ed="#P" n="40" break="no"/>perfectior; sicut in utroque est idem actus 
+      cognos<lb ed="#P" n="41" break="no"/>cendi vel operandi. Certum igitur est nec prius, nec 
+      <lb ed="#P" n="42"/>plenius, id est, perfectius a patre, quam a filio 
+      pro<lb ed="#P" n="43" break="no"/>cedere spiritum sanctum. 
+    </p>
+            <p xml:id="bt67yj-k20729-d1e200">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Verum adversus haec, unus ex Basilio locus objici 
+      <lb ed="#P" n="45"/>potest, in quo dignitatis ordinem ponit, inter 
+      pa<lb ed="#P" n="46" break="no"/>trem, &amp; filium, &amp; spiritum sanctum. Sic enim habet 
+      <lb ed="#P" n="47"/>lib. 3. contra Euno. circa initium: Dignitate spiritum 
+      <lb ed="#P" n="48"/>sanctum secundum esse a filio, pietatis ratio tradit. 
+      <lb ed="#P" n="49"/>Nam quemadmodum filius ordine quidem a patre 
+      se<lb ed="#P" n="50" break="no"/>cundus est, quoniam ab illo est, &amp; dignitate, quoniam 
+      <lb ed="#P" n="51"/>origo atque causa essendi pater ipsi est: ita &amp; spiritus 
+      <lb ed="#P" n="52"/>sanctus dignitate &amp; ordine secundus a filio est. Igitur si 
+      <lb ed="#P" n="53"/>dignitate filius a patre secundus, &amp; spiritus sanctus a 
+      <lb ed="#P" n="54"/>filio, consequens est spiritum sanctum prius ordine 
+      <lb ed="#P" n="55"/>dignitatis procedere a patre, quam a filio. Sed 
+      res<lb ed="#P" n="56" break="no"/>pondetur in his Basilii verbis, dignitatem non aliud 
+      <lb ed="#P" n="57"/>esse, quam autoritatem, id est, rationem principii. 
+      <lb ed="#P" n="58"/>Dicitur ergo filius patre, &amp; spiritus sanctus utroque 
+      <lb ed="#P" n="59"/>esse dignitate posterior, quia pater filii, &amp; uterque 
+      <lb ed="#P" n="60"/>spiritus sancti principium est, sive ut Basilius ipse 
+      ex<lb ed="#P" n="61" break="no"/>ponit, origo &amp; causa essendi. Nec tamen hac ratione 
+      <lb ed="#P" n="62"/>spiritus sanctus a patre prius procedit, quam a filio, 
+      <lb ed="#P" n="63"/>cum procedat unica processione ab utroque; nisi hoc 
+      <lb ed="#P" n="64"/>tantum sensu, quia quod filius sit principium spiritus 
+      <lb ed="#P" n="65"/>sancti, id nascendo a patre accepit; quemadmodum 
+      <lb ed="#P" n="66"/>declarat Augustinus lib. 15. de Trinitate cap. 17.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

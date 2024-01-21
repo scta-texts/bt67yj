@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="9"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k03258"><!-- l1d2c4" -->
+            <head xml:id="bt67yj-k03258-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k03258-Hd1e103" type="question-title">Qui praecipui errores circa Trinitatem 
+        extiterint</head>
+            <p xml:id="bt67yj-k03258-d1e106">
+               <lb ed="#P" n="119"/>§. 4. Qui praecipui errores circa Trinitatem 
+      <lb ed="#P" n="120"/>extiterint.
+    </p>
+            <p xml:id="bt67yj-k03258-d1e113">
+               <lb ed="#P" n="121"/>DE mysterio Trinitatis, hi fere praecipui sunt 
+      <lb ed="#P" n="122"/>errores, jam olim totius Ecclesiae consensu 
+      <lb ed="#P" n="123"/>
+               <!-- line order error -->condemnati.
+    </p>
+            <p xml:id="bt67yj-k03258-d1e124">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/>
+               <!-- line order error --> Primus Judaeorum, qui Trinitatem Personarum 
+      <lb ed="#P" n="125"/>
+               <!-- line order error -->in Deo prorsus negaverunt. Qua in re cum iis 
+      sen<lb ed="#P" n="126" break="no"/>
+               <pc type="indent"/> tiunt <name xml:id="bt67yj-k03258-Nd1e141">Mahumetani</name> &amp; hodierni quidam Haeretici in 
+      <lb ed="#P" n="127"/>Sacro-sanctam Trinitatem impie blasphemi, ob id 
+      <lb ed="#P" n="128"/>Trinitarii vel Antitrinitarii dicti. Ab hoc Judaico 
+      <lb ed="#P" n="129"/>errore, quam minimum distat secundus qui apud 
+      <lb ed="#P" n="130"/>Epiphanium, Philastrium, &amp; Augustinum 
+      scriben<lb ed="#P" n="131" break="no"/>tes de haeresibus, Noetianorum &amp; Sabellianorum 
+      <lb ed="#P" n="132"/>esse dicitur. Hi enim ut naturam, ita &amp; Personam 
+      <lb ed="#P" n="133"/>in Deo non nisi unam agnoscunt; docentes 
+      eun<lb ed="#P" n="134" break="no"/>dem esse Patrem qui Filius, &amp; qui Spiritus sanctus, 
+      <lb ed="#P" n="135"/>videlicet tria nomina ejusdem rei quae rationis 
+      <lb ed="#P" n="136"/>eademque persona alia ratione Pater dicatur, alia 
+      <lb ed="#P" n="137"/>Filius, alia Spiritus sanctus; uti plenius videre est 
+      <lb ed="#P" n="138"/>tantum diversitatem quandam significent, ut una 
+      <lb ed="#P" n="139"/>apud Epiphanium Heresi 42. Iidem haeretici 
+      conse<lb ed="#P" n="140" break="no"/>quenter affirmabant Patrem incarnatum, &amp; passum 
+      <lb ed="#P" n="141"/>esse; unde &amp; Patripassiani appellati sunt, idemque 
+      <lb ed="#P" n="142"/>fatebantur de Spiritu sancto. Breviter autem &amp; 
+      di<lb ed="#P" n="143" break="no"/>lucide refellitur hic error; quia cum Pater sit is qui 
+      <lb ed="#P" n="144"/>genuit, Filius autem qui genitus est, sequeretur, si 
+      <lb ed="#P" n="145"/>idem Pater qui Filius, ut idem seipsum genuerit, &amp; ex 
+      <lb ed="#P" n="146"/>seipso genitus sit; quod est absurdissimum. Oportet 
+      <!--0033.xml-->
+      <pb ed="#P" n="10"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ergo non eundem esse Patrem &amp; Filium, quae proba¬ ¬ 
+      <lb ed="#P" n="2"/>tio etiam Spiritui sancto accommodatur, quem 
+      im<lb ed="#P" n="3" break="no"/>possibile est a seipso procedere. 
+    </p>
+            <p xml:id="bt67yj-k03258-d1e201">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Tertius error est Arianorum, qui sicut personas, 
+      <lb ed="#P" n="5"/>ita &amp; naturas dividebant; in Patre &amp; Filio, 
+      negan<lb ed="#P" n="6" break="no"/>tes Filium esse Patri ὁμουσιον, id est, coessentialem 
+      <lb ed="#P" n="7"/>sive consubstantialem; unde Filium creaturam esse, 
+      <lb ed="#P" n="8"/>&amp; non semper fuisse, &amp; natura mutabilem esse, ac 
+      <lb ed="#P" n="9"/>proinde non proprie, sed participatione quadam, 
+      <lb ed="#P" n="10"/>Deum esse fatebantur; quemadmodum latius videre 
+      <lb ed="#P" n="11"/>est apud Scriptores Historiae Ecclesiasticae. Eam 
+      hae<lb ed="#P" n="12" break="no"/>resim primus doctissime confutavit Alexander 
+      Ale<lb ed="#P" n="13" break="no"/>xandrinus Patriarcha in epistola ad Alexandrum 
+      <lb ed="#P" n="14"/>Constantinopolitanum, &amp; altera ad universas 
+      Ec<lb ed="#P" n="15" break="no"/>clesias. Mox eandem condemnavit Ecclesia 
+      Catholi<lb ed="#P" n="16" break="no"/>ca in magno Concilio Nicaeno. 
+    </p>
+            <p xml:id="bt67yj-k03258-d1e234">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Quartus est Macedonianorum, qui ex Ariano 
+      <lb ed="#P" n="18"/>fonte manavit, quod enim docebat Arius de Filio, 
+      <lb ed="#P" n="19"/>idem affirmabat Macedonius de Spiritu Sancto; 
+      <lb ed="#P" n="20"/>nempe Spiritum Sanctum non ejusdem esse 
+      substan<lb ed="#P" n="21" break="no"/>tiae cum Patre &amp; Filio, sed creaturam Patre 
+      Filio<lb ed="#P" n="22" break="no"/>que minorem, &amp; utriusque administram; sed &amp; hunc 
+      <lb ed="#P" n="23"/>nefarium errorem confestim anathemate 
+      condem<lb ed="#P" n="24" break="no"/>navit Ecclesia in Conc. Constant inopolitano. 
+    </p>
+            <p xml:id="bt67yj-k03258-d1e256">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Quintus est eorum, qui etsi neque Filium, neque 
+      <lb ed="#P" n="26"/>Spiritum Sanctum creaturam esse dicant, neque eos 
+      <lb ed="#P" n="27"/>ex nihilo esse, neque in tempore processisse, sed ab 
+      <lb ed="#P" n="28"/>aeterno, &amp; ex Patris substantia; in quibus omnibus 
+      <lb ed="#P" n="29"/>ab Ario &amp; Macedonio recedunt, docent tamen 
+      Pa<lb ed="#P" n="30" break="no"/>trem, Filium, &amp; Spiritum Sanctum, tres esse spiritus 
+      <lb ed="#P" n="31"/>aeternos, essentiali numero differentes, nec aequales 
+      <lb ed="#P" n="32"/>inter se, sed Patrem caeteris esse longe eminentiorem. 
+      <lb ed="#P" n="33"/>Ita docuerunt hoc saeculo novi Ariani authore 
+      quo<lb ed="#P" n="34" break="no"/>dam Valentino Gentili: dico novos Arianos. Satis 
+      <lb ed="#P" n="35"/>enim ea sententia convenit cum doctrina quam 
+      tra<lb ed="#P" n="36" break="no"/>diderunt olim Ariani posteriores, ut Maximinus 
+      <lb ed="#P" n="37"/>contra quem disputat August. &amp; alii, &amp; cum 
+      do<lb ed="#P" n="38" break="no"/>gmate Peratarum quorum meminit Theodoretus 
+      <lb ed="#P" n="39"/>lib. 1. haeretic. Fab. cap. 18. qui Trinitatem 
+      dice<lb ed="#P" n="40" break="no"/>bant esse tres Deos, tres rationes, tres mentes; nec ab 
+      <lb ed="#P" n="41"/>ea sententia discrepare videtur quod docuis Abbas 
+      <lb ed="#P" n="42"/>Joachim, tres Personas non esse rem, sive essentiam 
+      <lb ed="#P" n="43"/>numero unam, sed collectione; quomodo multi 
+      fi<lb ed="#P" n="44" break="no"/>deles sunt una Ecclesia. Quae ejus doctrina damnata 
+      <lb ed="#P" n="45"/>est in magno Lateran. Concilio sub Innocentio 3. 
+      <lb ed="#P" n="46"/>Porro quibus argumentis errores refellendi sint, &amp; 
+      <lb ed="#P" n="47"/>Catholica doctrina confirmanda; partim accipi 
+      po<lb ed="#P" n="48" break="no"/>test ex dictis capite superiori, partim vero, ac 
+      ple<lb ed="#P" n="49" break="no"/>nius de singulis infra patebit suis locis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

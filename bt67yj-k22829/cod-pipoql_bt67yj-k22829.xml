@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="61"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k22829"><!-- l1d14c5" -->
+            <head xml:id="bt67yj-k22829-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k22829-Hd1e103" type="question-title">Utrum fatendum sit homines dare Spiritum 
+      sanctum</head>
+            <p xml:id="bt67yj-k22829-d1e106">
+               <lb ed="#P" n="106"/>§. 5. Utrum fatendum sit homines dare Spiritum 
+      <lb ed="#P" n="107"/>sanctum.
+    </p>
+            <p xml:id="bt67yj-k22829-d1e113">
+               <lb ed="#P" n="108"/>DIctum est supra, missionis vocabulo insinuari 
+      <lb ed="#P" n="109"/>quo manifeste consequitur, nullo modo dicendum 
+      <lb ed="#P" n="110"/>homines mittere spiritum sanctum. Neque enim dici 
+      <lb ed="#P" n="111"/>potest, spiritum sanctum ab hominibus originem 
+      ali<lb ed="#P" n="112" break="no"/>quo modo habere. Sed cum dationis nomen, nihil 
+      ta<lb ed="#P" n="113" break="no"/>Doriginem ejus qui mittitur ab eo qui mittit. Ex 
+      <lb ed="#P" n="114"/>le importet; quaeritur utrum saltem recte dicatur, 
+      <lb ed="#P" n="115"/>dari posse ab hominibus Spiritum sanctum. Cui 
+      quae<lb ed="#P" n="116" break="no"/>stioni clarius respondebitur, si distinxerimus varios 
+      <lb ed="#P" n="117"/>dandi modos, secundum quos intelligi queat 
+      Spiri<lb ed="#P" n="118" break="no"/>tum sanctum ab aliquo dari. Uno igitur modo, dare 
+      <lb ed="#P" n="119"/>rem aliquam ille dicitur, qui cum Dominus sit rei, 
+      do<lb ed="#P" n="120" break="no"/>minium ejus donatione transfert in alium, quomodo 
+      <lb ed="#P" n="121"/>quis alteri dare dicitur agrum vel pecuniam. Hoc 
+      au<lb ed="#P" n="122" break="no"/>tem modo impossibile est, dari Spiritum sanctum ne 
+      <lb ed="#P" n="123"/>quidem a Deo, cum Spiritus sanctus nullius sit 
+      domi<lb ed="#P" n="124" break="no"/>nio subjectus, sed ipse cum Patre &amp; Filio sit Deus &amp; 
+      <lb ed="#P" n="125"/>Dominus omnium.
+    </p>
+            <p xml:id="bt67yj-k22829-d1e155">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Secundo dare dicitur ille qui sua virtute vel 
+      autho<lb ed="#P" n="127" break="no"/>ritate tanquam causa principalis efficit, ut res aliqua 
+      <lb ed="#P" n="128"/>ab alio habeatur, sive ipsius rei causa sit sive non; 
+      <lb ed="#P" n="129"/>quomodo inter homines pater filio dat animam seu 
+      <lb ed="#P" n="130"/>vitam, licet ipsius animae proprie non sit causa. Hoc 
+      <lb ed="#P" n="131"/>modo Spiritus sanctus a patre &amp; filio, atque a seipso 
+      <lb ed="#P" n="132"/>datur, non autem ab homine puro quantumcunque 
+      <lb ed="#P" n="133"/>sancto. Nam sanctificatio per quam ab hominibus 
+      <lb ed="#P" n="134"/>Spiritus sanctus habetur, principaliter solius est 
+      divi<lb ed="#P" n="135" break="no"/>nae virtutis. Qua ratione Joan. 1. dictum est de 
+      <lb ed="#P" n="136"/>Christo: Hic est qui baptizat in Spiritu sancto. Et 1. 
+      <lb ed="#P" n="137"/>Cor. 3. Qui incrementum dat Deus. Et Isa. 43. Ego 
+      <lb ed="#P" n="138"/>ipse qui deleo iniquitates tuas. De hoc modo dandi 
+      <lb ed="#P" n="139"/>Spiritum sanctum loquitur Augustinus lib. 15. de 
+      <lb ed="#P" n="140"/>Trinit. cap. 26. &amp; aliis locis compluribus, in quibus 
+      <lb ed="#P" n="141"/>negat homines dare posse Spiritum sanctum. 
+    </p>
+            <p xml:id="bt67yj-k22829-d1e195">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Tertio dicitur quispiam aliquid dare voto, 
+      suf<lb ed="#P" n="143" break="no"/>fragio, merito, aut alia simili occulta 
+      communica<lb ed="#P" n="144" break="no"/>tione ejus quod in ipso est. Quo modo soli sancti &amp; 
+      <!--0085.xml-->
+      <pb ed="#P" n="62"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>justi homines, nimirum ipsi Spiritum sanctum 
+      haben<lb ed="#P" n="2" break="no"/>tes dare dicuntur Spiritum sanctum. Et de hoc modo 
+      <lb ed="#P" n="3"/>intelligenda sunt quaedam Augustini loca, scribentis 
+      <lb ed="#P" n="4"/>contra Donatistas, ubi dicit Ecclesiam, id est, sanctos 
+      <lb ed="#P" n="5"/>qui in Ecclesia sunt, quique sunt Ecclesiae pars potior, 
+      <lb ed="#P" n="6"/>ac Deo conjunctior, suis precibus &amp; gemitibus 
+      pec<lb ed="#P" n="7" break="no"/>cata remittere &amp; Spiritum sanctum dare, ut libr. 3. 
+      <lb ed="#P" n="8"/>contra Donatistas cap. 18. &amp; lib. 7. cap. 12. &amp; 43. 
+      <lb ed="#P" n="9"/>Tract. 121. in Joan. &amp; hom. 23. inter 50. Item 
+      Am<lb ed="#P" n="10" break="no"/>brosius in illud Luc. 19. Solvite &amp; adducite, &amp; 
+      Theo<lb ed="#P" n="11" break="no"/>phylactus in Matt. 18. 
+    </p>
+            <p xml:id="bt67yj-k22829-d1e237">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Postremo dicitur quis dare aliquid suo ministerio, 
+      <lb ed="#P" n="13"/>vel per modum instrumenti. Hoc modo homines 
+      <lb ed="#P" n="14"/>etiam mali dare possunt Spiritum sanctum, non 
+      om<lb ed="#P" n="15" break="no"/>nes tamen, sed illi soli, qui in Ecclesia constituti sunt 
+      <lb ed="#P" n="16"/>sacramentorum ministri. Hinc apud Apostolum 2. 
+      <lb ed="#P" n="17"/>Cor. 3. Ministerium novi Testamenti vocatur 
+      mini<lb ed="#P" n="18" break="no"/>stratio Spiritus. Hinc quoque generatim ad 
+      Aposto<lb ed="#P" n="19" break="no"/>los inter quos erat Judas dictum est a Domino, Matt. 
+      <lb ed="#P" n="20"/>10. Gratis accepistis, gratis date. Quod quidem etiam 
+      <lb ed="#P" n="21"/>de Spiritu sancto intelligi satis declarat Petrus Act. 8. 
+      <lb ed="#P" n="22"/>in reprehensione Simonis Magi; &amp; quanquam eodem 
+      <lb ed="#P" n="23"/>cap. non dicatur aperte Apostolos dedisse Spiritum 
+      <lb ed="#P" n="24"/>sanctum, sed tantum quod per impositionem manus 
+      <lb ed="#P" n="25"/>Apostolorum dabatur Spiritus sanctus; Veteres 
+      ta<lb ed="#P" n="26" break="no"/>men hoc ita intellexerunt, ut a ministris sacramento 
+      <lb ed="#P" n="27"/>rum dari significetur Spiritus sanctus. Unde 
+      Cypria<lb ed="#P" n="28" break="no"/>nus lib. I. epist. 13. omnem eum qui baptizat, Spiritum 
+      <lb ed="#P" n="29"/>sanctum dare dicit. Quod multo magis in 
+      sacramen<lb ed="#P" n="30" break="no"/>tis confirmationis &amp; ordinis veritatem habere, satis 
+      <lb ed="#P" n="31"/>est ex Patrum scriptis manifestum. Nam &amp; initiandis 
+      <lb ed="#P" n="32"/>presbyterio dicit in ipsa ordinatione Episcopus: 
+      Ac<lb ed="#P" n="33" break="no"/>cipite Spiritum sanctum, nimirum significans se suo 
+      <lb ed="#P" n="34"/>ministerio dare ordinandis Spiritum sanctum. Hoc 
+      <lb ed="#P" n="35"/>modo loquuntur summi Pontifices, Innocentius I. 
+      <lb ed="#P" n="36"/>epist. 1. c. 3. Joannes III. in epist. contra 
+      chorepisco<lb ed="#P" n="37" break="no"/>pos ed ita, &amp; Innocentius III. extra de sacra unctione, 
+      <lb ed="#P" n="38"/>cap. unico: Item Isidorus lib. 7. etymol. capit. 12. &amp; 
+      <lb ed="#P" n="39"/>habetur apud Gratianum dist. 21. cap. Clerus, Beda 
+      <lb ed="#P" n="40"/>&amp; OEcumenius in Act. 8. atque alii. 
+    </p>
+            <p xml:id="bt67yj-k22829-d1e305">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Denique sicut remissio peccatorum recte dicitur 
+      <lb ed="#P" n="42"/>dari ab hominibus propter ministerium, juxta illud 
+      <lb ed="#P" n="43"/>Joan. 20. Quorum remiseritis peccata, &amp;c. ita &amp; 
+      Spi<lb ed="#P" n="44" break="no"/>ritus sanctus ratione ejusdem ministerii, quo facit 
+      <lb ed="#P" n="45"/>homo, ut ab aliquo Spiritus sanctus habeatur. Unde 
+      <lb ed="#P" n="46"/>in quadam oratione Ecclesiae Spiritus sanctus vocatur 
+      <lb ed="#P" n="47"/>remissio peccatorum feria 3. Pent. post com. Huic 
+      <lb ed="#P" n="48"/>porro non dissimile est quod Apostolus Roman. 1. 
+      <lb ed="#P" n="49"/>optat Romanos accedere, ut impertiatur eis aliquid 
+      <lb ed="#P" n="50"/>gratiae spiritalis, &amp; quod Eph. 4. sermonem bonum 
+      <lb ed="#P" n="51"/>dicit ad hoc valere, ut det gratiam audientibus. 
+      <lb ed="#P" n="52"/>Quodque Leo Pontifex sermon. de omnibus Sanctis 
+      <lb ed="#P" n="53"/>loquens de sancto Petro, dicit eum tantam dedisse 
+      di<lb ed="#P" n="54" break="no"/>vinae gratiae largitatem, ut multa millia credentium 
+      <lb ed="#P" n="55"/>sanaret in cordibus. Quod autem Paulus ait Gal. 3. 
+      <lb ed="#P" n="56"/>Qui tribuit vobis spiritum, non huc pertinet, sed ad 
+      <lb ed="#P" n="57"/>secundum modum. Non enim hoc de se dicit 
+      Aposto<lb ed="#P" n="58" break="no"/>lus, quomodo Magister intellexit, sed de Deo, juxta 
+      <lb ed="#P" n="59"/>omnium fere interpretationem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

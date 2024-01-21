@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="6"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k01903"><!-- l1d1c6" -->
+            <head xml:id="bt67yj-k01903-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k01903-Hd1e103" type="question-title">De iis rebus quae utuntur vel fruuntur</head>
+            <p xml:id="bt67yj-k01903-d1e106">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> §. 6. De iis rebus quae utuntur vel fruuntur. 
+    </p>
+            <p xml:id="bt67yj-k01903-d1e113">
+               <lb ed="#P" n="13"/>TUnc breviter exponendum, quae sint res, 
+      qui<lb ed="#P" n="14" break="no"/>Nbus utendi aut fruendi facultas competat. 
+      Ma<lb ed="#P" n="15" break="no"/>nifestum est enim, non omnibus competere. Cum 
+      <lb ed="#P" n="16"/>enim uti &amp; frui sint actus voluntatis rationalis, sive 
+      <lb ed="#P" n="17"/>intellectualis; consequens est, solam &amp; omnem 
+      in<lb ed="#P" n="18" break="no"/>tellectualem substantiam, rebus uti aut frui posse. Et 
+      <lb ed="#P" n="19"/>quidem de angelis &amp; hominibus, quod, &amp; quomodo 
+      <lb ed="#P" n="20"/>rebus utantur aut fruantur, bene vel male satis liquet 
+      <lb ed="#P" n="21"/>ex superioribus. Quomodo autem Deus, qui est 
+      sub<lb ed="#P" n="22" break="no"/>stantia increata, frui vel etiam utidicatur re aliqua, 
+      <lb ed="#P" n="23"/>plenius explicandum. Atque imprimis fatendum est 
+      <lb ed="#P" n="24"/>Deum frui non alia quapiam re; sed seipso tantum. 
+      <lb ed="#P" n="25"/>Nam se ipso beatus est, &amp; in seipso conquiescit, solus 
+      <lb ed="#P" n="26"/>per scipsum, &amp; in seipso, ut perfectissimus, ita 
+      foeli<lb ed="#P" n="27" break="no"/>cissimus. Fruitur autem seipso, non eodem prorsus 
+      <lb ed="#P" n="28"/>modo quo creatura ipso fruitur, haec enim in illo 
+      con<lb ed="#P" n="29" break="no"/>quiescit, tanquam in ultimo suo fine, caeteris utens 
+      <lb ed="#P" n="30"/>ad hunc finem consequendum: Deus autem, proprie 
+      <lb ed="#P" n="31"/>finem non habet, quia Dei nulla est causa. Unde nec 
+      <lb ed="#P" n="32"/>sibi ipsi proprie finis est; quia nec sui ipsius causa est, 
+      <lb ed="#P" n="33"/>nec sibi ipsi causa alicujus boni. Neque etiam, ad hoc 
+      <lb ed="#P" n="34"/>ut seipso fruatur, rebus aliis utitur; cum bonorum 
+      no<lb ed="#P" n="35" break="no"/>strorum non egeat, Psal. 15. &amp; ante omnem creaturam 
+      <lb ed="#P" n="36"/>ab aeterno perfectissime beatus fuerit. Sed frui seipso 
+      <lb ed="#P" n="37"/>dicitur; quia cum sit in seipso perfectus, sibique per 
+      <lb ed="#P" n="38"/>omnia sufficiens, &amp; sibi semper praesens, in seipso, 
+      tan<lb ed="#P" n="39" break="no"/>quam infinito bono, perfectissime delectatur, nihil 
+      <lb ed="#P" n="40"/>habens extra se, quo velut ad finem bonum illud 
+      <lb ed="#P" n="41"/>summum, id est, seipsum referat. Ipse igitur est &amp; 
+      <lb ed="#P" n="42"/>fruens, &amp; id quo fruitur, &amp; fruitio ipsa. Nihil 
+      e<lb ed="#P" n="43" break="no"/>nim horum, in illa simplicissima natura, tanquam 
+      <lb ed="#P" n="44"/>diversum aliud ab alio cogitari debet. 
+    </p>
+            <p xml:id="bt67yj-k01903-d1e185">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Porro Deum seipso frui testatur Gregorius lib. 32. 
+      <lb ed="#P" n="46"/>Mor. cap. 7. de eo dicens: Ipse vere gloriosus est, 
+      <lb ed="#P" n="47"/>qui dum seipso perfruitur, accedentis laudis indigens 
+      <lb ed="#P" n="48"/>non est. Ubi &amp; de usu subjicit in hunc modum: Ipse 
+      <lb ed="#P" n="49"/>speciosis induitur vestibus, quia sanctorum angelorum 
+      <lb ed="#P" n="50"/>choros, quos condidit, in usum sui decoris assumpsit. 
+      <lb ed="#P" n="51"/>Igitur quod ad usum attinet rebus omnibus a se 
+      di<lb ed="#P" n="52" break="no"/>versis utitur Deus: tametsi longe alia ratione, quam 
+      <lb ed="#P" n="53"/>iisdem rebus utantur homines, quemadmodum 
+      <lb ed="#P" n="54"/>recte docet Augustinus lib. 1. de doct. Chr. cap. 31. 
+      <lb ed="#P" n="55"/>&amp; 32. Homines enim rebus utuntur tanquam sibi 
+      <lb ed="#P" n="56"/>commodis aut necessariis, ad finem suum 
+      consequen<lb ed="#P" n="57" break="no"/>dum: Deus autem, iis uti dicitur, quando eas 
+      or<lb ed="#P" n="58" break="no"/>dinat in finem aliquem; finem, inquam, non Dei, 
+      <lb ed="#P" n="59"/>sed rerum ipsarum. Quod ut exemplo declaretur. 
+      <lb ed="#P" n="60"/>Utitur Deus homine, dum eum per gratiam suam 
+      <lb ed="#P" n="61"/>dirigit in ultimum ejus finem, id est, in Deum ipsum 
+      <lb ed="#P" n="62"/>quo aliquando perfruatur; utitur &amp; hominibus 
+      ma<lb ed="#P" n="63" break="no"/>lis, dum eos, eorumque actiones ordinat, ad 
+      de<lb ed="#P" n="64" break="no"/>clarandam suam in eorum punitione justitiam, vel 
+      <lb ed="#P" n="65"/>ad probandum justorum patientiam, vel ad aliud 
+      si<lb ed="#P" n="66" break="no"/>mile bonum. Quae quidem bona sunt, &amp; fines, non 
+      <lb ed="#P" n="67"/>ipsius Dei sed hominum; malorum quidem tanquam 
+      <lb ed="#P" n="68"/>instrumentorum, seu mediorum quae ad tales fines a 
+      <lb ed="#P" n="69"/>Deo ordinantur; bonorum vero, quia boni, per illa 
+      <lb ed="#P" n="70"/>media fines istos tanquam bona quaedam sua 
+      asse<lb ed="#P" n="71" break="no"/>quuntur. Bonum enim illis est &amp; justitiam Dei 
+      de<lb ed="#P" n="72" break="no"/>clarari, &amp; ipsorum probari patientiam. Similis ex¬ 
+      <!--0029.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>plicatio in rebus caeteris adhiberi potest; imo in 
+      om<lb ed="#P" n="74" break="no"/>niactione tam mala quam bona. Neque enim mala, 
+      <lb ed="#P" n="75"/>id est, peccata esse sineret optimus idemque 
+      omni<lb ed="#P" n="76" break="no"/>potens Deus, nisi sciret, etiam illis bene uti, 
+      quemad<lb ed="#P" n="77" break="no"/>modum docet Augustinus Ench. 11. 27. &amp; 100. id est, 
+      <lb ed="#P" n="78"/>nisi posiet &amp; vellet ea ordinare in finem aliquem 
+      <lb ed="#P" n="79"/>congruum homini vel alii cuicunque creaturae. 
+      Ad<lb ed="#P" n="80" break="no"/>de quod si homo peccatis tam suis quam alienis bene 
+      <lb ed="#P" n="81"/>uti potest, ut supra dictum est, consequens est, Deum 
+      <lb ed="#P" n="82"/>multo magis posse bene uti peccatis, non quidem 
+      <lb ed="#P" n="83"/>suis; quia peccatum in Deum non cadit: sed alienis, 
+      <lb ed="#P" n="84"/>vel hominum, vel angelorum; praesertim, cum hoc 
+      <lb ed="#P" n="85"/>ipsum, quod homo bene utitur peccatis, Dei sit 
+      <lb ed="#P" n="86"/>opus, quod ipse in homine operatur. Patet ex dictis 
+      <lb ed="#P" n="87"/>quo sensu Deus operari dicatur propter finem. 
+      Ope<lb ed="#P" n="88" break="no"/>ratur namque propter finem increatum, quando 
+      <lb ed="#P" n="89"/>seipsum creaturis omnibus earumque operationibus, 
+      <lb ed="#P" n="90"/>quarum omnium ipse author est, finem praestituit, 
+      <lb ed="#P" n="91"/>juxta illud Prov. 16. Umversa propter semetipsum 
+      ope<lb ed="#P" n="92" break="no"/>ratus est Dominus, id est, omnia fecit propter 
+      glo<lb ed="#P" n="93" break="no"/>riam suam. Ad hanc enim tanquam ultimum finem 
+      <lb ed="#P" n="94"/>omnia quae Deus facit, ipso dirigente referuntur. 
+      <lb ed="#P" n="95"/>Nec aliud significasse videtur Augustinus, quando 
+      <lb ed="#P" n="96"/>lib. I. de doctr. Christ. cap. 31. dixit, Nos quidem res 
+      <lb ed="#P" n="97"/>quibus utimur, ad id referre, ut Dei bonitate 
+      per<lb ed="#P" n="98" break="no"/>fruamur; Deum vero ad suam bonitatem usum 
+      no<lb ed="#P" n="99" break="no"/>strum referre. Et infra; Ille igitur usus qui dicitur 
+      <lb ed="#P" n="100"/>Dei, quo nobis utitur, non ad ejus sed ad nostram uti 
+      <lb ed="#P" n="101"/>litatem refertur; ad ejus autem tantummodo 
+      bonita<lb ed="#P" n="102" break="no"/>tem. Nam utrobique bonitatem, intellige 
+      declaran<lb ed="#P" n="103" break="no"/>dam, quae bonitatis divinae declaratio atque 
+      osten<lb ed="#P" n="104" break="no"/>sio, gloria Dei est. Sed &amp; hoc de malis, eatenus 
+      ve<lb ed="#P" n="105" break="no"/>rum est, quia Deus mala quae non ab ipso fiunt, sed 
+      <lb ed="#P" n="106"/>a creatura deficiente, ordinare novit ad gloriam 
+      <lb ed="#P" n="107"/>suam: dum ea puniens, in opere justitiae suae 
+      glorifi<lb ed="#P" n="108" break="no"/>catur, juxta illud Prov. ibidem. Impium quoque ad 
+      <lb ed="#P" n="109"/>diem malum, scilicet operatus est, seu ordinavit 
+      <lb ed="#P" n="110"/>Deus propter semetipsum, id est, ad gloriam suam. 
+      <lb ed="#P" n="111"/>sit una, finis alterius, exempli gratia, homo finis mun¬ 
+    </p>
+            <p xml:id="bt67yj-k01903-d1e340">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Operatur etiam Deus propter creatum finem, 
+      <lb ed="#P" n="113"/>quando in rebus creatis eum constituit ordinem, ut 
+      <lb ed="#P" n="114"/>di visibilis, sanitas medicae potionis, &amp; ita in aliis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

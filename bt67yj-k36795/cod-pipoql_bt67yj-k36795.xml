@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="98"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k36795"><!-- l1d33c3" -->
+            <head xml:id="bt67yj-k36795-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k36795-Hd1e103" type="question-title">Refelluntur errores circa ea, quibus persona 
+        distinguuntur</head>
+            <p xml:id="bt67yj-k36795-d1e106">
+               <lb ed="#P" n="90"/>§. 3. Refelluntur errores circa ea, quibus persona 
+      <lb ed="#P" n="91"/>distinguuntur.
+    </p>
+            <p xml:id="bt67yj-k36795-d1e113">
+               <lb ed="#P" n="92"/>CIrca personarum divinarum distinctionem 
+      erra<lb ed="#P" n="93" break="no"/>Sverunt non solum Sabellius, qui eam omnino 
+      <lb ed="#P" n="94"/>sustulit, &amp; in solo rationis humanae figmento 
+      collo<lb ed="#P" n="95" break="no"/>cavit; sed &amp; alii, qui eam veram &amp; realem esse 
+      con<lb ed="#P" n="96" break="no"/>fitentes, non satis Catholice defendere atque 
+      expli<lb ed="#P" n="97" break="no"/>care conati sunt. Ut enim omittamus Arium 
+      haereti<lb ed="#P" n="98" break="no"/>cum, qui personas essentialiter distingui docuit, 
+      quo<lb ed="#P" n="99" break="no"/>modo differt creator a creatura, quidam ex 
+      recentio<lb ed="#P" n="100" break="no"/>ribus dixerunt, distingui personas non per 
+      relatio<lb ed="#P" n="101" break="no"/>nes, sed per quaedam absoluta, ponentes ea non 
+      mo<lb ed="#P" n="102" break="no"/>do distincta inter se, verum etiam ab essentia 
+      per<lb ed="#P" n="103" break="no"/>sonisque discreta. Quae sententia prorsus absurda est, 
+      <lb ed="#P" n="104"/>&amp; ab Ecclesiae sensu aliena. Neque enim aut 
+      pa<lb ed="#P" n="105" break="no"/>tres, aut concilia, quicquam absolutum in divinis 
+      <lb ed="#P" n="106"/>agnoverunt, quod non facerent tribus personis 
+      <lb ed="#P" n="107"/>commune. 
+    </p>
+            <p xml:id="bt67yj-k36795-d1e150">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Alii fatebantur quidem personas a relationibus 
+      <lb ed="#P" n="109"/>distinctionem accipere, sed has relationes dicebant 
+      <lb ed="#P" n="110"/>ab essentia &amp; personis reipsa distingui; quippe quae 
+      <lb ed="#P" n="111"/>non internae essent Deo, vel personis divinis, sed uti 
+      <lb ed="#P" n="112"/>aiebant, extrinsecus illis affixae. Cujus erroris author 
+      <lb ed="#P" n="113"/>fuit <name xml:id="bt67yj-k36795-Nd1e167">Gilbertus Porretanus Pictavorum Episcopus</name>. 
+      <lb ed="#P" n="114"/>Qui etiam eo progressus est absurditatis, ut ipsam 
+      <lb ed="#P" n="115"/>divinitatem Deum esse negaret. Quem ejus errorem 
+      <lb ed="#P" n="116"/>cum aliis recenset, &amp; refutat sanctus Bernardus 
+      ser<lb ed="#P" n="117" break="no"/>mone 80. in Cantica, addens se praesente, illum suos 
+      <lb ed="#P" n="118"/>errores tandem recantasse in concilio Remensi jussu 
+      <lb ed="#P" n="119"/>Eugenii III. coacto. 
+    </p>
+            <p xml:id="bt67yj-k36795-d1e184">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Ut autem hic ejus error, de quo nunc agimus, 
+      <lb ed="#P" n="121"/>perspiciatur, notandum quod in relationibus creatis, 
+      <lb ed="#P" n="122"/>duo consideranda veniant; alterum quod sint 
+      acci<lb ed="#P" n="123" break="no"/>dentia; alterum quod eorum natura consistat in 
+      res<lb ed="#P" n="124" break="no"/>pectu ad aliud. Illud multis aliis commune est, ut pote 
+      <lb ed="#P" n="125"/>accidentibus absolutis, hoc autem relativis 
+      pro<lb ed="#P" n="126" break="no"/>prium. Jam vero quicquid accidens est in creaturis, 
+      <lb ed="#P" n="127"/>Deo attributum, substantia est, ut potentia, 
+      sapien<lb ed="#P" n="128" break="no"/>tia, bonitas, &amp; caetera. Quare &amp; relatio quatenus in 
+      <lb ed="#P" n="129"/>creaturis accidens est, &amp; inhaerens quiddam, hac 
+      ra<lb ed="#P" n="130" break="no"/>tione si Deo tribuatur, substantia est, ut est paternitas 
+      <lb ed="#P" n="131"/>&amp; filiatio. Caeterum praeter hoc etiam propriam 
+      eo<lb ed="#P" n="132" break="no"/>rum quae sunt ad aliquid rationem, relatio retinet in 
+      <lb ed="#P" n="133"/>Deo, qua nempe fiat, ut per illam persona personam, 
+      <lb ed="#P" n="134"/>tanquam aliquid a se distinctum, &amp;, ut loquuntur, 
+      <lb ed="#P" n="135"/>intrinsecum respiciat. Hanc autem propriam 
+      relati<lb ed="#P" n="136" break="no"/>vorum rationem, ita Porretanus prae oculis habuit, ut 
+      <lb ed="#P" n="137"/>alterum illud, quod iis est cum accidentibus 
+      ab<lb ed="#P" n="138" break="no"/>solutis commune, scilicet inhaerere atque internum 
+      <lb ed="#P" n="139"/>esse ei cui convenit, non consideraret. Qua 
+      qui<lb ed="#P" n="140" break="no"/>dem communi ratione jam ostensum est relationem 
+      <lb ed="#P" n="141"/>Deo attributam esse ipsam ejus substantiam. 
+      At<lb ed="#P" n="142" break="no"/>que ex hoc fundamento recte error iste refutatur, 
+      <lb ed="#P" n="143"/>quemadmodum id docte facit <ref xml:id="bt67yj-k36795-Rd1e240">sanctus Thomas 1. 
+      <!--0122.xml-->
+      <pb ed="#P" n="99"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quaest. 28. artic. 2</ref>. Pertinent praeterea ad hujus 
+      er<lb ed="#P" n="2" break="no"/>roris confutationem quae contra opinionem <name xml:id="bt67yj-k36795-Nd1e253">Abbatis 
+      <lb ed="#P" n="3"/>Joachim</name> dicta sunt ad 5. distinction. &amp; quae de 
+      sim<lb ed="#P" n="4" break="no"/>plicitate essentiae divinae ad 8. &amp; quae circa 
+      praesen<lb ed="#P" n="5" break="no"/>tem distinctionem de relationum identitate cum 
+      es<lb ed="#P" n="6" break="no"/>sentia &amp; personis. Denique quo argumento sanctus 
+      <lb ed="#P" n="7"/>Bernardus sermone supra dicto probat divinitatem 
+      <lb ed="#P" n="8"/>esse Deum, quia nimirum non est aliquid aliud a 
+      <lb ed="#P" n="9"/>Deo, eodem perinde probatur, paternitatem esse 
+      pa<lb ed="#P" n="10" break="no"/>trem &amp; ita de aliis relationibus. Ex plurimis quoque 
+      <lb ed="#P" n="11"/>sancti Augustini locis, quibus hoc idem ostendi 
+      po<lb ed="#P" n="12" break="no"/>test, suffecerit in praesens, quod apud eum legitur lib. 
+      <lb ed="#P" n="13"/>11. de Civitate Dei, cap. 10. ubi diserte docet idec 
+      <lb ed="#P" n="14"/>simplicem esse Dei naturam, quod in ea non sit aliud 
+      <lb ed="#P" n="15"/>habens &amp; aliud quod habetur, excepto quod 
+      relati<lb ed="#P" n="16" break="no"/>ve alterum ad alterum dicitur. Cum ergo 
+      paterni<lb ed="#P" n="17" break="no"/>tas, non ad patrem relative dicatur, sed tantum ad 
+      <lb ed="#P" n="18"/>filium, constat ibi, non aliud esse patrem, aliud 
+      pa<lb ed="#P" n="19" break="no"/>ternitatem, sed hoc esse illud. Idemque judicium de 
+      <lb ed="#P" n="20"/>caeteris. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

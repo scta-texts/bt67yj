@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="106"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k39706"><!-- l1d37c4" -->
+            <head xml:id="bt67yj-k39706-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k39706-Hd1e103" type="question-title">An Deo proprium sit esse ubique</head>
+            <p xml:id="bt67yj-k39706-d1e106">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> §. 4. An Deo proprium sit esse ubique.
+    </p>
+            <p xml:id="bt67yj-k39706-d1e113">
+               <lb ed="#P" n="64"/>AD quaestionem, quae hoc loco moveri solet, an 
+      <lb ed="#P" n="65"/>Aesse ubique sit Deo proprium, absque 
+      dubita<lb ed="#P" n="66" break="no"/>tione respondendum est affirmative. Sic enim 
+      scri<lb ed="#P" n="67" break="no"/>pturae &amp; patres. Deo proprium faciunt ubique esse 
+      <lb ed="#P" n="68"/>sicut semper esse. Scripturae quidem Psal. 138. 
+      Je<lb ed="#P" n="69" break="no"/>rem. 23. Sap. 1. Job. 11. &amp; alibi. Patres vero dum hoc 
+      <lb ed="#P" n="70"/>argumento contra Arianos probant Spiritum 
+      san<lb ed="#P" n="71" break="no"/>ctum, non esse creaturam, quia ubique est, ut 
+      Am<lb ed="#P" n="72" break="no"/>rosius libr. 1. de Spiritu sancto cap. 7. 9. &amp; 10. &amp; 
+      <!--0129.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Augustinus lib. 3. contra Maximinum capit. 21. &amp; 
+      <lb ed="#P" n="74"/>
+               <pc type="indent"/> alii quos allegavimus cum de divinitate Spiritus 
+      san<lb ed="#P" n="75" break="no"/>cti ageremus. 
+    </p>
+            <p xml:id="bt67yj-k39706-d1e148">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Verum id juxta certum modum intelligendum est. 
+      <lb ed="#P" n="77"/>Nam si totum universum esset unum corpus, esset 
+      <lb ed="#P" n="78"/>id ubique, quia omni in loco partem aliquam sui 
+      <lb ed="#P" n="79"/>haberet. Sic mundus est ubique secundum aliquas 
+      <lb ed="#P" n="80"/>partes, sic &amp; materia prima: Sed &amp; angelus sicut 
+      <lb ed="#P" n="81"/>pluribus in locis, ita per totum universum operari 
+      <lb ed="#P" n="82"/>&amp; proinde esse poterit, aucta per divinam potentiam 
+      <lb ed="#P" n="83"/>ejus virtute operativa. Sed Deus primo &amp; per se 
+      ubi<lb ed="#P" n="84" break="no"/>que est. Primo quidem, quia in omnibus &amp; singulis 
+      <lb ed="#P" n="85"/>locis &amp; locorum partibus totus est. Per se vero, quia 
+      <lb ed="#P" n="86"/>non per accidens ex suppositione aliqua facta, sicut 
+      <lb ed="#P" n="87"/>modo de angelo diximus, quomodo &amp; anima ubique 
+      <lb ed="#P" n="88"/>esset, si nulla existeret creatura praeter unum 
+      homi<lb ed="#P" n="89" break="no"/>nem. Sic igitur (inquit S. Thomas art. 4. 
+      quaestio<lb ed="#P" n="90" break="no"/>nis supra citatae) <quote xml:id="bt67yj-k39706-Qd1e184">esse ubique primo &amp; per se convenit 
+      <lb ed="#P" n="91"/>Deo, estque proprium ejus, quia quotcunque loca 
+      <lb ed="#P" n="92"/>ponantur oportet quod in quolibet sit Deus, non 
+      se<lb ed="#P" n="93" break="no"/>cundum partem, sed secundum seipsum</quote>. Quae 
+      qui<lb ed="#P" n="94" break="no"/>dem doctrina veritatem habet secundum tres 
+      mo<lb ed="#P" n="95" break="no"/>dos initio declaratos, scilicet potentiae, praesentiae &amp; 
+      <lb ed="#P" n="96"/>essentiae. 
+    </p>
+            <p xml:id="bt67yj-k39706-d1e202">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Patet igitur hoc quod est esse ubique secundum 
+      <lb ed="#P" n="98"/>intellectum jam datum, nulli creaturae communicari 
+    </p>
+            <p xml:id="bt67yj-k39706-d1e211">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> posse, ut nec illud quod est esse natura sua aeternum. 
+      <lb ed="#P" n="100"/>Nulla enim creatura est, quae quacunque hypothesi 
+      <lb ed="#P" n="101"/>data sit ubique. Unde merito damnandus venit 
+      er<lb ed="#P" n="102" break="no"/>ror quorundam haereticorum nostri temporis, qui 
+      <lb ed="#P" n="103"/>corpus seu carnem Christi docuerunt esse ubique. 
+      <lb ed="#P" n="104"/>Quamvis enim corpus illud hypostatice sit unitum 
+      <lb ed="#P" n="105"/>personae divinae, non tamen est Deus seu persona 
+      di<lb ed="#P" n="106" break="no"/>vina, sed tantum creatura perinde ut anima Christi. 
+      <lb ed="#P" n="107"/>Quibus proinde nequaquam tribuendum est, at 
+      ne<lb ed="#P" n="108" break="no"/>que competere potest, quod sint ubique. Sed de hac 
+      <lb ed="#P" n="109"/>re ex professo ad dist. 10. lib. 4. 
+    </p>
+            <p xml:id="bt67yj-k39706-d1e240">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Neque vero contrarium est huic doctrinae, quod 
+      <lb ed="#P" n="111"/>apud S. Cyril. Hierosolymitanum legitur in cat. 14. 
+      <lb ed="#P" n="112"/>illuminatorum angelos esse ubique praesentes. Non 
+      <lb ed="#P" n="113"/>enim significat unum aliquem &amp; eundem angelum 
+      <lb ed="#P" n="114"/>esse ubique praesentem, sed Deum sic uti ministerio 
+      <lb ed="#P" n="115"/>angelorum circa homines, ut ubicunque sunt 
+      homi<lb ed="#P" n="116" break="no"/>nes, adsint etiam angeli aliqui praesentes, quomodo 
+      <lb ed="#P" n="117"/>dicere possumus angelis omnia circa non esse plena, 
+      <lb ed="#P" n="118"/>licet eos non videamus. 
+    </p>
+            <p xml:id="bt67yj-k39706-d1e264">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Tractationem hujus quaestionis videre est apud 
+      <lb ed="#P" n="120"/>S. Thom. variis in locis nempe super hac distinctione 
+      <lb ed="#P" n="121"/>&amp; in summa quaestione &amp; articulis superius indicatis, 
+      <lb ed="#P" n="122"/>quod lib. 11. quaest. 1. art. 2. &amp; contra gentes lib. 3. 
+      <lb ed="#P" n="123"/>c. 68. &amp; lib. 4. c. 16. &amp; 17. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

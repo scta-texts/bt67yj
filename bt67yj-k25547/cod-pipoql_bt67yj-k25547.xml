@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="69"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k25547"><!-- l1d17c4" -->
+            <head xml:id="bt67yj-k25547-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k25547-Hd1e103" type="question-title">Eadem doctrina rationibus confirmata</head>
+            <p xml:id="bt67yj-k25547-d1e106">
+               <lb ed="#P" n="5"/>§. 4. Eadem doctrina rationibus confirmata.
+    </p>
+            <p xml:id="bt67yj-k25547-d1e111">
+               <lb ed="#P" n="6"/>NUnc rationibus aliquot ostendenda est 
+      superio<lb ed="#P" n="7" break="no"/>Nris doctrinae veritas. Quarum haec sit. 
+    </p>
+            <p xml:id="bt67yj-k25547-d1e118">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Prima. Actus voluntatis non ita procedit a Spiritu 
+      <lb ed="#P" n="9"/>sancto, quin etiam procedat a voluntate seipsam 
+      <lb ed="#P" n="10"/>movente ad diligendum. Est enim diligere actus 
+      vo<lb ed="#P" n="11" break="no"/>luntarius, nec imperatus tantum a voluntate, sed 
+      eli<lb ed="#P" n="12" break="no"/>citus: Atqui actus ille naturalem facultatem 
+      volun<lb ed="#P" n="13" break="no"/>tatis transcendit: Ergo necesse est, ut insit voluntati 
+      <lb ed="#P" n="14"/>supradicta forma seu principium quoddam, quo ad 
+      <lb ed="#P" n="15"/>talem operationem perfecte, prompte &amp; 
+      delectabili<lb ed="#P" n="16" break="no"/>ter exercendam moveatur. Tale autem principium 
+      <lb ed="#P" n="17"/>potentiae naturali superadditum habitus vocatur: 
+      <lb ed="#P" n="18"/>Oportet ergo inesse homini habitum charitatis ad 
+      <lb ed="#P" n="19"/>hoc ut opera charitatis perfecte, prompte &amp; 
+      dele<lb ed="#P" n="20" break="no"/>ctabiliter exerceat. Rationem hanc pluribus verbis 
+      <lb ed="#P" n="21"/>explicat S. Thomas 2. 2. quaest. 23. art. 2.
+    </p>
+            <p xml:id="bt67yj-k25547-d1e154">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Secunda. Ad actum credendi sanatur intellectus 
+      at<lb ed="#P" n="23" break="no"/>que informatur habitu fidei: ergo similiter ad actum 
+      <lb ed="#P" n="24"/>diligendi sanatur atque informatur voluntas habitu 
+      <lb ed="#P" n="25"/>charitatis. Tam voluntas enim quam intellectus 
+      si<lb ed="#P" n="26" break="no"/>mili sanatione indiget. Et sicut non est dicendum 
+      <lb ed="#P" n="27"/>Spiritum sanctum absque habitu medio producere 
+      <lb ed="#P" n="28"/>in intellectu quemcunque actum fidei: ita nec 
+      di<lb ed="#P" n="29" break="no"/>cendum eum sine ejusmodi habitu, producere in 
+      vo<lb ed="#P" n="30" break="no"/>luntate quemcunque charitatis actum. 
+    </p>
+            <p xml:id="bt67yj-k25547-d1e178">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Tertia. Contraria contrariis pelluntur; ergo ad 
+      <lb ed="#P" n="32"/>expellendum habitum cupiditatis, quo non tantum 
+      <lb ed="#P" n="33"/>homo agit malum, sed etiam ad agendum malum 
+      <lb ed="#P" n="34"/>inclinatur, opus est habitu charitatis, quo non 
+      tan<lb ed="#P" n="35" break="no"/>tum amet bonum, sed etiam ad bonum amandum 
+      <lb ed="#P" n="36"/>inclinetur. 
+    </p>
+            <p xml:id="bt67yj-k25547-d1e196">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Quarta. Homo justus dormiens vel alias ad tempus 
+      <lb ed="#P" n="38"/>ab omni voluntatis actione suspensus, vere tamen ac 
+      <lb ed="#P" n="39"/>proprie dilector Dei dicitur: Non est autem dilector 
+      <lb ed="#P" n="40"/>actu, ergo habitu. Item talis homo bonam ac Dei 
+      <lb ed="#P" n="41"/>amantem gerit voluntatem, non in actu; ergo in 
+      <lb ed="#P" n="42"/>habitu. Est igitur in eo charitas habitualis, per quam 
+      <lb ed="#P" n="43"/>voluntas ejus propensa sit in amorem Dei. 
+    </p>
+            <p xml:id="bt67yj-k25547-d1e216">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Quinta. Perfecta charitas quae est in beatis 
+      forma<lb ed="#P" n="45" break="no"/>liter illis inhaeret: Nam alioqui non haberent 
+      volun<lb ed="#P" n="46" break="no"/>tatem perfecte atque omni modo sanam &amp; rectam; 
+      <lb ed="#P" n="47"/>igitur imperfecta charitas, quae est in justis hujus 
+      <lb ed="#P" n="48"/>saeculi, similiter est forma inhaerens. Quae consecutio 
+      <lb ed="#P" n="49"/>valet, quia charitas secundum Apostolum non 
+      ex<lb ed="#P" n="50" break="no"/>cidit, sed eadem numero quae inchoata est in hoc 
+      <lb ed="#P" n="51"/>seculo, perficitur in futuro. 
+    </p>
+            <p xml:id="bt67yj-k25547-d1e238">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Sexta. Charitas augetur &amp; minuitur: Augere 
+      au<lb ed="#P" n="53" break="no"/>tem &amp; minui nullo modo competit Spiritui sancto 
+      <lb ed="#P" n="54"/>Imperfecto autem modo convenit operationi, 
+      ut<lb ed="#P" n="55" break="no"/>pote rei transitoriae: At perfecte tribuitur habitui. 
+      <lb ed="#P" n="56"/>Est igitur agnoscendus habitus charitatis cui illud 
+      <lb ed="#P" n="57"/>perfecte &amp; omnino secundum rationem habitus 
+      tri<lb ed="#P" n="58" break="no"/>ouatur. Haec ratio supra plenius deducta est ex 
+      scri<lb ed="#P" n="59" break="no"/>pturis &amp; Patribus. 
+    </p>
+            <p xml:id="bt67yj-k25547-d1e260">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Septima. Omnis virtus est habitus; charitas est 
+      <lb ed="#P" n="61"/>virtus: Ergo. Haec quoque ratio paulo ante 
+      testi<lb ed="#P" n="62" break="no"/>moniis patrum roborata est. 
+    </p>
+            <p xml:id="bt67yj-k25547-d1e272">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Postrema ratio sumitur ex justitia inhaerente. De 
+      <lb ed="#P" n="64"/>qua etiam modo dictum est. Atque hoc loco 
+      diligen<lb ed="#P" n="65" break="no"/>ter notandum cum definitum sit in Synod. Trid. Sess. 
+      <lb ed="#P" n="66"/>6. c. 7. &amp; 16. &amp; can. 11. hominem dici &amp; esse justum 
+      <lb ed="#P" n="67"/>non imputative tantum a justitia Dei vel Christi quae 
+      <lb ed="#P" n="68"/>homini imputetur, sed vere ac proprie a justitia ei 
+      <lb ed="#P" n="69"/>divinitus collata atque inhaerente, simul etiam quod 
+      <lb ed="#P" n="70"/>ex eo consequitur, expresse definitum sit, charitatem 
+      <lb ed="#P" n="71"/>justificatis inhaerere: manifestum hinc fieri, eum qui 
+      <lb ed="#P" n="72"/>nullam in homine charitatem praeter Spiritum san¬ 
+      <!--0092.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>ctum agnoscit, fidei Catholicae contradicere, atque 
+      <lb ed="#P" n="74"/>in haeresim damnatam impingere. Quam tamen 
+      no<lb ed="#P" n="75" break="no"/>tam a Magistro removere non dubitamus, quod ejus 
+      <lb ed="#P" n="76"/>tempore nondum res illa clare satis esset ab Ecclesia 
+      <lb ed="#P" n="77"/>de finita.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

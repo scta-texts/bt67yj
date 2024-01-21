@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="47"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k17659"><!-- l1d10c4" -->
+            <head xml:id="bt67yj-k17659-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k17659-Hd1e103" type="question-title">Quo sensu scriptura Deum charitatem 
+      vocet</head>
+            <p xml:id="bt67yj-k17659-d1e106">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> §. 4. Quo sensu scriptura Deum charitatem 
+      <lb ed="#P" n="140"/>vocet.
+    </p>
+            <p xml:id="bt67yj-k17659-d1e115">
+               <lb ed="#P" n="141"/>EX scriptura sacra doceri non potest charitatis 
+      <lb ed="#P" n="142"/>nomen ita proprie competere Spiritui sancto, 
+      <lb ed="#P" n="143"/>sicut filio legimus attributum Verpi nomen, id 
+      <lb ed="#P" n="144"/>est, tanquam nomen personale. Docet quidem 
+      <!--0071.xml-->
+      <pb ed="#P" n="48"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Augustinus libro 15. de trinitate capite 17. &amp; 
+      tra<lb ed="#P" n="2" break="no"/>ctat. 7. in 1. epistolam Joan. illud 1. Joan. 4. 
+      Cha<lb ed="#P" n="3" break="no"/>ritas ex Deo est, &amp; rursum. Deus charitas est, 
+      pro<lb ed="#P" n="4" break="no"/>prie pertinere ad Spiritum sanctum, qui Deus est 
+      <lb ed="#P" n="5"/>ex Deo, de quo ibidem paulo post sequitur: 
+      Quo<lb ed="#P" n="6" break="no"/>niam de spiritu suo dedit nobis. De quo etiam Rom. 
+      <lb ed="#P" n="7"/>5. scriptum est: Charitas Dei diffusa est in 
+      cor<lb ed="#P" n="8" break="no"/>dibus nostris, per Spiritum sanctum qui datus est 
+      no<lb ed="#P" n="9" break="no"/>bis. At non vult iis locis Augustinus hoc esse 
+      Spi<lb ed="#P" n="10" break="no"/>ritus sancti nomen proprium, sed tantum docet ita 
+      <lb ed="#P" n="11"/>proprie seu peculiariter ei hoc nomen tribui, sicut 
+      <lb ed="#P" n="12"/>filio tribuitur sapientia; nimirum per 
+      appropria<lb ed="#P" n="13" break="no"/>tionem, ut vocant Scolastici. Nam sane constat 
+      <lb ed="#P" n="14"/>Augustinum cum alibi, tum loco jam memorato 
+      <lb ed="#P" n="15"/>scilicet lib. 15. de trinit. capite 17. &amp; 19. nomen 
+      <lb ed="#P" n="16"/>charitatis in divinis agnoscere &amp; usurpare tanquam 
+      <lb ed="#P" n="17"/>essentiale nomen, quomodo certum est nomen 
+      ver<lb ed="#P" n="18" break="no"/>bi nec in scriptura nec a patribus usurpatum fuisse. 
+      <lb ed="#P" n="19"/>Quod proinde proprium tantummodo est, non 
+      au<lb ed="#P" n="20" break="no"/>tem ex communi appropriatum, sicut charitatis 
+      <lb ed="#P" n="21"/>nomen &amp; alia multa. Itaque non similiter se habet 
+      <lb ed="#P" n="22"/>nomen amoris seu charitatis ad tertiam personam, 
+      <lb ed="#P" n="23"/>quomodo verbum ad secundam, si respiciamus ad 
+      <lb ed="#P" n="24"/>usum loquendi scripturae &amp; sanctorum patrum; 
+      ta<lb ed="#P" n="25" break="no"/>metsi, ut jam dictum est, scholarum usu receptum 
+      <lb ed="#P" n="26"/>sit, ut Spiritui sancto tanquam proprium nomen 
+      <lb ed="#P" n="27"/>tribuatur. 
+    </p>
+            <p xml:id="bt67yj-k17659-d1e191">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Caeterum, quod ad locum Joannis attinet, quem 
+      <lb ed="#P" n="29"/>Augustinus de charitate increata, quae Deus est 
+      in<lb ed="#P" n="30" break="no"/>terpretatur, melius fortassis juxta aliorum 
+      inter<lb ed="#P" n="31" break="no"/>pretationem prius illud quod dicitur, Charitas ex 
+      <lb ed="#P" n="32"/>Deo est, de creata charitate intelligitur. Hortatur 
+      <lb ed="#P" n="33"/>enim Apostolus fideles ut diligant invicem hac 
+      ra<lb ed="#P" n="34" break="no"/>tione quia charitas seu dilectio (sic enim assidue 
+      <lb ed="#P" n="35"/>legit Augustinus) ex Deo est, id est, amor 
+      frater<lb ed="#P" n="36" break="no"/>nitatis singulare Dei donum est; ideoque merito a 
+      <lb ed="#P" n="37"/>nobis amplectendum &amp; exercendum. Quod autem 
+      <lb ed="#P" n="38"/>statim sequitur, &amp; secundo repetitur, Deus charitas 
+      <lb ed="#P" n="39"/>est, quamvis nonnulli conformiter de creata 
+      chari<lb ed="#P" n="40" break="no"/>tate dictum putent hoc sensu: ex Deo charitas est, 
+      <lb ed="#P" n="41"/>vel Deus charitatis author &amp; donator est. Quo 
+      sen<lb ed="#P" n="42" break="no"/>su psalmista dixit, Dominus fortitudo mea, 
+      illumina<lb ed="#P" n="43" break="no"/>tio mea, salus mea, Ps. 17. &amp; 26.) Nam illud quod 
+      <lb ed="#P" n="44"/>pro exemplo adferre solent ex Ps. 70. Tues 
+      patien<lb ed="#P" n="45" break="no"/>tia mea, magis videtur objective dictum, sicut 
+      il<lb ed="#P" n="46" break="no"/>lud, Tues spes mea, Et, Tu es expectatio mea, Ps. 
+      <lb ed="#P" n="47"/>38. ut sit sensus: Tu es ille quem sustineo &amp; 
+      patien<lb ed="#P" n="48" break="no"/>ter expecto) rectius tamen proprio sermone dictum 
+      <lb ed="#P" n="49"/>accipitur, quomodo dictum est, Deus spiritus est, 
+      <lb ed="#P" n="50"/>quomodo etiam dici potuit, Deus bonitas est, Deus 
+      <lb ed="#P" n="51"/>sapientia est; ut sit nomen essentiale toti Trinitati 
+      <lb ed="#P" n="52"/>commune, neque hoc loco peculiariter, ne quidem 
+      <lb ed="#P" n="53"/>secundum appropriationem, ad certam personam 
+      <lb ed="#P" n="54"/>respiciatur. Sensus igitur hic erit: Deus per 
+      essen<lb ed="#P" n="55" break="no"/>tiam est charitas, &amp; proinde fons omnis charitatis 
+      <lb ed="#P" n="56"/>creatae. Quocirca si in mutua ac fraterna charitate 
+      <lb ed="#P" n="57"/>manemus, ostendimus nos in Deo manere &amp; Deum 
+      <lb ed="#P" n="58"/>in nobis, quia tantum bonum non aliunde, quam 
+      <lb ed="#P" n="59"/>ab illo fonte hauriri potest. 
+    </p>
+            <p xml:id="bt67yj-k17659-d1e266">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> An autem charitatis nomen alibi in scripturis 
+      <lb ed="#P" n="61"/>certae personae approprietur, non liquet. Neque 
+      <lb ed="#P" n="62"/>enim illud quod Col. 1. de patre dicitur, Transtulis 
+      <lb ed="#P" n="63"/>nos in regnum filii dilectionis suae, sive ut 
+      Augusti<lb ed="#P" n="64" break="no"/>nus legit, charitatis suae, arguit patrem quoque 
+      pe<lb ed="#P" n="65" break="no"/>culiariter &amp; appropriate dici charitatem eo quod 
+      <lb ed="#P" n="66"/>filius non sit nisi patris, quamvis id urgeat 
+      Augu<lb ed="#P" n="67" break="no"/>stinus lib. 15. de trinit. c. 19. verbis a Magistro 
+      in<lb ed="#P" n="68" break="no"/>dicatis ultimo §. Non arguit, inquam, tum quia 
+      fi<lb ed="#P" n="69" break="no"/>lius charitatis seu dilectionis phrasi hebraica 
+      di<lb ed="#P" n="70" break="no"/>ctum est pro eo quod diceretur filius dilectus, sicut 
+      <lb ed="#P" n="71"/>filius perditionis dicitur homo perditus aut 
+      perdi<lb ed="#P" n="72" break="no"/>tioni destinatus; quemadmodum Theophylactus 
+      <lb ed="#P" n="73"/>annotavit; tum quia non simpliciter dixit 
+      Aposto<lb ed="#P" n="74" break="no"/>lus filium charitatis sed charitatis suae, id est, ipsius 
+      <!--0071.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>patris. Quod non alium commodum sensum 
+      habe<lb ed="#P" n="76" break="no"/>re potest, quam ut intelligatur filius ab ipso patre 
+      <lb ed="#P" n="77"/>dilectus. Nam ut pater dicatur charitas sui ipsius 
+      <lb ed="#P" n="78"/>quamvis id vere dici posse non negamus, a 
+      con<lb ed="#P" n="79" break="no"/>iuetudine tamen scripturae videtur alienum. Porro 
+      <lb ed="#P" n="80"/>extra scripturam reperimus charitatis nomen patri 
+      <lb ed="#P" n="81"/>appropriatum, ut in officio ecclesiastico de sancta 
+      <lb ed="#P" n="82"/>Trinitate, in quo sic canitur: Charitas pater est, 
+      <lb ed="#P" n="83"/>gratia filius, communicatio spiritus sanctus. Quod 
+      <lb ed="#P" n="84"/>sumptum videtur ex 2. Cor. 13. ubi dicitur. Gratia 
+      <lb ed="#P" n="85"/>Domini nostri Jesu Christi, &amp; charitas Dei, &amp; 
+      com<lb ed="#P" n="86" break="no"/>municatio sancti spiritus, &amp;c. Verum ibi patrem 
+      <lb ed="#P" n="87"/>Apostolus non vocat charitatem, sed Dei patris 
+      <lb ed="#P" n="88"/>charitatem precatur Corinthiis. Hujus autem 
+      ap<lb ed="#P" n="89" break="no"/>propriationis ratio est, quia ut dicitur Joan. 3. Sic 
+      <lb ed="#P" n="90"/>Deus dilexit mundum, ut filium suum unigenitum 
+      <lb ed="#P" n="91"/>daret. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="32"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k11681"><!-- l1d8c3" -->
+            <head xml:id="bt67yj-k11681-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k11681-Hd1e103" type="question-title">Quomodo praeteritum et futurum Deo 
+      tribuantur</head>
+            <p xml:id="bt67yj-k11681-d1e106">
+               <lb ed="#P" n="33"/>§. 3. Quomodo praeteritum &amp; futurum Deo 
+      <lb ed="#P" n="34"/>tribuantur.
+    </p>
+            <p xml:id="bt67yj-k11681-d1e113">
+               <lb ed="#P" n="35"/>CUm propriissime Deo tribuatur verbum, est, 
+      <lb ed="#P" n="36"/>Opraesentis temporis, quo nimirum significatur 
+      <lb ed="#P" n="37"/>aeterna &amp; immutabilis stabilitas, &amp; stabilis 
+      aeterni<lb ed="#P" n="38" break="no"/>tas essentiae divinae in qua nihil est praeteritum, nihil 
+      <lb ed="#P" n="39"/>futurum: consequens est verba praeteriti &amp; futuri 
+      <lb ed="#P" n="40"/>temporis, aut non vere, aut minus proprie Deo 
+      tri<lb ed="#P" n="41" break="no"/>bui. Non vere, si cum emphasi intelligantur, id est, 
+      <lb ed="#P" n="42"/>cum exclusione praesentis temporis; quomodo a 
+      <lb ed="#P" n="43"/>poeta dictum est, Fuimus Troes, fuit Ilium, Et ab 
+      <lb ed="#P" n="44"/>Apostolo Ephes. 5. Eratis aliquando tenebrae, Item I. 
+      <lb ed="#P" n="45"/>Corinth. 6. Et haec quidem fuistis. Hoc modo 
+      inter<lb ed="#P" n="46" break="no"/>dum S. Augustinus docet de Deo dici non posse, fuit 
+      <lb ed="#P" n="47"/>&amp; erit, sed tantum, est, quia &amp; quod fuit, jam non 
+      <lb ed="#P" n="48"/>est, &amp; quod erit, nondum est, ut lib. de fide &amp; 
+      sym<lb ed="#P" n="49" break="no"/>bolo cap. 4. Et lib. 83. quaest. q. 17. Sic etiam 
+      intel<lb ed="#P" n="50" break="no"/>ligenda sunt verba a Magistro citata, quibus 
+      dici<lb ed="#P" n="51" break="no"/>tur, quod Deus tantum est, qui non novit fuisse vel 
+      <lb ed="#P" n="52"/>futurum esse. Quae verba non esse Hieronymi cui ea 
+      <lb ed="#P" n="53"/>Magister ascribit, sed Isidori, jam supra monuimus. 
+      <lb ed="#P" n="54"/>Vere autem sed minus proprie eadem verba, Deo 
+      <lb ed="#P" n="55"/>tribuuntur, sine praesentis temporis exclusione 
+      intel<lb ed="#P" n="56" break="no"/>lecta. Vere quidem, quia sic scriptura loquitur; In 
+      <lb ed="#P" n="57"/>principio erat Verbum, &amp; Verbum erat apud Deum, 
+      <lb ed="#P" n="58"/>&amp; Deus erat Verbum. Et Apoc. 1. Qui est, &amp; qui erat, 
+      <lb ed="#P" n="59"/>&amp; qui venturus est. Quod dictum est ad 
+      significan<lb ed="#P" n="60" break="no"/>dum sempiternitatem Dei, juxta id quod ibid. 
+      voca<lb ed="#P" n="61" break="no"/>tur α &amp; ω, Primus &amp; novissimus, principium &amp; finis, 
+      <lb ed="#P" n="62"/>quasi qui nulli tempori desit, sed omnia tempora 
+      <lb ed="#P" n="63"/>aeternitate sua complectatur. Item 4. cap. S. S. S. 
+      Do<lb ed="#P" n="64" break="no"/>minus Deus omnipotens, qui erat, &amp; qui est, &amp; qui 
+      ven<lb ed="#P" n="65" break="no"/>turus est. Et iterum cap. 11. Qui es, &amp; qui eras, &amp; qui 
+      <lb ed="#P" n="66"/>venturus es, venturus autem, id est, futurus. Unde 
+      <lb ed="#P" n="67"/>Augustinus tract. 99. in Joan. super illud cap. 16. 
+      <lb ed="#P" n="68"/>Quaecunque audiet loquetur, Quamvis, inquit, 
+      natu<lb ed="#P" n="69" break="no"/>xa illa immutabilis &amp; ineffabilis non recipiat fuit &amp; 
+      <lb ed="#P" n="70"/>erit, sed tantum, est; tamen propter mutabilitatem 
+      <lb ed="#P" n="71"/>temporum in quibus versatur nostra mortalitas &amp; 
+      mu<lb ed="#P" n="72" break="no"/>tabilitas, non mendaciter dicimus, Et fuit, &amp; erit, &amp; 
+      <!--0055.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>est; fuit in praeteritis seculis; est in praesentibus; erit 
+      <lb ed="#P" n="74"/>in futuris. Fuit, quia nunquam defuit, erit, quia 
+      nun<lb ed="#P" n="75" break="no"/>quam deerit; est, quia semper est. Proinde cum 
+      secun<lb ed="#P" n="76" break="no"/>dum volumina temporum locutio humana variatur, 
+      <lb ed="#P" n="77"/>qui per nulla deesse potuit, aut potest, aut poterit 
+      tem<lb ed="#P" n="78" break="no"/>pora, vera de illo dicuntur cujustibet temporis verba. 
+      <lb ed="#P" n="79"/>Minus autem proprie, fuit &amp; erit, illi tribuuntur, 
+      <lb ed="#P" n="80"/>ut ex iisdem Augustini verbis intelligi potest, quia 
+      <lb ed="#P" n="81"/>praeteriti &amp; futuri temporis verba, inventa sunt ad 
+      <lb ed="#P" n="82"/>significandas rerum mutationes, quae tempore 
+      men<lb ed="#P" n="83" break="no"/>surantur &amp; cum tempore transeunt. In Deo autem 
+      <lb ed="#P" n="84"/>nihil est mutationi obnoxium, nihil tempori 
+      subje<lb ed="#P" n="85" break="no"/>ctum. Cui proinde solum praesentis temporis 
+      ver<lb ed="#P" n="86" break="no"/>bum aptissime &amp; propriissime tribuitur, ut pote 
+      ma<lb ed="#P" n="87" break="no"/>xime idoneum significandae aeternitati divinae. Idque 
+      <lb ed="#P" n="88"/>etiam declaratur ex congruentia quam habet 
+      tem<lb ed="#P" n="89" break="no"/>pus praesens cum aeternitate, dicitur enim tempus 
+      <lb ed="#P" n="90"/>praesens ratione praesentis momenti (quod vocamus 
+      <lb ed="#P" n="91"/>instans) copulantis partem temporis praeteritam 
+      <lb ed="#P" n="92"/>cum futura. Quod quidem cum sit unicum &amp; 
+      indi<lb ed="#P" n="93" break="no"/>visibile, totum simul existit: Sic &amp; aeternitas, unica 
+      <lb ed="#P" n="94"/>cum sit &amp; indivisibilis, existit tota simul. Hoc tamen 
+      <lb ed="#P" n="95"/>discrimine, quod instans temporis transeat, aeternitas 
+      <lb ed="#P" n="96"/>autem permaneat, quod idcirco recte dixeris esse 
+      <lb ed="#P" n="97"/>instans quoddam nunquam transiens, sed semper 
+      <lb ed="#P" n="98"/>manens, quod vocant instans aeternitatis. Qua 
+      qui<lb ed="#P" n="99" break="no"/>dem ratione magis adhuc proprie verbum, Est, 
+      aeter<lb ed="#P" n="100" break="no"/>nitati significandae congruit, quam tempori 
+      prae<lb ed="#P" n="101" break="no"/>senti; quia aeternitas semper est, praesens autem 
+      <lb ed="#P" n="102"/>tempus non semper est, sed transit in praeteritum. 
+      <lb ed="#P" n="103"/>Ad hanc rationem manifestum est respexisse 
+      Augu<lb ed="#P" n="104" break="no"/>stinum lib. 9. Confessio. cap. 10. cum dixit fuisse 
+      <lb ed="#P" n="105"/>&amp; fore ideo in sapientia divina non esse, sed solum 
+      <lb ed="#P" n="106"/>esse, quoniam aeterna est. Quod idem significavit 
+      <lb ed="#P" n="107"/>Hieronymus in epistola ad Damasum cujus initium; 
+      <lb ed="#P" n="108"/>Quoniam vetusto. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

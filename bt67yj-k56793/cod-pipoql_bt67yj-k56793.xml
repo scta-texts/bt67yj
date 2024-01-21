@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 25</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 25</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="150"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k56793"><!-- l1d40c25" -->
+            <head xml:id="bt67yj-k56793-Hd1e101">Capitulum 25</head>
+            <head xml:id="bt67yj-k56793-Hd1e103" type="question-title">Quarumdam objectionum solutio</head>
+            <p xml:id="bt67yj-k56793-d1e106">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> §. 25. Quarumdam objectionum solutio.
+    </p>
+            <p xml:id="bt67yj-k56793-d1e113">
+               <lb ed="#P" n="63"/>NUnc breviter ad quaedam adversariorum 
+      argu<lb ed="#P" n="64" break="no"/>menta, quibus electionem suam, cuique 
+      fide<lb ed="#P" n="65" break="no"/>lium certo cognitam esse contendunt, 
+      responden<lb ed="#P" n="66" break="no"/>dum est, sunt autem hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e124">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Primum. Apostolus Roman. 8. in persona 
+      cujusli<lb ed="#P" n="68" break="no"/>bet fidelis asseveranter dicit: Certus sum quia neque 
+      <lb ed="#P" n="69"/>mors. neque vita, &amp;c. neque creatura alia poterit nos 
+      <lb ed="#P" n="70"/>separare a charitate Dei. Nam &amp; sanctus 
+      Augusti<lb ed="#P" n="71" break="no"/>nus ad unumquemque justum refert, ea Apostoli 
+      <!--0173.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>verba scribens in Psalmum septimum. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e147">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Secundum. Idem Apostous 1. Cor. 2. dicit nos 
+      <lb ed="#P" n="74"/>scire quae a Deo donata sunt nobis. Est autem inter ca 
+      <lb ed="#P" n="75"/>donum perseverantiae. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e158">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Tertium. Idem 1. Thess. 1. scire se dicit 
+      electio<lb ed="#P" n="77" break="no"/>nem aliorum cum ait: Scientes fratres dilecti a Dec 
+      <lb ed="#P" n="78"/>electionem vestram, quare multo magis suam 
+      quis<lb ed="#P" n="79" break="no"/>que electionem scire potest. Nam suam 
+      conscien<lb ed="#P" n="80" break="no"/>tiam quisque melius videt quam alterius. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e174">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Quartum. 1. Joan. 3. dicitur: In hoc scimus 
+      quo<lb ed="#P" n="82" break="no"/>niam manet in nobis Christus de spiritu quem dedit 
+      no<lb ed="#P" n="83" break="no"/>bis. Et cap. 4. In hoc cognoscimus, quoniam in eo 
+      mane<lb ed="#P" n="84" break="no"/>mus, &amp; ipse in nobis, quoiam de spiritu suo dedit nobis. 
+      <lb ed="#P" n="85"/>Manere autem perseverantiam significat. Et cap. 5. 
+      <lb ed="#P" n="86"/>Qui credit in filium Dei habet testimonium Dei in 
+      se<lb ed="#P" n="87" break="no"/>Hoc autem testimonium cujusmodi sit, exponens 
+      <lb ed="#P" n="88"/>statim subjicit: Et hoc est testimonium, quoniam vitam 
+      <lb ed="#P" n="89"/>aeternam dedit nobis Deus. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e198">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Quintum. Origenes hom. 2. super Lev. dicit 
+      <lb ed="#P" n="91"/>quod qui salutares hostias offert, sine dubio jam 
+      <lb ed="#P" n="92"/>suae salutis est conscius. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e209">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Sextum. S. August. in expositione Psalm. 88. conc. 
+      <lb ed="#P" n="94"/>2. super illum versum: misericordiam autem meam non 
+      <lb ed="#P" n="95"/>dispergam ab eo. Unusquisque, inquit, pro peccatis 
+      <lb ed="#P" n="96"/>suis necessario flagellatur, sed ab eo, si Christianus 
+      <lb ed="#P" n="97"/>est. Dei misericordia non dispergitur, &amp;c. ac post 
+      <lb ed="#P" n="98"/>multa subjungit: Audi securitatem tuam, si te in 
+      <lb ed="#P" n="99"/>membris Christi esse cognoscit. Semol juravi, &amp;c. ubi 
+      <lb ed="#P" n="100"/>ex juramento Dei vult unumquemque Christianum 
+      <lb ed="#P" n="101"/>esse securum de sua salute. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e233">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Septimum. Joannes Cassianus coll. 9. cap. 19. 
+      ex<lb ed="#P" n="103" break="no"/>plicans illud: Adveniat reonum tuum, de justo sic 
+      <lb ed="#P" n="104"/>loquitur. Novit enim testimonio conscientiae suae, 
+      <lb ed="#P" n="105"/>cum regnum illud apparuit, mox ejus se futurum esse 
+      <lb ed="#P" n="106"/>consortem. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e250">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Octavum. S. Bernardus serm. 2. de Pentecoste, 
+      <lb ed="#P" n="108"/>affirmat quod Spiritus sanctus certissima signa 
+      prae<lb ed="#P" n="109" break="no"/>destinationis cordi nostro imprimat. 
+      <lb ed="#P" n="110"/>Solent &amp; alia proferri argumenta ex spei 
+      certitu<lb ed="#P" n="111" break="no"/>dine desumpta. Sed eorum tractatio suo loco, quem 
+      <lb ed="#P" n="112"/>supra indicavimus reservanda est. Quare nunc ad 
+      <lb ed="#P" n="113"/>proposita respondeamus. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e270">
+               <lb ed="#P" n="114"/>Quo primo loco ex Apostolo objicitur, neque in 
+      <lb ed="#P" n="115"/>persona cujuslibet fidelis, neque cujuslibet justi 
+      di<lb ed="#P" n="116" break="no"/>ctum est, sed ex persona electorum, quorum in 
+      nu<lb ed="#P" n="117" break="no"/>mero se &amp; eos ad quos scribebat, bona cum fiducia 
+      <lb ed="#P" n="118"/>censebat Apostolus. Nam de electis ibi sermonem 
+      <lb ed="#P" n="119"/>esse clarum est ex antecedentibus. Itaque non aliud 
+      <lb ed="#P" n="120"/>inde colligas quam electorum neminem finaliter 
+      se<lb ed="#P" n="121" break="no"/>perandum a charitate Dei. Qui vero sint electi, nec 
+      <lb ed="#P" n="122"/>de se nec de aliis statuit Apostolus. Quod si ad justos 
+      <lb ed="#P" n="123"/>sententiam referas, ne sic quidem pro certo scire quis 
+      <lb ed="#P" n="124"/>poterit se esse praedestinatum, quia nec hoc ipsum 
+      <lb ed="#P" n="125"/>certo didicit, justum se esse. August. autem justo 
+      <lb ed="#P" n="126"/>homini ea verba accommodans, certitudinem 
+      intel<lb ed="#P" n="127" break="no"/>ligit non infallibilem sed moralem, id est, bonam &amp; 
+      <lb ed="#P" n="128"/>magnam fiduciam quam gignit bona conscientia. 
+      <lb ed="#P" n="129"/>Qui etiam Graecorum est commentarius. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e307">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Ad secundum. Non dicit Apostolus nos omnia 
+      scin<lb ed="#P" n="131" break="no"/>re, nec certo &amp; infallibiliter scire quaecunque a Deo 
+      <lb ed="#P" n="132"/>donata sunt nobis. At nec ipsa perseverantia comple 
+      <lb ed="#P" n="133"/>te donata est, quamdiu durat cursus hujus vitae. 
+      Com<lb ed="#P" n="134" break="no"/>pletur enim in termino, &amp; tunc cognoscitur. Adde 
+      <lb ed="#P" n="135"/>quod non videtur Apostolus loqui de donis gratiae 
+      <lb ed="#P" n="136"/>gratificantis, sed de mysteriis Christianae religionis: 
+      <lb ed="#P" n="137"/>Sequitur enim: Quae &amp; loquimur, &amp;c. Haec autem, 
+      <lb ed="#P" n="138"/>donata sunt ecclesiae, idque pro certo scimus. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e331">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Ad tertium non loquitur Apostolus de singulis, sed 
+      <lb ed="#P" n="140"/>de ecclesia Thessalonicensium, quam sciebat electam 
+      <lb ed="#P" n="141"/>esse: quia nullo modo dubitabat, quin aliqui imo 
+      <lb ed="#P" n="142"/>multi ex illis essent electi. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e344">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Ad id quod quarto loco ex 3. &amp; 4. capit. 1. epist. 
+      <lb ed="#P" n="144"/>Joannis adfertur, respondeo juxta morem scriptura 
+      <lb ed="#P" n="145"/>de omnibus justis dici, Christum in iis manere &amp; 
+      <!--0174.xml-->
+      <pb ed="#P" n="151"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ipsos in Christo. Non enim per hoc significatur 
+      eo<lb ed="#P" n="2" break="no"/>rum usque in finem perseverantia, sed status quidam 
+      <lb ed="#P" n="3"/>&amp; requies in Deo, ac vicissim Dei in ipsis habitatio 
+      <lb ed="#P" n="4"/>per gratiam, quomodo Joan. 14. de omni diligente 
+      <lb ed="#P" n="5"/>Christum dicitur: Et mansionem apud eum faciemus. 
+      <lb ed="#P" n="6"/>Deinde non loquitur Joannes de singulis, sed de 
+      <lb ed="#P" n="7"/>corpore fidelium. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e377">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Ad id vero quod ex quinto capite depromitur, 
+      di<lb ed="#P" n="9" break="no"/>cendum ibi intelligi testimonium divinitatis filii 
+      per<lb ed="#P" n="10" break="no"/>hibitum a patre. Cui testimonio &amp; alterum 
+      adjun<lb ed="#P" n="11" break="no"/>gitur, quod per filium Dei datur nobis vita aeterna; 
+      <lb ed="#P" n="12"/>nobis, inquam, credentibus, diligentibus, 
+      perse<lb ed="#P" n="13" break="no"/>verantibus. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e396">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Ad quintum. Non aliud vult Origenes, quam eum 
+      <lb ed="#P" n="15"/>qui salutares offert hostias, id est, sanctas 
+      operatio<lb ed="#P" n="16" break="no"/>nes, non esse sibi conscium peccati, quod a salute 
+      <lb ed="#P" n="17"/>excludat. Nec male addit, sine dubio, quia 
+      dubi<lb ed="#P" n="18" break="no"/>tatio fluctuationem significat, quae abesse debet a 
+      fi<lb ed="#P" n="19" break="no"/>ducia justi hominis, ut pote non consistens cum 
+      cer<lb ed="#P" n="20" break="no"/>titudine morali quam in justo ponimus. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e416">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Ad sextum, Sanctus Augustinus eo loco satis 
+      aper<lb ed="#P" n="22" break="no"/>te declarat se non loqui de omnibus Christianis, sed 
+      <lb ed="#P" n="23"/>de solis electis, de quibus scriptum est: Cognovit 
+      <lb ed="#P" n="24"/>Dominus qui sunt ejus. Quatenus autem quis per 
+      fi<lb ed="#P" n="25" break="no"/>duciam certus est se esse in horum numero, eatenus 
+      <lb ed="#P" n="26"/>habet salutis securitatem. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e434">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Ad septimum. Testimonium illud conscientiae, de 
+      <lb ed="#P" n="28"/>quo Cassianus loquitur, non est prorsus infallibile 
+      <lb ed="#P" n="29"/>&amp; proinde non gignit notitiam infallibilem, sed 
+      <lb ed="#P" n="30"/>certam quandam fiduciam. 
+    </p>
+            <p xml:id="bt67yj-k56793-d1e447">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Ad postremum. Certissima signa praedestinationis 
+      <lb ed="#P" n="32"/>S. Bernardo dicuntur non quae falsa esse nullo modo 
+      <lb ed="#P" n="33"/>queant, sed quae certissima sint in genere signorum, 
+      <lb ed="#P" n="34"/>seu conjecturarum probabilium. Haec autem eo 
+      cer<lb ed="#P" n="35" break="no"/>tiora cordibus fidelium imprimuntur, quo magis 
+      <lb ed="#P" n="36"/>quisque in vita Christiana profecerit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

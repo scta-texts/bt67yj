@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="64"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k23715"><!-- l1d15c3" -->
+            <head xml:id="bt67yj-k23715-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k23715-Hd1e103" type="question-title">Multiplicem esse missionem Filii Dei.</head>
+            <p xml:id="bt67yj-k23715-d1e106">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> §. 3. Multiplicem esse missionem Filii Dei.
+    </p>
+            <p xml:id="bt67yj-k23715-d1e113">
+               <lb ed="#P" n="17"/>MIssio filii Dei multiplex ab authoribus 
+      annota<lb ed="#P" n="18" break="no"/>aest. Prima, ipsa generatio filii Dei ex patre 
+      <lb ed="#P" n="19"/>ab aeterno. De qua missione sic Gregorius homil. 26. 
+      <lb ed="#P" n="20"/>in Evangelia, super illud Joan. 20. Sicut misit me 
+      pa<lb ed="#P" n="21" break="no"/>ter: Mitti, inquit, etiam juxta naturam divinitatis. 
+      <lb ed="#P" n="22"/>potest intelligi. Eo enim ipso filius a patre mitti 
+      di<lb ed="#P" n="23" break="no"/>citur, quo a patre generatur: &amp; infro de spiritu 
+      san<lb ed="#P" n="24" break="no"/>cto: Sed ejus missio ipsa processio est, qua de patre 
+      <lb ed="#P" n="25"/>procedit &amp; filio. Sicuti igitur spiritus sanctus mitti 
+      <lb ed="#P" n="26"/>dicitur, quia procedit, ita &amp; filius non incongrue 
+      <lb ed="#P" n="27"/>mitti dicitur, quiae generatur. Verum haec 
+      admo<lb ed="#P" n="28" break="no"/>dum improprie missio dicitur, tum quia non fit ad 
+      <lb ed="#P" n="29"/>extra, tum quia inde sequeretur filium &amp; Spiritum 
+      <lb ed="#P" n="30"/>sanctum fuisse a patre missos ab aeterno. Quod nemo 
+      <lb ed="#P" n="31"/>Patrum dixit. Unde &amp; Augustinus lib. 4. de trinit. 
+      <lb ed="#P" n="32"/>cap. 20. ubi de modis missionis ex instituto disserit, 
+      <lb ed="#P" n="33"/>negat eo ipso tantum, quo de patre natus est, missum 
+      <lb ed="#P" n="34"/>dici filium. Sed &amp; Magister §. K. hunc missionis 
+      mo<lb ed="#P" n="35" break="no"/>dum non libenter agnoscit. Dicit enim quod 
+      secun<lb ed="#P" n="36" break="no"/>dum aeternam genituram, missus posset dici filius, ut 
+      <lb ed="#P" n="37"/>videtur quibusdam; sed melius ac verius, inquit, 
+      se<lb ed="#P" n="38" break="no"/>cundum eam dicitur genitus. Quin &amp; Gregorius, si 
+      <lb ed="#P" n="39"/>totus locus attentius consideretur, deprehenditur 
+      <lb ed="#P" n="40"/>non aliud velle, quam filium Dei missum intelligi 
+      <lb ed="#P" n="41"/>posse, non tantum, ut homo est; sed etiam, ut Deus, 
+      <lb ed="#P" n="42"/>quod ex eo probat, quia spiritus sanctus, qui 
+      incarna<lb ed="#P" n="43" break="no"/>tus non fuit, missus tamen dicitur qua ratione 
+      proce<lb ed="#P" n="44" break="no"/>dit ex patre &amp; filio: non quod missio spiritus sancti 
+      <lb ed="#P" n="45"/>non sit aliud quam processio ejus ex patre &amp; filio, sed 
+      <lb ed="#P" n="46"/>quia in plena ratione missionis ejus illa continetur. 
+      <lb ed="#P" n="47"/>Ita enim &amp; filius, secundum naturam divinitatis 
+      mis<lb ed="#P" n="48" break="no"/>sus est in quantum ex patre genitus, non quod missio 
+      <lb ed="#P" n="49"/>filii sit prorsus idem quod ejus ex patre generatio, sed 
+      <lb ed="#P" n="50"/>quia in missione filii generatio continetur. Non 
+      e<lb ed="#P" n="51" break="no"/>nim dici posset, aut filius mitti secundum naturam 
+      <lb ed="#P" n="52"/>divinam, aut spiritus sanctus, nisi secundum eandem 
+      <lb ed="#P" n="53"/>naturam, procederent ab illo a quo mitti dicuntur. 
+    </p>
+            <p xml:id="bt67yj-k23715-d1e196">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Est igitur secunda missio, qua filius Dei nondum 
+      <lb ed="#P" n="55"/>homo factus, missus est a patre ut humanam 
+      natu<lb ed="#P" n="56" break="no"/>ram assumeret. Hac missione a solo mittitur patre, 
+      <lb ed="#P" n="57"/>sicut spiritus sanctus a patre &amp; filio, ut dictum est, 
+      <lb ed="#P" n="58"/>capite praecedenti. 
+    </p>
+            <p xml:id="bt67yj-k23715-d1e213">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Tertia est qua idem homo factus a tota Trinitate 
+      <lb ed="#P" n="60"/>missus est ad praedicandum Evangelium, &amp; 
+      exequen<lb ed="#P" n="61" break="no"/>dum universum opus nostrae redemptionis. Et 
+      qui<lb ed="#P" n="62" break="no"/>dem his duobus modis missus dicitur in mundum, 
+      <lb ed="#P" n="63"/>vocanturque hae visibiles missiones, quia per eas 
+      vi<lb ed="#P" n="64" break="no"/>sibilis mundo apparuit. 
+    </p>
+            <p xml:id="bt67yj-k23715-d1e231">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Quarta item visibilis, qua nimirum 
+      visibiliterap<lb ed="#P" n="66" break="no"/>paruit in assumpta vel exhibita cujuscumque 
+      corpo<lb ed="#P" n="67" break="no"/>ris specie, non tamen per unionem assumpti vel 
+      ex<lb ed="#P" n="68" break="no"/>hibiti corporis hypostaticam. Quomodo etiam 
+      mis<lb ed="#P" n="69" break="no"/>sus spiritus sanctus. Sed de his plenius agetur 
+      distin<lb ed="#P" n="70" break="no"/>ctione proxima. 
+    </p>
+            <p xml:id="bt67yj-k23715-d1e249">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Quinta invisibilis, id est, ea qua invisibiliter per 
+      <lb ed="#P" n="72"/>gratiam sanctificantem illabitur mentibus homi¬ 
+      <!--0087.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>num. Et hoc etiam modo spiritus sanctus mitti 
+      dici<lb ed="#P" n="74" break="no"/>tur, eo tamen discrimine, quod appropriatione 
+      qua<lb ed="#P" n="75" break="no"/>dam filio Dei, tanquam verbo &amp; sapientiae Patris, 
+      <lb ed="#P" n="76"/>tribuantur ea gratiarum dona, quae ad cognitionem 
+      <lb ed="#P" n="77"/>spectant. Unde est illud Sapientiae 9. de Sapientia. 
+      <lb ed="#P" n="78"/>Mitte illam de coelis sanctis tuis, ut sciam quid 
+      acce<lb ed="#P" n="79" break="no"/>ptum sit apud te. Spiritui sancto autem, ea quae ad 
+      <lb ed="#P" n="80"/>amorem &amp; affectus inflammationem pertinent, uti 
+      <lb ed="#P" n="81"/>ex sequentibus magis patebit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

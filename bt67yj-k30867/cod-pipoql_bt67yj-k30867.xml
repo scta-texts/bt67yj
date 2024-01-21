@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="83"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k30867"><!-- l1d26c1" -->
+            <head xml:id="bt67yj-k30867-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k30867-Hd1e103" type="question-title">Quae sint divinarum personarum notiones 
+      et proprietates</head>
+            <p xml:id="bt67yj-k30867-d1e106">
+               <lb ed="#P" n="17"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="18"/>VICESIMAMSEXTAM. 
+      <lb ed="#P" n="19"/>§. 1. Quae sint divinarum personarum notiones 
+      <lb ed="#P" n="20"/>&amp; proprietates.
+    </p>
+            <p xml:id="bt67yj-k30867-d1e117">
+               <lb ed="#P" n="21"/>INTER ea nomina quae Deo tribuuntur, sunt quae 
+      <lb ed="#P" n="22"/>Theologis Scolasticis notionalia dicuntur, ut &amp; 
+      <lb ed="#P" n="23"/>res iis nominibus significatae solent notiones ab 
+      <lb ed="#P" n="24"/>iisdem appellari. Est enim notionale nomen per quod 
+      <lb ed="#P" n="25"/>aliqua divna persona, ejusque ab alia vel aliis 
+      distin<lb ed="#P" n="26" break="no"/>ctio mmobis innotescit. Et quidem notionis vocabulo 
+      <lb ed="#P" n="27"/>in hac significatione ante Scholasticos usus est 
+      Augu<lb ed="#P" n="28" break="no"/>stinus lib. 5. de trinit. cap. 6. cum aic: aliam esse 
+      no<lb ed="#P" n="29" break="no"/>tionem patris, qua intelligitur genitor, aliam qua 
+      in<lb ed="#P" n="30" break="no"/>genitus. Sunt autem hujus generis nomina quinque 
+      <lb ed="#P" n="31"/>numero, scilicet innascibilitas, paternitas, filiatio, 
+      <lb ed="#P" n="32"/>spiratio &amp; processio. Quae omnia, praeter 
+      innascibili<lb ed="#P" n="33" break="no"/>tatem, relationem seu respectum personarum inter se 
+      <lb ed="#P" n="34"/>significant. Et rursum inter ea quae respectum 
+      signi<lb ed="#P" n="35" break="no"/>ficant, haec tria, paternitas, filiatio, &amp; processio 
+      <lb ed="#P" n="36"/>(quam specialiter dictam intellige) singula singulis 
+      <lb ed="#P" n="37"/>tantum personis conveniunt, paternitas patri, 
+      filia<lb ed="#P" n="38" break="no"/>tio filio, processio spiritui sancto, quae &amp; spiratio 
+      <lb ed="#P" n="39"/>passiva dicitur. Unde &amp; propriissime sola haec tria 
+      <lb ed="#P" n="40"/>proprietates personales vocantur. De quibus 
+      Joan<lb ed="#P" n="41" break="no"/>nes Damascenus lib. 3. de fide cap. 5. Differentiam, 
+      <lb ed="#P" n="42"/>inquit, hypostaseon seu personarum in tribus 
+      proprieta<lb ed="#P" n="43" break="no"/>tibus, id est, paternali &amp; filiali &amp; processionali 
+      recog<lb ed="#P" n="44" break="no"/>noscimus. Quoniam autem ex originis ratione 
+      per<lb ed="#P" n="45" break="no"/>sonarum inter ipsas discrimen petendum est, neccsse 
+      <lb ed="#P" n="46"/>est trium personarum unam aliquam ex duabus 
+      re<lb ed="#P" n="47" break="no"/>liquis originem habere, tanquam ex uno 
+      principio<lb ed="#P" n="48" break="no"/>Unde ea notio resultat quae duabus competit 
+      perso<lb ed="#P" n="49" break="no"/>nis, &amp; usitato sermone spiratio dicitur (activa 
+      ni<lb ed="#P" n="50" break="no"/>mirum) patri &amp; filio ex aequo conveniens, &amp; 
+      spi<lb ed="#P" n="51" break="no"/>ritum sanctum ab utroque procedentem respiciens. 
+      <lb ed="#P" n="52"/>Si enim distincta essent principia spiritus sancti 
+      pa<lb ed="#P" n="53" break="no"/>ter &amp; filius, magna sequeretur absurditas, nempe 
+      <lb ed="#P" n="54"/>in spiritu sancto duas esse personas, propter 
+      ori<lb ed="#P" n="55" break="no"/>ginis pluralitatem, &amp; sic quaternitas esset in Deo, 
+      <lb ed="#P" n="56"/>non trinitas. Necesse est enim multiplicata relatione 
+      <lb ed="#P" n="57"/>quapiam, multiplicari relationem oppositam: Si 
+      <lb ed="#P" n="58"/>quis autem ut hoc incommodum vitet, cum Graecis 
+      <lb ed="#P" n="59"/>negaverit spiritum sanctum ex filio procedere, 
+      con<lb ed="#P" n="60" break="no"/>sequenter illi fatendum erit spiritum sanctum a filio 
+      <lb ed="#P" n="61"/>personaliter non distingui. Distinguuntur enim 
+      per<lb ed="#P" n="62" break="no"/>sonae secundum relationes oppositas consequentes 
+      <lb ed="#P" n="63"/>ortum unius ex altera: Quae distinctionis ratio 
+      in<lb ed="#P" n="64" break="no"/>ter filium &amp; spiritum sanctum, juxta dictam 
+      sen<lb ed="#P" n="65" break="no"/>tentiam constare non poterit, ut ad distinct. 11. 
+      <lb ed="#P" n="66"/>plenius est demonstratum. Quoniam igitur activa 
+      <lb ed="#P" n="67"/>spiratio non uni personae propria est, sed duabus 
+      <lb ed="#P" n="68"/>communis, fit ut sit quidem notio personalis, non 
+      <!--0106.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>tamen proprietas personalis. Proprietates enim 
+      per<lb ed="#P" n="70" break="no"/>sonales dicimus esse incommunicabiles. 
+    </p>
+            <p xml:id="bt67yj-k30867-d1e232">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Postremo quod ad innascibilitatem attinet, 
+      scien<lb ed="#P" n="72" break="no"/>dum est patrem per hoc quod est a nullo, id est, 
+      ca<lb ed="#P" n="73" break="no"/>rens origine, distingui quidem ab aliis personis, 
+      nul<lb ed="#P" n="74" break="no"/>lum tamen ad eas respectum habere, quemadmodum 
+      <lb ed="#P" n="75"/>docet August. lib. 5. de trinit. c. 6. &amp; 7. Atque hinc 
+      <lb ed="#P" n="76"/>consurgit, ea notio quam innascibilitatem vocant, 
+      <lb ed="#P" n="77"/>soli quidem patri conveniens, nullam tamen 
+      relatio<lb ed="#P" n="78" break="no"/>nem importans. Qua ratione deficit ab earum 
+      pro<lb ed="#P" n="79" break="no"/>prietatum personalium conditione, quas diximus 
+      <lb ed="#P" n="80"/>propriissime tales appellari. 
+    </p>
+            <p xml:id="bt67yj-k30867-d1e259">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Ex dictis animadvertere licet hujusmodi ordinem 
+      <lb ed="#P" n="82"/>quinque notionum personalium respectu ipsarum 
+      <lb ed="#P" n="83"/>personarum: Quod tres in patrem competant 
+      in<lb ed="#P" n="84" break="no"/>nascibilitas, paternitas, spiratio; duae in filium, 
+      <lb ed="#P" n="85"/>spiratio, filiatio; unica in spiritum sanctum nempe 
+      <lb ed="#P" n="86"/>processio. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

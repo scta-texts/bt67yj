@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="122"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k46089"><!-- l1d40c1" -->
+            <head xml:id="bt67yj-k46089-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k46089-Hd1e103" type="question-title">Praedestinationis nomine quid significetur</head>
+            <p xml:id="bt67yj-k46089-d1e106">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> IN DISTINCTIONEM 
+      <lb ed="#P" n="108"/>
+               <pc type="indent"/> QUADRACESIMAM. 
+      <lb ed="#P" n="109"/>§. 1. Praedestinationis nomine quid significetur.
+    </p>
+            <p xml:id="bt67yj-k46089-d1e119">
+               <lb ed="#P" n="110"/>MULTAE quidem ac variae sunt partes 
+      provi<lb ed="#P" n="111" break="no"/>dentiae divinae, pro multitudine &amp; 
+      varie<lb ed="#P" n="112" break="no"/>Atate rerum, quae divinae gubernationi 
+      <lb ed="#P" n="113"/>subjacent. Sed praecipua consideratio nobis est de 
+      <lb ed="#P" n="114"/>providentia Dei circa homines. Cujus duae sunt 
+      par<lb ed="#P" n="115" break="no"/>tes, praedestinatio &amp; reprobatio. De quibus est nunc 
+      <lb ed="#P" n="116"/>deinceps agendum. Qua in disputatione ne quod 
+      <lb ed="#P" n="117"/>multis accidit, labi contingat in errores noxios, haec 
+      <lb ed="#P" n="118"/>principia firmiter retinenda sunt. Deum authorem 
+      <lb ed="#P" n="119"/>esse &amp; causam omnis boni, eamque efficacissimam. 
+      <lb ed="#P" n="120"/>Nullius autem mali, id est, peccati authorem esse. 
+      <lb ed="#P" n="121"/>Item Deum nulli esse debitorem, nisi in quantum 
+      <lb ed="#P" n="122"/>se liberali sua promissione debitorem constituit. 
+      <lb ed="#P" n="123"/>Denique fidelem esse in promissis. 
+    </p>
+            <p xml:id="bt67yj-k46089-d1e152">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Praedestinatio, si vim Latinae vocis expendas, non 
+      <lb ed="#P" n="125"/>aliud significare videtur, quam alicujus ad aliquid 
+      <lb ed="#P" n="126"/>praeordinationem, id est, ord inationem priusquam res 
+      <lb ed="#P" n="127"/>ipsa fiat, mente conceptam atque decretam. Itaque 
+      <lb ed="#P" n="128"/>praedestinare generaliter est quippiam ad aliud, 
+      ante<lb ed="#P" n="129" break="no"/>quam res fiat, animo destinare atque ordinare. Non 
+      <lb ed="#P" n="130"/>autem, ut quidam eam vocem interpretari conati sunt 
+      <lb ed="#P" n="131"/>aliquid seu aliquem prae alio ad bonum aliquod 
+      desti<lb ed="#P" n="132" break="no"/>nare. Non enim dignitatis ordinem, sed temporis 
+      de<lb ed="#P" n="133" break="no"/>notat in illa voce praepositio, prae, quemadmodum 
+      <lb ed="#P" n="134"/>patet ex Graeco vocabulo respondente, quo in 
+      scriptu<lb ed="#P" n="135" break="no"/>ris Apostoli usi fuerunt. Significat enim prius mente 
+      <lb ed="#P" n="136"/>destinare ac definire, quod postea exequendum sit. 
+      <lb ed="#P" n="137"/>Ita hoc vocabulum clare exponit Apostolus 1. Cor. 2. 
+      <lb ed="#P" n="138"/>dicens: Quam praedestinavit Deus ante saecula. 
+      Con<lb ed="#P" n="139" break="no"/>firmant hoc &amp; aliae scripturae praedestinationem aliis 
+      <lb ed="#P" n="140"/>verbis significantes, ut Matt. 25. Possi dete paratum 
+      <lb ed="#P" n="141"/>vobis regnum a constitutione mundi, id est praeparatum 
+      <lb ed="#P" n="142"/>ac praedestinatum jam inde ab initio. Eph. 1. Elegit 
+      <lb ed="#P" n="143"/>nos ante mundi constitutionem. 2. Tim. 1. Ante 
+      tempo<lb ed="#P" n="144" break="no"/>ra secularia. Rom. 8. Quos praescivit &amp; praedestinavim, 
+      <lb ed="#P" n="145"/>&amp; cap. 9. antequam aliquid boni egissent aut mali.
+    </p>
+            <p xml:id="bt67yj-k46089-d1e205">
+      <!--0146.xml-->
+               <pb ed="#P" n="123"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Porro hanc generalem praedestinationis significa¬ A 
+      <lb ed="#P" n="2"/>tionem ita ad homines accommodare possumus, ut 
+      <lb ed="#P" n="3"/>eam nihilominus tam reprobis quam electis faciamus 
+      <lb ed="#P" n="4"/>communem, sitque praedestinatio alia ad bonum, 
+      <lb ed="#P" n="5"/>alia ad malum. Neque enim praedestinationis 
+      voca<lb ed="#P" n="6" break="no"/>bulum hoc includit, ut in bonis tantum intelligatur. 
+      <lb ed="#P" n="7"/>Nam &amp; scriptores Ecclesiastici nonnunquam ita ge 
+      <lb ed="#P" n="8"/>neraliter praedestinationem nominant, ut eam etiam 
+      <lb ed="#P" n="9"/>ad malos referant, velut Augustinus lib. de perf. just 
+      <lb ed="#P" n="10"/>cap. 13. ench. 100. lib. 2. de pec. m. cap. 12. lib. 15. 
+      <lb ed="#P" n="11"/>de civit. cap. 1. &amp; lib. 21. cap. 24. tract. 14. in Joan. 
+      <lb ed="#P" n="12"/>&amp; lib. de praedestinatione Sanctorum cap. 10. Quod 
+      <lb ed="#P" n="13"/>&amp; arguit ejusdem libri titulus indicans aliam 
+      quan<lb ed="#P" n="14" break="no"/>dam esse praedestinationem impiorum. Et post 
+      Au<lb ed="#P" n="15" break="no"/>gustinum Prosper in resp. 14. &amp; 15. &amp; sententia 1. ad 
+      <lb ed="#P" n="16"/>capitula Gallorum, nec non resp. 10. &amp; 11. ad 
+      obje<lb ed="#P" n="17" break="no"/>ctiones Vinc. &amp; Fulgentius lib. 1. ad Monymum per 
+      <lb ed="#P" n="18"/>totum librum. Cujus etiam libri titulus est de 
+      dupli<lb ed="#P" n="19" break="no"/>ci praedestinatione Dei. Item Isidorus lib. 2. de 
+      sum<lb ed="#P" n="20" break="no"/>mo bono cap. 6. &amp; Anselmus lib. de concordia gr. 
+      <lb ed="#P" n="21"/>&amp; lib. arb. cap. 7. &amp; Honorius in dialogo de 
+      praede<lb ed="#P" n="22" break="no"/>stinatione initio &amp; passim. Quibus locis ita dividunt 
+      <lb ed="#P" n="23"/>praedestinationem, ut alios dicant praedestinatos ad 
+      <lb ed="#P" n="24"/>salutem, alios ad interitum. Sic generaliter accipitur 
+      <lb ed="#P" n="25"/>etiam in synodo Tridentina sess. 6. can. 17. ex 
+      <lb ed="#P" n="26"/>conc. Arau. cap. 25. 
+    </p>
+            <p xml:id="bt67yj-k46089-d1e270">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Nec obstat quod Prosper iisdem fere locis &amp; 
+      prae<lb ed="#P" n="28" break="no"/>sertim in resp. ad 14. ob. Callorum dicit 
+      praedestina<lb ed="#P" n="29" break="no"/>tionem Dei semper in bono esse: Addit enim: aut ad 
+      <lb ed="#P" n="30"/>retributionem justitiae, aut ad donationem gratiae 
+      <lb ed="#P" n="31"/>eam pertinere. Semper ergo in bono est Dei praedesti 
+      <lb ed="#P" n="32"/>natio, etiam ut reprobis communis est, quia in 
+      illo<lb ed="#P" n="33" break="no"/>rum damnatione servatur bonum justitiae. 
+    </p>
+            <p xml:id="bt67yj-k46089-d1e290">
+               <lb ed="#P" n="34"/>At vero longe frequentius &amp; usitatius praedestinatio 
+      <lb ed="#P" n="35"/>tantum in bonis, id est, electis intelligitur, tum apud 
+      <lb ed="#P" n="36"/>veteres, tum maxime apud doct. Schol. qui inter 
+      prae<lb ed="#P" n="37" break="no"/>destinationem &amp; reprobationem tanquam oppositas. 
+      <lb ed="#P" n="38"/>species perpetuo distinguunt, &amp; reprobos malunt 
+      <lb ed="#P" n="39"/>praescitos appellare quam praedestinatos, de quo 
+      ali<lb ed="#P" n="40" break="no"/>bi. Quae specialis acceptio praedestinationis, etiam 
+      <lb ed="#P" n="41"/>scripturis est conformis in quibus praedestinatio 
+      per<lb ed="#P" n="42" break="no"/>sonis attributa, tantum ad electos refertur, ut Rom. 
+      <lb ed="#P" n="43"/>1. &amp; 8. &amp; Eph. 1. Quin etiam rebus attributa, 
+      bo<lb ed="#P" n="44" break="no"/>num electorum respicit, ut 1. Cor. 2. ubi praedestinata 
+      <lb ed="#P" n="45"/>dicitur sapientia Dei, id est, opus sapientiae Dei, 
+      <lb ed="#P" n="46"/>quo uti voluit ad salvandum genus humanum, &amp; 
+      <lb ed="#P" n="47"/>Act. 4. ubi dicitur: Convenerunt facere quae manus 
+      <lb ed="#P" n="48"/>tua &amp; consilium decreverunt fieri. Graece προώρησε, 
+      <lb ed="#P" n="49"/>praedestinavit, quomodo etiam Prosper allegat illam 
+      <lb ed="#P" n="50"/>sententiaQ in resp. ad ob. 13. Gallorum. 
+    </p>
+            <p xml:id="bt67yj-k46089-d1e329">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Denique satis liquet ex dictis praedestinationem 
+      <lb ed="#P" n="52"/>usu scriptorum Ecclesiasticorum non dici, nisi circa 
+      <lb ed="#P" n="53"/>creaturam intellectualem, neque ad bonum 
+      quale<lb ed="#P" n="54" break="no"/>cunque referri, dum in bonam partem, ccipitur, sed 
+      <lb ed="#P" n="55"/>ad summum &amp; praecipuum bonum, quod est vita 
+      <lb ed="#P" n="56"/>aeterna, vel ad a lia quatenus ad summum illud 
+      per<lb ed="#P" n="57" break="no"/>ducunt tanquam media ad finem. Dico creaturam 
+      <lb ed="#P" n="58"/>intellectualem, quia licet hic potissimum agatur de 
+      <lb ed="#P" n="59"/>praedestinatione hominum, est tamen praedestinatio 
+      <lb ed="#P" n="60"/>&amp; electio angelis cum hominibus communis, lice 
+      <lb ed="#P" n="61"/>non omnino pari ratione, quemadmodum infra 
+      do<lb ed="#P" n="62" break="no"/>cebitur. 
+    </p>
+            <p xml:id="bt67yj-k46089-d1e360">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Potest autem ut utrisque communis est, ita 
+      descri<lb ed="#P" n="64" break="no"/>bi. Praedestinatio est propositum, seu decretum, seu 
+      defi<lb ed="#P" n="65" break="no"/>nitio, qua Deus ab aeterno apud se statuit, decrevit, ac 
+      <lb ed="#P" n="66"/>praedefinivit quasdam intellectuales creaturas, per 
+      cer<lb ed="#P" n="67" break="no"/>ta quaedam media dirigere, ordinare &amp; perducere ad 
+      <lb ed="#P" n="68"/>vitam aeternam, tanquam finem suum ultimum &amp; 
+      sum<lb ed="#P" n="69" break="no"/>mum bonum. S. Thom. autem 1. q. 23. art. 2. 
+      bre<lb ed="#P" n="70" break="no"/>viter eam definit hoc modo: Praedestinatio est ratio 
+      <lb ed="#P" n="71"/>quaedam ordinis aliquorum in salutem aeternam, in 
+      men<lb ed="#P" n="72" break="no"/>te divina existens. Cujus definitionis sensum 
+      accipe<lb ed="#P" n="73" break="no"/>re licet ex iis quae de providentia dudum a nobis dicta 
+      <lb ed="#P" n="74"/>sunt ex eodem authore. Nec male definitur hoc mo¬ 
+      <!--0146.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>do: Praedestinatio est vitae aeternae pro justa &amp; sancta 
+      <lb ed="#P" n="79"/>
+               <!-- line order error -->voluntate retribuendae gratuita praeparatio. Omnes 
+      <lb ed="#P" n="80"/>enim praedestinati, tam homines, quam angeli, 
+      vi<lb ed="#P" n="81" break="no"/>tam aeternam accipiunt tanquam justitiae coronam, 
+      <lb ed="#P" n="82"/>seu praemium, sic tamen ut &amp; ipsa justitia sub eadem 
+      <lb ed="#P" n="83"/>cadat praedestinatione, &amp; ita tota praedestinatio 
+      gra<lb ed="#P" n="84" break="no"/>tuita sit, id quod in consequentibus plenius 
+      mon<lb ed="#P" n="85" break="no"/>strabitur, ubi de effectibus agetur praedestinationis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

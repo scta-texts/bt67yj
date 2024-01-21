@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 16</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 16</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="140"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k52875"><!-- l1d40c16" -->
+            <head xml:id="bt67yj-k52875-Hd1e101">Capitulum 16</head>
+            <head xml:id="bt67yj-k52875-Hd1e103" type="question-title">Ad objectiones in contrarium responsio</head>
+            <p xml:id="bt67yj-k52875-d1e106">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> §. 16. Ad objectiones in contrarium responsio.
+    </p>
+            <p xml:id="bt67yj-k52875-d1e113">
+               <lb ed="#P" n="46"/>COntra superiorem doctrinam, praeter ea quae 
+      <lb ed="#P" n="47"/>Odiscussa sunt, cum de providentia in genere 
+      <lb ed="#P" n="48"/>ageremus ad distinctionem 38. hujusmodi sunt 
+      ob<lb ed="#P" n="49" break="no"/>jectiones. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e124">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Prima. Facit praedestinatio Dei, ut qui electi sunt, 
+      <lb ed="#P" n="51"/>non possint seduci, juxta illud Matthaei 24. ut in 
+      erro<lb ed="#P" n="52" break="no"/>rem inducantur, si fieri potest etiam electi, quasi dicat 
+      <lb ed="#P" n="53"/>hoc fieri non posse, tollitur ergo praedestinatione 
+      li<lb ed="#P" n="54" break="no"/>bertas ad credendum errori. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e141">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Secunda. Facit praedestinatio, ut praedestinati non 
+      <lb ed="#P" n="56"/>possint Christo eripi juxta illud Joan. 10. Nemo potest 
+      <lb ed="#P" n="57"/>oves meas rapere de manumea; ergo non manet in eis 
+      <lb ed="#P" n="58"/>libertas ad recedendum a Christo. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e154">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Tertia. Facit praedestinatio ut nulla prorsus 
+      crea<lb ed="#P" n="60" break="no"/>tura possit electos separare a charitate Dei, ut 
+      testa<lb ed="#P" n="61" break="no"/>tur Apostolus Rom. 8. tollitur ergo libertas ad dese 
+      <lb ed="#P" n="62"/>rendam charitatem. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e167">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Quarta. Facit reprobatio, ut reprobari non 
+      pos<lb ed="#P" n="64" break="no"/>sint venire ad Christum ipso dicente Joan. 6. 
+      Ne<lb ed="#P" n="65" break="no"/>mo potest venire ad me, nisi pater qui misit me 
+      traxe<lb ed="#P" n="66" break="no"/>rit eum: Et iterum: Nemo potest venire ad me, nisi 
+      <lb ed="#P" n="67"/>fuerit ei datum a patre meo. Quorum neutrum 
+      prae<lb ed="#P" n="68" break="no"/>statur reprobis; non ergo manet in eis libertas ad 
+      <lb ed="#P" n="69"/>Christum veniendi. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e187">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Quinta. Facit reprobatio, ut qui re probante Dec 
+      <lb ed="#P" n="71"/>excoecati &amp; obdurati sunt, non possint credere. Di¬ 
+      <!--0163.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>citur enim Joann. 12. Non poterant credere, quia di¬ 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e203">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> xit Isaias excoecavit oculos eorum, &amp;c. periit ergo 
+      li<lb ed="#P" n="74" break="no"/>bertas in eis ad credendum. 
+      <lb ed="#P" n="75"/>1 Sexta. Facit reprobatio, ut qui reprobus est, non 
+      <lb ed="#P" n="76"/>possit corrigi dicente Ecclesiaste cap. 9. Nemo potest 
+      <lb ed="#P" n="77"/>corrigere quem Deus despexerit; ergo non est in eo 
+      li<lb ed="#P" n="78" break="no"/>bertas ad recipiendam correctionem. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e221">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Septima. Homo respectu divinae praedestinationis 
+      <lb ed="#P" n="80"/>ac reprobationis comparatur luto quod est in manu 
+      <lb ed="#P" n="81"/>figuli Rom. 9. Atquilutum in formatione operis 
+      fi<lb ed="#P" n="82" break="no"/>guli nihil agit, sed tantum patitur; ergo &amp; homo in 
+      <lb ed="#P" n="83"/>eo quod praedestinatus est, aut reprobatus, tantum 
+      <lb ed="#P" n="84"/>passive se habet, &amp; proinde non libere. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e240">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Octava. Eadem est ratio praedestinationis &amp; 
+      pro<lb ed="#P" n="86" break="no"/>missionis divinae, quae enim praedestinavit Deus 
+      bo<lb ed="#P" n="87" break="no"/>na eadem &amp; promisit, uti docet <name xml:id="bt67yj-k52875-Nd1e250">Prosper</name> libro 1. de 
+      <lb ed="#P" n="88"/>Voc. gent. cap. 9. sed promissio divina non est de 
+      <lb ed="#P" n="89"/>operibus liberi nostri arbitrii. Dicit enim Sanctus 
+      <lb ed="#P" n="90"/>Augustinus serm. 3. de verb. apost. Qui promisit quod 
+      <lb ed="#P" n="91"/>facit, non promisit quod tu facis: si tu facturus esses, 
+      <lb ed="#P" n="92"/>praenunciator esset Deus, non promissor; ergo nec ea 
+      <lb ed="#P" n="93"/>quae praedestinationi subsunt, liberi nostri sunt 
+      arbi<lb ed="#P" n="94" break="no"/>trii, sed solius Dei. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e269">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Nona. Non minor est efficacia praedestinationis 
+      <lb ed="#P" n="96"/>Dei, quam orationis Christi: Sed oratio Christi tollit 
+      <lb ed="#P" n="97"/>libertatem ab eo pro quo orat. Dicit enim S. 
+      Augu<lb ed="#P" n="98" break="no"/>stinus librode corrept. &amp; gratia cap. 8. propter 
+      Chri<lb ed="#P" n="99" break="no"/>sti orationem fidem Petri non defecturam fuisse, 
+      <lb ed="#P" n="100"/>etiamsi Petrus eam deficere voluisset; ergo idem facit 
+      <lb ed="#P" n="101"/>praedestinatio in praedestinato.
+    </p>
+            <p xml:id="bt67yj-k52875-d1e289">
+               <lb ed="#P" n="102"/>Decima. Dicit idem Augustinus in expositione 
+      <lb ed="#P" n="103"/>quarundam propositionum epist. Rom. prop. 62. 
+      <lb ed="#P" n="104"/>Pharaoni sic cor obduratum fuisse, ut obtemperare 
+      <lb ed="#P" n="105"/>Deo non potuerit, &amp; tra. 54. in Joan. Judaeos 
+      cre<lb ed="#P" n="106" break="no"/>dere non potuisse, eo quod occulto Dei judicio 
+      <lb ed="#P" n="107"/>fuerant excoecati &amp; indurati, deserente illo qui 
+      su<lb ed="#P" n="108" break="no"/>perbis resistit. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e307">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Undecima. Praedestinatio praedeterminat 
+      volun<lb ed="#P" n="110" break="no"/>tatem; ergo non relinquit eam liberam. Antecedens 
+      <lb ed="#P" n="111"/>probatur tum ex vocabulo Graeco, quo scripturae 
+      <lb ed="#P" n="112"/>utuntur, quod praefinitionem seu 
+      praedeterminatio<lb ed="#P" n="113" break="no"/>nem significat; tum ex efficacia divinae 
+      praedestinatio<lb ed="#P" n="114" break="no"/>nis respectu rerum praedestinatarum; tum authoritate 
+      <lb ed="#P" n="115"/>S. Thomae quilib. 2. contra gent. cap. 89. &amp; 1. q. 
+      <lb ed="#P" n="116"/>23. art. 1. ad I. hanc praedeterminationem agnoscit 
+      <lb ed="#P" n="117"/>&amp; defendit. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e331">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Duodecima. Necessario sequitur: Petrus 
+      praede<lb ed="#P" n="119" break="no"/>stinatus est ad hoc bonum opus; ergo faciet hoc 
+      <lb ed="#P" n="120"/>bonum opus: atqui antecedens non est Petro 
+      libe<lb ed="#P" n="121" break="no"/>rum, ergo nec consequens. Possunt &amp; alia proferri, 
+      <lb ed="#P" n="122"/>quorum oportunior erit tractatio ad dist. 24. lib. 2. 
+      <lb ed="#P" n="123"/>ubi docetur efficaciam gratiae Dei, non repugnare 
+      <lb ed="#P" n="124"/>libero arbitrio. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e351">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Quod autem ad propositas attinet objectiones. 
+      <lb ed="#P" n="126"/>sciendum est eas propositiones quae significant 
+      ali<lb ed="#P" n="127" break="no"/>quid impossibile esse in sensu composito, quod 
+      ta<lb ed="#P" n="128" break="no"/>men possibile sit in sensu diviso, non tollere 
+      liberta<lb ed="#P" n="129" break="no"/>tem voluntatis ad id quod in sensu diviso, possibile 
+      <lb ed="#P" n="130"/>est. Tales in proposito sunt hae propositiones: 
+      Im<lb ed="#P" n="131" break="no"/>possibile est eos qui praedestinati sunt, aut electi, aut 
+      <lb ed="#P" n="132"/>oves Christi seduci, Christo eripi, a charitate Dei 
+      <lb ed="#P" n="133"/>separari. Item impossibile est eos qui reprobati sunt, 
+      <lb ed="#P" n="134"/>perseveranter ad Christum venire, credere, corrigi 
+      <lb ed="#P" n="135"/>seu converti. Nam &amp; in his omnibus includitur 
+      ne<lb ed="#P" n="136" break="no"/>cessitas quaedam consequentiae, quae consistit cum 
+      <lb ed="#P" n="137"/>contingentia, imo cum libertate consequentis, ut 
+      fa<lb ed="#P" n="138" break="no"/>cile sigillatim in his ipsis ostendi potest, ut verbi 
+      gra<lb ed="#P" n="139" break="no"/>tia, in eo quod dico: Electus non potest seduci, 
+      <lb ed="#P" n="140"/>continetur haec necessaria consequentia: Electus est, 
+      <lb ed="#P" n="141"/>ergo non seducetur. Quod consequens tamen est 
+      <lb ed="#P" n="142"/>contingens &amp; liberum, ita ut possit oppositum 
+      eve<lb ed="#P" n="143" break="no"/>nire atque eligi. Sic ergo patet solutio sex 
+      prima<lb ed="#P" n="144" break="no"/>rum objectionum, nisi quod scriptura quinto loco 
+      <lb ed="#P" n="145"/>adducta recte sic accipitur ut non omnimodam 
+      <!--0164.xml-->
+      <pb ed="#P" n="141"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>impossibilitatem, sed magnam difficultatem 
+      reci<lb ed="#P" n="2" break="no"/>piendi lumen fidei significet, quomodo eam 
+      conve<lb ed="#P" n="3" break="no"/>nienter intelligi posse diximus ad dist. 38. ubi de 
+      prae<lb ed="#P" n="4" break="no"/>scientia Dei agebatur. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e417">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Ad septimam respondetur hominem rectissime 
+      <lb ed="#P" n="6"/>comparari luto respectu praedestinationis &amp; 
+      reproba<lb ed="#P" n="7" break="no"/>tionis divinae, quia quamvis homo sit liber in iis 
+      a<lb ed="#P" n="8" break="no"/>ctionibus, quas eum facturum Deus praedestinavit 
+      <lb ed="#P" n="9"/>aut praescivit, non tamen liber est respectu ipsius 
+      <lb ed="#P" n="10"/>praedestinationis, aut reprobationis, cum haec 
+      utra<lb ed="#P" n="11" break="no"/>que ex sola Deipendeat voluntate, sicut luti 
+      forma<lb ed="#P" n="12" break="no"/>tio ex voluntate figuli. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e439">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Ad octavam respondetur, promissionem divinam 
+      <lb ed="#P" n="14"/>esse de operibus liberi nostri arbitrii, quatenus 
+      ea<lb ed="#P" n="15" break="no"/>dem sunt opera Dei facientis ut faciamus. Quod 
+      <lb ed="#P" n="16"/>idem dicit Augustinus: Non promisit Deus quod tu 
+      <lb ed="#P" n="17"/>facis, ita intellige: Non promisit, quod tu facis ex 
+      <lb ed="#P" n="18"/>teipso, sed quod ipse facit te facere. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e457">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Ad nonam respondeo, sensum verborum 
+      Augusti<lb ed="#P" n="20" break="no"/>ni esse, quod etiam si Petrus voluisset a fide deficere, 
+      <lb ed="#P" n="21"/>&amp; per consequens defecisset, oratione tamen Christi 
+      <lb ed="#P" n="22"/>effectum fuisset ut converteretur, utque defectio 
+      il<lb ed="#P" n="23" break="no"/>la fidei non esset finalis. Aut certe significatur, quod 
+      <lb ed="#P" n="24"/>imperfecta Petri voluntas, seu pronitas ad 
+      deficien<lb ed="#P" n="25" break="no"/>dum propter orationem Christi, fuisset commutata in 
+      <lb ed="#P" n="26"/>voluntatem stabiliter &amp; constanter non deficientem 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e479">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Quae decimo loco ex eodem Augustino 
+      objiciun<lb ed="#P" n="28" break="no"/>tur, similem habent sententiam cum iis ad quae 
+      pri<lb ed="#P" n="29" break="no"/>mo loco respondimus. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e490">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Ad undecimam objectionem, antecedente 
+      con<lb ed="#P" n="31" break="no"/>cesso, sicut concedendum est, respondetur 
+      negatio<lb ed="#P" n="32" break="no"/>ne consequentiae. Quam si probare pergas hoc 
+      mo<lb ed="#P" n="33" break="no"/>do; quia quicquid est tempore vel natura prius 
+      de<lb ed="#P" n="34" break="no"/>terminatum jam non est liberum, neganda est 
+      assum<lb ed="#P" n="35" break="no"/>ptio, si de eo quod a Deo determinatur, sermo sit. 
+      <lb ed="#P" n="36"/>Nam determinatio seu praedeterminatio illa divina 
+      <lb ed="#P" n="37"/>omnibus causis secundis communis est, tam libere 
+      <lb ed="#P" n="38"/>agentibus quam caeteris. Pertinet enim ad rationem 
+      <lb ed="#P" n="39"/>causae secundae, ut pote creatae, ut in actionibus suis 
+      <lb ed="#P" n="40"/>omnibus prius natura determinetur a prima causa, a 
+      <lb ed="#P" n="41"/>qua non tantum habet agere; sed etiam omnem 
+      mo<lb ed="#P" n="42" break="no"/>dum agendi, id est, ut agat vel necessario, vel 
+      contin<lb ed="#P" n="43" break="no"/>genter, vel etiam libere. Similiter postremi 
+      argumen<lb ed="#P" n="44" break="no"/>ti neganda est consequentia. Nam eadem ratione 
+      se<lb ed="#P" n="45" break="no"/>queretur, quod sola Dei praescientia tollat actionum 
+      <lb ed="#P" n="46"/>humanarum libertatem, quandoquidem nec 
+      prae<lb ed="#P" n="47" break="no"/>scientia Dei est in hominis potestate. Dicendum 
+      igi<lb ed="#P" n="48" break="no"/>tur satis esse si antecedens sit Deo liberum, &amp; 
+      proin<lb ed="#P" n="49" break="no"/>de non necessarium sicut nec consequens. 
+    </p>
+            <p xml:id="bt67yj-k52875-d1e538">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> At dices: Homo non potest falsificare antecedens 
+      <lb ed="#P" n="51"/>Non enim est antecedens in hominis potestate; ergo 
+      <lb ed="#P" n="52"/>nec consequens. Nam si consequens posset falsificare 
+      <lb ed="#P" n="53"/>sine antecedente, esset antecedens verum 
+      consequen<lb ed="#P" n="54" break="no"/>te falso, quod est contra legem bonae consequentiae. 
+      <lb ed="#P" n="55"/>Respondeo esse quidem consequens in potestate 
+      ho<lb ed="#P" n="56" break="no"/>minis, non autem antecedens, ut jam dictum est, non 
+      <lb ed="#P" n="57"/>tamen posse hominem falsificare consequens, quin 
+      <lb ed="#P" n="58"/>&amp; falsitas sequatur antecedentis, &amp; ita ostenditur 
+      <lb ed="#P" n="59"/>antecedens non esse necessarium. Ubi notandum, 
+      <lb ed="#P" n="60"/>quod si falsificare sit falsam reddere propositionem 
+      <lb ed="#P" n="61"/>quae prius vera erat, sic non potest homo falsificare 
+      <lb ed="#P" n="62"/>consequens, uti nec antecedens; sin autem 
+      falsifi<lb ed="#P" n="63" break="no"/>care sit agere aliquid ex quo sequatur propositionem 
+      <lb ed="#P" n="64"/>esse falsam, sic poterit non solum consequens 
+      falsifi<lb ed="#P" n="65" break="no"/>care; sed etiam antecedens. Si denique falsificare 
+      <lb ed="#P" n="66"/>dicitur is qui efficit ne vera sit propositio, tanquam 
+      <lb ed="#P" n="67"/>super re significata potestatem habens, hoc modo 
+      <lb ed="#P" n="68"/>potest falsificare consequens, non autem antecedens, 
+      <lb ed="#P" n="69"/>cujus tamen non per hoc tollitur contingentia, ita ut 
+      <lb ed="#P" n="70"/>falsum sit consequente falsificato.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="186"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k70623"><!-- l1d44c1" -->
+            <head xml:id="bt67yj-k70623-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k70623-Hd1e103" type="question-title">Deum posse facere meliora iis quae facit</head>
+            <p xml:id="bt67yj-k70623-d1e106">
+               <lb ed="#P" n="115"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="116"/>QUADRACESIMAMQUARTAM
+      <lb ed="#P" n="117"/>§. 1. Deum posse facere meliora iis quae facit. 
+    </p>
+            <p xml:id="bt67yj-k70623-d1e115">
+               <lb ed="#P" n="118"/>EX infinitate potentiae &amp; sapientiae divinae 
+      <lb ed="#P" n="119"/>consequens non tantum est, Deum posse 
+      <lb ed="#P" n="120"/>facere alia ab his quae facit, sed &amp; omnia 
+      <lb ed="#P" n="121"/>ea quae facit, manente eorum substantia posse 
+      fa<lb ed="#P" n="122" break="no"/>cere meliora. Posse etiam quamvis re a se facta, aut 
+      <lb ed="#P" n="123"/>facienda, facere aliam meliorem. Si enim ad eum 
+      <lb ed="#P" n="124"/>gradum bonitatis in creaturis aliquando 
+      peryeni<lb ed="#P" n="125" break="no"/>retur, quo nihil melius a Deo vel effici, vel 
+      exco<lb ed="#P" n="126" break="no"/>gitari posset, finibus quibusdam contineretur tam 
+      <lb ed="#P" n="127"/>sapientia, quam potentia Dei. Quare fatendum 
+      <lb ed="#P" n="128"/>est increaturis nihil esse summum, sive ut 
+      loquun<lb ed="#P" n="129" break="no"/>tur, extremum potentiae divinae. Significatum est 
+      <lb ed="#P" n="130"/>hoc verbis apostoli, quibus testatur Ephes. 3. Deum 
+      <lb ed="#P" n="131"/>posse omnia facere superabundanter ultra quam 
+      <lb ed="#P" n="132"/>petimus aut intelligimus. Idque diserte docet 
+      Au<lb ed="#P" n="133" break="no"/>gustinus aliquot locis, ut libro tertio de libero 
+      <lb ed="#P" n="134"/>arbitrio capit. 9. &amp; lib. 11. de gen. ad lit. capit. 7. 
+      <lb ed="#P" n="135"/>&amp; 10. Omnino autem quaecunque probant Deum 
+      <lb ed="#P" n="136"/>esse omnipotentem, valent ad probandum quod &amp; 
+      <lb ed="#P" n="137"/>plura &amp; meliora his quae facit, facere possit. 
+      Om<lb ed="#P" n="138" break="no"/>nia enim haec possibilium numero 
+      comprehendun<lb ed="#P" n="139" break="no"/>tur, cum ejusmodi sint, ut contradictionem non 
+      in<lb ed="#P" n="140" break="no"/>cludant. 
+    </p>
+            <p xml:id="bt67yj-k70623-d1e167">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Recte interim negat sanctus Thomas art. 6. q 
+      <lb ed="#P" n="142"/>25. Deum posse facere rem aliquam seipsa meliorem 
+      <lb ed="#P" n="143"/>seu perfectiorem secundum essentiam, ita nimirum 
+      <lb ed="#P" n="144"/>ut res eadem permaneat, quomodo ternarium ma¬ 
+      <!--0210.xml-->
+      <pb ed="#P" n="187"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="2"/>nentem ternarium facere non potest seipso majorem. 
+      <lb ed="#P" n="3"/>Hoc enim factibile non est, quia contradictionem 
+      <lb ed="#P" n="4"/>involvit. Nam sequeretur rem quempiam esse &amp; non 
+      <lb ed="#P" n="5"/>esse eandem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="83"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k31047"><!-- l1d26c2" -->
+            <head xml:id="bt67yj-k31047-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k31047-Hd1e103" type="question-title">Ad dubia quadam responsio</head>
+            <p xml:id="bt67yj-k31047-d1e106">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> §. 2. Ad dubia quadam responsio.
+    </p>
+            <p xml:id="bt67yj-k31047-d1e113">
+               <lb ed="#P" n="88"/>QUm dictum sit spirationem activam, quae 
+      duo<lb ed="#P" n="89" break="no"/>Cbus communis est, patri scilicet &amp; filio, 
+      distin<lb ed="#P" n="90" break="no"/>guens eos a spiritu sancto, unam esse ex notionibus 
+      <lb ed="#P" n="91"/>personalibus, merito dubitet aliquis, cur non item 
+      <lb ed="#P" n="92"/>processio generaliter sumpta, quae quidem 
+      commu<lb ed="#P" n="93" break="no"/>nis est filio &amp; spiritui sancto, sed eos a patre 
+      distin<lb ed="#P" n="94" break="no"/>guit, numero notionum adjungatur. 
+    </p>
+            <p xml:id="bt67yj-k31047-d1e131">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Deinde idem quaeri potest de innascibilitate, qua s 
+      <lb ed="#P" n="96"/>nativitas proprie sumpta negatur, quaeque 
+      commu<lb ed="#P" n="97" break="no"/>nis est patri &amp; spiritui sancto, distinguens eos a 
+      filio<lb ed="#P" n="98" break="no"/>qui solus nascitur. 
+    </p>
+            <p xml:id="bt67yj-k31047-d1e145">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Tertio de improcessibilitate sive inspirabilitate, 
+      <lb ed="#P" n="100"/>qua scilicet negatur processio specialiter dicta, quae 
+      <lb ed="#P" n="101"/>proinde communis patri &amp; filio, distinguit eos a 
+      spi<lb ed="#P" n="102" break="no"/>ritu sancto. 
+    </p>
+            <p xml:id="bt67yj-k31047-d1e158">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Postremo de improductione activa, qua videlicet 
+      <lb ed="#P" n="104"/>activa productio negatur, quae proinde propria est 
+      <lb ed="#P" n="105"/>spiritui sancto distinguens eum a patre &amp; filio. 
+    </p>
+            <p xml:id="bt67yj-k31047-d1e169">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Ad 1. dubium respondetur, processionem 
+      genera<lb ed="#P" n="107" break="no"/>liter dictam ideo notionibus non annumerari, quia 
+      <lb ed="#P" n="108"/>non est aliquid secundum rem commune duobus, 
+      <lb ed="#P" n="109"/>quo a tertio distinguantur; sed tantum secundum 
+      <lb ed="#P" n="110"/>rationem; spirationem autem activam secundum 
+      <lb ed="#P" n="111"/>rem esse communem patri &amp; filio. Cum qua 
+      respon<lb ed="#P" n="112" break="no"/>sione congruit solutio S. Thomae, qua dicit filium 
+      <lb ed="#P" n="113"/>&amp; spiritum sanctum non convenire in uno speciali 
+      <lb ed="#P" n="114"/>modo existendi a patre, sicut pater &amp; filius 
+      conve<lb ed="#P" n="115" break="no"/>niunt in uno speciali modo producendi spiritum 
+      san<lb ed="#P" n="116" break="no"/>ctum: Id autem quod est principium innotescendi, 
+      <lb ed="#P" n="117"/>spec iale aliquid esse oportere. 
+    </p>
+            <p xml:id="bt67yj-k31047-d1e200">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Ad 2. respondetur innascibilitatem non debere 
+      no<lb ed="#P" n="119" break="no"/>tionibus annumerari, nisi quatenus ad dignitatem 
+      <lb ed="#P" n="120"/>pertineat ejus personae quae ex ea innotescit. Ita 
+      in<lb ed="#P" n="121" break="no"/>nas.litas tribuitur patri, in quantum a nullo alio 
+      <lb ed="#P" n="122"/>ex -; unde intelligitur esse principium sine 
+      princi<lb ed="#P" n="123" break="no"/>pio. Non sic autem competit spiritui sancto, in quo 
+      <lb ed="#P" n="124"/>tantum negat nativitatem. 
+    </p>
+            <p xml:id="bt67yj-k31047-d1e220">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Ad 3. dicendum improcessibilitatem, secundum 
+      <lb ed="#P" n="126"/>id, quod dignitatis in ea voce intelligi potest, 
+      conti<lb ed="#P" n="127" break="no"/>neri in notione una ex quinque supra dictis, scilicet 
+      <lb ed="#P" n="128"/>in spiratione activa. Quia enim patri &amp; filio 
+      compe<lb ed="#P" n="129" break="no"/>tit spiratio, ideo negatur ab iis processio. 
+    </p>
+            <p xml:id="bt67yj-k31047-d1e236">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Ad postremum similis est responsio cum 2. Cum 
+      <lb ed="#P" n="131"/>enim personae nomen, ut ait S. Thomas, importet 
+      <lb ed="#P" n="132"/>dignitatem, non potest accipi notio aliqua spiritus 
+      <lb ed="#P" n="133"/>sancti, ex hoc quod nulla persona est ab ipso. Hoc 
+      e<lb ed="#P" n="134" break="no"/>nim non pertinet ad dignitatem ejus, sicut pertinet 
+      <lb ed="#P" n="135"/>ad authoritatem patris, quod sit a nullo. Sic ille 1. 
+      <lb ed="#P" n="136"/>q. 32. art. 3. Qua quidem in quaestione disputat ex 
+      <lb ed="#P" n="137"/>professo de notionibus trium in Deo personarum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

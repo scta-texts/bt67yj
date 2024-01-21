@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="131"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k49464"><!-- l1d40c10" -->
+            <head xml:id="bt67yj-k49464-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-k49464-Hd1e103" type="question-title">Qui effectus in reprobationem referendi</head>
+            <p xml:id="bt67yj-k49464-d1e106">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> §. 10. Qui effectus in reprobationem referendi.
+    </p>
+            <p xml:id="bt67yj-k49464-d1e113">
+               <lb ed="#P" n="66"/>CUm de effectibus divinae reprobationis agitur, 
+      <lb ed="#P" n="67"/>illud imprimis ac certissime statuendum est, 
+      <lb ed="#P" n="68"/>nullum peccatum nec hominis nec angeli, in 
+      divi<lb ed="#P" n="69" break="no"/>nam reprobationem ut causam referri posse. Deus 
+      <lb ed="#P" n="70"/>enim non est author peccati, sed vindex. Verum de 
+      <lb ed="#P" n="71"/>hac re plenius infra. 
+    </p>
+            <p xml:id="bt67yj-k49464-d1e129">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Jam &amp; illud nihilominus certum &amp; indubitatum 
+      <!--0154.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>est, ejusdem divinae reprobationis effectum esse 
+      dam<lb ed="#P" n="74" break="no"/>nationem &amp; poenam aeternam, id quod satis ex 
+      defi<lb ed="#P" n="75" break="no"/>nitione reprobationis intelligi potest. Idemque 
+      ma<lb ed="#P" n="76" break="no"/>nifestum est ex scripturis. Nam Matth. 25. dicitur 
+      <lb ed="#P" n="77"/>ignis aeternus paratus diabolo &amp; angelis ejus, sicut 
+      <lb ed="#P" n="78"/>regnum paratum justis. Prov. 16. Dicitur impius 
+      fa<lb ed="#P" n="79" break="no"/>ctus a Deo seu deputatus ad diem malum. Rom. 9. 
+      <lb ed="#P" n="80"/>reprobi vocantur vasa aptata, seu praeparata ad 
+      inte<lb ed="#P" n="81" break="no"/>ritum, sicut electi praeparati ad gloriam. Eccl. 26. de 
+      <lb ed="#P" n="82"/>eo qui transgreditur a justitia ad peccatum dicitur: 
+      <lb ed="#P" n="83"/>Deus praeparavit eum ad rompheam, id est, 
+      vindi<lb ed="#P" n="84" break="no"/>ctam judicii divini. Et Judas in epistola quosdam 
+      es<lb ed="#P" n="85" break="no"/>se dicit olim praescriptos in judicium seu 
+      condemna<lb ed="#P" n="86" break="no"/>tionem, quibus &amp; procella tenebrarum servata sit in 
+      <lb ed="#P" n="87"/>aeternum. Quod his verbis expressit Petrus in 2. ep. 
+      <lb ed="#P" n="88"/>2. quibus judicium jam olim non cessat &amp; perditio 
+      eo<lb ed="#P" n="89" break="no"/>rum non dormitat, &amp;c. Et infra; iniquos vero in diem 
+      <lb ed="#P" n="90"/>judicii reservari cruciandos, Et iterum: Quibus 
+      cali<lb ed="#P" n="91" break="no"/>go tenebrarum reservatur. Idem patres docent, iis 
+      <lb ed="#P" n="92"/>maxime verbis, quibus dicunt alios ad vitam, alios 
+      <lb ed="#P" n="93"/>ad mortem aeternam esse a Deo praedestinatos. Sic 
+      <lb ed="#P" n="94"/>enim Augustinus libr. 15. de civit. capit. 1. duas esse 
+      <lb ed="#P" n="95"/>dicit societates hominum, unam quae praedestinata 
+      <lb ed="#P" n="96"/>est in aeternum regnare cum Deo; aiteram, quae 
+      prae<lb ed="#P" n="97" break="no"/>destinata est aeternum supplicium subire cum 
+      dia<lb ed="#P" n="98" break="no"/>bolo. Et lib. 21. c. 24. quosdam esse qui praedestinati 
+      <lb ed="#P" n="99"/>sunt in aeternum ignem ire cum diabolo. Sed &amp; alia 
+      <lb ed="#P" n="100"/>hujusmodi loca tam Augustini quam aliorum 
+      indi<lb ed="#P" n="101" break="no"/>cavimus supra cum de nomine praedestinationis 
+      age<lb ed="#P" n="102" break="no"/>remus. Ex quibus liquet, reprobos ad aeternam 
+      poe<lb ed="#P" n="103" break="no"/>nam esse a Deo praedestinatos, sive quod idem est, 
+      <lb ed="#P" n="104"/>aeternam poenam illis esse a Deo praeparatam. Quae 
+      <lb ed="#P" n="105"/>proinde effectus est reprobationis. Nam effectus 
+      re<lb ed="#P" n="106" break="no"/>probationis divinae dicitur omne illud, quod Deus 
+      <lb ed="#P" n="107"/>agit circa reprobos in ordine ad manifestationem 
+      ju<lb ed="#P" n="108" break="no"/>stitiae suae, per eorum justam damnationem. Tale 
+      <lb ed="#P" n="109"/>autem imprimis est ipsa eorum justa damnatio¬ 
+    </p>
+            <p xml:id="bt67yj-k49464-d1e221">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Quod praeterea generaliter ex eo probatur, quia 
+      <lb ed="#P" n="111"/>juxta unanimem Theologorum sententiam, quae 
+      tra<lb ed="#P" n="112" break="no"/>di solet ad secundi sententiarum, distinctionem 36. 
+      <lb ed="#P" n="113"/>&amp; 37. Deus author est omnis poenae tam aeternae 
+      <lb ed="#P" n="114"/>quam temporalis. Quicquid autem facit Deus in 
+      <lb ed="#P" n="115"/>tempore, id faciendum statuit ab aeterno, cum 
+      vo<lb ed="#P" n="116" break="no"/>luntas ejus sit immutabilis &amp; aeterna. Statuit igitur 
+      <lb ed="#P" n="117"/>ab aeterno quosdam in aeternum punire, 
+      quandoqui<lb ed="#P" n="118" break="no"/>dem hoc idem ipse in tempore facit. 
+    </p>
+            <p xml:id="bt67yj-k49464-d1e245">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Praeter hunc autem reprobationis effectum, sunt 
+      <lb ed="#P" n="120"/>&amp; alii quidam similiter referendi in Deum 
+      reproban<lb ed="#P" n="121" break="no"/>cem. Ac primum ea dimissio, seu derelictio, qua 
+      <lb ed="#P" n="122"/>quis merito praecedentis peccati derelictus subinde 
+      <lb ed="#P" n="123"/>in alia atque alia peccata prolabens deterior 
+      effici<lb ed="#P" n="124" break="no"/>tur, &amp; reatum aeternae damnationis sibi aggravat. 
+      <lb ed="#P" n="125"/>De qua derelectione frequens est in scripturis 
+      men<lb ed="#P" n="126" break="no"/>tio, ut Psal. 80. Dimisi eos secundum desideria 
+      cor<lb ed="#P" n="127" break="no"/>dis eorum. Isai. 50. In sceleribus vestris dimisi 
+      ma<lb ed="#P" n="128" break="no"/>trem vestram. Matth. 23. Ecce relinquetur vobis 
+      do<lb ed="#P" n="129" break="no"/>mus vestra deserta. Actor. 14. Dimisit omnes 
+      gen<lb ed="#P" n="130" break="no"/>tes ingredi vias suas. Eodem pertinet illud Psalmi 
+      <lb ed="#P" n="131"/>2. Apprehendite disciplinam nequando trascatur 
+      Do<lb ed="#P" n="132" break="no"/>minus, &amp; pereatis de via justa. Et quoties in 
+      scriptu<lb ed="#P" n="133" break="no"/>ris dicitur Dominus avertere faciem suam propter 
+      <lb ed="#P" n="134"/>peccata hominum, hujusmodi dimissio 
+      significa<lb ed="#P" n="135" break="no"/>tur, eademque in reprobis fit effectus 
+      reproba<lb ed="#P" n="136" break="no"/>tionis. 
+    </p>
+            <p xml:id="bt67yj-k49464-d1e289">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Huic porro dimissioni subjunguntur 
+      excoeca<lb ed="#P" n="138" break="no"/>tio &amp; obduratio, quae alio nomine aggravatio in 
+      <lb ed="#P" n="139"/>scripturis vocatur. Cum enim homo sibi 
+      dimitti<lb ed="#P" n="140" break="no"/>tur, lumine &amp; auxilio gratiae Dei destitutus, fit ut 
+      <lb ed="#P" n="141"/>&amp; ejus intellectus subinde majoribus ignorantiae 
+      <lb ed="#P" n="142"/>tenebris involvatur &amp; voluntas magis magisque in 
+      <lb ed="#P" n="143"/>ea quae pietati contraria sunt, incurrat, dum 
+      utra<lb ed="#P" n="144" break="no"/>que facultas naturali propensione in sua fertur 
+      ob<lb ed="#P" n="145" break="no"/>jecta. Hoc igitur modo dicuntur homines 
+      excoe<lb ed="#P" n="146" break="no"/>cari &amp; indurari, nimirum profectu quodam &amp; in¬ 
+      <!--0155.xml-->
+      <pb ed="#P" n="132"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cremento ignorantiae &amp; malitiae. Neque enim Deus 
+      <lb ed="#P" n="2"/>parvulos solum originale peccatum habentes &amp; in 
+      <lb ed="#P" n="3"/>eo morituros excoecare aut obdurare dicitur; 
+      tamet<lb ed="#P" n="4" break="no"/>si in illa qua nati sunt ignorantia &amp; malitia, 
+      relin<lb ed="#P" n="5" break="no"/>quantur; sed eos tantum qui Deo deserente magis 
+      <lb ed="#P" n="6"/>aberrant atque pejores evadunt: Et hos quidem 
+      om<lb ed="#P" n="7" break="no"/>nes si vim vocabulorum attendamus. Verum 
+      scri<lb ed="#P" n="8" break="no"/>ptura peculiariter &amp; quasi per excellentiam eos 
+      dice<lb ed="#P" n="9" break="no"/>re solet excoecari &amp; obdurari a Deo, qui proposito 
+      <lb ed="#P" n="10"/>sibi divinitus insigni aliquo lumine ac praesidio 
+      sa<lb ed="#P" n="11" break="no"/>lutis, quo ad credendum vel agendum poenitentiam 
+      <lb ed="#P" n="12"/>moveri debebant, tanti boni occasione, redduntur 
+      <lb ed="#P" n="13"/>multo magis obtenebrati ac depravati, Deoque 
+      re<lb ed="#P" n="14" break="no"/>belles; adeo ut quasi impossibile sit eos converti, 
+      si<lb ed="#P" n="15" break="no"/>cut naturaliter impossibile est hominem coecum 
+      illu<lb ed="#P" n="16" break="no"/>minari, aut durum lapidem emolliri. Quo sensu 
+      Do<lb ed="#P" n="17" break="no"/>minus in Exodo dicit, &amp; saepenumero repetit se 
+      in<lb ed="#P" n="18" break="no"/>duraturum cor Pharaonis &amp; servorum ejus, ut qui 
+      <lb ed="#P" n="19"/>cum suis tot conspectis portentis ac signis 
+      manifestis<lb ed="#P" n="20" break="no"/>simis virtutis divinae, non tamen ad credendum &amp; 
+      <lb ed="#P" n="21"/>obediendum Deo inductus fuerit, sed ad resistendum 
+      <lb ed="#P" n="22"/>durior &amp; praefractior evaserit. Sic &amp; de Judaeis dictum 
+      <lb ed="#P" n="23"/>est Isa. 6. &amp; in novo testamento aliquoties licet 
+      di<lb ed="#P" n="24" break="no"/>versis verbis repetitum: Excoeca cor populi hujus, 
+      <lb ed="#P" n="25"/>&amp; aures ejus aggrava, &amp; oculos ejus claude ne forte 
+      <lb ed="#P" n="26"/>videat, &amp;c. Hoc Joan. 12. Deo tribuitur his verbis: 
+      <lb ed="#P" n="27"/>Excoecavit oculos eorum, &amp; induravit cor eorum, 
+      <lb ed="#P" n="28"/>&amp;c. De iisdem legitur Psal. 68. Obscurentur oculi 
+      eo<lb ed="#P" n="29" break="no"/>rum &amp; dorsum eorum semper incurva. Et iterum: 
+      Ap<lb ed="#P" n="30" break="no"/>pone iniquitatem super iniquitatem eorum. Et 2. Thess. 
+      <lb ed="#P" n="31"/>2. Ideo mittet illis Deus operationem erroris ut cre lant 
+      <lb ed="#P" n="32"/>mendacio. Et Rom. 9. Caeteri vero excoecati sunt, sicut 
+      <lb ed="#P" n="33"/>scriptum est, de lit illis Deus spiritum compunctionis, 
+      <lb ed="#P" n="34"/>oculos ut non videant, &amp;c. Et rursum Isa 63. sub 
+      per<lb ed="#P" n="35" break="no"/>sona ejusdem populi Judaici: Quare errare nos fecist. 
+      <lb ed="#P" n="36"/>a viis tuis, indurasti cor nostrum ne timeremus te? 
+      <lb ed="#P" n="37"/>Quod quidem totum factum est justa dimissione seu 
+      <lb ed="#P" n="38"/>desertione illius populi propter peccatum praecedens, 
+      <lb ed="#P" n="39"/>eo quod veritatem evangelii a Christo &amp; discipulis 
+      <lb ed="#P" n="40"/>ejus annunciati ac tot evidentibus signis 
+      comproba<lb ed="#P" n="41" break="no"/>ri non recepissent; quemadmodum 2. Thess. 1. &amp; 2. 
+      <lb ed="#P" n="42"/>atque alibi scriptura testatur. Inde enim factum est 
+      <lb ed="#P" n="43"/>justo judicio Dei ut ad eandem Christi &amp; 
+      Apostolo<lb ed="#P" n="44" break="no"/>rum praedicationem &amp; miracula paulatim magis 
+      ob<lb ed="#P" n="45" break="no"/>duruerint: Tale quid etiam philosophi passi sunt, 
+      <lb ed="#P" n="46"/>quibus cum invisibilia sua Deus per ea quae facta 
+      <lb ed="#P" n="47"/>sunt, manifestasset, traditi sunt a Deo in desideria 
+      <lb ed="#P" n="48"/>cordis sui, &amp; in passiones ignominiae, atque in 
+      re<lb ed="#P" n="49" break="no"/>probum sensum, quemadmodum id late 
+      prosequi<lb ed="#P" n="50" break="no"/>tur Apostolus Rom. 1. 
+    </p>
+            <p xml:id="bt67yj-k49464-d1e430">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Ex his patet reprobat ion is effectus, qui in 
+      scriptu<lb ed="#P" n="52" break="no"/>ris vocantur excoecatio &amp; obduratio, non omnibus 
+      <lb ed="#P" n="53"/>reprobis esse communes; sed paucioribus tantum 
+      <lb ed="#P" n="54"/>quibusdam convenire. Verum praeter haec dici 
+      po<lb ed="#P" n="55" break="no"/>test secundum ea quae supra diximus de effectibus 
+      <lb ed="#P" n="56"/>praedestinationis, multa adhuc alia esse quae recte 
+      <lb ed="#P" n="57"/>ponantur effectus reprobationis, quorum alii sint 
+      <lb ed="#P" n="58"/>remoti, alii propinqui, &amp; alii communes, alii 
+      singu<lb ed="#P" n="59" break="no"/>lares, alii denique secundum se indifferentes; sed a 
+      <lb ed="#P" n="60"/>Deo ordinati ad finem reprobationis, alii vero 
+      se<lb ed="#P" n="61" break="no"/>cundum se determinati. Quorum singulorum 
+      exem<lb ed="#P" n="62" break="no"/>pla assignare ex supradictis non est difficile. Unde 
+      <lb ed="#P" n="63"/>nec negandum videtur ipsam creationem hominis 
+      <lb ed="#P" n="64"/>reprobi, hac generali ratione vocari posse 
+      reproba<lb ed="#P" n="65" break="no"/>tionis ejus effectum. Creantur enim hujusmodi ad 
+      <lb ed="#P" n="66"/>manifestationem justitiae Dei per justam eorum 
+      dam<lb ed="#P" n="67" break="no"/>nationem; Quomodo supra effectum reprobationis 
+      <lb ed="#P" n="68"/>definiebamus. Ex quo apparet etiam summi angeli 
+      <lb ed="#P" n="69"/>creationem fuisse effectum saltem remotum 
+      repro<lb ed="#P" n="70" break="no"/>bationis ejus, idemque de collatione tantae ejus 
+      ex<lb ed="#P" n="71" break="no"/>cellentiae in naturalibus &amp; gratuitis dicendum. Deus 
+      <lb ed="#P" n="72"/>enim haec omnia in illo ordinavit ad finem supra 
+      <lb ed="#P" n="73"/>dictum. Estque hoc satis consonum scripturae Job 
+      <lb ed="#P" n="74"/>40. &amp; Psal. 103. Verum de hac re alibi forte exa¬ 
+      <!--0155.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ctius. Interim hoc loco notandum est, quod apud 
+    </p>
+            <p xml:id="bt67yj-k49464-d1e493">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Augustinum legitur in soliloquiis cap. 28. sicut 
+      prae<lb ed="#P" n="77" break="no"/>destinatis ad vitam omnia cooperantur in bonum 
+      <lb ed="#P" n="78"/>etiam ipsa peccata: sic praescitis ad mortem 
+      aeternam<lb ed="#P" n="79" break="no"/>omnia cooperari in malum, &amp; ipsam etiam 
+      oratio<lb ed="#P" n="80" break="no"/>nem verti in peccatum. Quod tamen non ita acci¬¬ 
+      <lb ed="#P" n="81"/>piendum, quasi reproborum bona opera vere 
+      pec<lb ed="#P" n="82" break="no"/>cata fiant; sed quia dum illa, quae forte fecerunt, 
+      <lb ed="#P" n="83"/>peccando amittunt, etiam inde sibi poenam 
+      compa<lb ed="#P" n="84" break="no"/>rant. Justum est enim ut cui bona data fuerant 
+      eo<lb ed="#P" n="85" break="no"/>rum voluntariae perditionis merito torqueatur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

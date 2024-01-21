@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="5"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k01623"><!-- l1d1c5" -->
+            <head xml:id="bt67yj-k01623-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k01623-Hd1e103" type="question-title">Utrum virtutibus utendum sit, an 
+        fruendum</head>
+            <p xml:id="bt67yj-k01623-d1e106">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> §. 5. Utrum virtutibus utendum sit, an 
+      <lb ed="#P" n="49"/>fruendum 
+    </p>
+            <p xml:id="bt67yj-k01623-d1e115">
+               <lb ed="#P" n="50"/>Virtutibus quibus bene vivitur, non esse 
+      fruen<lb ed="#P" n="51" break="no"/>dum sed utendum, ostenditur primum ex ec 
+      <lb ed="#P" n="52"/>quod supra dictum est &amp; probatum, juxta 
+      Theologi<lb ed="#P" n="53" break="no"/>cam fruendi acceptionem, solo Deofruendum esse, 
+      <lb ed="#P" n="54"/>rebus caeteris utendum. Probatur id ipsum 
+      authori<lb ed="#P" n="55" break="no"/>tate scripturae. Nam Sapientiae 8. dicitur de quatuor 
+      <lb ed="#P" n="56"/>virtutibus cardinalibus: Quibus utilius nihil est in 
+      <lb ed="#P" n="57"/>vita hominibus cum igitur sint res utilissimae; 
+      uten<lb ed="#P" n="58" break="no"/>dum iis est. Item authoritate Augustini, qui lib. 13 
+      <lb ed="#P" n="59"/>de Civit. cap. 8. docet virtutes propter solam 
+      beati<lb ed="#P" n="60" break="no"/>tudinem amandas esse, &amp; lib. 4. contra Julianum 
+      <lb ed="#P" n="61"/>cap. 3. late monstrat non esse veras virtutes, quae 
+      <lb ed="#P" n="62"/>vel nulli rei serviunt, vel alii quam Deo. Denique 
+      <lb ed="#P" n="63"/>Lactantii testimonio, qui virtutes non propter se ex 
+      <lb ed="#P" n="64"/>petendas esse, sed propter vitam aeternam atque 
+      <lb ed="#P" n="65"/>beatam, quae consistit Dei in visione, docet 
+      complu<lb ed="#P" n="66" break="no"/>ribus locis, ut lib. 3. divin. Instit. cap. 12. &amp; 17. lib. 
+      <lb ed="#P" n="67"/>5. cap. 17. &amp; 18. &amp; lib. 6. cap. 9. Unde &amp; inter 
+      <lb ed="#P" n="68"/>praecepta moralia Catonis legitur: Utere virtute. 
+    </p>
+            <p xml:id="bt67yj-k01623-d1e159">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Ex his igitur, falsitatis redarguitur doctrina 
+      Stoi<lb ed="#P" n="70" break="no"/>corum, qui in virtute summum bonum hominis 
+      col<lb ed="#P" n="71" break="no"/>locantes, docuerunt eam propter se tantum 
+      expe<lb ed="#P" n="72" break="no"/>tendam esse, &amp; non ad aliud bonum praestantius re¬ 
+      <!--0028.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>ferendam, quod in ea sola dicerent satis esse 
+      prae<lb ed="#P" n="74" break="no"/>sidii, ad bene beateque vivendum. Quod autem pro 
+      <lb ed="#P" n="75"/>hac Stoicorum sententia velut ex Ambrosio 
+      scriben<lb ed="#P" n="76" break="no"/>te in epistolam ad Gal. 5. objicit sibi Magister; id in 
+      <lb ed="#P" n="77"/>Commentario Ambrosiano non reperitur: sed 
+      habe<lb ed="#P" n="78" break="no"/>tur in glossa interlineali, cujus Rabanus author esse 
+      <lb ed="#P" n="79"/>creditur. Ibi enim dicitur, opera spiritus ab 
+      Apo<lb ed="#P" n="80" break="no"/>stolo fructus vocari, quia per se petenda sunt. Sed 
+      <lb ed="#P" n="81"/>dicendum recte virtutes etiam propter se amari 
+      <lb ed="#P" n="82"/>atque expeti, non autem propter se tantum, id est, 
+      <lb ed="#P" n="83"/>cum exclusione finis ulterioris, ut nec propter se 
+      <lb ed="#P" n="84"/>principaliter. Quamvis enim virtutes, per se 
+      ama<lb ed="#P" n="85" break="no"/>biles sint, tanquam magna animi bona; sicut &amp; 
+      sa<lb ed="#P" n="86" break="no"/>nitatem, tanquam .1agnum corporis bonum, per se 
+      <lb ed="#P" n="87"/>optabilem esse confitemur; non tamen in virtutibus 
+      <lb ed="#P" n="88"/>amorem figere, aut finem statuere licet; sed porro 
+      <lb ed="#P" n="89"/>in Deum ut finem ultimum referendae sunt, ut per 
+      <lb ed="#P" n="90"/>eas summum bonum nostrum quod Deus est, 
+      con<lb ed="#P" n="91" break="no"/>sequamur eoque fruamur. Sunt igitur virtutes 
+      per<lb ed="#P" n="92" break="no"/>inde atque potiones quaedam salutares; non quidem 
+      <lb ed="#P" n="93"/>amarae, quae tantum propter aliud sumuntur, nempe 
+      <lb ed="#P" n="94"/>causa sanitatis; sed dulces, quae praeterquam quod 
+      <lb ed="#P" n="95"/>sanitati conducunt, etiam in se habent, quod 
+      de<lb ed="#P" n="96" break="no"/>lectet. Neque huic responsioni contrarium est, 
+      <lb ed="#P" n="97"/>quod ex Augustino jam citavimus, propter solam 
+      <lb ed="#P" n="98"/>beatitudinem virtutes amandas esse; quasi inde sit 
+      <lb ed="#P" n="99"/>consequens, eas propter se nullo modo esse 
+      expeten<lb ed="#P" n="100" break="no"/>das. Sensus enim est, exponente Magistro, propter 
+      <lb ed="#P" n="101"/>solam beatitudinem, tanquam finem ultimum, &amp; 
+      <lb ed="#P" n="102"/>summum, amandas esse virtutes, tametsi &amp; in se 
+      ha<lb ed="#P" n="103" break="no"/>beant, unde amentur. Nam quod Lactantius lociis 
+      <lb ed="#P" n="104"/>jam allegatis dicit &amp; inculcat, vanum &amp; stultum 
+      <lb ed="#P" n="105"/>esse, vivere secundum virtutem, si nulla sit proposita 
+      <lb ed="#P" n="106"/>spes vitae beatae; non recte dictum videtur: quia 
+      si<lb ed="#P" n="107" break="no"/>cut vitia, per se inhonesta &amp; mala sunt, &amp; proinde 
+      <lb ed="#P" n="108"/>fugienda, etiamsi nullus sit Deus qui vindicet (ut 
+      <lb ed="#P" n="109"/>loquitur Lactantius) ita virtutes quoque per se 
+      ho<lb ed="#P" n="110" break="no"/>nestae sunt &amp; bonae, &amp; ob id amplectendae, etsi 
+      nul<lb ed="#P" n="111" break="no"/>lum propositum sit praemium. 
+    </p>
+            <p xml:id="bt67yj-k01623-d1e262">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Ex iis quae jam dicta sunt potest etiam accipi sensus 
+      <lb ed="#P" n="113"/>quorundam verborum Augustini in prima 
+      expositio<lb ed="#P" n="114" break="no"/>ne Psalmi 18. ad illud; In custodiendis illis retributio 
+      <lb ed="#P" n="115"/>multa. Non in aliquo, inquit, extra posito commodo, 
+      <lb ed="#P" n="116"/>sed in eo ipso quo judicia Dei custodiuntur, multa 
+      retri<lb ed="#P" n="117" break="no"/>butio: multa est, quia gaudetur in eis. Commodum 
+      <lb ed="#P" n="118"/>enim extra positum Augustinus intelligit, bonum 
+      ali<lb ed="#P" n="119" break="no"/>quod externum, quod etsi interdum retribuatur 
+      cu<lb ed="#P" n="120" break="no"/>stodientibus judicia Dei; non tamen in eo multa est 
+      <lb ed="#P" n="121"/>retributio; multo enim major est in honesta &amp; sancta 
+      <lb ed="#P" n="122"/>tur, judicia seu praecepta Dei, Desi derabilia sunt 
+      su<lb ed="#P" n="123" break="no"/>delectatione, quam praeceptorum Dei custodia 
+      se<lb ed="#P" n="124" break="no"/>cum adfert: quia ut superius in eodem Psalmo 
+      dici<lb ed="#P" n="125" break="no"/>per aurum &amp; lapidem pretiosum multum, &amp; dulciora 
+      <lb ed="#P" n="126"/>super mel &amp; favum. Verum quia non sunt magis 
+      de<lb ed="#P" n="127" break="no"/>siderabilia, quam Deus ipse, sed ipsa potius in Deum 
+      <lb ed="#P" n="128"/>tanquam summum desiderabile referuntur; hinc iis 
+      <lb ed="#P" n="129"/>Augustini verbis, non excluditur, sed magis 
+      in<lb ed="#P" n="130" break="no"/>cluditur intuitus retributionis, quae in Dei visione 
+      <lb ed="#P" n="131"/>consistit, scilicet tanquam finis ultimi.
+    </p>
+            <p xml:id="bt67yj-k01623-d1e310">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Sed rursum objiciet aliquis, beatitudinem 
+      homi<lb ed="#P" n="133" break="no"/>nis sitam esse in perfectis virtutibus, iis maxime, qui 
+      <lb ed="#P" n="134"/>cte virtutibus perfectis. Nos autem, imperfectis 
+      iti<lb ed="#P" n="135" break="no"/>bus per cognitionem, &amp; dilectionem perfectam 
+      ho<lb ed="#P" n="136" break="no"/>mo Deo conjungitur; &amp; proinde beatos frui 
+      perfe<lb ed="#P" n="137" break="no"/>dem frui imperfecte, quatenus in hac vita per eas 
+      <lb ed="#P" n="138"/>imperfecte Deo conjungimur. Respondeo 
+      beatitu<lb ed="#P" n="139" break="no"/>dinem seu finem hominis ultimum dici bifariam: 
+      <lb ed="#P" n="140"/>uno modo, ut objectum, cujus nimirum adeptione 
+      <lb ed="#P" n="141"/>seu possessione homo beatus efficitur; &amp; hoc modo 
+      <lb ed="#P" n="142"/>in solo Deo sita est hominis beatitudo, quare &amp; solo 
+      <lb ed="#P" n="143"/>Deo fruendum: Altero modo; ut ipsam objecti 
+      il<lb ed="#P" n="144" break="no"/>lius adeptionem seu possessionem, quae est forma 
+      <lb ed="#P" n="145"/>quaedam creata, animae rationali inhaerens, quae &amp; 
+      <lb ed="#P" n="146"/>formalis beatitudo vocatur. Atque haec est operatio 
+      <!--0029.xml-->
+      <pb ed="#P" n="6"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>perfectae virtutis, teste etiam Philosopho lib. ult. 
+      <lb ed="#P" n="2"/>Ethic. Hac igitur beatitudine frui dicitur homo 
+      mi<lb ed="#P" n="3" break="no"/>nus proprie, quatenus videlicet exercet actionem 
+      <lb ed="#P" n="4"/>perfectissimam per quam objectum illud beatificum 
+      <lb ed="#P" n="5"/>assequitur &amp; apprehendit. Quo quidem sensu dici 
+      <lb ed="#P" n="6"/>solet, beatos frui visione Dei, quia nimirum Deo 
+      <lb ed="#P" n="7"/>fruuntur per visionem. Posset hic etiam quaeri, an 
+      <lb ed="#P" n="8"/>virtute quis male uti possit, sed illi quaestioni locus 
+      <lb ed="#P" n="9"/>est ad dist. 27. lib. 2. circa definitionem virtutis ex 
+      <lb ed="#P" n="10"/>Augustino ibi traditam, qua dicitur, virtutem esse 
+      <lb ed="#P" n="11"/>qua nemo male utitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="71"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k26544"><!-- l1d18c3" -->
+            <head xml:id="bt67yj-k26544-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k26544-Hd1e103" type="question-title">Cui donabilis sit Spiritus sanctus</head>
+            <p xml:id="bt67yj-k26544-d1e106">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> §. 3. Cui donabilis sit Spiritus sanctus?
+    </p>
+            <p xml:id="bt67yj-k26544-d1e113">
+               <lb ed="#P" n="98"/>AD quaest. quam movet Magister, cui donabilis? 
+      <lb ed="#P" n="99"/>sit Spiritus sanctus, breviter respondendum 
+      sa<lb ed="#P" n="100" break="no"/>tis constare quod non sit donabilis patri &amp; filio. 
+      Ne<lb ed="#P" n="101" break="no"/>que enim intelligi potest donabilis iis, quorum ab 
+      <lb ed="#P" n="102"/>aeterno fuerit spiritus, &amp; quorum non esse non potest, 
+      <lb ed="#P" n="103"/>quia nimirum spiritus, atque adeo donum, eorum sit 
+      <lb ed="#P" n="104"/>per naturam. Donatio autem largitionem significat 
+      <lb ed="#P" n="105"/>ejus quod jure aut natura non competit. 
+    </p>
+            <p xml:id="bt67yj-k26544-d1e133">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> At neque cuilibet creaturae donabilis dici potest, 
+      <lb ed="#P" n="107"/>sed ei soli quae mente praedita sit, per quam, re 
+      do<lb ed="#P" n="108" break="no"/>nata frui vel uti possit. Hoc enim in sua 
+      significatio<lb ed="#P" n="109" break="no"/>ne donationis nomen includit, ut videlicet ea res cui 
+      <lb ed="#P" n="110"/>fit donatio, utendi vel fruendi dono accepto 
+      faculta<lb ed="#P" n="111" break="no"/>tem habeat. Unde nemo convenienter dixerit, se 
+      ju<lb ed="#P" n="112" break="no"/>mento pabulum donare, sed dare, vel potius 
+      praebe<lb ed="#P" n="113" break="no"/>re. Quod autem sola intellectualis creatura utendi &amp; 
+      <lb ed="#P" n="114"/>fruendi facultatem habeat, ad primam hujus libri 
+      <lb ed="#P" n="115"/>distinctionem ostendimus. Ex quo etiam loco 
+      mani<lb ed="#P" n="116" break="no"/>festum relinquitur, quod quamvis uti nos oporteat 
+      <lb ed="#P" n="117"/>donis Spiritus sancti, in quibus numerandae sunt 
+      vir<lb ed="#P" n="118" break="no"/>tutes, &amp; in his fides, spes, charitas, ipso tamen 
+      Spi<lb ed="#P" n="119" break="no"/>ritu sancto, utpote Deo, non utendum sit sed 
+      fruen<lb ed="#P" n="120" break="no"/>dum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

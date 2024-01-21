@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="33"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k12055"><!-- l1d8c5" -->
+            <head xml:id="bt67yj-k12055-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k12055-Hd1e103" type="question-title">Voluntatem Dei immutabilem esse</head>
+            <p xml:id="bt67yj-k12055-d1e106">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> §. 5. Voluntatem Dei immutabilem esse.
+    </p>
+            <p xml:id="bt67yj-k12055-d1e113">
+               <lb ed="#P" n="36"/>CUm in Deo non sit aliud essentia seu natura, 
+      <lb ed="#P" n="37"/>Caliud voluntas, ut infra cum de simplicitate 
+      <lb ed="#P" n="38"/>Dei agetur, plenius patebit; satis jam liquet 
+      im<lb ed="#P" n="39" break="no"/>mutabilem esse Dei voluntatem, ex quo quia ut jam 
+      <lb ed="#P" n="40"/>ostendimus immutabilis est Dei natura. Pertinet 
+      <lb ed="#P" n="41"/>autem voluntatis mutatio ad eas mutationes quae 
+      <lb ed="#P" n="42"/>fiunt secundum affectiones animi, &amp; contingit dum 
+      <lb ed="#P" n="43"/>quis aliquid idem modo vult, modo non vuit, aut 
+      <lb ed="#P" n="44"/>modo hoc vult, modo aliud. Non enim idem est 
+      mu<lb ed="#P" n="45" break="no"/>tare voluntatem, &amp; velle aliquarum rerum 
+      muta<lb ed="#P" n="46" break="no"/>tionem, ut recte docet Sanctus Thomas 1. quaest. 19. 
+      <lb ed="#P" n="47"/>art. 7. Potest enim non solum Deus, sed etiam 
+      ali<lb ed="#P" n="48" break="no"/>qualiter homo; eadem voluntate permanente, velle 
+      <lb ed="#P" n="49"/>ut nunc hoc fiat, deinde aliud priori contrarium. 
+      <lb ed="#P" n="50"/>Sed tunc mutatur voluntas, quando quis incipit velle 
+      <lb ed="#P" n="51"/>quod prius non voluit, vel definit velle quod prius 
+      <lb ed="#P" n="52"/>voluit: Quod quidem ut eodem loco tradit Sanctus 
+      <lb ed="#P" n="53"/>Thomas, accidere non potest, nisi praesupposita 
+      mu<lb ed="#P" n="54" break="no"/>tatione vel ex parte cognitionis, vel circa 
+      dispositio<lb ed="#P" n="55" break="no"/>nem substantiae ipsius voluntatis; dupliciter enim 
+      <lb ed="#P" n="56"/>contingit aliquem de novo aliquid velle; vel quia 
+      <lb ed="#P" n="57"/>de novo quippiam ei incipit esse bonum, ut cibus 
+      <lb ed="#P" n="58"/>esurienti, calor frigenti, quies fatigato; vel quia de 
+      <lb ed="#P" n="59"/>novo cognoscit seu opinatur aliquid sibi esse 
+      bo<lb ed="#P" n="60" break="no"/>num, cum prius id ignoraret. Atque hoc posteriori 
+      <lb ed="#P" n="61"/>modo proprie nominare solemus in homine 
+      volun<lb ed="#P" n="62" break="no"/>tatis mutationem, non item priore; tametsi nec ille 
+      <lb ed="#P" n="63"/>sit sine mutatione voluntatis secundum actum alium 
+      <lb ed="#P" n="64"/>atque alium sibi succedentes. Neuter autem modus 
+      <lb ed="#P" n="65"/>in Deo locum habere potest, eo quod tam substantia 
+      <lb ed="#P" n="66"/>Dei, quam ejus scientia sit omnino immutabilis. Sed 
+      <lb ed="#P" n="67"/>quaecunque Deus vult, cujusmodi sunt quaecunque 
+      <lb ed="#P" n="68"/>in tempore facit, licet diversissima sint atque invicem 
+      <lb ed="#P" n="69"/>contraria, vult ea omnia aeterna atque immutabili 
+      <lb ed="#P" n="70"/>voluntate 
+    </p>
+            <p xml:id="bt67yj-k12055-d1e191">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Quod autem voluntatem suam Deus nunquam 
+      <lb ed="#P" n="72"/>mutet, his scripturis docetur, Num. 23. Non est 
+      <!--0056.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Deus quasi homo ut mentiatur, nec ut filius hominis ut 
+      <lb ed="#P" n="74"/>mutetur. Dixit ergo &amp; non faciet? locutus est &amp; non 
+      <lb ed="#P" n="75"/>implebit? 1. Reg. 15. Triumphator in Israel non parcet 
+      <lb ed="#P" n="76"/>&amp; poenitudine non flectetur. Neque enim homo est iu. 
+      <lb ed="#P" n="77"/>agat poenitentiam. Psal. 118. Omnia quaecunque voluit 
+      <lb ed="#P" n="78"/>fecit. Psal. 32. Consilium Domini in aeternum manet, 
+      <lb ed="#P" n="79"/>cogitationes cordis ejus in generationem &amp; 
+      generatio<lb ed="#P" n="80" break="no"/>nem. Isa. 46. Consilium meum stabit, &amp; omnis 
+      volun<lb ed="#P" n="81" break="no"/>tas mea fiet. 2. Corinth. 1. Quoquot sunt promissiones 
+      <lb ed="#P" n="82"/>Dei in illo est. Ex quibus &amp; similibus patet 
+      volunta<lb ed="#P" n="83" break="no"/>tem &amp; consilium Dei nunquam mutari. 
+    </p>
+            <p xml:id="bt67yj-k12055-d1e229">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Unde &amp; Augustinus lib. 22. de Civitate capit. 2. 
+      <lb ed="#P" n="85"/>docet nullam Deo accidere novam voluntatem quam 
+      <lb ed="#P" n="86"/>non habuerit ab aeterno, sed quaecunque fiunt in 
+      <lb ed="#P" n="87"/>tempore, eadem ex aeternitate, in ejus immutabili 
+      <lb ed="#P" n="88"/>praeparata esse voluntate quae similiter cum ejus 
+      <lb ed="#P" n="89"/>praescientia sempiterna est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

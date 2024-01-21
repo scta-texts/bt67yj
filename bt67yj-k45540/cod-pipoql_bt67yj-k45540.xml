@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="121"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k45540"><!-- l1d39c9" -->
+            <head xml:id="bt67yj-k45540-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-k45540-Hd1e103" type="question-title">Utrum peccata subjecta sint providentiae divinae</head>
+            <p xml:id="bt67yj-k45540-d1e106">
+               <lb ed="#P" n="49"/>§. 9. Utrum peccata subjecta sint providentiae divinae. 
+    </p>
+            <p xml:id="bt67yj-k45540-d1e111">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> AD quaestionem hanc, an peccata cadant sub 
+      <lb ed="#P" n="51"/>Dei providentiam, cum distinctione 
+      respon<lb ed="#P" n="52" break="no"/>dendum est. Nam si sensus est, utrum Deus peccata 
+      <lb ed="#P" n="53"/>provideat, negative respondendum. Providere enim 
+      <lb ed="#P" n="54"/>est procurare. Nefas autem est dicere quod Deus 
+      <lb ed="#P" n="55"/>procurat peccata. Et idem significari videtur si 
+      di<lb ed="#P" n="56" break="no"/>catur divina providentia esse peccatorum. Earum 
+      <lb ed="#P" n="57"/>enim rerum providentia est, quae providentur &amp; 
+      <lb ed="#P" n="58"/>procurantur. At si sensus est, utrum Deus de 
+      pec<lb ed="#P" n="59" break="no"/>catis provideat, concedendum est. Quamvis enim 
+      <lb ed="#P" n="60"/>Deus peccata non provideat, praevidet tamen &amp; 
+      <lb ed="#P" n="61"/>permittere vult &amp; praevisa ordinat ad bonum 
+      ali<lb ed="#P" n="62" break="no"/>quod, vel particulare, vel universale, sive ad 
+      osten<lb ed="#P" n="63" break="no"/>sionem misericordiae suae, sive justitiae, vel 
+      quodcum<lb ed="#P" n="64" break="no"/>que aliud; atque ita dum de illis bene facere 
+      dispo<lb ed="#P" n="65" break="no"/>nit, de illis providere recte dicitur. De qua re vide 
+      <lb ed="#P" n="66"/>Cajetanum in 1. quaest. 22. art. 2. &amp; ipsum sanctum 
+      <lb ed="#P" n="67"/>Thom. 1. quaest. 14. art. 16. &amp; 1. 2. quaest. 79. art. 4. 
+      <lb ed="#P" n="68"/>in corp. &amp; ad primum, &amp; de veritate q. 5. a. 4. &amp; 7. 
+      <lb ed="#P" n="69"/>quo articulo disputat ex professo quomodo 
+      pecca<lb ed="#P" n="70" break="no"/>tores regantur a providentia Dei. Quod si in 
+      pecca<lb ed="#P" n="71" break="no"/>to solum consideretur id quod reale &amp; positivum 
+      <lb ed="#P" n="72"/>est, quod alii materiale vocant, scilicet ens sive 
+      <!--0144.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>actio, hac ratione etiam provisa a Deo peccata dici 
+      <lb ed="#P" n="74"/>possunt. Verum hoc non est absolute provisum esse, 
+      <lb ed="#P" n="75"/>sed tantum secundum quid, eo quod peccati 
+      forma<lb ed="#P" n="76" break="no"/>lis ratio consistat in privatione entis &amp; boni, id est, 
+      <lb ed="#P" n="77"/>in deformitate quadam, quae non est a Deo, &amp; 
+      pro<lb ed="#P" n="78" break="no"/>inde ab eo provisa esse non potest. 
+    </p>
+            <p xml:id="bt67yj-k45540-d1e183">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Quamvis autem simpliciter peccata non sint 
+      pro<lb ed="#P" n="80" break="no"/>visa a Deo, permissionem tamen eorum omnium 
+      <lb ed="#P" n="81"/>Deus providet. Nam etsi peccata mala sint, ideóque 
+      <lb ed="#P" n="82"/>provideri a Deo non possint, bona tamen eorum 
+      per<lb ed="#P" n="83" break="no"/>missio. Quam proinde &amp; vult Deus &amp; directe 
+      ordi<lb ed="#P" n="84" break="no"/>nat ad bonum aliquod majus, quam sit illud bonum, 
+      <lb ed="#P" n="85"/>cujus privatio est malum quod permittitur, 
+      quemad<lb ed="#P" n="86" break="no"/>modum docet sanctus Thomas 1. quaest. 22. artic. 2. 
+      <lb ed="#P" n="87"/>ad secundum. Idque ex Augustino probat ita 
+      scri<lb ed="#P" n="88" break="no"/>bente Enchir. 11. Deus omnipotens cum summe 
+      bo<lb ed="#P" n="89" break="no"/>nus sit, nullo modo sineret mali esse aliquid in 
+      operi<lb ed="#P" n="90" break="no"/>bus suis, nisi usque adeo esset omnipotens &amp; bonus, ut 
+      <lb ed="#P" n="91"/>benefaceret etiam de malo. Hinc idem Augustinus 
+      <lb ed="#P" n="92"/>lib. 3. de Trinitate, cap. 4. ad Dei providentiam 
+      re<lb ed="#P" n="93" break="no"/>fert, non tantum jubere quae in mundo fiunt, sed 
+      e<lb ed="#P" n="94" break="no"/>tiam permittere quaedam, id est, peccata. Quod 
+      ip<lb ed="#P" n="95" break="no"/>sum clarius expressit in expositione Psalmi 7. dicens 
+      <lb ed="#P" n="96"/>quod providentiae divinae etiam illa dispositio 
+      tri<lb ed="#P" n="97" break="no"/>buenda est, qua contingit quosdam pro meritis ab 
+      <lb ed="#P" n="98"/>haereticis seduci, non quia, inquit, ipsa peccatores 
+      fa<lb ed="#P" n="99" break="no"/>cit, sed quia ordinat cum peccaverint. Et hac ratione 
+      di<lb ed="#P" n="100" break="no"/>ctum est ab Hugone Victo. hom. 11. in Ecclesiasten, 
+      <lb ed="#P" n="101"/>Deum disponere omnia sine exceptione, etiam prava 
+      <lb ed="#P" n="102"/>&amp; mala; quia nimirum ea ordinat ad bonum, ut ipse 
+      <lb ed="#P" n="103"/>ibidem explicat. Unde notandum si proprie loqui 
+      <lb ed="#P" n="104"/>velimus, Deum ea sola providere quae facit, seu 
+      quo<lb ed="#P" n="105" break="no"/>rum est causa, id est bona, quomodo &amp; apud 
+      Aposto<lb ed="#P" n="106" break="no"/>lum providere accipitur, Rom. 12. cum dicitur: 
+      Pro<lb ed="#P" n="107" break="no"/>videntes bona, non tantum coram Deo, sed etiam coram 
+      <lb ed="#P" n="108"/>omnibus hominibus. Non autem ea sola disponere, seu 
+      <lb ed="#P" n="109"/>ordinare. Disponit enim &amp; ordinat etiam peccata, 
+      <lb ed="#P" n="110"/>dum videlicet ea sic permittit, ut ex iis bona majora 
+      <lb ed="#P" n="111"/>eliciat. Per hoc enim ordinantur, id est, ordinem 
+      <lb ed="#P" n="112"/>quemdam convenientem in universo accipiunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

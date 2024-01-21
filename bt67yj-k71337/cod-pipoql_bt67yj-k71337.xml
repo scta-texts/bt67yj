@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="188"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k71337"><!-- l1d45c1" -->
+            <head xml:id="bt67yj-k71337-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k71337-Hd1e103" type="question-title">Deum non necessario sed libere operari</head>
+            <p xml:id="bt67yj-k71337-d1e106">
+               <lb ed="#P" n="108"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="109"/>QUADRACESIMAMQUINTAM.
+    </p>
+            <p xml:id="bt67yj-k71337-d1e113">
+               <lb ed="#P" n="110"/>§. 1. Deum non necessario sed libere operari. 
+    </p>
+            <p xml:id="bt67yj-k71337-d1e118">
+               <lb ed="#P" n="111"/>IUXTA ordinem nobis institutum quem ad distin 
+      <lb ed="#P" n="112"/>ctionem 35. indicavimus; restat nunc ut cum 
+      Ma<lb ed="#P" n="113" break="no"/>gistro usque ad finem hujus libri de Dei 
+      volunta<lb ed="#P" n="114" break="no"/>te agamus, initio ostensuri Deum non 
+      operarineces<lb ed="#P" n="115" break="no"/>sitate naturae, sed libera voluntate. Quod quidem 
+      <lb ed="#P" n="116"/>Catholicum est idemque certissimum dogma 
+      religio<lb ed="#P" n="117" break="no"/>nis Christianae. Cujus rationem hanc adfert 
+      san<lb ed="#P" n="118" break="no"/>ctus Thomas 1. quaestione 19. articulo tertio, &amp; 10. 
+      <lb ed="#P" n="119"/>quia quamvis Deus bonitatem suam ex necessitate 
+      <lb ed="#P" n="120"/>velit, eo quod illa proprium sit suae voluntatis 
+      ob<lb ed="#P" n="121" break="no"/>jectum, sicut &amp; voluntas nostra necessario vult 
+      bea<lb ed="#P" n="122" break="no"/>titudinem, &amp; quaelibet alia potentia necessariam 
+      <lb ed="#P" n="123"/>habet inclinationem ad propriam &amp; principale 
+      <lb ed="#P" n="124"/>suum objectum, ut visus ad colorem; alia tamen 
+      <lb ed="#P" n="125"/>a se non aliter vult quam quatenus illa ad ipsius 
+      <lb ed="#P" n="126"/>bonitatem ut in finem ordinantur. Ea autem quae 
+      <lb ed="#P" n="127"/>sunt ad finem, non necessario volumus volentes 
+      <lb ed="#P" n="128"/>finem, nisi talia sint, sine quibus finis esse non 
+      <lb ed="#P" n="129"/>possit. Cum igitur divina bonitas sit in seipsa 
+      per<lb ed="#P" n="130" break="no"/>fecta, possitque esse sine aliis, nec ei quicquam 
+      <lb ed="#P" n="131"/>perfectionis ex aliis accedat; consequens est Deum 
+      <lb ed="#P" n="132"/>alia a se non necessario velle, sed libere. Sicut 
+      <lb ed="#P" n="133"/>autem vult, sic &amp; operatur, quia operatio 
+      vo<lb ed="#P" n="134" break="no"/>luntatis est executio. Consequens igitur est Deum 
+      <lb ed="#P" n="135"/>quaecunque operatur (neque enim operatur nisi 
+      <lb ed="#P" n="136"/>alia a se) libera voluntate operari. Testatur hoc 
+      <lb ed="#P" n="137"/>apertissime Apostolus Ephes. 1. ita scribens de Deo: 
+      <lb ed="#P" n="138"/>Qui operatur omnia secundum consilium voluntatis 
+      <!--0212.xml-->
+      <pb ed="#P" n="189"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>suae. Et 1. Cor. 12. ubi cum dixisset Deum operari 
+      <lb ed="#P" n="2"/>omnia in omnibus, postea ad liberam ejus 
+      volun<lb ed="#P" n="3" break="no"/>tatem hoc referens ait: Haec autem omnia operatur 
+      <lb ed="#P" n="4"/>unus atque idem spiritus, dividens singulis prout vulta 
+      <lb ed="#P" n="5"/>Quae verba exponens Ambrosius lib. 2. de fide cap. 
+      <lb ed="#P" n="6"/>3. Prout vult, inquit, hoc est pro liberae voluntatis 
+      <lb ed="#P" n="7"/>arbitrio, non pro necessitatis obsequio. 
+    </p>
+            <p xml:id="bt67yj-k71337-d1e204">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Huc pertinent quae supra ad distine. 2e n 43. &amp; 
+      <lb ed="#P" n="9"/>44. ex scripturis &amp; patribus adducta sunt, adhibita 
+      <lb ed="#P" n="10"/>quoque evidentia rationum ad ostendendum Deum 
+      <lb ed="#P" n="11"/>posse &amp; ea quae facit, omittere, &amp; facere quae non 
+      <lb ed="#P" n="12"/>facit, atque etiam meliora iis quae facit, quorum 
+      <lb ed="#P" n="13"/>omnium nihil posset si non libera voluntate, sed 
+      na<lb ed="#P" n="14" break="no"/>turali necessitate operaretur. 
+    </p>
+            <p xml:id="bt67yj-k71337-d1e224">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Accedit &amp; haec ratio a posteriori: Omnis perfectio 
+      <lb ed="#P" n="16"/>creaturae in Deo est aut formaliter aut emmenter; 
+      <lb ed="#P" n="17"/>formaliter quidem, si mera perfectio est; eminenter 
+      <lb ed="#P" n="18"/>vero, si aliquid imperfectionis includat: Atqui 
+      per<lb ed="#P" n="19" break="no"/>fectio &amp; dignitas quarumdam creaturarum ut Angeli 
+      <lb ed="#P" n="20"/>&amp; hominis est habere liberum voluntatis arbitrium, 
+      <lb ed="#P" n="21"/>nec eo nomine quicquam imperfectionis includitur; 
+      <lb ed="#P" n="22"/>ergo necesse est eam perfectionem formaliter in 
+      <lb ed="#P" n="23"/>Deo agnosci, &amp; quidem perfectissimo modo, sic 
+      vi<lb ed="#P" n="24" break="no"/>delicet ut quemadmodum bonitas principium est &amp; 
+      <lb ed="#P" n="25"/>fons omnis bonitatis, quae est in creaturis, &amp; 
+      simili<lb ed="#P" n="26" break="no"/>ter sapientia, potentia, &amp;c. ita libertas ejus sit 
+      prin<lb ed="#P" n="27" break="no"/>cipium &amp; causa libertatis, quaecunque in creaturis &amp; 
+      <lb ed="#P" n="28"/>earum actionibus reperitur, &amp; sicut creatura non est 
+      <lb ed="#P" n="29"/>bona, sapiens, &amp;c. nisi participatione bonitatis, 
+      sa<lb ed="#P" n="30" break="no"/>pientiae divinae, &amp;c. ita nec libera nisi participatione 
+      <lb ed="#P" n="31"/>libertatis divuinae. 
+    </p>
+            <p xml:id="bt67yj-k71337-d1e266">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Alia ratio: Si necessario &amp; non libere ageret Deus, 
+      <lb ed="#P" n="33"/>oportuisset mundum esse aeternum, quia in causa 
+      ae<lb ed="#P" n="34" break="no"/>terna eodemque modo semper se habente ac 
+      necessa<lb ed="#P" n="35" break="no"/>rio operante non posset esse ratio, quare nunc &amp; non 
+      <lb ed="#P" n="36"/>alias operaretur; esset igitur aeterna ejus operatio, &amp; 
+      <lb ed="#P" n="37"/>aeternus effectus, velut si sol aeternus esset, cum de se 
+      <lb ed="#P" n="38"/>splendorem emittat, non libere sed necessario, 
+      opor<lb ed="#P" n="39" break="no"/>teret etiam splendorem ejus esse aeternum. Hoc 
+      ip<lb ed="#P" n="40" break="no"/>sum igitur quod mundus in tempore &amp; non ab 
+      aeter<lb ed="#P" n="41" break="no"/>no creatus est, certum est argumentum libertatis 
+      <lb ed="#P" n="42"/>operationis divinae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

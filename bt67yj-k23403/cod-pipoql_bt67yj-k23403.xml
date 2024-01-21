@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="63"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k23403"><!-- l1d15c2" -->
+            <head xml:id="bt67yj-k23403-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k23403-Hd1e103" type="question-title">An filius a spiritu sancto vel a seipso 
+      <pc type="indent"/> missus sit</head>
+            <p xml:id="bt67yj-k23403-d1e108">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> §. 2. An filius a spiritu sancto vel a seipso 
+      <lb ed="#P" n="45"/>
+               <pc type="indent"/> missus sit? 
+    </p>
+            <p xml:id="bt67yj-k23403-d1e119">
+               <lb ed="#P" n="46"/>FIllium a patre missum fuisse, ex scripturis 
+      indubi<lb ed="#P" n="47" break="no"/>tatum est. Utrum autem fatendum sit eum etiam 
+      <lb ed="#P" n="48"/>a seipso, vel a spiritu sancto missum esse, merito 
+      <lb ed="#P" n="49"/>quaeritur.
+    </p>
+            <p xml:id="bt67yj-k23403-d1e130">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Pro parte negante facit proprietas vocabuli 
+      missio<lb ed="#P" n="51" break="no"/>nis de qua supra. Cum enim filius Dei neque a seipso 
+      <lb ed="#P" n="52"/>neque a spiritu sancto quicquam accipiat, sed omnia 
+      <lb ed="#P" n="53"/>cum natura acceperit a patre, non apparet quomodo 
+      <lb ed="#P" n="54"/>ab alio quam a patre missus dici possit. Hoc &amp; filius 
+      <lb ed="#P" n="55"/>significasse videtur, quando ait: Ego a meipsonon 
+      ve<lb ed="#P" n="56" break="no"/>ni, Joa. 8. quasi diceret, ego a meipso missus non sum¬ 
+    </p>
+            <p xml:id="bt67yj-k23403-d1e151">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Porro contrarium astruere videtur scriptura 
+      duo<lb ed="#P" n="58" break="no"/>bus locis, quibus filius se missum testatur a spiritu 
+      <lb ed="#P" n="59"/>Domini. Dicit enim Isa. 48. Dominus Deus misit me, 
+      <lb ed="#P" n="60"/>&amp; spiritus ejus, &amp; cap. 61. citante Luca cap. 4. 
+      Spi<lb ed="#P" n="61" break="no"/>ritus Domini super me, propter quod unxit me 
+      evan<lb ed="#P" n="62" break="no"/>gelizare pauperibus, misit me sanare contritos corde, 
+      <lb ed="#P" n="63"/>&amp;c. Quibus testimoniis ad idem ostendendum usi 
+      <lb ed="#P" n="64"/>sunt patres; priori quidem, Ambrosius lib. 3. de 
+      <lb ed="#P" n="65"/>spiritu sancto capit. 1. &amp; 2. &amp; post eum Augustinus 
+      <lb ed="#P" n="66"/>lib. 2. de trinitate cap. 5. &amp; inter ejus opera serm. 
+      <lb ed="#P" n="67"/>6. de tempore. Posteriori vero rursum Ambrosius 
+      <lb ed="#P" n="68"/>in prologo lib. 3. de spiritu sancto. Quanquam 
+      no<lb ed="#P" n="69" break="no"/>tandum, quod etsi Luc. 4. legatur ex versione 70. 
+      <lb ed="#P" n="70"/>quomodo jam recitatum Q ut videantur haec 
+      ver<lb ed="#P" n="71" break="no"/>ba, unxit &amp; misit, dici de ipiritu Domini; in 
+      He<lb ed="#P" n="72" break="no"/>braeo tamen ex versione Hieronymi sic legitur apud 
+      <!--0086.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>ipsum prophetam: spiritus Domini super me, eo quod 
+      <lb ed="#P" n="74"/>unxerit Dominus me ad annunciandum mansuetis, 
+      mi<lb ed="#P" n="75" break="no"/>sit me, ut mederer contritis corde. Ubi verbum, misit. 
+      <lb ed="#P" n="76"/>magis ad Dominum, id est, patrem, quam ad 
+      spiri<lb ed="#P" n="77" break="no"/>tum Domini, videtur referendum, eo quod 
+      praece<lb ed="#P" n="78" break="no"/>dentis verbi, unxerit, expressum suppositum sit 
+      Do<lb ed="#P" n="79" break="no"/>minus. Quare &amp; apud Lucam eadem verba ad 
+      Do<lb ed="#P" n="80" break="no"/>minum potius, quam ad spiritum videbuntur 
+      refe<lb ed="#P" n="81" break="no"/>renda, hoc modo: spiritus Domini super me, propter 
+      <lb ed="#P" n="82"/>quod Dominus unxit me, &amp;c. Ut significetur 
+      Domi<lb ed="#P" n="83" break="no"/>nus, id est, Deus pater unxisse filium spiritu sancto 
+      <lb ed="#P" n="84"/>(sicut aperte dicitur ab Apostolo Petro Act. 10.) 
+      <lb ed="#P" n="85"/>&amp; eundem misisse, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k23403-d1e223">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Jam vero, quamvis scriptura nusquam testetur 
+      fi<lb ed="#P" n="87" break="no"/>lium missum a seipso, censet tamen eodem de 
+      Trini<lb ed="#P" n="88" break="no"/>tate loco August. ne id quidem inconvenienter dici, 
+      <lb ed="#P" n="89"/>eo quod missio filii temporalis sit, quicquid autem 
+      <lb ed="#P" n="90"/>temporaliter a Deo fit, toti sit Trinitati commune. 
+    </p>
+            <p xml:id="bt67yj-k23403-d1e239">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Ad quaestionem respondemus, servata proprietate 
+      <lb ed="#P" n="92"/>vocabuli missionis, nihilominus recte dici filium 
+      <lb ed="#P" n="93"/>missum a spiritu sancto, atque a seipso. Cum enim in 
+      <lb ed="#P" n="94"/>filio duae sint naturae, divina &amp; humana, illam 
+      qui<lb ed="#P" n="95" break="no"/>dem a solo patre accepit, istam vero tota Trinitas 
+      <lb ed="#P" n="96"/>operata est, deditque filio, quam proinde &amp; a tota 
+      <lb ed="#P" n="97"/>Trinitate filius accepit. Secundum hanc igitur 
+      na<lb ed="#P" n="98" break="no"/>turam recte filius a tota Trinitate missus dicitur 
+      <lb ed="#P" n="99"/>ad universum opus humanae redemptionis. Nec id 
+      <lb ed="#P" n="100"/>mirum, cum hac ratione etiam minor sit, non 
+      tan<lb ed="#P" n="101" break="no"/>tum patre, sed etiam spiritu sancto &amp; seipso, 
+      quem<lb ed="#P" n="102" break="no"/>admodum proxima distinctione dicetur, Hoc modo 
+      <lb ed="#P" n="103"/>filium a spiritu sancto missum, ex mente 
+      Ambro<lb ed="#P" n="104" break="no"/>siii manifeste probat prologus tertii libri de spiritu 
+      <lb ed="#P" n="105"/>sancto. Verum plus difficultatis habet August. 
+      sen<lb ed="#P" n="106" break="no"/>tentia, qui cum loco memorato dixisset, eo ipso 
+      <lb ed="#P" n="107"/>missum esse filium quo factus est ex muliere, postea 
+      <lb ed="#P" n="108"/>lib. 4. cap. 20. dicit intelligi posse, ut non ideo 
+      tan<lb ed="#P" n="109" break="no"/>tum dicatur missus filius, quia verbum caro factum 
+      <lb ed="#P" n="110"/>est, sed ideo missus, ut verbum caro fieret: Id est, ut 
+      <lb ed="#P" n="111"/>non tantum homo missus intelligatur quod verbum 
+      <lb ed="#P" n="112"/>factum est, sed &amp; verbum missum ut homo fieret. 
+      <lb ed="#P" n="113"/>Quod &amp; paulo post repetit dicens: Sapientiam Dei 
+      <lb ed="#P" n="114"/>missam, ut esset homo. Itaque velle videtur 
+      Augu<lb ed="#P" n="115" break="no"/>stinus, filium Dei priusquam homo esset, missum 
+      <lb ed="#P" n="116"/>ad hoc ut humanam naturam assumeret. Quod si ita 
+      <lb ed="#P" n="117"/>est, non igitur hac ratione missus est, ut filius 
+      homi<lb ed="#P" n="118" break="no"/>nis, sed tantum ut filius Dei. Ad hunc scrupulum 
+      du<lb ed="#P" n="119" break="no"/>plex adfertur responsio; Una, si cum Magistro 
+      vo<lb ed="#P" n="120" break="no"/>cabulum missionis, ita generaliter accipiamus, ut 
+      <lb ed="#P" n="121"/>per eam non aliud significetur, quam quod persona 
+      <lb ed="#P" n="122"/>mittens, principium sit illius temporalis effectus, 
+      <lb ed="#P" n="123"/>qui per ipsam missionem producitur. Unde cum 
+      <lb ed="#P" n="124"/>sint inseparabilia Trinitatis opera, quoties ad novum 
+      <lb ed="#P" n="125"/>aliquem effectum aliqua persona mittitur, a tota 
+      <lb ed="#P" n="126"/>Trinitate mitti intelligetur. Sed cum durius sonet, 
+      <lb ed="#P" n="127"/>&amp; tam a scripturis quam a patribus alienum sit, 
+      fi<lb ed="#P" n="128" break="no"/>lium dici missum a seipso vel a spiritu sancto, qua 
+      <lb ed="#P" n="129"/>ratione filius Dei est, &amp; humanam in eo 
+      praevenien<lb ed="#P" n="130" break="no"/>do naturam, ideo sermo hujusmodi, tanquam 
+      sim<lb ed="#P" n="131" break="no"/>pliciter falsus rejiciendus est, ut supra docuimus, 
+      <lb ed="#P" n="132"/>praesertim cum juxta illam generalem acceptionem 
+      <lb ed="#P" n="133"/>missionis, ratio non possit reddi, cur non etiam 
+      pa<lb ed="#P" n="134" break="no"/>ter mitti dicatur, cum ad opus sanctificationis, tam 
+      <lb ed="#P" n="135"/>ipse quam filius &amp; spiritus sanctus illabatur 
+      menti<lb ed="#P" n="136" break="no"/>bus hominum. Atque hinc est quod ipse Augustin. 
+      <lb ed="#P" n="137"/>in fine lib. 4. de Trinitate, agnoscens absurdissime 
+      <lb ed="#P" n="138"/>dici patrem missum a filio, vel a spiritu sancto, 
+      etiam<lb ed="#P" n="139" break="no"/>si per subjectam naturam voluisset hominibus 
+      visibi<lb ed="#P" n="140" break="no"/>liter apparere, concludit potius propter principii 
+      <lb ed="#P" n="141"/>commendationem, quam propter apparitionem in 
+      <lb ed="#P" n="142"/>creatura visibili, missionem attributam esse 
+      perso<lb ed="#P" n="143" break="no"/>nis divinis. Quibus in verbis bene notandum, quod 
+      <lb ed="#P" n="144"/>in missionis vocabulo rationem principii, sive 
+      ori<lb ed="#P" n="145" break="no"/>ginis urgeri velit Augustinus. Hoc enim ad ea quae 
+      <lb ed="#P" n="146"/>nactenus de proprietate vocabuli missionis dicta 
+      <!--0087.xml-->
+      <pb ed="#P" n="64"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sunt illustranda &amp; confirmanda multum habet 
+      mo<lb ed="#P" n="2" break="no"/>menti. Unde &amp; Magister sub finem distinctionis, ex 
+      <lb ed="#P" n="3"/>Augustino similiter vult in vocabulo missionis 
+      ex<lb ed="#P" n="4" break="no"/>pendi &amp; considerari authoritatem principii, ne fateri 
+      <lb ed="#P" n="5"/>cogatur etiam patrem mitti. Ex quo sumitur evidens 
+      <lb ed="#P" n="6"/>argumentum contra ipsum Magistrum, non esse 
+      <lb ed="#P" n="7"/>concedendum, quod spiritus sanctus mittatur a 
+      se<lb ed="#P" n="8" break="no"/>ipso, quia videlicet, principii rationem ad seipsum 
+      <lb ed="#P" n="9"/>non habet. 
+    </p>
+            <p xml:id="bt67yj-k23403-d1e391">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Altera igitur responsio est, eaque verior, 
+      Augu<lb ed="#P" n="11" break="no"/>stinum posteriori loco non dicere, quod filius sit 
+      <lb ed="#P" n="12"/>missus a seipso, vel a spiritu sancto; sed solius patris 
+      <lb ed="#P" n="13"/>meminisse, ex quo solo, sicut processit ab aeterno, 
+      <lb ed="#P" n="14"/>ita &amp; processit atque missus est ad opus incarnationis 
+      <lb ed="#P" n="15"/>in tempore. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

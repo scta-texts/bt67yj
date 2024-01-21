@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="154"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k58462"><!-- l1d41c4" -->
+            <head xml:id="bt67yj-k58462-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k58462-Hd1e103" type="question-title">Ejusdem doctrinae probatio ex patribus</head>
+            <p xml:id="bt67yj-k58462-d1e106">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> §. 4. Ejusdem doctrinae probatio ex patribus.
+    </p>
+            <p xml:id="bt67yj-k58462-d1e113">
+               <lb ed="#P" n="110"/>DOctrinam gratuitae praedestinationis inter 
+      Ec<lb ed="#P" n="111" break="no"/>clesiasticos tractatores quos patres vocamus, S. 
+      <lb ed="#P" n="112"/>Augustinus quam maxime suis scriptis illustravit, 
+      <lb ed="#P" n="113"/>videlicet ad hoc excitatus occasione Pelagianae 
+      haere<lb ed="#P" n="114" break="no"/>sis ipsius tempore exortae, quae sicut gratiam Dei vel 
+      <lb ed="#P" n="115"/>necessariam nobis ad bene operandum negabat, vel 
+      <lb ed="#P" n="116"/>secundum merita dari volebat; ita &amp; 
+      praedestinatio<lb ed="#P" n="117" break="no"/>nem non aliam cognoscebat, quam cujus causa sit 
+      <lb ed="#P" n="118"/>praescientia meritorum. Igitur inter ea quae 
+      Do<lb ed="#P" n="119" break="no"/>ctor ille contra Pelagianos de gratia Christi 
+      copiosis<lb ed="#P" n="120" break="no"/>sime disputavit; multa sunt quibus &amp; hanc de 
+      gra<lb ed="#P" n="121" break="no"/>tuita praedestinatione doctrinam tradidit ac defendit. 
+      <lb ed="#P" n="122"/>Ex quibus quaedam decerpemus. 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e144">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> In <ref xml:id="bt67yj-k58462-Rd1e150">ench. cap. 98.</ref> de hac re ex Apostoli sententia ad 
+      <lb ed="#P" n="124"/>Rom. 9. disserens, atque post alia proferens illud ab 
+      <lb ed="#P" n="125"/>apostolo repetitum ex Propheta testimonium: Jacob 
+      <lb ed="#P" n="126"/>dilexi: Esauodio habui: ita subjungit: Sentiens 
+      au<lb ed="#P" n="127" break="no"/>tem Apostolus, quemadmodum posset hoc quod 
+      di<lb ed="#P" n="128" break="no"/>ctum est, permovere eos, qui penetrare 
+      intelligen<lb ed="#P" n="129" break="no"/>do non possunt altitu linem gratiae. Quid ergo 
+      dice<lb ed="#P" n="130" break="no"/>mus? ait, Nunquid iniquitas est apud Deum? 
+      Ab<lb ed="#P" n="131" break="no"/>sit. Iniquum enim videtur, ut sine ullis bonorum 
+      malo<lb ed="#P" n="132" break="no"/>rumve operum meritis unum Deus diligat, odiatque 
+      <lb ed="#P" n="133"/>alteram. Qua in re si futura opera, vel bona hujus 
+      <lb ed="#P" n="134"/>vel mala illius, quae Deus utique praesciebat, vellet 
+      <lb ed="#P" n="135"/>intelligi, nequaquam diceret non ex operibus, sed 
+      <lb ed="#P" n="136"/>diceret, ex futuris operibus, eoque modo istam 
+      sol<lb ed="#P" n="137" break="no"/>veret quaestionem. Imo nullam quam solvi opus esset, 
+      <lb ed="#P" n="138"/>faceret quaestionem. Nunc vero cum respondisset, 
+      <lb ed="#P" n="139"/>absit, id est, absit ut sit iniquitas apud Deum, mox 
+      <lb ed="#P" n="140"/>ut probaret nulla hoc iniquitate Dei fieri, inquit, 
+      <lb ed="#P" n="141"/>Moysi enim dicit: Miserebor cui misertus ero, &amp;c. Quis 
+      <lb ed="#P" n="142"/>enim nisi insipiens Deum iniquum putet, sive 
+      judi<lb ed="#P" n="143" break="no"/>cium poenale ingerat digno. sive misericordiam 
+      prae<lb ed="#P" n="144" break="no"/>stet indigno? Et quae sequuntur. Clare autem 
+      osten<lb ed="#P" n="145" break="no"/>dit hic locus dilectionem seu praedestinationem 
+      <!--0178.xml-->
+      <pb ed="#P" n="155"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Jacob non solum non fuisse ex operum praescientia A 
+      <lb ed="#P" n="2"/>quae ille ex viribus naturae sine gratia facturus 
+      puta<lb ed="#P" n="3" break="no"/>retur, sed ne quidem ex praescientia bonorum 
+      ope<lb ed="#P" n="4" break="no"/>rum quae fecit ex gratia. Hujusmodi enim erant 
+      fu<lb ed="#P" n="5" break="no"/>tura ipsius Jacob opera, ex quibus praevisis negat 
+      Au<lb ed="#P" n="6" break="no"/>gustin. eum fuisse praedestinatum. Qua de re rursum 
+      <lb ed="#P" n="7"/>in lib. 2. contra 2. epist. Pel. cap. 7. supra dicto 
+      Apo<lb ed="#P" n="8" break="no"/>stoli testimonio nitens adversus quosdam ita 
+      con<lb ed="#P" n="9" break="no"/>cludit: Propter quod profecto desipitis, qui dicente 
+      <lb ed="#P" n="10"/>veritate, non ex operibus sed ex vocante dictum est, 
+      <lb ed="#P" n="11"/>vos dicitis, ex futuris operibus, quae Deus illum 
+      fa<lb ed="#P" n="12" break="no"/>cturum praesciebat, Jacob fuisse dilectum, atque ita 
+      <lb ed="#P" n="13"/>contradicitis Apostolo dicenti, non ex operibus, quasi 
+      <lb ed="#P" n="14"/>non osset dicere non ex praesentibus, sed ex futuris 
+      <lb ed="#P" n="15"/>operibus. Sed ait, non ex operibus, ut gratiam 
+      <lb ed="#P" n="16"/>commendaret. Haec ibi &amp; alia in eandem 
+      senten<lb ed="#P" n="17" break="no"/>tiam. 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e245">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Pro qua etiam non pauca leguntur apud eundem 
+      <lb ed="#P" n="19"/>authorem q. 2. ad Simplicianum, licet eum librum 
+      <lb ed="#P" n="20"/>Pelagio nondum exorto scripserit. 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e256">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Insuper alia apud eum illustriora loca sunt 
+      ench<lb ed="#P" n="22" break="no"/>36. epistola 59. q. 6. ep. 105. ad Sixtum &amp; 106. ad 
+      <lb ed="#P" n="23"/>Paulinum, sermo. 11. de verbis Apostoli lib. I. de 
+      pec<lb ed="#P" n="24" break="no"/>catorum mer. cap. 22. &amp; lib. 2. cap. 17. tract. 82. in 
+      <lb ed="#P" n="25"/>Joannem, in expos. psalmi 55. ad illud, Pro nihilo 
+      sal<lb ed="#P" n="26" break="no"/>vos facies eos, &amp; lib. 1. retr. cap. 25. lib. 4. contra 
+      Ju<lb ed="#P" n="27" break="no"/>lianum cap. 8. lib. de gratia Christi cap. 44. &amp; 45. 
+      <lb ed="#P" n="28"/>Item in soliloquiis ex Augustino collectis cap. 28. &amp; 
+      <lb ed="#P" n="29"/>29. ac denique libris fere totis de corr. &amp; gr. de 
+      prae<lb ed="#P" n="30" break="no"/>destinatione Sanctorum &amp; de dono perseverantiae. 
+      <lb ed="#P" n="31"/>Quo quidem postremo libro cap. 18. &amp; 19. 
+      comme<lb ed="#P" n="32" break="no"/>morat etiam patres antiquiores Cyprianum, 
+      Ambro<lb ed="#P" n="33" break="no"/>sium, Gregorium Nazianzenum secum sentientes. 
+      <lb ed="#P" n="34"/>Ubi denique certitudinem hujus doctrinae astruens 
+      <lb ed="#P" n="35"/>ita pronuntiat: Hoc scio neminem contra istam 
+      praede<lb ed="#P" n="36" break="no"/>stinationem, quam secundum scripturas sanctas 
+      defen<lb ed="#P" n="37" break="no"/>dimus, nisi errando disputare potuisse¬ 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e298">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Eandem doctrinam Prosper Augustini discipulus 
+      <lb ed="#P" n="39"/>&amp; scriptorum ejus adversus quorumdam calumnias, 
+      <lb ed="#P" n="40"/>propugnator, plurimis locis ex professo tradidit ac 
+      <lb ed="#P" n="41"/>praecipue in epistola quam de gratia &amp; libero 
+      arbi<lb ed="#P" n="42" break="no"/>trio scripsit ad Ruffinum, in qua haec duo 
+      dogma<lb ed="#P" n="43" break="no"/>ta, gratiam non secundum merita dari, &amp; homines 
+      <lb ed="#P" n="44"/>praedestinari non ex meritis praevisis, sed secundum 
+      <lb ed="#P" n="45"/>propositum Dei vocantis, docet esse connexa &amp; 
+      ae<lb ed="#P" n="46" break="no"/>qualiter retinenda. Quo etiam pertinet ejus epistola 
+      <lb ed="#P" n="47"/>ad Augustinum scripta super querelis Massiliensium, 
+      <lb ed="#P" n="48"/>quos Augustini de praedestinatione doctrina 
+      offende<lb ed="#P" n="49" break="no"/>rat. Cui cum Augustinus respondisset duobus 
+      li<lb ed="#P" n="50" break="no"/>bris, altero de praedestinatione Sanctorum, altero 
+      <lb ed="#P" n="51"/>de dono persev. repetitam in iis &amp; amplius 
+      confir<lb ed="#P" n="52" break="no"/>matam gratuitae praedestinationis doctrinam postea 
+      <lb ed="#P" n="53"/>Prosper adversus obtrectatores graviter &amp; docte 
+      <lb ed="#P" n="54"/>defendit, tum in ea quam diximus ad Ruffinum 
+      ep<lb ed="#P" n="55" break="no"/>tum aliis quibusdam opusculis, ut in responsionibus 
+      <lb ed="#P" n="56"/>ad cap. Gallorum, ad excerpta Genuensium, &amp; ad 
+      <lb ed="#P" n="57"/>objectiones Vincentianas. Qui insuper in libro 
+      con<lb ed="#P" n="58" break="no"/>tra Colatorem capit. 43. ostendit doctrinam 
+      Au<lb ed="#P" n="59" break="no"/>gustini duobus jam dictis ejus libris 
+      comprehen<lb ed="#P" n="60" break="no"/>sam, non minus quam ea quae prioribus scriptis 
+      do<lb ed="#P" n="61" break="no"/>cuerat, judicio sedis apostolicae, id est, Caelestini 
+      <lb ed="#P" n="62"/>Papae ad Episcopos Galliae scribentis fuisse 
+      proba<lb ed="#P" n="63" break="no"/>tam. 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e359">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Non minus aperta est doctrina Fulgentii, qui 
+      <lb ed="#P" n="65"/>&amp; ipse fuit diligens Augustini sectator, &amp; de 
+      gra<lb ed="#P" n="66" break="no"/>tuita Dei praedestinatione multa disseruit, his 
+      prae<lb ed="#P" n="67" break="no"/>sertim libris, de duplici praedestinatione ad 
+      Mo<lb ed="#P" n="68" break="no"/>nymum, &amp; de incarnatione Christi, deque fide ad 
+      <lb ed="#P" n="69"/>Petrum Diaconum scriptis. Ipse quoque Petrus 
+      Dia<lb ed="#P" n="70" break="no"/>conus in fine libri de incarnatione Christi, libros 
+      <lb ed="#P" n="71"/>Fausti Galliarum episcopi contra gratuitae 
+      praedesti<lb ed="#P" n="72" break="no"/>nationis sententiam scriptos anathematizat, idque 
+      <lb ed="#P" n="73"/>se facere dicit secundum doctrinam Sanctorum 
+      pa<lb ed="#P" n="74" break="no"/>trum. Similiter de praedestinatione scripsit author 
+      <!--0178.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>hypognosticon lib. 6. apust Augustinum tomo 7. 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e394">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Quamvis autem ante exortum Pelagium Patres 
+      <lb ed="#P" n="77"/>minus accurate de gratia Christi &amp; praedestinatione 
+      <lb ed="#P" n="78"/>in suis scriptis locuti fuerint, utpote nondum ad hoc 
+      <lb ed="#P" n="79"/>contrariis haereticorum disputationibus excitati? 
+      <lb ed="#P" n="80"/>non aliter tamen eos de hoc argumento sensisse 
+      pro<lb ed="#P" n="81" break="no"/>bat Augustinus lib. de gratia Christi cap. 44. &amp; 45. 
+      <lb ed="#P" n="82"/>&amp; lib. de dono persev. cap. 19. &amp; 20. &amp; Petrus 
+      Dia<lb ed="#P" n="83" break="no"/>conus ultimo capite, lib. de incarnatione. Quorum 
+      <lb ed="#P" n="84"/>ille producit Cyprianum lib. 3. ad Quirinum cap. 4. 
+      <lb ed="#P" n="85"/>&amp; Ambrosium lib. de fuga saeculi, capit. 1. atque 
+      <lb ed="#P" n="86"/>eundem super Lucam in expositione proemii &amp; 
+      ejus<lb ed="#P" n="87" break="no"/>dem operis lib. 2. 6. 7. &amp; 10. &amp; Gregorium 
+      Nazian<lb ed="#P" n="88" break="no"/>zenum oratione in Pentecosten. Iste vero Basilium 
+      <lb ed="#P" n="89"/>in ea parte liturgiae, quae continet orationem sacri 
+      <lb ed="#P" n="90"/>altaris. Quam, inquit Petrus, orationem poene 
+      uni<lb ed="#P" n="91" break="no"/>versus frequentat Oriens, quo nimirum continentur 
+      <lb ed="#P" n="92"/>Graecorum ecclesiae. 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e436">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> His praeterea addimus Dionysium lib. de divinis 
+      <lb ed="#P" n="94"/>nominibus capit. 5. Chrysostomum homil. 12. in 1. 
+      <lb ed="#P" n="95"/>Cor. ad illud cap. 4. Quid habes quod non accepisti, 
+      <lb ed="#P" n="96"/>&amp; hom. 8. in 2. Tim. &amp; modo dictos Basilium in 
+      <lb ed="#P" n="97"/>serm. de humilitate &amp; Nazianzenum oratione in 
+      <lb ed="#P" n="98"/>nonam dominicam. Item Hieronymum super Eph. 1. 
+      <lb ed="#P" n="99"/>Gregorium hom. 8. super Ezech. &amp; lib. 15. mor. 
+      ca<lb ed="#P" n="100" break="no"/>pit. 32. Franconem de gratia Deitomo 7. &amp; 12. 
+      Hu<lb ed="#P" n="101" break="no"/>gonem Victorinum summae sent. tract. 1. cap. 12. ex. 
+      <lb ed="#P" n="102"/>Augustino ubi habet hanc sententiam: Cum 
+      prae<lb ed="#P" n="103" break="no"/>destinavit Deus, opus suum praescivit. Item super 
+      <lb ed="#P" n="104"/>epist. ad Rom. quaest. 233. &amp; aliquot sequentibus, 
+      <lb ed="#P" n="105"/>&amp; Magistrum sententiarum hujus libridistinct. 40. 
+      <lb ed="#P" n="106"/>&amp; 41. Honorium in dialogo de praedestinatione. Imo 
+      <lb ed="#P" n="107"/>generaliter huc faciunt omnia patrum testimonia 
+      <lb ed="#P" n="108"/>quibus docent omne meritum ac bonum nostrum 
+      <lb ed="#P" n="109"/>salutare, efficaci gratiae Dei ascribendum esse. Quam 
+      <lb ed="#P" n="110"/>quidem de gratia doctrinam, Caelestinus 
+      ponti<lb ed="#P" n="111" break="no"/>fex in epistola ad episcopos Galliae per aliquot 
+      ca<lb ed="#P" n="112" break="no"/>pita declaravit ac tenendam tradidit. Quam &amp; 
+      po<lb ed="#P" n="113" break="no"/>stea synodus Arausicana Leonis authoritate, 
+      mul<lb ed="#P" n="114" break="no"/>tis canonibus exposuit &amp; illustravit. Sed de ea re 
+      <lb ed="#P" n="115"/>ex professo libr. secund. agetur, ubi de gratia 
+      tracta<lb ed="#P" n="116" break="no"/>tio erat. 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e494">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Porro sicut in hac doctrina inter patres excelluit 
+      <lb ed="#P" n="118"/>Augustinus: sic inter Scholasticos Theologiae 
+      docto<lb ed="#P" n="119" break="no"/>res de eadem re, id est, de praedestinatione gratuita, 
+      <lb ed="#P" n="120"/>nec ab ulla praevisione meritorum dependente, 
+      san<lb ed="#P" n="121" break="no"/>ctus Thomas Aquinas omnium doctissime scripsit, 
+      <lb ed="#P" n="122"/>idque multis locis sed his praecipue. In summa parte 
+      <lb ed="#P" n="123"/>1. quaest. 23. art. 5. In 1. sent. dist. 41. art. 3. lib. 3. 
+      <lb ed="#P" n="124"/>contra gent. capit. ult. de verit. quaest. 6. art. 2. ubi 
+      <lb ed="#P" n="125"/>&amp; solvit 14. argumenta in contrarium, &amp; allegat 
+      <lb ed="#P" n="126"/>glossam cap. 9. epist. ad Rom. Idem docet in 
+      com<lb ed="#P" n="127" break="no"/>mentario super Joan. cap. 15. lect. 3. super ep. Rom. 
+      <lb ed="#P" n="128"/>1. lect. 3. &amp; cap. 8. lect. 6. &amp; cap. 9. lect. 2. &amp; 3. 
+      <lb ed="#P" n="129"/>super ep. Eph. 1. lect. 1. &amp; 4. Item in proprio 
+      tra<lb ed="#P" n="130" break="no"/>ctat. de praedestinatione in cujus epilogo concludit 
+      <lb ed="#P" n="131"/>ex Sancto Augustino non esse quaerendam ullam 
+      ra<lb ed="#P" n="132" break="no"/>tionem praedestinationis divinae 
+    </p>
+            <p xml:id="bt67yj-k58462-d1e533">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Eandem vero sententiam etiam alii plerique 
+      om<lb ed="#P" n="134" break="no"/>nes scholastici tenuerunt, ut <name xml:id="bt67yj-k58462-Nd1e541">Aegidius Romanus</name>, 
+      <lb ed="#P" n="135"/>quem cum <name xml:id="bt67yj-k58462-Nd1e546">Sancto Thoma</name> solemnem fuisse doctorem 
+      <lb ed="#P" n="136"/>ipse fatetur <name xml:id="bt67yj-k58462-Nd1e550">Argentinensis</name> super I. dist. 41. agnoscens 
+      <lb ed="#P" n="137"/>insuper communem hanc esse Theologorum 
+      doctri<lb ed="#P" n="138" break="no"/>nam, ut supra diximus. Scotus super hanc eandem 
+      <lb ed="#P" n="139"/>distinctionem scribens, ubi &amp; contrariam oppugnat 
+      <lb ed="#P" n="140"/>opinionem <name xml:id="bt67yj-k58462-Nd1e561">Henrici a Gandavo</name> &amp; in 3. distinction. 
+      <lb ed="#P" n="141"/>7. quaestion. 3. ubi docet sub praedestinatione 
+      cade<lb ed="#P" n="142" break="no"/>re etiam merita de congruo sicut &amp; in Christo 
+      unio<lb ed="#P" n="143" break="no"/>nem humanae naturae cum verbo. Sic quoque 
+      sen<lb ed="#P" n="144" break="no"/>tiunt <name xml:id="bt67yj-k58462-Nd1e572">Bonaventura</name>, <name xml:id="bt67yj-k58462-Nd1e574">Durandus</name>, <ame>Altisiodorensis</ame>; <name xml:id="bt67yj-k58462-Nd1e578">
+      Joan<lb ed="#P" n="145" break="no"/>nes Bassolius</name>, <name xml:id="bt67yj-k58462-Nd1e583">Franciscus Maironius</name> &amp; alii partim 
+      <lb ed="#P" n="146"/>in. 40. partim in 41. dist. hujus libri scribentes. Item 
+      <lb ed="#P" n="147"/>
+               <name xml:id="bt67yj-k58462-Nd1e590">Marsilius</name> in 1. quaest. 14. <name xml:id="bt67yj-k58462-Nd1e592">Ambrosius Spira</name> in 
+      sermo<lb ed="#P" n="148" break="no"/>nibus,<name xml:id="bt67yj-k58462-Nd1e596"> Nicolaus Denisius</name> parte 1. <ref xml:id="bt67yj-k58462-Rd1e598">
+                  <name xml:id="bt67yj-k58462-Nd1e600">Dominicus a 
+      <!--0179.xml-->
+      <pb ed="#P" n="156"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>Soto</name> super Rom. 9. &amp; 11</ref>. <ref xml:id="bt67yj-k58462-Rd1e613">
+                  <name xml:id="bt67yj-k58462-Nd1e615">Petrus a Soto</name> in epistola ad 
+      <lb ed="#P" n="2"/>Ruardum</ref>, &amp; <ref xml:id="bt67yj-k58462-Rd1e620">ipse <name xml:id="bt67yj-k58462-Nd1e622">Ruardus</name> in explicatione art. 7.</ref>
+               <lb ed="#P" n="3"/>Lou. <name xml:id="bt67yj-k58462-Nd1e627">Cajetanus</name> etiam &amp; <name xml:id="bt67yj-k58462-Nd1e629">Dominicus Bannes</name> super I. 
+      <lb ed="#P" n="4"/>quaest. 23. art. 5. quorum ille <name xml:id="bt67yj-k58462-Nd1e634">Henricum</name> &amp; <name xml:id="bt67yj-k58462-Nd1e636">
+      Aureo<lb ed="#P" n="5" break="no"/>lum</name>, iste eundem <name xml:id="bt67yj-k58462-Nd1e641">Henricum</name> &amp; <name xml:id="bt67yj-k58462-Nd1e643">Gabrielem</name> &amp; 
+      praeter<lb ed="#P" n="6" break="no"/>ea <name xml:id="bt67yj-k58462-Nd1e647">Janellum</name> quemdam circa hanc doctrinam 
+      erran<lb ed="#P" n="7" break="no"/>tes refellunt. His denique accedit authoritas scholae 
+      <lb ed="#P" n="8"/>Parisiensis, a qua ante annos fere 250. condemnati 
+      <lb ed="#P" n="9"/>reperiuntur isti tres articuli. Quod propter opera 
+      ali<lb ed="#P" n="10" break="no"/>cujus futura bona Deus praeordinavit aliquem ab 
+      aeter<lb ed="#P" n="11" break="no"/>no: Quod aliquis praedestinatus est ab aeterno propter 
+      <lb ed="#P" n="12"/>bonum usum liberi arbitrii, quem Deus praescivit eum 
+      <lb ed="#P" n="13"/>habiturum: Quo d non sic gratis &amp; misericorditer Deu. 
+      <lb ed="#P" n="14"/>praedestinavit illum quem prae lestinavit, quin &amp; 
+      pro<lb ed="#P" n="15" break="no"/>omnibus bonis ipsius futuris vel alterius. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

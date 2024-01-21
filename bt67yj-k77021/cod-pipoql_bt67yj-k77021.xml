@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="203"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k77021"><!-- l1d47c3" -->
+            <head xml:id="bt67yj-k77021-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k77021-Hd1e103" type="question-title">An Deus praecipere possit aliquid contra legem 
+      a se latam</head>
+            <p xml:id="bt67yj-k77021-d1e106">
+               <lb ed="#P" n="92"/>§. 3. An Deus praecipere possit aliquid contra legem 
+      <lb ed="#P" n="93"/>a se latam? 
+    </p>
+            <p xml:id="bt67yj-k77021-d1e113">
+               <lb ed="#P" n="94"/>NOn modo fatendum est, non velle Deum 
+      om<lb ed="#P" n="95" break="no"/>nia fieri quae praecepit, verum etiam interdum 
+      <lb ed="#P" n="96"/>eum velle non fieri quod praecepit, atque adeo 
+      prae<lb ed="#P" n="97" break="no"/>cipere ne fiat. Sed hoc ita intellige, ut prius praece 
+      <lb ed="#P" n="98"/>ptum contrario praecepto tollatur. Ad hoc 
+      proban<lb ed="#P" n="99" break="no"/>dum Magister in fine hujus distinctionis, &amp; dist. 45. 
+      <lb ed="#P" n="100"/>§. K. adducit exemplum Abrahae, cui praeceptum 
+      <lb ed="#P" n="101"/>erat a Deo ut immolaret filium suum Gen. 22. Quod 
+      <lb ed="#P" n="102"/>tamen ab eodem postea prohibitus est implere tali 
+      <lb ed="#P" n="103"/>nimirum prohibitione, per quam prioris praecepti 
+      <lb ed="#P" n="104"/>fieret abolitio. Alterum vero exemplum a Magistro 
+      <lb ed="#P" n="105"/>allatum de quibusdam a Christo sanatis, quibus 
+      prae<lb ed="#P" n="106" break="no"/>ceptum fuit ne rem evulgarent, Marci 1. Matth. 8. &amp; 
+      <lb ed="#P" n="107"/>9. proposito non congruit. Non enim proprii 
+      nomi<lb ed="#P" n="108" break="no"/>nis praeceptum illud aut prohibitio fuit, sed tantum 
+      <lb ed="#P" n="109"/>humilitatis ac modestiae significatio, qua 
+      moneren<lb ed="#P" n="110" break="no"/>tur ac docerentur fideles in bonis ac praeclaris 
+      ope<lb ed="#P" n="111" break="no"/>ribus humanam laudem non quaerere; sed potius 
+      <lb ed="#P" n="112"/>eam quantum in ipsis est, vitare. Horum igitur 
+      oc<lb ed="#P" n="113" break="no"/>casione, ac potissimum ejus, quod Abrahae 
+      prae<lb ed="#P" n="114" break="no"/>ceptum fuit, ut occideret &amp; immolaret filium suum, 
+      <lb ed="#P" n="115"/>generaliter quaeri solet, possitne Deus aliquid 
+      prae<lb ed="#P" n="116" break="no"/>cipere contra legem suam. Quod, ut jam 
+      admonui<lb ed="#P" n="117" break="no"/>mus, non sic intelligi debet, ut contraria simul sint 
+      <lb ed="#P" n="118"/>in praecepto. Sic enim homini necessitas 
+      imponere<lb ed="#P" n="119" break="no"/>tur peccandi, dum contraria implere non potest; 
+      <lb ed="#P" n="120"/>sed ut posteriori jussione prioris abolitio fiat aut 
+      dis<lb ed="#P" n="121" break="no"/>pensatio. 
+    </p>
+            <p xml:id="bt67yj-k77021-d1e176">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Respondendum, cum lex non praecipiat nisi quod 
+      <lb ed="#P" n="123"/>bonum est, &amp; praeceptum sit directivum agendi 
+      <lb ed="#P" n="124"/>principium. Quicquid ita malum est, ut Deus id 
+      fa<lb ed="#P" n="125" break="no"/>cere non possit, nec posse Deum id praecipere. Quam 
+      <lb ed="#P" n="126"/>rem ut exemplis declaremus. Non potest Deus 
+      prae<lb ed="#P" n="127" break="no"/>cipere mendacium, perjurium, contemptum &amp; 
+      <lb ed="#P" n="128"/>odium sui, blasphemiam, idololatriam, quia ipse 
+      <lb ed="#P" n="129"/>haec facere atque horum author esse non potest, cum 
+      <lb ed="#P" n="130"/>sint ejusmodi quae in sua ratione malitiam involvant. 
+      <lb ed="#P" n="131"/>Quale etiam est carnem dominari spiritui. Hoc 
+      <lb ed="#P" n="132"/>enim esse contra legem Dei aeternam testatur 
+      Augu<lb ed="#P" n="133" break="no"/>stinus libro 1. de libero arbitrio capite 8. Quo etiam 
+      <lb ed="#P" n="134"/>in numero juxta eundem Augustinum capite 6. 
+      <lb ed="#P" n="135"/>ejusdem libri quidam reponunt quod boni miseram, 
+      <lb ed="#P" n="136"/>mali beatam vitam agant, licet de eo alii dubitent. 
+      <lb ed="#P" n="137"/>Quamquam hoc nihil ad praecepta, sed solum ad 
+      <lb ed="#P" n="138"/>opera Dei, docet quoque <name xml:id="bt67yj-k77021-Nd1e217">Bernardus</name> libro de 
+      prae<lb ed="#P" n="139" break="no"/>cepto &amp; dispensatione, quaedam Dei praecepta ita 
+      <lb ed="#P" n="140"/>esse incommutabilia, ut nec ab ipso mutari queant. 
+      <lb ed="#P" n="141"/>Quibus proinde contraria praecipere ipse non 
+      po<lb ed="#P" n="142" break="no"/>test.
+    </p>
+            <p xml:id="bt67yj-k77021-d1e229">
+      <!--0227.xml-->
+               <pb ed="#P" n="204"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quicquid autem in actionibus hominum ejusmodi. 
+      <lb ed="#P" n="2"/>est, ut non necessario malitiam implicet, possitque 
+      <lb ed="#P" n="3"/>Deum authorem habere, potest id omne a Deo 
+      prae<lb ed="#P" n="4" break="no"/>cipi. Talia sunt quaecunque non contrariantur legi 
+      <lb ed="#P" n="5"/>aeternae, sed si quibus praeceptis contraria videantur, 
+      <lb ed="#P" n="6"/>tantum iis contrariantur, quae pro tempore 
+      constitu<lb ed="#P" n="7" break="no"/>ta, ut modi quidam &amp; adminicula, vel etiam 
+      deter<lb ed="#P" n="8" break="no"/>minationes servandae legis aeternae, commutationem 
+      <lb ed="#P" n="9"/>admittunt, ut sunt ceremonialia, &amp; in universum 
+      <lb ed="#P" n="10"/>omnia, quae jure tantum positivo decreta sunt. Sic 
+      <lb ed="#P" n="11"/>enim legem Moysi ceremonialem, quae utique divina 
+      <lb ed="#P" n="12"/>erat, authoritate divina per Christum abrogatam 
+      no<lb ed="#P" n="13" break="no"/>vimus. Sicut autem tota abrogata est, ita &amp; statu ejus 
+      <lb ed="#P" n="14"/>durante, potuit contra eam aliquid a Deo praecipi, 
+      <lb ed="#P" n="15"/>quomodo praeceptum legimus Eliae ut ambularet 
+      con<lb ed="#P" n="16" break="no"/>tinuis 40. diebus, inter quos erant ut minimum 
+      quin<lb ed="#P" n="17" break="no"/>que sabbatha, quibus secundum legem etiam ab 
+      ope<lb ed="#P" n="18" break="no"/>re longioris profectionis abstinendum erat. 
+      Quomo<lb ed="#P" n="19" break="no"/>do &amp; Christus quaedam opera alioqui sabbatho 
+      illi<lb ed="#P" n="20" break="no"/>cita praecipere potuit &amp; secundum quosdam 
+      praece<lb ed="#P" n="21" break="no"/>pit, ut Joan. 5. qui etiam propterca secundum 
+      eos<lb ed="#P" n="22" break="no"/>dem Dominum sabbathi se appellat Matth. 12. licet 
+      <lb ed="#P" n="23"/>alii aliter ac forte probabilius opinentur, scilicet 
+      <lb ed="#P" n="24"/>eum nunquam contra legem sabbathi aut fecisse 
+      ali<lb ed="#P" n="25" break="no"/>quid, aut praecepisse¬ 
+    </p>
+            <p xml:id="bt67yj-k77021-d1e292">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Porro de utroque jam dicto praeceptorum genere 
+      <lb ed="#P" n="27"/>scilicet commutabilium &amp; incommutabilium vidca 
+      <lb ed="#P" n="28"/>tur Sanctus Thomas 1. 2. q. 100. art. S. quo disputat 
+      <lb ed="#P" n="29"/>utrum praecepta decalogi sint dispensabilia. Cujus 
+      <lb ed="#P" n="30"/>quaestionis tractandae proprius locus erit ad dist. 38. 
+      <lb ed="#P" n="31"/>lib. 3. ubi proinde etiam ad locum Bernardi qui ex 
+      <lb ed="#P" n="32"/>libro ejus supra allegato contra hujus loci doctrinam 
+      <lb ed="#P" n="33"/>proferri solet, respondebitur. 
+    </p>
+            <p xml:id="bt67yj-k77021-d1e314">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Sciendum est autem in scripturis quaedam mala 
+      at<lb ed="#P" n="35" break="no"/>que illicita a Deo dici interdum modo praeceptivo, 
+      <lb ed="#P" n="36"/>quae tamen proprie nequaquam praecipiuntur, sed 
+      <lb ed="#P" n="37"/>secundum alium quemdam sensum, prout exigit 
+      cir<lb ed="#P" n="38" break="no"/>cunstantia sermonis, dicta accipi debent, velut ista, 
+      <lb ed="#P" n="39"/>Judicum 10. Ite &amp; invocate Deos quos elegistis. Ezech. 
+      <lb ed="#P" n="40"/>20. Singuli post idola vestra ambulate &amp; servite eis. 
+      <lb ed="#P" n="41"/>Matth. 12. Facite arborem malam &amp; fructum ejus 
+      <lb ed="#P" n="42"/>malum. Joan. 13. Quod facis, fac citius. Apoc. ultim. 
+      <lb ed="#P" n="43"/>Qui nocet, noceat adhuc; &amp; qui in sordibus est, 
+      sor<lb ed="#P" n="44" break="no"/>descat adhuc. Tale etiam est quod satanae dicit Deus 
+      <lb ed="#P" n="45"/>3. Reg. ult. Egredere &amp; fac ita, cum de 
+      decipien<lb ed="#P" n="46" break="no"/>do Achab loqueretur. Quodque David 2. Reg. 16. de 
+      <lb ed="#P" n="47"/>Semei dicit: Dominus praecepit ei ut malediceret 
+      Da<lb ed="#P" n="48" break="no"/>vid. Haec enim &amp; his similia, non significant proprie 
+      <lb ed="#P" n="49"/>Deum praecipere sic nimirum ut hominis vel 
+      daemo<lb ed="#P" n="50" break="no"/>nis laudetur obedientia facientis ea mala, quae 
+      praeci<lb ed="#P" n="51" break="no"/>pi videntur, sed partim sunt verba permittentis Dei, 
+      <lb ed="#P" n="52"/>partim deserentis, partim irridentis &amp; exprobrantis, 
+      <lb ed="#P" n="53"/>partim quod futurum erat praedicentis; partim vero 
+      <lb ed="#P" n="54"/>significant ordinationem Dei, qua quod malum est, 
+      <lb ed="#P" n="55"/>ordinat in bonum, velut ad punitionem peccatorum, 
+      <lb ed="#P" n="56"/>vel ad aliorum consiliorum Dei circa homines 
+      exe<lb ed="#P" n="57" break="no"/>cutionem, quod facile perspiciet qui praedicta 
+      scri<lb ed="#P" n="58" break="no"/>pturae loca diligentius examinaverit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

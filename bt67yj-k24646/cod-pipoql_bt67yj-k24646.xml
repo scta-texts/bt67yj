@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="66"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k24646"><!-- l1d16c4" -->
+            <head xml:id="bt67yj-k24646-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k24646-Hd1e103" type="question-title">An dici possit patrem esse majorem Spiritu sancto</head>
+            <p xml:id="bt67yj-k24646-d1e106">
+               <lb ed="#P" n="78"/>§. 4. An dici possit patrem esse majorem Spiritu sancto?
+    </p>
+            <p xml:id="bt67yj-k24646-d1e111">
+               <lb ed="#P" n="79"/>EX duplici interpretatione illius: Pater major me 
+      <lb ed="#P" n="80"/>Lest, intelligi potest quid respondendum 
+      quaestio<lb ed="#P" n="81" break="no"/>ni superius motae, an pater etiam Spiritu sancto sit 
+      <lb ed="#P" n="82"/>major, si enim solam admittimus priorem 
+      expositio<lb ed="#P" n="83" break="no"/>nem, minime consequens est patrem Spiritu sancto 
+      <lb ed="#P" n="84"/>majorem esse, ex eo quod major sit filio; 
+      quemadmo<lb ed="#P" n="85" break="no"/>dum recte docet sanctus Aug. lib. 2. de Trinitatec. 
+      <lb ed="#P" n="86"/>6. Nam Spiritus sanctus Deus tantum est, filius Deus 
+      <lb ed="#P" n="87"/>&amp; homo. Qui quidem non ut Deus, secundum dictam 
+      <lb ed="#P" n="88"/>expositionem, sed tantum ut homo patrem agnoscit 
+      <lb ed="#P" n="89"/>majorem. Quamvis enim Spiritus sanctus in specie 
+      <lb ed="#P" n="90"/>columbae apparuerit, non tamen ipse columba 
+      effe<lb ed="#P" n="91" break="no"/>ctus est, sicut filius Dei factus est homo. Unde stolide 
+      <lb ed="#P" n="92"/>quidam haeretici, ut Chrysost. commemorat. homil. 
+      <lb ed="#P" n="93"/>12. in Mat. docuerunt Spiritum sanctum filio 
+      mino<lb ed="#P" n="94" break="no"/>rem esse, propterea quod ille in columba, hic in 
+      ho<lb ed="#P" n="95" break="no"/>mine apparuisset, multumque inter hominem &amp; 
+      co<lb ed="#P" n="96" break="no"/>lumbam interesset. Quem errorem refellit ibidem 
+      <lb ed="#P" n="97"/>Chrysost. Quod si posteriorem expositionem recipi¬ 
+    </p>
+            <p xml:id="bt67yj-k24646-d1e155">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> mus, tum simili prorsus ratione fatendum erit, patrem 
+      <lb ed="#P" n="99"/>majorem esse Spiritu sancto, qua dictus est major 
+      <lb ed="#P" n="100"/>filio, nimirum propter originem. Qua etiam ratione 
+      <lb ed="#P" n="101"/>consequens erit, filium esse Spiritu sancto majorem; 
+      <lb ed="#P" n="102"/>siquidem filius cum patre unum est principium 
+      Spiri<lb ed="#P" n="103" break="no"/>tus sancti. Denique consequetur eadem ratione 
+      Spiri<lb ed="#P" n="104" break="no"/>tum sanctum patre &amp; filio esse minorem. Sed quia 
+      <lb ed="#P" n="105"/>ejusmodi locutiones neque in scripturis sacris, neque 
+      <lb ed="#P" n="106"/>in scriptis sanctorum Patrum reperiuntur, satius 
+      fue<lb ed="#P" n="107" break="no"/>rit ab iis abstinere, praesertim cum ut supra dictum 
+      <lb ed="#P" n="108"/>est, magnitudo proprie secundum aliquid absolutum 
+      <lb ed="#P" n="109"/>attendatur, non secundum idquod est ad aliquid. 
+      Un<lb ed="#P" n="110" break="no"/>de &amp; Aug. lib. 2. de Trin. c. 5. sermonem 
+      istiusmo<lb ed="#P" n="111" break="no"/>di rejicit, ex eo quia scriptus non invenitur. 
+      Legun<lb ed="#P" n="112" break="no"/>tur quidem apud Tertullianum lib. de Trin. capi 24. 
+      <lb ed="#P" n="113"/>haec verba de paracleto, id est Spiritu sancto. Si a 
+      <lb ed="#P" n="114"/>Christo accepit quae nunciet, major ergo jam paracleto 
+      <lb ed="#P" n="115"/>Christus est, quomam nec paracletus a Christo acciperet, 
+      <lb ed="#P" n="116"/>nisi minor Christo esset. Minor autem Christo paracletus 
+      <lb ed="#P" n="117"/>Christum etiam Deum esse hoc ipso probat, &amp;c. Verum 
+      <lb ed="#P" n="118"/>ejus libri non Tertullianum, sed Novatianum 
+      haereti<lb ed="#P" n="119" break="no"/>cum authorem esse certis argumentis potest ostendi. 
+    </p>
+            <p xml:id="bt67yj-k24646-d1e208">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Pctest etiam illud objici, quod Basilius initio libri 
+      <lb ed="#P" n="121"/>3. contra Eunomium, dicit, Spiritum sanctum 
+      digni<lb ed="#P" n="122" break="no"/>tate secundum esse a filio. Sed hoc quomodo 
+      intelli<lb ed="#P" n="123" break="no"/>gendum sit alibi diximus. Et sufficit Instituto quod 
+      <lb ed="#P" n="124"/>expresse non legatur neque in scripturis, neque apud 
+      <lb ed="#P" n="125"/>patres orthodoxos, patrem aut filium esse Spiritu 
+      <lb ed="#P" n="126"/>sancto majorem. Eaque res plurimum facit pro 
+      con<lb ed="#P" n="127" break="no"/>firmanda priori expositione nujus: Pater major 
+      me<lb ed="#P" n="128" break="no"/>est, quandoquidem admissa posteriore expositione, 
+      <lb ed="#P" n="129"/>nulla dari potest ratio cur non idem aeque de Spiritu 
+      <lb ed="#P" n="130"/>sancto dici potuerit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

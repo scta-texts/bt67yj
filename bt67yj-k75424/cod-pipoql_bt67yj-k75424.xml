@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="199"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k75424"><!-- l1d46c5" -->
+            <head xml:id="bt67yj-k75424-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k75424-Hd1e103" type="question-title">Quomodo intelligendum illud: Quoties 
+        volui congregare, etc.</head>
+            <p xml:id="bt67yj-k75424-d1e106">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> §. 5. Quomodo intelligendum illud: Quoties 
+      <lb ed="#P" n="86"/>volui congregare, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k75424-d1e115">
+               <lb ed="#P" n="87"/>SUperiori sententiae non dissimilis est illa quam, 
+      <lb ed="#P" n="88"/>Christus Matth. 23. protulit ad civitatem 
+      Jerusa<lb ed="#P" n="89" break="no"/>lem dicens: Quoties volui congregare filios tuos, 
+      quem<lb ed="#P" n="90" break="no"/>admodum gallina congregat pullos suos sub alas &amp; 
+      no<lb ed="#P" n="91" break="no"/>luisti? Quae sententia fere iisdem verbis habetur Luc. 
+      <lb ed="#P" n="92"/>13. Videtur enim hinc etiam ostendi, Deum aliquid 
+      <lb ed="#P" n="93"/>velle quod non impleatur. Quare verus ejus sensus 
+      <lb ed="#P" n="94"/>requirendus est. Quidam sic exponunt: Volui ex mea 
+      <lb ed="#P" n="95"/>parte, sed noluistis ex vestra. Qui sensus legitur in 
+      <lb ed="#P" n="96"/>homilia quadam Hieronymi citulo inter homilias 
+      pa<lb ed="#P" n="97" break="no"/>trum in festo Beati Stephani. Sed sciendum eam 
+      ho<lb ed="#P" n="98" break="no"/>miliam sumptam quidem esse ex Hieronymi 
+      com<lb ed="#P" n="99" break="no"/>mentario in Matth. non tamen apud eum haberi 
+      ver<lb ed="#P" n="100" break="no"/>ba jam dicta, sed ea cum aliis nonnullis inserta esse 
+      <lb ed="#P" n="101"/>ab eo qui commentarium in homiliam redegerit; 
+      ta<lb ed="#P" n="102" break="no"/>metsi potest illa glossa tolerari, si de humana Christi 
+      <lb ed="#P" n="103"/>voluntate accipiatur. Est enim secunda expositio, ut 
+      <lb ed="#P" n="104"/>intelligatur Christus loqui secundum naturam 
+      hu<lb ed="#P" n="105" break="no"/>manam, ejusque naturae voluntatem non absolutam 
+      <lb ed="#P" n="106"/>sed optativam, sive ea dicatur fuisse velleitas 
+      quae<lb ed="#P" n="107" break="no"/>dam rationalis, qualis est in mercatore cupiente 
+      ser<lb ed="#P" n="108" break="no"/>vare merces, quas deliberata voluntate projicit, sive 
+      <lb ed="#P" n="109"/>desiderium quoddam naturale respectu eorum 
+      qui<lb ed="#P" n="110" break="no"/>bus homines naturaliter solent bene velle. Quod 
+      de<lb ed="#P" n="111" break="no"/>siderium appellari solet voluntas ut natura. 
+      Quam<lb ed="#P" n="112" break="no"/>vis enim voluntas Christi rationalis, qua quid 
+      abso<lb ed="#P" n="113" break="no"/>lute &amp; deliberate volebat, semper fuerit conformis 
+      <lb ed="#P" n="114"/>voluntati divinae, eadem tamen rationali voluntate 
+      <lb ed="#P" n="115"/>considerata, quatenus est natura, volebat Judaeorum 
+      <lb ed="#P" n="116"/>salutem, primum ut hominum, deinde ut eorum 
+      <lb ed="#P" n="117"/>qui ejusdem secum essent generis &amp; nationis, erga 
+      <lb ed="#P" n="118"/>quos solet affectus naturalis amoris esse 
+      vehemen<lb ed="#P" n="119" break="no"/>tior. Sensus igitur erit: Quoties naturali amore &amp; 
+      <lb ed="#P" n="120"/>affectu misericordiae commotus desideravi filiorum 
+      <lb ed="#P" n="121"/>tuorum congregationem, &amp;c. Sicut enim naturaliter 
+      <lb ed="#P" n="122"/>dolebat &amp; miserebatur super eorum interitu; sic 
+      na<lb ed="#P" n="123" break="no"/>turaliter desiderabat eorum salutem, cum hae 
+      affe<lb ed="#P" n="124" break="no"/>ctiones in eodem versentur subjecto. Hunc sensum 
+      <lb ed="#P" n="125"/>subindicat Hieronymus in Isa. 1. Et quidem hanc 
+      na<lb ed="#P" n="126" break="no"/>turalem in Christo voluntatem agnoscit sexta 
+      Syno<lb ed="#P" n="127" break="no"/>dus oecumenica &amp; in ea lecta &amp; approbata epistola 
+      <lb ed="#P" n="128"/>Agathonis Papae, in qua citantur aliquot scripturae 
+      <lb ed="#P" n="129"/>huc pertinentes. De qua re plenius agendum ad 
+      di<lb ed="#P" n="130" break="no"/>stinctionem 17. lib. 3. Verum huic expositioni 
+      repu<lb ed="#P" n="131" break="no"/>gnat, quod ait, quoties volui, quodque ante dixerat, 
+      <lb ed="#P" n="132"/>quae occidis prophetas &amp; lapidas eos qui ad te missi sunt. 
+      <lb ed="#P" n="133"/>Per hoc enim, ut &amp; Hieronymus observavit, 
+      signi<lb ed="#P" n="134" break="no"/>ficat prophetas omnium superiorum temporum a se 
+      <lb ed="#P" n="135"/>fuisse missos atque ita se multoties voluisse 
+      congrega<lb ed="#P" n="136" break="no"/>re filios Jerusalem, non tantum eo tempore quo in 
+      <lb ed="#P" n="137"/>carne versabatur, sed jam olim tempore 
+      propheta<lb ed="#P" n="138" break="no"/>rum. Atqui tunc non potuit voluisse humana 
+      volun<lb ed="#P" n="139" break="no"/>tate, quia naturam humanam nondum assumpserat. 
+      <lb ed="#P" n="140"/>Unde &amp; patres non solent uti hac scriptura ad 
+      pro<lb ed="#P" n="141" break="no"/>bandam humanam Christi voluntatem. Denique tam 
+      <lb ed="#P" n="142"/>primae quam secundae expositioni obstat, quod dicit, 
+      <lb ed="#P" n="143"/>quoties volui. Nam velleitas qua dicitur Deus velle 
+      <lb ed="#P" n="144"/>ex sua parte si in Deo est, continua est etiam 
+      secun<lb ed="#P" n="145" break="no"/>dum effectum gratiae oblatae, ut volunt adversarii. 
+      <lb ed="#P" n="146"/>Unde non esset dicendum quoties volui, id est, saepe 
+      <!--0223.xml-->
+      <pb ed="#P" n="200"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>volui, sed semper volui. Similiter de optativa 
+      vo<lb ed="#P" n="2" break="no"/>luntate Christi. 
+    </p>
+            <p xml:id="bt67yj-k75424-d1e258">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Tertia expositio est de absoluta Dei voluntate, qua 
+      <lb ed="#P" n="4"/>Dominus id quod voluit, etiam fecit, ut sensus sit, 
+      <lb ed="#P" n="5"/>etiam nolente &amp; repugnante impia civitate, 
+      Domi<lb ed="#P" n="6" break="no"/>num filios ejus omnes, quos voluit, collegisse. Sic 
+      <lb ed="#P" n="7"/>exponit Augustinus ench. 97. Sed obstat quod 
+      E<lb ed="#P" n="8" break="no"/>zech. 24. Dominus simili cum exprobratione dicit ad 
+      <lb ed="#P" n="9"/>eandem civitatem: Mundare te volui, &amp; non es 
+      mun<lb ed="#P" n="10" break="no"/>data a sordibus tuis. Unde apparet etiam hoc loco 
+      <lb ed="#P" n="11"/>Dominum significare, non esse factum, quod 
+      vo<lb ed="#P" n="12" break="no"/>luisse se dicit. 
+    </p>
+            <p xml:id="bt67yj-k75424-d1e285">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Quarta est, Christum ac Deum hoc voluisse non 
+      <lb ed="#P" n="14"/>in se, sed in piis &amp; sanctis hominibus quos miserat &amp; 
+      <lb ed="#P" n="15"/>velle fecerat, ut sit sensus: Quoties iis quos ad te 
+      mi<lb ed="#P" n="16" break="no"/>si, sacerdotibus &amp; prophetis aliisque justis sanctum 
+      <lb ed="#P" n="17"/>desiderium tuae salutis inspiravi, &amp; ut pro filiorum 
+      <lb ed="#P" n="18"/>tuorum conversione laborarent, feci? At tu pios 
+      eo<lb ed="#P" n="19" break="no"/>rum conatus &amp; vota semper frustrata es. Sensus hic 
+      <lb ed="#P" n="20"/>textui congruit &amp; illustratur ex iis, quae superiori 
+      ca<lb ed="#P" n="21" break="no"/>pite dicta sunt. 
+    </p>
+            <p xml:id="bt67yj-k75424-d1e309">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Quinta expositio est, ut significetur voluntas signi 
+      <lb ed="#P" n="23"/>consistens in praeceptis, exhortationibus, 
+      correptio<lb ed="#P" n="24" break="no"/>nibus, miraculis, sacris institutis, aliisque mediis &amp; 
+      <lb ed="#P" n="25"/>auxiliis ad salutem oportunis, quae per Moysen 
+      alios<lb ed="#P" n="26" break="no"/>que prophetas, illi populo fuerint a Deo 
+      submini<lb ed="#P" n="27" break="no"/>strata. Quae tamen omnia populus ingratus &amp; in 
+      pec<lb ed="#P" n="28" break="no"/>catis obduratus rejecerit atque contempserit. Hunc 
+      <lb ed="#P" n="29"/>sensum in suis commentariis expresserunt Hilarius &amp; 
+      <lb ed="#P" n="30"/>Hieronymus, nec male, cum sit contextui valde 
+      con<lb ed="#P" n="31" break="no"/>formis, qui de missione prophetarum loquitur. Has 
+      <lb ed="#P" n="32"/>igitur duas postremas expositiones ut maxime 
+      proba<lb ed="#P" n="33" break="no"/>biles caeteris praeferendas non dubitamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="86"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k32237"><!-- l1d27c5" -->
+            <head xml:id="bt67yj-k32237-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k32237-Hd1e103" type="question-title">In quibus discrepet verbum divinum ab humano</head>
+            <p xml:id="bt67yj-k32237-d1e106">
+               <lb ed="#P" n="82"/>§. 5. In quibus discrepet verbum divinum ab humano 
+    </p>
+            <p xml:id="bt67yj-k32237-d1e111">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> QUamvis in multis conveniat verbum divinums 
+      <lb ed="#P" n="84"/>cum humano, discrepat tamen e diverso in 
+      non<lb ed="#P" n="85" break="no"/>nullis. Neque enim fieri potest ut rei divinae aliquid 
+      <lb ed="#P" n="86"/>in rebus creatis, per omnia simile reperiatur. Est 
+      au<lb ed="#P" n="87" break="no"/>tem haec dissimilitudo idcirco notanda, ut remotis a 
+      <lb ed="#P" n="88"/>verbo Dei iis, in quibus verbum humanum ob sui 
+      im<lb ed="#P" n="89" break="no"/>perfectionem illi dissimile est, certius a nobis 
+      ejus<lb ed="#P" n="90" break="no"/>dem verbidivini perfectio &amp; praestantia percipiatur. 
+    </p>
+            <p xml:id="bt67yj-k32237-d1e133">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Prima igitur dissimilitudo est, quod verbum 
+      ho<lb ed="#P" n="92" break="no"/>minis sit accidens, etiam ipsius mentis respectu, &amp; 
+      <lb ed="#P" n="93"/>proinde res admodum imperfecta inter ipsas etiam 
+      <lb ed="#P" n="94"/>creaturas. Verbum autem Dei sit ipsa Dei essentia, 
+      <lb ed="#P" n="95"/>quae patri est cum filio communis 
+    </p>
+            <p xml:id="bt67yj-k32237-d1e150">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Secunda, quod verbum hominis non sit menti 
+      <lb ed="#P" n="97"/>coaevum, sed modo in mente oriatur atque existat, 
+      <lb ed="#P" n="98"/>modo occidat &amp; evanescat: Verbum autem Dei sit 
+      <lb ed="#P" n="99"/>patri coaeternum. 
+    </p>
+            <p xml:id="bt67yj-k32237-d1e163">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Tertia, quod mens humana ad res varias, tum 
+      con<lb ed="#P" n="101" break="no"/>cipiendas, tum efficiendas, variis ac multiplicibus &amp; 
+      <lb ed="#P" n="102"/>interdum compositis verbis egcat, eo quod unica 
+      <lb ed="#P" n="103"/>animi notio non possit plura ac multo minus omnia 
+      <lb ed="#P" n="104"/>repraesentare. Mens autem divina uno eoque 
+      simpli<lb ed="#P" n="105" break="no"/>cissimo verbo, cuncta intelligat atque operetur. 
+    </p>
+            <p xml:id="bt67yj-k32237-d1e181">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Postrema, quod humanum verbum etsi sit foetus 
+      <lb ed="#P" n="107"/>quidam mentis, filii tamen rationem non attingat, 
+      <lb ed="#P" n="108"/>nec ejusdem sit cum mente substantiae, nec omne 
+      <lb ed="#P" n="109"/>ejusmodi sit, ut ipsius mentis imaginem referat. Quae 
+      <lb ed="#P" n="110"/>tria plane competunt in verbum divinum respectu 
+      <lb ed="#P" n="111"/>patris. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

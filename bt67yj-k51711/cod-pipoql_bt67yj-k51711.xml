@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="137"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k51711"><!-- l1d40c14" -->
+            <head xml:id="bt67yj-k51711-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-k51711-Hd1e103" type="question-title">Responsio ad argumenta adversariorum</head>
+            <p xml:id="bt67yj-k51711-d1e106">
+               <lb ed="#P" n="42"/>§. 14. Responsio ad argumenta adversariorum.
+    </p>
+            <p xml:id="bt67yj-k51711-d1e111">
+               <lb ed="#P" n="43"/>QUod olim a Pelagianis falso fuit Catholicis 
+      im<lb ed="#P" n="44" break="no"/>positum, id ante annos 200. serio affirmare 
+      <lb ed="#P" n="45"/>non est veritus Joannes Vvicleff. Cujus deinde 
+      erro<lb ed="#P" n="46" break="no"/>rem resuscitarunt nostro seculo <name xml:id="bt67yj-k51711-Nd1e121">Lutherus</name> &amp; <name xml:id="bt67yj-k51711-Nd1e124">
+      Calvi<lb ed="#P" n="47" break="no"/>nus</name>. Quorum proinde nunc refellenda nobis sunt 
+      ar<lb ed="#P" n="48" break="no"/>gumenta, videlicet ea quibus contendunt ostendere 
+      <lb ed="#P" n="49"/>divinam reprobationem esse causam hominibus ea 
+      <lb ed="#P" n="50"/>peccata perpetrandi propter quae damnantur. Nam, 
+      <lb ed="#P" n="51"/>alia quibus generatim probare nituntur sive iidem 
+      <lb ed="#P" n="52"/>sive alii haeretici, Deum esse peccati authorem, 
+      quo<lb ed="#P" n="53" break="no"/>niam illa disputatio non hujus proprie est instituti, 
+      <lb ed="#P" n="54"/>in alium locum rejicienda sunt. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e145">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Primum igitur e scriptura profertur illud Act. 2. 
+      <lb ed="#P" n="56"/>ubi Petrus ad Judaeos de Christo ait: Hunc definito 
+      <lb ed="#P" n="57"/>consilio &amp; praescientia Dei traditum, per manus 
+      ini<lb ed="#P" n="58" break="no"/>quorum affligentes interemistis. Definitum autem Dei 
+      <lb ed="#P" n="59"/>consilium, causa est ejus quod futurum statuit. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e162">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Secundum ex cap. 4. ejusdem libri, ubi 
+      commu<lb ed="#P" n="61" break="no"/>ni Apostolorum ore dicitur: Convenisse principes 
+      <lb ed="#P" n="62"/>adversus Christum facere ea quae manus &amp; 
+      consi<lb ed="#P" n="63" break="no"/>„lium Dei decreverunt fieri. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e175">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Tertium ex eo quod ait Sapiens Prov. 16. 
+      Univer<lb ed="#P" n="65" break="no"/>sa propter semetipsum operatus est Dominus; Impium 
+      <lb ed="#P" n="66"/>quoque ad diem malum, scilicet, ad quem eum 
+      prae<lb ed="#P" n="67" break="no"/>destinaverat. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e188">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Quartum 1. Reg. 2. dicit scriptura de filiis Heli. 
+      <lb ed="#P" n="69"/>Et non audierunt vocem patris sui, quia Dominus 
+      vo<lb ed="#P" n="71" break="no"/>
+               <!-- coord order error -->luit eos occidere; ergo reprobatio Dei causa fuit illis
+      <lb ed="#P" n="70"/>
+               <!-- coord order erro -->ut non audirent. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e206">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Quintum, Ecclesiastae 9. secundum Haebraicam 
+      <!--0160.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>veritatem sic legitur. Quis poterit dirigere, quem 
+      <lb ed="#P" n="74"/>Deus depravaverit, sive ut habent 70. perverterit, 
+      <lb ed="#P" n="75"/>ubi nos legimus. Nemo potest corrigere quem ille 
+      <lb ed="#P" n="76"/>despexerit. Loquitur autem de reprobatione. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e226">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Sextum, Apostolus Rom. 9. Deum comparat 
+      fi<lb ed="#P" n="78" break="no"/>gulo, qui ex eodem luto facit alia vasa in honorem, 
+      <lb ed="#P" n="79"/>alia in contumeliam. Ubi etiam reprobi vocantur 
+      <lb ed="#P" n="80"/>vasa irae apta, seu aptata, id est praeparata a Deo ad 
+      <lb ed="#P" n="81"/>interitum, sicut vasa misericordiae praeparata in 
+      glo<lb ed="#P" n="82" break="no"/>riam. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e244">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Septimum argumentum ex obduratione &amp; 
+      excoe<lb ed="#P" n="84" break="no"/>catione sumitur. Cum enim ut supra dictum est, 
+      re<lb ed="#P" n="85" break="no"/>probatio sit obdurationis causa, &amp; obduratio sit 
+      cau<lb ed="#P" n="86" break="no"/>sa peccati, necessario consequens est reprobationem 
+      <lb ed="#P" n="87"/>esse peccati causam. Quod autem obduratio causa 
+      <lb ed="#P" n="88"/>peccati sit, tum scriptura passim indicare videtur, ut 
+      <lb ed="#P" n="89"/>Exod. 7. &amp; sequentibus de Pharaone. Psal. 68. Isa. 6. 
+      <lb ed="#P" n="90"/>&amp; 63. Joan. 12. Act. ult. Rom. 9. &amp; 11. tum ratione 
+      <lb ed="#P" n="91"/>videtur ostendi. Nam obdurare idem est quod 
+      duri<lb ed="#P" n="92" break="no"/>tiem in aliquo producere; sicut calefacere, 
+      produ<lb ed="#P" n="93" break="no"/>cere calorem. Duricies autem quae cordi tribuitur, 
+      <lb ed="#P" n="94"/>peccatumest, de quo apud Ezech. 11. &amp; 36. Auferam 
+      <lb ed="#P" n="95"/>a vobis corlapideum, &amp; dabo vobis cor carneum. Atque 
+      <lb ed="#P" n="96"/>eadem ostensio est de excoecatione, quam 
+      consequi<lb ed="#P" n="97" break="no"/>tur coecitas mentis, quae similiter peccatum est. 
+      <lb ed="#P" n="98"/>Tum denique authoritate Augustini &amp; Thomae, 
+      <lb ed="#P" n="99"/>quorum ille lib. 5. contra Jul. cap. 3. ad quaedam 
+      Ju<lb ed="#P" n="100" break="no"/>liani verba ita respondet: Quid est autem quod dicis: 
+      <lb ed="#P" n="101"/>Cum desideris suis traditi dicuntur, relicti per 
+      di<lb ed="#P" n="102" break="no"/>vinam patientiam intelligendi sunt, non per 
+      poten<lb ed="#P" n="103" break="no"/>tiam in peccata compulsi? quasi non simul posuerit haec 
+      <lb ed="#P" n="104"/>duo idem apostolus, &amp; patientiam &amp; potentiam ubi 
+      <lb ed="#P" n="105"/>ait: Sic autem volens Deus ostendere iram &amp; 
+      de<lb ed="#P" n="106" break="no"/>monstrare potentiam suam, attulit in multa 
+      patien<lb ed="#P" n="107" break="no"/>tia vasa irae, quae perfecta sunt in perditionem. Ex 
+      <lb ed="#P" n="108"/>quibus verbis apparet Augustinum velle quod non 
+      <lb ed="#P" n="109"/>tantum deserendo; sed etiam per potentiam 
+      impel<lb ed="#P" n="110" break="no"/>lendo Deus homines tradat suis desideriis, atque in 
+      <lb ed="#P" n="111"/>peccatis obduret. Idem de gratia &amp; libero arbitrio 
+      <lb ed="#P" n="112"/>cap. 20. &amp; 21. late docet voluntates malorum 
+      homi<lb ed="#P" n="113" break="no"/>num etiam ad ea in quibus peccant, imo ad 
+      pecca<lb ed="#P" n="114" break="no"/>ta inclinari a Deo, idque per scripturas ostendit 
+      <lb ed="#P" n="115"/>exemplis Pharaonis, Absalonis &amp; aliorum, imo &amp; 
+      <lb ed="#P" n="116"/>ipsius diaboli, quorum in cordibus agere Deum 
+      <lb ed="#P" n="117"/>dicit etiam ipsum motum voluntatis eorum, quo 
+      <lb ed="#P" n="118"/>peccant. Unde tandem ita concludit: His &amp; 
+      tali<lb ed="#P" n="119" break="no"/>bus tectimoniis divinorum eloquiorum, manifestatur 
+      <lb ed="#P" n="120"/>operari Deum in cordibus hominum ad inclinandas 
+      eo<lb ed="#P" n="121" break="no"/>rum voluntates quocunque voluerit, sive ad bona pro 
+      <lb ed="#P" n="122"/>sua misericordia, sive ad mala pro meritis eorum, &amp;c. 
+      <lb ed="#P" n="123"/>Atque haec a se dicta confirmat lib. de praedest. 
+      <lb ed="#P" n="124"/>sanct. cap. 20. Sanctus Thomas vero super ep. Rom. 
+      <lb ed="#P" n="125"/>9. lect. 3. ad illud: In hoc ipsum excitavi te, &amp;c. cum 
+      <lb ed="#P" n="126"/>cum locum exposuisset de permissione &amp; desertione 
+      <lb ed="#P" n="127"/>ita subjunxit: Sed aliquid amplius videtur mihi in 
+      <lb ed="#P" n="128"/>hoc esse intelligendum, quia videlicet instinctu 
+      quo<lb ed="#P" n="129" break="no"/>dam interiori moventur homines a Deo ad bonum &amp; 
+      <lb ed="#P" n="130"/>ad malum. Et mox quod dixit, probat ex 
+      Augu<lb ed="#P" n="131" break="no"/>stini loco jam allegato de grat. &amp; lib. arbitr. &amp; ex 
+      <lb ed="#P" n="132"/>scripturis. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e358">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Octavum argumentum. Idem Augustinus lib. de 
+      <lb ed="#P" n="134"/>cor. &amp; gr. cap. 7. scribit Christum alios quidem apo¬¬ 
+      <lb ed="#P" n="135"/>stolos elegisse ad obtinendum regnum suum, Judam 
+      <lb ed="#P" n="136"/>vero elegisse ad effundendum sanguinem suum. Ele¬¬ 
+      <lb ed="#P" n="137"/>ctus igitur est Judas ad peccatum. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e374">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Nono ita ratiocinantur, Deus sic regit &amp; admi¬“ 
+      <lb ed="#P" n="139"/>nistrat omnia, ut ne peccata quidem providentiae* 
+      <lb ed="#P" n="140"/>ejus subtrahantur; igitur providentia Dei 
+      peccato<lb ed="#P" n="141" break="no"/>rum causa est, sicut aliarum rerum quae providentiae 
+      <lb ed="#P" n="142"/>ejus subsunt. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e390">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Decimo. Reprobi propter finem aliquem 
+      crea<lb ed="#P" n="144" break="no"/>ti sunt a Deo, nec tamen propter vitam aeternam. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e399">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Sic enim frustraretur Deus fine sibi in eorum 
+      crea<lb ed="#P" n="146" break="no"/>tione proposito; ergo propter aeternam damna¬ 
+      <!--0161.xml-->
+      <pb ed="#P" n="138"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tionem, &amp; per consequens ipse ad eundem finem 
+      me<lb ed="#P" n="2" break="no"/>dia ordinavit, id est, lapsum &amp; peccatum hominis. 
+      <lb ed="#P" n="3"/>Est enim ejusdem agentis intendere finem, &amp; media 
+      <lb ed="#P" n="4"/>procurare ad finem. Nam quieunque vult efficaciter 
+      <lb ed="#P" n="5"/>finem, vult omnia media, sine quibus finis non 
+      ha<lb ed="#P" n="6" break="no"/>betur. Hoc enim argumento probatur a Deo esse 
+      <lb ed="#P" n="7"/>omnia media, quae ducunt ad vitam aeternam, ut 
+      fi<lb ed="#P" n="8" break="no"/>nem ab ipso praestitutum. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e432">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Postremo. Effectus reprobationis sunt peccati 
+      per<lb ed="#P" n="10" break="no"/>missio, gratiae subtractio, &amp; hominis in peccatis 
+      de<lb ed="#P" n="11" break="no"/>relictio. Ex his autem necessario sequitur hominem 
+      <lb ed="#P" n="12"/>peccare; ergo reprobatio divina, peccati causa est, 
+      <lb ed="#P" n="13"/>saltem indirecte. Quod er im est causa antecedentis, 
+      <lb ed="#P" n="14"/>idem est causa consequentis. Et qui removet 
+      prohi<lb ed="#P" n="15" break="no"/>bens, est causa saltem indirecta, ejus effectus qui 
+      <lb ed="#P" n="16"/>remotionem consequitur. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e454">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> His argumentis sic ordine respondemus. 
+      <lb ed="#P" n="18"/>Quod primo loco objicitur, id non de traditione 
+      <lb ed="#P" n="19"/>Judae aut Judaeorum accipiendum; sed de ea re, qua 
+      <lb ed="#P" n="20"/>Deus pater filium suum pro redemptione humani 
+      <lb ed="#P" n="21"/>generis in mortem tradidit accipientibus eum 
+      Ju<lb ed="#P" n="22" break="no"/>daeis, &amp; per manus iniquorum occidentibus. Quem 
+      <lb ed="#P" n="23"/>sensum manifeste lectio Graeca demonstrat. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e475">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Ad secundum respondetur, eandem rem nempe 
+      <lb ed="#P" n="25"/>passionem &amp; mortem Christi factam, &amp; a Judaeis 
+      <lb ed="#P" n="26"/>impie Christum persequentibus, &amp; a Deo patre 
+      at<lb ed="#P" n="27" break="no"/>que ipso Christo; quia &amp; pater filium in mortem 
+      <lb ed="#P" n="28"/>tradidit, &amp; ipse filius potestate animam suam 
+      po<lb ed="#P" n="29" break="no"/>suit, quemadmodum ex professo docetur ad 
+      distin<lb ed="#P" n="30" break="no"/>ctionem 20. lib. 3. Eandem ergo rem quam Judaei 
+      <lb ed="#P" n="31"/>fecerunt, id est, eundem effectum Deus fieri ab 
+      <lb ed="#P" n="32"/>aeterno decrevit, eumque in tempore fecit, sed illi 
+      <lb ed="#P" n="33"/>fecerunt injuste Christum persequendo, Deus 
+      au<lb ed="#P" n="34" break="no"/>tem fecit misericorditer homini subveniendo. Quod 
+      <lb ed="#P" n="35"/>enim dicitur: Convenerunt facere, non refertur ad 
+      <lb ed="#P" n="36"/>peccatum, sed ad effectum operis quod Judaeis erat 
+      <lb ed="#P" n="37"/>peccatum, id est, ad passionem &amp; mortem Christi, 
+      <lb ed="#P" n="38"/>quae sicut omnium martyrum passiones &amp; mortes, 
+      <lb ed="#P" n="39"/>non tantum homines, sed &amp; Deum authorem habent. 
+      <lb ed="#P" n="40"/>Quomodo una eademque pauperis subventio, si a 
+      <lb ed="#P" n="41"/>pluribus simul fiat, ab uno bona, ab alio mala 
+      in<lb ed="#P" n="42" break="no"/>tentione fieri potest. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e521">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Quod 3. loco objicitur ex Prov. hunc sensum 
+      ha<lb ed="#P" n="44" break="no"/>bet: Res omnes fecit Deus propter semetipsum, id 
+      <lb ed="#P" n="45"/>est, ad gloriam suam. Impium autem ut impius est, 
+      <lb ed="#P" n="46"/>non simpliciter fecit, sed fecit ad diem malum, id 
+      <lb ed="#P" n="47"/>est, hominem quem praevidit fore impium, 
+      praeor<lb ed="#P" n="48" break="no"/>dinavit ad diem ultionis, hoc est, ad justa 
+      suppli<lb ed="#P" n="49" break="no"/>cia, idque etiam propter semetipsum, juxta illud 
+      <lb ed="#P" n="50"/>quod Pharaonidictum est a Domino: In hoc ipsum 
+      <lb ed="#P" n="51"/>excitavi te, ut ostendam in te virtutem meam, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e545">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Quarti loci sententia est, Deum ideo voluisse 
+      per<lb ed="#P" n="53" break="no"/>mittere peccatum illud filiorum Heli, scilicet ut 
+      <lb ed="#P" n="54"/>patrem monentem non audirent, quia propter 
+      pec<lb ed="#P" n="55" break="no"/>catum ipsorum praecedens voluit eos occidere. Fuit 
+      <lb ed="#P" n="56"/>ergo in eis peccatum posterius poena prioris, 
+      utrius<lb ed="#P" n="57" break="no"/>que autem poena ipsorum occisio. De hujusmodi 
+      <lb ed="#P" n="58"/>autem locis quae complura occurrunt in sacris 
+      litte<lb ed="#P" n="59" break="no"/>ris, disserit Sanctus Augustinus libro de gratia &amp; 
+      <lb ed="#P" n="60"/>libero arbitrio, de quo mox in solutione septimi. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e569">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Ad quintum. Pervertere hominem dicitur Deus 
+      <lb ed="#P" n="62"/>improprie, eum videlicet, cui suo justo judicio 
+      sta<lb ed="#P" n="63" break="no"/>tuit non dare gratiam, qua convertatur &amp; salvetur. 
+      <lb ed="#P" n="64"/>Hunc autem quo sensu nemo corrigere posse 
+      dica<lb ed="#P" n="65" break="no"/>tur, alibi est explicandum. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e585">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Ad sextum. Dicitur Deus ad instar figuli facere 
+      <lb ed="#P" n="67"/>quaedam vasa in contumeliam, non operando in eis 
+      <lb ed="#P" n="68"/>culpam, sed permittendo, ut in culpam cadant; nec 
+      <lb ed="#P" n="69"/>male dicitur facere, quando quidem permissio illa, 
+      <lb ed="#P" n="70"/>ut supra ostendimus, actus quidam est 
+      reprobatio<lb ed="#P" n="71" break="no"/>nis divinae. Dicuntur autem reprobi a Deo aptari, 
+      <lb ed="#P" n="72"/>seu praeparariad interitum, non quasi Deus eis 
+      pro<lb ed="#P" n="73" break="no"/>curet peccata, quibus interitum mereantur; sed quia 
+      <lb ed="#P" n="74"/>praeparat illis interitum propter praevisa eorum pec¬ 
+      <!--0161.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>cata. Praeparat autem non in tempore, sed aeterno 
+      <lb ed="#P" n="76"/>decreto, quod vocatur reprobatio. Unde &amp; 
+      praete<lb ed="#P" n="77" break="no"/>riti temporis verbo scriptura in hujusmodi fere 
+      uti<lb ed="#P" n="78" break="no"/>tur, ut Matth. 25. Qui paratus est, seu praeparatus 
+      <lb ed="#P" n="79"/>diabolo, &amp;c. Eccl. 26. Deus praeparavit eum ad 
+      rom<lb ed="#P" n="80" break="no"/>phaeam, &amp; hoc loco, vasa aptata seu praeparata ad 
+      <lb ed="#P" n="81"/>interitum, sicut &amp; contra ibidem, vasa misericordiae 
+      <lb ed="#P" n="82"/>dicitur Deus praeparasse ad gloriam, nimirum aeterna 
+      <lb ed="#P" n="83"/>sua praedestinatione. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e633">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Ad septimum respondetur obdurationem 
+      homi<lb ed="#P" n="85" break="no"/>nis (&amp; idem judicium de excoecatione) Deo tribui 
+      <lb ed="#P" n="86"/>improprie, ut ex iis patet quae supra de effectibus 
+      <lb ed="#P" n="87"/>reprobationis diximus. Dicitur enim Deus 
+      homi<lb ed="#P" n="88" break="no"/>nem indurare, non quod per se id agat, ut cor 
+      ho<lb ed="#P" n="89" break="no"/>minis in malo obdurescat; sed quia circa hominem 
+      <lb ed="#P" n="90"/>agit aliquid, unde per accidens in ejus corde 
+      duri<lb ed="#P" n="91" break="no"/>ties sequatur. Fit autem id bifariam; vel 
+      deseren<lb ed="#P" n="92" break="no"/>do hominem &amp; subtrahendo consueta quaedam 
+      sa<lb ed="#P" n="93" break="no"/>lutis auxilia, quibus subtractis fit homo deterior 
+      <lb ed="#P" n="94"/>ac durior, quem modum saepe indicant patres, 
+      <lb ed="#P" n="95"/>ut Sanctus Augustinus libro de natura &amp; gr. 
+      ca<lb ed="#P" n="96" break="no"/>pite 22. Gregorius libro 25. Moral. capite 9. &amp; 
+      <lb ed="#P" n="97"/>alii; vel insuper eas res objiciendo sensibus 
+      homi<lb ed="#P" n="98" break="no"/>nis extrinsecus, aut etiam phantasiae intrinsecus, 
+      <lb ed="#P" n="99"/>quae illi jam per peccatum depravato, &amp; ad 
+      pecca<lb ed="#P" n="100" break="no"/>tum propenso, velut offendicula fiant &amp; occasiones 
+      <lb ed="#P" n="101"/>ulterioris ac gravioris ruinae. Est igitur obduratio &amp; 
+      <lb ed="#P" n="102"/>obcoecatio tantummodo punitio peccati prioris, 
+      <lb ed="#P" n="103"/>non autem ipsa peccatum, neque peccati causa, 
+      li<lb ed="#P" n="104" break="no"/>cet non sit sine peccato ejus, qui obduratur aut 
+      ex<lb ed="#P" n="105" break="no"/>coecatur. Qua de re plura, ad distinct. 36. libr. 2. 
+      <lb ed="#P" n="106"/>ubi de iis peccatis agitur, quae etiam poenae sunt 
+      pec<lb ed="#P" n="107" break="no"/>catorum. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e691">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Ex hac autem declaratione respondendum 
+      ul<lb ed="#P" n="109" break="no"/>terius ad Augustini loca pro confirmatione 
+      argu<lb ed="#P" n="110" break="no"/>menti allata. Nam priori loco licet obscurioribus 
+      <lb ed="#P" n="111"/>verbis nihil. aliud vult Sanctus Augustinus, quam 
+      <lb ed="#P" n="112"/>quod Deus interdum magnis quibusdam 
+      calamita<lb ed="#P" n="113" break="no"/>tibus ac plagis, in quibus potentiam suam 
+      decla<lb ed="#P" n="114" break="no"/>rat, superbos homines, qualis olim Pharao fuit, 
+      <lb ed="#P" n="115"/>affligat, quibus illi adeo non corrigantur, ut ea 
+      <lb ed="#P" n="116"/>occasione magis etiam ac magis adversus Deum ob 
+      <lb ed="#P" n="117"/>durentur. Quamquam non fatetur Sanctus 
+      Augu<lb ed="#P" n="118" break="no"/>stinus, homines desideriis suis traditos, per 
+      po<lb ed="#P" n="119" break="no"/>tentiam in peccata compelli, sed dicit Deum in 
+      eo<lb ed="#P" n="120" break="no"/>rum desertione non tam patientiam exhibere, quod 
+      <lb ed="#P" n="121"/>volebat Julianus, quam potentiam suam ostendere, 
+      <lb ed="#P" n="122"/>sicut Apostolus Rom. 9. testatur: posterioris 
+      au<lb ed="#P" n="123" break="no"/>tem loci sensus est: Deum voluntates hominum 
+      <lb ed="#P" n="124"/>proprio vitio malas circumstantiis quibusdam 
+      de<lb ed="#P" n="125" break="no"/>terminare, vel ut Augustinus loquitur, inclinare 
+      <lb ed="#P" n="126"/>in certa quaedam opera quae peccata sunt, sic 
+      vide<lb ed="#P" n="127" break="no"/>licet, ut non ipsa peccantis malitia, nec ipsum 
+      <lb ed="#P" n="128"/>peccatum ut tale est, sed occasiones &amp; adjacentia 
+      <lb ed="#P" n="129"/>quaedam peccati, quae peccata non sunt, imo &amp; 
+      <lb ed="#P" n="130"/>actus ipse peccato substratus, in quantum actus est, 
+      <lb ed="#P" n="131"/>in Deum authorem referatur. Atque his fere modis 
+      <lb ed="#P" n="132"/>ipse se S. Aug. explicat, lib. 5. contra Jul. cap. 4. &amp; 
+      <lb ed="#P" n="133"/>de gr. &amp; libero arb. cap. 20. Videatur etiam de hac 
+      <lb ed="#P" n="134"/>re lib. 1. ad Simpl. q. 2. lib. 1. centra 2. ep. Pel. cap. 
+      <lb ed="#P" n="135"/>18. &amp; ep. 105. &amp; q. 18. super Exodum, ubi rem clare 
+      <lb ed="#P" n="136"/>explicat: Et Prosper ad cap. Gall. resp. 11. &amp; 16. Porro 
+      <lb ed="#P" n="137"/>ad commentarium S. Thomae ex ipsomet patet 
+      res<lb ed="#P" n="138" break="no"/>ponsio. Sic enim subjicit: Aliter tamen inclinat Deus 
+      <lb ed="#P" n="139"/>ad bona, aliter ad mala. Nam ad bona inclinat 
+      homi<lb ed="#P" n="140" break="no"/>num voluntates directe &amp; per se, tanquam author 
+      bo<lb ed="#P" n="141" break="no"/>norum. Ad malum autem dicitur inclinare vel 
+      suscita<lb ed="#P" n="142" break="no"/>re homines occasionaliter, in quantum scilicet Deus 
+      <lb ed="#P" n="143"/>homini aliquid proponit vel exterius, vel interius, 
+      <lb ed="#P" n="144"/>quod quantum est de se, est inductivum ad bonum; sed 
+      <lb ed="#P" n="145"/>homo propter suam malitiam perverse utitur ad 
+      ma<lb ed="#P" n="146" break="no"/>lum, &amp; quae sequuntur. Ex his etiam aperitur 
+      intel<lb ed="#P" n="147" break="no"/>lectus multorum scripturae locorum, quae alioquin 
+      <lb ed="#P" n="148"/>Deo viderentur causam peccati tribuere, ut Luc. 2. 
+      <!--0162.xml-->
+      <pb ed="#P" n="139"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Positus est hic in ruinam multorum. Rom. 9. Ponam in A 
+      <lb ed="#P" n="2"/>Sion lapidem offensionis &amp; petram scandali. Psal. 68. 
+      <lb ed="#P" n="3"/>Appone iniquitatem super iniquitatem eorum. Ezech. 3. 
+      <lb ed="#P" n="4"/>Ponam offendiculum coram eo, &amp; 14. Ego Dominus 
+      <lb ed="#P" n="5"/>decepi prophetam illum, &amp; alia hujusmodi quibus 
+      si<lb ed="#P" n="6" break="no"/>gnificantur in reprobis effectus illi reprobationis, 
+      <lb ed="#P" n="7"/>quos esse diximus dimissionem, desertionem, 
+      obdu<lb ed="#P" n="8" break="no"/>rationem &amp; excoecationem. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e808">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Ad 8. respondetur hunc illius Augustini sententiae 
+      <lb ed="#P" n="10"/>sensum esse: Christus Judam, cujus malitiam 
+      praevi<lb ed="#P" n="11" break="no"/>derat &amp; permissurus erat, ex multis malis unum 
+      ele<lb ed="#P" n="12" break="no"/>git, ut ejus malitia uteretur ad fundendum 
+      sangui<lb ed="#P" n="13" break="no"/>nem suum, id est, opus redemptionis nostrae 
+      pera<lb ed="#P" n="14" break="no"/>gendum. Sic enim &amp; paulo ante dixit Judam 
+      ele<lb ed="#P" n="15" break="no"/>ctum fuisse ad opus cui congruebat. Id autem 
+      expli<lb ed="#P" n="16" break="no"/>cat his verbis subsequentibus: Ab illo quippe electus 
+      <lb ed="#P" n="17"/>est, qui novit bene uti etiam malis, ut per ejus opus 
+      <lb ed="#P" n="18"/>damnabile, illud propter quod ipse venerat opus 
+      vene<lb ed="#P" n="19" break="no"/>rabile compleretur. Hoc autem est opus redemptionis 
+      <lb ed="#P" n="20"/>nostrae. Nihilominus dubitari potest, an sensus 
+      Au<lb ed="#P" n="21" break="no"/>gustini sit Judam electum esse, ut funderet 
+      sangui<lb ed="#P" n="22" break="no"/>nem Christi, an ut funderetur sanguis Christi, an 
+      <lb ed="#P" n="23"/>ut Christus funderet sanguinem suum. Etenim 
+      om<lb ed="#P" n="24" break="no"/>nibus his modis recte potest intelligi illud, ad 
+      fun<lb ed="#P" n="25" break="no"/>dendum sanguinem suum. Nam primus sensus, qui 
+      <lb ed="#P" n="26"/>solus videtur offendere, vere non habet 
+      offensio<lb ed="#P" n="27" break="no"/>nem, quia fundere Christi sanguinem non involvit 
+      <lb ed="#P" n="28"/>malitiam. Nam alioqui nec Christo tribui posset, nec 
+      <lb ed="#P" n="29"/>sacerdotiofferenti in altari Luc. 22. Et pro illo sensu 
+      <lb ed="#P" n="30"/>facit quod praecedit, scilicet Christum alios elegisse 
+      <lb ed="#P" n="31"/>ad obtinendum regnum suum, id est, ut ipsi 
+      obtine<lb ed="#P" n="32" break="no"/>rent regnum Christi. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e865">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Ad 9. respondetur peccata quidem subesse 
+      provi<lb ed="#P" n="34" break="no"/>dentiae divinae, sed alia ratione quam res caeteras, ut 
+      <lb ed="#P" n="35"/>ostendimus ad superiorem dist. Res enim ipsas &amp; 
+      fa<lb ed="#P" n="36" break="no"/>cit Deus &amp; conservat &amp; in finem dirigit atque 
+      perdu<lb ed="#P" n="37" break="no"/>cit; peccata vero nec facit nec conservat, sed 
+      permit<lb ed="#P" n="38" break="no"/>tit, ordinat, coercet, remittit, vindicat, quae &amp; ipsa 
+      <lb ed="#P" n="39"/>providentiae Deiopera sunt. Qua de re vide S. 
+      Au<lb ed="#P" n="40" break="no"/>gust. super Psal. 7. &amp; de spiritu &amp; lit. cap. 23. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e887">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Ad 10. respondetur imprimis, Deum in hominis 
+      <lb ed="#P" n="42"/>creatione, ut &amp; aliarum rerum, non sibi, sed rebus 
+      ip<lb ed="#P" n="43" break="no"/>sis finem aliquem praestituisse; Dei enim nulla est 
+      <lb ed="#P" n="44"/>causa, nulla extra ipsum perfectio; sed hominem ita 
+      <lb ed="#P" n="45"/>creavit, ut ejus finis esset aeterna felicitas in Deo, a 
+      <lb ed="#P" n="46"/>qua dum peccando decidit, non Deus, sed homo fine 
+      <lb ed="#P" n="47"/>suo frustratur. Deinde quamvis homo reprobus ad 
+      fi<lb ed="#P" n="48" break="no"/>nem sibi a Deo praestitutum, id est, aeternam 
+      beatitu<lb ed="#P" n="49" break="no"/>dinem, non perveniat, ipse tamen Deus fine a se 
+      in<lb ed="#P" n="50" break="no"/>tento in illo opere minime frustratur. Sicut enim 
+      uni<lb ed="#P" n="51" break="no"/>versa propter semetipsum, id est, ad gloriam suam 
+      <lb ed="#P" n="52"/>manifestandam operatus est; ita hunc finem in 
+      omni<lb ed="#P" n="53" break="no"/>bus operibus suis, etiam vilissimis, assequitur, &amp; 
+      no<lb ed="#P" n="54" break="no"/>minatim etiam in hominibus reprobis. Glorificatur 
+      <lb ed="#P" n="55"/>enim Deus in justa eorum punitione. Non tamen eos 
+      <lb ed="#P" n="56"/>creavit ut puniret, neque ut desereret, aut peccare 
+      <lb ed="#P" n="57"/>permitteret; sed hos omnes reprobationis effectus 
+      <lb ed="#P" n="58"/>tanquam media quaedam ordinat in illum finem, 
+      <lb ed="#P" n="59"/>quem in illorum creatione spectavit, scilicet 
+      osten<lb ed="#P" n="60" break="no"/>sionem justitiae suae. 
+    </p>
+            <p xml:id="bt67yj-k51711-d1e935">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Ad postremum respondetur ex effectibus 
+      reproba<lb ed="#P" n="62" break="no"/>tionis &amp; proinde ex ipsa reprobatione divina 
+      neces<lb ed="#P" n="63" break="no"/>sario consequi, quod homo peccet, non necessitate 
+      <lb ed="#P" n="64"/>rei, vel causalitatis; sed consequentiae, sicut hoc idem 
+      <lb ed="#P" n="65"/>necessario sequitur ex Dervisione vel praevisione. Et 
+      <lb ed="#P" n="66"/>hanc necessitatem aperte significavit Caelestinus Papa 
+      <lb ed="#P" n="67"/>in epistola ad Galliae Episcopos cap. 6. verbis ex 
+      epi<lb ed="#P" n="68" break="no"/>stola Innocentii Papae ad Concilium Carth. scripta 
+      <lb ed="#P" n="69"/>desumptis, cum ait: Necesse est enim ut quo 
+      adjuvan<lb ed="#P" n="70" break="no"/>te vincimus, eo iterum non adjuvante vincamur. 
+      <lb ed="#P" n="71"/>Quod autem assumitur, causam antecedentis 
+      ean<lb ed="#P" n="72" break="no"/>dem esse &amp; consequentis, negari debet, &amp; falsitas ejus 
+      <lb ed="#P" n="73"/>ostenditur hoc exemplo: homo est; ergo Deus est, 
+      <lb ed="#P" n="74"/>&amp; multis aliis. Veritatem autem habet duntaxat, 
+      <!--0162.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ubi antecedens est causa consequentis. Nec illud 
+      <lb ed="#P" n="76"/>quod pro confirmatione subjicitur de removente 
+      <lb ed="#P" n="77"/>prohibens, universaliter verum est; sed ita demum fi 
+      <lb ed="#P" n="78"/>ex remotione prohibentis immediate &amp; necessario, 
+      <lb ed="#P" n="79"/>consequatur effectus, aut si causa quae removet 
+      pro<lb ed="#P" n="80" break="no"/>hibens, tenebatur effectum impedire. Quorum 
+      neu<lb ed="#P" n="81" break="no"/>trum hic reperitur. Namque ad absentiam 
+      diviniau<lb ed="#P" n="82" break="no"/>xilii non consequitur peccatum immediate &amp; 
+      neces<lb ed="#P" n="83" break="no"/>sario, si de necessitate eventus loquamur; sed 
+      me<lb ed="#P" n="84" break="no"/>diante libera voluntate ejus cui non adest illud 
+      auxi<lb ed="#P" n="85" break="no"/>lium. Neque vero tenetur Deus hujusmodi effectum 
+      <lb ed="#P" n="86"/>impedire. Quare nec moralis peccati causa, ne 
+      in<lb ed="#P" n="87" break="no"/>directa quidem dici potest. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

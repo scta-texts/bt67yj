@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="105"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k39494"><!-- l1d37c3" -->
+            <head xml:id="bt67yj-k39494-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k39494-Hd1e103" type="question-title">Quomodo Deus sit in loco, et quomodo in tempore</head>
+            <p xml:id="bt67yj-k39494-d1e106">
+               <lb ed="#P" n="128"/>§. 3. Quomodo Deus sit in loco, &amp; quomodo in tempore. 
+    </p>
+            <p xml:id="bt67yj-k39494-d1e111">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> QUm Deus sit in omnibus rebus, consequens est, 
+      <lb ed="#P" n="130"/>Ceum &amp; in loco &amp; in tempore esse; tametsi longe 
+      <lb ed="#P" n="131"/>alia ratione quam res creatae. Pro cujus rei 
+      intelligen<lb ed="#P" n="132" break="no"/>tia, ut prius de loco loquamur, considerandi sunt 
+      <lb ed="#P" n="133"/>tres modi, quibus aliquid in loco esse dicitur. 
+    </p>
+            <p xml:id="bt67yj-k39494-d1e127">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Primo enim circumscriptive dicimus quippiam 
+      <lb ed="#P" n="135"/>esse in loco, quia videlicet certo loci spatio 
+      con<lb ed="#P" n="136" break="no"/>cluditur, continetur &amp; circumscribitur, sic ut 
+      par<lb ed="#P" n="137" break="no"/>tes ejus partibus loci ac spatii respondeant, major 
+      <lb ed="#P" n="138"/>majori, minor minori. Hic modus solis competit 
+      <lb ed="#P" n="139"/>corporibus: A rebus autem incorporeis, ut anima, 
+      <lb ed="#P" n="140"/>angelo ac multo magis a Dei natura est alienus. 
+      Se<lb ed="#P" n="141" break="no"/>cundum hunc igitur modum saepenumero scripturae 
+      <lb ed="#P" n="142"/>&amp; Patres negant Deum loco contineri ut 3. Reg. 4. 
+      <!--0129.xml-->
+      <pb ed="#P" n="106"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>&amp; 2. Par. 2. in oratione Salomonis &amp; Act. 17. in 
+      ora<lb ed="#P" n="2" break="no"/>tione Pauli. Unde &amp; Eccles. canit: Quem totus non 
+      <lb ed="#P" n="3"/>capit orbis: In tua se clausit viscera factus homo; 
+      Chri<lb ed="#P" n="4" break="no"/>stus enim ut Deus nec toto orbe circumscriptive 
+      ca<lb ed="#P" n="5" break="no"/>pitur, quem tamen ut hominem circumscripsit &amp; 
+      <lb ed="#P" n="6"/>clausit uterus virginis. Ita docent Aug. lib. 8. de Gen. 
+      <lb ed="#P" n="7"/>ad lit. c. 19. &amp; lib. 83. q. q. 20. &amp; Boetius lib. 1. de 
+      <lb ed="#P" n="8"/>Trinit. Caeterum sicut Deo saepe rerum corporearum 
+      <lb ed="#P" n="9"/>nomina &amp; humani corporis membra tribuuntur 
+      me<lb ed="#P" n="10" break="no"/>taphorice, ita per translationem saepe locus ei quasi 
+      <lb ed="#P" n="11"/>circumscriptivus tribuitur, dum scriptura humano &amp; 
+      <lb ed="#P" n="12"/>carnali sensui, qui non nisi corpora &amp; corporum 
+      spa<lb ed="#P" n="13" break="no"/>tia cogitatione comprchendit, sese attemperat, ut ait 
+      <lb ed="#P" n="14"/>August. lib. 6. de Civit. cap. 7. Quo fit ut aliquando 
+      <lb ed="#P" n="15"/>stare, sedere, locum mutare, ambulare, habitare 
+      di<lb ed="#P" n="16" break="no"/>catur, quae omnia certam quandam Dei circa loca vel 
+      <lb ed="#P" n="17"/>homines praesentiam vel operationem denotant. 
+    </p>
+            <p xml:id="bt67yj-k39494-d1e196">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Secundo res in loco esse dicitur definitive, quia 
+      li<lb ed="#P" n="19" break="no"/>cet non circumscribatur loco, tamen est alicubi, sic, 
+      <lb ed="#P" n="20"/>ut alibi non sit. Hoc modo angelus in loco est. Non 
+      <lb ed="#P" n="21"/>enim sic loco continetur, ut superficies, figura, 
+      partes<lb ed="#P" n="22" break="no"/>que continentis, respondeant superficiei, figurae, 
+      par<lb ed="#P" n="23" break="no"/>tibusque contenti; sed spirituali modo in loco est 
+      qua<lb ed="#P" n="24" break="no"/>tenus adest rebus quas movet aut circa quas 
+      opera<lb ed="#P" n="25" break="no"/>tur. Hoc enim est quod dici solet spirituales 
+      substan<lb ed="#P" n="26" break="no"/>tias ibi esse ubi operantur. Agunt de hoc modo 
+      Da<lb ed="#P" n="27" break="no"/>mascenus lib. I. de fide orth. cap. 17. &amp; lib. 2. c. 3. &amp; 
+      <lb ed="#P" n="28"/>Ambrosius serm. 1. in Psal. 118. Et quoniam angeli 
+      fi<lb ed="#P" n="29" break="no"/>nitae virtutis sunt, ita ut naturaliter pluribus in locis 
+      <lb ed="#P" n="30"/>simul operari non possint; hinc non sunt nec esse 
+      pos<lb ed="#P" n="31" break="no"/>sunt naturaliter simul in pluribus locis, sed in uno 
+      <lb ed="#P" n="32"/>tantum, eoque tam magno vel parvo quantum 
+      exten<lb ed="#P" n="33" break="no"/>ditur eorum operatio. Extenditur autem illa pro 
+      ex<lb ed="#P" n="34" break="no"/>tensione corporis, circa quod fit. Neque potest 
+      exten<lb ed="#P" n="35" break="no"/>di in infinitum, etiamsi corpus daretur magnitudine 
+      <lb ed="#P" n="36"/>infinitum, quia virtus illorum non est infinita. 
+    </p>
+            <p xml:id="bt67yj-k39494-d1e242">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Tertio dicitur aliquid esse in loco eminenter. 
+      <lb ed="#P" n="38"/>Quod quidem rursus dupliciter intelligi potest, tum 
+      <lb ed="#P" n="39"/>quia loco dat esse &amp; locare seu continere; Quomodo 
+      <lb ed="#P" n="40"/>caeteris in rebus omnibus esse dicitur Deus, quia dat 
+      <lb ed="#P" n="41"/>eis esse &amp; operari, ut supra dictum est; tum etiam quia 
+      <lb ed="#P" n="42"/>locum replet, non quidem instar corporis, sed per 
+      <lb ed="#P" n="43"/>hoc quod dat esse locatis, faciatque ut sint in loco 
+      <lb ed="#P" n="44"/>eumque repleant. Hic igitur tertius modus utraque 
+      <lb ed="#P" n="45"/>ratione excellentissimus est, Deoque proprius essendi 
+      <lb ed="#P" n="46"/>in loco modus. Quem in eum quem diximus sensum 
+      <lb ed="#P" n="47"/>
+               <ref xml:id="bt67yj-k39494-Rd1e270">S. Thomas explicat 1. q. 8. art. 2</ref>. 
+    </p>
+            <p xml:id="bt67yj-k39494-d1e273">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Porro quot modis in loco, totidem &amp; in tempore 
+      <lb ed="#P" n="49"/>res esse dicitur. Aut enim aliquid est in tempore quia 
+      <lb ed="#P" n="50"/>movetur motu proprie dicto, ratione cujus tempore 
+      <lb ed="#P" n="51"/>mensuretur, ut res corporeae, aut quia mutatur 
+      secun<lb ed="#P" n="52" break="no"/>dum affectiones, ut res incorporeae, quibus aevum 
+      <lb ed="#P" n="53"/>pro mensura durationis tribuitur, aut quia 
+      immuta<lb ed="#P" n="54" break="no"/>bile, cum sit atque immensum, temporis tamen ac 
+      <lb ed="#P" n="55"/>mutationis omnis est author, facitque ut caetera 
+      om<lb ed="#P" n="56" break="no"/>nia (sub quo aevum comprehende) mensurentur. Qui 
+      <lb ed="#P" n="57"/>modus soli Deo convenit, quemadmodum recte 
+      do<lb ed="#P" n="58" break="no"/>cet Augustinus lib. 8. de Gen. ad lit. cap. 26. Eadem 
+      <lb ed="#P" n="59"/>quoque ratione recte dicitur Deus esse extra &amp; supra 
+      <lb ed="#P" n="60"/>omne tempus &amp; locum, ut eodem loco docet 
+      Augu<lb ed="#P" n="61" break="no"/>stinus; nec non Hieronymus super Isa. 40. &amp; 
+      Grego<lb ed="#P" n="62" break="no"/>rius homil. 17. super Ezech. &amp; Magister in textu. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

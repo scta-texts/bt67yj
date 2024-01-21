@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 20</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 20</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="143"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k54023"><!-- l1d40c20" -->
+            <head xml:id="bt67yj-k54023-Hd1e101">Capitulum 20</head>
+            <head xml:id="bt67yj-k54023-Hd1e103" type="question-title">Quaedam in contrarium objectiones solvuntur</head>
+            <p xml:id="bt67yj-k54023-d1e106">
+               <lb ed="#P" n="27"/>§. 20. Quaedam in contrarium objectiones solvuntur. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e111">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/>AD ea quae in contrarium objiciuntur, nunc 
+      <lb ed="#P" n="29"/>Trespondendum est, sunt autem hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e120">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Primum. Omnes justi tandem perveniunt ad 
+      glo<lb ed="#P" n="31" break="no"/>riam, juxta illud Rom. 8. quos justificavit, eos G 
+      <lb ed="#P" n="32"/>glorificavit, ergo reprobi nulli justificantur. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e132">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Secundum. Quicunque justificantur, a patre 
+      <lb ed="#P" n="34"/>Christo dantur, horum autem nullus perit, dicente 
+      <lb ed="#P" n="35"/>Domino Joan. 6. Haec est voluntas patris, ut omne 
+      <lb ed="#P" n="36"/>quod dedit mihi, non perdam ex eo. Et 17. Ut omne 
+      <lb ed="#P" n="37"/>quod dedisti mihi, det eis vitam aeternam. Et 18. Quos 
+      <lb ed="#P" n="38"/>dedistimihi non perdidi ex eis quemquam, ergo qui 
+      <lb ed="#P" n="39"/>pereunt, non fuerunt justificati. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e152">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Tertium. Christus Joan. 17. negat se orare pro 
+      <lb ed="#P" n="41"/>mundo, id est, reprobis; ergo iis non applicatur 
+      me<lb ed="#P" n="42" break="no"/>ritum passionis Christi, quare nec justificantur. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e163">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Quartum, 1. Joan. 3. dicitur: Omnis qui in Deo 
+      <lb ed="#P" n="44"/>manet, non peccat, &amp; omnis qui peccat, non vidit eum, 
+      <lb ed="#P" n="45"/>nec cognovit eum. Et iterum: Omnis qui natus est ex 
+      <lb ed="#P" n="46"/>Deo peccatum non facit, quoniam semen ipsius in eo 
+      ma<lb ed="#P" n="47" break="no"/>net, &amp; non potest peccare, quoniam ex Deo natus est. 
+      <lb ed="#P" n="48"/>Et cap. 5. Scimus quia omms qui natus est ex Deo non 
+      <lb ed="#P" n="49"/>peccat, sed generatio Dei conservat eum, &amp; malignus 
+      <lb ed="#P" n="50"/>non tangit eum. Ex quibus apparet nec praedestinatos 
+      <lb ed="#P" n="51"/>post acceptam semel justitiam seu gratiam quae 
+      se<lb ed="#P" n="52" break="no"/>men Dei est, peccare posse, nec reprobos Deum 
+      ali<lb ed="#P" n="53" break="no"/>quando cognovisse, id est, dilexisse. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e192">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Quintum, Joan. 10. Dominus ait ad Judaeos, Vos 
+      <lb ed="#P" n="55"/>non creditis, quia non estis ex ovibus meis. Oves autem 
+      <lb ed="#P" n="56"/>praedestinatos intelligit, ergo non praedestinatorum, 
+      <lb ed="#P" n="57"/>ad est, reproborum nullus credit, &amp; proinde nec 
+      ju<lb ed="#P" n="58" break="no"/>stificatur. Et ibidem: Nemo potest eas rapere de mani 
+      <lb ed="#P" n="59"/>patris mei. ergo oves, id est, praedestinati non 
+      pos<lb ed="#P" n="60" break="no"/>sunt mortaliter geccare, qui enim mortaliter 
+      pec<lb ed="#P" n="61" break="no"/>cat, de manu patris, id est gratia Dei excidit. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e214">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Sextum. Reprobos ab aeterno Deus odio habet; 
+      <lb ed="#P" n="63"/>nunquam ergo eos justificat, quia justificatio effectus 
+      <lb ed="#P" n="64"/>est amoris divini. Hoc &amp; praedestinatis e converso 
+      <lb ed="#P" n="65"/>potest accommodari. Quos ab aeterno diligit Deus, 
+      <lb ed="#P" n="66"/>ideóque nunquam deserit, quia deserere odisse 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e230">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Postremo producuntur haec loca Augustini, lib. 7. 
+      <lb ed="#P" n="68"/>de civit. capit. 1. significat omnes bonos fideles esse 
+      <lb ed="#P" n="69"/>electos. Scribens in Psal. 130. affirmat omnium 
+      bo<lb ed="#P" n="70" break="no"/>norum fidelium &amp; Christum diligentium nomina 
+      <!--0166.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>scripta esse in caelo. Tract. 14. in Joan. dicit reprobo¬ 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e251">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> rum neminem accipere testimonium Christi, lib. 5. 
+      <lb ed="#P" n="73"/>contra Jul. cap. 3. dicit quod reproborum neminem 
+      <lb ed="#P" n="74"/>adducit Deus ad poenitentiam salubrem &amp; 
+      spiritua<lb ed="#P" n="75" break="no"/>lem. lib. de perfect. just. cap. 13. dicit ad reprobos 
+      <lb ed="#P" n="76"/>pertinere illud Psalmi: Non est qui faciat bonum, non 
+      <lb ed="#P" n="77"/>est usque ad unum. Et cap. 20. significat eos solos 
+      ad<lb ed="#P" n="78" break="no"/>juvari a gratia Dei, qui secundum propositum 
+      vo<lb ed="#P" n="79" break="no"/>cati sunt, id est, praedestinatos. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e273">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Possunt huc &amp; alia multa adduci, sed ea suis locis 
+      <lb ed="#P" n="81"/>reservanda sunt, ubi de lapsis eorumque poenitentia 
+      <lb ed="#P" n="82"/>semel ac saepius iteranda agitur lib. 4. dist. 14. &amp; de 
+      <lb ed="#P" n="83"/>charitatis amissione lib. 3. dist. 31. Nam &amp; quod 
+      su<lb ed="#P" n="84" break="no"/>perius ostensum est, non omnes reprobos ob 
+      origina<lb ed="#P" n="85" break="no"/>le peccatum damnari, satis etiam probat quosdam 
+      <lb ed="#P" n="86"/>reprobos justificari, &amp; solutiones ibidem objectorum 
+      <lb ed="#P" n="87"/>huic etiam loco conducunt. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e295">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Igitur ad proposita nunc respondeamus. 
+      <lb ed="#P" n="89"/>Quod primo loco adfertur ex Apostoli scopo ita 
+      <lb ed="#P" n="90"/>supplendum est; Quoscunque praescitos seu 
+      praedile<lb ed="#P" n="91" break="no"/>ctos Deus justificavit, illos &amp; glorificavit. Vult enim 
+      <lb ed="#P" n="92"/>Apostolus omnibus ad vitam aeternam a Deo 
+      praedi<lb ed="#P" n="93" break="no"/>lectis, ab eodem suppeditari media quibus ad eam 
+      <lb ed="#P" n="94"/>perveniant, ac tandem iis ipsam conferri vitam 
+      <lb ed="#P" n="95"/>aeternam. Non negat autem quibusdam contingere 
+      <lb ed="#P" n="96"/>media nonnulla, quibus tamen ad finem non 
+      per<lb ed="#P" n="97" break="no"/>ducantur.
+    </p>
+            <p xml:id="bt67yj-k54023-d1e321">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Ad 2. respondetur peculiari quadam phrasi scriptu 
+      <lb ed="#P" n="99"/>rae solos praedestinatos dici Christo datos a patre, 
+      <lb ed="#P" n="100"/>quia ita dantur ut non pereant, sed in perpetuum 
+      <lb ed="#P" n="101"/>Christus eos habiturus sit ut suos. Quod enim 
+      peri<lb ed="#P" n="102" break="no"/>turum est, datum non censetur. Soli ergo dantur qui 
+      <lb ed="#P" n="103"/>ordinantur ad vitam aeternam teste Augustino lib. de 
+      <lb ed="#P" n="104"/>corr. &amp; gr. cap. 9. &amp; super Joannem exponente loca 
+      <lb ed="#P" n="105"/>in argumento posita: 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e343">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Ad tertium. Christus non orat pro mundo, id est, 
+      <lb ed="#P" n="107"/>pro mundi salute, sed pro his solis quos dedit ei 
+      pa<lb ed="#P" n="108" break="no"/>ter de mundo, id est, pro solis electis. Verumtamen 
+      <lb ed="#P" n="109"/>etiam gratiam &amp; justitiam ad tempus duraturam 
+      qui<lb ed="#P" n="110" break="no"/>busdam qui de mundo sunt, Christus impetrat a 
+      pa<lb ed="#P" n="111" break="no"/>tre, non propter ipsos, sed propter electos, ad quos 
+      <lb ed="#P" n="112"/>tandem omnia bona reprobis collata redeunt. Atque 
+      <lb ed="#P" n="113"/>ita etiam illa Christioratio, quasi pro reprobis facta, 
+      <lb ed="#P" n="114"/>magis prodest electis. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e367">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Quartus locus, non aliud vult quam hominem ex 
+      <lb ed="#P" n="116"/>Deo natum, id est, justum ac Dei filium, durante ea 
+      <lb ed="#P" n="117"/>filiatione sive semine gratiae Dei per quam filius est, 
+      <lb ed="#P" n="118"/>non peccare, imo nec posse peccare eo peccato, quo 
+      <lb ed="#P" n="119"/>solvatur amicitia patris &amp; jus haereditatis amittatur. 
+      <lb ed="#P" n="120"/>Hunc in modum Hieron. Joviniano hunc eundem 
+      <lb ed="#P" n="121"/>locum objicienti respondit lib. 2. contra Jov. cap. 1. 
+      <lb ed="#P" n="122"/>Quod autem addit Joannes omnem eum qui peccat, 
+      <lb ed="#P" n="123"/>non vidisse nec cognovisse Deum, praeteritum ibi 
+      <lb ed="#P" n="124"/>pro praesenti positum intelligere oportet, ut sensus 
+      <lb ed="#P" n="125"/>sit, eum qui peccat non videre Deum nec 
+      cognosce<lb ed="#P" n="126" break="no"/>re, scilicet ea visione &amp; cognitione, qua res visa &amp; 
+      <lb ed="#P" n="127"/>cognita placet atque diligitur. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e401">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Prior sententia quinto loco adducta non continet 
+      <lb ed="#P" n="129"/>consequentiam, sed rationem, &amp; hunc habet 
+      sen<lb ed="#P" n="130" break="no"/>sum: Quoniam non estis praeordinatiad vitam 
+      aeter<lb ed="#P" n="131" break="no"/>nam, ideo nec fidem vobis dare voluit pater. Cum 
+      <lb ed="#P" n="132"/>quo tamen consistit, quibusdam darifidem, qui ad 
+      <lb ed="#P" n="133"/>vitam praeordinati non sint. Quamquam potest 
+      e<lb ed="#P" n="134" break="no"/>tiam sententia de fide perseverante intelligi. 
+      Poste<lb ed="#P" n="135" break="no"/>rior autem negat oves eripi posse e manu patris, ita 
+      <lb ed="#P" n="136"/>ut pereant, &amp; ejus omnino esse desinant. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e425">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Ad 6. Reprobos odit Deus, quoad bonum vitae 
+      ae<lb ed="#P" n="138" break="no"/>ternae, quod eis statuit non dare, quorum tamen 
+      non<lb ed="#P" n="139" break="no"/>nullos diligit secundum quid, id est, secundum 
+      ali<lb ed="#P" n="140" break="no"/>quod justitiae bonum temporaneum, quod eis dare 
+      <lb ed="#P" n="141"/>constituit. Sic &amp; praedestinatos simpliciter quidem 
+      di<lb ed="#P" n="142" break="no"/>ligit, odit autem secundum quid, dum vult ad 
+      tem<lb ed="#P" n="143" break="no"/>pus eos relinquere in peccato. De qua dilectionis 
+      di<lb ed="#P" n="144" break="no"/>vinae diversitate videatur doctrina distinct. 32. lib. 3. 
+      <!--0167.xml-->
+      <pb ed="#P" n="144"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Denique ad Augustini loca postremo adducta 
+      res<lb ed="#P" n="2" break="no"/>pondendum est. Et quidem primo loco non dicit 
+      om<lb ed="#P" n="3" break="no"/>nes bonos fideles esse electos, sed merito electos 
+      nun<lb ed="#P" n="4" break="no"/>cupari scilicet propter fiduciam, quam ex eo quia 
+      <lb ed="#P" n="5"/>bonos esse videmus, merito de iis concipere 
+      debe<lb ed="#P" n="6" break="no"/>mus, juxta illud quod dicit Apostolus ad Phil. 1. 
+      Con<lb ed="#P" n="7" break="no"/>fidens hic ipsum, quia qui coepit in vobis opus bonum, 
+      <lb ed="#P" n="8"/>perficiet usque in diem Christi Jesu, sicut est mihi 
+      ju<lb ed="#P" n="9" break="no"/>stum, hoc sentire pro omnibus vobis. Et hac fiducia 
+      <lb ed="#P" n="10"/>quique boni fideles olim salutabantur electi, ut 
+      vi<lb ed="#P" n="11" break="no"/>dere est in epistolis Apostolicis. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e477">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Quod 2. loco dicit, intelligendum secundum 
+      prae<lb ed="#P" n="13" break="no"/>sentem justitiam non secundum praedestinationem, 
+      <lb ed="#P" n="14"/>quomodo recte intelligitur &amp; illud Christi ad 72. 
+      dis<lb ed="#P" n="15" break="no"/>cipulos Lucae 10. Gaudete quod nomina vestra scripta 
+      <lb ed="#P" n="16"/>sunt in caelis. Non enim existimandum est Christum 
+      <lb ed="#P" n="17"/>eis suam praedestinationem illis verbis revelasse, cum 
+      <lb ed="#P" n="18"/>nec Apostolis eam revelatam fuisse constet, nisi forte 
+      <lb ed="#P" n="19"/>brevi tempore ante mortem ipsorum. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e499">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Tertius locus negat reproborum quemquam 
+      acci<lb ed="#P" n="21" break="no"/>pere Christi testimonium perseveranter, 
+      quemad<lb ed="#P" n="22" break="no"/>modum ipse se Augustinus explicat. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e510">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Quartus a reprobis removet poenitentiam non 
+      <lb ed="#P" n="24"/>quamcunque sed salubrem, id est, talem ex qua 
+      sa<lb ed="#P" n="25" break="no"/>lutis effectus tandem consequatur. Non enim 
+      dici<lb ed="#P" n="26" break="no"/>mus medicinam salubrem fuisse ei, qui ex ea non 
+      fue<lb ed="#P" n="27" break="no"/>rit sanatus. Quod autem est sanitas temporalis 
+      respe<lb ed="#P" n="28" break="no"/>ctu medecinae, hoc est salus aeterna respectu 
+      poeni<lb ed="#P" n="29" break="no"/>tentiae. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e530">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Quintus similiter de bono salutari, id est ad 
+      salu<lb ed="#P" n="31" break="no"/>tem perducente intelligatur. 
+    </p>
+            <p xml:id="bt67yj-k54023-d1e540">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Ultimus autem locus non habet exclusivam 
+      vocu<lb ed="#P" n="33" break="no"/>lam solum, sed dicit hominem adjuvari si secundum 
+      <lb ed="#P" n="34"/>propositum vocatus est, quia de praedestinatis 
+      indu<lb ed="#P" n="35" break="no"/>bitanter verum est, eos omnes adjuvari, non item 
+      <lb ed="#P" n="36"/>de aliis omnibus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="25"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k09136"><!-- l1d5c3" -->
+            <head xml:id="bt67yj-k09136-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k09136-Hd1e103" type="question-title">Declaratio erroris <name xml:id="bt67yj-k09136-Nd1e105">Abbatis Joachim</name> cum ejus 
+      refutatione</head>
+            <p xml:id="bt67yj-k09136-d1e108">
+               <lb ed="#P" n="66"/>§. 3. Declaratio erroris <name xml:id="bt67yj-k09136-Nd1e112">Abbatis Joachim</name> cum ejus 
+      <lb ed="#P" n="67"/>refutatione.
+    </p>
+            <p xml:id="bt67yj-k09136-d1e117">
+               <lb ed="#P" n="68"/>DOctrinam Magistri supra positam usque adeo 
+      <lb ed="#P" n="69"/>D insectatus fuit edito libello quidam Abbas 
+      <lb ed="#P" n="70"/>Joachim, ut illum haereticum &amp; insanum vocaret; 
+      <lb ed="#P" n="71"/>propterea quod doceret patrem &amp; filium &amp; 
+      spiri<lb ed="#P" n="72" break="no"/>tum sanctum esse rem quandam summam, quae 
+      ta<lb ed="#P" n="73" break="no"/>men neque esset generans, neque genita, neque 
+      <lb ed="#P" n="74"/>procedens. Unde dicebat Magistrum non tam tri¬ 
+      <!--0048.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>nitatem quam quaternitatem ponere in Deo, 
+      vide<lb ed="#P" n="76" break="no"/>licet tres personas, &amp; illam communem essentiam 
+      <lb ed="#P" n="77"/>quasi quartam. Ipse vero contra docebat nullam esse 
+      <lb ed="#P" n="78"/>rem quae sit pater &amp; filius &amp; spiritus sanctus; neque 
+      <lb ed="#P" n="79"/>tres personas esse unam essentiam vel substantiam 
+      <lb ed="#P" n="80"/>vel naturam, nisi unitate impropria &amp; quasi 
+      colle<lb ed="#P" n="81" break="no"/>ctiva &amp; similitudinaria, quemadmodum multi 
+      ho<lb ed="#P" n="82" break="no"/>mines dicuntur unus populus, &amp; multi fideles una 
+      <lb ed="#P" n="83"/>Ecclesia. Utebatur autem ad id probandum his 
+      scri<lb ed="#P" n="84" break="no"/>pturae testimoniis: Multitudinis credentium erat cor 
+      <lb ed="#P" n="85"/>unum &amp; anima una. Act. 4. Qui adhaeret Domino. 
+      <lb ed="#P" n="86"/>unus spiritus est. 1. Cor. 6. Qui plantat &amp; qui rigat 
+      <lb ed="#P" n="87"/>unum sunt. 1. Cor. 3. Multi unum corpus sumus in 
+      Chri<lb ed="#P" n="88" break="no"/>sto. Rom. 12. Populus meus &amp; populus tuus unum sunt. 
+      <lb ed="#P" n="89"/>3. Regum 22. Potissimum vero urgebat illud Christi 
+      <lb ed="#P" n="90"/>in Evangelio Joan. 17. pro electis patrem orantis, 
+      <lb ed="#P" n="91"/>ut sint unum, sicut &amp; nos. Et iterum: Ut omnes unum 
+      <lb ed="#P" n="92"/>sint, sicut tu pater in me, &amp; ego in te, ut &amp; ipsi in nobis 
+      <lb ed="#P" n="93"/>unum sint. Et iterum: Ut sint unum, sicut &amp; nos unum 
+      <lb ed="#P" n="94"/>sumus, ut sint consummati in unum. Postremo 
+      profe<lb ed="#P" n="95" break="no"/>rebat illud 1. Joan. 6. Tres sunt qui testimonium dant 
+      <lb ed="#P" n="96"/>in coelo pater, verbum, &amp; spiritus sanctus. Et hi tres 
+      <lb ed="#P" n="97"/>unum sunt. Et tres sunt qui testimonium dant in terra, 
+      <lb ed="#P" n="98"/>spiritus, aqua &amp; sanguis. Et hi tres unum sunt. Ex his 
+      <lb ed="#P" n="99"/>igitur ostensum putabat, tres personas non aliter 
+      <lb ed="#P" n="100"/>esse rem unam, quam quomodo caetera jam 
+      memo<lb ed="#P" n="101" break="no"/>rata unum esse dicuntur, praesertim cum aliqua ex 
+      <lb ed="#P" n="102"/>illis, in comparationem rei propositae ipsa scriptura 
+      <lb ed="#P" n="103"/>adhibuerit. Hunc errorem cum libello ad ejus 
+      de<lb ed="#P" n="104" break="no"/>fensionem conscripto damnavit Synodus 
+      Latera<lb ed="#P" n="105" break="no"/>nensis sub Innoc. 3. cujus decretum habetur extra 
+      <lb ed="#P" n="106"/>de summa trinitate &amp; fide Catholica cap. 
+      Damna<lb ed="#P" n="107" break="no"/>mus. In quo idem error docte refutatur &amp; 
+      Catholi<lb ed="#P" n="108" break="no"/>ca veritas perspicue declaratur. Negat autem 
+      syno<lb ed="#P" n="109" break="no"/>dus quaternitatem a Magistro constitui in Deo, 
+      <lb ed="#P" n="110"/>quia divinae personae non sunt ab essentia divina 
+      di<lb ed="#P" n="111" break="no"/>stinctae, sed quaelibet illarum trium est res illa 
+      sum<lb ed="#P" n="112" break="no"/>ma, quam dicimus essentiam divinam. Quae tamen 
+      <lb ed="#P" n="113"/>res non est generans, neque genita, neque procedens, 
+      <lb ed="#P" n="114"/>sed est pater generans, &amp; filius qui generatur, &amp; 
+      <lb ed="#P" n="115"/>spiritus sanctus qui procedit, ut distinctiones sint in 
+      <lb ed="#P" n="116"/>personis, &amp; unitas in natura. 
+    </p>
+            <p xml:id="bt67yj-k09136-d1e230">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Caeterum ad loca scripturae quibus author ille 
+      ni<lb ed="#P" n="118" break="no"/>tebatur non est difficile respondere juxta ea quae 
+      <lb ed="#P" n="119"/>respondet ipsa synodus. Nam prima quinque 
+      pro<lb ed="#P" n="120" break="no"/>bant quidem in scripturis interdum plura dici 
+      u<lb ed="#P" n="121" break="no"/>num improprie, scilicet consensu, sine, similitudine, 
+      <lb ed="#P" n="122"/>collectione, sed non probant tres personas divinas 
+      <lb ed="#P" n="123"/>eo tantum unitatis modo dici unam rem atque 
+      sub<lb ed="#P" n="124" break="no"/>stantiam: Imo cum Deus non sit vocabulum 
+      colle<lb ed="#P" n="125" break="no"/>ctivum, sicut populus, corpus, Ecclesia &amp; similia, 
+      <lb ed="#P" n="126"/>sed unius perfectissimae ideoque simplicissimae 
+      na<lb ed="#P" n="127" break="no"/>turae significativum, multo minus dici potest tres 
+      <lb ed="#P" n="128"/>personas divinas esse unum Deum collectione, 
+      <lb ed="#P" n="129"/>quam tres personas humanas esse unum hominem; 
+      <lb ed="#P" n="130"/>quod tamen non nisi valde improprie diceretur, 
+      si<lb ed="#P" n="131" break="no"/>cut &amp; improprie plures dicuntur unus homo 
+      pro<lb ed="#P" n="132" break="no"/>pter consensum, finem, aut similitudinem. Ac 
+      con<lb ed="#P" n="133" break="no"/>tra potius, sicut tres humanae personae 
+      quantumli<lb ed="#P" n="134" break="no"/>bet inter se consentientes &amp; similes, propriissime 
+      <lb ed="#P" n="135"/>vocantur tres homines; ita secundum dictam 
+      opi<lb ed="#P" n="136" break="no"/>nionem propriissime dicendum esset tres divinas 
+      <lb ed="#P" n="137"/>personas esse trea Deos; quod est a Christiana fide 
+      <lb ed="#P" n="138"/>alienissimum. 
+    </p>
+            <p xml:id="bt67yj-k09136-d1e283">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Ad eam comparationem quae ex verbis Christi 
+      <lb ed="#P" n="140"/>profertur, hanc indicat responsionem synodus 
+      La<lb ed="#P" n="141" break="no"/>teranensis. Quando a divinis ad humanas res 
+      decla<lb ed="#P" n="142" break="no"/>randas petuntur similitudines, eas accipiendas esse 
+      <lb ed="#P" n="143"/>pro modo &amp; conditione rerum, quae hinc inde 
+      in<lb ed="#P" n="144" break="no"/>ter se comparantur: nimirum accipiendo divina, 
+      <lb ed="#P" n="145"/>divino &amp; perfecto modo, humana humano modo 
+      <lb ed="#P" n="146"/>&amp; imperfecto, verbi gratia dicit Dominus Math. 5. 
+      <lb ed="#P" n="147"/>Estote perfecti sicut &amp; pater vester caelestis perfectus est, 
+      <lb ed="#P" n="148"/>cum tamen Deus per naturam perfectus sit, homo 
+      <lb ed="#P" n="149"/>tantum per gratiam &amp; Dei perfectio omnem im¬ 
+      <!--0049.xml-->
+      <pb ed="#P" n="26"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>perfectionem excludit, non ita perfectio hominis. 
+      <lb ed="#P" n="2"/>Sic quoque dicit srequenter Dominus in Levitico. 
+      <lb ed="#P" n="3"/>Sancti estote quoniam ego sanctus sum. Sic igitur &amp; de 
+      <lb ed="#P" n="4"/>unitate sentiendum. Orat enim Christus ut fideles 
+      <lb ed="#P" n="5"/>unum sint unione charitatis, sicut ipse cum patre 
+      <lb ed="#P" n="6"/>unum est unitate naturae. Nam &amp; eodem loco ait 
+      <lb ed="#P" n="7"/>Dominus: Et ego claritatem seu gloriam, quam dedisti 
+      <lb ed="#P" n="8"/>mihi, dedi eis. Cum inter gloriam filii naturalis &amp; 
+      <lb ed="#P" n="9"/>gloriam adoptivi maximam esse constet 
+      differen<lb ed="#P" n="10" break="no"/>tiam. Quemadmodum igitur non ejusdem rationis 
+      <lb ed="#P" n="11"/>est claritas filii naturalis &amp; adoptivi, ita nec 
+      ejus<lb ed="#P" n="12" break="no"/>dem rationis unitas fidelium inter se, &amp; filii cum 
+      <lb ed="#P" n="13"/>patre, sed utraque suo modo sunt intelligenda, 
+      fit<lb ed="#P" n="14" break="no"/>que in illis comparatio unius cum altero duntaxat 
+      <lb ed="#P" n="15"/>secundum analogiam quandam, qua magnis 
+      compo<lb ed="#P" n="16" break="no"/>nere parva solemus, &amp; perfectis imperfecta; Quod 
+      <lb ed="#P" n="17"/>maxime locum habere necesse est, ubi divinis 
+      com<lb ed="#P" n="18" break="no"/>parantur humana, quia ut in eodem synodi decreto 
+      <lb ed="#P" n="19"/>dicitur, inter creatorem &amp; creaturam, non potest 
+      <lb ed="#P" n="20"/>tanta similitudo notari, quin inter eos major sit 
+      dis<lb ed="#P" n="21" break="no"/>similitudo notanda. 
+    </p>
+            <p xml:id="bt67yj-k09136-d1e364">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Ad postremum eadem valet responsio: Sicut 
+      <lb ed="#P" n="23"/>enim in priori sententia naturae unitas, ita in 
+      po<lb ed="#P" n="24" break="no"/>steriori unitas seu consensus testimonii significatur. 
+      <lb ed="#P" n="25"/>Quamquam etiam responderi potest illud secundo 
+      <lb ed="#P" n="26"/>loco positum, Et hi tres unum sunt, non in 
+      omni<lb ed="#P" n="27" break="no"/>bus, sed tantum, ut ibidem synodus loquitur, in 
+      <lb ed="#P" n="28"/>quibusdam codicibus inveniri. Nam &amp; in Graecis 
+      <lb ed="#P" n="29"/>quibusdam omnino non legitur; In quibus autem 
+      <lb ed="#P" n="30"/>legitur adjectam habet praepositionem hoc modo: 
+      <lb ed="#P" n="31"/>Et tres ad unum sunt. Qua lectione satis datur 
+      in<lb ed="#P" n="32" break="no"/>telligi, aliter haec tria, aliter tria superiora unum 
+      <lb ed="#P" n="33"/>esse, haec, testimonii ratione, quia unius rei 
+      perhi<lb ed="#P" n="34" break="no"/>bent testimonium; hoc enim significatur cum 
+      di<lb ed="#P" n="35" break="no"/>citur: ad unum sunt, id est ad unum &amp; idem 
+      signi<lb ed="#P" n="36" break="no"/>ficandum conveniunt; illa vero unum natura &amp; 
+      <lb ed="#P" n="37"/>substantia, de quibus proinde propriissime dicitur: 
+      <lb ed="#P" n="38"/>Et hi tres unum sunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

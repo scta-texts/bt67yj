@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="36"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k13320"><!-- l1d8c8" -->
+            <head xml:id="bt67yj-k13320-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-k13320-Hd1e103" type="question-title">Dei naturam esse perfecte simplicem</head>
+            <p xml:id="bt67yj-k13320-d1e106">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> §. 8. Dei naturam esse perfecte simplicem. 
+    </p>
+            <p xml:id="bt67yj-k13320-d1e113">
+               <lb ed="#P" n="87"/>QUoniam incommutabilitas divinae naturae, 
+      ne<lb ed="#P" n="88" break="no"/>cessario sequitur perfectam ejus simplicitatem; 
+      <lb ed="#P" n="89"/>siquidem, ut Aug. lib. II. de Civitate Deic. 10. ideo 
+      <lb ed="#P" n="90"/>Deus est bonum incommutabile, quia est bonum 
+      <lb ed="#P" n="91"/>simplex: hinc de ejus simplicitate restat nunc ut 
+      aga<lb ed="#P" n="92" break="no"/>mus. Est igitur Deus ac divina natura omnino &amp; 
+      per<lb ed="#P" n="93" break="no"/>fectissime simplex, id est, omnis compositionis 
+      ex<lb ed="#P" n="94" break="no"/>pers. Quod quidem inductione per singula 
+      compo<lb ed="#P" n="95" break="no"/>sitionis genera potest ostendi. Nam simplicitas 
+      com<lb ed="#P" n="96" break="no"/>positioni opponitur. Quare simplicissimum id esse 
+      <lb ed="#P" n="97"/>oportet, a quo omnis compositio removetur. 
+    </p>
+            <p xml:id="bt67yj-k13320-d1e139">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Prima &amp; notissima est compositio totius integri 
+      <lb ed="#P" n="99"/>ex partibus integrantibus, seu quantitavis, ut 
+      lo<lb ed="#P" n="100" break="no"/>quuntur. 
+    </p>
+            <p xml:id="bt67yj-k13320-d1e151">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Secunda est compositio alicujus ex materia &amp; 
+      for<lb ed="#P" n="102" break="no"/>ma. Quae duae compositiones tantum earum sunt 
+      re<lb ed="#P" n="103" break="no"/>rum, quae corporeae sunt ac materiales. Deus autem 
+      <lb ed="#P" n="104"/>non est corpus sed spiritus Joan. 4. &amp; 2. Cor. 3. Quod 
+      <lb ed="#P" n="105"/>&amp; rationibus optime probat S. Thomas 1. q. 3. art. 2. 
+      <lb ed="#P" n="106"/>Nam &amp; creaturae non omnes corporeae sunt, sed 
+      <lb ed="#P" n="107"/>quaedam quantitatis &amp; materiae expertes &amp; proinde 
+      <lb ed="#P" n="108"/>simplices quo ad utramque hanc compositionem, ut 
+      <lb ed="#P" n="109"/>angelus &amp; anima rationalis. Quare crasso in errore 
+      <lb ed="#P" n="110"/>versati sunt olim Anthropomorpnitae, qui ex 
+      scriptu<lb ed="#P" n="111" break="no"/>ris male intellectis, Deum corporeum esse, 
+      huma<lb ed="#P" n="112" break="no"/>nam effigiem gerere, &amp; membris tanquam humani 
+      <lb ed="#P" n="113"/>corporis constare putaverunt. De quibus videre est 
+      <lb ed="#P" n="114"/>Epiph. &amp; Aug. tractantes de haeresibus, &amp; in historia 
+      <lb ed="#P" n="115"/>Eccl. Socrat. lib. 6. c. 7. &amp; <name xml:id="bt67yj-k13320-Nd1e187">Sozomen.</name> lib. 8. c. 12. Sed 
+      <lb ed="#P" n="116"/>eam haeresim tanquam nimis absurdam &amp; operosa 
+      <lb ed="#P" n="117"/>discussione indignam, tacito consensu jam olim 
+      Ec<lb ed="#P" n="118" break="no"/>clesia condemnavit. 
+    </p>
+            <p xml:id="bt67yj-k13320-d1e197">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Tertia compositio est ex subjecto &amp; accidente, 
+      <lb ed="#P" n="120"/>cujuscunque generis sit illud accidens, sive 
+      quan<lb ed="#P" n="121" break="no"/>tum, sive quale, sive relativum. Haec quoque a Deo 
+      <lb ed="#P" n="122"/>aliena est. Arguit enim imperfectionem tam subjecti 
+      <lb ed="#P" n="123"/>quod ab accidente velut accessoriam perfectionem 
+      <lb ed="#P" n="124"/>mutuetur, quam ipsius accidentis quod propterea 
+      <lb ed="#P" n="125"/>semper imperfectum convincitur, quia esse ejus 
+      sem<lb ed="#P" n="126" break="no"/>per a subjecto dependet; atqui in Deo nihil est 
+      im<lb ed="#P" n="127" break="no"/>perfectum. Cum ergo Deo sapientiam, justitiam, 
+      <lb ed="#P" n="128"/>bonitatem &amp; caetera his similia tribuimus, rem unam 
+      <lb ed="#P" n="129"/>dicimus diversis nominibus, quia res una eademque 
+      <lb ed="#P" n="130"/>simplicissima, quae est Dei essentia, omnem 
+      perfe<lb ed="#P" n="131" break="no"/>ctionem in se complectitur. De qua re latius disserit 
+      <lb ed="#P" n="132"/>Augustinus lib. 6. de trinitate cap. 6. &amp; 7. 
+    </p>
+            <p xml:id="bt67yj-k13320-d1e232">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Quarta compositio est ex natura &amp; supposito quae 
+      <lb ed="#P" n="134"/>&amp; ipsa a Deo removenda est, in quo una eademque 
+      <lb ed="#P" n="135"/>res est natura &amp; persona quae naturam habet. 
+      Quem<lb ed="#P" n="136" break="no"/>admodum definitum est in Conc. Lateran. sub 
+      In<lb ed="#P" n="137" break="no"/>noc. 3. Quod sane nisi fateamur, quaternitatem in 
+      <lb ed="#P" n="138"/>Deo agnoscere oporteret; videlicet tres personas &amp; 
+      <lb ed="#P" n="139"/>naturam ab iis diversam. Quod autem in creaturis 
+      <lb ed="#P" n="140"/>natura sit a supposito distincta, satis ostenditur ex 
+      <lb ed="#P" n="141"/>mysterio incarnationis filii Dei, quem secundum 
+      fi<lb ed="#P" n="142" break="no"/>dem Catholicam credimus naturam assumpsisse 
+      hu<lb ed="#P" n="143" break="no"/>manam, personam vero negamus: Et quia quod in 
+      <lb ed="#P" n="144"/>humana natura factum est, fieri etiam potuit in 
+      an<lb ed="#P" n="145" break="no"/>gelica; hinc consequens apparet etiam in angelis, a 
+      <lb ed="#P" n="146"/>supposito naturam revera distingui; licet dissentire 
+      <lb ed="#P" n="147"/>videatur S. Th. I. qu. 3. art. 3. De hac Dei simplicitate 
+      <lb ed="#P" n="148"/>expressa est doctrina Cyrilli lib. 6. thesauri c. 8. 
+      <!--0060.xml-->
+      <pb ed="#P" n="37"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quinta compositio est generis &amp; differentiae; quam A 
+      <lb ed="#P" n="2"/>logicam compositionem vocant. Hanc autem in Deo 
+      <lb ed="#P" n="3"/>non habere locum ex eo monstratur, quia Deus in 
+      <lb ed="#P" n="4"/>nullo rerum genere collocatur, ut infra docebimus. 
+    </p>
+            <p xml:id="bt67yj-k13320-d1e286">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Sextum denique compositionis genus est, quo 
+      <lb ed="#P" n="6"/>concurrunt in eadem re essentia &amp; esse. Quae duo non 
+      <lb ed="#P" n="7"/>sola ratione, sed etiam reipsa in unaquaque re creata 
+      <lb ed="#P" n="8"/>distinguuntur, perinde atque actus &amp; potentia; at 
+      <lb ed="#P" n="9"/>in Deo prorsus idem est essentia &amp; esse. Nam si 
+      di<lb ed="#P" n="10" break="no"/>stinguerentur, consequens esset duo esse distincta 
+      <lb ed="#P" n="11"/>eaque increata rerum principia; quod est contra 
+      fi<lb ed="#P" n="12" break="no"/>dem Catholicam. Hunc compositionis modum a 
+      <lb ed="#P" n="13"/>Deo removet Hilarius lib. 7. de trin. non procul ab 
+      <lb ed="#P" n="14"/>initio, sic inquiens: Esse non est accidens Deo sed 
+      sub<lb ed="#P" n="15" break="no"/>sistens veritas, &amp;c. Generaliter autem ad 
+      excluden<lb ed="#P" n="16" break="no"/>dum a Deo cujuscunque generis compositionem, 
+      fa<lb ed="#P" n="17" break="no"/>ciunt ea testimonia patrum, quae postremo parag. a 
+      <lb ed="#P" n="18"/>Magistro recitantur. Porro alias rationes perfectam 
+      <lb ed="#P" n="19"/>Dei simplicitatem monstrantes, vide apud Sanctum 
+      <lb ed="#P" n="20"/>Thom. 1. q. 3. art. 7. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

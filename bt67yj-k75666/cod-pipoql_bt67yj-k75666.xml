@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="200"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k75666"><!-- l1d46c6" -->
+            <head xml:id="bt67yj-k75666-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k75666-Hd1e103" type="question-title">Aliae consimiles scripturae breviter explicantur</head>
+            <p xml:id="bt67yj-k75666-d1e106">
+               <lb ed="#P" n="34"/>§. 6. Aliae consimiles scripturae breviter explicantur.
+    </p>
+            <p xml:id="bt67yj-k75666-d1e111">
+               <lb ed="#P" n="35"/>PRaeter duas jam explicatas sententias, sunt &amp; 
+      <lb ed="#P" n="36"/>Taliae similes in scriptura tam veteris, quam novi 
+      <lb ed="#P" n="37"/>testamenti, quae significant Deum aliquid velle, aut 
+      <lb ed="#P" n="38"/>voluisse, quod non sit factum. Quarum jam ex supra 
+      <lb ed="#P" n="39"/>dictis facilior erit explicatio. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e124">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Prima. 2. Pet. 3. <quote xml:id="bt67yj-k75666-Qd1e130">Patienter agit Dominus propter vos, 
+      <lb ed="#P" n="41"/>nolens aliquos perire, sed omnes ad poenitentiam 
+      rever<lb ed="#P" n="42" break="no"/>ti</quote>. Quae sententia probabiliter accipi potest eo modo, 
+      <lb ed="#P" n="43"/>quo a Paulo dictum est, Deum velle omnes salvos 
+      fie<lb ed="#P" n="44" break="no"/>ri, secundum duas postremas expositiones. 
+      Quam<lb ed="#P" n="45" break="no"/>quam alii malunt de solis electis exponere &amp; 
+      absolu<lb ed="#P" n="46" break="no"/>tam intelligere voluntatem, hoc modo: Patientes 
+      <lb ed="#P" n="47"/>agit Deus propter vos, id est, propter electos; nolens 
+      <lb ed="#P" n="48"/>electorum aliquos perire, sed omnes electos ad 
+      poe<lb ed="#P" n="49" break="no"/>nitentiam reverti. Quasi dicat, Christus differt 
+      ad<lb ed="#P" n="50" break="no"/>ventum suum gloriosum propter electos ut eorum 
+      <lb ed="#P" n="51"/>numerus compleatur. Sic Paulus omnia se sustinere 
+      <lb ed="#P" n="52"/>dicit propter electos, ut &amp; ipsi salutem consequantur 
+      <lb ed="#P" n="53"/>2. Tim. 2. Quomodo autem differtur adventus 
+      Do<lb ed="#P" n="54" break="no"/>mini propter electos, ita &amp; dies tribulationum 
+      bre<lb ed="#P" n="55" break="no"/>viantur propter electos Matth. 24. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e167">
+               <lb ed="#P" n="56"/>Secunda. Matth. 18. Sic non est voluntas ante patrem 
+      <lb ed="#P" n="57"/>vestrum qui in caelis, ut pereat unus de pusillis istis. Haec 
+      <lb ed="#P" n="58"/>quoque sententia, sicut praecedens, recte de electis 
+      <lb ed="#P" n="59"/>intelligitur qui in scriptura pusilli &amp; pusillus grex 
+      vo<lb ed="#P" n="60" break="no"/>cantur. Potest etiam sic intelligi, ut nolle dicatur 
+      <lb ed="#P" n="61"/>Deus, quia cordibus piorum hanc inspirat 
+      volunta<lb ed="#P" n="62" break="no"/>tem, qua voluit neminem praesertim pusillorum, id 
+      <lb ed="#P" n="63"/>est, humilium qui in Christum credunt, perire, sed 
+      <lb ed="#P" n="64"/>omnes salvari. Unde &amp; de Christo dicitur, quod 
+      li<lb ed="#P" n="65" break="no"/>num fumigans non extinguet &amp; calamum quassatum 
+      <lb ed="#P" n="66"/>confringet. Matth. 12. Est autem in hac sententia 
+      <lb ed="#P" n="67"/>notandum, quum dicitur, non esse voluntatem Dei 
+      <lb ed="#P" n="68"/>ut pereat quisquam de pusillis, e contrario, 
+      significa<lb ed="#P" n="69" break="no"/>ri voluntatem ejus esse ut pereant superbi, qui 
+      no<lb ed="#P" n="70" break="no"/>lunt captivare intellectum in obsequium fidei Christi. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e202">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Tertia. Ezech. 18. &amp; 32. Nolo mortem peccatoris, sed 
+      <!--0223.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ut convertatur &amp; vivat. Hoc vel de voluntate Dei 
+      <lb ed="#P" n="73"/>antecedente intelligendum est juxta tertiam Paulinae 
+      <lb ed="#P" n="74"/>sententiae expositionem; vel de voluntate quam in 
+      <lb ed="#P" n="75"/>piis operatur, juxta sextam; vel de voluntate signi, 
+      <lb ed="#P" n="76"/>juxta septimam. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e224">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Quarta. 2. Regum 14. Nec vult Deus perire 
+      ani<lb ed="#P" n="78" break="no"/>mam, sed retractat, cogitans ne penitus pereat, qui 
+      <lb ed="#P" n="79"/>abjectus est. Verba sunt, non scripturae sed mulieris 
+      <lb ed="#P" n="80"/>sapientis loquentis ad regem, quae tamen tribus 
+      mo<lb ed="#P" n="81" break="no"/>dis iam dictis convenienter intelliguntur. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e240">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Quinta. Isa. 28. ubi irasci &amp; punire vocatur opus 
+      <lb ed="#P" n="83"/>alienum &amp; peregrinum a Domino, quasi contrarium 
+      <lb ed="#P" n="84"/>ejus voluntati. Quod rectissime dicitur, quia Deus 
+      <lb ed="#P" n="85"/>non intendit punitionem, neque damnationem 
+      ali<lb ed="#P" n="86" break="no"/>cujus, nisi ex suppositione praevisi peccati. 
+      Insinua<lb ed="#P" n="87" break="no"/>tur ergo voluntas Dei antecedens secundum quam 
+      <lb ed="#P" n="88"/>punire &amp; percutere opus est ab ipso alienum
+    </p>
+            <p xml:id="bt67yj-k75666-d1e260">
+               <lb ed="#P" n="89"/>Sexta. Isa. 42. Dominus voluit ut sanctificaret 
+      <lb ed="#P" n="90"/>cum. Ipse autem populus direptus &amp; vastatus. Recte 
+      <lb ed="#P" n="91"/>intelligitur de voluntate signi, quae consideratur in 
+      <lb ed="#P" n="92"/>praeceptis, aliisque externis ad illius populi 
+      sancti<lb ed="#P" n="93" break="no"/>ficationem ordinatis adminiculis. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e273">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Septima. Ezech. 24. Mundare te volui &amp; non es 
+      <lb ed="#P" n="95"/>mundata a sordibus tuis. Hoc quoque eodem sensu 
+      di<lb ed="#P" n="96" break="no"/>ctum esse docent ea quae proxime praecedunt. Multo 
+      <lb ed="#P" n="97"/>labore, inquit, sudatum est, &amp; non exivit de ea nimia 
+      <lb ed="#P" n="98"/>rubigo ejus ne quidem per ignem. Unde patet intelligi 
+      <lb ed="#P" n="99"/>labores prophetarum voluntatem Dei 
+      annuncian<lb ed="#P" n="100" break="no"/>tium, &amp; ignem tribulationis. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e294">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Octava. Oscae 7. Cum sanare vellem Israel, 
+      reve<lb ed="#P" n="102" break="no"/>lata est iniquitas Ephraim &amp; malitia Samariae. Idem 
+      <lb ed="#P" n="103"/>sensus est. Significat enim Dominus populum 
+      Israe<lb ed="#P" n="104" break="no"/>liticum per exhortationes prophetarum, quos ad 
+      il<lb ed="#P" n="105" break="no"/>lum misit, &amp; per alia remedia peccatis eorum 
+      adhi<lb ed="#P" n="106" break="no"/>bita, adeo non esse sanatum, ut etiam deterior 
+      <lb ed="#P" n="107"/>evaserit, juxta illud Apostoli: Cum venisset 
+      manda<lb ed="#P" n="108" break="no"/>tum, peccatum revixit, Rom. 7. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e316">
+               <lb ed="#P" n="109"/>Nona. Deut. 5. Quis det eos talem habere mentem ut 
+      <lb ed="#P" n="110"/>timeant me &amp; custodiant umversa mandata mea? &amp;c.
+    </p>
+            <p xml:id="bt67yj-k75666-d1e323">
+               <lb ed="#P" n="111"/>Decima. Deut. 10. Quid Dominus Deus tuus petii 
+      <lb ed="#P" n="112"/>a te, nisi ut timeas Deminum Deum tuum &amp; ambules 
+      <lb ed="#P" n="113"/>in viis ejus? &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e332">
+               <lb ed="#P" n="114"/>Undecima. Deut. 32. Utinam saperent &amp; 
+      intellige<lb ed="#P" n="115" break="no"/>rent, ac novissima providerent. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e339">
+               <lb ed="#P" n="116"/>Duodecima. Isa. 48. Utinam attendisses mandata 
+      <lb ed="#P" n="117"/>mea. Hae optationes seu desideria figurato sermone 
+      <lb ed="#P" n="118"/>Deo tribuuntur, sicut affectus irae, misericordiae, 
+      poe<lb ed="#P" n="119" break="no"/>nitentiae &amp; similes. Unde sicut dicitur Deus irasci, 
+      <lb ed="#P" n="120"/>quando facit quae solent homines irati, id est, 
+      mina<lb ed="#P" n="121" break="no"/>tur, punit, vindicat, &amp; sic de aliis; ita dicitur optare 
+      <lb ed="#P" n="122"/>&amp; desiderare, quoniam facit opera similia his, quae 
+      <lb ed="#P" n="123"/>facere solent homines optantes &amp; desiderantes. Sicut 
+      <lb ed="#P" n="124"/>enim pater desiderans filium habere doctum &amp; 
+      pro<lb ed="#P" n="125" break="no"/>bum, diligenter eum institui curat; ita Deus 
+      diligen<lb ed="#P" n="126" break="no"/>ter instituens populum suum praeceptis, &amp; mittens 
+      <lb ed="#P" n="127"/>eis doctores &amp; prophetas aliaque his similia faciens 
+      <lb ed="#P" n="128"/>dicitur optare &amp; desiderare, ut populus suus sapiat &amp; 
+      <lb ed="#P" n="129"/>intelligat &amp; mandata ipsius custodiat. Significatur 
+      <lb ed="#P" n="130"/>ergo his sententiis voluntas Dei optativa, id est, 
+      vo<lb ed="#P" n="131" break="no"/>luntas signi quatenus in praeceptis, monitis, 
+      promis<lb ed="#P" n="132" break="no"/>sis, comminationibus, aliisque similibus quibus 
+      ho<lb ed="#P" n="133" break="no"/>mines solent ad bonum dirigi, consistit. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e381">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> His accedunt scripturae quae Deo tribuunt 
+      patien<lb ed="#P" n="135" break="no"/>tiam, longanimitatem, expectationem. Ut Rom. 2. 
+      <lb ed="#P" n="136"/>An divitias bonitatis ejus &amp; patientia &amp; 
+      longanimi<lb ed="#P" n="137" break="no"/>tatis contemnis? &amp; cap. 9. Sustinuit in multa patientia 
+      <lb ed="#P" n="138"/>vasa trae. 2. Pet. 3. Patienter agit propter vos. Et infra: 
+      <lb ed="#P" n="139"/>Domini nostri longanimitatem salutem arbitramini. 
+      <lb ed="#P" n="140"/>Isa. 5. Expectavi ut faceret uvas &amp; fecit labruscas. Et 
+      <lb ed="#P" n="141"/>iterum: Expectavi ut faceret judicium, &amp; ecce 
+      ini<lb ed="#P" n="142" break="no"/>quitas. Et capit. 30. Expectat Dominus ut misereatur 
+      <lb ed="#P" n="143"/>vestri. Idem Exod. 34. Num. 14. Psal. 7. 55. 102. 
+      <lb ed="#P" n="144"/>Joel. 2. &amp; quaecunque aliae scripturae Deum ut 
+      pa<lb ed="#P" n="145" break="no"/>tientem &amp; longanimem nobis praedicant. Posset 
+      <!--0224.xml-->
+      <pb ed="#P" n="201"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>enim ex his omnibus argumentum accipi non 
+      im<lb ed="#P" n="2" break="no"/>pletae voluntatis Dei. Nam patientia est eorum quae 
+      <lb ed="#P" n="3"/>nobis nolentibus accidunt: Expectatio quoque 
+      fru<lb ed="#P" n="4" break="no"/>strata arguit non esse factum quod expectans 
+      vole<lb ed="#P" n="5" break="no"/>bat, longanimitas autem patientiam simul &amp; 
+      ex<lb ed="#P" n="6" break="no"/>pectationem includit. Sed dicendum est haec &amp; 
+      hu<lb ed="#P" n="7" break="no"/>jusmodi Deo tribui metaphorice. Patiens enim &amp; 
+      <lb ed="#P" n="8"/>longanimis dicitur, cum differt punire peccata 
+      com<lb ed="#P" n="9" break="no"/>missa contra praeceptivam suam bonitatem, atque 
+      <lb ed="#P" n="10"/>interim spatium largitur poenitentiae, qua vindictam 
+      <lb ed="#P" n="11"/>ipsius possint homines evadere. Qua eadem ratione 
+      <lb ed="#P" n="12"/>dicitur ab eis expectare fructus poenitentiae, &amp; 
+      bo<lb ed="#P" n="13" break="no"/>norum operum, cum sit hoc procul dubio in Dei 
+      <lb ed="#P" n="14"/>potestate, nec aliunde quam ab ejus efficaci gratia 
+      <lb ed="#P" n="15"/>expectandum, ut homines a peccato convertantur 
+      <lb ed="#P" n="16"/>&amp; bonorum operum fructus proferant. Nam proprie 
+      <lb ed="#P" n="17"/>Deum non expectare nostram voluntatem ad 
+      bo<lb ed="#P" n="18" break="no"/>num, clare definitum habemus can. 4. concilii 
+      <lb ed="#P" n="19"/>Arausicani his verbis. Si quis ut a peccato purgemur, 
+      <lb ed="#P" n="20"/>voluntatem nostram Deum expectare contendit, non 
+      au<lb ed="#P" n="21" break="no"/>tem ut etiam purgari velimus, per sancti spiritus 
+      in<lb ed="#P" n="22" break="no"/>fusionem &amp; operationem in nobis fieri confitetur; 
+      re<lb ed="#P" n="23" break="no"/>sistit ipsi spiritui sancto, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k75666-d1e469">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Postremo quaedam sunt orationes ecclesiae, ita 
+      <lb ed="#P" n="25"/>sonantes quasi aliquid Deus velit, quod non 
+      im<lb ed="#P" n="26" break="no"/>pleatur, sed harum quoque intellectum facile est 
+      <lb ed="#P" n="27"/>ex superioribus accipere. Sunt autem istae, Oratio 
+      <lb ed="#P" n="28"/>pro vitanda mortalitate: Deus qui non mortem, sed 
+      <lb ed="#P" n="29"/>poenitentiam desideras peccatorum. Pro tentatis &amp; 
+      tri<lb ed="#P" n="30" break="no"/>bulatis: Deus qui justificas impium &amp; non vis 
+      mor<lb ed="#P" n="31" break="no"/>tem peccatorum. In die S. Parasceves, Deus qui non 
+      <lb ed="#P" n="32"/>mortem peccatorum, sed vitam semper inquiris. Et 
+      <lb ed="#P" n="33"/>alia eodem die: Deus qui salvas omnes &amp; 
+      nemi<lb ed="#P" n="34" break="no"/>tem vis perire, respice ad animas diabolica fraude 
+      <lb ed="#P" n="35"/>deceptas, &amp;c. Nec dissimile est quod canit 
+      Pru<lb ed="#P" n="36" break="no"/>dentius hymno in Cyprianum: Christe parens 
+      ho<lb ed="#P" n="37" break="no"/>minis, quem diligis &amp; vetas perire. Desiderat enim 
+      <lb ed="#P" n="38"/>&amp; vult Deus non mortem, sed poenitentiam pecca 
+      <lb ed="#P" n="39"/>torum, eodem sensu quo hoc dictum est a propheta 
+      <lb ed="#P" n="40"/>Ezech. Idem non mortem peccatorum, sed vitam. 
+      <lb ed="#P" n="41"/>semper inquirit, quia piam hujusmodi 
+      sollicitudi<lb ed="#P" n="42" break="no"/>nem ac desideria piis hominibus inspirare non 
+      <lb ed="#P" n="43"/>cessat, quibus moveantur ad orandum Deum pro 
+      <lb ed="#P" n="44"/>salute peccatorum. Unde in eadem oratione 
+      sequi<lb ed="#P" n="45" break="no"/>tur, suscipe propitius orationem nostram, &amp;c. 
+      qua<lb ed="#P" n="46" break="no"/>si dicat ecclesia. Quia nos facis piis votis ac 
+      stu<lb ed="#P" n="47" break="no"/>diis semper inquircre vitam peccatorum, hinc est 
+      <lb ed="#P" n="48"/>quod te rogamus, ut orationem nostram ex illa tua 
+      <lb ed="#P" n="49"/>inspiratione profectam exaudias. Sequens autem 
+      <lb ed="#P" n="50"/>oratio hunc videtur habere sensum: Deus, cujus 
+      <lb ed="#P" n="51"/>bonitate salvantur, quicunque salvantur, &amp; 
+      cu<lb ed="#P" n="52" break="no"/>jus voluntate nemo perit, quia secundum 
+      prophe<lb ed="#P" n="53" break="no"/>tam non vis mortem peccatoris, respice, &amp;c. Quod 
+      <lb ed="#P" n="54"/>denique affertur ex Prudentio, maxime id dictum 
+      <lb ed="#P" n="55"/>videtur propter incarnationem &amp; mortem filii Dei, 
+      <lb ed="#P" n="56"/>qua procurata est salus humani generis, quod 
+      <lb ed="#P" n="57"/>fuit opus immensi amoris Dei erga hominem. 
+      Res<lb ed="#P" n="58" break="no"/>picit enim ad illud Joan. 3. Sic Deus dilexit 
+      mun<lb ed="#P" n="59" break="no"/>dum, &amp;c. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

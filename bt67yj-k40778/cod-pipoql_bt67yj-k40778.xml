@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="109"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k40778"><!-- l1d38c3" -->
+            <head xml:id="bt67yj-k40778-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k40778-Hd1e103" type="question-title">Praescientiam Dei ad omnia futura etiam 
+      contingentia extendi</head>
+            <p xml:id="bt67yj-k40778-d1e106">
+               <lb ed="#P" n="9"/>§. 3. Praescientiam Dei ad omnia futura etiam 
+      <lb ed="#P" n="10"/>contingentia extendi.
+    </p>
+            <p xml:id="bt67yj-k40778-d1e113">
+               <lb ed="#P" n="11"/>CErta fide tenendum est, praescientiam Dei 
+      eam<lb ed="#P" n="12" break="no"/>Cque certam &amp; infallibilem, ad omnia futura 
+      <lb ed="#P" n="13"/>extendi non tantum necessaria, id est ea quae a 
+      cau<lb ed="#P" n="14" break="no"/>sis secundis semper eodem modo procedunt, ita ut 
+      <lb ed="#P" n="15"/>causae illae naturaliter impediri non possint, sed &amp; 
+      <lb ed="#P" n="16"/>contingentia, id est, ea quae possunt etiam non 
+      eve<lb ed="#P" n="17" break="no"/>nire, propterea quod eorum causae naturaliter possint 
+      <lb ed="#P" n="18"/>impediri, atque adeo ad eas actiones, quae a libera 
+      <lb ed="#P" n="19"/>voluntate proficiscuntur, quae quidem ipsae etiam 
+      ge<lb ed="#P" n="20" break="no"/>nerali nomine contingentium continentur. 
+    </p>
+            <p xml:id="bt67yj-k40778-d1e137">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Probatur haec catholica veritas imprimis ex 
+      certi<lb ed="#P" n="22" break="no"/>tudine scientiae Dei in genere, cujus pars quaedam 
+      <lb ed="#P" n="23"/>est praescientia. Constat enim scientiae Dei omnia 
+      <lb ed="#P" n="24"/>omnino subjecta esse, tam futura, quam praesentia 
+      <lb ed="#P" n="25"/>&amp; praeterita, quemadmodum Psal. 138. &amp; aliis 
+      plu<lb ed="#P" n="26" break="no"/>rimis locis testatur scriptura, &amp; amplius declaratum 
+      <lb ed="#P" n="27"/>est ad distinctionem 35. 
+    </p>
+            <p xml:id="bt67yj-k40778-d1e158">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> De futuris autem peculiariter haec loca sunt. Dan. 
+      <lb ed="#P" n="29"/>13. Qui nosti omnia antequam fiant. Ecclesiastici 23. 
+      <lb ed="#P" n="30"/>Domino Deo antequam crearentur, omnia sunt agnita. 
+      <lb ed="#P" n="31"/>Sapien. 8. Signa &amp; monstra scit antequam fiant &amp; 
+      <lb ed="#P" n="32"/>eventus temporum &amp; saeculorum. Rom. 4. Qui vocat ea 
+      <lb ed="#P" n="33"/>quae non sunt, tanquam ea quae sunt. Et breviter 
+      om<lb ed="#P" n="34" break="no"/>nia scripturae loca, quibus Deus vel immediate, vel 
+      <lb ed="#P" n="35"/>per angelos, vel per prophetas, vel per filium suum 
+      in<lb ed="#P" n="36" break="no"/>carnatum futuros rerum eventus &amp; humanas 
+      actio<lb ed="#P" n="37" break="no"/>nes praedixit, velut monarchias &amp; earum eversiones, 
+      <lb ed="#P" n="38"/>infidelitatem Judaeorum, negationem Petri, 
+      prodi<lb ed="#P" n="39" break="no"/>tionem Judae, conversionem gentium. Quae omnia 
+      <lb ed="#P" n="40"/>sicut statuunt praescientiam Dei respectu futurorum 
+      <lb ed="#P" n="41"/>ac nominatim contingentium: ita eandem certam 
+      <lb ed="#P" n="42"/>atque infallibilem esse convincunt, quia quaecunque 
+      <lb ed="#P" n="43"/>praedicta sunt, quomodo praedicta sunt evenerunt. 
+    </p>
+            <p xml:id="bt67yj-k40778-d1e197">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Porro rationes quibus haec divinae praescientiae 
+      <lb ed="#P" n="45"/>certitudo monstratur, hujusmodi sunt. 
+    </p>
+            <p xml:id="bt67yj-k40778-d1e206">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Prima <sic>geneneralis</sic>: Deus certo &amp; infallibiliter 
+      co<lb ed="#P" n="47" break="no"/>gnoscit omnia quae sunt in potentia Dei, vel creatu 
+      <lb ed="#P" n="48"/>rae. In his autem continentur omnia futura etiam 
+      <lb ed="#P" n="49"/>contingentia. 
+    </p>
+            <p xml:id="bt67yj-k40778-d1e222">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Secunda specialis: Deus cognoscit contingentia 
+      <lb ed="#P" n="51"/>non solum ut sunt in suis causis; sed etiam ut sunt in 
+      <lb ed="#P" n="52"/>seipsis; ergo habet certam &amp; infallibilem eorum 
+      <lb ed="#P" n="53"/>scientiam. Hanc rationem confirmat tertia quae 
+      ta<lb ed="#P" n="54" break="no"/>lis est: 
+    </p>
+            <p xml:id="bt67yj-k40778-d1e238">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Deus res intelligit in sua aeternitate, in qua 
+      nul<lb ed="#P" n="56" break="no"/>la est successio, quaeque immensitate sua totum 
+      <lb ed="#P" n="57"/>creatum tempus comprehendit; igitur praesens Dei 
+      <lb ed="#P" n="58"/>intuitus fertur simul in totum tempus &amp; in omnia 
+      <lb ed="#P" n="59"/>quae sunt in quacunque temporis parte, tanquam 
+      <lb ed="#P" n="60"/>in ea quae oculis ejus subjecta sunt atque praesentia. 
+      <lb ed="#P" n="61"/>Quare sicut praesentia certo &amp; infallibiliter Deo 
+      co<lb ed="#P" n="62" break="no"/>gnita sunt; sic &amp; futura. 
+    </p>
+            <p xml:id="bt67yj-k40778-d1e260">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> His fere modis probat hanc doctrinam S. Thomas 
+      <lb ed="#P" n="64"/>1. quaest. 14. artic. 13. Vide eundem artic. 5. &amp; 9. 
+      <lb ed="#P" n="65"/>ejusdem quaestionis in corpore, &amp; quaest. 86. art. 4. 
+      <lb ed="#P" n="66"/>Item super hanc distinctionem art. 5. lib. 1. contra 
+      <lb ed="#P" n="67"/>gentes cap. 67. de verit. quaest. 2. art. 12. quodl. 12. 
+      <lb ed="#P" n="68"/>q 3. tract. de praescientia &amp; praedestinatione art. 4. 
+      <lb ed="#P" n="69"/>&amp; compendii Theol. parte 1. cap. 133. &amp; 140. 
+    </p>
+            <p xml:id="bt67yj-k40778-d1e281">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Verum istis addenda est &amp; alia ratio, quam 
+      Sco<lb ed="#P" n="71" break="no"/>tus arbitratur jam dictis esse meliorem, scilicet ideo 
+      <lb ed="#P" n="72"/>Deum certissime nosse omnia futura, quia certissime 
+      <!--0132.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>novit ab aeterno omnia quae sunt in voluntate sua, id 
+      <lb ed="#P" n="74"/>est, quaecunque ab aterno decreverit in tempore 
+      face<lb ed="#P" n="75" break="no"/>re, cujusmodi sunt omnia entia extra Deum. Peccata 
+      <lb ed="#P" n="76"/>vero quae non sunt entia, sed entium privationes, 
+      <lb ed="#P" n="77"/>praescit, quia novit ab aeterno quorum actuum 
+      sub<lb ed="#P" n="78" break="no"/>stantiam sit producturus in tempore, &amp; quos 
+      eorun<lb ed="#P" n="79" break="no"/>dem actuum defectus a defectibili creata voluntate 
+      <lb ed="#P" n="80"/>processuros sit permissurus. Vide eundem Scotum 
+      <lb ed="#P" n="81"/>super distinctionem 47. ubi eandem doctrinam 
+      tra<lb ed="#P" n="82" break="no"/>dit &amp; remittit ad ea quae dixit super distinctionem 
+      <lb ed="#P" n="83"/>41. Mihi quoque Scot i demonstratio magis probatur, 
+      <lb ed="#P" n="84"/>sumpta nimirum ex voluntate &amp; operatione Dei. 
+      At<lb ed="#P" n="85" break="no"/>que eam insinuat ille Psal. versic. Qui finxit sigillatim 
+      <lb ed="#P" n="86"/>corda eorum, qui intelligit omnia opera eorum. Cor enim 
+      <lb ed="#P" n="87"/>hominis est in manu Dei factoris sui. Idem plenius 
+      <lb ed="#P" n="88"/>probatur ex Psalmo 138. in quo sic praedicatur omni 
+      <lb ed="#P" n="89"/>scientia Dei, ut subinde interponatur ratio ex 
+      crea<lb ed="#P" n="90" break="no"/>tione seu formatione rerum, ut postquam dixit: 
+      In<lb ed="#P" n="91" break="no"/>tellexisti cogitationes meas de longe, &amp; omnes vias meas 
+      <lb ed="#P" n="92"/>praevidisti, quasi pro ratione subdit: tu formasti. Et 
+      <lb ed="#P" n="93"/>infra cum dixisset: Si sumpsero pennas meas diluculo, 
+      <lb ed="#P" n="94"/>&amp; habitavero in extremis maris, scilicet ut effugiam 
+      <lb ed="#P" n="95"/>notitiam tuam ut possim latere, causam subjungit 
+      <lb ed="#P" n="96"/>cur latere non possit dicens: Etenim illuc manus 
+      <lb ed="#P" n="97"/>tua deducet me, &amp; tenebit me dextera tua, quasi 
+      di<lb ed="#P" n="98" break="no"/>cat: quomodo posses ignorare ubi sum, cum tu ipse 
+      <lb ed="#P" n="99"/>me deducas ad locum quemcunque adiero, &amp; in 
+      eo<lb ed="#P" n="100" break="no"/>dem me conserves. Non enim potes non cognoscere 
+      <lb ed="#P" n="101"/>opus tuum. Unde rursum postea rationem dictorum 
+      <lb ed="#P" n="102"/>adferens ait: Quia tu possedisti renes meos, suscepisti 
+      <lb ed="#P" n="103"/>me de utero matris meae; totum me possides tanquam 
+      <lb ed="#P" n="104"/>opus tuum, continuo me custodis &amp; gubernas a die 
+      <lb ed="#P" n="105"/>ortus mei, nihil ergo meum potest a te esse 
+      abscon<lb ed="#P" n="106" break="no"/>ditum. Hinc adhuc manifestius sequitur: Non est 
+      oc<lb ed="#P" n="107" break="no"/>cultatum os meum a te quod fecisti in occulto, quasi 
+      di<lb ed="#P" n="108" break="no"/>cat: ideo non est occultatum a te vel unum ac 
+      mini<lb ed="#P" n="109" break="no"/>mum ex ossibus meis, quia nullum est quod non 
+      fece<lb ed="#P" n="110" break="no"/>ris occulta mei formatione in utero matris. Huc 
+      perti<lb ed="#P" n="111" break="no"/>net quod S. Thom. docet idcirco Deo proprium esse 
+      <lb ed="#P" n="112"/>nosse cogitationes cordium, quia ipse solus 
+      potestmo<lb ed="#P" n="113" break="no"/>vere hominum voluntates. Vide eum quodl. 12. a. 6. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="11"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k03941"><!-- l1d3c2" -->
+            <head xml:id="bt67yj-k03941-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k03941-Hd1e103" type="question-title">Deum esse an demonstratione doceri possit</head>
+            <p xml:id="bt67yj-k03941-d1e106">
+               <lb ed="#P" n="88"/>§. 2. Deum esse an demonstratione doceri possit? 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e111">
+               <lb ed="#P" n="89"/>CUm duplex sit apud dialecticos demonstratio, 
+      <lb ed="#P" n="90"/>Calia quae ex causis effectum, alia quae contra ex 
+      <lb ed="#P" n="91"/>effectis causam monstrat, manifestum est priori 
+      de<lb ed="#P" n="92" break="no"/>monstrationis modo, non posse doceri Deum esse, 
+      <lb ed="#P" n="93"/>cum nec Dei, nec ejus existentiae possit in ullo 
+      ge<lb ed="#P" n="94" break="no"/>nere causa proferri. Potest autem demonstrari 
+      poste<lb ed="#P" n="95" break="no"/>riori modo quemadmodum recte S. Thom. 1. q. 2. 
+      <lb ed="#P" n="96"/>art. 2. &amp; 3. &amp; in universum scholastici circa hanc 
+      di<lb ed="#P" n="97" break="no"/>stinctionem tradunt; neque enim existimandum est 
+      <lb ed="#P" n="98"/>rationes quibus Deum esse ostenditur, probabiles 
+      <lb ed="#P" n="99"/>esse duntaxat, &amp; quae tantum suadeant non etiam 
+      <lb ed="#P" n="100"/>convincant. Nisi enim ratione necessaria &amp; per se 
+      <lb ed="#P" n="101"/>evidenti probari posset Deum esse, non diceret 
+      Apo<lb ed="#P" n="102" break="no"/>stolus inexcusabiles esse sapientes, qui ex visibilibus 
+      <lb ed="#P" n="103"/>hujus mundi, Deum vel non cognovissent: vel 
+      cogni<lb ed="#P" n="104" break="no"/>tum non glorificassent. Quod Augustinus l. 10. 
+      Con<lb ed="#P" n="105" break="no"/>fess. cap. 6. ad alios etiam homines extendit. Unde &amp; 
+      <lb ed="#P" n="106"/>liber sapientiae 13. docet facilius esse dominum saeculi 
+      <lb ed="#P" n="107"/>in venire quam ipsum saeculum aestimare, id est, Deum 
+      <lb ed="#P" n="108"/>ex creaturis cognoscere, quam ipsarum rerum 
+      crea<lb ed="#P" n="109" break="no"/>tarum naturas cognitione assequi; cum ergo multa 
+      <lb ed="#P" n="110"/>in crcaturis demonstratione cognoscantur, 
+      conse<lb ed="#P" n="111" break="no"/>quens est ipsum quoque rerum authorem 
+      demon<lb ed="#P" n="112" break="no"/>strative cognosci posse. Et ob id Sapiens eodem 
+      lo<lb ed="#P" n="113" break="no"/>co negat his debere ignosci qui in rerum cognitione 
+      <lb ed="#P" n="114"/>versantes &amp; exercitati, Deum ignoraverunt¬ 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e170">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Deinde probatur haec res exemplo 
+      Philosopho<lb ed="#P" n="116" break="no"/>rum, praesertim Platonis &amp; Aristotelis qui Deum 
+      es<lb ed="#P" n="117" break="no"/>se ex creaturis demonstrative cognoverunt. 
+      Plato<lb ed="#P" n="118" break="no"/>nem quidem praecipue ejusque sectatores notasse 
+      vi<lb ed="#P" n="119" break="no"/>detur Apostolus Rom. 1. Neminem enim inter 
+      Phi<lb ed="#P" n="120" break="no"/>losophos, ad cognoscendam sempiternam 
+      creato<lb ed="#P" n="121" break="no"/>ris virtutem ac divinitatem propius quam Platonem 
+      <lb ed="#P" n="122"/>accessisse, non immerito a multis creditur: 
+      Aristo<lb ed="#P" n="123" break="no"/>telem vero constat demonstratione ex motu, mobili 
+      <lb ed="#P" n="124"/>&amp; movente sumpta, lib. 8. physic &amp; 12. metaph. 
+      <lb ed="#P" n="125"/>pervenisse in cognitionem unius primaecausae, 
+      im<lb ed="#P" n="126" break="no"/>mobilis, incorporeae, infinitae atque aeternae, quam 
+      <lb ed="#P" n="127"/>rerum causam Deum dicimus. Fertur etiam ejusdem 
+      <lb ed="#P" n="128"/>Philosophiliber de mundo ad Alexandrum, in quo 
+      <lb ed="#P" n="129"/>clare &amp; demonstrative hoc ipsum astruitur, ut 
+      ve<lb ed="#P" n="130" break="no"/>rissima sit illa apud Augustinum epistola 246. 
+      Evo<lb ed="#P" n="131" break="no"/>dii ad ipsum Augustmum scribentis sententia: 
+      <lb ed="#P" n="132"/>Deum esse ratio demonstrat: nec temere ab Orosio 
+      <lb ed="#P" n="133"/>lib. 6. Historiae cap. 1. dictum sit quod ratione duce 
+      <lb ed="#P" n="134"/>omnes etiam pagani, &amp; non tantum Philosophi 
+      <lb ed="#P" n="135"/>unum Deum authorem omnium agnoscunt, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e221">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Ex his ergo patet in Dei notitiam, 
+      demonstra<lb ed="#P" n="137" break="no"/>tionis via perveniri; qua non tantum discamus 
+      <lb ed="#P" n="138"/>Deum esse, sed &amp; proprietates ejus, vel omnes, vel 
+      <lb ed="#P" n="139"/>plurimas percipiamus. Nam &amp; Apost. Rom. 1. &amp; 
+      <lb ed="#P" n="140"/>Sap. cap. 13. proprietates quasdam nominaverunt, 
+      <lb ed="#P" n="141"/>ut aeternitatem, potentiam, &amp;c. Et Aristoteles locis 
+      <lb ed="#P" n="142"/>memoratis, primi motoris &amp; principsi aliquod 
+      insi<lb ed="#P" n="143" break="no"/>gnes proprietates demonstrando collegit. Est autem 
+      <lb ed="#P" n="144"/>ad hanc rem multiplex demonstrandi via. 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e245">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Prima quae sumitur ex parte motus &amp; eorum quae 
+      <lb ed="#P" n="146"/>moventur, in quibus necesse est devenire tandem 
+      <!--0035.xml-->
+      <pb ed="#P" n="12"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ad aliquod primum movens immobile, sicut recte, 
+      <lb ed="#P" n="2"/>Philosophus colligit. 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e265">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Secunda ex ratione causae efficientis, necesse est 
+      <lb ed="#P" n="4"/>enim in causis efficientibus pervenire ad causam 
+      <lb ed="#P" n="5"/>primam. 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e276">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Tertia ex possibili &amp; neccssario, neque enim 
+      <lb ed="#P" n="7"/>fieri potest ut omnia sint contingentia, sed oportet 
+      <lb ed="#P" n="8"/>aliquid esse nocessarium in rebus, &amp; inter 
+      necessa<lb ed="#P" n="9" break="no"/>ria aliquid esse quod per se sit tale, nec aliunde 
+      <lb ed="#P" n="10"/>causam habeat suae necessitatis. 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e292">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> Quarta ex gradibus rerum secundum magis &amp; 
+      <lb ed="#P" n="12"/>minus, bonum &amp; verum, &amp;c. in quo ordine necesse 
+      <lb ed="#P" n="13"/>est aliquid primum reperiri, quod &amp; maxime talo 
+      <lb ed="#P" n="14"/>sit, &amp; proinde caeteris sit causa talium perfectionum. 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e305">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Quinta ex rerum gubernatione. Omnia enim 
+      <lb ed="#P" n="16"/>propter finem operantur, etiam ea quae cognitione 
+      <lb ed="#P" n="17"/>carent; est igitur mens aliqua quae res omnes 
+      ordi<lb ed="#P" n="18" break="no"/>net in suos fines. 
+    </p>
+            <p xml:id="bt67yj-k03941-d1e319">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Postrema ex ratione ipsius finis, necesse est enim 
+      <lb ed="#P" n="20"/>omnia tandem in unum aliquid ordinari, cui finis 
+      <lb ed="#P" n="21"/>ratio maxime competat, id autem est simpliciter 
+      <lb ed="#P" n="22"/>optimum. Has rationes omnes ultima excepta 
+      ple<lb ed="#P" n="23" break="no"/>nius explicatas videre est apud Sanctum Thomam 
+      <lb ed="#P" n="24"/>articulo tertio, quaestionis supradictae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="59"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k22078"><!-- l1d14c1" -->
+            <head xml:id="bt67yj-k22078-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k22078-Hd1e103" type="question-title">Esse quandam temporalem Spiritus sancti 
+      processionem</head>
+            <p xml:id="bt67yj-k22078-d1e106">
+               <lb ed="#P" n="111"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="112"/>DECIMAMQUARTAM. 
+      <lb ed="#P" n="113"/>§. 1. Esse quandam temporalem Spiritus sancti 
+      <lb ed="#P" n="114"/>processionem.
+    </p>
+            <p xml:id="bt67yj-k22078-d1e117">
+               <lb ed="#P" n="115"/>DUPLEX est processio Spiritus sancti, aeterna? 
+      <lb ed="#P" n="116"/>
+               <pc type="indent"/> &amp; temporaiis. De aeterna dictum est 
+      hacte<lb ed="#P" n="117" break="no"/>nus, de temporali, quae &amp; missio dicitur, 
+      <lb ed="#P" n="118"/>nunc agendum. Sciendum tamen non facile reperiri 
+      <lb ed="#P" n="119"/>apud patres, ut missio Spiritus sancti nomine 
+      proces<lb ed="#P" n="120" break="no"/>sionis significetur pater, quam apud Bedam in hom. 
+      <lb ed="#P" n="121"/>Dominicae infra octavam Ascensionis Domini, 
+      <lb ed="#P" n="122"/>dum ita scribit: Cum Spiritus sancti gratia datur 
+      <lb ed="#P" n="123"/>hominibus, mittitur profecto spiritus a patre, mittitur 
+      <lb ed="#P" n="124"/>&amp; a filio. Procedit a patre, procedit &amp; a filio, quiae 
+      <lb ed="#P" n="125"/>&amp; ejus missio, ipsa processio est, qua ex patre 
+      proce<lb ed="#P" n="126" break="no"/>dit &amp; filio. Adfert praeterea Magister ad id 
+      pro<lb ed="#P" n="127" break="no"/>bandum quaedam Augustini verba ex lib. 15. de 
+      <lb ed="#P" n="128"/>trinit. cap. 26. Quibus dicit Christum post 
+      resurre<lb ed="#P" n="129" break="no"/>ctionem insufflasse in discipulos &amp; dixisse: Joan. 20. 
+      <lb ed="#P" n="130"/>Accipite Spiritum sanctum, ut eum, inquit, etiam de 
+      <lb ed="#P" n="131"/>se procedere ostenderet. Sed ibi processionem 
+      intel<lb ed="#P" n="132" break="no"/>ligit Augustinus aeternam non temporalem. Sensus 
+      <lb ed="#P" n="133"/>enim est, Christum per hoc quod insufflavit in 
+      dis<lb ed="#P" n="134" break="no"/>cipulos &amp; dixit: Accipite spiritum sanctum, 
+      osten<lb ed="#P" n="135" break="no"/>disse quod Spiritus sanctus non solum ex patre, 
+      ve<lb ed="#P" n="136" break="no"/>rum etiam ex ipso ab aeterno procedat. Neque enim 
+      <lb ed="#P" n="137"/>temporaliter Spiritum sanctum donaret, nisi eundem 
+      <lb ed="#P" n="138"/>aeternaliter spiraret 
+    </p>
+            <p xml:id="bt67yj-k22078-d1e174">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Quanquam recte Bedae authoritatem secuti Ma¬ 
+      <!--0083.xml-->
+      <pb ed="#P" n="60"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>gister &amp; scholastici missionem spiritus sancti, 
+      proces<lb ed="#P" n="2" break="no"/>sionem vocaverunt: praesertim cum sermo ille a 
+      pa<lb ed="#P" n="3" break="no"/>tribus non rejiciatur, atque insuper consentaneus sit 
+      <lb ed="#P" n="4"/>scripturae sacrae, in qua filius propter temporalem 
+      <lb ed="#P" n="5"/>suam missionem in mundum, dicit se processisse a 
+      pa<lb ed="#P" n="6" break="no"/>tre. Joan. 8. Ego, inquit, ex Deo processi &amp; veni. 
+      <lb ed="#P" n="7"/>Neque enim a me ipso veni, sed ille me misit. Igitur 
+      <lb ed="#P" n="8"/>missio ejus processio erat. Cui loco similis est ille, c. 
+      <lb ed="#P" n="9"/>16. ubi dicit: Ego a Deo exivi: Et iterum. Exivi a 
+      <lb ed="#P" n="10"/>patre &amp; veni in mundum. Quod si filio competit 
+      <lb ed="#P" n="11"/>temporalis processio, nihil ergo prohibet quo minus 
+      <lb ed="#P" n="12"/>etiam spiritui sancto tribuatur. Ratio enim 
+      commu<lb ed="#P" n="13" break="no"/>nis est in eo quod uterque mittitur. 
+    </p>
+            <p xml:id="bt67yj-k22078-d1e217">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Porro temporalis haec processio Spiritus sancti 
+      di<lb ed="#P" n="15" break="no"/>stinguitur ab aeterna, quod per illam Spiritus sanctus 
+      <lb ed="#P" n="16"/>ab aeterno naturam accepit de patre &amp; filio, per hanc 
+      <lb ed="#P" n="17"/>vero temporaliter procedit ad sanctificandam 
+      crea<lb ed="#P" n="18" break="no"/>turam, vel etiam ad alium effectum. Quod ut plenius 
+      <lb ed="#P" n="19"/>intelligatur, in divina processione, perinde atque in 
+      <lb ed="#P" n="20"/>motu convenit imaginari aliquid velut terminum a 
+      <lb ed="#P" n="21"/>quo. Et rursum aliud velut terminum ad quem: 
+      ta<lb ed="#P" n="22" break="no"/>metsi haec proprie locum ibi non habeant. Instar 
+      ter<lb ed="#P" n="23" break="no"/>mini a quo est persona, a qua est exitus, sive 
+      emana<lb ed="#P" n="24" break="no"/>tio, ut Theologi loquuntur. Id autem quo 
+      tendi<lb ed="#P" n="25" break="no"/>ipsa processio, est instar termini ad quem. Jam vero 
+      <lb ed="#P" n="26"/>cum motus appellationem sortiatur a termino in 
+      <lb ed="#P" n="27"/>quem tendit, patet aeternam dici processionem, qua 
+      <lb ed="#P" n="28"/>id procedit atque existit velut terminus quod 
+      aeter<lb ed="#P" n="29" break="no"/>num est. Ita enim fit ut ipsa quoque processio 
+      secun<lb ed="#P" n="30" break="no"/>dum se sit aeterna. Quod enim aeternum est, non 
+      su<lb ed="#P" n="31" break="no"/>bit mutationem: ideóque si procedit, semper 
+      pro<lb ed="#P" n="32" break="no"/>cedat necesse est. Eam vero dici temporalem 
+      proces<lb ed="#P" n="33" break="no"/>sionem per quam existit aliquid temporarium, sive 
+      <lb ed="#P" n="34"/>per quam aliquid in tempore acquiritur. Prior illa 
+      <lb ed="#P" n="35"/>processio est filii a Patre, &amp; Spiritus sancti ab 
+      utro<lb ed="#P" n="36" break="no"/>que secundum naturam. Posterior autem est ea, qua 
+      <lb ed="#P" n="37"/>processit filius ad opus incarnationis, &amp; qua 
+      pro<lb ed="#P" n="38" break="no"/>cedit Spiritus sanctus ad sanctificandos homines qui 
+      <lb ed="#P" n="39"/>sunt effectus temporarii: Quanquam etiam 
+      secun<lb ed="#P" n="40" break="no"/>dum alios effectus, missi fuisse dicuntur in 
+      scriptu<lb ed="#P" n="41" break="no"/>ris, de qua re proprie agetur ad dist. 16. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

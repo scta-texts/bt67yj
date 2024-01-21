@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="193"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k73138"><!-- l1d45c7" -->
+            <head xml:id="bt67yj-k73138-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-k73138-Hd1e103" type="question-title">Varia acceptio voluntatis Dei explicatur</head>
+            <p xml:id="bt67yj-k73138-d1e106">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> §. 7. Varia acceptio voluntatis Dei explicatur. 
+    </p>
+            <p xml:id="bt67yj-k73138-d1e113">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/>AD intelligendum ea sacrae scripturae loca, quae 
+      <lb ed="#P" n="82"/>Qvoluntatis divinae meminerunt, Deumque velle 
+      <lb ed="#P" n="83"/>quippiam aut nolle significant; confert imprimis 
+      ce<lb ed="#P" n="84" break="no"/>lebris illa apud scholae doctores divisio, voluntatis 
+      <lb ed="#P" n="85"/>Dei, qua dividitur in voluntatem beneplaciti &amp; 
+      vo<lb ed="#P" n="86" break="no"/>luntatem signi. Quarum illa simpliciter &amp; proprie 
+      <lb ed="#P" n="87"/>dicitur in Deo voluntas, haec autem ut talis 
+      metapho<lb ed="#P" n="88" break="no"/>rice tantum. Dicitur enim voluntas beneplaciti in 
+      <lb ed="#P" n="89"/>Deo, qui vult aliquid proprie loquendo, id est, qua 
+      <lb ed="#P" n="90"/>absolute quippiam Deo placitum &amp; constitutum est 
+      <lb ed="#P" n="91"/>ut sit, aut fiat, quomodo voluntatem Dei esse 
+      dici<lb ed="#P" n="92" break="no"/>mus, ut mundus sit &amp; conservetur, ut electorum 
+      <lb ed="#P" n="93"/>nemo pereat, ut reproborum nemo salvetur, ut tam 
+      <lb ed="#P" n="94"/>horum poena, quam illorum gloria semper duret. 
+      <lb ed="#P" n="95"/>Haec Dei voluntas aeterna est, quae proinde mutari aut 
+      <lb ed="#P" n="96"/>effectu suo frustrari nunquam potest, sed semper &amp; 
+      <lb ed="#P" n="97"/>in omnibus ad quae extenditur, efficax est, 
+      semper<lb ed="#P" n="98" break="no"/>que impletur, quantumvis invita ac renitente 
+      inter<lb ed="#P" n="99" break="no"/>dum voluntate creata, ut infra docebitur. Et de hac 
+      <lb ed="#P" n="100"/>voluntate intelligenda sint, quaecunque hactenus de 
+      <lb ed="#P" n="101"/>Dei voluntate sunt disputata. 
+    </p>
+            <p xml:id="bt67yj-k73138-d1e163">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Voluntas autem signi dicitur temporarium aliquod 
+      <lb ed="#P" n="103"/>signum voluntatis, id est, res aliqua vel actio, quae 
+      <lb ed="#P" n="104"/>voluntatis signum esse solet. Cujusmodi quinque 
+      <lb ed="#P" n="105"/>numerantur a Magistro aliisque doctoribus, 
+      sci<lb ed="#P" n="106" break="no"/>licet praeceptum, consilium, prohibitio, operatio, 
+      <lb ed="#P" n="107"/>permissio. Quorum quodque voluntas Dei dicitur 
+      im<lb ed="#P" n="108" break="no"/>proprie, appellatione sumpta ab eo quod accidit 
+      cir<lb ed="#P" n="109" break="no"/>ca voluntatem humanam. Solent enim haec esse signa 
+      <lb ed="#P" n="110"/>voluntatis in hominibus, ut per singula declarari 
+      <lb ed="#P" n="111"/>potest. Nos enim si quid praecipimus aut consulimus, 
+      <lb ed="#P" n="112"/>id quantum in nobis est, volumus &amp; authores sumus 
+      <lb ed="#P" n="113"/>ut fiat. Si quid prohibemus, volumus non fieri. Si 
+      <lb ed="#P" n="114"/>quid operamur, certum est id nos absolute velle, 
+      sal<lb ed="#P" n="115" break="no"/>tem in plurimis. Nam in nonnullis fieri potest, ut ea 
+      <lb ed="#P" n="116"/>operemur nescientes aut inviti. Si quid 
+      permitti<lb ed="#P" n="117" break="no"/>mus quod in nostra potestate est impedire, id velle 
+      <lb ed="#P" n="118"/>censemur, &amp; revera saepe volumus indirecte, etiamsi 
+      <lb ed="#P" n="119"/>forte directe velimus ne fiat: Deus vero quicquid 
+      <lb ed="#P" n="120"/>operatur, similiter quidem absolute proprieque vult. 
+      <lb ed="#P" n="121"/>Est enim operatio divina certissimum signum 
+      volun<lb ed="#P" n="122" break="no"/>tatis ipsius, eamque ut effectus suam causam 
+      certis<lb ed="#P" n="123" break="no"/>sime arguit. Et hac parte semper coincidit in Deo 
+      <lb ed="#P" n="124"/>voluntas signi cum voluntate beneplaciti, 
+      quemad<lb ed="#P" n="125" break="no"/>modum recte docet S. Thomas q. 19. art. 12. ad 2. 
+      <lb ed="#P" n="126"/>Sed non quicquid praecipit aut consulit, absolute. 
+      <lb ed="#P" n="127"/>vult fieri, sicut nec omnia quae prohibet, absolute vult. 
+      <lb ed="#P" n="128"/>non fieri, sed horum omnium quaedam vult, quaedam. 
+      <lb ed="#P" n="129"/>non vult. Eorum vero quae tantummodo permittit 
+      ac<lb ed="#P" n="130" break="no"/>tolerat, nihil omnino proprie velle dicendus 
+      est<lb ed="#P" n="131" break="no"/>quia eorum author non est. Sola namque peccata 
+      at<lb ed="#P" n="132" break="no"/>que defectus Deo ut permittenti ascribuntur. Ho¬¬ 
+      <lb ed="#P" n="133"/>rum autem nihil Deus proprie vult aut facit. Nec 
+      ta<lb ed="#P" n="134" break="no"/>men male permissio numcratur inter signa, quae 
+      vo<lb ed="#P" n="135" break="no"/>luntatis nomen accipiunt etiam in Deo, quia qua 
+      ra<lb ed="#P" n="136" break="no"/>tione scriptura dicit interdum Deum mala, id est, 
+      <lb ed="#P" n="137"/>peccata facere, nimirum permittendo; concedendum 
+      <lb ed="#P" n="138"/>quoque est eum mala velle. Nam in hujusmodi non 
+      <lb ed="#P" n="139"/>sonat durius velle quam facere, licet utrumque 
+      dica<lb ed="#P" n="140" break="no"/>tur improprie. Unde &amp; Augustinus ench. 95. 96. &amp; 
+      <lb ed="#P" n="141"/>100. affirmat Deum velle fieri ea quae fieri sinit: sed 
+      <lb ed="#P" n="142"/>hujusmodi impropriae locutiones neque extendendae 
+      <lb ed="#P" n="143"/>sunt, neque passim usurpandae.
+    </p>
+            <p xml:id="bt67yj-k73138-d1e260">
+               <lb ed="#P" n="144"/>Porro quinque signis jam deciaratis necessario 
+      vi<lb ed="#P" n="145" break="no"/>detur annumerandum sextum quod est praeparatio, 
+      <lb ed="#P" n="146"/>ut voluntate praeparationis id velle dicatur Deus, 
+      <!--0217.xml-->
+      <pb ed="#P" n="194"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod etsi secundum se nec velit, nec faciat aut 
+      fa<lb ed="#P" n="2" break="no"/>cturus sit; vult tamen secundum causam praeviam &amp; 
+      <lb ed="#P" n="3"/>praeparantem, quia nimirum hujusmodi praeparatio 
+      <lb ed="#P" n="4"/>soleat in nobis signum esse, quod eam rem facere 
+      ve<lb ed="#P" n="5" break="no"/>limus, Exempli causa: Qui minatur aut permittit 
+      a<lb ed="#P" n="6" break="no"/>liquid, dicitur hoc velle facere: qui gladium stringit 
+      <lb ed="#P" n="7"/>in aliquem, dicitur eum velle occidere. Sic enim 
+      A<lb ed="#P" n="8" break="no"/>braham quando manum arrepto gladio extendit in 
+      <lb ed="#P" n="9"/>filium, vere eum occidere voluit. juxta hunc igitur 
+      <lb ed="#P" n="10"/>modum signi de Christo dicitur Marci 6. Volebat 
+      pra<lb ed="#P" n="11" break="no"/>terire eos, qui tamen non praeterivit, sed voluisse hoc 
+      <lb ed="#P" n="12"/>dicitur, quia ibat in diversum, ut Augustinus 
+      inter<lb ed="#P" n="13" break="no"/>pretatur lib. 2. de consensu evangelist. cap. 47. Hoc 
+      <lb ed="#P" n="14"/>autem erat initium &amp; praeparatio quaedam ad 
+      praete<lb ed="#P" n="15" break="no"/>reundum &amp; in nobis signum esse solet nos velle 
+      prae<lb ed="#P" n="16" break="no"/>terire. Et cap. 7. Neminem voluit scire, quia nimirum 
+      <lb ed="#P" n="17"/>subduxit se &amp; in domum latenter fuit ingressus, ac 
+      <lb ed="#P" n="18"/>forte etiam jussit fores occludi, quod facere solent 
+      <lb ed="#P" n="19"/>homines volentes latere. Quomodo intelligi potest 
+      <lb ed="#P" n="20"/>etiam illud Luc. ultim. Finxit se longius ire, ut sit 
+      <lb ed="#P" n="21"/>sensus, Christum fuisse progressum aliquantulum, 
+      <lb ed="#P" n="22"/>tanquam discessurum &amp; longius iturum. Eodem 
+      mo<lb ed="#P" n="23" break="no"/>do intelligendum quod Exod. 4. dicitur Dominus 
+      <lb ed="#P" n="24"/>occidere voluisse Moysen; &amp; alibi legitur, voluisse 
+      <lb ed="#P" n="25"/>disperdere populum suum, quod videlicet ea dixerit 
+      <lb ed="#P" n="26"/>aut fecerit quae hujusmodi actionum causae &amp; 
+      praepa<lb ed="#P" n="27" break="no"/>rationes esse solent, etiamsi effectus non sequeretur. 
+      <lb ed="#P" n="28"/>Sic enim Moyses ait ad populum Deut. 9. Et tratus 
+      <lb ed="#P" n="29"/>Dominus delere te voluit. Et infra: Timui iram ejus, 
+      <lb ed="#P" n="30"/>qua ad versum vos concitatus delere vos voluit. 
+      Adver<lb ed="#P" n="31" break="no"/>sum Aaron quoque vehementer iratus voluit eum 
+      <lb ed="#P" n="32"/>conterere. Haec enim omnia de voluntate 
+      praepara<lb ed="#P" n="33" break="no"/>tionis accipienda esse perspicuum est, quatenus 
+      com<lb ed="#P" n="34" break="no"/>minatio praeparatio quaedam est ad rem 
+      commina<lb ed="#P" n="35" break="no"/>tam. Quod &amp; declarant sequentia verba Moysi, 
+      qui<lb ed="#P" n="36" break="no"/>bus ait: Deprecabar Dominum ne deleret vos, ut fuerat 
+      <lb ed="#P" n="37"/>comminatus. Potest etiam hujusmodi voluntas 
+      intel<lb ed="#P" n="38" break="no"/>ligi in eo quo Isaias ait cap. 53. Dominus voluit 
+      conte<lb ed="#P" n="39" break="no"/>rere eum in infirmitate, non quidem quod 
+      commina<lb ed="#P" n="40" break="no"/>tus fuerit pater filio, sed quia sic eum tractavit per 
+      <lb ed="#P" n="41"/>manus iniquorum, quasi prorsus eum conterere 
+      vel<lb ed="#P" n="42" break="no"/>let. Quamquam hoc &amp; de voluntate beneplaciti 
+      re<lb ed="#P" n="43" break="no"/>cte accipitur, quia vere contrivit eum per 
+      acerbissi<lb ed="#P" n="44" break="no"/>mam passionem tradendo in mortem. Denique 
+      jux<lb ed="#P" n="45" break="no"/>ta hunc modum velle dicitur Deus salutem eorum, 
+      <lb ed="#P" n="46"/>quibus salutem promittit ac media praeparat, quibus 
+      <lb ed="#P" n="47"/>eam consequi possint, licet ex eorum culpa salus non 
+      <lb ed="#P" n="48"/>sequatur. De qua Dei voluntate plura ad 
+      distinctio<lb ed="#P" n="49" break="no"/>nem proxime sequentem. 
+    </p>
+            <p xml:id="bt67yj-k73138-d1e382">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Confirmant autem hunc modum sermo vulgaris, 
+      <lb ed="#P" n="51"/>etiam ubi constat non adesse voluntatem proprie 
+      di<lb ed="#P" n="52" break="no"/>ctam, ut cum dicimus hic homo vult perire, haec 
+      <lb ed="#P" n="53"/>domus vult cadere, caelum vult pluere, scilicet pro 
+      <lb ed="#P" n="54"/>pter causas valde propinquas. 
+    </p>
+            <p xml:id="bt67yj-k73138-d1e398">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Manifestum est autem hunc voluntatis modum, 
+      <lb ed="#P" n="56"/>qui est secundum praeparationem, sub aliquo 
+      quin<lb ed="#P" n="57" break="no"/>que modorum non comprehendi. Nam qui praecipit 
+      <lb ed="#P" n="58"/>aut consulit, aut permittit, non dicitur velle facere, 
+      <lb ed="#P" n="59"/>sed velle ab alio fieri, sicut qui prohibet velle non 
+      fie<lb ed="#P" n="60" break="no"/>ri. Qui autem operatur, non praeparat, sed jam facit. 
+    </p>
+            <p xml:id="bt67yj-k73138-d1e416">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Notandum postremo quod voluntas signi qua parte 
+      <lb ed="#P" n="62"/>complectitur praecepta, prohibitiones &amp; consilia, 
+      vo<lb ed="#P" n="63" break="no"/>catur quidem ab apostolo Rom. 12. Voluntas Dei 
+      be<lb ed="#P" n="64" break="no"/>neplacita, verum non ea ratione qua voluntatem Dei 
+      <lb ed="#P" n="65"/>absolutam diximus beneplacitum Dei vocari, lice 
+      <lb ed="#P" n="66"/>apostoli locum imprudenter huc alleget MagisterS. F. 
+      <lb ed="#P" n="67"/>sed ab objecto, quia si fiat &amp; impleatur a nobis, quod 
+      <lb ed="#P" n="68"/>Deus praecipit aut consulit, hoc utique placet Deo, 
+      <lb ed="#P" n="69"/>prout in quadam oratione ecclesiae Deo dicitur: Ut 
+      <lb ed="#P" n="70"/>quae tibi sunt placita, &amp; dictis exequamur &amp; factis. 
+      Un<lb ed="#P" n="71" break="no"/>de &amp; Christus Joa. 8. Ego, inquit, quae placita sunt ei, 
+      <lb ed="#P" n="72"/>facio semper. Ob hanc causam nonnulli tria jam dicta 
+      <lb ed="#P" n="73"/>voluntatis signa referunt advoluntatem, ut vocant, 
+      <lb ed="#P" n="74"/>complacentiae Dei, qua nimirum velle dicitur Deus 
+      <!--0217.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>vel praecipiendo, vel exhortando omne virtutis opus. 
+      <lb ed="#P" n="76"/>Cui proinde voluntati contrarium sit, quicquid Deo 
+      <lb ed="#P" n="77"/>displicere dicimus, id est, omne opus vitiosum. 
+    </p>
+            <p xml:id="bt67yj-k73138-d1e462">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Caeterum quaeret aliquis, quomodo praeceptum, 
+      <lb ed="#P" n="79"/>consilium &amp; alia quae diximus, recte vocentur signa 
+      <lb ed="#P" n="80"/>divinae voluntatis, cum saepenumero Deus ea non 
+      ve<lb ed="#P" n="81" break="no"/>lit quae praecipit aut consulit, nunquam autem eaquae 
+      <lb ed="#P" n="82"/>tantummodo permittit, &amp; per hoc falsa signa esse 
+      vi<lb ed="#P" n="83" break="no"/>deantur. Verum ex dictis facilis est responsio, non haec 
+      <lb ed="#P" n="84"/>dici signa divinae voluntatis aut signa beneplacitiDei, 
+      <lb ed="#P" n="85"/>tametsi Magister utroque modo loquatur, sed 
+      simpli<lb ed="#P" n="86" break="no"/>citer signa voluntatis seu beneplaciti. Quae quidem 
+      <lb ed="#P" n="87"/>signa ut ait S. Tho. art. 11. ad 2. dicuntur voluntates. 
+      <lb ed="#P" n="88"/>divinae, non quia sunt signa quod Deus velit; sed quia. 
+      <lb ed="#P" n="89"/>ea quae in nobis esse solent signa volendi, in Deo vo¬¬ 
+      <lb ed="#P" n="90"/>luntates dicuntur. Sicut, inquit, punitio non est si¬¬ 
+      <lb ed="#P" n="91"/>gnum quod in Deo sit ira sed punitio ex eo ipso quod in 
+      <lb ed="#P" n="92"/>nobis est signum trae, in Deo dicitur ira. Quam rem 
+      <lb ed="#P" n="93"/>etiam in corpore ejusdem articuli plensus explicat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

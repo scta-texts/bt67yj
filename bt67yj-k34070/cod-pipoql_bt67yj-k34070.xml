@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="91"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k34070"><!-- l1d29c2" -->
+            <head xml:id="bt67yj-k34070-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k34070-Hd1e103" type="question-title">Inter principium et causam quid intersit</head>
+            <p xml:id="bt67yj-k34070-d1e106">
+               <lb ed="#P" n="34"/>§. 2. Inter principium &amp; causam quid intersit.
+    </p>
+            <p xml:id="bt67yj-k34070-d1e111">
+               <lb ed="#P" n="35"/>scriptorum Latinorum, praesertim 
+      Schola<lb ed="#P" n="36" break="no"/>sticorum inter principium &amp; causam hoc 
+      in<lb ed="#P" n="37" break="no"/>terest; quod principium latius pateat, quam causa, 
+      <lb ed="#P" n="38"/>utpote quae tantum ad effectum referatur: Effectus 
+      <lb ed="#P" n="39"/>autem non recte dicitur nisi quod factum sit. Quare 
+      <lb ed="#P" n="40"/>cum in illa summa Trinitate nefas sit factum aliquid 
+      <lb ed="#P" n="41"/>dicere, negant nostri in divinis personam respectu 
+      <lb ed="#P" n="42"/>personae, vel causam esse, vel effectum. Quo fit ut 
+      <lb ed="#P" n="43"/>causae nomen Deo tribui nolint nisi respectu 
+      creatu<lb ed="#P" n="44" break="no"/>rarum. Idem probant ex hac causae definitione: Causa 
+      <lb ed="#P" n="45"/>est ad cujus esse, sequitur aliud. At in divinis non est 
+      <lb ed="#P" n="46"/>aliud; non ergo ibi quippiam est causa alterius. 
+      Prin<lb ed="#P" n="47" break="no"/>cipium vero generaliter ad principiatum refertur, 
+      <lb ed="#P" n="48"/>quod non est necesse in his quae facta sunt contineri. 
+      <lb ed="#P" n="49"/>Quare nihil vetat in divinis personam respectu 
+      per<lb ed="#P" n="50" break="no"/>sonae principium vocari. Caeterum Graeci his duobus 
+      <lb ed="#P" n="51"/>vocabulis causae &amp; principii promiscue atque 
+      indif<lb ed="#P" n="52" break="no"/>ferenter utuntur, causam videlicet referentes non 
+      <lb ed="#P" n="53"/>ad rem effectam; sed ad omne id quod ab alio 
+      qua<lb ed="#P" n="54" break="no"/>cunque ratione producitur ac dependet, quod uno 
+      <lb ed="#P" n="55"/>generali nomine vocari potest causatum. Quo sane 
+      <lb ed="#P" n="56"/>modo causa non est aliud quam principium. Hoc 
+      <lb ed="#P" n="57"/>igitur sensu patrem, filii, &amp; spiritus sancti causam 
+      <lb ed="#P" n="58"/>esse passim fatentur ac docent iidem Graeci, ut 
+      Igna<lb ed="#P" n="59" break="no"/>tius in epistola ad Philippenses, Basilius lib. 2. &amp; 
+      <lb ed="#P" n="60"/>3. contra Eunomium, Gregorius Nazianzenus lib. 2. 
+      <lb ed="#P" n="61"/>de Theologia, &amp; lib. 4. object. 3. &amp; in oratione ad 
+      <lb ed="#P" n="62"/>Episcopos Aegypti. Gregorius Nyssenus in lib. ad 
+      <lb ed="#P" n="63"/>Ablabium, ubi tres personas distinguens dicit in iis 
+      <lb ed="#P" n="64"/>aliud esse causam, aliud ex causa, aliud ex eo quod 
+      <lb ed="#P" n="65"/>est ex causa. Item Chrysost. hom. 2. in epist. Heb. &amp; 
+      <lb ed="#P" n="66"/>S. Joan. Damascenus lib. I. de fide cap. 8. 9. 10. &amp; 11. 
+      <lb ed="#P" n="67"/>&amp; lib. 4. cap. 20. 
+    </p>
+            <p xml:id="bt67yj-k34070-d1e185">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Sciendum autem ne Latinos quidem veteres, ab 
+      <lb ed="#P" n="69"/>hoc loquendi modo prorsus abhorruisse. Nam 
+      Hila<lb ed="#P" n="70" break="no"/>rius lib. 12. de Trinitate, cum de filio loqueretur. 
+      <lb ed="#P" n="71"/>Ejus, inquit, qui est ad id quod est, causa pater est 
+      <lb ed="#P" n="72"/>Et aperte S. Augustinus lib. 83. quaest. 16. ostendit 
+      <!--0114.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Deum esse causam sempiternam sempiternae suae 
+      sa<lb ed="#P" n="74" break="no"/>pientiae; id est, filii. Sed &amp; illis multo recentior <name xml:id="bt67yj-k34070-Nd1e208">
+      Hu<lb ed="#P" n="75" break="no"/>go Vict.</name> quaest. 214. in epist. Roman. filium esse 
+      cau<lb ed="#P" n="76" break="no"/>sam spiritus sancti docet. Unde &amp; Latini in Flor. 
+      Sy<lb ed="#P" n="77" break="no"/>nodo, sess. ultima, identidem inculcant, patrem &amp; 
+      <lb ed="#P" n="78"/>filium esse causam Spiritus sancti, scilicet 
+      conformi<lb ed="#P" n="79" break="no"/>ter cum Graecis patribus causae nomine utentes. Ex 
+      <lb ed="#P" n="80"/>quibus satis apparet, etiam nunc hujusmodi 
+      sermo<lb ed="#P" n="81" break="no"/>nem inoffense pronunciari posse, dummodo de 
+      sen<lb ed="#P" n="82" break="no"/>tentia constet, atque intelligatur causam, non ad 
+      <lb ed="#P" n="83"/>effectum sed ad causatum, id est, ad id quod 
+      pro<lb ed="#P" n="84" break="no"/>ducitur, referri. 
+    </p>
+            <p xml:id="bt67yj-k34070-d1e235">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Denique notandum apud veteres, patrem interdum 
+      <lb ed="#P" n="86"/>vocari authorem filii, ut saepenumero apud S. 
+      Hila<lb ed="#P" n="87" break="no"/>rium. Quomodo &amp; S. Augustinus lib. 3. contraMax. 
+      <lb ed="#P" n="88"/>c. 14. dixit Spiritum sanctum procedere a solo patre, 
+      <lb ed="#P" n="89"/>tanquam principali authore. Et apud eundem serm. 
+      <lb ed="#P" n="90"/>22. de tempore, dicitur filius coaeternus authori, id 
+      <lb ed="#P" n="91"/>est, patri. Sic &amp; Prudentius in Apotheosi contra 
+      <lb ed="#P" n="92"/>Unionitas, dicit Christum, Illo authore satum, nullus 
+      <lb ed="#P" n="93"/>cui praefuit author. Ambrosius autem lib. 10. in Luc. 
+      <lb ed="#P" n="94"/>sub initium, patrem dicit esse radicem filii. Ac rursum 
+      <lb ed="#P" n="95"/>Prudentius in Apoth. contra Patripassianos patrem 
+      <lb ed="#P" n="96"/>vocat fontem Dei, imo &amp; fontem deitatis. Quod idem 
+      <lb ed="#P" n="97"/>legitur etiam apud Dionysium de divinis nom. c. 1. 
+      <lb ed="#P" n="98"/>Totum autem hoc repetunt patres Latini in Synodo 
+      <lb ed="#P" n="99"/>Flor. sess. ultima dicentes patrem esse fontem, 
+      radi<lb ed="#P" n="100" break="no"/>cem &amp; causam divinitatis. Quibus nominibus non 
+      <lb ed="#P" n="101"/>aliud quam principium significatur. Nec proprie 
+      di<lb ed="#P" n="102" break="no"/>vinitatis ipsius causam vel principium aliquod esse 
+      <lb ed="#P" n="103"/>volunt memorati patres, cum divina essentia neque 
+      <lb ed="#P" n="104"/>gignat, neque gignatur, neque omnino producatur, 
+      <lb ed="#P" n="105"/>ut alibi docuimus; Sed vel abstractum loco concreti 
+      <lb ed="#P" n="106"/>posuerunt, vel sensus est patrem esse causam &amp; autho 
+      <lb ed="#P" n="107"/>rem divinitatis communicatae reliquis personis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

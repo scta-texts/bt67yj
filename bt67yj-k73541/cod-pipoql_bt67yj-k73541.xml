@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="194"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k73541"><!-- l1d45c8" -->
+            <head xml:id="bt67yj-k73541-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-k73541-Hd1e103" type="question-title">Alia quadam voluntatis Dei divisio declaratur</head>
+            <p xml:id="bt67yj-k73541-d1e106">
+               <lb ed="#P" n="94"/>§. 8. Alia quadam voluntatis Dei divisio declaratur. 
+    </p>
+            <p xml:id="bt67yj-k73541-d1e111">
+               <lb ed="#P" n="95"/>INdicat Joannes Damascenus lib. 2. de fide orth. 
+      <lb ed="#P" n="96"/>Acap. 29. divinae voluntatis aliam quandam 
+      divisio<lb ed="#P" n="97" break="no"/>nem, scilicet in antecedentem &amp; consequentem, sive 
+      <lb ed="#P" n="98"/>in primam &amp; secundam. Qua distinctione doctores 
+      <lb ed="#P" n="99"/>scholastici non raro utuntur. Quam &amp; S. Thomas 
+      ex<lb ed="#P" n="100" break="no"/>plicat art. 6. ad 1. ac primo dicit, hanc 
+      distinctionem<lb ed="#P" n="101" break="no"/>non accipi ex parte ipsius voluntatis divinae, in 
+      qua<lb ed="#P" n="102" break="no"/>nihil est prius aut posterius, sed ex parte volitorum. ¬ 
+      <lb ed="#P" n="103"/>Deinde rem ita declarat, quia unumquodque secun¬¬ 
+      <lb ed="#P" n="104"/>dum quod bonum est, sic volitum est a Deo. 
+      Potest<lb ed="#P" n="105" break="no"/>autem aliquid prima sui consideratione, id est, ut ab¬¬ 
+      <lb ed="#P" n="106"/>solute consideratur bonum esse aut malum, quod ta¬¬ 
+      <lb ed="#P" n="107"/>men prout cum adjuncto aliquo consideratur, 
+      quae<lb ed="#P" n="108" break="no"/>quidem est consequens ejus consideratio, 
+      contrario<lb ed="#P" n="109" break="no"/>modo se habeat. Ut exemplicausa hominem 
+      vivere<lb ed="#P" n="110" break="no"/>bonum est, &amp; hominem occidi malum est, si 
+      absolute<lb ed="#P" n="111" break="no"/>haec duo considerentur: sed si aliquid addatur 
+      circa<lb ed="#P" n="112" break="no"/>hominem, velut quod sit homicida aut alias 
+      reipu<lb ed="#P" n="113" break="no"/>blicae perniciosus, sic malum erit eum vivere, &amp; 
+      bo<lb ed="#P" n="114" break="no"/>num tolli e medio. Unde recte dixeris, quod 
+      judex<lb ed="#P" n="115" break="no"/>antecedenter vult omnem hominem vivere, sed con¬¬ 
+      <lb ed="#P" n="116"/>sequenter vult aliquos homines occidi, ut 
+      homicidas<lb ed="#P" n="117" break="no"/>&amp; sacrilegos. Similiter ergo Deus quaedam velle dici¬¬ 
+      <lb ed="#P" n="118"/>tur antecedenter secundum primam &amp; nudam 
+      rerum<lb ed="#P" n="119" break="no"/>considerationem, quaedam vero consequenter, si 
+      vi<lb ed="#P" n="120" break="no"/>delicet res secundum quaedam adjuncta 
+      consideren<lb ed="#P" n="121" break="no"/>tur. Quaecunque igitur secundum primam, id est, 
+      <lb ed="#P" n="122"/>absolutam rerum considerationem bona sunt, ea 
+      vel<lb ed="#P" n="123" break="no"/>le dicitur Deus prima, id est, antecedente voluntate, 
+      <lb ed="#P" n="124"/>ut hominum vitam, salutem, felicitatem. Quae vero 
+      <lb ed="#P" n="125"/>bona sunt secunda consideratione, qua res cum 
+      ad<lb ed="#P" n="126" break="no"/>juncto considerantur, ea vult secunda seu 
+      consequen<lb ed="#P" n="127" break="no"/>te voluntate, ut hominum impiorum mortem, 
+      interi<lb ed="#P" n="128" break="no"/>tum, damnationem. Itaque ad priorem Dei 
+      volunta<lb ed="#P" n="129" break="no"/>tem pertinet, velle omnes homines salvare, neminem 
+      <lb ed="#P" n="130"/>velle perire, nolle cujusquam mortem aut miseriam. 
+      <lb ed="#P" n="131"/>Ad posteriorem, velle aliquos damnare, perdere, 
+      tem<lb ed="#P" n="132" break="no"/>poralibus &amp; aeternis suppliciis afficere. Quorum 
+      om<lb ed="#P" n="133" break="no"/>nium exempla facile est depromere e sacris literis. 
+    </p>
+            <p xml:id="bt67yj-k73541-d1e198">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Videntur autem ad antecedentem Dei voluntatem 
+      <lb ed="#P" n="135"/>ea quoque referri posse, quae Deus vult peccato 
+      qui<lb ed="#P" n="136" break="no"/>dem praesupposito, non tamen peccato exigente, sed 
+    </p>
+            <p xml:id="bt67yj-k73541-d1e210">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> praeter ejus meritum, cujusmodi sunt omnia 
+      operami<lb ed="#P" n="138" break="no"/>sericordiae Dei circa peccatores, velut vocatio, 
+      con<lb ed="#P" n="139" break="no"/>versio, remissio peccatorum, &amp;c. quomodo dicit 
+      Do<lb ed="#P" n="140" break="no"/>minus Ezech. 18. Nunquid voluntatis mea est mors 
+      im<lb ed="#P" n="141" break="no"/>pii, &amp; non ut convertatur &amp; vivat? &amp; 33. Nolo mortem 
+      <lb ed="#P" n="142"/>impii, sed ut convertatur &amp; vivat. Sed de horum &amp; 
+      si<lb ed="#P" n="143" break="no"/>milium intellectu plenius infra ad proximam 
+      distin<lb ed="#P" n="144" break="no"/>ctionem, ubi etiam usus patebit hujus divisionis. 
+    </p>
+            <p xml:id="bt67yj-k73541-d1e232">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Illud quoque notandum ad neutrum hujus 
+      divisio<lb ed="#P" n="146" break="no"/>nis membrum pertinere peccata, quia neque ante¬ 
+      <!--0218.xml-->
+      <pb ed="#P" n="195"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cedenter ea vult Deus, neque consequenter, licet ea 
+      <lb ed="#P" n="2"/>velit voluntate signi, quatenus permittit. Unde hac 
+      <lb ed="#P" n="3"/>parte latius patet superior voluntatis divisio. 
+      Quam<lb ed="#P" n="4" break="no"/>quam &amp; haec quaedam continet, quae superiori non 
+      <lb ed="#P" n="5"/>continentur, ut est, omnes peccatores disperdere. 
+      <lb ed="#P" n="6"/>Vult enim hoc Deus consequenter, nec tamen 
+      ab<lb ed="#P" n="7" break="no"/>solute, quia multos peccatores non disperdit sed 
+      <lb ed="#P" n="8"/>convertit &amp; salvat, neque id vult voluntate alicujus 
+      <lb ed="#P" n="9"/>signi, ut apparet discurrenti per singula. 
+    </p>
+            <p xml:id="bt67yj-k73541-d1e267">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Quod si membra utriusque divisionis hinc inde 
+      <lb ed="#P" n="11"/>conferantur, reperietur quod quaedam Deus velit 
+      vo<lb ed="#P" n="12" break="no"/>luntate antecedente, quae non voluntate beneplaciti 
+      <lb ed="#P" n="13"/>&amp; contra. Item quod quaedam velit antecedente, 
+      <lb ed="#P" n="14"/>quae non voluntate signi &amp; contra: Rursum quod 
+      <lb ed="#P" n="15"/>quaedam velit voluntate consequente, quae non 
+      vo<lb ed="#P" n="16" break="no"/>luntate beneplaciti, &amp; contra. Item quod quaedam 
+      <lb ed="#P" n="17"/>velit consequente voluntate quae non voluntato signi 
+      <lb ed="#P" n="18"/>&amp; contra, tametsi alii quidam de his aliter sentiant, 
+      <lb ed="#P" n="19"/>de qua re proxima distinctione. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

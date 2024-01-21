@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="173"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k65739"><!-- l1d41c14" -->
+            <head xml:id="bt67yj-k65739-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-k65739-Hd1e103" type="question-title">Proponuntur argumenta diversae opinionis 
+      cum responsione</head>
+            <p xml:id="bt67yj-k65739-d1e106">
+               <lb ed="#P" n="125"/> §. 14. Proponuntur argumenta diversae opinionis 
+      <lb ed="#P" n="126"/>cum responsione.
+    </p>
+            <p xml:id="bt67yj-k65739-d1e113">
+               <lb ed="#P" n="127"/>NUnc eorum explicanda est opinio qui 
+      Sancto<lb ed="#P" n="128" break="no"/>Irum angelorum electionem ex praevisis meritis 
+      <lb ed="#P" n="129"/>statuunt. Hi enim quamvis fateantur Deum etiam in 
+      <lb ed="#P" n="130"/>sanctis angelis &amp; in primis hominibus adhuc 
+      inte<lb ed="#P" n="131" break="no"/>gris omnium bonorum operum atque ipsius 
+      ange<lb ed="#P" n="132" break="no"/>licae perseverantiae fuisse authprem, id quod satis 
+      <lb ed="#P" n="133"/>ostendi dicunt per ea quae superius adducta sunt 
+      <lb ed="#P" n="134"/>ex Augustino &amp; aliis; hegant tamen eodem modo 
+      <lb ed="#P" n="135"/>Deum in illis ea bona operatum fuisse, quo 
+      ope<lb ed="#P" n="136" break="no"/>ratur in homine lapso. In illis enim, inquiunt, 
+      ope<lb ed="#P" n="137" break="no"/>rabatur secundum principia in ipsa creatione insita 
+      <lb ed="#P" n="138"/>seu collata, id est, secundum gratiam aliosque 
+      virtu<lb ed="#P" n="139" break="no"/>tum habitus, cum quibus creati fuerunt adjuncto 
+      <lb ed="#P" n="140"/>adjutorio assistentiae ipsius ad perseverandum 
+      ne<lb ed="#P" n="141" break="no"/>cessario: In homine autem lapso longe diversa 
+      ratio<lb ed="#P" n="142" break="no"/>ne. Cum enim donum justitiae in creatione 
+      acce<lb ed="#P" n="143" break="no"/>ptum homo peccando amiserit, non operatur nunc 
+      <lb ed="#P" n="144"/>in eo Deus secundum aliquod semen vel principium 
+      <!--0197.xml-->
+      <pb ed="#P" n="174"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>in illo ex prima conditione relictum, cum potius in 
+      <lb ed="#P" n="2"/>eo jam inveniatur principium ad operationes 
+      divi<lb ed="#P" n="3" break="no"/>nis operationibus contrarias, sed secundum 
+      proposi<lb ed="#P" n="4" break="no"/>tum gratiae suae, quo praeter ordinem initio naturae 
+      <lb ed="#P" n="5"/>institutum decrevit hominis misereri eique 
+      beneface<lb ed="#P" n="6" break="no"/>re, videlicet efficaciter ejus voluntatem ad se 
+      con<lb ed="#P" n="7" break="no"/>vertendo, atque in ea &amp; per eam operando velle 
+      <lb ed="#P" n="8"/>&amp; perficere quaecunque bona. Ex quibus intelligi 
+      <lb ed="#P" n="9"/>volunt, quod sit discrimen inter praedestinationem 
+      <lb ed="#P" n="10"/>angelorum, qualis &amp; hominis integri fuisset si 
+      per<lb ed="#P" n="11" break="no"/>severasset, &amp; praedestinationem hominis lapsi. Nam 
+      <lb ed="#P" n="12"/>hujus quidem praedestinatio propositum est 
+      mise<lb ed="#P" n="13" break="no"/>rendi, id est, gratuitam exhibendi misericordiam 
+      <lb ed="#P" n="14"/>peccatori, qui nihil ex eo quod in creatione 
+      ac<lb ed="#P" n="15" break="no"/>ceperat, conferre posset ad promerendam vel 
+      im<lb ed="#P" n="16" break="no"/>petrandam salutem. Illorum vero 
+      praedestinatio<lb ed="#P" n="17" break="no"/>nem dicunt esse propositum dandi vitam aeternam 
+      <lb ed="#P" n="18"/>pro justitia in qua eos per suum liberum arbitrium 
+      <lb ed="#P" n="19"/>perseveraturos Deus praeviderat, ita ut haec 
+      per<lb ed="#P" n="20" break="no"/>severantia praevisa sit praedestinationis eorum 
+      cau<lb ed="#P" n="21" break="no"/>sa. Quocirca ad statuendam angelorum 
+      praedesti<lb ed="#P" n="22" break="no"/>nationem putant non esse necessarium, ut dicatur 
+      <lb ed="#P" n="23"/>iis a Deo plus auxilii collarum fuisse quam aliis 
+      <lb ed="#P" n="24"/>qui ceciderunt, quandoquidem &amp; hi stare, id est, 
+      <lb ed="#P" n="25"/>perseverare potuerint; per illud solum quod 
+      acce<lb ed="#P" n="26" break="no"/>perant, nullo videlicet alio superaddito, quos eos 
+      <lb ed="#P" n="27"/>actu perseverantes faceret, quale necessarium est 
+      <lb ed="#P" n="28"/>&amp; per Christum datur hominibus lapsis 
+      praedesti<lb ed="#P" n="29" break="no"/>natis. Unde etiam fatentur a libero arbitrio 
+      ange<lb ed="#P" n="30" break="no"/>lorum non autem a Dei voluntate petendum esse 
+      <lb ed="#P" n="31"/>originale discrimen bonorum a malis, ac 
+      praede<lb ed="#P" n="32" break="no"/>stinatorum a reprobis. Quin &amp; nonnulli sic 
+      opi<lb ed="#P" n="33" break="no"/>nantium eo progrediuntur, ut dicant primum 
+      ho<lb ed="#P" n="34" break="no"/>minem in statu integro non habuisse opus 
+      oratio<lb ed="#P" n="35" break="no"/>ne, sed tantum debuisse gratias agere Deo pro 
+      do<lb ed="#P" n="36" break="no"/>nis acceptis, ut quae abunde ipsi ad beatitudinem 
+      <lb ed="#P" n="37"/>consequendam sufficerent, modo iis uti vellet, 
+      quo<lb ed="#P" n="38" break="no"/>niam ut vellet, in solo positum esset libero ejus 
+      ar<lb ed="#P" n="39" break="no"/>bitrio. Quod totum similiter de angelis tradunt. 
+      <lb ed="#P" n="40"/>Hanc vero suam de praedestinatione angelorum 
+      do<lb ed="#P" n="41" break="no"/>ctrinam praecipue probari contendunt ex 
+      Augusti<lb ed="#P" n="42" break="no"/>no, discrimen supra dictum inter hominem rectum 
+      <lb ed="#P" n="43"/>ac subinde etiam angelum una ex parte, &amp; 
+      ho<lb ed="#P" n="44" break="no"/>minem lapsum ex altera parte variis locis 
+      consti<lb ed="#P" n="45" break="no"/>tuente. Quorum praecipuus est lib. de corr. &amp; gr. 
+      <lb ed="#P" n="46"/>cap. 10. 11. &amp; 12. Nam 10. capite dicit Deum sic 
+      or<lb ed="#P" n="47" break="no"/>dinasse angelorum &amp; hominum vitam, ut in ea prius 
+      <lb ed="#P" n="48"/>ae ostenderet quid posset eorum liberum arbitrium, 
+      <lb ed="#P" n="49"/>deinde quid posset suae gratiae beneficium, 
+      justitiae<lb ed="#P" n="50" break="no"/>que judicium. Itaque angelos alios per liberum 
+      ar<lb ed="#P" n="51" break="no"/>bitrium refugas factos esse a Deo, alios vero per 
+      <lb ed="#P" n="52"/>idem liberum arbitrium in veritate stetisse, per 
+      <lb ed="#P" n="53"/>quod nimirum &amp; illi stare potuerint. Quare 
+      simi<lb ed="#P" n="54" break="no"/>liter &amp; hominem per ipsum liberum arbitrium in 
+      <lb ed="#P" n="55"/>statu rectitudinis in qua creatus erat, permanere 
+      <lb ed="#P" n="56"/>potuisse. Et capite 11. ita distinguit inter gratiam 
+      <lb ed="#P" n="57"/>quae data fuit homini integro, &amp; quae datur lapso, 
+      <lb ed="#P" n="58"/>quod illam Deus reliquerit in hominis libero 
+      arbi<lb ed="#P" n="59" break="no"/>trio, ut in ea si vellet, permaneret. Tale, inquit, eratm 
+      <lb ed="#P" n="60"/>adjutorium quod desereret cum vellet, &amp; in quo 
+      <lb ed="#P" n="61"/>permaneret, si vellet, non quo fieret ut vellet. Haec 
+      <lb ed="#P" n="62"/>prima est gratia, quae data est primo Adam, sed haec 
+      <lb ed="#P" n="63"/>potentior est in secundo Adam. Prima est enim quae 
+      <lb ed="#P" n="64"/>fit ut habeat homo justitiam si velit, secunda ergo 
+      <lb ed="#P" n="65"/>plus potest, qua etiam fit ut velit. Et alia in eandem 
+      <lb ed="#P" n="66"/>sententiam, ubi &amp; de sanctis angelis subjungit, 
+      <lb ed="#P" n="67"/>quod cadentibus aliis per liberum arbitrium, per idem 
+      <lb ed="#P" n="68"/>liberum arbitrium ipsi steterunt. Atque his similia 
+      <lb ed="#P" n="69"/>multa repetit cap. 12. ubi &amp; dicere videtur, quod 
+      <lb ed="#P" n="70"/>homo integer in seipso atque in suis meritis gloriari 
+      <lb ed="#P" n="71"/>potuisset. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e315">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Alius locus est libro de dono persever. capite 7. 
+      <lb ed="#P" n="73"/>ubi dicit in viribus hominis antequam caderet, 
+      fuis<lb ed="#P" n="74" break="no"/>se, ut a Deo non discederet. Et hanc voluntatis li¬ 
+      <!--0197.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>bertatem apparuisse in angelis, qui diabolo cum 
+      <lb ed="#P" n="76"/>suis cadente in veritate steterunt. Post casum autem 
+      <lb ed="#P" n="77"/>hominis Deum voluisse non nisi ad gratiam suam 
+      <lb ed="#P" n="78"/>pertinere ut homo actedat ad ipsum, vel ab ipso non 
+      <lb ed="#P" n="79"/>recedat. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e342">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Similiter ench. cap. 104. &amp; quatuor sequentibus 
+      <lb ed="#P" n="81"/>modo praedicto distinguit inter statum hominis 
+      inte<lb ed="#P" n="82" break="no"/>gri &amp; lapsi, quoad gratiam quae sit ad perseverandam 
+      <lb ed="#P" n="83"/>&amp; salutem promerendam necessaria. Indicat etiam 
+      <lb ed="#P" n="84"/>hujusmodi discrimen lib. 14. de civit. cap. 27. &amp; 
+      <lb ed="#P" n="85"/>de nat. &amp; gratia cap. 48. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e360">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> In hac sententia Augustinum sequi visus est 
+      Pros<lb ed="#P" n="87" break="no"/>per ut videre est libro 1. de vita contempl. cap. 3. &amp; 
+      <lb ed="#P" n="88"/>contra collat. cap. 18. &amp; ad cap. Gall. resp. 8. Item 
+      <lb ed="#P" n="89"/>Gregor. lib. 5. mor. cap. 28. ubi dicit angelos bonos 
+      <lb ed="#P" n="90"/>ex arbitrio stetisse. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e376">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Eadem doctrina satis aperte reperitur apud 
+      Ansel<lb ed="#P" n="92" break="no"/>mum lib. de casu diaboli. Ubi quamvis cap. 1. dicat 
+      <lb ed="#P" n="93"/>etiam in angelis locum habere illud Apostoli, Quid 
+      <lb ed="#P" n="94"/>habes quod non accepisti, aliasque ejusmodi scripturae 
+      <lb ed="#P" n="95"/>sententias, quibus omne bonum nostrum in Deum 
+      <lb ed="#P" n="96"/>refertur, postea tamen cap. 2: 3. &amp; 4. docet Deum 
+      <lb ed="#P" n="97"/>ideo non dedisse angelo apostatae perseverantiam, 
+      <lb ed="#P" n="98"/>quod ille eam non acceperit. Quin &amp; capite 18. 
+      af<lb ed="#P" n="99" break="no"/>firmat quod parem Deo gratiam debeant angelus 
+      <lb ed="#P" n="100"/>bonus &amp; malus; quia, inquit, diabolus sibi 
+      abstu<lb ed="#P" n="101" break="no"/>lit quod Deus dedit &amp; noluit accipere quod Deus 
+      ob<lb ed="#P" n="102" break="no"/>tulit, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e407">
+               <lb ed="#P" n="103"/>Denique <name xml:id="bt67yj-k65739-Nd1e411">Rupertus</name> apertissime in eandem 
+      concur<lb ed="#P" n="104" break="no"/>rit sententiam libro 13. in Matth. ubi inter alia 
+      quae<lb ed="#P" n="105" break="no"/>stionem movens, an fuerit in potestate Dei, 
+      quate<lb ed="#P" n="106" break="no"/>nus angelus &amp; homo non caderent; ad eam ita 
+      res<lb ed="#P" n="107" break="no"/>pondet, ut significet non fuisse hoc in Dei potestate: 
+      <lb ed="#P" n="108"/>Quoniam, inquit, Deus sicut audit, judicat, &amp; 
+      pro<lb ed="#P" n="109" break="no"/>inde non potuit se communicare creaturae, quae causa 
+      <lb ed="#P" n="110"/>est velle seipsam sufficere sibi: Quod quidem ita 
+      <lb ed="#P" n="111"/>dicit, quasi hoc velle creaturae Deus non potuerit 
+      <lb ed="#P" n="112"/>impedfre. Unde &amp; Augustinum reprehendit 
+      quo<lb ed="#P" n="113" break="no"/>dam loco dicentem: Quis audeat credere vel dicere 
+      <lb ed="#P" n="114"/>in Dei potestate non fuisse, ut neque angelus neque 
+      <lb ed="#P" n="115"/>homo caderet? Dicit autem hoc Augustinus lib. 14. 
+      <lb ed="#P" n="116"/>de civit. cap. 27. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e442">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> His addunt argumentum ex scriptura Matth. 24. 
+      <lb ed="#P" n="118"/>ubi praedestinatis hominibus non dicitur: Percipite 
+      <lb ed="#P" n="119"/>regnum, quod angelis paratum est, sicut reprobis 
+      <lb ed="#P" n="120"/>hominibus dicitur. Ite in ignem qui paratus est 
+      diabo<lb ed="#P" n="121" break="no"/>lo &amp; angelis ejus. Hujus enim diversitatis in verbis 
+      <lb ed="#P" n="122"/>sententiae judicis rationem hanc esse volunt, quod 
+      re<lb ed="#P" n="123" break="no"/>probatio quidem hominum &amp; angelorum similis sit, 
+      <lb ed="#P" n="124"/>non autem praedestinatio, sed horum quidem ex 
+      <lb ed="#P" n="125"/>praescientia perseverantis voluntatis, illorum autem 
+      <lb ed="#P" n="126"/>ex solo beneplacito Dei. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e468">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Verum haec argumenta non tanti sunt, ut propter 
+      <lb ed="#P" n="128"/>ea recedendum nobis existimemus a doctrina 
+      gratui<lb ed="#P" n="129" break="no"/>tae praedestinationis etiam angelorum, quam 
+      osten<lb ed="#P" n="130" break="no"/>dimus &amp; scripturis &amp; rationi &amp; patrum dictis esse 
+      <lb ed="#P" n="131"/>quam maxime consentaneam. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e485">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Primum enim, quod attinet ad distinctionem 
+      <lb ed="#P" n="133"/>operationis divinae in angelis sive in homine integro, 
+      <lb ed="#P" n="134"/>&amp; in homine lapso; non potest ea sic intelligi, ut 
+      <lb ed="#P" n="135"/>non in illis aeque ut in isto, Deus efficaciter omnem 
+      <lb ed="#P" n="136"/>bonae voluntatis motum operatus fuisse dicatur, 
+      <lb ed="#P" n="137"/>etiamsi hoc faceret secundum principia in creatione 
+      <lb ed="#P" n="138"/>indita, sicut in aliis quibuscunque operatur 
+      creatu<lb ed="#P" n="139" break="no"/>ris. Neque enim potentiae &amp; inclinationes naturales 
+      <lb ed="#P" n="140"/>etiam cum habitibus superadditis ita sufficiunt ad 
+      <lb ed="#P" n="141"/>eliciendas operationes, ut non sit necesse 
+      hujus<lb ed="#P" n="142" break="no"/>modi principia a primo movente ad ipsas 
+      actio<lb ed="#P" n="143" break="no"/>nes applicari, quemadmodum multis locis docet 
+      <lb ed="#P" n="144"/>Sanctus Thomas. Deinde si principia creationis 
+      <lb ed="#P" n="145"/>sufficiebant saltem cum adjutorio quotidiano, 
+      pa<lb ed="#P" n="146" break="no"/>rato quidem homini, sed non dante ipsum velle; 
+      <lb ed="#P" n="147"/>cur non similiter principia bene operandi quae 
+      <lb ed="#P" n="148"/>homo lapsus accipit per Christum, id est, virtutes 
+      <!--0198.xml-->
+      <pb ed="#P" n="175"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>&amp; dona, sufficiant ei jam reparato cum simili 
+      adju<lb ed="#P" n="2" break="no"/>torio ad eliciendas bonas actiones, tunc saltem 
+      quan<lb ed="#P" n="3" break="no"/>do nulla contraria concupiscentiae tentatione 
+      impu<lb ed="#P" n="4" break="no"/>gnatur? Fieri enim posse ut quamvis insit homini 
+      <lb ed="#P" n="5"/>concupiscentia mala, nulla tamen tentatione 
+      com<lb ed="#P" n="6" break="no"/>moveatur, affirmat Augustinus libro 6. contra Jul. 
+      <lb ed="#P" n="7"/>capite 8. Quo circa ut quoad divinum adjutorium, 
+      <lb ed="#P" n="8"/>bene distinguamus inter statum angeli hominisque 
+      <lb ed="#P" n="9"/>integri e statum hominis lapsi; retinenda est 
+      omni<lb ed="#P" n="10" break="no"/>no doctrina Sancti Thomae quam tradit 1. 2. q. 109. 
+      <lb ed="#P" n="11"/>art. 1. dicens: quantumcumque natura aliqua 
+      cor<lb ed="#P" n="12" break="no"/>poralis vel spiritualis ponatur perfecta, non posse 
+      <lb ed="#P" n="13"/>eam in suum actum procedere, nisi moveatur a Deo 
+      <lb ed="#P" n="14"/>sccundum ordinem providentiae ipsius. Et art. 2. 
+      <lb ed="#P" n="15"/>ubi distinguens naturam hominis integram a 
+      cor<lb ed="#P" n="16" break="no"/>rupta dicit eam secundum utrumque statum 
+      indige<lb ed="#P" n="17" break="no"/>re auxilio divino ad faciendum vel volendum 
+      quod<lb ed="#P" n="18" break="no"/>cunque bonum, sicut primo movente. Discrimen 
+      <lb ed="#P" n="19"/>autem esse quoad virtutem operativam, quia homo 
+      <lb ed="#P" n="20"/>in statu naturae integrae indigebat virtute gratuita, 
+      <lb ed="#P" n="21"/>quantum ad unum, id est, ad operandum &amp; 
+      volen<lb ed="#P" n="22" break="no"/>dum bonum supernaturale. Sed in statu naturae 
+      cor<lb ed="#P" n="23" break="no"/>ruptae, quantum ad duo, scilicet ut sanetur, &amp; 
+      ulte<lb ed="#P" n="24" break="no"/>rius, ut bonum supernaturalis virtutis operetur. Et 
+      <lb ed="#P" n="25"/>in resp. ad 1. argumentum sumptum ex eo quod 
+      ho<lb ed="#P" n="26" break="no"/>mo suorum actuum dominus est: Mens hominis, 
+      <lb ed="#P" n="27"/>inquit, etiam sani non ita habet dominium sui actus, 
+      <lb ed="#P" n="28"/>quin indigeat moveri a Leo, &amp; multo magis liberum 
+      <lb ed="#P" n="29"/>ari itrium hominis infirmi post peccatum per quod 
+      <lb ed="#P" n="30"/>impeditur a bono propter corruptionem naturae. Item 
+      <lb ed="#P" n="31"/>articulo 9. docet hominem lapsum ad recte 
+      viven<lb ed="#P" n="32" break="no"/>dum dupliciter indigere auxilio Dei: Uno modo 
+      <lb ed="#P" n="33"/>quantum ad habituale aliquod donum per quod 
+      na<lb ed="#P" n="34" break="no"/>tura humana corrupta sanetur, &amp; etiam sanata 
+      ele<lb ed="#P" n="35" break="no"/>vetur ad operandum opera vitae aeternae meritoria; 
+      <lb ed="#P" n="36"/>Alio modo quoad auxilium gratiae quo a Deo 
+      mo<lb ed="#P" n="37" break="no"/>veatur ad agendum, idque propter duo; Primo 
+      <lb ed="#P" n="38"/>quidem ratione generali, quia nulla res potest in 
+      <lb ed="#P" n="39"/>quemcunque actum prodire nisi virtute motionis 
+      <lb ed="#P" n="40"/>divinae; Secundo ratione speciali propter 
+      conditio<lb ed="#P" n="41" break="no"/>nem status humanae naturae, quae quidem licet per 
+      <lb ed="#P" n="42"/>gratiam sanetur quantum ad mentem, remanet 
+      ta<lb ed="#P" n="43" break="no"/>men in ea corruptio &amp; infectio quantum ad carnem, 
+      <lb ed="#P" n="44"/>per quam servit legi peccati. Quibus verbis rursum 
+      <lb ed="#P" n="45"/>significat primo homini licet non ratione speciali 
+      <lb ed="#P" n="46"/>propter naturae corruptionem, ratione tamen 
+      gene<lb ed="#P" n="47" break="no"/>rali, opus fuisse Dei auxilio movente ad bonum; 
+      <lb ed="#P" n="48"/>quandoquidem etiam in statu gloriae, quando 
+      gra<lb ed="#P" n="49" break="no"/>tia crit omnino perfecta, homo auxilio divino 
+      indi<lb ed="#P" n="50" break="no"/>gebit, ut ib dem dicit responsione ad primum. 
+      Scri<lb ed="#P" n="51" break="no"/>pit autem his consimilia art. 3. 8. &amp; 10. ejusdem 
+      quae<lb ed="#P" n="52" break="no"/>stionis. Item quaest. 3. de malo art. 1. ad 9. Et in 2. 
+      <lb ed="#P" n="53"/>dist. 24. quaest. 1. art. 4. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e648">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Quae vero in contrarium ex Augustino 
+      objiciun<lb ed="#P" n="55" break="no"/>tur, idem Sanctus Thomas videtur sic intellexisse 
+      <lb ed="#P" n="56"/>ut quod ille dicit hominem in primo statu accepisse 
+      <lb ed="#P" n="57"/>donum per quod perseverare posset si vellet, ipsum 
+      <lb ed="#P" n="58"/>autem velle fuisse relictum in ejus libero arbitrio; 
+      <lb ed="#P" n="59"/>accipiendum sit de dono habituali gratiae quod in 
+      <lb ed="#P" n="60"/>genere doni habitualis fuerit sufficiens ad 
+      perse<lb ed="#P" n="61" break="no"/>verandum, non ita tamen quin ad actualem 
+      per<lb ed="#P" n="62" break="no"/>severantiam opus habuerit actuali Dei auxilio 
+      ip<lb ed="#P" n="63" break="no"/>sum in bono conservantis: Et tamen ipsum velle 
+      <lb ed="#P" n="64"/>relictum fuisse dicitur in ejus arbitrio propter 
+      sum<lb ed="#P" n="65" break="no"/>mam facilitatem perseverandi, eo quod juxta 
+      spe<lb ed="#P" n="66" break="no"/>cialem rationem supra dictam non indigeret 
+      auxi<lb ed="#P" n="67" break="no"/>lio movente seu conservante, propterea quod 
+      nul<lb ed="#P" n="68" break="no"/>lam pateretur carnis repugnantiam. Hoc enim est 
+      <lb ed="#P" n="69"/>quod dicit Sanctus Thomas artic. 10. quaestionis 
+      <lb ed="#P" n="70"/>supra dictae ad 3. Quamvis, ut testatur 
+      Augusti<lb ed="#P" n="71" break="no"/>nus, acceperit homo in primo statu donum per quod 
+      <lb ed="#P" n="72"/>perseverare posset, non autem acceperit ut 
+      perse<lb ed="#P" n="73" break="no"/>veraret, nunc autem per gratiam Christi multi 
+      ac<lb ed="#P" n="74" break="no"/>cipiant &amp; donum gratiae quo perseverare possint, &amp; 
+      <lb ed="#P" n="75"/>
+               <!-- line coord error -->
+               <!--0198.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="76"/>ulterius eis detur quod perseverent; Facilius tamen 
+      <lb ed="#P" n="77"/>hominem per gratiae donum perseverare potuisse in 
+      sta<lb ed="#P" n="78" break="no"/>tu innocentiae, in quo videlicet nulla erat rebellia 
+      <lb ed="#P" n="79"/>carnis ad spiritum, quam nunc possumus, &amp;c. Hoc 
+      <lb ed="#P" n="80"/>etiam significare videtur artic. 8. ad 3. ubi 
+      respon<lb ed="#P" n="81" break="no"/>dens ad illud Ecclesiastici 15. Ante hominem vita &amp; 
+      <lb ed="#P" n="82"/>mors, bonum &amp; malum, quodcunque placuerit ei, 
+      <lb ed="#P" n="83"/>dabitur illi, dicit cum Augustino eam sententiam 
+      <lb ed="#P" n="84"/>intelligi de homine secundum statum naturae 
+      inte<lb ed="#P" n="85" break="no"/>grae, quando nondum erat servus peccati, sed 
+      po<lb ed="#P" n="86" break="no"/>terat peccare, &amp; non peccare. Nunc autem etiam 
+      <lb ed="#P" n="87"/>dari homini quodcunque voluerit, sed hoc, inquit, 
+      <lb ed="#P" n="88"/>quod honum velit, habet ex auxilio gratiae, 
+      intel<lb ed="#P" n="89" break="no"/>lige, necessario non tantum ratione generali superius 
+      <lb ed="#P" n="90"/>explicata. Qua ratione etiam homini integro 
+      ne<lb ed="#P" n="91" break="no"/>cessarium erat auxilium quo daretur ipsum velle, 
+      <lb ed="#P" n="92"/>sed ratione speciali propter corruptionem naturae. 
+      <lb ed="#P" n="93"/>Et sane nisi hanc a Sancto Thoma insinuatam 
+      in<lb ed="#P" n="94" break="no"/>telligentiam, verborum Augustini recipiamus, 
+      dif<lb ed="#P" n="95" break="no"/>ficillimum erit, ac ne possibile quidem 
+      Augusti<lb ed="#P" n="96" break="no"/>num sibi ipsi conciliare, id est, ostendere 
+      quemad<lb ed="#P" n="97" break="no"/>modum ea quae objecta sunt, non contrarientur iis 
+      <lb ed="#P" n="98"/>quae prius in diversum ex eodem Augustino fuerant 
+      <lb ed="#P" n="99"/>allata; praesertim ex lib. 12. de civit. capite 9. Cui 
+      <lb ed="#P" n="100"/>loco nunc alium adjicio tam manifestum de primo 
+      <lb ed="#P" n="101"/>homine, quam ille erat de angelis. Nam lib. 8. de 
+      <lb ed="#P" n="102"/>gen. ad lit. cap. 12. cum de homine ut a Deo 
+      institu<lb ed="#P" n="103" break="no"/>tus est, disserens, dixisset eum sic continuo justitiam 
+      <lb ed="#P" n="104"/>accipere a Deo, sicut aer praesente lumine continuo 
+      <lb ed="#P" n="105"/>illuminatur; ad id declarandum eas adhibuit 
+      scriptu<lb ed="#P" n="106" break="no"/>ras, quae loquuntur de homine lapso, ut illam Ephes. 
+      <lb ed="#P" n="107"/>2. Grat: a salvi facti estis per fidem, &amp; hoc non ex 
+      vo<lb ed="#P" n="108" break="no"/>bis, sed Dei donum est, non ex operibus, ne forte quis 
+      <lb ed="#P" n="109"/>extollatur. Ipsius enim sumus figmentum, creati in 
+      <lb ed="#P" n="110"/>Christo Jesu inoperibus bonis, quae praparavit Deus, ut 
+      <lb ed="#P" n="111"/>in illis abundemus. Et Thilip. 2. Deus est qui operatur 
+      <lb ed="#P" n="112"/>in vobis. Cum igitur ex his scripturis recte doceatur 
+      <lb ed="#P" n="113"/>mere gratuitam esse hominis lapsi praedestinationem, 
+      <lb ed="#P" n="114"/>eo quod omne salutare ejus bonum tribuatur 
+      praepa<lb ed="#P" n="115" break="no"/>rationi, id est, praedestinationi divinae. Cumque 
+      <lb ed="#P" n="116"/>etiam per hoc quod dicitur, ne forte quis extollatur 
+      <lb ed="#P" n="117"/>(pro quo noster interpres melius ex Graeco vertit, ut 
+      <lb ed="#P" n="118"/>ne quis glorietur) excludatur omnis gloriatio; 
+      conse<lb ed="#P" n="119" break="no"/>quens ex iisdem fit etiam hominis integri, si manens 
+      <lb ed="#P" n="120"/>in eo statu praedestinatus fuisset, aeque gratuitam, &amp; 
+      <lb ed="#P" n="121"/>absolutam futuram fuisse praedestinationem, &amp; 
+      pro<lb ed="#P" n="122" break="no"/>inde talem esse praedestinationem angelorum, idque 
+      <lb ed="#P" n="123"/>ex Augustini sententia hujusmodi scripturae 
+      testimo<lb ed="#P" n="124" break="no"/>niis utentis ad declarandum, quale fuerit Dei 
+      auxi<lb ed="#P" n="125" break="no"/>lium homini integro concessum. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e815">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Quod si nihilominus adhuc contendat aliquis 
+      Au<lb ed="#P" n="127" break="no"/>gustini verba quae objecta sunt, huc inflecti non 
+      pos<lb ed="#P" n="128" break="no"/>se, putetque eum revera alterius esse sententiae; tum 
+      <lb ed="#P" n="129"/>respondebimus ea quae de adjutorio primi hominis &amp; 
+      <lb ed="#P" n="130"/>angelorum obscurius, &amp; ut videtur, extra scripturae 
+      <lb ed="#P" n="131"/>authoritatem ab illo disputata sunt, ad hoc ut ex ea 
+      <lb ed="#P" n="132"/>comparatione gratia nostrae per Christum 
+      reparatio<lb ed="#P" n="133" break="no"/>nis magis emineret, non debere praejudicare 
+      doctri<lb ed="#P" n="134" break="no"/>nae, quae apud alios patres, ipsumque S. Thomam in 
+      <lb ed="#P" n="135"/>hujusmodi rebus exactissimum doctorem expressior 
+      <lb ed="#P" n="136"/>reperitur; maxime propter rationes in eam partem 
+      <lb ed="#P" n="137"/>gravissimas, &amp; ut nobis videtur, insolubiles, &amp; clare 
+      <lb ed="#P" n="138"/>in scriptura fundatas. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e848">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Idem de Prospero respondemus, qui poene ipsa 
+      <lb ed="#P" n="140"/>Augustini verba posuit, ejusque doctrinae 
+      diligen<lb ed="#P" n="141" break="no"/>tissimus sectator fuit. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e859">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Gregorius autem dicit angelos ex arbitrio 
+      ste<lb ed="#P" n="143" break="no"/>tisse, &amp; mutabilitatis suae motum voluntatis 
+      statio<lb ed="#P" n="144" break="no"/>no fixisse, non quod perseverantiam ipsam qua 
+      sta<lb ed="#P" n="145" break="no"/>rent, a Deo non accepissent; sed quia gratia 
+      volun<lb ed="#P" n="146" break="no"/>tatem infirmam sanante opus non habuerint, ut 
+      po<lb ed="#P" n="147" break="no"/>te voluntatem ab initio habentes sanam, atque 
+      ro<lb ed="#P" n="148" break="no"/>bustam. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e879">
+               <lb ed="#P" n="149"/>
+               <pc type="indent"/> Porro Anselmus hac Apostoli sententia: Quid 
+      <!--0199.xml-->
+      <pb ed="#P" n="176"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>habes quod non accepisti, constrictus, aliter elabi non 
+      <lb ed="#P" n="2"/>potuit dum discrimen inter bonum &amp; malum ange 
+      <lb ed="#P" n="3"/>lum, ad eorum voluntates originaliter referre studet, 
+      <lb ed="#P" n="4"/>quam dicendo &amp; identidem inculcando, quod malo 
+      <lb ed="#P" n="5"/>angelo ideo Deus non dederit perseverantiam, quia 
+      <lb ed="#P" n="6"/>ille non accepit. Quam ejus responsionem 
+      similitudi<lb ed="#P" n="7" break="no"/>ne quadam dantis &amp; accipere nolentis ab illo 
+      decla<lb ed="#P" n="8" break="no"/>ratam, popularem magis esse, quam exactam &amp; 
+      soli<lb ed="#P" n="9" break="no"/>dam affirmat in quodam scripto ad Ruardum 
+      Judo<lb ed="#P" n="10" break="no"/>cus Tiletanus. Nec immerito, quia per hoc non 
+      sol<lb ed="#P" n="11" break="no"/>vitur quaestio, cur ipsum accipere fuerit huic datum, 
+      <lb ed="#P" n="12"/>non illi. Datum enim fuisse convincit Apostolica 
+      sen<lb ed="#P" n="13" break="no"/>tentia. Nam sic dictum est, quod non accepisti, quasi 
+      <lb ed="#P" n="14"/>diceretur, quod non datum est tibi, quomodo 
+      Joan<lb ed="#P" n="15" break="no"/>nis 3. loquitur Baptista: Non potest homo accipere 
+      quic<lb ed="#P" n="16" break="no"/>quam, nisi fuerit ei datum de caelo. Videtur autem 
+      An<lb ed="#P" n="17" break="no"/>selmus dissimulasse illud ejusdem Apostoli dicentis 
+      <lb ed="#P" n="18"/>eodem loco: Quis te discernit? Huic enim objectioni 
+      <lb ed="#P" n="19"/>responsio ab eo data minime quadrasset. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e935">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> De <name xml:id="bt67yj-k65739-Nd1e941">Ruperto</name> qui non tantum angelorum, sed 
+      lapso<lb ed="#P" n="21" break="no"/>rum etiam hominum praedestinationem ex 
+      praevisio<lb ed="#P" n="22" break="no"/>ne suspendit, alibi diximus ejus authoritatem hac in 
+      <lb ed="#P" n="23"/>re non esse magni ponderis. Atque interim 
+      notan<lb ed="#P" n="24" break="no"/>dum, ipsum in eo quod Augustinum reprehendit, 
+      <lb ed="#P" n="25"/>facile agnovisse quod Augustinus non eadem secum 
+      <lb ed="#P" n="26"/>de praedestinatione angeli &amp; hominis integri 
+      senti<lb ed="#P" n="27" break="no"/>ret; Imo idem alibi ab ipsa veritate convictus 
+      vide<lb ed="#P" n="28" break="no"/>tur diversum tradere ac nobiscum sentire. Nam <ref xml:id="bt67yj-k65739-Rd1e961">lib. 
+      <lb ed="#P" n="29"/>1. de victoria V. Dei cap. 27.</ref> dicit bonos angelos ne 
+      <lb ed="#P" n="30"/>cum diabolo caderent, fuisse praeventos &amp; retentos 
+      <lb ed="#P" n="31"/>per ipsum verbum per quod fuerant conditi, &amp; 
+      cap<lb ed="#P" n="32" break="no"/>ult. dicit eos gratiam &amp; misericordiam Dei in seipsos 
+      <lb ed="#P" n="33"/>agnoscere, qua sese, ne &amp; ipsi corruerent, 
+      praeven<lb ed="#P" n="34" break="no"/>„tos fuisse non ignorant. Ejusdem quippe conditionis 
+      <lb ed="#P" n="35"/>cum essent, suam in perditione aliorum salutem 
+      re<lb ed="#P" n="36" break="no"/>servatam, statumque retentum non leviter, inquit, 
+      <lb ed="#P" n="37"/>appendere potuerunt aut possunt. Quae verba sunt 
+      <lb ed="#P" n="38"/>bene notanda. Manifeste enim significat eam 
+      discre<lb ed="#P" n="39" break="no"/>tionem qua alii prae aliis steterunt, fuisse peculiaris 
+      <lb ed="#P" n="40"/>gratiae Dei praevenientis, &amp; retinentis eos ne cum 
+      <lb ed="#P" n="41"/>aliis caderent. 
+    </p>
+            <p xml:id="bt67yj-k65739-d1e993">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Ad postremum denique quod ex evangelio 
+      obji<lb ed="#P" n="43" break="no"/>citur respondeo non ideo in priori judicis sententia 
+      <lb ed="#P" n="44"/>taceri angelos, quod eorum non sit similis cum 
+      ho<lb ed="#P" n="45" break="no"/>minibus electio. Nam alioqui gratiae potius quam 
+      <lb ed="#P" n="46"/>operum hic mentio facienda erat; Sed hanc potius 
+      <lb ed="#P" n="47"/>videri rationem, quia in verbis illis, Percipite 
+      re<lb ed="#P" n="48" break="no"/>gnum, intelligitur regnum Christi quod habet jure 
+      <lb ed="#P" n="49"/>redemptionis acquisitum sanguine suo, tanquam 
+      ho<lb ed="#P" n="50" break="no"/>mo super homines redemptos. Hoc est enim regnum 
+      <lb ed="#P" n="51"/>quod Christus saepe suum vocat, ut Joan. 18. Regnum. 
+      <lb ed="#P" n="52"/>meum non est de hoc mundo, &amp; Luc. 22. Ut edatis &amp; 
+      <lb ed="#P" n="53"/>bibatis super mensam meam in regno meo. De quo 
+      <lb ed="#P" n="54"/>etiam latro poenitens ad Christum. Memento mei 
+      <lb ed="#P" n="55"/>cum veneris in regnum tuum. Hoc autem regnum ut 
+      <lb ed="#P" n="56"/>tale non est paratum angelis, utpote sub 
+      redemptio<lb ed="#P" n="57" break="no"/>nis Christi beneficio non comprehensis; tametsi ad 
+      <lb ed="#P" n="58"/>eandem cum redemptis ecclesia triumphantem sub 
+      <lb ed="#P" n="59"/>Christo capite pertinentibus, ut testatur scriptura 
+      <lb ed="#P" n="60"/>Ephes. 1. Cor. 1. Heb. 12. &amp; alibi. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

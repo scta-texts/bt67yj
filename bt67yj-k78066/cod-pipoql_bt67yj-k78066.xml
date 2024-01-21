@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="206"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k78066"><!-- l1d48c2" -->
+            <head xml:id="bt67yj-k78066-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k78066-Hd1e103" type="question-title">Responsio ad argumenta in contrarium</head>
+            <p xml:id="bt67yj-k78066-d1e106">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> §. 2. Responsio ad argumenta in contrarium.
+    </p>
+            <p xml:id="bt67yj-k78066-d1e113">
+               <lb ed="#P" n="69"/>DOctrinam superiorem his fere argumentis 
+      qui<lb ed="#P" n="70" break="no"/>Ddam oppugnant. 
+    </p>
+            <p xml:id="bt67yj-k78066-d1e120">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Primo: Aliud homini velle congruit, aliud Deo, 
+      <!--0229.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>quemadmodum docet <ref xml:id="bt67yj-k78066-Rd1e133">August. ench. 101.</ref> Eamque 
+      <lb ed="#P" n="73"/>ob causam fit ut homo aliquando bona voluntate, 
+      <lb ed="#P" n="74"/>quod Deus non vult, &amp; contra. Itemque ut quod 
+      <lb ed="#P" n="75"/>Deus vult bona, id ipsum velit homo mala 
+      volunta<lb ed="#P" n="76" break="no"/>te. Non ergo tenetur homo divinae voluntati, 
+      quam<lb ed="#P" n="77" break="no"/>vis cognitae suam coaptare. Respondeo, Quicquid 
+      <lb ed="#P" n="78"/>Deus vult, id ei congruit velle. Quicquid autem 
+      <lb ed="#P" n="79"/>praeceptum est homini a Deo, id homini congruit 
+      <lb ed="#P" n="80"/>velle. Haec autem duo saepe diversa sunt, dum 
+      videli<lb ed="#P" n="81" break="no"/>cet latet voluntas beneplaciti Dei. At ubi ea 
+      inno<lb ed="#P" n="82" break="no"/>tuit, tum plane congruit, imo &amp; oportet ut ei nostra 
+      <lb ed="#P" n="83"/>voluntas conformetur, secundum ea quae supra dicta 
+      <lb ed="#P" n="84"/>sunt. Augustinus autem loquitur de voluntate 
+      bene<lb ed="#P" n="85" break="no"/>placiti divini nobis incognita. Quod autem 
+      con<lb ed="#P" n="86" break="no"/>gruat homini velle eadem quae Deus vult, 
+      manife<lb ed="#P" n="87" break="no"/>stum est ex statu futuri seculi, in quo perfecte erimus 
+      <lb ed="#P" n="88"/>Deo conformes. 
+    </p>
+            <p xml:id="bt67yj-k78066-d1e171">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Secundo: Non tenetur homo velle nec amare 
+      mo<lb ed="#P" n="90" break="no"/>lestias aut miserias, sed satis est si eas tolleret. Dicit 
+      <lb ed="#P" n="91"/>enim Augustinus lib. 10. conf. cap. 28. Quis 
+      ve<lb ed="#P" n="92" break="no"/>lit molestias &amp; difficultates pati? Tolerari jubes eas, 
+      <lb ed="#P" n="93"/>non amari. Nemo quod tolerat, amat: &amp; Prosperi 
+      <lb ed="#P" n="94"/>sententia 181. Nemo quod tolerat, amat, etiamsi 
+      to<lb ed="#P" n="95" break="no"/>lerare amat. Cum ergo nobis constet Deum haec 
+      ea<lb ed="#P" n="96" break="no"/>dem velle, non erit necesse nos ei ista volendo 
+      con<lb ed="#P" n="97" break="no"/>formari. Respondeo primum non teneri hominem, 
+      <lb ed="#P" n="98"/>ut futuras velit, aut amet, aut accersat sibi miserias, 
+      <lb ed="#P" n="99"/>cum certus non sit Deum velle eas ipsi immittere, &amp; 
+      <lb ed="#P" n="100"/>si velit hoc Deus, plerumque tamen non vult 
+      homi<lb ed="#P" n="101" break="no"/>nem sibi eas accersere, aut inferre, sed tantum 
+      super<lb ed="#P" n="102" break="no"/>venientes patienter ferre, ut manifestum est de 
+      mor<lb ed="#P" n="103" break="no"/>te. Deinde etsi miseriae in se spectatae, non habeant 
+      <lb ed="#P" n="104"/>rationem amabilis aut desiderabilis, id quod verbis 
+      <lb ed="#P" n="105"/>commemoratis significare voluit Augustinus, 
+      consi<lb ed="#P" n="106" break="no"/>deratae tamen sub ratione justi, vel qua ratione 
+      pur<lb ed="#P" n="107" break="no"/>gant &amp; probant hominem, ac meritum ejus augent; 
+      <lb ed="#P" n="108"/>recte &amp; absentes desiderantur, &amp; praesentes amantur. 
+      <lb ed="#P" n="109"/>Quod nos docent hae &amp; similes scripturae. Jacob. I. 
+      <lb ed="#P" n="110"/>Omne gaudium existimate fratres, cum in varias 
+      tenta<lb ed="#P" n="111" break="no"/>tiones, id est, tribulationes incideritis scientes, &amp;c. 
+      <lb ed="#P" n="112"/>Rom. 5. gloriamur in tribulationibus. Col. 1. Gaudeo 
+      <lb ed="#P" n="113"/>in passionibus pro vobis. 1. Pet. 4. Communicantes 
+      Chri<lb ed="#P" n="114" break="no"/>sti passionibus, gaudete. Quod etiam exemplis suis 
+      <lb ed="#P" n="115"/>Ignatius, Laurentius, Agatha, aliique multi 
+      mar<lb ed="#P" n="116" break="no"/>tyres ostenderunt. 
+    </p>
+            <p xml:id="bt67yj-k78066-d1e236">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Tertio, Doctrina haec excludere videtur ab animis 
+      <lb ed="#P" n="118"/>hominum, non modo tristitiam &amp; luctum super 
+      mi<lb ed="#P" n="119" break="no"/>seriis propriis, verum etiam compassionem seu 
+      com<lb ed="#P" n="120" break="no"/>miserationem super alienis. Nemo enim dolet de eo 
+      <lb ed="#P" n="121"/>quod placet. Respondeo, Cum omnes miseriae, ut 
+      <lb ed="#P" n="122"/>jam dictum est, duplicem habeant rationem, alteram 
+      <lb ed="#P" n="123"/>mali, quatenus bono aliquo privant; alteram boni, 
+      <lb ed="#P" n="124"/>quatenus ordinatae sunt a Deo ad bonum justitiae, vel 
+      <lb ed="#P" n="125"/>aliud simile, priori quidem consideratione tristari de 
+      <lb ed="#P" n="126"/>iis licet, atque interdum oportet, monente nos 
+      Apo<lb ed="#P" n="127" break="no"/>stolo Rom. 12. Gaudere cum gaudentibus &amp; flere cum 
+      <lb ed="#P" n="128"/>flentibus. Unde ab eodem cap. 1. ejusdem epistolae 
+      vi<lb ed="#P" n="129" break="no"/>tuperantur qui sine affectione sunt &amp; miscricordia. 
+      <lb ed="#P" n="130"/>Quod quidem in philosophos ἀπατεῖαν docentes ab 
+      <lb ed="#P" n="131"/>eo dictum videri potest. Ipse quoque Apostolus ex 
+      <lb ed="#P" n="132"/>morte Epaphroditi tristitiam super tristitiam 
+      habi<lb ed="#P" n="133" break="no"/>turum se scribit Phil. 2. Sic legimus Samuelem 
+      lu<lb ed="#P" n="134" break="no"/>xisse Saulem a Domino abjectum I. Reg. 15. Davidem 
+      <lb ed="#P" n="135"/>vehementer tristatum super morte filii Absalon 2. 
+      <lb ed="#P" n="136"/>Reg. 18. Jeremiam composuisse lamentationes super 
+      <lb ed="#P" n="137"/>morte Josiae regis atque excidio Jerusalem; Viros 
+      ti<lb ed="#P" n="138" break="no"/>moratos fecisse planctum magnum super Stephanum 
+      <lb ed="#P" n="139"/>Act. 8. &amp; alia his similia. Quin &amp; Christus super 
+      La<lb ed="#P" n="140" break="no"/>zaro mortuo &amp; Jerusalem peritura flevit, &amp; ob 
+      mor<lb ed="#P" n="141" break="no"/>tem imminentem, quamvis certus de Dei voluntate, 
+      <lb ed="#P" n="142"/>tristatus est. In cujus etiam passione sanctissimae 
+      ma<lb ed="#P" n="143" break="no"/>tris ejus animam doloris gladius pertransivit. Quo 
+      <lb ed="#P" n="144"/>nimirum exemplo docetur recte Christianos simili 
+      <lb ed="#P" n="145"/>consideratione passionibus Christi &amp; sanctorum pio 
+      <!--0230.xml-->
+      <pb ed="#P" n="207"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>affectu condolere, ne de eis dicatur illud Psal. 68. 
+      <lb ed="#P" n="2"/>Sustinui qui simul contristaretur &amp; non erat. Qua de 
+      <lb ed="#P" n="3"/>re legatur Augustinus lib. 14. de civit. cap. 9. 
+      Caete<lb ed="#P" n="4" break="no"/>rum posteriori consideratione placere nobis debent 
+      <lb ed="#P" n="5"/>eaedem illae calamitates &amp; miseriae, quatenus scilicet 
+      <lb ed="#P" n="6"/>opera Dei sunt, &amp; ab ejus rectissima voluntate 
+      pro<lb ed="#P" n="7" break="no"/>cedunt. Debent autem nobis placere simpliciter, 
+      <lb ed="#P" n="8"/>quia cum Deus velit esse aut fieri, simpliciter placita 
+      <lb ed="#P" n="9"/>sunt Deo. Sicut autem non est dubitandum, quin 
+      <lb ed="#P" n="10"/>Christo placita fuerint hoc modo omnia opera patris; 
+      <lb ed="#P" n="11"/>sic quoque de caeteris sanctis quos 
+      commemoravi<lb ed="#P" n="12" break="no"/>mus, existimandum est. 
+    </p>
+            <p xml:id="bt67yj-k78066-d1e336">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Quarto, Si conformanda est nostra voluntas cum 
+      <lb ed="#P" n="14"/>voluntate Dei, neque ergo hostibus nos 
+      invadenti<lb ed="#P" n="15" break="no"/>bus licebit resistere, neque morbis occurrere, neque 
+      <lb ed="#P" n="16"/>incendia restinguere, neque alia quaecunque 
+      hujus<lb ed="#P" n="17" break="no"/>modi mala, vel ingruentia, vel praesentia depellere; 
+      <lb ed="#P" n="18"/>quippe quae omnia constet voluntate divina nobis 
+      <lb ed="#P" n="19"/>immitti. Non est enim malum quod Dominus non 
+      fece<lb ed="#P" n="20" break="no"/>rit, Amos 3. Respondetur quatenus constat nobis de 
+      <lb ed="#P" n="21"/>voluntate Dei circa aliquid, eatenus contra niti non 
+      <lb ed="#P" n="22"/>licere: quatenus autem adhuc latet Dei voluntas, 
+      li<lb ed="#P" n="23" break="no"/>cet &amp; convenit nobis facere contra venientia mala, 
+      <lb ed="#P" n="24"/>quod humanitus, salva Dei lege, fieri potest. Exempli 
+      <lb ed="#P" n="25"/>gratia: Cum hostis nos oppugnat, scimus 
+      volunta<lb ed="#P" n="26" break="no"/>tem esse Dei ut ab hoste oppugnemur, ideóque id, in 
+      <lb ed="#P" n="27"/>quantum est a Deo volitum, velle &amp; probare 
+      debe<lb ed="#P" n="28" break="no"/>mus; sed cum nondum constet esse divinae voluntatis 
+      <lb ed="#P" n="29"/>ut ab hoste superemur, adhibenda est adversus eum 
+      <lb ed="#P" n="30"/>defensio. Idemque judicium de morbis, incendiis 
+      <lb ed="#P" n="31"/>ac similibus malis. Quod si revelaret Deus civitatem 
+      <lb ed="#P" n="32"/>esse ab hostibus expugnandam, nequaquam liceret 
+      <lb ed="#P" n="33"/>conari ad id impediendum. Unde graviter 
+      repre<lb ed="#P" n="34" break="no"/>hensi sunt Sedechias &amp; principes ejus, quod 
+      volun<lb ed="#P" n="35" break="no"/>tati divinae de Jerusalem in manus Chaldaeorum 
+      tra<lb ed="#P" n="36" break="no"/>denda, per Jcremiam 34. &amp; 38. satis sibi declaratae 
+      <lb ed="#P" n="37"/>non acquiescerent, sed quod divinitus praedictum 
+      <lb ed="#P" n="38"/>noverant, resistendo impedire vellent. 
+    </p>
+            <p xml:id="bt67yj-k78066-d1e397">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Quinto. Sic argumentatur Durandus, Quod 
+      te<lb ed="#P" n="40" break="no"/>neamur voluntatem nostram conformare voluntati 
+      <lb ed="#P" n="41"/>divinae, id est aut ex natura rei volitae, aut ex 
+      prae<lb ed="#P" n="42" break="no"/>cepto Dei: Atqui multa sunt in quibus neutra ratio 
+      <lb ed="#P" n="43"/>locum habeat, ut mors amici, sterilitas terrae, 
+      vasta<lb ed="#P" n="44" break="no"/>tio hostilis, &amp;c. Neque enim haec per se talia sunt, 
+      <lb ed="#P" n="45"/>ut ca velle debeamus, neque ullum exstat Dei 
+      prae<lb ed="#P" n="46" break="no"/>ceptum quo ea velle jubeamur; ergo in iis non 
+      te<lb ed="#P" n="47" break="no"/>nemur voluntati divinae nostram voluntatem 
+      accom<lb ed="#P" n="48" break="no"/>modare. Sed respondetur hanc obligationem neque 
+      <lb ed="#P" n="49"/>esse ex natura rerum volitarum, neque originaliter 
+      <lb ed="#P" n="50"/>ex aliquo positivo Dei praecepto; sed ex lege naturae 
+      <lb ed="#P" n="51"/>quae requirit conformitatem voluntatis creatae cum 
+      <lb ed="#P" n="52"/>voluntate prima &amp; increata, tanquam regula sua ac 
+      <lb ed="#P" n="53"/>mensura cui coaptari debeat, ut supra dictum est, 
+      <lb ed="#P" n="54"/>cujuscunque tandem generis aut modi sint ipsa 
+      vo<lb ed="#P" n="55" break="no"/>lita. 
+    </p>
+            <p xml:id="bt67yj-k78066-d1e439">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Sexto objicit adhuc <name xml:id="bt67yj-k78066-Nd1e445">Durandus</name>: Subditus quisque 
+      <lb ed="#P" n="57"/>non tenetur voluntatem suam conformare voluntat. 
+      <lb ed="#P" n="58"/>praelati sui de opere aliquo faciendo, ex eo solo quod 
+      <lb ed="#P" n="59"/>praelatus velit illud fieri, sed ex eo quod velit ab ipso 
+      <lb ed="#P" n="60"/>fieri, &amp; proinde velit ipsum hoc velle: ergo nec te¬ 
+      <!--0230.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="61"/>nemur velle quisquid Deus vult, etiamsi velle Dei 
+      <lb ed="#P" n="62"/>nobis innotescat; sed tunc demum si Deus praecipiat, 
+      <lb ed="#P" n="63"/>ut id faciamus aut velimus. Respondetur magnam 
+      <lb ed="#P" n="64"/>esse dissimilitudinem inter hominem praelatum &amp; 
+      <lb ed="#P" n="65"/>Deum. Nam homo ita subjicitur Deo, ut voluntas 
+      <lb ed="#P" n="66"/>ejus a voluntate Dei, tanquam perfectissima 
+      regu<lb ed="#P" n="67" break="no"/>la in nullo debeat discrepare; Homini autem homo 
+      <lb ed="#P" n="68"/>subjicitur, non quoad voluntatem proprie dictam. 
+      <lb ed="#P" n="69"/>Neque enim voluntas unius hominis statui potest 
+      <lb ed="#P" n="70"/>regula voluntatis alterius, quantumcunque illi 
+      sub<lb ed="#P" n="71" break="no"/>jiciatur; sed tantum quoad praecepta, ad quorum 
+      <lb ed="#P" n="72"/>observationem is qui subjectus est, tenetur. 
+    </p>
+            <p xml:id="bt67yj-k78066-d1e487">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Septimum ac postremum argumentum tale est: 
+      <lb ed="#P" n="74"/>Nemo tenetur velle suam damnationem, tametsi sibi 
+      <lb ed="#P" n="75"/>revelatam; ergo non semper tenetur homo suam 
+      <lb ed="#P" n="76"/>voluntatem conformare divinae. Respondetur 
+      im<lb ed="#P" n="77" break="no"/>possibile esse ut cuicunque nondum damnato, sed 
+      <lb ed="#P" n="78"/>adhuc in hac vita tanquam in via constituto, sua 
+      <lb ed="#P" n="79"/>damnatio sit revelata. Contradictionem enim 
+      im<lb ed="#P" n="80" break="no"/>plicat, esse in via &amp; istiusmodi habere revelationem. 
+      <lb ed="#P" n="81"/>Nam in priori includitur obligatio ad hoc 
+      praece<lb ed="#P" n="82" break="no"/>ptum, quo quisque viator tenetur tendere fide, spe &amp; 
+      <lb ed="#P" n="83"/>charitate ad patriam caelestem; Alioqui enim in via 
+      <lb ed="#P" n="84"/>non esset. In posteriori autem includitur ejusdem 
+      <lb ed="#P" n="85"/>patriae caelestis attingendae desperatio. Proinde si cui 
+      <lb ed="#P" n="86"/>talis fieret revelatio (qualis forte facta fuit Juda 
+      <lb ed="#P" n="87"/>proditori per illa verba, Melius erat si natus non 
+      fuis<lb ed="#P" n="88" break="no"/>set homo ille, quales item leguntur apud Gregorium 
+      <lb ed="#P" n="89"/>lib. 4. dial. cap. 38. &amp; Bedam lib. 5. historiae 
+      Anglo<lb ed="#P" n="90" break="no"/>rum cap. 14. &amp; 15.) ille eo ipso viator esse defineret, 
+      <lb ed="#P" n="91"/>atque in statu damnationis constitueretur, initium 
+      <lb ed="#P" n="92"/>suae gehennae quodammodo accipiens in hac vita, 
+      <lb ed="#P" n="93"/>scilicet quoad malum quoddam in ea praecipuum, 
+      <lb ed="#P" n="94"/>quod est certa vitae aeternae desperatio. Sicut enim 
+      <lb ed="#P" n="95"/>magna pars est aeternae felicitatis, certum esse de ea 
+      <lb ed="#P" n="96"/>consequenda; ita quoque aeternae miseriae pars est 
+      <lb ed="#P" n="97"/>non minima, certum esse de carentia felicitatis 
+      nun<lb ed="#P" n="98" break="no"/>quam finiendae. Esse autem impossibile id quod 
+      di<lb ed="#P" n="99" break="no"/>ximus, docent Albertus, Alexander Alensis, &amp; 
+      Al<lb ed="#P" n="100" break="no"/>tisiodorensis, &amp; post eos Dionysius Carth. in 
+      collo<lb ed="#P" n="101" break="no"/>quio de particulari judicio animarum, in quo etiam 
+      <lb ed="#P" n="102"/>superiores citat authores. Quod si autem fieret 
+      via<lb ed="#P" n="103" break="no"/>tori cuiquam ejusmodi revelatio, docent S. Thomas 
+      <lb ed="#P" n="104"/>&amp; Bonaventura super hanc distinctionem scribentes, 
+      <lb ed="#P" n="105"/>eam per modum comminationis, non autem 
+      ablo<lb ed="#P" n="106" break="no"/>lutae praedictionis accipi oportere, quomodo dictum 
+      <lb ed="#P" n="107"/>fuit, Ninive subvertetur. Quod intellige nisi forte 
+      ta<lb ed="#P" n="108" break="no"/>lis esset revelatio, quae certum faceret hominem suae 
+      <lb ed="#P" n="109"/>damnationis. Nam eo casu jam, ut dictum est, 
+      ex<lb ed="#P" n="110" break="no"/>tra viam &amp; in termino ac statu damnationis 
+      consti<lb ed="#P" n="111" break="no"/>tueretur. Atque is tamen nihilominus aeterna Dei 
+      <lb ed="#P" n="112"/>lege teneretur ad approbationem justitiae divinae &amp; 
+      <lb ed="#P" n="113"/>ad conformitatem voluntatis suae cum voluntate 
+      di<lb ed="#P" n="114" break="no"/>vina, licet hoc ei propter statum esset impossibile, 
+      <lb ed="#P" n="115"/>sicut &amp; daemonibus caeterisque damnatis. Quod 
+      e<lb ed="#P" n="116" break="no"/>nim impotentia faciendi id quod dictat &amp; 
+      praescri<lb ed="#P" n="117" break="no"/>bit lex Dei aeterna, ut Deum super omnia diligendi, 
+      <lb ed="#P" n="118"/>&amp; alia hujusmodi, damnatos a peccato non excuset, 
+      <lb ed="#P" n="119"/>ex iis quae traduntur in fine quarti libri, supponimus 
+      <lb ed="#P" n="120"/>ut manifeste verum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

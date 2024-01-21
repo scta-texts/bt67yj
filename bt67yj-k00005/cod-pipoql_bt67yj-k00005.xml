@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="1"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k00005"><!-- l1d1c1" -->
+            <head xml:id="bt67yj-k00005-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k00005-Hd1e103" type="question-title">Quid uti et frui</head>
+            <p xml:id="bt67yj-k00005-d1e106">
+      <!--0024.xml-->
+               <pb ed="#P" n="1"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>IN LIB. I. SENTENT. 
+      <lb ed="#P" n="2"/>COMMENTARIA
+      <!--0024.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="3"/>IN DISTINCTIONEM I. 
+      <lb ed="#P" n="4"/>§. 1. Quid uti &amp; frui?
+      </p>
+            <p xml:id="bt67yj-k00005-d1e128">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> TUM significatio vocabulorum 
+      quaeri<lb ed="#P" n="6" break="no"/>tur, fit plerumque ut aliud in sermone 
+      <lb ed="#P" n="7"/>vulgato, aliud apud eos qui disciplinas 
+      <lb ed="#P" n="8"/>tradunt, significare inveniantur, ut in 
+      <lb ed="#P" n="9"/>his vocabulis genus, species, nomen, verbum, 
+      <lb ed="#P" n="10"/>aliisque ejusmodi perspicere licet, quae aliud latine 
+      <lb ed="#P" n="11"/>loquentibus extra disciplinas, aliud Grammaticis, 
+      <lb ed="#P" n="12"/>aliud vero dialecticis significant. Idem accidit in 
+      <lb ed="#P" n="13"/>his duobus vocabulis, uti &amp; frui, quae non idem 
+      <lb ed="#P" n="14"/>prorsus latine loquentibus &amp; Theologis significant. 
+      <lb ed="#P" n="15"/>Nam usu latinae linguae, frui, generalem habet 
+      si<lb ed="#P" n="16" break="no"/>gnificationem, ut sit, de lectationem &amp; fructum ex 
+      <lb ed="#P" n="17"/>re aliqua capere; sive hoc ipsum ad ulteriorem 
+      ali<lb ed="#P" n="18" break="no"/>quem finem referatur sive non. Ita praeter 
+      scripto<lb ed="#P" n="19" break="no"/>res profanos usurpavit hoc vocabulum pluribus 
+      <lb ed="#P" n="20"/>Scripturae locis interpres noster ex Hebraeo &amp; Grae 
+      <lb ed="#P" n="21"/>co: ut Ecclesiastae 2. ubi di cit Sapiens: Vadam &amp; 
+      <lb ed="#P" n="22"/>affluam deliciis &amp; fruar bonis, &amp; cap. 7. In die bona 
+      <lb ed="#P" n="23"/>fruere bonis. Et Apostolus Rom. 15. Si vobis 
+      pri<lb ed="#P" n="24" break="no"/>mum ex parte fruitus fuero, juxta nostram 
+      versio<lb ed="#P" n="25" break="no"/>nem. Nam Graece non est, fruitus, sed expletus 
+      fue<lb ed="#P" n="26" break="no"/>ro. Et 1. Tim. 6. Qui praestat nobis omnia abunde ad 
+      <lb ed="#P" n="27"/>fruendum. Pro quo dicit idem Apostolus Act. 14. 
+      <lb ed="#P" n="28"/>Implens cibo, &amp; latitia corda vestra. Et ad 
+      Philemo<lb ed="#P" n="29" break="no"/>nem. Ita frater, ego te fruar in Domino. Quanquam 
+      <lb ed="#P" n="30"/>hic, quod addit, In Lomino, significat quo illa 
+      de<lb ed="#P" n="31" break="no"/>lectatio spiritualis, qua Apostolus Philemone se 
+      <lb ed="#P" n="32"/>fruiturum dicebat, referenda fuerit. Nam etsi non 
+      <lb ed="#P" n="33"/>add disset, in Domino, non alia tamen 
+      significatio<lb ed="#P" n="34" break="no"/>ne, quam qua caeteris scripturae locis verbum fruendi 
+      <lb ed="#P" n="35"/>accipitur, accipi deberet. Sic, frui, accipitur apud 
+      <lb ed="#P" n="36"/>Prudentium libro secundo contra Symmachum, ub 
+      <lb ed="#P" n="37"/>Deum de rebus terrenis ita loquentem introducit: 
+      <lb ed="#P" n="38"/>
+               <quote xml:id="bt67yj-k00005-Qd1e206">Sed tamen esse modum volui, parcisque fruenda 
+      <lb ed="#P" n="39"/>Moribus indulsi, quantum sibi posceret usus; 
+      <lb ed="#P" n="40"/>Non ut captus homo studiis, &amp; inaniter ardens 
+      <lb ed="#P" n="41"/>Duceret omne bonum positum in dulcedine rerum.</quote>
+            </p>
+            <p xml:id="bt67yj-k00005-d1e216">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Qui &amp; post multa facit frui bonis temporalibus 
+      <lb ed="#P" n="43"/>commune probis &amp; improbis dicens: 
+      <lb ed="#P" n="44"/>
+               <quote xml:id="bt67yj-k00005-Qd1e226">Sic probus atque reus capitalis criminis, iisdem 
+      <lb ed="#P" n="45"/>Sideribus, facilisque poli bonitate fruuntur</quote>
+            </p>
+            <p xml:id="bt67yj-k00005-d1e233">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Uti vero, usus Latinorum, est assumere rem 
+      quam<lb ed="#P" n="47" break="no"/>piam propter aliud, sive ex ipsa re voluptas 
+      capia<lb ed="#P" n="48" break="no"/>tur, sive non. Sic Apostolus, 1. Tim. 5. <quote xml:id="bt67yj-k00005-Qd1e243">Modico 
+      vi<lb ed="#P" n="49" break="no"/>no utere propter stomachum tuum</quote>, &amp;c. Neque enim 
+      <lb ed="#P" n="50"/>negandum est, quin ea, quibus secundum hanc 
+      <lb ed="#P" n="51"/>significationem recte utimur, delectent subinde, ut 
+      <lb ed="#P" n="52"/>propositum ex Apostolo exemplum satis probat. Et 
+      <lb ed="#P" n="53"/>quoniam in plerisque rebus utendis adjuncta est 
+      de<lb ed="#P" n="54" break="no"/>lectatio, fit ut talibus &amp; uti dicamur &amp; frui, 
+      diver<lb ed="#P" n="55" break="no"/>sa ratione: quod rursum patet hoc exemplo 
+      carmi<lb ed="#P" n="56" break="no"/>nis Prudentuni in Hamartigenia: 
+      <!--0024.xml-->
+      <cb ed="#P" n="c"/>
+               <lb ed="#P" n="57"/>
+               <quote xml:id="bt67yj-k00005-Qd1e270">Felix qui indultis potuit mediocriter ati 
+      <lb ed="#P" n="58"/>Muneribus, parcumque modum servare fruendi.</quote>
+            </p>
+            <p xml:id="bt67yj-k00005-d1e276">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Caeterum prout Theologi in scholis has voces 
+      u<lb ed="#P" n="60" break="no"/>surpant, frui, est re aliqua delectari propter seipsam; 
+      <lb ed="#P" n="61"/>sic numerum ut in ea voluntas amantis conquiescat, 
+      <lb ed="#P" n="62"/>tanquam in summo bono, &amp; fine suo ultimo. Uti, 
+      <lb ed="#P" n="63"/>autem, est rem, propter aliud quo fruendum sit, in 
+      <lb ed="#P" n="64"/>operationem assumere, sive res illa etiam delectet, 
+      <lb ed="#P" n="65"/>sive non; dumodo non in ea voluntas ut ultimo fine 
+      <lb ed="#P" n="66"/>conquiescat. 
+    </p>
+            <p xml:id="bt67yj-k00005-d1e298">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Haec fruendi, &amp; utendi significatio, ab 
+      omni<lb ed="#P" n="68" break="no"/>bus Scholasticis Magistrum secutis traditur hac dist. 
+      <lb ed="#P" n="69"/>Magister autem eam accepit ab Augustino lib. 1. de 
+      <lb ed="#P" n="70"/>Doct. Chr. cap. 3. &amp; aliquot sequentibus, &amp; rursum 
+      <lb ed="#P" n="71"/>cap. 22. 31. 33. Qui &amp; alibi isto modo eas voces 
+      usur<lb ed="#P" n="72" break="no"/>pat, ut lib. 10. de Trin. cap. 10. &amp; 11. &amp; lib. 11. de 
+      <lb ed="#P" n="73"/>Civit. cap. 25. &amp; lib. 15. cap. 7. Quomodo etiam 
+      <lb ed="#P" n="74"/>Hieronymus accepit in Epistola ad Julianum cujus 
+      <lb ed="#P" n="75"/>initium, Filius meus: Impossibile est, inquiens, ut 
+      <lb ed="#P" n="76"/>praesentibus quis &amp; futuris fruatur bonis: quod 
+      pro<lb ed="#P" n="77" break="no"/>fecto impossibile non esset, si frui secundum priorem 
+      <lb ed="#P" n="78"/>significationem ibi acciperetur; quomodo ab 
+      Apo<lb ed="#P" n="79" break="no"/>stolo dictum est, Qui praestat nobis omnia abunde ad 
+      <lb ed="#P" n="80"/>fruendum. 
+    </p>
+            <p xml:id="bt67yj-k00005-d1e333">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Hoc etiam modo Prudentius accepit contra 
+      Sym<lb ed="#P" n="82" break="no"/>machum lib. 2. dum pari sententia cum Hieronymo 
+      <lb ed="#P" n="83"/>ita canit: 
+      <lb ed="#P" n="84"/>
+               <quote xml:id="bt67yj-k00005-Qd1e346">Spem sequimur, gradimurque fide, fruimurque futurit, 
+      <lb ed="#P" n="85"/>Ad quae non veniunt praesentis gaudia vitae 
+      <lb ed="#P" n="86"/>Nec currunt pariter capta &amp; capienda voluptas.</quote>
+            </p>
+            <p xml:id="bt67yj-k00005-d1e354">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Neque vero haec significatio a scripturis aliena 
+      <lb ed="#P" n="88"/>est, ubi legimus impios ita loqui. Sap. 2. Venite &amp; 
+      <lb ed="#P" n="89"/>fruamur bonis quae sunt, &amp; utamur creatura 
+      tan<lb ed="#P" n="90" break="no"/>quam in juventute celeriter 
+    </p>
+            <p xml:id="bt67yj-k00005-d1e367">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Notandum autem quod Augustinus, etsi 
+      Schola<lb ed="#P" n="92" break="no"/>sticae acceptionis harum vocum praecipuus author 
+      <lb ed="#P" n="93"/>videatur; priorem tamen significationem etiam 
+      <lb ed="#P" n="94"/>agnoscit lib. 11. de Civit. cap. 25. ubi cum haec duo 
+      <lb ed="#P" n="95"/>more suo distinxisset, ita subjecit: Verumtamen eo 
+      <lb ed="#P" n="96"/>loquendi modo, quem plus obtinuit consuetudo, 
+      <lb ed="#P" n="97"/>&amp; fructibus utimur, &amp; usibus fruimur. Agnoscii 
+      <lb ed="#P" n="98"/>&amp; lib. 1. de Doct. Chr. cap. 33. ubi dicit, quod 
+      vici<lb ed="#P" n="99" break="no"/>nissime frui sit cum delectatione uti: tametsi eam 
+      <lb ed="#P" n="100"/>significationem, minus propriam esse putat. Quin 
+      <lb ed="#P" n="101"/>&amp; S. Thomas eam generalem significationem non 
+      <lb ed="#P" n="102"/>ignoravit. Nam 1. p. q. 39. art. 8. dicit, frui est 
+      <lb ed="#P" n="103"/>cum gaudio uti, &amp; in commentario epistolae ad 
+      He<lb ed="#P" n="104" break="no"/>braeos cap. 12. lect. 2. frui inquit est delectari in fine 
+      <lb ed="#P" n="105"/>adepto: nec addit, ultimo.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

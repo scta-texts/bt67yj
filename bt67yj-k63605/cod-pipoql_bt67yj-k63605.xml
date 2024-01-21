@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="168"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k63605"><!-- l1d41c11" -->
+            <head xml:id="bt67yj-k63605-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-k63605-Hd1e103" type="question-title">Solvuntur opinionis jam dictae argumenta</head>
+            <p xml:id="bt67yj-k63605-d1e106">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> §. 11. Solvuntur opinionis jam dictae argumenta. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e113">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/>AUthores opinionis jam dictae hac potissimum 
+      <lb ed="#P" n="5"/>ratione videntur ad eam astruendam moveri; 
+      <lb ed="#P" n="6"/>quia, ut aiunt, non apparet quomodo cum Dei 
+      prae<lb ed="#P" n="7" break="no"/>destinatione liberum praedestinatorum salvetur 
+      arbi<lb ed="#P" n="8" break="no"/>trium, si non illa a praescientia operum 
+      conditiona<lb ed="#P" n="9" break="no"/>ta dependere, eamque praerequirere ponatur. Sed 
+      <lb ed="#P" n="10"/>huic argumento alibi satisfactum est nempe ad dist 
+      <lb ed="#P" n="11"/>38. ubi ostendimus Dei providentiam, cujus pars 
+      <lb ed="#P" n="12"/>quaedam est praedestinatio, nullam afferre rebus 
+      pro<lb ed="#P" n="13" break="no"/>visis necessitatem, eo ipso solum quo sunt efficaciter 
+      <lb ed="#P" n="14"/>provisae, neque eam libertati actuum humanorum 
+      <lb ed="#P" n="15"/>derogare, &amp; ad distinctionem proxime 
+      praeceden<lb ed="#P" n="16" break="no"/>tem, ubi monstratum est, praedestinatione non tolli 
+      <lb ed="#P" n="17"/>liberum arbitrium, alibi quoque plenius satisfiet, ut 
+      <lb ed="#P" n="18"/>libro sequenti ubi proprius erit de gratiae &amp; liberi 
+      ar<lb ed="#P" n="19" break="no"/>bitrii concordia disserendi locus. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e152">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Deinde objicitur unus &amp; alter locus ex Augustino. 
+      <lb ed="#P" n="21"/>Nam lib. 1. de dono persev. cap. 14. 
+      praedestinatio<lb ed="#P" n="22" break="no"/>nem sanctorum ita definit, ut dicat eam nihil aliud 
+      <lb ed="#P" n="23"/>esse quam praescientiam &amp; praeparationem 
+      beneficio<lb ed="#P" n="24" break="no"/>rum Dei, quibus certissime liberantur quicunque 
+      li<lb ed="#P" n="25" break="no"/>berantur; ubi cum non modo praescientiam ponat 
+      <lb ed="#P" n="26"/>in definitione praedestinationis, verum etiam 
+      prae<lb ed="#P" n="27" break="no"/>parationi praeponat; videtur hoc sentire, quod 
+      prae<lb ed="#P" n="28" break="no"/>paratio beneficiorum Dei, quae eadem est 
+      praedesti<lb ed="#P" n="29" break="no"/>natio, praescientiam praesupponat eorum quae pro 
+      <lb ed="#P" n="30"/>cessura sunt a libero arbitrio. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e182">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Sed huic objectioni facile respondetur, 
+      Augusti<lb ed="#P" n="32" break="no"/>num nequaquam eo loco, de hujusmodi praescientia 
+      <lb ed="#P" n="33"/>loqui, quae vel conditionata sit, vel 
+      praedestinatio<lb ed="#P" n="34" break="no"/>ni praesupponatur, sed de praescientia absoluta, 
+      ea<lb ed="#P" n="35" break="no"/>que ad idem prorsus objectum relata, ad quod 
+      re<lb ed="#P" n="36" break="no"/>fertur praedestinatio, seu praeparatio beneficiorum 
+      <lb ed="#P" n="37"/>Dei, id est, de ea qua praesciat Deus id quod ipse 
+      <lb ed="#P" n="38"/>facturus est, secundum quod etiam Apostolus 
+      Jaco<lb ed="#P" n="39" break="no"/>bus loquitur Act. 15. Notum a saeculo est Domino opus 
+      <lb ed="#P" n="40"/>suum. Patet hoc quod dico ex ipso Augustini loco, 
+      <lb ed="#P" n="41"/>ubi verbis allegatis haec praemittit: An quisquam 
+      di<lb ed="#P" n="42" break="no"/>cere audebit Deum non praescisse, quibus esset daturus 
+      <lb ed="#P" n="43"/>ut crederent? aut quos daturus esset filio suo, ut ex eis 
+      <lb ed="#P" n="44"/>non perderet quemquam? Quae utique si praescivit, 
+      <lb ed="#P" n="45"/>profecto beneficia sua quibus nos dignatur liberare, 
+      <lb ed="#P" n="46"/>praescivit. Haec praedestinatio sanctorum, &amp;c. Quae 
+      ver<lb ed="#P" n="47" break="no"/>ba tanquam magnum veritatis pondus habentia 
+      Pro<lb ed="#P" n="48" break="no"/>sper ad excerpta Gen. respondens dubio. 8. confir 
+      <lb ed="#P" n="49"/>mavit, idemque resp. ult. &amp; sent. ult. ad cap. Gall. 
+      <lb ed="#P" n="50"/>docet in bonis eorumdem esse praescientiam &amp; 
+      prae<lb ed="#P" n="51" break="no"/>destinationem. Cum ergo ad idem prorsus objectum, 
+      <lb ed="#P" n="52"/>id est, dona ac beneficia Dei referant Augustinus 
+      <lb ed="#P" n="53"/>&amp; Prosper praescientiam &amp; praedestinationem; non 
+      <lb ed="#P" n="54"/>potest dici hanc ab illa dependere, sed contra potius, 
+      <lb ed="#P" n="55"/>cum respectu ejusdem in Deo prior sit voluntas 
+      <lb ed="#P" n="56"/>quam scientia. Repetit autem Augustinus eadem 
+      <lb ed="#P" n="57"/>aliis ac pluribus verbis cap. 17. 19. &amp; 20. ejusdem 
+      <lb ed="#P" n="58"/>libri, vidclicet planissime docens praedestinationem 
+      <lb ed="#P" n="59"/>Dei &amp; praescientiam per quam illa definitur, eodem 
+      <lb ed="#P" n="60"/>omnino spectare, scilicet ad opera &amp; dona Dei 
+      fu<lb ed="#P" n="61" break="no"/>tura, de quibus cum ait cap. 17. neminem negare. 
+      <lb ed="#P" n="62"/>posse quin sint a Deo praecognita, ac per hoc 
+      prae<lb ed="#P" n="63" break="no"/>destinata; non vult ea praedestinata esse quia 
+      praeco<lb ed="#P" n="64" break="no"/>gnita, sed consecutionem significat necessariam 
+      <lb ed="#P" n="65"/>hanc: si sint bona a Deo praecognita; sunt ergo ab eo 
+      <lb ed="#P" n="66"/>praedestinata; quandoquidem nullum bonum 
+      praeco<lb ed="#P" n="67" break="no"/>gnosci potest a Deo, quod non ipse sit facturus, &amp; 
+      <lb ed="#P" n="68"/>proinde facturum se praedestinaverit. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e269">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Sed quaeres, si prorsus eodem referuntur ab 
+      Au<lb ed="#P" n="70" break="no"/>gustino praescientia &amp; praeparatio, quid opus fuit 
+      <lb ed="#P" n="71"/>praescientiam in definitione praedestinationis collo¬ 
+      <!--0191.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>cari, cum nemini dubium esse possit, Deum omnia 
+      <lb ed="#P" n="73"/>sua praedestinata praescire. Respondeo per hoc 
+      Augu<lb ed="#P" n="74" break="no"/>stinum voluisse nobis commendare praedestinationis 
+      <lb ed="#P" n="75"/>divinae certitudinem, qua distinguitur a 
+      praedestina<lb ed="#P" n="76" break="no"/>tionibus seu propositis humanis, in quibus magna 
+      <lb ed="#P" n="77"/>plerumque est incertitudo propter futurorum 
+      igno<lb ed="#P" n="78" break="no"/>rantiam, ut testatur Jacobus Apostolus suae epistolae 
+      <lb ed="#P" n="79"/>cap. 4. Unde &amp; Sapiens cap. 9. Cogitationis, inquit, 
+      <lb ed="#P" n="80"/>mortalium timidae &amp; incertae providentiae nostrae. At 
+      <lb ed="#P" n="81"/>Dei praedestinatio sine praescientia, id est, certa 
+      fu<lb ed="#P" n="82" break="no"/>turorum notitia, esse non potest. Cujus tota ratio 
+      <lb ed="#P" n="83"/>sumitur ex divina voluntate, quae non potest ab eo 
+      <lb ed="#P" n="84"/>quod facere constituit impediri, juxta illud: Omnia 
+      <lb ed="#P" n="85"/>quaecunque voluit, fecit. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e315">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Hoc Augustinum voluisse palam est tum ex ipsa 
+      <lb ed="#P" n="87"/>definitione, in qua ait, quibus certissime liberantur, 
+      <lb ed="#P" n="88"/>tum ex cap. 17. ubi sic habet: Ista sua dona 
+      quibus<lb ed="#P" n="89" break="no"/>cunque Deus donat, proculdubio donaturum se esse 
+      <lb ed="#P" n="90"/>praescivit, &amp; in sua praescientia praeparavit. Et paulo 
+      <lb ed="#P" n="91"/>post: Nam in sua quae falli mutarique non potest 
+      prae<lb ed="#P" n="92" break="no"/>scientia, opera sua futura disponere, id omnino nec 
+      a<lb ed="#P" n="93" break="no"/>liud quicquam est praedestinare. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e337">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Sed iterum quaeres, cur praescientiam priori posuit 
+      <lb ed="#P" n="95"/>loco, si non ad significandum eam ordine 
+      intelligen<lb ed="#P" n="96" break="no"/>tiae nostrae esse praeparatione seu praedestinatione 
+      <lb ed="#P" n="97"/>priorem, ita ut hanc ab illa dependere intelligamus. 
+      <lb ed="#P" n="98"/>Respondeo causam hanc esse; quia praescientia latius 
+      <lb ed="#P" n="99"/>patet, &amp; ad plura extenditur quam 
+      praedestinatio<lb ed="#P" n="100" break="no"/>Nam ut lib. de praedest. sanct. c. 10. ait August. 
+      prae<lb ed="#P" n="101" break="no"/>dest. praescivit ea Deus quae fuerat ipse facturus. 
+      Prae<lb ed="#P" n="102" break="no"/>scire autem potens est etiam ea quae ipse non facit, sicut 
+      <lb ed="#P" n="103"/>quaecunque peccata. Quod idem &amp; Prosper docet ad 
+      <lb ed="#P" n="104"/>cap. Gall. resp. ult. &amp; sententia ult. Sic ergo 
+      prae<lb ed="#P" n="105" break="no"/>scientiam primo loco posuit August. in definitione 
+      <lb ed="#P" n="106"/>praedestinationis, quomodo genus rei definiendae 
+      so<lb ed="#P" n="107" break="no"/>let primum in definitione locum obtinere. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e372">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Porro locus alter qui magis urgere videtur, est 
+      <lb ed="#P" n="109"/>l. 1. ad Simpl. ubi tractans Augustinus illud 
+      Aposto<lb ed="#P" n="110" break="no"/>li: Cujus vult miseretur, dicit Deum illorum 
+      misere<lb ed="#P" n="111" break="no"/>ri, quos ita vocat, quomodo aptum eis esse novit ut. 
+      <lb ed="#P" n="112"/>moveantur &amp; sequantur, &amp; quomodo scit eis 
+      con<lb ed="#P" n="113" break="no"/>gruere ut vocantem non respuant; quippe cum 
+      vi<lb ed="#P" n="114" break="no"/>deamus alios aliter iisdem rebus demonstratis vel 
+      si<lb ed="#P" n="115" break="no"/>gnificatis ad credendum moveri. Unde consequens. 
+      <lb ed="#P" n="116"/>videtur propositum miserendi, quod est 
+      praedestina<lb ed="#P" n="117" break="no"/>tio praesupponere praescientiam, qua praesciat Deus 
+      <lb ed="#P" n="118"/>de unoquoque homine, quod vocantem sit 
+      secutu<lb ed="#P" n="119" break="no"/>rus, si hoc aut illo modo vocetur. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e403">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Sed respondetur, etsi eo libro, utpote ante 
+      Pe<lb ed="#P" n="121" break="no"/>lagianam haeresim exortam conscripto, non per 
+      om<lb ed="#P" n="122" break="no"/>nia satis accurate de gratia &amp; praedestinatione 
+      disse<lb ed="#P" n="123" break="no"/>ruerit Augustinus, ut ipse de eo fatetur lib. 2. retr. 
+      <lb ed="#P" n="124"/>cap. 1. &amp; lib. de dono perseverantiae cap. 20. &amp; 21. 
+      <lb ed="#P" n="125"/>ideóque testimoniis inde sumptis in hoc negotio 
+      <lb ed="#P" n="126"/>praedestinationis non nimium premi nos debere; 
+      re<lb ed="#P" n="127" break="no"/>vera tamen verba allegata, si recte intelligantur, 
+      no<lb ed="#P" n="128" break="no"/>bis non adversari, neque facere quicquam pro 
+      con<lb ed="#P" n="129" break="no"/>ditionata praescientia, quam praedestinatio 
+      praesup<lb ed="#P" n="130" break="no"/>ponat. Non enim praedestinationis ibi naturam 
+      ex<lb ed="#P" n="131" break="no"/>plicat Augustinus; sed tantum docet eos qui 
+      prae<lb ed="#P" n="132" break="no"/>destinati sunt, peculiari modo vocari a Deo, sic 
+      ni<lb ed="#P" n="133" break="no"/>mirum quomodo novit eos secuturos. Quod sine 
+      du<lb ed="#P" n="134" break="no"/>bio verum est. Novit enim Deus vim &amp; efficaciam 
+      <lb ed="#P" n="135"/>gratiae suae, qua sic quosdam vocat, ut vocando 
+      con<lb ed="#P" n="136" break="no"/>vertat, faciatque sequentes. Sed ideo novit, quia haec 
+      <lb ed="#P" n="137"/>efficaci sua voluntate facere constituit. Nam quod 
+      <lb ed="#P" n="138"/>Augustinus nolit praedestinationem depend re a 
+      <lb ed="#P" n="139"/>praescientia voluntatis humanae, satis ostendunt haec 
+      <lb ed="#P" n="140"/>superiora ejus libri verba, quibus ait: Non 
+      potes<lb ed="#P" n="141" break="no"/>effectus misericordiae Dei esse in hominis potestate. 
+      <lb ed="#P" n="142"/>ut frustra ille misereatur, si homo nolit. Et ista 
+      pau<lb ed="#P" n="143" break="no"/>Io post sequentia: Illud nescio quomodo dicatur, 
+      <lb ed="#P" n="144"/>frustra Deum misereri, nisi nos velimus; Si enim 
+      <lb ed="#P" n="145"/>Deus miseretur, etiam volumus. Ad eandem quippe 
+      <!--0192.xml-->
+      <pb ed="#P" n="169"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>misericordiam pertinet ut velimus. Et haec sub finem 
+      <lb ed="#P" n="2"/>libri. Cum nos ea delectant quibus proficiamus ad 
+      <lb ed="#P" n="3"/>Deum, inspiratur hoc &amp; praebetur gratia Dei, non 
+      <lb ed="#P" n="4"/>nutu nostro &amp; industria aut operum meritis 
+      compara<lb ed="#P" n="5" break="no"/>tur, quia ut sit nutus voluntatis, ut sit industria 
+      <lb ed="#P" n="6"/>studii, ut sint opera charitate ferventia, ille tribuit, 
+      <lb ed="#P" n="7"/>ille largitur. Haec ibi &amp; alia quaedam in eandem 
+      sen<lb ed="#P" n="8" break="no"/>tentiam. Quod si misericordiae divinae opus est, ipsum 
+      <lb ed="#P" n="9"/>velle, &amp; si initium voluntatis, quo scilicet 
+      volun<lb ed="#P" n="10" break="no"/>tas annuit &amp; sequitur vocantem, Deus tribuit &amp; 
+      <lb ed="#P" n="11"/>largitur, ergo secundum Augustini etiam in hoc 
+      li<lb ed="#P" n="12" break="no"/>bro doctrinam, non ex horum conditionata 
+      prae<lb ed="#P" n="13" break="no"/>scientia praedestinatio dependet, sed haec potius ideo 
+      <lb ed="#P" n="14"/>praescita sunt, quia praedestinata. Quare nec illud 
+      <lb ed="#P" n="15"/>quod dicit de dono persev. cap. 9. quosdam ita 
+      <lb ed="#P" n="16"/>vocari ut vocantem sequantur, alios autem non 
+      <lb ed="#P" n="17"/>ita; scrupulum facere potest, cum Deus ipse quos 
+      <lb ed="#P" n="18"/>secundum propositum vocat, in eorum cordibus hoc 
+      <lb ed="#P" n="19"/>operetur, ut &amp; vocantem sequantur, &amp; in eo ad 
+      <lb ed="#P" n="20"/>quod vocati sunt permaneant, quemadmodum 
+      eo<lb ed="#P" n="21" break="no"/>dem capite clare docetur. 
+    </p>
+            <p xml:id="bt67yj-k63605-d1e517">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Si quis autem objiciendum putet quod habetur 
+      <lb ed="#P" n="23"/>ejusdem lib. cap. 14. ubi cum dixisset Augustinus 
+      <lb ed="#P" n="24"/>quosdam reprobos, quales Tyrii &amp; Sidonii, 
+      credi<lb ed="#P" n="25" break="no"/>turos fuisse, si miracula vidissent, haec verba 
+      subjun<lb ed="#P" n="26" break="no"/>xit. Ex quo apparet habere quosdam in ipso ingenio 
+      <lb ed="#P" n="27"/>divinum naturaliter munus intelligentiae, quo 
+      mo<lb ed="#P" n="28" break="no"/>veantur ad fidem, si congrua suis mentibus vel 
+      au<lb ed="#P" n="29" break="no"/>diant verba vel signa conspiciant. Et tamen si Dei 
+      <lb ed="#P" n="30"/>altiore judicio a perditionis massa non sunt gratiae 
+      <lb ed="#P" n="31"/>praedestinatione discreti, nec ipsa eis adhibentur vel 
+      di<lb ed="#P" n="32" break="no"/>cta divina vel facta per quae possent credere, si 
+      audi<lb ed="#P" n="33" break="no"/>rent utique talia vel viderent. Respondebimus 
+      Au<lb ed="#P" n="34" break="no"/>gustinum iis verbis non docere quod si praedestinati 
+      <lb ed="#P" n="35"/>fuissent illi de quibus loquitur, praedestinationem 
+      eo<lb ed="#P" n="36" break="no"/>rum futuram ex praescientia, quod nimirum eis 
+      ta<lb ed="#P" n="37" break="no"/>lia Deus curasset adhiberi verborum &amp; miraculorum 
+      <lb ed="#P" n="38"/>signa, quibus eos ad accommodandam fidem 
+      mo<lb ed="#P" n="39" break="no"/>vendos praescivisset. Nam ita sequeretur ad 
+      creden<lb ed="#P" n="40" break="no"/>dum externa sufficere auxilia, cum de talibus 
+      con<lb ed="#P" n="41" break="no"/>stet Augustinum loqui; sed significat in eo potius 
+      <lb ed="#P" n="42"/>futuram fuisse eorum praedestinationem, quod Deus 
+      <lb ed="#P" n="43"/>eis fidem in qua usque in finem perseverarent, dare 
+      <lb ed="#P" n="44"/>voluisset, &amp; ad hoc adhibere exterius verba &amp; 
+      si<lb ed="#P" n="45" break="no"/>gna convenientia, per quae scilicet gratia ipsius 
+      in<lb ed="#P" n="46" break="no"/>terius operante, fidem susciperent. Hunc enim 
+      sen<lb ed="#P" n="47" break="no"/>sum manifeste postulat illa sententia proxime 
+      praece<lb ed="#P" n="48" break="no"/>dens: Sed quoniam ut crederent, non erat eis datum, 
+      <lb ed="#P" n="49"/>etiam unde crederent, est negatum. Unde &amp; in 
+      se<lb ed="#P" n="50" break="no"/>* quentibus apertissime docet ipsum credere, id est, 
+      <lb ed="#P" n="51"/>„ obedienter audire, esse donum Dei quod aliis datur, 
+      <lb ed="#P" n="52"/>* aliis non datur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

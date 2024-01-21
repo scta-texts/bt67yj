@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="96"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k36043"><!-- l1d32c2" -->
+            <head xml:id="bt67yj-k36043-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k36043-Hd1e103" type="question-title">Utrum pater sit Sapiens sapientia 
+        genita</head>
+            <p xml:id="bt67yj-k36043-d1e106">
+               <lb ed="#P" n="95"/>§. 2. Utrum pater sit Sapiens sapientia 
+      <lb ed="#P" n="96"/>genita?
+    </p>
+            <p xml:id="bt67yj-k36043-d1e113">
+      <!-- missing line break -->SUperiori quaestioni partim similis est, partim
+      <lb ed="#P" n="97"/>dissimilis, ea qua quaeritur utrum pater sit 
+      sa<lb ed="#P" n="98" break="no"/>piens sapientia genita. Similis quidem in eo quod, 
+      <lb ed="#P" n="99"/>utrumque, tam sapientem esse, quam diligere 
+      no<lb ed="#P" n="100" break="no"/>men sit essentiale. Dissimilis autem in eo, quod 
+      sa<lb ed="#P" n="101" break="no"/>pientem esse in divinis, nunquam notionaliter 
+      acci<lb ed="#P" n="102" break="no"/>piatur, sicut interdum accipi diximus hoc nomen, 
+      <lb ed="#P" n="103"/>diligere. In hac quaestione dissolvenda, Magister 
+      <lb ed="#P" n="104"/>multum laborat. Verum absoluta &amp; indubitata 
+      res<lb ed="#P" n="105" break="no"/>ponsio est, patrem non recte dici sapientem 
+      sapien<lb ed="#P" n="106" break="no"/>tia genita. Ratio est quia cum patri sit idem 
+      sape<lb ed="#P" n="107" break="no"/>re quod esse, si sapiens esset sapientia genita, 
+      se<lb ed="#P" n="108" break="no"/>queretur eum simpliciter esse per sapientiam 
+      geni<lb ed="#P" n="109" break="no"/>tam, id est, per filium, quod est absurdissimum. 
+      <lb ed="#P" n="110"/>Non enim pater a filio, sed a patre filius accipit esse. 
+      <lb ed="#P" n="111"/>Eadem ratione negandum est patrem esse 
+      poten<lb ed="#P" n="112" break="no"/>tem virtute qua genuit, aut bonum bonitate quam 
+      <lb ed="#P" n="113"/>spirando produxit. Haec enim nomina, potentem 
+      <lb ed="#P" n="114"/>esse, bonum esse &amp; similia, tantum essentialia 
+      <lb ed="#P" n="115"/>sunt. Et proinde locutiones jam dictae, non alium 
+      <lb ed="#P" n="116"/>lensum recipiunt, quam quo per ablativos, 
+      prin<lb ed="#P" n="117" break="no"/>cipium producens, vel ratio formalis, significetur. 
+      <lb ed="#P" n="118"/>Quo utroque sensu falsas eas esse constat. Sic docet 
+      <lb ed="#P" n="119"/>sanctus Augustinus libro sexto de Trinitate, 
+      capi<lb ed="#P" n="120" break="no"/>te primo &amp; secundo, libro septimo, capite primo &amp; 
+      <lb ed="#P" n="121"/>tertio, &amp; libro decimoquinto, capite septimo. 
+      Deni<lb ed="#P" n="122" break="no"/>que libro primo retract. capite vicelimosexto, 
+      retra<lb ed="#P" n="123" break="no"/>ctat quod dixerat libro octoginta trium quaestionum 
+      <lb ed="#P" n="124"/>quaestione vicesimatertia, Deum esse sapientem 
+      sa<lb ed="#P" n="125" break="no"/>pientia quam ipse genuit, lectorem remittens ad 
+      ejus<lb ed="#P" n="126" break="no"/>dem quaestionis exactiorem tractationem in libris de 
+      <lb ed="#P" n="127"/>Trinitate. 
+    </p>
+            <p xml:id="bt67yj-k36043-d1e185">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Quod autem dicit idem Sanctus Augustinus 
+      ser<lb ed="#P" n="129" break="no"/>mone sexagesimotertio de diversis, capite 
+      duodeci<lb ed="#P" n="130" break="no"/>mo, Deum esse patrem verbi sui, &amp; sapientiaesuae, &amp; 
+      <lb ed="#P" n="131"/>virtutis suae, responsioni nostrae non obstat. Non enim 
+      <lb ed="#P" n="132"/>sensus est eum esse patrem sapientiae suae, id est, qua 
+      <lb ed="#P" n="133"/>sapiens est, &amp; virtutis suae, id est, qua potens est, sed 
+      <lb ed="#P" n="134"/>suae, id est, ex se genitae, quomodo pater est verbi 
+      <lb ed="#P" n="135"/>sui, id est, ex se producti. 
+    </p>
+            <p xml:id="bt67yj-k36043-d1e208">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Sed nec illud obstat quod patres interdum ut 
+      <lb ed="#P" n="137"/>sanctus Hilarius libro duodecimo de Trinitate sub 
+      <lb ed="#P" n="138"/>finem &amp; alii, contra Arianos ex eo probant Deum ab 
+      <lb ed="#P" n="139"/>aeterno filium habuisse, quia alioqui Deus aliquando 
+      <lb ed="#P" n="140"/>fuisset sine sapientia &amp; virtute, cum filius secundum 
+      <lb ed="#P" n="141"/>scripturas sit virtus &amp; sapientia patris. Hactenus 
+      <lb ed="#P" n="142"/>enim valet illa probatio, quia cum filius non sit 
+      <lb ed="#P" n="143"/>sapientia distincta, ab ea sapientia quae est pater, 
+      <lb ed="#P" n="144"/>sed una &amp; eadem, si tollatur sapientia geni¬ 
+      <!--0120.xml-->
+      <pb ed="#P" n="97"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ta, id est, sapientia quae est filius, tollitur etiam 
+      sa<lb ed="#P" n="2" break="no"/>pientia qua pater est, &amp; qua pater sapiens est. Nec 
+      <lb ed="#P" n="3"/>vero sequitur, Pater est sapiens per sapientiam: At 
+      <lb ed="#P" n="4"/>filius est eadem illa sapientia: Est igitur pater sapiens 
+      <lb ed="#P" n="5"/>per genitam sapientiam. Vitium argumenti in eo 
+      <lb ed="#P" n="6"/>est, quod, ut loquuntur dialectici, mutetur 
+      appella<lb ed="#P" n="7" break="no"/>tio. Quamvis enim sapientia sit nomen essentiale, 
+      <lb ed="#P" n="8"/>dum tamen ei additur, genita, induit conditionem 
+      <lb ed="#P" n="9"/>nominis personalis. Atqui a nomine essentiali ad 
+      <lb ed="#P" n="10"/>personale, non legitime procedit argumentatio, 
+      <lb ed="#P" n="11"/>quoties nomini essentiali aliquid adjungitur, quod 
+      <lb ed="#P" n="12"/>"parem in omnibus personis rationem non habeat. 
+    </p>
+            <p xml:id="bt67yj-k36043-d1e265">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Quocirca non magis erit consequens, patrem esse 
+      sa<lb ed="#P" n="14" break="no"/>pientem sapientia genita, quam simpliciter patrem 
+      <lb ed="#P" n="15"/>esse per filium. 
+    </p>
+            <p xml:id="bt67yj-k36043-d1e276">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Caeterum quo sensu recte dicatur filium esse 
+      sa<lb ed="#P" n="17" break="no"/>pientiam genitam, ex iis quae sunt ad 5. dist. intellig. 
+      <lb ed="#P" n="18"/>potest. Sicut enim essentia proprie nec gignit, nec 
+      <lb ed="#P" n="19"/>gignitur, ita nec sapientia; sed hoc tantum sensu, 
+      <lb ed="#P" n="20"/>quia pater, qui est sapientia, gignit, &amp; filius, qui 
+      ea<lb ed="#P" n="21" break="no"/>dem est sapientia, gignitur. Verum quia filio 
+      sapien<lb ed="#P" n="22" break="no"/>tia appropriatur, fit ut magis receptum sit, filium 
+      <lb ed="#P" n="23"/>dici sepientiam genitam, quam patrem sapientiam 
+      <lb ed="#P" n="24"/>gignentem. Convenientius autem pater vocatur 
+      sa<lb ed="#P" n="25" break="no"/>pientia ingenita, sicut &amp; natura ingenita, prout 
+      de<lb ed="#P" n="26" break="no"/>claratum est ad dist. vicesimamocta vam. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

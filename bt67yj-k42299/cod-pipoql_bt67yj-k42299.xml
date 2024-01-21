@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="112"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k42299"><!-- l1d38c9" -->
+            <head xml:id="bt67yj-k42299-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-k42299-Hd1e103" type="question-title">Providentiam Dei non adferre necessitatem rebus</head>
+            <p xml:id="bt67yj-k42299-d1e106">
+               <lb ed="#P" n="134"/>§. 9. Providentiam Dei non adferre necessitatem rebus. 
+    </p>
+            <p xml:id="bt67yj-k42299-d1e111">
+               <lb ed="#P" n="135"/>QUi hodie necessitatem omnibus eventis atque. 
+      <lb ed="#P" n="136"/>humanis actionibus ascribunt, ut <name xml:id="bt67yj-k42299-Nd1e117">Calvinus</name> &amp;
+      <lb ed="#P" n="137"/>alii, non tam ex praescientia quam providentia Dei 
+      <lb ed="#P" n="138"/>stabiliendam eam putant. Fatentur enim nudam 
+      prae<lb ed="#P" n="139" break="no"/>scientiam cum non sit eventuumcausa, sed tantum 
+      in<lb ed="#P" n="140" break="no"/>dex &amp; quasi praenuncia, dum futura nobis a Deo 
+      re<lb ed="#P" n="141" break="no"/>velantur, itidem non esse causam necessitatis eorum. 
+      <lb ed="#P" n="142"/>Caeterum providentiam Dei, quoniam simul 
+      inclu<lb ed="#P" n="143" break="no"/>dit efficacem Dei voluntatem respectu eorum quae 
+      <lb ed="#P" n="144"/>evenient, ut causam esse constat eventuum, ita 
+      con<lb ed="#P" n="145" break="no"/>tendunt necessitatem iisdem importare. Catholici 
+      ve<lb ed="#P" n="146" break="no"/>ro non magis providentiam Deiquam praescientiam 
+      <!--0136.xml-->
+      <pb ed="#P" n="113"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>esse docent causam necessitatis eorum, ita ut ex eo 
+      <lb ed="#P" n="2"/>ipso quo quid provisum ac dispositum, seu 
+      praeordi<lb ed="#P" n="3" break="no"/>natum est a Deo, consequens sit illud necessario 
+      <lb ed="#P" n="4"/>eventurum. Quod ut intelligatur, considerandum est 
+      <lb ed="#P" n="5"/>Deum quidem voluntate ac providentia sua res 
+      uni<lb ed="#P" n="6" break="no"/>versas etiam in particulari facere &amp; administrare; 
+      <lb ed="#P" n="7"/>quemadmodum ad distinctionem proxime 
+      sequen<lb ed="#P" n="8" break="no"/>tem plenius ostendetur; sed secundum naturas rebus 
+      <lb ed="#P" n="9"/>fingulis inditas in prima creatione. Quasdam enim 
+      <lb ed="#P" n="10"/>res sic instituit, ut libere agant, &amp; hac libertate 
+      sal<lb ed="#P" n="11" break="no"/>va eas administrat, dum in eis operatur ipsas etiam 
+      <lb ed="#P" n="12"/>liberas actiones, ut in homine &amp; angelo. Rursum 
+      <lb ed="#P" n="13"/>quibusdam effectis praeordinavit causas neccssarias, 
+      <lb ed="#P" n="14"/>aliis vero non necessarias, sed contingentes in ordine 
+      <lb ed="#P" n="15"/>ad ea quorum sunt causae; ita nimirum ut virtute 
+      <lb ed="#P" n="16"/>ereata possint ab illis producendis impediri. Unde 
+      <lb ed="#P" n="17"/>consequitur, ut quaedam neceslario, quaedam 
+      con<lb ed="#P" n="18" break="no"/>tingenter eveniant. Quamquam &amp; ipsas secundum 
+      <lb ed="#P" n="19"/>naturam necessarias causas noluit Deus subtractas 
+      <lb ed="#P" n="20"/>esse suae potentiae, quo minus &amp; cas possit, si velit, 
+      <lb ed="#P" n="21"/>a producendis suis effectibus impedire. 
+    </p>
+            <p xml:id="bt67yj-k42299-d1e194">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Igitur Dei providentia adeo non tollit effectuum 
+      <lb ed="#P" n="23"/>suorum contingentiam, ut etiam in quibusdam eam 
+      <lb ed="#P" n="24"/>statuat, iis vidclicet omnibus, quibus provisae sunt 
+      <lb ed="#P" n="25"/>causae non necessariae, sed impedibiles, secundum 
+      na<lb ed="#P" n="26" break="no"/>turam. Nam ut testatur Dionysius cap. 4. de div. 
+      <lb ed="#P" n="27"/>nominibus, corrumpere naturam non est divinae 
+      pro<lb ed="#P" n="28" break="no"/>videntiae. 
+    </p>
+            <p xml:id="bt67yj-k42299-d1e215">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Hanc vero Catholicam doctrinam plane simul ac 
+      <lb ed="#P" n="30"/>breviter exposuit sanctus <ref xml:id="bt67yj-k42299-Rd1e223">Augustinus lib. 7. de civit. 
+      <lb ed="#P" n="31"/>Dei, capit. 30.</ref> his verbis: <quote xml:id="bt67yj-k42299-Qd1e228">Sic Deus administrat 
+      om<lb ed="#P" n="32" break="no"/>nia quae creavit, ut etiam ipsa proprios exercere &amp; 
+      <lb ed="#P" n="33"/>agere motus sinat</quote>, id est; ut secundas causas ab 
+      agen<lb ed="#P" n="34" break="no"/>do non impediat, neque proprium ac naturalem 
+      <lb ed="#P" n="35"/>modum agendi earum tollat, sed magis in eis 
+      secun<lb ed="#P" n="36" break="no"/>dum ipsarum naturas, quas eis attribuit, operetur. 
+      <lb ed="#P" n="37"/>Atque hoc est quod dicit S. Thomas 2. 2. quaest. 52. 
+      <lb ed="#P" n="38"/>art. 1. &amp; aliis locis, Deum movere unumquodque l 
+      <lb ed="#P" n="39"/>secundum modum ejus quod movetur. 
+    </p>
+            <p xml:id="bt67yj-k42299-d1e249">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Ex quibus concludi potest non minus hominem in 
+      <lb ed="#P" n="41"/>suis actionibus liberum esse, aliosque eventus esse 
+      <lb ed="#P" n="42"/>contingentes posita Dei providentia, quam si 
+      fin<lb ed="#P" n="43" break="no"/>gamus eam abesse. Siquidem providentia teste 
+      Dio<lb ed="#P" n="44" break="no"/>nysio naturae rerum est conservatrix, &amp; secundum 
+      <lb ed="#P" n="45"/>Augustinum non impedit, quo minus res proprios 
+      <lb ed="#P" n="46"/>motus exerceant. 
+    </p>
+            <p xml:id="bt67yj-k42299-d1e269">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> His addi possunt duae rationes cum praescientia 
+      <lb ed="#P" n="48"/>communes, prior haec: Deus non tantum quod nos 
+      <lb ed="#P" n="49"/>facturi sumus providet ac praeordinat, verum etiam 
+      <lb ed="#P" n="50"/>quid ipse facturus sit. Atqui seipsum per suam 
+      pro<lb ed="#P" n="51" break="no"/>videntiam non impedit, quo minus suas actiones 
+      li<lb ed="#P" n="52" break="no"/>bere exerceat, possitque non agere; quare nec 
+      hu<lb ed="#P" n="53" break="no"/>manis actionibus nec ullis aliis eventibus, quibus 
+      <lb ed="#P" n="54"/>causas non necessarias praepara vit, per eandem 
+      pro<lb ed="#P" n="55" break="no"/>videntiam adfert necessitatem. 
+    </p>
+            <p xml:id="bt67yj-k42299-d1e293">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Posterior ista: Deus non necessario disponit ac 
+      <lb ed="#P" n="57"/>providet de rebus, igitur nec res quarum est 
+      dispo<lb ed="#P" n="58" break="no"/>sitio ac providentia, necessitate eveniunt. Quod 
+      in<lb ed="#P" n="59" break="no"/>tellige, quantum est ex generali ratione providentiae, 
+      <lb ed="#P" n="60"/>quae non hoc exigit, ut si quid a Deo provisum sit, 
+      <lb ed="#P" n="61"/>eveniat necessario. Nam ea quibus Deus providit 
+      <lb ed="#P" n="62"/>causas necessarias, evenient necessario; non quia 
+      <lb ed="#P" n="63"/>provisa, sed quia provisa tali modo, id est, per tales 
+      <lb ed="#P" n="64"/>causas eventura. 
+    </p>
+            <p xml:id="bt67yj-k42299-d1e317">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Tradit hanc doctrinam &amp; docte explicat S. 
+      Tho<lb ed="#P" n="66" break="no"/>mas variis locis ut 1. quaest. 22. art. 4. &amp; q. 19. art. 
+      <lb ed="#P" n="67"/>8. in quem locum videatur doctus ac solidus 
+      Com<lb ed="#P" n="68" break="no"/>mentarius <name xml:id="bt67yj-k42299-Nd1e330">Dominici Bannes</name>. Item de veritate 
+      quae<lb ed="#P" n="69" break="no"/>stione quinta, art. 5. lib. 3. contra gentes c. 69. 70. 
+      <lb ed="#P" n="70"/>71. 73. 93. &amp; 94. quodlib. 10. art. 4. In 
+      com<lb ed="#P" n="71" break="no"/>pendio Theol. cap. 141. &amp; 142. opusc. 15. cap. 15. 
+      <lb ed="#P" n="72"/>&amp; super 39. distinctionem quaest. 2. art. 2. 
+    </p>
+            <p xml:id="bt67yj-k42299-d1e341">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Porro contrariam sententiam ab haeretico <name xml:id="bt67yj-k42299-Nd1e347">Joanne 
+      <lb ed="#P" n="74"/>Vvicleff</name> assertam damnavit <ref xml:id="bt67yj-k42299-Rd1e352">Constantiense concilium 
+      <!--0136.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="75"/>I sess. 8. art. 27.</ref> qui sic habebat: <quote xml:id="bt67yj-k42299-Qd1e361">Omnia de necessitate 
+      <lb ed="#P" n="76"/>absoluta eveniunt</quote>. Hoc autem ille asserebat, tum 
+      <lb ed="#P" n="77"/>propter infaillibilem Dei praescientiam ut supra 
+      in<lb ed="#P" n="78" break="no"/>dicavimus, tum vero maxime propter inevitabilem 
+      <lb ed="#P" n="79"/>Dei providentiam. Eadem fuit Stoicorum opinio, 
+      <lb ed="#P" n="80"/>quam refellit sanctus August. lib. quinto de civitate 
+      <lb ed="#P" n="81"/>Dei, cap. 9. 10. &amp; 11. Plura de hac re sequentem 
+      di<lb ed="#P" n="82" break="no"/>stinctionem, ubi docetur actus humanos subjectos 
+      <lb ed="#P" n="83"/>esse providentiae Dei. Nunc ad ea quae solent objici 
+      <lb ed="#P" n="84"/>respondeamus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

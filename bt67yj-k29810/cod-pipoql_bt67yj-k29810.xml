@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="80"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k29810"><!-- l1d23c3" -->
+            <head xml:id="bt67yj-k29810-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k29810-Hd1e103" type="question-title">De Graecis vocabulis hypostasis et usiae, 
+      <pc type="indent"/> et Latinis respondentibus</head>
+            <p xml:id="bt67yj-k29810-d1e108">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> §. 3. De Graecis vocabulis hypostasis &amp; usiae, 
+      <lb ed="#P" n="45"/>
+               <pc type="indent"/> &amp; Latinis respondentibus.
+    </p>
+            <p xml:id="bt67yj-k29810-d1e119">
+               <lb ed="#P" n="46"/>PErsonae respondet hypostasis apud Graecos. 
+      Si<lb ed="#P" n="47" break="no"/>cut enim Latini tres personas confitentur in 
+      <lb ed="#P" n="48"/>Deo, sic &amp; Graeci tres hypostases; tametsi hoc 
+      dis<lb ed="#P" n="49" break="no"/>criminis est inter hypostasim &amp; personam; quod 
+      <lb ed="#P" n="50"/>hypostasis generaliter ad omnem individuam 
+      sub<lb ed="#P" n="51" break="no"/>stantiam extendi possit, sicut apud Latinos 
+      supposi<lb ed="#P" n="52" break="no"/>tum, cum persona tantum de intellectuali 
+      substan<lb ed="#P" n="53" break="no"/>tia dicatur. Sciendum tamen non semper eundem 
+      <lb ed="#P" n="54"/>fuisse hujus vocabuli usum apud authores 
+      Graecos<lb ed="#P" n="55" break="no"/>Scribit enim Hieronymus in epistola ad Damasum, 
+      <lb ed="#P" n="56"/>cujus initium, Quoniam vetusto, totam saecularium 
+      <lb ed="#P" n="57"/>literarum scholam, nihil aliud hypostasim, nisi 
+      <lb ed="#P" n="58"/>usiam novisse: Usiam autem ibidem substantiam 
+      <lb ed="#P" n="59"/>interpretatur. Et proinde sub hypostasis vocabulo, 
+      <lb ed="#P" n="60"/>tanquam a viris Ecclesiasticis modo sic, modo 
+      ali<lb ed="#P" n="61" break="no"/>ter usurpato, venenum latere dicit; adeo ut tres in 
+      <lb ed="#P" n="62"/>Deo hypostases confiteri non audeat (utpote 
+      ca<lb ed="#P" n="63" break="no"/>lumniam trium substantiarum ex ea confessione 
+      ve<lb ed="#P" n="64" break="no"/>ritus) nisi addita expositione, qua tria enypostata, 
+      <lb ed="#P" n="65"/>id est, tres subsistentes personas intelligere se 
+      decla<lb ed="#P" n="66" break="no"/>ret. Praeteresmin Synodo Alexandrina sub 
+      Athana<lb ed="#P" n="67" break="no"/>sio habita, constitutum fuit nihil opus esse vocabulis 
+      <lb ed="#P" n="68"/>usiae &amp; hypostasis, ubi de Deo sermo est, uti referunt 
+      <lb ed="#P" n="69"/>Socrates libr. 3. hist. eccl. cap. 5. &amp; Nicephorus lib. 
+      <lb ed="#P" n="70"/>10. cap. 15. Cujus decreti pro tempore haec ratio fuit, 
+      <lb ed="#P" n="71"/>quia apud saeculares authores οὐεία non tam essentiam 
+      <!--0103.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>significabat quam substantiam, quae apud 
+      Aristote<lb ed="#P" n="73" break="no"/>lem categoriarum prima est, in qua tamen divina 
+      <lb ed="#P" n="74"/>essentia non continetur. Hypostasis quoque, si vocis 
+      <lb ed="#P" n="75"/>etymon spectes &amp; vocabulum latinum ex graeco 
+      ex<lb ed="#P" n="76" break="no"/>primas non aliud quam substantiam sonat. Hinc 
+      e<lb ed="#P" n="77" break="no"/>tiam factum ut quemadmodum commemorat 
+      Theo<lb ed="#P" n="78" break="no"/>doretus lib. 2. hist. ecc. cap. 8. Patres concilii 
+      Sardi<lb ed="#P" n="79" break="no"/>censis (quod universale fuisse perhibent) definierint 
+      <lb ed="#P" n="80"/>unam esse hypostasim patris &amp; filii &amp; spiritus sancti. 
+      <lb ed="#P" n="81"/>Idipsum &amp; in conc. Ro sub Damaso decretum fuisse 
+      <lb ed="#P" n="82"/>testatur eodem libr. Theodoretus cap. 22. Exstatque 
+      <lb ed="#P" n="83"/>simile decretum concilii cujusdam Anthiocheni 
+      <lb ed="#P" n="84"/>apud Hilarium in lib. de Synodis. Certum est autem 
+      <lb ed="#P" n="85"/>horum conciliorum patres hypostasis nomine οὐσίαν, 
+      <lb ed="#P" n="86"/>sive substantiam intellexisse, quomodo Theodoretus, 
+      <lb ed="#P" n="87"/>atque ipsimet sua decreta exponunt. Neque vero 
+      <lb ed="#P" n="88"/>aliena videri debet haec illius vocis significatio, 
+      quan<lb ed="#P" n="89" break="no"/>doquidem &amp; Apostolus Hebraeor. 1. similiter eam 
+      ac<lb ed="#P" n="90" break="no"/>cepit, filium Dei vocans characterem hypostasis, id 
+      <lb ed="#P" n="91"/>est, (ut noster interpres vertit) figuram substantiae 
+      <lb ed="#P" n="92"/>patris, tametsi Theophylactus hypostasim eo loco 
+      <lb ed="#P" n="93"/>personam intellexit, authoritatem in ea re Gregorii 
+      <lb ed="#P" n="94"/>Nysseni, quem allegat secutus. 
+    </p>
+            <p xml:id="bt67yj-k29810-d1e232">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Porro in hac altera significatione, qua nimirum 
+      <lb ed="#P" n="96"/>hypostasis idem significet quod Latinis persona vel 
+      <lb ed="#P" n="97"/>suppositum, usurparunt jam olim eam vocem Graeci 
+      <lb ed="#P" n="98"/>patres, nihil dubitantes in Deo tres hypostases 
+      confi<lb ed="#P" n="99" break="no"/>teri. Primus quidem Dionysius Areopagita de 
+      divi<lb ed="#P" n="100" break="no"/>nis nom. c. 1. Deinde Athan. in symbolo, Basilius 
+      ep<lb ed="#P" n="101" break="no"/>43. ad fratrem suum Gregorium Nyssenum, disserens 
+      <lb ed="#P" n="102"/>de differentia usiae &amp; hypostasis. Gregorius 
+      Nazian<lb ed="#P" n="103" break="no"/>zenus serm. 2. de Epiphania Domini. Epiphanius 
+      <lb ed="#P" n="104"/>haeresi 78. Cyrillus lib. 1. in Joan. c. 2. Et Damasc. 
+      <lb ed="#P" n="105"/>lib. I. de fide c. 9. &amp; lib. 3. cap. 5. nec non libro de 
+      <lb ed="#P" n="106"/>Logica c. 25. &amp; 26. ubi utriusque significationis me 
+      <lb ed="#P" n="107"/>minit. Denique eundem hujus vocabuli usum, 
+      syno<lb ed="#P" n="108" break="no"/>dus Alexandrina, de qua supra, non improbat; 
+      sicu<lb ed="#P" n="109" break="no"/>bi Catholicis res est cum Sabellianis personarum 
+      dis<lb ed="#P" n="110" break="no"/>crimen negantibus. Horum authoritatem 
+      posterio<lb ed="#P" n="111" break="no"/>res Graeci ita sunt secuti, ut hypostasim in divinis 
+      <lb ed="#P" n="112"/>non aliud intelligant, quam quod Latini personam 
+      <lb ed="#P" n="113"/>vocant, maxime cum in promptu non esset aliud 
+      <lb ed="#P" n="114"/>vocabulum, quo subsistentiam illam personalem, qua 
+      <lb ed="#P" n="115"/>inter se distinguuntur pater, &amp; filius, &amp; spiritus 
+      fan<lb ed="#P" n="116" break="no"/>ctus, commode atque inoffense exprimerent, 
+      quem<lb ed="#P" n="117" break="no"/>admodum testatur Augustinus lib. 7. de Trinit. cap 
+      <lb ed="#P" n="118"/>4. &amp; 6. Quamvis enim personam πρόσωτεν dicant, 
+      <lb ed="#P" n="119"/>noluerunt tamen tria πρόσωπα dicere in Deo, ne 
+      <lb ed="#P" n="120"/>quid simile sentire viderentur cum 
+      Antropomor<lb ed="#P" n="121" break="no"/>phitis humanam effigiem &amp; membra Deo 
+      tribuen<lb ed="#P" n="122" break="no"/>tibus, propterea quod eadem voce etiam facies 
+      <lb ed="#P" n="123"/>seu vultus apud eos significetur, sitque 
+      absurdissi<lb ed="#P" n="124" break="no"/>mum tres facies sanctissimae Trinitati tanquam 
+      ho<lb ed="#P" n="125" break="no"/>mini trivultio, attribuere. Quod vero ad οὐσίαν 
+      at<lb ed="#P" n="126" break="no"/>tinet, etsi Aristoteli in categoriis vox illa 
+      substan<lb ed="#P" n="127" break="no"/>tiam subsistentem significet, Christiani tamen 
+      scri<lb ed="#P" n="128" break="no"/>ptores de Deo disserentes, constanter eam 
+      usurpa<lb ed="#P" n="129" break="no"/>runt pro essentia, quam &amp; proprie significat, si 
+      vo<lb ed="#P" n="130" break="no"/>cis etymologia spectetur. Unde in concilio 
+      Nicae<lb ed="#P" n="131" break="no"/>no ac deinde a tota ecclesia filius Dei praedicatur 
+      pa<lb ed="#P" n="132" break="no"/>tri ὁμοούσιος, id est, coessentialis, quod usitatius 
+      Lati<lb ed="#P" n="133" break="no"/>ni dicunt consubstantialitatem, quasi ejusdem sub 
+      <lb ed="#P" n="134"/>stantiae, tametsi essentiae vocabulum huic 
+      significatio<lb ed="#P" n="135" break="no"/>ni magis propriecongruit quam substantiae, quam 
+      di<lb ed="#P" n="136" break="no"/>ximus spectata vocis origine, idem quod hypostasim 
+      <lb ed="#P" n="137"/>significare. Quo fit ut etiam apud Latinos patres, 
+      <lb ed="#P" n="138"/>interdum legamus substantiam pro hypostasi seu 
+      <lb ed="#P" n="139"/>persona positam. Sic enim Hilarius lib. 4. de Trin. 
+      <lb ed="#P" n="140"/>tres substantias esse dixit patrem, &amp; filium, &amp; 
+      spi<lb ed="#P" n="141" break="no"/>ritum sanctum. Et in lib. de synodis ex supradicta sy 
+      <lb ed="#P" n="142"/>nodo Antiochena tres in Deo substantias exponit, 
+      <lb ed="#P" n="143"/>tres subsistentium personas. Sed hanc substantiae 
+      si<lb ed="#P" n="144" break="no"/>gnificationem apud Latinos minus fuisse receptam, 
+      <lb ed="#P" n="145"/>arguit imprimis illud Hieronymi in epistola memo¬ 
+      <!--0104.xml-->
+      <pb ed="#P" n="81"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rata ad Damasum: Et quis ore sacrilego tres 
+      substan<lb ed="#P" n="2" break="no"/>tias praedicabit? Augustinus etiam lib. 5. de trinit. 
+      <lb ed="#P" n="3"/>cap. 9. &amp; l. 7. cap. 4. &amp; 6. scribit essentiam &amp; sub 
+      <lb ed="#P" n="4"/>stantiam Latinis idem significare, licet Graeca 
+      voca<lb ed="#P" n="5" break="no"/>bula iis respondentia, usia &amp; hypostasis, Graecis non 
+      <lb ed="#P" n="6"/>idem significent, ubi de ineffabili trinitate illis 
+      ser<lb ed="#P" n="7" break="no"/>mo est. Itaque tempore Augustini, jam obtinuerat 
+      <lb ed="#P" n="8"/>ut hypostasis apud Graecos personam non 
+      substan<lb ed="#P" n="9" break="no"/>tiam significaret. Si quando autem hypostasim 
+      Lati<lb ed="#P" n="10" break="no"/>ni sua lingua vellent exprimere, ne quid offenderent, 
+      <lb ed="#P" n="11"/>potius subsistentiam quam substantiam dicebant, ut 
+      <lb ed="#P" n="12"/>videre est in expositione symboli ad Damasum, apud 
+      <lb ed="#P" n="13"/>Hicronymum &amp; alibi. Postremo nec illud 
+      praeter<lb ed="#P" n="14" break="no"/>eundum, quod Augustinus lib. 7. de trinit. cap. 1. 
+      <lb ed="#P" n="15"/>latinum substantiae nomen abusive Deo tribuicenset, 
+      <lb ed="#P" n="16"/>eo quod divina natura nulli substet accidenti. 
+      No<lb ed="#P" n="17" break="no"/>men autem essentiae proprie Deo tribui, quia Deo 
+      <lb ed="#P" n="18"/>maxime convenit esse, juxta illud: Ego sum qui sum, 
+      <lb ed="#P" n="19"/>Hoc autem de substantia eatenus verum est, 
+      quate<lb ed="#P" n="20" break="no"/>nus ad etymon vocis respiciatur, non autem quoad 
+      <lb ed="#P" n="21"/>proprium vocis significatum, quod saepenumero ab 
+      <lb ed="#P" n="22"/>etymo diversum esse constat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

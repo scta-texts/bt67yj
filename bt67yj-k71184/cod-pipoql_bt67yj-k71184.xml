@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="188"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k71184"><!-- l1d44c4" -->
+            <head xml:id="bt67yj-k71184-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k71184-Hd1e103" type="question-title">Solvuntur objectiones</head>
+            <p xml:id="bt67yj-k71184-d1e106">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> §. 4. Solvuntur objectiones.
+    </p>
+            <p xml:id="bt67yj-k71184-d1e113">
+               <lb ed="#P" n="48"/>VErum contra doctrinam hanc objiciet aliquis: 
+      <lb ed="#P" n="49"/>Si non est in Deo potentia ad praeteritum; ergo 
+      <lb ed="#P" n="50"/>neque est ad futurum. Sicut enim pugnant 
+      praeteri<lb ed="#P" n="51" break="no"/>tum &amp; non praeteritum; ita pugnant futurum &amp; non 
+      <lb ed="#P" n="52"/>futurum. At hoc non obstante potest Deus facere ut 
+      <lb ed="#P" n="53"/>futura non sint futura; ergo similiter ut praeterita 
+      <lb ed="#P" n="54"/>non sint praeterita. Respondemus non esse simile de 
+      <lb ed="#P" n="55"/>praeterito &amp; futuro. Quod enim praeteritum dicitur, 
+      <lb ed="#P" n="56"/>jam positum est in rerum natura. Quod autem 
+      futu<lb ed="#P" n="57" break="no"/>rum dicitur, nondum est positum. Quamvis ergo 
+      <lb ed="#P" n="58"/>Deus facere non possit, ut aliquid futurum sit &amp; non 
+      <lb ed="#P" n="59"/>futurum, quia contradictio est, facere tamen potest, 
+      <lb ed="#P" n="60"/>ut hoc quod ponimus futurum, quodque revera 
+      fu<lb ed="#P" n="61" break="no"/>turum est, non reveniat, sensu videlicet diviso, qui 
+      <lb ed="#P" n="62"/>in praeteritis locum non habet, eo quod illa jam 
+      po<lb ed="#P" n="63" break="no"/>sita sint, &amp; facta ponantur. Utrum autem in Deo 
+      po<lb ed="#P" n="64" break="no"/>tentia sit ad praesens, ut non sit, dubitaverit 
+      quis<lb ed="#P" n="65" break="no"/>piam, propterea quod praeteriti &amp; praesentis 
+      videa<lb ed="#P" n="66" break="no"/>tur eadem ratio. Nam sicut praeteritum positum est, 
+      <lb ed="#P" n="67"/>ita quod praesens est ponitur. Quare &amp; similis 
+      seque<lb ed="#P" n="68" break="no"/>tur contradictio, nempe idem esse &amp; non esse. Sed 
+      <lb ed="#P" n="69"/>respondendum neque in his esse simile. Quod enim 
+      <!--0211.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>ponitur, libere ponitur a sua causa, quae proinde 
+      <lb ed="#P" n="71"/>dum effectum ponit, potentiam habet ad oppositum. 
+      <lb ed="#P" n="72"/>Unde vere dicitur posse non facere. Quod autem 
+      po<lb ed="#P" n="73" break="no"/>situm est, licet tunc quando ponebatur, libere 
+      posi<lb ed="#P" n="74" break="no"/>tum fuerit a sua causa, nunc tamen ipsius respectu 
+      <lb ed="#P" n="75"/>causa non amplius habet libertatem, &amp; proinde nec 
+      <lb ed="#P" n="76"/>potentiam. Unde patet ratio cur recte dicatur, Deum 
+      <lb ed="#P" n="77"/>facere posse ut sol nunc non luceat, nec tamen 
+      face<lb ed="#P" n="78" break="no"/>re posse, ut heri non luxerit, licet id herifacere 
+      po<lb ed="#P" n="79" break="no"/>tuerit, &amp; sic de aliis. Ex his autem intelligi potest 
+      <lb ed="#P" n="80"/>quid respondendum sit ad consimilem quaestionem 
+      <lb ed="#P" n="81"/>quam in textu versat Magister: An Deus semper 
+      pos<lb ed="#P" n="82" break="no"/>sit quod semel potuit. Distinguendum est enim. Nam 
+      <lb ed="#P" n="83"/>si res sola attendatur, sine determinatione temporis, 
+      <lb ed="#P" n="84"/>affirmativa est responsio. Quomodo dicunt quidam, 
+      <lb ed="#P" n="85"/>quod semel est possibile, semper esse possibile. 
+      Ve<lb ed="#P" n="86" break="no"/>rumtamen si proprie &amp; exacte loquendum sit, 
+      habi<lb ed="#P" n="87" break="no"/>ta nimirum ratione totius significati propositionum, 
+      <lb ed="#P" n="88"/>tempore etiam comprehenso, negative potius 
+      res<lb ed="#P" n="89" break="no"/>pondendum erit. Exempli gratia. Vera non est ista: 
+      <lb ed="#P" n="90"/>Deus potest facere ut Adam non peccaverit, quia 
+      fa<lb ed="#P" n="91" break="no"/>cere in ea propositione praesentem aut futuram 
+      actio<lb ed="#P" n="92" break="no"/>nem denotat, quae terminari non potest in rem 
+      prae<lb ed="#P" n="93" break="no"/>teritam. At si utaris verbo praeteriti temporis, veram 
+      <lb ed="#P" n="94"/>propositionem efficies hoc pacto: Deus potuit facere, 
+      <lb ed="#P" n="95"/>vel potest fecisse ut Adam non peccaret. Dum enim 
+      <lb ed="#P" n="96"/>dico, potest fecisse, significo sub amplitudine 
+      poten<lb ed="#P" n="97" break="no"/>tiae Dei, quae aeterna est &amp; immutabilis, ideoque 
+      prae<lb ed="#P" n="98" break="no"/>sentis temporis verbo convenienter exprimitur, 
+      com<lb ed="#P" n="99" break="no"/>prehendi etiam quaecunque olim facta sunt vel fieri 
+      <lb ed="#P" n="100"/>potuerunt. Unde S. Thomas in responsione ad 2. q. 
+      <lb ed="#P" n="101"/>&amp; ar. supra citatis; Si attendatur, inquit, 
+      immutabi<lb ed="#P" n="102" break="no"/>litas divinae potentiae, quicquid Deus potuit, potest. 
+      <lb ed="#P" n="103"/>Quae cum ita sint, non recte quidam simpliciter 
+      Ma<lb ed="#P" n="104" break="no"/>gistri responsionem affirmativam erroneis ejus 
+      opi<lb ed="#P" n="105" break="no"/>nionibus annumerant, cum &amp; ex mente asserentis 
+      <lb ed="#P" n="106"/>vera sit, &amp; sensu non incommodo possit ut vera 
+      de<lb ed="#P" n="107" break="no"/>fendi. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

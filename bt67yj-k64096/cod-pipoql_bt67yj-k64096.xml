@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="169"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k64096"><!-- l1d41c12" -->
+            <head xml:id="bt67yj-k64096-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-k64096-Hd1e103" type="question-title">An praedestinatio conjunctum habeat respectum 
+      praescientiae ad nostram cooperationem</head>
+            <p xml:id="bt67yj-k64096-d1e106">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> §. 12. An praedestinatio conjunctum habeat respectum 
+      <lb ed="#P" n="54"/>praescientiae ad nostram cooperationem.
+    </p>
+            <p xml:id="bt67yj-k64096-d1e115">
+               <lb ed="#P" n="55"/>ALia quaedam opinio est, qua ponitur Deus 
+      ne<lb ed="#P" n="56" break="no"/>Aminem adultum praedestinare, saltem 
+      ordi<lb ed="#P" n="57" break="no"/>nario modo, nisi cum respectu quodam 
+      praescien<lb ed="#P" n="58" break="no"/>tiae suae ad cooperationem praedestinati, ut futura est 
+      <lb ed="#P" n="59"/>ex gratia &amp; libero arbitrio. Quae opinio si sic 
+      in<lb ed="#P" n="60" break="no"/>telligatur, quod in Deo praedestinante sit 
+      praescien<lb ed="#P" n="61" break="no"/>tia cooperationis praedestinati, qua scilicet libere 
+      <lb ed="#P" n="62"/>cooperabitur gratiae Dei, quodque sine ea 
+      praescien<lb ed="#P" n="63" break="no"/>tia non sit adultorum praedestinatio, verum in 
+      ge<lb ed="#P" n="64" break="no"/>nere sensum habet. Est enim haud dubie, ejusmodi 
+      <lb ed="#P" n="65"/>in Deo praedestinante praescientia, sed quae sit ipsa 
+      <lb ed="#P" n="66"/>praedestinatione posterior; quia ut jam saepe dictum 
+      <lb ed="#P" n="67"/>est, ideo praescit Deus omne bonum salutare 
+      praede<lb ed="#P" n="68" break="no"/>stinatorum, quia praeordinat, &amp; non contra. 
+      Coo<lb ed="#P" n="69" break="no"/>peratio vero liberi arbitrii est hujusmodi bonum, 
+      <lb ed="#P" n="70"/>quare necesse est eam praescitam esse quia 
+      praeordina<lb ed="#P" n="71" break="no"/>tam. Sin autem praescientia cooperationis prior 
+      <!--0192.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>intelligatur praedestinatione, jam falsitas opinionis 
+      <lb ed="#P" n="73"/>ex dictis est manifesta. 
+    </p>
+            <p xml:id="bt67yj-k64096-d1e163">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Similiter quoque falsa deprehenditur si 
+      praescien<lb ed="#P" n="75" break="no"/>tiam, neque priorem praedestinatione, neque 
+      poste<lb ed="#P" n="76" break="no"/>riorem fingas, sed quae simul sit ordine rationis cum 
+      <lb ed="#P" n="77"/>decreto praedestinationis divinae. Si enim ut ex 
+      <lb ed="#P" n="78"/>sancto Thoma dictum &amp; repetitum est, id quod sub 
+      <lb ed="#P" n="79"/>praedestinatione continetur tanquam effectus ejus, 
+      <lb ed="#P" n="80"/>non potest esse ratio seu causa praedestinationis, 
+      pa<lb ed="#P" n="81" break="no"/>ri modo nec simul cum ea esse poterit ordine 
+      ratio<lb ed="#P" n="82" break="no"/>nis, sic ut praedestinatio ideo non sit absoluta, quia 
+      <lb ed="#P" n="83"/>hujusmodi respectum praescientiae connexum 
+      ha<lb ed="#P" n="84" break="no"/>beat. Cum enim cooperatio praedestinati sit 
+      effe<lb ed="#P" n="85" break="no"/>ctus ipsius praedestinationis, non tantum ut est a 
+      <lb ed="#P" n="86"/>gratia, sed etiam ut est a libero arbitrio, per gratiam 
+      <lb ed="#P" n="87"/>efficaciter moto, sicut ipsa non potest esse ratio 
+      prae<lb ed="#P" n="88" break="no"/>destinationis quasi anterior, sic nec comes ejus quasi 
+      <lb ed="#P" n="89"/>rationis ordine simul cum ea concurrens. Quocirca 
+      <lb ed="#P" n="90"/>huic opinioni nihil suffragatur subtilitas qua 
+      dupli<lb ed="#P" n="91" break="no"/>citer opus hominis bonum consideratur, vel ut est a 
+      <lb ed="#P" n="92"/>gratia, vel ut a libero arbitrio. Nam utrolibet 
+      mo<lb ed="#P" n="93" break="no"/>do consideretur, cadit sub divina praedestinatione, 
+      <lb ed="#P" n="94"/>quemadmodum bene docet Scotus refellens 
+      opinio<lb ed="#P" n="95" break="no"/>nem haud dissimilem, imo solis verbis differentem 
+      <lb ed="#P" n="96"/>Henrici Gandavensis in istiusmodi distinctione 
+      con<lb ed="#P" n="97" break="no"/>siderationis fundatam. Quod &amp; sancti Thomae 
+      ver<lb ed="#P" n="98" break="no"/>ba volunt, cum ait in art. 5. non esse distinctum quod 
+      <lb ed="#P" n="99"/>est ex libero arbitrio e ex praedestinatione, sicut nec 
+      <lb ed="#P" n="100"/>distinctum est quod est ex causa secunda &amp; prima: 
+      <lb ed="#P" n="101"/>quandoquidem divina providentia producit effectus 
+      <lb ed="#P" n="102"/>suos per operationes causarum secundarum. Unde, 
+      <lb ed="#P" n="103"/>inquit, &amp; id quod est per liberum arbitrium, est ex 
+      <lb ed="#P" n="104"/>praedestinatione. 
+    </p>
+            <p xml:id="bt67yj-k64096-d1e236">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Ex qua quidem ejus doctrina patet 
+      cooperatio<lb ed="#P" n="106" break="no"/>nem liberi arbitrii, ad ea quae sunt salutis, ita 
+      <lb ed="#P" n="107"/>contineri sub ordine praedestinationis divinae, sicut 
+      <lb ed="#P" n="108"/>operationes, sive cooperationes aliarum causarum 
+      <lb ed="#P" n="109"/>secundarum, continentur sub ordine providentiae 
+      <lb ed="#P" n="110"/>divinae. Ratio autem manifesta est, quia 
+      praede<lb ed="#P" n="111" break="no"/>stinatio pars est providentiae, &amp; proinde sic 
+      com<lb ed="#P" n="112" break="no"/>parari debet ad causas secundas per quas 
+      exequi<lb ed="#P" n="113" break="no"/>tur praedestinata, sicut providentia se habet ad 
+      cau<lb ed="#P" n="114" break="no"/>sas secundas per quas exequitur quae sunt provisa. 
+      <lb ed="#P" n="115"/>Quapropter dicere quod Deus praeordinavit 
+      bo<lb ed="#P" n="116" break="no"/>num opus hominis cum respectu praescientiae ad 
+      <lb ed="#P" n="117"/>cooperationem liberi ejus arbitrii; perinde est ac 
+      <lb ed="#P" n="118"/>si diceretur, exempli gratia, Deus praeordinasse 
+      <lb ed="#P" n="119"/>actionem ignis cum respectu praescientiae ad 
+      coo<lb ed="#P" n="120" break="no"/>perationem formae ejus. Quod ideo dici non 
+      po<lb ed="#P" n="121" break="no"/>test juxta sensum supra reprobatum, quia tota 
+      <lb ed="#P" n="122"/>cooperatio ignis, seu formae ejus sicut aliarum 
+      cau<lb ed="#P" n="123" break="no"/>sarum secundarum, comprehenditur sub illa 
+      prae<lb ed="#P" n="124" break="no"/>ordinatione Dei, tanquam causae primae: Sic 
+      igi<lb ed="#P" n="125" break="no"/>tur &amp; tota, cooperatio liberi arbitrii 
+      comprehen<lb ed="#P" n="126" break="no"/>ditur sub Dei praedestinatione, non obstante eo quod 
+      <lb ed="#P" n="127"/>ipsum libere cooperetur; quia sicut illic modus 
+      co<lb ed="#P" n="128" break="no"/>operandi naturaliter est a Deo praeordinante; ita 
+      <lb ed="#P" n="129"/>hic modus cooperandi libere, similiter &amp; aeque 
+      <lb ed="#P" n="130"/>proprie atque perfecte est a Deo praedestinante. 
+      Ab<lb ed="#P" n="131" break="no"/>sit enim ut ideo minus proprie &amp; perfecte sit a Deo 
+      <lb ed="#P" n="132"/>totum bonum opus, quia est a libera hominis 
+      vo<lb ed="#P" n="133" break="no"/>luntate. Quin potius perfectior est haec Dei 
+      opera<lb ed="#P" n="134" break="no"/>tio, quatenus per eam producitur actio non 
+      qualis<lb ed="#P" n="135" break="no"/>cunque, sed cum ea perfectione quod sit libera: 
+      <lb ed="#P" n="136"/>Quae proinde tota &amp; ut est actio, &amp; ut est libera, est 
+      <lb ed="#P" n="137"/>a Deo, quia non solum ipsa actio, sed etiam omnis 
+      <lb ed="#P" n="138"/>modus ejus a Deo est. Unde de ea vere dicitur, 
+      <lb ed="#P" n="139"/>quod omni modo prius est praeordinata quam 
+      prae<lb ed="#P" n="140" break="no"/>scita; quandoquidem quicquid in rebus habet 
+      exi<lb ed="#P" n="141" break="no"/>stentiam secundum quamcunque temporis 
+      differen<lb ed="#P" n="142" break="no"/>tiam, sive sit res, sive modus rei, non ideo 
+      prae<lb ed="#P" n="143" break="no"/>ordinatur a Deo, quia praescitur, sed ideo praescitur 
+      <lb ed="#P" n="144"/>quia Deus praeordinavit illud se facturum, ut alibi 
+      <lb ed="#P" n="145"/>dictum est, scilicet ubi de scientia Dei agebatur. 
+      <!--0193.xml-->
+      <pb ed="#P" n="170"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quae res in tota hac disputatione de praedestinatione 
+      <lb ed="#P" n="2"/>&amp; praescientia Dei, respectu nostrorum operum, 
+      de<lb ed="#P" n="3" break="no"/>bet in primis ante oculos haberi. 
+    </p>
+            <p xml:id="bt67yj-k64096-d1e343">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Praeter haec autem, non videtur opinio jam dicta 
+      <lb ed="#P" n="5"/>posse effugere, quo minus in eam incidat, quae 
+      prae<lb ed="#P" n="6" break="no"/>destinationem ponit ex meritis, sicut &amp; de 
+      superio<lb ed="#P" n="7" break="no"/>ri opinione dictum est. Nam si Deus hominem 
+      prae<lb ed="#P" n="8" break="no"/>destinando respicit ad cooperationem ejus 
+      praesci<lb ed="#P" n="9" break="no"/>tam, quae quidem est bonum aliquod divini 
+      bene<lb ed="#P" n="10" break="no"/>ficii provocativum, plane consequens apparet, 
+      <lb ed="#P" n="11"/>Deum in hominis praedestinatione respicere ad 
+      futu<lb ed="#P" n="12" break="no"/>rum, atque a se praescitum ejus meritum. Nam 
+      qua<lb ed="#P" n="13" break="no"/>tenus hujusmodi praescientia ponitur non esse 
+      poste<lb ed="#P" n="14" break="no"/>rior praedestinatione secundum ordinem rationis, sed 
+      <lb ed="#P" n="15"/>cum ea concurrere; eatenus bonum illud quod 
+      prae<lb ed="#P" n="16" break="no"/>scitum est, &amp; a praedestinante respicitur, meriti 
+      ra<lb ed="#P" n="17" break="no"/>tionem respectu praedestinationis habere videtur. 
+      <lb ed="#P" n="18"/>Unde videtur author quadam verborum obliquitate 
+      <lb ed="#P" n="19"/>tantum voluisse declinare invidiam infamis 
+      opinio<lb ed="#P" n="20" break="no"/>nis de praedestinatione ex praescientia meritorum, 
+      <lb ed="#P" n="21"/>cum in eam reipsa recidat. 
+    </p>
+            <p xml:id="bt67yj-k64096-d1e387">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Habet etiam cum praedictis hoc incommodi ista 
+      <lb ed="#P" n="23"/>opinio, quod necessario secundum eam fatendum 
+      <lb ed="#P" n="24"/>sit, aliam esse parvulorum praedestinationis 
+      ratio<lb ed="#P" n="25" break="no"/>nem, aliam adultorum. Nam parvulorum 
+      praede<lb ed="#P" n="26" break="no"/>stinatio prorsus absoluta est, nec ullum includens 
+      <lb ed="#P" n="27"/>respectum praescientiae ad cooperationem liberi 
+      ar<lb ed="#P" n="28" break="no"/>bitrii, quem tamen respectum juxta hanc 
+      opinio<lb ed="#P" n="29" break="no"/>nem includit praedestinatio adultorum. Ubi tamen 
+      <lb ed="#P" n="30"/>notandum quod, qui sic opinantur, quosdam 
+      <lb ed="#P" n="31"/>adultos videntur excipere, dum dicunt adultorum 
+      <lb ed="#P" n="32"/>praedestinationem saltem ordinario modo sic se 
+      ha<lb ed="#P" n="33" break="no"/>bere. Quod si ergo in quibusdam adultis potest 
+      sal<lb ed="#P" n="34" break="no"/>vari praedestinatio sine respectu praescientiae ad 
+      co<lb ed="#P" n="35" break="no"/>operationem humanam, &amp; omnino sine injuria 
+      li<lb ed="#P" n="36" break="no"/>beri arbitrii, cur non in omnibus? cum sit a Deo 
+      <lb ed="#P" n="37"/>decretum, neminem ratione utentem salvatum iri 
+      <lb ed="#P" n="38"/>sine motu liberi arbitrii, quo in salutem tendat. 
+      Sa<lb ed="#P" n="39" break="no"/>tis igitur apparet vanum esse commentum hoc 
+      <lb ed="#P" n="40"/>novum, quo dicitur adultos ordinarie non esse 
+      <lb ed="#P" n="41"/>praedestinatos decreto Dei absoluto, sed respiciente 
+      <lb ed="#P" n="42"/>&amp; concomitante praescientiam cooperationis 
+      prae<lb ed="#P" n="43" break="no"/>destinatorum. 
+    </p>
+            <p xml:id="bt67yj-k64096-d1e439">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Videtur autem haec opinio, dum praescientiam 
+      <lb ed="#P" n="45"/>cum praedestinatione, quasi pari gressu, 
+      concurre<lb ed="#P" n="46" break="no"/>re facit, niti huic fundamento, quod Deus, id est, 
+      <lb ed="#P" n="47"/>causa prima in causando non sit natura prior causis 
+      <lb ed="#P" n="48"/>creatis, aut saltem libero arbitrio creato respectu 
+      <lb ed="#P" n="49"/>liberarum actionum, sed quod cum illis aut cum 
+      <lb ed="#P" n="50"/>eo concurrat simul natura. Cujus sententiae falsitas 
+      <lb ed="#P" n="51"/>gravissimis rationibus potest ostendi. Sed hoc 
+      alte<lb ed="#P" n="52" break="no"/>rius est loci. 
+    </p>
+            <p xml:id="bt67yj-k64096-d1e463">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Alia insuper argumenta, quibus haec jam dicta 
+      <lb ed="#P" n="54"/>de praedestinatione opinio refellatur, facile est ex 
+      <lb ed="#P" n="55"/>iis colligere, quae pro gratuita praedestinatione 
+      su<lb ed="#P" n="56" break="no"/>perius allata sunt. Quo denique pertinent, quae ex 
+      <lb ed="#P" n="57"/>oratione, gratiarum actione &amp; gloriatione fidelium 
+      <lb ed="#P" n="58"/>petuntur. Haec enim clare convincunt omnia 
+      me<lb ed="#P" n="59" break="no"/>dia salutis nostrae, in quibus indubitanter etiam est 
+      <lb ed="#P" n="60"/>cooperatio liberi arbitrii, a Deo operante &amp; 
+      proin<lb ed="#P" n="61" break="no"/>de etiam praedestinante integre, &amp; solide 
+      depen<lb ed="#P" n="62" break="no"/>dere; quo fit ut horum omnium praescientia non 
+      <lb ed="#P" n="63"/>possit non omni modo esse praedestinatione 
+      poste<lb ed="#P" n="64" break="no"/>rior. 
+    </p>
+            <p xml:id="bt67yj-k64096-d1e494">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Quid vero sit respondendum ad loca scripturae, 
+      <lb ed="#P" n="66"/>quae in negotio praedestinationis praescientiae 
+      memi<lb ed="#P" n="67" break="no"/>nerunt, ut Roman. 8. &amp; 11. &amp; 1. Petr. 1. 
+      quomo<lb ed="#P" n="68" break="no"/>do item Sancti Augustini loca sint intelligenda, in 
+      <lb ed="#P" n="69"/>quibus praescientiam praedestinationi conjungit, ut 
+      <lb ed="#P" n="70"/>in libris de praedestinatione Sanctorum &amp; de 
+      do<lb ed="#P" n="71" break="no"/>no perseverantiae; satis etiam in superioribus 
+      ex<lb ed="#P" n="72" break="no"/>plicatum est. Quibus nunc addo, si scriptura 
+      prae<lb ed="#P" n="73" break="no"/>scientiam nominans, ubi de praedestinatione 
+      loqui<lb ed="#P" n="74" break="no"/>tur, significare vellet praedestinationis esse ali¬ 
+      <!--0193.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>quam dependentiam a praescientia cooperationis 
+      <lb ed="#P" n="76"/>tanquam ab eo quod rationis ordine prius, aut 
+      si<lb ed="#P" n="77" break="no"/>mul cogitari debeat, sequeretur etiam Christi 
+      prae<lb ed="#P" n="78" break="no"/>destinationem similiter se habere. Nam sicut nos 
+      <lb ed="#P" n="79"/>praesciti vocamur ab utroque apostolo; ita Petrus 
+      <lb ed="#P" n="80"/>eodem capite Christum dicit praecognitum ante 
+      <lb ed="#P" n="81"/>mundi constitutionem; &amp; tamen Christum 
+      prae<lb ed="#P" n="82" break="no"/>destinatum esse filium Dei cum respectu 
+      praescien<lb ed="#P" n="83" break="no"/>tiae ad cooperationem liberi arbitrii, nemo nisi 
+      Ne<lb ed="#P" n="84" break="no"/>storianus dixerit. At neque bona ejus opera, per 
+      <lb ed="#P" n="85"/>quae nobis meruit redemptionem &amp; salutem, 
+      prae<lb ed="#P" n="86" break="no"/>destinata fuisse cum respectu praescientiae ad 
+      coope<lb ed="#P" n="87" break="no"/>rationem voluntatis ejus humanae, sine errore dici 
+      <lb ed="#P" n="88"/>potest. Quae tamen opera a liberoejus arbitrio 
+      fuis<lb ed="#P" n="89" break="no"/>se profecta nullum est dubium. Quare si libertatem 
+      <lb ed="#P" n="90"/>humanarum actionum in Christo non impedivit 
+      <lb ed="#P" n="91"/>praedeterminatio ac praedestinatio earum absoluta, 
+      <lb ed="#P" n="92"/>utpote facta per voluntatem divinam, quae omni 
+      <lb ed="#P" n="93"/>modo praevenit voluntatem ejus humanam (quod 
+      <lb ed="#P" n="94"/>videtur necessario confitendum esse propter 
+      unio<lb ed="#P" n="95" break="no"/>nem naturarum factam in persona divina) non est 
+      <lb ed="#P" n="96"/>quod quis causetur destrui in nobis libertatem 
+      ar<lb ed="#P" n="97" break="no"/>bitrii, si actiones ejus subjicidicantur absoluto Dei 
+      <lb ed="#P" n="98"/>decreto, nec ullam habenti dependentiam ab 
+      il<lb ed="#P" n="99" break="no"/>larum praevisione. Solum igitur exemplum 
+      Chri<lb ed="#P" n="100" break="no"/>sti tanquam capitis omnium praedestinatorum, ut 
+      <lb ed="#P" n="101"/>alias interim ratiohes nunc omittamus, sufficit rei 
+      <lb ed="#P" n="102"/>propositae demonstrandae, sicut &amp; solum sufficit ad 
+      <lb ed="#P" n="103"/>redarguendum pronunciata quaedam, quae velut 
+      <lb ed="#P" n="104"/>axiomata solent huc a nonnullis adduci, qualia 
+      <lb ed="#P" n="105"/>sunt ista: Quod per necessariam consequentiam 
+      <lb ed="#P" n="106"/>sequitur ex eo quod non est impedibile, id ipsum 
+      <lb ed="#P" n="107"/>quoque non est impedibile, &amp; proinde necessarium 
+      <lb ed="#P" n="108"/>sit, oportet: Quando hypothesis aliqua non est 
+      <lb ed="#P" n="109"/>in nostra potestate, ut ponatur vel non ponatur, 
+      <lb ed="#P" n="110"/>id quod per necessariam consequentiam ex ea 
+      se<lb ed="#P" n="111" break="no"/>quitur, absolute necessarium est: Necessitas actus 
+      <lb ed="#P" n="112"/>ex aliqua tali hypothesi, quae neque est ipse actus, 
+      <lb ed="#P" n="113"/>) neque includit in de respectum ad exercitium 
+      a<lb ed="#P" n="114" break="no"/>ctus, necessitas est simpliciter. Verum de his alibi 
+      <lb ed="#P" n="115"/>exactius. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="85"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k31851"><!-- l1d27c3" -->
+            <head xml:id="bt67yj-k31851-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k31851-Hd1e103" type="question-title">Quid Graece <foreign>λόγς</foreign>, et quomodo Latine 
+      reddendum</head>
+            <p xml:id="bt67yj-k31851-d1e108">
+               <lb ed="#P" n="96"/>§. 3. Quid Graece <foreign>λόγς</foreign>, &amp; quomodo Latine 
+      <lb ed="#P" n="97"/>reddendum.
+    </p>
+            <p xml:id="bt67yj-k31851-d1e117">
+               <lb ed="#P" n="98"/>VBicunque scriptura filium Dei, Verbum vocat 
+      <lb ed="#P" n="99"/>Graece est <foreign>λόγος</foreign>. Sciendum autem hujus 
+      Grae<lb ed="#P" n="100" break="no"/>cae vocis significationem, latius patere, quam verbi 
+      <lb ed="#P" n="101"/>apud Latinos. Significat enim &amp; rationem, &amp; 
+      defini<lb ed="#P" n="102" break="no"/>tionem, &amp; supputationem, &amp; alia multa. Praecipuum 
+      <lb ed="#P" n="103"/>tamen ejus significatum, est verbum sive sermo. Ad 
+      <lb ed="#P" n="104"/>hoc enim caetera ejus significata facile reduci possunt. 
+      <lb ed="#P" n="105"/>Propter hanc significationis ejus generalitatem putat 
+      <lb ed="#P" n="106"/>
+               <name xml:id="bt67yj-k31851-Nd1e140">Lactantius</name> lib. 4. div. inst. c. 9. Graecos melius <foreign>νὀγον</foreign>
+               <lb ed="#P" n="107"/>dicere, quam nos verbum, sive sermonem. Et 
+      Hiero<lb ed="#P" n="108" break="no"/>nymus in epist. ad Paulinum, quae est de omnibus 
+      <lb ed="#P" n="109"/>divinae historiae libris c. 4. post enumerata aliquot 
+      si<lb ed="#P" n="110" break="no"/>gnificata Graecae dictionis, addit ea universa recte 
+      in<lb ed="#P" n="111" break="no"/>telligi in Christo. Porro vocem Graecam sunt qui 
+      <lb ed="#P" n="112"/>mallent rationem vertere, ut fatetur <ref xml:id="bt67yj-k31851-Rd1e158">
+                  <name xml:id="bt67yj-k31851-Nd1e160">Thilelfus</name> vol. 2. 
+      <lb ed="#P" n="113"/>epist. lib. 6. epist. 1.</ref> &amp; alii quidam recentiores, 
+      quo<lb ed="#P" n="114" break="no"/>modo &amp; Evodius Episcopus in quadam ad August. 
+      <lb ed="#P" n="115"/>epist. quae inter Augustini epist. exstat numero 246. 
+      <lb ed="#P" n="116"/>libenter locutus fuisse invenitur. Verum id minus 
+      <lb ed="#P" n="117"/>recte, quia vocabulum latinum, ratio, multo minus 
+      <lb ed="#P" n="118"/>reddit gencralitatem Graecae vocis quam verbum. 
+      <lb ed="#P" n="119"/>Quocirca August. lib. 83. q. 63. simpliciter affirmat 
+      <lb ed="#P" n="120"/>
+               <foreign>λὸγον</foreign> rectius verti, verbum, quam, rationem. Jam 
+      ve<lb ed="#P" n="121" break="no"/>ro non admodum refert sive verbum sive sermonem 
+      <lb ed="#P" n="122"/>vertas, quandoquidem &amp; ipse interpres vulgatus 
+      in<lb ed="#P" n="123" break="no"/>differenter utrumque vocabulum reddidit diversis 
+      <lb ed="#P" n="124"/>locis. Quod enim Joan. 1. &amp; 1. Joan. 1. &amp; ult. &amp; 
+      A<lb ed="#P" n="125" break="no"/>poc. 19. vertit verbum; id aliis locis quibus aeque filius 
+      <lb ed="#P" n="126"/>Dei a multis intelligitur, ut Joan. 17. Heb. 4. Sap. 18. 
+      <lb ed="#P" n="127"/>vertit, sermonem. Veteres quoque pro verbo, 
+      sermo<lb ed="#P" n="128" break="no"/>nem, frequenter dixerunt. Cypr. enim lib. 2. contra 
+      <lb ed="#P" n="129"/>Judaeos c. 3. &amp; 5. recitat hoc modo initium 
+      evangelis<lb ed="#P" n="130" break="no"/>secundum Joan. In principio fuit sermo, &amp; serme 
+      <lb ed="#P" n="131"/>fuit apud Deum, &amp;c. Hilarius autem lib. 2. &amp; 12. de 
+      <lb ed="#P" n="132"/>Trinit. &amp; Ambrosius lib. de fide contra Arianos c. 2. 
+      <lb ed="#P" n="133"/>filium Dei nunc verbum, nunc sermonem vocant, 
+      <lb ed="#P" n="134"/>quasi nullo inter haec duo, discrimine. Hieronymus 
+      <lb ed="#P" n="135"/>quoque super Eph. 1. &amp; Lactant. l. 4. c. 8. &amp; 9. 
+      sermo<lb ed="#P" n="136" break="no"/>nis vocabulo usi sunt. Denique Aug. tract. 108. in 
+      <lb ed="#P" n="137"/>Joan. ad illud: Sermo tuus veritas est, ita docet hanc 
+      <lb ed="#P" n="138"/>utramque vocem ex Graeco reddi posse, ut neutram 
+      <lb ed="#P" n="139"/>alteri praeferat. Non immerito tamen videtur 
+      qui<lb ed="#P" n="140" break="no"/>busdam rectius verti, verbum, quam sermonem; 
+      pro<lb ed="#P" n="141" break="no"/>pterea quod sermo fere non unam dictionem 
+      signi<lb ed="#P" n="142" break="no"/>ficet, sed conflatam ex pluribus orationem: 
+      Ver<lb ed="#P" n="143" break="no"/>bum autem in una dictione plerumque intelligatur. 
+      <!--0109.xml-->
+      <pb ed="#P" n="86"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Unde videtur verbi appellatio magis convenire illi 
+      <lb ed="#P" n="2"/>simplicissimo Dei verbo, quam si sermo vocetur. 
+      <lb ed="#P" n="3"/>Quamquam omnino fatendum est, significationem 
+      <lb ed="#P" n="4"/>Graecae vocis, <foreign>λόγος</foreign>, Latina aliqua dictione, nec satis 
+      <lb ed="#P" n="5"/>proprie exprimi, nec plene reddi posse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

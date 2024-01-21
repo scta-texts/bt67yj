@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="124"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k46948"><!-- l1d40c4" -->
+            <head xml:id="bt67yj-k46948-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k46948-Hd1e103" type="question-title">Contra eos qui non omnes salvandos, volunt esse 
+      praedestinatos</head>
+            <p xml:id="bt67yj-k46948-d1e106">
+               <lb ed="#P" n="129"/>§. 4. Contra eos qui non omnes salvandos, volunt esse 
+      <lb ed="#P" n="130"/>praedestinatos.
+    </p>
+            <p xml:id="bt67yj-k46948-d1e113">
+               <lb ed="#P" n="131"/>QUidam novo commento duo genera, velut duas? 
+      <lb ed="#P" n="132"/>classes statuunt eorum qui ad salutem 
+      perve<lb ed="#P" n="133" break="no"/>niunt. Unum genus eorum quos scriptura electos, &amp; 
+      <lb ed="#P" n="134"/>praedestinatos &amp; oves Christi nominat, in quibus ita 
+      <lb ed="#P" n="135"/>efficacem faciunt gratiam Christi, ut simpliciter a 
+      sa<lb ed="#P" n="136" break="no"/>lute excidere non possint, sed indeclinabiliter ac 
+      ne<lb ed="#P" n="137" break="no"/>cessitate quadam, ad exitum salutarem perducantur, 
+      <lb ed="#P" n="138"/>necessitatem intelligentes, non consequentiae, sed 
+      <lb ed="#P" n="139"/>rei. Hos praedestinatos vocaridicunt, tanquam 
+      sin<lb ed="#P" n="140" break="no"/>gulari gratiae beneficio, prae aliis ad sublimiorem 
+      di<lb ed="#P" n="141" break="no"/>gnitatis gradum destinatos. Qua ratione eosdem 
+      <lb ed="#P" n="142"/>electos dici volunt, tanquam paucos quosdam ex 
+      <lb ed="#P" n="143"/>omni salvandorum numero, peculiariter ad majo 
+      <lb ed="#P" n="144"/>rem gloriae dignitatem praeordinatos &amp; assumendos. 
+      <!--0148.xml-->
+      <pb ed="#P" n="125"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>In altera classe reponunt reliquos omnes salvan¬ A 
+      <lb ed="#P" n="2"/>dos, quibus dari quidem sufficientem gratiam ad 
+      sa<lb ed="#P" n="3" break="no"/>lutem consequendam confitentur, non tamen ita 
+      <lb ed="#P" n="4"/>efficacem, qua indeclinabiliter ad salutem 
+      perve<lb ed="#P" n="5" break="no"/>niant, quippe qui ab ea per liberum arbitrium 
+      exci<lb ed="#P" n="6" break="no"/>dere possint, ac nihilominus in ea per liberum 
+      arbi<lb ed="#P" n="7" break="no"/>trium sint permansuri. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e168">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Hujus opinionis assertor hoc seculo fuit 
+      Ambro<lb ed="#P" n="9" break="no"/>sius Catharinus. Quamquam jam olim Pelagianos 
+      <lb ed="#P" n="10"/>tale aliquid sensisse, apparet ex lib. 6. hipogn. apud 
+      <lb ed="#P" n="11"/>Augustinum. Dicit enim in fine ejus libri author ille, 
+      <lb ed="#P" n="12"/>Pelagianos dicere solere, praedestinationem in solis 
+      <lb ed="#P" n="13"/>apostolis intelligendam esse, scilicet propter 
+      confir<lb ed="#P" n="14" break="no"/>mationem voluntatis in charitate Dei, quam illis 
+      tri<lb ed="#P" n="15" break="no"/>buunt. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e191">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Verum eam doctrinam e scripturis &amp; patribus tam 
+      <lb ed="#P" n="17"/>non est difficile refutare, quam est ipsa a communi 
+      <lb ed="#P" n="18"/>Catholicorum sensu aliena, imo Catholicae fidei 
+      con<lb ed="#P" n="19" break="no"/>traria. Certe Dominicus Bannes manifestam 
+      haere<lb ed="#P" n="20" break="no"/>sim vocat, locum infra notabo. Primum enim 
+      con<lb ed="#P" n="21" break="no"/>stat apud omnes Ecclesiae doctores, haec tria, 
+      praede<lb ed="#P" n="22" break="no"/>stinatum, electum, salvandum, indiscriminatim 
+      <lb ed="#P" n="23"/>usurpari, tanquam ea quae inter se convertuntur. 
+      <lb ed="#P" n="24"/>Quomodo etiam Magister tota hac distinctione iis 
+      <lb ed="#P" n="25"/>vocabulis utitur, nec ante Catharinum vel unus 
+      <lb ed="#P" n="26"/>quispiam Catholicorum scriptorum reperitur ita 
+      <lb ed="#P" n="27"/>sensisse, ut ille sentit. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e222">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Deinde manifestum est in scripturis electorum 
+      no<lb ed="#P" n="29" break="no"/>mine omnes salvandos intelligi, &amp; contra reprobos 
+      <lb ed="#P" n="30"/>distingui, non contra salvandos inferioris ordinis. 
+      <lb ed="#P" n="31"/>Nam Matth. 22. electi opponuntur iis, qui mittendi 
+      <lb ed="#P" n="32"/>sunt in tenebras exteriores. Et cap. 24. dicuntur 
+      om<lb ed="#P" n="33" break="no"/>nes electi, id est, justi congregandi per angelos ad 
+      <lb ed="#P" n="34"/>Christum in nubibus caeli venientem ad judicium 
+      <lb ed="#P" n="35"/>Justi autem in die judicii, iidem sunt qui salvandi. 
+      <lb ed="#P" n="36"/>Unde &amp; eo loco opponuntur iis de quibus dicitur: 
+      <lb ed="#P" n="37"/>Tunc plangent omnes tribus terrae, id est, reprobis. Sic 
+      <lb ed="#P" n="38"/>&amp; cap. 13. in parabola sagenae dicuntur boni pisces 
+      <lb ed="#P" n="39"/>eligi in vasa, malis foras projectis. Item Joan. 13. 
+      <lb ed="#P" n="40"/>dicit Dominus: Ego scio quos elegerim, idque propter 
+      <lb ed="#P" n="41"/>Judam non electum sed reprobatum. Et cap. 15. 
+      A<lb ed="#P" n="42" break="no"/>postoli dicuntur electi de mundo, quem ibi 
+      Domi<lb ed="#P" n="43" break="no"/>nus sine dubio in malam partem accipit, ut patet 
+      lo<lb ed="#P" n="44" break="no"/>cum inspicienti. Non ergo electi dicuntur tanquam 
+      <lb ed="#P" n="45"/>praeelecti secundum dignitatem, id est, prae aliis 
+      sal<lb ed="#P" n="46" break="no"/>vandis eminenter electi. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e268">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> His adde alia scripturae loca, ut Roman. 8. &amp; 9. 
+      <lb ed="#P" n="48"/>Ephes. 1. Matth. 25. Joan. 10. 1. Petri 1. Apoc. 17. 
+      <lb ed="#P" n="49"/>quibus omnibus per electos, praedestinatos &amp; oves 
+      <lb ed="#P" n="50"/>Christi intelliguntur omnes salvandi, etiam infimi 
+      <lb ed="#P" n="51"/>ordinis. Inter quae apertissima est illa oppositio 
+      <lb ed="#P" n="52"/>ovium &amp; haedorum apud Matthaeum, quodque 
+      om<lb ed="#P" n="53" break="no"/>nibus ovibus, id est, omnibus a dextris constitutis, 
+      <lb ed="#P" n="54"/>paratum dicitur regnum ab origine mundi. Quale 
+      <lb ed="#P" n="55"/>est &amp; illud Joannis: Vos non creditis, quia non estis ex 
+      <lb ed="#P" n="56"/>ovibus meis. Ex eo namque certissima collectione 
+      se<lb ed="#P" n="57" break="no"/>quitur, solas oves Christi credere, scilicet ea fide quae 
+      <lb ed="#P" n="58"/>perducat ad salutem. Paulus etiam Roman. 9. omnes 
+      <lb ed="#P" n="59"/>promissionis filios vocat electos, ibidemque 
+      electio<lb ed="#P" n="60" break="no"/>nem odio opponit, sicut misericordiam irae. Ejusdem 
+      <lb ed="#P" n="61"/>aperta est sententia cap. 11. qua dicit: Electio auten 
+      <lb ed="#P" n="62"/>consecuta est, caeteri vero excoecati sunt. Unde patet 
+      <lb ed="#P" n="63"/>manifeste nullos falvari, nisi electos. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e310">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Denique patres concilii Tridentini multis locis, ac 
+      <lb ed="#P" n="65"/>nominatim sess. 6. cap. 12. praedestinatos &amp; electos 
+      <lb ed="#P" n="66"/>non alios quam salvandos intelligunt. Hinc &amp; illa est 
+      <lb ed="#P" n="67"/>Fulgentii sententia lib. de fide ad Pet. cap. 35. qua 
+      <lb ed="#P" n="68"/>negat quemquam eorum, quos Deus non 
+      praedesti<lb ed="#P" n="69" break="no"/>navit ad vitam, ulla posse ratione salvari. Idque dicis 
+      <lb ed="#P" n="70"/>firmissime tenendum esse. Addit autem eos omnes 
+      <lb ed="#P" n="71"/>quos Deus fecit vasa misericordiae, esse ab eodem 
+      <lb ed="#P" n="72"/>ante mundi constitutionem praedestinatos. Quod ip 
+      <lb ed="#P" n="73"/>sum quoque est expresse contra Catharinum, qui 
+      <lb ed="#P" n="74"/>aliis quidem, ut praedestinatis dicit paratum esse 
+      <!--0148.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>regnum ante mundi constitutionem, caeteris autem 
+      <lb ed="#P" n="76"/>salvandis paratum esse tantum a mundi 
+      constitutio<lb ed="#P" n="77" break="no"/>ne, ut dicitur Matth. 25. Quae distinctio vana &amp; 
+      in<lb ed="#P" n="78" break="no"/>epta est, cum in sacris litteris haec duo, a 
+      constitutio<lb ed="#P" n="79" break="no"/>ne mundi, &amp; ante mundi constitutionem, sicut &amp; alia 
+      <lb ed="#P" n="80"/>quaedam ejusdem generis, pro iisdem habeantur. 
+      <lb ed="#P" n="81"/>Unde quod dicitur Matth. 25. a constitutione mundi. 
+      <lb ed="#P" n="82"/>&amp; Apocalip. 13. Ab origine mundi, hoc idem 
+      Ephes<lb ed="#P" n="83" break="no"/>I. dicitur. Ante constitutionem mundi; &amp; alibi, 
+      An<lb ed="#P" n="84" break="no"/>te tempora saecularia, ut 2. Tim. 1. &amp; Tit. 1. &amp; alibi, 
+      <lb ed="#P" n="85"/>Priusquam mundus esset, ut Joan. 17. Interdum 
+      ve<lb ed="#P" n="86" break="no"/>ro nominatur ipsius hominis principium, velut 
+      con<lb ed="#P" n="87" break="no"/>ceptus aut nativitas, ut Jerem. 1. &amp; Galat. 1. Qua 
+      <lb ed="#P" n="88"/>omnia tantum significant aliquid ex parte Dei 
+      aeter<lb ed="#P" n="89" break="no"/>num. Quin &amp; per se absurdum est dicere, aliis 
+      re<lb ed="#P" n="90" break="no"/>gnum paratum esse ab initio mundi, aliis ante 
+      ini<lb ed="#P" n="91" break="no"/>tium, cum Deus nihil novi deliberet in tempore, aut 
+      <lb ed="#P" n="92"/>temporis initio, sed omne ejus decretum sit aeternum 
+      <lb ed="#P" n="93"/>&amp; ab aeterno. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e384">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Praeter haec autem, usus totius Ecclesiae tam in 
+      di<lb ed="#P" n="95" break="no"/>vinis officiis quam alibi, satis evidenter ostendit 
+      ele<lb ed="#P" n="96" break="no"/>ctos ac praedestinatos, prorsus eosdem esse cum sal 
+      <lb ed="#P" n="97"/>vandis, &amp; nonnisi damnandis opponi. Sic enim in 
+      <lb ed="#P" n="98"/>canone Missae legitur; Ab aeterna aamnatione nos 
+      eri<lb ed="#P" n="99" break="no"/>pi, &amp; in electorum tuorum jubeas grege numerari. Et in 
+      <lb ed="#P" n="100"/>quadam oratione: Deus cui soli cognitus est numerus 
+      <lb ed="#P" n="101"/>electorum in superna felicitate locandus. Ac rursum. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e406">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Et nomina omnium fidelium beatae praedestinationis 
+      li<lb ed="#P" n="103" break="no"/>ber ascripta retineat. Et in alia, Concede ut nos 
+      inter<lb ed="#P" n="104" break="no"/>cessio omnium electorum tuorum ubique laetificet, id est, 
+      <lb ed="#P" n="105"/>omnium sanctorum seu beatorum. Et pro defunctis, 
+      <lb ed="#P" n="106"/>ut in resurrectionis gloria inter sanctos &amp; electos tuos 
+      re<lb ed="#P" n="107" break="no"/>suscitatus respiret. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e425">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Videat quoque studiosus Dominicum Bannes super 
+      <lb ed="#P" n="109"/>1. quaest. 23. a. 7. ubi Catharini commentum vocat 
+      <lb ed="#P" n="110"/>manifeste haereticum, idque, quinque argumentis ex 
+      <lb ed="#P" n="111"/>scriptura, refellit, quorum primum est ex Matth. 25. 
+      <lb ed="#P" n="112"/>ubi dicitur omnibus ad dexteram constitutis. Percipi 
+      <lb ed="#P" n="113"/>te regnum quod vobis paratum est a constitutione mundi, 
+      <lb ed="#P" n="114"/>) id est, ad quod praedestinati estis. Praedestinatio enim 
+      <lb ed="#P" n="115"/>est beneficiorum Dei praeparatio, juxta sancti 
+      Augu<lb ed="#P" n="116" break="no"/>stini &amp; omnium doctorum sententiam. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e449">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Secundum ex Rom. 8. ubi dicitur. Quos praescivit 
+      <lb ed="#P" n="118"/>&amp; praedestinavit conformes fieri, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e458">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Tertium ex Rom. 9. ubi generaliter vasa 
+      miseri<lb ed="#P" n="120" break="no"/>cordiae dicuntur praeparata, id est, praedestinata in 
+      <lb ed="#P" n="121"/>gloriam. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e469">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Quartum ex Ephes. 1. ubi electi ac praedestinati a 
+      <lb ed="#P" n="123"/>Deo significantur esse quicunque salvandi. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e478">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Quintum ex eodem capite ubi dicitur Deus circa 
+      <lb ed="#P" n="125"/>bened ictos, id est, salvandos operari omnia 
+      secum<lb ed="#P" n="126" break="no"/>dum consilium voluntatis suae, quod respectu 
+      eorun<lb ed="#P" n="127" break="no"/>dem nihil est aliud quam divina praedestinatio. Quae 
+      <lb ed="#P" n="128"/>quidem scripturae loca, sicut ab omnibus 
+      interpreti<lb ed="#P" n="129" break="no"/>bus exponuntur de omnibus salvandis; ita non nisi 
+      <lb ed="#P" n="130"/>valde contorte, possunt in alium sensum accipi. 
+      <lb ed="#P" n="131"/>Neque tamen negamus, quin electio tam in sacris, 
+      <lb ed="#P" n="132"/>quam in profanis sitteris, aliquando intelligatur e 
+      <lb ed="#P" n="133"/>bonorum numero fieri. Quomodo legimus a Christo 
+      <lb ed="#P" n="134"/>electos 12. Apostolos &amp; ab Apostolis 7. diaconos; 
+      <lb ed="#P" n="135"/>quomodo etiam dicimus regem aut episcopum, aut 
+      <lb ed="#P" n="136"/>magistratum eligi, non e malis sed e bonis 
+      praestan<lb ed="#P" n="137" break="no"/>tiorem. Quomodo &amp; Sanctus Augustinus lib. 17. de 
+      <lb ed="#P" n="138"/>civit. cap. 1. Deos quosdam gentilium electos dici 
+      <lb ed="#P" n="139"/>potuisse prae aliis minoribus affirmat; Sed ubicunque 
+      <lb ed="#P" n="140"/>de electione ad salutem agitur, ea tantum electio 
+      in<lb ed="#P" n="141" break="no"/>telligitur, qua sic quidam eliguntur, ut caeteri 
+      repro<lb ed="#P" n="142" break="no"/>bentur, sive ad homines electio referatur, sive etiam 
+      <lb ed="#P" n="143"/>ad angelos. Hos enim Apostolus 1. Timoth. 5. 
+      ele<lb ed="#P" n="144" break="no"/>ctos angelos nuncupavit, procul dubio beatos 
+      om<lb ed="#P" n="145" break="no"/>nes angelos intelligens, ut qui electi non sunt, non 
+      <lb ed="#P" n="146"/>alii quam reprobi intelligantur. Porro quod non sit 
+      <lb ed="#P" n="147"/>agnoscendum aliquod hominum genus, qui accepta 
+      <lb ed="#P" n="148"/>tantum sufficiente &amp; non efficaci gratia, per liberum 
+      <!--0149.xml-->
+      <pb ed="#P" n="126"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>arbitrium ad salutem perveniant, quos Catharinus, 
+      <lb ed="#P" n="2"/>salvandos dicit, electos negat, in secundo 
+      sententia<lb ed="#P" n="3" break="no"/>rum ubi de gratia agitur, ostendetur. Huic loco satis 
+      <lb ed="#P" n="4"/>est annotasse, nullum esse bonum &amp; salutarem liberi 
+      <lb ed="#P" n="5"/>arbitrii usum, nisi ex gratia Dei, &amp; (de quo paulo 
+      <lb ed="#P" n="6"/>post plenius) omnia media quibus homo ad salutem 
+      <lb ed="#P" n="7"/>perd ucatur, esse ipsius praedestinationis effectus. 
+      Un<lb ed="#P" n="8" break="no"/>de jam olim duo errores, huic opinioni persimiles, 
+      <lb ed="#P" n="9"/>explosi ac damnati sunt a Catholicis, alter Joannis 
+      <lb ed="#P" n="10"/>Cassiani col. 13. ita distinguentis inter fideles, ut 
+      qui<lb ed="#P" n="11" break="no"/>dam bonae voluntatis initium a seipsis habeant, alii a 
+      <lb ed="#P" n="12"/>Deo acceperint. Contra quem Prosper docte 
+      disputa<lb ed="#P" n="13" break="no"/>vit: Alter eorum quos damnat synodus Araus. can. 8. 
+      <lb ed="#P" n="14"/>&amp; ult. docentes alios misericordia Dei, alios per 
+      libe<lb ed="#P" n="15" break="no"/>rum arbitrium ad baptismi gratiam pervenire. Sicut 
+      <lb ed="#P" n="16"/>enim isti initium, ita illi contra quos agimus 
+      comple<lb ed="#P" n="17" break="no"/>mentum boni operis soli ascribunt libero arbitrio. 
+    </p>
+            <p xml:id="bt67yj-k46948-d1e580">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Quod vero ab iisdem dicitur praedestinatos 
+      neces<lb ed="#P" n="19" break="no"/>sario salvari, quatenus veritatem habeat, infra 
+      de<lb ed="#P" n="20" break="no"/>clarabitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

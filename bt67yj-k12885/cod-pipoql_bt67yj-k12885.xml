@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="35"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k12885"><!-- l1d8c7" -->
+            <head xml:id="bt67yj-k12885-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-k12885-Hd1e103" type="question-title">Solvuntur quae contra immutabilem Dei 
+      voluntatem objiciuntur.</head>
+            <p xml:id="bt67yj-k12885-d1e106">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> §. 7. Solvuntur quae contra immutabilem Dei 
+      <lb ed="#P" n="67"/>voluntatem objiciuntur.
+    </p>
+            <p xml:id="bt67yj-k12885-d1e115">
+               <lb ed="#P" n="68"/>AD ea quoque nunc respondendum, quae 
+      pecu<lb ed="#P" n="69" break="no"/>liariter ostendere videntur divinam 
+      volunta<lb ed="#P" n="70" break="no"/>tem mutari posse. Sunt autem hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-k12885-d1e124">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Primum. Ex scripturis in quibus saepe legimus 
+      <lb ed="#P" n="72"/>Deum mutasse voluntatem ac sententiam suam circa 
+      <lb ed="#P" n="73"/>homines, aut mutaturum esse si illi peccarent aut 
+      <!--0058.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>peccare desisterent. Nam 4. Regum 20. per 
+      humili<lb ed="#P" n="75" break="no"/>tatem &amp; preces Ezechiae mutata legitur Dei 
+      senten<lb ed="#P" n="76" break="no"/>tia qua dictum illi fuerat, Morieris &amp; non vives, 
+      <lb ed="#P" n="77"/>Et Jonae 3. Ninivitae per poenitentiam impetrarunt 
+      <lb ed="#P" n="78"/>revocationem sententiae qua dictum erat, Adhuc 40. 
+      <lb ed="#P" n="79"/>dies &amp; Ninive subvertetur. Sic Dan. 4. c. hortatur 
+      <lb ed="#P" n="80"/>regem Babylonis ut sententiam divinam contra se 
+      <lb ed="#P" n="81"/>latam, per pia opera immutet. Quod &amp; 
+      Hierony<lb ed="#P" n="82" break="no"/>mus testatur in commentario, &amp; 1. Reg. 2. Deus per 
+      <lb ed="#P" n="83"/>Prophetam missum ad Heli sacerdotem, aperte 
+      re<lb ed="#P" n="84" break="no"/>vocat verbum quod locutus fuerat ad domum ejus 
+      <lb ed="#P" n="85"/>paternam, &amp; 2. Reg. 14. Dicitur Deus sententiam 
+      re<lb ed="#P" n="86" break="no"/>tractare. Cum igitur verbum &amp; sententia a 
+      volunta<lb ed="#P" n="87" break="no"/>te procedat, consequens est mutari voluntatem Dei. 
+      <lb ed="#P" n="88"/>Quo etiam pertinent scripturae quae Deo 
+      poeniten<lb ed="#P" n="89" break="no"/>tiam ascribunt, ut Gen. 6. Poenituit Deum quod 
+      homi<lb ed="#P" n="90" break="no"/>nem fecisset. 1. Reg. 15. Poenitet me quod constituerim 
+      <lb ed="#P" n="91"/>Saul regem. Jerem. 18. Si poenitentiam egerit gens illa 
+      <lb ed="#P" n="92"/>a malo suo, agam &amp; ego poenitentiam super malo quod 
+      <lb ed="#P" n="93"/>cogitavi ut facerem ei. Et iterum: Si fecerit malum in 
+      <lb ed="#P" n="94"/>oculis meis, poenitentiam agam super bono quod locutus 
+      <lb ed="#P" n="95"/>sum ut facerem ei. Quamvis enim supra ostensum sit, 
+      <lb ed="#P" n="96"/>hanc poenitentiam non esse animi perturbationem in 
+      <lb ed="#P" n="97"/>Deo; qualiscunque tamen sit, adferre secum videtur 
+      <lb ed="#P" n="98"/>sententiae ac voluntatis mutationem 
+    </p>
+            <p xml:id="bt67yj-k12885-d1e195">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Sed respondemus ad singula. Non habebat 
+      abso<lb ed="#P" n="100" break="no"/>luta Dei voluntas, ut Ezechias Rex ex inorbo quo 
+      <lb ed="#P" n="101"/>laborasse legitur moreretur; sed potius habebat ut 
+      <lb ed="#P" n="102"/>non moreretur, sicut ei postea per Isaiam revelatum 
+      <lb ed="#P" n="103"/>fuit. Illud autem: Morieris &amp; non vives, praedictio 
+      <lb ed="#P" n="104"/>est ejus quod futurum erat secundum causas 
+      natura<lb ed="#P" n="105" break="no"/>les, nisi Deus impedivisset. Sensus enim est: Morbus 
+      <lb ed="#P" n="106"/>iste quo laboras talis est, ut humanitus mortem non 
+      <lb ed="#P" n="107"/>possis evadere. Quemadmodum contra praedictio 
+      <lb ed="#P" n="108"/>Elisei qua regi Syriae aegrotanti jubebat dici, 
+      sana<lb ed="#P" n="109" break="no"/>beris 4. Reg. 8. vel ut in Hebraeo est, Vivendo vives, 
+      <lb ed="#P" n="110"/>non significat quid absolute futurum Deus 
+      decrevis<lb ed="#P" n="111" break="no"/>set. Addit enim de absoluto decreto propheta: Porro 
+      <lb ed="#P" n="112"/>ostendit mihi Dominus quia morte morietur, sed quid 
+      <lb ed="#P" n="113"/>futurum spectata conditione morbi qui non erat 
+      le<lb ed="#P" n="114" break="no"/>thalis. Mortuus est autem postea non vi morbi quo 
+      <lb ed="#P" n="115"/>laborabat extinctus, sed stragulo suffocatus ab 
+      Ha<lb ed="#P" n="116" break="no"/>zaele, ut scriptura testatur. Similiter sententia 
+      Do<lb ed="#P" n="117" break="no"/>mini contra Ninivitas, non quid absolute futurum 
+      <lb ed="#P" n="118"/>esset significabat, sed quid futurum secundum 
+      cau<lb ed="#P" n="119" break="no"/>sas praesentes, id est, secundum ipsorum merita, nisi 
+      <lb ed="#P" n="120"/>poenitentiam egissent. Quae vocatur sententia 
+      com<lb ed="#P" n="121" break="no"/>minatoria. Nam absoluto decreto constituerat Deus 
+      <lb ed="#P" n="122"/>ab aeterno parcere Ninivitis, propter eorum 
+      poeni<lb ed="#P" n="123" break="no"/>tentiam, sicut &amp; Ezechiae vitam prorogare, propter 
+      <lb ed="#P" n="124"/>ejus orationem. Retractatio quoque de qua mulier 
+      <lb ed="#P" n="125"/>illa sapiens ad Davidem locuta est 2. Reg. 14. non 
+      <lb ed="#P" n="126"/>absolutae sed comminatoriae sententiae est Danielis 
+      <lb ed="#P" n="127"/>autem praedictio de rege Babylonis absoluta fuit. 
+      <lb ed="#P" n="128"/>Siquidem &amp; praevisum a Deo fuerat eum non 
+      actu<lb ed="#P" n="129" break="no"/>rum poenitentiam. Nec ideo Daniel eum hortatus 
+      <lb ed="#P" n="130"/>fuit ad immutandam Dei sententiam, sed ad 
+      agen<lb ed="#P" n="131" break="no"/>dam poenitentiam, qua poenam denunciatam 
+      evade<lb ed="#P" n="132" break="no"/>ret. Quod si fecisset non jam ab aeterno contra eum 
+      <lb ed="#P" n="133"/>Deus talem sententiam decrevisset. Aliam hujus 
+      so<lb ed="#P" n="134" break="no"/>lutionem, tametsi verbis obscurioribus, indicat 
+      <lb ed="#P" n="135"/>Hieronymus in commentario. Fatetur enim 
+      senten<lb ed="#P" n="136" break="no"/>tiam Dei non posse mutari, &amp; tamen dicit eam 
+      mu<lb ed="#P" n="137" break="no"/>tari per conversionem hominum. Per quod innuit 
+      <lb ed="#P" n="138"/>sententiam hanc contra regem fuisse non absolutam, 
+      <lb ed="#P" n="139"/>quam mutari posse negat, sed tantum 
+      comminato<lb ed="#P" n="140" break="no"/>riam; sicut illam contra Ninivitas, quorum etiam 
+      <lb ed="#P" n="141"/>ibidem exemplum allegat. Sed prior responsio 
+      vi<lb ed="#P" n="142" break="no"/>detur verior. 
+    </p>
+            <p xml:id="bt67yj-k12885-d1e295">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Ad id quod ex I. Reg. 2. objicitur, respondet 
+      Lira<lb ed="#P" n="144" break="no"/>nus promissiones divinas seu collationes alicujus 
+      bo<lb ed="#P" n="145" break="no"/>ni in futura tempora, intelligi sub conditione; 
+      scili<lb ed="#P" n="146" break="no"/>cet, si illi quibus fiunt, bene utantur beneficio sibi 
+      <lb ed="#P" n="147"/>collato. Sed huic responsioni repugnat quod 
+      pro<lb ed="#P" n="148" break="no"/>missio facta Aaroni de perpetuitate sacerdotii, fuit 
+      <!--0059.xml-->
+      <pb ed="#P" n="36"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>absoluta, sicut &amp; aliae quaedam in veteri Testamento, 
+      <lb ed="#P" n="2"/>ut de terra promissionis, de regno Davidis, &amp;c. Pro 
+      <lb ed="#P" n="3"/>inde dicendum videtur particularem quandam 
+      pro<lb ed="#P" n="4" break="no"/>missionem forte factam fuisse majoribus Heli; quae 
+      <lb ed="#P" n="5"/>tamen conditionata fuerit, &amp; ob id non 
+      repugnave<lb ed="#P" n="6" break="no"/>rit absolutae promissioni factae Phinees sacerdoti de 
+      <lb ed="#P" n="7"/>facerdotii ejus perpetuitate, licet ea quandam in 
+      <lb ed="#P" n="8"/>Heli ejusque majoribus &amp; nonnullis etiam posteris 
+      <lb ed="#P" n="9"/>interruptionem passa fuerit. Cum autem dicit Deus: 
+      <lb ed="#P" n="10"/>Poenitet me, &amp;c. non mutat decretum, sed prius 
+      fa<lb ed="#P" n="11" break="no"/>ctum destruit, sine ulla sui ipsius aut suae voluntatis 
+      <lb ed="#P" n="12"/>mutatione. Sic enim &amp; humanum genus quod 
+      fece<lb ed="#P" n="13" break="no"/>rat delevit propter peccata, &amp; Saul a se regem 
+      con<lb ed="#P" n="14" break="no"/>stitutum rejecit propter ejus inobedientiam, &amp; 
+      quo<lb ed="#P" n="15" break="no"/>tidie multa quae prius fecerat opera destruit. Nam 
+      <lb ed="#P" n="16"/>utrumque ab aeterno decrevit, &amp; facere opera, &amp; 
+      <lb ed="#P" n="17"/>eadem postea destruere, nulla consilii mutatione; 
+      <lb ed="#P" n="18"/>quandoquidem &amp; homines saepe id faciant. 
+    </p>
+            <p xml:id="bt67yj-k12885-d1e358">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Ad locum Jeremiae respondendum est 
+      praedictio<lb ed="#P" n="20" break="no"/>nem intelligi non absolutam sed secundum causas 
+      <lb ed="#P" n="21"/>tunc praesentes quando fit praedictio, id est, 
+      secun<lb ed="#P" n="22" break="no"/>dum merita hominum, quibus mutatis non quidem 
+      <lb ed="#P" n="23"/>mutatur Dei voluntas, sed quod ab aeterno aliud 
+      <lb ed="#P" n="24"/>fuerit in Dei sapientia constitutum, declaratur. Et 
+      <lb ed="#P" n="25"/>ita videtur Deus poenitentiam agere, &amp; sententiam 
+      <lb ed="#P" n="26"/>mutare, quia quod illo modo praedictum fuerat, non 
+      <lb ed="#P" n="27"/>implet, ut bene explicat S. Thomas ad secundum. 
+      <lb ed="#P" n="28"/>Ubi tamen notandum, loco ejus quod citat ex Greg. 
+      <lb ed="#P" n="29"/>Deus immutat sententiam, non tamen mutat 
+      consi<lb ed="#P" n="30" break="no"/>lium; sic legi in Gregorio: Et quia ipse immutabilis, 
+      <lb ed="#P" n="31"/>id quod voluerit mutat, poenitere dicitur quamvis 
+      <lb ed="#P" n="32"/>rem mutet, consilium non mutet. Quae verba 
+      diffi<lb ed="#P" n="33" break="no"/>cultatem non habent sed eam explicant, uti &amp; ulla 
+      <lb ed="#P" n="34"/>apud Aug. lib. I. Confess. 4. Opera mutas, nec 
+      mu<lb ed="#P" n="35" break="no"/>tas consilium. 
+    </p>
+            <p xml:id="bt67yj-k12885-d1e400">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Praeterea objicitur quod dicit Leo sermone 2. de 
+      <lb ed="#P" n="37"/>Nativitate Domini: Deum circa hominem aliquam 
+      <lb ed="#P" n="38"/>mutasse sententiam. Sed respondetur intelligi 
+      sen<lb ed="#P" n="39" break="no"/>tentiam conditionalem, qua decretum erat ut homo 
+      <lb ed="#P" n="40"/>absque morte ad vitam beatam transiret, si non 
+      pec<lb ed="#P" n="41" break="no"/>caret. Quae conditio quia ab homine non est servata, 
+      <lb ed="#P" n="42"/>mutasse sententiam dicitur Deus, ex eo quia non 
+      im<lb ed="#P" n="43" break="no"/>plevit, quod ita conditionate decrevit. 
+    </p>
+            <p xml:id="bt67yj-k12885-d1e422">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Item objicitur ex Augustino, qui sermone 102. de 
+      <lb ed="#P" n="45"/>tempore sic ait: Utinam tam cito peccator homo 
+      <lb ed="#P" n="46"/>resurgat ad poenitentiam, quam cito Deus etiam 
+      de<lb ed="#P" n="47" break="no"/>finitam vult mutare sententiam; &amp; probat per illud 
+      <lb ed="#P" n="48"/>Jeremiae 26. Et poenituit Dominum mali quod locutus 
+      <lb ed="#P" n="49"/>fuerat adversum eos. Respondeo sermonem non esse 
+      <lb ed="#P" n="50"/>Augustini. Jeremias autem loquitur de malo 
+      condi<lb ed="#P" n="51" break="no"/>tionaliter sive secundum causas praesentes &amp; merita 
+      <lb ed="#P" n="52"/>praenunciatio, ut modo diximus de simili loco 
+      ejus<lb ed="#P" n="53" break="no"/>dem prophetae. 
+    </p>
+            <p xml:id="bt67yj-k12885-d1e448">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Praeterea sic argumentantur: In Deo est liberum 
+      <lb ed="#P" n="55"/>arbitrium; ergo mutabilitas voluntatis. Consistit 
+      <lb ed="#P" n="56"/>enim ratio liberi arbitrii in eo ut flecti possit ad 
+      <lb ed="#P" n="57"/>utrumlibet; flecti autem, est mutari. Respondetur 
+      <lb ed="#P" n="58"/>voluntatem Dei sine dubio potentiam habere ad 
+      <lb ed="#P" n="59"/>utrumlibet, cum sit liberrima non tamen proprie 
+      <lb ed="#P" n="60"/>flecti dicitur, cum flexus importet motum ab uno ad 
+      <lb ed="#P" n="61"/>aliud, sed velle &amp; eligere unum prae alio, cum possit 
+      <lb ed="#P" n="62"/>utrumlibet. Quicquid autem eligit, ab aeterno atque 
+      <lb ed="#P" n="63"/>immutabiliter elegit. Quo fit ut voluntatem, 
+      consi<lb ed="#P" n="64" break="no"/>lium, electionem, mutare non possit in aliud. Quae 
+      <lb ed="#P" n="65"/>quidem mutationis possibilitas, non est de ratione 
+      <lb ed="#P" n="66"/>liberi arbitrii, sed magis ad ejus imperfectionem 
+      <lb ed="#P" n="67"/>pertinet, sicut posse peccare. 
+    </p>
+            <p xml:id="bt67yj-k12885-d1e484">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Postremum argumentum est tale: quidquid habet 
+      <lb ed="#P" n="69"/>potentiam ad opposita est mutabile. Quod enim 
+      po<lb ed="#P" n="70" break="no"/>test esse &amp; non esse, mutabile est secundum 
+      substan<lb ed="#P" n="71" break="no"/>tiam, &amp; quod potest hoc in loco esse &amp; non esse, 
+      <lb ed="#P" n="72"/>mutabile est secundum locum, &amp; ita de caeteris; ergo 
+      <lb ed="#P" n="73"/>quod potest velle &amp; non velle, ut Deus mutabile est 
+      <lb ed="#P" n="74"/>secundum voluntatem. Movet hoc argumentum 
+      <lb ed="#P" n="75"/>S. Thom. quarto loco sed non explicat. Dicendum 
+      <!--0059.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="76"/>est autem illud solum mutabile esse, quod habet 
+      po<lb ed="#P" n="77" break="no"/>tentiam ad opposita successi ve, sic ut aliud post aliud 
+      <lb ed="#P" n="78"/>recipiat; quomodo creaturis competit potentia ad 
+      <lb ed="#P" n="79"/>opposita; ut verbi gratia modo sint, modo non sint, 
+      <lb ed="#P" n="80"/>modo velint aliquid, modo non velint. Sed Deo 
+      <lb ed="#P" n="81"/>competit potentia ad oppositorum electionem sine 
+      <lb ed="#P" n="82"/>successione, quia ab aeterno, ubi non est temporum 
+      <lb ed="#P" n="83"/>successio, liberrima voluntate elegit oppositorum 
+      al<lb ed="#P" n="84" break="no"/>terum. Est igitur summa voluntatis in Deo libertas, 
+      <lb ed="#P" n="85"/>sed nulla mutabilitas 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

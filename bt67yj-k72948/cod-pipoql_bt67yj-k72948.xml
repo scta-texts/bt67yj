@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="193"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k72948"><!-- l1d45c6" -->
+            <head xml:id="bt67yj-k72948-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k72948-Hd1e103" type="question-title">An Dei voluntas necessitatem rebus imponat</head>
+            <p xml:id="bt67yj-k72948-d1e106">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> §. 6. An Dei voluntas necessitatem rebus imponat? 
+    </p>
+            <p xml:id="bt67yj-k72948-d1e113">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> QUamvis ut supra ostensum est, peus omnia quae 
+      <lb ed="#P" n="5"/>cunque operatur, non necessario sed libere 
+      ope<lb ed="#P" n="6" break="no"/>retur, certum est tamen in operibus Dei, id est, in 
+      re<lb ed="#P" n="7" break="no"/>bus creatis, inveniri necessitatem quandam non solum 
+      <lb ed="#P" n="8"/>libertati sed &amp; contingentiae oppositam. Multa enim 
+      <lb ed="#P" n="9"/>in rebus absolutam habent necessitatem. Unde 
+      meri<lb ed="#P" n="10" break="no"/>ro quaeritur, an Dei voluntas rebus volitis 
+      necessita<lb ed="#P" n="11" break="no"/>tem imponat. Quae quaestio duobus modis intelligi 
+      <lb ed="#P" n="12"/>potest. Uno quidem modo sic an eo ipso quo res sunt 
+      <lb ed="#P" n="13"/>aut proveniunt a Dei voluntate, necessariae sint aut 
+      <lb ed="#P" n="14"/>necessario fiant. Ad quod negative respondendum. 
+      <lb ed="#P" n="15"/>Neque enim sequitur res esse aut fieri necessario 
+      neces<lb ed="#P" n="16" break="no"/>sitate absoluta (de qua hic est sermo) quod eas Deus 
+      <lb ed="#P" n="17"/>velit esse autfieri; tametsi necessaria est consequentia a 
+      <lb ed="#P" n="18"/>voluntate Deiad rem volitam, eo quod voluntas Dei 
+      <lb ed="#P" n="19"/>frustrari non possit. Sed haec hypothetica rerum 
+      ne<lb ed="#P" n="20" break="no"/>cessitas est, non absoluta. Altero modo sensus est, an 
+      <lb ed="#P" n="21"/>Dei voluntas causet necessitatem in omnibus aut 
+      ali<lb ed="#P" n="22" break="no"/>quibus rebus a se volitis. Ad quod recte S. Th. distin 
+      <lb ed="#P" n="23"/>guendo respondet art. 8. q. 19. divinam voluntatem 
+      <lb ed="#P" n="24"/>quibusdam volitis necessitatem imponere, non 
+      ta<lb ed="#P" n="25" break="no"/>men omnibus. Nam rerum a Deo volitarum quaedam 
+      <lb ed="#P" n="26"/>sunt necessariae, quaedam contingentes. Verum apud 
+      <lb ed="#P" n="27"/>doctores ratio quaeritur hujus diversitatis. Quidam 
+      <lb ed="#P" n="28"/>enim ut S. Th. ibidem refert, rationem assignare 
+      vo<lb ed="#P" n="29" break="no"/>luerunt ex causis mediis, quod nimirum ea quae Deus 
+      <lb ed="#P" n="30"/>producit per causas necessarias, sint necessaria, quae 
+      <lb ed="#P" n="31"/>vero por causas contingentes, contingentia. Sed hanc 
+      <lb ed="#P" n="32"/>rationem sufficientem esse negat duas ob causas. 
+      <lb ed="#P" n="33"/>Primo, quia effectus alicujus primae causae 
+      contin<lb ed="#P" n="34" break="no"/>gens dicitur propter secundam causam, eo quod per 
+      <lb ed="#P" n="35"/>nujus defectum impediatur, quomodo virtus solis 
+      <lb ed="#P" n="36"/>impeditur per defectum plantae. Atqui nullus 
+      effe<lb ed="#P" n="37" break="no"/>ctus secundae causae impedire potest, quominus 
+      vo<lb ed="#P" n="38" break="no"/>luntas Dei suum producat effectum. Secundo, quia 
+      <lb ed="#P" n="39"/>si distinctio contingentium a necessariis referatur 
+      <lb ed="#P" n="40"/>solum in causas secundas, sequetur hoc esse praeter 
+      <lb ed="#P" n="41"/>intentionem aut voluntatem divinam, quod est 
+      ab<lb ed="#P" n="42" break="no"/>surdum &amp; impossibile. Respondet igitur 
+      ratio<lb ed="#P" n="43" break="no"/>nem esse petendam ex ipsius divinae voluntatis 
+      effica<lb ed="#P" n="44" break="no"/>cia. Cum enim, inquit, aliqua causa efficax fuerit ad 
+      <lb ed="#P" n="45"/>agendum, effectus consequitur causam non tantum 
+      <lb ed="#P" n="46"/>sccundum id quod fit, verum etiam secundum 
+      mo<lb ed="#P" n="47" break="no"/>dum fiendi vel essendi. Quare cum divina voluntas 
+      <lb ed="#P" n="48"/>fit efficacissima, non solum sequitur quod fiant ea 
+      <lb ed="#P" n="49"/>quae Deus vult fieri, sed quod eo modo fiant quo Deus 
+      <lb ed="#P" n="50"/>ea vult fieri. Vult autem Deus ad hoc ut diversis 
+      re<lb ed="#P" n="51" break="no"/>rum gradibus universum compleatur, quaedam 
+      eve<lb ed="#P" n="52" break="no"/>nire necessario, &amp; quaedam contingenter. Et ideo 
+      qui<lb ed="#P" n="53" break="no"/>busdam effectibus providit atque aptavit causas 
+      ne<lb ed="#P" n="54" break="no"/>cessarias, id est, indefectibiles in causando, ex 
+      qui<lb ed="#P" n="55" break="no"/>bus effectus sequuntur necessario; quibusdam vero 
+      <lb ed="#P" n="56"/>causas aptavit contingentes, id est, defectibiles &amp; 
+      <lb ed="#P" n="57"/>impedibiles, ex quibus proinde effectus contingenter 
+      <lb ed="#P" n="58"/>proveniant. Hinc ergo patet non ideo, sicut alii 
+      di<lb ed="#P" n="59" break="no"/>cebant, effectus a Deo volitos evenire contingenter, 
+      <lb ed="#P" n="60"/>quia causae proximae sunt contingentes, sed e 
+      con<lb ed="#P" n="61" break="no"/>tra Deum, quia voluit quosdam effectus contingenter 
+      <lb ed="#P" n="62"/>evenire, causas iis praeparasse contingentes, scilicet ut 
+      <lb ed="#P" n="63"/>tota diversitatis ratio non in causas medias, sed in 
+      <lb ed="#P" n="64"/>Dei voluntatem tanquam causam primam &amp; per hoc 
+      <lb ed="#P" n="65"/>efficacissimam tandem referatur. Quam doctrinam 
+      <lb ed="#P" n="66"/>commentatores S. Thomae Cajetanus &amp; Dominicus 
+      <lb ed="#P" n="67"/>Bannes per complures conclusiones &amp; notabilia, 
+      di<lb ed="#P" n="68" break="no"/>ligenter &amp; late explicant, adhibitis etiam 
+      solutioni<lb ed="#P" n="69" break="no"/>bus argumentorum quae pro diversa opinione 
+      pote<lb ed="#P" n="70" break="no"/>rant adferri. Ad quos aut hores studiosum 
+      remitti<lb ed="#P" n="71" break="no"/>mus, tametsi ex iis quae distinct. 38. de praescientia &amp; 
+      <lb ed="#P" n="72"/>providentia Dei, quaeque ad distinctionem 40. de 
+      <lb ed="#P" n="73"/>praedestinatione &amp; reprobatione diximus; videlicet 
+      <!--0216.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>quod rebus praescitis aut provisis, necessitatem non 
+      <lb ed="#P" n="75"/>imponant, neque in iis liberum arbitrium destruant, 
+      <lb ed="#P" n="76"/>utcunque intelligi possunt caetera ad praesentem 
+      <lb ed="#P" n="77"/>hanc quaestionem pertinentia. Nam &amp; objectiones 
+      <lb ed="#P" n="78"/>quae huc solent afferri, fere sunt caedem cum iis 
+      qua<lb ed="#P" n="79" break="no"/>rum illis in locis solutionem dedimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

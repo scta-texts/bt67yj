@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="93"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k34815"><!-- l1d31c1" -->
+            <head xml:id="bt67yj-k34815-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k34815-Hd1e103" type="question-title">Aequalitas et similitudo divinarum 
+      personarum quomodo sit accipienda</head>
+            <p xml:id="bt67yj-k34815-d1e106">
+               <lb ed="#P" n="36"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="37"/>TRICESIMAMPRIMAM. 
+      <lb ed="#P" n="38"/>§. 1. AEqualitas &amp; similitudo divinarum 
+      perso<lb ed="#P" n="39" break="no"/>narum quomodo sit accipienda. 
+    </p>
+            <p xml:id="bt67yj-k34815-d1e117">
+               <lb ed="#P" n="40"/>CUM tres divinae personae sibi invicem 
+      aequa<lb ed="#P" n="41" break="no"/>les dicantur &amp; similes, quaeritur secundum 
+      <lb ed="#P" n="42"/>Aquid aequalitas illa &amp; similitudo sit 
+      accipien<lb ed="#P" n="43" break="no"/>da. Cui quaestioni, ut breviter respondeatur, 
+      re<lb ed="#P" n="44" break="no"/>petendum hoc loco, quod alibi saepe dictum est, 
+      nul<lb ed="#P" n="45" break="no"/>lum Deo accidens inesse, sed quicquid Deo per 
+      mo<lb ed="#P" n="46" break="no"/>dum qualitatis vel quantitatis attribuitur, esse ejus 
+      <lb ed="#P" n="47"/>essentiam. Ex quo consequens est, aequalitatem &amp; 
+      <lb ed="#P" n="48"/>similitudinem, quae est inter divinas personas, accipi 
+      <lb ed="#P" n="49"/>debere secundum essentiam, ita tamen ut simul 
+      no<lb ed="#P" n="50" break="no"/>bis ipsinuent personarum pluralitatem. Aequalitas 
+      <lb ed="#P" n="51"/>enim existit inter ans plures magnitudinem habentes, 
+      <lb ed="#P" n="52"/>quarum tamen neutra alteram magnitudine superat. 
+      <lb ed="#P" n="53"/>Similitudo vero, inter eas quarum una est qualitas. 
+      <lb ed="#P" n="54"/>Cum ergo in Deo magnitudo &amp; qualitas sit ipsa ejus 
+      <lb ed="#P" n="55"/>essentia, manifestum est aequalitatem &amp; 
+      similitudi<lb ed="#P" n="56" break="no"/>nein, in Deo secundum essentiam dici, non secundum 
+      <lb ed="#P" n="57"/>relationem. Quod etiam ex eo ostenditur, quia nec 
+      <lb ed="#P" n="58"/>pater filio, nec filius patri similis est, aut aequalis 
+      di<lb ed="#P" n="59" break="no"/>citur, in eo quod hic genuit, ille genitus est. Hac 
+      <lb ed="#P" n="60"/>enim ratione distinguuntur. Deinde nec assignari 
+      <lb ed="#P" n="61"/>potest aliqua relatio, in qua secundum rem omnes 
+      <lb ed="#P" n="62"/>personae conveniant. Unde si secundum relationem 
+      <lb ed="#P" n="63"/>inter eas aequalitas aut similitudo sumenda esset, non 
+      <lb ed="#P" n="64"/>possent dici tres personae inter se aequales aut similes. 
+      <lb ed="#P" n="65"/>Haec Augustini doctrina est libro 5. de trinitate, 
+      ca<lb ed="#P" n="66" break="no"/>pite 6. &amp; libro 6. capite 4. &amp; 5. Quibus adde quod 
+      <lb ed="#P" n="67"/>nec secundum relationes possent dissimiles inter se 
+      <lb ed="#P" n="68"/>dici divinae personae. Sicut enim in rebus creatis non 
+      <lb ed="#P" n="69"/>sumitur dissimilitudo secundum relationem, sed se¬ 
+      <!--0116.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>cundum qualitatem; ita sumenda esset in Deo. 
+      Ve<lb ed="#P" n="71" break="no"/>rum quia secundum qualitatem, id est, essentiam, 
+      <lb ed="#P" n="72"/>nulla est ibi diversitas, hinc absolute non debet ulla 
+      <lb ed="#P" n="73"/>in Deo similitudo agnosci. 
+    </p>
+            <p xml:id="bt67yj-k34815-d1e198">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Si vero quaeratur, utrum aequalitas &amp; similitudo 
+      <lb ed="#P" n="75"/>in divinis relationem significent, &amp; an aequale &amp; 
+      si<lb ed="#P" n="76" break="no"/>mile de iis relative dicantur, omnino respondendum 
+      <lb ed="#P" n="77"/>est affirmative. Nam aequale aequali aequale est, &amp; 
+      <lb ed="#P" n="78"/>simile simili simile, tam in divinis quam in rebus 
+      <lb ed="#P" n="79"/>creatis. Non tamen hae voces peculiarem aliquam 
+      <lb ed="#P" n="80"/>in divinis personis relationem, vel notionem 
+      signi<lb ed="#P" n="81" break="no"/>ficant, sicut paternitas, filiatio, &amp;c. sed eam quae 
+      <lb ed="#P" n="82"/>omnibus tribus est communis, &amp; unicuique 
+      respe<lb ed="#P" n="83" break="no"/>ctu alterius convenit. Unaquaeque enim persona 
+      <lb ed="#P" n="84"/>divina, cuilibet alteri simlis est &amp; aequalis. Verum 
+      <lb ed="#P" n="85"/>hae relationes Deo attributae, tantum sunt rationis, 
+      <lb ed="#P" n="86"/>quia licet personae, quae similes &amp; aequales dicuntur, 
+      <lb ed="#P" n="87"/>&amp; in quibus relatio fundari intelligitur, revera 
+      di<lb ed="#P" n="88" break="no"/>stinctae sint, ipsae tamen fundandi ratio in personis 
+      <lb ed="#P" n="89"/>distinctis, prorsus eadem est. Nam uti diximus tres 
+      <lb ed="#P" n="90"/>personae sibi invicem similes sunt &amp; aequales 
+      se<lb ed="#P" n="91" break="no"/>cundum essentiam, quae una est &amp; indivisa in tribus, 
+      <lb ed="#P" n="92"/>quomodo si diceremus parietem &amp; superficiem ejus 
+      <lb ed="#P" n="93"/>esse similes secundum eandem numero albedinem, 
+      <lb ed="#P" n="94"/>quae in pariete est mediante superficie, non 
+      diceren<lb ed="#P" n="95" break="no"/>tur similes relatione reali, sed tantum rationis. 
+      <lb ed="#P" n="96"/>Quoniam autem nec similitudo, nec aequalitas 
+      con<lb ed="#P" n="97" break="no"/>sistere potest, nisi inter res plures, id est, realiter 
+      <lb ed="#P" n="98"/>distinctas, hinc quando personae divinae similes, vel 
+      <lb ed="#P" n="99"/>aequales inter se dicuntur, utrumque nobis 
+      insinua<lb ed="#P" n="100" break="no"/>tur, &amp; quod realiter plures sint, &amp; quod una sit 
+      <lb ed="#P" n="101"/>earum essentia. 
+    </p>
+            <p xml:id="bt67yj-k34815-d1e264">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Ex his denique intelligitur falli Magistrum, dum 
+      <lb ed="#P" n="103"/>existimat §. B. similitudinem &amp; aequalitatem in Deo 
+      <lb ed="#P" n="104"/>nihil ponere, sed tantum aliquid removere. Revera 
+      <lb ed="#P" n="105"/>enim aliquid ponunt, nempe magnitudinem, vel 
+      <lb ed="#P" n="106"/>qualitatem eandem: Rerum autem ipsarum quae 
+      si<lb ed="#P" n="107" break="no"/>miles vel aequales dicuntur, id est, personarum 
+      plu<lb ed="#P" n="108" break="no"/>ralitatem, nisi potius dicas, quod haec non ponunt, 
+      <lb ed="#P" n="109"/>sed supponunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

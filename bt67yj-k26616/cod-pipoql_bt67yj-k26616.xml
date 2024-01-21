@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="71"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k26616"><!-- l1d18c4" -->
+            <head xml:id="bt67yj-k26616-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k26616-Hd1e103" type="question-title">Quomodo filius nascendo et Spiritus sanctus 
+      procedendo essentiam accipiant</head>
+            <p xml:id="bt67yj-k26616-d1e106">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> §. 4. Quomodo filius nascendo &amp; Spiritus sanctus 
+      <lb ed="#P" n="122"/>procedendo essentiam accipiant? 
+    </p>
+            <p xml:id="bt67yj-k26616-d1e115">
+               <lb ed="#P" n="123"/>NVllius Dei nascendo ex patre non tantum habet ut 
+      <lb ed="#P" n="124"/>sit filius sed omnino ut sit: Id est, nascendo non 
+      <lb ed="#P" n="125"/>tantum filiationem accipit, sed etiam essentiam. 
+      Si<lb ed="#P" n="126" break="no"/>militer &amp; Spiritus sanctus ex patre filioque 
+      proce<lb ed="#P" n="127" break="no"/>dendo, non tantum habet ut sit Spiritus sanctus, sed 
+      <lb ed="#P" n="128"/>omnino ut sit. Ita docet Augustinus lib. 5. de Trinit. 
+      <lb ed="#P" n="129"/>c. 15. Eamque doctrinam repetit lib. 15. c. 26. dicens: 
+      <lb ed="#P" n="130"/>Sicut filio praestat essentiam de patre generatio, ita 
+      Spi<lb ed="#P" n="131" break="no"/>ritui sancto praestat essentiam de utroque processio. Idem 
+      <lb ed="#P" n="132"/>volunt Hilarii verba lib. 5. de Trinit. sub finem cum 
+      <lb ed="#P" n="133"/>dicit; ex virtute naturae, in naturam eandem 
+      nativita<lb ed="#P" n="134" break="no"/>te subsistere filium, &amp; ex virtute naturae in naturam 
+      <lb ed="#P" n="135"/>eandem, processione subsistere Spiritum sanctum. 
+    </p>
+            <p xml:id="bt67yj-k26616-d1e146">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Quae Patrum sententiae quomodo sint accipiendae, 
+      <lb ed="#P" n="137"/>dubitari potest; cum eodem Augustino teste lib. 7. 
+      <lb ed="#P" n="138"/>de Trinitate capite 2. hujusmodi nominibus, qualia 
+      <lb ed="#P" n="139"/>sunt generatio, processio, non ostendatur essentia: 
+      <lb ed="#P" n="140"/>sed tantum relatio significetur. Sed respondemus 
+      <!--0095.xml-->
+      <pb ed="#P" n="72"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>utrumque vere &amp; convenienter dici; nempe quod, 
+      <lb ed="#P" n="2"/>accipiant filius &amp; Spiritus sanctus, ille nascendo ut 
+      <lb ed="#P" n="3"/>sit filius, &amp; iste procedendo ut sit Spiritus sanctus, &amp; 
+      <lb ed="#P" n="4"/>rursum uterque ut sit; verum aliter &amp; aliter. Nam 
+      <lb ed="#P" n="5"/>proprietatem personalem accipiunt nativitate, &amp; 
+      <lb ed="#P" n="6"/>processione, tanquam habentibus se per modum 
+      <lb ed="#P" n="7"/>causae formalis: Essentiam vero non per hunc 
+      mo<lb ed="#P" n="8" break="no"/>dum (uterque enim formaliter deitate Deus est, 
+      si<lb ed="#P" n="9" break="no"/>cut sapientia sapiens) sed ut via ac medio vel modo 
+      <lb ed="#P" n="10"/>originis, cui in rebus creatis respondet motus. In 
+      <lb ed="#P" n="11"/>quibus proinde similis est loquendi ratio. Dicimus 
+      <lb ed="#P" n="12"/>enim nascendo ex homine, accipere utrumque &amp; 
+      <lb ed="#P" n="13"/>ut filius sit &amp; ut homo. Sed illud ei praestat generatio 
+      <lb ed="#P" n="14"/>ut causa formalis geniti, hoc autem ut m quaedam 
+      <lb ed="#P" n="15"/>ac modus originis. 
+    </p>
+            <p xml:id="bt67yj-k26616-d1e202">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Quod autem filius Dei nascendo naturam seu 
+      essen<lb ed="#P" n="17" break="no"/>tiam accipiat a patre, quemadmodum Hilarius &amp; 
+      <lb ed="#P" n="18"/>Augustinus docent, &amp; ex utroque Magister, facile est 
+      <lb ed="#P" n="19"/>etiam ex scripturis ostendi. Dicit enim ipse filius, 
+      <lb ed="#P" n="20"/>Joan. 16. Omma quae habet pater mea sunt, &amp; 17. ad 
+      <lb ed="#P" n="21"/>patrem: Omnia mea tua sunt, &amp; tua mea sunt. Quae 
+      <lb ed="#P" n="22"/>sententiae significant filium quicquid est &amp; quicquid 
+      <lb ed="#P" n="23"/>habet, imo quicquid pater habet, exceptis dumtaxat 
+      <lb ed="#P" n="24"/>proprietatibus personalibus, habere &amp; accepisse a 
+      <lb ed="#P" n="25"/>patre. At filius est, &amp; Deus est, &amp; essentiam habet 
+      <lb ed="#P" n="26"/>divinam, similiter &amp; pater; Ergo filius a patre 
+      acce<lb ed="#P" n="27" break="no"/>pit quod sit, &amp; quod Deus sit, &amp; quod essentiam 
+      ha<lb ed="#P" n="28" break="no"/>beat divinam. Accipere autem non aliter potuit, 
+      <lb ed="#P" n="29"/>quam nascendo; ergo haec omnia filius nascendo 
+      ac<lb ed="#P" n="30" break="no"/>cepit a patre. Unde quod ait Dominus, Joan. 5. 
+      <lb ed="#P" n="31"/>Sicut habet pater vitam in semetipso, sic dedit &amp; filio 
+      <lb ed="#P" n="32"/>vitam habere in semetipso. Augustinus eum locum 
+      <lb ed="#P" n="33"/>tractans interpretatur in hunc sensum. Pater vita, 
+      <lb ed="#P" n="34"/>genuit filium vitam. Similiter autem dicere 
+      possu<lb ed="#P" n="35" break="no"/>mus: Pater Deus genuit filium Deum. Pater 
+      essen<lb ed="#P" n="36" break="no"/>tia genuit filium essentiam, &amp; ita de aliis attributis 
+      <lb ed="#P" n="37"/>Dei essentialibus, &amp; quod de filio dicitur, erit 
+      con<lb ed="#P" n="38" break="no"/>similiter intelligendum de Spiritu sancto. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

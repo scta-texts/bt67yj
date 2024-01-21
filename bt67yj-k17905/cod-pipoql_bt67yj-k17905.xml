@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="48"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k17905"><!-- l1d10c5" -->
+            <head xml:id="bt67yj-k17905-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k17905-Hd1e103" type="question-title">Spiritum Sanctum vere et proprie 
+      Deum esse</head>
+            <p xml:id="bt67yj-k17905-d1e106">
+               <lb ed="#P" n="92"/>§. 5. Spiritum Sanctum vere &amp; proprie 
+      <lb ed="#P" n="93"/>Deum esse.
+    </p>
+            <p xml:id="bt67yj-k17905-d1e113">
+               <lb ed="#P" n="94"/>QUicumque haeretici filium Dei vere &amp; proprie 
+      <lb ed="#P" n="95"/>Deum esse negaverunt, iidem simul etiam 
+      <lb ed="#P" n="96"/>Spiritui sancto veri nominis Deitatem 
+      subtraxe<lb ed="#P" n="97" break="no"/>runt. Cum enim Matth. ult. spiritus sanctus in 
+      or<lb ed="#P" n="98" break="no"/>dine trium personarum manifesce postponatur filio, 
+      <lb ed="#P" n="99"/>non putaverunt tribui posse tertiae personae 
+      excel<lb ed="#P" n="100" break="no"/>lentiam naturae, quae de secunda negabatur; 
+      prae<lb ed="#P" n="101" break="no"/>sertim cum doctrinam quae alicui personae praeter 
+      <lb ed="#P" n="102"/>patrem ascribit divinitatem, existimarent adversari 
+      <lb ed="#P" n="103"/>fidei nostrae, qua unum solum Deum credimus &amp; 
+      <lb ed="#P" n="104"/>confitemur. Itaque omnes Ariani sicut de filii, ita 
+      <lb ed="#P" n="105"/>&amp; de spiritus sancti divinitate male senserunt, ut 
+      <lb ed="#P" n="106"/>aperte testatur Aug. haeres. 49. quae est 
+      Ariano<lb ed="#P" n="107" break="no"/>rum. Fuere tamen contra, qui filium proprie Deum 
+      <lb ed="#P" n="108"/>agnoscentes, in tertiam personam, id est, in 
+      spiri<lb ed="#P" n="109" break="no"/>tum sanctum offenderent, ut Macedoniani, de 
+      qui<lb ed="#P" n="110" break="no"/>bus August. haeres. 52. Macedoniam, inquit, de 
+      <lb ed="#P" n="111"/>patre &amp; filio recte sentiunt, quod unius sint 
+      ejusdem<lb ed="#P" n="112" break="no"/>que substantiae vel essentiae, sed de spiritu sancto 
+      <lb ed="#P" n="113"/>hoc nolunt credere, creaturam eum esse dicentes. 
+      <lb ed="#P" n="114"/>Hos potius quidam Semiarianos vocant, quod in 
+      <lb ed="#P" n="115"/>hac quaestione ex parte cum Arianis sint, ex parte 
+      <lb ed="#P" n="116"/>nobiscum. At hodie nulli sunt pure 
+      Macedonia<lb ed="#P" n="117" break="no"/>ni, quia quicunque Spiritum sanctum negant Deo 
+      <lb ed="#P" n="118"/>patri coessentialem esse, iidem negant etiam de 
+      <lb ed="#P" n="119"/>filio, quod utrumque aeque existiment repugnare 
+      <lb ed="#P" n="120"/>unitati essentiae divinae. Itaque nunc breviter &amp; 
+      <lb ed="#P" n="121"/>potissimum ex scriptura probandum erit Spiritum 
+      <lb ed="#P" n="122"/>sanctum vere Deum esse, eundemque patri &amp; filio 
+      <lb ed="#P" n="123"/>consubstantialem. Sunt igitur haec praecipua 
+      scriptu<lb ed="#P" n="124" break="no"/>rae testimonia. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e183">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Primum, Sap. 1. Spiritus Domini replevit orbem 
+      <lb ed="#P" n="126"/>terrarum, &amp; continet, id est, conservat omnia. Hoc 
+      <lb ed="#P" n="127"/>autem utrumque solius Dei est. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e195">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Secundum, Ibidem de spiritu Domini dicitur: 
+      <lb ed="#P" n="129"/>Renum hominis testis est Deus &amp; cordis illius scrutator 
+      <lb ed="#P" n="130"/>est verus. In qua sententia non modo Deus idemque 
+      <lb ed="#P" n="131"/>verus vocatur spiritus sanctus, sed etiam id ei 
+      tribui<lb ed="#P" n="132" break="no"/>tur, quod alia multa scripturae loca testantur solius 
+      <lb ed="#P" n="133"/>esse Dei, nempe scrutari renes &amp; corda. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e213">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Tertium, Sap. 7. Spiritui divino inter alia 
+      tri<lb ed="#P" n="135" break="no"/>buitur, quod sit omnem habens virtutem, hoc est 
+      <lb ed="#P" n="136"/>omnipotens: Item quod sit omnia prospiciens, id 
+      <lb ed="#P" n="137"/>est, omnium etiam futurorum habens notitiam. 
+      <lb ed="#P" n="138"/>Haec autem citra controversiam proprietates sunt 
+      <lb ed="#P" n="139"/>divinae. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e231">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Quartum, 2. Reg. 23. David spiritum Domini 
+      <lb ed="#P" n="141"/>Deum vocat dicens: Spiritus Domini locutus est per 
+      <lb ed="#P" n="142"/>me, dixit Deus Israel mihi. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e242">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Quintum, Ps. 32. Verbo Domini caeli firmati sunt 
+      <lb ed="#P" n="144"/>&amp; spirituoris ejus omnis virtus eorum. Et Job. 33. 
+      <lb ed="#P" n="145"/>Spiritus Dei fecit me? Atqui creationis opus solius 
+      <lb ed="#P" n="146"/>est Dei. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e255">
+      <!--0072.xml-->
+               <pb ed="#P" n="49"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Sextum, Ps. 138. Quo ibo a spiritu tuo? Est ergo 
+      <lb ed="#P" n="2"/>ubique spiritus Dei, ac proinde Deus. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e268">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Septimum, Isa. 48. verba Christi sunt: Dominus 
+      <lb ed="#P" n="4"/>Deus misit me &amp; spiritus ejus, &amp; c. 51. Spiritus Domini 
+      <lb ed="#P" n="5"/>superme, evangelizare pauperibus misit me: Atqui 
+      <lb ed="#P" n="6"/>Christum mittere nemo ex authoritate potuit nisi 
+      <lb ed="#P" n="7"/>Deus. Unde &amp; Deo patri passim in scriptura novi 
+      te<lb ed="#P" n="8" break="no"/>stamenti tribuitur, quod misit filium suum in mundum. 
+      <lb ed="#P" n="9"/>Est ergo Spiritus sanctus verus Deus patri aequalis. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e289">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Octavum, Prophetae cum annunciarent populo 
+      <lb ed="#P" n="11"/>quae sibi revelata erant, dicebant: Haec dicit Dominus 
+      <lb ed="#P" n="12"/>Deus. Idem autem Dominus Deus erat Spiritus 
+      san<lb ed="#P" n="13" break="no"/>ctus, dicente Petro 2. epist. 1. Spiritu sancto inspirati, 
+      <lb ed="#P" n="14"/>locuti sunt sancti Dei homines. Unde Zacharias in 
+      can<lb ed="#P" n="15" break="no"/>ticoLucae I. eum qui locutus est per hos prophetarum, 
+      <lb ed="#P" n="16"/>id est, Spiritum sanctum, aperte vocat Dominum 
+      <lb ed="#P" n="17"/>Deum Israel. Et quod Is. c. 6. dicit sibi dictum esse a 
+      <lb ed="#P" n="18"/>Domino exercituum, qui titulus est solius veri Dei 
+      <lb ed="#P" n="19"/>id ipsum Act. ult. Spiritui sancto attribuitur his verbis: 
+      <lb ed="#P" n="20"/>Bene Spiritus sanctus locutus est per Isaiam dicens, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e318">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Nonum, Matth. 12. &amp; Marci 3. blasphemia in 
+      Spi<lb ed="#P" n="22" break="no"/>ritum sanctum tanquam in Deum prolata opponitur 
+      <lb ed="#P" n="23"/>blasphemiae in filium hominis, qui ut talis non est 
+      <lb ed="#P" n="24"/>Deus. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e331">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Decimum, Ibidem Dominus dicit: Si ego in spirita 
+      <lb ed="#P" n="26"/>Dei ejicio daemonia, &amp; Apostolus Hebr. 2. omnia 
+      mi<lb ed="#P" n="27" break="no"/>racula quae fiebant per Apostolos, vocat Spiritus 
+      san<lb ed="#P" n="28" break="no"/>cti distributiones. At solius divinae potestatis est 
+      mi<lb ed="#P" n="29" break="no"/>racula facere. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e347">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Undecimum, 1. Cor. 6. Membra vestra, ait 
+      Aposto<lb ed="#P" n="31" break="no"/>lus, templum sunt Spiritus sancti. Templum autem 
+      pro<lb ed="#P" n="32" break="no"/>prie solius est Dei. Unde ibidem subditur: Glorificate 
+      <lb ed="#P" n="33"/>&amp; portate Deum in corpore vestro, id est, ipsum 
+      Spiri<lb ed="#P" n="34" break="no"/>tum sanctum, cujus templum sunt corpora vestra. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e363">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Duodecimum, 1. Cor. 12. Divisiones gratiarum, &amp; 
+      <lb ed="#P" n="36"/>operationum &amp; quorumcunque donorum Dei 
+      tri<lb ed="#P" n="37" break="no"/>buuntur authori spiritui sancto, qui ibidem &amp; 
+      Domi<lb ed="#P" n="38" break="no"/>nus &amp; Deus vocatur, operatur omnia in omnibus &amp; 
+      <lb ed="#P" n="39"/>dividens singulis prout vult. Quae omnia solius Dei 
+      <lb ed="#P" n="40"/>sunt. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e381">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Decimumtertium, 2. Cor. 3. Cum conversus fuerit 
+      <lb ed="#P" n="42"/>ad Dominum auferetur velamen, Dominus autem 
+      spi<lb ed="#P" n="43" break="no"/>ritus est. Ubi autem spiritus Dominiibi libertas. Quibus 
+      <lb ed="#P" n="44"/>verbis significat Apostolus, spiritum esse Dominum 
+      <lb ed="#P" n="45"/>illum ipsum, de quo dixerat, Cum conversus fuerit ad 
+      <lb ed="#P" n="46"/>Dominum, ac nihilominus illum esse Domini 
+      spiri<lb ed="#P" n="47" break="no"/>tum. Est igitur idem ipse spiritus Dei simul &amp; Deus, 
+      <lb ed="#P" n="48"/>sicut secunda persona filius Dei est, simul &amp; Deus. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e404">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Decimumquartum, Act. 5. dicit Petrus: Anania 
+      <lb ed="#P" n="50"/>cur tentavit Satanas cor tuum mentiri te Spiritui 
+      san<lb ed="#P" n="51" break="no"/>cto? Deinde addit. Non es mentitus hominibus sed 
+      <lb ed="#P" n="52"/>Deo. Igitur Spiritus sanctus est Deus. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e417">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Decimumquintum, 1. Joan. 5. Tres sunt qui 
+      testi<lb ed="#P" n="54" break="no"/>monium dant in caelo, pater, verbum &amp; Spiritus sanctus. 
+      <lb ed="#P" n="55"/>Et hi tres unum sunt. Qui locus omnium patrum 
+      te<lb ed="#P" n="56" break="no"/>stimonio probat tres in divinis personas esse ejusdem 
+      <lb ed="#P" n="57"/>essentiae. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e433">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Decimum sextum, 1. Cor. 6. &amp; alibi tribuitur 
+      Spiri<lb ed="#P" n="59" break="no"/>tui sancto justificatio &amp; sanctificatio nostra, quod 
+      <lb ed="#P" n="60"/>est solius divinae potestatis. 
+    </p>
+            <p xml:id="bt67yj-k17905-d1e444">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Postremum sit argumentum ex scripturis 
+      negati<lb ed="#P" n="62" break="no"/>vum. Cum enim scripturae utriusque testamenti 
+      fre<lb ed="#P" n="63" break="no"/>quentissimam Spiritus sancti mentionem faciant. 
+      <lb ed="#P" n="64"/>nusquam tamen eum creaturam vocant, nusquam 
+      fa<lb ed="#P" n="65" break="no"/>ctum esse dicunt, nusquam appellant Dei ministrum, 
+      <lb ed="#P" n="66"/>sed saepe Dominum vocant perinde ut patrem &amp; 
+      fi<lb ed="#P" n="67" break="no"/>lium. Unde &amp; contra Macedonianos aliosque 
+      haere<lb ed="#P" n="68" break="no"/>ticos qui Spiritum sanctum dixerunt esse ministrum 
+      <lb ed="#P" n="69"/>patris &amp; filii; &amp; proinde utroque minorem, in 
+      sym<lb ed="#P" n="70" break="no"/>polo Constantinop. ex decreto concilii universalis 
+      <lb ed="#P" n="71"/>positum est illud: Et in Spiritum sanctum Dominum. 
+      <lb ed="#P" n="72"/>qui cum patre &amp; filio simul adoratur &amp; glorificatur. 
+      <lb ed="#P" n="73"/>Unde etiam in sacrificio missae &amp; in litaniis sicut 
+      <lb ed="#P" n="74"/>ad patrem, ita ad Spiritum sanctum orantes dicimus 
+      <!--0072.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>
+               <foreign>Κύριε ἐλεῆσον</foreign>, id est, Domine miserere. Nam ad 
+      secun<lb ed="#P" n="76" break="no"/>dam personam ideo dicitur Χείστε ἐλεησον ut duae 
+      natu<lb ed="#P" n="77" break="no"/>rae in illa persona conjunctae, quae Christi nomine 
+      si<lb ed="#P" n="78" break="no"/>gnificantur, ipsa oratione nobis ob oculos positae 
+      co<lb ed="#P" n="79" break="no"/>gitationem ingerant beneficii redemptionis nostrae, 
+      <lb ed="#P" n="80"/>quam operari non potuisset, nisi Deus &amp; homo esset. 
+      <lb ed="#P" n="81"/>His denique Patres accedunt, qui hoc argumentum 
+      <lb ed="#P" n="82"/>divinitatis Spiritus sancti contra haereticos diligenter 
+      <lb ed="#P" n="83"/>tractaverunt, ut Athanasius, Basilius, Gregorius 
+      <lb ed="#P" n="84"/>Nyssenus, Dydimus, Ambrosius, Cyrillus, 
+      Alexan<lb ed="#P" n="85" break="no"/>drinus, Rupertus Tuitiensis libris peculiariter editis 
+      <lb ed="#P" n="86"/>de Spiritu sancto. Rursum Basilius lib. 3. &amp; 5. contra 
+      <lb ed="#P" n="87"/>Eunomium, Gregorius Nazianzenus oratione 5. de 
+      <lb ed="#P" n="88"/>Theologia, Hilarius lib. 12. de Trinitate, Cyrillus 
+      <lb ed="#P" n="89"/>Hierosol. catechesi 16. &amp; 17. Chrysostomus variis 
+      ho<lb ed="#P" n="90" break="no"/>miliis de Spiritu sancto. Epiphanius haeresi 74. &amp; 
+      <lb ed="#P" n="91"/>Augustinus haeresi 52. quae est Macedonianorum. Et 
+      <lb ed="#P" n="92"/>rursum Augustinus lib. 1. de Trinitate c. 6. &amp; lib. 1. 
+      <lb ed="#P" n="93"/>contra Maximinum in fine. Cyrillus Alexandrinus 
+      <lb ed="#P" n="94"/>lib. 7. dialogorum de Trinitate &amp; thesauri lib. 13. &amp; 
+      <lb ed="#P" n="95"/>14. Fulgentius lib. 3. ad Trasimundum regem c. 35. 
+      <lb ed="#P" n="96"/>&amp; ad Donatum c. 8. agit de eadem re etiam ex 
+      pro<lb ed="#P" n="97" break="no"/>fesso S. Thomas libro 4. contra gentes a cap. 16. 
+      <lb ed="#P" n="98"/>usque ad 27. Concilia vero quorum authoritate 
+      do<lb ed="#P" n="99" break="no"/>ctrina haec confirmata est, eadem fere sunt cum illis 
+      <lb ed="#P" n="100"/>quae divinitatem astruunt filii Dei. Quanquam 
+      una<lb ed="#P" n="101" break="no"/>nimis &amp; perpetuus consensus totius Ecclesiae 
+      Catho<lb ed="#P" n="102" break="no"/>licae a Spiritu sancto edoctae, debuit abunde sufficere 
+      <lb ed="#P" n="103"/>ad fidem certissimam huic doctrinae faciendam, 
+      <lb ed="#P" n="104"/>etiamsi nullae conciliorum definitiones accessissent.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

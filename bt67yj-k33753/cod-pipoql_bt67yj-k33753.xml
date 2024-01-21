@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="90"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k33753"><!-- l1d28c4" -->
+            <head xml:id="bt67yj-k33753-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k33753-Hd1e103" type="question-title">An filio et spiritui sancto aliqua competat 
+      negativa notio</head>
+            <p xml:id="bt67yj-k33753-d1e106">
+               <lb ed="#P" n="55"/>§. 4. An filio &amp; spiritui sancto aliqua competat 
+      <lb ed="#P" n="56"/>negativa notio? 
+    </p>
+            <p xml:id="bt67yj-k33753-d1e113">
+               <lb ed="#P" n="57"/>QUaeritur etiam, Utrum sicut innascibilis est 
+      no<lb ed="#P" n="58" break="no"/>tio patris, sic &amp; filii sit aliqua notio negativa, ut 
+      <lb ed="#P" n="59"/>improcessibile, quatenus neget processionem 
+      specia<lb ed="#P" n="60" break="no"/>liter dictam. Item spiritus sancti, ut ingenitum sive 
+      in<lb ed="#P" n="61" break="no"/>nascibile, quatenus precise neget generationem sive 
+      <lb ed="#P" n="62"/>nativitatem, &amp; improductivum ex eo quod nullam 
+      <lb ed="#P" n="63"/>personam producat. 
+    </p>
+            <p xml:id="bt67yj-k33753-d1e131">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Huic quaestioni ex parte satisfactum est supra ad 
+      <lb ed="#P" n="65"/>dist. 26. ubi ostendimus hujusmodi negationes non 
+      <lb ed="#P" n="66"/>esse notionibus personalibus annumerandas. Idque 
+      <lb ed="#P" n="67"/>praecipue hac ratione; quia per eas nulla dignitas 
+      per<lb ed="#P" n="68" break="no"/>sonarum quibus tribuuntur, innotescit, sicut per in¬ 
+      <!--0113.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>nascibilitatem innotescit ea dignitas patris, qua sic 
+      <lb ed="#P" n="70"/>est ut non sit ab alio, id est, principium sine 
+      princi<lb ed="#P" n="71" break="no"/>pio. Solent autem prima principia definiri &amp; 
+      notifi<lb ed="#P" n="72" break="no"/>cari per negationes. Primum enim dicimus, quo 
+      ni<lb ed="#P" n="73" break="no"/>hil est prius, &amp; ita in aliis. Item per hoc quod unus 
+      <lb ed="#P" n="74"/>ponitur innascibilis, significatur unitas in divina 
+      na<lb ed="#P" n="75" break="no"/>tura, quemadmodum annotavit Hilar. in lib. de 
+      sy<lb ed="#P" n="76" break="no"/>nodis. Unde &amp; in symbolo Constant. confitemur nos 
+      <lb ed="#P" n="77"/>credere in unum Deum patrem. Ideóque &amp; unitas 
+      pa<lb ed="#P" n="78" break="no"/>tri appropriatur, ut infra patebit ad dist. 31. Quod si 
+      <lb ed="#P" n="79"/>autem duo innascibiles essent, duo dii ponerentur. 
+      <lb ed="#P" n="80"/>Cum enim origine alterius ex altero distingui non 
+      <lb ed="#P" n="81"/>possent (qua sola ratione personae divinae 
+      distinguun<lb ed="#P" n="82" break="no"/>tur) necesse esset eos differre natura. 
+    </p>
+            <p xml:id="bt67yj-k33753-d1e182">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Praetere a sciendum patri innascibilitatis 
+      proprieta<lb ed="#P" n="84" break="no"/>tem tribui, non tantum ad distinctionem aliarum 
+      per<lb ed="#P" n="85" break="no"/>sonarum, quibus paternitas in divinis non competit, 
+      <lb ed="#P" n="86"/>sed etiam ad distinctionem hominum, qui patres 
+      qui<lb ed="#P" n="87" break="no"/>dem sunt, non tamen ingeniti; geniti enim sunt ex 
+      <lb ed="#P" n="88"/>aliis hominibus, aut certe producti immediate a Deo, 
+      <lb ed="#P" n="89"/>ut primi homines: At vero ut filio &amp; spiritui sancto 
+      <lb ed="#P" n="90"/>similes negativae proprietates tribuantur, nulla 
+      ne<lb ed="#P" n="91" break="no"/>que dignitatis ipsarum personarum, neque 
+      distinctio<lb ed="#P" n="92" break="no"/>nis hujusmodi significandae necessitas exigit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

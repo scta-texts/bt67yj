@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="104"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k38828"><!-- l1d36c4" -->
+            <head xml:id="bt67yj-k38828-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k38828-Hd1e103" type="question-title">Omnia ex ipso, per ipsum et in ipso, quomodo 
+      intelligendum</head>
+            <p xml:id="bt67yj-k38828-d1e106">
+               <lb ed="#P" n="14"/>§. 4. Omnia ex ipso, per ipsum &amp; in ipso, quomodo 
+      <lb ed="#P" n="15"/>intelligendum?
+    </p>
+            <p xml:id="bt67yj-k38828-d1e113">
+               <lb ed="#P" n="16"/>QUod dicit Apostolus Rom. 11. Quoniam ex ipse 
+      <lb ed="#P" n="17"/>&amp; per ipsum &amp; in ipso sunt omnia, non ita 
+      acci<lb ed="#P" n="18" break="no"/>piendum, quasi tribus illis membris idem prorsus 
+      si<lb ed="#P" n="19" break="no"/>gnificatum sit. Quamvis enim omnia tria causae 
+      si<lb ed="#P" n="20" break="no"/>gnificationem contineant, non tamen ejusdem 
+      mo<lb ed="#P" n="21" break="no"/>diac rationis. Primo enim membro causa efficiens 
+      <lb ed="#P" n="22"/>seu producens significatur, secundo causa 
+      exempla<lb ed="#P" n="23" break="no"/>ris, tertio causa conservans &amp; finalis. 
+    </p>
+            <p xml:id="bt67yj-k38828-d1e133">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Jam vero quamvis haec tria ex aequo tribus 
+      perso<lb ed="#P" n="25" break="no"/>nis communia sint, singula tamen singulis, eo quo 
+      <lb ed="#P" n="26"/>ab Apostolo posita sunt ordine appropriantur. Atque 
+      <lb ed="#P" n="27"/>hic postremus est appropriatorum ternio inter eos 
+      <lb ed="#P" n="28"/>quatuor qui ad dist. 31. fuerunt enumerati. Igitur 
+      <lb ed="#P" n="29"/>patri appropriatur quod ex ipso sunt omnia, quia ut 
+      <lb ed="#P" n="30"/>dictum est ad dist. 34. in patre peculiariter spectatur 
+      <lb ed="#P" n="31"/>potentia, cujus proprium opus est efficere res ipsi 
+      <lb ed="#P" n="32"/>subjectas. Unde de patre peculiariter dictum est 1. 
+      <lb ed="#P" n="33"/>Cor. 8. Unus Deus pater ex quo omnia. Filio 
+      ascribi<lb ed="#P" n="34" break="no"/>tur quod per ipsum sint omnia, tum quia filius media 
+      <lb ed="#P" n="35"/>persona est, medii autem habitudinem praepositio, 
+      <lb ed="#P" n="36"/>per, significare solet; tum qui filio, quatenus verbo 
+      <lb ed="#P" n="37"/>aptissime tribuitur quod sit idea atque exemplaris 
+      <lb ed="#P" n="38"/>causa rerum omnium quas pater efficit. Unde de 
+      ver<lb ed="#P" n="39" break="no"/>bo ait Joan. c. 1. Omnia per ipsum facta sunt, &amp; 
+      Pau<lb ed="#P" n="40" break="no"/>lus 1. Cor. S. Unus Dominus jesus Christus, per quem 
+      <lb ed="#P" n="41"/>omnia, tametsi S. Thom. I. q. 39. art. 8. velit hoc quod 
+      <lb ed="#P" n="42"/>Joan. dicit, non appropriatum sed proprium esse 
+      fi<lb ed="#P" n="43" break="no"/>lii, eo quod significetur principium de principio. 
+      <lb ed="#P" n="44"/>Tum denique quia filio sapientia appropriatur per 
+      <lb ed="#P" n="45"/>quam Prov. 8. &amp; alibi omnia a Deo facta esse 
+      dicun<lb ed="#P" n="46" break="no"/>tur. Porro spiritui sancto tribuitur, quod in ipso sint 
+      <lb ed="#P" n="47"/>omnia, cujus una ratio est, quia bonitas ei 
+      appro<lb ed="#P" n="48" break="no"/>priatur. Bonitatis autem est nolle perdere, 
+      sedcon<lb ed="#P" n="49" break="no"/>servare quae per potentiam facta sunt. Alia ratio, quia 
+      <lb ed="#P" n="50"/>in unoquoque vivente spiritus, id est, anima fovet 
+      <lb ed="#P" n="51"/>&amp; conservat vitam. Tertia, spiritus sanctus est velut 
+      <lb ed="#P" n="52"/>finis in trinitate, a quo in aliam personam non fiat 
+      <lb ed="#P" n="53"/>progressus; ideoque recte ei accommodatur, quod 
+      <lb ed="#P" n="54"/>sit causa formalis, in quam res omnes referendae sint. 
+      <lb ed="#P" n="55"/>Colligi potest haec distinctio &amp; appropriatio tribus 
+      <lb ed="#P" n="56"/>jam dictis praepositionibus significata, non tantum 
+      <lb ed="#P" n="57"/>ex Augustini verbis lib. 6. de trin. c. 10. quem locum 
+      <lb ed="#P" n="58"/>adducit Magister: verum etiam ex aliis authoribus, 
+      <lb ed="#P" n="59"/>ut Basilio lib. de spiritu sancto c. 3. &amp; sequentibus, 
+      <lb ed="#P" n="60"/>Greg. Nazianz. oratione 5. de Theologia, Gregorio 
+      <lb ed="#P" n="61"/>Rom. hom. 16. in Ezec. &amp; Ambrosio I. 2. de spiritu 
+      <lb ed="#P" n="62"/>sancto cap. 10. ac rursum ex August. lib. I. de trinit. 
+      <lb ed="#P" n="63"/>cap. 6. Quibus accedit S. Thomas 1. q. 30. a. 8. &amp; in 
+      <lb ed="#P" n="64"/>commentario epist. ad Rom. Quod ergo idem 
+      Am<lb ed="#P" n="65" break="no"/>brosius lib. 3. commemorati operis cap. 12. dixit haec 
+      <lb ed="#P" n="66"/>tria, ex ipso, per ipsum &amp; in ipso, unum esse atque 
+      <lb ed="#P" n="67"/>eandem vim habere, non aliud dicere voluit, quam 
+      <lb ed="#P" n="68"/>tria haec tribus ex aequo personis convenire, nec 
+      ul<lb ed="#P" n="69" break="no"/>lam arguere, inter eas inaequalitatem, uti volebant 
+      <lb ed="#P" n="70"/>Ariani. His demum adde, non similiter esse 
+      dicen<lb ed="#P" n="71" break="no"/>dum, omnia esse de ipso, quomodo omnia ex ipso, 
+      <!--0127.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>quemadmodum annotavit Augustinus lib. de natura 
+      <lb ed="#P" n="73"/>boni c. 27. &amp; ex Augustino Magister in textu, nec 
+      <lb ed="#P" n="74"/>non sanctus Thomas in commentario epistolae ad 
+      <lb ed="#P" n="75"/>Rom. Nam de ipso hoc tantum est, quod est de 
+      <lb ed="#P" n="76"/>ejus substantia, ut filius de substantia patris, &amp; 
+      spi<lb ed="#P" n="77" break="no"/>ritus sanctus de substantia patris &amp; filii. Propter quod 
+      <lb ed="#P" n="78"/>uterque dicitur Deus de Deo. Ex ipso autem 
+      quic<lb ed="#P" n="79" break="no"/>quid Deum authorem habet. Quamquam hoc 
+      discri<lb ed="#P" n="80" break="no"/>men istarum praepositionum non esse perpetuum, vel 
+      <lb ed="#P" n="81"/>ex eo liquet, quod in symbolo confitemur Christum 
+      <lb ed="#P" n="82"/>conceptum de spiritu sancto, natum ex Maria 
+      vir<lb ed="#P" n="83" break="no"/>gine, cum Christus de substantia spiritus sancti 
+      con<lb ed="#P" n="84" break="no"/>ceptus dici nullo modo possit, sed de spiritu sancto 
+      <lb ed="#P" n="85"/>conceptus dicitur tanquam causa efficiente, ut 
+      Au<lb ed="#P" n="86" break="no"/>gustinus docet ench. 58. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

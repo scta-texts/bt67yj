@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="10"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k03657"><!-- l1d3c1" -->
+            <head xml:id="bt67yj-k03657-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k03657-Hd1e103" type="question-title">Deum ex rebus creatis cognosci 
+        posse</head>
+            <p xml:id="bt67yj-k03657-d1e106">
+               <lb ed="#P" n="116"/>IN DISTINCTIONEM TERTIAM. 
+      <lb ed="#P" n="117"/>§. 1. Deum ex rebus creatis cognosci 
+      <lb ed="#P" n="118"/>posse.
+    </p>
+            <p xml:id="bt67yj-k03657-d1e115">
+               <lb ed="#P" n="119"/>EX contemplatione mundi corporei &amp; 
+      par<lb ed="#P" n="120" break="no"/>tium ejus posse hominem pervenire in 
+      co<lb ed="#P" n="121" break="no"/>gnitionem Dei quanta sufficiat ad eum 
+      co<lb ed="#P" n="122" break="no"/>lendum &amp; glorificandum, testis est Apostolus 
+      Pau<lb ed="#P" n="123" break="no"/>lus, Rom. 1. ubi de sapientibus hujus saeculi, sic 
+      lo<lb ed="#P" n="124" break="no"/>quitur: Quod notum est Dei, manifestum est in illis, 
+      <lb ed="#P" n="125"/>Deus enim illis manifestavit. Invisibilia enim ipsius 
+      <lb ed="#P" n="126"/>a creatura mundi, per ea quae facta sunt intellecta 
+      con<lb ed="#P" n="127" break="no"/>spiciuntur. Sempiterna quoque ejus virtus &amp; 
+      divini<lb ed="#P" n="128" break="no"/>tas, ita ut sint inexcusabiles. Quia cum cognovissent 
+      <lb ed="#P" n="129"/>Deum non sicut Deum glorificaverunt, aut gratias 
+      ege<lb ed="#P" n="130" break="no"/>runt. Quo pertinet etiam illud ejusdem Apostoli Act. 
+      <lb ed="#P" n="131"/>14. de Deo: Et quidem, inquit, non sine testimonio 
+      <lb ed="#P" n="132"/>semetipsum reliquit, benefaciens, de caelo dans pluvias 
+      <lb ed="#P" n="133"/>&amp; tempora fructifera, &amp;c. Et cap. 17. Quaerere 
+      <lb ed="#P" n="134"/>Deum, si forte attrectent cum aut inveniant, 
+      videli<lb ed="#P" n="135" break="no"/>cet in rebus creatis, ut ibidem declaratur. Idem 
+      cla<lb ed="#P" n="136" break="no"/>re docet Psal. 18. secundum literam, hoc exordio, 
+      <lb ed="#P" n="137"/>Caeli enarrant gloriam Dei &amp; opera manuum ejus 
+      <lb ed="#P" n="138"/>annunciant firmamentum, &amp;c. Job. 12. Interroga 
+      <lb ed="#P" n="139"/>jumenta, &amp;c. Quis ignorat quod haec omnia manus 
+      <lb ed="#P" n="140"/>Domini fecerit? Et Sapiens cap. 13. graviter ac 
+      di<lb ed="#P" n="141" break="no"/>serte traducens eorum ignorantiam qui ex operibus 
+      <!--0034.xml-->
+      <pb ed="#P" n="11"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>artificem non cognoverunt, ubi quod ait: 
+      Amagni<lb ed="#P" n="2" break="no"/>tudine enim spectei &amp; creaturae cognoscibiliter potent 
+      <lb ed="#P" n="3"/>creator horum videri, hunc habet sensum, ex 
+      magni<lb ed="#P" n="4" break="no"/>tudine &amp; specie, seu pulchritudine rerum 
+      creata<lb ed="#P" n="5" break="no"/>rum poterit analogice, id est, similitudine quadam 
+      <lb ed="#P" n="6"/>rationis, author earum conspici &amp; in notitiam 
+      no<lb ed="#P" n="7" break="no"/>stram venire. Quem sensum exigunt tum Graeci 
+      co<lb ed="#P" n="8" break="no"/>dices, tum allegationes Patrum ut Hilarii lib. I. de 
+      <lb ed="#P" n="9"/>Trin. circa initium, Chrysost. Hom. 4. in Gen. &amp; 
+      <lb ed="#P" n="10"/>Hom. 9. ad populum Antiochenum, &amp; Greg. lib. 
+      <lb ed="#P" n="11"/>26. Moral. cap. 8. Cognoscitur autem ex creaturis 
+      <lb ed="#P" n="12"/>Deus generali ratiocinatione ducta ab effectis ad 
+      <lb ed="#P" n="13"/>causam; quod quidem fieri potest tribus potissimum 
+      <lb ed="#P" n="14"/>modis: vel simpliciter inferendo existentiam Dei 
+      <lb ed="#P" n="15"/>velut hoc pacto, mundus existit eumque constat 
+      <lb ed="#P" n="16"/>non a se factum esse, existit igitur ejus opifex 
+      ali<lb ed="#P" n="17" break="no"/>quis. Huc faciunt rationes illae quibus superiori 
+      di<lb ed="#P" n="18" break="no"/>stinctione docebatur unum esse Deum, &amp; aliae 
+      qui<lb ed="#P" n="19" break="no"/>bus ex S. Thoma proximo capite demonstrabitur 
+      <lb ed="#P" n="20"/>Deum esse: vel ex analogia rerum praestabilium, qua 
+      <lb ed="#P" n="21"/>non tantum Deum esse sed quae sint ejus attributa 
+      <lb ed="#P" n="22"/>cognoscitur; quomodo Sapiens loco commemorato 
+      <lb ed="#P" n="23"/>docet ex magnitudine, pulchritudine, potentia &amp; 
+      <lb ed="#P" n="24"/>sapientia, quae in rebus creatis inveniuntur, quanto 
+      <lb ed="#P" n="25"/>sit ille major, pulchrior, potentior &amp; sapientior, 
+      <lb ed="#P" n="26"/>qui res illas fecit: vel denique ex remotione 
+      imper<lb ed="#P" n="27" break="no"/>fectionis, quo ratiocinandi modo similiter attributa 
+      <lb ed="#P" n="28"/>seu perfectiones divinae nobis innotescunt. Oportet 
+      <lb ed="#P" n="29"/>enim quicquid imperfectionis est in creaturis a 
+      crea<lb ed="#P" n="30" break="no"/>tore removeri, cum certum sit effectricem causam 
+      <lb ed="#P" n="31"/>perfectiorem esse rebus effectis, eam maxime quae 
+      <lb ed="#P" n="32"/>prima &amp; summa causa est. Hunc modum iis locis 
+      <lb ed="#P" n="33"/>scriptura nobis insinuat, quibus excellentiam 
+      divi<lb ed="#P" n="34" break="no"/>nae naturae commendat, non ex eo quod est, sed ex 
+      <lb ed="#P" n="35"/>eo quod non est; unde saepe in scripturis ut Psal. 15. 
+      <lb ed="#P" n="36"/>&amp; 49. Isai. 1. Act. 17. &amp; alibi legitur Deum 
+      nul<lb ed="#P" n="37" break="no"/>lius rei indigere, neque cibo, neque potu, neque 
+      ha<lb ed="#P" n="38" break="no"/>bitaculo, neque sacrificio, neque ullo omnino 
+      crea<lb ed="#P" n="39" break="no"/>turae officio aut ministerio. Pulchre declarat ex hoc 
+      <lb ed="#P" n="40"/>modo perfectionem divinae naturae author 
+      sermo<lb ed="#P" n="41" break="no"/>num de operibus Christi cardinalibus apud 
+      Cypria<lb ed="#P" n="42" break="no"/>num in praefatione. Sunt autem attributa seu 
+      pro<lb ed="#P" n="43" break="no"/>prietates quae 2. &amp; 3. modo ex creaturis Deo 
+      perfe<lb ed="#P" n="44" break="no"/>ctissime inesse probantur hujusmodi, bonitas, 
+      sa<lb ed="#P" n="45" break="no"/>pientia, justitia, potentia, veritas, pulchritudo, 
+      <lb ed="#P" n="46"/>immutabilitas, aeternitas, naturae simplicitas, 
+      agen<lb ed="#P" n="47" break="no"/>dilibertas, &amp; similes, quae quia omnes in rebus 
+      crea<lb ed="#P" n="48" break="no"/>tis reperiuntur, sed cum imperfectione quadam, 
+      <lb ed="#P" n="49"/>necesse est eas in Creatore reperiri, eo modo qui 
+      im<lb ed="#P" n="50" break="no"/>perfectionem omnem excludat. 
+    </p>
+            <p xml:id="bt67yj-k03657-d1e282">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> His porro modis, ex rebus creatis Deum 
+      cognos<lb ed="#P" n="52" break="no"/>ci, praeter scripturas jam allegatas, docent Patres 
+      <lb ed="#P" n="53"/>multis locis, ut Dionysius lib. de Divinis nominibus 
+      <lb ed="#P" n="54"/>cap. 7. Hilarius ubi supra, &amp; super Psalmum 52. &amp; 
+      <lb ed="#P" n="55"/>lib. 12. de Trinitate, non procul a fine. Chrysostom. 
+      <lb ed="#P" n="56"/>Hom. 2. in Joannem &amp; aliis duobus locis ante 
+      ci<lb ed="#P" n="57" break="no"/>tatis. Prudentius in Apotheosi contra Unionitas, 
+      <lb ed="#P" n="58"/>Aug. lib. 7. confess. cap. 17. Et lib. 8. de civitate 
+      <lb ed="#P" n="59"/>cap. 6. Et lib. 11. cap. 2. &amp; 4. Orosius lib. 6. 
+      Hi<lb ed="#P" n="60" break="no"/>storiae cap. 1. Prosper lib. 1. de vocatione gentium 
+      <lb ed="#P" n="61"/>cap. 5. &amp; lib. 2. cap. 4. Fulgentius de fide ad 
+      Pe<lb ed="#P" n="62" break="no"/>trum cap. 3. &amp; Commentarius Amb. ascriptus 
+      su<lb ed="#P" n="63" break="no"/>per Rom. 1. Quod autem haec praedicatio 
+      creatura<lb ed="#P" n="64" break="no"/>rum invitet atque instruat hominem etiam ad 
+      co<lb ed="#P" n="65" break="no"/>lendum, diligendum &amp; glorificandum Deum, post 
+      <lb ed="#P" n="66"/>Apost Rom. 1. testatur Prosper loco citato &amp; lib. 2. 
+      <lb ed="#P" n="67"/>Testatur &amp; Aug. lib. 10. Confess. cap. 6. Cujus ad 
+      <lb ed="#P" n="68"/>Deum loquentis, haec sunt verba: Coelum &amp; terra, 
+      <lb ed="#P" n="69"/>&amp; omnia quae in eis sunt, undique mihi dicunt ut te 
+      <lb ed="#P" n="70"/>amem, nec cessant dicere omnibus ut sint inexcusabiles. 
+    </p>
+            <p xml:id="bt67yj-k03657-d1e331">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Postremo notandum non solum totum 
+      univer<lb ed="#P" n="72" break="no"/>sum &amp; partium ejus ordinem pulcherrimum cum 
+      <lb ed="#P" n="73"/>motibus &amp; operationibus suis perhibere 
+      testimo<lb ed="#P" n="74" break="no"/>nium opifici suo (propter quem ordinem dictum 
+      <!--0034.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>est. Gen. 1. Vidit Deus cuncta quae fecerat &amp; erant 
+    </p>
+            <p xml:id="bt67yj-k03657-d1e351">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> valde bona, quasi diceret singula bona, propter 
+      sin<lb ed="#P" n="77" break="no"/>gulas naturas, cuncta vero valde bona propter 
+      or<lb ed="#P" n="78" break="no"/>dinem aptissimum, &amp; convenientissimum omnium 
+      <lb ed="#P" n="79"/>naturarum in universo) sed &amp; singulas creaturas per 
+      <lb ed="#P" n="80"/>se sumptas &amp; consideratas, adeo ut nulla sit earum 
+      <lb ed="#P" n="81"/>tam exigua tamque contempta, quae non aliquo 
+      <lb ed="#P" n="82"/>modo suum authorem praedicet, &amp; ad primae causae 
+      <lb ed="#P" n="83"/>cognitionem intellectum humanum producere nata 
+      <lb ed="#P" n="84"/>sit. Siquidem in omni quantumvis modica &amp; vili 
+      <lb ed="#P" n="85"/>creatura, bene considerata, saltem hae tres Dei 
+      pro<lb ed="#P" n="86" break="no"/>prietates, bonitas, potentia &amp; sapientia elucent, 
+      <lb ed="#P" n="87"/>ac menti contemplantis sese statim offerunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

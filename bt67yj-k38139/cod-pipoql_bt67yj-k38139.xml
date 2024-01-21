@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="102"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k38139"><!-- l1d35c2" -->
+            <head xml:id="bt67yj-k38139-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k38139-Hd1e103" type="question-title">Utrum praescientia potuerit non esse in Deo</head>
+            <p xml:id="bt67yj-k38139-d1e106">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> §. 2. Utrum praescientia potuerit non esse in Deo. 
+    </p>
+            <p xml:id="bt67yj-k38139-d1e113">
+               <lb ed="#P" n="37"/>DE praescientia, aliisque hujusmodi, quae Deo 
+      <lb ed="#P" n="38"/>tantum respectu creaturarum tribuuntur ab 
+      <lb ed="#P" n="39"/>aeterno, ut sunt providentia, praedestinatio, 
+      repro<lb ed="#P" n="40" break="no"/>batio, quaeri potest, utrum potuerint non esse in 
+      Deo<lb ed="#P" n="41" break="no"/>Si enim nihil unquam creare seu operari ad extra 
+      <lb ed="#P" n="42"/>voluisset Deus, quod quidem sine dubio possibile 
+      <lb ed="#P" n="43"/>fuit, nec praescientia futurorum in Deo fuisset, nec 
+      <lb ed="#P" n="44"/>providentia, nec simile quicquam. Contra vero, cum 
+      <lb ed="#P" n="45"/>praescientia Dei sit idem quod scientia, &amp; essentia 
+      <lb ed="#P" n="46"/>ejus, fieri vero non potuerit, ut in Deo non esset 
+      <lb ed="#P" n="47"/>scientia vel essentia, consequens videtur 
+      praescien<lb ed="#P" n="48" break="no"/>tiam non potuisse non esse in Deo¬ 
+    </p>
+            <p xml:id="bt67yj-k38139-d1e142">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Sed ad quaestionem absoluta responsio est, 
+      prae<lb ed="#P" n="50" break="no"/>scientiam, providentiam, aliaque ejusdem generis 
+      <lb ed="#P" n="51"/>potuisse non esse in Deo, atque omnino talia esse, 
+      <lb ed="#P" n="52"/>quae non necessario Deo competant. Fieri enim 
+      po<lb ed="#P" n="53" break="no"/>terat, si ita voluisset Deus (velle autem absque dubio 
+      <lb ed="#P" n="54"/>potuit) ut nihil esset futurum. Futuro autem ablato, 
+      <lb ed="#P" n="55"/>necessario tollitur praescientia &amp; providentia quae 
+      <lb ed="#P" n="56"/>non sunt nisi futurorum. Caeterum positis rebus 
+      fu<lb ed="#P" n="57" break="no"/>turis adimere Deo illarum praescientiam ac 
+      provi<lb ed="#P" n="58" break="no"/>dentiam, ut vel omnino non sint, vel falli aut frustrari 
+      <lb ed="#P" n="59"/>possint, gravissimi atque impii erroris est. Quem in 
+      <lb ed="#P" n="60"/>Cicerone nota vit Augustinus lib. 5. de civit. Deicap. 
+      <lb ed="#P" n="61"/>9. Ille enim libro 2. de divinatione docuit cum certa 
+      <lb ed="#P" n="62"/>&amp; infallibili futurorum praescientia, non posse 
+      con<lb ed="#P" n="63" break="no"/>sistere libertatem actionum humanarum. Atque ita 
+      <lb ed="#P" n="64"/>dum homines voluit facere liberos, inquit 
+      Augusti<lb ed="#P" n="65" break="no"/>nus, fecit sacrilegos, id est, sine Deo. Nam, ut 
+      ibi<lb ed="#P" n="66" break="no"/>dem Augustinus ait, confiteri esse Deum, &amp; negare 
+      <lb ed="#P" n="67"/>praescium futurorum, apertissima insania est. 
+    </p>
+            <p xml:id="bt67yj-k38139-d1e189">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Ad id vero quod contra objiciebatur, 
+      respon<lb ed="#P" n="69" break="no"/>dendum est in plena ratione ejus quod vocabulo 
+      prae<lb ed="#P" n="70" break="no"/>scientiae significatur (idemque judicium de 
+      provi<lb ed="#P" n="71" break="no"/>dentia &amp; similibus) duo contineri, nempe scientiam, 
+      <!--0125.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>quae est ipsa Dei essentia, sicut justitia, bonitas, &amp;c. 
+      <lb ed="#P" n="73"/>&amp; relationem ad res futuras. Quae quidem in Deo 
+      <lb ed="#P" n="74"/>tantum est ens quoddam rationis. Cum ergo 
+      subla<lb ed="#P" n="75" break="no"/>tis rebus futuris respectus iste scientiae Dei ad 
+      eas<lb ed="#P" n="76" break="no"/>dem res tollatur, consequens est praescientiam tolli, 
+      <lb ed="#P" n="77"/>in cujus plena ratione respectus ille continetur. 
+      Ne<lb ed="#P" n="78" break="no"/>que ob id tollitur absolute scientia vel essentia 
+      divi<lb ed="#P" n="79" break="no"/>na, sed tantum quatenus nomine praescientiae 
+      expri<lb ed="#P" n="80" break="no"/>mitur. Unde &amp; rebus quae futurae erant, jam 
+      praesen<lb ed="#P" n="81" break="no"/>tibus vel praeteritis, extinguitur earum praescientia, 
+      <lb ed="#P" n="82"/>quia perit illa relatio scientiae ad futurum jam 
+      con<lb ed="#P" n="83" break="no"/>versum in praesens vel praeteritum. De qua re plura 
+      <lb ed="#P" n="84"/>dicemus <ref xml:id="bt67yj-k38139-Rd1e234">ad distinctionem 39.</ref>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

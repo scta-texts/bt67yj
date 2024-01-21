@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="109"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k41065"><!-- l1d38c4" -->
+            <head xml:id="bt67yj-k41065-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k41065-Hd1e103" type="question-title">Soli Deo competere futurorum omnium 
+      praescientiam</head>
+            <p xml:id="bt67yj-k41065-d1e106">
+               <lb ed="#P" n="114"/>§. 4. Soli Deo competere futurorum omnium 
+      <lb ed="#P" n="115"/>praescientiam.
+    </p>
+            <p xml:id="bt67yj-k41065-d1e113">
+               <lb ed="#P" n="116"/>EX his quae modo dicta sunt illud etiam 
+      conse<lb ed="#P" n="117" break="no"/>Equitur, soli Deo competere omnium futurorum 
+      <lb ed="#P" n="118"/>praescientiam. Solus enim Deus certo &amp; infallibiliter, 
+      <lb ed="#P" n="119"/>cognoscit omnia quae sunt in sua vel creaturae 
+      poten<lb ed="#P" n="120" break="no"/>tia. Solus item cognoscit futura contingentia, non 
+      <lb ed="#P" n="121"/>solum ut sunt in suis causis, sed etiam ut sunt in 
+      seip<lb ed="#P" n="122" break="no"/>sis, quia soli Deo competit aeternitas omnia 
+      comple<lb ed="#P" n="123" break="no"/>ctens, in qua proinde uno intuitu videt omnia 
+      tan<lb ed="#P" n="124" break="no"/>quam praesentia, quaecunque in quacunque parte 
+      <lb ed="#P" n="125"/>temporis aguntur. 
+    </p>
+            <p xml:id="bt67yj-k41065-d1e137">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Ita docet Sanct. Thomas 1. quaest. 57. articulo 3. 
+      <lb ed="#P" n="127"/>ubi quaerit utrum angeli cognoscant futura, &amp; 86. 
+      <lb ed="#P" n="128"/>art. 4. ubi quaerit an intellectus noster cognoscat 
+      fu<lb ed="#P" n="129" break="no"/>tura, &amp; compendii Theol. parte 1. cap. 134 
+    </p>
+            <p xml:id="bt67yj-k41065-d1e151">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Denique ut &amp; Scoti rationem quae potior est, 
+      sub<lb ed="#P" n="131" break="no"/>jungam, solus Deus novit omnia quae sunt in 
+      volun<lb ed="#P" n="132" break="no"/>tate sua divina, id est, quaecunque ipse ex aeternitate 
+      <lb ed="#P" n="133"/>decrevit in tempore operari. Solus etiam novit quos 
+      <lb ed="#P" n="134"/>voluntatum creatarum defectus sit permissurus. His 
+      <lb ed="#P" n="135"/>adde testimonia scripturae, quae futurorum 
+      praeno<lb ed="#P" n="136" break="no"/>tionem passim soli Deo vendicant, ut Isa. 8. Nunquid 
+      <lb ed="#P" n="137"/>non populus a Deo suo requiret visionem? &amp; 41. 
+      An<lb ed="#P" n="138" break="no"/>nunciate quae ventura sunt in futurum, &amp; sciemus quia 
+      <lb ed="#P" n="139"/>dii estis vos, &amp; 45. Haec dicit Dominus Deus: Quae 
+      <lb ed="#P" n="140"/>ventura sunt interrogate me. 
+    </p>
+            <p xml:id="bt67yj-k41065-d1e180">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Quod ipsum ostendunt scripturae quae testantur 
+      an<lb ed="#P" n="142" break="no"/>gelis &amp; hominibus multa futura esse incognita. 
+      An<lb ed="#P" n="143" break="no"/>geli enim de multis quae prius nesciebant, 
+      illumina<lb ed="#P" n="144" break="no"/>tionem accipiunt a Deo, Multa discunt per expe¬ 
+      <!--0133.xml-->
+      <pb ed="#P" n="110"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rientiam, Multa per locutiones discunt ab invicem: 
+      <lb ed="#P" n="2"/>Daniclis 8. &amp; 10. &amp; Zach. 2. Nulli angeli noverunt 
+      <lb ed="#P" n="3"/>diem &amp; horam extremi judicii Matth. 24. &amp; Marci 
+      <lb ed="#P" n="4"/>13. Quin &amp; mysterium redemptionis nostrae &amp; 
+      voca<lb ed="#P" n="5" break="no"/>tionis gentium non statim omnes perfecte &amp; 
+      secun<lb ed="#P" n="6" break="no"/>dum omnes circumstantias noverunt, dicente 
+      Apo<lb ed="#P" n="7" break="no"/>stolo Ephes. 3. ut innotescat principatibus &amp; 
+      potestati<lb ed="#P" n="8" break="no"/>bus in caelestibus, &amp;c. De qua re plura ad 
+      distinctio<lb ed="#P" n="9" break="no"/>nem 11. libri 2. 
+    </p>
+            <p xml:id="bt67yj-k41065-d1e219">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Denique id probat Daemonum multiplex 
+      igno<lb ed="#P" n="11" break="no"/>rantia, praesertim ea sine qua non est peccatum.
+    </p>
+            <p xml:id="bt67yj-k41065-d1e228">
+               <lb ed="#P" n="12"/>De hominibus autem superfluum est aliquid 
+      dice<lb ed="#P" n="13" break="no"/>cere, cum res per se clara sit, cumque dicat 
+      Ecclesia<lb ed="#P" n="14" break="no"/>stes S. multam esse hominis afflictionem, quia ignorat 
+      <lb ed="#P" n="15"/>praeterita, &amp; futura nullo scire potest nuntio: &amp; 
+      Sap<lb ed="#P" n="16" break="no"/>9. Quis hominum poterit scire consilium Dei, aut quis 
+      <lb ed="#P" n="17"/>poterit cogitare quid velit Deus? Cogitationes enim 
+      <lb ed="#P" n="18"/>mortalium timidae &amp; incertae providentiae nostrae. 
+    </p>
+            <p xml:id="bt67yj-k41065-d1e246">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Patet igitur divinitatis esse propriam futurorum 
+      <lb ed="#P" n="20"/>eam quam diximus cognitionem. Hoc enim etiam 
+      <lb ed="#P" n="21"/>ethnicis atque idololatris persuasum fuit, qui de 
+      du<lb ed="#P" n="22" break="no"/>biis eventis non nisi eos consulere soliti fuerunt, quos 
+      <lb ed="#P" n="23"/>vel ut Deos venerabantur, vel numine aliquo 
+      affla<lb ed="#P" n="24" break="no"/>tos loqui putabant. Unde &amp; eum qui futura 
+      praedi<lb ed="#P" n="25" break="no"/>ceret, divinare dicebant, quasi rem facere divinam, 
+      <lb ed="#P" n="26"/>id est, eam quae Deo sit propria. Quamobrem 
+      meri<lb ed="#P" n="27" break="no"/>to Ciceronis sententiam, qua Deo praescientiam 
+      a<lb ed="#P" n="28" break="no"/>ctionum humanarum adimebat, ut impiam notavit 
+      <lb ed="#P" n="29"/>August. lib. 5. de civitate Dei cap. 9. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

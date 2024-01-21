@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="84"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k31207"><!-- l1d26c3" -->
+            <head xml:id="bt67yj-k31207-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k31207-Hd1e103" type="question-title">Quae secundum substantiam de Deo dicantur, et 
+      quibus relationibus personae distinguantur</head>
+            <p xml:id="bt67yj-k31207-d1e106">
+      <!--0107.xml-->
+               <pb ed="#P" n="84"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 3. Quae secundum substantiam de Deo dicantur, &amp; 
+      <lb ed="#P" n="2"/>quibus relationibus personae distinguantur.
+    </p>
+            <p xml:id="bt67yj-k31207-d1e119">
+               <lb ed="#P" n="3"/>EX eo quod patres docent pleraque nomina de 
+      <lb ed="#P" n="4"/>Deo secundum substantiam dici, non est 
+      putan<lb ed="#P" n="5" break="no"/>dum alia quaedam esse, quae de Deo dicantur 
+      secun<lb ed="#P" n="6" break="no"/>dum accidens, cum certissima fide tenendum sit 
+      nul<lb ed="#P" n="7" break="no"/>lum esse accidens in Deo, adeoque quicquid in Deo 
+      <lb ed="#P" n="8"/>est, substantiam ejus esse. Sed ea secundum 
+      substan<lb ed="#P" n="9" break="no"/>tiam de Deo praedicari dicuntur, quae id significant 
+      <lb ed="#P" n="10"/>quod tribus personis commune est, quodque 
+      absolu<lb ed="#P" n="11" break="no"/>te de iisdem praedicatur. Siquidem essentia cujusque 
+      <lb ed="#P" n="12"/>rei absoluta est. Unde August. I. 5. de trinit. c. 4. &amp; 
+      <lb ed="#P" n="13"/>5. docet ea quae secundum substantiam deDeo 
+      dicun<lb ed="#P" n="14" break="no"/>tur, non iis opponi, quae de Deo dicuntur secundum 
+      <lb ed="#P" n="15"/>accidens, cum nihil tale sit, sed iis quae dicuntur ad 
+      <lb ed="#P" n="16"/>aliquid. Haec enim cum significent oppositas 
+      relatio<lb ed="#P" n="17" break="no"/>nes in divinis, ex consequenti personas inter se 
+      di<lb ed="#P" n="18" break="no"/>stinguunt. Omnis enim distinctio in divinis, ut alibi 
+      <lb ed="#P" n="19"/>ostensum est, non a substantia quae communis est, 
+      pe<lb ed="#P" n="20" break="no"/>ti debet, sed a relationibus oppositis. Hoc autem 
+      in<lb ed="#P" n="21" break="no"/>tellige de iis relationibus, quae in ipsa Trinitate 
+      com<lb ed="#P" n="22" break="no"/>plentur, &amp; non terminantur ad extra, quaeque reales 
+      <lb ed="#P" n="23"/>sunt &amp; non rationis tantum. Quae enim ad extra 
+      ter<lb ed="#P" n="24" break="no"/>minantur, tribus personis communes sunt, &amp; earum 
+      <lb ed="#P" n="25"/>oppositae relationes in subjectis sunt creaturis. 
+      Cujus<lb ed="#P" n="26" break="no"/>modi sunt relationes his vocibus significatae, creator, 
+      <lb ed="#P" n="27"/>creatura, Dominus, servus. Quaecunque autem 
+      hu<lb ed="#P" n="28" break="no"/>jusmodi sunt relationes, scilicet ipsius Dei ad 
+      crea<lb ed="#P" n="29" break="no"/>turas, non sunt realiter in Deo, tametsi relationes 
+      il<lb ed="#P" n="30" break="no"/>lis oppositae sint realiter in creaturis, quemadmodum 
+      <lb ed="#P" n="31"/>docet S. Tho. 1. q. 13. art. 7. &amp; q. 28. art. 4. 
+      Non<lb ed="#P" n="32" break="no"/>nullae vero relationes in ipsa quidem trinitate 
+      com<lb ed="#P" n="33" break="no"/>plentur ac terminantur, ut quae significantur his 
+      vo<lb ed="#P" n="34" break="no"/>cibus, intelligens &amp; intellectum, volens &amp; volitum, 
+      <lb ed="#P" n="35"/>amans &amp; amatum; Item aequalitas &amp; similitudo, &amp;c. 
+      <lb ed="#P" n="36"/>Per has tamen non sumitur personarum distinctio, 
+      <lb ed="#P" n="37"/>quia simpliciter non sunt relationes reales, sed 
+      ratio<lb ed="#P" n="38" break="no"/>nis tantum, sicut relatio ejusdem ad idem. Docet hoc 
+      <lb ed="#P" n="39"/>S. Thom. eadem quaest. 28. art. 4. ad 1. &amp; 4. &amp; q 
+      <lb ed="#P" n="40"/>42. art. 1. ad 4. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

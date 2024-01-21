@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="39"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k14436"><!-- l1d9c3" -->
+            <head xml:id="bt67yj-k14436-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k14436-Hd1e103" type="question-title">Solvuntur objectiones quadam adversus praedicta</head>
+            <p xml:id="bt67yj-k14436-d1e106">
+      <!--0062.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>§. 3. Solvuntur objectiones quadam adversus praedicta. 
+    </p>
+            <p xml:id="bt67yj-k14436-d1e115">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Rgumenta quibus olim aeternitatem filii Dei 
+      <lb ed="#P" n="75"/>Aoppugnarunt Ariani, haec fere sunt, &amp; ad 
+      hunc<lb ed="#P" n="76" break="no"/>modum solvenda. 
+    </p>
+            <p xml:id="bt67yj-k14436-d1e126">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Primum: generatio est progressus a non esse ad 
+      es<lb ed="#P" n="78" break="no"/>se; genitus autem est filius; ergo a non esse ad esse 
+      pro<lb ed="#P" n="79" break="no"/>cessit; ac proinde non semper fuit. Hoc argumentum 
+      <lb ed="#P" n="80"/>Ariani sic proponebant: filius Dei natus est, fuit 
+      er<lb ed="#P" n="81" break="no"/>go tempus quando non erat. Nam quomodo natus, 
+      <lb ed="#P" n="82"/>si semper fuit? Ita recitat August. fragmento 26. ubi 
+      <lb ed="#P" n="83"/>cum dicit se exponere non posse quomodo, sed pro 
+      <lb ed="#P" n="84"/>se prophetam opponere dicentem: Generationem ejus 
+      <lb ed="#P" n="85"/>quis enarrabit? non negat solvi posse hoc 
+      argumen<lb ed="#P" n="86" break="no"/>tum; sed tantum vult modum illius aeternae 
+      genera<lb ed="#P" n="87" break="no"/>tionis a nobis explicari non posse, quod &amp; supra 
+      <lb ed="#P" n="88"/>ostendimus ad dist. 7. Igitur Arianis respondendum 
+      <lb ed="#P" n="89"/>est, ad propriam generationis rationem non requiri, 
+      <lb ed="#P" n="90"/>ut quod gignitur procedat a non esse ad esse, 
+      quam<lb ed="#P" n="91" break="no"/>vis ita seres habeat in omnibus creatis: Imo nec ad 
+      <lb ed="#P" n="92"/>alios producendi modos, id necessario &amp; per se 
+      re<lb ed="#P" n="93" break="no"/>quiri; quemadmodum facile est ostendere ex 
+      simili<lb ed="#P" n="94" break="no"/>bus paulo ante positis. Splendor enim a sole 
+      proce<lb ed="#P" n="95" break="no"/>dit, &amp; verbum a mente, quorum tamen utrumque 
+      <lb ed="#P" n="96"/>aeternum esset, si sol &amp; mens ab aeterno fuissent. Sunt 
+      <lb ed="#P" n="97"/>enim coaeva suis producentibus. Non ergo productio 
+      <lb ed="#P" n="98"/>talis fuisset ex non ente. Sufficit igitur ad rationem 
+      <lb ed="#P" n="99"/>generationis, necnon productionis in genere, ut id 
+      <lb ed="#P" n="100"/>quod gigni aut produci dicitur, accipiat esse, etiam si 
+      <lb ed="#P" n="101"/>non praecesserit non esse; quamvis in creaturis 
+      omni<lb ed="#P" n="102" break="no"/>bus ob conditionem rerum necesse sit, ut non esse 
+      <lb ed="#P" n="103"/>praecesserit, eo quod nulla creatura sit aeterna. Nec 
+      <lb ed="#P" n="104"/>obstat quod terminus a quo generationis sit non esse; 
+      <lb ed="#P" n="105"/>tum quia terminus a quo generationis non 
+      ingredi<lb ed="#P" n="106" break="no"/>tur rationem motus; tum vero quia generatio filii 
+      <lb ed="#P" n="107"/>Dei non est motus, sed aeterna ac perfecta sine 
+      suc<lb ed="#P" n="108" break="no"/>cessione productio, in qua nec sit assignare terminum 
+      <lb ed="#P" n="109"/>a quo, nec mobile. Quin nec radiorum a sole 
+      produ<lb ed="#P" n="110" break="no"/>ctio, nec verbi a mente processio proprie motus est, 
+      <lb ed="#P" n="111"/>quia non est actus ejus quod est potentia, sed quod 
+      <lb ed="#P" n="112"/>est actu; quamvis ejusmodi processionum inchoetu, 
+      <lb ed="#P" n="113"/>absque mutatione subjecti instantanea a quodam 
+      <lb ed="#P" n="114"/>non ente ad ens. At si processio talis esset aeterna, jam 
+      <lb ed="#P" n="115"/>nulla esset, nec fuisset unquam mutatio, sed processio 
+      <lb ed="#P" n="116"/>tantum, quae tamen adhuc in eo differret a 
+      processio<lb ed="#P" n="117" break="no"/>ne divina, quod illa processio saltem aptitudine esset 
+      <lb ed="#P" n="118"/>a non ente ad ens, ratione subjecti in quo apta esset 
+      <lb ed="#P" n="119"/>privationi forma succedere, quod non ita est in 
+      pro<lb ed="#P" n="120" break="no"/>cessione divina, quae ut non est apta subjectum 
+      habe<lb ed="#P" n="121" break="no"/>re, ita nec terminum a quo 
+    </p>
+            <p xml:id="bt67yj-k14436-d1e229">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> In responsione jam data continetur reliquorum 
+      <lb ed="#P" n="123"/>fere argumentorum solutio. Objiciunt enim secundo 
+      <lb ed="#P" n="124"/>loco: Quod gignitur fit; quod sit, nondum est; ergo 
+      <lb ed="#P" n="125"/>filius tunc quando gignebatur, nondum erat. 
+      Res<lb ed="#P" n="126" break="no"/>pondendum in primis, quod gignitur quatenus 
+      gi<lb ed="#P" n="127" break="no"/>gnitur non fieri, quamvis in rebus creatis, omne 
+      <lb ed="#P" n="128"/>quod gignitur, etiam fiat, quia omnis creatura est 
+      fa<lb ed="#P" n="129" break="no"/>ctura Dei. At filius Dei nec creatus, nec factus est, 
+      <lb ed="#P" n="130"/>sed genitus: Omnia enim peripsum facta sunt, Joan. 1. 
+      <lb ed="#P" n="131"/>Quare cum ipse per seipsum fieri non potuerit, 
+      ma<lb ed="#P" n="132" break="no"/>nifestum est eum in generalitate rerum factarum, 
+      <lb ed="#P" n="133"/>non posse comprehendi; quemadmodum recte 
+      ratio<lb ed="#P" n="134" break="no"/>cinatur Aug. tract. 1. super Joannem. Sed neque 
+      as<lb ed="#P" n="135" break="no"/>sumptio universaliter vera est: quod fit nondum 
+      es<lb ed="#P" n="136" break="no"/>se. Nam ea quae ortum habent instantaneum, dum 
+      <lb ed="#P" n="137"/>fiunt, existunt, quorum productioni hac in parte non 
+      <lb ed="#P" n="138"/>inepte comparatur aeterna generatio filii Dei; 
+      praeser<lb ed="#P" n="139" break="no"/>tim cum aeternitas sit perpetuum quoddam instans. 
+    </p>
+            <p xml:id="bt67yj-k14436-d1e273">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Tertium, genitus est filius Dei; ergo principium 
+      <lb ed="#P" n="141"/>habet: Si principium habet; ergo non semperfuit, quia 
+      <lb ed="#P" n="142"/>ejus quod semper est, nullum est principium. 
+      Re<lb ed="#P" n="143" break="no"/>spondet Cyrill. in thes. l. 1. c. 6. filium Deiqua ratione 
+      <lb ed="#P" n="144"/>genitus est, habere principium originis non 
+      duratio<lb ed="#P" n="145" break="no"/>nis, id est habere principiti a quo, ut gignente accipiat 
+      <!--0063.xml-->
+      <pb ed="#P" n="40"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>esse, quod principium est pater, non habere 
+      princi<lb ed="#P" n="2" break="no"/>pium in quo ut tempore incipiat esse, cum ab 
+      aeter<lb ed="#P" n="3" break="no"/>no patre aeternus sit filius 
+    </p>
+            <p xml:id="bt67yj-k14436-d1e304">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Quartum: quod corrumpitur definit esse; ergo 
+      <lb ed="#P" n="5"/>quod gignitur incipit esse. Neganda consecutio, quia 
+      <lb ed="#P" n="6"/>generari ex sua ratione non aliud est quam accipere 
+      <lb ed="#P" n="7"/>esse, etiamsi non esse non praecesserit, ut jam ostensum 
+      <lb ed="#P" n="8"/>est. Corrumpi autem non est accipere non esse: cum 
+      <lb ed="#P" n="9"/>non entis proprie nulla sit causa (nam causa dicitur 
+      <lb ed="#P" n="10"/>quae dat esse rei) sed est amittere esse. Hoc enim per 
+      <lb ed="#P" n="11"/>se agit causa corrumpens, in quantum corrumpens 
+      <lb ed="#P" n="12"/>est, ut id quod est destruat; Ideoque si proprie 
+      loqua<lb ed="#P" n="13" break="no"/>mur, sicut quod corrumpitur, amittit esse: ita quod 
+      <lb ed="#P" n="14"/>gignitur accipit esse, id quod etiam in filio Dei 
+      ve<lb ed="#P" n="15" break="no"/>rum est. 
+    </p>
+            <p xml:id="bt67yj-k14436-d1e335">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> At dices: Quicquid amittit esse, transit de esse ad 
+      <lb ed="#P" n="17"/>non esse; ergo quicquid accipit esse, transit a non esse 
+      <lb ed="#P" n="18"/>ad esse. Respondeo non sequi, quia amissio non fit 
+      si<lb ed="#P" n="19" break="no"/>ne mutatione, quae quidem est inter oppositos 
+      ter<lb ed="#P" n="20" break="no"/>minos, acceptio vero non necessario includit 
+      muta<lb ed="#P" n="21" break="no"/>tionem, ut supra satis declaratum est, &amp; ita terminum 
+      <lb ed="#P" n="22"/>a quo praesupponit. Potest enim semper accipi quod 
+      <lb ed="#P" n="23"/>semper habetur. Non potest autem quisquam 
+      amit<lb ed="#P" n="24" break="no"/>tere, quod neque habet, neque habuerit unquam. 
+    </p>
+            <p xml:id="bt67yj-k14436-d1e359">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Quintum: ait pater ad filium: Ego hodie genui te 
+      <lb ed="#P" n="26"/>psalmo 2. ergo in tempore genitus est filius. Id enim 
+      <lb ed="#P" n="27"/>significat in scripturis vocabulum, hodie, velut ibi, 
+      <lb ed="#P" n="28"/>Hodie si vocem ejus audieritis, &amp;c. Respondetur nos 
+      <lb ed="#P" n="29"/>de Deo loquentes uti vocabulis apud nos usitatis. 
+      <lb ed="#P" n="30"/>quae tamen in divinis usurpata longe aliud 
+      signifi<lb ed="#P" n="31" break="no"/>cant. Unde sicut tempus aliter in divinis, aliter in 
+      hu<lb ed="#P" n="32" break="no"/>manis rebus intelligendum est; ita ipsum hodie. 
+      Siqui<lb ed="#P" n="33" break="no"/>dem in divinis tempus aeternitatem significat, &amp; 
+      ho<lb ed="#P" n="34" break="no"/>die diem aeternitatis, in qua nihil praeteritum, nihil 
+      <lb ed="#P" n="35"/>futurum, nihil denique mutabile est. In humanis 
+      au<lb ed="#P" n="36" break="no"/>tem tempus significat mensuram durationis rerum 
+      <lb ed="#P" n="37"/>omnium mutabilium. Et hodie, diem, id est, tempus 
+      <lb ed="#P" n="38"/>vitae praesentis, juxta illud Heb. 13. Quandiu hodie 
+      no<lb ed="#P" n="39" break="no"/>minatur in vobis. Et 2. Cor. 6. Ecce nunc tempus 
+      acce<lb ed="#P" n="40" break="no"/>ptabile, ecce nunc dies salutis. Proinde vox illa patris 
+      <lb ed="#P" n="41"/>ad filium: Ego hodie genui te, cum ad divina 
+      perti<lb ed="#P" n="42" break="no"/>neat, ideoque diem aeternitatis significet, in quo non 
+      <lb ed="#P" n="43"/>est accipere prius aut posterius, magis confirmat 
+      <lb ed="#P" n="44"/>quam destruit aeternitatem filii Dei¬ 
+    </p>
+            <p xml:id="bt67yj-k14436-d1e407">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Porro alias praeterea, superioribus tamen similes 
+      <lb ed="#P" n="46"/>Arianorum objectiones cum solutionibus, reperiet 
+      <lb ed="#P" n="47"/>studiosus apud Hilarium lib. 12. de trin. Nec 
+      dissimi<lb ed="#P" n="48" break="no"/>les apud S. Thom. 1. q. 42. art. 2. &amp; in disputatis de 
+      <lb ed="#P" n="49"/>potentia quaestione tertia art. 13. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

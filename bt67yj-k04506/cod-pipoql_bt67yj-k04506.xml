@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="13"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k04506"><!-- l1d3c4" -->
+            <head xml:id="bt67yj-k04506-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k04506-Hd1e103" type="question-title">Utrum Dei notitia omnibus 
+        insit</head>
+            <p xml:id="bt67yj-k04506-d1e106">
+               <lb ed="#P" n="3"/>§. 4. Utrum Dei notitia omnibus 
+      <lb ed="#P" n="4"/>insit?
+    </p>
+            <p xml:id="bt67yj-k04506-d1e113">
+               <lb ed="#P" n="5"/>CUm sit ostensum Deum ex rebus sensibilibus 
+      <lb ed="#P" n="6"/>posse etiam demonstrative cognosci, merito 
+      <lb ed="#P" n="7"/>quaerendum occurrit. An Dei notitia omnibus insit 
+      <lb ed="#P" n="8"/>hominibus, quod tamen intellige de adultis &amp; 
+      ra<lb ed="#P" n="9" break="no"/>tionis usum habentibus. Nam sine rationis usu 
+      con<lb ed="#P" n="10" break="no"/>stat notitiam intellectivam, ex sensibilibus accipi 
+      <lb ed="#P" n="11"/>non posse. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e131">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Partem quidem affirmantem multa sunt quae 
+      sua<lb ed="#P" n="13" break="no"/>deant, primum, quia per se notum est Deum esse, 
+      <lb ed="#P" n="14"/>quemadmodum recte probat Sanctus Thomas 1 
+      <lb ed="#P" n="15"/>quaestione 2. articulo primo, ex eo quia Deus est 
+      <lb ed="#P" n="16"/>suum esse; At ea quae per se nota sunt, statim 
+      cogni<lb ed="#P" n="17" break="no"/>tis terminis ab omnibus cognoscuntur, ut quod 
+      <lb ed="#P" n="18"/>omne totum majus est sua parte 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e152">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Secundo, quia dicit Aug. tract. 106. in Joan. 
+      <lb ed="#P" n="20"/>nomen Dei in quantum est Deus, universae 
+      creatu<lb ed="#P" n="21" break="no"/>rae, etiam omnibus gentibus antequam in Christum 
+      <lb ed="#P" n="22"/>crederent, non omni modo ignotum esse potuisse: 
+      <lb ed="#P" n="23"/>Haec est enim, inquit, vrs verae divinitatis, ut creaturae 
+      <lb ed="#P" n="24"/>rationali jam ratione utenti, non omnino ac penitus 
+      pos<lb ed="#P" n="25" break="no"/>sit abscondi, &amp;c. &amp; super Psal. 74. Deus ubique 
+      se<lb ed="#P" n="26" break="no"/>cretus est, ubique publicus, quem nulli licet ut est 
+      co<lb ed="#P" n="27" break="no"/>gnoscere, &amp; quem nemo permittitur ignorare. Quo 
+      <lb ed="#P" n="28"/>pertinere videtur etiam illud ejusdem Aug. conc. 
+      <lb ed="#P" n="29"/>8. super Ps. 118. Mandata Dei, ut illud de dilectione 
+      <lb ed="#P" n="30"/>Dei ex toto corde non tantum fidelibus sed &amp; 
+      pluri<lb ed="#P" n="31" break="no"/>mis infidelibus notum esse. Unde consequens est, 
+      <lb ed="#P" n="32"/>quod &amp; ibidem Augustinus significat, Deum iisdem 
+      <lb ed="#P" n="33"/>infidelibus aliqualiter esse notum. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e189">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Tertio, Hieronym. in Commentario epistolae ad 
+      <lb ed="#P" n="35"/>Galat. primo, proferens illud Evangelistae. Erat lux 
+      <lb ed="#P" n="36"/>vera quae illuminat omnem hominem, &amp;c. Ex quo, 
+      in<lb ed="#P" n="37" break="no"/>quit, perspicuum sit natura omnibus Der inesse 
+      noti<lb ed="#P" n="38" break="no"/>tiam, nec quemquam sine Christo nasci, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e205">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Quarto, Hilarius super Ps. 52. Quis enim 
+      mun<lb ed="#P" n="40" break="no"/>dum continens Deus esse non sentiat. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e214">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Quinto, <name xml:id="bt67yj-k04506-Nd1e220">Prudentius</name> in apotheosi contra 
+      Unioni<lb ed="#P" n="42" break="no"/>tas, sit canit: 
+      <lb ed="#P" n="43"/>
+               <quote xml:id="bt67yj-k04506-Qd1e227">Et quis in idolio recubans inter sacra mille: 
+      <lb ed="#P" n="44"/>Non putat esse Deum summum &amp; super omnia 
+      <lb ed="#P" n="45"/>solum? 
+      <lb ed="#P" n="46"/>Quamvis Saturnis, Junonibus &amp; Cythiraeis, 
+      <lb ed="#P" n="47"/>Portentisque aliis fumantes consecret aras: 
+      <lb ed="#P" n="48"/>Attamen in caelum quoties suspexit, in uno 
+      <lb ed="#P" n="49"/>Constituit jus omne Deo, cui serviat ingens 
+      <lb ed="#P" n="50"/>Virtutum ratio variis instructa ministris.</quote>
+            </p>
+            <p xml:id="bt67yj-k04506-d1e246">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/>Et alia multa quae sequuntur in eandem 
+      senten<lb ed="#P" n="52" break="no"/>tiam. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e255">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Sexto, Author operis imperfecti Chrysostomo 
+      <lb ed="#P" n="54"/>ascripti in Mat. homil. 42. cognoscere unum Deum 
+      <lb ed="#P" n="55"/>pene proprium est humanae naturae, diligere autem 
+      <lb ed="#P" n="56"/>Deum religiosi cordis &amp; recti. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e269">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Septimo, Orosius lib. 6. hist. cap. 1. Deum 
+      qui<lb ed="#P" n="58" break="no"/>libet hominum ad tempus contemnere potest, nescire 
+      <lb ed="#P" n="59"/>in totum non potest. Ac deinceps docet non modo 
+      <lb ed="#P" n="60"/>philosophos sed &amp; alios paganos unum Deum 
+      a<lb ed="#P" n="61" break="no"/>gnoscere, cui caeteros Deos tanquam ministros 
+      <lb ed="#P" n="62"/>subjiciant; quia, inquit, de uno Deo omnium pene 
+      <lb ed="#P" n="63"/>una opinio est. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e289">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Octavo, Joan. Damas. lib. I. de Orthod. fide c. 1. 
+      <lb ed="#P" n="65"/>Cunctis, inquit, cognitio quod Deus sit ab ipso 
+      natu<lb ed="#P" n="66" break="no"/>raliter insita est atque ingenita. Quod &amp; repetit cap. 3. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e300">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Nono, <name xml:id="bt67yj-k04506-Nd1e306">Hugo de S. Victore</name> lib. 1. de sacrament. 
+      <lb ed="#P" n="68"/>p. 3. cap. 1. Deus sic ab initio notitiam sui in homine 
+      <lb ed="#P" n="69"/>temperavit, ut sicut nunquam quid esset, totum 
+      po<lb ed="#P" n="70" break="no"/>terat comprehendi: sic quia esset nunquam prorsus 
+      <lb ed="#P" n="71"/>posset ignorari. Et capite secundo. Si absconditus 
+      <lb ed="#P" n="72"/>totus esset, fides quidem ad scientiam non adjuvare¬ 
+      <!--0036.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>tur, sed infidelitas de ignorantia excusaretur. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e326">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Decimo: Beda super Job. 34. Omnes peccatores 
+      <lb ed="#P" n="75"/>&amp; impii contra inditum sibi bonum naturae agunt 
+      <lb ed="#P" n="76"/>sicut de hujusmodi ait Apostolus, Qui cum cognovis 
+      <lb ed="#P" n="77"/>sent Deum, &amp;c. ubi autem cognoverunt Deum nisi 
+      <lb ed="#P" n="78"/>in ratione &amp; judicio mentis? &amp;c 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e342">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Undecimo, Catechismus ad parochos tractatu 
+      <lb ed="#P" n="80"/>de sacramento ordinis dicit naturali instinctu 
+      homi<lb ed="#P" n="81" break="no"/>nes agnoscere Deum colendum esse: Id autem 
+      a<lb ed="#P" n="82" break="no"/>gnoscere non possunt nisi cognoscant Deum esse 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e355">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Duodecimo, testimoniis ipsorum Ethnicorum id 
+      <lb ed="#P" n="84"/>probatur. Dicit enim Cicero lib. 1. de natura 
+      Deo<lb ed="#P" n="85" break="no"/>Deos, &amp; de responsis arusp. Quis est tam vecor 
+      <lb ed="#P" n="86"/>rum: Omnibus innatum est &amp; quasi insculptum, esse 
+      <lb ed="#P" n="87"/>qui cum suspexerit in coelum Deos esse non sentiat? 
+      <lb ed="#P" n="88"/>Et lib. 1. de legibus, Nulla gens est, inquit, neque 
+      <lb ed="#P" n="89"/>tam immansueta, neque tam fera; quae non etiamsi 
+      <lb ed="#P" n="90"/>ignoret qualem Deum habere debeat, tamen 
+      haben<lb ed="#P" n="91" break="no"/>aum sciat, &amp; lib. 1. Tusc. quaest. firmissimum hoc 
+      <lb ed="#P" n="92"/>adferri videtur, cur Deos esse credamus, quod 
+      <lb ed="#P" n="93"/>nulla gens tam fera, nemo omnium tam sit immanis 
+      <lb ed="#P" n="94"/>cujus mentem non imbuerit Deorum opinio. Sed 
+      <lb ed="#P" n="95"/>&amp; apud Justinum q. 1. ad gentes introducuntur 
+      <lb ed="#P" n="96"/>ethnici asserentes Dei notitiam omnibus hominibus 
+      <lb ed="#P" n="97"/>esse communem. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e393">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Postremo, nulla gens est quae non utatur 
+      jureju<lb ed="#P" n="99" break="no"/>rando. Homines enim, ut generaliter ait Apost. Heb. 
+      <lb ed="#P" n="100"/>6. per majorem sui jurant, &amp; omnis controversiae eorum 
+      <lb ed="#P" n="101"/>finis ad confirmationem est juramentum: Atqui jurare 
+      <lb ed="#P" n="102"/>est Deum testem invocare, estque actus religionis: 
+      <lb ed="#P" n="103"/>Ergo omnium hominum animos tangit religio Dei¬ 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e411">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Verum pro parte contraria facit primo, quod 
+      <lb ed="#P" n="105"/>scriptura multis locis attribuit hominibus 
+      quibus<lb ed="#P" n="106" break="no"/>dam ignorantiam Dei, ut in Psalmis &amp; alibi, unde 
+      <lb ed="#P" n="107"/>illud Psalm. 13. &amp; 52. Dixit insipiens in corde suo non 
+      <lb ed="#P" n="108"/>est Deus, &amp; illud Psalm. 78. &amp; Jeremiae 10. Effunde 
+      <lb ed="#P" n="109"/>tram tuam in gentes quae te non noverunt. Nam &amp; 
+      pe<lb ed="#P" n="110" break="no"/>in Judaea Deus, item Apostolus 1. Corinth. 1. In Dei 
+      <lb ed="#P" n="111"/>culiariter de populo Israelitico scriptum est: Notus 
+      <lb ed="#P" n="112"/>sapientia non cognovit mundus per sapientiam Deum, 
+      <lb ed="#P" n="113"/>&amp; capit. 15. Ignorantiam Dei quidam habent. &amp; 1. 
+      <lb ed="#P" n="114"/>Thess. 4. Gentes quae ignorant Deum, &amp; 2. Thess. 1. 
+      <lb ed="#P" n="115"/>In flamma ignis dantis vindictam iis qui non noverum 
+      <lb ed="#P" n="116"/>Deum. Et Sapiens, capit. 13. Vani sunt omnes 
+      homi<lb ed="#P" n="117" break="no"/>nes, in quibus non subest scientia Dei, &amp; de his quae 
+      vi<lb ed="#P" n="118" break="no"/>dentur bona non potuerunt intelligere eum qui est, 
+      ne<lb ed="#P" n="119" break="no"/>que operibus attendentes agnoverunt quis esset artifex 
+      <lb ed="#P" n="120"/>&amp;c. &amp; alia hujusmodi multa. Deinde constat faisse 
+      <lb ed="#P" n="121"/>quosdam atque etiamnum esse, qui omnem 
+      prorsu<lb ed="#P" n="122" break="no"/>opinionem deitatis tanquam inanem ac falsam 
+      reji<lb ed="#P" n="123" break="no"/>cerent &amp; contemnerent, nec unum Deum 
+      agnoscen<lb ed="#P" n="124" break="no"/>tes, nec multos, ut fuere apud Graecos Protagoras 
+      <lb ed="#P" n="125"/>Diagoras, Theodorus, athei dicti, &amp; apud Latinos Pli 
+      <lb ed="#P" n="126"/>nius historiae naturalis scriptor ut ipse lib. 2. ejus 
+      ope<lb ed="#P" n="127" break="no"/>ris cap. 7. non obscuris verbis profitetur; ut certe 
+      <lb ed="#P" n="128"/>mirum sit hominem qui totam rerum naturam tanta 
+      <lb ed="#P" n="129"/>diligentia scrutatus sit, non agnovisse opificem. C 
+      <lb ed="#P" n="130"/>caecitatem humanae mentis. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e474">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Ex his igitur quod praesentem quaestionem due 
+      <lb ed="#P" n="132"/>accipi possunt de quibus non sit dubitandum: unum 
+      <lb ed="#P" n="133"/>est veri Dei notitiam in particulari, id est, secundum 
+      <lb ed="#P" n="134"/>omnes aut praecipuas divinae naturae proprietates, 
+      <lb ed="#P" n="135"/>non omnibus hominibus inesse: imo Deum hoc 
+      mo<lb ed="#P" n="136" break="no"/>do a multis adhuc gentibus &amp; pluribus hominibus 
+      <lb ed="#P" n="137"/>ignorari, atque a multo pluribus ignoratum fuisse 
+      <lb ed="#P" n="138"/>ante descensum filii Dei in terras, quando notus in 
+      <lb ed="#P" n="139"/>sola fere Judaea Deus verus: falsorum autem 
+      Deo<lb ed="#P" n="140" break="no"/>rum cultus per totum mundum vigebat. Atque haec 
+      <lb ed="#P" n="141"/>res ex scripturis manifesta est. Alterum non defuisse 
+      <lb ed="#P" n="142"/>prioribus seculis ac ne hodis quidem deesse 
+      homi<lb ed="#P" n="143" break="no"/>nes, qui nullam prorsus nec vori, nec falsi Deiopi 
+      <lb ed="#P" n="144"/>nionem habeant: sed simpliciter dicunt in corde suo 
+      <lb ed="#P" n="145"/>non est Deus, existimantes ipsam naturam esse 
+      pri<lb ed="#P" n="146" break="no"/>mam omnium rerum naturalium causam; humana 
+      <!--0037.xml-->
+      <pb ed="#P" n="14"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>vero omnia, non nisi humana providentia 
+      admini<lb ed="#P" n="2" break="no"/>strari, quae quia ad omnia sese extendere non potest, 
+      <lb ed="#P" n="3"/>ideo plurima in rebus humanis casu ac temere fieri, 
+      <lb ed="#P" n="4"/>sine providentia superioris causae. Qua opinione 
+      im<lb ed="#P" n="5" break="no"/>butos homines, tanquam atheos detestati sunt olim 
+      <lb ed="#P" n="6"/>etiam ethnici. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e533">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Caeterum quae in diversum allatae sunt sententiae, 
+      <lb ed="#P" n="8"/>partim ostendunt non ita obtenebratam esse per 
+      <lb ed="#P" n="9"/>peccatum mentem humanam, quin in ea remanserit 
+      <lb ed="#P" n="10"/>impressa atque innata quaedam generalis opinio de 
+      <lb ed="#P" n="11"/>Deo ejusque providentia circa mundum &amp; res 
+      hu<lb ed="#P" n="12" break="no"/>manas; sed quae multis errorum nebulis ac 
+      supersti<lb ed="#P" n="13" break="no"/>tionum maculis infucata fuerit ac deformata, dum 
+      <lb ed="#P" n="14"/>summa illa natura in plures Deos distrahitur, dum 
+      <lb ed="#P" n="15"/>etiam lignis &amp; lapidibus atque aliis inanimatis 
+      re<lb ed="#P" n="16" break="no"/>bus communicatur, dum alia multa indigna illi 
+      stul<lb ed="#P" n="17" break="no"/>te &amp; insipienter affinguntur; detractis e contra iis 
+      <lb ed="#P" n="18"/>quae sunt illi propria: partim vero docent omnibus 
+      <lb ed="#P" n="19"/>inesse lumen rationis naturalis, quo valeant ex 
+      re<lb ed="#P" n="20" break="no"/>rum contemplatione, ad unius etiam veri Dei 
+      cogni<lb ed="#P" n="21" break="no"/>tionem pertingere, nec sane paucos fuisse qui illuc 
+      <lb ed="#P" n="22"/>usque profecerint. Multi enim docti ac sapientes 
+      <lb ed="#P" n="23"/>opinionem illam generalem de Deo, in animis suis 
+      <lb ed="#P" n="24"/>ita confirmarunt, ac diligentiori consideratione 
+      re<lb ed="#P" n="25" break="no"/>rum quae in mundo sunt &amp; fiunt excoluerunt, ut 
+      <lb ed="#P" n="26"/>etiam in particulari multa de Deo vere ac magnifice 
+      <lb ed="#P" n="27"/>sentirent. Neque tamen illa generalis opinio de Deo 
+      <lb ed="#P" n="28"/>ita universaliter omnibus est communis, ut nulla fit 
+      <lb ed="#P" n="29"/>exceptio. Cum enim natura humana in aliis plus, 
+      <lb ed="#P" n="30"/>in aliis minus sit depravata, mirum non est aliquos 
+      <lb ed="#P" n="31"/>etiam reperiri, in quibus abolita ac deleta penitus 
+      <lb ed="#P" n="32"/>videatur opinio qualiscumque de Deo; quales atheos 
+      <lb ed="#P" n="33"/>esse jam diximus. Quos notasse videatur Aug. tract. 
+      <lb ed="#P" n="34"/>106. in Joan. quando post verba supraposita ita 
+      sub<lb ed="#P" n="35" break="no"/>junxit: Exceptis enim paucis in quibus natura nimium 
+      <lb ed="#P" n="36"/>depravata est, universum genus humanum Deum 
+      <lb ed="#P" n="37"/>mundi huius fatetur authorem, &amp;c. &amp; sermone 10. 
+      <lb ed="#P" n="38"/>de verbis Domini: Pauci, inquit, inveiuntur tante 
+      <lb ed="#P" n="39"/>impietatis, ut impleatur in eis quod scriptum est: 
+      Di<lb ed="#P" n="40" break="no"/>xit stultus in corde suo, non est Deus, insania ista, 
+      <lb ed="#P" n="41"/>paucorum est. Sicut enim magna pietas paucorum est. 
+      <lb ed="#P" n="42"/>ita &amp; magna impietas nihilominus paucorum est. Ob 
+      <lb ed="#P" n="43"/>hanc igitur causam Orosius &amp; author operis 
+      imper<lb ed="#P" n="44" break="no"/>fecti, cum quadam significatione exceptionis 
+      dixe<lb ed="#P" n="45" break="no"/>runt pene omnes homines unum Deum nosse. Unde 
+      <lb ed="#P" n="46"/>&amp; illa Hilarii interrogatio, quis enim mundum 
+      in<lb ed="#P" n="47" break="no"/>tuens, &amp;c. &amp; illa Ciceronis. Quis est tam vecors, 
+      <lb ed="#P" n="48"/>&amp;c. non prorsus negativam exigit responsionem; sed 
+      <lb ed="#P" n="49"/>significat paucos eosque valde hebeces aut 
+      deprava<lb ed="#P" n="50" break="no"/>tos esse, qui id non sentiant.
+    </p>
+            <p xml:id="bt67yj-k04506-d1e633">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Quibus ita declaratis utcunque jam apparet 
+      quem<lb ed="#P" n="52" break="no"/>admodum ad ea fere omnia quae in contrarium 
+      obje<lb ed="#P" n="53" break="no"/>cta sunt sit respondendum, ut non sit opus morari in 
+      <lb ed="#P" n="54"/>singulis, nisi quod ad primum respondemus hanc 
+      <lb ed="#P" n="55"/>propositionem, Deus est, esse quidem per se notam, 
+      <lb ed="#P" n="56"/>non tamen quoad nos, quibus sensibilia prius 
+      inno<lb ed="#P" n="57" break="no"/>tescunt, per quae proinde nos in Dei cognitionem 
+      <lb ed="#P" n="58"/>manu duci oportet, sicut eodem articulo plenius 
+      <lb ed="#P" n="59"/>ipse S. Thomas explicat. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e657">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Ad quintum respondetur, Prudentium respicere 
+      <lb ed="#P" n="61"/>potissimum ad tempus revelati evangelii, cujus 
+      oc<lb ed="#P" n="62" break="no"/>casione factum est ut plurimis gentilibus etiam iis 
+      <lb ed="#P" n="63"/>qui nollent evangelium quoad caetera recipere, 
+      sal<lb ed="#P" n="64" break="no"/>tem innotesceret, ipsa ratione quodammodo eos ad 
+      <lb ed="#P" n="65"/>hoc cogente, unum esse Deum a quo, universum 
+      <lb ed="#P" n="66"/>hoc administraretur. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e678">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Ad octavum respondet S. Tho. loco jam citato, 
+      <lb ed="#P" n="68"/>quod cognoscere Deum esse in aliquo communi sub 
+      <lb ed="#P" n="69"/>quadam confusione sit nobis naturaliter insitum, in 
+      <lb ed="#P" n="70"/>quantum scilicet Deus est hominis beatitudo. 
+      Om<lb ed="#P" n="71" break="no"/>nes enim naturaliterappetunt beatitudinem, quam 
+      <lb ed="#P" n="72"/>proinde &amp; naturaliter norunt generali beatitudinis 
+      <lb ed="#P" n="73"/>apprehensione. Verum haec solutio non videtur esse 
+      <lb ed="#P" n="74"/>ad mentem Damasc. Quocirca rectius ejus sententia 
+      <!--0037.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ex iis quae dudum diximus explicanda venit. 
+    </p>
+            <p xml:id="bt67yj-k04506-d1e707">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Ad nonum, Hugo non aliud vult quam Deum non 
+      <lb ed="#P" n="77"/>esse prorsus humano generi incognitum; s.d ab 
+      ho<lb ed="#P" n="78" break="no"/>mine cognosci posse, partim ex instinctu naturae, 
+      par<lb ed="#P" n="79" break="no"/>tim ex institutione divina; licet perfecta Dei 
+      cogni<lb ed="#P" n="80" break="no"/>tio non hujus sit vitae; sed in aliam vitam reservetur. 
+      <lb ed="#P" n="81"/>Ad id quod ex Justino objicitur, patet quidem 
+      <lb ed="#P" n="82"/>etiam ex dictis responsio. Notandum tamen 
+      Justi<lb ed="#P" n="83" break="no"/>num, seu quisquis author est earum quaestionum, 
+      <lb ed="#P" n="84"/>non prorsus hoc gentilibus, quod illi assumebant 
+      <lb ed="#P" n="85"/>de generali Dei apud omnes homines notitia 
+      conce<lb ed="#P" n="86" break="no"/>dere, sed magis contendere, falsum id esse, 
+      nimi<lb ed="#P" n="87" break="no"/>rum si intelligatur de notitia veri Dei distincta. 
+      <lb ed="#P" n="88"/>
+               <!-- line coord error -->
+            </p>
+            <p xml:id="bt67yj-k04506-d1e742">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Ad postremum respondetur, non constare an 
+      om<lb ed="#P" n="90" break="no"/>nes omnino gentes utantur juramento; sed etsi 
+      om<lb ed="#P" n="91" break="no"/>nes utantur, quod non negamus, fieri tamen pelle, 
+      <lb ed="#P" n="92"/>ut multi sint homines qui eo tantum utantur ex 
+      con<lb ed="#P" n="93" break="no"/>fuetudine, nescientes quid nomen juramenti 
+      impor<lb ed="#P" n="94" break="no"/>tet aut jurandiritus sibi velit, nisi in genere, quia est 
+      <lb ed="#P" n="95"/>ceremonia quaedam verborum, qua quis id quod 
+      <lb ed="#P" n="96"/>affirmat confirmare intendit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

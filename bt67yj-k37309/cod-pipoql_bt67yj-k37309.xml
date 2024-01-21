@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="99"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k37309"><!-- l1d34c2" -->
+            <head xml:id="bt67yj-k37309-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k37309-Hd1e103" type="question-title">Quomodo Hilarius dixerit aliud esse naturam, 
+        aliud rem naturae</head>
+            <p xml:id="bt67yj-k37309-d1e106">
+               <lb ed="#P" n="134"/>§. 2. Quomodo Hilarius dixerit aliud esse naturam, 
+      <lb ed="#P" n="135"/>aliud rem naturae. 
+    </p>
+            <p xml:id="bt67yj-k37309-d1e113">
+               <lb ed="#P" n="136"/>QUi personam a natura secundum rem 
+      distin<lb ed="#P" n="137" break="no"/>guunt, abutuntur ad id probandum testimo¬ 
+      <!--0123.xml-->
+      <pb ed="#P" n="100"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nio Hilarii, qui lib. 8. de Trinitate, circa medium 
+      <lb ed="#P" n="2"/>sic ait: Non idem est natura, quod naturae res, 
+      si<lb ed="#P" n="3" break="no"/>cuti non idem est homo &amp; quod hominis est, nec 
+      <lb ed="#P" n="4"/>idem est ignis &amp; quod ignis ipsius est. Et secundum 
+      <lb ed="#P" n="5"/>hoc non idem est Deus, &amp; quod Dei est. In quibus 
+      <lb ed="#P" n="6"/>verbis per rem naturae, dicunt significari personam 
+      <lb ed="#P" n="7"/>in qua natura subsistit. Sed ad hoc respondentes 
+      dici<lb ed="#P" n="8" break="no"/>mus, ex variis S. Hilarii locis satis constare, non eum 
+      <lb ed="#P" n="9"/>ponere reale discrimen inter naturam &amp; personam. 
+      <lb ed="#P" n="10"/>Quae loca partim distinctione octava, partim 
+      proxi<lb ed="#P" n="11" break="no"/>me praecedenti a Magistro sunt allegata. Nam lib. 7. 
+      <lb ed="#P" n="12"/>post medium, affirmat totum quod in Deo est, unum 
+      <lb ed="#P" n="13"/>esse, &amp; lib. 8. non procul a fine, negat in Deo aliud 
+      <lb ed="#P" n="14"/>esse, quod ab eo habetur, &amp; aliud ipsum qui habet, 
+      <lb ed="#P" n="15"/>sed totum, vitam esse dicit, id est, naturam 
+      perfe<lb ed="#P" n="16" break="no"/>ctam &amp; infinitam. Quin &amp; hoc ipso loco in diversum 
+      <lb ed="#P" n="17"/>adducto, non longe post verba commemorata, 
+      ex<lb ed="#P" n="18" break="no"/>presse docet ea quae Dei sunt, ita ut insint, non aliud 
+      <lb ed="#P" n="19"/>esse quam quod est ipse Deus. Addit autem, ita ut 
+      <lb ed="#P" n="20"/>insint, propter creaturas, quae Dei quidem sunt, sed 
+      <lb ed="#P" n="21"/>non insunt ei intrinsecus. Quod ergo dicit non idem 
+      <lb ed="#P" n="22"/>esse naturam, &amp; rem naturae, quo sensu dictum sit, 
+      <lb ed="#P" n="23"/>videndum. Magister respondet iis verbis sanctum 
+      <lb ed="#P" n="24"/>Hilarium respexisse ad naturam rerum creaturarum, 
+      <lb ed="#P" n="25"/>propterea quod de creaturis exempla subjccerit, 
+      <lb ed="#P" n="26"/>ideoque eum dixisse, Et secundum hoc non idem est 
+      <lb ed="#P" n="27"/>Deus, &amp;c. quasi dicat, si more humano de Deo 
+      sen<lb ed="#P" n="28" break="no"/>tiamus, cogemur fateri, non idem esse Deum, &amp; id 
+      <lb ed="#P" n="29"/>quod Dei est. 
+    </p>
+            <p xml:id="bt67yj-k37309-d1e189">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Alii vero existimant sanctum Hilarium, tantum 
+      <lb ed="#P" n="31"/>voluisse indicare rationis discrimen inter naturam 
+      <lb ed="#P" n="32"/>&amp; personam. De quo discrimine paulo ante dictum 
+    </p>
+            <p xml:id="bt67yj-k37309-d1e201">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Verum probabilior est eorum solutio, qui dicunt 
+      <lb ed="#P" n="34"/>sanctum Hilarium per rem naturae intellexisse, non 
+      <lb ed="#P" n="35"/>simpliciter personam (neque enim patrem sanctus 
+      <lb ed="#P" n="36"/>Hilarius usquam vocat rem naturae) sed eam rem, 
+      <lb ed="#P" n="37"/>id est, personam, quae producitur atque procedit ab 
+      <lb ed="#P" n="38"/>altera, cujus naturam participat. Nam sancto 
+      Hila<lb ed="#P" n="39" break="no"/>rio filius est res naturae patris, &amp; spiritus sanctus res 
+      <lb ed="#P" n="40"/>naturae patris &amp; filii. Eundem sensum confirmant 
+      <lb ed="#P" n="41"/>exempla a sancto Hilario producta de homine &amp; igne; 
+      <lb ed="#P" n="42"/>ubi per id quod hominis est &amp; ipsius ignis, non 
+      re<lb ed="#P" n="43" break="no"/>cte suppositum hominis vel ignis intelligitur. (Non 
+      <lb ed="#P" n="44"/>enim naturam horum praemisit) sed effectus 
+      ipso<lb ed="#P" n="45" break="no"/>rum, ut homo ex homine genitus, ignis ab igne 
+      <lb ed="#P" n="46"/>productus. Non aliud ergo significare voluit S. 
+      Hi<lb ed="#P" n="47" break="no"/>larius, quam id quod procedit ab aliquo, tametsi in 
+      <lb ed="#P" n="48"/>unitate naturae, non idem esse cum natura 
+      producen<lb ed="#P" n="49" break="no"/>te, id est, cum eo a quo in naturae similitudine 
+      pro<lb ed="#P" n="50" break="no"/>cedit, sicut homo genitus non idem est cum homine 
+      <lb ed="#P" n="51"/>gignente. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

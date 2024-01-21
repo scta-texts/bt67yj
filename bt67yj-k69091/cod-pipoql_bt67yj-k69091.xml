@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="182"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k69091"><!-- l1d42c1" -->
+            <head xml:id="bt67yj-k69091-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k69091-Hd1e103" type="question-title">Quae sit potentia in Deo, et quomodo 
+      dicatur omnipotens</head>
+            <p xml:id="bt67yj-k69091-d1e106">
+               <lb ed="#P" n="117"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="118"/>QUADRACESIMAMSECUNDAM.
+      <lb ed="#P" n="119"/>§. 1. Quae sit potentia in Deo, &amp; quomodo 
+      <lb ed="#P" n="120"/>dicatur omnipotens.
+    </p>
+            <p xml:id="bt67yj-k69091-d1e117">
+               <lb ed="#P" n="121"/>POST eorum considerationem quae ad 
+      scien<lb ed="#P" n="122" break="no"/>tiam Dei pertinent, ordine proposito 
+      sequi<lb ed="#P" n="123" break="no"/>tur, ut de ejus potentia dicamus. Cum 
+      au<lb ed="#P" n="124" break="no"/>tem distingui soleat a Physicis duplex potentia, 
+      alte<lb ed="#P" n="125" break="no"/>ra ad agendum, altera vero ad patiendum, seu 
+      susci<lb ed="#P" n="126" break="no"/>piendum, quarum illa activa potentia voeatur, haec 
+      <lb ed="#P" n="127"/>passiva; manifestum est posterioris generis potentiam 
+      <lb ed="#P" n="128"/>in Deo nullam esse, quia Deus cum sit actus purus &amp; 
+      <lb ed="#P" n="129"/>simpliciter &amp; universaliter perfectus, nec in eo ulla 
+      <lb ed="#P" n="130"/>imperfectio locum habeat, aut habere possit, nullius 
+      <lb ed="#P" n="131"/>est formae susceptivus, sed in se omnium formarum 
+      <lb ed="#P" n="132"/>perfectionem ab aeterno continet. Activa vero 
+      poten<lb ed="#P" n="133" break="no"/>tia propter candem causam in Deo summa &amp; 
+      perfe<lb ed="#P" n="134" break="no"/>ctissima est. Nam esse principium activum competit 
+      <lb ed="#P" n="135"/>unicuique quatenus est actu &amp; perfectum. Unde 
+      o<lb ed="#P" n="136" break="no"/>portet summam esse potentiam activam in eo, quod 
+      <lb ed="#P" n="137"/>est actus perfectissimus, id est, in Deo, 
+      quemadmo<lb ed="#P" n="138" break="no"/>dum bene probat S. Thom. 1. q. 25. art. 1. 
+      Distingui<lb ed="#P" n="139" break="no"/>tur autem haec Dei potentia ab ejus scientia, 
+      provi<lb ed="#P" n="140" break="no"/>dentia &amp; voluntate, secundum nostrum modum &amp; 
+      <lb ed="#P" n="141"/>ordinem intelligendi. Quod nimirum scientia 
+      intel<lb ed="#P" n="142" break="no"/>ligitur ut apprehendens, providentia ut dirigens, 
+      <lb ed="#P" n="143"/>voluntas ut imperans, potentia ut exequens. 
+    </p>
+            <p xml:id="bt67yj-k69091-d1e169">
+      <!--0206.xml-->
+               <pb ed="#P" n="183"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Ab hac igitur potentia Deus vocatur omnipotens. 
+      <lb ed="#P" n="2"/>Quam. omnipotentiam universa ecclesia confitetur 
+      <lb ed="#P" n="3"/>in symbolo fidei &amp; generalibus conciliis, 
+      eandem<lb ed="#P" n="4" break="no"/>que multis locis praedicat scriptura, ut Matth. 19. 
+      <lb ed="#P" n="5"/>Marci 10. Christo dicente: Apud Deum omnia 
+      possi<lb ed="#P" n="6" break="no"/>bilia sunt. Et Mar. 14. Pater omnia tibi possibilia sunt. 
+      <lb ed="#P" n="7"/>Et Angelo testante Luc 1. Non est impossibile apud 
+      <lb ed="#P" n="8"/>Deum omne verbum. Et Job loquente ad Deum 
+      cap<lb ed="#P" n="9" break="no"/>42. Scio quia omnia potes. Unde &amp; frequentissime 
+      <lb ed="#P" n="10"/>Deo tribuitur epitheton omnipotentis in scriptura, 
+      <lb ed="#P" n="11"/>ut passim in Genesi, lib. Job, libro 2. Machab. 
+      Apo<lb ed="#P" n="12" break="no"/>calypsi Joannis &amp; alibi. Quorum locorum 
+      enumera<lb ed="#P" n="13" break="no"/>tio foret hic supervacanea. 
+    </p>
+            <p xml:id="bt67yj-k69091-d1e207">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Sunt autem divinae omnipotentiae, haec fere 
+      ope<lb ed="#P" n="15" break="no"/>ra praecipua, maximeque nobis in scripturis 
+      com<lb ed="#P" n="16" break="no"/>mendata: Mundi cum partibus suis ex nihilo 
+      crea<lb ed="#P" n="17" break="no"/>tio, ejusdemque conservatio &amp; gubernatio; miracu 
+      <lb ed="#P" n="18"/>lorum, quae naturae modum superant, operatio; 
+      <lb ed="#P" n="19"/>Christi incarnatio, qua Deus factus est homo; 
+      gen<lb ed="#P" n="20" break="no"/>tium vocatio; ecclesiae protectio; peccatorum 
+      conver<lb ed="#P" n="21" break="no"/>sio &amp; justificatio; mortuorum omnium in fine seculi 
+      <lb ed="#P" n="22"/>resuscitatio; denique justorum beatificatio, &amp; 
+      im<lb ed="#P" n="23" break="no"/>piorum aeterna punitio. Quamvis enim Deo omnia 
+      <lb ed="#P" n="24"/>sua opera sint aeque factu facilia, quippe qui solo 
+      vo<lb ed="#P" n="25" break="no"/>luntatis imperio facit, quaecunque facit, juxta illud: 
+      <lb ed="#P" n="26"/>Dixit &amp; facta sunt; haec tamen quae commemora 
+      vi<lb ed="#P" n="27" break="no"/>mus, objecti ratione majora sunt, &amp; ad 
+      manifestan<lb ed="#P" n="28" break="no"/>dam Dei potentiam aptiora. 
+    </p>
+            <p xml:id="bt67yj-k69091-d1e244">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Sumitur autem ratio omnipotentiae divinae ex ipsa 
+      <lb ed="#P" n="30"/>essentia. Agit enim Deus per essentiam suam. 
+      Quan<lb ed="#P" n="31" break="no"/>to autem perfectius in unoquoque agente est forma 
+      <lb ed="#P" n="32"/>per quam agit, tanto major est ejus potentia in 
+      agen<lb ed="#P" n="33" break="no"/>do. Cum igitur essentia Dei sit infinita, necesse est 
+      <lb ed="#P" n="34"/>potentiam ejus esse infinitam, uti ratiocinatur 
+      San<lb ed="#P" n="35" break="no"/>ctus Thomas articulo 2. memoratae quaestionis. 
+      Cae<lb ed="#P" n="36" break="no"/>terum universalitas illa nomine omnipotentiae 
+      signi<lb ed="#P" n="37" break="no"/>ficata, non eodem modo ab omnibus explicatur. 
+      Con<lb ed="#P" n="38" break="no"/>venientissime vero explicabitur, si cum S. Thoma 
+      <lb ed="#P" n="39"/>art. 3. ejusdem quaestionis dicamus, Deum hac 
+      ratio<lb ed="#P" n="40" break="no"/>ne omnipotentem dici, quia omnia possibilia seu 
+      <lb ed="#P" n="41"/>factibilia facere potest. Potentia enim activa ad 
+      agi<lb ed="#P" n="42" break="no"/>bile, factibile, possibile (quae in proposito eadem 
+      <lb ed="#P" n="43"/>sunt) ut ad proprium objectum refertur. Sed sicut 
+      <lb ed="#P" n="44"/>potentia Dei absoluta, infinita &amp; illimitata est; ita 
+      <lb ed="#P" n="45"/>possibile quod illi potentiae subjicitur, intelligendum 
+      <lb ed="#P" n="46"/>est id quod tale est absolute. Cujusmodi est omne 
+      il<lb ed="#P" n="47" break="no"/>lud, quod si fiat, nulla implicabitur 
+      contradictio<lb ed="#P" n="48" break="no"/>Quae enim hujusmodi sunt, ut implicent 
+      contradi<lb ed="#P" n="49" break="no"/>ctionem, rectius dicuntur non posse fieri, quam 
+      <lb ed="#P" n="50"/>quod quis ea facere non possit. 
+    </p>
+            <p xml:id="bt67yj-k69091-d1e296">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Cum hac explicatione omnipotentiae Dei, satis 
+      <lb ed="#P" n="52"/>convenit ea quam alii adferunt, ideo scilicet dici 
+      <lb ed="#P" n="53"/>Deum omnia posse, quia omnia ea facere potest, 
+      <lb ed="#P" n="54"/>quorum effectio perfectionis est, &amp; virtutis, non 
+      <lb ed="#P" n="55"/>imperfectionis, infirmitatis aut defectus. 
+    </p>
+            <p xml:id="bt67yj-k69091-d1e312">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Quidam vero ut plenius hanc rem explicent, 
+      <lb ed="#P" n="57"/>utrumque conjungunt dicentes, Deum omnia posse, 
+      <lb ed="#P" n="58"/>quia facere potest, quaecunque factibilia sunt, &amp; 
+      <lb ed="#P" n="59"/>quorum effectio nullam facientis arguat 
+      imperfe<lb ed="#P" n="60" break="no"/>ctionem. Verum hac conjunctione non est opus, cum 
+      <lb ed="#P" n="61"/>prior modus per se sufficiens sit, &amp; posteriorem 
+      inclu<lb ed="#P" n="62" break="no"/>dat. Nam eo ipso quod quid absolute possibile vel 
+      fa<lb ed="#P" n="63" break="no"/>ctibile dicitur, intelligitur tale esse, cujus effectio 
+      <lb ed="#P" n="64"/>perfectionem arguat facientis: Omne enim possibile 
+      <lb ed="#P" n="65"/>potentiam respicit activam a qua fieripossit; quae 
+      po<lb ed="#P" n="66" break="no"/>tentia sine dubio perfectio est. Quid autem valeat 
+      <lb ed="#P" n="67"/>quorumdam explicatio, qui Deumideo dici volunt 
+      <lb ed="#P" n="68"/>omnipotentem, quia quaecunque vult facere potest, 
+      <lb ed="#P" n="69"/>ad proximam distinctionem dicemus. 
+    </p>
+            <p xml:id="bt67yj-k69091-d1e347">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Hanc porro Dei omnipotentiam solo lumine fidei 
+      <lb ed="#P" n="71"/>nobis perfecte cognitam, non modo philosophi 
+      igno<lb ed="#P" n="72" break="no"/>raverunt, praesertim illi qui naturae viribus omnem 
+      <lb ed="#P" n="73"/>potentiam metiebantur, verum etiam oppugnarunt 
+      <lb ed="#P" n="74"/>haercticorum quidam, ut olim Hermiani &amp; Seleucia¬ 
+      <!--0206.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>niqui Platonicos secuti materiam primam propterea 
+      <lb ed="#P" n="76"/>Deo coaeternam posuerunt, quod negarent Deum 
+      <lb ed="#P" n="77"/>posse aliquid facere ex nihilo. De quibus scribun 
+      <lb ed="#P" n="78"/>Epiphanius &amp; Augustinus libro contra haeres. &amp; rur 
+      <lb ed="#P" n="79"/>sum Augustinus libro de fide &amp; symbolo capite 2. 
+    </p>
+            <p xml:id="bt67yj-k69091-d1e378">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Gravius autem ac non sine blasphemia Sanctissimae 
+      <lb ed="#P" n="81"/>Trinitatis in divinam potentiam impegit quidam 
+      <lb ed="#P" n="82"/>tempore S. Bernardi Petrus Aballardus, quando 
+      po<lb ed="#P" n="83" break="no"/>suit Deum patrem plenam potentiam, filium 
+      quan<lb ed="#P" n="84" break="no"/>dam potentiam, &amp; spiritum sanctum nullam 
+      poten<lb ed="#P" n="85" break="no"/>tiam, teste Bernardo epist. 190. Sed &amp; hodierni hae 
+      <lb ed="#P" n="86"/>retici Sacramentarii potentiam Dei non parum 
+      coar<lb ed="#P" n="87" break="no"/>ctant, quando negant virtute divina fieri posse, ut 
+      <lb ed="#P" n="88"/>idem corpus sit in diversis locis. Hoc enim cum 
+      nul<lb ed="#P" n="89" break="no"/>lam involvat contradictionem, nihilo magis quam ut 
+      <lb ed="#P" n="90"/>in eodem loco sint duo corpora. Cujus exempla in 
+      <lb ed="#P" n="91"/>scripturis habemus; patet etiam ipsum sub genere 
+      <lb ed="#P" n="92"/>possibilium (ad quae omnia Dei virtus extenditur) 
+      <lb ed="#P" n="93"/>contineri. De qua re plura in quartum, ubi de 
+      sacra<lb ed="#P" n="94" break="no"/>mento Eucharistiae agetur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

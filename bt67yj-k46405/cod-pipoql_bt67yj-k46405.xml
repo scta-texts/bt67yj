@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="123"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k46405"><!-- l1d40c2" -->
+            <head xml:id="bt67yj-k46405-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k46405-Hd1e103" type="question-title">Praedestinatio, dilectio, electio quo differant, 
+      et quo referantur</head>
+            <p xml:id="bt67yj-k46405-d1e106">
+               <lb ed="#P" n="86"/>§. 2. Praedestinatio, dilectio, electio quo differant, 
+      <lb ed="#P" n="87"/>&amp; quo referantur.
+    </p>
+            <p xml:id="bt67yj-k46405-d1e113">
+               <lb ed="#P" n="88"/>HAEc tria, praedestinatio, dilectio, electio,
+      <lb ed="#P" n="76"/>
+               <!-- line order error -->quamvis Deo respectu nostri tribuuntur, 
+      co<lb ed="#P" n="89" break="no"/>gnatae significationis vocabula sunt, non tamen 
+      ejus<lb ed="#P" n="90" break="no"/>dem prorsus. Quamvis enim circa eosdem omnino 
+      <lb ed="#P" n="91"/>versentur objective, idque in ordine ad bona 
+      saluta<lb ed="#P" n="92" break="no"/>ria, maxime ad vitam aeternam, differunt tamen 
+      ra<lb ed="#P" n="93" break="no"/>tione. Nam ut explicat S. Thomas I. quaest. 23. art. 4. 
+      <lb ed="#P" n="94"/>&amp; 5. in commentario epistolae ad Rom. 9. 
+      praedesti<lb ed="#P" n="95" break="no"/>natio secundum rationem praesupponit electionem, 
+      <lb ed="#P" n="96"/>&amp; electio dilectionem. Cum enim praedestinatio sit 
+      <lb ed="#P" n="97"/>pars providentiae, cujus est praeordinare aliquid in 
+      <lb ed="#P" n="98"/>finem, quod quidem ad intellectum pertinet, 
+      ne<lb ed="#P" n="77" break="no"/>
+               <!-- line order error -->cesse est ut eam ordine cogitationis nostrae praecedat
+      <lb ed="#P" n="99"/>voluntas ipsius finis. Itaque praedestinatio aliquorum 
+      <lb ed="#P" n="100"/>ad vitam aeternam, praesupponit Deum velle illorum 
+      <lb ed="#P" n="101"/>salutem, quod est diligere. Nam ut idem S. Thomas 
+      <lb ed="#P" n="102"/>docet q. 20. art. 2. &amp; 3. diligere non est aliud, quam 
+      <lb ed="#P" n="103"/>velle alicui bonum. Hinc ordinate dictum est ab 
+      <lb ed="#P" n="104"/>Apostolo Rom. 8. Quos praescivit, id est, praedilexit 
+      <lb ed="#P" n="105"/>eos &amp; praedestinavit. Eodem pertinet electio, qua 
+      ni<lb ed="#P" n="106" break="no"/>mirum Deus, idem illud bonum, quod est vita 
+      aeter<lb ed="#P" n="107" break="no"/>na, vult quibusdam prae aliis, scilicet reprobis, 
+      qui<lb ed="#P" n="108" break="no"/>bus idem bonum non vult. Nam si omnes sine 
+      discri<lb ed="#P" n="109" break="no"/>mine ad vitam aeternam diligerentur, electio divina
+      <lb ed="#P" n="78"/>
+               <!-- line order error -->nulla esset; Proinde dilectio electione prior est, non
+      <lb ed="#P" n="110"/>tantum quia electio plus includit, quam dilectio, 
+      <lb ed="#P" n="111"/>sed hac etiam ratione, quia voluntas Dei qua vult 
+      <lb ed="#P" n="112"/>alicui bonum diligendo, causa est, ut hoc bonum 
+      <lb ed="#P" n="113"/>ab eo prae aliis habeatur, ut S. Thomas ait.
+    </p>
+            <p xml:id="bt67yj-k46405-d1e185">
+               <lb ed="#P" n="114"/>Porro sciendum eadem haec tria, dilectionem, 
+      ele<lb ed="#P" n="115" break="no"/>ctionem &amp; praedestinationem, praecipue quidem 
+      fi<lb ed="#P" n="116" break="no"/>nem respicere, ad quem aliqui diliguntur, eliguntur 
+      <lb ed="#P" n="117"/>&amp; praedestinantur, nempe vitam aeternam, sed 
+      ta<lb ed="#P" n="118" break="no"/>men etiam referri ad ea bona, per quae ad vitam 
+      <lb ed="#P" n="119"/>aeternam pervenitur, ut ad justitiam, gratiam, 
+      virtu<lb ed="#P" n="120" break="no"/>tes, bona opera, virtutum incrementum &amp; in bono 
+      <lb ed="#P" n="121"/>perseverantiam. Diligit enim nos Deus, dum vult 
+      <lb ed="#P" n="122"/>nobis aeternam beatitudinem. Diligit etiam dum 
+      <lb ed="#P" n="123"/>vult bona quibus illam consequamur. Quod 
+      utrum<lb ed="#P" n="124" break="no"/>que significat Dominus in Evangelio Joan. 3. dicens: 
+      <lb ed="#P" n="125"/>Sic Deus dilexit mundum, ut filium suum unigenitum 
+      <lb ed="#P" n="126"/>daret, ut omnis qui credit in eum non pereat, sed habeat 
+      <lb ed="#P" n="127"/>vitam aeternam. Et Joannes 1. epist. 4. In hoc apparuit 
+      <lb ed="#P" n="128"/>charitas Dei in nobis, quoniam filium suum unigenitum 
+      <lb ed="#P" n="129"/>misit Deus in mundum, ut vivamus per eum, scilicet 
+      <lb ed="#P" n="130"/>vita aeterna, ut ipse interpretatur cap. sequente. Ac 
+      <lb ed="#P" n="131"/>rursum Dominus Joan. 13. dilectionem patris &amp; 
+      <lb ed="#P" n="132"/>suam erga discipulos in eo se declaraturum promittit 
+      <lb ed="#P" n="133"/>quod manifestabit se illis, quodque cum patre 
+      man<lb ed="#P" n="134" break="no"/>sionem apud illos facturus sit. Sed &amp; Paulus ad Eph. 
+      <lb ed="#P" n="135"/>2. charitati Dei erga nos utriusque generis bona 
+      tri<lb ed="#P" n="136" break="no"/>buit. Similiter eligit nos Deus ad vitam aeternam; 
+      <lb ed="#P" n="137"/>ut Matth. 20. &amp; 22. &amp; 2. Tim. 2. &amp; alibi. Eligit etiam 
+      <lb ed="#P" n="138"/>ad justitiam &amp; sanctitatem hujus vitae, tanquam 
+      me<lb ed="#P" n="139" break="no"/>dium perveniendi ad vitam aeternam, ut Eph. 
+      Ele<lb ed="#P" n="140" break="no"/>gitnos ut essemus sancti &amp; immaculati. Unde &amp; 
+      ele<lb ed="#P" n="141" break="no"/>ctio ad gloriam prior est nostro intelligendi modo 
+      <lb ed="#P" n="142"/>electione ad gratiam, eo quod voluntas finis prior 
+      <lb ed="#P" n="143"/>sit electione mediorum, ut infra plenius ostendetur. 
+      <lb ed="#P" n="144"/>Denique: praedestinat nos Deus ad vitam aeternam, 
+      <lb ed="#P" n="145"/>nec non ad bona hujus vitae, quibus ad illam perduca 
+      <lb ed="#P" n="146"/>mur. Siquidem aeterno suo decreto, quod praedestina¬ 
+      <!--0147.xml-->
+      <pb ed="#P" n="124"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tio vocatur, utrumque homini praeparavit, tam 
+      glo<lb ed="#P" n="2" break="no"/>riam ut finemultimum, quam gratiam tanquam illius 
+      <lb ed="#P" n="3"/>finis consequendi medium, uti modo dictum est. Ad 
+      <lb ed="#P" n="4"/>utrumque autem praedestinationem referri, satis 
+      in<lb ed="#P" n="5" break="no"/>telligitur ex illis Apostoli verbis Rom. 8. Nam quos 
+      <lb ed="#P" n="6"/>praescivit &amp; praedestinavit conformes fieri imaginis filii 
+      <lb ed="#P" n="7"/>sui. Quae conformitas hic inchoata, demum in 
+      futu<lb ed="#P" n="8" break="no"/>ro saeculo perfecte obtinetur, sicut &amp; filiorum 
+      ado<lb ed="#P" n="9" break="no"/>ptio de qua idem Apostolus Ephes. 1. Qui 
+      praedestina<lb ed="#P" n="10" break="no"/>vit nos in adoptionem filiorum. Rursum autem Rom. 
+      <lb ed="#P" n="11"/>8. in iis verbis: Quos autem praedestinavit, hos &amp; 
+      voca<lb ed="#P" n="12" break="no"/>vit, &amp; justificavit &amp; glorificavit; significatum est nos 
+      <lb ed="#P" n="13"/>ad haec omnia praedestinari. ItemI. Cor. 2. Sapientiam 
+      <lb ed="#P" n="14"/>consilii divini circa hominum salutem praedestinasse 
+      <lb ed="#P" n="15"/>dicitur Deus, in gloriam nostram. Quare similiter &amp; 
+      <lb ed="#P" n="16"/>nos ipsi ad eandem gloriam praedestinati dicendi 
+      su<lb ed="#P" n="17" break="no"/>mus. Atque hoc modo frequentius loquuntur 
+      Ec<lb ed="#P" n="18" break="no"/>clesiastici scriptores, ut ad gloriam &amp; vitam aeternam 
+      <lb ed="#P" n="19"/>praedestinatos nos dicant, quia nimirum 
+      praedestina<lb ed="#P" n="20" break="no"/>tionem considerant, tanquam destinationem 
+      quan<lb ed="#P" n="21" break="no"/>dam hominum in finem, velut in scopum, quomodo 
+      <lb ed="#P" n="22"/>sagitta a sagittante mittitur in signum, ut ait S. Thom. 
+      <lb ed="#P" n="23"/>1. q. 23. art. 1. Nec tamen iidem illi negant homines 
+      <lb ed="#P" n="24"/>etiam ad gratiam praedestinari, cum Augustinus 
+      prae<lb ed="#P" n="25" break="no"/>destinationem definiverit esse gratiae praeparationem; 
+      <lb ed="#P" n="26"/>cujus sensus infra explicabitur. 
+    </p>
+            <p xml:id="bt67yj-k46405-d1e323">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Legitur praeterea ad utrumque relata 
+      praedestina<lb ed="#P" n="28" break="no"/>tio, sub nomine praeordinationis, ad gloriam quidem 
+      <lb ed="#P" n="29"/>Act. 13. Crediderunt quotquot erant praeordinati ad 
+      vi<lb ed="#P" n="30" break="no"/>tam aeternam. Ad gratiam vero Act. 22. dicente 
+      Ana<lb ed="#P" n="31" break="no"/>nia ad Paulum: Deus praeordinavit te ut cognosceres 
+      <lb ed="#P" n="32"/>voluntatem ejus, &amp;c. Idem &amp; in vocabulo 
+      praepara<lb ed="#P" n="33" break="no"/>tionis ex scripturis facile est declarare ut Rom. 9. 1. 
+      <lb ed="#P" n="34"/>Cor. 2. Eph. 2. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

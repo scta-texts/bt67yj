@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="89"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k33248"><!-- l1d27c10" -->
+            <head xml:id="bt67yj-k33248-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-k33248-Hd1e103" type="question-title">Quae fuerit Graecorum de imagine sententia</head>
+            <p xml:id="bt67yj-k33248-d1e106">
+      <!--0112.xml-->
+               <pb ed="#P" n="89"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 10. Quae fuerit Graecorum de imagine sententia. 
+    </p>
+            <p xml:id="bt67yj-k33248-d1e117">
+               <lb ed="#P" n="2"/>
+               <pc type="indent"/> GRaeci scriptores de imagine in divinis non ita 
+      <lb ed="#P" n="3"/>Uaccurate locuti sunt ut Latini. Faciunt enim 
+      <lb ed="#P" n="4"/>commune imaginis nomen etiam spiritui sancto, ut 
+      <lb ed="#P" n="5"/>Athanasius in epistola 2. ad Serapionem de spiritu 
+      <lb ed="#P" n="6"/>sancto (tractatu quodam de spiritu sancto) Basilius 
+      <lb ed="#P" n="7"/>lib. 5. contra Eunomium, Gregorius Neocaesariensis, 
+      <lb ed="#P" n="8"/>aliter, Thaumaturgus in confessione fidei quae 
+      habe<lb ed="#P" n="9" break="no"/>tur in ejus vita apud Gregorium Nyssenum, cujus 
+      <lb ed="#P" n="10"/>&amp; meminit Eusebius Caesariensis lib. 7. hist. cap. 25. 
+      <lb ed="#P" n="11"/>Quibus quidem locis illi patres docent spiritum 
+      san<lb ed="#P" n="12" break="no"/>ctum non solum patris, verum etiam filii imaginem 
+      <lb ed="#P" n="13"/>esse. Hos sequuntur Cyrillus lib. 13. thes. c. 18&amp; Joan. 
+      <lb ed="#P" n="14"/>Damascenus lib. I. de fide c. 18. Hi omnes in nomine 
+      <lb ed="#P" n="15"/>imaginis non aliud spectarunt, quam processionem 
+      <lb ed="#P" n="16"/>ejus ab exemplari, ejusque cum suo exemplari 
+      per<lb ed="#P" n="17" break="no"/>fectam similitudinem; quorum utrumque convenit 
+      <lb ed="#P" n="18"/>spiritui sancto respectu patris &amp; filii. Nam &amp; 
+      proce<lb ed="#P" n="19" break="no"/>dit ab utroque, &amp; utrique perfecte similis est. Atque 
+      <lb ed="#P" n="20"/>haec sic ab iis disputata fuere propter eos qui 
+      spiri<lb ed="#P" n="21" break="no"/>tum sanctum e divinis submovere conati sunt. 
+      Caete<lb ed="#P" n="22" break="no"/>rum plenam imaginis rationem supra a nobis 
+      expli<lb ed="#P" n="23" break="no"/>catam, quam Paulus, Hilarius, &amp; Augustinus prae 
+      <lb ed="#P" n="24"/>oculis habuerunt, non considerarunt. Adducunt illi 
+      <lb ed="#P" n="25"/>quidem pro se duo testimonia scripturae ut probent 
+      <lb ed="#P" n="26"/>spiritum sanctum esse Dei imaginem, quorum 
+      alte<lb ed="#P" n="27" break="no"/>rum est. Rom. 8. Quos praescivit &amp; praedestinavit 
+      con<lb ed="#P" n="28" break="no"/>formes fieri imaginis filii sui. Alterum 1. Corinth. 15. 
+      <lb ed="#P" n="29"/>Sicut portavimus imaginem terreni, portemus &amp; 
+      ima<lb ed="#P" n="30" break="no"/>ginem caelestis. At iis locis, imaginis nomen non 
+      spiri<lb ed="#P" n="31" break="no"/>tui sancto attribuitur, sed hominibus. Nam priori 
+      <lb ed="#P" n="32"/>loco, transitiva quadam locutione significatur, 
+      prae<lb ed="#P" n="33" break="no"/>destinatos ita conformari filio Dei, ut ipsius fiant 
+      <lb ed="#P" n="34"/>veluti imago quaedam. Posteriori vero hortatur 
+      Apo<lb ed="#P" n="35" break="no"/>stolus ut qui vitae conversatione fuerunt imago 
+      terre<lb ed="#P" n="36" break="no"/>ni hominis, sic vitam instituant, ut in ea exprimant 
+      <lb ed="#P" n="37"/>imaginem hominis caelestis, id est, Christi. Denique 
+      <lb ed="#P" n="38"/>sciendum patres tam Graecos, quam Latinos 
+      inter<lb ed="#P" n="39" break="no"/>dum imagnis nomen in divinis accipere, ut est tribus 
+      <lb ed="#P" n="40"/>personis commune, velut cum dicunt totam 
+      trinita<lb ed="#P" n="41" break="no"/>tem esse imaginem ad quam conditus sit homo, juxta 
+      <lb ed="#P" n="42"/>illud Gen. I. Faciamus hominem ad imaginem nostram. 
+      <lb ed="#P" n="43"/>Probat hoc Magister in fine distinctionis proxime 
+      <lb ed="#P" n="44"/>sequentis, ex Hlario lib. 5. de trinit. &amp; Augustino 
+      <lb ed="#P" n="45"/>seu potius Fulgentio de fide ad Pet. c. 1. Similiter 
+      lo<lb ed="#P" n="46" break="no"/>quitur idem Hilarius lib. 1. 3. &amp; 4. de trinit. Basilius 
+      <lb ed="#P" n="47"/>hom. 10. Hexam. Chrysostomus hom. 8. in Gen. 
+      Au<lb ed="#P" n="48" break="no"/>gustinus lib. 7. de trin. c. 6. &amp; lib. 12. c. 6. lib. de 
+      <lb ed="#P" n="49"/>Gen. imperfecto c. 16. &amp; l. 3. de Gen. ad lit. c. 19. &amp; 
+      <lb ed="#P" n="50"/>alii, qui omnes scripturam Gen. I. sic intellexerunt, 
+      <lb ed="#P" n="51"/>quasi Deus dicatur imago ad quam fieret homo. 
+      Ve<lb ed="#P" n="52" break="no"/>rum fortasse rectius ea sententia significatum 
+      intel<lb ed="#P" n="53" break="no"/>ligitur hominem esse imaginem Dei, sicut aperte 
+      di<lb ed="#P" n="54" break="no"/>ctum est ab Apostolo 1. Cor. 11. scilicet ad locum 
+      <lb ed="#P" n="55"/>Gen. 1. respiciente. Vir imago, &amp; gloria Dei est. Sed 
+      <lb ed="#P" n="56"/>de hoc etiam ex professo ad dist. 16. lib. 2. Quod si 
+      <lb ed="#P" n="57"/>tamen cum memoratis authoribus ipsam Trinitatem 
+      <lb ed="#P" n="58"/>intelligas eo loco imaginem dici, scias imaginem 
+      <lb ed="#P" n="59"/>positam pro correlativo suo quod est exemplar. Est 
+      <lb ed="#P" n="60"/>enim Deus exemplar juxta quod facti sunt homines 
+      <lb ed="#P" n="61"/>&amp; angeli. Nec tamen imago hac significatione 
+      pro<lb ed="#P" n="62" break="no"/>prie nomen essentiale erit in divinis; sed significabit 
+      <lb ed="#P" n="63"/>respectum ad creaturam, velut haec nomina, 
+      crea<lb ed="#P" n="64" break="no"/>tor, Dominus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

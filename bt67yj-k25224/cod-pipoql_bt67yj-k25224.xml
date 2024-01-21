@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="68"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k25224"><!-- l1d17c3" -->
+            <head xml:id="bt67yj-k25224-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k25224-Hd1e103" type="question-title">Ejusdem probatio ex Patribus et conciliis</head>
+            <p xml:id="bt67yj-k25224-d1e106">
+               <lb ed="#P" n="18"/>§. 3. Ejusdem probatio ex Patribus &amp; conciliis.
+    </p>
+            <p xml:id="bt67yj-k25224-d1e111">
+               <lb ed="#P" n="19"/>SCriptores Ecclesiastici tam veteres quam 
+      recen<lb ed="#P" n="20" break="no"/>tiores charitatem virtutem vocant, imo virtutum 
+      <lb ed="#P" n="21"/>primam &amp; maximam. Virtus autem omnium 
+      confes<lb ed="#P" n="22" break="no"/>sione habitus est, aut certe affectio quaedam animi. 
+      <lb ed="#P" n="23"/>Est igitur charitas habitus aut affectio animi &amp; 
+      pro<lb ed="#P" n="24" break="no"/>inde qualitas quaedam creata &amp; a spiritu sancto 
+      diver<lb ed="#P" n="25" break="no"/>sa. Charitatem esse virtutem inter alios testis est S. 
+      <lb ed="#P" n="26"/>Aug. multis locis velut tractat. 8. in Joan. cum dicit, 
+      <lb ed="#P" n="27"/>eam virtutem inspiratam a spiritu sancto; plane per 
+      <lb ed="#P" n="28"/>hoc significans eam a spiritu sancto esse diversam. Et 
+      <lb ed="#P" n="29"/>lib. de moribus Eccles. cap. 11. ubi charitatem vocat 
+      <lb ed="#P" n="30"/>virtutem, quae animi nostri rectissima affectio est. 
+      <lb ed="#P" n="31"/>Item lib. de bono conjug. c. 24. lib. 4. contra 
+      Julia<lb ed="#P" n="32" break="no"/>num cap. 3. libro de gratia Christi cap. 20. &amp; 21. &amp; 
+      <lb ed="#P" n="33"/>epist 29. quae est ad Hieronym. ubi affirmat 
+      charita<lb ed="#P" n="34" break="no"/>tem esse magnam &amp; veram virtutem. Quod &amp; de 
+      ju<lb ed="#P" n="35" break="no"/>stitia Christiana quae potissimum in charitate 
+      consi<lb ed="#P" n="36" break="no"/>stit, testatur in expositione Psal. 118. conc. 26. 
+      Tes<lb ed="#P" n="37" break="no"/>tatur etiam Gregor. hom. 8. super Ezechielem 
+      chari<lb ed="#P" n="38" break="no"/>tatem esse virtutem, sine qua reliquae virtutes esse non 
+      <lb ed="#P" n="39"/>possunt. Consentiunt omnes Theologidum ab 
+      Apo<lb ed="#P" n="40" break="no"/>stolo edocti charitatem inter Theologicas virtutes 
+      <lb ed="#P" n="41"/>dignitate primam faciunt. Atqui omnem virtutem 
+      <lb ed="#P" n="42"/>habitum esse diserte docet idem S. Aug. q. 31. inter 
+      <lb ed="#P" n="43"/>83. Eademque omnium Theologorum &amp; recte 
+      philo<lb ed="#P" n="44" break="no"/>sophantium sententia est. Manet ergo conclusio 
+      cha<lb ed="#P" n="45" break="no"/>ritatem esse habitum. Praeterea charitatem ut 
+      habi<lb ed="#P" n="46" break="no"/>tum inesse homini satis insinuat S. Aug. quando lib. 
+      <lb ed="#P" n="47"/>15. de Trinit. cap. 18. dicit spiritum sanctum facere 
+      <lb ed="#P" n="48"/>hominem Dei &amp; proximi amatorem. Hac enim 
+      di<lb ed="#P" n="49" break="no"/>ctione, amator non actus, sed habitus significatur. 
+      <lb ed="#P" n="50"/>Manifestius autem id docet lib. de spiritu &amp; lit. cap. 
+      <lb ed="#P" n="51"/>32. ubi cum dixisset charitatem in nobis non esse nisi 
+      <lb ed="#P" n="52"/>per spiritum sanctum, adjecit: Charitas quippe Dei 
+      <lb ed="#P" n="53"/>dicta est diffundi in cordibus nostris, non qua nos 
+      di<lb ed="#P" n="54" break="no"/>ligit, sed qua nos facit dilectores suos, sicut justitia 
+      <lb ed="#P" n="55"/>Dei qua justi ejus munere efficimur, &amp; Domini 
+      sa<lb ed="#P" n="56" break="no"/>lus, qua salvos facit, &amp; fides Jesu Christi qua nos 
+      fi<lb ed="#P" n="57" break="no"/>deles facit. Haec S. August. in quibus verbis notanda 
+      <lb ed="#P" n="58"/>sunt haec vocabula, charitas, justitia, fides, &amp; haec 
+      il<lb ed="#P" n="59" break="no"/>lis respondentia, dilectores, justi, fideles. Dum ergo 
+      <lb ed="#P" n="60"/>dicit nos in charitate dilectores effici, sicut justitia 
+      <lb ed="#P" n="61"/>justos, &amp; fide fideles, aperte significat charitatem 
+      ha<lb ed="#P" n="62" break="no"/>bitualem nobis inesse sicut justitiam &amp; fidem atque 
+      <lb ed="#P" n="63"/>eo magis, quia rursum utitur vocabulo habitum 
+      si<lb ed="#P" n="64" break="no"/>gnificante, dilectores. 
+    </p>
+            <p xml:id="bt67yj-k25224-d1e213">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Accedunt alia ejusdem doctoris loca. Nam lib. 1. 
+      <lb ed="#P" n="66"/>retract. c. 23. ex Apostoli sententia, qua dicit 
+      chari<lb ed="#P" n="67" break="no"/>tatem diffundi in cordibus nostris per spiritum 
+      san<lb ed="#P" n="68" break="no"/>ctum, everti docet haeresim Pelagianam, quae sentit 
+      <lb ed="#P" n="69"/>non ex Deo, nobis, sed ex nobis esse charitatem, qua 
+      <lb ed="#P" n="70"/>bene ac pie vivimus. Non est autem verisimile 
+      Pe<lb ed="#P" n="71" break="no"/>lagianos tam absurde sensisse, ut putarent nobis in¬ 
+      <!--0091.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>esse ipsum spiritum sanctum ex nobis. Neque dubium 
+      <lb ed="#P" n="73"/>est quin hoc eis objecissent Catholici, si persuasum 
+      <lb ed="#P" n="74"/>habuissent charitatem, qua bene vivimus, proprie 
+      <lb ed="#P" n="75"/>esse spiritum sanctum. Idem Augustinus tractat. 6. 
+      <lb ed="#P" n="76"/>super epistol. Joan. Charitas, inquit, quae in te per 
+      <lb ed="#P" n="77"/>sprritum sanctum facta est, ipsa gemit, ipsa orat. At 
+      <lb ed="#P" n="78"/>spiritus sanctus secundum fidem Catholicam non est 
+      <lb ed="#P" n="79"/>factus sed procedens; Neque omnino potest 
+      quic<lb ed="#P" n="80" break="no"/>quam esse factum a seipso. Simile est quod conc. 25. 
+      <lb ed="#P" n="81"/>in Psalm. 118. dicit per spiritum sanctum inspirari 
+      no<lb ed="#P" n="82" break="no"/>bis charitatem recte factorum. Denique quod lib. 15. 
+      <lb ed="#P" n="83"/>de Trinitate capite 17. rursus charitatem qua nos 
+      <lb ed="#P" n="84"/>Deum diligimus, ab ea qua Deus nos diligit, 
+      diver<lb ed="#P" n="85" break="no"/>sam facit. His accedit ea charitatis definitio, quae est 
+      <lb ed="#P" n="86"/>apud eundem Augustinum lib. 3. de doctrina 
+      Chri<lb ed="#P" n="87" break="no"/>stiana capite 10. Charitas est motus animi ad 
+      fruen<lb ed="#P" n="88" break="no"/>dum Deo propter ipsum &amp; se ac proximo propter 
+      <lb ed="#P" n="89"/>Deum &amp; quaestio 36. inter 83. Charitatem, inquit, 
+      <lb ed="#P" n="90"/>voco motum animi, quo amatur id quod aeternum 
+      <lb ed="#P" n="91"/>est, &amp;c. &amp; lib. de moribus Ecclesiae cap. 11. 
+      Chari<lb ed="#P" n="92" break="no"/>tas, inquit, animi nostri rectissima affectio est, quae 
+      <lb ed="#P" n="93"/>conjungit nos Deo, quaque eum diligimus. Alibi 
+      <lb ed="#P" n="94"/>vero charitatem definit bonam voluntatem, ut lib. 
+      <lb ed="#P" n="95"/>de gratia Christi cap. 21. conc. super Psalm. 38. 
+      ho<lb ed="#P" n="96" break="no"/>mil. 8. inter 50. &amp; lib. 15. de Trinitate, cap. 20. Est 
+      <lb ed="#P" n="97"/>igitur Augustino charitas qua nos Deum diligimus, 
+      <lb ed="#P" n="98"/>non Deus ipse, sed virtus, motus, atque affectio 
+      ani<lb ed="#P" n="99" break="no"/>mi &amp; bona voluntas, id est, bonus habitus, seu motus 
+      <lb ed="#P" n="100"/>voluntatis, &amp; omnino qualitas quaedam nobis a Deo 
+      <lb ed="#P" n="101"/>collata, ac forma inhaerens. Eadem est expressa <name xml:id="bt67yj-k25224-Nd1e301">
+      Ber<lb ed="#P" n="102" break="no"/>nardi Magistro</name> contemporanei sententia in fine lib. 
+      <lb ed="#P" n="103"/>de diligendo Deo. Dicitur, inquit, recte charitas &amp; 
+      <lb ed="#P" n="104"/>Deus, &amp; Dei donum. Itaque charitas dat 
+      charita<lb ed="#P" n="105" break="no"/>tem, substantiva accidentalem. Ubi dantem 
+      signifi<lb ed="#P" n="106" break="no"/>cat, nomen substantiae est, ubi donum, qualitatis. 
+      <lb ed="#P" n="107"/>Eadem verba habentur in epistola ejus 11. ad 
+      Car<lb ed="#P" n="108" break="no"/>thusienses. Cyrillus quoque Graecus lib. 10. in Joan. 
+      <lb ed="#P" n="109"/>sub initium capitis 13. conglutinationem palmitum 
+      <lb ed="#P" n="110"/>cum vite habitudinalem esse dicit, nimirum 
+      signifi<lb ed="#P" n="111" break="no"/>cans habitu quodam charitatis palmites cum vite 
+      <lb ed="#P" n="112"/>cohaerere. His antiquorum Patrum sententiis 
+      adden<lb ed="#P" n="113" break="no"/>dum postremo loco, quod cum patres concilii 
+      Vien<lb ed="#P" n="114" break="no"/>nensis sub Clemente V. declasaverint eam 
+      opinio<lb ed="#P" n="115" break="no"/>nem doctorum esse probabiliorem &amp; dictis 
+      sancto<lb ed="#P" n="116" break="no"/>rum magis consonam, quae dicit, tam parvulis quam 
+      <lb ed="#P" n="117"/>adultis conferri in baptismo informantem 
+      gra<lb ed="#P" n="118" break="no"/>tiam, &amp; virtutes quoad habitum, etiamsi non pro 
+      <lb ed="#P" n="119"/>aetate infantuli quoad usum (ut hic interim 
+      omit<lb ed="#P" n="120" break="no"/>tamus, quod nonnulli docti, ac nominatim 
+      Gui<lb ed="#P" n="121" break="no"/>do Carmclita libro de haeresibus in haeresi Petri 
+      <lb ed="#P" n="122"/>Joannis, illud Concilii decretum acceperunt ut 
+      <lb ed="#P" n="123"/>absolutam definitionem, dicentes ibi non 
+      intelli<lb ed="#P" n="124" break="no"/>gi probabile Topicum, sed quod simpliciter ve 
+      <lb ed="#P" n="125"/>rum esse probatur) certe <ref xml:id="bt67yj-k25224-Rd1e356">Patres Tridentini 
+      Con<lb ed="#P" n="126" break="no"/>cilii Sessione 6. capite 7.</ref> absolute definiendum 
+      <lb ed="#P" n="127"/>censuerunt, ut justificatione impii per spiritum 
+      san<lb ed="#P" n="128" break="no"/>ctum diffundi charitatem Dei in cordibus eorum 
+      <lb ed="#P" n="129"/>qui justificantur, eamque ipsis inhaerere. Qui 
+      e<lb ed="#P" n="130" break="no"/>tiam <ref xml:id="bt67yj-k25224-Rd1e370">ejusdem Sessionis canon. 11.</ref> anathema 
+      di<lb ed="#P" n="131" break="no"/>cunt ei qui dixerit homines justificari absque ea 
+      <lb ed="#P" n="132"/>gratia &amp; charitate quae in cordibus eorum per 
+      spi<lb ed="#P" n="133" break="no"/>ritum sanctum diffundatur, atque illis inhaereat. 
+      <lb ed="#P" n="134"/>Quibus verbis apertissimem declaratur charitatem, 
+      <lb ed="#P" n="135"/>cujus infusione justificamur, esse formam 
+      inhaeren<lb ed="#P" n="136" break="no"/>tem, ideóque a spiritu sancto diversam. Denique 
+      <lb ed="#P" n="137"/>quaecunque vel scripturae, vel Patrum sententiae, 
+      <lb ed="#P" n="138"/>vel conciliorum decreta confirmant catholicam 
+      ad<lb ed="#P" n="139" break="no"/>versus haereticos doctrinam, de justitia formali 
+      at<lb ed="#P" n="140" break="no"/>que inhaerente, eadem omnia faciunt pro 
+      charita<lb ed="#P" n="141" break="no"/>te creata, ac proinde a spiritu sancto diversa; cum 
+      <lb ed="#P" n="142"/>charitas sit ipsa justitia, praesertim ea parte qua 
+      <lb ed="#P" n="143"/>justitia qualitas inhaerens est. Quod Augustinus lib. 
+      <lb ed="#P" n="144"/>de natura &amp; gratia cap. ult. docet his verbis: 
+      Cha<lb ed="#P" n="145" break="no"/>ritas inchoata, inchoata justitia est; charitas provecta, 
+      <!--0092.xml-->
+      <pb ed="#P" n="69"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>provecta justitia est; charitas magna, magna justitia 
+      <lb ed="#P" n="2"/>est; charitas perfecta, perfecta justitia est. Unde &amp; 
+      <lb ed="#P" n="3"/>lib. 3. contra 2. epist. Pel. c. 7. testatur quod quanto 
+      <lb ed="#P" n="4"/>plus diligimus, tanto sumus justiores. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

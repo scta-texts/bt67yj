@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 17</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 17</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="180"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k68144"><!-- l1d41c17" -->
+            <head xml:id="bt67yj-k68144-Hd1e101">Capitulum 17</head>
+            <head xml:id="bt67yj-k68144-Hd1e103" type="question-title">Quaedam notanda pro solutione quaestionis</head>
+            <p xml:id="bt67yj-k68144-d1e106">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> §. 17. Quaedam notanda pro solutione quaestionis. 
+    </p>
+            <p xml:id="bt67yj-k68144-d1e113">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> TT tandem ad propositam quaestionem 
+      respon<lb ed="#P" n="46" break="no"/>deamus, pro ejus enodatione quaedam anno 
+      <lb ed="#P" n="47"/>tanda sunt. 
+    </p>
+            <p xml:id="bt67yj-k68144-d1e124">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Primum quod multiplex reprobationis acceptio 
+      di<lb ed="#P" n="49" break="no"/>versitatem peperit opinionum. Nam non uno modo 
+      <lb ed="#P" n="50"/>de reprobatione ejusque effectibus locuti sunt 
+      do<lb ed="#P" n="51" break="no"/>ctores. Quidam enim reprobationem referunt ad 
+      so<lb ed="#P" n="52" break="no"/>lam aeternam damnationem tanquam effectum, 
+      quo<lb ed="#P" n="53" break="no"/>modo Scotus de reprobatione loqui videtur, cum 
+      <lb ed="#P" n="54"/>dicit quod reprobare non sit aliud quam velle 
+      dam<lb ed="#P" n="55" break="no"/>nare. Licet enim agnoscat in Deo voluntatem 
+      per<lb ed="#P" n="56" break="no"/>mittendi hominem cadere in peccatum, ut alibi 
+      dixi<lb ed="#P" n="57" break="no"/>mus, eam tamen permissionem non dicit esse 
+      repro<lb ed="#P" n="58" break="no"/>bationis effectum; tametsi neque expresse neget. 
+      <lb ed="#P" n="59"/>Quidam vero reprobationem etiam extendunt ad 
+      <lb ed="#P" n="60"/>quosdam effectus evenientes in hac vita, ut sunt 
+      de<lb ed="#P" n="61" break="no"/>relictio hominis in peccato, excoecatio, obduratio; 
+      <lb ed="#P" n="62"/>non tamen ad permissionem peccati in quod a 
+      justi<lb ed="#P" n="63" break="no"/>tia quis prolabitur, praesertim peccati originalis. Sic 
+      <lb ed="#P" n="64"/>de reprobatione, loqui plerumque videtur 
+      Augusti<lb ed="#P" n="65" break="no"/>nus, Prosper, Fulgentius &amp; alii qui eos pressius 
+      se<lb ed="#P" n="66" break="no"/>cuti sunt. Et secundum hos reprobatio Dei supponit 
+      <lb ed="#P" n="67"/>massam corruptam humani generis. 
+    </p>
+            <p xml:id="bt67yj-k68144-d1e173">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Alii denique etiam permissionem hujusmodi 
+      tan<lb ed="#P" n="69" break="no"/>quam effectum quemdam divinae reprobationi 
+      sub<lb ed="#P" n="70" break="no"/>jiciunt. Quae sine dubio S. Thomae sententia est, ut 
+      <lb ed="#P" n="71"/>patet ex supra dictis, maxime ad superiorem 
+      distin<lb ed="#P" n="72" break="no"/>ctionem ubi de reprobationis effectibus agebamus. 
+      <!--0203.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Quo etiam loco pluribus hanc sententiam 
+      probavi<lb ed="#P" n="74" break="no"/>mus. Cujus probationis summa est, quod 
+      reproba<lb ed="#P" n="75" break="no"/>tio sit providentia Dei respectu eorum qui a salute 
+      <lb ed="#P" n="76"/>aeterna deficiunt, videlicet ordinans eos ad certum 
+      <lb ed="#P" n="77"/>finem, qui est ostensio justitiae ipsius. In quo ordine 
+      <lb ed="#P" n="78"/>primum locum specialiter obtinet peccati per 
+      justi<lb ed="#P" n="79" break="no"/>tiam divinam vindicandi permissio. Quae 
+      reproba<lb ed="#P" n="80" break="no"/>tionis acceptio videtur propriissima, quatenus 
+      re<lb ed="#P" n="81" break="no"/>probatio praedestinationi ex adverso opponitur, &amp; 
+      <lb ed="#P" n="82"/>ambae sub providentia Dei circa rationalem 
+      creatu<lb ed="#P" n="83" break="no"/>ram continentur. Unde S. Thomas, cum, inquit, 
+      <lb ed="#P" n="84"/>per divinam providentiam homines in vitam aeternam 
+      <lb ed="#P" n="85"/>ordinentur, pertinet etiam ad eandem, ut permittas 
+      <lb ed="#P" n="86"/>aliquos ab hoc fine deficere. Et hoc dicitur reprobare 
+      <lb ed="#P" n="87"/>1. quaest. 23. art. 3. Vide eundem in commentario 
+      <lb ed="#P" n="88"/>epistolae ad Rom. 9. 
+    </p>
+            <p xml:id="bt67yj-k68144-d1e228">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Secundo notandum quaestionem ipsam dupliciter 
+      <lb ed="#P" n="90"/>accipi posse: Uno modo comparative, ut sensus sit; 
+      <lb ed="#P" n="91"/>utrum in reprobato, verbi gratia in Esau, causa sit 
+      <lb ed="#P" n="92"/>cur potius reprobatus fuerit quam Jacob, juxta quem 
+      <lb ed="#P" n="93"/>sensum saepe respondet Augustinus negative, quia 
+      <lb ed="#P" n="94"/>etiam praesupposito peccato originali, non fuit 
+      ma<lb ed="#P" n="95" break="no"/>jor ratio reprobandi Esau quam Jacob, ex parte 
+      ipso<lb ed="#P" n="96" break="no"/>rum, utpote quos constet in massa vitiata fuisse 
+      ae<lb ed="#P" n="97" break="no"/>qualiter peccatores, sicut &amp; caeteros omnes 
+      homi<lb ed="#P" n="98" break="no"/>nes quoad originale peccatum. Quae responsio etiam 
+      <lb ed="#P" n="99"/>obtinet juxta tertiam reprobationis acceptionem, ut 
+      <lb ed="#P" n="100"/>per se patet. Cur enim peccatum omne praeveniendo, 
+      <lb ed="#P" n="101"/>Deus alium prae alio cadere permiserit in peccatum, 
+      <lb ed="#P" n="102"/>ex quo postea damnaretur, nulla est ex parte 
+      homi<lb ed="#P" n="103" break="no"/>nis ratio. Non obtinet autem secundum primam 
+      ac<lb ed="#P" n="104" break="no"/>ceptionem: nam aeternam damnationem magna 
+      <lb ed="#P" n="105"/>praecedit peccatorum inaequalitas. 
+    </p>
+            <p xml:id="bt67yj-k68144-d1e270">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Altero modo absolute &amp; sine comparatione, ut sit 
+      <lb ed="#P" n="107"/>sensus: an omnino sit in eo qui reprobatur meritum 
+      <lb ed="#P" n="108"/>aliquod, ob quod praevisum a Deo reprobetur. Sic 
+      <lb ed="#P" n="109"/>igitur intellecta quaestione respondetur; si 
+      reproba<lb ed="#P" n="110" break="no"/>tio solam spectet aeternam damnationem causam 
+      <lb ed="#P" n="111"/>ejus esse peccata propter quae praevisa Deus 
+      homi<lb ed="#P" n="112" break="no"/>nem damnat. Eademque responsio est si 
+      reprobatio<lb ed="#P" n="113" break="no"/>nem extendas ad effectus permissione primi peccati 
+      <lb ed="#P" n="114"/>posteriores. Nam ideo deserit Deus hominem &amp; 
+      <lb ed="#P" n="115"/>excoecat &amp; obdurat in peccato, quia pfaecedentibus 
+      <lb ed="#P" n="116"/>peccatis hanc poenam meruit, ut multis locis testatur 
+      <lb ed="#P" n="117"/>scriptura. Quod si vero reprobationem accipias 
+      se<lb ed="#P" n="118" break="no"/>cundum totam latitudinem suorum effectuum, inter 
+      <lb ed="#P" n="119"/>quos est permissio peccati, jam aliter respondendum 
+      <lb ed="#P" n="120"/>est, scilicet nullum esse in reprobato meritum sua 
+      <lb ed="#P" n="121"/>reprobationis. Si enim permissio primi peccati sub 
+      <lb ed="#P" n="122"/>reprobatione continetur, cum non possit idem 
+      pec<lb ed="#P" n="123" break="no"/>catum esse illius permissionis causa, consequens est 
+      <lb ed="#P" n="124"/>ipsum nec totius reprobationis causam dici posse. 
+      <lb ed="#P" n="125"/>Quae quidem est plana sententia Sancti Thomae &amp; 
+      <lb ed="#P" n="126"/>sequacium ejus 
+    </p>
+            <p xml:id="bt67yj-k68144-d1e320">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Verum ut ea melius intelligatur, tertio loco 
+      no<lb ed="#P" n="128" break="no"/>tandum discrimen inter reprobationem &amp; 
+      praedesti<lb ed="#P" n="129" break="no"/>nationem quoad utriusque effectus. Nam effectus 
+      <lb ed="#P" n="130"/>praedestinationis certum quemdam ordinem habent 
+      <lb ed="#P" n="131"/>inter se secundum rationem meriti &amp; causae finalis, 
+      <lb ed="#P" n="132"/>qui ordo inter effectus reprobationis non invenitur. 
+      <lb ed="#P" n="133"/>Quamvis enim praedestinatio non cadat sub merito, 
+      <lb ed="#P" n="134"/>sic tamen inter se ordinantur effectus ejus, ut 
+      pri<lb ed="#P" n="135" break="no"/>mus mereatur secundum &amp; secundus tertium, &amp; ita 
+      <lb ed="#P" n="136"/>deinceps usque ad ultimum. Unde &amp; contra sic se 
+      <lb ed="#P" n="137"/>habent, ut ultimus effectus sit finis proximi, &amp; ita 
+      <lb ed="#P" n="138"/>deinceps usque ad primum. Hunc autem ordinem 
+      <lb ed="#P" n="139"/>inter se non habent effectus reprobationis. Nam 
+      <lb ed="#P" n="140"/>permissio peccati non meretur derelictionem 
+      ho<lb ed="#P" n="141" break="no"/>minis in peccato, neque altera illarum vel ambae 
+      <lb ed="#P" n="142"/>simul merentur aeternam damnationem. Sunt enim 
+      <lb ed="#P" n="143"/>actus providentiae Dei circa hominem &amp; proinde 
+      <lb ed="#P" n="144"/>boni, sed tam derelictionem quam 
+      damnatio<lb ed="#P" n="145" break="no"/>nem merentur ipsius hominis peccata, quae non 
+      <lb ed="#P" n="146"/>sunt a Deo, sed tantum fiunt eo permittente &amp; dese¬ 
+      <!--0204.xml-->
+      <pb ed="#P" n="181"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Sic &amp; de causa finali. Non enim altera damnatio 
+      fi<lb ed="#P" n="2" break="no"/>nis est derelictionis in peccato aut permissionis ejus, 
+      <lb ed="#P" n="3"/>neque rursum derelictio permissionis. Neque enim 
+      <lb ed="#P" n="4"/>sic imaginandum est de his effectibus, quasi Deus 
+      im<lb ed="#P" n="5" break="no"/>mediate praeordinet hominem ad aeternam 
+      damna<lb ed="#P" n="6" break="no"/>tionem, sicut immediate eum praeordinat ad 
+      glo<lb ed="#P" n="7" break="no"/>riam, ac deinde reliquos effectus tanquam media 
+      <lb ed="#P" n="8"/>quaedam ordinet in eum finem sicut in 
+      praedestina<lb ed="#P" n="9" break="no"/>tione; sed omnes effectus reprobationis simul ordinat 
+      <lb ed="#P" n="10"/>ad unum finem qui est manifestatio justitiae ipsius in 
+      <lb ed="#P" n="11"/>universo, quae, dum fit circa reprobos; consequitur 
+      <lb ed="#P" n="12"/>etiam illustrior ostensio misericordiae ejus erga 
+      prae<lb ed="#P" n="13" break="no"/>destinatos, quemadmodum Rom. 9. docet 
+      aposto<lb ed="#P" n="14" break="no"/>lus. Non igitur ideo permittit Deus homines cadere 
+      <lb ed="#P" n="15"/>in peccatum, ut eos derelinquat &amp; puniat, neque 
+      <lb ed="#P" n="16"/>ideo derelinquit ut damnet, quomodo quidam male 
+      <lb ed="#P" n="17"/>sententiam S. Thomae intelligunt, &amp; male 
+      intelle<lb ed="#P" n="18" break="no"/>ctam comprehendunt, sed permittit, derelinquit &amp; 
+      <lb ed="#P" n="19"/>damnat, ut justitiam suam in ipsos simul &amp; 
+      miseri<lb ed="#P" n="20" break="no"/>cordiam in alios ostendat, in omnibus autem ipse 
+      <lb ed="#P" n="21"/>gloriosus appareat. Hoc modo rem istam bene 
+      expli<lb ed="#P" n="22" break="no"/>cant Ferrariensis, Cajetanus &amp; Bannesius. Unde 
+      pa<lb ed="#P" n="23" break="no"/>ter cum dicitur Deus reprobare homines vel angelos 
+      <lb ed="#P" n="24"/>non ex praevisis meritis, non significari quod eorum 
+      <lb ed="#P" n="25"/>praeordinatio ad poenam aeternam sit ex sola Dei 
+      vo<lb ed="#P" n="26" break="no"/>suntate, non autem ex praevisione peccatorum, ac 
+      <lb ed="#P" n="27"/>multo minus quod Deus poenam ipsam inferat sine 
+      <lb ed="#P" n="28"/>meritis, qui sensus haereticus est, &amp; scripturis aperte 
+      <lb ed="#P" n="29"/>contrarius; neque rursum significari quod ipsa 
+      dam<lb ed="#P" n="30" break="no"/>natio sit finis permissionis peccati &amp; derelictionis in 
+      <lb ed="#P" n="31"/>peccato, quasi Deus ideo peccata fieri permittat, ut 
+      <lb ed="#P" n="32"/>ea puniat; sed hoc tantum significari, quod totius 
+      <lb ed="#P" n="33"/>effectus reprobationis ratio seu causa non sit 
+      pecca<lb ed="#P" n="34" break="no"/>tum; quippe quod esse non possit causa permissionis 
+      <lb ed="#P" n="35"/>incidendi in ipsum. Quam permissionem juxta 
+      prae<lb ed="#P" n="36" break="no"/>dictam S. Thomae sententiam reprobatio 
+      compre<lb ed="#P" n="37" break="no"/>hendit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="6"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k02156"><!-- l1d2c1" -->
+            <head xml:id="bt67yj-k02156-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k02156-Hd1e103" type="question-title">Unum esse Deum, non plures</head>
+            <p xml:id="bt67yj-k02156-d1e106">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> IN DISTINCTIONEM SECUNDAM. 
+      <lb ed="#P" n="116"/>§. 1. Vnum esse Deum, non plures. 
+    </p>
+            <p xml:id="bt67yj-k02156-d1e115">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> ACCEDENTI ad investigandum 
+      aliquous<lb ed="#P" n="118" break="no"/>que mysterium Trinitatis, ante omnia 
+      cer<lb ed="#P" n="119" break="no"/>tissime tenendum est, unum esse Deum, 
+      <lb ed="#P" n="120"/>enim esse &amp; posse in divinis atque aeternis eadem, 
+      <lb ed="#P" n="121"/>in quibus potentia ab actu nunquam est separata. 
+      <lb ed="#P" n="122"/>Hanc Dei unitatem passim Scriptura commemorat 
+      <lb ed="#P" n="123"/>plures autem Deos nec esse, nec esse posse. Sunt 
+      <lb ed="#P" n="124"/>ut Deut. 6. Audi Israel: Dominus Deus noster, Deus 
+      <lb ed="#P" n="125"/>unus est, quod a Christo in Evangelio repetitum est. 
+      <lb ed="#P" n="126"/>Marci 12. Item Deut. 4. Non est alius praeter unum 
+      <lb ed="#P" n="127"/>1. Reg. 2. Non est alius extra te, Isa. 37. Tu es Deus 
+      <lb ed="#P" n="128"/>solus. &amp; 44. Ego primus &amp; ego novissimus &amp; absque 
+      <lb ed="#P" n="129"/>me non est Deus, &amp; 45. Ego Dominus &amp; non est 
+      am<lb ed="#P" n="130" break="no"/>plius: extra me non est Deus, &amp; iterum, ego Dominus &amp; 
+      <lb ed="#P" n="131"/>non est alter, quod &amp; infra saepius repetitur, Jud. 5. de 
+      <lb ed="#P" n="132"/>Patriarchis, Deserentes caeremonias quae in multitudine 
+      <lb ed="#P" n="133"/>est altißimus creator omnipotens, Marci 10. Nemo bonus 
+      <lb ed="#P" n="134"/>nisi unus Deus, Gal. 3. Deus autem unus est. 1. Cor. 8. 
+      <lb ed="#P" n="135"/>Nullus est Deus nisi unus. Nam etsi sint qui dicantur 
+      <lb ed="#P" n="136"/>Deorum erant, unum Deum caeli coluerunt; Eccl. I. Unus 
+      <lb ed="#P" n="137"/>Dii, sive in coelo sive in terra nobis tantum unus Deus. 
+      <lb ed="#P" n="138"/>Quo loco neminem turbare debet illa parenthesis 
+      <lb ed="#P" n="139"/>(S unt Dii multi &amp; Domini multi) quasi 
+      fa<lb ed="#P" n="140" break="no"/>teatur Apostolus esse Deos multos licet a nobis non 
+      <!--0030.xml-->
+      <pb ed="#P" n="7"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>colendos: sensus enim est, esse aliis sed graviter 
+      er<lb ed="#P" n="2" break="no"/>rantibus multos Deos, nobis autem lumine fidei 
+      illu<lb ed="#P" n="3" break="no"/>stratis, non esse nisi unum Deum; vel certe id quod 
+      <lb ed="#P" n="4"/>dixerat, qui dicantur, in parenthesi repetendum est, 
+      <lb ed="#P" n="5"/>hoc modo: Si quidem sunt qui dicantur Dii multi. 
+    </p>
+            <p xml:id="bt67yj-k02156-d1e189">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> His accedit totius Ecclesiae Catholicae confessio, 
+      <lb ed="#P" n="7"/>tam in Symbolo Constantinopol. &amp; Athanasii, &amp; in 
+      <lb ed="#P" n="8"/>scriptis omnium Patrum, quam in ore omnium 
+      fide<lb ed="#P" n="9" break="no"/>lium una voce profitentium, se credere in unum 
+      <lb ed="#P" n="10"/>Deum. Sed cum in hac veritate tanquam primo 
+      re<lb ed="#P" n="11" break="no"/>ligionis fundamento non tantum Christiani omnes 
+      <lb ed="#P" n="12"/>conveniant, verum etiam Judaei &amp; Mahometani, &amp; 
+      <lb ed="#P" n="13"/>omnes fere omnium temporum haeretici; cumque 
+      <lb ed="#P" n="14"/>etiam ratione naturali possit eadem haec veritas 
+      de<lb ed="#P" n="15" break="no"/>monstrari, quemadmodum proximo capite 
+      docebi<lb ed="#P" n="16" break="no"/>mus, non est nobis in ejus probatione diutius 
+      haeren<lb ed="#P" n="17" break="no"/>dum; praesertim cum saniores omnes Philosophi, sic 
+      <lb ed="#P" n="18"/>quoque sensisse inveniantur, lice disertis verbis 
+      <lb ed="#P" n="19"/>communem errorem damnare non fuerint ausi, ut 
+      <lb ed="#P" n="20"/>Pythagoras, Plato, Aristoteles, &amp; alii. Nam de 
+      Py<lb ed="#P" n="21" break="no"/>thagora sic Boetius loquitur lib. 1. consol. Ph. 
+      Instil<lb ed="#P" n="22" break="no"/>labas auribus cogitationibusque quotidie meis 
+      Py<lb ed="#P" n="23" break="no"/>thagoricum illud, ἐνὶ θεῳ, θηοvis, uni Deo, non Diis. 
+      <lb ed="#P" n="24"/>De Platone vero, quod unum Deum agnoverit 
+      testa<lb ed="#P" n="25" break="no"/>tur Cyprianus in libro de Idolorum vanitate, &amp; ex 
+      <lb ed="#P" n="26"/>Cypriano Augustinus in fine lib. 6. contra 
+      Donati<lb ed="#P" n="27" break="no"/>stas. Item Eusebius lib. II. de praeparatione Evang. 
+      <lb ed="#P" n="28"/>cap. 9. valde clare ex ipso Platone. Aristotelem 
+      au<lb ed="#P" n="29" break="no"/>tem omnia reduxisse ad unum primum movens 
+      im<lb ed="#P" n="30" break="no"/>mobile, infinitum, indivisibile, aeternum, quod 
+      <lb ed="#P" n="31"/>non est aliud quam unus Deus, notum est iis qui 
+      <lb ed="#P" n="32"/>Physica &amp; Metaphysica ejus legerunt. Hermes 
+      quo<lb ed="#P" n="33" break="no"/>que Trismegistus unum Deum loquitur, &amp; eum 
+      in<lb ed="#P" n="34" break="no"/>comprehensibilem atque inaestimabilem confitetur, 
+      <lb ed="#P" n="35"/>ut habet ibidem ex Cypriano Augustinus. 
+    </p>
+            <p xml:id="bt67yj-k02156-d1e260">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Ex dictis facile est judicare, quo loco habendae sint 
+      <lb ed="#P" n="37"/>istae propositiones, plures sunt Dii, non unus est Deus, 
+      <lb ed="#P" n="38"/>cum enim evidenter atque ipsis terminis adversentur 
+      <lb ed="#P" n="39"/>huic propositioni: unus est Deus, ac posterior etiam 
+      <lb ed="#P" n="40"/>illi contradicat, non est dubitandum quin sint 
+      haere<lb ed="#P" n="41" break="no"/>ticae atque impiae. Et quamvis Alfonsus de Castro 
+      <lb ed="#P" n="42"/>lib. 1. de punitione haereticorum cap. 3. dicat hanc 
+      <lb ed="#P" n="43"/>propositionem, tres sunt Dii, sapere haeresim, eo 
+      <lb ed="#P" n="44"/>quod ex vi verborum parata est, ut ait, haereticum 
+      <lb ed="#P" n="45"/>sensum reddere, revera tamen nihil obstare credo 
+      <lb ed="#P" n="46"/>quo minus simpliciter censeatur haeretica, prout 
+      ver<lb ed="#P" n="47" break="no"/>ba jacent, non minus quam istae, duo sunt Dii, 
+      qua<lb ed="#P" n="48" break="no"/>tuor sunt Dii, plures sunt Dii; licet aliquis posset 
+      <lb ed="#P" n="49"/>hunc ejus dare sensum catholicum, tres sunt 
+      haben<lb ed="#P" n="50" break="no"/>tes divinitatem; sed hic sensus illi propositioni non 
+      <lb ed="#P" n="51"/>respondet, neque propter hunc sensum illa 
+      propo<lb ed="#P" n="52" break="no"/>sitio ullatenus est admittenda, quemadmodum ex 
+      <lb ed="#P" n="53"/>infra dicendis manifestius evadet. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

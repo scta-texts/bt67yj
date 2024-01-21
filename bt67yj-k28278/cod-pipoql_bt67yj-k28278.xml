@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="76"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k28278"><!-- l1d20c3" -->
+            <head xml:id="bt67yj-k28278-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k28278-Hd1e103" type="question-title">Inseparabilia ee Trinitatis opera</head>
+            <p xml:id="bt67yj-k28278-d1e106">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> §. 3. Inseparabilia ee Trinitatis opera. 
+    </p>
+            <p xml:id="bt67yj-k28278-d1e113">
+               <lb ed="#P" n="50"/>HIs oportune adjiciendum, ita potentiam tribus 
+      <lb ed="#P" n="51"/>personis esse communem, ut inseparabilia sint 
+      <lb ed="#P" n="52"/>opera quaecunque ab illa procedunt, id est, quaecun 
+      <lb ed="#P" n="53"/>que Deus ad extra operatur. Imo fieri omnino non 
+      <lb ed="#P" n="54"/>posse, ut una persona operetur aliquid sine alia vel 
+      <lb ed="#P" n="55"/>aliis duabus. Est enim ridicula &amp; Catholicae fidei 
+      <lb ed="#P" n="56"/>plane contraria Manichaeorum fabula, qua singulis 
+      <lb ed="#P" n="57"/>personis certas sedes assignabant, &amp; virtutes suas 
+      <lb ed="#P" n="58"/>exercere sinvulas in diversis elementis aut creaturis 
+      <lb ed="#P" n="59"/>asserebant. Probatur autem Catholica doctrina hac 
+      <lb ed="#P" n="60"/>certissima ratione. In Deo non est aliud esse, aliud 
+      <lb ed="#P" n="61"/>posse, aliud velle &amp; operari, sed haec omnia sunt 
+      <lb ed="#P" n="62"/>unum &amp; idem, juxta illud quod dici solet: In 
+      divi<lb ed="#P" n="63" break="no"/>nis omnia esse unum, ubi non obviat relationis 
+      op<lb ed="#P" n="64" break="no"/>positio. Sicut ergo trium personarum una est atque 
+      <lb ed="#P" n="65"/>indivisa essentia, ita est una potentia; &amp; per 
+      conse<lb ed="#P" n="66" break="no"/>quens una voluntas &amp; operatio. Unde quaecunque 
+      <lb ed="#P" n="67"/>sunt operationes unius personae, sunt &amp; aliarum, &amp; 
+      <lb ed="#P" n="68"/>quaecunque opera ab una persona producuntur, 
+      ne<lb ed="#P" n="69" break="no"/>cessario producuntur etiam a reliquis duabus, idque 
+      <lb ed="#P" n="70"/>„non diversa, sed una &amp; indivisa operatione. Atque 
+      <lb ed="#P" n="71"/>haec Augustini probatio est lib. contra serm. 
+      Ariano<lb ed="#P" n="72" break="no"/>rum cap. 15. dicentis: Non potest operatio esse divisa, 
+      <!--0099.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>ubi non solum aequalis est verum etiam indiscreta 
+      <lb ed="#P" n="74"/>natura. Probatur etiam peculiariter ex unitate 
+      po<lb ed="#P" n="75" break="no"/>tentiae. Si enim trium personarum una est &amp; eadem 
+      <lb ed="#P" n="76"/>potentia, necesse est omnes operationes ab illa 
+      pro<lb ed="#P" n="77" break="no"/>cedentes tribus personis esse communes. Idem 
+      osten<lb ed="#P" n="78" break="no"/>dunt scripturae. Nam creationem mundi &amp; partium 
+      <lb ed="#P" n="79"/>ejus modo patri, modo filio, modo spiritui sancto 
+      <lb ed="#P" n="80"/>legimus in scripturis attributam, ut Ps. 32. Verbo 
+      Do<lb ed="#P" n="81" break="no"/>mini caeli firmati sunt &amp; spirituoris ejus omnis virtus 
+      <lb ed="#P" n="82"/>eorum, &amp;c. Unde &amp; filius Joan. 5. Se cum patre 
+      om<lb ed="#P" n="83" break="no"/>nia operari testatur dicens: Pater meus usque modo 
+      <lb ed="#P" n="84"/>operatur &amp; ego operor. Et iterum: Quaecunque pater 
+      <lb ed="#P" n="85"/>facit, haec &amp; filius similiter facit. Et Prov. 8. Cum eo 
+      <lb ed="#P" n="86"/>eram cuncta componens. Ac rursum Joan. 1. Omnia per 
+      <lb ed="#P" n="87"/>ipsum facta sunt, &amp; sine ipso factum est nihil, id est, 
+      <lb ed="#P" n="88"/>pater nihil fecit sine filio. Facit autem idem filius 
+      <lb ed="#P" n="89"/>opera sua in spiritu sancto, sicut ipse dicit Matth. 10. 
+      <lb ed="#P" n="90"/>Si ego in spiritu Dei ejicio daemones, &amp;c. Sic &amp; 
+      sanctifi<lb ed="#P" n="91" break="no"/>catio nostra tum alibi, tum apertissime Matth. ult. toti 
+      <lb ed="#P" n="92"/>tribuitur Trinitati, dum jubentur Apostoli baptizare 
+      <lb ed="#P" n="93"/>credentes in nomine patris, &amp; filii, &amp; spiritus sancti. 
+      <lb ed="#P" n="94"/>Denique nullum in scripturis opus legimus 
+      attribu<lb ed="#P" n="95" break="no"/>tum uni ex tribus personis, quod ab alia vel aliis 
+      re<lb ed="#P" n="96" break="no"/>moveatur, ac non potius interdum aliis attributum 
+      <lb ed="#P" n="97"/>legatur; sed ita ut filius sicut esse, ita &amp; 
+      operariacci<lb ed="#P" n="98" break="no"/>piat a patre; quemadmodum ipse testatur. Joan. 5. 
+      <lb ed="#P" n="99"/>Non potest filius a se facere quicquam, nisi quod viderit 
+      <lb ed="#P" n="100"/>patrem facientem. Similiter &amp; spiritus sanctus sicut 
+      <lb ed="#P" n="101"/>esse, ita &amp; operari accipit a patre &amp; filio. Non enim 
+      <lb ed="#P" n="102"/>loquitur a semetipso, sed quaecunque audit loquitur. 
+      <lb ed="#P" n="103"/>Joan. 16. ut sicut a patre est principium essendi, ita 
+      <lb ed="#P" n="104"/>ab eodem sit principium operandi 
+    </p>
+            <p xml:id="bt67yj-k28278-d1e239">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Hanc porro communionem atque 
+      inseparabilita<lb ed="#P" n="106" break="no"/>tem operationum patris, contra haereticos ac 
+      potissi<lb ed="#P" n="107" break="no"/>mum Arianos, qui filium voluntate, ac proinde 
+      ope<lb ed="#P" n="108" break="no"/>ratione posse dissidere a patre docebant, constanter 
+      <lb ed="#P" n="109"/>patres tradiderunt. Unde est illa imprimis Hilarii 
+      <lb ed="#P" n="110"/>sententia lib. 7. de trinit. In divinis personis nihil 
+      <lb ed="#P" n="111"/>esse diyersum, nihil alienum, nihil separabile. Quod 
+      <lb ed="#P" n="112"/>ipsum multis locis docet S. Augustinus ut epistol. 99. 
+      <lb ed="#P" n="113"/>ad Evodium ubi sic ait: Quid facit filius sine spiritu 
+      <lb ed="#P" n="114"/>sancto vel sine patre, cum inseparabilia sint omnia 
+      <lb ed="#P" n="115"/>opera Trinitatis? Item l. 1. de trinit. cap. 4. &amp; 5. lib. 
+      <lb ed="#P" n="116"/>contra sermonem Arianorum capite decimosexto, 
+      <lb ed="#P" n="117"/>tract. 20. in Joan. serm. 11. de Verbis Domini c. 15. 
+      <lb ed="#P" n="118"/>&amp; 16. &amp; serm. 63. per plura capita, Ench. 38. &amp; lib. 
+      <lb ed="#P" n="119"/>de vera Religione cap. 7. Tradit eandem doctrinam 
+      <lb ed="#P" n="120"/>sancti Augustini titulo liber de trinitate &amp; unitate 
+      <lb ed="#P" n="121"/>Dei c. 7. &amp; sequentibus tom. 4. In eandem &amp; caeteri 
+      <lb ed="#P" n="122"/>Patres sine dubitatione consentiunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

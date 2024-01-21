@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="79"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k29479"><!-- l1d23c1" -->
+            <head xml:id="bt67yj-k29479-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k29479-Hd1e103" type="question-title">Quid nomine personae significetur</head>
+            <p xml:id="bt67yj-k29479-d1e106">
+               <lb ed="#P" n="59"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="60"/>VICESIMAMTERTIAM. 
+      <lb ed="#P" n="61"/>§. 1. Quid nomine personae significetur.
+    </p>
+            <p xml:id="bt67yj-k29479-d1e115">
+               <lb ed="#P" n="62"/>PERSONAE vocabulum id habet peculiare, quod 
+      <lb ed="#P" n="63"/>cum caetera quae Deo tribuuntur, vel possint 
+      <lb ed="#P" n="64"/>vel debeant in numero singulari dici de 
+      plu<lb ed="#P" n="65" break="no"/>ribus personis simul sumptis, hoc solum tale sit, ut 
+      <lb ed="#P" n="66"/>pluribus simul personis nunquam singulari numero 
+      <lb ed="#P" n="67"/>tribui possit, sed plurali tantum. Neque enim fas est 
+      <lb ed="#P" n="68"/>dicere, patrem &amp; filium &amp; Spiritum sanctum esse 
+      <lb ed="#P" n="69"/>unam personam, sicut unum Deum, unum 
+      Do<lb ed="#P" n="70" break="no"/>minum, unum aeternum sed tres personas. Cujus 
+      <!--0102.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>ratio ut intelligatur explicandum, quid nomina 
+      <lb ed="#P" n="72"/>personae significetur. Nam hoc nomine in divinis 
+      <lb ed="#P" n="73"/>etiam ante Arianorum exortam haeresim atque ab 
+      ip<lb ed="#P" n="74" break="no"/>sis pene incunabulis suis usa est Ecclesia Christi. Sic 
+      <lb ed="#P" n="75"/>enim legimus apud Tertull. lib. adversus Praxeam 
+      <lb ed="#P" n="76"/>cap. 26. Nam non semel, sed ter ad singula nomina, 
+      <lb ed="#P" n="77"/>in personas singulas tingimur. Personam itaque 
+      defi<lb ed="#P" n="78" break="no"/>nit Boetius in libro de duabus naturis, &amp; una 
+      perso<lb ed="#P" n="79" break="no"/>na Christi, contra Eutychen &amp; Nestorium scripto, 
+      <lb ed="#P" n="80"/>esse rationalis naturae individuam substantiam. 
+      Ri<lb ed="#P" n="81" break="no"/>chardus autem Victorinus lib. 4. de Trinit. cap. 18. 
+      <lb ed="#P" n="82"/>&amp; 23. dicit eam esse, intellectualis naturae 
+      incommu<lb ed="#P" n="83" break="no"/>nicabilem existentiam. Nonnullam etiam 
+      definitio<lb ed="#P" n="84" break="no"/>nis speciem habet quod sanctus Ambrosius lib. 5. de 
+      <lb ed="#P" n="85"/>fide ad Gratianum cap. 2. personam humanam 
+      vo<lb ed="#P" n="86" break="no"/>cat hominem specialem, id est, individuum. 
+    </p>
+            <p xml:id="bt67yj-k29479-d1e176">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> In definitione Boetii, quam fere scholae retinent 
+      <lb ed="#P" n="88"/>substantiam intelligere oportet, rem aliquam per se 
+      <lb ed="#P" n="89"/>subsistentem, eamque completam. Nam 
+      accidenti<lb ed="#P" n="90" break="no"/>bus personae nomen non convenit, nec formis 
+      sub<lb ed="#P" n="91" break="no"/>stantialibus, ne quidem animae separatae; 
+      quemad<lb ed="#P" n="92" break="no"/>modum ad distinctionem quintam lib. 3. Theolog. 
+      <lb ed="#P" n="93"/>docent, Magistro licet dissentiente. Individuam 
+      au<lb ed="#P" n="94" break="no"/>tem substantiam intellige, quae ut sua definitione 
+      <lb ed="#P" n="95"/>clarius explicat Richardus, incommunicabilis est, id 
+      <lb ed="#P" n="96"/>est, quae pluribus realiter distinctis communicari 
+      ne<lb ed="#P" n="97" break="no"/>queat, sed ipsa a quolibet alio sit incommunicabili 
+      <lb ed="#P" n="98"/>proprietate distincta. Hinc igitur consequens est 
+      di<lb ed="#P" n="99" break="no"/>vinam essentiam, sub propria ratione essentiae 
+      consi<lb ed="#P" n="100" break="no"/>deratam, non esse personam. Quamvis enim in Deo 
+      <lb ed="#P" n="101"/>essentia revera persona sit, alia tamen essentiae, alia 
+      <lb ed="#P" n="102"/>personae ratio est. Et essentia quidem, ut talis, reipsa 
+      <lb ed="#P" n="103"/>communicabilis est, persona autem 
+      incommunica<lb ed="#P" n="104" break="no"/>bilis. Ac rursum tametsi essentia divina quodam 
+      sen<lb ed="#P" n="105" break="no"/>su individua dici possit, recteque dicatur, quia 
+      ni<lb ed="#P" n="106" break="no"/>mirum neque genus est, neque species, sed res una 
+      <lb ed="#P" n="107"/>numero, &amp; ut ita dicamus, singularis; sic enim 
+      san<lb ed="#P" n="108" break="no"/>ctus Thomas loquimur 1. quaest. 13. art. 11. juxta 
+      da<lb ed="#P" n="109" break="no"/>tam tamen personae definitionem, individua dici non 
+      <lb ed="#P" n="110"/>potest, quia non est incommunicabilis. 
+      Communica<lb ed="#P" n="111" break="no"/>tur enim tribus personis. Quod additur in 
+      definitio<lb ed="#P" n="112" break="no"/>ne, naturae rationalis, personam tanquam quiddam 
+      <lb ed="#P" n="113"/>specialius a supposito distinguit. Est enim 
+      supposi<lb ed="#P" n="114" break="no"/>tum individua substantia cujuscunque naturae, ut hic 
+      <lb ed="#P" n="115"/>equus, hic lapis. Personae autem vocabulum, non nisi 
+      <lb ed="#P" n="116"/>substantiae rationali, id est, intellectuali, ut Richardi 
+      <lb ed="#P" n="117"/>definitio habet, usu latine loquentium tribuitur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="195"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k73736"><!-- l1d46c1" -->
+            <head xml:id="bt67yj-k73736-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k73736-Hd1e103" type="question-title">An Dei voluntas semper impleatur</head>
+            <p xml:id="bt67yj-k73736-d1e106">
+               <lb ed="#P" n="20"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="21"/>QUADRACESIMAMSEXTAM.
+      <lb ed="#P" n="22"/>§. 1. An Dei voluntas semper impleatur? 
+    </p>
+            <p xml:id="bt67yj-k73736-d1e115">
+               <lb ed="#P" n="23"/>AD quaestionem qua quaeritur, utrum 
+      volun<lb ed="#P" n="24" break="no"/>tas Dei semper &amp; in omnibus impleatur, id 
+      <lb ed="#P" n="25"/>Aest, an quicquid Deus vult fiat, cum 
+      distin<lb ed="#P" n="26" break="no"/>ctione ex superioribus sumpta, respondendum est. 
+      <lb ed="#P" n="27"/>Nam voluntatem beneplaciti Dei, quam simpliciter 
+      <lb ed="#P" n="28"/>&amp; proprie voluntatem. Dei esse diximus, necesse est 
+      <lb ed="#P" n="29"/>semper impleri; voluntas autem signi, quae improprie 
+      <lb ed="#P" n="30"/>voluntas Dei dicitur, non semper impletur. Cujus 
+      <lb ed="#P" n="31"/>responsionis utraque pars certissimis scripturae 
+      testi<lb ed="#P" n="32" break="no"/>moniis probatur, &amp; proinde certa fide retinenda est. 
+    </p>
+            <p xml:id="bt67yj-k73736-d1e139">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Priorem probant hae scripturae Isa. 14. Juravit 
+      Do<lb ed="#P" n="34" break="no"/>minus exercituum dicens: Si non ut putavi (Heb. 
+      co<lb ed="#P" n="35" break="no"/>gitavi) ita erit, &amp; quomodo mente tractavi, sic eveniet. 
+      <lb ed="#P" n="36"/>Ac rursum: Dominus decrevit, &amp; quis poterit 
+      infirma<lb ed="#P" n="37" break="no"/>re? &amp; 46. Consilium meum stabit &amp; omnis voluntas mea 
+      <lb ed="#P" n="38"/>fiet; &amp; 55. Verbum meum quod egredietur de ore meo 
+      <lb ed="#P" n="39"/>non revertetur ad me vacuum, sed faciet quaecunque 
+      <lb ed="#P" n="40"/>volui. Psal. 32. &amp; 148. Ipse dixit &amp; facta sunt, ipse 
+      <lb ed="#P" n="41"/>mandavit &amp; creata sunt. Psal. II. &amp; 134. Omnia 
+      quae<lb ed="#P" n="42" break="no"/>cunque voluit, fecit Ecclesiastae 8. Omne quod voluerit 
+      <lb ed="#P" n="43"/>faciet, &amp; sermo ejus potestate plenus est. Job 23. Nemo 
+      <lb ed="#P" n="44"/>avertere potest cogitationem ejus, &amp; anima ejus 
+      quod<lb ed="#P" n="45" break="no"/>cunque voluit, hoc fecit. Dan. 4. Juxta voluntatem 
+      <lb ed="#P" n="46"/>suam facit &amp; non est qui resistat manui ejus. Rom. 9. 
+      <lb ed="#P" n="47"/>Voluntati ejus quis resistit? Huc etiam pertinent quae 
+      <lb ed="#P" n="48"/>voluntatem, verbum, consilium, cogitationem Dei 
+      <lb ed="#P" n="49"/>in aeternum permanere testantur, ut Psal. 32. Prov. 
+      <lb ed="#P" n="50"/>19. Isa. 40. &amp; alibi. Sensus enim est ea nunquam 
+      <lb ed="#P" n="51"/>posse immutari aut irritari, sed semper impleri. Est 
+      au<lb ed="#P" n="52" break="no"/>tem hujus doctrinae ratio duplex, altera, quia Deus 
+      <lb ed="#P" n="53"/>est omnipotens, ideóque non potest impediri a 
+      quo<lb ed="#P" n="54" break="no"/>quam, quo minus ipse impleat quodcunque voluerit. 
+      <lb ed="#P" n="55"/>Nam voluntas beneplaciti Dei ab ipso Deo impletur, 
+      <lb ed="#P" n="56"/>ut superiora pleraque scripturae testimonia declarant, 
+      <lb ed="#P" n="57"/>&amp; statim plenius docebimus: altera, quia 
+      immuta<lb ed="#P" n="58" break="no"/>bilis est, &amp; proinde ab eo quod semel voluit ac 
+      de<lb ed="#P" n="59" break="no"/>crevit recedere aut dimoveri non potest. 
+    </p>
+            <p xml:id="bt67yj-k73736-d1e203">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Eandem doctrinam S. Thomas art. 6. q. 19. 
+      pro<lb ed="#P" n="61" break="no"/>bat hac ratione: quia quamvis possit aliquid fieri 
+      ex<lb ed="#P" n="62" break="no"/>tra ordinem alicujus causae particularis agentis, non 
+      <lb ed="#P" n="63"/>tamen extra ordinem alicujus causae universalis, sub 
+      <lb ed="#P" n="64"/>qua omnes causae particulares comprehenduntur. 
+      <lb ed="#P" n="65"/>Neque enim fieri ullo modo potest, ut effectus ordinem 
+      <lb ed="#P" n="66"/>causae universalis egrediatur. Cum igitur Dei 
+      volun<lb ed="#P" n="67" break="no"/>tas sit universalissima rerum omnium causa, prorsus 
+      <lb ed="#P" n="68"/>impossibile est ut ea suum effectum. aliquando non 
+      <lb ed="#P" n="69"/>consequatur. Unde est quod idem doctor in 
+      compen<lb ed="#P" n="70" break="no"/>dio Theologiae cap. ust. eoque ob mortem 
+      imperfe<lb ed="#P" n="71" break="no"/>cto, pronunciat, ipsum divinum beneplacitum effi¬ 
+      <!--0218.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>cax esse ad implendum omne quod disponit. Ex quo 
+      <lb ed="#P" n="73"/>intelligitur voluntatem Dei non tantum impleri 
+      sem<lb ed="#P" n="74" break="no"/>per &amp; in omnibus, sed eam sua efficacitate implere 
+      <lb ed="#P" n="75"/>seipsam, cum ipsa sit omnium suorum volitorum cau 
+      <lb ed="#P" n="76"/>sa. Docet hoc Augustinus ench. 95. cum dicit 
+      ali<lb ed="#P" n="77" break="no"/>quando futurum ut clarissima luce videatur, quod 
+      <lb ed="#P" n="78"/>nunc piorum fides habet, quam certa &amp; immutabilis 
+      <lb ed="#P" n="79"/>&amp; efficacissima sit voluntas Dei, quam multa possit &amp; 
+      <lb ed="#P" n="80"/>non velit, nihil autem velit quod non possit, 
+      quam<lb ed="#P" n="81" break="no"/>que sit verum quod in Psalmo canitur: Deus autem 
+      <lb ed="#P" n="82"/>noster in caelo &amp; in terra omnia quaecunque voluit fecit. 
+      <lb ed="#P" n="83"/>Quod utique, inquit, non est verum, si aliquid voluit, 
+      <lb ed="#P" n="84"/>&amp; non fecit, &amp; quod est indignius, ideo non fecit, 
+      <lb ed="#P" n="85"/>quoniam ne fieret, quod volebat omipotens, voluntas 
+      <lb ed="#P" n="86"/>hominis impedivit. Et cap. 96. Neque enim, inquit, 
+      <lb ed="#P" n="87"/>veraciter ob aliud vocatur omnipotens, nisi quia 
+      quic<lb ed="#P" n="88" break="no"/>qud vult potest, nec voluntate cujuspiam creaturae, 
+      vo<lb ed="#P" n="89" break="no"/>luntatis omnipotentis impeditur effectus. Eadem 
+      do<lb ed="#P" n="90" break="no"/>cet in sequentibus usque ad caput 104. Item lib. 22. 
+      <lb ed="#P" n="91"/>de civit. cap. 1. &amp; 2. &amp; lib. 3. de trinit. cap. 1. &amp; 2. 
+      <lb ed="#P" n="92"/>Hieronymus quoque lib. 5. super Isa. ad illud c. 14. 
+      <lb ed="#P" n="93"/>Hoc consilium quod cogitavi super omnem terram, 
+      <lb ed="#P" n="94"/>&amp;c. &amp; lib. 6. eundem prophetae locum allegorice 
+      <lb ed="#P" n="95"/>retractans impossibile esse dicit, ut Dei voluntas, 
+      de<lb ed="#P" n="96" break="no"/>cretum, consilium non impleatur, aut ut cujusquam 
+      <lb ed="#P" n="97"/>virtute prohibeatur.
+    </p>
+            <p xml:id="bt67yj-k73736-d1e294">
+               <lb ed="#P" n="98"/>Posteriorem vero responsionis partem probant hae 
+      <lb ed="#P" n="99"/>scripturae. Ezcch. 24. Volui te mundare &amp; non es 
+      mun<lb ed="#P" n="100" break="no"/>data. Matth. 23. Quoties volui congregare filios tuos 
+      <lb ed="#P" n="101"/>&amp; noluisti. Et quaecunque probant voluntatem signi, 
+      <lb ed="#P" n="102"/>quae consistit in praeceptis, prohibitionibus &amp; 
+      consi<lb ed="#P" n="103" break="no"/>liis. Hanc enim Dei voluntatem contemni, negligi, 
+      <lb ed="#P" n="104"/>mutari, fustrari posse late docet experientia. Neque 
+      <lb ed="#P" n="105"/>omnino ullum est peccatum, quod non contra hanc 
+      <lb ed="#P" n="106"/>Dei voluntatem fiat. Nam quod apud Hieronymum 
+      <lb ed="#P" n="107"/>legitur super Ezcch. 30. Domini praecepta irrita esse 
+      <lb ed="#P" n="108"/>non posse; non de praeceptis proprie dictis, quorum 
+      <lb ed="#P" n="109"/>obedientia commendetur, dictum est; sed de 
+      volun<lb ed="#P" n="110" break="no"/>tatibus Dei absolutis, quae praecepta vocantur 
+      impro<lb ed="#P" n="111" break="no"/>prie propter imperium divinae voluntatis, qua 
+      ratio<lb ed="#P" n="112" break="no"/>ne dicitur in Psalmo: Ipse mandavit &amp; creata sunt. 
+      <lb ed="#P" n="113"/>Porro similiter constat voluntatem praeparationis 
+      <lb ed="#P" n="114"/>non semper impleri. Sic enim Marci 7. dicitur: 
+      Ne<lb ed="#P" n="115" break="no"/>minem voluit scire &amp; non potuit latere, id est, factum 
+      <lb ed="#P" n="116"/>praeparatorium, quo quasi latere voluit, non erat 
+      <lb ed="#P" n="117"/>sufficiens ad eum effectum ut lateret. Idem patet ex 
+      <lb ed="#P" n="118"/>Deut. 9. Exod. 4. &amp; aliis locis. 
+    </p>
+            <p xml:id="bt67yj-k73736-d1e342">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Non tamen locum habet haec exceptio in 
+      volun<lb ed="#P" n="120" break="no"/>tate signi, qua parte consistit in permissione &amp; 
+      opera<lb ed="#P" n="121" break="no"/>tione. Nam quaecunque permittit Deus fieri, fiunt, 
+      <lb ed="#P" n="122"/>ac multo magis fiunt, quaecunque Deus operatur. 
+      <lb ed="#P" n="123"/>Haec enim fiunt effective, quia fiunt a Deo, illa vero 
+      <lb ed="#P" n="124"/>defective fiunt, non enim fiunt a Deo, sed a 
+      defi<lb ed="#P" n="125" break="no"/>ciente creatura. 
+    </p>
+            <p xml:id="bt67yj-k73736-d1e362">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Jam si quaeratur ulterius de voluntate antecedente, 
+      <lb ed="#P" n="127"/>utrum semper impleatur, &amp; similiter de consequente, 
+      <lb ed="#P" n="128"/>facilis est ex dictis de antecedente voluntate 
+      respon<lb ed="#P" n="129" break="no"/>sio, scilicet eam non semper impleri, nimirum ea 
+      <lb ed="#P" n="130"/>parte qua non concurrit cum voluntate beneplaciti, 
+      <lb ed="#P" n="131"/>verbi gratia. Vult Deus antecedente voluntate 
+      om<lb ed="#P" n="132" break="no"/>nes homines salvari; sed ea voluntas in illis solis 
+      im<lb ed="#P" n="133" break="no"/>pletur, quos salvari vult voluntate beneplaciti. 
+    </p>
+            <p xml:id="bt67yj-k73736-d1e384">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Verum de consequente voluntate difficilior est 
+      quae<lb ed="#P" n="135" break="no"/>stio, quibusdam negantibus eam semper impleri, aliis 
+      <lb ed="#P" n="136"/>contra affirmantibus. Cujus dissensionis causa est 
+      di<lb ed="#P" n="137" break="no"/>versa acceptio consequentis voluntatis. Alii enim 
+      <lb ed="#P" n="138"/>consequentem voluntatem generaliter intelligunt 
+      <lb ed="#P" n="139"/>eam, quae respicit id quod cum aliquo adjuncto 
+      con<lb ed="#P" n="140" break="no"/>sideratum bonum est, quemadmodum &amp; supra 
+      ex<lb ed="#P" n="141" break="no"/>posuimus. Hanc enim consequentem rei 
+      considera<lb ed="#P" n="142" break="no"/>tionem S. Thomas esse dicit, qua consideratur res 
+      <lb ed="#P" n="143"/>cum aliquo adjuncto, quale est hominem 
+      peccato<lb ed="#P" n="144" break="no"/>rem damnari. Alii vero stricte voluntate 
+      consequen<lb ed="#P" n="145" break="no"/>tem accipientes eam definiunt, quae respicit aliquid 
+      <!--0219.xml-->
+      <pb ed="#P" n="196"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod cum omnibus suis circunstantiis bonum est. Et 
+      <lb ed="#P" n="2"/>huic acceptioni favere videntur paulo post sequentia 
+      <lb ed="#P" n="3"/>S. Thomae verba, quibus dicit nos simpliciter aliquid 
+      <lb ed="#P" n="4"/>velle, secundum quod volumus illud consideratis 
+      <lb ed="#P" n="5"/>omnibus circunstantiis particularibus. Quod est, 
+      in<lb ed="#P" n="6" break="no"/>quit, consequenter velle; tametsi non dicat hoc solum 
+      <lb ed="#P" n="7"/>nos velle consequenter quod eo modo volumus. 
+      Igi<lb ed="#P" n="8" break="no"/>tur prioriacceptione consequens Dei voluntas non 
+      <lb ed="#P" n="9"/>semper impletur. Ea enim voluntate vult omnes 
+      pec<lb ed="#P" n="10" break="no"/>catores damnare, &amp; secundum eam dictum est: 
+      <lb ed="#P" n="11"/>Alhuc 40. dies &amp; Ninive subvertetur, &amp; multa alia 
+      <lb ed="#P" n="12"/>in sacris literis, quae non implentur. 
+    </p>
+            <p xml:id="bt67yj-k73736-d1e447">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Posteriori autem acceptione semper impletur. 
+      Cu<lb ed="#P" n="14" break="no"/>jus ratio est, quia ut S. Thomas ibidem ait: Voluntas 
+      <lb ed="#P" n="15"/>quae simpliciter talis est, comparatur ad res secundum 
+      <lb ed="#P" n="16"/>quod in seipsis sunt. In seipsis autem sunt in particulari, 
+      <lb ed="#P" n="17"/>&amp; proinde simpliciter volumus quod volumus cum 
+      par<lb ed="#P" n="18" break="no"/>ticularibus omnibus circunstantiis consi deratum. 
+      Sim<lb ed="#P" n="19" break="no"/>plex autem, id est, absoluta Dei voluntas, ut jam 
+      <lb ed="#P" n="20"/>ostensum est, semper impletur. Juxta hanc igitur 
+      <lb ed="#P" n="21"/>acceptionem consequentis voluntatis fatendum est, 
+      <lb ed="#P" n="22"/>Deum neque antecedente voluntate, neque 
+      conse<lb ed="#P" n="23" break="no"/>quente velle omnes peccatores damnare, &amp; 
+      quae<lb ed="#P" n="24" break="no"/>cunque huic similia mala poenae, quae cum exigente 
+      <lb ed="#P" n="25"/>justitia posset infligere, per misericordiam suam 
+      re<lb ed="#P" n="26" break="no"/>mittit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

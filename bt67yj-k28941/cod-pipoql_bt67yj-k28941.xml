@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="78"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k28941"><!-- l1d21c2" -->
+            <head xml:id="bt67yj-k28941-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k28941-Hd1e103" type="question-title">Quomodo dictiones exclusivae personis divinis 
+      tribuantur</head>
+            <p xml:id="bt67yj-k28941-d1e106">
+               <lb ed="#P" n="4"/>§. 2. Quomodo dictiones exclusivae personis divinis 
+      <lb ed="#P" n="5"/>tribuantur.
+    </p>
+            <p xml:id="bt67yj-k28941-d1e113">
+               <lb ed="#P" n="6"/>PLus difficultatis adferunt exclusivae dictiones, si 
+      <lb ed="#P" n="7"/>personis divinis adjunctae fuerint. Quae res 
+      ta<lb ed="#P" n="8" break="no"/>men ita breviter expediri posse videtur. 
+    </p>
+            <p xml:id="bt67yj-k28941-d1e122">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Si dictio exclusiva adjuncta fuerit personae ex parte 
+      <lb ed="#P" n="10"/>subjecti, eique praedicatum tribuatur personale, 
+      nul<lb ed="#P" n="11" break="no"/>lam habet dubitationem talis propositio. Verissime 
+      <lb ed="#P" n="12"/>enim dicitur: Solus pater est pater, solus pater 
+      gi<lb ed="#P" n="13" break="no"/>gnit, solus filius gignitur, solus spiritus sanctus a 
+      <lb ed="#P" n="14"/>patre filioque procedit. Sic in symbolo S. Athanasii 
+      <lb ed="#P" n="15"/>filius ex patre solo, id est, solus pater genuit filium. 
+      <lb ed="#P" n="16"/>Hujus igitur generis propositionibus significatur, 
+      <lb ed="#P" n="17"/>praedicatum non modo removeri ab eo quod natura 
+      <lb ed="#P" n="18"/>distinctum est a subjecto, verum etiam ab eo quod 
+      <lb ed="#P" n="19"/>sola distinguitur suppositi ratione. Si vero 
+      praedica<lb ed="#P" n="20" break="no"/>tum sit absolutum, juxta proprietatem quidem 
+      ser<lb ed="#P" n="21" break="no"/>monis falsa videbitur propositio; verbi grat ia, solus 
+      <lb ed="#P" n="22"/>pater est Deus, cum etiam filius qui alius est a patre, 
+      <lb ed="#P" n="23"/>sit Deus. Ea namque vis esse videtur exclusivae 
+      di<lb ed="#P" n="24" break="no"/>ctionis, ut removeat omne id, de quo vox affecta 
+      <lb ed="#P" n="25"/>affirmari non potest, nisi forte circumstantia 
+      sermo<lb ed="#P" n="26" break="no"/>nis aliud postulet, velut, si dicam, solus Petrus est 
+      <lb ed="#P" n="27"/>in domo, non excludo canem vel supellectilem, sed 
+      <lb ed="#P" n="28"/>alios homines. Hoc modo saepe veteres in scriptis 
+      <lb ed="#P" n="29"/>suis loquuntur, ut quando negant solum patrem esse 
+      <lb ed="#P" n="30"/>Deum, aut omnipotentem, aut aeternum contra 
+      A<lb ed="#P" n="31" break="no"/>rianos scribentes, qui haec attributa filio &amp; spiritui 
+      <lb ed="#P" n="32"/>sancto detrahebant. Manifestius autem patet 
+      hujus<lb ed="#P" n="33" break="no"/>modi propositionum falsitas, quando fit expressa 
+      <lb ed="#P" n="34"/>comparatio personarum inter se, velut si dicat 
+      quis<lb ed="#P" n="35" break="no"/>piam: Solus pater creat, solus filius salvat, solus 
+      spi<lb ed="#P" n="36" break="no"/>ritus sanctus sanctificat. Ibi namque ita cum 
+      exclu<lb ed="#P" n="37" break="no"/>sione singula tribuuntur singulis, ut ab aliis videantur 
+      <lb ed="#P" n="38"/>removeri. At vero si modum loquendi in scripturis 
+      <lb ed="#P" n="39"/>usitatum sequamur, vere reperientur interdum etiam 
+      <lb ed="#P" n="40"/>hujus generis propositiones, id est, in quibus 
+      praedi<lb ed="#P" n="41" break="no"/>catum absolutum personae tribuitur signo exclusivo 
+      <lb ed="#P" n="42"/>affectae. Sic enim solus pater dicitur esse Deus verus, 
+      <lb ed="#P" n="43"/>in his verbis Joan. 17. Ut cognoscant te solum Deum 
+      ve<lb ed="#P" n="44" break="no"/>rum. Sic &amp; Matth. II. dicitur: Nemo novit filium nis 
+      <lb ed="#P" n="45"/>pater, neque patrem quis novit nisi filius, id est, solus 
+      <lb ed="#P" n="46"/>pater novit filium, &amp; solus filius novit patrem, &amp; 
+      <lb ed="#P" n="47"/>Apoc. 19. de filio: Habens nomen scriptum quod nemo 
+      <lb ed="#P" n="48"/>novit nisi ipse, id est, quod solus filius novit. Et 1. Cor. 
+      <lb ed="#P" n="49"/>2. Quae Dei sunt nemo cognovit nisi spiritus Dei, id est 
+      <lb ed="#P" n="50"/>solus spiritus Dei novit, &amp; apertius Eccl. 24. dicit 
+      Sa<lb ed="#P" n="51" break="no"/>pientia Dei: Gyrum caeli circuivi sola. Sic Ecclesia 
+      ca<lb ed="#P" n="52" break="no"/>nit in missa, sermone ad filium converso: Tu solus 
+      san<lb ed="#P" n="53" break="no"/>ctus, Tu solus Dominus, Tu solus altissimus. Nam quod 
+      <lb ed="#P" n="54"/>sequitur, Cum sancto Spiritu, &amp;c. hunc sensum habere 
+      <lb ed="#P" n="55"/>videtur. Qui cum sancto spiritu vivis &amp; regnas in 
+      <lb ed="#P" n="56"/>gloria Dei patris. Sic in officio divino de Martyribus 
+      <lb ed="#P" n="57"/>Joanne &amp; Paulo: Nobis alius non est Dominus, nisi 
+      <lb ed="#P" n="58"/>Jesus Chr. &amp; in Martyrologio Romano pridie Kal. 
+      <lb ed="#P" n="59"/>Sept. de S. Aristide. Quod Chr. Jesus solus esset Deus 
+      <lb ed="#P" n="60"/>loculentissime peroravit. Imo sic loquitur Judas 
+      Apo<lb ed="#P" n="61" break="no"/>stolus dicens quosdam solum dominatorem &amp; 
+      Do<lb ed="#P" n="62" break="no"/>minum nostrum Jesum Christum negare, id est, 
+      <lb ed="#P" n="63"/>eum qui solus est dominator, ac Dominus noster; 
+      <lb ed="#P" n="64"/>tametsi Graeca paulo aliter, scilicet solum 
+      domina<lb ed="#P" n="65" break="no"/>torem, Deum &amp; Dominum, &amp;c. In his igitur &amp; 
+      si<lb ed="#P" n="66" break="no"/>milibus sententiis, exclusiva dictio non excludit 
+      om<lb ed="#P" n="67" break="no"/>ne illud de quo subjectum vere affirmari non potest; 
+      <lb ed="#P" n="68"/>sed res a subjecto diversas, id est, omnia ea quae 
+      se<lb ed="#P" n="69" break="no"/>cundum essentiam non sunt unum &amp; idem cum eo 
+      <lb ed="#P" n="70"/>cui signum exclusionis adjunctum est. Verbi causa, si 
+      <lb ed="#P" n="71"/>dicat aliquis se credere in Deum patrem, qui solus 
+      <lb ed="#P" n="72"/>mundum creavit, non continuo filium &amp; spiritum 
+      <!--0101.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>sanctum excludit, sed excludere censetur 
+      tantum<lb ed="#P" n="74" break="no"/>modo ea omnia quae non sunt id quod pater, id est, 
+      <lb ed="#P" n="75"/>quae non sunt una eademque res cum patre. Cum 
+      <lb ed="#P" n="76"/>ergo filius &amp; spiritus sanctus sint unum &amp; idem cum 
+      <lb ed="#P" n="77"/>patre, non oportet eos hoc loquendi modo exclusos 
+      <lb ed="#P" n="78"/>videri ab opere creationis, sed solas creaturas. 
+    </p>
+            <p xml:id="bt67yj-k28941-d1e284">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> De hujusmodi locutionibus vide sanctum 
+      Hila<lb ed="#P" n="80" break="no"/>rium lib. 4. de Trinitate ante medium, S. Aug. I. 
+      <lb ed="#P" n="81"/>6. de Trinitate cap. 9. &amp; lib. 3. contra Max. cap. 
+      <lb ed="#P" n="82"/>13. &amp; S. Thom. 1. quaest. 31. art. 4. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

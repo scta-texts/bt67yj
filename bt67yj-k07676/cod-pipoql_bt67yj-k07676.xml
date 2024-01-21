@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="21"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k07676"><!-- l1d4c2" -->
+            <head xml:id="bt67yj-k07676-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k07676-Hd1e103" type="question-title">Quomodo concretis nominibus utendum 
+        sit in divinis</head>
+            <p xml:id="bt67yj-k07676-d1e106">
+               <lb ed="#P" n="44"/>§. 2. Quomodo concretis nominibus utendum 
+      <lb ed="#P" n="45"/>sit in divinis.
+    </p>
+            <p xml:id="bt67yj-k07676-d1e113">
+               <lb ed="#P" n="46"/>PRaeter ea quae de varietate vocum quibus de 
+      <lb ed="#P" n="47"/>Deo loquentes utimur, dicta sunt peculiariter 
+      <lb ed="#P" n="48"/>hoc loco de concretis nominibus quae Deo 
+      tribuun<lb ed="#P" n="49" break="no"/>tur, observandum est tale inter ea discrimen quod, 
+      <lb ed="#P" n="50"/>substantiva si plurali numero dicantur, inducunt 
+      <lb ed="#P" n="51"/>non modo numerum personarum sed etiam 
+      natu<lb ed="#P" n="52" break="no"/>rarum. Id quod etiam in rebus creatis usu venit, ut 
+      <lb ed="#P" n="53"/>cum dico, Petrus &amp; Andreas sunt homines. 
+      Adje<lb ed="#P" n="54" break="no"/>ctiva vero tantum inducunt multitudinem 
+      persona<lb ed="#P" n="55" break="no"/>rum, non necessario naturarum; licet haec 
+      natura<lb ed="#P" n="56" break="no"/>rum multitudo per accidens in creaturis 
+      consequa<lb ed="#P" n="57" break="no"/>tur. Ex quo discrimine ostenditur hanc falsam esse, 
+      <lb ed="#P" n="58"/>Pater &amp; Filius &amp; Spiritus sanctus sunt tres Dii, tres 
+      <lb ed="#P" n="59"/>Domini, tres creatores. Nam voces istae cum sint 
+      <lb ed="#P" n="60"/>substantivae, non tantum suppositorum sed &amp; 
+      na<lb ed="#P" n="61" break="no"/>turarum multitudinem important, plurali 
+      nume<lb ed="#P" n="62" break="no"/>ro enunciatae. Sed dicendum est prout in Symbolo 
+      <lb ed="#P" n="63"/>Athanasii tota confitetur Ecclesia, Pater &amp; Filius &amp; 
+      <lb ed="#P" n="64"/>Spiritus sanctus sunt unus Deus, unus Dominus 
+      <lb ed="#P" n="65"/>&amp; similiter unus creator. Vere autem dixeris 
+      <lb ed="#P" n="66"/>Pater &amp; Filius sunt duo spirantes, Pater &amp; Filius &amp; 
+      <lb ed="#P" n="67"/>Spiritus sanctus sunt tres creantes, tres 
+      significan<lb ed="#P" n="68" break="no"/>tes, tres beatificantes. Hujusmodi enim vocibus 
+      <lb ed="#P" n="69"/>tantummodo in personas, non etiam in naturam 
+      <lb ed="#P" n="70"/>numerus invehitur. Utrum autem concedi possit 
+      <lb ed="#P" n="71"/>tres esse aeternos, increatos, immensos, omnipo 
+      <lb ed="#P" n="72"/>tentes, quod pariter negare videtur in Symbolo 
+      <!--0044.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Athanasius, expendetur circa distinctionem 
+      no<lb ed="#P" n="74" break="no"/>nam. Illud certum &amp; indubitatum haberi debet has 
+      <lb ed="#P" n="75"/>propositiones tres personae sunt Dii, aut sunt tres 
+      <lb ed="#P" n="76"/>Dii, nulla ratione concedendas esse; licet ab illis 
+      <lb ed="#P" n="77"/>in Catholicum sensum detortis nonnulli Catholici 
+      <lb ed="#P" n="78"/>reperiantur non abhorrere. Nam ut in eodem 
+      Atha<lb ed="#P" n="79" break="no"/>nasii Symbolo palam Ecclesia profitetur; sicut 
+      sigilla<lb ed="#P" n="80" break="no"/>tim unamquamque personam* Deum ac Dominum 
+      <lb ed="#P" n="81"/>confiteri Christiana veritate compellimur: ita tres 
+      <lb ed="#P" n="82"/>Deos aut Dominos dicere Catholica Religione 
+      prohi<lb ed="#P" n="83" break="no"/>bemur. 
+    </p>
+            <p xml:id="bt67yj-k07676-d1e202">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Porro quemadmodum recte dicimus tres 
+      perso<lb ed="#P" n="85" break="no"/>nas esse unum Deum ita e converso dicere nihil 
+      pro<lb ed="#P" n="86" break="no"/>hibet, unum Deum esse tres personas, Patrem &amp; 
+      Fi<lb ed="#P" n="87" break="no"/>lium &amp; Spiritum sanctum. Quod praeter Augustini 
+      <lb ed="#P" n="88"/>authoritatem a Magistro adductam doceri facile 
+      po<lb ed="#P" n="89" break="no"/>test conversione dialectica tanquam evidentissima 
+      <lb ed="#P" n="90"/>argumentatione. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

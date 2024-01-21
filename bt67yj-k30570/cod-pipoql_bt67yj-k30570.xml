@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="82"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k30570"><!-- l1d25c2" -->
+            <head xml:id="bt67yj-k30570-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k30570-Hd1e103" type="question-title">Respondetur ad rationes in contrarium</head>
+            <p xml:id="bt67yj-k30570-d1e106">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> §. 2. Respondetur ad rationes in contrarium. 
+    </p>
+            <p xml:id="bt67yj-k30570-d1e113">
+               <lb ed="#P" n="52"/>COntra superiorem doctrinam primo objiciunt. 
+      <lb ed="#P" n="53"/>Esse personam est commune tribus, quia &amp; 
+      pa<lb ed="#P" n="54" break="no"/>ter est persona, &amp; filius est persona, &amp; spiritus 
+      san<lb ed="#P" n="55" break="no"/>ctus est persona, ubi persona semper idem significat. 
+      <lb ed="#P" n="56"/>Atqui nihil praeter essentiam est commune tribus: 
+      <lb ed="#P" n="57"/>Igitur essentiam persona significat. Sumpta est haec 
+      <lb ed="#P" n="58"/>ratio ex Augustino lib. 7. de trin. cap. 4. ubi tamen 
+      <lb ed="#P" n="59"/>non expresse docet personam significare idem quod 
+      <lb ed="#P" n="60"/>essentiam, sed disputando ac dubitando magis quam 
+      <lb ed="#P" n="61"/>definiendo eam ventilat quaestionem, ut videre est 
+      <lb ed="#P" n="62"/>in verbis ejus a Magistro allatis dist. 23. 
+      Responden<lb ed="#P" n="63" break="no"/>dum igitur nihil praeter essentiam esse tribus 
+      commu<lb ed="#P" n="64" break="no"/>ne secundum rem, posse autem tribus aliquid aliud 
+      <lb ed="#P" n="65"/>esse commune tantum secundum rationem; 
+      cujus<lb ed="#P" n="66" break="no"/>modi est esse personam. Quae res facile intelligitur ex 
+      <lb ed="#P" n="67"/>generibus &amp; speciebus logicis, quorum 
+      unumquod<lb ed="#P" n="68" break="no"/>que pluribus individuis commune est secundum ra¬ 
+      <!--0105.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>tionem tantum, ut homo Petro, Paulo Antohio. 
+    </p>
+            <p xml:id="bt67yj-k30570-d1e159">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Unde sicut de unoquoque horum seorsum dicitur 
+      <lb ed="#P" n="71"/>quod sit homo, de tribus autem simul non dicitur 
+      <lb ed="#P" n="72"/>quod sint unus homo, sed quod sint tres homines: ita 
+      <lb ed="#P" n="73"/>de unoquoque trium in divinis seorsim vere dicitur 
+      <lb ed="#P" n="74"/>quod sit persona, de tribus autem simul dici non 
+      po<lb ed="#P" n="75" break="no"/>test, quod sint una persona, sed tres personae. Quod 
+      <lb ed="#P" n="76"/>si homo secundum rem commune esset tribus 
+      singu<lb ed="#P" n="77" break="no"/>laribus, sicut Deus tribus personis, tum sicut tres 
+      per<lb ed="#P" n="78" break="no"/>sonae dicuntur unus Deus, sic tria illa singularia 
+      dice<lb ed="#P" n="79" break="no"/>rentur unus homo. Quod autem persona, spectando 
+      <lb ed="#P" n="80"/>totum ejus significatum, non sit aliquid commune 
+      <lb ed="#P" n="81"/>tribus secundum rem, sed secundum rationem 
+      tan<lb ed="#P" n="82" break="no"/>3 tum palam est, quia persona in sua significatione in¬ 
+    </p>
+            <p xml:id="bt67yj-k30570-d1e193">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> cludit incommunicabilem proprietatem: atqui 
+      ha<lb ed="#P" n="84" break="no"/>bere incommunicabilem proprietatem non re, sed 
+      ra<lb ed="#P" n="85" break="no"/>tione commune est tribus; quia non eandem omnes 
+      <lb ed="#P" n="86"/>proprietatem habent, sed singuli suam. 
+    </p>
+            <p xml:id="bt67yj-k30570-d1e206">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Iterum objiciunt: Non est aliud persona, aliud 
+      es<lb ed="#P" n="88" break="no"/>sentia; sed res prorsus eadem, ut Augustinus docet 
+      <lb ed="#P" n="89"/>lib. 7. de trin. cap. 6. ergo idem significat persona 
+      <lb ed="#P" n="90"/>quod essentia. Respondetur non sequi, 
+      quemadmo<lb ed="#P" n="91" break="no"/>dum nec istud: Non est aliud pater quam essentia, 
+      <lb ed="#P" n="92"/>ergo pater significat essentiam. Quamvis enim 
+      quic<lb ed="#P" n="93" break="no"/>quid est in Deo, essentia sit, non tamen quicquid 
+      <lb ed="#P" n="94"/>Deo attribuitur essentiam significat. Oportet enim 
+      <lb ed="#P" n="95"/>distinguere attributionem vocum ab earum 
+      signifi<lb ed="#P" n="96" break="no"/>catione, ut ex dialectica manifestum est. 
+    </p>
+            <p xml:id="bt67yj-k30570-d1e232">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Hic si quaeras, utrum persona saltem eo modo 
+      si<lb ed="#P" n="98" break="no"/>gnificet essentiam, quo sapientia, bonitas essentiam 
+      <lb ed="#P" n="99"/>in Deo significant, negative est respondendum. Haec 
+      <lb ed="#P" n="100"/>enim &amp; alia hujusmodi fignificant id quod tribus 
+      <lb ed="#P" n="101"/>commune est secundum rem, ideóque fatendum 
+      pa<lb ed="#P" n="102" break="no"/>trem, &amp; filium, &amp; spiritum sanctum esse unam 
+      sapien<lb ed="#P" n="103" break="no"/>tiam, bonitatem, non tres sapientias, bonitates. 
+      Per<lb ed="#P" n="104" break="no"/>sona vero significat id quod tantum ratione 
+      commu<lb ed="#P" n="105" break="no"/>ne est tribus, ut paulo ante declaratum est. 
+    </p>
+            <p xml:id="bt67yj-k30570-d1e256">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Alia objectio. Cum Catholici confiterentur 
+      pa<lb ed="#P" n="107" break="no"/>trem, &amp; filium, &amp; spiritum sanctum esse tres, 
+      quaeren<lb ed="#P" n="108" break="no"/>tibus Arianis, quid tres? recte illi respondebant, tres 
+      <lb ed="#P" n="109"/>personae. Atqui quaestio, quid, essentiam quaerit, 
+      er<lb ed="#P" n="110" break="no"/>go quod ei quaestioni respondebatur, nempe persona, 
+      <lb ed="#P" n="111"/>essentiam significabat. Respondemus Arianos ea 
+      <lb ed="#P" n="112"/>quaestione non de essentia interrogasse, sed tantum 
+      <lb ed="#P" n="113"/>voluisse Catholicos urgere, ut eloquerentur ac 
+      desi<lb ed="#P" n="114" break="no"/>gnarent substantivum illius adjectivi, tres, 
+      arbitran<lb ed="#P" n="115" break="no"/>tes nimirum non aliud ab iis responderi posse, nisi tres 
+      <lb ed="#P" n="116"/>Deos, aut tres essentias. Qua eorum importunitate 
+      <lb ed="#P" n="117"/>pressi Catholici, tres personas sive hypostases, non 
+      <lb ed="#P" n="118"/>inconvenienter responderunt, juxta significationem 
+      <lb ed="#P" n="119"/>istarum vocum supra explicatam. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

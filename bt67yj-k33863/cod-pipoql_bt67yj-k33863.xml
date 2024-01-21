@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="90"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k33863"><!-- l1d29c1" -->
+            <head xml:id="bt67yj-k33863-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k33863-Hd1e103" type="question-title">Principii nomen Deo attributum quid 
+      significet</head>
+            <p xml:id="bt67yj-k33863-d1e106">
+               <lb ed="#P" n="93"/>INDISTINCTIONEM 
+      <lb ed="#P" n="94"/>VICESIMAMNONAM. 
+      <lb ed="#P" n="95"/>§. 1. Principii nomen Deo attributum quid 
+      <lb ed="#P" n="96"/>significet. 
+    </p>
+            <p xml:id="bt67yj-k33863-d1e117">
+               <lb ed="#P" n="97"/>NOMINE principii, ut Deo, vel personis 
+      divi<lb ed="#P" n="98" break="no"/>nis attribuitur, duplex significari potest 
+      re<lb ed="#P" n="99" break="no"/>Vlatio, scilicet interna &amp; externa. Est autem. 
+      <lb ed="#P" n="100"/>in genere principium, omne id, a quo, vel ex quo 
+      a<lb ed="#P" n="101" break="no"/>liud quocunque modo producitur. Interna relatio est, 
+      <lb ed="#P" n="102"/>quae non terminatur in aliquid diversum; sed in id, 
+      <lb ed="#P" n="103"/>quod in eadem natura continetur, ut est relatio 
+      per<lb ed="#P" n="104" break="no"/>sonae ad personam. Hoc igitur modo pater principium 
+      <lb ed="#P" n="105"/>est filii, nec non pater &amp; filius unum sunt principium 
+      <lb ed="#P" n="106"/>spiritus sancti, ut ostensum est 12. dist. At spiritus 
+      san<lb ed="#P" n="107" break="no"/>ctus hoc modo principium dici non potest, quia non 
+      <lb ed="#P" n="108"/>producit aliam personam. 
+    </p>
+            <p xml:id="bt67yj-k33863-d1e146">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Porro vicissim quoque fatendum est, juxta hunc 
+      <lb ed="#P" n="110"/>relationis modum, filium esse a principio, &amp; 
+      habe<lb ed="#P" n="111" break="no"/>re principium. Sic enim patres loquuntur, &amp; 
+      no<lb ed="#P" n="112" break="no"/>minatim Augustinus libro 5. de trinit. cap. 14. 
+      Est<lb ed="#P" n="113" break="no"/>que eadem prorsus ratio de spiritu sancto. Nec ab 
+      <lb ed="#P" n="114"/>hoc sermone deterrere nos debet, quod docet 
+      Hi<lb ed="#P" n="115" break="no"/>larius lib. 4. de trinit. filium esse absque initio, 
+      tam<lb ed="#P" n="116" break="no"/>etsi ex eo Magister colligat haud recte, non esse 
+      <lb ed="#P" n="117"/>concedendum hunc sermonem, quod filius habeat 
+      <lb ed="#P" n="118"/>principium. Id enim dixit Hilarius de principio 
+      <lb ed="#P" n="119"/>durationis. Quo sensu etiam in magno Lateranensi 
+      <lb ed="#P" n="120"/>concilio definitum est cap. 1. filium ex patre &amp; 
+      spi<lb ed="#P" n="121" break="no"/>ritum sanctum ex utroque procedere absque initio 
+      <lb ed="#P" n="122"/>semper &amp; fine. Sicut enim finis, ita &amp; initiuma 
+      pro<lb ed="#P" n="123" break="no"/>cessione filii &amp; spiritus sancti removetur, durationis 
+      <lb ed="#P" n="124"/>videlicet. Nam patrem filii principium esse 
+      produ<lb ed="#P" n="125" break="no"/>ctivum, nullam dubitationem habet. Quod si ita 
+      <lb ed="#P" n="126"/>est, habet autem filius patrem, habet igitur 
+      princi<lb ed="#P" n="127" break="no"/>pium productivum. Quae consequentia evidens est ac 
+      <lb ed="#P" n="128"/>necessaria. 
+    </p>
+            <p xml:id="bt67yj-k33863-d1e195">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Externa vero relatio est, quae tendit in rem 
+      natu<lb ed="#P" n="130" break="no"/>ra diversam, cujusmodi est in Deo relatio 
+      princi<lb ed="#P" n="131" break="no"/>pii respectu creaturarum. Convenit haec Deo ex 
+      tem<lb ed="#P" n="132" break="no"/>pore, estque totitrinitati communis, sicut &amp; caetera, 
+      <lb ed="#P" n="133"/>quibus ad creaturas Deus dicitur. Est enim tota 
+      Tri<lb ed="#P" n="134" break="no"/>nitas, ut eodem loco pronunciat Lateranense 
+      con<lb ed="#P" n="135" break="no"/>cilium, unum universorum, id est, totius principium, 
+      <lb ed="#P" n="136"/>non tria principia. Quomodo etiam fatendum est 
+      to<lb ed="#P" n="137" break="no"/>tam trinitatem esse totius creaturae unam &amp; primam 
+      <lb ed="#P" n="138"/>causam, non tres causas, primam, secundam, &amp; ter¬ 
+      <!--0114.xml-->
+      <pb ed="#P" n="91"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tiam. Nam quod apud Euseb. legitur lib. 1. hist. Eccl. 
+      <lb ed="#P" n="2"/>cap. 1. Filium Dei ac verbum esse secundam causam 
+      <lb ed="#P" n="3"/>rerum, ad Arianismum, quo author ille fuit infectus, 
+      <lb ed="#P" n="4"/>referendum est. Hoc modo filius se dixit principium 
+      <lb ed="#P" n="5"/>Joan. 8. cum interrogatus quis esset, respondit: 
+      Prin<lb ed="#P" n="6" break="no"/>cipium qui &amp; loquor vobis, idque juxta 
+      interpretatio<lb ed="#P" n="7" break="no"/>nem Augustini lib. 5. de Trinit. cap. 13. &amp; lib. contra 
+      <lb ed="#P" n="8"/>advers. legis &amp; proph. cap. 3. &amp; in expositione hujus 
+      <lb ed="#P" n="9"/>loci super Joannem, Ambrosii lib. 1. Hexa. c. 2. &amp; 4. 
+      <lb ed="#P" n="10"/>&amp; l. 3. de fide ad Gratianum cap. 4. &amp; Fulgentii lib. 
+      <lb ed="#P" n="11"/>2. ad Trasimundum regem; tametsi Graeci Chrysost. 
+      <lb ed="#P" n="12"/>Theophylactus &amp; alii, non improbabiliter diversam 
+      <lb ed="#P" n="13"/>tradunt illius loci expositionem. Neque tamen desunt 
+      <lb ed="#P" n="14"/>&amp; alia scripturae loca, in quibus aperte Christus 
+      prin<lb ed="#P" n="15" break="no"/>cipium appelletur, velut ad Col. 1. Apoc. 1. 21. &amp; 22. 
+      <lb ed="#P" n="16"/>Sic Nazianzenus in oratione de statu Episcoporum, 
+      <lb ed="#P" n="17"/>Cyrillus lib. 10. thes. c. 4. &amp; Hilarius lib. de Synodis 
+      <lb ed="#P" n="18"/>filium Dei principium appellaverunt. Jam igitur si 
+      <lb ed="#P" n="19"/>filio Dei competit principi nomen, licet ipse 
+      prin<lb ed="#P" n="20" break="no"/>cipium habeat, consequens est idem &amp; Spiritui 
+      san<lb ed="#P" n="21" break="no"/>cto competere; sed utique relatione tantum, uti 
+      <lb ed="#P" n="22"/>diximus, externa. 
+    </p>
+            <p xml:id="bt67yj-k33863-d1e275">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Postremo sciendum in scripturis Deo tribui 
+      no<lb ed="#P" n="24" break="no"/>men principii, non ut refertur ad principatum, seu 
+      <lb ed="#P" n="25"/>rem productam; sed ut significat idem quod primum, 
+      <lb ed="#P" n="26"/>id est, id quo nihil est prius, quomodo etiam 
+      voca<lb ed="#P" n="27" break="no"/>tur finis, id est, id quo nihil est posterius. Sic Apoc. 
+      <lb ed="#P" n="28"/>1. &amp; ultimo Deus &amp; Christus vocat se principium &amp; 
+      <lb ed="#P" n="29"/>finem, primum &amp; novissimum, scilicet ad 
+      significan<lb ed="#P" n="30" break="no"/>dam aeternitatem perfectam. Sequitur enim, Qui est, 
+      <lb ed="#P" n="31"/>&amp; qui erat, &amp; qui venturus est. Hoc autem modo etiam 
+      <lb ed="#P" n="32"/>sine respectu ad creaturas, non tantum pater &amp; filius, 
+      <lb ed="#P" n="33"/>sed et iam Spiritus sanctus est principium. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

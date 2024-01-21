@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="101"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k37719"><!-- l1d34c5" -->
+            <head xml:id="bt67yj-k37719-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k37719-Hd1e103" type="question-title">Cur bonitas approprietur Spiritui sancto</head>
+            <p xml:id="bt67yj-k37719-d1e106">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> §. 5. Cur bonitas approprietur Spiritui sancto.
+    </p>
+            <p xml:id="bt67yj-k37719-d1e113">
+               <lb ed="#P" n="9"/>POnitatem Spiritui sancto passim attribuunt 
+      sa<lb ed="#P" n="10" break="no"/>Dcrae litterae, ut Pl. 142. Spiritus tuus bonus 
+      dedu<lb ed="#P" n="11" break="no"/>cet me. Sap. I. Benignus est spiritus sapientiae. Et cap. 7. 
+      <lb ed="#P" n="12"/>Spiritus sapientiae describitur suavis, humanus, 
+      beni<lb ed="#P" n="13" break="no"/>gnus. Et c. 12. dicitur: O quam bonus &amp; suavis est 
+      <lb ed="#P" n="14"/>Domine spiritus tuus in omuibus? Eccl. 24. Spiritus 
+      <lb ed="#P" n="15"/>ejus super mel dulcis. Luc. 11. Pater vester de caelo dabit 
+      <lb ed="#P" n="16"/>spiritum bonum petentibus se. Praeterea omnis 
+      affluen<lb ed="#P" n="17" break="no"/>tia donorum Dei Spiritui sancto fere ascribitur, ut 
+      <lb ed="#P" n="18"/>Isa. 11. Joel. 2. Joan. 7. 14. &amp; 16. Act. 2. 1. Corinth. 
+      <lb ed="#P" n="19"/>12. &amp; Tit. 3. Imo universa quae operatus est causa 
+      sa<lb ed="#P" n="20" break="no"/>lutis nostrae filius Dei in carne assumpta, tribuit 
+      scri<lb ed="#P" n="21" break="no"/>ptura Spiritui sancto, ut conceptionem ejus. Luc. I. 
+      <lb ed="#P" n="22"/>jejunium ejus in deserto. Matth. 4. miracula ejus 
+      <lb ed="#P" n="23"/>Matth. 12. oblationem ejus in cruce Heb. 9. 
+      resurre<lb ed="#P" n="24" break="no"/>ctionem ejus Rom. 8. Haec enim omnia summae 
+      boni<lb ed="#P" n="25" break="no"/>tatis, benignitatis ac misericordiae opera sunt. 
+    </p>
+            <p xml:id="bt67yj-k37719-d1e152">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Cur autem haec ascribantur Spiritui sancto, ratio 
+      <lb ed="#P" n="27"/>est, quia Spiritus sanctus per modum amoris 
+      proce<lb ed="#P" n="28" break="no"/>dit. Cum enim sit tertia in trinitate persona, a 
+      reli<lb ed="#P" n="29" break="no"/>quis duabus procedens, ex qua ad aliam non fit 
+      pro<lb ed="#P" n="30" break="no"/>gressus, sed in qua sistitur &amp; quodammodo 
+      quiesci<lb ed="#P" n="31" break="no"/>tur, recte amori comparatur, ad quem quidem mens 
+      <lb ed="#P" n="32"/>cognoscendo progreditur; sed ex quo non pergit in 
+      <lb ed="#P" n="33"/>actum ulteriorem, videlicet ipsa delectatione, quae in 
+      <lb ed="#P" n="34"/>amando consistit, contenta. Amorem autem esse pro 
+      <lb ed="#P" n="35"/>prium opus bonitatis perspicuum est. 
+    </p>
+            <p xml:id="bt67yj-k37719-d1e179">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Patet hinc etiam, quare sanctificatio &amp; beatificatio 
+      <lb ed="#P" n="37"/>peculiariter tribuantur Spiritui sancto. Sanctificatio 
+      <lb ed="#P" n="38"/>enim opus est eximiae charitatis. At beatificatio 
+      ul<lb ed="#P" n="39" break="no"/>timum est opus Dei, ad quod praecedentia creationis 
+      <lb ed="#P" n="40"/>&amp; redemptionis opera destinantur. Ideo enim 
+      pri<lb ed="#P" n="41" break="no"/>mum conditi, ac deinde redempti sunt homines, ut 
+      <lb ed="#P" n="42"/>ad beatitudinem aliquando perveniant. 
+    </p>
+            <p xml:id="bt67yj-k37719-d1e199">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Porro quod attinet ad rationes trium jam 
+      dicto<lb ed="#P" n="44" break="no"/>rum appropriatorum a Magistro allatas, &amp; 
+      originali<lb ed="#P" n="45" break="no"/>ter acceptas ex summa sententiarum Hugonis tract. 1. 
+      <lb ed="#P" n="46"/>cap. 10. scilicet quod potentia tribuatur patri, ne 
+      <lb ed="#P" n="47"/>propter antiquitatem putetur infirmus; &amp; sapientia 
+      <lb ed="#P" n="48"/>filio, ne tanquam patre posterior, videatur minus 
+      <lb ed="#P" n="49"/>sapiens, quod utrumque in hominibus accidere solet; 
+      <lb ed="#P" n="50"/>denique quod bonitas Spiritui sancto, ne putetur esse 
+      <lb ed="#P" n="51"/>saevus &amp; implacabilis, eo quod spiritus in humanis 
+      <lb ed="#P" n="52"/>inflationem &amp; violentiam quandam importet: Hae 
+      <lb ed="#P" n="53"/>rationes, inquam, idcirco minus sunt probabiles, 
+      <lb ed="#P" n="54"/>quia non sumuntur ex congruentia, quam habeant 
+      <lb ed="#P" n="55"/>haec appropriata cum personarum proprietatibus; sed 
+      <lb ed="#P" n="56"/>tantum e diverso objiciuntur intellectui humano, 
+      <lb ed="#P" n="57"/>ne forte circa ipsas proprietates, ex rerum 
+      huma<lb ed="#P" n="58" break="no"/>narum simflitudine errorem concipiat. Quare nec in 
+      <lb ed="#P" n="59"/>sacris litteris, nec in scriptis veterum fundatae sunt. 
+      <lb ed="#P" n="60"/>Utrasque vero rationes satis breviter complexus est 
+      <lb ed="#P" n="61"/>S. Thomas 1. quaest. 39. art. 8. in corp. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

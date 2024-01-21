@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="56"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k21035"><!-- l1d12c3" -->
+            <head xml:id="bt67yj-k21035-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k21035-Hd1e103" type="question-title">Quo sensu spiritus a patre procedere dicatur 
+      principaliter, proprie et per filium</head>
+            <p xml:id="bt67yj-k21035-d1e106">
+               <lb ed="#P" n="121"/> §. 3. Quo sensu spiritus a patre procedere dicatur 
+      <lb ed="#P" n="122"/>principaliter, proprie &amp; per filium.
+    </p>
+            <p xml:id="bt67yj-k21035-d1e113">
+               <lb ed="#P" n="123"/>NOn adversantur doctrinae superiori, sententiae 
+      <lb ed="#P" n="124"/>Iquaedam patrum; quorum alii spiritum 
+      san<lb ed="#P" n="125" break="no"/>ctum principaliter ex patre procedere testantur, ut 
+      <lb ed="#P" n="126"/>Augustinus lib. 15. de trinitate cap. 17. Alii dicunt 
+      <lb ed="#P" n="127"/>proprie &amp; ex patre procedere, ut est in explanatione 
+      <lb ed="#P" n="128"/>fidei ad Cyrillum quae fertur Hieronymi titulo. 
+      Cu<lb ed="#P" n="129" break="no"/>jus nomine etiam a Magistro citatur, licet satis 
+      <lb ed="#P" n="130"/>constet ejus non esse: Alii procedere eum dicunt ex 
+      <lb ed="#P" n="131"/>patre per filium, ut passim veteres Graeci, &amp; inter 
+      <lb ed="#P" n="132"/>Latinos Hilarius in fine lib. 2. de trinit. Non enim 
+      hu<lb ed="#P" n="133" break="no"/>jusmodi sententiis, significatum est spiritum sanctum 
+      <lb ed="#P" n="134"/>plenius aut perfectius a patre procedere, quam a 
+      fi<lb ed="#P" n="135" break="no"/>lio aut patrem &amp; filium plura ac distincta &amp; 
+      inaequa<lb ed="#P" n="136" break="no"/>lia esse principia spiritus sancti, seu processionis ejus 
+      <lb ed="#P" n="137"/>sed principaliter quidem &amp; proprie procedere dici¬ 
+      <!--0080.xml-->
+      <pb ed="#P" n="57"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tur a patre, quia pater sic est ejus principium, ut hoc 
+      <lb ed="#P" n="2"/>ipsum quod est esse principium, a nullo accipiat: 
+      Fi<lb ed="#P" n="3" break="no"/>lius autem aeterna sua generatione, naturam 
+      acci<lb ed="#P" n="4" break="no"/>piens a patre, simul accipit esse principium Spiritus 
+      <lb ed="#P" n="5"/>sancti, id est, hoc accipit nascendo a patre, ut etiam 
+      <lb ed="#P" n="6"/>ex ipso ab aeterno &amp; aeque perfecte atque ex patre 
+      spi<lb ed="#P" n="7" break="no"/>ritus sanctus procedat, utpote ex eodem principio 
+      <lb ed="#P" n="8"/>quod est pater. Sicut enim filius est Deus de Deo, &amp; 
+      <lb ed="#P" n="9"/>tantum unus cum patre Deus; ita est principium de 
+      <lb ed="#P" n="10"/>principio, &amp; tantum unum cum patre principium. 
+      <lb ed="#P" n="11"/>Principaliter ergo quasi dicas, principaliter Spiritus 
+      <lb ed="#P" n="12"/>sanctus a solo patre procedit, quia licet pater &amp; filius 
+      <lb ed="#P" n="13"/>sint ambo unum Spiritus sancti principium; solus 
+      ta<lb ed="#P" n="14" break="no"/>men pater est principium sine principio, filius autem 
+      <lb ed="#P" n="15"/>principium ex principio. Item proprie Spiritus 
+      san<lb ed="#P" n="16" break="no"/>ctus a patre procedit, quia pater ab alio non accipit 
+      <lb ed="#P" n="17"/>ut ex ipso procedat Spiritus sanctus; filius autem hoc 
+      <lb ed="#P" n="18"/>accipit a patre. Dicitur namque proprie quis illud 
+      <lb ed="#P" n="19"/>habere, quod habet sibi, non aliunde 
+      communica<lb ed="#P" n="20" break="no"/>tum. Hanc proprietatem ascribit patri filius cum ait: 
+      <lb ed="#P" n="21"/>Mea doctrina non est mea: &amp; sermo quem audistis non 
+      <lb ed="#P" n="22"/>est meus, sed ejus qui misit me patris. Denique per 
+      fi<lb ed="#P" n="23" break="no"/>lium dicitur a patre procedere Spiritus sanctus, non 
+      <lb ed="#P" n="24"/>tanquam per instrumentum aut ministrum patris, ac 
+      <lb ed="#P" n="25"/>multo minus tanquam per causam adjuvantem, 
+      quo<lb ed="#P" n="26" break="no"/>modo in humanis alius alium tanquam per se 
+      insuffi<lb ed="#P" n="27" break="no"/>cientem adjuvat, ad quippiam faciendum; sed 
+      tan<lb ed="#P" n="28" break="no"/>quam per id quod medium est secundum originem; 
+      <lb ed="#P" n="29"/>nimirum procedens a patre &amp; procedendo, hoc 
+      acci<lb ed="#P" n="30" break="no"/>piens a patre quod etiam ab ipso Spiritus sanctus 
+      pro<lb ed="#P" n="31" break="no"/>cedat. Quod &amp; in operibus, quae sunt ad extra, 
+      lo<lb ed="#P" n="32" break="no"/>cum habet. Nam de filio scriptum est: Omnia per 
+      <lb ed="#P" n="33"/>ipsum facta sunt, &amp; in symbolo, Per quem omnia 
+      <lb ed="#P" n="34"/>facta sunt. Atque hujus originis ratione, 
+      rectissi<lb ed="#P" n="35" break="no"/>me confitemur patrem esse primam personam in 
+      <lb ed="#P" n="36"/>divinis, filium secundam, Spiritum sanctum 
+      ter<lb ed="#P" n="37" break="no"/>tiam. Qui ordo secundum Graecorum errorem 
+      consi<lb ed="#P" n="38" break="no"/>stere non potest, uti ad superiorem distinctionem 
+      <lb ed="#P" n="39"/>declaratum est.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

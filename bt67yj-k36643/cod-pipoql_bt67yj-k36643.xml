@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="98"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k36643"><!-- l1d33c2" -->
+            <head xml:id="bt67yj-k36643-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k36643-Hd1e103" type="question-title">Relationes personales nec a personis, nec ab essentia 
+        reipsa distingui</head>
+            <p xml:id="bt67yj-k36643-d1e106">
+               <lb ed="#P" n="29"/>§. 2. Relationes personales nec a personis, nec ab essentia 
+      <lb ed="#P" n="30"/>reipsa distingui.
+    </p>
+            <p xml:id="bt67yj-k36643-d1e113">
+               <lb ed="#P" n="31"/>PRaeter distinctionem trium inter se personarum 
+      <lb ed="#P" n="32"/>Trealem, nullum aliud reale discrimen in divinis 
+      <lb ed="#P" n="33"/>agnoscit fides Catholica. Proinde relationes seu 
+      pro<lb ed="#P" n="34" break="no"/>prietates personales, a personis quibus competunt, 
+      <lb ed="#P" n="35"/>non reipsa, sed ratione sola distinguuntur, velut 
+      <lb ed="#P" n="36"/>paternitas a patre, filiatio a filio. Est enim in divinis 
+      <lb ed="#P" n="37"/>idem revera pater quod paternitas, &amp; idem filius 
+      <lb ed="#P" n="38"/>quod filiatio, &amp; omnino tres relationes personales, 
+      <lb ed="#P" n="39"/>non aliud sunt quam tres personae. Certum id est, ex 
+      <lb ed="#P" n="40"/>ea Catholica doctrina, quae non nisi tria realiter 
+      di<lb ed="#P" n="41" break="no"/>stincta in divinis agnoscit, tres videlicet personas, 
+      <lb ed="#P" n="42"/>patrem, &amp; filium, &amp; spiritum sanctum. Quod si ab 
+      <lb ed="#P" n="43"/>his etiam proprietates earum reipsa distinctae essent, 
+      <lb ed="#P" n="44"/>jam non trinitas, sed quaternitas, atque etiam major 
+      <lb ed="#P" n="45"/>aliquis numerus in divinis exurgeret. Quod est 
+      con<lb ed="#P" n="46" break="no"/>demnatum in Concilio Lateranensi sub Innocentio 
+      <lb ed="#P" n="47"/>tertio capite primo &amp; secundo. Jam ex eodem 
+      funda<lb ed="#P" n="48" break="no"/>mento istud quoque certissime consequitur. 
+      Relatio<lb ed="#P" n="49" break="no"/>nes personales non esse realiter distinctas ab essentia 
+      <lb ed="#P" n="50"/>divma. Cum enim non distinguantur a personis, 
+      <lb ed="#P" n="51"/>personae autem sint essentia divina; sequitur &amp; 
+      rela<lb ed="#P" n="52" break="no"/>tiones personales essentiam divinam esse. Quod 
+      au<lb ed="#P" n="53" break="no"/>tem personae ab essentia non sint distinctae, probatum 
+      <lb ed="#P" n="54"/>est ad distinctionem quintam, in reprobatione erroris 
+      <lb ed="#P" n="55"/>Abbatis Joachim, nec non ad distinctionem 
+      octa<lb ed="#P" n="56" break="no"/>vam, ubi de simplicitate naturae divinae agebatur. 
+      <lb ed="#P" n="57"/>Ex dictis etiam eorum refellitur error, qui 
+      docue<lb ed="#P" n="58" break="no"/>runt personam componi ex essentia &amp; proprietate, 
+      <lb ed="#P" n="59"/>videlicet arbitrantes proprietatem ab essentia realiter 
+      <lb ed="#P" n="60"/>distingui, atque hoc pacto realem compositionem in 
+      <lb ed="#P" n="61"/>mysterium Trinitatis introducentes. In qua 
+      sum<lb ed="#P" n="62" break="no"/>mum esse simplicitatem &amp; ab omni compositione 
+      re<lb ed="#P" n="63" break="no"/>motam credere debemus. 
+    </p>
+            <p xml:id="bt67yj-k36643-d1e187">
+               <lb ed="#P" n="64"/>Caeterum ut aliquatenus intelligamus, quomodo 
+      <lb ed="#P" n="65"/>tres realiter distinctae relationes sint una numero 
+      <lb ed="#P" n="66"/>simplicissima essentia, notandum quicquid est in 
+      <lb ed="#P" n="67"/>creaturis, &amp; imperfectionem non involvit, in Deo 
+      <lb ed="#P" n="68"/>esse excellentissimo modo, velut sapientia in 
+      homini<lb ed="#P" n="69" break="no"/>bus est, sed imperfecta, in Deo autem est 
+      perfectis<lb ed="#P" n="70" break="no"/>sima, sic, ut ibi non aliud sit sapiens, aliud sapientia; 
+      <lb ed="#P" n="71"/>&amp; rursum aliud sapientia, aliud essentia, sed omnia 
+      <lb ed="#P" n="72"/>haec una eademque res. Hoc autem &amp; in respectivis 
+      <!--0121.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>locum habet. Nam &amp; haec modo perfectissimo in 
+      <lb ed="#P" n="74"/>Deo reperiuntur, ut esse patrem, esse filium. Cum 
+      <lb ed="#P" n="75"/>igitur Deus sit res summa &amp; perfectissima, ideó¬ 
+      <lb ed="#P" n="76"/>que &amp; simplicissima, oportet ut omnia tam 
+      rela<lb ed="#P" n="77" break="no"/>tiva, quam absoluta, sint unum in Deo, sic 
+      ta<lb ed="#P" n="78" break="no"/>men ut respectivorum natura salvetur, quae in eo 
+      <lb ed="#P" n="79"/>consistit, ut relationes oppositae distinguantur 
+      in<lb ed="#P" n="80" break="no"/>ter se, ac porro distinguant ea quibus tribuuntur. 
+      <lb ed="#P" n="81"/>Unde consequens est ita omnia in Deo unum esse, 
+      <lb ed="#P" n="82"/>ut tamen ea sit agnoscenda realis distinctio, quam 
+      <lb ed="#P" n="83"/>relativorum natura postulat. Hanc probationem 
+      <lb ed="#P" n="84"/>pluribus verbis explicatam videre est apud S., 
+      <lb ed="#P" n="85"/>Thom. prima, quaestione vicesimaoctava, artic. 
+      <lb ed="#P" n="86"/>2. quo docet relationem in Deo idem esse, quod 
+      <lb ed="#P" n="87"/>ejus essentiam. Quod vero relationes sint 
+      eae<lb ed="#P" n="88" break="no"/>dem cum personis, docet quaestione quadragesima, 
+      <lb ed="#P" n="89"/>art. 1. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

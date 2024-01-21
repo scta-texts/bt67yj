@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="100"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k37458"><!-- l1d34c3" -->
+            <head xml:id="bt67yj-k37458-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k37458-Hd1e103" type="question-title">Quare patri in divinis approprietur potentia</head>
+            <p xml:id="bt67yj-k37458-d1e106">
+               <lb ed="#P" n="52"/>§. 3. Quare patri in divinis approprietur potentia.
+      </p>
+            <p xml:id="bt67yj-k37458-d1e111">
+               <lb ed="#P" n="53"/>INter appropriata divinarum personarum, 
+      maxi<lb ed="#P" n="54" break="no"/>Ime frequentatur in sacris literis &amp; sanctorum 
+      <lb ed="#P" n="55"/>scriptis, hic ternio, potentia, sapientia, bonitas, ut 
+      <lb ed="#P" n="56"/>potentia accommodetur patri, sapientia filio, 
+      boni<lb ed="#P" n="57" break="no"/>tas spiritui sancto. Quibus tribus eodem ordine 
+      res<lb ed="#P" n="58" break="no"/>pondent &amp; haec tria velut actus illorum, creatio, 
+      re<lb ed="#P" n="59" break="no"/>demptio &amp; sanctificatio, vel beatificatio. Et primum 
+      <lb ed="#P" n="60"/>quidem patri potentiam tribuunt haec &amp; similia 
+      scri<lb ed="#P" n="61" break="no"/>pturae loca Mat. 11. Confiteor pater Domine caeli &amp; terrae. 
+      <lb ed="#P" n="62"/>Eit 26. An putas quia non possum rogare patrem meum, 
+      <lb ed="#P" n="63"/>&amp; exhibebit mihi modo plus quam duodecim legiones 
+      <lb ed="#P" n="64"/>angelorum? Marci 14. Abba pater, omnia tibi possibilia 
+      <lb ed="#P" n="65"/>sunt. Et Psal. 88. Domine Leus virtutum, quis similis 
+      <lb ed="#P" n="66"/>tibi? potens es Domine. Quod ad patrem dici, satis 
+      <lb ed="#P" n="67"/>declarant quae in eodem Psalmo subsequuntur. Hinc 
+      <lb ed="#P" n="68"/>etiam est quod Apost. 1. Tim. 6. patrem solum 
+      poten<lb ed="#P" n="69" break="no"/>tem vocat. His accedit, quod in symbolo Apostol. 
+      <lb ed="#P" n="70"/>aliisque fidei symbolis posterioribus, profitemur nos 
+      <!--0123.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>credere in Deum patrem omnipotentem, 
+      omnium<lb ed="#P" n="72" break="no"/>que rerum creatorem. Quibus verbis non tantum 
+      <lb ed="#P" n="73"/>omnipotentiam, sed &amp; opus creationis videmus patri 
+      <lb ed="#P" n="74"/>peculiariter asscribi. Cur autem patri omnipotentia 
+      <lb ed="#P" n="75"/>accommodetur, haec ratio esse videtur; quia pater est 
+      <lb ed="#P" n="76"/>origo &amp; principium, non tantum omnium rerum 
+      <lb ed="#P" n="77"/>creatarum, sed &amp; divinarum personarum. Jam vero 
+      <lb ed="#P" n="78"/>quanto plura quis efficere ac producere potest, tanto 
+      <lb ed="#P" n="79"/>solet apud homines haberi potentior. Quoniam ergo 
+      <lb ed="#P" n="80"/>potentia, magis congruit cum personali proprietate 
+      <lb ed="#P" n="81"/>patris, fit ut patri peculiariter accommodata sit. Et 
+      <lb ed="#P" n="82"/>quia in operecreationis totius mundi, potentia divina 
+      <lb ed="#P" n="83"/>maxime relucet, hinc &amp; creatio patri appropriatur. 
+      <lb ed="#P" n="84"/>Cujus tamen &amp; alia ratio reddi potest; quia nimirum 
+      <lb ed="#P" n="85"/>quomodo pater prima est in divinis persona, &amp; origo 
+      <lb ed="#P" n="86"/>aliarum; sic &amp; opus creationis inter Dei opera 
+      pri<lb ed="#P" n="87" break="no"/>mum est, ac reliquorum omnium, velut 
+      redemptio<lb ed="#P" n="88" break="no"/>nis ac sanctificationis fundamentum. 
+    </p>
+            <p xml:id="bt67yj-k37458-d1e196">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Neque his obstat, quod filius aliquando in 
+      scriptu<lb ed="#P" n="90" break="no"/>ris virtus &amp; fortitudo &amp; brachium patris appelletur, 
+      <lb ed="#P" n="91"/>ut 1. Corinth. 1. &amp; Isa. 53. &amp; 63. Haec enim ita 
+      tri<lb ed="#P" n="92" break="no"/>buuntur filio, &amp; nonnunquam etiam spiritui sancto, 
+      <lb ed="#P" n="93"/>ut tamen ambo significentur, ea accepisse a patre, qui 
+      <lb ed="#P" n="94"/>velut primus author, per eos suam potentiam 
+      exer<lb ed="#P" n="95" break="no"/>ceat; tametsi sanctus Thomas existimat filium &amp; 
+      spi<lb ed="#P" n="96" break="no"/>ritum sanctum, non aliter vocari virtutem Dei, quam 
+      <lb ed="#P" n="97"/>ut virtutis nomine intelligatur id quod a potentia 
+      <lb ed="#P" n="98"/>procedit, atque producitur. Sed hoc non apparet 
+      <lb ed="#P" n="99"/>quandoquidem Apostolus Christum similiter 
+      appel<lb ed="#P" n="100" break="no"/>laverit Dei virtutem &amp; sapientiam. Vide sanctum 
+      <lb ed="#P" n="101"/>Thomam in illum locum Apostoli. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

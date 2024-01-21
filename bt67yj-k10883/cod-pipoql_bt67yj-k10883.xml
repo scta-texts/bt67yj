@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="30"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k10883"><!-- l1d7c6" -->
+            <head xml:id="bt67yj-k10883-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k10883-Hd1e103" type="question-title">Contra eos qui dicunt filium potuisse gignere 
+      sed noluisse</head>
+            <p xml:id="bt67yj-k10883-d1e106">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> §. 6. Contra eos qui dicunt filium potuisse gignere 
+      <lb ed="#P" n="24"/>sed noluisse.
+    </p>
+            <p xml:id="bt67yj-k10883-d1e115">
+               <lb ed="#P" n="25"/>QUorundam opinio fuit filio in divinis vere 
+      com<lb ed="#P" n="26" break="no"/>petere gignendi potentiam. Unde &amp; 
+      fateban<lb ed="#P" n="27" break="no"/>tur eum potuisse gignere alium filium, sed noluisse; 
+      <lb ed="#P" n="28"/>nitentes authoritate S. Augustini, quilib. 3. 
+      con<lb ed="#P" n="29" break="no"/>tra Maximinum c. 12. negans ideo patrem 
+      potentio<lb ed="#P" n="30" break="no"/>rem filio, quia pater genuit, filius autem non genuit, 
+      <lb ed="#P" n="31"/>hanc subjicit rationem: Neque enim, inquit, non 
+      po<lb ed="#P" n="32" break="no"/>tuit, sed non oportuit. Immoderata enim esset divina 
+      ge<lb ed="#P" n="33" break="no"/>neratio, &amp;c. Verum isti hac responsione nondum 
+      eva<lb ed="#P" n="34" break="no"/>dunt laqueos Arianorum. Licet enim fateantur 
+      fi<lb ed="#P" n="35" break="no"/>lium potuisse gignere, negant tamen hoc eum 
+      vo<lb ed="#P" n="36" break="no"/>luisse; atque ita illis manet adhuc consequens, si non 
+      <lb ed="#P" n="37"/>potentia minorem, saltem voluntate diversum esse a 
+      <lb ed="#P" n="38"/>patre filium, cum pater gignere velit, filjus autem 
+      <lb ed="#P" n="39"/>nolit. Deinde etiam per se apsurdum est, filio 
+      tribue<lb ed="#P" n="40" break="no"/>re gignendi potentiam absque voluntate &amp; actu. 
+    </p>
+            <p xml:id="bt67yj-k10883-d1e152">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Primo, quia in divinis atque aeternis eadem sunt 
+      <lb ed="#P" n="42"/>posse &amp; esse. Si ergo potest esse ex filio generatio, 
+      <lb ed="#P" n="43"/>sequitur eam esse. 
+    </p>
+            <p xml:id="bt67yj-k10883-d1e164">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Secundo, quia si ponamus potentiam illam nunc 
+      <lb ed="#P" n="45"/>demum reduci ad actum, sequetur personam 
+      geni<lb ed="#P" n="46" break="no"/>tam non esse gignenti coaeternam. Quare nec Deus 
+      <lb ed="#P" n="47"/>erit, &amp; proinde nec ejusdem cum gignente naturae. 
+      <lb ed="#P" n="48"/>Quod si ita est, non erit illa veri nominis generatio, 
+      <lb ed="#P" n="49"/>sed cujusdam creaturae productio. Unde adhuc 
+      se<lb ed="#P" n="50" break="no"/>quetur filium non esse patri aequalem secundum 
+      po<lb ed="#P" n="51" break="no"/>tentiam, si pater possit Deum ex se gignere, filius 
+      <lb ed="#P" n="52"/>autem non possit. 
+    </p>
+            <p xml:id="bt67yj-k10883-d1e188">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Tertio, quia potentia gignendi filios ac nepotes, 
+      <lb ed="#P" n="54"/>in hominibus partim est, ut perfectio quae uni filio 
+      <lb ed="#P" n="55"/>non communicatur, possit alii vel aliis communicari 
+      <lb ed="#P" n="56"/>&amp; contra; partim ut continua propagatione aliorum 
+      <lb ed="#P" n="57"/>ex aliis possit natura perpetuari; quorum neutrum 
+      <lb ed="#P" n="58"/>in divinis usum habet, nec habere potest. Unicus 
+      <lb ed="#P" n="59"/>enim Dei filius &amp; perfectissima est imago patris, &amp; 
+      <lb ed="#P" n="60"/>est patri coaeternus. Quare frustra poneretur in filio 
+      <lb ed="#P" n="61"/>similis potentia. 
+    </p>
+            <p xml:id="bt67yj-k10883-d1e212">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Quarto, quia si filio tribuitur potentia gignendi 
+      <lb ed="#P" n="63"/>absque voluntate &amp; actu, licebit eandem tribuere &amp; 
+      <lb ed="#P" n="64"/>Spiritui sancto. Licebit &amp; patri tribuere potentiam 
+      <lb ed="#P" n="65"/>gignendi plures filios, &amp; de spirandi potentia 
+      simili<lb ed="#P" n="66" break="no"/>ter. Quae omnia a Catholico sensu suntpenitus aliena. 
+    </p>
+            <p xml:id="bt67yj-k10883-d1e228">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Caeterum quid sibi velint Augustini verba recte 
+      <lb ed="#P" n="68"/>exponit Magister. Tale est enim ac si dixisset: Non 
+      <lb ed="#P" n="69"/>quia non potuit, sed quia non oportuit, id est, quod 
+      <lb ed="#P" n="70"/>filius alium filium genuerit, non accidit ex defectu 
+      <lb ed="#P" n="71"/>potentiae, hoc est, ex impotentia sive imbecillitate 
+      <lb ed="#P" n="72"/>aliqua filii, sed ex eo quod non conveniat praestantiae 
+      <!--0053.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>naturae divinae, ut filius ex patre genitus, alium ex se 
+      <lb ed="#P" n="74"/>filium progeneret. Est igitur negatio illa, non potuit, 
+      <lb ed="#P" n="75"/>in Augustini verbis non prorsus negative sed 
+      privati<lb ed="#P" n="76" break="no"/>ve accipienda, ut impotentiam &amp; imbecillitatem 
+      si<lb ed="#P" n="77" break="no"/>gnificet, quae omni modo tam a filio quam a patre 
+      <lb ed="#P" n="78"/>removenda est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

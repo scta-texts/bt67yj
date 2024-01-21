@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="69"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k25762"><!-- l1d17c5" -->
+            <head xml:id="bt67yj-k25762-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k25762-Hd1e103" type="question-title">Responsio ad argumenta Magistri et aliorum.</head>
+            <p xml:id="bt67yj-k25762-d1e106">
+               <lb ed="#P" n="78"/>§. 5. Responsio ad argumenta Magistri &amp; aliorum.
+    </p>
+            <p xml:id="bt67yj-k25762-d1e111">
+               <lb ed="#P" n="79"/>SUperest ut ea diluamus, quae contra communem? 
+      <lb ed="#P" n="80"/>Dimo Catholicam de charitate doctrinam, partim 
+      <lb ed="#P" n="81"/>a Magistro partim ab aliis adferuntur. 
+    </p>
+            <p xml:id="bt67yj-k25762-d1e120">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Primo objiciunt scripturam: I. Joan. 4. Deus 
+      chari<lb ed="#P" n="83" break="no"/>tas est, &amp; qui manet in charitate, in Deo manet. Quibus 
+      <lb ed="#P" n="84"/>verbis cum Apostolus facere videatur syllogisticam 
+      <lb ed="#P" n="85"/>collectionem qualis haec est: Albedo color est; ergo 
+      <lb ed="#P" n="86"/>qui videt albedinem videt colorem; necesse est ibi 
+      <lb ed="#P" n="87"/>charitatem eandem intelligi. Ad quod respondetur 
+      <lb ed="#P" n="88"/>collectionem quae ex illis Apostoli verbis confici 
+      po<lb ed="#P" n="89" break="no"/>test, non esse syllogisticam. Sed cum Deus per 
+      essen<lb ed="#P" n="90" break="no"/>tiam sit charitas, ideoque fons omnis dilectionis quae 
+      <lb ed="#P" n="91"/>esse potest in creaturis, recte concludit Joan. eum qui 
+      <lb ed="#P" n="92"/>manet in dilectione fraterna, manere in Deo, quia 
+      <lb ed="#P" n="93"/>per charitatem creatam qua fratrem diligit, Deo, qui 
+      <lb ed="#P" n="94"/>per essentiam charitas est, similis efficitur. 
+      Quomo<lb ed="#P" n="95" break="no"/>do etiam dicere liceat. Qui manet in sapientia, in Deo 
+      <lb ed="#P" n="96"/>manet, quia Deus sapientia est. Et similiter de 
+      boni<lb ed="#P" n="97" break="no"/>tate, justitia, sanctitate &amp; similibus. Unde tamen 
+      con<lb ed="#P" n="98" break="no"/>sequens non erit nullas creatas hujusmodi 
+      proprieta<lb ed="#P" n="99" break="no"/>tes homini inesse. Quanquam peculiari ratione 
+      pro<lb ed="#P" n="100" break="no"/>pter charitatem in Deo manere quis dicitur, eo quod 
+      <lb ed="#P" n="101"/>charitas excellentissimum sit Dei donum, cujus 
+      pro<lb ed="#P" n="102" break="no"/>inde ratione maxime similes efficimur Deo, 
+    </p>
+            <p xml:id="bt67yj-k25762-d1e171">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Secundo quaedam ex Aug. pro se Magister adducit. 
+      <lb ed="#P" n="104"/>Primus locus est tract. 9. super epist. 50an. ubi dicit 
+      <lb ed="#P" n="105"/>non tam charitatem in nobis, quam nos in charitate 
+      <lb ed="#P" n="106"/>proficere, rationem addens: Nam si charitas Deus 
+      <lb ed="#P" n="107"/>est, nec deficit, nec proficit: Sed in te proficere 
+      dici<lb ed="#P" n="108" break="no"/>tur quia tu in ea proficis. Sic enim &amp; Ecclesia orat in 
+      <lb ed="#P" n="109"/>quadam collecta dicens: Ut dum dona tua in 
+      tribu<lb ed="#P" n="110" break="no"/>latione percipimus, de consolatione nostra in tuo 
+      <lb ed="#P" n="111"/>amore crescamus, feria 2. rogationum. Secundus est 
+      <lb ed="#P" n="112"/>lib. 8. de trinit. c. 7. &amp; 8. ubi docet atque identidem 
+      <lb ed="#P" n="113"/>repetit eam dilectionem qua fratrem diligimus, esse 
+      <lb ed="#P" n="114"/>Deum, ideoque consequens esse ut qui fratrem 
+      dili<lb ed="#P" n="115" break="no"/>git, Deum diligat, quia ipsam dilectionem, qua 
+      fra<lb ed="#P" n="116" break="no"/>trem diligit, non potest non diligere. Tertius lib. 15. 
+      <lb ed="#P" n="117"/>de Trinit. c. 17. &amp; 18. in quibus docet charitatem 
+      <lb ed="#P" n="118"/>ipsam, quae Deidonum est, esse Spiritum sanctum, 
+      <lb ed="#P" n="119"/>utens hujusmodi argumento: Spiritus sanctus facit 
+      <lb ed="#P" n="120"/>nos in Deo manere &amp; Deum in nobis. Hoc autem 
+      <lb ed="#P" n="121"/>facit charitas qua invicem diligimus, igitur eadem 
+      <lb ed="#P" n="122"/>illa charitas est Spiritus sanctus. Quartus eodem lib. 
+      <lb ed="#P" n="123"/>c. 19. ubi id ipsum concludit hujusmodi 
+      ratiocinatio<lb ed="#P" n="124" break="no"/>ne. Si in donis Deinihil est majus charitate, &amp; 
+      nul<lb ed="#P" n="125" break="no"/>lum est majus donum Dei quam spiritus sanctus, quid 
+      <lb ed="#P" n="126"/>consequentius est, quam ut ipse sit charitas, quae 
+      dici<lb ed="#P" n="127" break="no"/>tur &amp; Deus &amp; ex Deo? &amp;c. Quintus lib. de morib. 
+      <lb ed="#P" n="128"/>Ecclesiae c. 11. ubi testatur charitatem quam dixerat 
+      <lb ed="#P" n="129"/>esse rectissimam animi nostri affectionem, esse 
+      bo<lb ed="#P" n="130" break="no"/>num quo nil melius sit. Hoc autem de solo Deo vere 
+      <lb ed="#P" n="131"/>dicitur. Sextus locus addi potest ex tract. 9. super 
+      <lb ed="#P" n="132"/>evangelium Joan. ubi sic ait: Si anima tua sine 
+      Spiri<lb ed="#P" n="133" break="no"/>tu sancto, id est, sine charitate fuerit, mortua 
+      deputa<lb ed="#P" n="134" break="no"/>bitur, &amp;c. Respondemus Augustinum nusquam 
+      do<lb ed="#P" n="135" break="no"/>cere, quod praeter charitatem, quae est Spiritus 
+      san<lb ed="#P" n="136" break="no"/>ctus, nullus fit in homine habitus charitatis creatus 
+      <lb ed="#P" n="137"/>atque inhaerens, quo Deum &amp; proximum diligat. Sed 
+      <lb ed="#P" n="138"/>quatuor prioribus locis, nec non postremo affirmat 
+      <lb ed="#P" n="139"/>opiritum sanctum esse charitatem etiam fraternam 
+      <lb ed="#P" n="140"/>hoc sensu, quia Spiritus sanctus proprie &amp; 
+      essentiali<lb ed="#P" n="141" break="no"/>ter est charitas, quia hominem efficit fratris 
+      dilecto<lb ed="#P" n="142" break="no"/>rem. Quae quidem increata charitas etiamex Deo est, 
+      <lb ed="#P" n="143"/>&amp; Deidonum est, ut patet ex supradictis de Spiritu 
+      <!--0093.xml-->
+      <pb ed="#P" n="70"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sancto, dist. 14. &amp; 15. &amp; magis patebit ex dist. 
+      pro<lb ed="#P" n="2" break="no"/>xime sequenti. Hunc autem sensum satis indicant 
+      <lb ed="#P" n="3"/>haec ejus verba lib. 8. de Trinit. c. 8. Cum ergo de 
+      <lb ed="#P" n="4"/>dilectione diligimus fratrem, de Deo diligimus 
+      fra<lb ed="#P" n="5" break="no"/>trem; ubi praepositione, de, efficientem atque 
+      ex<lb ed="#P" n="6" break="no"/>ternam causam significare voluit. Si enim causam 
+      <lb ed="#P" n="7"/>formalem, vel eam quae locum causae formalis sive 
+      <lb ed="#P" n="8"/>habitualis principii suppleret, designare voluisset, 
+      <lb ed="#P" n="9"/>dixisset hoc pacto. Cum ergo dilectione diligimus 
+      <lb ed="#P" n="10"/>fratrem, Deo diligimus fratrem. Quod autem 
+      agno<lb ed="#P" n="11" break="no"/>verit Augustinus charitatem quandam in nobis 
+      di<lb ed="#P" n="12" break="no"/>stinctam a Spiritu sancto, praeter testimonia dudum 
+      <lb ed="#P" n="13"/>adducta, potest ex eodem libro 8. de Trinitate 
+      do<lb ed="#P" n="14" break="no"/>ceri. Nam cap. 10. charitatem nobis in scriptura 
+      <lb ed="#P" n="15"/>tantopere commendatam, non aliud esse dicit, quam 
+      <lb ed="#P" n="16"/>amorem boni. De quo amore disserens ulterius lib. 9. 
+      <lb ed="#P" n="17"/>cap. 2. dicit mentem nostram &amp; amorem non esse 
+      <lb ed="#P" n="18"/>duos spiritus, sed unum, neque duas essentias sed 
+      <lb ed="#P" n="19"/>unam. Quae verba de amore increato, nulla ratione 
+      <lb ed="#P" n="20"/>possunt accipi. Quintus locus intelligendus venit 
+      <lb ed="#P" n="21"/>de charitate creata, qua nihil melius esse dicit, 
+      com<lb ed="#P" n="22" break="no"/>paratione facta inter creata Dei dona, ut sunt 
+      vir<lb ed="#P" n="23" break="no"/>tutes. Nam charitatem esse virtutem, eodem loco 
+      <lb ed="#P" n="24"/>manifeste asserit. 
+    </p>
+            <p xml:id="bt67yj-k25762-d1e323">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Tertio sic argumentantur. Spiritus sanctus 
+      homi<lb ed="#P" n="26" break="no"/>nem inhabitans, per se sufficienter agit ac movet 
+      <lb ed="#P" n="27"/>eum ad diligendum, frustra ergo statuitur habitus 
+      <lb ed="#P" n="28"/>aliquis charitatis a quo dilectionis actus procedat. 
+      <lb ed="#P" n="29"/>Respondetur eadem ratione (si bona sit) excludi 
+      <lb ed="#P" n="30"/>habitus fidei &amp; spei, quod aliunde sufficiat Spiritus 
+      <lb ed="#P" n="31"/>sanctus per se movere hominem ad credendum &amp; 
+      <lb ed="#P" n="32"/>sperandum. Imo hujusmodi ratiocinatione contra 
+      <lb ed="#P" n="33"/>ecclesiae definitionem tollemus ab homine 
+      justifica<lb ed="#P" n="34" break="no"/>to creatam &amp; internam habitualem justitiam, cum 
+      <lb ed="#P" n="35"/>ad omnia opera justitiae in nobis producenda, solus 
+      <lb ed="#P" n="36"/>per se sufficiat idem justi hominis mhabitator spiritus 
+      <lb ed="#P" n="37"/>sanctus. Sic nimirum olim Apollinaris haereticus 
+      di<lb ed="#P" n="38" break="no"/>cebat supervacue Christo tribui mentem seu 
+      ratio<lb ed="#P" n="39" break="no"/>nalem animam, quod hujus offieia aliunde suppleret 
+      <lb ed="#P" n="40"/>Dei Verbum. Sicut ergo Patres Apollinari 
+      respon<lb ed="#P" n="41" break="no"/>derunt, mentem esse homini Christo necessariam ad 
+      <lb ed="#P" n="42"/>hoc ut vere sit homo; ita dicimus justitiam &amp; 
+      chari<lb ed="#P" n="43" break="no"/>tatem creatam homini justo ac Dei amatori 
+      necessa<lb ed="#P" n="44" break="no"/>riam esse, ad hoc ut recte &amp; vere sit justus ac Der 
+      <lb ed="#P" n="45"/>amator. Nec vero posset efficere Spiritus sanctus ut 
+      <lb ed="#P" n="46"/>homo sine creata &amp; inhaerente justitia, proprie, id 
+      <lb ed="#P" n="47"/>est, formaliter sit justus, &amp; sine charitate creata 
+      di<lb ed="#P" n="48" break="no"/>lector, quia hoc includit contradictionem, sicut 
+      fa<lb ed="#P" n="49" break="no"/>cere non posset ut sine anima rationali proprie sit 
+      ho<lb ed="#P" n="50" break="no"/>mo, aut ut aliquid sit album sine albedine. 
+    </p>
+            <p xml:id="bt67yj-k25762-d1e384">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Si objicias catechumenum &amp; poenitentem 
+      dilige<lb ed="#P" n="52" break="no"/>re Deum sine habitu charitatis. Respondetur eos a 
+      <lb ed="#P" n="53"/>solo actu diligendi non dici proprie dilectores. Unde 
+      <lb ed="#P" n="54"/>fatemur in iis praeter actum transeuntem esse 
+      ali<lb ed="#P" n="55" break="no"/>quid habituale, per quod jam Deo placere 
+      inci<lb ed="#P" n="56" break="no"/>piant, quod tamen non est illa charitas, quae facit 
+      <lb ed="#P" n="57"/>hominem simpliciter Deo gratum, quam demum 
+      <lb ed="#P" n="58"/>accipiunt in remissione peccatorum, sed in illam 
+      <lb ed="#P" n="59"/>charitatem transit dum homo justificatur. De qua 
+      <lb ed="#P" n="60"/>re agetur in 3. dist. 27. 
+    </p>
+            <p xml:id="bt67yj-k25762-d1e410">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Quarto objiciunt ea quae charitati in scripturis 
+      at<lb ed="#P" n="62" break="no"/>tributa legimus majora esse, quam quae in formam 
+      <lb ed="#P" n="63"/>aliquam creatam cadere possint. Qualia sunt 
+      homi<lb ed="#P" n="64" break="no"/>nem spiritualiter vivificare, transferre de morte ad 
+      <lb ed="#P" n="65"/>vitam, &amp; de sinistra ad dexteram, templum Dei 
+      con<lb ed="#P" n="66" break="no"/>stituere, facere filium Dei, haeredem regni, divinae 
+      <lb ed="#P" n="67"/>consortem naturae. Haec enim omnia tanta sunt, ut 
+      <lb ed="#P" n="68"/>non nisi a Deo authore fieri possint. Addunt 
+      Cyril<lb ed="#P" n="69" break="no"/>lum thesauri lib. 13. qui est de Spiritu sancto c. 1. &amp; 
+      <lb ed="#P" n="70"/>2. hoc argumento colligere Spiritum sanctum esse 
+      <lb ed="#P" n="71"/>Deum, quia hominem spiritualiter vivificat ac Dei 
+      <lb ed="#P" n="72"/>templum efficit, quod hae sint operationes creaturae 
+      <lb ed="#P" n="73"/>facultatem excedentes. Responsio: si haec ratio 
+      con<lb ed="#P" n="74" break="no"/>cludit, pari ratione cum haereticis hujus temporis tol¬ 
+      <!--0093.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>lere nos oportebit habitualem &amp; inhaerentem justi¬ 
+    </p>
+            <p xml:id="bt67yj-k25762-d1e452">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> tiam, eo quod omnia illa quae charitati attributa 
+      le<lb ed="#P" n="77" break="no"/>gimus, etiam justitiae quae potissimum in charitate 
+      <lb ed="#P" n="78"/>consistit tribui sit necesse. Rursus eadem omnia vere 
+      <lb ed="#P" n="79"/>&amp; recte tribuuntur actuali dilectioni. Nec tamen 
+      in<lb ed="#P" n="80" break="no"/>de consequens est ne quidem secundum Magistrum, 
+      <lb ed="#P" n="81"/>nullam esse actualem dilectionem creatam in 
+      homi<lb ed="#P" n="82" break="no"/>ne. Dicendum igitur longe aliter haec tribui charitati 
+      <lb ed="#P" n="83"/>creatae, quam increatae. Nam increata charitas ea 
+      <lb ed="#P" n="84"/>omnia praestat, tanquam causa efficiens, eademque 
+      <lb ed="#P" n="85"/>prima, quae nimirum sic agit propria virtute, ut hanc 
+      <lb ed="#P" n="86"/>a nulla priori causa acceperit: Creata vero charitas 
+      <lb ed="#P" n="87"/>illa eadem praestare dicitur, partim ut formalis 
+      cau<lb ed="#P" n="88" break="no"/>sa. Est enim charitas ipsa vita, qua spiritualiter vivit 
+      <lb ed="#P" n="89"/>homo, estque eadem qualitas, qua quis Dei amicus 
+      <lb ed="#P" n="90"/>&amp; per adoptionem filius, &amp; Spiritus sancti templum 
+      <lb ed="#P" n="91"/>constituitur, qua etiam divinae naturae per gratiam 
+      <lb ed="#P" n="92"/>consors efficitur. Partim ut causa meritoria. Per 
+      cha<lb ed="#P" n="93" break="no"/>ritatem enim meretur homo justificatus, Deique 
+      fi<lb ed="#P" n="94" break="no"/>lius effectus, haereditatem regni caelestis. Adde quod 
+      <lb ed="#P" n="95"/>eadem omnia quodammodo efficienter causet ipse 
+      <lb ed="#P" n="96"/>homo per liberum arbitrium, scilicet, ut causa 
+      secun<lb ed="#P" n="97" break="no"/>da. Unde in scripturis homo seipsum justificare, 
+      san<lb ed="#P" n="98" break="no"/>ctificare, convertere dicitur. Saepe namque in 
+      scri<lb ed="#P" n="99" break="no"/>pturis iidem effectus Deo &amp; homini tribuuntur; sed 
+      <lb ed="#P" n="100"/>non eodem modo¬ 
+    </p>
+            <p xml:id="bt67yj-k25762-d1e511">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Postremum argumentum tale est: Sic Deus est 
+      <lb ed="#P" n="102"/>vita animae, sicut anima est vita corporis, Deut. 30. 
+      <lb ed="#P" n="103"/>Ipse est enim vita tua. Ergo sicut anima per scipsam 
+      <lb ed="#P" n="104"/>sine qualitate media vivificat corpus: sic Deus 
+      ani<lb ed="#P" n="105" break="no"/>mam per seipsum vivificat, tanquam per charitatem 
+      <lb ed="#P" n="106"/>increatam sine habitu charitatis medio. 
+      Respon<lb ed="#P" n="107" break="no"/>dendum non esse prorsus simile. Deus enim 
+      efficien<lb ed="#P" n="108" break="no"/>ter est vita animae per charitatem informantem, 
+      si<lb ed="#P" n="109" break="no"/>cut &amp; corporis per animam: Anima vero formaliter 
+      <lb ed="#P" n="110"/>est vita corporis, quomodo &amp; creata charitas 
+      for<lb ed="#P" n="111" break="no"/>maliter est vita animae; forma vero materiae 
+      con<lb ed="#P" n="112" break="no"/>jungitur immediate, causa vero efficiens rem 
+      in<lb ed="#P" n="113" break="no"/>format efficienter, mediante forma ut causa 
+      for<lb ed="#P" n="114" break="no"/>mali. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

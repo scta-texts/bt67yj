@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="71"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k26415"><!-- l1d18c2" -->
+            <head xml:id="bt67yj-k26415-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k26415-Hd1e103" type="question-title">Utrum etiam filius donum dici possit</head>
+            <p xml:id="bt67yj-k26415-d1e106">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> §. 2. Utrum etiam filius donum dici possit?
+    </p>
+            <p xml:id="bt67yj-k26415-d1e113">
+               <lb ed="#P" n="53"/>QUod filius Dei recte dari dicatur ostensum est 
+      <lb ed="#P" n="54"/>ad dist. 14. &amp; 15. Caeterum non perinde donum 
+      <lb ed="#P" n="55"/>eum vocari posse, patet ex discrimine jam constituto 
+      <lb ed="#P" n="56"/>inter donum &amp; datum. Atque id plane convincunt 
+      <lb ed="#P" n="57"/>Augustini verba lib. 4. de Trinit. c. 20. paulo ante 
+      <lb ed="#P" n="58"/>memorata, quibus ita proprium facit Spiritui sancto 
+      <lb ed="#P" n="59"/>donum esse, sicut filio natum esse. 
+    </p>
+            <p xml:id="bt67yj-k26415-d1e131">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Si quaeras quomodo filius non sit donum, qui in 
+      <lb ed="#P" n="61"/>tempore datus est, &amp; proinde ab aeterno donabilis 
+      <lb ed="#P" n="62"/>erat. Respondet Magister S. E. filium ab aeterno 
+      pro<lb ed="#P" n="63" break="no"/>cessisse, ex patre, non tantum ut donabilem, sed etiam 
+      <lb ed="#P" n="64"/>ut genitum: Spiritum sanctum vero processisse 
+      tan<lb ed="#P" n="65" break="no"/>tum ut donum, id est: licet uterque processerit ut 
+      <lb ed="#P" n="66"/>donabilis, filium tamen simul processisse lege 
+      nativi<lb ed="#P" n="67" break="no"/>tatis; Spiritum sanctum vero tantum in ratione doni, 
+      <lb ed="#P" n="68"/>tum quia ab utroque processit, tum quia ut donabilis 
+      <lb ed="#P" n="69"/>processit. Verum juxta proprietatem vocis doni 
+      at<lb ed="#P" n="70" break="no"/>tributae Spiritui sancto, paulo aliter videtur 
+      respon<lb ed="#P" n="71" break="no"/>dendum, nempe quod filius ab aeterno processit 
+      do<lb ed="#P" n="72" break="no"/>nabilis quidem, non tamen ut donabilis. Hoc est, 
+      <!--0094.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>filius ab aeterno procedens donari, id est, liberaliter 
+    </p>
+            <p xml:id="bt67yj-k26415-d1e171">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> dari potuit creaturae, sed hoc non ei competit ex 
+      pro<lb ed="#P" n="75" break="no"/>cessionis modo, sicut id ex processionis modo 
+      com<lb ed="#P" n="76" break="no"/>pecit Spiritui sancto. Nam Spiritus sanctus per 
+      mo<lb ed="#P" n="77" break="no"/>dum amoris procedit, &amp; ex consequenti per modum 
+      <lb ed="#P" n="78"/>doni, non item filius. Hanc responsionem suggerit 
+      <lb ed="#P" n="79"/>nobis Augustinus lib. 5. de Trinit. c. 15. Verba 
+      vi<lb ed="#P" n="80" break="no"/>deantur suo loco. Igitur nomen doni proprie 
+      acce<lb ed="#P" n="81" break="no"/>ptum, juxta discrimen supra assignatum, tale est ut 
+      <lb ed="#P" n="82"/>filio communicari non possit, quomodo non potest 
+      <lb ed="#P" n="83"/>communicari nativitas Spiritui sancto. At vero 
+      ge<lb ed="#P" n="84" break="no"/>nerali ratione nihil prohibet filium dici donum Dei, 
+      <lb ed="#P" n="85"/>quia nimirum gratuito datus est a patre omnibus, 
+      <lb ed="#P" n="86"/>juxta illud Wa. Filius datus est nobis. Quod quidem 
+      <lb ed="#P" n="87"/>ipsum ut fieret in tempore decretum fuerat ab 
+      aeter<lb ed="#P" n="88" break="no"/>no. Quare etiam hac ratione filius fuit ab aeterno 
+      do<lb ed="#P" n="89" break="no"/>nabilis, ac proinde donum. Unde in sacrificio, 
+      myste<lb ed="#P" n="90" break="no"/>ria corporis &amp; sanguinis ejus dona &amp; munera 
+      vocan<lb ed="#P" n="91" break="no"/>tur. Id est, ipse Dei filius Deus &amp; homo, nobis a patre 
+      <lb ed="#P" n="92"/>donatus. Sic &amp; S. Thomas I. 2. quaest. 102. art. 3. Inter 
+      <lb ed="#P" n="93"/>omnia dona, quae Deus humano generi jam per 
+      pecca<lb ed="#P" n="94" break="no"/>tum lapso dedit: praecipuum est quod dedit filium suum 
+      <lb ed="#P" n="95"/>secundum illud Joan. 3. Sic Deus dilexit mundum ut 
+      <lb ed="#P" n="96"/>filium suum unigenitum daret, &amp;c. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

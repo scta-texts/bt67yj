@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="40"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k14981"><!-- l1d9c5" -->
+            <head xml:id="bt67yj-k14981-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k14981-Hd1e103" type="question-title">An fatendum sit tres esse aeternos et de 
+      similibus</head>
+            <p xml:id="bt67yj-k14981-d1e106">
+               <lb ed="#P" n="137"/>§. 5. An fatendum sit tres esse aeternos &amp; de 
+      <lb ed="#P" n="138"/>similibus? 
+    </p>
+            <p xml:id="bt67yj-k14981-d1e113">
+               <lb ed="#P" n="139"/>QUod supra de filio Dei ostendimus eum esse 
+      pa<lb ed="#P" n="140" break="no"/>tri coaeternum, idem absque ulla dubitatione 
+      <lb ed="#P" n="141"/>etiam sentiendum de Spiritu sancto, ut clare 
+      expres<lb ed="#P" n="142" break="no"/>sum habemus in symbolo Athan. Quaeritur ergo num 
+      <lb ed="#P" n="143"/>pater &amp; filius &amp; Spiritus sanctus sint tres aeterni, an 
+      <lb ed="#P" n="144"/>unus tantum aeternus. Posteriorem quaestionis 
+      par<lb ed="#P" n="145" break="no"/>tem affirmat Athan. in symbolo dicens: Et tamen non 
+      <lb ed="#P" n="146"/>tres aeterni, sed unus aeternus. Sic &amp; Augustinus lib. 15. 
+      <!--0064.xml-->
+      <pb ed="#P" n="41"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>de trin. c. 8. &amp; 10. negat in divinis esse tres magnos 
+      <lb ed="#P" n="2"/>&amp; tres omnipotentes, atque de aliis hujusmodi 
+      attri<lb ed="#P" n="3" break="no"/>butis, ut bonitate, aeternitate, &amp;c. vult idem esse 
+      ju<lb ed="#P" n="4" break="no"/>dicium. Priorem vero confirmare videtur 
+      Latera<lb ed="#P" n="5" break="no"/>nense concilium sub Innocentio tertio, in quo pater 
+      <lb ed="#P" n="6"/>&amp; filius &amp; spiritus sanctus dicuntur consubstantiales, 
+      <lb ed="#P" n="7"/>coaequales, coomnipotentes &amp; coaeterni. Quibus 
+      ver<lb ed="#P" n="8" break="no"/>bis satis significatur tres esse omnipotentes &amp; 
+      aeter<lb ed="#P" n="9" break="no"/>nos. Sic Magister litera B. Coaeternasunt, inquit, sibi 
+      <lb ed="#P" n="10"/>tres personae. Et ipse Athan. in eodem symbolo: 
+      To<lb ed="#P" n="11" break="no"/>tae tres personae coaeternae sibi sunt &amp; coaequales. 
+      Au<lb ed="#P" n="12" break="no"/>gustinus quoque serm. 5. de tempore dicit patrem &amp; 
+      <lb ed="#P" n="13"/>filium nec pariter esse patres, nec pariter filios, sed 
+      <lb ed="#P" n="14"/>pariter aeternos. 
+    </p>
+            <p xml:id="bt67yj-k14981-d1e170">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Verum hic meminisse oportet, quod circa 4. 
+      di<lb ed="#P" n="16" break="no"/>stinctionem annotavimus, substantiva nomina etsi 
+      <lb ed="#P" n="17"/>concreta, in divinis usurpata numero plurali, 
+      in<lb ed="#P" n="18" break="no"/>nuere non modo personarum pluralitatem, sed &amp; 
+      <lb ed="#P" n="19"/>naturarum. Significant enim rem per modum 
+      sub<lb ed="#P" n="20" break="no"/>stantiae, non item adjectiva quae tantum personarum 
+      <lb ed="#P" n="21"/>multitudinem inducunt. Quare sicut vere dicimus 
+      <lb ed="#P" n="22"/>patrem &amp; filium &amp; spiritum sanctum esse tres 
+      subsi<lb ed="#P" n="23" break="no"/>stentes, tres creantes, tres operantes; ita videntur 
+      <lb ed="#P" n="24"/>inoffense dici posse tres aeterni, &amp; tres 
+      omnipoten<lb ed="#P" n="25" break="no"/>tes, increati, immensi. Idem est enim ac si dicas, 
+      <lb ed="#P" n="26"/>tres personas aeternas, omnipotentes, incrcatas, 
+      <lb ed="#P" n="27"/>&amp;c. Atque haec doctrina est S. Thom. super hanc 
+      <lb ed="#P" n="28"/>distinctionem q. 1. art. 2. Porro Athanasius (ut 
+      ibi<lb ed="#P" n="29" break="no"/>dem S. Tho. declarat) negans tres aeternos, 
+      omni<lb ed="#P" n="30" break="no"/>potentes, &amp;c. accepit haec nomina substantive, 
+      <lb ed="#P" n="31"/>quodmodo non inepte accipi possunt; praesertim 
+      <lb ed="#P" n="32"/>cum non ejusmodi sint, ut actum significent, sicut 
+      <lb ed="#P" n="33"/>verba &amp; participia, quae proinde tantum pluraliter 
+      <lb ed="#P" n="34"/>pluribus personis tribuuntur, sed aliquid substantiae 
+      <lb ed="#P" n="35"/>propinquius. Sic igitur negat tres aeternos, increatos, 
+      <lb ed="#P" n="36"/>immensos, omnipotentes, quomodo negat tres Deos 
+      <lb ed="#P" n="37"/>ac Dominos quae sunt substantiva. Non esse tamen 
+      <lb ed="#P" n="38"/>parem omnino rationem horum atque illorum 
+      no<lb ed="#P" n="39" break="no"/>minum, satis idem indicat Athan. non tantum per 
+      <lb ed="#P" n="40"/>hoc quod coaeternas plurali numero tres personas 
+      <lb ed="#P" n="41"/>esse testetur, ut jam dictum est, verum etiam in eo 
+      <lb ed="#P" n="42"/>quod proximo versu quasi concludens dicat; ita tres 
+      <lb ed="#P" n="43"/>Deos aut Dominos dicere catholica religione 
+      prohibe<lb ed="#P" n="44" break="no"/>mur. Quale nihil concludendum existimavit de 
+      qua<lb ed="#P" n="45" break="no"/>tuor vocibus antecedentibus, quia nimirum videbat 
+      <lb ed="#P" n="46"/>sensu non incommodo concedi posse quod sint tres 
+      <lb ed="#P" n="47"/>aeterni, increati, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k14981-d1e247">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Est itaque generaliter notandum etsi verba &amp; 
+      par<lb ed="#P" n="49" break="no"/>ticipia semper adjectivam habeant significationem, 
+      <lb ed="#P" n="50"/>nomina tamen quamplurima posse, ac solere utrovis 
+      <lb ed="#P" n="51"/>modo accipi, nec tantum adjectiva, ut loquuntur, 
+      <lb ed="#P" n="52"/>substantivari, verum etiam substantiva interdum 
+      <lb ed="#P" n="53"/>adjectivari. Unde quamvis Prudentius in 
+      hamarti<lb ed="#P" n="54" break="no"/>genia prudenter &amp; caute non tantum negaverit esse 
+      <lb ed="#P" n="55"/>duo numina patrem &amp; filium, verum nec admittat 
+      <lb ed="#P" n="56"/>esse duos rerum artifices, authores, conditores, 
+      <lb ed="#P" n="57"/>creatores (sunt enim haec nomina substantiva potius 
+      <lb ed="#P" n="58"/>quam adjectiva) quia tamen adjective sumi possunt, 
+      <lb ed="#P" n="59"/>fit ut patres interdum pluralem numerum non 
+      refu<lb ed="#P" n="60" break="no"/>giant, dum ea personis divinis attribuunt, ut 
+      Hi<lb ed="#P" n="61" break="no"/>lar. lib. 2. de trinitate dicens: spiritum sanctum 
+      pro<lb ed="#P" n="62" break="no"/>cessisse ex patre &amp; filio authoribus, id est 
+      producen<lb ed="#P" n="63" break="no"/>tibus, seu principiantibus, cum alioqui definitum 
+      <lb ed="#P" n="64"/>sit ab Ecclesia patrem &amp; filium esse unum principium 
+      <lb ed="#P" n="65"/>spiritus sancti, non duo ut infra dicetur ad 12. 
+      distin<lb ed="#P" n="66" break="no"/>ctionem. Sic etiam Chrysost. vel quisquis author 
+      <lb ed="#P" n="67"/>hom. de Joanne Baptista tom. 3. dicit patrem &amp; 
+      fi<lb ed="#P" n="68" break="no"/>lium &amp; spiritum sanctum esse omnium creatores, id 
+      <lb ed="#P" n="69"/>est, omnia creasse. Quin &amp; Christus in Evang. 
+      signi<lb ed="#P" n="70" break="no"/>ficat se &amp; spiritum sanctum esse duos paracletos, 
+      la<lb ed="#P" n="71" break="no"/>tine consolatores, cum dicit de patre: Alium 
+      para<lb ed="#P" n="72" break="no"/>cletum dabit vobis, Joan. 14. Et quia pater etiam 
+      con<lb ed="#P" n="73" break="no"/>solator est, juxta illud 2. Cor. 1. Pater misericordiarum 
+      <lb ed="#P" n="74"/>&amp; Deus totius consolationis, consequens erit tres esse 
+      <lb ed="#P" n="75"/>consolatores, sed adjective accipiendo hoc vocabulum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

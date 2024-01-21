@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="27"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k09875"><!-- l1d7c1" -->
+            <head xml:id="bt67yj-k09875-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k09875-Hd1e103" type="question-title">Quid sit in divinis generatio</head>
+            <p xml:id="bt67yj-k09875-d1e106">
+      <!--0050.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>IN DISTINCTIONEM SEPTIMAM. 
+      <lb ed="#P" n="71"/>
+               <pc type="indent"/> §. 1. Quid sit in divinis generatio.
+    </p>
+            <p xml:id="bt67yj-k09875-d1e119">
+               <lb ed="#P" n="72"/>PRIUSQUAM ad quaestionem quam de 
+      poten<lb ed="#P" n="73" break="no"/>tia &amp; voluntate gignendi tractat hac 
+      distin<lb ed="#P" n="74" break="no"/>ctione Magister, explicandam veniamus; 
+      <lb ed="#P" n="75"/>praemittendum de generatione divina, quid sit, &amp; 
+      <lb ed="#P" n="76"/>qua ratione Deo competat. Est quidem proprie 
+      ge<lb ed="#P" n="77" break="no"/>neratio nihil aliud quam communicatio essentiae per 
+      <lb ed="#P" n="78"/>modum naturae. Quod tum in Deo tum in creaturis 
+      <lb ed="#P" n="79"/>licet non omnibus reperitur. Homines enim, &amp; 
+      be<lb ed="#P" n="80" break="no"/>stiae, &amp; plantae generant, sol autem non generat hoc 
+      <lb ed="#P" n="81"/>pacto, ut nec caetera inanimata. At peculiariter in 
+      <lb ed="#P" n="82"/>divinis generatio describi potest, quod sit aenius 
+      perso<lb ed="#P" n="83" break="no"/>nae ab alia per modum intellectus cum perfecta naturae 
+      si<lb ed="#P" n="84" break="no"/>militudine processio. In qua descriptione quod primo 
+      <lb ed="#P" n="85"/>loco dicitur, unius personae ab alia, ostendit hanc 
+      ge<lb ed="#P" n="86" break="no"/>nerationem non accidentariam esse qualis est in 
+      crea<lb ed="#P" n="87" break="no"/>turis, qua verbum a mente procedit aut calor ab igne, 
+      <lb ed="#P" n="88"/>sed substantialem qua nimirum res per se subsistens 
+      <lb ed="#P" n="89"/>producitur, nec eam qualemcunque, sed 
+      persona<lb ed="#P" n="90" break="no"/>lem, quae in solis rebus intellectu praeditis in venitur, 
+      <lb ed="#P" n="91"/>ut est hominis ex homine generatio. Illud vero, per 
+      <lb ed="#P" n="92"/>modum intellectus, distinguit generationem filii Dei, 
+      <lb ed="#P" n="93"/>a processione Spiritus sancti, qui a patre &amp; filio non 
+      <lb ed="#P" n="94"/>per modum intellectus sed voluntatis procedit, ut 
+      <lb ed="#P" n="95"/>infra declarabitur dist. 10. &amp; 13. Denique 
+      postre<lb ed="#P" n="96" break="no"/>mum illud; cum perfecta naturae similitudine, non 
+      <lb ed="#P" n="97"/>tantum excludit metaphoricam (qualis inter alias 
+      <lb ed="#P" n="98"/>est quae fit per adoptionem) &amp; aliam quamlibet 
+      ge<lb ed="#P" n="99" break="no"/>neraliori nomine dictam generationem, quae corrup 
+      <lb ed="#P" n="100"/>tioni in genere solet opponi, quaeque definitur, 
+      mu<lb ed="#P" n="101" break="no"/>tatio a non esse ad esse, sed praeterea denotat 
+      singula<lb ed="#P" n="102" break="no"/>rem perfectionem generationis divinae, qua 
+      distin<lb ed="#P" n="103" break="no"/>guatur a generatione rerum animatarum, ipsiusque 
+      <lb ed="#P" n="104"/>hominis quae in creaturis est perfectissima. Nam &amp; 
+      <lb ed="#P" n="105"/>hanc in immensum perfectione superat generatio 
+      di<lb ed="#P" n="106" break="no"/>vina; Quod ita declaratur: Homo generat hominem 
+      <lb ed="#P" n="107"/>ejusdem secum naturae, nec non secundum qualitates 
+      <lb ed="#P" n="108"/>plerumque similem, non ita tamen, quin diversa 
+      nu<lb ed="#P" n="109" break="no"/>mero sit natura singularis in gignente &amp; genito, 
+      spe<lb ed="#P" n="110" break="no"/>cie duntaxat eadem. Sed &amp; qualitates licet multae 
+      si<lb ed="#P" n="111" break="no"/>miles existant, aliae tamen etiam multae notari 
+      pos<lb ed="#P" n="112" break="no"/>sunt dissimiles: Et ut dentur omnes similes, nulla 
+      ta<lb ed="#P" n="113" break="no"/>men penitus in utroque eadem numero reperiri 
+      pote<lb ed="#P" n="114" break="no"/>rit. In divinis autem hoc solo excepto, quod hic 
+      ge<lb ed="#P" n="115" break="no"/>nuit, ille genitus est, tam natura quam proprietates 
+      <lb ed="#P" n="116"/>omnes, quae quidem a natura reipsa non sunt 
+      distin<lb ed="#P" n="117" break="no"/>ctae, prorsus eaedem numero sunt in gignente &amp; 
+      ge<lb ed="#P" n="118" break="no"/>nito, adeo ut perfectior inter gignens &amp; genitum 
+      na<lb ed="#P" n="119" break="no"/>turae similitudo seu convenientia cogitari non possit. 
+      <lb ed="#P" n="120"/>Itaque ad qualemcunque notitiam nujus 
+      perfectissi<lb ed="#P" n="121" break="no"/>mae generationis capiendam, debemus quicquid in 
+      <lb ed="#P" n="122"/>generatione creaturae imperfectum est, cogitatione 
+      <lb ed="#P" n="123"/>removere, quicquid autem perfectum, retinere. 
+      Per<lb ed="#P" n="124" break="no"/>fecta sunt autem quod utrumque tam gignens quam 
+      <lb ed="#P" n="125"/>genitum, res est per se subsistens, imo in hominibus 
+      <lb ed="#P" n="126"/>utrumque, persona, quod gignens genito suam 
+      es<lb ed="#P" n="127" break="no"/>sentiam cum proprietatibus communicet, quodque 
+      <lb ed="#P" n="128"/>vicissim genitum a gignente essentiam cum 
+      proprie<lb ed="#P" n="129" break="no"/>tatibus accipit, quodque illi secundum essentiam &amp; 
+      <lb ed="#P" n="130"/>proprietates assimilatur. Imperfecta vero quod 
+      gene<lb ed="#P" n="131" break="no"/>rans est tempore prius genito, nenc eandem numero 
+      <lb ed="#P" n="132"/>naturam cum proprietatibus genito communicat, 
+      <lb ed="#P" n="133"/>quod genitum primo infirmum &amp; impotens 
+      pau<lb ed="#P" n="134" break="no"/>latim deinde suscipit incrementa; quod naturam 
+      <lb ed="#P" n="135"/>non eandem numero sed specie tantummodo a 
+      gi<lb ed="#P" n="136" break="no"/>gnente transfusam accipit, nec easdem numero 
+      <lb ed="#P" n="137"/>proprietates, sed tantum specie; quin &amp; 
+      saepenume<lb ed="#P" n="138" break="no"/>ro secundum proprietates multum sit dissimile 
+      ge<lb ed="#P" n="139" break="no"/>neranti. Quod ipsa generatio fiat ex materia, quod 
+      <!--0051.xml-->
+      <pb ed="#P" n="28"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>fiat separatione partis seu decisione seminis quod sit 
+      <lb ed="#P" n="2"/>successiva, temporisque moram propter alterationes 
+      <lb ed="#P" n="3"/>in materia praevias necessariam requirat; quod 
+      proce<lb ed="#P" n="4" break="no"/>dat a non esse ad esse; quod in ea inveniatur mutatio 
+      <lb ed="#P" n="5"/>tam generantis quam geniti ipsiusque subjectae 
+      mate<lb ed="#P" n="6" break="no"/>riae. Denique quod fiat ad extra, id est, ad id 
+      produ<lb ed="#P" n="7" break="no"/>cendum quod est a producente aliud atque diversum. 
+      <lb ed="#P" n="8"/>Quae omnia si cogitatione removentur a generatione 
+      <lb ed="#P" n="9"/>(nihil enim horum ad propriam rationem 
+      generatio<lb ed="#P" n="10" break="no"/>nis pertinet) poterit utcumque percipi mente, quae sit 
+      <lb ed="#P" n="11"/>in divinis generatio &amp; quanta ejus perfectio. 
+    </p>
+            <p xml:id="bt67yj-k09875-d1e299">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Jam ex dictis hoc etiam manifestum est, in divinis 
+      <lb ed="#P" n="13"/>non translatione aliqua a creaturis assumpta, sed 
+      pro<lb ed="#P" n="14" break="no"/>prie, imo omnium propriissime usurpari vocabula 
+      pa<lb ed="#P" n="15" break="no"/>tris &amp; filii. Sequitur enim horum nominum 
+      proprie<lb ed="#P" n="16" break="no"/>tatem generationis, quam in divinis perfectissimam 
+      <lb ed="#P" n="17"/>esse jam ostendimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

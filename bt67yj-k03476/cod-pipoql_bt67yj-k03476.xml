@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="10"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k03476"><!-- l1d2c5" -->
+            <head xml:id="bt67yj-k03476-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k03476-Hd1e103" type="question-title">Ad generales quasdam contra praedicta 
+        objectiones responsio</head>
+            <p xml:id="bt67yj-k03476-d1e106">
+               <lb ed="#P" n="50"/>§. 5. Ad generales quasdam contra praedicta 
+      <lb ed="#P" n="51"/>objectiones responsio.
+    </p>
+            <p xml:id="bt67yj-k03476-d1e113">
+               <lb ed="#P" n="52"/>DIfficultatem quae ex humana ratiocinatione 
+      <lb ed="#P" n="53"/>nascitur, circa mysterium unitatis ac 
+      Trini<lb ed="#P" n="54" break="no"/>tatis in Deo, magna ex parte tollit haec consideratio; 
+      <lb ed="#P" n="55"/>si cogitemus ineffabili &amp; incomprehensibili quodam 
+      <lb ed="#P" n="56"/>modo unam eandemque rem singularem, id est, 
+      di<lb ed="#P" n="57" break="no"/>vinitatem sive naturam divinam, communicari 
+      tri<lb ed="#P" n="58" break="no"/>bus suppositis seu personis, quo fit ut sub pluralitate 
+      <lb ed="#P" n="59"/>Personarum, res sive natura prorsus eadem cogitari 
+      <lb ed="#P" n="60"/>debeat. Qua consideratione posita, non adeo 
+      dif<lb ed="#P" n="61" break="no"/>ficilis erit responsio ad objectiones, quae hic moveri 
+      <lb ed="#P" n="62"/>solent, cujusmodi sunt istae sequentes, &amp; prima 
+      qui<lb ed="#P" n="63" break="no"/>dem contra perfectam unitatem. Si Pater est Deus, 
+      <lb ed="#P" n="64"/>&amp; si Filius est Deus, &amp; Spiritus Sanctus est Deus, 
+      <lb ed="#P" n="65"/>tres igitur Dii sunt; recte enim sequitur, Petrus est 
+      <lb ed="#P" n="66"/>homo, Andraeas est homo, Philippus est homo, 
+      <lb ed="#P" n="67"/>sunt igitur tres homines. Respondetur non esse 
+      si<lb ed="#P" n="68" break="no"/>mile, quia Deus de Patre, &amp; Filio, &amp; Spiritui 
+      San<lb ed="#P" n="69" break="no"/>cto dicitur propter naturam singularem, atque 
+      in<lb ed="#P" n="70" break="no"/>dividuam eandem, homo de Petro, Andraea &amp; 
+      Phi<lb ed="#P" n="71" break="no"/>lippo, tantum propter naturam specificam eandem, 
+      <lb ed="#P" n="72"/>cum natura singularis in singulis sit diversa.
+    </p>
+            <p xml:id="bt67yj-k03476-d1e161">
+      <!--0033.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Secunda, Deus est Pater, Deus est Filius, igitur 
+      Pa<lb ed="#P" n="74" break="no"/>ter est Filius, &amp; similiter de Spiritu Sancto, quae 
+      con<lb ed="#P" n="75" break="no"/>sequentia valere videtur per syllogismum 
+      exposito<lb ed="#P" n="76" break="no"/>rium, innitentem huic regulae: Quaecunque eadem 
+      <lb ed="#P" n="77"/>sunt uni tertio eadem sunt inter se. Sed respondetur 
+      <lb ed="#P" n="78"/>non recte sequi per ejusmodi syllogismum; Tertium, 
+      <lb ed="#P" n="79"/>enim intelligitur singulare, Deus autem non prorsus 
+      <lb ed="#P" n="80"/>singulare nomen est, significat enim naturam 
+      singu<lb ed="#P" n="81" break="no"/>larem, sed quae communicari possit tribus suppositis. 
+      <lb ed="#P" n="82"/>Quomodo autem Hilarius neget singularitatem esse 
+      <lb ed="#P" n="83"/>in divinis, exponetur circa distinct. 23. 
+    </p>
+            <p xml:id="bt67yj-k03476-d1e195">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Tertia, Regula modo dicta locum habet in 
+      crea<lb ed="#P" n="85" break="no"/>turis, propter unitatem seu identitatem perfectam, 
+      <lb ed="#P" n="86"/>quae est numeralis, atqui Deo perfectissime 
+      compe<lb ed="#P" n="87" break="no"/>tit unitas seu identitas, igitur in Deo hmulto magis 
+      <lb ed="#P" n="88"/>locum habere debet, &amp; proinde firma manebit 
+      argu<lb ed="#P" n="89" break="no"/>mentatio praecedens. Respondetur regulam in 
+      crea<lb ed="#P" n="90" break="no"/>turis locum habere, non propter perfectissimam 
+      uni<lb ed="#P" n="91" break="no"/>tatem, sed propter unitatem singularem, &amp; 
+      incom<lb ed="#P" n="92" break="no"/>municabilem. Unde etsi perfectissima sit unitas 
+      di<lb ed="#P" n="93" break="no"/>vinae naturae, utpote simplicissima, quia tamen 
+      <lb ed="#P" n="94"/>communicabilis est locum. illic non habet regula. 
+    </p>
+            <p xml:id="bt67yj-k03476-d1e224">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Quarta, Unum &amp; indivisum sunt idem secundum 
+      <lb ed="#P" n="96"/>Philosophum in metaphys. ergo ubi est 
+      perfectis<lb ed="#P" n="97" break="no"/>sima unitas, non est divisio in plura. Respondeo 
+      be<lb ed="#P" n="98" break="no"/>ne colligi. Non enim est divisio naturae divinae in 
+      <lb ed="#P" n="99"/>plura, quippe quae sit natura prorsus individua; 
+      ve<lb ed="#P" n="100" break="no"/>rum non sunt idem unum &amp; incommunicabile. Est 
+      <lb ed="#P" n="101"/>enim hoc peculiare divinae naturae, quod cum 
+      per<lb ed="#P" n="102" break="no"/>fectissime sit una &amp; individua, pluribus tamen 
+      sup<lb ed="#P" n="103" break="no"/>positis communis existat, in quod in creaturis nec 
+      <lb ed="#P" n="104"/>est, nec esse potest. 
+    </p>
+            <p xml:id="bt67yj-k03476-d1e250">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Postrema, Multiplicato uno eorum quae reipsa 
+      <lb ed="#P" n="106"/>unum idemque sunt, necesse est &amp; alterum 
+      multi<lb ed="#P" n="107" break="no"/>plicari; ergo multiplicatis personis quae a natura 
+      di<lb ed="#P" n="108" break="no"/>vina, reipsa non sunt distinctae, consequens erit &amp; 
+      <lb ed="#P" n="109"/>Dei naturam multiplicari. Respondetur negatione 
+      <lb ed="#P" n="110"/>antecedentis. Quamvis enim illud certo modo 
+      in<lb ed="#P" n="111" break="no"/>tellectum, in rebus creatis perpetuam veritatem 
+      <lb ed="#P" n="112"/>habeat; non tamen in divinis, ubi res una eademque 
+      <lb ed="#P" n="113"/>numero subsistit in tribus personis; proprie tamen 
+      <lb ed="#P" n="114"/>in divinis, non multiplicatio intelligenda est, sed 
+      <lb ed="#P" n="115"/>multitudo, non rerum sed personarum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

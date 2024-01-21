@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="87"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k32416"><!-- l1d27c7" -->
+            <head xml:id="bt67yj-k32416-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-k32416-Hd1e103" type="question-title">Nomen ac proprietatem verbi, soli filio competere</head>
+            <p xml:id="bt67yj-k32416-d1e106">
+      <!--0110.xml-->
+               <pb ed="#P" n="87"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 7. Nomen ac proprietatem verbi, soli filio competere.
+    </p>
+            <p xml:id="bt67yj-k32416-d1e117">
+               <lb ed="#P" n="2"/>VErbi nomen ita filio Dei proprium esse, ut 
+      <lb ed="#P" n="3"/>nec patri, nec spiritui sancto sit commune, 
+      ma<lb ed="#P" n="4" break="no"/>nifestum imprimis est ex iis, quae Joannes apostolus 
+      <lb ed="#P" n="5"/>verbi divini singularis praeco scripsit, tum in 
+      evan<lb ed="#P" n="6" break="no"/>gelii sui initio dicens, In principio erat verbum &amp;c. 
+      <lb ed="#P" n="7"/>Et post, Et verbum caro factum est, tum initio 
+      pri<lb ed="#P" n="8" break="no"/>mae epistolae: Quod vidimus oculis de verbo vitae, ac 
+      <lb ed="#P" n="9"/>rursus capit. 5. Tres sunt qui testimonium dant in 
+      <lb ed="#P" n="10"/>caelo Pater verbum &amp; spiritus sanctus; tum denique 
+      <lb ed="#P" n="11"/>Apoc. 19. Et vocatur nomen ejus verbum Dei. 
+      Dein<lb ed="#P" n="12" break="no"/>de vero, si patrum doctrinam consulamus, non 
+      du<lb ed="#P" n="13" break="no"/>bium est Verbi nomen ab eis attributum soli filio, 
+      <lb ed="#P" n="14"/>eosque plane negare id aliis personis esse 
+      commu<lb ed="#P" n="15" break="no"/>ne. Sic enim docent Augustinus lib. 5. de trinit. 
+      <lb ed="#P" n="16"/>cap. 13. lib. 6. cap. 2. &amp; lib. 7. c. 1. 2. &amp; 3. Cyrillus 
+      <lb ed="#P" n="17"/>toto 7. libr. thesauri scripto contra Eunomium, &amp; 
+      <lb ed="#P" n="18"/>lib. 1. in Joan. cap. 4. ubi contra eundem haereticum 
+      <lb ed="#P" n="19"/>disserit. Damascenus lib. I. de fide cap. 18. Et 
+      qui<lb ed="#P" n="20" break="no"/>cunque loca scripturae superius allegata sunt 
+      inter<lb ed="#P" n="21" break="no"/>pretati, Verbi nomen acceperunt ut filio proprium. 
+      <lb ed="#P" n="22"/>Potest id quoque rationibus probari sumptis ex 
+      con<lb ed="#P" n="23" break="no"/>venientia quae est inter filium Dei, quatenus est 
+      ver<lb ed="#P" n="24" break="no"/>bum patris, &amp; verbum mentis nostrae. 
+    </p>
+            <p xml:id="bt67yj-k32416-d1e169">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Primo enim, ut verbum a mente; ita filius 
+      proce<lb ed="#P" n="26" break="no"/>dit a patre; non ergo pater ipse Verbum est, quia nec C 
+      <lb ed="#P" n="27"/>mens a qua verbum procedit, verbum est. 
+    </p>
+            <p xml:id="bt67yj-k32416-d1e181">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Secundo, sicut verbum a sola mente; ita filius 
+      <lb ed="#P" n="29"/>procedit a solo patre; non ergo spiritus sanctus 
+      Ver<lb ed="#P" n="30" break="no"/>bum est, qui non a solo patre procedit. 
+    </p>
+            <p xml:id="bt67yj-k32416-d1e192">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Tertio, ut verbum proxime &amp; immediate 
+      proce<lb ed="#P" n="32" break="no"/>dit a mente; ita filius a patre: Atqui spiritus sanctus 
+      <lb ed="#P" n="33"/>procedit a patre per filium, sicut amor a mente per 
+      <lb ed="#P" n="34"/>verbum; ergo spiritus sanctus non est verbum. 
+    </p>
+            <p xml:id="bt67yj-k32416-d1e205">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Quarto, sicut verbum per modum conceptus seu 
+      <lb ed="#P" n="36"/>foetus a mente procedit, (hinc enim fit ut 
+      cogitatio<lb ed="#P" n="37" break="no"/>nes vocentur animorum nostrorum conceptiones, &amp; 
+      <lb ed="#P" n="38"/>quae a nobis excogitata sunt, foetus ac partus nostros 
+      <lb ed="#P" n="39"/>vocare soleamus) ita filius procedit a patre, juxta 
+      il<lb ed="#P" n="40" break="no"/>lud quod dicit sapientia divna, Prov. 8. Et ego jam 
+      <lb ed="#P" n="41"/>concepta eram. Constat autem hunc processionis 
+      mo<lb ed="#P" n="42" break="no"/>dum, non competere spiritui sancto. 
+    </p>
+            <p xml:id="bt67yj-k32416-d1e227">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Postremo, sicut inest verbo nostro interno naturalis 
+      <lb ed="#P" n="44"/>quaedam aptitudo, sive instinctus manifestandi 
+      seip<lb ed="#P" n="45" break="no"/>sum per verbum externum; ita ordinatissimo Dei 
+      <lb ed="#P" n="46"/>consilio decretum est, ut inter divinas personas, solus 
+      <lb ed="#P" n="47"/>Dei filius tanquam internum &amp; invisibile Dei 
+      ver<lb ed="#P" n="48" break="no"/>bum per assumptam carnem fieret verbum externum 
+      <lb ed="#P" n="49"/>&amp; visibile, &amp; ita seipsum hominibus manifestaret. Ex 
+      <lb ed="#P" n="50"/>cujus persona jam olim dictum fuisse recte 
+      intelli<lb ed="#P" n="51" break="no"/>gitur illud Prov. 8. Deliciae meae esse cum filiis hominum. 
+      <lb ed="#P" n="52"/>Huc denique pertinent ea quae ad dist. 13. de duplici 
+      <lb ed="#P" n="53"/>emanatione mentali, alera verbi, altera amoris 
+      <lb ed="#P" n="54"/>dicta sunt ad explicandum discrimen generationis 
+      <lb ed="#P" n="55"/>filii Dei &amp; processionis spiritus sancti. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

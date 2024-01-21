@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="110"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k41242"><!-- l1d38c5" -->
+            <head xml:id="bt67yj-k41242-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k41242-Hd1e103" type="question-title">Solvuntur ea quae contra Dei praescientiam 
+      objiciuntur</head>
+            <p xml:id="bt67yj-k41242-d1e106">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> §. 5. Solvuntur ea quae contra Dei praescientiam 
+      <lb ed="#P" n="31"/>objiciuntur.
+    </p>
+            <p xml:id="bt67yj-k41242-d1e115">
+               <lb ed="#P" n="32"/>NUnc dissolvendae sunt rationes, quae futurorum 
+      <lb ed="#P" n="33"/>praesertim contingentium praescientiam a Deo 
+      <lb ed="#P" n="34"/>removere videntur. Quarum haec sit. 
+    </p>
+            <p xml:id="bt67yj-k41242-d1e124">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Prima: Deo revera nihil est futurum, sed omnia 
+      <lb ed="#P" n="36"/>sunt ei praesentia. Nam ideo tribuitur ei scientia 
+      vi<lb ed="#P" n="37" break="no"/>sionis, quia omnia quaecunque aliquando existunt, 
+      <lb ed="#P" n="38"/>sunt ejus oculis ab aeterno praesentia. Quod &amp; 
+      Au<lb ed="#P" n="39" break="no"/>gustinus testatur lib. 2. quaest. 2. ad Simpl. &amp; in 
+      ex<lb ed="#P" n="40" break="no"/>pos. Ps. 49. &amp; sanct. Thomas plurimis locis, 
+      quo<lb ed="#P" n="41" break="no"/>rum quaedam supra annotavimus. 
+    </p>
+            <p xml:id="bt67yj-k41242-d1e145">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Secunda: Futurorum contingentium non est 
+      de<lb ed="#P" n="43" break="no"/>terminata veritas, quare nec certa praescientia, cum 
+      <lb ed="#P" n="44"/>oporteat certitudinem scientiae niti certitudine rer 
+      <lb ed="#P" n="45"/>cognitae. 
+    </p>
+            <p xml:id="bt67yj-k41242-d1e158">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Tertia: Enunciationes de futuro contingenti, ut 
+      <lb ed="#P" n="47"/>quidam volunt, neque verae sunt, neque falsae, 
+      igi<lb ed="#P" n="48" break="no"/>tur earum nulla est praescientia. Neque enim ulla 
+      <lb ed="#P" n="49"/>potest esse scientia, nisi eorum quae vera sunt, 
+      affir<lb ed="#P" n="50" break="no"/>mante philosopho, quod non est, sciri non posse. 
+    </p>
+            <p xml:id="bt67yj-k41242-d1e174">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Quarta: Si in Deo aliquis esset prospectus 
+      futuro<lb ed="#P" n="52" break="no"/>rum contingentium, falli posset in iis prospiciendis. 
+      <lb ed="#P" n="53"/>Cum enim contingentium naturam, ex eo quia 
+      pro<lb ed="#P" n="54" break="no"/>videntur, non amittant, possent aliter evenire quam 
+      <lb ed="#P" n="55"/>praevisa sunt. 
+    </p>
+            <p xml:id="bt67yj-k41242-d1e190">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Ad haec ita ordine respondemus, Ad primum 
+      qui<lb ed="#P" n="57" break="no"/>dem, futura non dici Deo praesentia, quasi reipsa 
+      exi<lb ed="#P" n="58" break="no"/>stant, quando a Deo cognoscuntur. Inde enim multa 
+      <lb ed="#P" n="59"/>sequerentur absurda, scilicet omnia semper esse, &amp; 
+      <lb ed="#P" n="60"/>omnia esse Deo coaeterna, ut pote cognoscenti Deo ab 
+      <lb ed="#P" n="61"/>aeterno coexistentia. Item contradictoria simul 
+      existe<lb ed="#P" n="62" break="no"/>re, &amp; proinde propositiones contradicentes simul esse 
+      <lb ed="#P" n="63"/>veras, &amp; alia hujusmodi. Sed sicut homini secundum 
+      <lb ed="#P" n="64"/>locum id praesens est quod ab homine videtur, in 
+      <lb ed="#P" n="65"/>quocunque loco positum sit: ita Deo secundum 
+      tem<lb ed="#P" n="66" break="no"/>pus illud omne praesens est, quod aspectui divino 
+      sub<lb ed="#P" n="67" break="no"/>jicitur, in quocunque sit tempore, sive praeterio, sive 
+      <lb ed="#P" n="68"/>praesenti, sive futuro. Hoc enim duntaxat modo Deo 
+      <lb ed="#P" n="69"/>in sua indivisibili aeternitate constituto, omnia quae in 
+      <lb ed="#P" n="70"/>aliqua temporis parte contingunt, praesentia 
+      dicun<lb ed="#P" n="71" break="no"/>tur, quia Deus aeterno suo intuitu lustrat &amp; ambit 
+      om<lb ed="#P" n="72" break="no"/>nia, &amp; tam clare videt, atque si jam essent praesentia; 
+      <lb ed="#P" n="73"/>ita, ut vere respectu horum omnium Deo tribuatur 
+      <!--0133.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>intuitiva cognitio. Ex qua declaratione etiam hoc 
+      <lb ed="#P" n="75"/>intelligitur, Deum non tantum cognoscere futura 
+      <lb ed="#P" n="76"/>in suis causis vel rationibus, quas apud se ab aeterno 
+      <lb ed="#P" n="77"/>praesentes habet, ut nonnulli docuerunt, sed omnia 
+      <lb ed="#P" n="78"/>futura cognoscere secundum seipsa, perinde ut 
+      co<lb ed="#P" n="79" break="no"/>gnoscit praesentia &amp; praeterita. Ratio, quia Deus 
+      <lb ed="#P" n="80"/>omnes effectus, etiam quibus causas creatas 
+      praepa<lb ed="#P" n="81" break="no"/>ravit, immediate attingit sua virtute. 
+    </p>
+            <p xml:id="bt67yj-k41242-d1e255">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Ad id quod 2. &amp; 3. loco objicitur, una est 
+      respon<lb ed="#P" n="83" break="no"/>sio, videlicet omnium contingentium, tam 
+      futuro<lb ed="#P" n="84" break="no"/>rum quam praesentium &amp; praeteritorum apud Deum, 
+      <lb ed="#P" n="85"/>qui in sua aeternitate omnia ut praesentia intuetur, 
+      <lb ed="#P" n="86"/>esse veritatem determinatam, licet apud homines 
+      <lb ed="#P" n="87"/>Deus omnia futura contingentia determinate, sicut 
+      <lb ed="#P" n="88"/>futurorum ignaros non sit determinata. Videt enim 
+      <lb ed="#P" n="89"/>nos videmus praesentia &amp; meminimus praeterita.
+    </p>
+            <p xml:id="bt67yj-k41242-d1e277">
+               <lb ed="#P" n="90"/>Proinde absurda est eorum doctrina, qui dicunt 
+      <lb ed="#P" n="91"/>enunciationes de contingentibus futuris, neque 
+      ve<lb ed="#P" n="92" break="no"/>ras esse, neque falsas. Primum quia principiis 
+      diale<lb ed="#P" n="93" break="no"/>cticis, imo primis conceptibus est contraria. Nam 
+      se<lb ed="#P" n="94" break="no"/>cundum dialecticos omnem enunciationem veram 
+      <lb ed="#P" n="95"/>aut falsam esse necesse est. Id enim ad rationem seu 
+      <lb ed="#P" n="96"/>definitionem enunciationis pertinet. Nititur autem 
+      <lb ed="#P" n="97"/>huic principio: Quodlibet est, aut non est. Quod 
+      <lb ed="#P" n="98"/>quidem principium determinate de quolibet 
+      parti<lb ed="#P" n="99" break="no"/>culari sive complexo sive incomplexo accipiendum 
+      <lb ed="#P" n="100"/>est. Nulla igitur dari potest enunciatio, quae non 
+      de<lb ed="#P" n="101" break="no"/>terminate vera sit, aut falsa, quantumvis sit de re 
+      fu<lb ed="#P" n="102" break="no"/>tura &amp; contingenti. Deinde manifeste id ex rerum 
+      <lb ed="#P" n="103"/>eventu probatur. Nam etiamsi nulla esset futurorum 
+      <lb ed="#P" n="104"/>praescientia, ipse tamen rerum eventus experimento 
+      <lb ed="#P" n="105"/>cognitus satis ostenderet, quarumcunque duarum 
+      <lb ed="#P" n="106"/>contradicentium de futuro contingenti alteram 
+      ve<lb ed="#P" n="107" break="no"/>ram fuisse, alteram falsam; non dico alterutram 
+      con<lb ed="#P" n="108" break="no"/>fuse, sed alteram determinate, licet id ante eventum 
+      <lb ed="#P" n="109"/>latuisset. Hoc enim determinate futurum erat, quod 
+      <lb ed="#P" n="110"/>postea videremus, velut si hodie Petrus moritur, heri 
+      <lb ed="#P" n="111"/>determinate verum erat, etsi nobis occultum, Petrus 
+      <lb ed="#P" n="112"/>cras morietur. Postremo, quia Deus, ut dictum est, 
+      <lb ed="#P" n="113"/>in sua aeternitate quae tota simul existens ambit 
+      om<lb ed="#P" n="114" break="no"/>nia, determinate videt alterum contingentium, 
+      <lb ed="#P" n="115"/>nempe illud ipsum quod eveniet. 
+    </p>
+            <p xml:id="bt67yj-k41242-d1e337">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Quarti argumenti solutio patebit ex iis quae 
+      pro<lb ed="#P" n="117" break="no"/>xime sunt dicenda. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="102"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k38278"><!-- l1d36c1" -->
+            <head xml:id="bt67yj-k38278-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k38278-Hd1e103" type="question-title">Omnia esse in Deo secundum ideas, non 
+        secundum essentiam</head>
+            <p xml:id="bt67yj-k38278-d1e106">
+               <lb ed="#P" n="85"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="86"/>TRICESIMAMSEXTAM. 
+      <lb ed="#P" n="87"/>§. 1. Omnia esse in Deo secundum ideas, non 
+      <lb ed="#P" n="88"/>secundum essentiam.
+    </p>
+            <p xml:id="bt67yj-k38278-d1e117">
+               <lb ed="#P" n="89"/>CUM omnia quae secundum aliquam 
+      tempo<lb ed="#P" n="90" break="no"/>ris differentiam a Deo fiunt, non casu fiant,, 
+      <lb ed="#P" n="91"/>sed secundum exemplar in mente divina ab 
+      <lb ed="#P" n="92"/>aeterno praeexistens, necesse est eadem omnia in Deo 
+      <lb ed="#P" n="93"/>esse secundum ideas quasdam Deo coaeternas. Sunt 
+      <lb ed="#P" n="94"/>enim ideae, definiente Augustino lib. 83. q. q. 16. 
+      <lb ed="#P" n="95"/>Principales formae quaedam, vel rationes rerum 
+      sta<lb ed="#P" n="96" break="no"/>biles atque incommutabiles, quae ipsae formatae non 
+      <lb ed="#P" n="97"/>sunt, ac per hoc aeternae, ac semper eodem modo se 
+      <lb ed="#P" n="98"/>se habentes, quae in divina intelligentia continentur. 
+      <lb ed="#P" n="99"/>Et cum ipsae neque oriantur, neque intereant, 
+      secun<lb ed="#P" n="100" break="no"/>dum eas tamen formari dicitur omne quod oriri &amp; 
+      <lb ed="#P" n="101"/>interire potest, &amp; omne quod oritur &amp; interit. 
+      Ha<lb ed="#P" n="102" break="no"/>ctenus Augustinus, post pauca addens, singula 
+      pro<lb ed="#P" n="103" break="no"/>priis esse creata rationibus, easque rationes non esse 
+      <lb ed="#P" n="104"/>nisi in mente creatoris, atque earum participatione 
+      <lb ed="#P" n="105"/>res creatas existere, suosque existendi modos habere. 
+      <lb ed="#P" n="106"/>Ex qua Augustini doctrina primum collige, ideas 
+      <lb ed="#P" n="107"/>revera non aliud esse, quam Dei essentiam. 
+      Quic<lb ed="#P" n="108" break="no"/>quid enim aeternum &amp; incommutabile est, Deus est. 
+      <lb ed="#P" n="109"/>Ita docet idem August. lib. 7. de civit. cap. 28. Item 
+      <lb ed="#P" n="110"/>Dionysius lib. de div. nom. cap. 7. Clemens 
+      Ale<lb ed="#P" n="111" break="no"/>xandrinus lib. 4. &amp; 5. strom. Boetius lib. 3. cons. 
+      <lb ed="#P" n="112"/>phil. nimirum tribuentes ideis eas conditiones, quae 
+      <lb ed="#P" n="113"/>soli Deo competunt. Cum quibus &amp; philosophi 
+      gen<lb ed="#P" n="114" break="no"/>tiles, Cicero, Seneca &amp; alii graviores consentire 
+      vi<lb ed="#P" n="115" break="no"/>dentur. Quam &amp; Platonis ac Platonicorum de ideis 
+      <lb ed="#P" n="116"/>sententiam fuisse, plerique non improbabiliter 
+      opi<lb ed="#P" n="117" break="no"/>nantur. 
+    </p>
+            <p xml:id="bt67yj-k38278-d1e182">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Nec obstat quod plures sint ideae, essentia 
+      ve<lb ed="#P" n="119" break="no"/>ro Deiuna &amp; simplex. Nam idcae dicuntur esse 
+      es<lb ed="#P" n="120" break="no"/>sentia Dei, quatenus essentia Dei est similitudo, vel 
+      <lb ed="#P" n="121"/>ratio uniuscujusque rei. Quare cum pro numero 
+      <lb ed="#P" n="122"/>rerum multae sint rationes intellectae a Deo in sua 
+      <lb ed="#P" n="123"/>ipsius essentia, constat etiam plures esse ideas; 
+      <lb ed="#P" n="124"/>quemadmodum plenius docet sanctus Thomas 1. 
+      <lb ed="#P" n="125"/>q. 15. art. 2. 
+    </p>
+            <p xml:id="bt67yj-k38278-d1e205">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Secundo, consequens est ideas esse in Deo ut 
+      <lb ed="#P" n="127"/>intellectas ab ipso, non ut species per quas 
+      intelli<lb ed="#P" n="128" break="no"/>git. Exemplaria enim rerum objective sunt in 
+      men<lb ed="#P" n="129" break="no"/>te artificis. Nec hinc sequitur ideas non esse essen 
+      <lb ed="#P" n="130"/>tiam Dei, quia nihil vetat Deum semetipsum, id 
+      <lb ed="#P" n="131"/>est, essentiam suam intelligere, sive ut in se est, sive 
+      <lb ed="#P" n="132"/>ut secundum aliquem similitudinis modum 
+      partici<lb ed="#P" n="133" break="no"/>patur a creaturis. 
+    </p>
+            <p xml:id="bt67yj-k38278-d1e227">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Tertio, sequitur ideas esse tantummodo rerum 
+      <lb ed="#P" n="135"/>a Deo factarum, vel faciendarum, &amp; aliquo modo 
+      <lb ed="#P" n="136"/>etiam factibilium, quae nunquam fient. Quatenus 
+      <lb ed="#P" n="137"/>enim ideae sunt exemplaria artificis &amp; ad 
+      practi<lb ed="#P" n="138" break="no"/>cam cognitionem pertinent, sunt earum duntaxat 
+      <lb ed="#P" n="139"/>rerum, quae aliquando ab artifice Deo procedunt: 
+      <!--0126.xml-->
+      <pb ed="#P" n="103"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quatenus vero sunt propriae similitudines seu 
+      ratio<lb ed="#P" n="2" break="no"/>nes quaedam cognoscendi res quarum sunt ideae, 
+      <lb ed="#P" n="3"/>nullo ad operationem habito respectu, ita sunt 
+      om<lb ed="#P" n="4" break="no"/>nium rerum possibilium. Atque hoc genus 
+      compre<lb ed="#P" n="5" break="no"/>hendere voluisse videtur Augustinus, quando dixit 
+      <lb ed="#P" n="6"/>per ideas formari omne quod oriri &amp; interire potest, 
+      <lb ed="#P" n="7"/>videlicet hoc distinguens ab omni eo, quod oritur &amp; 
+      <lb ed="#P" n="8"/>quod interit. 
+    </p>
+            <p xml:id="bt67yj-k38278-d1e269">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Quarto, sequitur nec mali nec impossibilium esse 
+      <lb ed="#P" n="10"/>ideas. Horum enim in Deo non sunt propriae 
+      ratio<lb ed="#P" n="11" break="no"/>nes. Cognoscuntur autem in ratione boni ac rerum 
+      <lb ed="#P" n="12"/>possibilium, sive per negationem, sive per 
+      composi<lb ed="#P" n="13" break="no"/>tionem, sive alio modo. Unumquodque enim ab 
+      in<lb ed="#P" n="14" break="no"/>tellectu cognoscitur, quatenus est. Cum igitur 
+      ma<lb ed="#P" n="15" break="no"/>lum proprie non sit ens (convertuntur enim ens &amp; 
+      <lb ed="#P" n="16"/>bonum) patet ipsum ab intellectu cognosci non 
+      pos<lb ed="#P" n="17" break="no"/>se, nisi per bonum oppositum. Deus ergo per 
+      semet<lb ed="#P" n="18" break="no"/>ipsum, qui summum bonum est, mala cognoscit. 
+      <lb ed="#P" n="19"/>Unde Dionysius cap. 7. de divinis nominibus, dicit 
+      <lb ed="#P" n="20"/>Deum cognoscere tenebras per seipsum, qui 
+      sum<lb ed="#P" n="21" break="no"/>mum lumen est. Impossibilia vero per 
+      compositio<lb ed="#P" n="22" break="no"/>nem rerum possibilium intelliguntur. 
+    </p>
+            <p xml:id="bt67yj-k38278-d1e304">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Postremo, cum res a Deo cognitae, non sint in Deo 
+      <lb ed="#P" n="24"/>secundum seipsas, sed tantum secundum formas 
+      in<lb ed="#P" n="25" break="no"/>tellectuales, dicendum non est res in Deo esse per 
+      <lb ed="#P" n="26"/>essentiam, sive essentiam ipsius Dei intelligas, sive 
+      <lb ed="#P" n="27"/>rerum cognitarum. Nam phrasis illa, esse in Deo per 
+      <lb ed="#P" n="28"/>essentiam, significat rem esse ejusdem essentiae cum 
+      <lb ed="#P" n="29"/>Deo; quomodo filius in patre per essentiam esse 
+      dici<lb ed="#P" n="30" break="no"/>tur. Ipsas tamen rerum essentias esse in Deo per 
+      co<lb ed="#P" n="31" break="no"/>gnitionem, verissime quis dixerit. 
+    </p>
+            <p xml:id="bt67yj-k38278-d1e328">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Porro de ideis copiosiorem tractationem videant 
+      <lb ed="#P" n="33"/>studiosi apud S. Thomam 1. q. 15. ejusque 
+      commen<lb ed="#P" n="34" break="no"/>tatores, &amp; in hanc distinctionem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="95"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k35558"><!-- l1d31c5" -->
+            <head xml:id="bt67yj-k35558-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k35558-Hd1e103" type="question-title">Appropriata ab Augustino assignata explicantur</head>
+            <p xml:id="bt67yj-k35558-d1e106">
+               <lb ed="#P" n="48"/>§. 5. Appropriata ab Augustino assignata explicantur.
+    </p>
+            <p xml:id="bt67yj-k35558-d1e111">
+               <lb ed="#P" n="49"/>SEcundus appropriatorum ternio traditur a S. 
+      Au<lb ed="#P" n="50" break="no"/>gustino lib. 2. de doct. Christ. cap. 5. his verbis: 
+      <lb ed="#P" n="51"/>In patre est unitas, in filio aequalitas, in spiritu sancto 
+      <lb ed="#P" n="52"/>unitatis aequalitatisque concordia. Quorum ratio sic 
+      <lb ed="#P" n="53"/>explicari potest. Patri peculariter unitas asscribitur. 
+      <lb ed="#P" n="54"/>quia quemadmodum unitas nihil praerequirit, sed 
+      <lb ed="#P" n="55"/>ipsa &amp;numeri principium, ita pater ex nullo est 
+      <lb ed="#P" n="56"/>alio, nullamque personam praesupponit; sed ipse 
+      a<lb ed="#P" n="57" break="no"/>liarum personarum principium est. Filio tribuitur 
+      <lb ed="#P" n="58"/>aequalitas, quia ut quid aequale sit, necessario 
+      requi<lb ed="#P" n="59" break="no"/>ritur aliquid aliud cui sit aequale, nec potest 
+      aequali<lb ed="#P" n="60" break="no"/>tas consistere nisi inter duo ut minimum. Ad hunc 
+      <lb ed="#P" n="61"/>modum filius necessario personam patris a se 
+      distin<lb ed="#P" n="62" break="no"/>ctam praerequirit, atque in eo primum oritur 
+      plura<lb ed="#P" n="63" break="no"/>litas, quia filius a patre solo, &amp; quidem immediate, 
+      <lb ed="#P" n="64"/>procedit. Cui rationi etiam hoc accedit, quod sicut 
+      <lb ed="#P" n="65"/>aequalitas, id est, perfecta proportio maxime 
+      atten<lb ed="#P" n="66" break="no"/>ditur in imagine respectu exemplaris; ita in filio 
+      tan<lb ed="#P" n="67" break="no"/>quam in imagine patris naturali, eaque absolutissima, 
+      <lb ed="#P" n="68"/>aequalitas ejus cum patre elucescat. Spiritui sancto 
+      <lb ed="#P" n="69"/>tribuit S. Augustinus unitatis aequalitatisque concor¬ 
+      <!--0118.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>diam; tum quia connexio, quae concordiae nomine 
+      <lb ed="#P" n="71"/>significatur, esse non potest, nisi duo aliqua 
+      praeexi<lb ed="#P" n="72" break="no"/>stant quae connectantur, quibus ipsa concordia velut 
+      <lb ed="#P" n="73"/>tertia accedat. Sic enim spiritus sanctus duabus 
+      per<lb ed="#P" n="74" break="no"/>sonis patri &amp; filio in eandem spirationem 
+      convenien<lb ed="#P" n="75" break="no"/>tibus accedit tertia persona velut duarum concordia; 
+      <lb ed="#P" n="76"/>tum quia spiritus sanctus instar amoris procedit, 
+      <lb ed="#P" n="77"/>cujus officium est plurium corda conglutinare, ac 
+      <lb ed="#P" n="78"/>velut unum efficere. 
+    </p>
+            <p xml:id="bt67yj-k35558-d1e183">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Quod vero subjungit sanctus Augustinus, tria haec 
+      <lb ed="#P" n="80"/>unum omnia esse propter patrem, aequalia omnia 
+      <lb ed="#P" n="81"/>propter filium, connexa omnia propter spiritum 
+      san<lb ed="#P" n="82" break="no"/>ctum; non sic accipiendum, quasi dictione, propter, 
+      <lb ed="#P" n="83"/>voluerit causam vel principium significare, unde 
+      <lb ed="#P" n="84"/>unitas, aequalitas &amp; connexio in divinis personis 
+      <lb ed="#P" n="85"/>existat. Quamvis enim a patre reliquae personae ut 
+      na<lb ed="#P" n="86" break="no"/>turam sic unitatem accipiant; non tamen vel ipse 
+      pa<lb ed="#P" n="87" break="no"/>ter sibi unitatis principium &amp; causa est, vel a filio 
+      re<lb ed="#P" n="88" break="no"/>liquae personae accipiunt aequalitatem, vel a spiritu 
+      <lb ed="#P" n="89"/>sancto connexionem. Constat enim nec patrem a 
+      <lb ed="#P" n="90"/>filio vel spiritu sancto, nec filium a spiritu sancto 
+      <lb ed="#P" n="91"/>quicquam accipere, sed filium omnia accipere a 
+      <lb ed="#P" n="92"/>patre, &amp; spiritum sanctum omnia a patre &amp; 
+      filio<lb ed="#P" n="93" break="no"/>Videtur igitur hic sensus esse; Omnes tres 
+      perso<lb ed="#P" n="94" break="no"/>nae unum sunt unitate, quae ob rationem dictam 
+      <lb ed="#P" n="95"/>patri appropriatur, aequales sunt aequalitate, quae 
+      <lb ed="#P" n="96"/>uti dictum est, accommodatur filio; connexae sunt 
+      <lb ed="#P" n="97"/>&amp; concordes sunt per concordiam, quam 
+      ostendi<lb ed="#P" n="98" break="no"/>mus accommodari spiritui sancto. Haec igitur tria 
+      <lb ed="#P" n="99"/>peculiariter dicta sunt esse in divinis, propter eas 
+      per<lb ed="#P" n="100" break="no"/>sonas in quibus illorum ratio magis apparet, ac 
+      prom<lb ed="#P" n="101" break="no"/>ptius a nobis cognoscitur. Restant reliqui duo 
+      appro<lb ed="#P" n="102" break="no"/>priatorum ordines, scilicet tertius de quo agemus 
+      <lb ed="#P" n="103"/>cum Magistro ad distinctionem 34. &amp; quartus de quo 
+      <lb ed="#P" n="104"/>ad distinctionem 36. Occurrunt &amp; alii 
+      appropriato<lb ed="#P" n="105" break="no"/>rum terniones apud sacros authores, ut apud 
+      san<lb ed="#P" n="106" break="no"/>ctum Cyprianum sermone de baptismo Christi, &amp; 
+      <lb ed="#P" n="107"/>in officio Ecclesiastico de Sancta Trinitate &amp; alibi, 
+      <lb ed="#P" n="108"/>quorum rationes non erit difficile studiosis 
+      scrutan<lb ed="#P" n="109" break="no"/>do invenire. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

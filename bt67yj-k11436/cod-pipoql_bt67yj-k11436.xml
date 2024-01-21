@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="31"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k11436"><!-- l1d8c2" -->
+            <head xml:id="bt67yj-k11436-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k11436-Hd1e103" type="question-title">Quod nomen Deo maxime proprium</head>
+            <p xml:id="bt67yj-k11436-d1e106">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> §. 2. Quod nomen Deo maxime proprium?
+    </p>
+            <p xml:id="bt67yj-k11436-d1e113">
+               <lb ed="#P" n="82"/>EX dictis responderi potest quaerenti, quod 
+      no<lb ed="#P" n="83" break="no"/>men inter ea quae Deo tribuuntur in scriptura 
+      <lb ed="#P" n="84"/>sacra sit ei maxime proprium. Si enim ut jam dictum 
+      <lb ed="#P" n="85"/>est essentiae vocabulum, ad indicandam Dei 
+      natu<lb ed="#P" n="86" break="no"/>ram convenientissimum est, sequitur illud nomen 
+      <lb ed="#P" n="87"/>quo essentia vel esse significatur, Deo 
+      propriissi<lb ed="#P" n="88" break="no"/>mum esse. Sunt autem hujusmodi duo, inter ea 
+      de<lb ed="#P" n="89" break="no"/>cem quae a Sancto Hieronymo in epistola ad 
+      Marcel<lb ed="#P" n="90" break="no"/>lam sunt enumerata &amp; exposita, sextum, videlicet &amp; 
+      <lb ed="#P" n="91"/>nonum. Sextum, Quid est, Exod 3. De quo 
+      dixi<lb ed="#P" n="92" break="no"/>mus supra. Nonum DV quod a numero litterarum 
+      <lb ed="#P" n="93"/>τετραγρόμματον &amp; ex eo quod ob venerationem ab 
+      <lb ed="#P" n="94"/>illius prolatione extra solemnes ceremonias Judaei 
+      <lb ed="#P" n="95"/>abstinere solent, ineffabile a patribus tam Graecis 
+      <lb ed="#P" n="96"/>quam Latinis dictum est. Nam Judaei quoties hoc 
+      <lb ed="#P" n="97"/>nomen inter legendum occurrebat, consuetudine a 
+      <lb ed="#P" n="98"/>majoribus accepta, loco ejus pronunciare soli sunt 
+      <lb ed="#P" n="99"/>278 quod Dominum sonat, &amp; interdum DSIN 
+      <lb ed="#P" n="100"/>quod Deum vel Deos significat. Hoc &amp; in sua 
+      ver<lb ed="#P" n="101" break="no"/>sione Hieron. imitatus est Exodi 3. in his verbis: Ega 
+      <lb ed="#P" n="102"/>Dominus qui apparui Abraham. Isaac &amp; facob in 
+      <lb ed="#P" n="103"/>Deo omnipotente, &amp; nomen meum Adonai non 
+      indi<lb ed="#P" n="104" break="no"/>cavi eis. Est enim Hebraice loco adonai, Jehovab, 
+      <lb ed="#P" n="105"/>sicut &amp; loco omnipotentis, Saddai. Quod apud 
+      <lb ed="#P" n="106"/>Hieronymum in epistola ad Marcellam decimo loco 
+      <lb ed="#P" n="107"/>inter Dei nomina reponitur. Quanquam idem 
+      Hie<lb ed="#P" n="108" break="no"/>ronym. Exod. 15. Jehovah vertit omnipotentem cum 
+      <lb ed="#P" n="109"/>ait: omnipotens nomen ejus. Septuaginta vero 
+      utro<lb ed="#P" n="110" break="no"/>bique sicut &amp; alibi verterunt Κυειος, id est, Dominus. 
+      <lb ed="#P" n="111"/>Hanc vocem, Jehovah, ab essendo deductam esse 
+      <lb ed="#P" n="112"/>censent Hebraicae linguae periti, &amp; quidem ab eo 
+      <lb ed="#P" n="113"/>ipso vocabulo Hebraeo, cujus loco nos habemus 
+      <lb ed="#P" n="114"/>Exod. 3. Qui est, ut revera haec duo, Qui est, &amp; 
+      <lb ed="#P" n="115"/>Jehovah, non sint apud Hebraeos divisa Dei 
+      nomi<lb ed="#P" n="116" break="no"/>na, sed unum &amp; idem per derivationem paulo aliter 
+      <lb ed="#P" n="117"/>expressam; licet alii malint, hoc posteriori nomine 
+      <lb ed="#P" n="118"/>plus aliquid significari, quam priori, nempe eum qui 
+      <lb ed="#P" n="119"/>ita est, ut etiam esse faciat, id est, qui sit principium 
+      <lb ed="#P" n="120"/>ac velut fons essendi aliis rebus. Unde non immerito 
+      <lb ed="#P" n="121"/>Deo ut maxime proprium tribuitur etiam hoc 
+      no<lb ed="#P" n="122" break="no"/>men. Quod &amp; per Prophetam Isaiam significatum 
+      <lb ed="#P" n="123"/>est, apud quem cap. 42. Deus sic loquitur: Ego 
+      Do<lb ed="#P" n="124" break="no"/>minus, hoc est nomen meum. Est enim eo loco, sicut 
+      <lb ed="#P" n="125"/>alibi passim, vocabulum, Jehovah. 
+    </p>
+            <p xml:id="bt67yj-k11436-d1e211">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Sed de intellectu loci Exod. 3. testat scrupulus. 
+      <lb ed="#P" n="127"/>Quaeritur enim quomedo hoc nomine, Jehovah, 
+      <lb ed="#P" n="128"/>non fuerit Deus notus Abrahae, Isaac &amp; Jacob; 
+      <lb ed="#P" n="129"/>cum &amp; nomen ipsum iis ore Dei editum fuerit, ut 
+      <lb ed="#P" n="130"/>Gen. 15. cum ait: Ego Deminus Hebraice, Jehovah. 
+      <lb ed="#P" n="131"/>qui eduxit te de Ur Chaldaeorum; nec dubitandum sit 
+      <lb ed="#P" n="132"/>quin etiam hujus nominis significatum tenuerint, 
+      <lb ed="#P" n="133"/>scientes Deum esse tale ens, quod sit fons omnis 
+      <lb ed="#P" n="134"/>entis. Neque enim eorum probari potest 
+      respon<lb ed="#P" n="135" break="no"/>sio, qui dicunt priscis illis patriarchis incognitum 
+      <lb ed="#P" n="136"/>fuisse mysterium quoddam in illo vocabulo latens, 
+      <lb ed="#P" n="137"/>quod Moysi fuerit revelatum, idque duplex, 
+      nem<lb ed="#P" n="138" break="no"/>pe mysterium Trinitatis in Deo, &amp; futurae 
+      huma<lb ed="#P" n="139" break="no"/>nitatis in Christo. Volunt enim tribus primis 
+      lite<lb ed="#P" n="140" break="no"/>ris significatas esse tres personas divinas; quarta 
+      ve<lb ed="#P" n="141" break="no"/>ro quae eadem est cum secunda, significatam 
+      incar<lb ed="#P" n="142" break="no"/>nationem secundae personae, id est, filii Dei. Hanc 
+      <lb ed="#P" n="143"/>quippe personam, propter geminam naturam 
+      divi<lb ed="#P" n="144" break="no"/>nam &amp; humanam, bis positam censent. Verum ne 
+      <lb ed="#P" n="145"/>haec quidem mysteria latuerunt sanctos patriarchas, 
+      <lb ed="#P" n="146"/>praesertim Abraham omnium credentium patrem 
+      <!--0055.xml-->
+      <pb ed="#P" n="32"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Hic enim quando ipsi apparuerunt tres viri, Gen. 18. 
+      <lb ed="#P" n="2"/>Unum in tribus adoravit, videlicet unum in tribus 
+      <lb ed="#P" n="3"/>personis Deum agnoscens, ut eum locum multi ex 
+      <lb ed="#P" n="4"/>patribus intellexerunt, prout etiam de illo canit 
+      Ec<lb ed="#P" n="5" break="no"/>clesia: Tres vidit, &amp; unum adoravit. Sed neque 
+      my<lb ed="#P" n="6" break="no"/>sterium incarnationis Christi ignoravit, cui de 
+      Chri<lb ed="#P" n="7" break="no"/>sto ex semine ejus nascituro, non semel facta fuit 
+      <lb ed="#P" n="8"/>promissio, &amp; de quo ipse Christus, Joan. 8. ait: 
+      Abra<lb ed="#P" n="9" break="no"/>ham exultavit ut videret diem meum, vidit &amp; gavisus 
+      <lb ed="#P" n="10"/>est. Proinde melius alii respondent, id quod ad 
+      Moy<lb ed="#P" n="11" break="no"/>sen dictum est referendum, non ad significationem 
+      <lb ed="#P" n="12"/>vocabulorum, sed ad declarationem rerum 
+      signifi<lb ed="#P" n="13" break="no"/>catarum. Nam, Saddai, potentem vel sufficientem 
+      <lb ed="#P" n="14"/>significat; Jehovab, autem eum qui esse facit. 
+      Il<lb ed="#P" n="15" break="no"/>lud potestatem solam indicat: Hoc potestati actum 
+      <lb ed="#P" n="16"/>adjungit. Sensus igitur hic esse videtur: Antiquis 
+      <lb ed="#P" n="17"/>illis patribus satis persuasum fuit me esse 
+      omnipo<lb ed="#P" n="18" break="no"/>tentem, nec dubitarunt quin quaecunque 
+      promitte<lb ed="#P" n="19" break="no"/>rem praestare possem &amp; vellem. Unde &amp; fides 
+      eo<lb ed="#P" n="20" break="no"/>rum commendatur, Hebr. 11. Non tamen illis 
+      exhi<lb ed="#P" n="21" break="no"/>bui adeo manifesta atque illustria meae potentiae 
+      <lb ed="#P" n="22"/>opera, cujusmodi per te jam sum exhibiturus. Quae 
+      <lb ed="#P" n="23"/>enim Deus per Moysen exhibuit, omnium eorum 
+      <lb ed="#P" n="24"/>quae vetus scriptura continet, maxime sunt 
+      admiran<lb ed="#P" n="25" break="no"/>da. Unde &amp; in Psalmis a Davide, &amp; ab aliis alibi 
+      sae<lb ed="#P" n="26" break="no"/>pe commemorantur. 
+    </p>
+            <p xml:id="bt67yj-k11436-d1e325">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Plura de Dei nomine maxime proprio videre est 
+      <lb ed="#P" n="28"/>apud Sanctum Thomam I. quaest. 13. art. 11. &amp; apud 
+      <lb ed="#P" n="29"/>Paulum Burgensem super Exod 3. fuse de hac re 
+      dis<lb ed="#P" n="30" break="no"/>serentem; Ubi &amp; contendit nomen τετραγράμματον 
+      <lb ed="#P" n="31"/>magis esse proprium Deo, quam nomen, Qui est, 
+      <lb ed="#P" n="32"/>Cujus rationes apud ipsum requirat studiosus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

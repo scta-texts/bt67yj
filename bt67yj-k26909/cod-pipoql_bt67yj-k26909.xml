@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="72"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k26909"><!-- l1d19c1" -->
+            <head xml:id="bt67yj-k26909-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k26909-Hd1e103" type="question-title">AEqualitas personarum in divinis probatur 
+      et explicatur</head>
+            <p xml:id="bt67yj-k26909-d1e106">
+               <lb ed="#P" n="88"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="89"/>DECIMAMNONAM. 
+      <lb ed="#P" n="90"/>§. 1. AEqualitas personarum in divinis probatur 
+      <lb ed="#P" n="91"/>&amp; explicatur.
+    </p>
+            <p xml:id="bt67yj-k26909-d1e117">
+               <lb ed="#P" n="92"/>RES personas divinas non modo similes, 
+      <lb ed="#P" n="93"/>esse inter se, sed &amp; aequales docet fides 
+      Ca<lb ed="#P" n="94" break="no"/>tholica. Quod quidem post vetusta concilia 
+      <lb ed="#P" n="95"/>contra Arianos habita, post symbolum Athanasii per 
+      <lb ed="#P" n="96"/>totam Ecclesiam receptum, item post Hilarium, 
+      Ba<lb ed="#P" n="97" break="no"/>silium, Gregorium Nazianzenum, Ambrosium, 
+      Au<lb ed="#P" n="98" break="no"/>gustinum, Fulgentium, aliosque patres variis locis, 
+      <lb ed="#P" n="99"/>demum in magno concilio Lateranensi repetitum est 
+      <lb ed="#P" n="100"/>capite 1. his verbis: Firmiter credimus quod pater &amp; 
+      <lb ed="#P" n="101"/>filius &amp; Spiritus sanctus sunt consubstantiales, 
+      coaequa<lb ed="#P" n="102" break="no"/>les, coomnipotentes &amp; coaeterni. Neque hanc 
+      aequalita<lb ed="#P" n="103" break="no"/>tem tacuit scriptura. Nam praeter ea testimonia quae 
+      <lb ed="#P" n="104"/>filium &amp; Spiritum sanctum docent verum esse 
+      <lb ed="#P" n="105"/>Deum, patri consubstantialem (ex quo sequitur 
+      per<lb ed="#P" n="106" break="no"/>sonarum aequalitas) plane dictum est de filio, Philip. 
+      <lb ed="#P" n="107"/>2. Non rapinam arbitratus est esse se aequalem Deo. Et 
+      <lb ed="#P" n="108"/>Joan. 5. Patrem suum dicebat Deum, aequalem se 
+      fa<lb ed="#P" n="109" break="no"/>ciens Deo. Quam aequalitatem significavit etiam 
+      il<lb ed="#P" n="110" break="no"/>lud quod audiente propheta Seraphim clamantes 
+      di<lb ed="#P" n="111" break="no"/>xerunt: Sanctus, Sanctus, Sanctus, Isa. 6. non autem 
+      <lb ed="#P" n="112"/>Sanctus, sanctior, sanctissimus, quemadmodum 
+      be<lb ed="#P" n="113" break="no"/>ne annotavit Rupertus libro 3. de processione 
+      Spiri<lb ed="#P" n="114" break="no"/>tus sancti c. 15. Caeterum cum aequalitas proprie 
+      in<lb ed="#P" n="115" break="no"/>telligatur in quantitate, cujus expers est natura 
+      divi<lb ed="#P" n="116" break="no"/>na; quaerendum quo sensu aequalitas in divinis sit 
+      ac<lb ed="#P" n="117" break="no"/>cipienda. Est igitur notandum in rebus creatis solere 
+      <lb ed="#P" n="118"/>distingui haec tria unitatem seu identitatem, 
+      similitu<lb ed="#P" n="119" break="no"/>dinem, aequalitatem: atque his oppositas, 
+      diversita<lb ed="#P" n="120" break="no"/>tem, dissimilitudinem, inaequalitatem. Quarum 
+      re<lb ed="#P" n="121" break="no"/>lationum prima fundatur in substantia, secunda in 
+      <lb ed="#P" n="122"/>qualitate, tertia in quantitate. Nam secundum 
+      sub<lb ed="#P" n="123" break="no"/>stantiam res aliquae dicuntur eaedem vel diversae, 
+      se<lb ed="#P" n="124" break="no"/>cundum qualitatem similes vel dissimiles, secundum 
+      <lb ed="#P" n="125"/>quantitatem aequales vel inaequales. Sed cum in Deo 
+      <lb ed="#P" n="126"/>proprie neque qualitas sit, neque quantitas, quia 
+      nul<lb ed="#P" n="127" break="no"/>lum accidens, sed substantia sola, consequens est tria 
+      <lb ed="#P" n="128"/>ista identitatem, similitudinem &amp; aequalitatem rem 
+      <lb ed="#P" n="129"/>eandem significare in Deo, licet cum quadam 
+      diver<lb ed="#P" n="130" break="no"/>sitate rationis. Dicuntur ergo tres personae esse unum 
+      <lb ed="#P" n="131"/>&amp; idem, quia eadem prorsus est essentia sive 
+      substan<lb ed="#P" n="132" break="no"/>tia trium personarum. Dicuntur similes, quia in 
+      ea<lb ed="#P" n="133" break="no"/>dem perfectione conveniunt, velut in bonitate, 
+      sa<lb ed="#P" n="134" break="no"/>pientia, potentia &amp; hujusmodi, quae creaturis 
+      attri<lb ed="#P" n="135" break="no"/>butae sunt revera qualitates quaedam accidentariae 
+      in<lb ed="#P" n="136" break="no"/>ter se, &amp; a subjectis distinctae. Ut autem D.o 
+      compe<lb ed="#P" n="137" break="no"/>tunt, neque inter se, neque abessentia realiter differunt.
+    </p>
+            <p xml:id="bt67yj-k26909-d1e219">
+               <lb ed="#P" n="138"/>Porro aequales dicuntur divinae personae, quia sic 
+      <lb ed="#P" n="139"/>conveniunt in qualibet eadem perfectione, ut alia 
+      <lb ed="#P" n="140"/>aliam ne minimum quidem excedat, aut ab alia 
+      <lb ed="#P" n="141"/>excedatur. Nam in his quae non mole magna sunt 
+      <!--0096.xml-->
+      <pb ed="#P" n="73"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ait <ref xml:id="bt67yj-k26909-Rd1e238">Augustinus lib. 6. de Trinit. cap. 8.</ref>
+               <quote xml:id="bt67yj-k26909-Qd1e240">hoc est, 
+      ma<lb ed="#P" n="2" break="no"/>jus esse quod melius sive praestantius esse</quote>, quomodo &amp; 
+      <lb ed="#P" n="3"/>magistrum discipulo &amp; dominum servo majorem esse 
+      <lb ed="#P" n="4"/>dicimus, non quantitate, sed scientia, seu potestate. 
+      <lb ed="#P" n="5"/>Unde satis evidenter apparet, quod magnitudo in 
+      di<lb ed="#P" n="6" break="no"/>vinis non est aliud quam praestantia secundum 
+      quam<lb ed="#P" n="7" break="no"/>cunque perfectionem. Idcirco autem praeter 
+      simili<lb ed="#P" n="8" break="no"/>tudinem cogimur etiam aequalitatis nomen ad 
+      perso<lb ed="#P" n="9" break="no"/>nas divinas transferre, seu potius in divinis 
+      agnos<lb ed="#P" n="10" break="no"/>cere, quia aequalitas excludit omnem perfectionis 
+      <lb ed="#P" n="11"/>diversitatem secundum magis &amp; minus quam non 
+      <lb ed="#P" n="12"/>excludit similitudo. Nam si pater filio potentior esset 
+      <lb ed="#P" n="13"/>vel sapientior, ut volebant Ariani, similes essent 
+      in<lb ed="#P" n="14" break="no"/>ter se pater &amp; filius, sed non aequales, quia non 
+      per<lb ed="#P" n="15" break="no"/>fecte similes &amp; hoc est quod dicebant Ariani filium 
+      <lb ed="#P" n="16"/>esse patri ὁ μοιούσιον, non ὁμοούσιον, id est, substantia 
+      si<lb ed="#P" n="17" break="no"/>milem, non autem consubstantialem. Igitur 
+      aequa<lb ed="#P" n="18" break="no"/>litas in proposito non est aliud, quam perfecta 
+      simi<lb ed="#P" n="19" break="no"/>litudo quae videlicet omnem gradum comparationis 
+      <lb ed="#P" n="20"/>alterius cum altero excludat. 
+    </p>
+            <p xml:id="bt67yj-k26909-d1e286">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Praeterea notandum inter tria supradicta etiam 
+      <lb ed="#P" n="22"/>hoc interesse, quod eas res quibus similitudo vel 
+      <lb ed="#P" n="23"/>aequalitas tribuitur, inter se distinctas esse oporteat, 
+      <lb ed="#P" n="24"/>sic ut una non sit altera. Nihil enim sibi ipsi aequale 
+      <lb ed="#P" n="25"/>est aut simile. Res autem cui tribuitur unitas, 
+      nul<lb ed="#P" n="26" break="no"/>lam distinctionem requirit. Imo res unaquaeque sibi 
+      <lb ed="#P" n="27"/>ipsi propriissime est una &amp; eadem. Ex quo discrimine 
+      <lb ed="#P" n="28"/>intelligendum est quod quando pater &amp; filius &amp; 
+      Spi<lb ed="#P" n="29" break="no"/>ritus sanctus dicuntur esse unum essentia, bonitate, 
+      <lb ed="#P" n="30"/>sapientia, nulla ex ejusmodi attributo convincitur. 
+      <lb ed="#P" n="31"/>personarum inter eos distinctio. Quando autem 
+      di<lb ed="#P" n="32" break="no"/>cuntur similes, vel aequales etiam ab eadem numero 
+      <lb ed="#P" n="33"/>essentia, bonitate, sapientia, necessario sequitur ex 
+      <lb ed="#P" n="34"/>ejusmodi attributo tres illos realiter inter se distingui. 
+      <lb ed="#P" n="35"/>Ex dictis consequens est, quod praesupposita 
+      perso<lb ed="#P" n="36" break="no"/>narum pluralitate in Deo, unitas consequenter 
+      sta<lb ed="#P" n="37" break="no"/>tuat similitudinem &amp; aequalitatem. Cum enim 
+      essen<lb ed="#P" n="38" break="no"/>tia &amp; essentiae perfectio in Deo non differant, 
+      sequi<lb ed="#P" n="39" break="no"/>tur ex eo quod tres personae sunt unum secundum 
+      es<lb ed="#P" n="40" break="no"/>sentiam, eas quoque similes esse &amp; aequales 
+      secun<lb ed="#P" n="41" break="no"/>dum omnem ejusdem essentiae perfectionem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

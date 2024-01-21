@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="56"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k20886"><!-- l1d12c2" -->
+            <head xml:id="bt67yj-k20886-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k20886-Hd1e103" type="question-title">Patrem et Filium esse unum principium 
+      Spiritus sancti</head>
+            <p xml:id="bt67yj-k20886-d1e106">
+      <!--0079.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>§. 2. Patrem &amp; Filium esse unum principium 
+      <lb ed="#P" n="68"/>Spiritus sancti.
+    </p>
+            <p xml:id="bt67yj-k20886-d1e117">
+               <lb ed="#P" n="69"/>INter alia quae Graeci Latinis contra spiritus sancti 
+      <lb ed="#P" n="70"/>Iprocessionem ex filio objecerunt, etiam illud fuit, 
+      <lb ed="#P" n="71"/>quod calumniati sunt Latinos, tanquam duo 
+      face<lb ed="#P" n="72" break="no"/>rent principia spiritus sancti; ut &amp; videre est apud 
+      <lb ed="#P" n="73"/>Theophylactum in Joan 3. ubi propterea negat 
+      spi<lb ed="#P" n="74" break="no"/>ritum Sanctum esse ex filio, ne duo principia spiritus 
+      <lb ed="#P" n="75"/>introducamus patrem &amp; filium. Verum huic 
+      obje<lb ed="#P" n="76" break="no"/>ctioni facile fuit Latinis respondere, dicendo patrem 
+      <lb ed="#P" n="77"/>&amp; filium esse unum principium spiritus sancti, non 
+      <lb ed="#P" n="78"/>duo, ut jam supra indicavimus. Quo certius autem 
+      <lb ed="#P" n="79"/>constaret de mente Latinorum, simul &amp; pro majori 
+      <lb ed="#P" n="80"/>declaratione Catholicae doctrinae de processione 
+      spi<lb ed="#P" n="81" break="no"/>ritus sancti in duobus conciliis oecumenicis 
+      Lugdu<lb ed="#P" n="82" break="no"/>nensi, &amp; Flo. quibus ipsi quoque Graeci interfuerunt 
+      <lb ed="#P" n="83"/>&amp; assenserunt, definitum est spiritum sanctum ex 
+      pa<lb ed="#P" n="84" break="no"/>tre &amp; filio, non tanquam ex duobus principiis; sed 
+      <lb ed="#P" n="85"/>tanquam ex uno principio, non duabusspirationibus, 
+      <lb ed="#P" n="86"/>sed unica spiratione procedere, subjuncto 
+      anathe<lb ed="#P" n="87" break="no"/>mate, in eos qui contrarium asserere praesumpserint. 
+      <lb ed="#P" n="88"/>Quae definitio extat in sexto decretalium lib. titulo 
+      <lb ed="#P" n="89"/>de summa trinitate, &amp; eadem res late declaratur in 
+      <lb ed="#P" n="90"/>ultima sessione concilii Florentini. 
+    </p>
+            <p xml:id="bt67yj-k20886-d1e167">
+               <lb ed="#P" n="91"/>Idem docetur his rationibus. Prima. Non alio 
+      dif<lb ed="#P" n="92" break="no"/>fert filius a patre quam originis relatione, qua fit ut 
+      <lb ed="#P" n="93"/>ille pater sit, iste filius, nec possit esse idem pater &amp; 
+      <lb ed="#P" n="94"/>filius; ergo quod ad spirationem attinet, sunt ambo 
+      <lb ed="#P" n="95"/>unum idemque principium, uno &amp; eodem spirationis 
+      <lb ed="#P" n="96"/>actu, spiritum sanctum producentes. 
+    </p>
+            <p xml:id="bt67yj-k20886-d1e184">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Secunda. Quicquid filius habet a patre, idem 
+      nu<lb ed="#P" n="98" break="no"/>mero est cum eo quod est in patre, velut eadem 
+      essen<lb ed="#P" n="99" break="no"/>tia, potentia, bonitas, &amp;c. Habet autem filius a patre 
+      <lb ed="#P" n="100"/>quod sit principium spiritus sancti, est igitur ipse cum 
+      <lb ed="#P" n="101"/>patre, unum idemque principium spiritus sancti. 
+    </p>
+            <p xml:id="bt67yj-k20886-d1e200">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Tertia. Creaturae licet inter se, &amp; a Deo sint natura 
+      <lb ed="#P" n="103"/>diversissimae, procedunt tamen omnes ab una 
+      Trini<lb ed="#P" n="104" break="no"/>tate, tanquam ab uno principio, ut docetur infra ad 
+      <lb ed="#P" n="105"/>distinctionem 29. Quare multo magis credendum est 
+      <lb ed="#P" n="106"/>spiritum sanctum, qui patri &amp; filio consubstantialis 
+      <lb ed="#P" n="107"/>est, ab iis procedere tanquam ab uno principio. His 
+      <lb ed="#P" n="108"/>vero non obstat quod legitur apud Hilarium lib. 2. 
+      <lb ed="#P" n="109"/>de trinitate spiritum sanctum de patre &amp; filio 
+      au<lb ed="#P" n="110" break="no"/>thoribus, confitendum esse. Nam ibi dictio, 
+      autho<lb ed="#P" n="111" break="no"/>ribus, adjective posita est, pro producentibus. Sunt 
+      <lb ed="#P" n="112"/>enim personae producentes distinctae, licet ipsa 
+      pro<lb ed="#P" n="113" break="no"/>ductio sit una &amp; eadem. Quod si substant ive sumas 
+      <lb ed="#P" n="114"/>authoris vocabulum, tam fatendum erit a patre &amp; 
+      <lb ed="#P" n="115"/>filio tanquam uno authore procedere spiritum 
+      san<lb ed="#P" n="116" break="no"/>ctum, quam a patre, &amp; filio &amp; spiritu sancto tanquam 
+      <lb ed="#P" n="117"/>ab uno creatore credimus productum esse mundum. 
+      <lb ed="#P" n="118"/>Est igitur spiritus sanctiunus author, id est, spirator. 
+      <lb ed="#P" n="119"/>Sunt autem secundum Hilarium duo authores, id 
+      <lb ed="#P" n="120"/>est, spirantes. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

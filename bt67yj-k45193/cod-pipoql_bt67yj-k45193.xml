@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="120"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k45193"><!-- l1d39c8" -->
+            <head xml:id="bt67yj-k45193-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-k45193-Hd1e103" type="question-title">Utrum Deus omnia provideat immediate</head>
+            <p xml:id="bt67yj-k45193-d1e106">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> §. 8. Utrum Deus omnia provideat immediate.
+    </p>
+            <p xml:id="bt67yj-k45193-d1e113">
+               <lb ed="#P" n="63"/>CUm in providentia duo sint consideranda, 
+      scili<lb ed="#P" n="64" break="no"/>cet ratio ordinis rerum provisarum in finem, &amp; 
+      <lb ed="#P" n="65"/>hujus ordinis executio, quae potissimum in 
+      guberna<lb ed="#P" n="66" break="no"/>tione consistit, quantum quidem ad prius istorum 
+      <lb ed="#P" n="67"/>attinet, providet Deus omnia, seu omnibus 
+      imme<lb ed="#P" n="68" break="no"/>diate, quia in mente divina est, &amp; ab aeterno fuit 
+      <lb ed="#P" n="69"/>ratio, practica omnium omnino rerum, quaecunque 
+      <lb ed="#P" n="70"/>in aliqua temporis differentia existunt, etiam mini¬ 
+      <!--0143.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>marum in particulari, sicut in mente artificis est ratio 
+      <lb ed="#P" n="72"/>practica totius operis a se faciendi &amp; singularum 
+      <lb ed="#P" n="73"/>partium: Et quanto magis particularia considerat 
+      <lb ed="#P" n="74"/>ars sive scientia operativa, tanto perfectior est, quod 
+      <lb ed="#P" n="75"/>maxime patet in arte medica. Unde cum Dei 
+      scien<lb ed="#P" n="76" break="no"/>tia sit perfectissima, necesse est eam omnia quae sub 
+      <lb ed="#P" n="77"/>ipsam cadunt operabilia, particulatim considerare, 
+      <lb ed="#P" n="78"/>ut recte probat S. Thomas prima quaest. 22. art. 3. 
+      <lb ed="#P" n="79"/>in corpore &amp; ad primum, &amp; iterum quaestione 
+      <lb ed="#P" n="80"/>103. articulo sexto, ubi de rerum gubernatione agit. 
+      <lb ed="#P" n="81"/>Quocirca graviter errarunt sive Platonici, sive 
+      qui<lb ed="#P" n="82" break="no"/>cunque alii (de quibus in eodem articulo sanctus 
+      <lb ed="#P" n="83"/>Thomas ex sancto Gregorio Nysseno &amp; sancto 
+      Au<lb ed="#P" n="84" break="no"/>gustino) qui Deo tantum tribuerunt 
+      immedia<lb ed="#P" n="85" break="no"/>tam providentiam rerum spiritualium, nec non 
+      <lb ed="#P" n="86"/>mundi corporei quantum ad genera &amp; species &amp; 
+      <lb ed="#P" n="87"/>causas universales, non autem rerum singularium 
+      <lb ed="#P" n="88"/>corruptibilium, neque rerum humanarum, 
+      qua<lb ed="#P" n="89" break="no"/>rum curam ascribebant inferioribus diis, sive 
+      in<lb ed="#P" n="90" break="no"/>telligentiis, quasi summus Deus eas per se non 
+      cura<lb ed="#P" n="91" break="no"/>ret, sed curam tantum demandaret aliis sicut de 
+      <lb ed="#P" n="92"/>multis reges facere coguntur in regnis suis 
+      admini<lb ed="#P" n="93" break="no"/>strandis. 
+    </p>
+            <p xml:id="bt67yj-k45193-d1e187">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Caeterum quoad posterius, uno quidem sensu non 
+      <lb ed="#P" n="95"/>immediate, id est, non sine medio providet Deus 
+      <lb ed="#P" n="96"/>rebus. Sunt enim aliqua divinae providentiae media, 
+      <lb ed="#P" n="97"/>dum inferiora gubernat per superiora, dumque 
+      se<lb ed="#P" n="98" break="no"/>cundas seu medias causas instituit, iisque utitur ad 
+      <lb ed="#P" n="99"/>producendos ulteriores effectus. Quod quidem facit 
+      <lb ed="#P" n="100"/>non propter defectum suae virtutis, aut quasi minus 
+      <lb ed="#P" n="101"/>aliquid operans, dum illas causas adhibet, quam si 
+      <lb ed="#P" n="102"/>sine illis operaretur, sed propter abundantiam suae 
+      <lb ed="#P" n="103"/>bonitatis, dum vult dignitatem causalitatis etiam 
+      <lb ed="#P" n="104"/>creatur is communicare, quemadmodum docet 
+      san<lb ed="#P" n="105" break="no"/>ctus Thomas in supra dicto articulo, &amp; rursum 
+      que<lb ed="#P" n="106" break="no"/>stion. 23. articulo 8. ad secundum, &amp; quaestione 
+      <lb ed="#P" n="107"/>103. articulo sexto, &amp; libro tertio contra gentes 
+      ca<lb ed="#P" n="108" break="no"/>pite 70. &amp; sanctus Bonaventura in primum 
+      distin<lb ed="#P" n="109" break="no"/>ctione quadragesimaquinta, articulo secundo, 
+      quae<lb ed="#P" n="110" break="no"/>stione secunda. 
+    </p>
+            <p xml:id="bt67yj-k45193-d1e230">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Verumtamen alio sensu fatendum est etiam quoad 
+      <lb ed="#P" n="112"/>executionem providentiae, Deum rebus omnibus 
+      <lb ed="#P" n="113"/>providere immediate, hoc est, intime &amp; absque 
+      de<lb ed="#P" n="114" break="no"/>pendentia a causis mediis, etiamsi illas adhibeat &amp; 
+      <lb ed="#P" n="115"/>per illas agat. Providet, inquam, hoc pacto 
+      imme<lb ed="#P" n="116" break="no"/>diate, quia immediate in omnibus operatur, 
+      nimi<lb ed="#P" n="117" break="no"/>rum immediatione virtutis &amp; suppositi, ut 
+      loquun<lb ed="#P" n="118" break="no"/>tur. Quod ex eo constat, quia tam virtus quam 
+      es<lb ed="#P" n="119" break="no"/>sentia Dei omnibus adest intime &amp; absque alterius 
+      <lb ed="#P" n="120"/>cujuscunque dependentia. Cujus rei pleniorem de 
+      <lb ed="#P" n="121"/>clarationem vide apud <name xml:id="bt67yj-k45193-Nd1e258">Dominicum Bannes</name> in 1. 
+      quae<lb ed="#P" n="122" break="no"/>stion. 8. articulo 1. 
+    </p>
+            <p xml:id="bt67yj-k45193-d1e263">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Haec autem sancti Thomae doctrina est, tum 
+      eo<lb ed="#P" n="124" break="no"/>dem ipso loco ubi concludit Deum omnibus rebus 
+      <lb ed="#P" n="125"/>intime inesse, tum aliis plurimis locis. Scribens 
+      <lb ed="#P" n="126"/>enim in primum distinctione tricesimaquinta, 
+      quae<lb ed="#P" n="127" break="no"/>stione prima, articulo primo, Deum in omnibus 
+      <lb ed="#P" n="128"/>immediate operari ex eo probat, quia cum Deus 
+      <lb ed="#P" n="129"/>sit prima causa omnium, virtus ejus est 
+      immedia<lb ed="#P" n="130" break="no"/>tissima omnibus, &amp; cum ipse sit sua virtus, ideo est 
+      <lb ed="#P" n="131"/>immediate in omnibus operans. Idem copiose 
+      do<lb ed="#P" n="132" break="no"/>cet libro tertio contra gentes capite 75. &amp; 
+      sequenti<lb ed="#P" n="133" break="no"/>bus. In compendio Theolog. capite 131. &amp; plenius 
+      <lb ed="#P" n="134"/>capite 135. quaestione vicesimasecunda de veritate, 
+      <lb ed="#P" n="135"/>articulo octavo. In opusculo 9. quaestione 74. &amp; 
+      <lb ed="#P" n="136"/>opusculo 15. capite 14. &amp; in summa, prima, 
+      quae<lb ed="#P" n="137" break="no"/>stione 103. articulo sexto, quaest. 105. artic. 5. &amp; 
+      <lb ed="#P" n="138"/>alibi. Similiter sanctus Bonaventura ubi supra docet 
+      <lb ed="#P" n="139"/>ex eo quod divina voluntas est causa prima &amp; 
+      uni<lb ed="#P" n="140" break="no"/>versalissima &amp; actualissima, necesse est quod ipsa sit 
+      <lb ed="#P" n="141"/>causa immediata in omni actione &amp; in omni re. Et 
+      <lb ed="#P" n="142"/>in secundum distinctione decimaquarta, articulo 
+      <lb ed="#P" n="143"/>tertio, quaest. prima, quod in omni operatione Deus 
+      <lb ed="#P" n="144"/>operatur intime &amp; immediate, cum Dei voluntas sit 
+      <!--0144.xml-->
+      <pb ed="#P" n="121"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>prima &amp; summa causa omnium specierum &amp; 
+      motio<lb ed="#P" n="2" break="no"/>num, &amp; quae sequuntur; Et distinct. vicesimaquinta, 
+      <lb ed="#P" n="3"/>articulo secundo, quaestione prima, quod omne 
+      libe<lb ed="#P" n="4" break="no"/>rum arbitrium est immediate sub Deo constitutum. 
+    </p>
+            <p xml:id="bt67yj-k45193-d1e330">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> His porro consentiunt <name xml:id="bt67yj-k45193-Nd1e336">Scotus</name>, <name xml:id="bt67yj-k45193-Nd1e338">Richardus</name>, <name xml:id="bt67yj-k45193-Nd1e340">
+      Paluda<lb ed="#P" n="6" break="no"/>nus</name>, <name xml:id="bt67yj-k45193-Nd1e346">Cajetanus</name> ac caeteri omnes probabiliores 
+      scho<lb ed="#P" n="7" break="no"/>lastici. Cui sententiae Catechismus ad parochos 
+      <lb ed="#P" n="8"/>aperte suffragatur, dum in explicatione symboli ad 
+      il<lb ed="#P" n="9" break="no"/>lud: Creatorem caeli &amp; terrae, his utitur verbis. Non 
+      <lb ed="#P" n="10"/>solum autem Deus universa quae sunt, providentia sua 
+      <lb ed="#P" n="11"/>tuetur atque administrat, verum etiam quae moventur 
+      <lb ed="#P" n="12"/>&amp; agunt aliquid, intima virtute ad motum atque 
+      actio<lb ed="#P" n="13" break="no"/>nem ita impellit, ut quamvis secundarum causarum 
+      ef<lb ed="#P" n="14" break="no"/>ficientiam non impediat, praeveniat tamen, cum ejus 
+      oc<lb ed="#P" n="15" break="no"/>cultissima vis ad singula pertineat, &amp;c. Hoc autem est 
+      <lb ed="#P" n="16"/>quod sanctus Gregor. lib. 24. moral. cap. 26. ad illa 
+      <lb ed="#P" n="17"/>verba Job. 34. Quem constituit alium super terram, 
+      <lb ed="#P" n="18"/>aut quem posuit super orbem quem fabricatus est, non 
+      <lb ed="#P" n="19"/>minus significanter quam breviter dixit de Deo 
+      lo<lb ed="#P" n="20" break="no"/>quens: Mundum per seipsum regit, quem per seipsum 
+      <lb ed="#P" n="21"/>condidit, quasi dicat, quamvis in rerum 
+      gubernatio<lb ed="#P" n="22" break="no"/>ne Deus utatur secundis &amp; mediis causis; attamen 
+      <lb ed="#P" n="23"/>non minus immediate ipse per seipsum &amp; virtutem 
+      <lb ed="#P" n="24"/>suam attingit singulos effectus, quam in ipsa 
+      creatio<lb ed="#P" n="25" break="no"/>ne, ad quam nullis aliis causis usus fuit. 
+    </p>
+            <p xml:id="bt67yj-k45193-d1e390">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Ex his igitur liquet graviter errare Durandum, qui 
+      <lb ed="#P" n="27"/>scribens in s-cundum distinctione prima, quaestione 
+      <lb ed="#P" n="28"/>quinta, &amp; distinctione tricesimaseptima, quaestione 
+      <lb ed="#P" n="29"/>prima, hanc immediatam providentiae divinae in 
+      sin<lb ed="#P" n="30" break="no"/>gulis operationem tollit, dum docet ea quae fiunt a 
+      <lb ed="#P" n="31"/>Deo mediantibus causis secundis, non fieri ab eo 
+      im<lb ed="#P" n="32" break="no"/>mediate, sed mediate tantum, in quantum Deus 
+      <lb ed="#P" n="33"/>produxit causas secundas, iisque tribuit virtutem 
+      <lb ed="#P" n="34"/>agendi, &amp; tam causas quam virtutes iis inditas 
+      con<lb ed="#P" n="35" break="no"/>servat; quodque liberi arbitrii actiones non 
+      proce<lb ed="#P" n="36" break="no"/>dunt a Deo nisi secundum indifferentiam ad bonum 
+      <lb ed="#P" n="37"/>&amp; malum. Itaque Deum non esse causam actionem 
+      <lb ed="#P" n="38"/>liberi arbitrii, nisi quia liberum arbitrium ab ipso est 
+      <lb ed="#P" n="39"/>&amp; conservatur. Ex qua opinione praeter alia, hoc 
+      se<lb ed="#P" n="40" break="no"/>quitur absurdi, quod causa secunda respectu 
+      singula<lb ed="#P" n="41" break="no"/>rum operationum habebit rationem primae causae &amp; 
+      <lb ed="#P" n="42"/>primi moventis, quia movebit non mota, &amp; ita erunt 
+      <lb ed="#P" n="43"/>plura prima principia; ac rursum, quod Deus, qui est 
+      <lb ed="#P" n="44"/>primum ens, non erat proprie causa universalis 
+      om<lb ed="#P" n="45" break="no"/>nium entium. Quae duo absurda, tanquam duos 
+      er<lb ed="#P" n="46" break="no"/>rores ex illa opinione consequi censet S. Thom. in 2. 
+      <lb ed="#P" n="47"/>dist. 37. quaest. 2. ar. 2. Dixi praeter alia. Nam hoc 
+      <lb ed="#P" n="48"/>etiam ad Pelagianismum tendit quoad bona opera.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

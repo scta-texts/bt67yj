@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="46"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k17077"><!-- l1d10c1" -->
+            <head xml:id="bt67yj-k17077-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k17077-Hd1e103" type="question-title">Nomen Spiritus sancti quid significet</head>
+            <p xml:id="bt67yj-k17077-d1e106">
+               <lb ed="#P" n="49"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="50"/>DECIMAM.
+      <lb ed="#P" n="51"/>§. 1. Nomen Spiritus sancti quid significet.
+    </p>
+            <p xml:id="bt67yj-k17077-d1e115">
+               <lb ed="#P" n="52"/>PERTIA in Trinitate persona, de qua nunc 
+      <lb ed="#P" n="53"/>
+               <pc type="indent"/> deinceps cum Magistro per aliquot 
+      di<lb ed="#P" n="54" break="no"/>stinctiones agendum est, proprio nomine 
+      <lb ed="#P" n="55"/>Spiritus sanctus appellatur; tametsi nomen hoc ei 
+      <lb ed="#P" n="56"/>competat, non tam ex vi &amp; proprietate vocis quam 
+      <lb ed="#P" n="57"/>ex usu scripturae ac totius Ecclesiae. Nam spectata 
+      <lb ed="#P" n="58"/>significatione quae huic voci competeret, ratione 
+      <lb ed="#P" n="59"/>partium ex quibus est composita, tota trinitas &amp; 
+      <lb ed="#P" n="60"/>unaquaeque persona Spiritus est sanctus, &amp; vocari 
+      <lb ed="#P" n="61"/>posset uno composito nomine Spiritus sanctus. 
+      Si<lb ed="#P" n="62" break="no"/>quidem hoc vocabulum Spiritus, partim 
+      subtilita<lb ed="#P" n="63" break="no"/>tem &amp; immaterialitatem, partim motionem, 
+      im<lb ed="#P" n="64" break="no"/>pulsionem atque agendi vchementiam importat 
+      <lb ed="#P" n="65"/>praesertim apud Hebraeos,37, haec autem Deo 
+      <lb ed="#P" n="66"/>maxime &amp; propriissime conveniunt. Est enim 
+      <lb ed="#P" n="67"/>Dei simplicissima, &amp; a materia remotissima 
+      natu<lb ed="#P" n="68" break="no"/>ra. Estque eadem purus &amp; perpetuus actus &amp; 
+      om<lb ed="#P" n="69" break="no"/>nium rerum efficacissima causa. Hinc etsi nomen 
+      <!--0069.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>spiritus dicatur &amp; de creaturis incorporeis angelo 
+      <lb ed="#P" n="71"/>&amp; anima, &amp; de nonnullis corporeis utpote 
+      subti<lb ed="#P" n="72" break="no"/>lioribus, ut aere &amp; vento, &amp; apud Ecclesiasten 3. 
+      <lb ed="#P" n="73"/>non tantum legamus spiritum hominum, sed &amp; 
+      <lb ed="#P" n="74"/>spiritum jumentorum; perfectissime tamen in Deum 
+      <lb ed="#P" n="75"/>competit. Unde Christus ait, Joan. 4. Spiritus est 
+      <lb ed="#P" n="76"/>Deus, &amp; Apostolus 2. Cor. 3. Dominus est spiritus. 
+      <lb ed="#P" n="77"/>Similiter sanctum esse, id est, purum ab omni 
+      la<lb ed="#P" n="78" break="no"/>be immundiciae, participatione quidem aliqua 
+      <lb ed="#P" n="79"/>creaturis, essentialiter autem convenit Deo juxta 
+      <lb ed="#P" n="80"/>illud Levit. Sancti estote quia sanctus sum Dominus 
+      <lb ed="#P" n="81"/>Deus vester. Potest ergo etiam creaturis quibusdam 
+      <lb ed="#P" n="82"/>utrumque tribui suo modo, ut Sancti spiritus 
+      di<lb ed="#P" n="83" break="no"/>cantur. Nam illi spiritus quibus dicitur: Benedicite 
+      <lb ed="#P" n="84"/>spiritus &amp; animae justorum Domino, sine dubio sancti 
+      <lb ed="#P" n="85"/>sunt: sed essentialiter, &amp; perfectissime solus Deus 
+      <lb ed="#P" n="86"/>est Spiritus sanctus. Idque toti Trinitati commune 
+      <lb ed="#P" n="87"/>est, si vocis significationem ex utraque sui parte 
+      <lb ed="#P" n="88"/>aestimemus. Unaquaeque enim persona spiritus est, 
+      <lb ed="#P" n="89"/>&amp; unaquaeque sancta 
+    </p>
+            <p xml:id="bt67yj-k17077-d1e206">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Caeterum usu fidelium proprie tribuitur hoc 
+      <lb ed="#P" n="91"/>nomen tertiae personae, sumiturque incomplexe, 
+      <lb ed="#P" n="92"/>ut partium ex quibus compositum est, per se ratio 
+      <lb ed="#P" n="93"/>non habeatur. Quomodo &amp; in scriptura interdum 
+      <lb ed="#P" n="94"/>accipitur, ut Matth. ult. Baptizantes eos in nomine 
+      <lb ed="#P" n="95"/>Patris, &amp; Filii &amp; Spiritus sancti. Joan. 14. 
+      Para<lb ed="#P" n="96" break="no"/>cletus Spiritus sanctus quem mittet pater in nomine 
+      <lb ed="#P" n="97"/>meo, &amp;c. Joan. 5. Tres sunt qui testimonium dant 
+      <lb ed="#P" n="98"/>in caelo, pater, verbum, &amp; Spiritus sanctus. Et hi 
+      <lb ed="#P" n="99"/>tres unum sunt. Et Psalmo 50. Spiritum sanctum tuum 
+      <lb ed="#P" n="100"/>ne auferas a me. Cur autem hoc nomen ita sit 
+      ac<lb ed="#P" n="101" break="no"/>commodatum tertiae personae, ut factum sit ei 
+      pro<lb ed="#P" n="102" break="no"/>prium, duae rationes adferri possunt. Una, quia 
+      <lb ed="#P" n="103"/>ut ait Augustinus lib. 5. de Trinitate cap. 11. &amp; lib. 
+      <lb ed="#P" n="104"/>15. capite 19. congruebat ut tertia persona, quae a 
+      <lb ed="#P" n="105"/>duabus communiter procedit, eo nomine 
+      voca<lb ed="#P" n="106" break="no"/>retur proprie, quo duae illae vocantur 
+      communi<lb ed="#P" n="107" break="no"/>ter: Altera, quia Spiritus sanctus procedit per 
+      me<lb ed="#P" n="108" break="no"/>dium amoris, ut infra declarabitur. Qui autem se 
+      <lb ed="#P" n="109"/>mutuo amant, unum spiritum habere dicuntur; 
+      <lb ed="#P" n="110"/>juxta illud Apostoli Eph. 4. Solliciti servare 
+      unita<lb ed="#P" n="111" break="no"/>tem spiritus in vinculo pacis. Unde &amp; de 
+      martyri<lb ed="#P" n="112" break="no"/>bus in officio canitur: Perstiterunt in amore 
+      frater<lb ed="#P" n="113" break="no"/>nitatis, quia unus spiritus fuit in eis. Praeterea, 
+      <lb ed="#P" n="114"/>cum amor vim habeat impellendi amantem in 
+      <lb ed="#P" n="115"/>rem amatam (trahit enim unumquemque suus 
+      <lb ed="#P" n="116"/>amor &amp; sua voluptas (spiritus autem 
+      impulsio<lb ed="#P" n="117" break="no"/>nem quandam importet, ut dictum est; inde fit ut 
+      <lb ed="#P" n="118"/>ea persona, quae ad instar amoris procedit, Spiritus 
+      <lb ed="#P" n="119"/>sanctus proprie vocetur, velut quae suo impulsu &amp; 
+      <lb ed="#P" n="120"/>inspiratione author sit omnis sanctificationis. 
+      Un<lb ed="#P" n="121" break="no"/>de Apostolus Rom. 8. Quicunque spiritu Dei 
+      agun<lb ed="#P" n="122" break="no"/>tur, hi sunt filii Dei. Quod enim in nomine spiritus 
+      <lb ed="#P" n="123"/>etiam Deo attributi, motio seu impulsio quaedam 
+      <lb ed="#P" n="124"/>intelligatur, ex aliis scripturae locis manifestum est. 
+      <lb ed="#P" n="125"/>Nam. Math. 4. Jesus a spiritu ductus dicitur in 
+      deser<lb ed="#P" n="126" break="no"/>tum, pro quo Marci 1. legitur: Et statim spiritus 
+      <lb ed="#P" n="127"/>expulit eum in desertum. Item Act. 8. Spiritus 
+      Domi<lb ed="#P" n="128" break="no"/>ni rapuisse Philippum dicitur, &amp; transtulisse in alium 
+      <lb ed="#P" n="129"/>locum. Sed &amp; spiritum Dei irruisse in homines ad 
+      <lb ed="#P" n="130"/>aliquid agendum frequenter in scriptura legimus. 
+      <lb ed="#P" n="131"/>Quoniam autem impetus ille seu motio, semper 
+      <lb ed="#P" n="132"/>est ad aliquid sanctum &amp; divinum, hinc eadem illa 
+      <lb ed="#P" n="133"/>persona, non tantum spiritus, sed &amp; Spiritus sanctus 
+      <lb ed="#P" n="134"/>convenientissime nominatur. De qua re Videatur 
+      <lb ed="#P" n="135"/>S. Thomas 1. q. 36. art. 1. &amp; aliis locis ibidem ad 
+      <lb ed="#P" n="136"/>marginem notatis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

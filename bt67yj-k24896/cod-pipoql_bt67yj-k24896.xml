@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="67"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k24896"><!-- l1d17c2" -->
+            <head xml:id="bt67yj-k24896-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k24896-Hd1e103" type="question-title">Praeter spiritum sanctum esse in homine charitatem 
+      creatam, ex scripturis docetur</head>
+            <p xml:id="bt67yj-k24896-d1e106">
+               <lb ed="#P" n="34"/>§. 2. Praeter spiritum sanctum esse in homine charitatem 
+      <lb ed="#P" n="35"/>creatam, ex scripturis docetur.
+    </p>
+            <p xml:id="bt67yj-k24896-d1e113">
+               <lb ed="#P" n="36"/>OPinio Magistri est spiritum sanctum esse 
+      chari<lb ed="#P" n="37" break="no"/>tatem qua nos Deum &amp; proximum diligimus, 
+      <lb ed="#P" n="38"/>non sensu causali quasi vocetur charitas, 
+      quiacharita<lb ed="#P" n="39" break="no"/>tem in nobis creat atque efficit, sed proprio sermone, 
+      <lb ed="#P" n="40"/>quomodo dictum est, Deus spiritus est, idque adeo 
+      <lb ed="#P" n="41"/>ut creatam &amp; habitualem charitatem in homine 
+      nul<lb ed="#P" n="42" break="no"/>lam agnoscat, sed solam increatam, id est, spiritum 
+      <lb ed="#P" n="43"/>sanctum authorem in nobis diligendi Deum &amp; 
+      pro<lb ed="#P" n="44" break="no"/>ximum. Quam suam opinionem prolixe asserit tota 
+      <lb ed="#P" n="45"/>hac distinctione, eandemque etiam alibi reperit. Sed 
+      <lb ed="#P" n="46"/>eam velut erroneam merito rejiciunt &amp; explodunt 
+      <lb ed="#P" n="47"/>omnes doctores scholastici docentes praeter 
+      increa<lb ed="#P" n="48" break="no"/>tere in homine charitatem creatam atque 
+      inhaeren<lb ed="#P" n="49" break="no"/>tem more aliorum accidentium, ex qua tanquam ex 
+      <lb ed="#P" n="50"/>habitu divinitus infuso, charitatis opera procedant. 
+      <lb ed="#P" n="51"/>Quod ita esse primum scripturae testimoniis, deinde 
+      <lb ed="#P" n="52"/>authoritate patrum &amp; conciliorum, tertio ratione 
+      do<lb ed="#P" n="53" break="no"/>cebimus, ac postremo diversae opinionis argumenta 
+      <lb ed="#P" n="54"/>refellemus, ea maxime quae Magistrum in illam 
+      ad<lb ed="#P" n="55" break="no"/>duxerunt. 
+    </p>
+            <p xml:id="bt67yj-k24896-d1e159">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Primum igitur in scripturis manifestus est locus, 
+      <lb ed="#P" n="57"/>Roman. 5. Charitas Dei, inquit Apostolus, diffusa est 
+      <lb ed="#P" n="58"/>in cordibus nostris per spiritum sanctum qui datus est 
+      no<lb ed="#P" n="59" break="no"/>bis. Quibus verbis aperte charitatem in cordibus 
+      di<lb ed="#P" n="60" break="no"/>stinguit a spiritu sancto per quem diffunditur, tametsi 
+      <lb ed="#P" n="61"/>Magister coacta quadam interpretatione solvere 
+      ni<lb ed="#P" n="62" break="no"/>titur hoc argumentum. Item Apostolus 1. Corinth. 
+      <lb ed="#P" n="63"/>12. &amp; 13. charitatem inter charismata spiritus sancti 
+      <lb ed="#P" n="64"/>expresse numerat. Cum enim dixisset: Amulamini 
+      <lb ed="#P" n="65"/>charismata meliora, statim adjungit de charitate, Et 
+      <lb ed="#P" n="66"/>adhuc excellentiorem viam vobis demonstro. si linguis 
+      <lb ed="#P" n="67"/>hominum loquar &amp; angelorum, charitatem autem nov 
+      <lb ed="#P" n="68"/>habeam, &amp;c. significans charitatem esse in numero 
+      <lb ed="#P" n="69"/>charismatum spiritus sancti, tametsi charisma caeteris 
+      <lb ed="#P" n="70"/>excellentius. Eodem loco de charitate dicitur: Non 
+      <!--0090.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>quaerit quae sua sunt: Omnia credit, omnia sperat, omnia 
+      <lb ed="#P" n="72"/>sustinet. Quae elogia neutiquam apte quadrant in 
+      <lb ed="#P" n="73"/>spiritum sanctum, sed bene in virtutem ut 
+      imperan<lb ed="#P" n="74" break="no"/>tem more principii interni. Rursus ibidem 
+      charita<lb ed="#P" n="75" break="no"/>tem cum fide &amp; spe comparat Apostolus nimirum 
+      ha<lb ed="#P" n="76" break="no"/>bitum cum habitibus, cum ait: Nunc autem manent 
+      <lb ed="#P" n="77"/>fides, spes, charitas, tria haec. Major autem horum est 
+      <lb ed="#P" n="78"/>charitas. Quo sane loco notandum, quod si Apostolus 
+      <lb ed="#P" n="79"/>charitatem illam de qua disserebat, intellexisset 
+      pro<lb ed="#P" n="80" break="no"/>prie esse spiritum sanctum, cum ibi tam multa in 
+      lau<lb ed="#P" n="81" break="no"/>dem charitatis commemoraret, nunquam 
+      praetermi<lb ed="#P" n="82" break="no"/>sisset id quod praecipuum &amp; summum esset nempe 
+      <lb ed="#P" n="83"/>charitatem esse Spiritum sanctum, &amp; proinde Deum. 
+      <lb ed="#P" n="84"/>Nunc autem ad praecipuam ejus commendationem 
+      <lb ed="#P" n="85"/>tantum posuit, quod nunquam excidat, quodque fide 
+      <lb ed="#P" n="86"/>&amp; spe major sit. Quae duo profecto exigua sunt ad 
+      <lb ed="#P" n="87"/>condignam laudem charitatis, si charitas Deus est. 
+      <lb ed="#P" n="88"/>De quo alia multo plura &amp; excellentiora dici 
+      potuis<lb ed="#P" n="89" break="no"/>sent. Neque vero ad haec respondere poterit 
+      Magi<lb ed="#P" n="90" break="no"/>ster, Apostolum de actuali dilectione locutum esse, 
+      <lb ed="#P" n="91"/>tum quia negat ipse in textu actum charitatis recte 
+      <lb ed="#P" n="92"/>charitatem vocari; tum quia illud Apostoli: Si 
+      cha<lb ed="#P" n="93" break="no"/>ritatem non habuero, nihil mihi prodest, &amp; illud, 
+      Chari<lb ed="#P" n="94" break="no"/>tas nunquam excidit, &amp; alia fere quae capit. 13. 
+      dicun<lb ed="#P" n="95" break="no"/>tur, de actu dilectionis intelligi nequeunt. Nam sine 
+      <lb ed="#P" n="96"/>actuali dilectione per solum charitatis habitum 
+      pla<lb ed="#P" n="97" break="no"/>cet homo Deo ab actione quiescens. Idemque 
+      dile<lb ed="#P" n="98" break="no"/>ctionis actus transitorius quaedam affectio est. Et 
+      cae<lb ed="#P" n="99" break="no"/>tera quae dicuntur multo aptius quadrant in habitum 
+      <lb ed="#P" n="100"/>quam in actum. Ad haec locus apertus est, Galat. 5. 
+      <lb ed="#P" n="101"/>Frnctus autem spiritus est charitas, gaudium, pax. 
+      <lb ed="#P" n="102"/>patientia, &amp;c. Si enim charitas est fructus spiritus 
+      <lb ed="#P" n="103"/>Psancti; ergo effectus ejus est, &amp; proinde eadem 
+      cha<lb ed="#P" n="104" break="no"/>ritas, non est ipse spiritus sanctus. Nec potest hic 
+      lo<lb ed="#P" n="105" break="no"/>cus intelligi de actu charitatis. Nam Apostolus 
+      vir<lb ed="#P" n="106" break="no"/>tutes, id est, habitus ordine enumerat ut patientiam, 
+      <lb ed="#P" n="107"/>benignitatem, longanimitatem, modestiam, fidem, 
+      <lb ed="#P" n="108"/>castitatem. 
+    </p>
+            <p xml:id="bt67yj-k24896-d1e284">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/>
+               <sic>Praetera</sic> dicit Apostolus Ephes. ultim. Pax 
+      fratri<lb ed="#P" n="110" break="no"/>bus &amp; charitas cum fide a Deo Patre &amp; Domino Jesu 
+      <lb ed="#P" n="111"/>Christo, ergo sic charitas est a Deo sicut fides, nempe 
+      <lb ed="#P" n="112"/>ut effectus creatus a Deo creatore. Deinde pertinent 
+      <lb ed="#P" n="113"/>huc scripturae quae docent charitatem consistere in 
+      <lb ed="#P" n="114"/>observatione mandatorum Dei, ut I. Joan. 5. Haec est 
+      <lb ed="#P" n="115"/>charitas Dei ut mandata ejus custodiamus. Et secunda 
+      <lb ed="#P" n="116"/>epistola: Haec est charitas ut ambulemus secundum 
+      <lb ed="#P" n="117"/>mandata ejus. Constat autem Spiritum sanctum non 
+      <lb ed="#P" n="118"/>consistere in observatione mandatorum Dei, neque 
+      <lb ed="#P" n="119"/>ab ea dependere, quomodo charitas ab ea dependet. 
+      <lb ed="#P" n="120"/>Non ergo charitas nostra proprie est spiritus sanctus. 
+    </p>
+            <p xml:id="bt67yj-k24896-d1e317">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Huc denique referendae sunt scripturae quae docent 
+      <lb ed="#P" n="122"/>augeri &amp; minuicharitatem. Augeri eam docent hae 
+      <lb ed="#P" n="123"/>&amp; similes, 1. Joan. 4. Perfecta charitas foras mittit 
+      ti<lb ed="#P" n="124" break="no"/>morem. Joan. 15. Majorem hac dilectionem nemo habet. 
+      <lb ed="#P" n="125"/>&amp;c. Philipp. 1. Oro ut charitas vestra magis &amp; magis 
+      <lb ed="#P" n="126"/>abundet: 2. Thessal. I. Abundat charitas uniuscujusque 
+      <lb ed="#P" n="127"/>vestrum in invicem. Unde &amp; Ecclesia Deum orat 
+      Do<lb ed="#P" n="128" break="no"/>minica 13. post Pentecosten: Da nobis fidei, spei, &amp; 
+      <lb ed="#P" n="129"/>charitatis augmentum. Et S. Augustinus tract. 5. in 
+      <lb ed="#P" n="130"/>Joan. Charitas, inquit, meretur augeri, ut aucta 
+      me<lb ed="#P" n="131" break="no"/>reatur perfici. Idem serm. 2. de diversis c. 4. Videte 
+      <lb ed="#P" n="132"/>&amp; attendite quid habeatis de charitate, &amp; hoc quod 
+      <lb ed="#P" n="133"/>inveneritis augete. Simili modo loquitur tract. 6. in 
+      <lb ed="#P" n="134"/>epist. Joan. lib. de gratia &amp; libero arbitrio c. 17. lib. 
+      <lb ed="#P" n="135"/>83. quaest. qu. 36. &amp; Ench. ult. Prosper. lib. 2. de 
+      vo<lb ed="#P" n="136" break="no"/>catione gentium, cap. 11. 
+    </p>
+            <p xml:id="bt67yj-k24896-d1e356">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Eandem vero minui significant hae scripturae 
+      <lb ed="#P" n="138"/>Matth. 24. Refrigescet charitas multorum. Et Apoc. 2. 
+      <lb ed="#P" n="139"/>Charitatem tuam primam reliquisti. Unde Gregorius 
+      <lb ed="#P" n="140"/>hom. 38. in Evang. refert de quadam muliere, quod 
+      <lb ed="#P" n="141"/>animus ejus coepit a calore amoris intimi per 
+      quo<lb ed="#P" n="142" break="no"/>tidiana decrementa tepescere. Cum igitur certum 
+      <lb ed="#P" n="143"/>sit spiritum sanctum nec augeri, nec minui posse, 
+      <lb ed="#P" n="144"/>consequens est hanc charitatem, quae augetur &amp; mi¬ 
+      <!--0091.xml-->
+      <pb ed="#P" n="68"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nuitur, non esse ipsum spiritum sanctum. 
+    </p>
+            <p xml:id="bt67yj-k24896-d1e387">
+               <lb ed="#P" n="2"/>
+               <pc type="indent"/> Neque satis apta est ad hoc argumentum 
+      respon<lb ed="#P" n="3" break="no"/>sio Magistri dicentis spiritum sanctum, non in se 
+      au<lb ed="#P" n="4" break="no"/>geri vel minui, sed in homine; dum videlicet ab 
+      ho<lb ed="#P" n="5" break="no"/>mine nunc magis nunc minus habetur aut 
+      participa<lb ed="#P" n="6" break="no"/>tur, quomodo Deus non in se, sed in homine 
+      magnifi<lb ed="#P" n="7" break="no"/>catur &amp; exaltatur, ipse per se semper maximus &amp; 
+      al<lb ed="#P" n="8" break="no"/>tissimus. Hoc inquam non satis convenienter dicitur. 
+      <lb ed="#P" n="9"/>Non enim potest augmentum &amp; decrementum in 
+      <lb ed="#P" n="10"/>motu ad perfectionem &amp; imperfectionem intelligi, 
+      <lb ed="#P" n="11"/>sine forma aliqua creata, in qua proprie reperiatur, 
+      <lb ed="#P" n="12"/>quod Deo interdum improprie tribuitur. Proinde 
+      li<lb ed="#P" n="13" break="no"/>cet recte dicatur Deus in nobis augeri vel minui 
+      im<lb ed="#P" n="14" break="no"/>proprio sermone, id tamen verum non est sine 
+      profe<lb ed="#P" n="15" break="no"/>ctu vel defectu proprie dicto alicujus boni, quod est 
+      <lb ed="#P" n="16"/>in nobis. Quod bonum in proposito non potest aliud 
+      <lb ed="#P" n="17"/>assignari, quam charitas creata. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

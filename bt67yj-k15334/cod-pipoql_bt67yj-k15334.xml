@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="41"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k15334"><!-- l1d9c7" -->
+            <head xml:id="bt67yj-k15334-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-k15334-Hd1e103" type="question-title">Utrum filius semper natus, an semper nasci 
+      dicendus sit</head>
+            <p xml:id="bt67yj-k15334-d1e106">
+               <lb ed="#P" n="130"/>§. 7. Utrum filius semper natus, an semper nasci 
+      <lb ed="#P" n="131"/>dicendus sit? 
+    </p>
+            <p xml:id="bt67yj-k15334-d1e113">
+               <lb ed="#P" n="132"/>IAm ex dictis manifestum est, utrumque vere ac 
+      <lb ed="#P" n="133"/>proprie dici, filium Deinasci &amp; natum esse, item 
+      <lb ed="#P" n="134"/>semper nasci &amp; semper natum esse: sic tamen ut 
+      sem<lb ed="#P" n="135" break="no"/>per non tempus, sed aeternitatem designet. 
+    </p>
+            <p xml:id="bt67yj-k15334-d1e124">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Priori modo loquitur Origines hom. 6. super 
+      Je<lb ed="#P" n="137" break="no"/>rem. 11. dicens filium Dei tanquam splendorem 
+      lu<lb ed="#P" n="138" break="no"/>cis aeternae semper nasci. Pro quo adducit etiam 
+      <lb ed="#P" n="139"/>illud Pro. 8. Ante omnes colles generat me Dominus. 
+      <lb ed="#P" n="140"/>Sic enim ibi legitur verbo praesenti secundum 
+      ver<lb ed="#P" n="141" break="no"/>sionem 70. Loquitur eodem modo Hilarius lib. 7. 
+      <lb ed="#P" n="142"/>9. &amp; 12. de trinitate, sententiis a Magistro recitatis 
+      <lb ed="#P" n="143"/>§. N. &amp; O. Item Augustinus sermone 22. de 
+      tem<lb ed="#P" n="144" break="no"/>pore, dicens filium nasci sine fine. Et epistola 174. 
+      <lb ed="#P" n="145"/>ad Pascentium, dicens patrem semper 
+      gigne<lb ed="#P" n="146" break="no"/>re, &amp; filium semper nasci. Simili ferme modo 
+      <!--0065.xml-->
+      <pb ed="#P" n="42"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>loquitur etiam Cyrillus lib. 1. thes. c. 6. Sic denique. 
+      <lb ed="#P" n="2"/>post Magistri aetatem Lateranense concilium sub 
+      In<lb ed="#P" n="3" break="no"/>nocentio tertio, diserte decrevit his verbis: Ab 
+      ini<lb ed="#P" n="4" break="no"/>tio, semper &amp; sine fine pater generans, filius nascens 
+      <lb ed="#P" n="5"/>&amp; spiritus sanctus procedens. Et id quidem 
+      con<lb ed="#P" n="6" break="no"/>gruenter cum scriptura sacra, ubi Dominus de se ait 
+      <lb ed="#P" n="7"/>n praesenti: Ego ab ipso sum. Joan. 7. Et de spiritu 
+      <lb ed="#P" n="8"/>sancto, Qui a patre procedit, Joan. 15. &amp; in symbolo, 
+      <lb ed="#P" n="9"/>qui a patre filióque procedit. Caeterum verbo 
+      praeteri<lb ed="#P" n="10" break="no"/>to passim scripturae patres utuntur, ut Ps. 109. Ante 
+      <lb ed="#P" n="11"/>luciferum genui te: Joan. 8. Ego ex Deo proceßi: Et 
+      <lb ed="#P" n="12"/>in symbolo, gentium non factum. Unde Chrysost. 
+      <lb ed="#P" n="13"/>hom. 2. super epistolam ad Heb. ex patris 
+      essenti<lb ed="#P" n="14" break="no"/>semper genitum esse filium affirmat. Utrumque 
+      con<lb ed="#P" n="15" break="no"/>junxit scriptura Ps. 2. dicens: Ego hodie genui 
+      te<lb ed="#P" n="16" break="no"/>Nam hodie praesens significat, genui praeteritum, 
+      <lb ed="#P" n="17"/>scilicet ad indicandam &amp; praesentem semper &amp; 
+      nihi<lb ed="#P" n="18" break="no"/>lominus perfectam filii Dei nativitatem, ut 
+      annota<lb ed="#P" n="19" break="no"/>vit Aug. in expositione ejusdem Ps. verbis a Magistro 
+      <lb ed="#P" n="20"/>citatis. Posset quoque dici in futuro, semper 
+      nasce<lb ed="#P" n="21" break="no"/>tur, juxta illud Heb. 1. Ego ero illi in patrem &amp; ipse 
+      <lb ed="#P" n="22"/>erit mihi in filium; ut &amp; de spiritu sancto semper 
+      pro<lb ed="#P" n="23" break="no"/>cedet juxta illud Joan. 16. Quaecunque audiet 
+      loque<lb ed="#P" n="24" break="no"/>tur: Et iterum, quia de meo accipiet. Sed quia 
+      ver<lb ed="#P" n="25" break="no"/>bum futurum imperfecti aliquid innuere videtur, &amp; 
+      <lb ed="#P" n="26"/>aeternitati significandae minus servit, hinc factum 
+      <lb ed="#P" n="27"/>ut hujusmodi sermone patres sinus legantur 
+      usi<lb ed="#P" n="28" break="no"/>Quanquam Aug. tractatu 99. in Joan. dictum 
+      scri<lb ed="#P" n="29" break="no"/>pturae locum exponens, satis significat etiam futuri 
+      <lb ed="#P" n="30"/>temporis verbo nos uti posse, quum de divina 
+      pro<lb ed="#P" n="31" break="no"/>cessione loquimur. Cujus locutionis usus erit ad 
+      si<lb ed="#P" n="32" break="no"/>gnificandam processionem illam interminabilem 
+      <lb ed="#P" n="33"/>esse, &amp; nunquam finiendam. Verba Augustini sunt 
+      <lb ed="#P" n="34"/>apud Magistrum distinct. 8. §. 6. 
+    </p>
+            <p xml:id="bt67yj-k15334-d1e234">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Verum adversus locutionem praesentis temporis, 
+      <lb ed="#P" n="36"/>objicitur authoritas ejusdem Aug. lib. 83. q. q. 37. 
+      <lb ed="#P" n="37"/>scribens in haec verba: Melior est semper natus, 
+      <lb ed="#P" n="38"/>quam qui semper nascitur; quia qui semper nascitur 
+      <lb ed="#P" n="39"/>nondum est natus, &amp; nunquam natus est aut natus 
+      <lb ed="#P" n="40"/>erit si semper nascitur. Aliud enim est nasci, aliud 
+      <lb ed="#P" n="41"/>natam esse. Item Gregorii, qui lib. 29. Mor. c. 1. ita 
+      <lb ed="#P" n="42"/>vult dici filium Dei, ante tempora natum, vel potius 
+      <lb ed="#P" n="43"/>semper natum, ut neget posse nos dicere, semper 
+      <lb ed="#P" n="44"/>nascitur, ne imperfectus esse videatur. Sed 
+      dicen<lb ed="#P" n="45" break="no"/>dum est hos patres, dum ejusmodi sermonem 
+      im<lb ed="#P" n="46" break="no"/>probant, non tam de verbis agere, quae secundum 
+      <lb ed="#P" n="47"/>propriam significationem simpliciter vera sunt, 
+      <lb ed="#P" n="48"/>quam de sensu, quem ex iis verbis vulgus 
+      apprehen<lb ed="#P" n="49" break="no"/>dere solet. Audiens enim, semper nascitur, 
+      nativita<lb ed="#P" n="50" break="no"/>tem sive, ut ita loquar, nascentiam imaginatur 
+      non<lb ed="#P" n="51" break="no"/>dum perfectam, sed perpetua successione 
+      perficien<lb ed="#P" n="52" break="no"/>dam, nimirum per modum motus ad perfectionem 
+      <lb ed="#P" n="53"/>tendentis. Quod jam ostensum est dictis verbis non 
+      <lb ed="#P" n="54"/>significari. Nam Gregorium revera nihil adversum 
+      <lb ed="#P" n="55"/>ab aliis sensisse, satis ex eodem ipso loco manifestum 
+      <lb ed="#P" n="56"/>est, cum ait, quod filius nec cepit nasci, nec desiit: 
+      <lb ed="#P" n="57"/>Ex quo clare sequitur eum semper nasci. Augustini 
+      <lb ed="#P" n="58"/>quoque eandem esse sententiam ex suprapositis 
+      testi<lb ed="#P" n="59" break="no"/>moniis patet, maxime ex ejus commentario in Ps. 2. 
+      <lb ed="#P" n="60"/>ad illud: Ego hodie genui te, &amp; ex epistola 147. ubi 
+      <lb ed="#P" n="61"/>illud semper nasci, sieut &amp; semper gignere, non 
+      gra<lb ed="#P" n="62" break="no"/>vatim admittit, modo ne cogitetur imperfectio. 
+      De<lb ed="#P" n="63" break="no"/>nique planius eam rem explicat serm. 12. de 
+      tempo<lb ed="#P" n="64" break="no"/>re. Utrumque igitur vere &amp; recte dicitur, filius Dei 
+      <lb ed="#P" n="65"/>semper nascens, &amp; semper natus, submota tamen 
+      <lb ed="#P" n="66"/>utrinque omni cogitatione imperfectionis, ne vel 
+      <lb ed="#P" n="67"/>successu temporis perfici putetur ejus nativitas, dum 
+      <lb ed="#P" n="68"/>dicitur semper nasci, vel ita perfecta cogitetur, ut 
+      <lb ed="#P" n="69"/>jam praesens non sit, sed in praeteritum abierit, per 
+      <lb ed="#P" n="70"/>hoc quod dicitur semper natus. Nec facile dixerim 
+      <lb ed="#P" n="71"/>utrum rectius dicatur, semper natus est, an semper 
+      <lb ed="#P" n="72"/>nascitur; etiam si non ignorem Magistrum §. O 
+      prae<lb ed="#P" n="73" break="no"/>eligere semper natum velut congruentius dictum. 
+      <lb ed="#P" n="74"/>Quem in hoc sequitur S. Thomas super hanc 
+      distin<lb ed="#P" n="75" break="no"/>ctionem &amp; 1. q. 42. art. 2. ad ultimum. Sed diversum. 
+      <!--0065.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="76"/>suadet tum perfectio verbi praesentis aeternitati 
+      si<lb ed="#P" n="77" break="no"/>gnificandae congruentis, tum authoritas 
+      Latera<lb ed="#P" n="78" break="no"/>nensis concilii, quod in decreto fidei maluit uti 
+      <lb ed="#P" n="79"/>verbis potius praesens, quam praeteritum 
+      significan<lb ed="#P" n="80" break="no"/>tibus. Itaque revera perfectior est significatio 
+      dicen<lb ed="#P" n="81" break="no"/>tis semper nascitur, licet in auribus vulgi perfectius 
+      <lb ed="#P" n="82"/>sonet semper natus est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

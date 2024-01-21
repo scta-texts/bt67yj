@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="129"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k48537"><!-- l1d40c8" -->
+            <head xml:id="bt67yj-k48537-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-k48537-Hd1e103" type="question-title">Utrum praedestinatio ad gloriam prior sit ea, 
+      quae ad gratiam</head>
+            <p xml:id="bt67yj-k48537-d1e106">
+               <lb ed="#P" n="9"/>§. 8. Utrum praedestinatio ad gloriam prior sit ea, 
+          <lb ed="#P" n="10"/>quae ad gratiam? 
+    </p>
+            <p xml:id="bt67yj-k48537-d1e113">
+               <lb ed="#P" n="11"/>QUamvis in divinis omnia simul sint, nec 
+      quic<lb ed="#P" n="12" break="no"/>quam ibi possit alio prius esse aut posterius, in 
+          <lb ed="#P" n="13"/>quocunque genere causae, ac multo minus, 
+      secun<lb ed="#P" n="14" break="no"/>dum tempus; attamen secundum nostrum 
+      intelli<lb ed="#P" n="15" break="no"/>gendi modum divinis actionibus, quae aeternae sunt &amp; 
+          <lb ed="#P" n="16"/>creaturas respiciunt, ordo quidam prioris ac 
+      poste<lb ed="#P" n="17" break="no"/>rioris recte tribui solet. Cum autem nostro 
+      intelli<lb ed="#P" n="18" break="no"/>gendi modo idem respectu ejusdem prius ac 
+      poste<lb ed="#P" n="19" break="no"/>rius esse contingat in diversis causarum generibus; 
+          <lb ed="#P" n="20"/>dicere etiam possumus Deum intelligere, aut velle, 
+          <lb ed="#P" n="21"/>aut praeordinare aliquid alio prius simul &amp; 
+      poste<lb ed="#P" n="22" break="no"/>rius, secundum diversa causarum genera: Vult enim 
+          <lb ed="#P" n="23"/>prius finem quam media secundum rationem causae 
+          <lb ed="#P" n="24"/>finalis; &amp; contra, vult prius media quam finem 
+      se<lb ed="#P" n="25" break="no"/>cundum rationem causae materialis ac disponentis ad 
+          <lb ed="#P" n="26"/>finem. Verum quia finis absolute causarum prima est 
+          <lb ed="#P" n="27"/>in ratione causandi. (Est enim finis prius in 
+      intentio<lb ed="#P" n="28" break="no"/>ne &amp; propter ipsum omnia agunt, &amp; ipso cessante 
+      ces<lb ed="#P" n="29" break="no"/>sat omnis actio: cum finis sit optimum &amp; id cujus 
+          <lb ed="#P" n="30"/>gratia respectu mediorum) idcirco absolute prioritas 
+          <lb ed="#P" n="31"/>causae finalis respectu providentiae divinae, primum 
+          <lb ed="#P" n="32"/>locum habere debet in ordine intelligentiae nostrae. 
+          <lb ed="#P" n="33"/>Quoniam ergo gratia ad gloriam ordinatur 
+      tan<lb ed="#P" n="34" break="no"/>quam ad finem, non contra, propterea dicendum 
+          <lb ed="#P" n="35"/>est absolute praedestinationem hominum ad gloriam 
+          <lb ed="#P" n="36"/>priorem esse ea, qua praeordinati sunt ad gratiam, 
+          <lb ed="#P" n="37"/>id est, Deum homines prius ad gloriam 
+      praedestinas<lb ed="#P" n="38" break="no"/>se quam ad gratiam, quâ tanquam medio quodam 
+          <lb ed="#P" n="39"/>gloriam consequerentur. Prius enim quisque vult 
+      fi<lb ed="#P" n="40" break="no"/>nem, quam media, ut sanitatem quam pharmacum, 
+          <lb ed="#P" n="41"/>doctrinam quam studium, non obstante eo quod 
+          <lb ed="#P" n="42"/>media quandam aliam habeant rationem prioritatis 
+          <lb ed="#P" n="43"/>respectu finis.
+    </p>
+            <p xml:id="bt67yj-k48537-d1e187">
+               <lb ed="#P" n="44"/>Unde patet quid respondendum sit ad hoc 
+      argu<lb ed="#P" n="45" break="no"/>mentum. Quem ordinem res habet in esse, eum habet 
+          <lb ed="#P" n="46"/>in conceptu mentis, &amp; in providentia Dei; ergo sicut 
+          <lb ed="#P" n="47"/>in esse prior est gratia quam gloria, sic &amp; in 
+      praede<lb ed="#P" n="48" break="no"/>stinatione Dei. Respondetur enim etiam in esse, non 
+          <lb ed="#P" n="49"/>quidem ordine temporis, sed ordine dignitatis, quae 
+          <lb ed="#P" n="50"/>causis convenit respectu effectuum &amp; inter se, finem 
+          <lb ed="#P" n="51"/>esse omnium primum, ut jam dictum est. Quamquam 
+          <lb ed="#P" n="52"/>etiam verum est, quod eundem ordinem res habeat in 
+          <lb ed="#P" n="53"/>Dei providentia, quem habet in esse, scilicet, hoc 
+          <lb ed="#P" n="54"/>sensu; quia Deus ab aeterno providit &amp; decrevit ut 
+          <lb ed="#P" n="55"/>res in esse, hunc ordinem temporis habeat.
+    </p>
+            <p xml:id="bt67yj-k48537-d1e217">
+               <lb ed="#P" n="56"/>Hanc autem quam diximus, hujus doctrinae 
+      ratio<lb ed="#P" n="57" break="no"/>nem indicat S. Thom. 1. quaest. 23. art. 4. cum dicit 
+          <lb ed="#P" n="58"/>praedestinationem esse providentiae partem; 
+      Provi<lb ed="#P" n="59" break="no"/>dentiam autem esse praeceptivam ordinationis 
+      ali<lb ed="#P" n="60" break="no"/>quorum in finem: Nihil autem praecipi ordinandum 
+          <lb ed="#P" n="61"/>in finem nisi praeexistente voluntate finis. Unde, 
+      in<lb ed="#P" n="62" break="no"/>quit, praedestinatio aliquorum in salutem aeternam 
+      prae<lb ed="#P" n="63" break="no"/>supponit secundum rationem, quod Deus illorum velit 
+          <lb ed="#P" n="64"/>salutem. 
+    </p>
+            <p xml:id="bt67yj-k48537-d1e239">
+               <lb ed="#P" n="65"/>Ubi illud, secundum rationem, idem est cum eo 
+          <lb ed="#P" n="66"/>quod nos dicimus, secundum nostrum intelligendi 
+          <lb ed="#P" n="67"/>modum. Rursus eam rationem indicat quaestione 24. 
+          <lb ed="#P" n="68"/>art. 2. ubi ex professo docet librum vitae proprie 
+      re<lb ed="#P" n="69" break="no"/>spicere vitam gloriae, &amp; ad vitam gratiae, inquit, non 
+          <lb ed="#P" n="70"/>dicitur aliquis eligi nisi in quantum vita gratiae 
+      ordi<lb ed="#P" n="71" break="no"/>natur ad gloriam, eo quod vita gratiae non habeat ratio 
+          <!--0152.xml-->
+          <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>nem finis. sed ejus quod est ad finem. Id autem ad quod 
+          <lb ed="#P" n="73"/>eligitur aliquis, habet rationem finis.
+    </p>
+            <p xml:id="bt67yj-k48537-d1e265">
+               <lb ed="#P" n="74"/>Caeterum explicatius eandem rationem tradit 
+      Sco<lb ed="#P" n="75" break="no"/>tus ad dist. 41. his verbis: Volens ordinate finem &amp; 
+          <lb ed="#P" n="76"/>ea quae sunt ad finem, prius vult finem quam aliquod 
+          <lb ed="#P" n="77"/>entium ad finem, quia propter finem alia vult: Ergo 
+          <lb ed="#P" n="78"/>cum in toto processu quo creatura beatificabilis 
+      perdu<lb ed="#P" n="79" break="no"/>citur ad perfectum finem, finis ultimus sit beatitudo 
+          <lb ed="#P" n="80"/>perfecta, Deus volens huic aliquid istius ordinis, 
+      pri<lb ed="#P" n="81" break="no"/>mo vult huic creaturae beatificabili finem, &amp; quasi 
+      po<lb ed="#P" n="82" break="no"/>sterius vult ei alia, quae sunt in ordine illorum quae 
+      per<lb ed="#P" n="83" break="no"/>tinent ad illum finem. Sed gratia, fides, merita &amp; 
+      bo<lb ed="#P" n="84" break="no"/>nus usus liberi arbitrii, omnia ad istum finem sunt 
+      or<lb ed="#P" n="85" break="no"/>dinata, licet quaedam remotius &amp; quaedam 
+      propin<lb ed="#P" n="86" break="no"/>quius; ergo prius vult isti Deus beatitudinem, quam 
+          <lb ed="#P" n="87"/>aliquid illorum, &amp; prius vult ei quodcunque istorum, 
+          <lb ed="#P" n="88"/>quam praevideat ipsum habiturum quodcunque 
+      isto<lb ed="#P" n="89" break="no"/>rum; igitur propter nullum istorum praevisum vult ei 
+          <lb ed="#P" n="90"/>beatitudinem. Hactenus ille. 
+    </p>
+            <p xml:id="bt67yj-k48537-d1e304">
+               <lb ed="#P" n="91"/>Quae doctrina scripturis &amp; patribus valde 
+      consen<lb ed="#P" n="92" break="no"/>tanca est. Sic enim scriptum est Act. 13. Et 
+      credide<lb ed="#P" n="93" break="no"/>rum quotquot erant praeordinati ad vitam aternam. 
+          <lb ed="#P" n="94"/>Quae verba satis aperte significant praeordinationem 
+          <lb ed="#P" n="95"/>ad vitam, fuisse causam donandae illis fidei, qui sic 
+          <lb ed="#P" n="96"/>erant praeordinati; quasi diceretur, Deus 
+      praeordina<lb ed="#P" n="97" break="no"/>vit eos ad vitam, tanquam ad ultimum eorum finem. 
+          <lb ed="#P" n="98"/>Sed quia ad hunc finem statuit non perveniri posse, 
+          <lb ed="#P" n="99"/>nisi per certa media, ideo iisdem etiam illa media 
+      pro<lb ed="#P" n="100" break="no"/>vidit ac praepara vit, atque in tempore suppeditavit 
+          <lb ed="#P" n="101"/>&amp; contulit, inter quae primum est fides. 
+          <lb ed="#P" n="102"/>Alter locus est Rom. 8. Quos autem praedestinavit, 
+          <lb ed="#P" n="103"/>hos &amp; vocavit, &amp; justificavit, &amp; glorificavit. Quae 
+      ver<lb ed="#P" n="104" break="no"/>ba primum significant ordinem finis ac mediorum, 
+          <lb ed="#P" n="105"/>deinde &amp; mediorum inter se. Sensus enim est. Quos 
+          <lb ed="#P" n="106"/>Deus ab aeterno praedestinavit ad vitam, iis in 
+      tem<lb ed="#P" n="107" break="no"/>pore media confert ad illum finem ducentia, &amp; per 
+          <lb ed="#P" n="108"/>haec tandem eos ad ipsum finem perduxit.
+    </p>
+            <p xml:id="bt67yj-k48537-d1e346">
+               <lb ed="#P" n="109"/>Nec obstat quod non dicitur, praedestinavit ad 
+      vi<lb ed="#P" n="110" break="no"/>tam, sive ad gloriam, sed praedestinavit conformes 
+          <lb ed="#P" n="111"/>fieri imaginis filii sui, quasi praedestinatio ad 
+      gra<lb ed="#P" n="112" break="no"/>tiam hujus vitae, iis verbis significata sit. Intelligitur 
+          <lb ed="#P" n="113"/>enim perfecta conformitas quae est futuri saeculi, 
+          <lb ed="#P" n="114"/>quam &amp; gloriae nomine statim exposuit, dicens, hos 
+          <lb ed="#P" n="115"/>&amp; olorificavit. De qua conformitate dicit idem 
+      Apo<lb ed="#P" n="116" break="no"/>stosus I Cor. 15. Qualis caelestis, tales &amp; calestes. De 
+          <lb ed="#P" n="117"/>qua &amp; Joan. 1. ep. 3. Cum apparuerit similes ei erimus. 
+          <lb ed="#P" n="118"/>Denique sic dictum est. Quos praedestinavit, hos &amp; 
+          <lb ed="#P" n="119"/>vocavit, quomodo sequenti capite dicitur, quod 
+          <lb ed="#P" n="120"/>vasa misericordiae praeparavit Deus in gloriam, ac 
+          <lb ed="#P" n="121"/>deinde subjungitur. Quos &amp; vocavit, &amp;c. scilicet ad 
+          <lb ed="#P" n="122"/>significandum praeparationem ad gloriam, esse 
+      prio<lb ed="#P" n="123" break="no"/>rem proposito vocandi ad fidem. 
+    </p>
+            <p xml:id="bt67yj-k48537-d1e381">
+               <lb ed="#P" n="124"/>Quem ordinem illud etiam convincit, quod eodem 
+          <lb ed="#P" n="125"/>cap. 9. Apost. docet Jacob in figura praedestinatorum 
+          <lb ed="#P" n="126"/>cum nundum natus esset, nec quicquam boni egisset, 
+      fuis<lb ed="#P" n="127" break="no"/>se prae fratre majore, a Deo dilectum. Per hoc enim 
+      si<lb ed="#P" n="128" break="no"/>gnificari vult prius esse ut diligantur &amp; 
+      praedestinen<lb ed="#P" n="129" break="no"/>tur homines ad gloriam, quam habeatur consideratio 
+          <lb ed="#P" n="130"/>operum ac meritorum, quibus ad gloriam sint 
+      eve<lb ed="#P" n="131" break="no"/>hendi. Hoc est enim quod addit: Non ex operibus sed 
+          <lb ed="#P" n="132"/>ex vocante, Idque voluit in figura Moyses quando 
+      di<lb ed="#P" n="133" break="no"/>xit ad filios Israël Deut. 9. Ne dicas in corde tuo: 
+      Pro<lb ed="#P" n="134" break="no"/>pter justitiam meam introduxit me Dominus ut terram 
+          <lb ed="#P" n="135"/>hanc possiderem: Neque enim propter justitias tuas 
+      in<lb ed="#P" n="136" break="no"/>gredieris, &amp;c. Sed ut compleret verbum suum Dominus, 
+          <lb ed="#P" n="137"/>&amp;c. Nam terra promissionis figura quaedam fuit 
+      hae<lb ed="#P" n="138" break="no"/>reditatis caelestis omnibus electis promissae. Unde &amp; 
+          <lb ed="#P" n="139"/>fatendum est eligi seu praedestinari homines ad 
+      glo<lb ed="#P" n="140" break="no"/>riam immediate atque independenter a praevisione 
+          <lb ed="#P" n="141"/>meritorum, seu praedestinatione gratiae. Quod ex iis 
+          <lb ed="#P" n="142"/>quae proxima distinctione dicentur magis elucescet. 
+    </p>
+            <p xml:id="bt67yj-k48537-d1e426">
+               <lb ed="#P" n="143"/>Sed nunc ex Augustino eandem doctrinam 
+      bre<lb ed="#P" n="144" break="no"/>viter confirmemus. Docet ille lib. 1. ad Simpl. q. 
+          <lb ed="#P" n="145"/>2. ex loco jam citato Roman. 9. Jacob non fuisse 
+      <!--0153.xml-->
+      <pb ed="#P" n="130"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dilectum, id est, praedestinatum ad vitam ex justitiae 
+      <lb ed="#P" n="2"/>merito, ne quidem ejus justitiae quae est ex 
+      fide<lb ed="#P" n="3" break="no"/>Quod ipsum pluribus verbis docet ench. 98. inter 
+      <lb ed="#P" n="4"/>alia diserte affirmans sine ullis bonorum operum 
+      me<lb ed="#P" n="5" break="no"/>ritis, ne futuris quidem ac praevisis, Jacob dilectum 
+      <lb ed="#P" n="6"/>fuisse, &amp; ad hoc etiam illud Apostoli adducit: Non 
+      <lb ed="#P" n="7"/>est volentis neque currentis, sed miserentis Dei. 
+      Intel<lb ed="#P" n="8" break="no"/>ligit autem opera qualiacunque, etiam ea quae fiunt 
+      <lb ed="#P" n="9"/>ex gratia, cujusmodi fuerunt opera quae Jacob 
+      post<lb ed="#P" n="10" break="no"/>ea fecit. Idem lib. 2. contra 2. ep. Pel. cap. 7. 
+      rur<lb ed="#P" n="11" break="no"/>sum illa Apostoli verba: non ex operibus, sed ex 
+      vo<lb ed="#P" n="12" break="no"/>cante, adducit &amp; urget, ut doceat non ex futuris 
+      <lb ed="#P" n="13"/>operibus Jacob esse dilectum, id est homines ad 
+      aeter<lb ed="#P" n="14" break="no"/>nam vitam praedestinari. Quod verum non esset si haec 
+      <lb ed="#P" n="15"/>praedestinatio praeviam requireret operum 
+      quorum<lb ed="#P" n="16" break="no"/>cunque considerationem. Ejusdem Augustini apertus 
+      <lb ed="#P" n="17"/>locus est quaest. 38. in Genes. Vide quae infra 
+      nota<lb ed="#P" n="18" break="no"/>vimus ad sequentem distinctionem cap. an 
+      praedesti<lb ed="#P" n="19" break="no"/>natio conjunctum habeat respectum, &amp;c. Augustino 
+      <lb ed="#P" n="20"/>plane subscribit Fulgentius lib. I. ad Monymum cap. 
+      <lb ed="#P" n="21"/>13. dicens Deum: quos praedestinavit ad vitam, 
+      eos<lb ed="#P" n="22" break="no"/>dem etiam praedestinasse ad justitiam. Et lib. de fide 
+      <lb ed="#P" n="23"/>ad Pet. cap. 3. respiciens ad locum Apostoli Rom. 8. 
+      <lb ed="#P" n="24"/>Illi, inquit, cum Christo regnabunt, quos Deus 
+      gra<lb ed="#P" n="25" break="no"/>tuita sua bonitate prae lestinavit ad regnum. Quia 
+      <lb ed="#P" n="26"/>enim tales praedestinando praeparavit, ut regno digni 
+      <lb ed="#P" n="27"/>essent; praeparavit utique secundum propositum 
+      vocan<lb ed="#P" n="28" break="no"/>dos, ut obediant; praeparavit justificandos ut accepta 
+      <lb ed="#P" n="29"/>gratia recte credant &amp; bene vivant; praeparavit 
+      <lb ed="#P" n="30"/>etiam glorificandos, ut Christi haeredes effecti 
+      re<lb ed="#P" n="31" break="no"/>gnum caelorum sine fine possi deant. 
+    </p>
+            <p xml:id="bt67yj-k48537-d1e509">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Eundem hunc ordinem <ref xml:id="bt67yj-k48537-Rd1e515">Leo serm. 2. de nativitate 
+      <lb ed="#P" n="33"/>Domini</ref> manifeste significavit his verbis. <quote xml:id="bt67yj-k48537-Qd1e520">Opus fuit 
+      <lb ed="#P" n="34"/>secreti dispensatione consilii, ut incommutabilis Deus, 
+      <lb ed="#P" n="35"/>cujus voluntas non potest sua benignitate privari, 
+      pri<lb ed="#P" n="36" break="no"/>mam pietatis suae dispositionem sacramento occultiore 
+      <lb ed="#P" n="37"/>compleret, &amp; homo diabolicae iniquitatis versutia 
+      <lb ed="#P" n="38"/>actus in culpam, contra Dei propositum non periret.</quote>
+               <lb ed="#P" n="39"/>Quae pontificis verba non tantum ostendunt 
+      pri<lb ed="#P" n="40" break="no"/>mam dispositionem ac propositum Dei fuisse de 
+      sal<lb ed="#P" n="41" break="no"/>vando homine; secundum autem de mediis ad 
+      salu<lb ed="#P" n="42" break="no"/>tem; verum etiam probant praedestinationem 
+      homi<lb ed="#P" n="43" break="no"/>num ad salutem, priorem esse consideratione lapsus 
+      <lb ed="#P" n="44"/>ac miscriae in quam incidit humanum genus. Voluit 
+      <lb ed="#P" n="45"/>enim Deus ex hominibus aliquos ad gioriam 
+      perdu<lb ed="#P" n="46" break="no"/>cere. Ut autem id faceret, mirabilius ac gloriosius 
+      <lb ed="#P" n="47"/>permittere voluit lapsum Adae, &amp; in eo totius 
+      huma<lb ed="#P" n="48" break="no"/>ni generis ruinam, scilicet ut sic ejus misericordia 
+      <lb ed="#P" n="49"/>&amp; eminens gratia, quae indignis ac male meritis 
+      <lb ed="#P" n="50"/>datur (quod in angelis locum non habuit) &amp; 
+      in<lb ed="#P" n="51" break="no"/>super mirabilis ejus sapientia, in opere salutis 
+      hu<lb ed="#P" n="52" break="no"/>manae ostenderetur. 
+    </p>
+            <p xml:id="bt67yj-k48537-d1e565">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Verum ad versus hanc doctrinam opponitur 
+      hu<lb ed="#P" n="54" break="no"/>jusmodi argumentum. Quamvis operans prius 
+      in<lb ed="#P" n="55" break="no"/>tendat mercedem quam opus, ille tamen qui 
+      ope<lb ed="#P" n="56" break="no"/>rarium conducit prius natura spectat opus ejus 
+      <lb ed="#P" n="57"/>quam mercedem illi dandam; ergo &amp; Deus, qui 
+      <lb ed="#P" n="58"/>nos in vineam suam velut operarios conducit, prius 
+      <lb ed="#P" n="59"/>respicit quid operemur aut operaturi simus, quam 
+      <lb ed="#P" n="60"/>quid nobis in fine sit donaturus. 
+    </p>
+            <p xml:id="bt67yj-k48537-d1e587">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Sed facile respondetur longe aliter rem habere in 
+      <lb ed="#P" n="62"/>Deo, atque in hominibus. Homines enim suam 
+      prae<lb ed="#P" n="63" break="no"/>cipue spectant utilitatem in conducendis operariis, 
+      <lb ed="#P" n="64"/>ideóque primum volunt opus eorum, tanquam 
+      <lb ed="#P" n="65"/>sibi utile, quod quia habere non possunt, nisi dent 
+      <lb ed="#P" n="66"/>mercedem, secundo intendunt &amp; volunt dare 
+      mer<lb ed="#P" n="67" break="no"/>cedem: At Deus non suam spectat utilitatem, ut 
+      <lb ed="#P" n="68"/>qui bonorum nostrorum non egeat; sed suam 
+      glo<lb ed="#P" n="69" break="no"/>riam &amp; nostram salutem ac felicitatem. Itaque 
+      pri<lb ed="#P" n="70" break="no"/>mo nobis ab aeterno vult beatitudinem nostram, 
+      <lb ed="#P" n="71"/>in qua ipse maxime glorificatur. Ut autem ea 
+      bea<lb ed="#P" n="72" break="no"/>titudo nobis non sine merito nostro contingat, 
+      se<lb ed="#P" n="73" break="no"/>cundo vult nobis gratiam, justitiam, bona opera, 
+      <lb ed="#P" n="74"/>per quae praeparatam felicitatem consequamur. Re¬ 
+      <!--0153.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ctius igitur Deum, gloriam &amp; gratiam nobis ab 
+      <lb ed="#P" n="76"/>aeterno praeparantem comparaveris cum homine 
+      di<lb ed="#P" n="77" break="no"/>vite ac benefico, qui pauperi volens benefacere, 
+      <lb ed="#P" n="78"/>&amp; inopiae ejus succurrere, opus aliquod ab eo exigit, 
+      <lb ed="#P" n="79"/>quo promereatur beneficium sibi dandum, cum 
+      <lb ed="#P" n="80"/>alioqui ejus opera dives fortasse non egeat. Quo 
+      ca<lb ed="#P" n="81" break="no"/>su qui conducit operarium, prius spectat 
+      sustenta<lb ed="#P" n="82" break="no"/>tionem pauperis, quam opus ejus. Quamquam ne 
+      <lb ed="#P" n="83"/>haec quidem similitudo omnino quadrat. Multo plus 
+      <lb ed="#P" n="84"/>enim facit Deus qui non tantum praeparat omnibus 
+      <lb ed="#P" n="85"/>vitam aeternam, eamque dare constituit ut 
+      merce<lb ed="#P" n="86" break="no"/>dem, verum etiam praeparat &amp; bona ipsa opera 
+      qui<lb ed="#P" n="87" break="no"/>bus illam assequantur; quippe cujus tanta est 
+      boni<lb ed="#P" n="88" break="no"/>tas, ut nostra velit esse merita, quae sunt ipsius dona. 
+      <lb ed="#P" n="89"/>Hoc autem dives ille quantumvis beneficus, 
+      prae<lb ed="#P" n="90" break="no"/>stare pauperi non potest. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

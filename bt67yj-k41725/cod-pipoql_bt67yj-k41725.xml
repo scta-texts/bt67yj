@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="111"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k41725"><!-- l1d38c7" -->
+            <head xml:id="bt67yj-k41725-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-k41725-Hd1e103" type="question-title">Distinctio triplicis necessitatis</head>
+            <p xml:id="bt67yj-k41725-d1e106">
+               <lb ed="#P" n="56"/>§. 7. Distinctio triplicis necessitatis.
+    </p>
+            <p xml:id="bt67yj-k41725-d1e111">
+               <lb ed="#P" n="57"/>PRiusquam ad ea quae contra solent objici, 
+      dis<lb ed="#P" n="58" break="no"/>solvenda veniamus, pro majori dictorum &amp; 
+      <lb ed="#P" n="59"/>dicendorum intelligentia, triplex distinguenda est 
+      <lb ed="#P" n="60"/>necessitas. 
+    </p>
+            <p xml:id="bt67yj-k41725-d1e122">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Prima &amp; perfectissima, quam absolutam vocant, 
+      <lb ed="#P" n="62"/>qua quippiam ita est, ut non possit non esse, 
+      cujus<lb ed="#P" n="63" break="no"/>cunque demum virtute agentis. Haec necessitas soli 
+      <lb ed="#P" n="64"/>competit divinae naturae, propter ejus summam 
+      per<lb ed="#P" n="65" break="no"/>fectionem, quae mutationem nullam, ac multo 
+      mi<lb ed="#P" n="66" break="no"/>nus non esse vel ad non esse potentiam admittit. Est 
+      <lb ed="#P" n="67"/>enim ens purum nulli potentialitati admixtum. Cae 
+      <lb ed="#P" n="68"/>terae res omnes quantumcunquae perfectae ita sunt, ut 
+      <lb ed="#P" n="69"/>possint non esse, Deo qui eas fecit, manum 
+      conser<lb ed="#P" n="70" break="no"/>vatricem, si voluerit, subtrahente, &amp; 
+      quaecun<lb ed="#P" n="71" break="no"/>que futura sunt, ita futura sunt, ut possint non 
+      <lb ed="#P" n="72"/>evenire, si sic Deo visum esset. 
+      <!--0134.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Secunda necessitas naturalis est, qua nimirum 
+      ali<lb ed="#P" n="74" break="no"/>quid ita est, ut virtute naturalis agentis aliter se 
+      ha<lb ed="#P" n="75" break="no"/>bere non possit. Quae quidem latissime patet, &amp; per 
+      <lb ed="#P" n="76"/>omnia rerum genera extenditur. Nam caelestia 
+      corpo<lb ed="#P" n="77" break="no"/>ra &amp; sunt necessario secundum hunc necessitatis 
+      mo<lb ed="#P" n="78" break="no"/>dum, quia naturaliter incorruptibilia sunt, &amp; 
+      neces<lb ed="#P" n="79" break="no"/>sario moventur, sic ut a motu naturaliter impediri 
+      <lb ed="#P" n="80"/>non possint. Caetera licet non necessario existant, 
+      ut<lb ed="#P" n="81" break="no"/>pote corruptibilia, naturali tamen necessitati 
+      subji<lb ed="#P" n="82" break="no"/>ciuntur in motibus, aliisque accidentibus &amp; in ipsa 
+      <lb ed="#P" n="83"/>corruptibilitate. Nam ignis necessario calidus est, &amp; 
+      <lb ed="#P" n="84"/>necessario urit, si adsit materia, &amp; necessario sursum 
+      <lb ed="#P" n="85"/>fertur remoto impedimento, denique necessario 
+      cor<lb ed="#P" n="86" break="no"/>rumpitur a fortiori agente. Bestiae quoque etsi 
+      sen<lb ed="#P" n="87" break="no"/>suum participes, naturali necessitate feruntur in ea, 
+      <lb ed="#P" n="88"/>quae naturae &amp; sensibus ipsarum convenientia sunt. 
+      <lb ed="#P" n="89"/>Quin &amp; homines hac necessitate naturaliter impulsi, 
+      <lb ed="#P" n="90"/>miseriam fugiunt, felicitatem appetunt. Atque haec 
+      <lb ed="#P" n="91"/>necessitas in quibuscunque actionibus invenitur, 
+      ex<lb ed="#P" n="92" break="no"/>cludit ab iis eligendi libertatem. 
+    </p>
+            <p xml:id="bt67yj-k41725-d1e201">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Tertia est necessitas quam vocant consequentiae. 
+      <lb ed="#P" n="94"/>Haec enim non ipsarum rerum; sed cohaerentiae rerum 
+      <lb ed="#P" n="95"/>vel propositionum inter se necessitas est, etiamsi 
+      pro<lb ed="#P" n="96" break="no"/>positiones ipsae vel contingentes sint, vel impossibiles. 
+      <lb ed="#P" n="97"/>Id quod exemplis facile est declarare, ut si homo vel 
+      <lb ed="#P" n="98"/>lapis currit, movetur, &amp;c. Haec aliter vocatur 
+      necessi<lb ed="#P" n="99" break="no"/>tas ex hypothesi sive hypothetica necessitas, qua 
+      ni<lb ed="#P" n="100" break="no"/>mirum aliquid dicitur necessarium aliquo supposito¬ 
+    </p>
+            <p xml:id="bt67yj-k41725-d1e223">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Igitur circa hoc triplex necessitatis genus pro 
+      prae<lb ed="#P" n="102" break="no"/>senti instituto notandum, nec primam necessitatem 
+      <lb ed="#P" n="103"/>oriri ex aliqua praescientia, cum nulla eam 
+      praescien<lb ed="#P" n="104" break="no"/>tia praecedat. Nihil enim Deo prius est. Nec 
+      secun<lb ed="#P" n="105" break="no"/>dam, quia licet eam antecesserit praescientia divina, 
+      <lb ed="#P" n="106"/>non tamen illius est causa, nisi quatenus supra 
+      osten<lb ed="#P" n="107" break="no"/>sum est, scientiam Dei esse causam rerum 
+      cognita<lb ed="#P" n="108" break="no"/>rum. Estque idem judicium de tertio necessitatis 
+      ge<lb ed="#P" n="109" break="no"/>nere. Sicut enim secundum profluit ex naturalibus 
+      re<lb ed="#P" n="110" break="no"/>rum creatarum principiis, etiam nullo ad 
+      praescien<lb ed="#P" n="111" break="no"/>tiam Dei habito respectu; ita tertium resultat ex 
+      habi<lb ed="#P" n="112" break="no"/>tudine quadam rerum vel propositionum inter se¬ 
+    </p>
+            <p xml:id="bt67yj-k41725-d1e254">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Ex quibus concludimus praescientiam Dei, 
+      quate<lb ed="#P" n="114" break="no"/>nus nuda praescientia est, nullius necessitatis in 
+      quo<lb ed="#P" n="115" break="no"/>cunque rerum genere causam esse.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="17"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k06279"><!-- l1d3c8" -->
+            <head xml:id="bt67yj-k06279-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-k06279-Hd1e103" type="question-title">Quaedam in contrarium argumenta 
+        solvuntur</head>
+            <p xml:id="bt67yj-k06279-d1e106">
+               <lb ed="#P" n="98"/>§. 8. Quaedam in contrarium argumenta 
+      <lb ed="#P" n="99"/>solvuntur.
+    </p>
+            <p xml:id="bt67yj-k06279-d1e113">
+               <lb ed="#P" n="100"/>ADversus superiorem doctrinam quaedam 
+      ob<lb ed="#P" n="101" break="no"/>jici solent: Primum quod creaturis omnibus, 
+      <lb ed="#P" n="102"/>ut modo diximus, impressa sunt vestigia trinitatis, 
+      <lb ed="#P" n="103"/>imo &amp; quibusdam impressa trinitatis imago, 
+      quem<lb ed="#P" n="104" break="no"/>admodum postea dicetur: atqui ex vestigio 
+      tan<lb ed="#P" n="105" break="no"/>quam sensibili effectu fera cognoscitur ac 
+      deprehen<lb ed="#P" n="106" break="no"/>ditur, &amp; ex imagine agnoscitur ille cujus est imago; 
+      <lb ed="#P" n="107"/>licebit igitur &amp; sacro sanctam trinitatem simile 
+      de<lb ed="#P" n="108" break="no"/>monstrationis modo cognoscere ex creaturis. Quam 
+      <lb ed="#P" n="109"/>collectionem confirmare videtur Aug. lib. 6. de 
+      tri<lb ed="#P" n="110" break="no"/>nitate capite decimo, dum ex eo quod in creaturis 
+      <lb ed="#P" n="111"/>apparet vestigium trinitatis, docet nos non 
+      creato<lb ed="#P" n="112" break="no"/>rem tantum, sed &amp; trinitatem per ea quae facta sunt 
+      <lb ed="#P" n="113"/>intelligere. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e146">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Secundum, Isaiae ultimo, Dominus naturali 
+      ratio<lb ed="#P" n="115" break="no"/>ne probat se generare &amp; proinde filium habere 
+      di<lb ed="#P" n="116" break="no"/>cens: Nunquid ego qui alios parere facio, ipse non 
+      pa<lb ed="#P" n="117" break="no"/>riam? &amp; si ego qui generationem caeteris tribuo, 
+      ste<lb ed="#P" n="118" break="no"/>rilis ero? 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e163">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Tertium, Naturali ratione scire possumus a Deo 
+      <lb ed="#P" n="120"/>procedere cognitionem &amp; amorem, quodque haec 
+      <lb ed="#P" n="121"/>duo non sint aliud a Deo, sed unum &amp; idem cum 
+      <lb ed="#P" n="122"/>ejus essentia. Si quidem naturali ratione 
+      cognosci<lb ed="#P" n="123" break="no"/>tur nullum esse accidens in Deo, sed quicquid in eo 
+      <lb ed="#P" n="124"/>est, essentiam ejus esse: Igitur processio filii per 
+      mo<lb ed="#P" n="125" break="no"/>dum conceptus &amp; Spiritus sancti per modum amoris 
+      <lb ed="#P" n="126"/>naturaliter intelligi potest ac demonstrari. Et 
+      hujus<lb ed="#P" n="127" break="no"/>modi ratione docet S. Thomas prima parte 
+      quaestio<lb ed="#P" n="128" break="no"/>ne 27. art. 1. in corpore; &amp; ad tertium 
+      processio<lb ed="#P" n="129" break="no"/>nem esse in divinis, eamque duplicem ex qua 
+      se<lb ed="#P" n="130" break="no"/>quitur trinitas personarum. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e194">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Quartum, Summa veritas est per se maxime 
+      cognos<lb ed="#P" n="132" break="no"/>cibilis; atqui Deus trinus &amp; unus est summa veritas; 
+      <lb ed="#P" n="133"/>ergo est per se maxime cognoscibilis, &amp; proinde in 
+      <lb ed="#P" n="134"/>ejus cognitionem ratione naturali poterit perveniri. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e207">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Quinto, Profertur hujusmodi demonstratio: 
+      <lb ed="#P" n="136"/>Mundus factus est summa potentia; ergo Pater est; 
+      <lb ed="#P" n="137"/>summa sapientia: ergo Filius est, &amp; summa 
+      boni<lb ed="#P" n="138" break="no"/>tate; ergo Spiritus sanctus est. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e220">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Sexto, Richardus a sancto Victore lib. 1. de trinit. 
+      <lb ed="#P" n="140"/>cap. 4. Ad omnia, inquit, quae credere oportet non 
+      <lb ed="#P" n="141"/>deest ratio non solum probabilis, sed necessaria. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e231">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Septimo, in Historia S. Caeciliae, Tiburtinus 
+      vir<lb ed="#P" n="143" break="no"/>gini gratias agit, quod cito unum esse Deum in 
+      tri<lb ed="#P" n="144" break="no"/>bus personis ei per rationes aperte probasset.
+    </p>
+            <p xml:id="bt67yj-k06279-d1e242">
+      <!--0041.xml-->
+               <pb ed="#P" n="18"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>
+               <pc type="indent"/> Octavo, Glossa quaedam super illud Roman. 
+      pri<lb ed="#P" n="2" break="no"/>mo, Invisibilia Dei, &amp;c. teste S. Thoma super 
+      cun<lb ed="#P" n="3" break="no"/>dem locum dicit, quod per invisibilia Dei 
+      intelligi<lb ed="#P" n="4" break="no"/>tur Persona Patris, &amp; per sempiternam virtutem 
+      <lb ed="#P" n="5"/>Persona Filii, &amp; per divinitatem Persona Spiritus 
+      <lb ed="#P" n="6"/>sancti; significat ergo Philosophos in cognitionem 
+      <lb ed="#P" n="7"/>trium Personarum ex visibilium contemplatione 
+      <lb ed="#P" n="8"/>pervenisse. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e272">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Postremo probatur hoc ipsum de Philosophis 
+      <lb ed="#P" n="10"/>ex Augustino qui libro 10. de Civitate capite 23. 
+      te<lb ed="#P" n="11" break="no"/>statur Porphyrium &amp; Plotinum Platonicos in 
+      di<lb ed="#P" n="12" break="no"/>vinis cognovisse Patrem &amp; Filium; Quod quidem 
+      <lb ed="#P" n="13"/>illi accepisse videntur ex libro sexto Platonis de 
+      re<lb ed="#P" n="14" break="no"/>publica, ubi bono tanquam Patri filium tribuit eil 
+      <lb ed="#P" n="15"/>simillimum. Eodem loco Augustinus etiam 
+      Spi<lb ed="#P" n="16" break="no"/>ritus sancti quandam notitiam iisdem Philosophis 
+      <lb ed="#P" n="17"/>tribuere videtur. Sed &amp; in commentario illius 
+      <lb ed="#P" n="18"/>loci Ludovicus Vives inter alia commemorat 
+      ora<lb ed="#P" n="19" break="no"/>culum quoddam Serapidis, in quo expresse 
+      nomi<lb ed="#P" n="20" break="no"/>nantur Pater, Filius &amp; Spiritus sanctus. Ac rursum 
+      <lb ed="#P" n="21"/>Augustin. libro 7. confessionum cap. 9. legisse se 
+      <lb ed="#P" n="22"/>scribit in libris Platonicorum exordium illud 
+      Evan<lb ed="#P" n="23" break="no"/>gelii secundum Joannem: In principio erat verbum, 
+      <lb ed="#P" n="24"/>&amp;c. non quidem his verbis, sed hoc idem omnino 
+      <lb ed="#P" n="25"/>multis &amp; multiplicibus suaderi rationibus, quod in 
+      <lb ed="#P" n="26"/>principio erat verbum, &amp; quae sequuntur. De quo 
+      <lb ed="#P" n="27"/>exordio testatur idem Augustinus lib. 10. de 
+      Civi<lb ed="#P" n="28" break="no"/>tate cap. 29. Dicere solitum quendam Platonicum, 
+      <lb ed="#P" n="29"/>dignum illud esse quod aureis litteris conscriptum 
+      <lb ed="#P" n="30"/>per omnes Ecclesias in locis eminentissimis 
+      legen<lb ed="#P" n="31" break="no"/>dum proponeretur. Quin &amp; tractatu 2. in 
+      Joan<lb ed="#P" n="32" break="no"/>nem, dicit multos Philosophos, id quod est in 
+      <lb ed="#P" n="33"/>principio verbum vidisse, quod caeteri tantum 
+      cre<lb ed="#P" n="34" break="no"/>dunt &amp; non vident. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e333">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Praeterea refert <sic>Suidas</sic> de Hermete Trismegisto, 
+      <lb ed="#P" n="36"/>quod agnoverit &amp; scripserit Trinitatem in una 
+      di<lb ed="#P" n="37" break="no"/>vinitate. Commemorat &amp; Lactantius lib. 4. divin. 
+      <lb ed="#P" n="38"/>institut. cap. 5. testimonia quaedam de filio Dei ex 
+      <lb ed="#P" n="39"/>libris ejusdem Hermetis, &amp; ex versibus 
+      Sybilla<lb ed="#P" n="40" break="no"/>rum, &amp; cap. 9. verbum Dei ne Philosophis quidem 
+      <lb ed="#P" n="41"/>ignoratum fuisse, Zenonis Philosophi exemplo 
+      <lb ed="#P" n="42"/>confirmat. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e357">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Sed ad haec ita respondemus. De primo quidem, 
+      <lb ed="#P" n="44"/>cum vestigium &amp; imago sint tantum similitudines 
+      <lb ed="#P" n="45"/>rerum, non posse ex iis id demonstrari cujus sunt 
+      si<lb ed="#P" n="46" break="no"/>militudines. Nam similitudo declarat quidem, sed 
+      <lb ed="#P" n="47"/>non probat, hoc est, si res prius cognita fuerit aut 
+      <lb ed="#P" n="48"/>credita, tum adjuncta similitudine magis 
+      illustrabi<lb ed="#P" n="49" break="no"/>tur; at si prorsus sit ignota, non poterit in 
+      cogni<lb ed="#P" n="50" break="no"/>tionem nostram res ea cadere per similitudinem: 
+      <lb ed="#P" n="51"/>velut si quis nunquam viderit regem vel leonem 
+      ne<lb ed="#P" n="52" break="no"/>que quicquam de iis legerit vel audierit, is leonem ex 
+      <lb ed="#P" n="53"/>solo vestigio, aut regem ex sola imagine cognoscere 
+      <lb ed="#P" n="54"/>nunquam poterit. Neque omnino sciet haec ipsa esse 
+      <lb ed="#P" n="55"/>aliquarum rerum similitudines. Ad eundem 
+      mo<lb ed="#P" n="56" break="no"/>dum, qui Trinitatem prorsus ignorat in ejus 
+      cogni<lb ed="#P" n="57" break="no"/>tionem ex creaturis tanquam signis, duci non 
+      po<lb ed="#P" n="58" break="no"/>terit. Sed si jam ante fide Trinitatis imbutus fuerit, 
+      <lb ed="#P" n="59"/>ejus imaginem &amp; vestigia quaedam in rebus 
+      depre<lb ed="#P" n="60" break="no"/>hendet, per quae fides praeconcepta firmetur atque 
+      <lb ed="#P" n="61"/>augeatur. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e403">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Ad secundum loquitur apud prophetam Dominus 
+      <lb ed="#P" n="63"/>de generatione filiorum per adoptionem, &amp; de 
+      mul<lb ed="#P" n="64" break="no"/>tiplicatione filiorum Ecclesiae. Nec firma est de 
+      gene<lb ed="#P" n="65" break="no"/>ratione naturali, quamvis interdum a Patribus ad 
+      <lb ed="#P" n="66"/>eam accommodetur, quia posito per impossibile 
+      <lb ed="#P" n="67"/>quod Deus non habeat filium, adhuc per 
+      omnipo<lb ed="#P" n="68" break="no"/>tentiam suam poterit res producere &amp; rebus dare 
+      fe<lb ed="#P" n="69" break="no"/>cunditatem. Mirum est autem in hoc argumento 
+      <lb ed="#P" n="70"/>solvendo laborare Altisiodorensem, cum non aliud 
+      <lb ed="#P" n="71"/>quam congruentiam quandam, de qua superiori 
+      <lb ed="#P" n="72"/>capite, concludere ex eo liceat. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e432">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Tertium argumentum non aliud probat quam 
+      <lb ed="#P" n="74"/>eandem essentiam cognitionis &amp; amoris divini cum 
+      <!--0041.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ipso Deo, quia demonstrari potest in Deo non esse 
+      <lb ed="#P" n="76"/>accidens; sed non inde sequitur demonstrative 
+      Per<lb ed="#P" n="77" break="no"/>sonarum distinctio. Nam &amp; filius cognoscit &amp; amat, 
+      <lb ed="#P" n="78"/>&amp; Spiritus sanctus; nec tamen filii est filius, nec 
+      Spi<lb ed="#P" n="79" break="no"/>
+            </p>
+            <p xml:id="bt67yj-k06279-d1e456">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Ad quartum, summa veritas per se quidem &amp; 
+      <lb ed="#P" n="81"/>proinde ad supremum intellectum, id est divinum, 
+      <lb ed="#P" n="82"/>est maxime cognoscibilis, non autem in ordine ad 
+      <lb ed="#P" n="83"/>intellectum creatum, praesertim humanum. Sed 
+      <lb ed="#P" n="84"/>summae veritatis, quoad unitatem deitatis, haberi 
+      <lb ed="#P" n="85"/>potest a nobis cognitio ex creaturis, quoad 
+      Trinita<lb ed="#P" n="86" break="no"/>tem vero, non nisi per revelationem. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e477">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Quod quinto loco propositum est minime 
+      demon<lb ed="#P" n="88" break="no"/>strat, quia tria ista potentia, sapientia, bonitas, etsi 
+      <lb ed="#P" n="89"/>quadam ratione approprientur singula singulis 
+      <lb ed="#P" n="90"/>Personis, de qua re suo loco dicemus, revera tamen 
+      <lb ed="#P" n="91"/>tribus Personis sunt communia, nec minus perfecte 
+      <lb ed="#P" n="92"/>in una earum reperiuntur quam in alia: 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e495">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Ad sextum respondet S. Thomas de veritate qu. 
+      <lb ed="#P" n="94"/>14. art. 9. ad primum. Sententiam Richardi 
+      intelli<lb ed="#P" n="95" break="no"/>gendam de omni credibili quod non est per se notum. 
+      <lb ed="#P" n="96"/>De omni enim tali habetur ratio non solum 
+      probabi<lb ed="#P" n="97" break="no"/>lis, sed etiam necessaria, quamvis eam nostram 
+      prae<lb ed="#P" n="98" break="no"/>sentiam contingat latere, ut ibidem addit 
+      Richar<lb ed="#P" n="99" break="no"/>dus. Unde (inquit S. Thomas) rationes 
+      credibi<lb ed="#P" n="100" break="no"/>lium sunt ignotae nobis sed notae Deo &amp; beatis, qui 
+      <lb ed="#P" n="101"/>de his non fidem sed visionem habent. At verior 
+      res<lb ed="#P" n="102" break="no"/>ponsio est Richardum ita quidem sensisse, ut liquet 
+      <lb ed="#P" n="103"/>ex sequentibus, &amp; maxime libro tertio &amp; deinceps, 
+      <lb ed="#P" n="104"/>sed non sine errore. Conatur enim rationibus 
+      hu<lb ed="#P" n="105" break="no"/>manis demonstrare Personarum pluralitatem in 
+      di<lb ed="#P" n="106" break="no"/>vinis, sed vere non demonstrat. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e530">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Ad septimum, probatio quam ad declarandum 
+      <lb ed="#P" n="108"/>mysterium Trinitatis adhibuerat sancta Caecilia, 
+      <lb ed="#P" n="109"/>sumpta erat ex quodam ternario artis, memoriae &amp; 
+      <lb ed="#P" n="110"/>intelligentiae quae sunt in eodem animo hominis, 
+      <lb ed="#P" n="111"/>nec ad aliud assumpta, quam ut ea qualicunque 
+      <lb ed="#P" n="112"/>similitudine persuaderetur non esse absurdum quod 
+      <lb ed="#P" n="113"/>de Trinitate Personarum in Deo tradit religio 
+      Chri<lb ed="#P" n="114" break="no"/>stiana. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e552">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Quod octavo loco objicitur, hodie non extat in 
+      <lb ed="#P" n="116"/>Glossa, facile tamen cum S. Thoma respondetur, 
+      <lb ed="#P" n="117"/>iis verbis non significari quod philosophi ductu 
+      ra<lb ed="#P" n="118" break="no"/>tionis potuerunt pervenire per ea quae facta sunt in 
+      <lb ed="#P" n="119"/>cognitionem Personarum quantum ad propria, quae 
+      <lb ed="#P" n="120"/>non significant habitudinem causae ad creaturas; 
+      <lb ed="#P" n="121"/>sed secundum appropriata, quae revera sunt 
+      omni<lb ed="#P" n="122" break="no"/>bus Personis communia. 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e574">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Ad postremum respondetur, Philosophos in suis 
+      <lb ed="#P" n="124"/>scriptis similiter quidem fortassis aliquando locutos 
+      <lb ed="#P" n="125"/>fuisse, quomodo Scriptura sacra loquitur, sed sensu 
+      <lb ed="#P" n="126"/>longe diverso. Quod enim Christiana fides praedi¬ 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e587">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> cat tres distinctas Personas, Patrem, Filium &amp; 
+      Spiri<lb ed="#P" n="128" break="no"/>tum sanctum unum esse Deum non plures, non 
+      ma<lb ed="#P" n="129" break="no"/>gis in eorum cogitationem ex sola ratione naturali 
+      <lb ed="#P" n="130"/>venire potuit, imo multo minus, quam mysterium 
+      <lb ed="#P" n="131"/>incarnationis verbi Dei ac redemptionis generis 
+      hu<lb ed="#P" n="132" break="no"/>mani, quod teste Apostolo 1. Cor. 2. in cor hominis 
+      <lb ed="#P" n="133"/>nonascendit, sed solo Spiritu Dei revelatur. Philoso 
+      <lb ed="#P" n="134"/>phi ergo illi per filium Dei non Personam a Patre 
+      di<lb ed="#P" n="135" break="no"/>stinctam &amp; de ejus substantia genitam intellexerunt, 
+      <lb ed="#P" n="136"/>sed mentem seu rationem operatricem; Deo 
+      inexi<lb ed="#P" n="137" break="no"/>stentem atque ex Deo ortam rerumque opificem, 
+      <lb ed="#P" n="138"/>quomodo in homine atque ejus anima inest &amp; ab ea 
+    </p>
+            <p xml:id="bt67yj-k06279-d1e619">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> procedit ratio practica, velut principium 
+      operatio<lb ed="#P" n="140" break="no"/>num hominis, quae tamen non est suppositum 
+      quod<lb ed="#P" n="141" break="no"/>dam consubstantiale ipsi animae, neque generatione 
+      <lb ed="#P" n="142"/>proprie dicta ab ea promanat, sive rationem illam 
+      <lb ed="#P" n="143"/>operatricem imaginati fuerint Deo esse 
+      accidenta<lb ed="#P" n="144" break="no"/>riam, quomodo hominis &amp; animae intellectivae 
+      ac<lb ed="#P" n="145" break="no"/>cidens est ratio practica: sive etiam eo assurgere 
+      va<lb ed="#P" n="146" break="no"/>luerint, ut illam existimarent non esse revera 
+      distin<lb ed="#P" n="147" break="no"/>ctam ab essentia Dei. Nec ob aliud tantopere 
+      lauda<lb ed="#P" n="148" break="no"/>tum ab illis est exordium Evangelii Joannis, quam 
+      <!--0042.xml-->
+      <pb ed="#P" n="19"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod per <foreign>λόγον</foreign>, rationem hujusmodi significatam 
+      in<lb ed="#P" n="2" break="no"/>telligerent, per quam a Deo omnia facta essent. Si 
+      <lb ed="#P" n="3"/>quid autem de Personarum in uno Deo plural itate 
+      <lb ed="#P" n="4"/>cognoverunt, non est dubitandum ad ejusmodi 
+      co<lb ed="#P" n="5" break="no"/>gnitionem eos peculiari illustratione divinitus 
+      ad<lb ed="#P" n="6" break="no"/>jutos fuisse, quando nec quidem unius Dei exactam 
+      <lb ed="#P" n="7"/>&amp; errore vacuam cognitionem, absque tali auxilio 
+      <lb ed="#P" n="8"/>consequi potuissent, ut supra ostensum est. Idem de 
+      <lb ed="#P" n="9"/>Trismegisto &amp; Sibyllis dicendum, utpote qui 
+      ma<lb ed="#P" n="10" break="no"/>gis Prophetico spiritu, quam ingenio humano 
+      divi<lb ed="#P" n="11" break="no"/>na quaedam mysteria chartis mandasse videntur, 
+      ni<lb ed="#P" n="12" break="no"/>mirum similes Balaamo, quem licet gentilem &amp; 
+      ido<lb ed="#P" n="13" break="no"/>lolatram, spiritu tamen divino quaedam de Christo 
+      <lb ed="#P" n="14"/>prophetasse constat ex sacris literis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

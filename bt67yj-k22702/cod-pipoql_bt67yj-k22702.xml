@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="61"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k22702"><!-- l1d14c4" -->
+            <head xml:id="bt67yj-k22702-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k22702-Hd1e103" type="question-title">Qua ratione Spiritus sanctus hominem 
+      inhabitare dicatur</head>
+            <p xml:id="bt67yj-k22702-d1e106">
+               <lb ed="#P" n="60"/>§. 4. Qua ratione Spiritus sanctus hominem 
+      <lb ed="#P" n="61"/>inhabitare dicatur? 
+    </p>
+            <p xml:id="bt67yj-k22702-d1e113">
+               <lb ed="#P" n="62"/>Um varia sint dona Spiritus sancti, non tamen 
+      <lb ed="#P" n="63"/>Cunum quodque eorum tale est, ut ejus ratione 
+      <lb ed="#P" n="64"/>homo dicatur habere Spiritum sanctum, aut 
+      tem<lb ed="#P" n="65" break="no"/>plum esse Spiritus sancti, aut eum habere 
+      inhabitato<lb ed="#P" n="66" break="no"/>rem, aut agi Spiritu Dei. Haec enim &amp; hujusmodi 
+      <lb ed="#P" n="67"/>tum demum homini tribuuntur usu scripturae sacrae, 
+      <lb ed="#P" n="68"/>quando homo, jam Deo reconciliatus, gratus &amp; 
+      <lb ed="#P" n="69"/>amicus effectus liberius &amp; familiarius eo fruitur 
+      <lb ed="#P" n="70"/>tanquam re possissa. Id significant hae scripturae &amp; 
+      si<lb ed="#P" n="71" break="no"/>miles: Joan. 14. Si quis diligit me, &amp;c. mansionem apud 
+      <lb ed="#P" n="72"/>cum faciemus. Et ibidem: Spiritum veritatis quem 
+      <!--0084.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>mundus non potest accipere. Roman. 5. Charitas Dei 
+      <lb ed="#P" n="74"/>diffusa est in cordibus nostris per Spiritum sanctum qui 
+      <lb ed="#P" n="75"/>datus est nobis. Rom. 8. Vos in carne non estis, sed in 
+      <lb ed="#P" n="76"/>spiritu, si tamen spiritus Dei habitat in vobis: Si quis 
+      <lb ed="#P" n="77"/>autem Spiritum Christi non habet, hic non est ejus. Et 
+      <lb ed="#P" n="78"/>rursum: Quicunque Spiritu Dei aguntur, hi sunt filii 
+      <lb ed="#P" n="79"/>Dei. Et 1. Cor. 3. Nescitis quia templum Dei estis, &amp; 
+      <lb ed="#P" n="80"/>Spiritus Dei habitat in vobis. 
+    </p>
+            <p xml:id="bt67yj-k22702-d1e161">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Porro secundum caetera dona Spiritus sancti 
+      cujus<lb ed="#P" n="82" break="no"/>modi multa ab Apostolo enumerantur, 1. Cor. 12. &amp; 
+      <lb ed="#P" n="83"/>gratiae gratis datae vocantur, non solet dicere 
+      scri<lb ed="#P" n="84" break="no"/>ptura dari hominibus Spiritum sanctum, aut 
+      homi<lb ed="#P" n="85" break="no"/>nes habere, vel accipere Spiritum sanctum; sed 
+      tan<lb ed="#P" n="86" break="no"/>tum secundum aliquid, id est, ad hunc vel illum 
+      ef<lb ed="#P" n="87" break="no"/>fectum; ac multo minus ob sola ejusmodi dona, 
+      ho<lb ed="#P" n="88" break="no"/>mines vocantur templum Spiritus sancti, aut ipse 
+      <lb ed="#P" n="89"/>Spiritus sanctus in illis habitare dicitur. 
+    </p>
+            <p xml:id="bt67yj-k22702-d1e186">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Est praeterea notandum, eos qui Spiritum sanctum 
+      <lb ed="#P" n="91"/>habent, non omnes ipsum aequaliter habere, ut recte 
+      <lb ed="#P" n="92"/>docet S. Augustinus epistola 57. ad Dardanum. Quo 
+      <lb ed="#P" n="93"/>enim quisque sanctior est, &amp; majori praeditus 
+      chari<lb ed="#P" n="94" break="no"/>tate, eo perfectius, plenius &amp; abundantius habet 
+      <lb ed="#P" n="95"/>Spiritum sanctum. Quod pro modo fiat absque ejus 
+      <lb ed="#P" n="96"/>qui habetur immutatione, docet ibidem S. 
+      Augu<lb ed="#P" n="97" break="no"/>stinus similitudine soni, quem aequaliter in aere 
+      so<lb ed="#P" n="98" break="no"/>nantem, pari vicinitate, surdus non capit, surdaster 
+      <lb ed="#P" n="99"/>imperfecte capit, &amp; inter eos qui perfecte capiunt, 
+      <lb ed="#P" n="100"/>alius adhuc alio capit perfectius. Sic enim &amp; 
+      Spiri<lb ed="#P" n="101" break="no"/>tus sanctus, cum sit in se immutabilis, &amp; suae 
+      prae<lb ed="#P" n="102" break="no"/>sentia divinitatis omnia replens, a quibusdam 
+      om<lb ed="#P" n="103" break="no"/>nino non habetur, ab aliis autem habetur &amp; 
+      possi<lb ed="#P" n="104" break="no"/>detur, magis minusve secundum gradus charitatis 
+      <lb ed="#P" n="105"/>aliarumque virtutum, quibus Deo conjungimur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

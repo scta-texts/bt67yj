@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="20"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k07392"><!-- l1d4c1" -->
+            <head xml:id="bt67yj-k07392-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k07392-Hd1e103" type="question-title">De varietate vocum quibus utimur de 
+        Deo loquentes</head>
+            <p xml:id="bt67yj-k07392-d1e106">
+      <!--0043.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>IN DISTINCTIONEM QUARTAM. 
+      <lb ed="#P" n="69"/>§. 1. De varietate vocum quibus utimur de 
+      <lb ed="#P" n="70"/>Deo loquentes.
+      </p>
+            <p xml:id="bt67yj-k07392-d1e119">
+               <lb ed="#P" n="71"/>PRIUSQUAM veniamus ad quaestionem de 
+      <lb ed="#P" n="72"/>generatione Dei ex Deo, quam tractat hac 
+      <lb ed="#P" n="73"/>distinctione Magister, explicanda est 
+      varie<lb ed="#P" n="74" break="no"/>tas vocum seu quae Deo vel divinis personis 
+      tribuun<lb ed="#P" n="75" break="no"/>tur, ut eorum vim ac proprietatem cognitam 
+      haben<lb ed="#P" n="76" break="no"/>tes, sciamus quomodo convenienter &amp; inoffense de 
+      <lb ed="#P" n="77"/>tanto mysterio loquendum nobis sit, minusque in 
+      <lb ed="#P" n="78"/>solvendis argumentis quae contra hoc mysterium 
+      ad<lb ed="#P" n="79" break="no"/>ferri solent, laboremus. 
+    </p>
+            <p xml:id="bt67yj-k07392-d1e141">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Igitur nominum quibus de Deo loquentes utimur 
+      <lb ed="#P" n="81"/>alia sunt absoluta &amp; essentialia, ea nimirum quae 
+      <lb ed="#P" n="82"/>Dei naturam unde significant absque personarum 
+      <lb ed="#P" n="83"/>insinuatione, hujusmodi sunt, Deus, divinitas, 
+      <lb ed="#P" n="84"/>ens, sapiens, bonus, essentia, sapientia, bonitas. 
+      <lb ed="#P" n="85"/>Alia sunt relativa sive personalia, id est, quae 
+      per<lb ed="#P" n="86" break="no"/>sonarum inter se relationem aliquam significant, 
+      <lb ed="#P" n="87"/>qualia sunt pater, filius, paternitas, filiatio. 
+      Prae<lb ed="#P" n="88" break="no"/>ter haec sunt quaedam notionalia, quae actus, ut 
+      vo<lb ed="#P" n="89" break="no"/>cant, notionales designant. Vocantur autem actus 
+      <lb ed="#P" n="90"/>notionales, quibus progressus unius personae ex 
+      al<lb ed="#P" n="91" break="no"/>tera secundum originem significatur. Inde enim 
+      no<lb ed="#P" n="92" break="no"/>tificantur ipsae personae. Hujusmodi vocabula sunt 
+      <lb ed="#P" n="93"/>generatio, spiratio, gignere, gigni 
+    </p>
+            <p xml:id="bt67yj-k07392-d1e177">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Porro huic divisioni subjungenda est &amp; altera. 
+      <lb ed="#P" n="95"/>Nominum, quibus de Deo loquentes utimur, alia 
+      <lb ed="#P" n="96"/>sunt abstracta, ut Deitas, paternitas, generatio, 
+      sa<lb ed="#P" n="97" break="no"/>pientia: Alia concreta, ut Deus, pater, gignens, 
+      sa<lb ed="#P" n="98" break="no"/>piens: &amp; horum alia quae grammaticis substantiva 
+      <lb ed="#P" n="99"/>dicuntur, ut Deus, pater: Alia adjectiva, ut gignens, 
+      <lb ed="#P" n="100"/>sapiens. Sed inter haec omnia unum est quod 
+      pecu<lb ed="#P" n="101" break="no"/>liarem considerationem postulat, videlicet hoc 
+      no<lb ed="#P" n="102" break="no"/>men, Deus, habet enim quaedam cum aliis 
+      concre<lb ed="#P" n="103" break="no"/>tis communia, quaedam vero propria praeter 
+      alio<lb ed="#P" n="104" break="no"/>rum concretorum nominum consuetudinem. 
+      Im<lb ed="#P" n="105" break="no"/>primis autem significat hoc nomen divinam 
+      na<lb ed="#P" n="106" break="no"/>turam &amp; id quod eam habet. Quemadmodum hoc 
+      <lb ed="#P" n="107"/>vocabulum, homo, significat humanam naturam 
+      <lb ed="#P" n="108"/>&amp; id quod eam habet. Proinde quemadmodum 
+      <lb ed="#P" n="109"/>homo modo sumitur pro certo aliquo singulari in 
+      <lb ed="#P" n="110"/>quo est humana natura, velut cum dicimus 
+      homi<lb ed="#P" n="111" break="no"/>nem ambulare vel sedere; interdum vero pro 
+      homi<lb ed="#P" n="112" break="no"/>nis natura concretim quidem significata, sed absque 
+      <lb ed="#P" n="113"/>respectu ad singularia supposita, velut cum dicimus 
+      <lb ed="#P" n="114"/>aut hominem esse potiorem animalis speciem: Sic &amp; 
+      <lb ed="#P" n="115"/>vocabulum, Deus, sumitur interdum pro eo quod 
+      <lb ed="#P" n="116"/>hominem esse animal divinum ac praestantissimum, 
+      <lb ed="#P" n="117"/>naturam divinam habet, tanquam certa aliqua 
+      per<lb ed="#P" n="118" break="no"/>sona vel suppositum, ut cum dicimus Deum gignere, 
+      <lb ed="#P" n="119"/>Deum nasci, Deum procedere. Haec enim ita 
+      Deo<lb ed="#P" n="120" break="no"/>competunt, ut ad certas personas referri debeant. 
+      <lb ed="#P" n="121"/>Alias vero eandem naturam concretim quidem 
+      de<lb ed="#P" n="122" break="no"/>fignat, non tamen habita ratione alicujus personae, 
+      <lb ed="#P" n="123"/>velut cum dicimus unum esse Deum eumque 
+      tri<lb ed="#P" n="124" break="no"/>num. Haec enim certae alicui personae vere tribui non 
+      <lb ed="#P" n="125"/>possunt. Denique sicut vocabulum; homo, ita 
+      non<lb ed="#P" n="126" break="no"/>men etiam ad singula referri possit, velut cum in 
+      ge<lb ed="#P" n="127" break="no"/>nere dicimus hominem esse animal mente praeditum, 
+      <lb ed="#P" n="128"/>nunquam secundum totam speciem sumitur, ut 
+      ta<lb ed="#P" n="129" break="no"/>ad imaginem Dei formatum, haec enim &amp; singulis 
+      <lb ed="#P" n="130"/>hominibus perinde tribui possunt; sic &amp; vocabulum 
+      <lb ed="#P" n="131"/>Deus saepenumero naturam divinam concretim ita 
+      <lb ed="#P" n="132"/>significat, ut tamen ejus attributum etiam ad 
+      singu<lb ed="#P" n="133" break="no"/>las personas possit referri; ut cum dicimus Deum 
+      <lb ed="#P" n="134"/>esse rerum omnium authorem &amp; conservatorem, 
+      sa<lb ed="#P" n="135" break="no"/>pientem, justum, misericordem. 
+    </p>
+            <p xml:id="bt67yj-k07392-d1e273">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Jam si quaeras unde nobis liquere possit primo 
+      <!--0044.xml-->
+      <pb ed="#P" n="21"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>an secundo, an tertio modo eorum qui dicti sunt, 
+      <lb ed="#P" n="2"/>Deus accipiatur. Respondeo id dijudicandum ex 
+      at<lb ed="#P" n="3" break="no"/>tributis, aliisve circumstantiis quemadmodam 
+      e<lb ed="#P" n="4" break="no"/>xempla singulis modis ad juncta commonstrant. Cae 
+      <lb ed="#P" n="5"/>terum nunc e diverso videndum quantum inter 
+      ea<lb ed="#P" n="6" break="no"/>dem duo vocabula, Deus &amp; homo, sit discriminis, 
+      <lb ed="#P" n="7"/>ex eo proveniens quod homo more aliorum 
+      concreto<lb ed="#P" n="8" break="no"/>rum significet quidem unam naturam communem, 
+      <lb ed="#P" n="9"/>sed simul multas particulares pro multitudine 
+      sup<lb ed="#P" n="10" break="no"/>positorum, Deus autem naturam significet unam 
+      at<lb ed="#P" n="11" break="no"/>que individuam, quae etsi communis sit tribus 
+      per<lb ed="#P" n="12" break="no"/>sonis, non tamen pro numero personarum 
+      multipli<lb ed="#P" n="13" break="no"/>catur, sed secundum rem, prorsus eadem est in 
+      sin<lb ed="#P" n="14" break="no"/>gulis. Hinc enim fit ut Deus semper accipiatur 
+      pro<lb ed="#P" n="15" break="no"/>eo quod naturam divinam habet, absque certae 
+      ali<lb ed="#P" n="16" break="no"/>cujus personae restrictione, nisi ei addatur aliquid 
+      <lb ed="#P" n="17"/>per quod ad personam determinetur; 
+      quemadmo<lb ed="#P" n="18" break="no"/>dum docet S. Thom. prima p. q. 39. art. 4. ad 
+      ter<lb ed="#P" n="19" break="no"/>tium, rationem reddens quare verum sit, Deus 
+      ge<lb ed="#P" n="20" break="no"/>nerat, nec tamen verum sit, Deus non generat, cum 
+      <lb ed="#P" n="21"/>in Deo sit una persona generans &amp; alia non generans. 
+      <lb ed="#P" n="22"/>Si quidem in priori propositione vocabulum, Deus, 
+      <lb ed="#P" n="23"/>per verbum adjunctum determinatur ad personam 
+      <lb ed="#P" n="24"/>patris: In posteriori autem nihil est, quo 
+      determine<lb ed="#P" n="25" break="no"/>tur ad certam personam; ideoque ejus sensus est, 
+      ab<lb ed="#P" n="26" break="no"/>solute non competere Deo generationem. Qui 
+      sen<lb ed="#P" n="27" break="no"/>sus manifeste falsus est. Nec obstat negatio 
+      postpo<lb ed="#P" n="28" break="no"/>sita nomini, nam hoc nomen, Deus, etiamsi tribus 
+      <lb ed="#P" n="29"/>personis commune sit, attamen ratione naturae 
+      signi<lb ed="#P" n="30" break="no"/>ficatae quae est forma non multiplicabilis, potius 
+      sin<lb ed="#P" n="31" break="no"/>gularem quam indefinitam propositionem 
+      consti<lb ed="#P" n="32" break="no"/>tuit. Vocabulum autem homo, ob rationem 
+      con<lb ed="#P" n="33" break="no"/>trariam, quia nimirum formam significat 
+      multipli<lb ed="#P" n="34" break="no"/>cabilem, semper pro eo sumitur quod naturam 
+      hu<lb ed="#P" n="35" break="no"/>manam habet cum respectu ad suppositum, nisi vox 
+      <lb ed="#P" n="36"/>adjuncta certum suppositum respuat. Unde 
+      absolu<lb ed="#P" n="37" break="no"/>te verum est, homo non ambulat quia cum id 
+      inde<lb ed="#P" n="38" break="no"/>finite dicatur, sufficit in aliquo hominis supposito 
+      <lb ed="#P" n="39"/>verum reperiri.
+    </p>
+            <p xml:id="bt67yj-k07392-d1e371">
+               <lb ed="#P" n="40"/>Et haec quidem ex parte de vocabulis Deo 
+      attri<lb ed="#P" n="41" break="no"/>butis. Nam de iisdem atque aliis tam in genere 
+      <lb ed="#P" n="42"/>quam in particulari dicetur adhuc infra suis locis 
+      <lb ed="#P" n="43"/>dist. 9. 22. 23. &amp; alibi. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

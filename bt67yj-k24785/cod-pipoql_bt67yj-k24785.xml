@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="66"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k24785"><!-- l1d17c1" -->
+            <head xml:id="bt67yj-k24785-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k24785-Hd1e103" type="question-title">An Spiritus sanctus sit ea charitas qua 
+      homo Deum et proximum diligit</head>
+            <p xml:id="bt67yj-k24785-d1e106">
+               <lb ed="#P" n="131"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="132"/>DECIMAMSEPTIMAM. 
+      <lb ed="#P" n="133"/>§. 1. An Spiritus sanctus sit ea charitas qua 
+      <lb ed="#P" n="134"/>homo Deum &amp; proximum diligit?
+    </p>
+            <p xml:id="bt67yj-k24785-d1e117">
+               <lb ed="#P" n="135"/>DE invisibili missione Spiritus sancti nunc 
+      <lb ed="#P" n="136"/>deinceps agendum, qua nimirum Spiritus 
+      <lb ed="#P" n="137"/>sanctus mittitur invisibiliter &amp; occultissime 
+      <lb ed="#P" n="138"/>in corda fidelium ad eos sanctificandum, quod 
+      qui<lb ed="#P" n="139" break="no"/>dem facit diffusa in cordibus charitate, teste Apo¬ 
+      <!--0090.xml-->
+      <pb ed="#P" n="67"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>stolo Rom. 5. Circa hanc igitur missionem prima &amp; P 
+      <lb ed="#P" n="2"/>praecipua quaestio occurrit, utrum spiritus sanctus sit 
+      <lb ed="#P" n="3"/>ea ipsa charitas, qua quisque Deum &amp; proximum 
+      <lb ed="#P" n="4"/>diligit. Ad quod prompta responsio est, spiritum 
+      san<lb ed="#P" n="5" break="no"/>ctum proprio sermone dici &amp; esse charitatem, qua 
+      <lb ed="#P" n="6"/>Deus &amp; se diligit &amp; creaturas, non eam qua nos 
+      <lb ed="#P" n="7"/>Deum &amp; proximum diligimus. Sicut enim spiritus 
+      <lb ed="#P" n="8"/>sanctus proprio sermone non est vita, qua nos 
+      vivi<lb ed="#P" n="9" break="no"/>mus, nec sapientia qua nos sapientes lumus, ita nec 
+      <lb ed="#P" n="10"/>proprie dici potest charitas qua nos sumus dilectores. 
+      <lb ed="#P" n="11"/>Proprie namque ab iis rebus denominamur, quae 
+      no<lb ed="#P" n="12" break="no"/>bis inhaerent, ut ab albedine albi, a sanitate sani. 
+      <lb ed="#P" n="13"/>Spiritus sanctus autem non est forma inhaerens, sed 
+      <lb ed="#P" n="14"/>prima &amp; summa substantia. Caeterum improprio 
+      ser<lb ed="#P" n="15" break="no"/>mone concedi potest spiritum sanctum esse 
+      charita<lb ed="#P" n="16" break="no"/>tem qua nos dilectores sumus, &amp; qua diligimus, quia 
+      <lb ed="#P" n="17"/>videlicet ipse fons est &amp; autor hujus dilectionis, dum 
+      <lb ed="#P" n="18"/>nobis eam occultagratiae suae operatione infundit: 
+      vo<lb ed="#P" n="19" break="no"/>catur autem hac ratione charitas, eo sermonis tropo, 
+      <lb ed="#P" n="20"/>quo sumit appellationem effectus. Quomodo &amp; vita 
+      <lb ed="#P" n="21"/>nostra Deus dici potest, quia, ut inquit Apostolus 
+      <lb ed="#P" n="22"/>Actor. 17. In ipso vivimus, movemur &amp; sumus. 
+      Quo<lb ed="#P" n="23" break="no"/>modo etiam eodem Apostolo teste 1. Corinth. I. 
+      Chri<lb ed="#P" n="24" break="no"/>stus factus est nobis sapientia a Deo, &amp; justitia &amp; 
+      san<lb ed="#P" n="25" break="no"/>ctificatio &amp; redemptio, quia horum omnium nobis 
+      me<lb ed="#P" n="26" break="no"/>rito passionis suae impetratoria causa fuit. An autem 
+      <lb ed="#P" n="27"/>hoc sensu legamus spiritum sanctum uspiamvocatum 
+      <lb ed="#P" n="28"/>in scripturis charitatem, pendet ex interpretatione 
+      il<lb ed="#P" n="29" break="no"/>lius sententiae, 1. Joan. 1. Deus charitas est, de qua 
+      du<lb ed="#P" n="30" break="no"/>dum egimus ad dist. 10. atque ostendimus 
+      proba<lb ed="#P" n="31" break="no"/>bilius id dictum intelligi proprio sermone, nempe de 
+      <lb ed="#P" n="32"/>charitate, qua Deus diligit se &amp; alia a se, quae charitas 
+      <lb ed="#P" n="33"/>non aliud est quam ipsa essentia divina. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

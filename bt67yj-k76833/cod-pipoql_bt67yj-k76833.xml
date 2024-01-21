@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="203"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k76833"><!-- l1d47c2" -->
+            <head xml:id="bt67yj-k76833-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k76833-Hd1e103" type="question-title">Quare Deus praecipiat quae fieri non vult</head>
+            <p xml:id="bt67yj-k76833-d1e106">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> §. 2. Quare Deus praecipiat quae fieri non vult. 
+    </p>
+            <p xml:id="bt67yj-k76833-d1e113">
+               <lb ed="#P" n="25"/>MOvent nonnulli quaestionem, quare Deus 
+      de<lb ed="#P" n="26" break="no"/>Mderit omnibus hominibus praecepta, quae 
+      ta<lb ed="#P" n="27" break="no"/>men non vult ab omnibus impleri. Nam si hoc 
+      sim<lb ed="#P" n="28" break="no"/>4 pliciter vellet, procul dubio fieret, ut ex 
+      superiori<lb ed="#P" n="29" break="no"/>bus liquet. Est antem eadem haec quaestio cum ista; 
+      <lb ed="#P" n="30"/>Quare Deus non faciat omnes homines obedire suis 
+      <lb ed="#P" n="31"/>mandatis? Neque enim implere ea possunt, nisi ipso 
+      <lb ed="#P" n="32"/>faciente. Circa quod imprimis sciendum ex 
+      praece<lb ed="#P" n="33" break="no"/>pto quod nobis a Deo datur, non debere nos 
+      aesti<lb ed="#P" n="34" break="no"/>mare secretam Dei voluntatem, qua quid facere 
+      con<lb ed="#P" n="35" break="no"/>stituit, sed tantum ex eo tanquam ex regula nobis 
+      <lb ed="#P" n="36"/>praescripta, debere nos intelligere quid nobis 
+      in<lb ed="#P" n="37" break="no"/>cumbat agendum. Et proinde prorsus 
+      impertinen<lb ed="#P" n="38" break="no"/>tem esse voluntatem praecepti divini, ad voluntatem 
+      <lb ed="#P" n="39"/>beneplaciti ejus de impletione praecepti. Quod &amp; 
+      <lb ed="#P" n="40"/>Ecclesiasticus cap. 3. significavit dicens: Altiora te ne 
+      <lb ed="#P" n="41"/>quaesieris, sed quae praecepit tibi Deus illa cogita semper, 
+      <lb ed="#P" n="42"/>&amp; in pluribus operibus ejus ne fueris curiosus, quasi 
+      di<lb ed="#P" n="43" break="no"/>ceret: Non quid Deus facturus sit, sed quid tibi 
+      fa<lb ed="#P" n="44" break="no"/>ciendum praeceperit, inquire &amp; cogita. Cum igitur 
+      <lb ed="#P" n="45"/>absoluta Dei voluntas nulla necessitate sequatur 
+      vo<lb ed="#P" n="46" break="no"/>luntatem ejus, quae in praeceptis consideratur, 
+      perspi<lb ed="#P" n="47" break="no"/>cuum est non oportere, ut quaecunque praecepit 
+      <lb ed="#P" n="48"/>Deus, impleat in omnibus quibus praecepit. Ratio 
+      <lb ed="#P" n="49"/>autem cur id facere nolit, non est ea quam quidam 
+      <lb ed="#P" n="50"/>assignant dicentes, Deum id nolle; quia homines 
+      <lb ed="#P" n="51"/>nolunt. Nam profecto si Deus vellet etiam homines 
+      <lb ed="#P" n="52"/>vellent, quia omnipotens est &amp; omnium Domina 
+      <lb ed="#P" n="53"/>Dei voluntas. Unde rationem illam merito rejicit 
+      <lb ed="#P" n="54"/>August. ench. 97. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-k76833-d1e181">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Hac igitur non vera ratione remota, multae aliae 
+      <lb ed="#P" n="56"/>bonae rationes reddi possunt. Una, ut ostendat Deus 
+      <lb ed="#P" n="57"/>etiam intellectualem creaturam esse defectibilem. 
+      <lb ed="#P" n="58"/>Ad hoc enim ostendendum oportuit defectum in 
+      <lb ed="#P" n="59"/>quibusdam permittere. 
+    </p>
+            <p xml:id="bt67yj-k76833-d1e198">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Secunda, ut ostendat quid in utramque partem 
+      <lb ed="#P" n="61"/>valeat liberum creaturae arbitrium; in malam 
+      qui<lb ed="#P" n="62" break="no"/>dem partem fine Deo; in bonam vero, non nisi cum 
+      <lb ed="#P" n="63"/>Deo &amp; per Deum. 
+    </p>
+            <p xml:id="bt67yj-k76833-d1e211">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Tertia, ut ex comparatione mali, id est, peccati, 
+      <lb ed="#P" n="65"/>quantum sit obedientiae bonum intelligatur. 
+    </p>
+            <p xml:id="bt67yj-k76833-d1e220">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Quarta, ut alii ex obedientia gloriam, alii ex 
+      ino<lb ed="#P" n="67" break="no"/>bedientia poenam reportarent, sicut utrisque Deus 
+      <lb ed="#P" n="68"/>ab aeterno praeparavit, ut ait Magister. Quod tamen 
+      <lb ed="#P" n="69"/>non ita accipiendum, quasi Deus permittat 
+      homi<lb ed="#P" n="70" break="no"/>onem cadere, ut puniat, sed ut juste puniat, id est, ut 
+      <lb ed="#P" n="71"/>locum habeat justa punitio seu justitia quae in poenis 
+      <!--0226.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>inferendis consistit. Hanc autem rationem complet 
+      <lb ed="#P" n="73"/>quinta ratio, scilicet ut Deus in aliis suam bonitatem, 
+      <lb ed="#P" n="74"/>in aliis justitiam declararet, quemadmodum docet 
+      <lb ed="#P" n="75"/>apostolus Rom. 9. Addit Magister &amp; hanc rationem, 
+      <lb ed="#P" n="76"/>ut mali essent inexcusabiles, accepto videlicet 
+      prae<lb ed="#P" n="77" break="no"/>cepto positivo. Quod rursum non sic 
+      intelligen<lb ed="#P" n="78" break="no"/>dum, quasi omnino a peccato excusati essent 
+      homi<lb ed="#P" n="79" break="no"/>nes, si positivam legem a Deo nullam accepissent. 
+      <lb ed="#P" n="80"/>Nam qui sine lege peccaverunt, ait idem Apost. Rom. 
+      <lb ed="#P" n="81"/>2. sine lege peribunt. Peccaverunt enim contra 
+      le<lb ed="#P" n="82" break="no"/>gem naturae, qua omnes tenentur &amp; cujus 
+      igno<lb ed="#P" n="83" break="no"/>rantia neminem excusat: Sed quia excusabiles essent 
+      <lb ed="#P" n="84"/>aliqua ex parte, quomodo non sunt excusabiles, 
+      qui<lb ed="#P" n="85" break="no"/>bus expressa facta est promulgatio &amp; explicatio 
+      le<lb ed="#P" n="86" break="no"/>gis, ut docet Augustinus epistola 105. ad Sixtum. 
+      <lb ed="#P" n="87"/>Porro praesenti quaestioni affinis est ea, quae de 
+      pri<lb ed="#P" n="88" break="no"/>mo homine moveri solet, quare eum Deus fecerit 
+      <lb ed="#P" n="89"/>ac tentari permiserit quem praesciebat 
+      peccatu<lb ed="#P" n="90" break="no"/>rum. De qua agendum ad distinctionem 23. 
+      li<lb ed="#P" n="91" break="no"/>bri 2. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

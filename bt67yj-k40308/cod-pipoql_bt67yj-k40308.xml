@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="107"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k40308"><!-- l1d37c6" -->
+            <head xml:id="bt67yj-k40308-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k40308-Hd1e103" type="question-title">Quare Deus rerum in quibus est, sordibus 
+      non inquinetur</head>
+            <p xml:id="bt67yj-k40308-d1e106">
+               <lb ed="#P" n="123"/>§. 6. Quare Deus rerum in quibus est, sordibus 
+      <lb ed="#P" n="124"/>non inquinetur.
+    </p>
+            <p xml:id="bt67yj-k40308-d1e113">
+               <lb ed="#P" n="125"/>MOvet quaestionem Magister, quare Deus cum 
+      <lb ed="#P" n="126"/>sit in omnibus rebus, earum tamen sordibus 
+      <lb ed="#P" n="127"/>non inquinetur. Ad quam brevis &amp; facilis est 
+      respon<lb ed="#P" n="128" break="no"/>sio, Deum inquinamentis rerum non pollui, duplici 
+      <lb ed="#P" n="129"/>ratione; tum quia talis est naturae quae prorsus 
+      inqui<lb ed="#P" n="130" break="no"/>nari non possit, nec omnino pati quicquam, aut 
+      qua<lb ed="#P" n="131" break="no"/>cunque re affici, ut patet ex alibi dictis. Tum quia 
+      <lb ed="#P" n="132"/>nulla res quatenus est, sordida est aut polluta 
+      respe<lb ed="#P" n="133" break="no"/>ctu Dei, tametsi immundum aliquid corporaliter 
+      re<lb ed="#P" n="134" break="no"/>cte dicitur respectu nostri vel alterius creaturae, cujus 
+      <lb ed="#P" n="135"/>naturam offendit, vitiat aut corrumpit. Solum autem 
+      <lb ed="#P" n="136"/>peccatum, quod non est res, sed rei vitium ac defectus 
+      <lb ed="#P" n="137"/>quodque Deus nec facit, nec contingit, spiritualis 
+      <lb ed="#P" n="138"/>immunditia est &amp; abominatio coram Deo. De 
+      utro<lb ed="#P" n="139" break="no"/>que genere sordium intelligi potest illud Sap. 7. Nihil 
+      <lb ed="#P" n="140"/>inquinatum incurrit in eam. Extant de hac re apud S. 
+      <lb ed="#P" n="141"/>Aug. complura loca contra Manichaeos, qui 
+      verita<lb ed="#P" n="142" break="no"/>tem carnis &amp; nativitatis Christi ideo negabant, 
+      cor<lb ed="#P" n="143" break="no"/>pus ei phantasticum tribuentes, quod existimarent 
+      <lb ed="#P" n="144"/>Deum, si carnem assumeret in utero muliebri 
+      sor<lb ed="#P" n="145" break="no"/>dibus ejus inquinatum iri. Loca sunt lib. de agone 
+      <lb ed="#P" n="146"/>Christ. cap. 18. de natura boni c. 29. de fide contra 
+      <!--0131.xml-->
+      <pb ed="#P" n="108"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Manichaeos eap. 23. In oratione de 5. haeresibus 
+      ca<lb ed="#P" n="2" break="no"/>pite quinto, &amp; sermone sexagesimotertio de diversis 
+      <lb ed="#P" n="3"/>capite secundo. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

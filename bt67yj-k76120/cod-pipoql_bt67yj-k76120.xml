@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="201"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k76120"><!-- l1d46c7" -->
+            <head xml:id="bt67yj-k76120-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-k76120-Hd1e103" type="question-title">Utrum Deus mala esse aut fieri velit</head>
+            <p xml:id="bt67yj-k76120-d1e106">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> §. 7. Utrum Deus mala esse aut fieri velit? 
+    </p>
+            <p xml:id="bt67yj-k76120-d1e113">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> AD quaestionem quam in textu movet 
+      multum<lb ed="#P" n="62" break="no"/>Aque versat Magister, an Deus velit mala, id 
+      <lb ed="#P" n="63"/>est, peccata esse aut fieri; quidam Catholici 
+      affirma<lb ed="#P" n="64" break="no"/>tive respondendum putaverunt, authorem suae asset. 
+      <lb ed="#P" n="65"/>tionis secuti Hugonem a Sancto Victore, qui tract. 
+      <lb ed="#P" n="66"/>1. summae sententiarum cap. 13. &amp; lib. I. de 
+      sacramen<lb ed="#P" n="67" break="no"/>tis parte 4. cap. 12. 13. &amp; sequentibus, partim 
+      authori<lb ed="#P" n="68" break="no"/>tate Augustini, partim rationibus, quarum praecipuas 
+      <lb ed="#P" n="69"/>recenset Magister litera E. eam sententiam astruere 
+      <lb ed="#P" n="70"/>conatur. Meminit ejusdem quaestionis tanquam a 
+      vi<lb ed="#P" n="71" break="no"/>ris ecclesiasticis disputatae Rupertus lib. 13. in Matth. 
+      <!--0224.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Quam tamen nec ipse satis expedit. Est autem 
+      quae<lb ed="#P" n="73" break="no"/>stio de voluntate non tantum permittente. (Hoc 
+      <lb ed="#P" n="74"/>enim modo prorsus indubitatum est mala Deo 
+      vo<lb ed="#P" n="75" break="no"/>lente fieri) sed de voluntate absoluta. Id quod 
+      Hu<lb ed="#P" n="76" break="no"/>gonis argumenta satis declarant. 
+    </p>
+            <p xml:id="bt67yj-k76120-d1e157">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Verum omnino tenenda est hac in parte doctrina 
+      <lb ed="#P" n="78"/>Magistri, qui post longam quaestionis discussionem 
+      <lb ed="#P" n="79"/>tandem concludit mala nec esse, nec fieri Deo 
+      vo<lb ed="#P" n="80" break="no"/>lente. Quod idem docet Sanctus Thomas 1. quaest. 
+      <lb ed="#P" n="81"/>19. artic. 9. ad 1. &amp; 3. &amp; super hanc distinctionem 
+      <lb ed="#P" n="82"/>quaest. 2. &amp; 4. Cui consentiunt &amp; caeteri plerique 
+      <lb ed="#P" n="83"/>scholae doctores in eandem hanc distinctionem 
+      scri<lb ed="#P" n="84" break="no"/>bentes.
+    </p>
+            <p xml:id="bt67yj-k76120-d1e180">
+               <lb ed="#P" n="85"/>Hujus doctrinae ratio est, quia voluntas Dei 
+      tan<lb ed="#P" n="86" break="no"/>tum est bonorum, esse autem aut fieri mala non est 
+      <lb ed="#P" n="87"/>bonum. Quod probatur, quia cum malum sit boni 
+      <lb ed="#P" n="88"/>privatio, malum esse aut fieri non aliud est quam 
+      bo<lb ed="#P" n="89" break="no"/>no privari aut privatum esse. Quod certe non aliud 
+      <lb ed="#P" n="90"/>quam malum est, ut bene explicat S. Thomas jam 
+      <lb ed="#P" n="91"/>dicta quaest. 2. 
+    </p>
+            <p xml:id="bt67yj-k76120-d1e198">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Hinc est &amp; altera ratio: Velle mala, &amp; velle mala 
+      <lb ed="#P" n="93"/>esse aut fieri, idem est. Voluntas enim ad rem 
+      sim<lb ed="#P" n="94" break="no"/>pliciter, est ad rem ut sit, quemadmodum patet in 
+      <lb ed="#P" n="95"/>omnibus aliis, verbi gratia: Qui vult virtutem, 
+      <lb ed="#P" n="96"/>vult virtutem esse, &amp; qui vult peccatum, vult 
+      pecca<lb ed="#P" n="97" break="no"/>tum esse, &amp; contra. Deus autem non vult mala; 
+      <lb ed="#P" n="98"/>ergo non vult mala esse aut fieri. 
+    </p>
+            <p xml:id="bt67yj-k76120-d1e218">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Item 3. ratio: Si Deus vult mala fieri, fiunt ergo 
+      <lb ed="#P" n="100"/>mala Deo volente. Quicquid autem fit Deo volente, 
+      <lb ed="#P" n="101"/>fit Deo authore juxta illud: Omnia quaecunque voluit 
+      <lb ed="#P" n="102"/>fecit, ergo mala fiunt Deo authore, quod impium 
+      <lb ed="#P" n="103"/>est asserere.
+    </p>
+            <p xml:id="bt67yj-k76120-d1e234">
+               <lb ed="#P" n="104"/>Item quarta: Voluntas non est nisi finis &amp; eorum 
+      <lb ed="#P" n="105"/>quae sunt ad finem, sed mala non sunt nisi per 
+      deor<lb ed="#P" n="106" break="no"/>dinationem a fine; ergo voluntatis divinae non est 
+      <lb ed="#P" n="107"/>quod mala fiant. Nec minus clara probatio est ex 
+      <lb ed="#P" n="108"/>scripturis, psal. 5. Non Deus volens iniquitatem tu 
+      <lb ed="#P" n="109"/>es. Sap. 14 Odio sunt Deo impius &amp; impietas ejus. 
+      <lb ed="#P" n="110"/>Haec enim plane significant Deum nolle fieri ab 
+      ho<lb ed="#P" n="111" break="no"/>minibus iniquitatem. 
+    </p>
+            <p xml:id="bt67yj-k76120-d1e254">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Praeterea testatur scriptura Christum venisse ut 
+      <lb ed="#P" n="113"/>auferat, &amp; destruat peccatum &amp; regnum peccati 
+      <lb ed="#P" n="114"/>Joan. 11. Joan. 3. Rom. 6. Non igitur vult esse 
+      pec<lb ed="#P" n="115" break="no"/>cata, sicut qui destruit domum, non vult esse 
+      do<lb ed="#P" n="116" break="no"/>mum. His adde quod Magister profert ex 
+      Augu<lb ed="#P" n="117" break="no"/>stino lib. 83. q. 3. 4. &amp; 21. ubi ratiocinatione 
+      qua<lb ed="#P" n="118" break="no"/>dam demonstrat nullum hominem Deo authore, 
+      <lb ed="#P" n="119"/>ac proinde nec volente, fieri deteriorem. Quod 
+      ta<lb ed="#P" n="120" break="no"/>men contra se haberet, si Deus vellet mala fieri. 
+      <lb ed="#P" n="121"/>Nam qua ratione vellet fieri mala, vellet &amp; 
+      homi<lb ed="#P" n="122" break="no"/>nem fieri malum, imo quodamplius est, vellet 
+      ho<lb ed="#P" n="123" break="no"/>minem facere malum. Quaecunque enim Deus vult 
+      <lb ed="#P" n="124"/>fieri, eadem vult &amp; facere. Siquidem voluntas Dei 
+      <lb ed="#P" n="125"/>ad extra, effectiva est omnium quae vult, ut saepe, 
+      <lb ed="#P" n="126"/>dictum est. 
+    </p>
+            <p xml:id="bt67yj-k76120-d1e291">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Denique jam supra diximus ad distinctionem 
+      su<lb ed="#P" n="128" break="no"/>periorem in eo quod voluntas Dei rerum omnium 
+      <lb ed="#P" n="129"/>causa dicitur, sola bona comprehendi, quale utique 
+      <lb ed="#P" n="130"/>non est mala esse, ut mox in solutione objectionum 
+      <lb ed="#P" n="131"/>monstrabitur. Et omnino quicquid proferri potest 
+      <lb ed="#P" n="132"/>ad probandum Catholicum dogma, Deum non esse 
+      <lb ed="#P" n="133"/>malorum authorem, aeque valet ad ostendendum 
+      <lb ed="#P" n="134"/>mala Deo volente non fieri, cum Deo idem sit velle 
+      <lb ed="#P" n="135"/>&amp; facere. Neque aliud sit velle mala, &amp; velle mala 
+      <lb ed="#P" n="136"/>esse aut fieri, quemadmodum probant rationes jam 
+      <lb ed="#P" n="137"/>allatae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

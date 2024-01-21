@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="41"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k15195"><!-- l1d9c6" -->
+            <head xml:id="bt67yj-k15195-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k15195-Hd1e103" type="question-title">Generationem filii Dei nunquam terminari</head>
+            <p xml:id="bt67yj-k15195-d1e106">
+      <!--0064.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="76"/>§. 6. Generationem filii Dei nunquam terminari.
+    </p>
+            <p xml:id="bt67yj-k15195-d1e115">
+               <lb ed="#P" n="77"/>SI quaeratur an generatio filii Dei finem aliquando 
+      <lb ed="#P" n="78"/>Oacceperit, certissime respondendum est, eam ut 
+      <lb ed="#P" n="79"/>initium quo inchoaretur non habuit, ita nec finem 
+      <lb ed="#P" n="80"/>quo desineret, habuisse, nec habituram unquam. 
+      Si<lb ed="#P" n="81" break="no"/>cut enim pater &amp; filius aeterni sunt, ita aeterna est filii 
+      <lb ed="#P" n="82"/>ex patre generatio, &amp; non tantum ab aeterno. Qua de 
+      <lb ed="#P" n="83"/>re disserens Cyrillus lib. I. thesauri c. 6. docet impiam 
+      <lb ed="#P" n="84"/>eorum esse sententiam, qui dicunt cessasse aliquando 
+      <lb ed="#P" n="85"/>patrem a generando, utpote quae incommutabili 
+      na<lb ed="#P" n="86" break="no"/>turae communicationem asscribat, ut modo generat, 
+      <lb ed="#P" n="87"/>modo non generet. Et Fulgentius in sermone de 
+      na<lb ed="#P" n="88" break="no"/>tivitate Christi, Semper, inquit, de patre de quo illi 
+      <lb ed="#P" n="89"/>est naturaliter aeterna nativitas. Et ne plures adducam 
+      <lb ed="#P" n="90"/>testes e patribus, apertissima est ecclesiae vox ita de 
+      <lb ed="#P" n="91"/>Christo canentis in ultimo responsorio adventus: 
+      <lb ed="#P" n="92"/>Cujus generatio non habet finem. Ut autem haec 
+      aeter<lb ed="#P" n="93" break="no"/>na atque incessabilis generatio utcunque 
+      intelliga<lb ed="#P" n="94" break="no"/>tur, repetendae sunt memoria similitudines superius 
+      <lb ed="#P" n="95"/>adductae, velut solis &amp; splendoris, ignis &amp; caloris, 
+      <lb ed="#P" n="96"/>mentis &amp; verbi. Quibus simile exemplum adfert 
+      Au<lb ed="#P" n="97" break="no"/>gust. serm. 38. de verbis Domini, de virgulto super 
+      <lb ed="#P" n="98"/>aquis nato &amp; ejus imagine. In his enim alterum ab 
+      <lb ed="#P" n="99"/>altero gignitur, nec tamen re quae gignitur perfecta 
+      <lb ed="#P" n="100"/>generatio seu productio cessat; splendor enim 
+      per<lb ed="#P" n="101" break="no"/>fectus a sole procedit, nec tamen splendorem illum 
+      <lb ed="#P" n="102"/>sol aliquando definit producere. Et similiter in aliis. 
+      <lb ed="#P" n="103"/>Unde refellitur Arianorum objectio dicentium: 
+      <lb ed="#P" n="104"/>quicquid generat cessare a generando, quando res 
+      <lb ed="#P" n="105"/>quae gignitur perfecta est. Quod falsum esse ostendit 
+      <lb ed="#P" n="106"/>Cyrillus loco jam indicato. Neque supervacanea est 
+      <lb ed="#P" n="107"/>generatio, re jam genita atque perfecta, ut 
+      cavilla<lb ed="#P" n="108" break="no"/>bantur Ariani, quia res jam in suae naturae 
+      perfectio<lb ed="#P" n="109" break="no"/>ne constituta potest adhuc continuo dependere a 
+      <lb ed="#P" n="110"/>principio producente; quemadmodum satis 
+      exem<lb ed="#P" n="111" break="no"/>pla memorata manifestant. Idque veritatem habet 
+      <lb ed="#P" n="112"/>in omnibus, quae ita coaeva sunt suis causis atque 
+      <lb ed="#P" n="113"/>principiis, ut ab iis semper esse accipiant. Sicut ergo 
+      <lb ed="#P" n="114"/>ista principiis existentibus semper &amp; sunt &amp; fiunt: 
+      <lb ed="#P" n="115"/>ita filius Dei semper est, &amp; semper nascitur. 
+    </p>
+            <p xml:id="bt67yj-k15195-d1e202">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Quod autem ab Arianis objiciebatur, in his 
+      tan<lb ed="#P" n="117" break="no"/>tum locum habet quorum generatio motus est, in 
+      <lb ed="#P" n="118"/>quibus proinde termino acquisito cessat motus, ut 
+      <lb ed="#P" n="119"/>in generatione hominis, aedificatione domus, &amp; 
+      <lb ed="#P" n="120"/>aliis similibus, in quibus esse &amp; fieri non simul sed 
+      <lb ed="#P" n="121"/>distincta sunt tempore, ut prius sit fieri, posterius 
+      <lb ed="#P" n="122"/>esse. Nam ea quae producuntur non motu aliquo, 
+      <lb ed="#P" n="123"/>sed actu indivisibili, dum fiunt, etiam existunt; &amp; 
+      <lb ed="#P" n="124"/>si causam in actu haberent perpetuam, semper 
+      fie<lb ed="#P" n="125" break="no"/>rent, ac nihilominus semper existerent; sicut de 
+      <lb ed="#P" n="126"/>mundo videtur imaginatus Plato. Nam &amp; revera 
+      <lb ed="#P" n="127"/>mundi conservatio, non aliud est quam creatio 
+      quae<lb ed="#P" n="128" break="no"/>dam mundi continuata, sicut luminis conservatio, 
+      <lb ed="#P" n="129"/>non est aliud quam continua quaedam illuminatio.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

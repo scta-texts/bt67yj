@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="81"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k30238"><!-- l1d24c1" -->
+            <head xml:id="bt67yj-k30238-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k30238-Hd1e103" type="question-title">Vnitas et numerus quomodo accipienda 
+      in divinis</head>
+            <p xml:id="bt67yj-k30238-d1e106">
+      <!--0104.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="73"/>VICESIMAMQUARTAM. 
+      <lb ed="#P" n="74"/>§. 1. Vnitas &amp; numerus quomodo accipienda 
+      <lb ed="#P" n="75"/>in divinis. 
+    </p>
+            <p xml:id="bt67yj-k30238-d1e122">
+               <lb ed="#P" n="76"/>CUM in divinis unitatem, dualitatem, 
+      trinita<lb ed="#P" n="77" break="no"/>tem nominamus, dicentes unum esse Deum, 
+      <lb ed="#P" n="78"/>unum patrem, unum filium, duos spirantes, 
+      <lb ed="#P" n="79"/>duos procedentes, tres perfonas, tres creantes, tres 
+      <lb ed="#P" n="80"/>sanctificantes; quaeri solet quomodo haec in Deo sint 
+      <lb ed="#P" n="81"/>accipienda: Videtur enim Magister sentire, quod 
+      <lb ed="#P" n="82"/>horum vocabulorum usus in divinis potius 
+      introdu<lb ed="#P" n="83" break="no"/>ctus sit ad removendum atque excludendum aliquid 
+      <lb ed="#P" n="84"/>a simplicitate deitatis, quam ad aliquid ponendum. 
+      <lb ed="#P" n="85"/>Verum absque dubitatione, respondendum est, 
+      pro<lb ed="#P" n="86" break="no"/>prie unitatem esse in Deo, imo &amp; numerum his 
+      vo<lb ed="#P" n="87" break="no"/>cibus, duo, tres, dualitas, trinitas, significatum. 
+      <lb ed="#P" n="88"/>Vere enim ac proprie unus est Deus, duo sunt pater 
+      <lb ed="#P" n="89"/>&amp; filius, tres sunt pater, &amp; filius, &amp; spiritus sanctus. 
+      <lb ed="#P" n="90"/>Neque enim improprie locutus est Moyses quando 
+      <lb ed="#P" n="91"/>dixit, Deut. 6. Audi Israel Dominus Deus noster, Deus 
+      <lb ed="#P" n="92"/>unus est, aut Joannes Apostolus, quando dixit: tres 
+      <lb ed="#P" n="93"/>sunt qui testimonium dant in caelo, &amp;c. Sicut autem non 
+      <lb ed="#P" n="94"/>ille numerus est in Deo intelligendus, quem in 
+      prae<lb ed="#P" n="95" break="no"/>dicamento quantitatis dialectici reponunt, eum 
+      vi<lb ed="#P" n="96" break="no"/>delicet qui nascitur ex divisione continui; ita nec 
+      <lb ed="#P" n="97"/>unitas, quae hujus numeri principium est, nihilo 
+      ma<lb ed="#P" n="98" break="no"/>gis, imo vero multo minus quam sapientia vel 
+      po<lb ed="#P" n="99" break="no"/>tentia quam Deo tribuimus, ea sit intelligenda, quae 
+      <lb ed="#P" n="100"/>est praedicamenti qualitatis. Certum est enim Deo 
+      <lb ed="#P" n="101"/>nihil horum competere, quae in praedicamentis 
+      col<lb ed="#P" n="102" break="no"/>locantur, minime vero quicquam eorum quae 
+      quan<lb ed="#P" n="103" break="no"/>titatis extensionem vel divisionem consequuntur: 
+      <lb ed="#P" n="104"/>Sed nec ejusmodi vel unitas, vel numerus 
+      asscriben<lb ed="#P" n="105" break="no"/>dus est Deo, cujusmodi agnoscitur in creaturis 
+      spi<lb ed="#P" n="106" break="no"/>ritualibus atque incorporeis, quae quantitatis omnis 
+      <lb ed="#P" n="107"/>expertes sunt. Quamvis enim hujus generis unitas sit 
+      <lb ed="#P" n="108"/>quiddam transcendens nullam rei formam 
+      superad<lb ed="#P" n="109" break="no"/>dens; sed rem ipsam significans, quatenus in se 
+      indi<lb ed="#P" n="110" break="no"/>visa est, ratione tamen rei subjectae, naturam ejus 
+      de<lb ed="#P" n="111" break="no"/>signat ut limitatam, atque extra resalias positam. Qua 
+      <lb ed="#P" n="112"/>ratione in hujusmodi rebus pluribus seu 
+      multiplica<lb ed="#P" n="113" break="no"/>tis etiam numerus transcendens exoritur, secundum 
+      <lb ed="#P" n="114"/>quem res una ab altera, natura, vel qualitatibus 
+      dis<lb ed="#P" n="115" break="no"/>creta intelligitur. Unitas autem Deo attributa, etsi 
+      <lb ed="#P" n="116"/>sit instar unitatis transcendentis, quatenus nullam 
+      <lb ed="#P" n="117"/>Deo formam superaddit, non tamen in Deo aliquid 
+      <lb ed="#P" n="118"/>ut limitatum significat, sed supra rationem entis, 
+      so<lb ed="#P" n="119" break="no"/>lam addit multitudinis negationem, signincans 
+      vide<lb ed="#P" n="120" break="no"/>licet ens indivisum, quemadmodum &amp; numerus in 
+      <lb ed="#P" n="121"/>Deo, plurium quidem inter se distinctionem realem 
+      <lb ed="#P" n="122"/>significat, non ita tamen, ut ea plura, natura vel 
+      qua<lb ed="#P" n="123" break="no"/>litatibus discreta intelligantur ac singula suis velut 
+      li<lb ed="#P" n="124" break="no"/>mitibus circumsepta. 
+    </p>
+            <p xml:id="bt67yj-k30238-d1e231">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Ex his igitur patet tam unitatem quam numerum 
+      <lb ed="#P" n="126"/>in divinis non tantum removere quidpiam, sed 
+      re<lb ed="#P" n="127" break="no"/>vera aliquid ponere, videlicet ipsam rem iis vocibus 
+      <lb ed="#P" n="128"/>significatam. Verum sicut sapientia etsi aliquid ponat 
+      <lb ed="#P" n="129"/>in Deo, non tamen reipsa aliud est quam Dei 
+      essen<lb ed="#P" n="130" break="no"/>tia; ita de unitate ac numero sentiendum. Nam 
+      uni<lb ed="#P" n="131" break="no"/>tas in Deo non aliud est quam natura vel persona quae 
+      <lb ed="#P" n="132"/>dicitur una. Et dualitas vel trinitas non aliud quam 
+      <lb ed="#P" n="133"/>personae, quae duae vel tres dicuntur. Unde hac parte, 
+      <lb ed="#P" n="134"/>unitas &amp; numerus in divinis conveniunt cum unitate 
+      <lb ed="#P" n="135"/>&amp; numero transcendente in creaturis. 
+    </p>
+            <p xml:id="bt67yj-k30238-d1e261">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Porro quod Hilarius in lib. de synodis explicans 
+      <lb ed="#P" n="137"/>formulam fidei in Sardicensi concilio editam, dicit 
+      <lb ed="#P" n="138"/>divinam substantiam respuere numerum, id non 
+      <lb ed="#P" n="139"/>ad personas sed naturam referendum esse, ipse 
+      Hi<lb ed="#P" n="140" break="no"/>larius declarat, repetens verba, quibus illa Synodus 
+      <!--0105.xml-->
+      <pb ed="#P" n="82"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>anathematizat eos qui tres Deos esse dicerent. Ad 
+      <lb ed="#P" n="2"/>eundem modum videntur intelligendi Ambrosius 
+      <lb ed="#P" n="3"/>lib. 1. de fide ad Gra. c. 2. &amp; lib. 3. de spiritu sancto 
+      <lb ed="#P" n="4"/>cap. 14. Prudentius in Hamart. &amp; Boetius lib. I. de 
+      <lb ed="#P" n="5"/>trinit. cap. 3. cujus verba recitat Magister dist. 8. §. 1. 
+      <lb ed="#P" n="6"/>tametsi alii de quantitate numerali eos locutos 
+      inter<lb ed="#P" n="7" break="no"/>pretentur, quasi tantummodo discontinuum &amp; 
+      re<lb ed="#P" n="8" break="no"/>rum corporearum more discretum; a divinis 
+      remo<lb ed="#P" n="9" break="no"/>vere voluerint. Quamquam prior responsio magis 
+      <lb ed="#P" n="10"/>esse videtur ex mente authorum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

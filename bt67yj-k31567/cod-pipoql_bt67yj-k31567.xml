@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="84"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k31567"><!-- l1d27c1" -->
+            <head xml:id="bt67yj-k31567-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k31567-Hd1e103" type="question-title">Filium esse et genitum esse, quo ordine 
+      se habeant</head>
+            <p xml:id="bt67yj-k31567-d1e106">
+               <lb ed="#P" n="129"/>IN DISTINCTIONE, 
+      <lb ed="#P" n="130"/>VICESIMAMSEPTIMAM. 
+      <lb ed="#P" n="131"/>§. 1. Filium esse &amp; genitum esse, quo ordine 
+      <lb ed="#P" n="132"/>se habeant. 
+    </p>
+            <p xml:id="bt67yj-k31567-d1e117">
+               <lb ed="#P" n="133"/>PROPRIETATES personales ab Hilario positae I. 
+      <lb ed="#P" n="134"/>12. de Trinit. ubi dicit semper patri proprium p 
+      <lb ed="#P" n="135"/>esse, quod semper sit pater, &amp; semper filio 
+      <lb ed="#P" n="136"/>proprium esse, quod semper sit filius, (idemque de 
+      <lb ed="#P" n="137"/>spiritu sancto intelligendum) ab iis proprietatibus 
+      <lb ed="#P" n="138"/>quas Fulgentius (quem Aug. titulo citat Magister) 
+      <lb ed="#P" n="139"/>lib. de fide ad Petrum c. 1. &amp; 2. enumerat, videlicet 
+      <!--0108.xml-->
+      <pb ed="#P" n="85"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>genuisse, natum esse, &amp; procedere, non alio 
+      diffe<lb ed="#P" n="2" break="no"/>runt, quam quod proprietates a Fulgentio positae, 
+      <lb ed="#P" n="3"/>magis nobis insinuant actus notionales, in quibus 
+      <lb ed="#P" n="4"/>relationes fundantur; quae autem ab Hilario 
+      designa<lb ed="#P" n="5" break="no"/>tae sunt, relationes ipsas expressius significant. 
+      Pro<lb ed="#P" n="6" break="no"/>inde ad quaestionem quam §. E. movet Magister, 
+      <lb ed="#P" n="7"/>utrum potius dicendum sit, genitus est quia filius, 
+      <lb ed="#P" n="8"/>an filius est, quia genitus. Respondendum quamvis 
+      <lb ed="#P" n="9"/>reipsa idem significetur his vocabulis, filius &amp; 
+      geni<lb ed="#P" n="10" break="no"/>tus, propter rationis tamen diversitatem, &amp; ordinem 
+      <lb ed="#P" n="11"/>apprehensionis nostrae, potius dicendum quod sit 
+      <lb ed="#P" n="12"/>filius quia genitus, quam contra; quia ordine 
+      natu<lb ed="#P" n="13" break="no"/>rae prius mente concipimus actum aliquem, quam 
+      <lb ed="#P" n="14"/>relationem ex eo actu consequentem, atque in eo 
+      <lb ed="#P" n="15"/>fundatam. Est enim fundamentum ordine prius 
+      re<lb ed="#P" n="16" break="no"/>latione in ipso fundata. Quare &amp; similiter dicendum 
+      <lb ed="#P" n="17"/>est patrem esse quia genuit, &amp; Spiritum sanctum quia 
+      <lb ed="#P" n="18"/>processit, si relationem in nomine Spiritus sancti 
+      in<lb ed="#P" n="19" break="no"/>telligas. Si vero in vocabulis patris, &amp; filii, &amp; spiritus 
+      <lb ed="#P" n="20"/>sancti, non tam relationes spectemus, quam 
+      perso<lb ed="#P" n="21" break="no"/>nas relationibus distinctas, non erit par trium 
+      ratio<lb ed="#P" n="22" break="no"/>Nam proprietates filii &amp; Spiritus sancti, prius 
+      intelli<lb ed="#P" n="23" break="no"/>guntur origine, quam ipsae personae; quia nativitas 
+      <lb ed="#P" n="24"/>&amp; processio intelliguntur tanquam via quaedam, ut 
+      <lb ed="#P" n="25"/>personae sint. Contra vero persona patris prius 
+      intel<lb ed="#P" n="26" break="no"/>ligitur, quam proprietas ejus. Prius est enim ordine 
+      <lb ed="#P" n="27"/>intellectus nostri, ut res sit quam ut gignat, vel 
+      omni<lb ed="#P" n="28" break="no"/>no agat aliquid. Atque his consentanea sunt quae 
+      <lb ed="#P" n="29"/>docet S. Thomas 1. q. 40. art. 5. tractans hanc 
+      quae<lb ed="#P" n="30" break="no"/>stionem, utrum actus notionales praeintelligantur 
+      <lb ed="#P" n="31"/>proprietatibus. 
+    </p>
+            <p xml:id="bt67yj-k31567-d1e208">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Neque iis quae dicta sunt obstat quod Augustinus 
+      <lb ed="#P" n="33"/>dicit lib. 5. de Trinit. c. 7. ideo filium esse quia 
+      geni<lb ed="#P" n="34" break="no"/>tum, &amp; rursus ideo genitum quia filium, propterea 
+      <lb ed="#P" n="35"/>quod idem utroque vocabulo significetur. Intelligit 
+      <lb ed="#P" n="36"/>enim idem reipsa, non autem ratione vel modo 
+      si<lb ed="#P" n="37" break="no"/>gnificandi. Et quia res eadem est, recte docet 
+      utrum<lb ed="#P" n="38" break="no"/>que ex altero necessitate consequentiae colligi, 
+      quid<lb ed="#P" n="39" break="no"/>quid sit de ordine intelligentiae nostrae, de quo ibi 
+      <lb ed="#P" n="40"/>Augustinus non agit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

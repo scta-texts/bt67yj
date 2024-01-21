@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="24"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k08760"><!-- l1d5c2" -->
+            <head xml:id="bt67yj-k08760-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k08760-Hd1e103" type="question-title">Responsio ad ea quae ex patribus objiciuntur</head>
+            <p xml:id="bt67yj-k08760-d1e106">
+               <lb ed="#P" n="52"/>§. 2. Responsio ad ea quae ex patribus objiciuntur. 
+    </p>
+            <p xml:id="bt67yj-k08760-d1e111">
+               <lb ed="#P" n="53"/>DEcenset Magister aliquot dicta Patrum quae 
+      <lb ed="#P" n="54"/>superiori doctrinae contrariari videntur, velut 
+      <lb ed="#P" n="55"/>ista: Quod Deus de seipso id quod ipse est genuit. 
+      <lb ed="#P" n="56"/>Quod filius est sapientia de sapientia, consilium de 
+      <lb ed="#P" n="57"/>consilio, voluntas de voluntate, substantia de 
+      sub<lb ed="#P" n="58" break="no"/>stantia, essentia de essentia: Quod divinitas filii de 
+      <lb ed="#P" n="59"/>natura patris nata est, quod nihil nisi quod natum 
+      <lb ed="#P" n="60"/>est, habet filius. Quod nativitas Dei provecta est ex 
+      <lb ed="#P" n="61"/>natura patris. Quod genita natura in se gignentem 
+      <lb ed="#P" n="62"/>habuit naturam in forma naturae se gignentis 
+      ma<lb ed="#P" n="63" break="no"/>nens, formam naturae corporalis accepit. Quod ex 
+      <lb ed="#P" n="64"/>innascibili Deo nativitas unigenita in naturam 
+      uni<lb ed="#P" n="65" break="no"/>genitam subsistit. Quarum sententiarum prima est 
+      <lb ed="#P" n="66"/>apud Augustinum libro de fide &amp; symboloc. 3. 
+      se<lb ed="#P" n="67" break="no"/>cunda apud eundem libro 7. de trinitate capite 20. 
+      <lb ed="#P" n="68"/>Tertia apud Fulgentium de fide ad Petrum cap. 2. 
+      <lb ed="#P" n="69"/>Quarta apud Hilarium lib. 4. de trinitate. Quinta 
+      <lb ed="#P" n="70"/>apud eundem l. 5. Sexta &amp; Septima apud eundem I. 
+      <lb ed="#P" n="71"/>9. His a Magistro recitatis &amp; alia similia reperiuntur 
+      <lb ed="#P" n="72"/>alibi. Quale est illud apud Athanasium in symbolo, 
+      <!--0047.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Deus ex substantia patris ante saecula genitus. Qui 
+      <lb ed="#P" n="74"/>modus loquendi satis frequens est apud veteres, 
+      Hie<lb ed="#P" n="75" break="no"/>ronymus quoque initio commentarii sui in 
+      Mat<lb ed="#P" n="76" break="no"/>thaeum, nativitatem filii Dei ex patre vocat 
+      genera<lb ed="#P" n="77" break="no"/>tionem divinitatis. Et Augustinus praeter jam dicta 
+      <lb ed="#P" n="78"/>sermone 63. de diversis capite 12. dicit quod Deus 
+      <lb ed="#P" n="79"/>pater est pater verbi &amp; sapientiae suae &amp; virtutis 
+      suae<lb ed="#P" n="80" break="no"/>Idemque lib. 7. de trinit. cap. 2. &amp; libro 15. cap. 
+      <lb ed="#P" n="81"/>14. affirmat, quod filius est fons essendi de fonte 
+      es<lb ed="#P" n="82" break="no"/>sendi, quomodo &amp; apud Prudentium legitur in 
+      apo<lb ed="#P" n="83" break="no"/>theosi contra Patripassianos quod parer est fons 
+      <lb ed="#P" n="84"/>Deitatis. Rursum Augustinus libro 15. de trinitate 
+      <lb ed="#P" n="85"/>capite 15. &amp; 20. Verbum esse dixit filium substantiae 
+      <lb ed="#P" n="86"/>patris. Unde &amp; Ludovicus Vives initio expositionis 
+      <lb ed="#P" n="87"/>suae in orationem Dominicam, ausus fuit dicere 
+      <lb ed="#P" n="88"/>Christum filium omnipotentis essentiae ac naturae 
+      <lb ed="#P" n="89"/>Dei patris. His adde quod apud Dionysium de 
+      di<lb ed="#P" n="90" break="no"/>vinis nominibus capite 2. &amp; Pachymerem ejus 
+      in<lb ed="#P" n="91" break="no"/>terpretem, &amp; Eusebium libro 1. histor. capite 4. dr 
+      <lb ed="#P" n="92"/>cuntur filius &amp; Spiritus sanctus essentiati, quod 
+      vo<lb ed="#P" n="93" break="no"/>cabulum significare videtur ipsius essentiae 
+      produ<lb ed="#P" n="94" break="no"/>ctionem. Ob hujusmodi authoritates Patrum 
+      vehe<lb ed="#P" n="95" break="no"/>mentissime contendit Richardus a sancto Victore 
+      <lb ed="#P" n="96"/>libro 6. de trinit. cap. 22. &amp; 23. simpliciter 
+      asseren<lb ed="#P" n="97" break="no"/>dum esse quod substantia genuit substantiam, &amp; eos 
+      <lb ed="#P" n="98"/>qui hoc dicere non audent acerbe &amp; false 
+      reprehen<lb ed="#P" n="99" break="no"/>dit tanquam id negantes, quod passim a sanctis 
+      Pa<lb ed="#P" n="100" break="no"/>tribus affirmatur 
+    </p>
+            <p xml:id="bt67yj-k08760-d1e222">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Verum ob rationes supra positas ac potissimum 
+      <lb ed="#P" n="102"/>propter authoritatem magni concilii Lateranensis, 
+      <lb ed="#P" n="103"/>in, quo Magistri sententia fuit approbata capite 2 
+      <lb ed="#P" n="104"/>relato in decretales titulo de summa Trinitate, &amp; 
+      <lb ed="#P" n="105"/>fide Catholica capite firmiter credimus, potius 
+      <lb ed="#P" n="106"/>Magistro quam Richardo assentiendum est, atque 
+      <lb ed="#P" n="107"/>ad objecta respondendum, quod in ejusmodi 
+      sen<lb ed="#P" n="108" break="no"/>tentiis Patrum, non tam quid dixerint quam quid 
+      <lb ed="#P" n="109"/>significare voluerint, nobis sit considerandum. Cum 
+      <lb ed="#P" n="110"/>enim saepenumero improprie ac figurate, interdum 
+      <lb ed="#P" n="111"/>etiam dure loquantur, non omnia illorum dicta 
+      <lb ed="#P" n="112"/>sunt ad praescriptam nobis regulam exigenda, sed 
+      <lb ed="#P" n="113"/>quaedam commoda interpretatione mollienda, dum 
+      <lb ed="#P" n="114"/>de mente eorum aliunde satis constet. Nec 
+      Richar<lb ed="#P" n="115" break="no"/>di sententiam adjuvat quod patres multoties sic 
+      lo<lb ed="#P" n="116" break="no"/>cuti inveniantur, quodque nemo legatur aperte 
+      <lb ed="#P" n="117"/>damnasse ejusmodi locutionem. Dicimus enim 
+      Pa<lb ed="#P" n="118" break="no"/>tres locutos esse improprie. Atqui locutiones 
+      im<lb ed="#P" n="119" break="no"/>propriae saepe valde sunt usitatae, nec tamen ob id 
+      <lb ed="#P" n="120"/>proprietatis jure donandae, nec ad disciplinas quae 
+      <lb ed="#P" n="121"/>propriis uti volunt sententiis, recipiendae. Sic 
+      e<lb ed="#P" n="122" break="no"/>nim etiam frequentissime dicunt Patres verbum 
+      <lb ed="#P" n="123"/>Dei suscepisse hominem, rarius autem 
+      humanita<lb ed="#P" n="124" break="no"/>tem, cum tamen istud proprie dicatur, illud 
+      impro<lb ed="#P" n="125" break="no"/>prie: ideoque per hanc propriam locutionem 
+      expo<lb ed="#P" n="126" break="no"/>nendum. Quod si contenderemus ideo improprie 
+      <lb ed="#P" n="127"/>dici quia frequens occurrit in libris veterum 
+      haere<lb ed="#P" n="128" break="no"/>sium, inde exstrueremus Nestorianam, quae ponit 
+      <lb ed="#P" n="129"/>personam humanam assumptam a persona filii Dei. 
+      <lb ed="#P" n="130"/>Siquidem homo personam proprie significat 
+      hu<lb ed="#P" n="131" break="no"/>manam. Sed de ea re in libro 3. Ut igitur 
+      impro<lb ed="#P" n="132" break="no"/>prietatem supra dictarum sententiarum explicemus, 
+      <lb ed="#P" n="133"/>atque ad proprium sermonem redigamus: Prima 
+      <lb ed="#P" n="134"/>earum significat quod pater genuit filium qui est 
+      <lb ed="#P" n="135"/>hoc ipsum quod pater, licet non idem ipse qui 
+      pa<lb ed="#P" n="136" break="no"/>ter. Secunda quod filius qui est sapientia, &amp; 
+      essen<lb ed="#P" n="137" break="no"/>tia, &amp; consilium, &amp;c. sit de patre qui est sapientia &amp; 
+      <lb ed="#P" n="138"/>essentia, &amp;c. quodque sapientiam &amp; essentiam ac 
+      <lb ed="#P" n="139"/>caetera omnia filius per generationem habeat a 
+      pa<lb ed="#P" n="140" break="no"/>tre. Tertia, quod filius a patre divinitatem 
+      nascen<lb ed="#P" n="141" break="no"/>do accepit: Quarta, quod filius nihil habet nisi 
+      <lb ed="#P" n="142"/>quod a patre nascendo accepit. Quinta, quod filius 
+      <lb ed="#P" n="143"/>natus ejusdem est naturae cum patre ex quo natus est. 
+      <lb ed="#P" n="144"/>Sexta, quod genitus filius habuit naturam 
+      gignen<lb ed="#P" n="145" break="no"/>tis, in qua manens suscepit naturam humanam. 
+      Po<lb ed="#P" n="146" break="no"/>strema, quod ex patre ingenito filius unigenitus in 
+      <!--0048.xml-->
+      <pb ed="#P" n="25"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>natura unica generatione communicata subsistat. 
+      <lb ed="#P" n="2"/>Idcirco autem confidentius hisce modis locuti 
+      <lb ed="#P" n="3"/>sunt Patres, quia contra Arianos cum quibus illis 
+      <lb ed="#P" n="4"/>disputatio erat, inculcare voluerunt filium esse 
+      pa<lb ed="#P" n="5" break="no"/>tri consubstantialem, eundemque ex patre 
+      geni<lb ed="#P" n="6" break="no"/>tum, non a patre factum, &amp; proinde quidquid a 
+      <lb ed="#P" n="7"/>patre habet, habere per generationem. Ex his jam 
+      <lb ed="#P" n="8"/>satis intelligitur quomodo &amp; aliae similis formae 
+      lo<lb ed="#P" n="9" break="no"/>cutiones in scriptis Patrum occurrentes, exponi 
+      <lb ed="#P" n="10"/>debeant. Nam apud Hieronymum generatio 
+      divi<lb ed="#P" n="11" break="no"/>nitatis, non aliud est quam generatio secundum 
+      di<lb ed="#P" n="12" break="no"/>vinitatem, quae opponitur generationi secundum 
+      <lb ed="#P" n="13"/>humanitatem, utraque enim Christo competit: 
+      Au<lb ed="#P" n="14" break="no"/>gustinus autem Deum dixit esse patrem virtutis &amp; 
+      <lb ed="#P" n="15"/>sapientiae suae, quia est pater filii quiest virtus &amp; 
+      sa<lb ed="#P" n="16" break="no"/>pientia patris. Item dixit verbum esse filium 
+      substan<lb ed="#P" n="17" break="no"/>tiae patris, quia est filius patris secundum 
+      substan<lb ed="#P" n="18" break="no"/>tiam quam ei pater gignendo communicavit. 
+      Ve<lb ed="#P" n="19" break="no"/>rum hujusmodi impropriae locutiones non sunt a 
+      <lb ed="#P" n="20"/>Neotericis affectandae, maxime post improbationem 
+      <lb ed="#P" n="21"/>Concilii Lateranensis. Notandus tamen est ordo 
+      <lb ed="#P" n="22"/>quidam inter abstracta, ut bene admonent S. 
+      Tho<lb ed="#P" n="23" break="no"/>mas &amp; Scotus super hanc distinctionem. Plus enim 
+      <lb ed="#P" n="24"/>abstrahit essentia, quam substantia, &amp; plus 
+      sub<lb ed="#P" n="25" break="no"/>stantia quam sapientia, virtus, bonitas, &amp; 
+      hujus<lb ed="#P" n="26" break="no"/>modi. Unde minus concedendum est essentiam 
+      ge<lb ed="#P" n="27" break="no"/>nerare, quam substantiam, &amp; minus substantiam 
+      <lb ed="#P" n="28"/>quam sapientiam, &amp;c. Omnia tamen haec improprie 
+      <lb ed="#P" n="29"/>dicuntur, ideoque nullae tales locutiones sunt 
+      ex<lb ed="#P" n="30" break="no"/>tendendae, inquit S. Thomas, sed ubi reperiuntur, 
+      <lb ed="#P" n="31"/>pie interpretandae. Porro nihil absurdi est filium &amp; 
+      <lb ed="#P" n="32"/>Spiritum sanctum dici essentiatos, sicut &amp; patrem 
+      <lb ed="#P" n="33"/>essentiatorem, si essentiator ille intelligitur qui dat 
+      <lb ed="#P" n="34"/>essentiam, essentiatus autem qui accipit, quae 
+      ex<lb ed="#P" n="35" break="no"/>positio videtur satis propria, non enim eadem sunt 
+      <lb ed="#P" n="36"/>dare essentiam &amp; eam gignere. Nam proprie etiam 
+      <lb ed="#P" n="37"/>in humanis filius gignitur, &amp; essentia datur seu 
+      com<lb ed="#P" n="38" break="no"/>municatur. Quod vero ad illam phrasim attinet, 
+      <lb ed="#P" n="39"/>quae est in symbolo Athanasii, &amp; frequenter apud 
+      <lb ed="#P" n="40"/>veteres, filium esse, seu genitum esse de, vel ex 
+      sub<lb ed="#P" n="41" break="no"/>stantia patris, recte docent S. Thomas, 
+      Bonaventu<lb ed="#P" n="42" break="no"/>ra, Scotus &amp; alii super hac distinctione, locutionem 
+      <lb ed="#P" n="43"/>esse propriam &amp; omnino retinendam, qualis &amp; illa 
+      <lb ed="#P" n="44"/>quae in symbolo sequitur: Et homo ex substantia 
+      <lb ed="#P" n="45"/>matris in saeculo natus. Non enim talis sermo 
+      signi<lb ed="#P" n="46" break="no"/>ficat substantiam generare, aut eum qui generatur 
+      <lb ed="#P" n="47"/>substantiae filium esse, sed patrem seu matrem 
+      gi<lb ed="#P" n="48" break="no"/>gnere filium ejusdem secum substantiae atque 
+      natu<lb ed="#P" n="49" break="no"/>rae. Nam praepositio, de, vel ex, (solent enim hae 
+      <lb ed="#P" n="50"/>duae praepositiones indifferenter in materia 
+      genera<lb ed="#P" n="51" break="no"/>tionis usurpari, licet S. Thomas distinguat) proprie 
+      <lb ed="#P" n="52"/>designat principium simul &amp; consubstantialitatem 
+      <lb ed="#P" n="53"/>Hoc autem principium in proposito duplex est, 
+      al<lb ed="#P" n="54" break="no"/>terum quod, ut pater, alterum quo, ut essentia. Est 
+      <lb ed="#P" n="55"/>igitur filius de patre &amp; de essentia patris, de patre 
+      <lb ed="#P" n="56"/>quidem tanquam de principio generante, de 
+      essen<lb ed="#P" n="57" break="no"/>tia vero patris, tanquam de principio generationis 
+      <lb ed="#P" n="58"/>communicato. Unde etiam accedit hoc principium 
+      <lb ed="#P" n="59"/>teste S. Thoma quaest. 2. art. 1. ad similitudinem 
+      <lb ed="#P" n="60"/>materialis principii, si a materia removetur totum 
+      <lb ed="#P" n="61"/>quod est imperfectionis, &amp; remaneat haec sola de 
+      <lb ed="#P" n="62"/>conditionibus materiae quod est permanens in re 
+      <lb ed="#P" n="63"/>producta, quodque per eam res subsistat. Haec enim 
+      <lb ed="#P" n="64"/>perfectio competit essentiae divinae, respectu filii a 
+      <lb ed="#P" n="65"/>patre geniti.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

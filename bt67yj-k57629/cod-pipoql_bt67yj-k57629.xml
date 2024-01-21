@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="152"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k57629"><!-- l1d41c2" -->
+            <head xml:id="bt67yj-k57629-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k57629-Hd1e103" type="question-title">Quomodo intelligendum praedestinationem 
+      non esse ex meritis</head>
+            <p xml:id="bt67yj-k57629-d1e106">
+      <!--0175.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>§. 2. Quomodo intelligendum praedestinationem 
+      <lb ed="#P" n="75"/>non esse ex meritis.
+    </p>
+            <p xml:id="bt67yj-k57629-d1e117">
+               <lb ed="#P" n="76"/>QUamvis ex definitione praedestinationis &amp; 
+      effe<lb ed="#P" n="77" break="no"/>ctuum ejus explicatione, aliisque multis quae de 
+      <lb ed="#P" n="78"/>hoc argumento ad superiorem distinctionem dicta&amp; 
+      <lb ed="#P" n="79"/>declarata sunt, clare pateat homines non 
+      praedesti<lb ed="#P" n="80" break="no"/>nari a Deo ad vitam aeternam ex meritis praevisis, sed 
+      <lb ed="#P" n="81"/>ex gratuita ipsius Dei misericordia, qua nimirum 
+      <lb ed="#P" n="82"/>omne meritum praedestinatorum praeveniat; quia 
+      <lb ed="#P" n="83"/>tamen plurimi refert, ut hoc gratuitae 
+      praedestinatio<lb ed="#P" n="84" break="no"/>nis nostrae beneficium bene intelligatur &amp; 
+      agnosca<lb ed="#P" n="85" break="no"/>tur, cumque multiplicem ab adversariis 
+      contradi<lb ed="#P" n="86" break="no"/>ctionem haec doctrina jam olim passa fuerit, 
+      pluri<lb ed="#P" n="87" break="no"/>bus nunc eam ex professo tam ex scriptura quam ex 
+      <lb ed="#P" n="88"/>patribus, necnon argumentis a ratione petitis 
+      com<lb ed="#P" n="89" break="no"/>probemus. Qua in re ante omnia sciendum est, 
+      <lb ed="#P" n="90"/>quando negatur praedestinari hominem ex meritis 
+      <lb ed="#P" n="91"/>praevisis, non tantum excludi meritum condignum, 
+      <lb ed="#P" n="92"/>quale est bonorum operum ad vitam aeternam, 
+      ve<lb ed="#P" n="93" break="no"/>rum etiam meritum congruum sive disponens, 
+      qua<lb ed="#P" n="94" break="no"/>le agnoscit. S. Augustinus in fide &amp; poenitentia 
+      res<lb ed="#P" n="95" break="no"/>pectu remissionis peccatorum ep. 105. &amp; 106. &amp; 
+      pas<lb ed="#P" n="96" break="no"/>sim alibi, atque in genere quidquid boni potest 
+      in<lb ed="#P" n="97" break="no"/>telligi in homine, per quod Deus aliquo modo 
+      pro<lb ed="#P" n="98" break="no"/>vocetur ad eum praedestinandum, ut meritum hoc 
+      <lb ed="#P" n="99"/>loco intelligatur omne bonum alicujus 
+      retributio<lb ed="#P" n="100" break="no"/>nis provocativum, sive illud sit condignum ad illam 
+      <lb ed="#P" n="101"/>retributionem, sive congruum, sive aliquid 
+      utro<lb ed="#P" n="102" break="no"/>que minus; vel aliis verbis: omne bonum praecedens 
+      <lb ed="#P" n="103"/>respectu sequentis, quod illius intuitu dandum 
+      quo<lb ed="#P" n="104" break="no"/>cunque modo acquiritur aut acquiri potest. Sic 
+      au<lb ed="#P" n="105" break="no"/>tem meritum in hujus quaestionis tractatione 
+      acce<lb ed="#P" n="106" break="no"/>perunt non modo veteres Sanctus Augustinus, 
+      Pros<lb ed="#P" n="107" break="no"/>sper, Fulgentius, &amp; alii, verum etiam Theologi 
+      <lb ed="#P" n="108"/>posteriores, ac nominatim Sanctus Thomas 1. quaest. 
+      <lb ed="#P" n="109"/>23. art. 5. dum quaerit, utrum praescientia 
+      merito<lb ed="#P" n="110" break="no"/>rum sit causa praedestinationis. Nam in doctrina 
+      il<lb ed="#P" n="111" break="no"/>lius articuli, pro iisdem habet meritum, causam, 
+      <lb ed="#P" n="112"/>rationem praedestinationis, &amp; dicit quod quaerere 
+      <lb ed="#P" n="113"/>utrum ex parte effectus praedestinatio habeat 
+      ali<lb ed="#P" n="114" break="no"/>quam causam, idem sit quod quaerere, utrum Deus 
+      <lb ed="#P" n="115"/>praeordinaverit se daturum effectum 
+      praedestinatio<lb ed="#P" n="116" break="no"/>nis alicui propter merita aliqua. 
+    </p>
+            <p xml:id="bt67yj-k57629-d1e208">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Est praeterea notandum hanc doctrinam, qua 
+      do<lb ed="#P" n="118" break="no"/>cetur praedestinationem non esse ex meritis, 
+      coinci<lb ed="#P" n="119" break="no"/>dere cum illa quae tradit gratiam non dari secundum 
+      <lb ed="#P" n="120"/>merita nostra. Nam praedestinationem secundum 
+      <lb ed="#P" n="121"/>effectus suos in hac disputatione intelligi jam supra 
+      <lb ed="#P" n="122"/>admonuimus. Est autem omnis effectus 
+      praedestina<lb ed="#P" n="123" break="no"/>tionis gratia quaedam, licet non contra, 
+      quemadmo<lb ed="#P" n="124" break="no"/>dum patet in reprobis, quibus ipsis tamen gratia, 
+      <lb ed="#P" n="125"/>si qua datur, non secundum merita datur. Sicut 
+      <lb ed="#P" n="126"/>ergo generalis est acceptio meriti, cum negatur 
+      <lb ed="#P" n="127"/>gratia secundum merita dari, quemadmodum 
+      do<lb ed="#P" n="128" break="no"/>cetur ad dist. 26. lib. 2. sic &amp; hoc loco, cum idem 
+      <lb ed="#P" n="129"/>negatur de praedestinatione. 
+    </p>
+            <p xml:id="bt67yj-k57629-d1e242">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Caeterum in hac explicanda sententia qua dicitur 
+      <lb ed="#P" n="131"/>praedestinationis, id est, gratiae seu beneficii quod ho 
+      <lb ed="#P" n="132"/>mini praedestinato confertur a Deo, nullum esse 
+      me<lb ed="#P" n="133" break="no"/>ritum in eo qui praedestinatur, nonnihil variant 
+      do<lb ed="#P" n="134" break="no"/>ctores. Interdum enim meritum intelligunt quod 
+      <lb ed="#P" n="135"/>homini sit a seipso. Juxta quem intellectum ad 
+      sin<lb ed="#P" n="136" break="no"/>gulos praedestinationis effectus haec sententia 
+      refe<lb ed="#P" n="137" break="no"/>renda est. Licet enim prior gratia sit meritum 
+      poste<lb ed="#P" n="138" break="no"/>rioris, &amp; proinde effectus aliquis praedestinationis 
+      ca<lb ed="#P" n="139" break="no"/>dat sub merito, ut vita aeterna quae datur pro merito 
+      <lb ed="#P" n="140"/>bonorum operum, nullus tamen est praedestinationis 
+      <lb ed="#P" n="141"/>effectus quem homo ex seipso mereatur. Hunc 
+      expli<lb ed="#P" n="142" break="no"/>candi modum, in eo quod est, gratiam non secundum 
+      <lb ed="#P" n="143"/>merita dari, sequitur S. Augustinus lib. de gratia &amp; 
+      <lb ed="#P" n="144"/>lib. arb. cap. 6. &amp; 14. &amp; Prosper lib. 1. de 
+      vocatione<lb ed="#P" n="145" break="no"/>gentium cap. 7. &amp; 9.
+    </p>
+            <p xml:id="bt67yj-k57629-d1e281">
+      <!--0176.xml-->
+               <pb ed="#P" n="153"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Alias autem meritum intelligunt undecunque 
+      ho<lb ed="#P" n="2" break="no"/>mini proveniens, sive illud ex seipso habeat, sive 
+      <lb ed="#P" n="3"/>aliunde accipiat. Juxta quem sensum dici non 
+      po<lb ed="#P" n="4" break="no"/>test, nullum praedestinationis effectum, id est, 
+      nul<lb ed="#P" n="5" break="no"/>lum gratiae beneficium homini pro meritis reddi. 
+      <lb ed="#P" n="6"/>Nam ut dictum est, vita aeterna redditur pro 
+      meri<lb ed="#P" n="7" break="no"/>tis justitiae, &amp; peccatorum remissio pro merito 
+      fi<lb ed="#P" n="8" break="no"/>dei &amp; poenitentiae, quomodo patres saepe 
+      loquun<lb ed="#P" n="9" break="no"/>tur; proinde secundum hunc sententiae intellectum, 
+      <lb ed="#P" n="10"/>cum dicimus praedestinationis nullum esse meritum 
+      <lb ed="#P" n="11"/>in homine, significamus totam congeriem 
+      benefi<lb ed="#P" n="12" break="no"/>ciorum Dei, quibus ad aeternam vitam homo 
+      diri<lb ed="#P" n="13" break="no"/>gitur &amp; ordinatur, ipsa etiam vita aeterna 
+      com<lb ed="#P" n="14" break="no"/>prchensa, non habere meritum aliquod in ipso 
+      ho<lb ed="#P" n="15" break="no"/>mine, idque propterea quod omne hominis 
+      me<lb ed="#P" n="16" break="no"/>ritum, ordinans eum ad vitam aeternam, 
+      quantum<lb ed="#P" n="17" break="no"/>vis imperfectam, meriti rationem obtineat, sub 
+      ip<lb ed="#P" n="18" break="no"/>sa ejus praedestinatione comprehendatur, sive 
+      po<lb ed="#P" n="19" break="no"/>natur meritum fidei, sive bonae cognitionis, sive 
+      <lb ed="#P" n="20"/>conatus, sive acceptationis, sive quodcunque aliud, 
+      <lb ed="#P" n="21"/>ut ex sequentibus manifestius evadet. Revera 
+      au<lb ed="#P" n="22" break="no"/>tem hi duo modi, quibus haec doctrina explicata 
+      <lb ed="#P" n="23"/>invenitur, inter se conveniunt. Nam secundum 
+      <lb ed="#P" n="24"/>utrumque docetur primae gratiae seu primi effectus 
+      <lb ed="#P" n="25"/>praedestinationis nullum prorsus in homine esse 
+      me<lb ed="#P" n="26" break="no"/>ritum, posterioris autem cujuscunque gratiae, 
+      nul<lb ed="#P" n="27" break="no"/>lum tale meritum, quod homini sit a seipso. 
+      Quan<lb ed="#P" n="28" break="no"/>quam posterior explicatio qua simpliciter negatur 
+      <lb ed="#P" n="29"/>hominem ex meritis praedestinari, magis absoluta 
+      <lb ed="#P" n="30"/>est, non tantum excludens ipsius hominis merita 
+      <lb ed="#P" n="31"/>quaecunque, tametsi per Christi gratiam accepta, 
+      <lb ed="#P" n="32"/>verum etiam meritum Christi, quia &amp; hoc ipsum 
+      <lb ed="#P" n="33"/>meritum sub ordine praedestinationis nostrae 
+      conti<lb ed="#P" n="34" break="no"/>netur, ut alibi plenius declarandum est. Atque 
+      <lb ed="#P" n="35"/>hic sensus absolutus magis conformis est 
+      intentio<lb ed="#P" n="36" break="no"/>ni doctorum praesentem quaestionem de 
+      praedesti<lb ed="#P" n="37" break="no"/>nationis merito versantium, ut patet ex Sancto 
+      <lb ed="#P" n="38"/>Thoma loco supra citato &amp; aliis. Negant enim 
+      <lb ed="#P" n="39"/>praevisa bona opera mereri praedestinationem, non 
+      <lb ed="#P" n="40"/>quia non sunt merita ad sensum quaestionis (vere 
+      <lb ed="#P" n="41"/>enim hujusmodi sunt respectu mercedis vitae 
+      aeter<lb ed="#P" n="42" break="no"/>nae) sed quia non competit eis ratio meriti respectu 
+      <lb ed="#P" n="43"/>praedestinationis, cum sub ipsa praedestinatione 
+      con<lb ed="#P" n="44" break="no"/>tineantur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

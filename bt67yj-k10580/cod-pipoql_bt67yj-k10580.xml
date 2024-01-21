@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="29"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k10580"><!-- l1d7c5" -->
+            <head xml:id="bt67yj-k10580-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k10580-Hd1e103" type="question-title">Collatio duarum opinionum circa potentiam 
+      generandi</head>
+            <p xml:id="bt67yj-k10580-d1e106">
+               <lb ed="#P" n="60"/>§. 5. Collatio duarum opinionum circa potentiam 
+      <lb ed="#P" n="61"/>generandi.
+    </p>
+            <p xml:id="bt67yj-k10580-d1e113">
+               <lb ed="#P" n="62"/>IN explicanda superiori difficultate, variant 
+      non<lb ed="#P" n="63" break="no"/>nihil doctores. Nam Magister hac distinctio. &amp; 
+      <lb ed="#P" n="64"/>post eum Sanctus Thomas 1. quaest. 41. art. 5. Cui &amp; 
+      <lb ed="#P" n="65"/>Scotus subscribere videtur, docent propriam 
+      qui<lb ed="#P" n="66" break="no"/>dem esse patri gignendi potentiam, nec filio 
+      com<lb ed="#P" n="67" break="no"/>petere; non tamen quatenus est potentia, sed 
+      qua<lb ed="#P" n="68" break="no"/>tenus generandi, id est, non propter id quod in recto 
+      <lb ed="#P" n="69"/>significatur, sed quod in obliquo. Horum opinione 
+      <lb ed="#P" n="70"/>potentia generandi principaliter significat 
+      attribu<lb ed="#P" n="71" break="no"/>tum divinae naturae, sed ex adjuncto relationem. Un¬ 
+      <!--0052.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>de &amp; statuunt potentiam generandi convenire patri 
+      <lb ed="#P" n="73"/>ratione divinae naturae, licet ipse generandi actus ei 
+      <lb ed="#P" n="74"/>conveniat ratione personae. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e148">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Confirmant hanc opinionem tribus potissimum 
+      <lb ed="#P" n="76"/>argumentis, quorum hoc primum est: In rebus 
+      crea<lb ed="#P" n="77" break="no"/>tis potentia generandi competit supposito ratione 
+      na<lb ed="#P" n="78" break="no"/>turae, ut homini ratione naturae humanae; igitur &amp; in 
+      <lb ed="#P" n="79"/>divinis competit patri generandi potentia, ratione 
+      <lb ed="#P" n="80"/>naturae divinae. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e167">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Alterum, Genitum simile est gignenti in eo cujus 
+      <lb ed="#P" n="82"/>ratione fit generatio; atqui filius non est similis 
+      <lb ed="#P" n="83"/>patri secundum proprietatem personalem, sed 
+      se<lb ed="#P" n="84" break="no"/>cundum naturam. Quod pater tam in Deo quam in 
+      <lb ed="#P" n="85"/>homine; igitur generatio fit non ratione personae, sed 
+      <lb ed="#P" n="86"/>naturae. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e185">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Tertium ex authoritate Hilarii &amp; Joannis 
+      Da<lb ed="#P" n="88" break="no"/>masceni, quorum ille libro 5. de Trinitate circa 
+      fi<lb ed="#P" n="89" break="no"/>nem testatur Deum ex Deo genitum potestate &amp; 
+      <lb ed="#P" n="90"/>virtute naturae. Et infert: Nativitas igitur Dei non 
+      <lb ed="#P" n="91"/>potest non eam ex qua provecta est, tenere naturam. 
+      <lb ed="#P" n="92"/>Damascenus autem lib. 1. Orthod. cap. 8. dicit 
+      ge<lb ed="#P" n="93" break="no"/>nerationem opus esse naturae. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e205">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Porro aliorum sententia cujus authores sunt S. 
+      Bo<lb ed="#P" n="95" break="no"/>naventura &amp; Durandus, gignendi potentiam tribuit 
+      <lb ed="#P" n="96"/>patri ratione proprietatis personalis, sic ut potentia 
+      <lb ed="#P" n="97"/>gignendi etiam principaliter significet aliquid per 
+      <lb ed="#P" n="98"/>sonale non essentiale; Quo dato consequitur non 
+      <lb ed="#P" n="99"/>modo actum generandi, sed &amp; ejus actus potentiam 
+      <lb ed="#P" n="100"/>patri non ut Deus est, sed ut talis persona, 
+      compe<lb ed="#P" n="101" break="no"/>tere. Probatur haec sententia iisdem rationibus, 
+      qui<lb ed="#P" n="102" break="no"/>bus &amp; altera oppugnatur quarum haec prima est: Si 
+      <lb ed="#P" n="103"/>potentia gignendi competit patri ratione naturae. 
+      <lb ed="#P" n="104"/>cum natura sit filio communis, sequitut gignendi 
+      <lb ed="#P" n="105"/>potentiam etiam filio competere. Neque ad hoc 
+      ar<lb ed="#P" n="106" break="no"/>gumentum satis idonea videtur responsio, si cum 
+      <lb ed="#P" n="107"/>Magistro dicas potentiam generandi quae est in 
+      pa<lb ed="#P" n="108" break="no"/>tre, eandem esse cum potentia nascendi quae est in 
+      <lb ed="#P" n="109"/>filio; tum quia potentia generandi est potentia 
+      agen<lb ed="#P" n="110" break="no"/>di, qualis non est potentia nascendi; tum quia 
+      absur<lb ed="#P" n="111" break="no"/>dum est in eo quod gignitur, praeintelligere aliquam 
+      <lb ed="#P" n="112"/>potentiam, antequam existere cogitetur, cum per 
+      <lb ed="#P" n="113"/>ipsam generationem simul cum natura accipiat 
+      om<lb ed="#P" n="114" break="no"/>nem suam potentiam. Quae res ex analogia 
+      creatu<lb ed="#P" n="115" break="no"/>rarum facile potest intelligi. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e257">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Altera ratio: Quaerenti quare pater generet, non 
+      <lb ed="#P" n="117"/>recte respondetur, quia Deus est. Ita enim oporteret 
+      <lb ed="#P" n="118"/>&amp; filium generare, qui &amp; ipse Deus est: ergo 
+      quae<lb ed="#P" n="119" break="no"/>renti cur possit pater generare, similiter non recte 
+      <lb ed="#P" n="120"/>respondetur, quia Denus est. Nam &amp; hinc simili 
+      pror<lb ed="#P" n="121" break="no"/>sus argumento sequeretur etiam filium posse 
+      genera<lb ed="#P" n="122" break="no"/>re, cum &amp; ipse sit Deus. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e277">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Tertia, Gignere competit patri ratione potentiae 
+      <lb ed="#P" n="124"/>gignendi, ergo sicut gignere proprium est &amp; 
+      perso<lb ed="#P" n="125" break="no"/>nale, sic &amp; gignendi potentia. Id enim quod 
+      pluri<lb ed="#P" n="126" break="no"/>bus est commune, non potest esse ratio praesertim 
+      <lb ed="#P" n="127"/>adaequata ejus quod est uni proprium, qualis ratio est 
+      <lb ed="#P" n="128"/>gignendi potentiae cum voluntate conjunctae. 
+      <lb ed="#P" n="129"/>Hae rationes ut improbabilem ostendunt 
+      senten<lb ed="#P" n="130" break="no"/>tiam priorem: ita posteriorem multum confirmant. 
+      <lb ed="#P" n="131"/>Juxta quam etiam ut capite praecedenti declaratum 
+      <lb ed="#P" n="132"/>est, longe facilius haereticorum importunitati 
+      oc<lb ed="#P" n="133" break="no"/>curritur. Respondeo potentiam &amp; voluntatem 
+      gi<lb ed="#P" n="134" break="no"/>gnendi in Deo, non esse absolute potentiam &amp; 
+      vo<lb ed="#P" n="135" break="no"/>luntatem, sed tantum secundum quid. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e310">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Argumenta vero prioris opinionis, solvi possunt 
+      <lb ed="#P" n="137"/>hoc modo. Primum quidem quia non est verum, si 
+      <lb ed="#P" n="138"/>proprie loquamur, rebus creatis competere 
+      gignen<lb ed="#P" n="139" break="no"/>dipotentiam ratione naturae seu essentiae; sed potius 
+      <lb ed="#P" n="140"/>ratione cujusdam proprietatis naturalis, nimirum 
+      <lb ed="#P" n="141"/>foecunditatis, qua natura non in ipsa creatione, sed 
+      <lb ed="#P" n="142"/>post a Deo donata legitur, Gen. 1. Unde &amp; natura 
+      <lb ed="#P" n="143"/>in multis absque ejusmodi facultate consistit. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e333">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Ad secundum ita respondetur, ut constet inter 
+      <lb ed="#P" n="145"/>gignentem &amp; genitum similitudo, non oportet fie¬ 
+      <!--0053.xml-->
+      <pb ed="#P" n="30"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ri generationem ratione naturae in qua similes sunt, 
+      <lb ed="#P" n="2"/>sed sufficit ut gignens in tali sit natura, qualem 
+      ge<lb ed="#P" n="3" break="no"/>nito communicat, vel contra, talem naturam 
+      geni<lb ed="#P" n="4" break="no"/>to communicet, qualem ipse habet. Hoc autem est, 
+      <lb ed="#P" n="5"/>etiamsi generandi potentia competat patri ratione 
+      <lb ed="#P" n="6"/>proprietatis personalis. Alioquin isto argumento 
+      <lb ed="#P" n="7"/>non tantum potentia, sed &amp; actus gignendi 
+      docere<lb ed="#P" n="8" break="no"/>tur esse naturae non personae. 
+    </p>
+            <p xml:id="bt67yj-k10580-d1e366">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Ad postremum, Hilarii verba quomodo sint 
+      acci<lb ed="#P" n="10" break="no"/>pienda, ex iis quae circa distinct. 5. dicta sunt, 
+      ma<lb ed="#P" n="11" break="no"/>nifestum relinquimus; hoc interim addentes, 
+      Hila<lb ed="#P" n="12" break="no"/>rium per virtutem &amp; potestatem naturae, non aliud 
+      <lb ed="#P" n="13"/>intelligere, quam foecunditatem naturalem, quam 
+      <lb ed="#P" n="14"/>dicimus soli gignenti propriam. Significat enim id 
+      <lb ed="#P" n="15"/>quod omnibus in confesso est, patrem producere 
+      fi<lb ed="#P" n="16" break="no"/>lium per modum naturae, id est, naturalis 
+      foecundi<lb ed="#P" n="17" break="no"/>tatis. Et eadem ad Damascenum est responsio. Unde 
+      <lb ed="#P" n="18"/>nec dicunt hi Patres, quod Pater &amp; Filius producunt 
+      <lb ed="#P" n="19"/>Spiritum sanctum virtute naturae, aut quod spiratio 
+      <lb ed="#P" n="20"/>sit opus naturae; Quod tamen eadem ratione dicere 
+      <lb ed="#P" n="21"/>potuissent, si per naturam non aliud quam essentiam 
+      <lb ed="#P" n="22"/>iignificare voluissent. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

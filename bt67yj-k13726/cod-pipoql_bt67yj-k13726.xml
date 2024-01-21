@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="37"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k13726"><!-- l1d8c10" -->
+            <head xml:id="bt67yj-k13726-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-k13726-Hd1e103" type="question-title">Deum in nullo rerum genere collocari</head>
+            <p xml:id="bt67yj-k13726-d1e106">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> §. 10. Deum in nullo rerum genere collocari.
+    </p>
+            <p xml:id="bt67yj-k13726-d1e113">
+               <lb ed="#P" n="89"/>Uod in nullo rerum genere seu praedicamento 
+      <lb ed="#P" n="90"/>Deus collocetur, quemadmodum ex Aug. l. 5. 
+      <lb ed="#P" n="91"/>de trin.c. 1. recte colligit Magister, licet nonnulli 
+      dis<lb ed="#P" n="92" break="no"/>sentiant, breviter una &amp; altera ratione sic probatur. 
+    </p>
+            <p xml:id="bt67yj-k13726-d1e124">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Prior ratio, Deus nec genus est, nec species, nec 
+      <lb ed="#P" n="94"/>alicujus speciei individuum. Non genus, quia nullas 
+      <lb ed="#P" n="95"/>sub se species continet; Non species, quia cum sit res 
+      <lb ed="#P" n="96"/>simplicissima, non componitur ex genere &amp; 
+      differen<lb ed="#P" n="97" break="no"/>tia; Non individuum speciei, quia ex iisdem compo 
+      <lb ed="#P" n="98"/>nitur individuum ex quibus &amp; species. At neque 
+      re<lb ed="#P" n="99" break="no"/>duci poterit ad praedicamentum aliquod, quia 
+      redu<lb ed="#P" n="100" break="no"/>ctio est imperfectioris ad id quod magis perfectum 
+      <lb ed="#P" n="101"/>est: Deus autem res est omnium perfectissima. 
+    </p>
+            <p xml:id="bt67yj-k13726-d1e149">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Posterior: Si in ullo rerum genere collocandus sit 
+      <lb ed="#P" n="103"/>Deus, maxime pertinebit ad substantiae 
+      praedicamen<lb ed="#P" n="104" break="no"/>tum; Atqui Dei natura magis distat a substantiis 
+      <lb ed="#P" n="105"/>creatis, quam substantiae natura ab accidentibus 
+      <lb ed="#P" n="106"/>Substantia autem cum accidente non potest esse in 
+      <lb ed="#P" n="107"/>eodem genere; Multo minus igitur Deus cum 
+      sub<lb ed="#P" n="108" break="no"/>stantiis creatis, in eodem genere erit. Unde &amp; supra 
+      <lb ed="#P" n="109"/>ostensum est substantiae nomen, non perinde proprie 
+      <lb ed="#P" n="110"/>Deo tribui atque nomen essentiae. Qua de re aperta 
+      <lb ed="#P" n="111"/>est Aug. sententia l. 7. de trin. c. 4. &amp; 5. ubi inter 
+      <lb ed="#P" n="112"/>caetera manifestum esse affirmat, Deum abusive 
+      sub<lb ed="#P" n="113" break="no"/>stantiam vocari. Huc accedit authoritas Cyrilli qui 
+      <lb ed="#P" n="114"/>l. 1. thesauri cap. 4. scribit quod Deus non est 
+      pro<lb ed="#P" n="115" break="no"/>prie substantia, quomodo philosophi de substantia 
+      <lb ed="#P" n="116"/>locuti sunt, sed super substantiam; quia neque sub 
+      <lb ed="#P" n="117"/>genere est, neque accidentibus subsistit. Consentit &amp; 
+      <lb ed="#P" n="118"/>Beda, apud quem in sententiis ex Aristotele collectis 
+      <lb ed="#P" n="119"/>littera M. sic legitur: Manifestum est quod Deus 
+      <lb ed="#P" n="120"/>non habet genus, nec qualitatem, nec quantitatem. 
+      <lb ed="#P" n="121"/>Rationes autem quibus id probetur praeter 
+      supradi<lb ed="#P" n="122" break="no"/>ctas videat studiosus apud S. Th. 1. quaest. 3. art. 5.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

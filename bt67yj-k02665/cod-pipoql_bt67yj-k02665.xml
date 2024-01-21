@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="8"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k02665"><!-- l1d2c3" -->
+            <head xml:id="bt67yj-k02665-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k02665-Hd1e103" type="question-title">Tres esse Personas in divinis summarie 
+        ostenditur ex Scripturis</head>
+            <p xml:id="bt67yj-k02665-d1e106">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> §. 3. Tres esse Personas in divinis summarie 
+      <lb ed="#P" n="25"/>ostenditur ex Scripturis.
+    </p>
+            <p xml:id="bt67yj-k02665-d1e115">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> AD ostendendum Personarum pluralitatem, ac 
+      <lb ed="#P" n="27"/>distinctionem in Deo, solis divinis testimoniis 
+      <lb ed="#P" n="28"/>utendum est, ac sola divina authoritate nitendum: 
+      <lb ed="#P" n="29"/>quia mysterium hoc Trinitatis a lumine intellectus 
+      <lb ed="#P" n="30"/>nostri adeo remotum est, ut nulla humana ratione, 
+      <lb ed="#P" n="31"/>vel probabiliter possit ostendi. Divina testimonia 
+      <lb ed="#P" n="32"/>partim in sacris litteris, partim in traditione &amp; 
+      do<lb ed="#P" n="33" break="no"/>ctrina Ecclesiae posita sunt; Et quidem fides Ecclesiae, 
+      <lb ed="#P" n="34"/>de hoc mysterio post Scripturam maxime elucet, in 
+      <lb ed="#P" n="35"/>tribus Symbolis, nimirum Apostolico, 
+      Constantino<lb ed="#P" n="36" break="no"/>politano, &amp; eo, quod dicitur Athanasii. Haec enim 
+      <lb ed="#P" n="37"/>in Ecclesia plurimum frequentantur. Deinde in 
+      oecu<lb ed="#P" n="38" break="no"/>menicis Conciliis, Nicaeno, Constantinopolitano, 
+      <lb ed="#P" n="39"/>Calchedonensi, Lateranensi, ac denique in consensu 
+      <lb ed="#P" n="40"/>omnium Patrum, omniumque fidelium. Scripturae 
+      <lb ed="#P" n="41"/>vero loca praecipua, quibus Personarum in Deo 
+      Tri<lb ed="#P" n="42" break="no"/>nitas monstratur, haec sunt. Matt. ult. Baptizantes 
+      <lb ed="#P" n="43"/>eos in nomine Patris, &amp; Filii, &amp; Spiritus sancti. I. Joan. 
+      <lb ed="#P" n="44"/>5. tres sunt qui testimonium dant in caelo Pater, 
+      Ver<lb ed="#P" n="45" break="no"/>bum &amp; Spiritus sanctus, &amp; hi tres unum sunt. Gal. 4. 
+      <lb ed="#P" n="46"/>misit Deus spiritum filii sui in corda nostra, clamantem 
+      <lb ed="#P" n="47"/>Abba pater, Rom. 8. Si spiritus ejus qui suscitavit 
+      <lb ed="#P" n="48"/>Jesum a mortuis, habitat in vobis. Joan. 15. Cum 
+      ve<lb ed="#P" n="49" break="no"/>nerit Paracletus, quem ego mittam vobis a Patre, 
+      spiri<lb ed="#P" n="50" break="no"/>tum veritatis, qui a patre procedit. Quae scriptura non 
+      <lb ed="#P" n="51"/>modo trinitatem Personarum docet, sed &amp; ordinem 
+      <lb ed="#P" n="52"/>quemdam indicat inter eas, juxta processionis 
+      mo<lb ed="#P" n="53" break="no"/>dum. Nam Spiritum sanctum a Patre procedere 
+      a<lb ed="#P" n="54" break="no"/>perte pronunciat. Eundem autem etiam a Filio 
+      pro<lb ed="#P" n="55" break="no"/>cedere, insinuat, cum ait: Quem ego mittam vobis. 
+      <lb ed="#P" n="56"/>Filium quoque a Patre existere significat, per hoc 
+      <lb ed="#P" n="57"/>quod Filius, Spiritum missurus dicitur a 
+      Patre<lb ed="#P" n="58" break="no"/>Rursum de Patre &amp; Filio, Joan. 10. Ego &amp; Pater 
+      <lb ed="#P" n="59"/>unum sumus, &amp; Joan. 16. Omnia quae habet Pater, 
+      <lb ed="#P" n="60"/>mea sunt. &amp; Philip. 2. Qui cum in forma Dei esset, 
+      <lb ed="#P" n="61"/>non rapinam arbitratus est, esse se aequalem Deo, &amp; 
+      <lb ed="#P" n="62"/>complura alia.
+    </p>
+            <p xml:id="bt67yj-k02665-d1e200">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Quamvis autem Scriptura veteris Testamenti, 
+      par<lb ed="#P" n="64" break="no"/>cius de tanto mysterio locuta fuerit; nec ibi tamen 
+      <lb ed="#P" n="65"/>desunt loca, quae vel clarius, vel obscurius 
+      Persona<lb ed="#P" n="66" break="no"/>rum in Deo discrimen indicent. Et primum, Patris 
+      <lb ed="#P" n="67"/>&amp; Filii, ut Psal. 2. Dominus dixit ad me, Filius meus 
+      <lb ed="#P" n="68"/>es tu, ego hodie genui te. Et rursus pro eo quod est in 
+      <lb ed="#P" n="69"/>vulgata versione, Apprehendite disciplinam: Hebraice 
+      <lb ed="#P" n="70"/>est. Osculamini filium. &amp; Psal. 109. Dixit Dominus 
+      Do<lb ed="#P" n="71" break="no"/>mino meo, sede a dextris meis, quae duo loca dePatre &amp; 
+      <lb ed="#P" n="72"/>Filio intelligenda, docet Scriptura novi Testamenti, 
+      <!--0031.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Mart. 22. Act. 2. &amp; 13. Heb. 2. &amp; 5. Eodem pertinet 
+      <lb ed="#P" n="74"/>illud 2. Reg. 7. Ego ero illi in patrem &amp; ipse erit mihi in 
+      <lb ed="#P" n="75"/>filium, interpretante Apostolo Paulo Heb. I. Et illud 
+      <lb ed="#P" n="76"/>Michaeae 5. de filii nativitate, Egressus ejus ab initio, a 
+      <lb ed="#P" n="77"/>diebus aeternitatis. Quem locum Matth. 2. etiam 
+      sacer<lb ed="#P" n="78" break="no"/>dotes &amp; scribae Judarci populi ad Christum 
+      retule<lb ed="#P" n="79" break="no"/>runt, tametsi mysterium divinitatis ejus ignorantes. 
+      <lb ed="#P" n="80"/>Item Prov. 30. de Deo Sapiens ita interrogat, quod 
+      no<lb ed="#P" n="81" break="no"/>men est ejus&amp; quod nomen filii ejus, si nosti? Ubi 
+      innui<lb ed="#P" n="82" break="no"/>tur tam Filii, quam Patris naturam esse 
+      incomprehen<lb ed="#P" n="83" break="no"/>sibilem. Ecclesiasticus autem cap. ultimo: Invocavi, 
+      <lb ed="#P" n="84"/>inquit, Dominum patrem Domini mei. Apud quem 
+      <lb ed="#P" n="85"/>etiam cap. 24. sapientia Dei de se dicit; Ego ex ore 
+      <lb ed="#P" n="86"/>altißimi prodivi, primogenita ante omnem creaturam. 
+    </p>
+            <p xml:id="bt67yj-k02665-d1e262">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> De Spiritu sancto sunt haec &amp; hujusmodi 
+      testimo<lb ed="#P" n="88" break="no"/>nia. Isa. 61. Spiritus Domini super me. Et Psal. 138. 
+      <lb ed="#P" n="89"/>Quo ibo a Spiritu tuo? Quae sententia cum Spiritum 
+      <lb ed="#P" n="90"/>sanctum ubique esse testetur, divinitatem ejus 
+      aper<lb ed="#P" n="91" break="no"/>te declarat. Quale est &amp; illud Sap. 1. Spiritus Domini 
+      <lb ed="#P" n="92"/>replevit orbem terrarum, &amp; alia multa quae capite 7. 
+      <lb ed="#P" n="93"/>&amp; 8. ejusdem libri, de spiritu Dei scripta leguntur. 
+      <lb ed="#P" n="94"/>Item illud cap. 9. Sensum autem tuum quis sciet, nisi 
+      <lb ed="#P" n="95"/>tu dederis sapientiam, &amp; miseris spiritum sanctum tuum 
+      <lb ed="#P" n="96"/>de altissimis. Denique tres in Deitate Personas, una 
+      <lb ed="#P" n="97"/>sententia complexus est David Psal. 32. cum ait: 
+      Ver<lb ed="#P" n="98" break="no"/>bo Domini caeli firmati sunt, &amp; spirituoris ejus, omnis 
+      <lb ed="#P" n="99"/>virtus eorum. His praeterea accedit, quod statim 
+      ini<lb ed="#P" n="100" break="no"/>tio Genesis, &amp; postea in eodem libro, &amp; alibi per 
+      <lb ed="#P" n="101"/>universam Scripturam veteris Testamenti 
+      frequen<lb ed="#P" n="102" break="no"/>tissime Deus plurali numero vocatur, Elohim; Quae 
+      <lb ed="#P" n="103"/>res non videtur carere mysterio significandae 
+      Tri<lb ed="#P" n="104" break="no"/>nitatis. Nam etsi ad peculiarem phrasim Scripturae 
+      <lb ed="#P" n="105"/>Sacrae vel Hebraeae linguae hoc recte referatur; ratio 
+      <lb ed="#P" n="106"/>tamen illius phrasis jam inde ab initio usurpatae non
+      <lb ed="#P" n="107"/>
+               <!-- line order error -->alia convenientior reddi posse videtur, quam 
+      divini<lb ed="#P" n="108" break="no"/>
+               <!-- line order error -->tus ita provisum fuisse, ut tali modo loquendi 
+      my<lb ed="#P" n="109" break="no"/>
+               <!-- line order error -->sterium Trinitatis, per omnem fere Scripturam in 
+      <lb ed="#P" n="110"/>originali lingua tacite nobis insinuaretur. Unde 
+      <lb ed="#P" n="111"/>etiam est quod omnia nomina Dei in Scripturis, uno 
+      <lb ed="#P" n="112"/>excepto nomine tetragrammato, in quo maxime 
+      <lb ed="#P" n="113"/>divinae essentiae unitas commendatur, reperiantur 
+      <lb ed="#P" n="114"/>interdum numero plurali posita. Item quod nomen 
+      <lb ed="#P" n="115"/>Dei singulare, in Scripturis aliquando adjunctum 
+      <lb ed="#P" n="116"/>habet verbum vel adjectivum pluralis numeri, ut 
+      <lb ed="#P" n="117"/>Ecclesiast. 12. Memento creatoris tui, &amp; apud Job. 35. 
+      <lb ed="#P" n="118"/>Ubi est Deus factormeus, quibus locis in Hebraeo est, 
+      <lb ed="#P" n="119"/>factores, creatores, &amp; alibi non raro, in Psalmis &amp; 
+      <lb ed="#P" n="120"/>Prophetis; sicut &amp; contra persaepe Dei nomen, 
+      plu<lb ed="#P" n="121" break="no"/>rale adjunctum habet verbum singulare, ut in capite 
+      <lb ed="#P" n="122"/>libriGen. In principio creavit Deus caelum &amp; terram. 
+      <lb ed="#P" n="123"/>His enim loquendi modis convenienter videtur 
+      si<lb ed="#P" n="124" break="no"/>mul &amp; personarum in Deo pluralitas, &amp; essentiae 
+      <lb ed="#P" n="125"/>unitas significari; dum in eadem sententia numerus 
+      <lb ed="#P" n="126"/>pluralis cum singulari jungitur: &amp; hujusmodi 
+      qui<lb ed="#P" n="127" break="no"/>dem argumento, quod ex nomine Dei pluraliter 
+      <lb ed="#P" n="128"/>in Scripturis posito, sumptum est, utuntur Magister 
+      <lb ed="#P" n="129"/>in textu &amp; alii multi. Si quibus tamen videatur 
+      to<lb ed="#P" n="130" break="no"/>tum hoc ad nudam phrasim Hebraei sermonis, sive 
+      <lb ed="#P" n="131"/>mysterii significatione referendum esse; ideoque 
+      <lb ed="#P" n="132"/>parum solidum esse contendant argumentum quod 
+      <lb ed="#P" n="133"/>inde petitur, non est de ea re magnopere 
+      laboran<lb ed="#P" n="134" break="no"/>dum, cum aliae satis multae &amp; solidae possint 
+      ad<lb ed="#P" n="135" break="no"/>ferri ex Scripturis etiam veteris Testamenti, 
+      myste<lb ed="#P" n="136" break="no"/>rii hujus probationes: Quale est praeter ea quae 
+      su<lb ed="#P" n="137" break="no"/>pra allata sunt, illud imprimis quod Gen. 1. Deus 
+      <lb ed="#P" n="138"/>dicitur dixisse, Faciamus hominem ad imaginem &amp; 
+      <lb ed="#P" n="139"/>similitudinem nostram. Nam illae voces faciamus &amp; 
+      <lb ed="#P" n="140"/>nostram, numerum quemdam indicant personarum 
+      <lb ed="#P" n="141"/>in Deo, sicut hae voces imaginem &amp; similitudinem, 
+      <lb ed="#P" n="142"/>singulariter posita designant unitatem naturae. Nec 
+      <lb ed="#P" n="143"/>enim dici potest (ut quidam Hebraei volunt 
+      <lb ed="#P" n="144"/>Deum ibi sermonem convertere ad Angelos; tum 
+      <lb ed="#P" n="145"/>quia Angeli non fecerunt hominem, sed solus 
+      <lb ed="#P" n="146"/>Deus; tum quia homo nusquam legitur factus 
+      <!--0032.xml-->
+      <pb ed="#P" n="9"/>
+               <cb ed="#P" n="a"/>
+               <pc type="indent"/>
+               <lb ed="#P" n="1"/>ad imaginem, &amp; similitudinem Angelorum; sed 
+      so<lb ed="#P" n="2" break="no"/>lius Dei ad cujus imaginem &amp; similitudinem facti 
+      <lb ed="#P" n="3"/>sunt etiam ipsi Angeli. Sane locum hunc ad 
+      Trini<lb ed="#P" n="4" break="no"/>tatis mysterium retulerunt Patres, Hilarius lib. 3. &amp; 
+      <lb ed="#P" n="5"/>4. de Trin. Aug. in fine, lib. de Gen. imperfecti; &amp; 
+      <lb ed="#P" n="6"/>lib. 12. de Trin. cap. 6. &amp; lib. 14. cap. ultimo &amp; 
+      Ful<lb ed="#P" n="7" break="no"/>gentius de fide ad Petrum cap. 1. &amp; alii. Similiter nec 
+      <lb ed="#P" n="8"/>illud caret pluralitatis in Deo significandae mysterio, 
+      <lb ed="#P" n="9"/>quod dicit Deus Gen. 3. Ecce Adam quasi unus ex 
+      no<lb ed="#P" n="10" break="no"/>bis factus est, quia nimirum auscultaverat dicenti, 
+      <lb ed="#P" n="11"/>Eritis sicut Dii scientes bonum &amp; malum. Quo loco 
+      <lb ed="#P" n="12"/>in Heb. eadem vox est, quae uni vero Deo tribuitur 
+      <lb ed="#P" n="13"/>ut verti potuerit: Eritis sicut Deus, scientes bonum &amp; 
+      <lb ed="#P" n="14"/>malum; praesertim cum sit verisimile tentatorem 
+      sta<lb ed="#P" n="15" break="no"/>tim primo accessu voluisse homini persuadere 
+      Deo<lb ed="#P" n="16" break="no"/>rum pluralitatem, Similis est Scriptura. Gen. 11. 
+      Do<lb ed="#P" n="17" break="no"/>mino dicente: Venite, descendamus, &amp; 
+      confunda<lb ed="#P" n="18" break="no"/>mus ibi linguam eorum. In his enim verbis pluralitas, 
+      <lb ed="#P" n="19"/>imo Trinitas Personarum continetur, pluralitas 
+      <lb ed="#P" n="20"/>quidem, quia nemo sibi ipsi dicit, venite &amp; 
+      descenda<lb ed="#P" n="21" break="no"/>mus, &amp;c. Trinitas vero quia nec ad unum dicitur 
+      <lb ed="#P" n="22"/>venite, sed ad plures. Si ergo unus loquitur ad plures, 
+      <lb ed="#P" n="23"/>tres ut minimum esse oportet, nec est quod in 
+      hu<lb ed="#P" n="24" break="no"/>jusmodi confugiatur ad prhasim scripturae. Nusquam 
+      <lb ed="#P" n="25"/>enim in Scriptura legimus dictum: venite faciamus 
+      <lb ed="#P" n="26"/>hoc aut illud, ubi unus solus sibi ipsi loqueretur, &amp; 
+      <lb ed="#P" n="27"/>non potius ad alios sermonem converteret, ut hoc 
+      <lb ed="#P" n="28"/>eodem capite Genesis: venite faciamus lateres, Et 
+      <lb ed="#P" n="29"/>iterum venite faciamus nobis civitatem. Et cap. 37. 
+      <lb ed="#P" n="30"/>venite occidamus cum. Item Exod. 1. Venite sapienter 
+      <lb ed="#P" n="31"/>opprimamus eum. Et in Psal. Vemte exultemus Domino. 
+    </p>
+            <p xml:id="bt67yj-k02665-d1e479">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Sed forte putabit aliquis hoc saltem loco nihil 
+      <lb ed="#P" n="33"/>esse absurdi, si dicamus Deum haec verba locutum 
+      <lb ed="#P" n="34"/>ad angelos, juxta opinionem Hebraeorum. 
+      Respon<lb ed="#P" n="35" break="no"/>deo nusquam reperirisic ad angelos locutum Deum, 
+      <lb ed="#P" n="36"/>ut diceret, faciamus hoc aut illud: Deus enim 
+      prae<lb ed="#P" n="37" break="no"/>cipit angelis tanquam ministris suis, ut faciant, non 
+      <lb ed="#P" n="38"/>autem quasi sociis dicit faciamus. Praeterea ad hoc 
+      <lb ed="#P" n="39"/>mysterium significandum faciunt, quod Abraham, 
+      <lb ed="#P" n="40"/>Genes. 18. tres vidit &amp; unum adoravit, ut de eo 
+      ca<lb ed="#P" n="41" break="no"/>nit Ecclesia. Quod Gen. 19. dicitur, pluisse 
+      Domi<lb ed="#P" n="42" break="no"/>nus a Domino, id est, Filius a Patre. Sic enim eum 
+      <lb ed="#P" n="43"/>locum intelligi volunt Patres Concilii Syrmiensis 
+      a<lb ed="#P" n="44" break="no"/>pud Hilarium in libro de synodis &amp; quidem sub 
+      ana<lb ed="#P" n="45" break="no"/>themate. Item quod Oseae 1. scribitur: Dicit 
+      Domi<lb ed="#P" n="46" break="no"/>nus: Salvabo eos in Domino Deo suo, quod Zacha. 
+      <lb ed="#P" n="47"/>2. Dixit Dominus ad Satan increpet te Dominus, o 
+      <lb ed="#P" n="48"/>Satan. Et alia hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-k02665-d1e521">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Proferunt etiam nonnulli, illud initium Gen. In 
+      <lb ed="#P" n="50"/>principio creavit Deus coelum &amp; terram, videlicet 
+      ur<lb ed="#P" n="51" break="no"/>gentes Hebraicam dictionem quam noster interpres, 
+      <lb ed="#P" n="52"/>vertit, principium; illi autem putant, filium verti 
+      <lb ed="#P" n="53"/>posse hoc modo: in filio creavit Deus, &amp;c. Sic enim 
+      <lb ed="#P" n="54"/>Tertull. in lib. contra Praxeam, &amp; Hilarius in Psal. 
+      <lb ed="#P" n="55"/>2. Et alii quidam opinati sunt, ut refert 
+      Hierony<lb ed="#P" n="56" break="no"/>mus initio quaestionum Hebraicarum. Sed eodem 
+      <lb ed="#P" n="57"/>Hieronymo testante, falso id putant: non enim aliud 
+      <lb ed="#P" n="58"/>quam caput, principium, &amp; quod primum est 
+      cujus<lb ed="#P" n="59" break="no"/>que rei, vox Hebraea significat. Alii quidem ut 
+      me<lb ed="#P" n="60" break="no"/>minit Augustinus lib. II. de Civit. cap. 32. principii 
+      <lb ed="#P" n="61"/>vocabulum &amp; significatum retinent, sed tamen de 
+      <lb ed="#P" n="62"/>filio dictum putant, In principio, sicut ipse filius Joan. 
+      <lb ed="#P" n="63"/>8. se dixit esse principium. Itaque volunt initio 
+      to<lb ed="#P" n="64" break="no"/>tius Scripturae sacrae fidem Trinitatis nobis esse 
+      com<lb ed="#P" n="65" break="no"/>mendatam, quando quidem de tertia Persona statim 
+      <lb ed="#P" n="66"/>sequitur: Spiritus Domini ferebatur super aquas. 
+      Ve<lb ed="#P" n="67" break="no"/>rum hi quoque a simplici intelligentia Scripturae 
+      re<lb ed="#P" n="68" break="no"/>cedunt, qua in principio fuisse aut factum esse id 
+      di<lb ed="#P" n="69" break="no"/>citur, quo nihil prius fuit, aut factum est: sic enim &amp; 
+      <lb ed="#P" n="70"/>ipsum verbum fuit in principio; quia nihil fuit ante 
+      <lb ed="#P" n="71"/>ipsum. Nam si principium est Flius, cum dicitur: In 
+      <lb ed="#P" n="72"/>principio creavit, &amp;c. erit similiter principium Filius, 
+      <lb ed="#P" n="73"/>ubi dicitur: In principio erat verbum, cum sermo sit 
+      <lb ed="#P" n="74"/>similis. Atque ita sensus hujus erit, in filio fuisse ver¬ 
+      <!--0032.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>bum, id est, filium in seipso. Qui sensus proposito 
+      <lb ed="#P" n="76"/>Evangelistae minime convenit. Adde quod etsi filius 
+      <lb ed="#P" n="77"/>revera sit principium, nusquam tamen principii 
+      vo<lb ed="#P" n="78" break="no"/>cabulum filio appropriatum legimus, cum Patri 
+      ma<lb ed="#P" n="79" break="no"/>gis ac plenius id congruat ut docebitur ad dist. 29. 
+    </p>
+            <p xml:id="bt67yj-k02665-d1e597">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Quod vero ad illam attinet sententiam: Spiritus 
+      <lb ed="#P" n="81"/>Domini ferebatur super aquas, licet Hebraei spiritum 
+      <lb ed="#P" n="82"/>interpretentur flatum corporeum, id est ventum, 
+      si<lb ed="#P" n="83" break="no"/>cut in Psalmo dicitur, flabit Spiritus ejus &amp; fluent 
+      <lb ed="#P" n="84"/>aquae, Hieronymus tamen loco memorato docet ad 
+      <lb ed="#P" n="85"/>litteram Spiritum sanctum significari; atque huic 
+      in<lb ed="#P" n="86" break="no"/>tellectui, plerique Catholici scriptores concordant; 
+      <lb ed="#P" n="87"/>ita tamen ut dictum id intelligatur cum allusione ad 
+      <lb ed="#P" n="88"/>flatum corporeum, hoc aut simili sensu: Spiritus 
+      di<lb ed="#P" n="89" break="no"/>vinus incubabat aquis, id est, fovebat aquas simul 
+      <lb ed="#P" n="90"/>cum terra illi subjecta (nondum enim separatio 
+      a<lb ed="#P" n="91" break="no"/>quarum facta erat) ad futuram rerum 
+      germinatio<lb ed="#P" n="92" break="no"/>nem, quae nimirum fieri solet ex permixtione 
+      humo<lb ed="#P" n="93" break="no"/>ris cum materia terrestri. Si quis igitur Personarum 
+      <lb ed="#P" n="94"/>Trinitatem in hoc exordio Ghesis requirat, rectius 
+      <lb ed="#P" n="95"/>ille recurret ad Hebraeam vcem, Elobim, quae 
+      plu<lb ed="#P" n="96" break="no"/>ralis est numeri, &amp; si unum in numero facias, duos 
+      <lb ed="#P" n="97"/>ut minimum complectitur, quibus tertiam 
+      perso<lb ed="#P" n="98" break="no"/>nam adjungat statim post suo nomine significatam, 
+      <lb ed="#P" n="99"/>cum dicitur: Spiritus Domini, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k02665-d1e645">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Et haec quidem de Trinitate ex Scripturis 
+      utrius<lb ed="#P" n="101" break="no"/>que Testamenti summarie dicta sint. Nam pro 
+      divi<lb ed="#P" n="102" break="no"/>nitate Filii, separatim dist. 9. &amp; pro divinitate 
+      Spiri<lb ed="#P" n="103" break="no"/>tus sancti dist. 10. propria testimonia complura ex 
+      <lb ed="#P" n="104"/>iisdem Scripturis proferentur. Porro veterum 
+      Pa<lb ed="#P" n="105" break="no"/>trum scripta de hac re extant plurima, passim 
+      omni<lb ed="#P" n="106" break="no"/>bus legentibus obvia. Utrum autem ratione 
+      demon<lb ed="#P" n="107" break="no"/>strari possit hoc mysterium, &amp; in quibus creaturis 
+      <lb ed="#P" n="108"/>imago aut vestigium ejus inveniatur ad proximam 
+      <lb ed="#P" n="109"/>distinctionem declarandum est. Jam ut hoc loco 
+      sal<lb ed="#P" n="110" break="no"/>tem in genere admoneatur, qua cautela utendum sit, 
+      <lb ed="#P" n="111"/>loqui volentibus de hoc Sacro sancto Trinitatis 
+      my<lb ed="#P" n="112" break="no"/>sterio; ne vel unitatem naturae incauta locutione 
+      <lb ed="#P" n="113"/>quis dividat, vel Personarum discrimen confundat 
+      <lb ed="#P" n="114"/>diligenter consideranda sunt &amp; retinenda, quae 
+      <lb ed="#P" n="115"/>praescripta habemus in symbolo Athanasii, &amp; in 
+      li<lb ed="#P" n="116" break="no"/>bello Fulgentii de fide ad Petrum cap. 1. Caetera 
+      eo<lb ed="#P" n="117" break="no"/>dem pertinentia; ex iis quae circa distinctionem 4. 
+      <lb ed="#P" n="118"/>dicemus, petantur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

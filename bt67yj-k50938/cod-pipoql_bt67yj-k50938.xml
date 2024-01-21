@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="135"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k50938"><!-- l1d40c12" -->
+            <head xml:id="bt67yj-k50938-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-k50938-Hd1e103" type="question-title">Non omnes reprobos damnari propter originale 
+      peccatum, cum explicatione locorum Augustini</head>
+            <p xml:id="bt67yj-k50938-d1e106">
+               <lb ed="#P" n="29"/>§. 12. Non omnes reprobos damnari propter originale 
+      <lb ed="#P" n="30"/>peccatum, cum explicatione locorum Augustini. 
+    </p>
+            <p xml:id="bt67yj-k50938-d1e113">
+               <lb ed="#P" n="31"/>QUidam reprobationis causam quaerentes 
+      dixe<lb ed="#P" n="32" break="no"/>runt omnes homines qui pereunt, reprobari 
+      at<lb ed="#P" n="33" break="no"/>que damnari propter originale peccatum. Ponunt 
+      <lb ed="#P" n="34"/>enim Deum ab aeterno praevidisse totam massam 
+      hu<lb ed="#P" n="35" break="no"/>mani generis, ex praevaricatione primi parentis infe 
+      <lb ed="#P" n="36"/>ctum iri macula originalis peccati; ex qua massa 
+      <lb ed="#P" n="37"/>statuerit quosdam misericorditer liberare, alios vero 
+      <lb ed="#P" n="38"/>in ea juste derelinquere, qui proinde omnes propter 
+      <lb ed="#P" n="39"/>originale peccatum quo tota massa vitiata sit, 
+      repro<lb ed="#P" n="40" break="no"/>bentur atque damnentur, Deo videlicet ab eis pro 
+      <lb ed="#P" n="41"/>illo peccato justae damnationis debitum 
+      exigente<lb ed="#P" n="42" break="no"/>Quam opinionem probare nituntur ex variis 
+      Augu<lb ed="#P" n="43" break="no"/>stmi locis. Nam in epistola 105. sic habet: Quid enim 
+      <lb ed="#P" n="44"/>diligebat Deus in facob antequam natus fecisset 
+      ali<lb ed="#P" n="45" break="no"/>quid boni, nisi gratuitum misericordiae suae donum? 
+      <lb ed="#P" n="46"/>&amp; quid oderat in Esau antequam fecisset aliquid 
+      ma<lb ed="#P" n="47" break="no"/>li, nisi originale peccatum? &amp; quae sequuntur, ubi 
+      <lb ed="#P" n="48"/>nimirum hoc omnino velle videtur: Esau in massa 
+      <lb ed="#P" n="49"/>originalis iniquitatis derelictum, ac juste propter 
+      <lb ed="#P" n="50"/>eandem iniquitatem reprobatum, atque damnatum 
+      <lb ed="#P" n="51"/>esse. Quod autem de Esau dicit, idem vult esse 
+      judi<lb ed="#P" n="52" break="no"/>candum de omnibus reprobis etiam baptizatis aut 
+      <lb ed="#P" n="53"/>circumcisis, eo quod in Esau typum reproborum 
+      con<lb ed="#P" n="54" break="no"/>stituat Apostolus Rom. 9. Nam ipsum Esau sancti 
+      <lb ed="#P" n="55"/>patriarchae Isaac filium juxta Domini mandatum, 
+      <lb ed="#P" n="56"/>octavo die simul cum Jacob fratre suo circumcisum 
+      <lb ed="#P" n="57"/>fuisse, non est quod dubitetur. 
+    </p>
+            <p xml:id="bt67yj-k50938-d1e174">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Alius Augustini locus est lib. de corr. &amp; gratia 
+      <lb ed="#P" n="59"/>cap. 7. ubi dicit, omnes reprobos ex uno peccato 
+      <lb ed="#P" n="60"/>ire in damnationem, unum peccatum intelligens 
+      <lb ed="#P" n="61"/>originale, quod omnibus est commune. Quo etiam 
+      <lb ed="#P" n="62"/>loco semel &amp; iterum negat, justos non 
+      perseveran<lb ed="#P" n="63" break="no"/>tes discretos esse a massa perditionis. 
+    </p>
+            <p xml:id="bt67yj-k50938-d1e193">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Eadem fere tradit lib. I. ad Simpl. qu. 2. Ench. 94. 
+      <lb ed="#P" n="65"/>&amp; aliquot sequentibus lib. 2. contra 2. ep. Pel. c. 7. 
+      <lb ed="#P" n="66"/>lib. de praedestinatione sanctorum cap. 8. &amp; 9. &amp; 
+      <lb ed="#P" n="67"/>lib. de praedestinatione &amp; gratia cap. 3. 6. 7. &amp; 16. 
+      <lb ed="#P" n="68"/>Non dissimile est quod S. Thomas 2. 2. q. 2. art. 5. ad 
+      <lb ed="#P" n="69"/>1. scribit auxilium gratiae quibuscunque datur 
+      mi<lb ed="#P" n="70" break="no"/>sericorditer dari? quibus autem non datur ex 
+      ju<lb ed="#P" n="71" break="no"/>stitia non dari in poenam praecedentis peccati, &amp; 
+      <!--0158.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>saltem originalis, ut Augustinus dicit in libr. de
+      <lb ed="#P" n="73"/>corr. &amp; gra. ubi dicitur Augustini sententiam 
+      pro<lb ed="#P" n="74" break="no"/>bare. 
+    </p>
+            <p xml:id="bt67yj-k50938-d1e226">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Hanc opinionem ex perverso intellectu dictorum 
+      <lb ed="#P" n="76"/>Augustini conceptam, falsam &amp; erroneam esse 
+      con<lb ed="#P" n="77" break="no"/>stat. Docet enim fides Catholica juxta doctrinam 
+      <lb ed="#P" n="78"/>veterum patrum &amp; conc. Trid. sess. 5. cap. 5. remitti 
+      <lb ed="#P" n="79"/>in baptismo reatum originalis peccati dicente 
+      Apo<lb ed="#P" n="80" break="no"/>stolo, nihil esse damnationis iis qui sunt in Christo 
+      <lb ed="#P" n="81"/>Jesu. Non ergo reprobi quibus peccatum originale 
+      <lb ed="#P" n="82"/>dimissum fuerit, propter illud ipsum damnantur. 
+      <lb ed="#P" n="83"/>Neque dici potest Deum ab aeterno habuisse 
+      propo<lb ed="#P" n="84" break="no"/>situm privandi aliquem vita aeterna, aut damnandi 
+      <lb ed="#P" n="85"/>morte aeterna propter orignale peccatum in 
+      tempo<lb ed="#P" n="86" break="no"/>re ei dimittendum, tanquam ob demeritum cui illa 
+      <lb ed="#P" n="87"/>poena retribuatur; nisi quis dicat propter relapsum in 
+      <lb ed="#P" n="88"/>peccatum, revocari a Deo remissionem originalis 
+      <lb ed="#P" n="89"/>peccati semel factam, secundum eorum sententiam 
+      <lb ed="#P" n="90"/>qui putant peccata semel remissa, si quis in eadem 
+      <lb ed="#P" n="91"/>vel similia labatur, iterum a Deo ad aeternam 
+      vindi<lb ed="#P" n="92" break="no"/>ctam imputari. Quae doctrina satis ab omnibus 
+      do<lb ed="#P" n="93" break="no"/>ctoribus confutatur, ad dist. 22. libri 4. Neque 
+      ta<lb ed="#P" n="94" break="no"/>men haec re sponsio locum habere posset ad 
+      dissolven<lb ed="#P" n="95" break="no"/>da ea quae ex Augustino proferuntur, cum non 
+      di<lb ed="#P" n="96" break="no"/>cat Augustinus reprobos, qui ad tempus justi sunt, 
+      <lb ed="#P" n="97"/>recidere in massam originali peccato vitiatam, 
+      quan<lb ed="#P" n="98" break="no"/>do justitiam deserunt; sed ab ea nunquam fuisse 
+      <lb ed="#P" n="99"/>discretos. 
+    </p>
+            <p xml:id="bt67yj-k50938-d1e285">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Hac ergo opinione, atque ejus defensione 
+      repudia<lb ed="#P" n="101" break="no"/>ta, fatendum est secundum fidem Catholicam, 
+      repro<lb ed="#P" n="102" break="no"/>borum quosdam propter solum originale peccatum 
+      <lb ed="#P" n="103"/>damnari, ut parvulos quibus per sacramentum non 
+      <lb ed="#P" n="104"/>succurritur; quosdam propter solum actuale, ut 
+      adul<lb ed="#P" n="105" break="no"/>tos relapsos, qui nimirum ab originali peccato 
+      mun<lb ed="#P" n="106" break="no"/>dati &amp; justificati, in accepta justitia non perseverant; 
+      <lb ed="#P" n="107"/>alios vero omnes propter utrumque, videlicet 
+      adul<lb ed="#P" n="108" break="no"/>tos non regeneratos. Haec doctrina aperte colligitur 
+      <lb ed="#P" n="109"/>ex iis quae scribit Augustinus lib. de corr. &amp; gra. cap. 
+      <lb ed="#P" n="110"/>8. 9. &amp; 13. &amp; alibi saepe, necnon alii patres, dum 
+      se<lb ed="#P" n="111" break="no"/>cundum scripturas docent multos esse qui accepta 
+      <lb ed="#P" n="112"/>remissione peccatorum ad tempus bene vivant, non 
+      <lb ed="#P" n="113"/>tamen in justitia perseverent. Nominatim vero 
+      di<lb ed="#P" n="114" break="no"/>ctam opinionem velut erroneam improbat. Prosper 
+      <lb ed="#P" n="115"/>responsione 2. ad capitula Gallorum, a quibus 
+      Au<lb ed="#P" n="116" break="no"/>gustino occasione locorum superius citatorum 
+      im<lb ed="#P" n="117" break="no"/>ponebatur hic articulus: Quod ab eis qui non sunt 
+      <lb ed="#P" n="118"/>praedestinati ad vitam, non auferat percepta 
+      baptis<lb ed="#P" n="119" break="no"/>mi gratia originale peccatum. Sic enim de eo qui in 
+      <lb ed="#P" n="120"/>percepta gratia non perseverat pro Augustino 
+      res<lb ed="#P" n="121" break="no"/>pondet: Qui recedit a Christo, &amp; alienus a gratia finit 
+      <lb ed="#P" n="122"/>hanc vitam, quid nisi in perditionem cadit? Sed non 
+      <lb ed="#P" n="123"/>in id quod remissum est, recidit, nec in oricinali 
+      pec<lb ed="#P" n="124" break="no"/>cato damnabitur. Qui tamen propter postrema 
+      cri<lb ed="#P" n="125" break="no"/>mina ea morte afficietur, quae ei propter illa quae 
+      re<lb ed="#P" n="126" break="no"/>missa sunt, debebatur. Quod quia Dei praescientiam 
+      <lb ed="#P" n="127"/>nec latuit, nec fefellit, sine dubio talem nunquam 
+      <lb ed="#P" n="128"/>eligit, nunquam praedestinavit, &amp; periturum nunquam 
+      <lb ed="#P" n="129"/>ab aeterna perditione discrevit. Sic ille, breviter 
+      in<lb ed="#P" n="130" break="no"/>dicans quomodo illud accipiendum sit quod dicit 
+      <lb ed="#P" n="131"/>Augustinus, justos non perseverantes non esse 
+      dis<lb ed="#P" n="132" break="no"/>cretos a massa perditionis, videlicet non ita 
+      discre<lb ed="#P" n="133" break="no"/>tos, ut non sint perituri, quomodo ab ea discreti 
+      <lb ed="#P" n="134"/>sunt praedestinati, licet ad modicum tempus ab ea 
+      <lb ed="#P" n="135"/>separentur, mox in eam relapsuri, non infectione 
+      <lb ed="#P" n="136"/>originalis peccati, sed iniquitate actuali. Quod 
+      <lb ed="#P" n="137"/>ipsum tamen modicum comparatione totius 
+      aeter<lb ed="#P" n="138" break="no"/>nitatis, qua in ea mansuri &amp; cum ea puniendi sunt, 
+      <lb ed="#P" n="139"/>pro nihilo reputatur. 
+    </p>
+            <p xml:id="bt67yj-k50938-d1e376">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Ad illud vero quod dicit Augustinus Esau odio 
+      <lb ed="#P" n="141"/>habitum propter originale peccatum, 
+      responde<lb ed="#P" n="142" break="no"/>mus propheticum istud, Esau hodio habui, sicut ad 
+      <lb ed="#P" n="143"/>literam non tam ad ipsius Esau personam spectat, qui 
+      <lb ed="#P" n="144"/>fratri suo nunquam servivit, ut in ipso 
+      impleretur<lb ed="#P" n="145" break="no"/>illud: Major serviet minori; sed magis eum opibus, 
+      <!--0159.xml-->
+      <pb ed="#P" n="136"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>&amp; potentia superasse videtur Gen. 32. &amp; 33. quam ad 
+      <lb ed="#P" n="2"/>ejus posteros, qui a posteris Jacob tempore Davidis 
+      <lb ed="#P" n="3"/>subjugati leguntur, 2. Reg. 8. Unde &amp; matri dicebat 
+      <lb ed="#P" n="4"/>divinum oraculum: Duae gentes sunt in utero tuo, &amp;c. 
+      <lb ed="#P" n="5"/>ita nec allegorice ad ipsius personam spectare, cum 
+      <lb ed="#P" n="6"/>satis probabile sit eum ad salutem pervenisse; sed 
+      re<lb ed="#P" n="7" break="no"/>ferendum ad eum populum, cujus ille typum 
+      gere<lb ed="#P" n="8" break="no"/>bat, id est, ad totum genus reproborum, quorum 
+      <lb ed="#P" n="9"/>multo maxima pars merito origmalis peccati, reliqui 
+      <lb ed="#P" n="10"/>vero, qui hujus peccati veniam acceperint, incitante 
+      <lb ed="#P" n="11"/>eos ad alia peccata concupiscentiae fomite relicto ex 
+      <lb ed="#P" n="12"/>originali peccato, praecipitantur in damnationem. 
+      <lb ed="#P" n="13"/>Quamvis igitur multi damnantur non propter origi 
+      <lb ed="#P" n="14"/>nale peccatum, quod in eis remissum est, sed tantum 
+      <lb ed="#P" n="15"/>propter actualia; videtur tamen originalis peccati 
+      <lb ed="#P" n="16"/>permissio etiam in istis esse quidam effectus, 
+      quate<lb ed="#P" n="17" break="no"/>nus hujus peccati occasione recidunt in alta peccata, 
+      <lb ed="#P" n="18"/>propter quae damnantur. Et id dicimus Augustinum 
+      <lb ed="#P" n="19"/>voluisse. 
+    </p>
+            <p xml:id="bt67yj-k50938-d1e441">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Ad alium locum similiter respondetur, ideo dictum 
+      <lb ed="#P" n="21"/>omnes ex uno orignali peccato ire in damnationem, 
+      <lb ed="#P" n="22"/>quia in illo uno juxta sensum jam explicatum, 
+      dam<lb ed="#P" n="23" break="no"/>nationis omnium est quaedam origo. Quamvis enim 
+      <lb ed="#P" n="24"/>in multis remissum sit ac reatu transierit, actu tamen 
+      <lb ed="#P" n="25"/>permanet, ut idem August. libr. 1. de nupt. &amp; conc. 
+      <lb ed="#P" n="26"/>cap. 25. 26. &amp; 27. atque alibi docet. Manet enim 
+      <lb ed="#P" n="27"/>concupiscentia peccatorum fomes, quae postea per 
+      <lb ed="#P" n="28"/>consensum trahit hominem in damnationem. 
+      Unus<lb ed="#P" n="29" break="no"/>quisque enim, ut ait Jacob. I. tentatur a concupiscentia 
+      <lb ed="#P" n="30"/>sua abstractus &amp; illectus. Ex qua genitum peccatum 
+      <lb ed="#P" n="31"/>generat mortem. Unde Prosper resp. 1. ad capitula 
+      <lb ed="#P" n="32"/>Gallorum &amp; resp. 10. ad objectiones Vinc. 
+      proclivi<lb ed="#P" n="33" break="no"/>tatem peccandi &amp; pravas cupiditates hominum, 
+      re<lb ed="#P" n="34" break="no"/>fert in praevaricationem primi parentis, a quo 
+      con<lb ed="#P" n="35" break="no"/>tractum est malum originale. Ex quibus &amp; illud 
+      con<lb ed="#P" n="36" break="no"/>firmatur, primae illius praevaricationis 
+      permissio<lb ed="#P" n="37" break="no"/>nem, non male constitui effectum quemdam 
+      repro<lb ed="#P" n="38" break="no"/>bationis respectu omnium reprobatorum.
+    </p>
+            <p xml:id="bt67yj-k50938-d1e487">
+               <lb ed="#P" n="39"/>Porro Sanct. Thomas de iis loquitur quibus 
+      origi<lb ed="#P" n="40" break="no"/>nale peccatum non est dimissum, non de omnibus 
+      l<lb ed="#P" n="41" break="no"/>reprobis in universum. Unde non dicit, 
+      quibuscun<lb ed="#P" n="42" break="no"/>que, sicut in priore parte; sed quibus non datur. 
+      <lb ed="#P" n="43"/>Quod est bene notandum, ne putetur auxilii gratiae 
+      <lb ed="#P" n="44"/>subtractio in omnibus &amp; semper esse poena 
+      praece<lb ed="#P" n="45" break="no"/>dentis alicujus peccati ipsorum, cum id de angelo 
+      <lb ed="#P" n="46"/>&amp; primo homine dici nullo modo possit. 
+    </p>
+            <p xml:id="bt67yj-k50938-d1e508">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> Obiter autem admoneo librum de praedestinatione 
+      <lb ed="#P" n="48"/>&amp; gratia, qui inter alios in contrarium fuit 
+      allega<lb ed="#P" n="49" break="no"/>tus, non esse Augustini, sed incogniti, nec 
+      admo<lb ed="#P" n="50" break="no"/>dum probati authoris.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

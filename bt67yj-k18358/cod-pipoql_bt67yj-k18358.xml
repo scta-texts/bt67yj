@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="49"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k18358"><!-- l1d10c6" -->
+            <head xml:id="bt67yj-k18358-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k18358-Hd1e103" type="question-title">Quaedam in contrarium objectiones diluuntur</head>
+            <p xml:id="bt67yj-k18358-d1e106">
+               <lb ed="#P" n="105"/>§. 6. Quaedam in contrarium objectiones diluuntur.
+    </p>
+            <p xml:id="bt67yj-k18358-d1e111">
+               <lb ed="#P" n="106"/>NUnc ea quae contra divinitatem Spiritus sancti, 
+      <lb ed="#P" n="107"/>I partim ex authoritate, partim ex ratione objici; 
+      <lb ed="#P" n="108"/>solent argumenta dissolvamus. 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e120">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Ac primo quidem ex scripturis olim objiciebant 
+      <lb ed="#P" n="110"/>Ariani illud Amos 4. secundum versionem 70. 
+      Domi<lb ed="#P" n="111" break="no"/>tians in homines Christum suum. Ex quo loco 
+      Spiri<lb ed="#P" n="112" break="no"/>tum sanctum super Apostolos delapsum in die 
+      Pente<lb ed="#P" n="113" break="no"/>costes cum sonitu vehementi tanquam tonitruo ad 
+      <lb ed="#P" n="114"/>nus est firmans tonitruum &amp; creans spiritum &amp; unnun¬ 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e139">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> annunciandum hominibus Christum Domini, a Deo 
+      <lb ed="#P" n="116"/>creatum esse ostendere volebant. Sed facilis est 
+      res<lb ed="#P" n="117" break="no"/>ponsio, spiritum ibi, non aliud quam ventum 
+      signifi<lb ed="#P" n="118" break="no"/>care, sicut alibi saepe in scriptura. Nam &amp; 
+      Hierony<lb ed="#P" n="119" break="no"/>mus, vertit creans ventum. Ita respondent ad hoc 
+      ar<lb ed="#P" n="120" break="no"/>gumentum Basilius l. 3. contra Eunomium, &amp; 
+      Atha<lb ed="#P" n="121" break="no"/>nasius ad Serapionem de Spiritu sancto. Nec aliter 
+      in<lb ed="#P" n="122" break="no"/>terpres Hieronymianus, Theodoretus, Arethas, 
+      Ru<lb ed="#P" n="123" break="no"/>pertus hunc locum intellexerunt; tametsi 70. 
+      mul<lb ed="#P" n="124" break="no"/>tum hic discrepant ab Hebraica veritate, secundum 
+      <lb ed="#P" n="125"/>quam nulla apparentia est prophetam hic loqui de 
+      <lb ed="#P" n="126"/>Spiritu sancto 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e170">
+               <lb ed="#P" n="127"/>Secundum argumentum Rom. 8. Ipse spiritus 
+      po<lb ed="#P" n="128" break="no"/>stulat pro nobis gemitibus inenarrabilibus. Qui autem 
+      <lb ed="#P" n="129"/>scrutatur corda, scit quid desideret spiritus, quia 
+      se<lb ed="#P" n="130" break="no"/>cundum Deum postulat pro sanctis. Hoc autem de 
+      <lb ed="#P" n="131"/>Spiritu sancto dictum esse non est dubium: Igitur 
+      Spi<lb ed="#P" n="132" break="no"/>ritus sanctus Deo minor est. Siquidem minor est qui 
+      <lb ed="#P" n="133"/>orat eo qui oratur. Unde &amp; Christus quia patrem 
+      <lb ed="#P" n="134"/>orasse legitur, eo minor esse convincitur, secundum 
+      <lb ed="#P" n="135"/>eam saltem naturam qua orat. Similis est locus Gal. 
+      <lb ed="#P" n="136"/>4. ubi Deus misisse legitur spiritum filii sui in corda 
+      <lb ed="#P" n="137"/>nostra, clamantem Abba pater. Respondetur 
+      sen<lb ed="#P" n="138" break="no"/>sum hujus esse: Spiritus postulat pro nobis &amp; 
+      desi<lb ed="#P" n="139" break="no"/>derat, &amp; clamat in nobis, id est postulare, desiderare 
+      <lb ed="#P" n="140"/>&amp; clamare nos facit: Quia enim Spiritui sancto 
+      ap<lb ed="#P" n="141" break="no"/>propriatur bonitas &amp; omnis nostra sanctificatio, ad 
+      <lb ed="#P" n="142"/>quam pertinent sancta desideria &amp; preces ad Deum, 
+      <lb ed="#P" n="143"/>hinc dicitur pro nobis &amp; in nobis postulare &amp; 
+      clama<lb ed="#P" n="144" break="no"/>re, quia nimirum in nobis omnem pium affectum 
+      o<lb ed="#P" n="145" break="no"/>peratur. Sic Apostolus ipse quodammodo se exponit 
+      <lb ed="#P" n="146"/>Rom. 8. de eodem spiritu dicens. In quo clamamus 
+      <!--0073.xml-->
+      <pb ed="#P" n="50"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Abba pater. Hoc est ergo spiritum clamare in 
+      nobis<lb ed="#P" n="2" break="no"/>quod est nos ipsos clamare in spiritu, sive per 
+      Spiri<lb ed="#P" n="3" break="no"/>tum sanctum. Unde Zach. 12. vocatur spiritus gratiae 
+      <lb ed="#P" n="4"/>&amp; precum. 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e231">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> At dices: Si Spiritus sanctus postulat pro nobis, qui 
+      <lb ed="#P" n="6"/>postulare non facit, igitur &amp; pater pro nobis 
+      postu<lb ed="#P" n="7" break="no"/>lat, quia &amp; ille postulare non facit. Respondeo sicut 
+      <lb ed="#P" n="8"/>pater non recte dicitur mitti, licet ea operatio ad 
+      <lb ed="#P" n="9"/>quam persona aliqua divina mittitur, ut verbi gratia 
+      <lb ed="#P" n="10"/>sanctificatio hominis, sit toti Trinitati communis, eo 
+      <lb ed="#P" n="11"/>quod missio passi va simul importet ejus personae quae 
+      <lb ed="#P" n="12"/>mitti dicitur, processionem a persona mittente; vel 
+      <lb ed="#P" n="13"/>quod is qui mittitur effectum ad quem mittitur, a 
+      <lb ed="#P" n="14"/>mittente accipiat a quo nimirum accipit &amp; naturam, 
+      <lb ed="#P" n="15"/>quemadmodum plenius explicabitur ad 
+      distinctio<lb ed="#P" n="16" break="no"/>nem 14. &amp; 15. ita dicendum de postulatione, quae 
+      <lb ed="#P" n="17"/>quamvis sign ficet effectum in hominibus, quem tota 
+      <lb ed="#P" n="18"/>trinitas ope atur, non tamen tota trinitas postulare 
+      <lb ed="#P" n="19"/>dicitur, sed ea tantum persona quae accipit ab alia 
+      <lb ed="#P" n="20"/>ut faciat homines postulare. Nam postulare simul 
+      <lb ed="#P" n="21"/>includit, ab alio accipere vel expectare. 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e273">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Tertium, Eph. 4. Nolite contristare Spiritum sanctum 
+      <lb ed="#P" n="23"/>Dei: Tristitia autem in Deum non cadit. Item Col. 3. 
+      <lb ed="#P" n="24"/>Spiritum nolite extinguere. Respondetur, haec 
+      figura<lb ed="#P" n="25" break="no"/>te &amp; improprie tribui Spiritui sancto, tanquam ei 
+      per<lb ed="#P" n="26" break="no"/>sonae divinae, cui bonitas ut dictum est, appropriatur. 
+      <lb ed="#P" n="27"/>Cui proinde omnis nostra sanctificatio &amp; omnia 
+      gra<lb ed="#P" n="28" break="no"/>tiarum dona peculiariter tribuuntur. Hinc propter 
+      <lb ed="#P" n="29"/>hominum ingratitudinem qui dona ejus sive in 
+      se<lb ed="#P" n="30" break="no"/>metipsis, sive in aliis abjiciunt &amp; contemnunt, 
+      dici<lb ed="#P" n="31" break="no"/>tur contristari &amp; exstingui. Item quia sancti in 
+      qui<lb ed="#P" n="32" break="no"/>bus est Spiritus sanctus contristantur. 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e302">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Quartum, Spiritus sanctus mitti dicitur a patre &amp; 
+      <lb ed="#P" n="34"/>filio Joan. 15. ad Cal. 4. &amp; alibi saepe. Minor est autem 
+      <lb ed="#P" n="35"/>qui mittitur eo qui mittit. Sed hujus argumenti 
+      solu<lb ed="#P" n="36" break="no"/>tio patebit ex iis quae dicentur ad dist. 15. Non enim 
+      <lb ed="#P" n="37"/>missio personae unius ab alia aliud importat; quam 
+      <lb ed="#P" n="38"/>temporalem operationem personae procedentis ab 
+      <lb ed="#P" n="39"/>alia, a qua habet hoc ipsum quod operatur. 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e322">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Quintum, Joan. 1. Omnia per ipsum facta sunt, 
+      igi<lb ed="#P" n="41" break="no"/>tur &amp; Spiritus sanctus factus est per verbum. 
+      Pri<lb ed="#P" n="42" break="no"/>mum respondetur intelligi omnia ab ipso verbo 
+      <lb ed="#P" n="43"/>naturaliter diversa; nam alioqui consequens erit 
+      ip<lb ed="#P" n="44" break="no"/>sum etiam patrem, quia non est verbum, per verbum 
+      <lb ed="#P" n="45"/>factum esse. Deinde semetipsum exponit Joan. 
+      quan<lb ed="#P" n="46" break="no"/>do subjungit: Et sine ipso factum est nihil quod factum 
+      <lb ed="#P" n="47"/>est, id est, nihil eorum quae facta sunt sine verbo 
+      fa<lb ed="#P" n="48" break="no"/>ctum est, sed quicquid factum est a Deo, per verbum 
+      <lb ed="#P" n="49"/>factum est. 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e349">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Sextum, August. q. 109. inter quaestiones veteris 
+      <lb ed="#P" n="51"/>&amp; novi testamenti Spiritum sanctum dicit esse 
+      sa<lb ed="#P" n="52" break="no"/>cerdotem non summum, Christum autem esse 
+      sacer<lb ed="#P" n="53" break="no"/>dotem summum. Respondeo illud opus non esse Au 
+      <lb ed="#P" n="54"/>gust. ac ne quidem scriptoris Catholici. 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e365">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Septimum, Si Spiritus sanctus esset Deus cum non 
+      <lb ed="#P" n="56"/>sit genitus, erunt in divinis duo ingenita, pater &amp; 
+      <lb ed="#P" n="57"/>Spiritus sanctus. Respondeo spiritum sanctum 
+      ne<lb ed="#P" n="58" break="no"/>que genitum esse, neque ingenitum, id est, 
+      impro<lb ed="#P" n="59" break="no"/>cessibilem, ut latius explicabitur ad dist. 13. 
+    </p>
+            <p xml:id="bt67yj-k18358-d1e381">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Postremum, Spiritus sanctus non procedit per 
+      mo<lb ed="#P" n="61" break="no"/>dum naturae, sed per modum voluntatis; ergo non 
+      <lb ed="#P" n="62"/>procedit a Deo naturaliter, sed libere; quomodo 
+      <lb ed="#P" n="63"/>procedunt a Deo omnes &amp; solae creaturae. 
+      Responde<lb ed="#P" n="64" break="no"/>tur utrumque modum processionis, tam per modum 
+      <lb ed="#P" n="65"/>voluntatis, quam per modum naturae, naturalem esse: 
+      <lb ed="#P" n="66"/>Non modo enim intellectus notitiam veri, verum 
+      <lb ed="#P" n="67"/>etiam voluntas amorem boni producit in se 
+      naturali<lb ed="#P" n="68" break="no"/>ter &amp; necessario. Sicut enim intellectus naturaliter 
+      <lb ed="#P" n="69"/>est ordinatus ad actum cognoscendi, ita voluntas 
+      na<lb ed="#P" n="70" break="no"/>turaliter est ordinata ad actum amandi. Cur autem 
+      <lb ed="#P" n="71"/>inde non sit consequens spiritum procedere per 
+      mo<lb ed="#P" n="72" break="no"/>dum naturae, declarabitur infra ad dist. 13.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

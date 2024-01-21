@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="26"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k09444"><!-- l1d6c1" -->
+            <head xml:id="bt67yj-k09444-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k09444-Hd1e103" type="question-title">Vtrum voluntate an necessitate pater 
+      filium genuerit</head>
+            <p xml:id="bt67yj-k09444-d1e106">
+               <lb ed="#P" n="39"/>IN DISTINCTIONEM SEXTAM. 
+      <lb ed="#P" n="40"/>§. 1. Vtrum voluntate an necessitate pater 
+      <lb ed="#P" n="41"/>filium genuerit.
+    </p>
+            <p xml:id="bt67yj-k09444-d1e115">
+               <lb ed="#P" n="42"/>QUAEREBANT olim ex Catholicis haeretici 
+      Eu<lb ed="#P" n="43" break="no"/>nomiani ad evertendum humana 
+      subtili<lb ed="#P" n="44" break="no"/>tate mysterium naturalis filii Dei ex patre 
+      <lb ed="#P" n="45"/>generationis, utrum voluntate pater filium 
+      ge<lb ed="#P" n="46" break="no"/>nuisset, an necessitate, utrique responsionis parti 
+      <lb ed="#P" n="47"/>struentes insidias. Si enim necessitate diceretur 
+      fi<lb ed="#P" n="48" break="no"/>lium genuisse, consequens videbatur eum hoc 
+      egis<lb ed="#P" n="49" break="no"/>se invitum, &amp; proinde miserum esse; quod 
+      im<lb ed="#P" n="50" break="no"/>pium est sentire; Si voluntate, mox filium Dei 
+      <lb ed="#P" n="51"/>non natura sed consilio &amp; voluntate patris esse 
+      fi<lb ed="#P" n="52" break="no"/>lium pro sua doctrina haeretica concludebant. 
+      Eu<lb ed="#P" n="53" break="no"/>nomius enim, quemadmodum refert Aug. lib. 15. 
+      <lb ed="#P" n="54"/>de trinitate cap. 20. Dei filium non naturae dixit 
+      <lb ed="#P" n="55"/>esse filium sed voluntatis Dei. Quomodo de nobis 
+      <lb ed="#P" n="56"/>adoptivis Dei filiis dicit Jacobus Apostolus cap. 1. 
+      <lb ed="#P" n="57"/>Voluntarie genuit nos Deus verbo veritatis. 
+      Quae<lb ed="#P" n="58" break="no"/>stionem aliis verbis ita proponebant; Utrum 
+      vo<lb ed="#P" n="59" break="no"/>lens an nolens, &amp; utrum voluntarie an involuntarie 
+      <lb ed="#P" n="60"/>pater filium genuerit. 
+    </p>
+            <p xml:id="bt67yj-k09444-d1e159">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Sed priusquam respondeamus, verba 
+      quaestio<lb ed="#P" n="62" break="no"/>nis, ut primo loco proposita est, exponenda sunt, 
+      <lb ed="#P" n="63"/>&amp; declarandum quot modis aliquid voluntate fieri 
+      <lb ed="#P" n="64"/>dicatur, &amp; quot modis necessitate. Voluntate 
+      <lb ed="#P" n="65"/>quippiam fieri duobus modis intelligi potest; Uno 
+      <lb ed="#P" n="66"/>modo, ut opponatur ei quod est fieri naturaliter; 
+      <lb ed="#P" n="67"/>quomodo voluntate fieri dicuntur, quae sunt in 
+      <lb ed="#P" n="68"/>potestate facientis, ut vel fiant vel non fiant; 
+      Cu<lb ed="#P" n="69" break="no"/>jusmodi sunt quae libere fiunt &amp; plerumque 
+      deli<lb ed="#P" n="70" break="no"/>beratione praevia. Altero modo voluntate fieri 
+      di<lb ed="#P" n="71" break="no"/>cuntur quaecunque ab aliquo fiunt voluntate ejus 
+      <!--0049.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>probante &amp; consentiente; Quomodo dicimus 
+      ho<lb ed="#P" n="73" break="no"/>minem voluntarie vivere, pulchrum &amp; sanum esse, 
+      <lb ed="#P" n="74"/>licet ea voluntate sua non effecerit. Et quod ad 
+      <lb ed="#P" n="75"/>rem propositam propius accedit, voluntate amare 
+      <lb ed="#P" n="76"/>seipsum suamque foelicitatem expetere, quamvis 
+      <lb ed="#P" n="77"/>contrarium velle omnino non possit. Duobus item 
+      <lb ed="#P" n="78"/>modis aliquid necessitate fieri vel esse dicitur: Aut 
+      <lb ed="#P" n="79"/>enim necessitate extrinsecus illata &amp; vim 
+      adferen<lb ed="#P" n="80" break="no"/>te; quomodo fiunt ea ad quae facienda metu 
+      tor<lb ed="#P" n="81" break="no"/>mentorum adiguntur homines. Quomodo &amp; in 
+      <lb ed="#P" n="82"/>naturalibus recte dicimus lapidem in altum 
+      pro<lb ed="#P" n="83" break="no"/>jectum, necessitate sursum impelli. Atque 
+      hujus<lb ed="#P" n="84" break="no"/>modi vocatur partim coactiva, seu cogens &amp; 
+      con<lb ed="#P" n="85" break="no"/>tristans, partim simpliciter violenta necessitas, 
+      est<lb ed="#P" n="86" break="no"/>que contraria voluntario utriusque generis: Aut 
+      <lb ed="#P" n="87"/>necessitate naturali, eaque vel prorsus absoluta, 
+      <lb ed="#P" n="88"/>qualis est in solo Deo, veluti qua necesse est Deum 
+      <lb ed="#P" n="89"/>esse, cumque bonum &amp; sapientem esse. Haec enim 
+      <lb ed="#P" n="90"/>omnino impossibile est aliter se habere; vel 
+      abso<lb ed="#P" n="91" break="no"/>luta tantum respectu potentiae creatae, eo quod 
+      <lb ed="#P" n="92"/>potentia creata facere non possit ut ea aliter se 
+      ha<lb ed="#P" n="93" break="no"/>beant; quomodo necessaria sunt mundum esse, 
+      an<lb ed="#P" n="94" break="no"/>gelos esse, coelum moveri, mortalia aliquando mori, 
+      <lb ed="#P" n="95"/>ignem calidum esse, hisque similia, quae tamen per 
+      <lb ed="#P" n="96"/>omnipotentiam Dei possunt aliter se habere. Hoc 
+      <lb ed="#P" n="97"/>autem necessitatis genus repugnat quidem liberae 
+      <lb ed="#P" n="98"/>voluntatis electioni, &amp; deliberationem excludit, non 
+      <lb ed="#P" n="99"/>tamen semper repugnat voluntati probanti &amp; 
+      con<lb ed="#P" n="100" break="no"/>sentienti, sed saepe cum ea concurrit. Deus enim 
+      ne<lb ed="#P" n="101" break="no"/>cessario simul &amp; voluntarie Deus est, &amp; homo 
+      ne<lb ed="#P" n="102" break="no"/>cessitate simul &amp; voluntate suam foelicitatem 
+      appe<lb ed="#P" n="103" break="no"/>tit, &amp; beati necessitate simul ac voluntate Deum 
+      <lb ed="#P" n="104"/>quem vident, diligunt. 
+    </p>
+            <p xml:id="bt67yj-k09444-d1e264">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> His ita explicatis, ad quaestionem responderi 
+      <lb ed="#P" n="106"/>potest, patrem genuisse filium voluntate simul &amp; 
+      <lb ed="#P" n="107"/>necessitate; voluntate quidem, non deliberante, 
+      <lb ed="#P" n="108"/>sicut Eunomius docuit; quasi voluntas gignendi 
+      <lb ed="#P" n="109"/>antecesserit nativitatem filii Dei, quem sensum 
+      <lb ed="#P" n="110"/>velut impium merito rejiciunt Augustinus loco 
+      <lb ed="#P" n="111"/>supradicto, &amp; Hieronymus super Eph. 1. verbis in 
+      <lb ed="#P" n="112"/>textu recitatis: sed voluntate approbante quam &amp; 
+      <lb ed="#P" n="113"/>concomitatem vocant. Necessitate quoque genuit 
+      <lb ed="#P" n="114"/>non violenta, neque coactiva (non enim violentia 
+      <lb ed="#P" n="115"/>aut coactio cadere potest in Deum omnipotentem, 
+      <lb ed="#P" n="116"/>&amp; beatissimum) sed naturali, qua quid ita est aut 
+      <lb ed="#P" n="117"/>fit, ut aliter se habere nequeat. Sicut enim Deus 
+      <lb ed="#P" n="118"/>non potest non esse, ita Deus pator non potest non 
+      <lb ed="#P" n="119"/>gignere filium. Unde olim quaerentibus haereticis; 
+      <lb ed="#P" n="120"/>utrum Deus filium volens genuerit an nolens, &amp; 
+      <lb ed="#P" n="121"/>utrum voluntate an neceslitate, vicissim hanc 
+      op<lb ed="#P" n="122" break="no"/>ponebant Catholici quaestionem; utium Deus 
+      vo<lb ed="#P" n="123" break="no"/>lens sit Deus an nolens, &amp; utrum voluntate an 
+      ne<lb ed="#P" n="124" break="no"/>cessitate. Utriusque enim quaestionis dissolvendae 
+      <lb ed="#P" n="125"/>eadem est ratio. Commemorat hoc ex 
+      supracita<lb ed="#P" n="126" break="no"/>to Augustini loco Magister &amp; author dialogi 65. 
+      <lb ed="#P" n="127"/>quaestionum q. 7. inter opera Augustini. Quod 
+      <lb ed="#P" n="128"/>autem idem author ad quaestionem respondet, 
+      <lb ed="#P" n="129"/>nec voluntate nec necessitate patrem genuisse 
+      fi<lb ed="#P" n="130" break="no"/>lium, id de voluntate antecedente, seu eligente, 
+      <lb ed="#P" n="131"/>deque necessitate coactiva intelligendum est, ut 
+      <lb ed="#P" n="132"/>facile patet locum inspicienti. Et sane quia 
+      ablati<lb ed="#P" n="133" break="no"/>vus ille (voluntate) magis insinuare vidctur 
+      habi<lb ed="#P" n="134" break="no"/>tudinem principii activi, quam concomitantiam 
+      <lb ed="#P" n="135"/>seu complacentiam, ut voluntate fieri dicantur 
+      <lb ed="#P" n="136"/>quae procedunt a voluntate tanquam actionis 
+      <lb ed="#P" n="137"/>principio, hinc convenientius negatur, quam 
+      as<lb ed="#P" n="138" break="no"/>seritur patrem genuisse filium voluntate. Quo circa 
+      <lb ed="#P" n="139"/>Cyrillus eandem tractans quaestionem lib. 2. 
+      dia<lb ed="#P" n="140" break="no"/>logorum cum Hermia sub finem, respondet nec 
+      vo<lb ed="#P" n="141" break="no"/>luntate nec praeter voluntatem patris genitum 
+      fi<lb ed="#P" n="142" break="no"/>lium, quia non hoc elegit ut gigneret, nec tamen 
+      <lb ed="#P" n="143"/>gignit necessitate cempulsus. Rectius vero 
+      quem<lb ed="#P" n="144" break="no"/>admodum iidem authores indicant, dicitur pater 
+      <lb ed="#P" n="145"/>gignere filium naturaliter seu naturae foecunditate, 
+      <lb ed="#P" n="146"/>quam aut voluntate aut necessitate, cum illud &amp; 
+      <!--0050.xml-->
+      <pb ed="#P" n="27"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>proprie dicatur, &amp; apertum habeat sensum: haec 
+      au<lb ed="#P" n="2" break="no"/>tem duo propter ambiguum intellectum sint obnoxia 
+      <lb ed="#P" n="3"/>cavillis haereticorum. Rectius quoque dixeris Deum 
+      <lb ed="#P" n="4"/>volentem quam voluntate gignere, quia sicut 
+      ablati<lb ed="#P" n="5" break="no"/>vus magis designat actionis principium, ita 
+      partici<lb ed="#P" n="6" break="no"/>pium magis aptum est concomitantiae significandae, 
+      <lb ed="#P" n="7"/>ut cum dico, Petrus stans loquitur. Juxta quem 
+      sen<lb ed="#P" n="8" break="no"/>sum accipienda sunt etiam haec Richardi Victorini 
+      <lb ed="#P" n="9"/>verba lib. 6. de trinit. cap. 17. Ingenitum velle 
+      ha<lb ed="#P" n="10" break="no"/>bere de se sibi conformem atque condignum, idem mihi 
+      <lb ed="#P" n="11"/>videtur quod gignere filium; &amp; tam genitum quam 
+      in<lb ed="#P" n="12" break="no"/>genitum velle habere condilectum, idem videtur quod 
+      <lb ed="#P" n="13"/>producere Spiritum sanctum. Nam si proprie 
+      Richar<lb ed="#P" n="14" break="no"/>dus sua verba intelligat, respondebimus cum Scoto 
+      <lb ed="#P" n="15"/>aliud videri Augustino. Illud vero quod Neotericus 
+      <lb ed="#P" n="16"/>quidam scripsit; Quod pater filium suum participem 
+      <lb ed="#P" n="17"/>esse voluit divinitatis &amp; regni sui aeterni cum spiritu 
+      <lb ed="#P" n="18"/>sancto: non videtur justa reprehensione carere. 
+      Si<lb ed="#P" n="19" break="no"/>gnificat enim ille sermo voluntatem patris esse 
+      prin<lb ed="#P" n="20" break="no"/>cipium &amp; causam participandae divinitatis cum filio 
+      <lb ed="#P" n="21"/>&amp; spiritu sancto; Quod alienum est a sententia 
+      pa<lb ed="#P" n="22" break="no"/>trum orthodoxorum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

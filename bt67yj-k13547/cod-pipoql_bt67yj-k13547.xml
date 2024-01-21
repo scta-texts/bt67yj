@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="37"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k13547"><!-- l1d8c9" -->
+            <head xml:id="bt67yj-k13547-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-k13547-Hd1e103" type="question-title">Quomodo Deus multiplex et quomodo sine 
+      <pc type="indent"/> compositione</head>
+            <p xml:id="bt67yj-k13547-d1e108">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> §. 9. Quomodo Deus multiplex &amp; quomodo sine 
+      <lb ed="#P" n="22"/>
+               <pc type="indent"/> compositione. 
+    </p>
+            <p xml:id="bt67yj-k13547-d1e119">
+               <lb ed="#P" n="23"/>NOn pugnat cum perfecta Dei simplicitate quod 
+      <lb ed="#P" n="24"/>Deus aliquando multiplex dicatur, velut 
+      Sap<lb ed="#P" n="25" break="no"/>7. Ubi spiritus sapientiae; qui non alius quam Deus 
+      <lb ed="#P" n="26"/>intelligitur, inter caetera quae ei tribuuntur, etiam 
+      <lb ed="#P" n="27"/>multiplex esse perhibetur. Hoc enim quo sensu 
+      dica<lb ed="#P" n="28" break="no"/>tur, exponit Aug. lib. I1. de civit. cap. 10. Dictus est, 
+      <lb ed="#P" n="29"/>inquit, spiritus sapientiae multiplex, eo quod multa in 
+      <lb ed="#P" n="30"/>se habeat, sed quae habet haec &amp; est, &amp; ea omnia unus 
+      <lb ed="#P" n="31"/>est. Ob hanc igitur causam idem Aug. lib. 6. de trin. 
+      <lb ed="#P" n="32"/>cap. 4. &amp; 7. quandam Deo multiplicitatem ascribit, 
+      <lb ed="#P" n="33"/>nimirum sensu jam explicato, quia quidquid in Deo 
+      <lb ed="#P" n="34"/>est, &amp; Deo attribuitur, essentia ejus est. Absolute 
+      ta<lb ed="#P" n="35" break="no"/>men uti docet Fulgentius lib. de Fide ad Petrum cap. 
+      <lb ed="#P" n="36"/>2. non multiplex sed simplex dicendus est Deus, ne 
+      <lb ed="#P" n="37"/>aliquo modo compositus existimetur. Quod autem 
+      <lb ed="#P" n="38"/>respondent quidam Deum re quidem simplicem esse 
+      <lb ed="#P" n="39"/>sed multiplicem appellatione, propter nominum 
+      va<lb ed="#P" n="40" break="no"/>rietatem quae ei tribuuntur, dum idem ipse &amp; bonus 
+      <lb ed="#P" n="41"/>&amp; sapiens, &amp; justus vocatur &amp; ita de aliis; id non ita 
+      <lb ed="#P" n="42"/>accipiendum, quasi haec tantum sit nominum 
+      syno<lb ed="#P" n="43" break="no"/>nymorum coacervatio, sed quia plunibus nominibus 
+      <lb ed="#P" n="44"/>variae ac multiplices proprietates ac perfectiones 
+      di<lb ed="#P" n="45" break="no"/>vinae significantur, quae tamen non reipsa sed sola 
+      ra<lb ed="#P" n="46" break="no"/>tione in Deo differunt. Quamvis enim aliud 
+      signifi<lb ed="#P" n="47" break="no"/>cet sapientia, aliud potentia, &amp; sic de aliis, haec 
+      ta<lb ed="#P" n="48" break="no"/>men significata sunt res una eademque in Deo. 
+      <lb ed="#P" n="49"/>Quod ergo dicit Magister S. f. Deum dici 
+      multiplici<lb ed="#P" n="50" break="no"/>ter propter diversitatem ac multitudinem nominum 
+      <lb ed="#P" n="51"/>quae de Deo dicuntur, quae licet multiplicia sint, 
+      <lb ed="#P" n="52"/>unum tamen significant, scilicet divinam naturam; 
+      <lb ed="#P" n="53"/>id non est, intelligendum de significato secundum 
+      <lb ed="#P" n="54"/>propriam rationem, sed secundum rem, quia ut 
+      <lb ed="#P" n="55"/>Magister ipse explicat, omnia significant unum, id 
+      <lb ed="#P" n="56"/>est, rem unam, scilicet naturam divinam. 
+    </p>
+            <p xml:id="bt67yj-k13547-d1e195">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Caeterum locus Sap. 3. potest etiam aliter, &amp; 
+      qui<lb ed="#P" n="58" break="no"/>dem probabilius exponi; ut spiritus intelligentiae 
+      di<lb ed="#P" n="59" break="no"/>catur unicus simul &amp; multiplex, Unicus, id est, 
+      uni<lb ed="#P" n="60" break="no"/>genitus, (id enim vox graeca significat) vel quia 
+      fi<lb ed="#P" n="61" break="no"/>lius Dei qui est sapientia patris, unigenitus est; vel 
+      <lb ed="#P" n="62"/>quia quicquid de illo spiritu participatur homini, 
+      <lb ed="#P" n="63"/>unum est genere seu origine, utpote a Deo authore 
+      <lb ed="#P" n="64"/>profectum: Multiplex vero, quia idem 
+      intelligen<lb ed="#P" n="65" break="no"/>tiae spiritus circa multa, id est, omnia quaecunque 
+      <lb ed="#P" n="66"/>sunt intelligenda versatur, ipsumque hominem 
+      re<lb ed="#P" n="67" break="no"/>rum plurimarum cognitione imbuit. Quem sensum 
+      <lb ed="#P" n="68"/>ea quae proxime sententiam hanc anteccdunt exigere 
+      <lb ed="#P" n="69"/>plane videntur. Jam vero nec ea distinctio &amp; 
+      plura<lb ed="#P" n="70" break="no"/>litas, quam in personis divinis agnoscimus 
+      simplici<lb ed="#P" n="71" break="no"/>tati Dei repugnat, ut neque compositionem ullam 
+      <lb ed="#P" n="72"/>inducit. Aliud enim est compositio, aliud 
+      distinctio<lb ed="#P" n="73" break="no"/>Nam etsi in omni compositione sit partium 
+      compo<lb ed="#P" n="74" break="no"/>nentium distinctio, non tamen distinctionem ne¬ 
+      <!--0060.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>cessario sequitur compositio, ne in creaturis quidem. 
+    </p>
+            <p xml:id="bt67yj-k13547-d1e246">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Sed quare, inquies, dici non potest ex tribus 
+      perso<lb ed="#P" n="77" break="no"/>nis compon i seu constare unum Deum. Respondeo 
+      <lb ed="#P" n="78"/>compositionem, esse rerum plurium ex quibus 
+      con<lb ed="#P" n="79" break="no"/>surgat aliquid unum. Atqui personae divinae licet 
+      rea<lb ed="#P" n="80" break="no"/>liter distinctae sint, non tamen res plures sunt, sed res 
+      <lb ed="#P" n="81"/>una, secundum definitionem Lateran. Conc. sub Inn. 
+      <lb ed="#P" n="82"/>III. cap. 2. Qua ratione interdum veteres Hilarius, 
+      <lb ed="#P" n="83"/>Prudentius, Boetius etiam numerum a divinis 
+      exclu<lb ed="#P" n="84" break="no"/>dunt, numerum videlicet intelligentes non 
+      persona<lb ed="#P" n="85" break="no"/>rum, sed rerum numerandarum. De qua re dicetur 
+      <lb ed="#P" n="86"/>infra ad distinctionem 24. ut &amp; distinctione i 9. 
+      osten<lb ed="#P" n="87" break="no"/>detur, quod Deus non triplex, sed trinus dicendus sit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

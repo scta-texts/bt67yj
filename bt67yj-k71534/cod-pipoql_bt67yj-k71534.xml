@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="189"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k71534"><!-- l1d45c2" -->
+            <head xml:id="bt67yj-k71534-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k71534-Hd1e103" type="question-title">Objectiones solvuntur</head>
+            <p xml:id="bt67yj-k71534-d1e106">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> §. 2. Objectiones solvuntur.
+    </p>
+            <p xml:id="bt67yj-k71534-d1e113">
+               <lb ed="#P" n="44"/>COntra libertatem voluntatis divinae quaedam 
+      <lb ed="#P" n="45"/>solent objici. 
+      <lb ed="#P" n="46"/>Primo: Dei voluntas immutabilis est; ergo non 
+      <lb ed="#P" n="47"/>est libera; liberum enim dicitur quod potest flecti 
+      <lb ed="#P" n="48"/>ad utrumque oppositorum. Hoc autem non fit 
+      abs<lb ed="#P" n="49" break="no"/>que mutatione. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e129">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Secundo: Quicunque habet liberum arbitrium, 
+      <lb ed="#P" n="51"/>est ex natura sua indifferens ad utrumlibet eorum, 
+      <lb ed="#P" n="52"/>circa quae liberum ejus arbitrium versatur: 
+      Hujus<lb ed="#P" n="53" break="no"/>modi vero indifferentia Deo repugnat, utpote qui 
+      <lb ed="#P" n="54"/>semper uno modo se habet, nec aliter se habere 
+      po<lb ed="#P" n="55" break="no"/>test; ergo non habet liberum arbitrium. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e148">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Tertio: Deus omnia scit ex necessitate; ergo 
+      om<lb ed="#P" n="57" break="no"/>nia vult ex necessitate, sicut enim scientia Dei est 
+      <lb ed="#P" n="58"/>ipsius essentia, ita &amp; voluntas ejus. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e159">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Quarto: Hieronymus in epistola ad Damasum de 
+      <lb ed="#P" n="60"/>filio prodigo, quae est num. 146. Deum negat esse li 
+      <lb ed="#P" n="61"/>beri arbitrii, his verbis: Solus Deus est in quem 
+      pecca<lb ed="#P" n="62" break="no"/>tum non cadit, caetera cum sint liberi arbitrii, possunt in 
+      <lb ed="#P" n="63"/>utramque partem suam flectere voluntatem. Et in 
+      ex<lb ed="#P" n="64" break="no"/>planatione symboli ad eundem quae habetur tomo 9. 
+      <lb ed="#P" n="65"/>sub tit. ep. 17. dicit Jovinianum sustulisse arbitrii 
+      li<lb ed="#P" n="66" break="no"/>bertatem, eo quod assereret hominem non posse 
+      pec<lb ed="#P" n="67" break="no"/>care. Nos vero dicimus, inquit, hominem semper &amp; 
+      <lb ed="#P" n="68"/>peccare &amp; non peccare posse, ut semper nos liberi 
+      con<lb ed="#P" n="69" break="no"/>fiteamur esse arbitrii. Unde similiter sequitur Deum 
+      <lb ed="#P" n="70"/>non esse liberi arbitrii, eo quod peccare non possit. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e190">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Quinto: Bonum est sui diffusivum; ergo Deus ne¬ 
+      <!--0212.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>cessario saltem aliquam producit creaturam. Nam 
+      <lb ed="#P" n="73"/>alioqui bonus non esset. Non enim se per opus 
+      ali<lb ed="#P" n="74" break="no"/>quod foras effunderet. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e208">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Sexto: Deo proprium est misereri &amp; parcere &amp; 
+      <lb ed="#P" n="76"/>benefacere, ut ecclesiae voces testantur; ergo non 
+      po<lb ed="#P" n="77" break="no"/>tuit non aliquod opus misericordiae, benignitatis ac 
+      <lb ed="#P" n="78"/>beneficentiae exhibere. Si enim nihil omnino ad extra 
+      <lb ed="#P" n="79"/>agere voluisset, non apparet quomodo benignus, 
+      be<lb ed="#P" n="80" break="no"/>neficus, misericors vere potuisset dici. Haec enim non 
+      <lb ed="#P" n="81"/>dicuntur a potentia benefaciendi, sed ab 
+      inclinatio<lb ed="#P" n="82" break="no"/>ne seu voluntate quae in Deo ab actu non separatur, 
+      <lb ed="#P" n="83"/>quia ejus potentissima voluntas impediri non potest, 
+      <lb ed="#P" n="84"/>ut infra dicetur. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e234">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Septimo: Deus unamquamque rem movet &amp; facit 
+      <lb ed="#P" n="86"/>prout nata est moveri aut fieri: Atqui quaedam res 
+      <lb ed="#P" n="87"/>natae sunt moveri aut fieri necessario, quaedam 
+      con<lb ed="#P" n="88" break="no"/>tingenter, quaedam libere; ergo Deus alia movet aut 
+      <lb ed="#P" n="89"/>facit necessario, ut caelum, diem ac noctem, annum, 
+      <lb ed="#P" n="90"/>eclipsim; alia contingenter, ut hunc equum, hunc 
+      <lb ed="#P" n="91"/>lapidem, hunc ignem, &amp; horum motus seu 
+      opera<lb ed="#P" n="92" break="no"/>tiones; alia libere ut voluntatem hominis &amp; 
+      actio<lb ed="#P" n="93" break="no"/>nes ejus. Non ergo omnia sed quaedam tantum 
+      libe<lb ed="#P" n="94" break="no"/>re operatur. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e260">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> His argumentis primo responsum est ad 
+      distinctio<lb ed="#P" n="96" break="no"/>nem 8. ubi de immutabilitate divinae voluntatis 
+      age<lb ed="#P" n="97" break="no"/>batur, atque ostensum non ex eo dici voluntatem 
+      li<lb ed="#P" n="98" break="no"/>beram quod flecti possit ad utrumque, sic nimirum 
+      <lb ed="#P" n="99"/>ut ab uno transire possit ad aliud, sed quod 
+      poten<lb ed="#P" n="100" break="no"/>tiam ad utrumque habeat. Quae quidem potentia 
+      <lb ed="#P" n="101"/>cum in Deo sit ab aeterno determinata ad alteram 
+      par<lb ed="#P" n="102" break="no"/>tem, per liberam eandemque aeternam voluntatis ejus 
+      <lb ed="#P" n="103"/>electionem, nulla sequitur mutabilitas voluntatis 
+      <lb ed="#P" n="104"/>Dei, si libera ponatur, neque rursum immutabilitate 
+      <lb ed="#P" n="105"/>posita, libertas tollitur, aut necessitas introducitur, 
+      <lb ed="#P" n="106"/>nisi ea tantum quae est ex hypothesi. Nam supposite 
+      <lb ed="#P" n="107"/>quod Deus velit, inquit S. Thomas art. 3. non potest 
+      <lb ed="#P" n="108"/>non velle, quia non potest voluntas ejus mutari. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e296">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Ad secundum respondetur; Deum ex natura sua 
+      in<lb ed="#P" n="110" break="no"/>) differentem esse ad utrumlibet, hoc sensu, quia ex 
+      <lb ed="#P" n="111"/>natura, id est, substantia sua, non habet 
+      determina<lb ed="#P" n="112" break="no"/>tionem ad hoc ut velit aliquid extra se. Non tamen 
+      <lb ed="#P" n="113"/>ita indifferens dici potest, quasi aliquando fuerit ad 
+      <lb ed="#P" n="114"/>alterutrum propria voluntate non determinatus. 
+      Ne<lb ed="#P" n="115" break="no"/>que hujusmodi indifferentia de ratione est liberi 
+      ar<lb ed="#P" n="116" break="no"/>bitrii.
+    </p>
+            <p xml:id="bt67yj-k71534-d1e318">
+               <lb ed="#P" n="117"/>Sed dices: Natura &amp; voluntas idem est in Deo; si 
+      <lb ed="#P" n="118"/>ergo voluntate determinatus est Deus ad alterutrum 
+      <lb ed="#P" n="119"/>ab aeterno, igitur &amp; natura. Respondetur idem esse 
+      <lb ed="#P" n="120"/>reipsa naturam &amp; voluntatem in Deo, sed ratione 
+      <lb ed="#P" n="121"/>distingui, propter quam rationis distinctionem non 
+      <lb ed="#P" n="122"/>recte procedit argumentum a voluntate ad naturam, 
+      <lb ed="#P" n="123"/>quia formaliter utrumque accipiendum est. 
+      Volun<lb ed="#P" n="124" break="no"/>tas enim determinat ut voluntas eaque libera, non 
+      <lb ed="#P" n="125"/>autem ut natura.
+    </p>
+            <p xml:id="bt67yj-k71534-d1e340">
+               <lb ed="#P" n="126"/>Ad tertium respondet S. Thomas eodem articulo 
+      <lb ed="#P" n="127"/>ad 6. ideo voluntatem Dei non habere necessariam 
+      <lb ed="#P" n="128"/>habitudinem ad volita, sicut scientiam ad scita; quia 
+      <lb ed="#P" n="129"/>scientia habetur de rebus ut sunt in sciente, voluntas 
+      <lb ed="#P" n="130"/>autem comparatur ad res ut sunt in seipsis. Cum 
+      igi<lb ed="#P" n="131" break="no"/>tur omnia alia a Deo habeant necessarium esse 
+      qua<lb ed="#P" n="132" break="no"/>tenus sunt in Deo, non autem quatenus sunt in 
+      scip<lb ed="#P" n="133" break="no"/>sis, consequens est Deum quaecunque scit, ex 
+      ne<lb ed="#P" n="134" break="no"/>cessitate scire, non autem quaecunque vult, ex 
+      ne<lb ed="#P" n="135" break="no"/>cessitate velle. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e364">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Quartum argumentum eo spectat ut probet in 
+      ra<lb ed="#P" n="137" break="no"/>tione liberi arbitrii contineri potentiam peccandi. 
+      <lb ed="#P" n="138"/>Cui quaestioni proprius est locus lib. 2. dist. 24. Nunc 
+      <lb ed="#P" n="139"/>interim ad Hieronymum respondemus eum non 
+      ab<lb ed="#P" n="140" break="no"/>solute negare liberum arbitrium in Deo, 
+      quandoqui<lb ed="#P" n="141" break="no"/>dem in commentario super epist. ad Philem. ad illud, 
+      <lb ed="#P" n="142"/>Sine consilio tuo nihil volui facere, &amp;c. palam 
+      affir<lb ed="#P" n="143" break="no"/>mat Deum esse liberi arbitrii, sed solum excludere a 
+      <lb ed="#P" n="144"/>Deo liberum arbitrium secundum eam 
+      conditio<lb ed="#P" n="145" break="no"/>nem, quae competit libero arbitrio creato, quae est 
+      <!--0213.xml-->
+      <pb ed="#P" n="190"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>posse flecti ad malum. Hanc enim homines de 
+      libero<lb ed="#P" n="2" break="no"/>arbitrio loquentes, in ejus conceptu plerumque 
+      so<lb ed="#P" n="3" break="no"/>lent involvere, licet ad ipsum vere non pertineat, sed 
+      <lb ed="#P" n="4"/>defectus ejus sit; sicut quidam definiverunt hominem 
+      <lb ed="#P" n="5"/>animal rationale mortale, cum mortalitas non 
+      natu<lb ed="#P" n="6" break="no"/>ralis proprietas, sed vitium hominis sit. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e410">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Quod vero posttriori loco objicitur, non 
+      Hiero<lb ed="#P" n="8" break="no"/>nymi est ad Damasum scribentis, sed Pelagii apud 
+      <lb ed="#P" n="9"/>Innocentium Papam de haeresi frustra se purgare 
+      co<lb ed="#P" n="10" break="no"/>nantis, per quandam fidei confessionem minime 
+      suf<lb ed="#P" n="11" break="no"/>ficientem. Cujus proinde testimonium facile 
+      con<lb ed="#P" n="12" break="no"/>temnitur. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e428">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Ad quintum respondetur, bonum dici diffusivum 
+      <lb ed="#P" n="14"/>sui, non per modum causae efficientis, sed finalis, eo 
+      <lb ed="#P" n="15"/>scilicet modo, quo finis dicitur movere, ut inquit 
+      <lb ed="#P" n="16"/>S. Thomas 1. q. 5. art. 4. ad 2. Verum sive 
+      diffusi<lb ed="#P" n="17" break="no"/>vum suidicatur, ut finis, sive ut causa efficiens, non 
+      <lb ed="#P" n="18"/>significatur, quod actu se communicare debeat aliis, 
+      <lb ed="#P" n="19"/>sed quod possit se communicare. Cui praeterea 
+      acce<lb ed="#P" n="20" break="no"/>dit in summo bono, quaedam sui diffundendi 
+      neces<lb ed="#P" n="21" break="no"/>sitas ex hypothesi. Nam positis rebus ab illo diversis, 
+      <lb ed="#P" n="22"/>necesse est eas illius participatione &amp; non aliter bonas 
+      <lb ed="#P" n="23"/>esse, &amp; proinde necesse est in eas summum bonum 
+      <lb ed="#P" n="24"/>diffundi. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e460">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Ad sextum quoque respondetur, cum Deus nihil 
+      <lb ed="#P" n="26"/>cuiquam antecedenter debeat, illas proprietates 
+      be<lb ed="#P" n="27" break="no"/>nignitatem, beneficentiam, misericordiam &amp; alias 
+      <lb ed="#P" n="28"/>hujusmodi, non ita tribuendas esse Deo, quasi 
+      vo<lb ed="#P" n="29" break="no"/>luntatis inclinationem ad ipsarum actus necessario 
+      <lb ed="#P" n="30"/>includant, sine qua voluntatis inclinatione 
+      homini<lb ed="#P" n="31" break="no"/>bus non recte tribuerentur. Neque enim beneficus 
+      <lb ed="#P" n="32"/>inter homines dici poterit qui nemini velit unquam 
+      <lb ed="#P" n="33"/>benefacere, neque misericors qui nullius velit 
+      mise<lb ed="#P" n="34" break="no"/>reri. Sed Deo tribuuntur quatenus hujusmodi 
+      a<lb ed="#P" n="35" break="no"/>ctuum potentiam significant per modum habitus, 
+      <lb ed="#P" n="36"/>Quoniam autem habitus non necessario voluntatem 
+      <lb ed="#P" n="37"/>inclinant, ut patet etiam in quibusdam habitibus 
+      <lb ed="#P" n="38"/>humanis, velut in artibus &amp; scientiis (Grammaticus 
+      <lb ed="#P" n="39"/>enim esse potest, qui nec scribere velit nec loqui) fit 
+      <lb ed="#P" n="40"/>ut dictae proprietates tanquam virtutes quaedam 
+      com<lb ed="#P" n="41" break="no"/>petant Deo, etiamsi nihil secundum eas operaretur. 
+      <lb ed="#P" n="42"/>Quo tamen casu verum esset quod suas illas virtutes 
+      <lb ed="#P" n="43"/>Deus non manifestaret. Conducunt autem ad 
+      ple<lb ed="#P" n="44" break="no"/>niorem intellectum hujus solutionis quae disputata 
+      <lb ed="#P" n="45"/>sunt ad distinctionem 30. de nominibus quae Deo ex 
+      <lb ed="#P" n="46"/>tempore conveniunt. Ex quibus etiam intelligitur 
+      <lb ed="#P" n="47"/>aliquo sensu dici posse, quod proprietates jam dictae 
+      <lb ed="#P" n="48"/>&amp; similes non competerent Deo, si nulla ejusmodi 
+      <lb ed="#P" n="49"/>virtutum opera producere voluisset, nempe juxta 
+      <lb ed="#P" n="50"/>eam illarum acceptionem, qua simul involverent 
+      <lb ed="#P" n="51"/>voluntatis propensionem ad ejusmodi actus. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e523">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Ad postremum: Deus non eo sensu dicitur 
+      unam<lb ed="#P" n="53" break="no"/>quamque rem movere aut facere, prout nata est 
+      mo<lb ed="#P" n="54" break="no"/>veri aut fieri, quasi ab ipso talibus modis res 
+      pro<lb ed="#P" n="55" break="no"/>cedant, id est, vel necessario vel contingenter, vel 
+      <lb ed="#P" n="56"/>libere. Deus enim est causa liberrime agens 
+      respe<lb ed="#P" n="57" break="no"/>ctu omnium suorum effectuum, non autem 
+      neces<lb ed="#P" n="58" break="no"/>sario aut contingenter; sed sensus est: Deum 
+      effecti<lb ed="#P" n="59" break="no"/>bus quos vult esse necessarios, aptare causas secundas 
+      <lb ed="#P" n="60"/>necessarias, contingentibus contingentes, &amp; liberis 
+      <lb ed="#P" n="61"/>liberas. Unde non est dicendum quod Deus caelum 
+      <lb ed="#P" n="62"/>aut lapidem naturaliter aut necessario moveat, sed 
+      <lb ed="#P" n="63"/>quod libere, licet verum sit ea moveri naturaliter &amp; 
+      <lb ed="#P" n="64"/>necessario, non quidem respectu Dei, sed 
+      secunda<lb ed="#P" n="65" break="no"/>rum causarum, per quas naturaliter &amp; necessario 
+      <lb ed="#P" n="66"/>moventes, Deus libere movet. 
+    </p>
+            <p xml:id="bt67yj-k71534-d1e560">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Alia quae huc adduci possent argumenta, 
+      requi<lb ed="#P" n="68" break="no"/>rat studiosus apud S. Thomam art. 3. &amp; 10. q. 19. &amp; 
+      <lb ed="#P" n="69"/>commentatores ejus ad eosdem articulos. Alibi 
+      quo<lb ed="#P" n="70" break="no"/>que de hac materia disserit idem doctor ut lib. 1. 
+      con<lb ed="#P" n="71" break="no"/>tra gentes cap. 80. 81. 82. 83. 88. &amp; 89. lib. 2. cap. 
+      <lb ed="#P" n="72"/>25. &amp; 27. lib. 3. cap. 97. &amp; de veritate q. 23. art. 3. 
+      <lb ed="#P" n="73"/>&amp; 4. de malo q. 16. art. 5.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

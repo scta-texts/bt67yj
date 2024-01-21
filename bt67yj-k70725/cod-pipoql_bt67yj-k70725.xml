@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="187"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k70725"><!-- l1d44c2" -->
+            <head xml:id="bt67yj-k70725-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k70725-Hd1e103" type="question-title">Solutio eorum quae objiciuntur</head>
+            <p xml:id="bt67yj-k70725-d1e106">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> §. 2. Solutio eorum quae objiciuntur.
+    </p>
+            <p xml:id="bt67yj-k70725-d1e113">
+               <lb ed="#P" n="7"/>ADversus id quod dictum est, Deum posse 
+      face<lb ed="#P" n="8" break="no"/>re meliora, nonnullae sunt objectiones, 
+      potis<lb ed="#P" n="9" break="no"/>simum ex Augustino quilib. 3. contra Max. c. 7. &amp; 
+      <lb ed="#P" n="10"/>18. &amp; lib. 83. q. 50. sic ratiocinatur? Si Deus potuit 
+      <lb ed="#P" n="11"/>aequalem sibi gignere filium, &amp; noluit, invidus fuit. 
+      <lb ed="#P" n="12"/>Unde nobis similiter ratiocinari licebit: Si potuit 
+      <lb ed="#P" n="13"/>creaturam meliorem facere &amp; noluit, invidus fuit. 
+      <lb ed="#P" n="14"/>Sed ad hoc cum Magistro respondemus, non esse 
+      pa<lb ed="#P" n="15" break="no"/>rem utriusque argumenti rationem. Invidia enim 
+      in<lb ed="#P" n="16" break="no"/>ter eos tantummodo locum habet, qui non multum 
+      <lb ed="#P" n="17"/>distant natura vel dignitate. Itaque si pater aequalem 
+      <lb ed="#P" n="18"/>sibi filium gignere posset, nec vellet, merito argue 
+      <lb ed="#P" n="19"/>retur invidus, praesertim cum naturae aequalitas filio 
+      <lb ed="#P" n="20"/>debeatur. At ubi vel naturae, vel dignitatis valde 
+      <lb ed="#P" n="21"/>magna distantia est, nullus relinquitur locus 
+      invi<lb ed="#P" n="22" break="no"/>diae, velut inter hominem &amp; canem, inter regem 
+      <lb ed="#P" n="23"/>&amp; rusticum. Est autem infinita distantia inter Deum 
+      <lb ed="#P" n="24"/>&amp; creaturas: Quare invidiae argui non potest Deus, 
+      <lb ed="#P" n="25"/>si cum possit meliorem nolit facere creaturam. 
+      <lb ed="#P" n="26"/>alibi creaturis accommodantem. Nam lib. 4. de 
+      gen<lb ed="#P" n="27" break="no"/>ad lit. cap. 16. Si, inquit, bona facere posset Deus 
+    </p>
+            <p xml:id="bt67yj-k70725-d1e161">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Rursum objiciunt Augustinum eandem rationem C 
+      <lb ed="#P" n="29"/>nec faceret, magna esset invidentia. Quod nos simili 
+      <lb ed="#P" n="30"/>ratione de melioribus dicere poterimus, hoc modo: 
+      <lb ed="#P" n="31"/>Si meliora facere posset &amp;c. forte respondebit aliquis 
+      <lb ed="#P" n="32"/>sensum Augustini hunc esse: Si Deus cum posset, non 
+      <lb ed="#P" n="33"/>faceret bona sed mala; verum hic sensus ex ipsius 
+      <lb ed="#P" n="34"/>loci contextu facile refellitur. Proinde verior 
+      res<lb ed="#P" n="35" break="no"/>ponsio est ex retractationibus Augustini. Siquidem 
+      <lb ed="#P" n="36"/>lib. 2. retr. cap. 24. fatetur se non satis accurate in 
+      <lb ed="#P" n="37"/>hoc opere disputasse, in quo multa quaesita, nec 
+      om<lb ed="#P" n="38" break="no"/>nia inventa, pauciora firmata dicit, alia vero ita 
+      <lb ed="#P" n="39"/>posita velut adhuc requirenda sint. Inter quae etiam 
+      <lb ed="#P" n="40"/>hanc sententiam referre possumus tanquam non satis 
+      <lb ed="#P" n="41"/>expensam. Nam quid habeat vera Augustini 
+      senten<lb ed="#P" n="42" break="no"/>tia, superius annotatum est. Quin &amp; libro 3. de 
+      libe<lb ed="#P" n="43" break="no"/>ro arbitrio cap. 9. ubi affirmat res a Deo meliores 
+      in<lb ed="#P" n="44" break="no"/>stitui potuisse, diserte tamen invidiam ab eo 
+      remo<lb ed="#P" n="45" break="no"/>vet. 
+    </p>
+            <p xml:id="bt67yj-k70725-d1e206">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Tertium argumentum est ex eodem Augustino, 
+      <lb ed="#P" n="47"/>quilib. 13. de Trinit. cap. 10. disputans de opere 
+      re<lb ed="#P" n="48" break="no"/>demptionis humanae, dicit &amp; alium modum 
+      redem<lb ed="#P" n="49" break="no"/>ptionis nostrae fuisse possibilem Deo, sed non alium 
+      <lb ed="#P" n="50"/>fuisse nostrae miseriae sanandae convenientiorem. Ex 
+      <lb ed="#P" n="51"/>quo videtur consequi Deum non potuisse miseriam 
+      <lb ed="#P" n="52"/>nostram convenientius sanare, quam per 
+      incarnatio<lb ed="#P" n="53" break="no"/>nem &amp; mortem filii sui. Responsio, sentit 
+      Augusti<lb ed="#P" n="54" break="no"/>nus non esse Deo possibile, ut hominem 
+      convenien<lb ed="#P" n="55" break="no"/>tiori modo sanet quam per filium Dei hominem 
+      fa<lb ed="#P" n="56" break="no"/>ctum. Hoc enim opus excellentissimum est &amp; 
+      infini<lb ed="#P" n="57" break="no"/>te bonum, ut pote Deus homo factus. Quare si atten 
+      <lb ed="#P" n="58"/>datur substantia hujus operis, nullus excogitari 
+      po<lb ed="#P" n="59" break="no"/>tuit modus convenientior, quia Deo qui dignatus 
+      <lb ed="#P" n="60"/>est fieri suum opus, nihil est melius. Caeterum omni 
+      <lb ed="#P" n="61"/>eo quod Deus non est, melius aliquid a Deo fieri 
+      po<lb ed="#P" n="62" break="no"/>tuit. 
+    </p>
+            <p xml:id="bt67yj-k70725-d1e248">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Quartum adhuc ex Augustino, qui libro 29. 
+      con<lb ed="#P" n="64" break="no"/>tra Faustum capite 2. dicit, Dominum potuisse sine 
+      <lb ed="#P" n="65"/>nativitate venire cum carne ad homines. Sed illud, 
+      <lb ed="#P" n="66"/>inquit, melius erat quod fecit, ut etiam de virgine 
+      nas<lb ed="#P" n="67" break="no"/>ceretur. Et capite 4. cum iterum dixisset Christum 
+      <lb ed="#P" n="68"/>potuisse venire, etiamsi non ex foemina nasceretur, 
+      <lb ed="#P" n="69"/>ita subjecit: Potuit, sed noluit, &amp; hoc melius est quod 
+      <lb ed="#P" n="70"/>voluit. Ex quibus apparet velle Augustinum, id quod 
+      <lb ed="#P" n="71"/>Deus facit, semper esse melius iis quae non facit, 
+      li<lb ed="#P" n="72" break="no"/>cet facere possit. At vero respondemus Augustinum 
+      <!--0210.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>non statuere generalem regulam, sed tantum loqui 
+      <lb ed="#P" n="74"/>secundum rem subjectam, quia melius fuit 
+      Domi<lb ed="#P" n="75" break="no"/>num nasci ex virgine, quam sine nativitate ad 
+      homi<lb ed="#P" n="76" break="no"/>nes venire. Sic enim putaretur phantalma, non verus 
+      <lb ed="#P" n="77"/>homo. Sicque non acciperet carnem ex genere 
+      no<lb ed="#P" n="78" break="no"/>stro, quare nec esset frater noster. Denique videretur 
+      <lb ed="#P" n="79"/>sexum muliebrem a salute repellere, si assumpto sexu 
+      <lb ed="#P" n="80"/>virili, nec nasci dignaretur de sexu foemineo, ut 
+      ibi<lb ed="#P" n="81" break="no"/>dem Augustinus ratiocinatur. Et in summa non est 
+      <lb ed="#P" n="82"/>nostrum judicare de operibus Dei, quaenam hic quae 
+      <lb ed="#P" n="83"/>facit, essent meliora, &amp; dicere, melius sic aut sic 
+      fa<lb ed="#P" n="84" break="no"/>ceret, sed venerari potius debemus omnia 
+      quaecun<lb ed="#P" n="85" break="no"/>que facit, tanquam valde bona. 
+    </p>
+            <p xml:id="bt67yj-k70725-d1e307">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Quintum argumentum ex Joanne Damasceno, 
+      <lb ed="#P" n="87"/>quilib. 2. de orth. fide cap. 29. Necesse est, inquit, 
+      <lb ed="#P" n="88"/>omnia quae Dei providentia fiunt, secundum rectam 
+      ra<lb ed="#P" n="89" break="no"/>tionem &amp; optima &amp; Deo decentissima fieri, &amp; ita ut 
+      <lb ed="#P" n="90"/>neque ant meliora fieri. Verum loquitur Damascenus 
+      <lb ed="#P" n="91"/>non de bonitate rei, sed de modo faciendi, qui Deo 
+      <lb ed="#P" n="92"/>tribuitur. Sensus enim est, Deum non posse 
+      quip<lb ed="#P" n="93" break="no"/>piam facere melius, hoc est, meliori modo, sive 
+      ma<lb ed="#P" n="94" break="no"/>jori sapientia quam facit. Omnia enim Dei opera ab 
+      <lb ed="#P" n="95"/>una eademque operatione sapientiae ejus procedunt. 
+      <lb ed="#P" n="96"/>Quod si tamen modus effectionis referatur ad res 
+      <lb ed="#P" n="97"/>quae fiunt, certum est eas ut meliores, ita meliori 
+      <lb ed="#P" n="98"/>modo fieri posse. 
+    </p>
+            <p xml:id="bt67yj-k70725-d1e340">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Postremum argumentum hujusmodi est: Cum 
+      <lb ed="#P" n="100"/>Deus sit optimus, necesse fuit aut certe conveniens, 
+      <lb ed="#P" n="101"/>ut optima faceret opera sua, non tantum quoad 
+      mo<lb ed="#P" n="102" break="no"/>dum faciendi ex parte Dei, verum etiam quoad res 
+      <lb ed="#P" n="103"/>factas; ita scilicet ut iis nihil posset esse melius. Quod 
+      <lb ed="#P" n="104"/>confirmatur hac Platonis in Timaeo sententia: 
+      Opti<lb ed="#P" n="105" break="no"/>mi est optima adducere. Confirmatur etiam hac 
+      ra<lb ed="#P" n="106" break="no"/>tione. Homo bonus facit opera bona, melior 
+      me<lb ed="#P" n="107" break="no"/>liora, &amp; optimus optima; ergo Deus qui optimus 
+      <lb ed="#P" n="108"/>est, semper facit quod est optimum. Respondetur 
+      <lb ed="#P" n="109"/>ad optimum non pertinere ut optima faciat, sed ut 
+      <lb ed="#P" n="110"/>optime, id est, ex summa potentia &amp; sapientia. Ad 
+      <lb ed="#P" n="111"/>utramque autem pertinet ut quocunque opere a se 
+      <lb ed="#P" n="112"/>facto possit adhuc aliud facere melius. Nam alioqui 
+      <lb ed="#P" n="113"/>neque potentiam neque sapientiam haberet Deus 
+      <lb ed="#P" n="114"/>summam, id est, infinitam, sed finiretur utraque in 
+      <lb ed="#P" n="115"/>opere jam facto tanquam extremo potentiae atque 
+      sa<lb ed="#P" n="116" break="no"/>pientiae, quia nihil posset melius. Ad subjunctam ex 
+      <lb ed="#P" n="117"/>Patone probationem similiter responderi potest, ut 
+      <lb ed="#P" n="118"/>jam ad Damascenum responsum est. Quaecunque 
+      <lb ed="#P" n="119"/>enim Deus facit, sunt &amp; esse debent optima ex parte 
+      <lb ed="#P" n="120"/>fac entis &amp; modi, non tamen ex parte rei. Fiunt 
+      <lb ed="#P" n="121"/>enim a Deo qui est summa bonitas &amp; summa 
+      sapien<lb ed="#P" n="122" break="no"/>tia; &amp; proinde fiunt optime &amp; sapientissime. Ad 
+      al<lb ed="#P" n="123" break="no"/>teram confirmationem respondetur aliud esse de 
+      <lb ed="#P" n="124"/>homine, aliud de Deo, quia homo per operationes 
+      <lb ed="#P" n="125"/>suas proficit in bonitate, cum fit accidentaliter 
+      bo<lb ed="#P" n="126" break="no"/>nus, ac rursum ex bonitate acquisita operatur, 
+      ideo<lb ed="#P" n="127" break="no"/>que quanto facit meliora, tanto fit melior, &amp; 
+      quan<lb ed="#P" n="128" break="no"/>to melior est, tanto meliora facit. Deus autem 
+      essen<lb ed="#P" n="129" break="no"/>tialiter bonus, nec ullo modo bonitas ejus dependet 
+      <lb ed="#P" n="130"/>a bonitate operum quae facit. Unde salva bonitate 
+      <lb ed="#P" n="131"/>sua posset nihil omnino facere, posset etiam facere 
+      <lb ed="#P" n="132"/>minus bona his quae facit, idque ad ostendendum 
+      <lb ed="#P" n="133"/>quod non sola majora bona, sed etiam minora, ab 
+      <lb ed="#P" n="134"/>ipso tanquam omnis boni fonte profluant. Item 
+      <lb ed="#P" n="135"/>agit Deus, non ut operans moraliter, cujus bonitas 
+      <lb ed="#P" n="136"/>ex operis bonitate aestimatur, sed ut artifex 
+      perfe<lb ed="#P" n="137" break="no"/>ctus, qui cujusvis generis opera secundum artem 
+      <lb ed="#P" n="138"/>suam potest operari, quique ad ostendendum se non 
+      <lb ed="#P" n="139"/>agere ex necessitate, alia facit praestantia, alia 
+      vul<lb ed="#P" n="140" break="no"/>garia, quorum tamen comparatione aliorum 
+      prae<lb ed="#P" n="141" break="no"/>stabilitas appareat.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

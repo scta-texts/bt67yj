@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="84"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k31313"><!-- l1d26c4" -->
+            <head xml:id="bt67yj-k31313-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k31313-Hd1e103" type="question-title">Multipliciter in scriptura filios Dei vocari</head>
+            <p xml:id="bt67yj-k31313-d1e106">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> §. 4. Multipliciter in scriptura filios Dei vocari.
+    </p>
+            <p xml:id="bt67yj-k31313-d1e113">
+               <lb ed="#P" n="42"/>IN sacris litteris filii nomen vere accipitur &amp; ad 
+      <lb ed="#P" n="43"/>Imulta extenditur. 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e120">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Proprie filius dicitur, qui via generationis proprie 
+      <lb ed="#P" n="45"/>dictae ab alio ortum habet, id est, qui processit ab 
+      <lb ed="#P" n="46"/>alio ut principio vivente conjuncto secundum 
+      ra<lb ed="#P" n="47" break="no"/>tionem similitudinis. Quod quidem magis &amp; 
+      usita<lb ed="#P" n="48" break="no"/>tius dicitur, in natura rationali, seu intellectuali, 
+      <lb ed="#P" n="49"/>quam in caeteris viventibus. Convenit autem hoc 
+      <lb ed="#P" n="50"/>propriissime filio Dei, qui eandem numero naturam, 
+      <lb ed="#P" n="51"/>quae est in patre, per generationem a patre accepit, 
+      <lb ed="#P" n="52"/>ideóque &amp; patrem expressissime repraesentat. Proprie 
+      <lb ed="#P" n="53"/>quidem etiam homines hominum filii dicumr, 
+      <lb ed="#P" n="54"/>propter naturae similitudinem generatione 
+      accep<lb ed="#P" n="55" break="no"/>tam; minus tamen perfecte quam filius Dei, quia nec 
+      <lb ed="#P" n="56"/>eandem numero naturam, sed specie tantum, illi a 
+      <lb ed="#P" n="57"/>parentibus accipiunt, ac proinde nec iis per omnia 
+      <lb ed="#P" n="58"/>similes existunt. Ab hac significatione filii, caetera 
+      <lb ed="#P" n="59"/>ejus vocabuli significata analogice deducta sunt. 
+      <lb ed="#P" n="60"/>Quo fit ut varias ac multiplices ob causas etiam filii 
+      <lb ed="#P" n="61"/>Dei in scripturis sint appellati. Qui nuncupationis 
+      <lb ed="#P" n="62"/>modi imperfectionis ordine ita possunt enumerari. 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e167">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Primo filii Dei dicti sunt propter creationem ut 
+      <lb ed="#P" n="64"/>Deut. 32. Nonne ipse est pater tuus, qui fecit &amp; creavit 
+      <lb ed="#P" n="65"/>te? Quod etiam ad alia creata extenditur ut Job. 38. 
+      <lb ed="#P" n="66"/>Quis est pluviae pater, vel quis genuit stillas roris? 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e180">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Secundo filii Dei dicuntur angeli &amp; homines 
+      pro<lb ed="#P" n="68" break="no"/>pter imaginem Dei ipsis in crcatione impressam, 
+      <lb ed="#P" n="69"/>etiam si ea per peccatum deformata sit. Unde Luc. 15. 
+      <lb ed="#P" n="70"/>filius prodigus filii nomen non amisit. Item Exod. 4. 
+      <!--0107.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>cum dicit Dominus: Filius meus primogenitus Israel, 
+      <lb ed="#P" n="72"/>significat &amp; caeteros homines filios suos esse, sed 
+      Is<lb ed="#P" n="73" break="no"/>raelem beneficiorum privilegio illis priorem. Quo &amp; 
+      <lb ed="#P" n="74"/>illud pertinet Isa. 1. Filios enutrivi &amp; exaltavi, ipsi 
+      <lb ed="#P" n="75"/>autem spreverunt me¬ 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e208">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Tertio propter cultum veri Dei, ut Gens. 
+      Viden<lb ed="#P" n="77" break="no"/>tes filii Dei filias hominum. Qua etiam ratione omnes 
+      <lb ed="#P" n="78"/>fideles in oratione dominica dicunt non mendaciter, 
+      <lb ed="#P" n="79"/>Pater noster qui es in caelis. 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e221">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Quarto propter judiciariam potestatem, licet 
+      ma<lb ed="#P" n="81" break="no"/>lis etiam hominibus attributam, ut Psal. 81. Ego dixi 
+      <lb ed="#P" n="82"/>dii estis, &amp; filii Excelsi omnes. 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e232">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Quinto propter similitudinem Dei, quae in 
+      recti<lb ed="#P" n="84" break="no"/>tudine mentis, id est, in charitate aliisque virtutibus 
+      <lb ed="#P" n="85"/>consistit. Unde illud Mat. 5. Ut sitis fili patris vestri 
+      <lb ed="#P" n="86"/>qui in caelis est, Et, beati pacifici quoniam filii Dei 
+      vo<lb ed="#P" n="87" break="no"/>cabuntur. Hinc etiam testatur Apostolus nos in 
+      spiri<lb ed="#P" n="88" break="no"/>tu adoptionis filiorum clamare, Abba pater Rom. 8. 
+      <lb ed="#P" n="89"/>&amp; alius Apostolus I. Joan. 3. Charitatem dedit nobis 
+      <lb ed="#P" n="90"/>pater, ut filii Dei nominemur &amp; simus. Hac quoque 
+      <lb ed="#P" n="91"/>ratione homines sanctificati vocantur fratres unici 
+      fi<lb ed="#P" n="92" break="no"/>lii Dei, scilicet adoptionis jure, juxta illud Psal. 21. 
+      <lb ed="#P" n="93"/>&amp; Heb. 2. Narrabo nomen tuum fratribus meis. 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e261">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Sexto propter electionem ad vitam aeternam. Sic 
+      <lb ed="#P" n="95"/>enim accipitur hoc nomen Joan. 12. cum dicitur: 
+      <lb ed="#P" n="96"/>Ut filios Dei, qui erant dispersi, congregaret in unum. 
+      <lb ed="#P" n="97"/>Postremo ratione perfectae assimilationis cum Deo, 
+      <lb ed="#P" n="98"/>quae nimirum est in beatis. Unde Job. 1. &amp; 38. bcati 
+      <lb ed="#P" n="99"/>angeli vocantur filii Dei. Et Luc. 20. de hominibus 
+      <lb ed="#P" n="100"/>beatis sic dicitur, Filii sunt Dei, cum sint filii 
+      resurre<lb ed="#P" n="101" break="no"/>ctionis. Et Sap. 5. Ecce quomodo computati sunt inter 
+      <lb ed="#P" n="102"/>filios Dei. Atque hic postremus modus inter e&amp; qui 
+      <lb ed="#P" n="103"/>creaturis tribuuntur, summus est, &amp; perfectissimus; 
+      <lb ed="#P" n="104"/>utpote caeteris propius accedens ad ineffabilem 
+      mo<lb ed="#P" n="105" break="no"/>dum, quo unigenitus ille, qui est in sinu patris, filius 
+      <lb ed="#P" n="106"/>Dei dicitur, cui soli proprium permanet esse natura 
+      <lb ed="#P" n="107"/>filium Dei, &amp; ita proprium, ut id aliis communicari 
+      <lb ed="#P" n="108"/>sit impossibile. Et hoc significatum est Psal. 88. 
+      <lb ed="#P" n="109"/>quando de iis quibus haec postremi modi filiatio 
+      cae<lb ed="#P" n="110" break="no"/>teris omnibus perfectior competit, dicitur; Quis 
+      si<lb ed="#P" n="111" break="no"/>milis erit Deo in filiis Dei? 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e306">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Utrum autem idem Dei filius, in quantum est 
+      ho<lb ed="#P" n="113" break="no"/>mo, possit dici filius Dei adoptivus, disputatur ex 
+      <lb ed="#P" n="114"/>professo ad dist. 10. lib. 3. 
+    </p>
+            <p xml:id="bt67yj-k31313-d1e317">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Porro qua ratione Deus dicitur hominum pater, 
+      <lb ed="#P" n="116"/>&amp; homines Dei filii, eadem nihil vetat Trinitatem 
+      <lb ed="#P" n="117"/>&amp; quamlibet in Trinitate personam dici patrem 
+      ho<lb ed="#P" n="118" break="no"/>minum, &amp; homines illius filios, ut satis indicat Aug. 
+      <lb ed="#P" n="119"/>lib. 5. de Trinit. capit. 11. Quod ipsum ex sententiis 
+      <lb ed="#P" n="120"/>scripturae jam adductis, nec non ex rationibus 
+      singu<lb ed="#P" n="121" break="no"/>lorum modorum hujus nuncupationis facile 
+      proba<lb ed="#P" n="122" break="no"/>tur: Sienim propter creationem homines vocantur 
+      <lb ed="#P" n="123"/>filii Dei, creationis autem opus tribus personis 
+      com<lb ed="#P" n="124" break="no"/>mune est, sequitur homines totius Trinitatis, &amp; 
+      u<lb ed="#P" n="125" break="no"/>niuscujuslibet personae filios hac ratione dici posse, 
+      <lb ed="#P" n="126"/>&amp; sic de caeteris modis. Unde &amp; cum dicimus, Pater 
+      <lb ed="#P" n="127"/>noster qui es in caelis, non solum in Deitate patrem, 
+      <lb ed="#P" n="128"/>sed totam trinitatem alloquimur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

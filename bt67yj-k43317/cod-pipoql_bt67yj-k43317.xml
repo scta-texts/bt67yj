@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="115"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k43317"><!-- l1d39c2" -->
+            <head xml:id="bt67yj-k43317-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k43317-Hd1e103" type="question-title">Scientia visionis in Deo, utrum mutabilis</head>
+            <p xml:id="bt67yj-k43317-d1e106">
+               <lb ed="#P" n="65"/>§. 2. Scientia visionis in Deo, utrum mutabilis.
+    </p>
+            <p xml:id="bt67yj-k43317-d1e111">
+               <lb ed="#P" n="66"/>DE scientia Dei, quae respicit creaturas, id est, res 
+      <lb ed="#P" n="67"/>Daliquando existentes, vel earum defectus, quam 
+      <lb ed="#P" n="68"/>scientiam visionis appellari supra diximus ad dist. 35. 
+      <lb ed="#P" n="69"/>paulo aliter loquendum, quam de scientia Dei in 
+      ge<lb ed="#P" n="70" break="no"/>nere. Dehac enim fatendum est posse Deum scire 
+      plu<lb ed="#P" n="71" break="no"/>ra vel pauciora quam sciat, quomodo recte fatemum 
+      <lb ed="#P" n="72"/>ipsum plura vel pauciora facere posse quam faciat. Et 
+      <!--0138.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>similiter de eadem loquendo, fatendum est, Deum 
+      ali<lb ed="#P" n="74" break="no"/>quid scire posse, quod nec scit, nec scivit, nec sciet 
+      <lb ed="#P" n="75"/>unquam. Quae omnia in sensu diviso intelligenda 
+      <lb ed="#P" n="76"/>sunt. Non enim fieri potest, ut quod modo cognoscit 
+      <lb ed="#P" n="77"/>scientia visionis, postea incipiat non scire, vel contra; 
+      <lb ed="#P" n="78"/>sed potuit ab aeterno non scire, quod nunc scit ab 
+      <lb ed="#P" n="79"/>aeterno; quia potuit ab aeterno velle facere aliquid, 
+      <lb ed="#P" n="80"/>quod nunc ab aeterno facere noluit, referendo illud 
+      <lb ed="#P" n="81"/>ab aeterno, ad velle &amp; nolle. 
+    </p>
+            <p xml:id="bt67yj-k43317-d1e153">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Porro ex eo consequens non est, scientiam visionis 
+      <lb ed="#P" n="83"/>in Deo augeri posse vel minui, vel omnino mutari. 
+      <lb ed="#P" n="84"/>Hujusmodi enim sermo, in quo ponitur augeri, 
+      mi<lb ed="#P" n="85" break="no"/>nui, mutari, semper involvit sensum compositum, 
+      eo<lb ed="#P" n="86" break="no"/>que in re proposita falsum. Nam cum dicis scientiam 
+      <lb ed="#P" n="87"/>Dei augeri, vel minui, vel mutari posse, sensum hunc 
+      <lb ed="#P" n="88"/>efficis: Deum quaedam scire ab aeterno, quibus postea 
+      <lb ed="#P" n="89"/>quaedam addi possint aut detrahi, aut quorum in 
+      lo<lb ed="#P" n="90" break="no"/>cum aliam succedere, sic nimirum ut plura vel 
+      paucio<lb ed="#P" n="91" break="no"/>ra sciat postea, quam prius aut omnino quaedam sciat 
+      <lb ed="#P" n="92"/>postea, quae non prius, aut contra. Unde sequeretur 
+      <lb ed="#P" n="93"/>fieri posse, ut incipiat aliquando Deus scire quod 
+      <lb ed="#P" n="94"/>non sciebat, vel non scire quod sciebat. Hoc autem 
+      <lb ed="#P" n="95"/>absurdum est, &amp; pugnans cum aeterno Dei decreto de 
+      <lb ed="#P" n="96"/>rebus in tempore producendis. Quare certissime 
+      te<lb ed="#P" n="97" break="no"/>nendum est, scientiam Dei, etiam hoc modo acceptam 
+      <lb ed="#P" n="98"/>esse invariabilem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

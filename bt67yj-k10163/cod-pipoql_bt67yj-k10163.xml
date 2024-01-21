@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="28"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k10163"><!-- l1d7c3" -->
+            <head xml:id="bt67yj-k10163-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k10163-Hd1e103" type="question-title">An possit a nobis intelligi generatio divina</head>
+            <p xml:id="bt67yj-k10163-d1e106">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> §. 3. An possit a nobis intelligi generatio divina?
+    </p>
+            <p xml:id="bt67yj-k10163-d1e113">
+               <lb ed="#P" n="37"/>GEnerationem aeternam Filii Dei non posse a 
+      <lb ed="#P" n="38"/>nobis intelligi patres passim affirmare 
+      viden<lb ed="#P" n="39" break="no"/>tur. Dicit enim Hilarius l. 1. de Trinitate, non putet 
+      <lb ed="#P" n="40"/>homo sua intelligentia generationis secretum posse 
+      conse<lb ed="#P" n="41" break="no"/>qui. Qui &amp; l. 12. circa medium vult eo solo quo 
+      aeter<lb ed="#P" n="42" break="no"/>na est, generationem illam a nobis comprehendi non 
+      <lb ed="#P" n="43"/>posse. Similiter Ambr. I. 1. de fide ad Gratianum c. 5. 
+      <lb ed="#P" n="44"/>mihi, inquit, impossibile est generationis scire secretum, 
+      <lb ed="#P" n="45"/>mens deficit, vox silet, non mea tantum sed &amp; 
+      angelo<lb ed="#P" n="46" break="no"/>rum, &amp;c. quae recitat Magister dist. 9. §. H. Atque is 
+      <lb ed="#P" n="47"/>consentanea scribit idem Ambr. l. 4. in Lucam ad 
+      il<lb ed="#P" n="48" break="no"/>lud c. 5. Duc in altum. Idem affirmat Prudentius in 
+      <lb ed="#P" n="49"/>apotheosi contra Unionitas. Idem &amp; alii patres ad hoc 
+      <lb ed="#P" n="50"/>fere utentes illo prophetae testimonio Isa. 53. 
+      Genera<lb ed="#P" n="51" break="no"/>tionem ejus quis enarrabit? Hoc enim de aeterna filii 
+      <lb ed="#P" n="52"/>Dei generatione dictum accipiunt, Alexander 
+      Epis<lb ed="#P" n="53" break="no"/>copus Alexandrinus in epistola ad Alexandrum 
+      Con<lb ed="#P" n="54" break="no"/>stantinopolitanum, quae extat apud scriptores 
+      Eccle<lb ed="#P" n="55" break="no"/>siasticae hist. Augustin. de Symbolo ad 
+      Cathecume<lb ed="#P" n="56" break="no"/>nos l. 1. c. 3. &amp; l. 2. c. 3. Chrysost. hom. 1. de 
+      incompre<lb ed="#P" n="57" break="no"/>hensibili Deinatura tom. 5. &amp; apud eundem author 
+      <lb ed="#P" n="58"/>operis imperfecti in Matt. hom. 1. Leo sermone 9. 
+      <lb ed="#P" n="59"/>de Nativitate Domini. Et alii plerique. Huc etiam 
+      <lb ed="#P" n="60"/>Ecclesia accommodat illud Apostoli Rom. 11. O 
+      alti<lb ed="#P" n="61" break="no"/>tudo divitiarum, &amp;c. Quod autem de generatione 
+      <lb ed="#P" n="62"/>Filii dicunt, id sine dubio etiam ad processionem 
+      <lb ed="#P" n="63"/>&amp;Spiritus sancti pertinere volunt. 
+    </p>
+            <p xml:id="bt67yj-k10163-d1e174">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Verum haec patrum doctrina, non de qualicunque 
+      <lb ed="#P" n="65"/>cognitione seu intelligentia divinae generationis, 
+      <lb ed="#P" n="66"/>sed de plena atque perfecta, quam 
+      comprehensio<lb ed="#P" n="67" break="no"/>nem vocant, est accipienda. Dicuntur enim haec a 
+      <lb ed="#P" n="68"/>patribus contra Arianos qui volentes 
+      comprehende<lb ed="#P" n="69" break="no"/>re modum generationis divinae, nec contenti 
+      simpli<lb ed="#P" n="70" break="no"/>ci intelligentia secundum fidem Catholicam, varios 
+      <!--0051.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>proferebant modos generationis in creaturis, quibus 
+    </p>
+            <p xml:id="bt67yj-k10163-d1e201">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> ostendere se putabant non posse filium ex patre sic 
+      <lb ed="#P" n="73"/>gigni, ut ei consubstantialis esset simul &amp; coaeternus; 
+      <lb ed="#P" n="74"/>non advertentes fieri non posse ut aliqua sit creatura 
+      <lb ed="#P" n="75"/>quae perfecte repraesentet id quod est in Deo, ideoque 
+      <lb ed="#P" n="76"/>opus esse ut ad perfectiorem repraesentationem ex 
+      <lb ed="#P" n="77"/>pluribus rebus adductae similitudines conjungantur, 
+      <lb ed="#P" n="78"/>ut quod unideest, alia suppleat; Quemadmodum 
+      do<lb ed="#P" n="79" break="no"/>cet Augustinus serm. 38. de verbis Domini c. 8. 9. &amp; 
+      <lb ed="#P" n="80"/>10. Unde ut ostendatur Dei filius Patri 
+      consubstan<lb ed="#P" n="81" break="no"/>tialis, comparatur filio homini, ut coaeternus, 
+      compa<lb ed="#P" n="82" break="no"/>ratur splendori, ut perfecte similis, comparatur 
+      ima<lb ed="#P" n="83" break="no"/>gini in mundo speculo resultanti, ut immaterialiter 
+      <lb ed="#P" n="84"/>genitus, comparatur verbo mentis; tametsi nec 
+      om<lb ed="#P" n="85" break="no"/>nia ista simul sumpta quantumvis in suo genere 
+      per<lb ed="#P" n="86" break="no"/>fecta, perfecte valent exprimere modum rei, cujus 
+      <lb ed="#P" n="87"/>gratia assumuntur, ut ex supradictis satis liquet. 
+    </p>
+            <p xml:id="bt67yj-k10163-d1e240">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Neque vero his repugnat Hieronymus, qui 
+      scri<lb ed="#P" n="89" break="no"/>bens in tertium caput Ecclesiastae, pronomen, quis, 
+      <lb ed="#P" n="90"/>in scripturis non pro impossibili, sed pro difficili 
+      <lb ed="#P" n="91"/>semper (pro quo Magister dist. 9. habet saepissime 
+      <lb ed="#P" n="92"/>accipi dicit, prolato hoc eodem ex Isaia exemplo, 
+      <lb ed="#P" n="93"/>Generationem ejus quis enarrabit? Siquidem idem 
+      <lb ed="#P" n="94"/>Hier. initio commentarii sui in Matt. ex hac ipsa pro 
+      <lb ed="#P" n="95"/>phetae sententia affatu impossibilem asserit 
+      generatio<lb ed="#P" n="96" break="no"/>nem divinitatis. Et constatu alibi in sacris literis 
+      pro<lb ed="#P" n="97" break="no"/>nomine, Quis, impossibile significari, ut Ps. 82. Deus 
+      <lb ed="#P" n="98"/>quis similis erit tibi? Et Ps. 88. Quis est homo qui vivet 
+      <lb ed="#P" n="99"/>&amp; non videbit mortem? Et alia hujusmodi. Proinde 
+      di<lb ed="#P" n="100" break="no"/>cendum videtur Hieronymum qui, semper, pro eo 
+      <lb ed="#P" n="101"/>quod est plerumque, aut fere semper posuit, locutum 
+      <lb ed="#P" n="102"/>fuisse de imperfecta enarratione generationis 
+      divi<lb ed="#P" n="103" break="no"/>nae, aut certe de generatione Christi secundum 
+      car<lb ed="#P" n="104" break="no"/>nem. Neque absurdum videri debet eum diversis 
+      lo<lb ed="#P" n="105" break="no"/>cis de alia atque alia generatione propheticam 
+      sen<lb ed="#P" n="106" break="no"/>tentiam interpretari, cum in uno &amp; eodem loco, 
+      ni<lb ed="#P" n="107" break="no"/>mirum in commentario Isa. 53. utramque illius 
+      sen<lb ed="#P" n="108" break="no"/>tentiae expositionem adferat: Aut enim, inquit, de 
+      <lb ed="#P" n="109"/>divinitate ejus accipiendum est, quod impossibile sit 
+      di<lb ed="#P" n="110" break="no"/>vinae nativitatis nosse mysteria, aut de partu virginis, 
+      <lb ed="#P" n="111"/>quod difficulter possit exponi. Nam &amp; Leo Pontifer 
+      <lb ed="#P" n="112"/>ser. 3. &amp; 9. de Nativit. Domini ad utramque Christi 
+      <lb ed="#P" n="113"/>nativitatem dictum prophetae refert. Et Augustinus 
+      <lb ed="#P" n="114"/>serm. 12. de tempore dicit, difficile esse judicare de 
+      <lb ed="#P" n="115"/>utra potius generatione dictum id accipi debeat. 
+      <lb ed="#P" n="116"/>Ac fortasse neutra expositio literalis est, sed tertia 
+      <lb ed="#P" n="117"/>quaedam, qua nimirum referatur ad generationem 
+      <lb ed="#P" n="118"/>filiorum Dei ex adoptione, id est, Ecclesiae Christi 
+      <lb ed="#P" n="119"/>propagationem &amp; multiplicationem, juxta id quod 
+      <lb ed="#P" n="120"/>ibidem dicitur: Videbit semen longaevum, videbit &amp; 
+      <lb ed="#P" n="121"/>salvabitur, ut sit sensus: Sed ejus quis poterit 
+      <lb ed="#P" n="122"/>enumerare? Semen nunc ad quaestionem a Magistro 
+      <lb ed="#P" n="123"/>tractatam veniamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

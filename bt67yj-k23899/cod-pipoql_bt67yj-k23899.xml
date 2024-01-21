@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="64"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k23899"><!-- l1d16c1" -->
+            <head xml:id="bt67yj-k23899-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k23899-Hd1e103" type="question-title">Quomodo visibiliter missi filius 
+      et Spiritus sanctus</head>
+            <p xml:id="bt67yj-k23899-d1e106">
+               <lb ed="#P" n="82"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="83"/>DECIMAMSEXTAM. 
+      <lb ed="#P" n="84"/>§. 1. Quomodo visibiliter missi filius 
+      <lb ed="#P" n="85"/>&amp; Spiritus sanctus.
+    </p>
+            <p xml:id="bt67yj-k23899-d1e117">
+               <lb ed="#P" n="86"/>NULTIPLICES modi quibus missus legitur 
+      <lb ed="#P" n="87"/>vel filius vel spiritus sanctus, contrahi 
+      pos<lb ed="#P" n="88" break="no"/>IAsunt ad duo genera, scilicet ad 
+      missio<lb ed="#P" n="89" break="no"/>nem visibilem &amp; invisibilem. Ac de invisibili 
+      qui<lb ed="#P" n="90" break="no"/>dem missione agetur duabus distinct. proxime 
+      se<lb ed="#P" n="91" break="no"/>quentibus. Hic autem de visibili agendum. 
+    </p>
+            <p xml:id="bt67yj-k23899-d1e133">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Visibilis missio dicitur, quae fit per subjectam 
+      crea<lb ed="#P" n="93" break="no"/>turam sensui expositam, qua persona, quae mitti 
+      dici<lb ed="#P" n="94" break="no"/>tur, aliquo modo repraesentetur. Quod etsi interdum 
+      <lb ed="#P" n="95"/>fiat per alium sensum quam visum, ideoque 
+      genera<lb ed="#P" n="96" break="no"/>liter haec missio sensibilis dici possit, recte tamen 
+      <lb ed="#P" n="97"/>visibilis dicitur a sensu principaliori, &amp; hac in re 
+      fre<lb ed="#P" n="98" break="no"/>quentiori. Missus est autem visibiliter filius, semel 
+      <lb ed="#P" n="99"/>duntaxat excellenti &amp; singulari modo, quando 
+      as<lb ed="#P" n="100" break="no"/>sumpta natura humana, inter homines, homo 
+      visibi<lb ed="#P" n="101" break="no"/>lis apparuit. Alias vero apparuit eo modo filius Dei 
+      <lb ed="#P" n="102"/>hommibus, quo &amp; reliquas personas subinde 
+      appa<lb ed="#P" n="103" break="no"/>ruisse, in sacris literis didicimus velut Gen. 18. &amp; 32. 
+      <lb ed="#P" n="104"/>Exod. 3. &amp; 20. Isa. 6. Dan. 3. &amp; 7. Apoc. 1. &amp; alibi. 
+      <lb ed="#P" n="105"/>His autem modis apparens filius recte etiam missus 
+      <lb ed="#P" n="106"/>fuisse dicitur. Spiritus sanctus saepenumero visibiliter 
+      <lb ed="#P" n="107"/>missus legitur. Primo quando in specie columbae 
+      su<lb ed="#P" n="108" break="no"/>per Christum in ejus baptismo descendit. Secundo 
+      <lb ed="#P" n="109"/>quando post resurrectionem suam Christus insufflans 
+      <lb ed="#P" n="110"/>in Discipulos, dixit: Accipite Spiritum sanctum. 
+      <lb ed="#P" n="111"/>Hoc enim dicens, spiritum sanctum, flatu illo 
+      cor<lb ed="#P" n="112" break="no"/>poreo, quem ex ore exspirabat, significatum esse 
+      <lb ed="#P" n="113"/>voluit. Tertio quando die Pentecostes, sonitu facto 
+      <lb ed="#P" n="114"/>tanquam spiritus vehementis, apparuerunt supra 
+      Dis<lb ed="#P" n="115" break="no"/>cipulos dispertitae linguae tanquam ignis. Nam in 
+      <lb ed="#P" n="116"/>his quatuor, sono, vento, linguis &amp; igne 
+      repraesen<lb ed="#P" n="117" break="no"/>tatus tunc fuit spiritus sanctus. His addere licet 
+      <lb ed="#P" n="118"/>ejusdem apparitionem, de qua Gen. 18. ubi Sancto 
+      <lb ed="#P" n="119"/>Abrahae Trinitas apparuit in specie trium hominum. 
+      <lb ed="#P" n="120"/>Unde Ecclesia: Tres vidit &amp; unum adoravit.
+    </p>
+            <p xml:id="bt67yj-k23899-d1e202">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Pater, etsi aliquando praesentiam suam sensibili 
+      si<lb ed="#P" n="122" break="no"/>gno declaravit, velut quando vox ejus audita est de 
+      <lb ed="#P" n="123"/>nube dicentis: Hic est filius meus dilectus, &amp;c. Matth. 
+      <lb ed="#P" n="124"/>17. quando Joan. 12. rursum vox Patris a turbis 
+      au<lb ed="#P" n="125" break="no"/>dita est dicentis: Et clarificavi &amp; iterum clarificabo: 
+      <lb ed="#P" n="126"/>Quando Danieli Prophetae visus est, tanquam 
+      anti<lb ed="#P" n="127" break="no"/>quus dierum Dan. 7. Quando etiam Abrahae, ut 
+      <lb ed="#P" n="128"/>jam dictum est, apparuit, unus inter tres viros a se 
+      <lb ed="#P" n="129"/>susceptos hospitio Genes. 18. (qua de re videatu 
+      <lb ed="#P" n="130"/>Augustinus lib. 2. de Trinitate cap. ult.) non 
+      ta<lb ed="#P" n="131" break="no"/>men visibiliter missus dicendus est, sed visibiliter aut 
+      <lb ed="#P" n="132"/>sensibiliter advenisse. Sicut enim invisibiliter 
+      adve<lb ed="#P" n="133" break="no"/>nit, nec tamen mittitur, quando mansionem suam 
+      <lb ed="#P" n="134"/>facit in homine juxta scripturam Joan. 14. ita 
+      visibi<lb ed="#P" n="135" break="no"/>liter advenit, nec tamen missus fuit secundum jam 
+      <lb ed="#P" n="136"/>dictas apparitiones, quia propria missionis ratio, 
+      si<lb ed="#P" n="137" break="no"/>ve ea visibilis, sive invisibilis intelligatur, in patrem 
+      <lb ed="#P" n="138"/>non competit, ut supra satis ostensum est. 
+    </p>
+            <p xml:id="bt67yj-k23899-d1e246">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Quales autem fuerint subjectae creaturae, per quas 
+      <lb ed="#P" n="140"/>humanis sensibus exhiltae leguntur personae 
+      divi<lb ed="#P" n="141" break="no"/>nae, excepta illa carne quam in unitate personae 
+      as<lb ed="#P" n="142" break="no"/>sumptam a verbo Dei secundum fidem Catholicam 
+      <!--0088.xml-->
+      <pb ed="#P" n="65"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non est dubitandum, ita disputat Augustinus lib. 4. 
+      <lb ed="#P" n="2"/>de Trinitate cap. ult. ut nec dubitet ejusmodi veras 
+      <lb ed="#P" n="3"/>fuisse creaturas: Sed utrum tantummodo corporales 
+      <lb ed="#P" n="4"/>atque sensibiles fuerint, an vero adhibito etiam 
+      spi<lb ed="#P" n="5" break="no"/>ritu rationali, vel intellectuali apparuerint, non ad 
+      <lb ed="#P" n="6"/>unitatem personae; sed tantummodo ad ministerium 
+      <lb ed="#P" n="7"/>peragendae sanctificationis, non audet definire. 
+      Ve<lb ed="#P" n="8" break="no"/>rumtamen existimat ante Christi incarnationem 
+      <lb ed="#P" n="9"/>Deum hujusmodi signa operatum fuisse per angelos, 
+      <lb ed="#P" n="10"/>idque scripturis ostendit esse consentaneum. 
+      Quam<lb ed="#P" n="11" break="no"/>quam &amp; post incarnationem verbi, quoties similia 
+      si<lb ed="#P" n="12" break="no"/>gna exhibita sunt, aut exhibentur, non sine rationali 
+      <lb ed="#P" n="13"/>vel intellectuali creatura exhiberi, probabilius 
+      opi<lb ed="#P" n="14" break="no"/>natur. Sed de hac re plura ex professo ad dist. 8. lib. 2. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

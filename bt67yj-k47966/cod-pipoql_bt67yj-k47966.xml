@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="127"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k47966"><!-- l1d40c7" -->
+            <head xml:id="bt67yj-k47966-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-k47966-Hd1e103" type="question-title">Qui sint effectus praedestinationis</head>
+            <p xml:id="bt67yj-k47966-d1e106">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> §. 7. Qui sint effectus praedestinationis.
+    </p>
+            <p xml:id="bt67yj-k47966-d1e113">
+               <lb ed="#P" n="81"/>DIvinae praedestinationis effectus sunt in 
+      multi<lb ed="#P" n="82" break="no"/>plici genere. Quidam enim communes sunt 
+      <lb ed="#P" n="83"/>praedestinatis cum reprobis, &amp; horum alii ex 
+      natu<lb ed="#P" n="84" break="no"/>ra sua remoti, sed tamen praesuppositi, &amp; ordinati a 
+      <lb ed="#P" n="85"/>Deo ad finem beat itudinis. Cujusmodi est creatio &amp; 
+      <lb ed="#P" n="86"/>conservatio eorum, quos Deus praedestinavit, tam 
+      <lb ed="#P" n="87"/>hominum quam angelorum. Alii propinquiores 
+      qui<lb ed="#P" n="88" break="no"/>dem, sed qui adhuc possint esse utrisque communes, 
+      <lb ed="#P" n="89"/>ut incarnatio, passio, meritum &amp; sacrificium 
+      Chri<lb ed="#P" n="90" break="no"/>sti, praedicatio evangelii, &amp; alia hujusmodi, quae 
+      <lb ed="#P" n="91"/>pertinent quidem per se ad ordinem 
+      praedestinatio<lb ed="#P" n="92" break="no"/>nis, sed tamen quibusdam, qui ea per suam 
+      incre<lb ed="#P" n="93" break="no"/>dulitatem ac malitiam sibi convertunt in materiam 
+      <lb ed="#P" n="94"/>gravioris damnationis, fiunt effectus reprobationis; 
+      <lb ed="#P" n="95"/>ut &amp; contra permissio peccati primi hominis, quo 
+      <lb ed="#P" n="96"/>secum traxit ruinam totius generis, pertinet quidem 
+      <lb ed="#P" n="97"/>secundum se ad ordinem reprobationis, sed ex Dei 
+      <lb ed="#P" n="98"/>misericordia ordinatur ad multorum salutem, fitque 
+      <lb ed="#P" n="99"/>praedestinationis eorum effectus.
+    </p>
+            <p xml:id="bt67yj-k47966-d1e157">
+               <lb ed="#P" n="100"/>Porro alii praedestinationis effectus sunt adhuc 
+      <lb ed="#P" n="101"/>magis speciales, ut tres illi, quos breviter indicavit 
+      <lb ed="#P" n="102"/>Apostolus Rom. 8. his verbis: Quos autem 
+      praedesti<lb ed="#P" n="103" break="no"/>navit, hos &amp; vocavit, &amp; quos vocavit, hos &amp; 
+      justifi<lb ed="#P" n="104" break="no"/>cavit, quos autem justificavit, hoc &amp; glorificavit, sive 
+      <lb ed="#P" n="105"/>ut multa Latina exemplaria habent, magnificavit. In 
+      <lb ed="#P" n="106"/>cujus sententiae duobus posterioribus membris 
+      repe<lb ed="#P" n="107" break="no"/>tendum, quod expressum est in primo, ut quod 
+      Apo<lb ed="#P" n="108" break="no"/>stolus vult, ad solos praedestinatos singula membra 
+      <lb ed="#P" n="109"/>referantur. Omnes enim praedestinatos vocavit Deus; 
+      <lb ed="#P" n="110"/>eosdem autem vocatos justificavit, eosdemque 
+      justi<lb ed="#P" n="111" break="no"/>ficatos glorificavit. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e187">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Inter hos igitur effectus, prima est vocatio, non 
+      <lb ed="#P" n="113"/>ea qua quid vocatur ut sit, de qua Rom. 4. Qui vocat 
+      <lb ed="#P" n="114"/>ea quae non sunt, tanquam ea quae sunt. Neque ea qua 
+      <lb ed="#P" n="115"/>quis vocatur ad Christum per nudam evangelii 
+      prae<lb ed="#P" n="116" break="no"/>dicationem, etiamsi praedicationi fidem non 
+      adhi<lb ed="#P" n="117" break="no"/>beat, quomodo ad nuptias vocati leguntur qui 
+      re<lb ed="#P" n="118" break="no"/>nuerunt venire; sed ea vocatione, qua quis 
+      effica<lb ed="#P" n="119" break="no"/>citer vocatur ad finem, id est, ita vocatur ut credat. 
+      <lb ed="#P" n="120"/>Cujusmodi vocatos passim appellat in suis epistolis 
+      <lb ed="#P" n="121"/>Apostolus. Huc autem pertinet imprimis, fides, 
+      de<lb ed="#P" n="122" break="no"/>inde cognitio legis, timor gehennae, bonae 
+      inspira<lb ed="#P" n="123" break="no"/>tiones &amp; cogitationes, &amp; initia quaedam bonae 
+      vo<lb ed="#P" n="124" break="no"/>luntatis, ac primus consensus boni salutaris. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e220">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Secunda est justificatio. Quo pertinet vera 
+      poeni<lb ed="#P" n="126" break="no"/>tentia ac detestatio peccatorum, dilectio Dei super 
+      <lb ed="#P" n="127"/>omnia, peccatoris ad Deum conversio, peccatorum 
+      <lb ed="#P" n="128"/>remissio, mentis per gratiam innovatio, filiorum 
+      <lb ed="#P" n="129"/>adoptio, justitiae profectus &amp; augmentum, bona 
+      <lb ed="#P" n="130"/>opera &amp; horum perseverantia. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e238">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Tertia est glorificatio, quae in possessione vitae 
+      <lb ed="#P" n="132"/>aeternae consistit, complectens perfectam hominis 
+      <lb ed="#P" n="133"/>secundum animam &amp; corpus felicitatem. Habent se 
+      <lb ed="#P" n="134"/>tres isti effectus praedestinationis hoc ordine, ut 
+      pri<lb ed="#P" n="135" break="no"/>mus ad secundum, &amp; secundus ad tertium ut finem 
+      <lb ed="#P" n="136"/>referatur. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e256">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Hoc autem est inter eos discrimen, quod vocatio 
+      <lb ed="#P" n="138"/>&amp; justificatio non in omnibus quibus contingunt, 
+      <lb ed="#P" n="139"/>effectus est praedestinationis. Multi enim reprobi 
+      <lb ed="#P" n="140"/>vocantur &amp; justificantur. Glorificatio autem cum sit 
+      <lb ed="#P" n="141"/>finis caeterorum, ideóque praecipuus effectus, 
+      nemi<lb ed="#P" n="142" break="no"/>ni contingit non praedestinato, uti nec 
+      perseveran<lb ed="#P" n="143" break="no"/>tia, qua fit ut ab effectu justificationis finaliter non 
+      <lb ed="#P" n="144"/>recedatur, juxta illud Job. 27. Justificationem quam 
+      <lb ed="#P" n="145"/>cepi tenere non deseram. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e280">
+      <!--0151.xml-->
+               <pb ed="#P" n="128"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Sicut ergo supra de quibusdam dictum est, quod 
+      <lb ed="#P" n="2"/>per se quidem pertineant ad ordinem 
+      praedestinatio<lb ed="#P" n="3" break="no"/>nis, saepenumero tamen per hominum malitiam 
+      <lb ed="#P" n="4"/>fiant effectus reprobationis; ita etiam de vocatione 
+      <lb ed="#P" n="5"/>&amp; justificatione dicendum: Qui enim beneficium 
+      <lb ed="#P" n="6"/>vocationis &amp; justificationis acceptae deserunt, iis 
+      u<lb ed="#P" n="7" break="no"/>trumque cedit ad graviorem damnationem, dicente 
+      <lb ed="#P" n="8"/>Petro 2. ep. 2. Melius erat illis non cognoscere viam 
+      <lb ed="#P" n="9"/>justitiae, quam post agnitionem retrorsum converti. 
+      <lb ed="#P" n="10"/>Quod &amp; philosophis accidit, qui cum cognovissem 
+      <lb ed="#P" n="11"/>Deum, non sicut Deum glorificaverunt, Rom. 1. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e313">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Praeterea effectus praedestinationis alii communes 
+      <lb ed="#P" n="13"/>sunt, alii singulares. Communes qui omnibus vel 
+      <lb ed="#P" n="14"/>plerisque praedestinatis communiter contingunt, ut 
+      <lb ed="#P" n="15"/>sunt effectus hactenus enumerati. Dico, plerisque, 
+      <lb ed="#P" n="16"/>quia vocatio proprie dicta &amp; bona opera &amp; justitiae 
+      <lb ed="#P" n="17"/>augmentum non omnibus conveniunt praedestinatis, 
+      <lb ed="#P" n="18"/>ut patet de parvulis. Hac ratione communibus 
+      effe<lb ed="#P" n="19" break="no"/>ctibus annumerentur pia cura parentum pro filiis, 
+      <lb ed="#P" n="20"/>Catholici Magistri, bona institutio, cum bonis 
+      con<lb ed="#P" n="21" break="no"/>versatio, &amp;c. Per haec enim &amp; ejusmodi media 
+      ple<lb ed="#P" n="22" break="no"/>rumque suos electos Deus ad salutem perducit. Item 
+      <lb ed="#P" n="23"/>bona indoles, bonum ingenium, &amp; naturalis 
+      pru<lb ed="#P" n="24" break="no"/>dentia, qua quis facile acquiescit veritati 
+      rationabili<lb ed="#P" n="25" break="no"/>ter propositae. Haec inquam effectus quidam 
+      praede<lb ed="#P" n="26" break="no"/>stinationis sunt in praedestinatis, quoties aliquid 
+      ho<lb ed="#P" n="27" break="no"/>rum eis cedit ad salutem. Hinc Augustinus ait quod 
+      <lb ed="#P" n="28"/>in quibusdam est naturale ingenium quo signis 
+      ad<lb ed="#P" n="29" break="no"/>hibitis, moveantur, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e358">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Singulares sunt, qui respiciunt singularem 
+      cujus<lb ed="#P" n="31" break="no"/>que praedestinationem, ut sunt miraculosae seu 
+      ex<lb ed="#P" n="32" break="no"/>traordinariae quorundam conversiones, ut Pauli, 
+      la<lb ed="#P" n="33" break="no"/>tronis, peccatricis. Item peculiares Dei 
+      inspiratio<lb ed="#P" n="34" break="no"/>nes, aut etiam revelationes quibusdam factae, &amp; 
+      mi<lb ed="#P" n="35" break="no"/>racula conspecta. Huc etiam referri potest cognitio 
+      <lb ed="#P" n="36"/>astrorum, si per eam quis ad salutem adducatur. Et 
+      <lb ed="#P" n="37"/>simile judicium est de omni scientia praebente 
+      homi<lb ed="#P" n="38" break="no"/>ni adminiculum, vel occasionem cognoscendi Deum, 
+      <lb ed="#P" n="39"/>ut physica, metaphysica, ethica, ut de anima, de 
+      <lb ed="#P" n="40"/>herbis, de animalibus, de harmonia humani 
+      corpo<lb ed="#P" n="41" break="no"/>ris. Cujusmodi scientiae secundum se propiores sunt 
+      <lb ed="#P" n="42"/>effectus praedestinationis, in illis qui per eas ad 
+      salu<lb ed="#P" n="43" break="no"/>tem adducuntur, quam grammatica, rhetorica, 
+      dia<lb ed="#P" n="44" break="no"/>lectica. Quamquam &amp; istae sub ordinem 
+      praedestina<lb ed="#P" n="45" break="no"/>tionis cadere possunt. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e397">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Unde in genere notandum est multa secundum 
+      <lb ed="#P" n="47"/>se indifferentia esse ad praedestinationem &amp; 
+      reproba<lb ed="#P" n="48" break="no"/>tionem, plurimum tamen differentia ex ordinatione 
+      <lb ed="#P" n="49"/>providentiae divinae, ut sunt acumen aut hebetudo 
+      <lb ed="#P" n="50"/>ingenii, ejusve ad diversa studia vel status propensio, 
+      <lb ed="#P" n="51"/>valetudo aut invaletudo corporis, facundia, 
+      nobili<lb ed="#P" n="52" break="no"/>tas, opes, honores &amp; his contraria. Item pax, 
+      bel<lb ed="#P" n="53" break="no"/>lum, persecutiones, &amp;c. Quatenus enim haec omnia 
+      <lb ed="#P" n="54"/>subjiciuntur ordini providentiae Dei, quibusdam 
+      <lb ed="#P" n="55"/>sunt praedestinationis effectus, aliis reprobationis. 
+      <lb ed="#P" n="56"/>Scimus enim, inquit apostolus ad Rom. quoniam 
+      di<lb ed="#P" n="57" break="no"/>ligentibus Deum omnia cooperantur in bonum, his qui 
+      <lb ed="#P" n="58"/>secundum propositum vocati sunt sancti, id est, 
+      praede<lb ed="#P" n="59" break="no"/>stinatis, ut exponit sanctus Augustinus cap. 7. &amp; 9. 
+      <lb ed="#P" n="60"/>de correp. &amp; gratia &amp; libro 2. contra 2. epistolas Pel. 
+      <lb ed="#P" n="61"/>capite 9. &amp; de gratia &amp; libero arbitrio capite 17. <quote xml:id="bt67yj-k47966-Qd1e436">
+      ad<lb ed="#P" n="62" break="no"/>dens insuper capite 9. de correp. &amp; gratia. Deum 
+      <lb ed="#P" n="63"/>illis usque adeo prorsus omnia cooperari in bonum, 
+      <lb ed="#P" n="64"/>ut si qui eorum deviant atque exorbitant, etiam 
+      <lb ed="#P" n="65"/>hoc ipsum faciat eis proficere in bonum, quia 
+      hu<lb ed="#P" n="66" break="no"/>miliores redeunt atque doctiores</quote>. Quod idem docet 
+      <lb ed="#P" n="67"/>
+               <name xml:id="bt67yj-k47966-Nd1e451">Bernardus</name> sermone 2. super Psalm. Qui habitat. 
+      Ve<lb ed="#P" n="68" break="no"/>rum hoc non ita accipiendum est, quasi peccata ipsa 
+      <lb ed="#P" n="69"/>sint interdum effectus divinae praedestinationis; non 
+      <lb ed="#P" n="70"/>enim peccatum esse potest a Deo, sed quia Deus 
+      <lb ed="#P" n="71"/>permittit interdum electos suos graviter cadere, ut 
+      <lb ed="#P" n="72"/>humiliores &amp; cautiores inde reddantur. Itaque tunc 
+      <lb ed="#P" n="73"/>permissio peccati effectus est praedestinationis, non 
+      <lb ed="#P" n="74"/>ipsum peccatum. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e469">
+      <!--0151.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Rursum de indifferentibus ex eodem apostolo 
+      <lb ed="#P" n="76"/>documentum habemus Rom. 14. cum dicit. Qu 
+      <lb ed="#P" n="77"/>manducat, Deo manducat, &amp; gratias agit Deo. Sive 
+      <lb ed="#P" n="78"/>enim vivimus, Domino vivimus, &amp;c. Qui &amp; alibi 
+      <lb ed="#P" n="79"/>jubet nos omnia in gloriam Dei facere. Ex quo 
+      con<lb ed="#P" n="80" break="no"/>fici potest hujusmodi argumentum: Omnia 
+      tempo<lb ed="#P" n="81" break="no"/>ralia, quamvis secundum se indifferentia; vel etiam 
+      <lb ed="#P" n="82"/>mala, possunt esse media &amp; instrumenta quaedam 
+      <lb ed="#P" n="83"/>charitatis, ac materiale ejus objectum in gloriam 
+      <lb ed="#P" n="84"/>Dei ord inabile; ergo possunt esse effectus 
+      praedestina<lb ed="#P" n="85" break="no"/>tionis; quemadmodum etiam contra, si Deo 
+      per<lb ed="#P" n="86" break="no"/>mittente haec omnia per hominis malitiam 
+      ordinen<lb ed="#P" n="87" break="no"/>tur ad malum culpae finalis, erunt effectus 
+      reproba<lb ed="#P" n="88" break="no"/>tionis. Antecedens ex apostoli testimoniis, aliisque 
+      <lb ed="#P" n="89"/>ante dictis patet. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e508">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Ac praeterea de bonis temporalibus probatur, quia 
+      <lb ed="#P" n="91"/>ejusmodi bona cadunt sub meritum, ut docet sanct. 
+      <lb ed="#P" n="92"/>Thomas 1. 2. quaestione ultima articulo ult. &amp; 
+      ca<lb ed="#P" n="93" break="no"/>dunt sub objectum spei, ut idem docet 2. 2. 
+      quaestio<lb ed="#P" n="94" break="no"/>ne 17. articulo 2. ad 2. Denique Ecclesia in Litaniis 
+      <lb ed="#P" n="95"/>aliisque precibus multa hujusmodi bona petit a Deo, 
+      <lb ed="#P" n="96"/>quae &amp; comprehenduntur his partibus orationis 
+      Do<lb ed="#P" n="97" break="no"/>minicae, panem nostrum: &amp;, libera nos a malo. 
+      Petun<lb ed="#P" n="98" break="no"/>tur autem non alia ratione, quam ut per ea 
+      tenda<lb ed="#P" n="99" break="no"/>mus ad bona aeterna. 
+    </p>
+            <p xml:id="bt67yj-k47966-d1e534">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Postremo loco notandum, praedestinationis 
+      effe<lb ed="#P" n="101" break="no"/>ctus dupliciter considerari posse scilicet, aut respectu 
+      <lb ed="#P" n="102"/>praedestinationis totius corporis mystici 
+      praedestina<lb ed="#P" n="103" break="no"/>torum, aut respectu singulorum, id est hujus aut il 
+      <lb ed="#P" n="104"/>lius in particulari. Et quidem posterior 
+      consideratio<lb ed="#P" n="105" break="no"/>nis modus satis jam patet ex dictis: Priori autem 
+      <lb ed="#P" n="106"/>modo non solum bona quaecunque in creaturis, 
+      ve<lb ed="#P" n="107" break="no"/>rum etiam omnis permissio quorumcunque 
+      peccato<lb ed="#P" n="108" break="no"/>rum effectus est praedestinationis. Omnia enim haec 
+      <lb ed="#P" n="109"/>ordinantur ad majorem perfectionem &amp; 
+      pulchritu<lb ed="#P" n="110" break="no"/>dinem caelestis Jerusalem, ut hic perfecte locum 
+      ha<lb ed="#P" n="111" break="no"/>beat quod dicit apostolus Rom. 8. Diligentibus Deum 
+      <lb ed="#P" n="112"/>omnia cooperari in bonum. Unde &amp; cap. 9. ait Deum. 
+      <lb ed="#P" n="113"/>sustinuisse in multa patientia vasa irae apta ad 
+      inte<lb ed="#P" n="114" break="no"/>ritum, ut ostenderet divitas gloriae suae in vasa 
+      mi<lb ed="#P" n="115" break="no"/>sericordiae, quae praeparavit in gloriam. Et cap. 11.¬ 
+      <lb ed="#P" n="116"/>mysterium hoc vult non ignorari, quod coecitas 
+      <lb ed="#P" n="117"/>ex parte contigit in Israel, donec plenitudo 
+      gen<lb ed="#P" n="118" break="no"/>tium intraret, id est, Deum propter gentium 
+      sa<lb ed="#P" n="119" break="no"/>lutem permisisse Judaeorum infidelitatem. Quod 
+      <lb ed="#P" n="120"/>adhuc apertius significant illa superiora verba: 
+      Nun<lb ed="#P" n="121" break="no"/>quid sic offenderunt ut caderent? Absit. Sed illorum 
+      <lb ed="#P" n="122"/>delicto salus est gentibus, &amp; quae sequuntur. Hoc 
+      au<lb ed="#P" n="123" break="no"/>tem est quod S. Augustinus &amp; post eum S. Thomas 
+      <lb ed="#P" n="124"/>aliique doctores docent, Deum non facere sed 
+      or<lb ed="#P" n="125" break="no"/>dinare peccata. Quodque docent pertinere ad 
+      bo<lb ed="#P" n="126" break="no"/>nitatem Dei, ut mala non permittat, nisi ex eis possit 
+      <lb ed="#P" n="127"/>&amp; velit elicere majus bonum, cujusmodi imprimis 
+      <lb ed="#P" n="128"/>est perfectio civitatis electorum, ad quam caetera 
+      <lb ed="#P" n="129"/>quaeque particularia bona ordinantur. De qua re 
+      <lb ed="#P" n="130"/>diximus ad superiorem dist. ubi quaerebatur an 
+      pec<lb ed="#P" n="131" break="no"/>ocata subsint providentiae divinae. Clare testatur hoc 
+      <lb ed="#P" n="132"/>idem Augustinus lib. II. de civit. Cum enim c. 17. 
+      <lb ed="#P" n="133"/>dixisset Deum creasse angelum, quem malum 
+      futu<lb ed="#P" n="134" break="no"/>rum praesciebat, quia simul praevidebat quae bona 
+      <lb ed="#P" n="135"/>de malo ejus esset ipse facturus, statim capite 18. 
+      <lb ed="#P" n="136"/>generaliter ita subjungit: Neque enim Deus 
+      ul<lb ed="#P" n="137" break="no"/>lum, non dico angelorum, sed vel hominum 
+      croa<lb ed="#P" n="138" break="no"/>ret, quem malum faturum esse praescisset, nisi 
+      pa<lb ed="#P" n="139" break="no"/>riter nosset, quibus eos bonorum usibus 
+      commo<lb ed="#P" n="140" break="no"/>daret, atque ita ordinem saeculorum, tanquam 
+      <lb ed="#P" n="141"/>pulcherrimum carmen etiam ex quibusdam quast 
+      <lb ed="#P" n="142"/>antithetis honestaret. Rationem autem hujus 
+      dis<lb ed="#P" n="143" break="no"/>positionis divinae pulchre explicat sanctus 
+      Tho<lb ed="#P" n="144" break="no"/>mas quaestione quinta de veritate, articulo 
+      se<lb ed="#P" n="145" break="no"/>ptimo: Quia, inquit, quando homines in 
+      provi<lb ed="#P" n="146" break="no"/>dendo ordinem non servant., sed provident 
+      secun<lb ed="#P" n="147" break="no"/>dum modum brutorum animalium, tunc etiam 
+      di<lb ed="#P" n="148" break="no"/>vina providentia de eis ordinat, secundum ordinem, 
+      <!--0152.xml-->
+          <pb ed="#P" n="129"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>qui brutis competit ut scilicet ea quae in eis vel bona vel A 
+          <lb ed="#P" n="2"/>mala sunt, non ordinentur in eorum bonum proprium, 
+          <lb ed="#P" n="3"/>sed in bonum aliorum, juxta illud Psalm. Comparatus 
+          <lb ed="#P" n="4"/>est jumentis insipientibus, &amp;c. Quando autem servant 
+          <lb ed="#P" n="5"/>ordinem rectum in providendo, tunc &amp; bona, &amp; mala 
+          <lb ed="#P" n="6"/>eis cedunt in bonum proprium juxta illud Apostoli: 
+      Di<lb ed="#P" n="7" break="no"/>ligentibus Deum, &amp;c. cum aliis quae sequuntur in 
+          <lb ed="#P" n="8"/>eandem sententiam.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

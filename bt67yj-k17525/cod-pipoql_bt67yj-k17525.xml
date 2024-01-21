@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="47"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k17525"><!-- l1d10c3" -->
+            <head xml:id="bt67yj-k17525-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k17525-Hd1e103" type="question-title">Amor seu charitas in divinis quomodo 
+      accipiatur</head>
+            <p xml:id="bt67yj-k17525-d1e106">
+               <lb ed="#P" n="87"/>§. 3. Amor seu charitas in divinis quomodo 
+      <lb ed="#P" n="88"/>accipiatur.
+    </p>
+            <p xml:id="bt67yj-k17525-d1e113">
+               <lb ed="#P" n="89"/>HAEc vocabula amor, dilectio, charitas, in 
+      <lb ed="#P" n="90"/>Idivinis usurpata interdum essentialiter 
+      acci<lb ed="#P" n="91" break="no"/>piuntur, ut communia sint toti Trinitati, sicut 
+      <lb ed="#P" n="92"/>caetera attributa essentialia. Quanquam hoc modo 
+      <lb ed="#P" n="93"/>accepta plerumque appropriantur, id est, 
+      pecu<lb ed="#P" n="94" break="no"/>liari modo ascribuntur Spiritui sancto; sicut nomen 
+      <lb ed="#P" n="95"/>Sapientiae, licet revera toti Trinitati commune sit, 
+      <lb ed="#P" n="96"/>appropriatur tamen Filio; quemadmodum plenius 
+      <lb ed="#P" n="97"/>docebitur ad distinctionem 34. Hac igitur 
+      accc<lb ed="#P" n="98" break="no"/>ptione Pater charitas est &amp; Filius charitas, sed 
+      pe<lb ed="#P" n="99" break="no"/>culiari ratione Spiritus sanctus charitas dicitur, 
+      <lb ed="#P" n="100"/>tum quia procedit instar amoris, ut jam dictum 
+      <lb ed="#P" n="101"/>est, tum quia in opere conversionis &amp; 
+      sanctifica<lb ed="#P" n="102" break="no"/>tionis hominum, quod scriptura Spiritui sancto 
+      pe<lb ed="#P" n="103" break="no"/>culiariter attribuere solet, singularis erga homines 
+      <lb ed="#P" n="104"/>apparet Dei charitas teste Apostolo, Eph. 2. cum 
+      <lb ed="#P" n="105"/>ait: Deus autem qui dives est in misericordia, 
+      pro<lb ed="#P" n="106" break="no"/>pter nimiam charitatem suam quae dilexit nos 
+      con<lb ed="#P" n="107" break="no"/>vivificavit nos, &amp;c. Tum vero quia charitatem, 
+      <lb ed="#P" n="108"/>qua nos Deum diligimus tanquam praecipuum 
+      no<lb ed="#P" n="109" break="no"/>strae sanctificationis effectum, scriptura Spiritur 
+      <lb ed="#P" n="110"/>sancto tribuit authori, Rom. 5. Alias autem 
+      su<lb ed="#P" n="111" break="no"/>muntur eadem illa vocabula personaliter, ut 
+      vi<lb ed="#P" n="112" break="no"/>delicet iis significetur persona procedens per 
+      mo<lb ed="#P" n="113" break="no"/>dum amoris cum respectu ejusdem personae ad 
+      <lb ed="#P" n="114"/>suum principium; sicut nomine verbi 
+      significa<lb ed="#P" n="115" break="no"/>tur persona procedens per modum verbi mentalis 
+      <lb ed="#P" n="116"/>cum relatione ad id unde procedit. Hac igitur 
+      <lb ed="#P" n="117"/>acceptione significant haec vocabula tertiam in 
+      <lb ed="#P" n="118"/>Deitate personam, non tantum appropriate, ut 
+      <lb ed="#P" n="119"/>loquuntur, sed proprie, ut unumquodque eorum 
+      <lb ed="#P" n="120"/>sit nomen personale competens Spiritui sancto, 
+      si<lb ed="#P" n="121" break="no"/>cut verbum filio. 
+    </p>
+            <p xml:id="bt67yj-k17525-d1e187">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Verum haec significatio vocibus illis convenit, 
+      <lb ed="#P" n="123"/>non tam ex ipsarum vi &amp; proprietate, quam 
+      <lb ed="#P" n="124"/>usurpatione eorum qui Theologiam via &amp; 
+      ratio<lb ed="#P" n="125" break="no"/>ne tradiderunt, secundum quos etiam amare seu 
+      <lb ed="#P" n="126"/>diligere personaliter, seu potius notionaliter 
+      sum<lb ed="#P" n="127" break="no"/>pta significant idem quod spirare, ut amare sit 
+      <lb ed="#P" n="128"/>amorem producere, &amp; hoc rursum non aliud sit 
+      <lb ed="#P" n="129"/>quam producere personam per modum amoris 
+      pro<lb ed="#P" n="130" break="no"/>cedentem. Haec autem a doctoribus non temere sic 
+      <lb ed="#P" n="131"/>usurpata sunt, sed ex analogia superius explicata, 
+      <lb ed="#P" n="132"/>quam amor habet cum verbo. Quod quidem 
+      Ver<lb ed="#P" n="133" break="no"/>bi nomen Filio proprium esse manifestum est ex 
+      <lb ed="#P" n="134"/>scripturis. Sed de ea re infra ad distinctionem 27. 
+      <lb ed="#P" n="135"/>Utrum autem dicendum Patrem &amp; Filium se 
+      mu<lb ed="#P" n="136" break="no"/>tuo diligere Spiritu sancto, quod ex supradictis 
+      <lb ed="#P" n="137"/>consequens videtur, <ref xml:id="bt67yj-k17525-Rd1e226">tractabitur ex professo ad 
+      distin<lb ed="#P" n="138" break="no"/>ctionem 32</ref>. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

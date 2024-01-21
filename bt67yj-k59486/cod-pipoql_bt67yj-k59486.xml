@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="157"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k59486"><!-- l1d41c6" -->
+            <head xml:id="bt67yj-k59486-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k59486-Hd1e103" type="question-title">Praevisam gratiae acceptationem non esse 
+      praedestinationis causam</head>
+            <p xml:id="bt67yj-k59486-d1e106">
+               <lb ed="#P" n="41"/>§. 6. Praevisam gratiae acceptationem non esse 
+      prae<lb ed="#P" n="42" break="no"/>destinationis causam.
+    </p>
+            <p xml:id="bt67yj-k59486-d1e113">
+               <lb ed="#P" n="43"/>QUi causam praedestinationis retulerunt in 
+      prae<lb ed="#P" n="44" break="no"/>Qvisam acceptationem gratiae a Deo offerendae, 
+      <lb ed="#P" n="45"/>ab errore eorum qui praedestinationis causam essa 
+      di<lb ed="#P" n="46" break="no"/>xerunt merita praevisa, non recesserunt nisi verbo 
+      te<lb ed="#P" n="47" break="no"/>nus. Nam gratiae oblatae acceptatio revera meritum 
+      <lb ed="#P" n="48"/>quoddam est, ut patet ex iis quae supra de meriti si 
+      <lb ed="#P" n="49"/>gnificatione diximus. Unde &amp; S. Thomas hanc 
+      opi<lb ed="#P" n="50" break="no"/>nionem sub ea ponit, quae praedestinationis causam 
+      <lb ed="#P" n="51"/>in praevisis meritis constituit. Quare quaecunque 
+      pro<lb ed="#P" n="52" break="no"/>bant praedestinationem non esse ex meritis, eadem &amp; 
+      <lb ed="#P" n="53"/>hanc destruunt opinionem, quae rationem 
+      praedesti<lb ed="#P" n="54" break="no"/>nationis petit ex praevisa acceptatione, vel bono usu 
+      <lb ed="#P" n="55"/>gratiae, id est, eorum qui dicunt ideo quempiam a 
+      <lb ed="#P" n="56"/>Deo praedestinari, quod cum praeviderit oblatam 
+      gra<lb ed="#P" n="57" break="no"/>tiam acceptaturum, eaque usque in finem vitae bene 
+      <lb ed="#P" n="58"/>usurum. Contra vero eum reprobari, quem 
+      praevi<lb ed="#P" n="59" break="no"/>derit oblatam gratiam repudiaturum. 
+    </p>
+            <p xml:id="bt67yj-k59486-d1e152">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Verumtamen ut hujus opinionis falsitas clarius 
+      ap<lb ed="#P" n="61" break="no"/>pareat, aliis adhuc quibusdam argumentis magis pro 
+      <lb ed="#P" n="62"/>priis eam refellemus. Quo pertinet imprimis quod 
+      <lb ed="#P" n="63"/>Apostolus Rom. 11. pronunciat investigari a nobis 
+      <lb ed="#P" n="64"/>non posse, cur olim Israclem derelictis gentibus 
+      <lb ed="#P" n="65"/>Deus elegerit, postea vero Judaeis excoecatis atque 
+      de<lb ed="#P" n="66" break="no"/>sertis gentium multitudinem ad fidem vocaverit. 
+      In<lb ed="#P" n="67" break="no"/>de enim exclamat; O altitudo divitiarum, &amp;c. 
+      vide<lb ed="#P" n="68" break="no"/>licet rem totam referens ad incomprehensibilia 
+      judi<lb ed="#P" n="69" break="no"/>cia Dei, &amp; vias invest igabiles, &amp; consilium 
+      inscruta<lb ed="#P" n="70" break="no"/>bile Quemadmodum pulchre declarat Gregorius lib. 
+      <lb ed="#P" n="71"/>29. mor. cap. 12. Neque vero dici potest ex tota 
+      gen<lb ed="#P" n="72" break="no"/>tilitate, nullum crediturum fuisse si gratia fidei illi 
+      <!--0180.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>oblata fuisset, cum ex illo populo tam multi 
+      credi<lb ed="#P" n="74" break="no"/>derint, quem Moyses affirmat fuisse durissimae 
+      cervi<lb ed="#P" n="75" break="no"/>cis. 
+    </p>
+            <p xml:id="bt67yj-k59486-d1e197">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Quae ratio &amp; ad singulos homines accommodatur. 
+      <lb ed="#P" n="77"/>Unde S. August. epist. 105. Cur ille credat, ille non 
+      <lb ed="#P" n="78"/>credat, cum ambo idem audiunt, &amp; idem miraculum 
+      <lb ed="#P" n="79"/>vident, cum Apostolo refert ad inscrutabilia judicia 
+      <lb ed="#P" n="80"/>Dei. Et infra. Cur, inquit, illum potius quam illum 
+      <lb ed="#P" n="81"/>liberet, scrutetur qui potest, sed caveat praecipitium. Ex 
+      <lb ed="#P" n="82"/>tract. 26. in Joan. Quare hunc trahat, illum non 
+      <lb ed="#P" n="83"/>trahat, noli velle dijudicare, si non vis errare. 
+      Simi<lb ed="#P" n="84" break="no"/>lia scribit lib. 4. contra Julianum cap. 8. &amp; de 
+      prae<lb ed="#P" n="85" break="no"/>dest. sanct. cap. 8. &amp; de dono persev. cap. 8. &amp; Pros¬ 
+    </p>
+            <p xml:id="bt67yj-k59486-d1e223">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Secundo. Manifesta est scriptura Matth. 11. ubi 
+      <lb ed="#P" n="87"/>per lib. I. de vocatione gentium cap. 7. &amp; 9. 
+      <lb ed="#P" n="88"/>Dominus exprobrans quibusdam civitatibus suam 
+      <lb ed="#P" n="89"/>incredulitatem ait: Quoniam si in Tyro &amp; Sydone 
+      <lb ed="#P" n="90"/>factae fuissent virtutes, quae factae sunt vobis, olim in 
+      <lb ed="#P" n="91"/>cilicio &amp; cinere poenitentiam egissent. Cui simile est 
+      <lb ed="#P" n="92"/>quod Ezech. 3. dicit ad Prophetam Dominus de 
+      qui<lb ed="#P" n="93" break="no"/>busdam: Et si ad illos mittereris, ipsi audirent te. 
+      Fal<lb ed="#P" n="94" break="no"/>sum ergo est idcirco aliquem praedestinari, quia 
+      gra<lb ed="#P" n="95" break="no"/>tiam oblatam acceptaturus, eaque bene usurus erat, 
+      <lb ed="#P" n="96"/>quandoquidem istis gratia per quam erant credituri 
+      <lb ed="#P" n="97"/>&amp; poenitentiam acturi, non fuit oblata. Utuntur hoc 
+      <lb ed="#P" n="98"/>argumento Augustinus lib. de dono perseverantiae 
+      <lb ed="#P" n="99"/>cap. 9. 10. &amp; 14. &amp; Prosper lib. 1. de vocatione 
+      gen<lb ed="#P" n="100" break="no"/>tium cap. 5. 
+    </p>
+            <p xml:id="bt67yj-k59486-d1e260">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Quod autem ut supra commemoravimus ad hoc 
+      <lb ed="#P" n="102"/>argumentum respondet <name xml:id="bt67yj-k59486-Nd1e268">Rupertus</name>, ideo non fuisse 
+      <lb ed="#P" n="103"/>factas virtutes apud Tyrios &amp; Sydonios, nec alia 
+      me<lb ed="#P" n="104" break="no"/>dia salutis iis oblata, quia praevidebat Deus etiam 
+      <lb ed="#P" n="105"/>iis oblatis non veram, id est, salutarem eos acturos 
+      <lb ed="#P" n="106"/>fuisse poenitentiam, sed qualem egerunt Achab &amp; 
+      <lb ed="#P" n="107"/>Ninivitae, scilicet solo timore divinae 
+      comminatio<lb ed="#P" n="108" break="no"/>nis extortam, nequaquam scripturis &amp; sententiae 
+      <lb ed="#P" n="109"/>Christi consentaneum est. Quamvis enim de Achab 
+      <lb ed="#P" n="110"/>non improbabiliter dicatur, poenitentiam ejus ex 
+      <lb ed="#P" n="111"/>solo timore mali temporalis fuisse conceptam, ideó¬ 
+      <lb ed="#P" n="112"/>que nec salutatem; de Ninivitis tamen aliud omnino 
+      <lb ed="#P" n="113"/>apparet. Dicitur enim de iis Joan. 3. quod 
+      credide<lb ed="#P" n="114" break="no"/>runt in Deum, quodque conversi fuerunt de via sua 
+      <lb ed="#P" n="115"/>mala. Quibus verbis solet scriptura veram 
+      poeniten<lb ed="#P" n="116" break="no"/>tiam designare. Quod &amp; significat Christus in 
+      evan<lb ed="#P" n="117" break="no"/>gelio Matth. 12. &amp; Luc. 11. Ninivitas proponens 
+      Ju<lb ed="#P" n="118" break="no"/>daeis in exemplum poenitentiae. Quod profecto non 
+      <lb ed="#P" n="119"/>faceret, nisi talem egissent poenitentiam, qualem 
+      <lb ed="#P" n="120"/>ipse praedicabat, &amp; qualem a Judaeis exigebat. Unde 
+      <lb ed="#P" n="121"/>&amp; ecclesia feria 2. post Dominicam passionis factum 
+      <lb ed="#P" n="122"/>Ninivitarum intermissarum solemnia proponit 
+      fide<lb ed="#P" n="123" break="no"/>libus imitandum, tanquam verae &amp; magnae pietatis 
+      <lb ed="#P" n="124"/>exemplum. Talis igitur etiam Tyriorum ac 
+      Sydo<lb ed="#P" n="125" break="no"/>niorum poenitentiam fuisset. Quod ex eo probatur, 
+      <lb ed="#P" n="126"/>quia Dominus dicens: Si in Tyro &amp; Sydone, &amp;c. 
+      lo<lb ed="#P" n="127" break="no"/>quebatur de vera poenitentia, tali nimirum ad quam 
+      <lb ed="#P" n="128"/>hortabatur civitates Capharnaum, Corozam &amp; 
+      <lb ed="#P" n="129"/>Betsaida. Neque enim venerat annunciare 
+      poeniten<lb ed="#P" n="130" break="no"/>tiam secundum saeculum, sed secundum Deum, &amp; 
+      <lb ed="#P" n="131"/>quae agitur propter regnum coelorum: Poenitentiam 
+      <lb ed="#P" n="132"/>agite, inquit, appropinquavit enim regnum caelorum. 
+      <lb ed="#P" n="133"/>Quocirca alii quidam videntes Ruperti 
+      responsio<lb ed="#P" n="134" break="no"/>nem cum scriptura non consistere, dicunt veram 
+      qui<lb ed="#P" n="135" break="no"/>dem poenitentiam acturos fuisse Tyrios, &amp; Sydonios. 
+      <lb ed="#P" n="136"/>sed non in bono perseveraturos, idque Dominum 
+      <lb ed="#P" n="137"/>prae videntem non misisse eis praedicatores, nec 
+      mi<lb ed="#P" n="138" break="no"/>racula apud eos fecisse. Qui respondetur hoc 
+      quo<lb ed="#P" n="139" break="no"/>que valde temere dici de omnibus, quod videlicet 
+      <lb ed="#P" n="140"/>ex tam multis, qui Christo testante in cinere &amp; 
+      cili<lb ed="#P" n="141" break="no"/>cio poenitentiam egissent, nemo perseverasset. Quin 
+      <lb ed="#P" n="142"/>&amp; sequentia Christi verba hujusmodi effugium 
+      ex<lb ed="#P" n="143" break="no"/>cludunt. Nam statim de Sodomis (&amp; idem judicium 
+      <lb ed="#P" n="144"/>de Tyro &amp; Sydone) subjunxit: Si in Sodomis facta 
+      <lb ed="#P" n="145"/>fuissent virtutes quae factae sunt in te, forte mansissent 
+      <lb ed="#P" n="146"/>usque in diem hanc: Per quod significatur permanen¬ 
+      <!--0181.xml-->
+      <pb ed="#P" n="158"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tia in bono. Nec dubitationem adfert illud forte. 
+      <lb ed="#P" n="2"/>Nam in Graeco non dubitanter sed asseveranter 
+      legi<lb ed="#P" n="3" break="no"/>tur, mansissent utique; licet interpres noster Graecam 
+      <lb ed="#P" n="4"/>particulam saepe reddat per forte. Recte igitur Beda 
+      <lb ed="#P" n="5"/>in commentario Matth. 11. &amp; Luc 10. Cur, inquit, 
+      <lb ed="#P" n="6"/>non fuerit evangelizatum iis qui credere potuerunt, &amp; 
+      <lb ed="#P" n="7"/>praedicatum sit illis qui credere noluerunt, ipsius est 
+      <lb ed="#P" n="8"/>scire cujus uiversae viae misericordia, &amp; veritas, quasi 
+      <lb ed="#P" n="9"/>dicat, hoc nobis esse inscrutabile. Unde &amp; Christus 
+      <lb ed="#P" n="10"/>ipse in eodem evangelii loco rationem hujus 
+      diversi<lb ed="#P" n="11" break="no"/>tatis refert ad solum Dei beneplacitum, cum ait: Ita 
+      <lb ed="#P" n="12"/>pater, quia sic fuit placitum ante te¬ 
+    </p>
+            <p xml:id="bt67yj-k59486-d1e399">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Tertio refellitur opinio supra dicta hac firmissima 
+      <lb ed="#P" n="14"/>ratione. Gratiae oblatae (quaecunque ea sit) 
+      accepta<lb ed="#P" n="15" break="no"/>tio &amp; bonus usus &amp; in ea perseverantia sunt effectus 
+      <lb ed="#P" n="16"/>ipsius praedestinationis; non ergo illis, ut causis 
+      me<lb ed="#P" n="17" break="no"/>ritoriis, ascribenda est praedestinatio. Patet 
+      antece<lb ed="#P" n="18" break="no"/>dens, quia per gratiam praedestinationis fit, ut 
+      obla<lb ed="#P" n="19" break="no"/>tam gratiam quis acceptet eaque bene utatur &amp; in 
+      <lb ed="#P" n="20"/>eadem perseveret. Hoc enim proprie ad gratiam 
+      <lb ed="#P" n="21"/>Christi pertinet. Sequela quoque manifesta est. Non 
+      <lb ed="#P" n="22"/>enim potest illud promerito praedestinationis 
+      assigna<lb ed="#P" n="23" break="no"/>ri, quod ipsum sub praedestinatione tanquam 
+      effe<lb ed="#P" n="24" break="no"/>ctus ejus continetur. Quod autem ad gratiam 
+      Chri<lb ed="#P" n="25" break="no"/>sti proprie pertineat acceptatio, &amp; bonus usus gratiae, 
+      <lb ed="#P" n="26"/>id est, bene velle &amp; bene operari, atque in bono 
+      <lb ed="#P" n="27"/>opere &amp; sancta conversatione perseverare, multis 
+      lo<lb ed="#P" n="28" break="no"/>cis nos docent scripturae, atque e scripturis passim 
+      <lb ed="#P" n="29"/>contra Pelagianos Augustinus. Idque probat hoc 
+      <lb ed="#P" n="30"/>praecipue argumento, quia gratia Christi non est 
+      <lb ed="#P" n="31"/>communis bonis &amp; malis, sed distinguit inter bonos 
+      <lb ed="#P" n="32"/>&amp; malos, efficiens nimirum, ut ipsa oblata non 
+      re<lb ed="#P" n="33" break="no"/>jiciatur. Loca Augustini sunt epistola 105. 106. &amp; 
+      <lb ed="#P" n="34"/>107. serm. 11. de verbis Ap. tract. 26. in Joan. lib. 
+      <lb ed="#P" n="35"/>de pec. mer. cap. 21. &amp; 22. de gratia &amp; lib. arbit. cap. 
+      <lb ed="#P" n="36"/>23. de praedestinatione Sanctorum cap. 5. 6. &amp; 9. de 
+      <lb ed="#P" n="37"/>donopersev. cap. 8. &amp; alia poene innumera. Quae 
+      ea<lb ed="#P" n="38" break="no"/>dem &amp; Prosperi doctrina est, lib. I. de vocatione gent.. 
+      <lb ed="#P" n="39"/>cap. ult. &amp; ad excerpta Gen. resp. 4. 5. 6. &amp; 8. &amp; 
+      <lb ed="#P" n="40"/>alibi. Sed maxime &amp; ex professo eam tradit &amp; 
+      contra<lb ed="#P" n="41" break="no"/>riam oppugnat in carmine de ingratis. Id ipsum 
+      quo<lb ed="#P" n="42" break="no"/>que docet Fulgentius lib. de incarnatione &amp; gratia 
+      <lb ed="#P" n="43"/>Christi cap. 28. Hanc praeterea veritatem, quod 
+      ac<lb ed="#P" n="44" break="no"/>ceptatio &amp; usus gratiae sit ab efficaci operatione 
+      gra<lb ed="#P" n="45" break="no"/>tiae Christi, demonstrant orationes ecclesiae, quas 
+      <lb ed="#P" n="46"/>fundit pro conversione infidelium &amp; quorumcunque 
+      <lb ed="#P" n="47"/>peccatorum. Demonstrant &amp; gratiarum actiones, 
+      <lb ed="#P" n="48"/>quas pro talium conversione Deo reddere solent 
+      fi<lb ed="#P" n="49" break="no"/>deles. Haec enim planissime convincunt, Deum in 
+      <lb ed="#P" n="50"/>illis operari ipsam conversionem, ipsamque bonam 
+      <lb ed="#P" n="51"/>conversionem, id est, gratiae acceptationem &amp; usum. 
+      <lb ed="#P" n="52"/>Urget autem &amp; ponderat hoc argumentum 
+      Augusti<lb ed="#P" n="53" break="no"/>nus saeponumero nec non Caelestinus Papa in 
+      episto<lb ed="#P" n="54" break="no"/>la ad episcopos Galliae cap. 11. Probat eandem 
+      veri<lb ed="#P" n="55" break="no"/>tatem haec ratio. Nam si sola oblatio gratiae esset 
+      <lb ed="#P" n="56"/>divini muneris, acceptatio vero liberi arbitrii jam 
+      <lb ed="#P" n="57"/>melius esset quod haberet homo a libero arbitrio, id 
+      <lb ed="#P" n="58"/>est, a seipso quam quod a Deo, cum sit multo 
+      me<lb ed="#P" n="59" break="no"/>lius, bene velle &amp; facere quam posse. Quo 
+      argumen<lb ed="#P" n="60" break="no"/>to utitur Augustinus lib. 2. de pec. mer. cap. 18. Et 
+      <lb ed="#P" n="61"/>haec quidem veritas tam e scriptura, quam patribus 
+      <lb ed="#P" n="62"/>&amp; conciliis varie &amp; copiose probari posset, ut &amp; illa 
+      <lb ed="#P" n="63"/>huic connexa, quod non omnibus hominibus detur 
+      <lb ed="#P" n="64"/>gratia, seu auxilium ad salutem sufficiens: Sed 
+      quo<lb ed="#P" n="65" break="no"/>niam in 2. libro propria est ejus materiae tractatio; 
+      <lb ed="#P" n="66"/>satis nunc sit ex hac doctrina deducto argumento 
+      <lb ed="#P" n="67"/>ostendisse, non ideo praedestinari aliquem, quod 
+      <lb ed="#P" n="68"/>bene usurus sit gratia, sed ideo bene perseveranter 
+      <lb ed="#P" n="69"/>usurum, quia ut sic utatur, Deus ei praedestinando 
+      <lb ed="#P" n="70"/>praeparavit. 
+    </p>
+            <p xml:id="bt67yj-k59486-d1e529">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Quarto peculiariter huc facit authoritas sancti 
+      <lb ed="#P" n="72"/>Thomae, qui dictam opinionem apertissimis verbis 
+      <lb ed="#P" n="73"/>rej et, &amp; ratione ea, quam modo diximus, 
+      solidissi<lb ed="#P" n="74" break="no"/>me refutat 1. quaestion. 23. art. 5. Sic enim scribit: 
+      <!--0181.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Fuerunt alii qui dixerunt quod merita sequentia 
+      prae<lb ed="#P" n="76" break="no"/>destinationis effectum, sunt ratio praedestinationis, 
+      <lb ed="#P" n="77"/>ut intelligatur quod ideo Deus dat gratiam alicui &amp; 
+      <lb ed="#P" n="78"/>praeordinavit se ei daturum, quia praescivit eum bene 
+      <lb ed="#P" n="79"/>usurum gratia, sicut si rex det alicui militi equum, 
+      <lb ed="#P" n="80"/>quem scit eo bene usurum; sed isti videntur 
+      distin<lb ed="#P" n="81" break="no"/>xisse inter id quod est ex gratia, &amp; id quod est ex 
+      li<lb ed="#P" n="82" break="no"/>bero arbitrio, quasi non possit esse idem ex utroque. 
+      <lb ed="#P" n="83"/>Manifestum est autem quod id quod est gratiae, est 
+      <lb ed="#P" n="84"/>praedestinationis effectus, &amp; hoc non potest poni ut 
+      <lb ed="#P" n="85"/>ratio praedestinationis, cum hoc sub prae lestinatione 
+      <lb ed="#P" n="86"/>concludatur. Si igitur aliquid aliud ex parte nostra 
+      <lb ed="#P" n="87"/>sit ratio praedestinationis, hoc erit praeter effectum 
+      prae<lb ed="#P" n="88" break="no"/>destinationis. Non est autem distinctum, quod est ex 
+      <lb ed="#P" n="89"/>libero arbitrio, &amp; ex praelestinatione, sicut nec est 
+      <lb ed="#P" n="90"/>distinctum quod est ex causa secunda &amp; causa 
+      pri<lb ed="#P" n="91" break="no"/>ma. Livina enim providentia pro lucit effectus per 
+      <lb ed="#P" n="92"/>operationes causarum secundarum. Unde &amp; id quod 
+      <lb ed="#P" n="93"/>est per liberum arbitrium, est ex prae lestinatione. Ex 
+      <lb ed="#P" n="94"/>quibus patet acceptationem seu usum gratiae 
+      pro<lb ed="#P" n="95" break="no"/>pterea non posse poni rationem praedestinationis; 
+      <lb ed="#P" n="96"/>quia est effectus praedestinationis, eo quod simul 
+      <lb ed="#P" n="97"/>fiat &amp; a libero arbitrio, &amp; a Deo liberum arbitrium 
+      <lb ed="#P" n="98"/>movente, eosque vehementer falli, qui in bono 
+      ope<lb ed="#P" n="99" break="no"/>re conantur distinguere id quod est ex parte liberi 
+      <lb ed="#P" n="100"/>arbitrii, &amp; quod ex parte gratiae, cum ea non magis 
+      <lb ed="#P" n="101"/>distinguenda sint, quam in opere naturali id quod est 
+      <lb ed="#P" n="102"/>ex causa prima, &amp; quod ex secunda. Rursus idem 
+      <lb ed="#P" n="103"/>doctor verbis non minus apertis, atque eadem 
+      pror<lb ed="#P" n="104" break="no"/>sus ratione refellit supra dictam opinionem in 
+      com<lb ed="#P" n="105" break="no"/>mentario Rom. 9. lect. 3. &amp; de veritate q. 6. art. 2. 
+      <lb ed="#P" n="106"/>ad 1. &amp; 11. argumenta. 
+    </p>
+            <p xml:id="bt67yj-k59486-d1e616">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Simili quoque ratione Scotus eam evertit scribens 
+      <lb ed="#P" n="108"/>super hac distinctione, ubi disputat contra 
+      Henri<lb ed="#P" n="109" break="no"/>cum a Candavo similiter in eo errantem, quod in 
+      <lb ed="#P" n="110"/>opere bono distingueret id quod est a gratia, &amp; quod 
+      <lb ed="#P" n="111"/>a libero arbitrio. Unde dicebat hominem 
+      praedesti<lb ed="#P" n="112" break="no"/>nari propter praevisam gratiae acceptationem per 
+      bo<lb ed="#P" n="113" break="no"/>num usum liberi arbitrii. Contra quem rectissime 
+      <lb ed="#P" n="114"/>Scotus arguit, Deum non praevidere hominem bene 
+      <lb ed="#P" n="115"/>usurum libero arbitrio, nisi quia vult &amp; praeordinat: 
+      <lb ed="#P" n="116"/>ipsum eo bene usurum, ideoque rationem 
+      praede<lb ed="#P" n="117" break="no"/>stinationis non esse quaerendam nisi in voluntate 
+      di<lb ed="#P" n="118" break="no"/>vina. 
+    </p>
+            <p xml:id="bt67yj-k59486-d1e648">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Postremo refellitur ea opinio per hoc quod 
+      au<lb ed="#P" n="120" break="no"/>thores ejus <name xml:id="bt67yj-k59486-Nd1e656">Faustus</name> episcopus, <name xml:id="bt67yj-k59486-Nd1e658">Cassianus</name> &amp; 
+      Genna<lb ed="#P" n="121" break="no"/>dius presbyteri, aliique nonnulli ejusdem temporis 
+      <lb ed="#P" n="122"/>scriptores tanquam obtrectatores doctrinae B. 
+      Au<lb ed="#P" n="123" break="no"/>gustini, &amp; fermento Pelagiani dogmatis imbuti, 
+      par<lb ed="#P" n="124" break="no"/>tim a Gelasio pontifice in concilio 70. episcoporum 
+      <lb ed="#P" n="125"/>rejecti sunt cum suis opusculis tanquam apocryphis, 
+      <lb ed="#P" n="126"/>partim a Prospero &amp; Fulgentio quos ut sanctos &amp; 
+      sa<lb ed="#P" n="127" break="no"/>nae fidei doctores ecclesia veneratur, editis libris 
+      gra<lb ed="#P" n="128" break="no"/>viter reprehensi, nec non ab aliis scriptoribus 
+      Ca<lb ed="#P" n="129" break="no"/>tholicis improbati. Quodque e contra beati 
+      Augu<lb ed="#P" n="130" break="no"/>stini de gratia Christi doctrinam, quae magna ex parte 
+      <lb ed="#P" n="131"/>consistit in astruenda praedestinatione gratuita, 
+      ap<lb ed="#P" n="132" break="no"/>probavit Caelestinus pontifex in epistola ad episcopos 
+      <lb ed="#P" n="133"/>Galliae. Denique quod ejusdem epistolae capita &amp; 
+      <lb ed="#P" n="134"/>Arausicani concilii canones contra Pelagianas 
+      reli<lb ed="#P" n="135" break="no"/>quias ex Augustini scriptis ut plurimum collecti, nec 
+      <lb ed="#P" n="136"/>non synodus 214. episcoporum, cujus meminit 
+      Pros<lb ed="#P" n="137" break="no"/>per resp. 8. ad cap. Gallorum &amp; contra Collatorem 
+      <lb ed="#P" n="138"/>cap. 10. eam de gratia Christi doctrinam, non 
+      ob<lb ed="#P" n="139" break="no"/>scure continent, quae cum opinione, quam hactenus 
+      <lb ed="#P" n="140"/>impugnamus, nullo modo consistit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

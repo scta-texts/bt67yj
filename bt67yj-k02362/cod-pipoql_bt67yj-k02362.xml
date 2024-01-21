@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="7"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k02362"><!-- l1d2c2" -->
+            <head xml:id="bt67yj-k02362-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k02362-Hd1e103" type="question-title">Quomodo intelligendum sit unum esse Deum</head>
+            <p xml:id="bt67yj-k02362-d1e106">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> §. 2. Quomodo intelligendum sit unum esse Deum? 
+    </p>
+            <p xml:id="bt67yj-k02362-d1e113">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> UNitas divinae naturae quam Christiana fides 
+      <lb ed="#P" n="56"/>confitetur, non tantum plures specie Deos, sed 
+      <lb ed="#P" n="57"/>&amp; numero distinctos excludit. Specie plures finxit &amp; 
+      <lb ed="#P" n="58"/>coluit caeca gentilitas; Quem errorem ex parte 
+      se<lb ed="#P" n="59" break="no"/>cuti sunt Manichaei, duos Deos tanquam duo 
+      princi<lb ed="#P" n="60" break="no"/>pia constituentes, bonum &amp; malum; alterum novi 
+      <lb ed="#P" n="61"/>testamenti Deum, alterum veteris, nec diversos 
+      tan<lb ed="#P" n="62" break="no"/>tum natura, sed &amp; contrarios: Quo figmento nihil 
+      <lb ed="#P" n="63"/>absurdius. Nam &amp; is cujus natura mala est, Deus 
+      <lb ed="#P" n="64"/>esse non potest, cum Deus non nisi in bono 
+      intelli<lb ed="#P" n="65" break="no"/>gatur; &amp; is cujus bona est natura, si a contraria 
+      ma<lb ed="#P" n="66" break="no"/>li natura impugnatur, &amp; subinde vincitur, ut illi 
+      <lb ed="#P" n="67"/>docebant, imperfectus est &amp; miser, ac proinde nec 
+      <lb ed="#P" n="68"/>Deus. Significat enim hoc nomen rem summe 
+      per<lb ed="#P" n="69" break="no"/>fectam &amp; beatam: Quibus argumentis errorem 
+      il<lb ed="#P" n="70" break="no"/>lum Augustinus refellit, passim in libris contra 
+      Ma<lb ed="#P" n="71" break="no"/>nichaeos scriptis 
+    </p>
+            <p xml:id="bt67yj-k02362-d1e155">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Quod autem nec numero distincti Dii esse possint, 
+      <!--0030.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>&amp; ad sensum vulgarem accommodata, haec est. 
+      <lb ed="#P" n="74"/>subjectis rationibus ostenditur, quarum prima facilis 
+    </p>
+            <p xml:id="bt67yj-k02362-d1e172">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Si plures numero Dii sunt, vel uni omnes 
+      subji<lb ed="#P" n="76" break="no"/>ciuntur summo Deo vel nulli, sed pari sunt potestate 
+      <lb ed="#P" n="77"/>praediti; si subjiciuntur uni, consequens est unum 
+      <lb ed="#P" n="78"/>illum solum esse Deum. Nam ut Aug. lib. I. de doctr. 
+      <lb ed="#P" n="79"/>Christ. cap. 6. hoc omnes Deum consentiunt esse; 
+      <lb ed="#P" n="80"/>quod caeteris rebus omnibus anteponunt. Unde 
+      pa<lb ed="#P" n="81" break="no"/>tet absurditas Philosophorum quorundam, qui 
+      plu<lb ed="#P" n="82" break="no"/>res constituere Deos ab uno ortos, &amp; ab eo 
+      immor<lb ed="#P" n="83" break="no"/>talitate donatos eidemque subjectos. Ad quem 
+      mo<lb ed="#P" n="84" break="no"/>dum etiam loquitur Plato interdum, ut in Timaeo. 
+      <lb ed="#P" n="85"/>lib. de repub. &amp; de legibus. Si vero nullum supra se 
+      <lb ed="#P" n="86"/>guli, sequitur universum hoc, non gubernari eo 
+      re<lb ed="#P" n="87" break="no"/>Deum agnoscentes, pari potestate dominantur 
+      sin<lb ed="#P" n="88" break="no"/>giminis modo, qui sit optimus: Constat enim tam 
+      <lb ed="#P" n="89"/>vulgi judicio, quam eorum sententia, qui politica 
+      <lb ed="#P" n="90"/>tradunt, monarchicam gubernationem, qua 
+      nimi<lb ed="#P" n="91" break="no"/>rum unus caeteris principatur, optimam &amp; 
+      praestan<lb ed="#P" n="92" break="no"/>tissimam esse; utpote quae concordiae sit conservatrix, 
+      <lb ed="#P" n="93"/>&amp; perpetuitati optime consulat: Inde enim est 
+      <lb ed="#P" n="94"/>quod &amp; Christus unitati &amp; perpetuitati Ecclesiae suae 
+      <lb ed="#P" n="95"/>prospectum esse volens, unum ei praefecerit pastorem 
+      <lb ed="#P" n="96"/>suum in terris vicarium. 
+    </p>
+            <p xml:id="bt67yj-k02362-d1e224">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Secunda ratio sumitur ex simplicitate naturae 
+      di<lb ed="#P" n="98" break="no"/>vinae. Ea enim simplicitas omnem excludit 
+      compo<lb ed="#P" n="99" break="no"/>velut partibus integrantibus, sive ex subjecto &amp; 
+      ac<lb ed="#P" n="100" break="no"/>sitionem, sive ex materia &amp; forma, sive ex membris 
+      <lb ed="#P" n="101"/>cidente, sive denique ex natura &amp; supposito. 
+      Rati<lb ed="#P" n="102" break="no"/>est, quia Deus est substantia perfectissima; quo quid 
+      <lb ed="#P" n="103"/>autem perfectius, eo simplicius. Oportet ergo Deo 
+      <lb ed="#P" n="104"/>perfectissimam simplicitatem tribuere. Hinc porro 
+      <lb ed="#P" n="105"/>sequitur, in Deo non aliud esse naturam, aliud sup 
+      <lb ed="#P" n="106"/>positum quod naturam habet, sed rem prorsus 
+      ean<lb ed="#P" n="107" break="no"/>dem. Quibus constitutis sic licebit ratiocinari: 
+      Ubi<lb ed="#P" n="108" break="no"/>cumque species aliqua communis est, quae de multis 
+      <lb ed="#P" n="109"/>individuis dicatur, aliud est natura, aliud 
+      supposi<lb ed="#P" n="110" break="no"/>tum, exempli gratia: Petrus per aliud est homo, per 
+      <lb ed="#P" n="111"/>aliud hic homo a Joanne distinctus: Atqui ostensum 
+      <lb ed="#P" n="112"/>est in divinis non aliud esse naturam, aliud 
+      supposi<lb ed="#P" n="113" break="no"/>tum: Ergo non est ibi agnoscere individua unius 
+      spe<lb ed="#P" n="114" break="no"/>ciei numero distincta; &amp; proinde non est putandum 
+      <lb ed="#P" n="115"/>Deum praedicari de Patre &amp; Filio, &amp; Spiritu sancto, 
+      <lb ed="#P" n="116"/>tanquam speciem de individuis: Deus ergo nec 
+      spe<lb ed="#P" n="117" break="no"/>ciei rationem habet, quia non significat naturam 
+      <lb ed="#P" n="118"/>communem per modum universalis, id est, 
+      multi<lb ed="#P" n="119" break="no"/>plicabilem, nec individuum est alicujus speciei, quia 
+      <lb ed="#P" n="120"/>in omni tali individuo, aliud est natura, aliud 
+      suppo<lb ed="#P" n="121" break="no"/>situm: Quae duo jam ostendimus in Deo non esse 
+      di<lb ed="#P" n="122" break="no"/>versa. Communicatur quidem natura divina tribus 
+      <lb ed="#P" n="123"/>Personis, sed in illis non multiplicatur. Neque enim 
+      <lb ed="#P" n="124"/>illa eis communicatur secundum communem 
+      ali<lb ed="#P" n="125" break="no"/>quam notionem; sed secundum rem unam numero, 
+      <lb ed="#P" n="126"/>Unde tres personae divinae non possunt dici tres Dii, 
+      <lb ed="#P" n="127"/>sicut tria humanae naturae supposita vocantur &amp; 
+      re<lb ed="#P" n="128" break="no"/>vera sunt tres homines, sed tantummodo unus Deus. 
+      <lb ed="#P" n="129"/>Hic enim una eademque singularis natura est in 
+      sin<lb ed="#P" n="130" break="no"/>gulis, ibi vero natura communis tantum est eadem; 
+      <lb ed="#P" n="131"/>singularis vero quae &amp; particularis, in singulis 
+      diver<lb ed="#P" n="132" break="no"/>sa. Tertia ratio sumitur ex infinita Dei perfectione: 
+      <lb ed="#P" n="133"/>Deus enim cum sit ens perfectissimum, necessario 
+      <lb ed="#P" n="134"/>omnem essendi perfectionem in se continet: fieri 
+      er<lb ed="#P" n="135" break="no"/>go non potest, ut sint plures Dii. Nam si essent, 
+      dif<lb ed="#P" n="136" break="no"/>ferre eos inter se oporteret, &amp; proinde aliquid uni 
+      <lb ed="#P" n="137"/>conveniret quod non alteri; atque ita is cui deesset 
+      <lb ed="#P" n="138"/>perfectio alterius, non esset Deus, quia non esset 
+      <lb ed="#P" n="139"/>simpliciter atque omni modo perfectus. 
+    </p>
+            <p xml:id="bt67yj-k02362-d1e322">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Quarta ab unitate totius universi. Quaecunque 
+      <lb ed="#P" n="141"/>enim existunt etsi diversissima, ordinem quendam 
+      <lb ed="#P" n="142"/>habent inter se, cujus ordinis ratione unum 
+      mun<lb ed="#P" n="143" break="no"/>dum constituunt; Quod fieri non posset nisi ab uno 
+      <lb ed="#P" n="144"/>aliquo ordinarentur, quia per se unum, unius est 
+      <lb ed="#P" n="145"/>causa, unus igitur est Deus totius mundi creator &amp; 
+      <lb ed="#P" n="146"/>gubernator.
+    </p>
+            <p xml:id="bt67yj-k02362-d1e342">
+      <!--0031.xml-->
+               <pb ed="#P" n="8"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quinta ab omnipotentia Dei. Si enim 
+      omnipo<lb ed="#P" n="2" break="no"/>tens est Deus: Ergo tollere potest omnem potentiam 
+      <lb ed="#P" n="3"/>a sua diversam, omnemque ejus actionem impedire; 
+      <lb ed="#P" n="4"/>ergo praeter unum nullus est omnipotens, &amp; 
+      proin<lb ed="#P" n="5" break="no"/>de nec Deus. Has &amp; alias hujusmodi rationes, 
+      tra<lb ed="#P" n="6" break="no"/>dunt S. Thomas, Bonav. &amp; alii Doctores, super 
+      prae<lb ed="#P" n="7" break="no"/>sentem dist. Item S. Thomas 1. q. 11. art. 3. &amp; q. 103. 
+      <lb ed="#P" n="8"/>art. 3. &amp; alibi. Et quidem Bonaventura affirmat si 
+      <lb ed="#P" n="9"/>recte accipiatur significatum hujus nominis, Deus, 
+      <lb ed="#P" n="10"/>non solum esse impossibile, sed etiam non 
+      intelligi<lb ed="#P" n="11" break="no"/>bile, plures esse Deos: eo quod vocabulum, Deus, 
+      <lb ed="#P" n="12"/>significet simpliciter summum, &amp; in re, &amp; in 
+      opi<lb ed="#P" n="13" break="no"/>nione cogitantis. Unde, inquit, qui plures finxerunt 
+      <lb ed="#P" n="14"/>Deos, non intellexerunt Deum secundum nobilitatem 
+      <lb ed="#P" n="15"/>divinam. Quo pertinet etiam illud quod apud 
+      Pru<lb ed="#P" n="16" break="no"/>dentium, in Romano, puer Christianus dicit: Est 
+      <lb ed="#P" n="17"/>quicquid illud, quod ferunt homines Deum, Unum 
+      <lb ed="#P" n="18"/>esse oportet, &amp; quod uni est, unicum, Genera 
+      Deo<lb ed="#P" n="19" break="no"/>rum multa, nec pueri putant. Idem poeta initio 
+      Ha<lb ed="#P" n="20" break="no"/>mart. rationibus quae non absimiles sunt, istis supra 
+      <lb ed="#P" n="21"/>allatis, contra Marcionistas probat unum esse Deum. 
+      <lb ed="#P" n="22"/>Est &amp; alias hoc argumentum frequens apud veteres 
+      <lb ed="#P" n="23"/>ubi contra Gentiles, de vera religione disputant. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

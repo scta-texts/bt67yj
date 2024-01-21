@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="40"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k14762"><!-- l1d9c4" -->
+            <head xml:id="bt67yj-k14762-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k14762-Hd1e103" type="question-title">Quis ordo sit agnoscendus in divinis</head>
+            <p xml:id="bt67yj-k14762-d1e106">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> §. 4. Quis ordo sit agnoscendus in divinis.
+    </p>
+            <p xml:id="bt67yj-k14762-d1e113">
+               <lb ed="#P" n="51"/>CUm in divinis sit personarum pluralitas, &amp; ab 
+      <lb ed="#P" n="52"/>Cea removenda sit omnis confusio, necesse est, 
+      <lb ed="#P" n="53"/>ordinem aliquem inter eas agnosci. Et quidem 
+      mani<lb ed="#P" n="54" break="no"/>festum est, non esse inter eas ordinem temporis, cum 
+      <lb ed="#P" n="55"/>filius sit patri coaeternus, ut jam ostensum est, 
+      idem<lb ed="#P" n="56" break="no"/>que judicium sit de Spiritu sancto, nec omnino de ea 
+      <lb ed="#P" n="57"/>re secundum fidem catholicam fas sit dubitare. Sed 
+      <lb ed="#P" n="58"/>neque ordo naturae in eis locum habet, sic videlicet ut 
+      <lb ed="#P" n="59"/>earum alia sit prior, alia posterior natura. Id enim 
+      al<lb ed="#P" n="60" break="no"/>tero posterius natura dicitur, cujus natura ab 
+      alte<lb ed="#P" n="61" break="no"/>rius natura dependet; quomodo in humanis natura 
+      <lb ed="#P" n="62"/>filii dependet a natura patris. Quod de personis dici 
+      <lb ed="#P" n="63"/>non potest, quarum trium una est, eademque 
+      indivi<lb ed="#P" n="64" break="no"/>sa natura. Atque hinc discimus, quantum 
+      similitudi<lb ed="#P" n="65" break="no"/>nes supra positae de splendore solis &amp; verbo mentis 
+      re<lb ed="#P" n="66" break="no"/>cedant ab eo, ad quod declarandum ad hibentur. Haec 
+      <lb ed="#P" n="67"/>enim natura posteriora sunt suis causis, quia eorum 
+      <lb ed="#P" n="68"/>natura ab illis dependet, filius autem Dei naturam 
+      <lb ed="#P" n="69"/>cum patre prorsus habet eandem, quae proinde 
+      seip<lb ed="#P" n="70" break="no"/>sa prior aut posterior esse nequit. Praeterea 
+      conse<lb ed="#P" n="71" break="no"/>quens est nec ordinem dignitatis in trinitate 
+      reperi<lb ed="#P" n="72" break="no"/>ri, in qua trium personarum una est deitas, aequalis 
+      <lb ed="#P" n="73"/>gloria, coaeterna majestas, ubi, nihil prius aut poste¬ 
+      <!--0063.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>rius, nihil majus aut minus, sed totae tres personae 
+      <lb ed="#P" n="75"/>coaeternae sibi sunt &amp; coaequales, ut loquitur Ecclesia 
+      <lb ed="#P" n="76"/>in symbolo. Tres ordines jam dictos excludita 
+      trini<lb ed="#P" n="77" break="no"/>tate S. Ambr. I. de institutione virginis c. 10. dicens: 
+      <lb ed="#P" n="78"/>Unitas trinitatis est, non ordine distincta non tempore. 
+      <lb ed="#P" n="79"/>Restat ergo ut solus ibi sit ordo originis, id est 
+      prin<lb ed="#P" n="80" break="no"/>cipii ad suum principiatum, vel contra. Nam 
+      or<lb ed="#P" n="81" break="no"/>do originis dicitur, secundum quem alia persona 
+      <lb ed="#P" n="82"/>principium est, alia a principio. Est enim pater qua 
+      <lb ed="#P" n="83"/>ratione pater est, author &amp; principium filii, &amp; 
+      uter<lb ed="#P" n="84" break="no"/>que Spiritus sancti. Qua de re plura ad dist. 29. Non 
+      <lb ed="#P" n="85"/>est autem his quae diximus contrarium quod est 
+      a<lb ed="#P" n="86" break="no"/>pud S. Thom. q. 42. art. 3. ubi ordinem naturae 
+      agnos<lb ed="#P" n="87" break="no"/>cit in divinis. Non enim intelligit ordinem naturae 
+      <lb ed="#P" n="88"/>secundum quem natura unius, naturam alterius 
+      con<lb ed="#P" n="89" break="no"/>sequitur, sed eum qui in divinis personis attenditur 
+      <lb ed="#P" n="90"/>secundum naturalem originem, quem nos ordinem 
+      <lb ed="#P" n="91"/>originis vocamus. 
+    </p>
+            <p xml:id="bt67yj-k14762-d1e209">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Jam vero si quaeritur, an hujus ordinis ratione 
+      fa<lb ed="#P" n="93" break="no"/>tendum sit patrem esse filio priorem, &amp; filium patre 
+      <lb ed="#P" n="94"/>posteriorem. Respondendum videtur, etsi quidam 
+      <lb ed="#P" n="95"/>nullam omnino prioritatem agnoscere velint in 
+      tri<lb ed="#P" n="96" break="no"/>nitate; quia tamen necessario fatemur ordinem ibi 
+      <lb ed="#P" n="97"/>aliquem esse, nihil fore absurdi, imo plane 
+      conse<lb ed="#P" n="98" break="no"/>quens videri, si etiam prioritatem aliquam in ea 
+      a<lb ed="#P" n="99" break="no"/>gnoscamus, qua nimirum principium quatenus 
+      prin<lb ed="#P" n="100" break="no"/>cipium, prius est eo cujus dicitur principium. Nam 
+      <lb ed="#P" n="101"/>originis seu principii ratio, omnino quandam prioris 
+      <lb ed="#P" n="102"/>ad posterius rationem includere videtur. Quo fit ut 
+      <lb ed="#P" n="103"/>personas divinas recte distinguamus in primam, 
+      se<lb ed="#P" n="104" break="no"/>cundam &amp; tertiam, non aliud quam originis 
+      ordi<lb ed="#P" n="105" break="no"/>nem inter eas significantes. Unde &amp; illud Joan. 13. 
+      <lb ed="#P" n="106"/>Pater majorme est, quamvis rectissime dictum 
+      intel<lb ed="#P" n="107" break="no"/>ligatur propter formam servi, secundum quam 
+      Chri<lb ed="#P" n="108" break="no"/>stus etiam angelis minor effectus est, Paulo teste 
+      <lb ed="#P" n="109"/>Heb. 2. Attamen Hilar. I. 9. de trin. &amp; Greg. Naz. 
+      <lb ed="#P" n="110"/>oratione 4. de Theol. necnon patres Concilii 
+      Sardi<lb ed="#P" n="111" break="no"/>censis in epist. quae habetur lib. 4. hist. trip. c. 24. alii 
+      <lb ed="#P" n="112"/>que Graeci patres dictum intelligunt propter 
+      genera<lb ed="#P" n="113" break="no"/>tionis principium, quod filius est a patre. Sed de hoc 
+      <lb ed="#P" n="114"/>plenius infra ad distinctionem 19 
+    </p>
+            <p xml:id="bt67yj-k14762-d1e265">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Quod ergo dicit Athan. in trinit. nihil esse prius aut 
+      <lb ed="#P" n="116"/>posterius, nihil majus aut minus, vel intelligendum 
+      <lb ed="#P" n="117"/>de ordine, quem naturae vel cujuscunque ejus 
+      attri<lb ed="#P" n="118" break="no"/>buti diversitas, sive inaequalitas gignere possit, non de 
+      <lb ed="#P" n="119"/>eo quem necessario postulat originis ratio: Vel 
+      po<lb ed="#P" n="120" break="no"/>tius dicendum Athan. loqui de eo quod usitatissime 
+      <lb ed="#P" n="121"/>prius dicitur, id est prius tempore. Unde &amp; inter 
+      mo<lb ed="#P" n="122" break="no"/>dos prioris in categoriis Aristot. primum habet 
+      lo<lb ed="#P" n="123" break="no"/>cum modus ille quo quid tempore prius est altero. 
+      <lb ed="#P" n="124"/>Sensus iste symboli patet ex verbis subjunctis 
+      ejus<lb ed="#P" n="125" break="no"/>dem versiculi. Cum enim dixisset. In trinitate nihil 
+      <lb ed="#P" n="126"/>prius esse aut posterius, nihil majus aut minus, statim 
+      <lb ed="#P" n="127"/>adversative subjungit: Sed totae tres personae coaeterna 
+      <lb ed="#P" n="128"/>sibi sunt &amp; coaequales. Itaque contra prius &amp; posterius 
+      <lb ed="#P" n="129"/>dixit tres personas coaeternas esse: sicut contra majus 
+      <lb ed="#P" n="130"/>&amp; minus dixit coaequales. Quoniam autem prius &amp; 
+      <lb ed="#P" n="131"/>posterius usitatissime, quemadmodum dixi, soleat 
+      <lb ed="#P" n="132"/>ad tempus referri, propterea si absolute loquendum 
+      <lb ed="#P" n="133"/>sit, potius cum Athanasii symbolo negandum erit 
+      <lb ed="#P" n="134"/>quam concedendum esse in trinitate aliquid altero 
+      <lb ed="#P" n="135"/>prius. Nam majus aliud alio in trinitate absolute dici 
+      <lb ed="#P" n="136"/>non posse, extra quaestionem est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

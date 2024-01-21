@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="32"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k11863"><!-- l1d8c4" -->
+            <head xml:id="bt67yj-k11863-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k11863-Hd1e103" type="question-title">Incommutabilem esse Dei naturam</head>
+            <p xml:id="bt67yj-k11863-d1e106">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> §. 4. Incommutabilem esse Dei naturam.
+    </p>
+            <p xml:id="bt67yj-k11863-d1e113">
+               <lb ed="#P" n="110"/>EX eo quod supra monstratum est Deum 
+      propriis<lb ed="#P" n="111" break="no"/>sime esse, consequitur incommutabilem esse Dei 
+      <lb ed="#P" n="112"/>naturam, id est, nulli prorsus mutationi obnoxiam 
+      <lb ed="#P" n="113"/>Ubi enim mutatio est aliqua, non est ibi esse omni 
+      <lb ed="#P" n="114"/>modo stabile &amp; perfectum, sed modo esse, modo non 
+      <lb ed="#P" n="115"/>esse, sive simpliciter, sive secundum quid. 
+    </p>
+            <p xml:id="bt67yj-k11863-d1e129">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Verum id nunc plenius tum ex scriptura, tum 
+      ra<lb ed="#P" n="117" break="no"/>tione probandum est. 
+    </p>
+            <p xml:id="bt67yj-k11863-d1e139">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Manifestae scripturae sunt Malac. 3. Ego Dominus 
+      <lb ed="#P" n="119"/>&amp; non mutor. Psal. 101. Mutabis eos &amp; mutabuntur. 
+      <lb ed="#P" n="120"/>Tu autem idem ipse es. Jacobi 1. Apud quem non est 
+      <lb ed="#P" n="121"/>transmutatio, nec vicissitudinis obumbratio. Quo 
+      <lb ed="#P" n="122"/>etiam pertinet quod ait Apostolus 1. Timoth. 6. Qui 
+      <lb ed="#P" n="123"/>solus habet immortalitatem, quemadmodum id 
+      expo<lb ed="#P" n="124" break="no"/>nit S. Augustinus lib. I. de Trinit. capit. 1. &amp; lib. 3. 
+      <lb ed="#P" n="125"/>contra Maximum cap. 12. &amp; Bernard. serm. 81. in 
+      <lb ed="#P" n="126"/>Cant. Cujus interpretationis ratio est, quia ut dicit 
+      <lb ed="#P" n="127"/>Augustinus, omnis mutatio mors quaedam est, &amp; ut 
+      <lb ed="#P" n="128"/>ait Bernardus, omnis mutatio quaedam mortis 
+      invi<lb ed="#P" n="129" break="no"/>tatio est; &amp; omne quod mutatur, quodammodo 
+      mo<lb ed="#P" n="130" break="no"/>ritur. Corrumpitur enim secundum formam quam 
+      <lb ed="#P" n="131"/>amittit; sicut &amp; generatur secundum formam quam 
+      <lb ed="#P" n="132"/>acquirit. 
+    </p>
+            <p xml:id="bt67yj-k11863-d1e176">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Porro ratione idem sic ostenditur. Quod res 
+      ali<lb ed="#P" n="134" break="no"/>qua mutabilis sit, accidit vel ex majore potentia 
+      <lb ed="#P" n="135"/>alterius, vel ex ipsius rei impotentia. Priore 
+      qui<lb ed="#P" n="136" break="no"/>dem modo dupliciter, si vel causa potentior eam 
+      <lb ed="#P" n="137"/>corrumpere vel omnino mutare possit, (quomodo 
+      <lb ed="#P" n="138"/>sol movetur, non quod egeat motu, sed ob causam 
+      <lb ed="#P" n="139"/>potentiorem quae ei motum imprimit) vel causa 
+      <lb ed="#P" n="140"/>conservans ei se subducat &amp; conservare desinat. 
+      <lb ed="#P" n="141"/>Posteriore, si res ipsa nitatur ad consequendam 
+      <lb ed="#P" n="142"/>perfectionem quam non habet, vel si quam habet, 
+      <lb ed="#P" n="143"/>conservare nequeat. Cum ergo Deo nihil sit po¬ 
+      <!--0056.xml-->
+      <pb ed="#P" n="33"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tentius, cumque nulla in eo sit imperfectio quam 
+      <lb ed="#P" n="2"/>abjiciat, nulla ei desit perfectio quam acquirat, 
+      con<lb ed="#P" n="3" break="no"/>sequens est nullam omnino mutationem ei posse 
+      ac<lb ed="#P" n="4" break="no"/>cidere, creaturis autem omnibus accidere posse, cum 
+      <lb ed="#P" n="5"/>nulla sit earum quae non potentiori causae sit subjecta, 
+      <lb ed="#P" n="6"/>&amp; perfectionem amittere vel acquirere possit. 
+      Acce<lb ed="#P" n="7" break="no"/>dit alia ratio: Si enim mutatur Deus, vel in melius 
+      <lb ed="#P" n="8"/>mutatur, vel in deterius. Quod utrumque, quoniam 
+      <lb ed="#P" n="9"/>ejus perfectioni repugnat, absurdum est. Rursum 
+      <lb ed="#P" n="10"/>alia: Si mutatur, vel acquirit aliquid vel deperdit. 
+      <lb ed="#P" n="11"/>Quicquid autem in Deo est, essentia ejus est; igitur 
+      <lb ed="#P" n="12"/>aliquid incipit vel definit esse divina essentia quod 
+      <lb ed="#P" n="13"/>similiter absurdum est. Item alia: Deus est purus 
+      <lb ed="#P" n="14"/>actus &amp; nullo modo potentia: Quicquid autem mu 
+      <lb ed="#P" n="15"/>tatur, est aliquo modo potentia, Deus ergo non 
+      mu<lb ed="#P" n="16" break="no"/>tatur. Item alia ex Aristotele. Omne quod movetur, 
+      <lb ed="#P" n="17"/>ab alio movetur, donec tandem veniatur ad 
+      ali<lb ed="#P" n="18" break="no"/>quod primum movens immobile; hoc autem ipse 
+      <lb ed="#P" n="19"/>Deus est, non ergo Deus movetur. Item alia: 
+      Quic<lb ed="#P" n="20" break="no"/>quid mutatur secundum aliquid manet, &amp; 
+      secun<lb ed="#P" n="21" break="no"/>dum aliud transit. Manet enim subjectum, forma 
+      <lb ed="#P" n="22"/>transit. At in Deo non est aliud &amp; aliud, cum sit 
+      sim<lb ed="#P" n="23" break="no"/>plicissimus; non potest ergo mutari. 
+    </p>
+            <p xml:id="bt67yj-k11863-d1e261">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Denique per singulas mutationis species potest res 
+      <lb ed="#P" n="25"/>ista declarari. Non enim generatur neque 
+      corrumpi<lb ed="#P" n="26" break="no"/>tur, qui per naturam aeternus est; non alteratur, 
+      cu<lb ed="#P" n="27" break="no"/>jus qualitas essentia ipsius est; non augetur neque 
+      mi<lb ed="#P" n="28" break="no"/>nuitur, qui incorporeus est; non mutatur loco, qui 
+      <lb ed="#P" n="29"/>totus ubique est. Est autem haec per rationes 
+      natura<lb ed="#P" n="30" break="no"/>les ostensio tam clara &amp; evidens, ut dicere non 
+      dubi<lb ed="#P" n="31" break="no"/>ta verit Augustinus lib. ultimo contra Faustum cap. 
+      <lb ed="#P" n="32"/>ultimo omni humanae menti naturaliter insitum esse, 
+      <lb ed="#P" n="33"/>si modo perversae opinionis pravitate non turbetur, 
+      <lb ed="#P" n="34"/>Dei naturam omnino esse incommutabilem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

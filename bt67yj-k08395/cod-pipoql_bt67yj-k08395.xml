@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="23"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k08395"><!-- l1d4c6" -->
+            <head xml:id="bt67yj-k08395-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-k08395-Hd1e103" type="question-title">Recte personam de essentia praedicari et contra 
+        cum solutione argumentorum</head>
+            <p xml:id="bt67yj-k08395-d1e106">
+               <lb ed="#P" n="43"/>§. 6. Recte personam de essentia praedicari &amp; contra 
+      <lb ed="#P" n="44"/>cum solutione argumentorum.
+    </p>
+            <p xml:id="bt67yj-k08395-d1e113">
+               <lb ed="#P" n="45"/>CUm in divinis non sit realis differentia natura 
+      <lb ed="#P" n="46"/>ad personas, sed tantum personarum inter se 
+      <lb ed="#P" n="47"/>ut ex iis quae infra suis locis dicenda sunt, aperte 
+      pa<lb ed="#P" n="48" break="no"/>tebit; Consequens est &amp; personam unam quamque 
+      <lb ed="#P" n="49"/>omnes simul de essentia, &amp; vicissim essentiam de 
+      <lb ed="#P" n="50"/>personis sive singulis, sive simul omnibus enunciari 
+      <lb ed="#P" n="51"/>vere posse, his modis: Pater est essentia divina, filius 
+      <lb ed="#P" n="52"/>est essentia divina, &amp;c. Pater &amp; Filius &amp; Spiritus 
+      <lb ed="#P" n="53"/>sanctus sunt essentia divina, &amp; contra, essentia 
+      divi<lb ed="#P" n="54" break="no"/>na est pater &amp;c. Argumenta vero quae solent ab 
+      ar<lb ed="#P" n="55" break="no"/>gutis in contrarium objici forma syllogismorum 
+      ve<lb ed="#P" n="56" break="no"/>sut ad incommodum ducentia ex talibus 
+      propositio<lb ed="#P" n="57" break="no"/>nibus concessis, solvi possint ex iis quae partim hac 
+      <lb ed="#P" n="58"/>distinctione, partim eist. 2. dicta sunt de vario usu 
+      <lb ed="#P" n="59"/>vocabulorum in divinis. 
+    </p>
+            <p xml:id="bt67yj-k08395-d1e148">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Sunt autem syllogismi hujusmodi: Omnis 
+      essen<lb ed="#P" n="61" break="no"/>tia divina est pater; filius est essentia divina; ergo 
+      <lb ed="#P" n="62"/>filius est pater. Item, nulla essentia divina genuit 
+      <lb ed="#P" n="63"/>filium; atqui pater est essentia divina; ergo pater 
+      <lb ed="#P" n="64"/>non genuit filium. Quorum syllogismorum 
+      propo<lb ed="#P" n="65" break="no"/>sitiones majores ita probant: quia cum essentia 
+      di<lb ed="#P" n="66" break="no"/>vina sit una &amp; individua, si quid de ea dicitur aue 
+      <lb ed="#P" n="67"/>removetur, id universaliter de ea dici aut removeri 
+      <lb ed="#P" n="68"/>oportet. Sed dicendum illas propositiones etsi 
+      uni<lb ed="#P" n="69" break="no"/>versali signo affectas, non esse pane universales. 
+      Si<lb ed="#P" n="70" break="no"/>cut enim vox illa Deus, non omniuo singularis est, 
+      <lb ed="#P" n="71"/>propter personarum quibus competit pluralitatem: 
+      <lb ed="#P" n="72"/>ita si huic voci, divina essentia, adjungas signum 
+      <!--0046.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>universale, non statim efficies propositionem 
+      per<lb ed="#P" n="74" break="no"/>fecte universalem, videlicet ob singularem naturae 
+      <lb ed="#P" n="75"/>significatae unitatem. Quo fit ut vera sit propositio 
+      <lb ed="#P" n="76"/>relata ad unam personam, &amp; perinde se habeat 
+      at<lb ed="#P" n="77" break="no"/>que si signo careat. Quod si plenam universalitatem 
+      <lb ed="#P" n="78"/>dictarum propositionum efficere voles, facere id 
+      <lb ed="#P" n="79"/>poteris adjectione signi alicujus quod pleniorem 
+      <lb ed="#P" n="80"/>habeat vim distribuendi, nempe pro ipsis suppositis 
+      <lb ed="#P" n="81"/>ut si dicas: Omne quod est essentia divina, est pater. 
+      <lb ed="#P" n="82"/>Cujus sensus est: Quidquid subsumi potest sub 
+      essen<lb ed="#P" n="83" break="no"/>tia divina est pater. Item: nihil quod est essentia 
+      di<lb ed="#P" n="84" break="no"/>vina genuit, id est, nihil de quo praedicatur essentia 
+      di<lb ed="#P" n="85" break="no"/>vina genuit. Quae propositiones sic ad plenum 
+      uni<lb ed="#P" n="86" break="no"/>versales jam falsae deprehenduntur, additis nimirum 
+      <lb ed="#P" n="87"/>subsumptionibus syllogismorum. Et possunt similia 
+      <lb ed="#P" n="88"/>exempla viciosa proferri de rebus creatis, ut patet 
+      <lb ed="#P" n="89"/>de Micalo Musico &amp; Aristomene intelligibili, apud 
+      <lb ed="#P" n="90"/>philosophum libro primo priorum Analit. cap. 35.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

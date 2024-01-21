@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="201"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k76342"><!-- l1d46c8" -->
+            <head xml:id="bt67yj-k76342-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-k76342-Hd1e103" type="question-title">Refutatio eorum quae objiciuntur</head>
+            <p xml:id="bt67yj-k76342-d1e106">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> §. 8. Refutatio eorum quae objiciuntur.
+    </p>
+            <p xml:id="bt67yj-k76342-d1e113">
+               <lb ed="#P" n="139"/>RAtiones quibus nituntur opinantes Deo 
+      volen<lb ed="#P" n="140" break="no"/>te mala esse &amp; fieri, sunt apud Hugonem locis il 
+      <lb ed="#P" n="141"/>supra notatis, &amp; referuntur a Magistro. Sunt autem 
+      <lb ed="#P" n="142"/>hujusmodi.
+    </p>
+            <p xml:id="bt67yj-k76342-d1e124">
+      <!--0225.xml-->
+               <pb ed="#P" n="202"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Prima. Contradicunt haec duo, Deum velle &amp; 
+      <lb ed="#P" n="2"/>Deum nolle peccata fieri. Falsum est autem Deum 
+      <lb ed="#P" n="3"/>nolle peccata fieri. Neque enim invito omnipotente 
+      <lb ed="#P" n="4"/>Deo, vel unum peccatum fieri posset; verum est 
+      igi<lb ed="#P" n="5" break="no"/>tur Deo volente ea fieri. 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e145">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Secunda. Mala esse aut fieri bonum est; atqui 
+      vo<lb ed="#P" n="7" break="no"/>lente Deo fit omne bonum; ergo volente Deo fiunt 
+      <lb ed="#P" n="8"/>&amp; existunt mala. Quod autem bonum sit, esse &amp; fieri 
+      <lb ed="#P" n="9"/>mala, bifariam probant; tum quia mala conducunt 
+      <lb ed="#P" n="10"/>ad perfectionem &amp; decorem universi. Ad 
+      perfectio<lb ed="#P" n="11" break="no"/>nem quidem, quia multa bona deessent in 
+      univer<lb ed="#P" n="12" break="no"/>so si non essent mala, ut patientia martyrum, si 
+      <lb ed="#P" n="13"/>non esset persecutio tyrannorum: Ad decorem 
+      ve<lb ed="#P" n="14" break="no"/>ro, quia mala bonis juxta posita, magis ea 
+      commen<lb ed="#P" n="15" break="no"/>dant, ut testatur Augustinus ench. 10. &amp; 11. tum 
+      au<lb ed="#P" n="16" break="no"/>thoritate ejusdem Augustini qui cap. 96. plane ac 
+      <lb ed="#P" n="17"/>diserte asserit bonum esse, ut sint non solum bona 
+      <lb ed="#P" n="18"/>sed etiam mala. 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e178">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Tertia ratio: Nihil potest esse aut fieri, nisi Deus 
+      <lb ed="#P" n="20"/>velit illa esse aut fieri. Quod &amp; Augustinus ench. 95. 
+      <lb ed="#P" n="21"/>testatur ita concludens etiam de malis: Non ergo fit 
+      <lb ed="#P" n="22"/>aliquid nisi omnipotens fieri velit, igitur etiam mala 
+      <lb ed="#P" n="23"/>esse &amp; fieri. vult Deus. 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e194">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Quarta non Hugonis sed sophistarum, ut ait 
+      Ma<lb ed="#P" n="25" break="no"/>gister §. N. Omne verum a Deo est, esse &amp; fieri 
+      ma<lb ed="#P" n="26" break="no"/>la, verum est; ergo quod mala sunt &amp; fiunt, a Deo 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e205">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Postremo objicitur adhuc ex Augustino locus 
+      <lb ed="#P" n="28"/>ench. 100. ubidicit miro &amp; ineffabili modo non 
+      fie<lb ed="#P" n="29" break="no"/>ri praeter Dei voluntatem, quod fit contra ejus 
+      vo<lb ed="#P" n="30" break="no"/>luntatem, id est, peccatum. Quod autem non fit 
+      <lb ed="#P" n="31"/>praeter Dei voluntatem, fit Deo volente. 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e221">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Ad haec autem respondemus, ac primo quidem 
+      ad<lb ed="#P" n="33" break="no"/>primam rationem dictas propositiones non esse 
+      con<lb ed="#P" n="34" break="no"/>tradicentes, quia nolle, non negative sed positive 
+      ac<lb ed="#P" n="35" break="no"/>cipitur, ut nolle fieri sit velle non fieri. Dicimus 
+      ita<lb ed="#P" n="36" break="no"/>que peccata, neque volente, neque nolente, id est, 
+      <lb ed="#P" n="37"/>invito Deo fieri, sed permittente. Neque enim ea 
+      <lb ed="#P" n="38"/>vult fieri Deus, cui dicit psalmista, quoniam non Deus 
+      <lb ed="#P" n="39"/>volens iniquitatem tu es; neque vult non fieri, sic 
+      <lb ed="#P" n="40"/>enim non fierent, sed solummodo permittit, ita ut 
+      <lb ed="#P" n="41"/>voluntas Dei pro objectis habeat non ipsum 
+      pecca<lb ed="#P" n="42" break="no"/>tum, neque ejus esse aut fieri, sed tantum ejus 
+      per<lb ed="#P" n="43" break="no"/>missionem. Vult enim Deus permittere mala fieri, 
+      <lb ed="#P" n="44"/>inquit S. Thomas 1. quaest. 19. art. h. ad 3. De qua 
+      <lb ed="#P" n="45"/>re egimus ad dist. 40. 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e256">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Secundi argumenti neganda est propositio. Et ad 
+      <lb ed="#P" n="47"/>priorem ejus probationem respondendum mala per 
+      <lb ed="#P" n="48"/>se non pertinere ad ornatum &amp; perfectionem 
+      uni<lb ed="#P" n="49" break="no"/>versi, quemadmodum recte docet Dionysius cap. 3. 
+      <lb ed="#P" n="50"/>de div. nom. Non enim ornant neque perficiunt, sed 
+      <lb ed="#P" n="51"/>deformant &amp; depravant opificium Dei, si ipsa 
+      secun<lb ed="#P" n="52" break="no"/>dum se spectentur. Sunt enim ordinis ac boni 
+      priva<lb ed="#P" n="53" break="no"/>tiones. Per accidens vero duntaxat concedi potest, 
+      <lb ed="#P" n="54"/>ea facere ad universi perfectionem, quatenus ad ea 
+      <lb ed="#P" n="55"/>occasionaliter sequitur aliquod bonum quo 
+      perfici<lb ed="#P" n="56" break="no"/>tur universum, ut declarat S. Thomas super hanc 
+      <lb ed="#P" n="57"/>distinctionem quaest. 2. ad 3. Sequitur autem Deo 
+      <lb ed="#P" n="58"/>authore, qui novit etiam malis bene uti, &amp; bona 
+      <lb ed="#P" n="59"/>ex malis elicere. Quique ut ait Augustinus ench. II. 
+      <lb ed="#P" n="60"/>nullo modo sineret aliquid mali esse in operibus 
+      <lb ed="#P" n="61"/>suis, nisi usque adeo esset omnipotens &amp; bonus, ut 
+      <lb ed="#P" n="62"/>benefaceret etiam de malo. Propter quem usum 
+      ma<lb ed="#P" n="63" break="no"/>lorum idem Augustinus ench. 27. scribit Deum 
+      ju<lb ed="#P" n="64" break="no"/>dicasse melius de malis benefacere, quam mala 
+      nul<lb ed="#P" n="65" break="no"/>la esse permittere. Hic autem bonus malorum usus 
+      <lb ed="#P" n="66"/>si per se malis competeret, sequeretur ea 
+      simplici<lb ed="#P" n="67" break="no"/>ter hona esse. Cujusmodi enim usus proprius &amp; 
+      <lb ed="#P" n="68"/>per se bonus est, ipsum quoque simpliciter bonum 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e312">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Ad alteram probationem respondetur, 
+      Augusti<lb ed="#P" n="70" break="no"/>num non aliud velle quam quod bonum sit malum 
+      <lb ed="#P" n="71"/>permitti, ut patet ex verbis proxime sequentibus 
+      <lb ed="#P" n="72"/>quibus ait: Nam nisi esset hoc bonum, ut essent &amp; 
+      <!--0225.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>mala, nullo modo esse finerentur ab omnipotente 
+      <lb ed="#P" n="74"/>bono. 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e334">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Tertia ratio falsum assumit, si generaliter 
+      intelli<lb ed="#P" n="76" break="no"/>gatur comprehenso etiam malo. Nec suffragatur 
+      <lb ed="#P" n="77"/>Augustinus. Nam seipsum explicans ita subjungit: 
+      <lb ed="#P" n="78"/>Vel sinendo ut fiat, vel ipse faciendo, 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e347">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Ad quartum respondet Magister §. O. veritatem 
+      <lb ed="#P" n="80"/>hujus propositionis mala sinit, esse a Deo, &amp; proinde 
+      <lb ed="#P" n="81"/>bonum, licet res significata sit mala. Nam de rebus 
+      <lb ed="#P" n="82"/>malis sunt conceptus mentis veri &amp; boni. Quod ergo 
+      <lb ed="#P" n="83"/>sumebatur: Omne verum est a Deo, sic intellige in 
+      <lb ed="#P" n="84"/>quantum verum est, vel potius consequens expone, 
+      <lb ed="#P" n="85"/>mala esse a Deo est, in quantum verum est &amp; ens ali 
+      <lb ed="#P" n="86"/>quod. Pleniorem autem hujus argumenti 
+      explicatio<lb ed="#P" n="87" break="no"/>nem vide apud S. Thom. super hanc distinct. quaest. 
+      <lb ed="#P" n="88"/>2. ad 1. 
+    </p>
+            <p xml:id="bt67yj-k76342-d1e373">
+               <lb ed="#P" n="89"/>Postremum argumentum rursus ex ipso Augustino 
+      <lb ed="#P" n="90"/>solvitur. Subjungit enim haecveba: Quia non fieret 
+      <lb ed="#P" n="91"/>si non sineret, nec utique nolens sinit, sed volens. 
+      Lo<lb ed="#P" n="92" break="no"/>quitur ergo August. de voluntate respectu 
+      permis<lb ed="#P" n="93" break="no"/>sionis mali, non autem ipsius mali. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

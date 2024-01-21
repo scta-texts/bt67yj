@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="73"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k27147"><!-- l1d19c2" -->
+            <head xml:id="bt67yj-k27147-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k27147-Hd1e103" type="question-title">Quo sensu personarum unaquaeque in alia 
+      esse dicatur</head>
+            <p xml:id="bt67yj-k27147-d1e106">
+               <lb ed="#P" n="42"/>§. 2. Quo sensu personarum unaquaeque in alia 
+      <lb ed="#P" n="43"/>esse dicatur.
+    </p>
+            <p xml:id="bt67yj-k27147-d1e113">
+               <lb ed="#P" n="44"/>QUod ait Dominus ad Judaeos Joan. 10. Ut 
+      cogno<lb ed="#P" n="45" break="no"/>scatis &amp; credatis quia pater in me est, &amp; ego in 
+      <lb ed="#P" n="46"/>patre. Et ad Philippum c. 14. Non credis quia ego in 
+      pa<lb ed="#P" n="47" break="no"/>tre &amp; pater in me est? &amp; ad patrem c. 17. Sicut tu pater 
+      <lb ed="#P" n="48"/>in me, &amp; ego in te, prorsus similiter est intelligendum 
+      <lb ed="#P" n="49"/>de Spiritu sancto. Nam &amp; in ipso pater est &amp; filius, &amp; 
+      <lb ed="#P" n="50"/>ipse in utroque. Quam rem de omnibus personis 
+      si<lb ed="#P" n="51" break="no"/>gillatim enunciat Fulgentius de fide ad Petrum c. 1. 
+      <lb ed="#P" n="52"/>Sed qua ratione haec dicantur, explicandum. 
+    </p>
+            <p xml:id="bt67yj-k27147-d1e135">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Prima &amp; praecipua ratio est, unitas naturae in 
+      per<lb ed="#P" n="54" break="no"/>sonis distinctis. Utrumque enim haec inexistentia 
+      re<lb ed="#P" n="55" break="no"/>quirit, &amp; distinctionem personarum &amp; unitatem 
+      na<lb ed="#P" n="56" break="no"/>turae. Significatur ergo hujusmodi sermone ita 
+      per<lb ed="#P" n="57" break="no"/>sonas esse distinctas inter se, ut tamen unaquaeque 
+      <lb ed="#P" n="58"/>cum alia penitus, atque intime sit unum &amp; idem. 
+      <lb ed="#P" n="59"/>Quem sensum postulat circumstantia locorum, quos 
+      <lb ed="#P" n="60"/>citavimus ex Joanne. Quem eundem expresserunt. 
+      <lb ed="#P" n="61"/>Aug. lib. 6. de Trinit. cap. ult. Fulgentius de fide 
+      <lb ed="#P" n="62"/>ad Pet. &amp; Hilarius verbis a Magistro recitatis, nec 
+      <lb ed="#P" n="63"/>non Ambrosii titulo commentarius super 2. 
+      Co<lb ed="#P" n="64" break="no"/>rinth. 5. ad illud: Deus erat in Christo. Cujus 
+      ver<lb ed="#P" n="65" break="no"/>ba similiter habes apud Magistrum. His adde 
+      Cy<lb ed="#P" n="66" break="no"/>rillum scribentem super Joan. 14. &amp; alios in 
+      eun<lb ed="#P" n="67" break="no"/>dem locum. 
+      <lb ed="#P" n="68"/>Secunda ratio est ad significandum singularem 
+      <lb ed="#P" n="69"/>quendam modum orginis unius personae ex alia. 
+      <lb ed="#P" n="70"/>Non enim sic una persona ex alia procedit, ut foras 
+      <lb ed="#P" n="71"/>quasi prodeat, &amp; sejuncta existat ab ea unde proce¬ 
+      <!--0096.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>dit, quomodo procedit domus ab artifice, &amp; homo 
+      <lb ed="#P" n="73"/>filius ab homine patre, quae processio ad extra 
+      voca<lb ed="#P" n="74" break="no"/>tur: sed ita ut intime in ea maneat, a qua procedere 
+      <lb ed="#P" n="75"/>dicitur; quomodo verbum procedit a mente, &amp; a 
+      <lb ed="#P" n="76"/>mor a voluntate. Quanquam hoc exemplum de 
+      ver<lb ed="#P" n="77" break="no"/>bo &amp; amore non est omnino simile, quia verbum 
+      <lb ed="#P" n="78"/>non est coessentiale menti, nec amor voluntati, sed 
+      <lb ed="#P" n="79"/>inest utrumque in utroque, ut accidens in subjecto, 
+      <lb ed="#P" n="80"/>vel certe ut actus in suo principio potentiali, a quo 
+      <lb ed="#P" n="81"/>secundum rem diver sus est. Quod non ita est in 
+      pro<lb ed="#P" n="82" break="no"/>cessione divina. Quae proinde sola propriissime 
+      voca<lb ed="#P" n="83" break="no"/>tur processio ad intra, quia quod ibi procedit, non 
+      <lb ed="#P" n="84"/>est aliud ab eo a quo procedit, &amp; proinde manet 
+      <lb ed="#P" n="85"/>ei prorsus intimum. Atque hoc significasse videtur 
+      <lb ed="#P" n="86"/>Christus eodem loco apud Joan. 14. cum ait: Patet 
+      <lb ed="#P" n="87"/>in me manens ipse facit opera, quasi diceret. Ita 
+      pro<lb ed="#P" n="88" break="no"/>cedo a patre, ut tamen permaneat in me pater faciens 
+      <lb ed="#P" n="89"/>ea opera, quae videtis me facere. 
+    </p>
+            <p xml:id="bt67yj-k27147-d1e225">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Tertia accedit ratio ex sententia S. Thomae, ut 
+      si<lb ed="#P" n="91" break="no"/>gnificetur alteram personam in altera intelligi, 
+      id<lb ed="#P" n="92" break="no"/>que ex natura relatorum, quorum alterum sine 
+      alte<lb ed="#P" n="93" break="no"/>ro intelligi nequit. Verum hic sensus verbis Domini 
+      <lb ed="#P" n="94"/>minus congruere videtur. Non enim dubitatur 
+      u<lb ed="#P" n="95" break="no"/>trum Christus si filius esset, patrem haberet, quod 
+      <lb ed="#P" n="96"/>ex natura relatorum manifeste consequens est; scd 
+      <lb ed="#P" n="97"/>quis esset ejus pater, id est, cujus naturae &amp; 
+      digni<lb ed="#P" n="98" break="no"/>tatis seu conditionis. Item hic modus mutuae 
+      inexi<lb ed="#P" n="99" break="no"/>stentiae omnibus correlativis communis est. 
+    </p>
+            <p xml:id="bt67yj-k27147-d1e251">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Porro hanc reciprocam inexistentiam Graeci 
+      Theo<lb ed="#P" n="101" break="no"/>logi πεει χώρησιν appellant, Latini circum incessionem. 
+      <lb ed="#P" n="102"/>Cujus quidem, ut in aliis rebus quaedam exempla 
+      <lb ed="#P" n="103"/>possunt proferri (nam secundum dialecticos inest 
+      <lb ed="#P" n="104"/>species in genere, &amp; genus in specie, insunt etiam 
+      <lb ed="#P" n="105"/>sibi invicem, quaecumque se mutuo penetrant, sive 
+      <lb ed="#P" n="106"/>corpora supernaturaliter, sive accidentia, ut plura 
+      <lb ed="#P" n="107"/>lumina in eodem aere naturaliter) ita perfectio 
+      ab<lb ed="#P" n="108" break="no"/>soluta non reperitur nisi in divinis secundum 
+      pri<lb ed="#P" n="109" break="no"/>mam &amp; secundam rationem supra positas. Unde &amp; 
+      <lb ed="#P" n="110"/>illa perichoresis quam Joan. Damascenus lib. 3. de 
+      <lb ed="#P" n="111"/>Orth. fid. c. 5. 6. &amp; 7. &amp; lib. 4. c. 20. constituit 
+      <lb ed="#P" n="112"/>inter duas Christi naturas, divinam &amp; humanam, 
+      <lb ed="#P" n="113"/>quamvis fundata sit in unitate personae filii Dei, 
+      cu<lb ed="#P" n="114" break="no"/>jus ratione illae naturae seinvincem absque 
+      confusio<lb ed="#P" n="115" break="no"/>ne immeant, ut loquitur Damascenus, haud tamen 
+      <lb ed="#P" n="116"/>assequitur perfectionem perichoreseos attributae 
+      per<lb ed="#P" n="117" break="no"/>sonis divinis inter se, quia non est ibi 
+      consubstantia<lb ed="#P" n="118" break="no"/>litas. Sed nec illa quam Hilarius lib. 8. de Trinitate 
+      <lb ed="#P" n="119"/>constituit inter fideles &amp; carnem Christi, quam ita 
+      <lb ed="#P" n="120"/>fideles eucharistiae sumptione participant, ut &amp; ipsi 
+      <lb ed="#P" n="121"/>in Christo maneant &amp; Christus in ipsis, Joan. 6. 
+      di<lb ed="#P" n="122" break="no"/>ctam perfectionem attingit, quia licet fidcles per 
+      <lb ed="#P" n="123"/>hoc sacramentum substantialiter uniantur Christo, 
+      <lb ed="#P" n="124"/>Christusque nobis; ut Hilarius loquitur, insit 
+      car<lb ed="#P" n="125" break="no"/>naliter, nequaquam tamen tanta consurgit unitas 
+      <lb ed="#P" n="126"/>inter Christum hominem &amp; nos, quanta existit 
+      in<lb ed="#P" n="127" break="no"/>ter divinas personas, utpote quarum non specie 
+      <lb ed="#P" n="128"/>tantum, ut Christi &amp; nostra, sed numero &amp; 
+      qui<lb ed="#P" n="129" break="no"/>dem perfectissimo modo una est substantia.
+    </p>
+            <p xml:id="bt67yj-k27147-d1e321">
+               <lb ed="#P" n="130"/>Porro longius ab ea perfectione recedit 
+      inexisten<lb ed="#P" n="131" break="no"/>tia, quam mutuam inter Deum &amp; homines sanctos 
+      <lb ed="#P" n="132"/>scripturae statuunt, ut Joan. 17. dum videlicet id. 
+      <lb ed="#P" n="133"/>quod proprie &amp; perfectissime habet locum in 
+      di<lb ed="#P" n="134" break="no"/>vinis personis, secundum analogiam quandam 
+      trans<lb ed="#P" n="135" break="no"/>ferunt ad homines inter se vel ad Deum relatos, 
+      quo<lb ed="#P" n="136" break="no"/>modo etiam transferunt unum &amp; perfectum. Unde 
+      <lb ed="#P" n="137"/>ibidem dicitur, Ut sint unum sicut &amp; nos unum sumus. 
+      <lb ed="#P" n="138"/>Et 1. Corinth. 6. Qui adhaeret Domino unus spiritus 
+      <lb ed="#P" n="139"/>est. Et Math. 5. Estote perfecti sicut &amp; pater vester 
+      cae<lb ed="#P" n="140" break="no"/>lestis perfectus est. Quae quidem sententiae quomodo 
+      <lb ed="#P" n="141"/>sint accipiendae dictum est supra ad dist. 5. Est ergo 
+      <lb ed="#P" n="142"/>Deus in nobis, &amp; nos in Deo per conjunctionem 
+      <lb ed="#P" n="143"/>charitatis, pater autem in filio, &amp; filius in patre 
+      <lb ed="#P" n="144"/>per unitatem naturae.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="196"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k74321"><!-- l1d46c3" -->
+            <head xml:id="bt67yj-k74321-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k74321-Hd1e103" type="question-title">Quomodo voluntas antecedens salutis 
+        omnium in Deo sit</head>
+            <p xml:id="bt67yj-k74321-d1e106">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> §. 3. Quomodo voluntas antecedens salutis 
+      <lb ed="#P" n="105"/>omnium in Deo sit? 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e115">
+               <lb ed="#P" n="106"/>PRopter quaedam scripturae testimonia, quibus 
+      si<lb ed="#P" n="107" break="no"/>ignificari videtur, Deum velle omnium 
+      homi<lb ed="#P" n="108" break="no"/>num salutem, ut I. Tim. 2. 2. Pet. 3. Ezech. 18. &amp; alia, 
+      <lb ed="#P" n="109"/>de quibus infra; quaeritur utrum voluntas 
+      antece<lb ed="#P" n="110" break="no"/>dens, secundum quam dictum est supra, Deumu elle 
+      <lb ed="#P" n="111"/>salutem omnium hominum, sit in Deoformaliter &amp; 
+      <lb ed="#P" n="112"/>proprie, sicut voluntas consequens, id est, utrum 
+      <lb ed="#P" n="113"/>actus his verbis significatus: Vellem omnes homines 
+      <lb ed="#P" n="114"/>salvos fieri, sit in Deo proprie ac sine metaphora, 
+      <lb ed="#P" n="115"/>sicut est hic actus: Volo Petrum salvum esse, 
+      quomo<lb ed="#P" n="116" break="no"/>do mercator in periculo maris proprie habet 
+      utrum<lb ed="#P" n="117" break="no"/>que hunc actum, vellem servare mercedes meas, &amp; 
+      <lb ed="#P" n="118"/>volo eas projicere; An vero voluntas ejusmodi 
+      tan<lb ed="#P" n="119" break="no"/>tum improprie &amp; eminenter in Deo sit. Quod idem 
+      <lb ed="#P" n="120"/>quaeri potest de voluntate antecedente respectu 
+      alio<lb ed="#P" n="121" break="no"/>rum bonorum, quae etsi non absolute Deus velit, 
+      <lb ed="#P" n="122"/>proponuntur hominibus, ut ea per praeceptorum vel 
+      <lb ed="#P" n="123"/>praecipiuntur tamen aut consuluntur a Deo, aut ita 
+      <lb ed="#P" n="124"/>consiliorum observationem, aut sacramentorum 
+      sus<lb ed="#P" n="125" break="no"/>ceptionem possint adipisci, ut sunt remissio 
+      peccato<lb ed="#P" n="126" break="no"/>rum, gratia, justitia, virtutes. Nam &amp; haec bona 
+      <lb ed="#P" n="127"/>Deus antecedenter velle videtur omnibus, dum per 
+      <lb ed="#P" n="128"/>suam bonitatem media passim hominibus proponit 
+      <lb ed="#P" n="129"/>ad ea consequenda. Quaeritur ergo num &amp; horum 
+      <lb ed="#P" n="130"/>voluntas antecedens proprie sit in 
+      Deo<lb ed="#P" n="131" break="no"/>Quibusdam enim ita visum est, tum propter 
+      scriptu<lb ed="#P" n="132" break="no"/>ras, quae nisi voluntas seu velleitas ac desiderium 
+      hu<lb ed="#P" n="133" break="no"/>jusmodi formaliter &amp; proprie constituatur in Deo, 
+      <lb ed="#P" n="134"/>videbuntur magis esse simulatoriae locutiones quam 
+      <lb ed="#P" n="135"/>verae declarationes amoris atque affectionis divinae 
+      <lb ed="#P" n="136"/>erga genus humanum; tum quia Christus proprie 
+      ta<lb ed="#P" n="137" break="no"/>lem habuit voluntatem, qua vellet omnes salvos 
+      fie<lb ed="#P" n="138" break="no"/>ri, quare nec absurdum fuerit eam Deo tribuere. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e189">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Confirmant autem idipsum authoritate S. 
+      Tho<lb ed="#P" n="140" break="no"/>mae qui a. 6. ad I. dicit, Deum sic velle antecedenter 
+      <lb ed="#P" n="141"/>omnem hominem salvari, quomodo judex justus 
+      <lb ed="#P" n="142"/>antecedenter vult omnem hominem vivere. Cum 
+      <lb ed="#P" n="143"/>ergo judex hoc proprie velit, videtur etiam Deus 
+      <lb ed="#P" n="144"/>illud proprie velle.
+    </p>
+            <p xml:id="bt67yj-k74321-d1e208">
+      <!--0220.xml-->
+               <pb ed="#P" n="197"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Caeterum longe probabilius sentiunt qui negant 
+      <lb ed="#P" n="2"/>in Deo formaliter &amp; proprie esse voluntatem 
+      ante<lb ed="#P" n="3" break="no"/>cedentem, cui voluntas beneplaciti non respondeat, 
+      <lb ed="#P" n="4"/>id est, voluntatem velleitatis nomine significatam, 
+      <lb ed="#P" n="5"/>atque sufficere dicunt hujusmodi voluntatem 
+      emi<lb ed="#P" n="6" break="no"/>nenter sive per tropum in Deo constitui, quomodo 
+      <lb ed="#P" n="7"/>sunt in Deo ira, poenitentia, misericordia, &amp; 
+      quae<lb ed="#P" n="8" break="no"/>cunque bonae affectiones, quae ita in hominibus sunt, 
+      <lb ed="#P" n="9"/>ut imperfectionem aliquam includant velut 
+      muta<lb ed="#P" n="10" break="no"/>tionem, passionem, defectum, propter quas 
+      imper<lb ed="#P" n="11" break="no"/>fectiones necesse est vel per eminentiam causalitatis, 
+      <lb ed="#P" n="12"/>vel quocunque alio tropo sermonis Deo tribuantur. 
+      <lb ed="#P" n="13"/>Constat autem Deum in piorum cordibus operari 
+      <lb ed="#P" n="14"/>hunc affectum, ut omnes velint salvos. Est igitur 
+      hu<lb ed="#P" n="15" break="no"/>jusmodi affectus in Deo eminenter. Quod autem 
+      im<lb ed="#P" n="16" break="no"/>perfectionem illa voluntas includat, ideóque 
+      forma<lb ed="#P" n="17" break="no"/>liter in Deo esse non possit, primum arguit nomen 
+      <lb ed="#P" n="18"/>velleitatis. Hoc enim nomine S. Thomas loco quo 
+      <lb ed="#P" n="19"/>supra, voluntatem hanc potius appellandam censet. 
+      <lb ed="#P" n="20"/>Velleitas autem non aliud esse videtur quam 
+      imper<lb ed="#P" n="21" break="no"/>fecta quaedam &amp; suspensa voluntas. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e263">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Deinde quia voluntas haec significat desiderium 
+      ali<lb ed="#P" n="23" break="no"/>cujus rei inefficax, quale non potest esse in Deo. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e272">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Tertio, quia otiosa esset hujusmodi in Deo 
+      volun<lb ed="#P" n="25" break="no"/>tas, &amp; proinde frustra, quia nullum in rebus haberet 
+      <lb ed="#P" n="26"/>effectum proprie sibi respondentem. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e283">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Quarto, quia si respectu hominum sit in Deo talis 
+      <lb ed="#P" n="28"/>voluntas, erit etiam respectu angelorum, quod 
+      ta<lb ed="#P" n="29" break="no"/>men scripturae nusquam significant. Cujusmodi 
+      qui<lb ed="#P" n="30" break="no"/>dem non alia videtur ratio, quam quia per talem 
+      lo<lb ed="#P" n="31" break="no"/>quendi modum significatur non quid Deus proprie 
+      <lb ed="#P" n="32"/>velit, sed quid homines velle debeant, quidque pii 
+      <lb ed="#P" n="33"/>homines ipso operante velint, atqui pii non volunt, 
+      <lb ed="#P" n="34"/>uti nec velle debent, omnium angelorum salutem, 
+      <lb ed="#P" n="35"/>sed hominum tantum in hac vita degentium. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e307">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Quinto, quia nec Deus dicitur velle salutem 
+      ho<lb ed="#P" n="37" break="no"/>minum damnatorum, scilicet ob eandem rationem 
+      <lb ed="#P" n="38"/>quam modo diximus. Non enim hoc velle in pii 
+      <lb ed="#P" n="39"/>operatur. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e320">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Sexto, quia si formaliter illa voluntas sit in Deo, 
+      <lb ed="#P" n="41"/>erit perpetua, ac proinde Deus semper volet 
+      om<lb ed="#P" n="42" break="no"/>nium hominum salutem. Quod videtur absurdum, 
+      <lb ed="#P" n="43"/>cum nec pii quidem homines post hanc vitam hoc 
+      <lb ed="#P" n="44"/>sint volituri. Unde &amp; postremum oboritur 
+      argu<lb ed="#P" n="45" break="no"/>mentum, quia sancti Angeli &amp; justorum spiritus in 
+      <lb ed="#P" n="46"/>caelo non habent ejusmodi voluntatem propter status 
+      <lb ed="#P" n="47"/>sui perfectionem, qua etiam fit ut nec orent pro 
+      re<lb ed="#P" n="48" break="no"/>probis, nec ulla super damnatis commiseratione 
+      <lb ed="#P" n="49"/>moveantur, sed pure &amp; perfecte in eorum punitione 
+      <lb ed="#P" n="50"/>laudent Dei justitiam, ut in fine quarti docetur; 
+      <lb ed="#P" n="51"/>multo minus ergo in Deo debet poni formaliter 
+      hu<lb ed="#P" n="52" break="no"/>jusmodi voluntas. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e354">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Igitur ad argumenta diversae partis respondetur, 
+      <lb ed="#P" n="54"/>scripturas non aliud postulare quam ut voluntatem 
+      <lb ed="#P" n="55"/>salutis omnium in Deo ponamus eminenter, vel alio 
+      <lb ed="#P" n="56"/>quopiam improprio voluntatis modo, ut infra 
+      de<lb ed="#P" n="57" break="no"/>clarabitur. Neque propter hoc simulatorie loquitur 
+      <lb ed="#P" n="58"/>scriptura sed improprie. Quippe notissimum est 
+      scri<lb ed="#P" n="59" break="no"/>pturam plenam esse figuratis de Deo locutionibus, 
+      <lb ed="#P" n="60"/>dum poenitentiam, iram, aliasque humanas 
+      passio<lb ed="#P" n="61" break="no"/>nes &amp; humani corporis membra, humano loquendi 
+      <lb ed="#P" n="62"/>more illi tribuit. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e380">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Ad alterum respondetur, dato quod in Christo 
+      <lb ed="#P" n="64"/>fuerit ejusmodi velleitas, non esse consequens, quod 
+      <lb ed="#P" n="65"/>sit in Deo ut Deus est. Christus enim cum veritate 
+      <lb ed="#P" n="66"/>humanae naturae suscepit humanas affectiones. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e393">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Quod autem objicitur ex S. Th. minime probat. 
+      Fa<lb ed="#P" n="68" break="no"/>cit enim ille comparationem in generali ratione 
+      vo<lb ed="#P" n="69" break="no"/>luntatis antecedentis, non descendendo ad specialem 
+      <lb ed="#P" n="70"/>modum, quo hujusmodi voluntas a nobis intelligi 
+      <lb ed="#P" n="71"/>debeat in Deo. Non magis ergo hoc sequitur, quam 
+      <lb ed="#P" n="72"/>si inferres; ergo Deus vult mutabiliter aut cum 
+      passio<lb ed="#P" n="73" break="no"/>ne, quandoquidem homo judex ita vult. Nam &amp; 
+      hu<lb ed="#P" n="74" break="no"/>jusmodi similitudine utitur scriptura dicens: Sicut 
+      <!--0220.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>miseretur mater filiorum suorum, ita Deus miserebitur 
+      <lb ed="#P" n="76"/>vestri. Nec tamen misericordia proprie est in Deo, 
+      <lb ed="#P" n="77"/>sed eminenter tantum. 
+    </p>
+            <p xml:id="bt67yj-k74321-d1e426">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Ojicies: Deo proprium est misereri &amp; parcere ut 
+      <lb ed="#P" n="79"/>habet oratio ecclesiae, punire autem est opus alienum 
+      <lb ed="#P" n="80"/>a Deo, ut dicit propheta: Atqui velle omnes salvos 
+      fie<lb ed="#P" n="81" break="no"/>ri ad misericordiam &amp; bonitatem Dei pertinet; ergo 
+      <lb ed="#P" n="82"/>est proprie in Deo. Respondetur, orationem ecclesiae 
+      <lb ed="#P" n="83"/>loqui non de velleitate, sed de operibus misericordiae 
+      <lb ed="#P" n="84"/>&amp; clementiae divinae. Quae dicuntur esse propria Deo, 
+      <lb ed="#P" n="85"/>quia objectum voluntatis divinae est bonum verum. 
+      <lb ed="#P" n="86"/>nec aliud esse potest. Hoc autem magis elucet in 
+      ope<lb ed="#P" n="87" break="no"/>ribus misericordiae quam justitiae vindicativae. Haec 
+      <lb ed="#P" n="88"/>enim infert malum. Malum autem ut tale non est a 
+      <lb ed="#P" n="89"/>Deo volitum; sed tantum subratione cujusdam boni 
+      <lb ed="#P" n="90"/>ut justi. Ideóque hoc dicitur opus alienum a Deo, in 
+      <lb ed="#P" n="91"/>quantum scilicet versatur circa malum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 18</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 18</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="141"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k53525"><!-- l1d40c18" -->
+            <head xml:id="bt67yj-k53525-Hd1e101">Capitulum 18</head>
+            <head xml:id="bt67yj-k53525-Hd1e103" type="question-title">Ad ea quae dictis videntur adversa, responsio</head>
+            <p xml:id="bt67yj-k53525-d1e106">
+               <lb ed="#P" n="132"/>§. 18. Ad ea quae dictis videntur adversa, responsio. 
+    </p>
+            <p xml:id="bt67yj-k53525-d1e111">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> QUae adversus hanc doctrinam objici solent 
+      pe<lb ed="#P" n="134" break="no"/>tita ut plurimum ex certitudine atque 
+      infalli<lb ed="#P" n="135" break="no"/>bilitate providentiae divinae fere solvuntur, 
+      distin<lb ed="#P" n="136" break="no"/>ctione sensus compositi &amp; divisi, de qua supra. 
+      <lb ed="#P" n="137"/>Quod enim jam dictum est contra hereticos <name xml:id="bt67yj-k53525-Nd1e126">
+      Joan<lb ed="#P" n="138" break="no"/>nem Vvicleffum</name>, <name xml:id="bt67yj-k53525-Nd1e131">Joannem Calvinum</name> &amp; alios, 
+      prae<lb ed="#P" n="139" break="no"/>destinatum damnari &amp; reprobum salvari posse, sensu 
+      <!--0165.xml-->
+      <pb ed="#P" n="142"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>diviso accipiendum est; quo significetur hunc 
+      homi<lb ed="#P" n="2" break="no"/>nem (demonstrato aliquo praedestinato (damnari 
+      <lb ed="#P" n="3"/>posse &amp; illum hominem (demonstrato reprobo) 
+      sal<lb ed="#P" n="4" break="no"/>vari posse, id est, ut significetur has esse possibiles, 
+      <lb ed="#P" n="5"/>hic homo damnatur, ille homo salvatur. Nam sensu 
+      <lb ed="#P" n="6"/>composito nec praedestinatus damnari potest, nec 
+      re<lb ed="#P" n="7" break="no"/>probus salvari. Non enim possibiles sunt istae: 
+      prae<lb ed="#P" n="8" break="no"/>destinatus damnatur, reprobus salvatur. Cujus ratio 
+      <lb ed="#P" n="9"/>paulo post explicabitur.
+    </p>
+            <p xml:id="bt67yj-k53525-d1e162">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/>Hoc igitur composito sensu sunt accipienda patrum 
+      <lb ed="#P" n="11"/>dicta, quibus interdum negant praedestinatos posse 
+      <lb ed="#P" n="12"/>perire, aut reprobos posse salutem consequi, ut 
+      Augu<lb ed="#P" n="13" break="no"/>stinilib. 18. de civit. cap. 51. &amp; lib. de corr. &amp; gr. cap. 
+      <lb ed="#P" n="14"/>20. &amp; Fulgentii lib. de fide ad Pet. cap. 35. Sic Greg. 
+      <lb ed="#P" n="15"/>lib. 1. dial. cap. 8. Obtineri nequaquam possunt quae 
+      <lb ed="#P" n="16"/>praedestinata non fuerunt. <name xml:id="bt67yj-k53525-Nd1e181">Beda</name> in homilia dom. 
+      pal<lb ed="#P" n="17" break="no"/>marum: Quamvis, inquit, saevus sit persecutor &amp; 
+      <lb ed="#P" n="18"/>immanis, non potest eorum obsistere salvationi, quos 
+      no<lb ed="#P" n="19" break="no"/>vit Dominus, quia sunt ejus, quos ad vitam 
+      praeordina<lb ed="#P" n="20" break="no"/>vit aeternam. Et Bernardus serm. 3. super evangelio 
+      <lb ed="#P" n="21"/>Missus est: Non possunt perire pro quibus filius rogat ne 
+      <lb ed="#P" n="22"/>pareant. Quae omnia sensu composito vere esse non est 
+      <lb ed="#P" n="23"/>dubium. Quo sensu illud etiam dictum est a Sanct. 
+      <lb ed="#P" n="24"/>Job. 14. de vita hominis: Constituisti terminos ejus. 
+      <lb ed="#P" n="25"/>qui praeteriri non poterunt. Sicut enim stante Dei 
+      ordi<lb ed="#P" n="26" break="no"/>natione, dies constituti praeteriri non possunt; ita 
+      <lb ed="#P" n="27"/>stante Dei praedestinatione, qui praedestinatus est, 
+      <lb ed="#P" n="28"/>perire non potest. 
+    </p>
+            <p xml:id="bt67yj-k53525-d1e211">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Verum adhuc objiciet aliquis. Omne praeteritum 
+      <lb ed="#P" n="30"/>esse simpliciter necessarium, quia praeterita non 
+      am<lb ed="#P" n="31" break="no"/>plius subsunt potentiae divinae. Non enim facere 
+      po<lb ed="#P" n="32" break="no"/>test Deus, ut quod jam praeteritum est, non fuerit: 
+      <lb ed="#P" n="33"/>atqui ponimus hunc esse praedestinatum ab aeterno, 
+      <lb ed="#P" n="34"/>ergo praedestinatio ejus est simpliciter necessaria; 
+      <lb ed="#P" n="35"/>igitur &amp; salus ejusdem, quae ex praedestinatione 
+      ne<lb ed="#P" n="36" break="no"/>cessario consequitur. 
+    </p>
+            <p xml:id="bt67yj-k53525-d1e233">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Nec videtur ad hoc argumentum satis idonea 
+      res<lb ed="#P" n="38" break="no"/>ponsio, si dicas praedestinationem in Deo non transire 
+      <lb ed="#P" n="39"/>in praeteritum, sed semper esse praesentem in uno 
+      sta<lb ed="#P" n="40" break="no"/>bili nunc aeternitatis, ita ut in Deo sint eadem 
+      prae<lb ed="#P" n="41" break="no"/>destinasse, praedestinare &amp; praedestinaturum esse. 
+      <lb ed="#P" n="42"/>Quamvis enim proprie in Deo non sit praeteritum, est 
+      <lb ed="#P" n="43"/>tamen in hominibus quibus interdum sua Deus 
+      se<lb ed="#P" n="44" break="no"/>creta revelat, ac proinde saltem, si cui sua vel alterius 
+      <lb ed="#P" n="45"/>praedestinatio esset revelata, sicut Christo Domino 
+      <lb ed="#P" n="46"/>secundum naturam humanam omnium 
+      praedestina<lb ed="#P" n="47" break="no"/>tio jam inde ab initio suae conceptionis fuit 
+      cogni<lb ed="#P" n="48" break="no"/>ta, cum ad praeteritum non sit potentia, sequitur 
+      ve<lb ed="#P" n="49" break="no"/>ritatem consequentis salutis, tam esse necessariam, 
+      <lb ed="#P" n="50"/>quam praedictionis vel cognitionis antecedentis. 
+      <lb ed="#P" n="51"/>Itaque negandum est quod sumitur, omne 
+      praeteri<lb ed="#P" n="52" break="no"/>tum esse simpliciter necessarium. Non enim verbi 
+      <lb ed="#P" n="53"/>gratia, praevaricatio Adae, fratricidium Cain, 
+      prodi<lb ed="#P" n="54" break="no"/>tio Judae, quamvis praeterita sint, simpliciter 
+      neces<lb ed="#P" n="55" break="no"/>saria sunt, quin imo simpliciter jam non sunt. At 
+      ne<lb ed="#P" n="56" break="no"/>que quando erant, necessaria erant, sed 
+      contingen<lb ed="#P" n="57" break="no"/>tia. Sicut ergo quando fiebant, non necessario, sed 
+      <lb ed="#P" n="58"/>contingenter fiebant; ita dicendum nunc est ea 
+      <lb ed="#P" n="59"/>non necessario, sed contingenter facta seu 
+      praete<lb ed="#P" n="60" break="no"/>rita esse. Estque id necessario consequens, ut si quid 
+      <lb ed="#P" n="61"/>fiat contingenter, de eo postea dicamus, factum est 
+      <lb ed="#P" n="62"/>contingenter; tametsi postquam factum est, jam 
+      in<lb ed="#P" n="63" break="no"/>fectum fieri non possit, ne quidem virtute divina. Sed 
+      <lb ed="#P" n="64"/>hoc etiam in praesentibus locum habet, dum enim res 
+      <lb ed="#P" n="65"/>est, fieri nequit ut non sit, &amp; proinde necessario est. 
+      <lb ed="#P" n="66"/>Verum quod ita necessarium dicitur, non est 
+      necessa<lb ed="#P" n="67" break="no"/>rium simpliciter, sed tantum ex hypothesi, 
+      quemad<lb ed="#P" n="68" break="no"/>modum supra a nobis declaratum est ad dist. 38. in 
+      <lb ed="#P" n="69"/>solutione argumentorum, quae necessitatem 
+      even<lb ed="#P" n="70" break="no"/>tuum ex praescientia colligebant. 
+    </p>
+            <p xml:id="bt67yj-k53525-d1e311">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Sed iterum objicies. Falli non potest praedestinatio 
+      <lb ed="#P" n="72"/>&amp; reprobatio Dei: falleretur autem, si qui 
+      praedestina<lb ed="#P" n="73" break="no"/>tus est, periret, aut qui reprobatus non periret; quia 
+      <lb ed="#P" n="74"/>res aliter eveniret, quam praedestinando vel reproban 
+      <!--0165.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>do decretum esset. Respondeo, si quem 
+      praedestina<lb ed="#P" n="76" break="no"/>tum ponimus, periret, jam non esset praedestinatus, 
+      <lb ed="#P" n="77"/>quod quidem est possibile, &amp; ita non falleretur 
+      praede<lb ed="#P" n="78" break="no"/>stinatio Dei. Diximus enim hanc de praedestinato 
+      <lb ed="#P" n="79"/>possibilem esse, hic homo perit, hanc vero 
+      impossi<lb ed="#P" n="80" break="no"/>bilem, praedestinatus perit. Et de reprobato similiter. 
+      <lb ed="#P" n="81"/>Postremo dicet aliquis. Si quem sciremus esse 
+      re<lb ed="#P" n="82" break="no"/>probum, non liceret nobis pro ejus salute orare, non 
+      <lb ed="#P" n="83"/>ob aliud quam quia ex eadem revelatione sciremus 
+      <lb ed="#P" n="84"/>eum non posse salvari, sicut hoc scimus de 
+      daemoni<lb ed="#P" n="85" break="no"/>bus, pro quibus proinde orare non licet. Unde 
+      Augu<lb ed="#P" n="86" break="no"/>stinus lib. 21. de civit. cap. 24. Si, inquit, de 
+      aliqui<lb ed="#P" n="87" break="no"/>bus ecclesia certa esset in hac vita constitutis, quod 
+      prae<lb ed="#P" n="88" break="no"/>destinati sunt in aeternum ignem ire cum diabolo, tam pro 
+      <lb ed="#P" n="89"/>eis non oraret, quam nec pro ipso, sed quia de nullo 
+      <lb ed="#P" n="90"/>certa est, orat pro omnibus. Respondetur non eam esse 
+      <lb ed="#P" n="91"/>causam cur ecclesia pro iis non oraret, quia sciret eos 
+      <lb ed="#P" n="92"/>non esse salvandos, sed hanc esse tolleretur spes 
+      salu<lb ed="#P" n="93" break="no"/>tis eorum, qua sublata tollitur etiam oratio. Deinde 
+      <lb ed="#P" n="94"/>&amp; alia causa est cur orare pro iis omnino non liceret, 
+      <lb ed="#P" n="95"/>quia qui sic oraret, Deum vellet facere mendacem. 
+      <lb ed="#P" n="96"/>Cum enim in casu proposito dicat Deus, ille 
+      damna<lb ed="#P" n="97" break="no"/>bitur, iste orans dicit Deo: Effice ne damnetur, id 
+      <lb ed="#P" n="98"/>est, falsum sit quod praedixisti. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

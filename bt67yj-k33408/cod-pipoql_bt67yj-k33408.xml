@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="89"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k33408"><!-- l1d28c1" -->
+            <head xml:id="bt67yj-k33408-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-k33408-Hd1e103" type="question-title">Ingeniti nomen quare soli patri attributum</head>
+            <p xml:id="bt67yj-k33408-d1e106">
+      <!--0112.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="65"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="66"/>VICESIMAMOCTAVAM.
+      <lb ed="#P" n="67"/>§. 1. Ingeniti nomen quare soli patri attributum.
+    </p>
+            <p xml:id="bt67yj-k33408-d1e119">
+               <lb ed="#P" n="68"/>SOLUM patrem esse ingenitum <ref xml:id="bt67yj-k33408-Rd1e123">supra ostendimus
+      <lb ed="#P" n="69"/>ad dist. 13</ref>. Quamvis enim verum sit spiritum 
+      <lb ed="#P" n="70"/>Osanctum non esse genitum, atque adeo esse non 
+      <lb ed="#P" n="71"/>genitum. Quod ex contradicentium lege consequens 
+      <lb ed="#P" n="72"/>est; noluerunt tamen patres eum fateri esse 
+      ingeni<lb ed="#P" n="73" break="no"/>tum. Cujus hanc reddere possumus rationem. 
+      Quo<lb ed="#P" n="74" break="no"/>niam enim in rebus creatis nulla est naturalis unius 
+      <lb ed="#P" n="75"/>ex altero processio, nisi nativitas, fit ut negata 
+      nativi<lb ed="#P" n="76" break="no"/>tate, tollatur omnis processio naturalis. Unde factum 
+      <lb ed="#P" n="77"/>ut in rebus divinis, quibus necessario tribuimus 
+      vo<lb ed="#P" n="78" break="no"/>cabula ab humanis rebus, tanquam notioribus 
+      acce<lb ed="#P" n="79" break="no"/>pta, ingenitum dicatur; non solum quod nativitate 
+      <lb ed="#P" n="80"/>non procedit ab altero, sed quod non procedit 
+      om<lb ed="#P" n="81" break="no"/>nino: Hoc autem in divinis soli patri convenit: Est 
+      <lb ed="#P" n="82"/>ergo ingenitum sive innascibile, ut S. Hilarius passim 
+      <lb ed="#P" n="83"/>loquitur, sive innatum, ut Prudentius in Apotheosi 
+      <lb ed="#P" n="84"/>contra Patripassianos, sive esse sine principio, ut 
+      <lb ed="#P" n="85"/>Basilius lib. 2. contra Eunomium, notio &amp; 
+      proprie<lb ed="#P" n="86" break="no"/>tas patris, ut dictum est ad superiorem distinctionem. 
+      <lb ed="#P" n="87"/>Nam &amp; Hilarius lib. 12. de trinit. sub finem, solum 
+      <lb ed="#P" n="88"/>patrem esse dicit innascibilem, &amp; lib. 4. non procul a 
+      <lb ed="#P" n="89"/>fine, innascibilitatem vocat patris proprietatem. Esse 
+      <lb ed="#P" n="90"/>autem hanc patris notionem diversam ab ea qua 
+      dici<lb ed="#P" n="91" break="no"/>tur pater, diserte docet Augustinus lib. 5. de trinit. 
+      <lb ed="#P" n="92"/>cap. 6. &amp; verbis in textu a Magistro recitatis. Quod 
+      <lb ed="#P" n="93"/>&amp; ratione confirmatur. Consistit enim ratio 
+      paterni<lb ed="#P" n="94" break="no"/>tatis absque ratione ingeniti&amp; contra, ut clare probat 
+      <lb ed="#P" n="95"/>eodem loco Augustinus. Nam qui apud nos Patres 
+      <lb ed="#P" n="96"/>sunt, etiam ipsi geniti sunt ex suis parentibus, &amp; si in 
+      <lb ed="#P" n="97"/>divinis non esset trinitas personarum, esset Deus 
+      in<lb ed="#P" n="98" break="no"/>genitus, non autem pater. 
+    </p>
+            <p xml:id="bt67yj-k33408-d1e192">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Sed objicies eundem Augustinum ibidem c. 6. ita 
+      <lb ed="#P" n="100"/>scribentem. Cum ingenitus dicitur pater, non quid 
+      <lb ed="#P" n="101"/>sit; sed quid non sit, dicitur &amp; c. 7. Si dicatur non 
+      <lb ed="#P" n="102"/>genitus, pro eo quod dicitur ingenitus, nihil aliud 
+      <lb ed="#P" n="103"/>dicitur. Et infra. Ingenitus quid est nisi non genitus? 
+      <lb ed="#P" n="104"/>Cum ergo spiritus sanctus sit non genitus, consequens 
+      <lb ed="#P" n="105"/>videri eum ex Augustini sententia ingenitum esse. 
+      <lb ed="#P" n="106"/>Respondetur Augustino quidem non aliud esse 
+      inge<lb ed="#P" n="107" break="no"/>nitum quam non genitum; sed cum dicit non 
+      geni<lb ed="#P" n="108" break="no"/>tum, eo complexo vocabulo, non solam removet 
+      na<lb ed="#P" n="109" break="no"/>tivitatem, sed omnem naturalem processionem, 
+      se<lb ed="#P" n="110" break="no"/>cundum ea quae jam dicta sunt. Hoc igitur sensu non 
+      <lb ed="#P" n="111"/>est concedendum spiritum sanctum esse non 
+      geni<lb ed="#P" n="112" break="no"/>tum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

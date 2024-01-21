@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="184"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k69705"><!-- l1d43c1" -->
+            <head xml:id="bt67yj-k69705-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k69705-Hd1e103" type="question-title">Deum posse facere quae non facit</head>
+            <p xml:id="bt67yj-k69705-d1e106">
+               <lb ed="#P" n="61"/>IN DISTINCTIONEM, 
+      <lb ed="#P" n="62"/>QUADRACESIMAMTERTIAM. 
+      <lb ed="#P" n="63"/>§. 1. Deum posse facere quae non facit. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e115">
+               <lb ed="#P" n="64"/>OMnipotentiae divinae quam plurimum 
+      de<lb ed="#P" n="65" break="no"/>trahunt, imo simpliciter eam tollunt, qui 
+      <lb ed="#P" n="66"/>docent Deum non alia facere posse, quam 
+      <lb ed="#P" n="67"/>quae facit, nec omittere posse quae facit. Hoc olim 
+      <lb ed="#P" n="68"/>
+               <name xml:id="bt67yj-k69705-Nd1e128">Petrus Aballardus</name> &amp; <name xml:id="bt67yj-k69705-Nd1e130">Joannes Wiclef</name>, hoc au¬ 
+      <!--0207.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>tem seculo <name xml:id="bt67yj-k69705-Nd1e138">Bucerus</name> &amp; <name xml:id="bt67yj-k69705-Nd1e141">Calvinus</name> docuerunt. Qui 
+      <lb ed="#P" n="70"/>tamen ne Deum negare videantur 
+      omnipoten<lb ed="#P" n="71" break="no"/>tem, dicunt ad hoc ut omnipotens dicatur, 
+      suf<lb ed="#P" n="72" break="no"/>ficere quod facere possit &amp; faciat quaecunque 
+      <lb ed="#P" n="73"/>vult. Atque hoc de Deo se libenter secundum 
+      scri<lb ed="#P" n="74" break="no"/>pturas confiteri. Caeterum illius sui dogmatis non 
+      <lb ed="#P" n="75"/>eandem rationem omnes afferunt. Alii enim ut 
+      <lb ed="#P" n="76"/>
+               <name xml:id="bt67yj-k69705-Nd1e158">Abailardus</name> &amp; <name xml:id="bt67yj-k69705-Nd1e160">Wicleffus</name> hoc nituntur 
+      fundamen<lb ed="#P" n="77" break="no"/>to; quod Deus agat necessitate naturae, non 
+      libe<lb ed="#P" n="78" break="no"/>ra voluntate. Alii, quod agat necessitate justitiae &amp; 
+      <lb ed="#P" n="79"/>sapientiae suae, ut quae non patiantur res vel alias vel 
+      <lb ed="#P" n="80"/>alio ordine fieri, quam prout nunc institutum 
+      vide<lb ed="#P" n="81" break="no"/>mus. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e174">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Sed hunc errorem tanquam manifestam haeresim 
+      <lb ed="#P" n="83"/>damnat Catholica fides, quae &amp; summam in Deo 
+      <lb ed="#P" n="84"/>agendi libertatem agnoscit, &amp; confitetur sapientiae 
+      <lb ed="#P" n="85"/>divinae nec finem esse nec numerum Psal. 146. ita ut 
+      <lb ed="#P" n="86"/>possit Deus eam infinitis aliis modis declarare, sive 
+      <lb ed="#P" n="87"/>opera justitiae attendas, sive misericordiae. Haec ergo 
+      <lb ed="#P" n="88"/>duo, nempe libertas voluntatis divinae &amp; infinitudo 
+      <lb ed="#P" n="89"/>sapientiae ejus, prorsus &amp; evidenter convincunt &amp; 
+      <lb ed="#P" n="90"/>posse Deum multa facere, quae non facit, &amp; ea quae 
+      <lb ed="#P" n="91"/>facit, omittere. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e201">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Tertio, Non minus convincit infinita Dei 
+      poten<lb ed="#P" n="93" break="no"/>tentia, quae nulla rerum productarum multitudine 
+      <lb ed="#P" n="94"/>aut varietate exhauriri potest, cum non tantum 
+      sin<lb ed="#P" n="95" break="no"/>gulae creaturae, verum &amp; omnes simul finitae sint, 
+      <lb ed="#P" n="96"/>ideóque virtutem infinitam adaequare nequeant. 
+      Un<lb ed="#P" n="97" break="no"/>de relinquitur ut post quantamcunque rerum 
+      produ<lb ed="#P" n="98" break="no"/>ctam multitudinem ac varietatem res adhuc aliae 
+      at<lb ed="#P" n="99" break="no"/>que adeo novae rerum perfectiones ab illa virtute pro 
+      <lb ed="#P" n="100"/>cedere possint. Sic enim superius dictum est, 
+      poten<lb ed="#P" n="101" break="no"/>tiam Dei probari infinitam. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e227">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Quarto, Si Deus facere non potest, nisi quae facit, 
+      <lb ed="#P" n="103"/>tollitur gratia Dei. Non enim locum habere potest 
+      <lb ed="#P" n="104"/>gratia, ubi est necessitas absoluta, velut in divina 
+      <lb ed="#P" n="105"/>generatione filii. Porro sublata gratia tolluntur 
+      om<lb ed="#P" n="106" break="no"/>nes nostrae orationes &amp; gratiarum actiones, quippe 
+      <lb ed="#P" n="107"/>quae sunt gratiae testificationes. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e245">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Quinto, Si Deus non potest facere, nisi quae facit; 
+      <lb ed="#P" n="109"/>ergo non potest plures nec alios convertere, 
+      justi<lb ed="#P" n="110" break="no"/>ficare, salvare, quam qui convertuntur, 
+      justifican<lb ed="#P" n="111" break="no"/>tur, salvantur. Nec igitur potuit Judam 
+      praedesti<lb ed="#P" n="112" break="no"/>nare, nec Adamum a transgressione, nec 
+      Davi<lb ed="#P" n="113" break="no"/>dem ab adulterio, nec Petrum a trina negatione 
+      prae<lb ed="#P" n="114" break="no"/>servare, nec Pharaonis cor emollire. Item ergo non 
+      <lb ed="#P" n="115"/>potest hodie sistere solem, sicut in diebus Josue, nec 
+      <lb ed="#P" n="116"/>obscurare diem, sicut in passione Domini, nec 
+      tem<lb ed="#P" n="117" break="no"/>pestatem excitare, sicut in diebus Samuelis, &amp; alia 
+      <lb ed="#P" n="118"/>nujusmodi innumera. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e274">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Sexto, Si Deus agit necessitate; ergo &amp; homines 
+      <lb ed="#P" n="120"/>quaecunque agunt, necessitate agunt. Quare si Deus 
+      <lb ed="#P" n="121"/>non potest aliud agere quam quod agit; multo minus 
+      <lb ed="#P" n="122"/>homines poterunt; tum quia libertas agendi cum sit 
+      <lb ed="#P" n="123"/>perfectio, non potest creaturae competere, si non 
+      <lb ed="#P" n="124"/>primum competat Deo; tum quia omnes effectus 
+      in<lb ed="#P" n="125" break="no"/>feriorum causarum procedunt a prima causa, quae si 
+      <lb ed="#P" n="126"/>non potest alios producere; nec igitur secunda causa, 
+      <lb ed="#P" n="127"/>ut homo alios effectus producere, id est, aliud quam 
+      <lb ed="#P" n="128"/>quod agit, agere poterit. Quo dato jam tollentur in 
+      <lb ed="#P" n="129"/>agere dicas; quia ex utralibet necessitate eadem 
+      ab<lb ed="#P" n="130" break="no"/>universum consilia, deliberationes, exhortationes, 
+      <lb ed="#P" n="131"/>praecepta, minae, promissa, poenae, praemia. Neque 
+      <lb ed="#P" n="132"/>refert, sive naturae, sive sapientiae necessitate Deum 
+      <lb ed="#P" n="133"/>surda consequuntur. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e311">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Septimo, Si. ideo tantum omnipotens est Deus, 
+      <lb ed="#P" n="135"/>quia potest omnia quae vult, non autem quia &amp; 
+      <lb ed="#P" n="136"/>alia velle &amp; facere potest; erunt hac ratione omnes 
+      <lb ed="#P" n="137"/>beati omnipotentes. Possunt enim omnia quae 
+      vo<lb ed="#P" n="138" break="no"/>lunt, cum nihil velint inordinatum aut impossibile, 
+      <lb ed="#P" n="139"/>videlicet suam voluntatem conformantes voluntati 
+      <lb ed="#P" n="140"/>Dei. Quod quidem &amp; primo homini competebat 
+      <lb ed="#P" n="141"/>in statu innocentiae, teste Augustino libro 14. de 
+      ci<lb ed="#P" n="142" break="no"/>vit. cap. 26.
+    </p>
+            <p xml:id="bt67yj-k69705-d1e335">
+      <!--0208.xml-->
+               <pb ed="#P" n="185"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Praeterea scripturae quoque huic dogmati 
+      manife<lb ed="#P" n="2" break="no"/>ste contradicunt. Ait enim Dominus Matt. 26. An 
+      <lb ed="#P" n="3"/>putas quia non possum rogarepatrem &amp; exhibebit mihi 
+      <lb ed="#P" n="4"/>modo plusquam 12. legiones angelorum? Poterat ergo 
+      <lb ed="#P" n="5"/>Christus rogare, poterat &amp; pater exhibere. Quorum 
+      <lb ed="#P" n="6"/>tamen neutrum factum est. Et cap. 19. Facilius est, 
+      <lb ed="#P" n="7"/>inquit, camelum intrare per foramen acus, &amp;c. ubi 
+      <lb ed="#P" n="8"/>adj cit hanc sententiam. Apud Deum omnia 
+      possibi<lb ed="#P" n="9" break="no"/>lia sunt, videlicet sub ea comprehendens exemplum 
+      <lb ed="#P" n="10"/>propositum. Nec hoc tamen usquam factum legitur, 
+      <lb ed="#P" n="11"/>uti nec illud quod dicit cap. 3. posse Deum de lapide 
+      <lb ed="#P" n="12"/>suscitare filios Abrahae. Similiter ad eandem 
+      senten<lb ed="#P" n="13" break="no"/>tiam cum in horto oraret, a se repetitam, refert 
+      Do<lb ed="#P" n="14" break="no"/>minus oblationem calicis, id est, passionis Marci 14. 
+      <lb ed="#P" n="15"/>Nec tamen ablatus est ab eo calix, scilicet patre 
+      vo<lb ed="#P" n="16" break="no"/>lente ut eum biberet. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e380">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Idem ex scriptura veteris testamenti ostenditur. 
+      <lb ed="#P" n="18"/>Nam Sap. 11. &amp; 12: multis modis dicitur Deus 
+      po<lb ed="#P" n="19" break="no"/>tuisse affligere Aegyptios &amp; exterminare gentes, quae 
+      <lb ed="#P" n="20"/>incolebant terram promissionis, quibus tamen id 
+      fa<lb ed="#P" n="21" break="no"/>cero noluit. Et Isa. 59. Non est, inquit, abbreviata 
+      <lb ed="#P" n="22"/>manus Domini ut salvare nequeat, sed iniquitates 
+      ve<lb ed="#P" n="23" break="no"/>strae diviserunt inter vos &amp; Deum vestrum, quasi 
+      di<lb ed="#P" n="24" break="no"/>cat, ille potest salvare, sed propter iniquitates 
+      ve<lb ed="#P" n="25" break="no"/>stras non vult. Sic Dan. 3. dixisse legis tres pueros ad 
+      <lb ed="#P" n="26"/>regem: Deus noster potest nos eripere de camino ignis 
+      <lb ed="#P" n="27"/>&amp; de manibus tuis liberare. Quod si noluerit, notum 
+      <lb ed="#P" n="28"/>sit tibi, &amp;c. Nimirum haec dicunt, ut certi de 
+      po<lb ed="#P" n="29" break="no"/>tentia, incerti de voluntate &amp; effectu, sicut &amp; ille 
+      le<lb ed="#P" n="30" break="no"/>prosus evangelicus dicens: Si vis, potes me 
+      munda<lb ed="#P" n="31" break="no"/>re, Matt. 8. Unde &amp; proximo capite dicit Dominus 
+      <lb ed="#P" n="32"/>ad quosdam. Creditis quia hoc possum facere vobis? 
+      <lb ed="#P" n="33"/>Non ait: quia facturum sum. Nam illud quidem 
+      cre<lb ed="#P" n="34" break="no"/>dere debebant, non autem istud. Nec dissimile 
+      exem<lb ed="#P" n="35" break="no"/>plum est in Juda Machabaeo dicente 2. Mach. 8. 
+      <lb ed="#P" n="36"/>Nos autem in omnipotente Domino, qui potest &amp; 
+      ve<lb ed="#P" n="37" break="no"/>nientes adversam nos &amp; universum mundum uno nutu 
+      <lb ed="#P" n="38"/>delere, confidimus. Hoc certe quod dicit Deum posse 
+      <lb ed="#P" n="39"/>universum mundum uno nutu delere, nunquam 
+      <lb ed="#P" n="40"/>fiet, &amp; tamen ab illo possibile praedicatur. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e437">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Rursum. Si non potest Deus nisi quae facit, non 
+      er<lb ed="#P" n="42" break="no"/>go dubitando peccabant, qui dicebant: Nunquid &amp; 
+      <lb ed="#P" n="43"/>panem poterit dare, aut parare mensam populo suo? Ps. 
+      <lb ed="#P" n="44"/>77. Nam de facto dubitare poterant. Ac rursum. Si 
+      <lb ed="#P" n="45"/>solum ea potest quae facit, non potuit ergo Christus 
+      <lb ed="#P" n="46"/>signum dare de coelo scribis petentibus, quia id non 
+      <lb ed="#P" n="47"/>fecit, nec potuit seipsum servare a morte, nec 
+      descen<lb ed="#P" n="48" break="no"/>dere de cruce, nec potuit eum pater liberare. Et verae 
+      <lb ed="#P" n="49"/>erunt blasphemae Judaeorum voces, quibus ei 
+      impo<lb ed="#P" n="50" break="no"/>tentiam harum rerum improperarunt, inter alia 
+      di<lb ed="#P" n="51" break="no"/>centes: Alios salvos fecit, seipsum non potest salvum 
+      <lb ed="#P" n="52"/>facere. Vera quoque erit suspicio dicentium Joan. I1. 
+      <lb ed="#P" n="53"/>Non poterat hic qui aperuit oculos coeci nati, facere ut 
+      <lb ed="#P" n="54"/>hic non moreretur? Nec culpanda erit infirmitas fidei 
+      <lb ed="#P" n="55"/>in eo qui dicebat: Si quid potes, adjuva nos, Marci 9. 
+      <lb ed="#P" n="56"/>Quae omnia quam sint absurda, facile cuivis est 
+      intel<lb ed="#P" n="57" break="no"/>ligere. Haec eadem constans est &amp; certa patrum 
+      do<lb ed="#P" n="58" break="no"/>ctrina. Quorum haec loca duntaxat annotabimus. 
+    </p>
+            <p xml:id="bt67yj-k69705-d1e481">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Cyprianus lib. 4. epistola 1. ad confessores: 
+      Gre<lb ed="#P" n="60" break="no"/>gorius Nazianzenus epistola 1. ad Chelidonium &amp; 
+      <lb ed="#P" n="61"/>oratione 4. de Theologia. Ambrosius in Lucam ad 
+      <lb ed="#P" n="62"/>illud cap. 3. potens est Deus de lap. &amp;c. 
+      Chrysosto<lb ed="#P" n="63" break="no"/>mus in Matth. 3. ad eadem verba. Hieronymus in 
+      <lb ed="#P" n="64"/>eundem Matthaei locum &amp; in cap. 26. ad illud de 
+      <lb ed="#P" n="65"/>duodecim legionibus. August. lib. de spiritu &amp; lit. 
+      <lb ed="#P" n="66"/>cap. 1. &amp; 34. ubi exemplis aliquot ostendit multa esse 
+      <lb ed="#P" n="67"/>Deo possibilia, quae nunquam fiunt. Item lib. 3. de 
+      li<lb ed="#P" n="68" break="no"/>bero arbit. cap. 9. lib. 9. de gen. ad lit. cap. 17. &amp; 18. 
+      <lb ed="#P" n="69"/>lib. de fide contra Man. cap. 30. lib. 3. de cons. ench. 
+      <lb ed="#P" n="70"/>cap. 25. lib. 13. de trinit. cap. 10. lib. 13. de civit. cap. 18. 
+      <lb ed="#P" n="71"/>ench. 95. libro de nat. &amp; gr. cap. 7. &amp; de dono pers. 
+      <lb ed="#P" n="72"/>c. 8: &amp; 9. Cyrillus lib. 8. contra Jul. sub finem. Leo 
+      <lb ed="#P" n="73"/>serm. 14. de passione Domini. Gregorius lib. 20. mor. 
+      <lb ed="#P" n="74"/>cap. 26. Et post hos omnes Bernardus in ep. 190. qua 
+      <!--0208.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="76"/>disserit contra errores <name xml:id="bt67yj-k69705-Nd1e530">Abailardi</name>, ac denique <name xml:id="bt67yj-k69705-Nd1e532">Thomas 
+      <lb ed="#P" n="77"/>Vvaldensis</name> in doctrinali fidei a cap. 10. usque ad 19. 
+      <lb ed="#P" n="78"/>contra <name xml:id="bt67yj-k69705-Nd1e540">Vvicleffum</name> disputans. Quibus consentiunt 
+      <lb ed="#P" n="79"/>omnes Scholastici. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

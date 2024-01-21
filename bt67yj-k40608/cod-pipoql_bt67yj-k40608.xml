@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="108"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k40608"><!-- l1d38c2" -->
+            <head xml:id="bt67yj-k40608-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k40608-Hd1e103" type="question-title">An res cognitae sint causa scientiae Dei</head>
+            <p xml:id="bt67yj-k40608-d1e106">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> §. 2. An res cognitae sint causa scientiae Dei.
+    </p>
+            <p xml:id="bt67yj-k40608-d1e113">
+               <lb ed="#P" n="90"/>ALtera quaestio est, an e diverso dici possit res, 
+      <lb ed="#P" n="91"/>cognitas esse causam scientiae divinae. Id 
+      mani<lb ed="#P" n="92" break="no"/>feste consequens videtur ex verbis Origenis, 
+      Hiero<lb ed="#P" n="93" break="no"/>nymi &amp; aliorum superius indicatis, quibus affirmant 
+      <lb ed="#P" n="94"/>ideo praesciri aliquid a Deo, quia futurum est. 
+    </p>
+            <p xml:id="bt67yj-k40608-d1e126">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> At nihilominus absolute respondetur, res cognitas 
+      <lb ed="#P" n="96"/>non esse causam scientiae Dei, sicuti nec res futuras 
+      <lb ed="#P" n="97"/>praescientiae. Ratio est, quia cum scientia ac 
+      praescien<lb ed="#P" n="98" break="no"/>tia Dei sint ipsa Dei essentia, cujus nullam est dare 
+      <lb ed="#P" n="99"/>causam, fieri nequit, ut illarum aliqua sit causa. Sed 
+      <lb ed="#P" n="100"/>neque id quod est tempore posterius, potest esse 
+      effi<lb ed="#P" n="101" break="no"/>ciens causa ejus quod tempore praecessit, praesertim 
+      <lb ed="#P" n="102"/>si fuerit ab aeterno. Qua ratione etiam Boetius lib. 5. 
+      <lb ed="#P" n="103"/>consol. philosop. prosa tertia praeposterum esse 
+      do<lb ed="#P" n="104" break="no"/>cet, ut aeternae prescientiae, temporalium rerum 
+      <lb ed="#P" n="105"/>eventus causa esse dicantur. 
+    </p>
+            <p xml:id="bt67yj-k40608-d1e156">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Ad id quod ex Origene &amp; Hieronymo 
+      profereba<lb ed="#P" n="107" break="no"/>tur, respondet Hugo loco supra citato verbis illis non 
+      <lb ed="#P" n="108"/>significari causam, nisi eam quae dicitur sine qua non. 
+      <lb ed="#P" n="109"/>Eadem est Magistri responsio in textu. Quam 
+      utrius<lb ed="#P" n="110" break="no"/>que solutionem S. Thom. in expositione textus 
+      Ma<lb ed="#P" n="111" break="no"/>gistri &amp; prima quaestione decimaquarta, articulo 
+      <lb ed="#P" n="112"/>octavo, ad primum, ita videtur interpretari, ut 
+      tan<lb ed="#P" n="113" break="no"/>tum intelligatur causa consequentiae, non autem 
+      <lb ed="#P" n="114"/>causa essendi. Sequitur enim, inquit, si aliqua sunt 
+      <lb ed="#P" n="115"/>futura, quod Deus ea praescierit, non tamen res 
+      futu<lb ed="#P" n="116" break="no"/>rae sunt causa quod Deus sciat. 
+    </p>
+            <p xml:id="bt67yj-k40608-d1e185">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Verum haec solutio minus quadrat. Si enim 
+      <lb ed="#P" n="118"/>ita generaliter accipias causam sine qua non, ut 
+      <lb ed="#P" n="119"/>isti accepisse videntur, jam etiam contra dicere 
+      li<lb ed="#P" n="120" break="no"/>cebit, ideo futurum esse aliquid, quia praescitur, 
+      <lb ed="#P" n="121"/>cum &amp; haec necessaria sit sequela: Si praescitur, 
+      <lb ed="#P" n="122"/>futurum est. Hoc autem authores illi in verbis 
+      <lb ed="#P" n="123"/>objectis diserte negant, dicentes non ideo 
+      futu<lb ed="#P" n="124" break="no"/>rum esse aliquid, quia Deus praeviderit id 
+      futu<lb ed="#P" n="125" break="no"/>rum. Proinde respondendum juxta ea quae supra 
+      <lb ed="#P" n="126"/>dicta sunt ad distinctionem tricesimamquintam in 
+      <lb ed="#P" n="127"/>fine. Quod si in nomine praescientiae spectemus 
+      <lb ed="#P" n="128"/>solam relationem ad res praecognitas, recte dici 
+      <lb ed="#P" n="129"/>res futuras illius esse causam. Sicut enim si nihil 
+      <lb ed="#P" n="130"/>esset futurum, nulla esset Dei praescientia, 
+      ma<lb ed="#P" n="131" break="no"/>nente tamen ejus essentia; ita nihil vetat, quo 
+      mi<lb ed="#P" n="132" break="no"/>nus id quod futurum est hoc pacto, causa 
+      dica<lb ed="#P" n="133" break="no"/>tur praescientiae divinae, quomodo &amp; in 
+      pecca<lb ed="#P" n="134" break="no"/>tis hominum recte ponitur causa odii, irae ac 
+      vin<lb ed="#P" n="135" break="no"/>dictae divinae. Neque hinc consequens est, rem 
+      <lb ed="#P" n="136"/>creatam esse causa rei increatae, scilicet essentiae 
+      <lb ed="#P" n="137"/>divinae; quia relatio quae in talibus vocabulis 
+      in<lb ed="#P" n="138" break="no"/>cluditur, tantummodo rationis est, atque 
+      essen<lb ed="#P" n="139" break="no"/>tiae divinae nostra consideratione duntaxat 
+      affi<lb ed="#P" n="140" break="no"/>gitur. Unde nec proprii nominis causa in 
+      hujus<lb ed="#P" n="141" break="no"/>modi sermone significari potest. Neque tamen 
+      <!--0132.xml-->
+      <pb ed="#P" n="109"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>similiter recte dixeris: Quia res futura est, ideo vult 
+      <lb ed="#P" n="2"/>eam Deus facere: cum enim etiam in rebus creatis 
+      <lb ed="#P" n="3"/>voluntas opificis sit efficiens causa rei, non contra 
+      <lb ed="#P" n="4"/>multo sane minus dici poterit res futura causa 
+      vo<lb ed="#P" n="5" break="no"/>suntatis divinae, etiam quatenus in ea consideratur 
+      <lb ed="#P" n="6"/>sola relatio, qua res producendas respicit. Fundatur 
+      <lb ed="#P" n="7"/>enim illa relatio in voluntate, quae secundum se causa 
+      <lb ed="#P" n="8"/>est, &amp; ut causa considerari debet respectu futurorum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 17</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 17</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="141"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k53365"><!-- l1d40c17" -->
+            <head xml:id="bt67yj-k53365-Hd1e101">Capitulum 17</head>
+            <head xml:id="bt67yj-k53365-Hd1e103" type="question-title">Utrum praedestinatus damnari possit, et 
+      reprobus salvari</head>
+            <p xml:id="bt67yj-k53365-d1e106">
+      <!--0164.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>§. 17. Utrum praedestinatus damnari possit, &amp; 
+      <lb ed="#P" n="72"/>reprobus salvari?
+    </p>
+            <p xml:id="bt67yj-k53365-d1e117">
+               <lb ed="#P" n="73"/>Ex superiori doctrina prompta est responsio ad 
+      <lb ed="#P" n="74"/>Lhanc quaestionem; an qui praedestinatus est, 
+      <lb ed="#P" n="75"/>damnari possit, &amp; qui reprobatus salvari. Si enim, 
+      <lb ed="#P" n="76"/>praedestinatio &amp; reprobatio non tollunt facultatem 
+      <lb ed="#P" n="77"/>bene vel male agendi, atque in utrolibet 
+      perseve<lb ed="#P" n="78" break="no"/>randi, consequens est praedestinatum damnari posse, 
+      <lb ed="#P" n="79"/>&amp; reprobatum salvari. 
+    </p>
+            <p xml:id="bt67yj-k53365-d1e135">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Confirmant hanc doctrinam manifestae scripturae, 
+      <lb ed="#P" n="81"/>quae docent praedestinatos non necessario salvari, 
+      sed<lb ed="#P" n="82" break="no"/>posse non salvari ut Sap. 4. Raptus est ne malitia 
+      mu<lb ed="#P" n="83" break="no"/>taret intellectum ejus. Ecclesiast. 31. Qui potuit 
+      trans<lb ed="#P" n="84" break="no"/>gredi, &amp; non est transgressus. Ezcch. 18. Si averterit 
+      <lb ed="#P" n="85"/>se justus a justitia sua, &amp;c. 1. Cor. 9. Ne forte cum 
+      <lb ed="#P" n="86"/>aliis praedicaverim, ipse reprobus efficiar. 2. Tim. 2. 
+      <lb ed="#P" n="87"/>Omnia sustineo propter electos, ut &amp; ipsi salutem 
+      con<lb ed="#P" n="88" break="no"/>sequantur. Apocal. 3. Tene quod habes, ut nemo 
+      acci<lb ed="#P" n="89" break="no"/>piat coronam tuam. Huc spectat generalis illa 
+      om<lb ed="#P" n="90" break="no"/>nium fidelium &amp; proinde etiam electorum 
+      exhorta<lb ed="#P" n="91" break="no"/>tio, ut cum metu &amp; tremore suam salutem 
+      operen<lb ed="#P" n="92" break="no"/>tur. Phil. 2. ne altum sapiant; sed timeant, ne forte 
+      <lb ed="#P" n="93"/>nec ipsis parcatur. Rom. 11. ut Domino serviant in 
+      <lb ed="#P" n="94"/>timore, ne quando irascatur Dominus &amp; pereant, 
+      <lb ed="#P" n="95"/>Psal. 2. Et in universum quaecunque probant justos a 
+      <lb ed="#P" n="96"/>gratia &amp; salute excidere posse, eadem id probant de 
+      <lb ed="#P" n="97"/>praedestinatis. Non enim illa doctrina est de certo 
+      <lb ed="#P" n="98"/>genere justorum, sed de omnibus in hujus vitae via 
+      <lb ed="#P" n="99"/>constitutis, quorum in numero praedestinatos esse, 
+      <lb ed="#P" n="100"/>certum est, licet non omnes justi sint in numero 
+      prae<lb ed="#P" n="101" break="no"/>destinatorum. Nec minus ex scripturis certum 
+      ha<lb ed="#P" n="102" break="no"/>bemus, reprobos posse credendo &amp; bene operando 
+      <lb ed="#P" n="103"/>salutem consequi. Dicit enim Dominus Jerem. 36. Si 
+      <lb ed="#P" n="104"/>forte revertatur unusquisque a via sua pessima, &amp;c. 
+      <lb ed="#P" n="105"/>&amp; Ezech. 18. Si impius egerit poenitentiam, vita vivet 
+      <lb ed="#P" n="106"/>&amp; non morietur. Item Mat. 11. Si in Tyro &amp; Sidone 
+      fa<lb ed="#P" n="107" break="no"/>ctae essent virtutes, quae factae sunt in te, olim in cilicio, &amp; 
+      <lb ed="#P" n="108"/>cinere poenitentiam egissent. Et Apostolus Rom. I1. Sed 
+      <lb ed="#P" n="109"/>&amp; illi si non permanserint in incredulitate, inserentur. 
+      <lb ed="#P" n="110"/>Potens est enim Deus iterum inserere illos, &amp; 2. Tim. 
+      <lb ed="#P" n="111"/>2. Nequando Deus det illis poenitentiam, &amp;c. Quin 
+      <lb ed="#P" n="112"/>generaliter ea scripturae testimonia, quibus omnes 
+      <lb ed="#P" n="113"/>omnino peccatores, reprobis nequaquam exclusis, 
+      <lb ed="#P" n="114"/>ad poenitentiam &amp; salutem invitantur, quae proinde 
+      <lb ed="#P" n="115"/>ostendunt eosdem omnes, dum sunt in hac vita, posse 
+      <lb ed="#P" n="116"/>ad Deum converti &amp; salutem consequi, satis 
+      super<lb ed="#P" n="117" break="no"/>que probant etiam reprobos posse salvari. 
+    </p>
+            <p xml:id="bt67yj-k53365-d1e223">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Denique communia de utrisque tam praedestinatis, 
+      <lb ed="#P" n="119"/>quam reprobis argumenta peti possunt ex libero 
+      ar<lb ed="#P" n="120" break="no"/>bitrio in neutram partem confirmato, sed ad 
+      utrum<lb ed="#P" n="121" break="no"/>que tam bonum quam malum flexibili, quamdiu 
+      agi<lb ed="#P" n="122" break="no"/>tur haec vita. Pertinet enim ad futuri seculi 
+      retribu<lb ed="#P" n="123" break="no"/>tionem, ut alii male, alii bene operari jam non 
+      pos<lb ed="#P" n="124" break="no"/>sint. Ex his igitur patet praedestinatos, dum in hac 
+      vi<lb ed="#P" n="125" break="no"/>ta sunt, posse peccare &amp; consequenter damnari; 
+      si<lb ed="#P" n="126" break="no"/>cut &amp; reprobos posse bene agere &amp; ad salutem 
+      perve<lb ed="#P" n="127" break="no"/>nire, idcóque ut de aliquibus hac in re perniciose 
+      er<lb ed="#P" n="128" break="no"/>rantibus nunc nihil dicamus graviter falli 
+      Ambro<lb ed="#P" n="129" break="no"/>sium Catharinum dum eam vult esse vim electionis 
+      <lb ed="#P" n="130"/>divinae, ut qui electi sunt ab aeterno, ex necessitate 
+      <lb ed="#P" n="131"/>salventur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

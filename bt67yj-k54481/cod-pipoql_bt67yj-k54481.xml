@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 21</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 21</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="144"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k54481"><!-- l1d40c21" -->
+            <head xml:id="bt67yj-k54481-Hd1e101">Capitulum 21</head>
+            <head xml:id="bt67yj-k54481-Hd1e103" type="question-title">Praedestinationem ac reprobationem Dei certissimam et invariabilem esse</head>
+            <p xml:id="bt67yj-k54481-d1e106">
+               <lb ed="#P" n="37"/>§. 21. Praedestinationem ac reprobationem Dei 
+      certissi<lb ed="#P" n="38" break="no"/>mam &amp; invariabilem esse.
+    </p>
+            <p xml:id="bt67yj-k54481-d1e113">
+               <lb ed="#P" n="39"/>CErta fide tenendum est electionem seu 
+      praede<lb ed="#P" n="40" break="no"/>stinationem Dei certissimam esse, id est, 
+      cer<lb ed="#P" n="41" break="no"/>tissime atque infallibiliter consecuturam suum 
+      effe<lb ed="#P" n="42" break="no"/>ctum: Nec minus certum est, quod inde consequitur 
+      <lb ed="#P" n="43"/>numerum praedestinatorum Deo certum esse, non 
+      so<lb ed="#P" n="44" break="no"/>lum formaliter, sed etiam materialiter, id est non 
+      <lb ed="#P" n="45"/>tantum quoad ipsum numerum eorum qui electi 
+      <lb ed="#P" n="46"/>sunt, verum etiam quoad rem numeratam. Quod 
+      <lb ed="#P" n="47"/>aliis verbis ita dicitur: Deum non tantum 
+      praeordi<lb ed="#P" n="48" break="no"/>nasse ab aeterno ac certissime nosse; quot sint 
+      salvan<lb ed="#P" n="49" break="no"/>di, sed &amp; quisint. 
+    </p>
+            <p xml:id="bt67yj-k54481-d1e139">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Ex his autem ulterius consequens est, hunc 
+      electo<lb ed="#P" n="51" break="no"/>rum numerum, nec augeri, nec minui, nec omnino 
+      <lb ed="#P" n="52"/>mutari posse. Horum omnium manifesta est ratio, 
+      <lb ed="#P" n="53"/>quae sumitur ex certitudine voluntatis, scientiae ac 
+      <lb ed="#P" n="54"/>providentiae Dei; quia nec mutari potest Dei 
+      volun<lb ed="#P" n="55" break="no"/>tas, nec intellectus falli, nec aeternum ejus 
+      proposi<lb ed="#P" n="56" break="no"/>tum impediri. Quamvis enim ab aeterno potuerit 
+      <lb ed="#P" n="57"/>Deus plures aut pauciores praedestinare, aut etiam 
+      <lb ed="#P" n="58"/>alios praedestinare quam praedestinavit &amp; ita aliud in 
+      <lb ed="#P" n="59"/>praescientia habere, quam nunc habeat aut habuerit, 
+      <lb ed="#P" n="60"/>mutare tamen non potest, quod semel ab aeterno 
+      <lb ed="#P" n="61"/>constituit, cum sicut essentia, sic voluntas ejus ac 
+      de<lb ed="#P" n="62" break="no"/>cretum sit immutabile, ut alibi ostendimus.
+    </p>
+            <p xml:id="bt67yj-k54481-d1e173">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Hanc praedestinationis ac numeri praedestinatorum 
+      <lb ed="#P" n="64"/>certitudinem, etiam secundum rem numeratam, 
+      <lb ed="#P" n="65"/>multis locis nobis scriptura commendat. Ait enim 
+      <lb ed="#P" n="66"/>Apost. 2. Tim. 2. Cognovit Dominus qui sunt ejus. Et 
+      <lb ed="#P" n="67"/>ipse Dominus Joan. 6. Omne quod dat mihi pater ad 
+      <lb ed="#P" n="68"/>me veniet. Cujus rationem subjungit ex voluntate 
+      <lb ed="#P" n="69"/>patris, Haec est enim, inquit, voluntas patris, ut omne 
+      <lb ed="#P" n="70"/>quod dedit mihi, non perdam ex eo, &amp; cap. 10. de 
+      ovi<lb ed="#P" n="71" break="no"/>bussuis loquens: Non peribunt, inquit, in aeternum, 
+      <!--0167.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>&amp; non rapiet eas quisquam de manu mea. Et 
+      rur<lb ed="#P" n="73" break="no"/>sum: Nemo potest rapere de manu patris mei. Et c. 13. 
+      <lb ed="#P" n="74"/>Ego scio quos elegerim. Et cap. 17. Quos dedisti mihi, 
+      <lb ed="#P" n="75"/>nemo ex iis perit. Quod &amp; repetit cap. 18. Item Mat. 
+      <lb ed="#P" n="76"/>24. Ut in errorem inducantur si fieri potest etiam 
+      ele<lb ed="#P" n="77" break="no"/>cti. Hoc enim addens, significat fieri non posse.
+    </p>
+            <p xml:id="bt67yj-k54481-d1e215">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Pertinent huc ea quae ab Apostolo dicuntur Rom. 
+      <lb ed="#P" n="79"/>8. partim de electis, partim de persona electorum, 
+      <lb ed="#P" n="80"/>ab eo loco: Scimus quoniam diligentibus Deum &amp;c. 
+      <lb ed="#P" n="81"/>usque ad finem capitis, quibus ostendit infallibilem 
+      <lb ed="#P" n="82"/>certitudinem &amp; insuperabilem virtutem electionis 
+      <lb ed="#P" n="83"/>divinae. Quod &amp; Joannes significavit 1. ep. 2. 
+      di<lb ed="#P" n="84" break="no"/>cens de quibusdam. Si fuissent ex nobis, 
+      permansis<lb ed="#P" n="85" break="no"/>sent utique nobiscum.
+    </p>
+            <p xml:id="bt67yj-k54481-d1e237">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Accedunt his publicae orationes ecclesiae, quibus 
+      <lb ed="#P" n="87"/>illa profitetur cognitum esse Deo numerum 
+      electo<lb ed="#P" n="88" break="no"/>rum in superna felicitate locandum, eumque 
+      om<lb ed="#P" n="89" break="no"/>nium misereri, quos fide &amp; opere suos futuros 
+      praeno<lb ed="#P" n="90" break="no"/>vit. Nam misericordia effectum electionis significat, 
+      <lb ed="#P" n="91"/>juxta illud, Cujus vult miseretur, Rom. 9.
+    </p>
+            <p xml:id="bt67yj-k54481-d1e255">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Idem porro judicium est de reprobatione &amp; 
+      repro<lb ed="#P" n="93" break="no"/>batis. Quamvis enim haec quae de numero diximus, 
+      <lb ed="#P" n="94"/>peculiari quadam ratione de electis dici soleant, 
+      pro<lb ed="#P" n="95" break="no"/>pterea quod singularem &amp; eximiam electorum 
+      suo<lb ed="#P" n="96" break="no"/>rum curam habeat Deus, quam significant illae 
+      scri<lb ed="#P" n="97" break="no"/>pturae: Psal. 39. Dominus sollicitus est mei. Gal. 2. Qui 
+      <lb ed="#P" n="98"/>dilexit me &amp; tradidit semetipsum pro me. Matth. 10. 
+      <lb ed="#P" n="99"/>Vestri capilli capitis omnes numerati sunt. De qua re 
+      <lb ed="#P" n="100"/>vide Origenem hom. 1. in Numeros: Dubitare tamen 
+      <lb ed="#P" n="101"/>non debemus, quin &amp; reprobatio cert issima sit, atque 
+      <lb ed="#P" n="102"/>infallibiliter effectum suum consecutura, &amp; 
+      reprobo<lb ed="#P" n="103" break="no"/>rum numerus Deo certus sit etiam quoad rem 
+      nu<lb ed="#P" n="104" break="no"/>meratam, eumque nec augeri, nec minui, nec 
+      om<lb ed="#P" n="105" break="no"/>nino mutari posse, propter easdem rationes quas 
+      <lb ed="#P" n="106"/>paulo ante de praedestinatione diximus.
+    </p>
+            <p xml:id="bt67yj-k54481-d1e292">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Hanc quoque certitudinem scripturae nobis 
+      decla<lb ed="#P" n="108" break="no"/>rant ut Joan. 6. Nemo potest venire ad me, nisi pater 
+      <lb ed="#P" n="109"/>qui misit me traxerit eum. Et iterum: Nemo potest 
+      ve<lb ed="#P" n="110" break="no"/>nire ad me, nisi fuerit ei datum a patre meo. Et cap. 10. 
+      <lb ed="#P" n="111"/>Vos non creditis quia non estis ex ovibus meis. Et 
+      Eccle<lb ed="#P" n="112" break="no"/>siastae 7. Nemo potest corrigere quem ille despexerit, &amp; 
+      <lb ed="#P" n="113"/>aliae similes sententiae. Generaliter autem ad utrosque 
+      <lb ed="#P" n="114"/>tam reprobos quam electos pertinet illud Psal. 138. In 
+      <lb ed="#P" n="115"/>libro tuo omnes scribentur, id est omnium tanquam in 
+      <lb ed="#P" n="116"/>catalogo descriptorum exactissimam habes notitiam.
+    </p>
+            <p xml:id="bt67yj-k54481-d1e318">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Totam vero hanc doctrinam de certitudine atque 
+      <lb ed="#P" n="118"/>immutabilitate praedestinationis ac reprobationis 
+      di<lb ed="#P" n="119" break="no"/>vinae docte explicat S. August. lib. de corr. &amp; gratia 
+      <lb ed="#P" n="120"/>cap. 7. 9. 12, &amp; 13. &amp; lib. de dono pers. c. 14. ubi 
+      in<lb ed="#P" n="121" break="no"/>ter alia quibus ex scripturis atque etiam ex 
+      authorita<lb ed="#P" n="122" break="no"/>te Cypriani certissimam ostendit praedestinationem 
+      <lb ed="#P" n="123"/>ita scribit: An quisquam dicere audebit Deum non 
+      <lb ed="#P" n="124"/>praescisse quibus esset daturus ut crederent? aut quos 
+      <lb ed="#P" n="125"/>daturus esset filio suo, ut ex eis non perderet 
+      quem<lb ed="#P" n="126" break="no"/>quam? Quae utique si praescivit, profecto beneficia 
+      <lb ed="#P" n="127"/>sua, quibus nos dignatur liberare, praescivit. Haec 
+      <lb ed="#P" n="128"/>praedestinatio sanctorum nihil aliud est quam 
+      prae<lb ed="#P" n="129" break="no"/>scientia scilicet &amp; praeparatio beneficiorum Dei, 
+      qui<lb ed="#P" n="130" break="no"/>bus certissime liberantur, quicunque liberantur. 
+      Cae<lb ed="#P" n="131" break="no"/>teri autem ubi nisi in massa perditionis, justo divino 
+      <lb ed="#P" n="132"/>judicio relinquuntur? Idem docet lib. 5. contra 
+      <lb ed="#P" n="133"/>Jul. cap. 3. &amp; lib. 18. de civitate Dei cap. 51. Sic 
+      <lb ed="#P" n="134"/>&amp; Prosper resp. ad 12. &amp; 16. objectiones 
+      Vincentia<lb ed="#P" n="135" break="no"/>nas &amp; ad excerpta Genuensium dubi. 4. Copiosius 
+      <lb ed="#P" n="136"/>autem libr. secun. de vocatione gent. capit. 33. ac 
+      <lb ed="#P" n="137"/>deinceps usque ad finem, &amp; in epistola ad 
+      Ruffi<lb ed="#P" n="138" break="no"/>num, ubi impium esse dicit hanc doctrinam 
+      nega<lb ed="#P" n="139" break="no"/>re. Fulgentius quoque libr. de fide ad Pet. capit. 
+      <lb ed="#P" n="140"/>33. 34. &amp; 35. hoc inter ea ponit dogmata, quae 
+      fir<lb ed="#P" n="141" break="no"/>missime ac sine ulla dubitatione tenenda sunt. Sed 
+      <lb ed="#P" n="142"/>&amp; Gregorius libr. 25. mor. capit. 8. Notandum, 
+      in<lb ed="#P" n="143" break="no"/>quit, quia dum aliis cadentibus ad stadium alii 
+      so<lb ed="#P" n="144" break="no"/>lidari perhibentur, electorum numerus certus ac 
+      de<lb ed="#P" n="145" break="no"/>finitus ostenditur, &amp;c. Eadem est Bernardi doctrina 
+      <pb ed="#P" n="145"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>serm. 3. super Missus est, &amp; Hugonis q. 220. super. 
+      <lb ed="#P" n="2"/>epistolam ad Rom. Honorii in dialogo de praedest. &amp; 
+      <lb ed="#P" n="3"/>aliorum. Caeterum erudite ac scholastice tradit eam 
+      <lb ed="#P" n="4"/>S. Thom. 1. q. 23. art. 6. &amp; 7. &amp; de veritate q. 6. a. 
+      <lb ed="#P" n="5"/>3. solvens decem in contrarium argumenta, &amp; ar. 4. 
+      <lb ed="#P" n="6"/>cum solutione undecim argumentorum. 
+    </p>
+            <p xml:id="bt67yj-k54481-d1e404">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Patet ex dictis certitudinem praedestinationis, non 
+      <lb ed="#P" n="8"/>accipi ex sola praescientia, sed hanc supponere 
+      volun<lb ed="#P" n="9" break="no"/>tatem divinam, quâ statuit ab aeterno quos velit in 
+      <lb ed="#P" n="10"/>tempore salvare. Numerum quoque 
+      praedestinato<lb ed="#P" n="11" break="no"/>rum certum esse Deo, non solum ratione 
+      cognitio<lb ed="#P" n="12" break="no"/>nis, sed ratione electionis &amp; definitionis cujusdam, 
+      <lb ed="#P" n="13"/>ut loquitur S. Thomas art. 7. Hoc enim est quod 
+      di<lb ed="#P" n="14" break="no"/>cit S. Augustinus verbis supra memoratis, 
+      praedesti<lb ed="#P" n="15" break="no"/>nationem esse beneficiorum Dei praeparationem, 
+      <lb ed="#P" n="16"/>quibus certissime liberantur quicunque liberantur, 
+      <lb ed="#P" n="17"/>quodque de corr. &amp; gr. capit. 12. dicit 
+      indeclinabili<lb ed="#P" n="18" break="no"/>ter atque insuperabiliter agi divinâ gratiâ 
+      volunta<lb ed="#P" n="19" break="no"/>tem humanam, ut non deficiat. Quod enim agit 
+      <lb ed="#P" n="20"/>Dei gratiâ in tempore, id voluntate ejus, ut sic 
+      fie<lb ed="#P" n="21" break="no"/>ret, decretum est ab aeterno. 
+    </p>
+            <p xml:id="bt67yj-k54481-d1e441">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Idem vero conformiter dicendum de 
+      reprobatio<lb ed="#P" n="23" break="no"/>ne, nisi quod reprobi praeordinantur ad poenam 
+      pro<lb ed="#P" n="24" break="no"/>pter praevisum peccatum, quodque eorum numerus 
+      <lb ed="#P" n="25"/>certus non est ratione definitionis cujusdam 
+      princi<lb ed="#P" n="26" break="no"/>palis, sicut electorum, ut infra explicabitur. Fit 
+      au<lb ed="#P" n="27" break="no"/>tem ex his perspicuus error Ambrosii Catharini, qui 
+      <lb ed="#P" n="28"/>dictam certitudinem praedestinationis ac 
+      reprobatio<lb ed="#P" n="29" break="no"/>nis, non de omnibus iis qui salvantur aut damnantur 
+      <lb ed="#P" n="30"/>vult intelligi, sed tantum de quibusdam 
+      insigniori<lb ed="#P" n="31" break="no"/>bus in utroque genere, existimans reliquos omnes 
+      <lb ed="#P" n="32"/>salvari aut damnari ex electione liberiarbitrii, sic ut 
+      <lb ed="#P" n="33"/>eorum salutem aut interitum Deus non 
+      praedefinive<lb ed="#P" n="34" break="no"/>rit, sed praecognoverit tantum. Quod ut caetera 
+      ta<lb ed="#P" n="35" break="no"/>ceamus, quoad praedestinatos aperte pugnat cum eo 
+      <lb ed="#P" n="36"/>quod ab Augustino dictum est &amp; omnium bene 
+      sa<lb ed="#P" n="37" break="no"/>pientium Theologorum calculis approbatum, ex 
+      ip<lb ed="#P" n="38" break="no"/>sa Dei praedestinatione certissime liberari omnes 
+      qui<lb ed="#P" n="39" break="no"/>cunque liberantur, id est, quicunque salvantur, &amp; 
+      <lb ed="#P" n="40"/>proinde non solos quos Catharinus fingit 
+      peculiari<lb ed="#P" n="41" break="no"/>ter electos.
+    </p>
+            <p xml:id="bt67yj-k54481-d1e489">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Jam ex supra dictis etiam illud consequens est, 
+      ne<lb ed="#P" n="43" break="no"/>que ex praedestinato reprobum, neque ex reprobo 
+      <lb ed="#P" n="44"/>praedestinatum quemquam fieri posse. Hoc enim si 
+      <lb ed="#P" n="45"/>fieret, mutaretur aeternum Dei propositum, quod 
+      <lb ed="#P" n="46"/>est impossibile. Nam significant ejusmodi 
+      locutio<lb ed="#P" n="47" break="no"/>nes fieri posse, ut quis a Deo aliquando 
+      praedestina<lb ed="#P" n="48" break="no"/>tus, postea reprobetur, aut aliquando reprobatus 
+      <lb ed="#P" n="49"/>postea praedestinetur. Qua in re manifeste 
+      contine<lb ed="#P" n="50" break="no"/>tur voluntatis ac decreti mutatio
+    </p>
+            <p xml:id="bt67yj-k54481-d1e513">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Verumtamen recte dixeris praedestinatum posse 
+      es<lb ed="#P" n="52" break="no"/>se reprobum, &amp; contra, sensu nimirum diviso, quia 
+      <lb ed="#P" n="53"/>is qui praedestinatus est, potuit ab aeterno reprobari, 
+      <lb ed="#P" n="54"/>imo &amp; potest reprobari, quia in Dei aeternitate non 
+      <lb ed="#P" n="55"/>est successio temporis. Quam locutionem concedere 
+      <lb ed="#P" n="56"/>videtur S. Thomas art. 6. ad 3. ita scribens: Unde 
+      <lb ed="#P" n="57"/>non oportet dicere, quod Deus possit non praedestinare, 
+      <lb ed="#P" n="58"/>quem praedestinavit, accipiendo in sensu composito, licet 
+      <lb ed="#P" n="59"/>absolute considerando possit. Haec autem propositio, 
+      <lb ed="#P" n="60"/>praedestinatus potest fieri reprobus, aut contra, 
+      <lb ed="#P" n="61"/>quamvis admittere possit hanc veram 
+      interpreta<lb ed="#P" n="62" break="no"/>tionem, iste homo (demonstrando praedestinatum) 
+      <lb ed="#P" n="63"/>potest fieri reprobus, id est, potest reprobari a Deo, 
+      <lb ed="#P" n="64"/>quia nimirum ab aeterno reprobari potuit ac potest, 
+      <lb ed="#P" n="65"/>cum non sit temporis in Deo successio; magis tamen 
+      <lb ed="#P" n="66"/>hoc videtur significare quod istae propositiones: Ex 
+      <lb ed="#P" n="67"/>praedestinato potest quis fieri reprobus, aut, 
+      ali<lb ed="#P" n="68" break="no"/>quis prius praedestinatus potest postea fieri reprobus 
+      <lb ed="#P" n="69"/>Quae cum falsae sint, illam quoque ut falsam negare 
+      <lb ed="#P" n="70"/>convenit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

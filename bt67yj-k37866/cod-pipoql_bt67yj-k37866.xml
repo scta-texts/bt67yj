@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="101"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k37866"><!-- l1d35c1" -->
+            <head xml:id="bt67yj-k37866-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k37866-Hd1e103" type="question-title">De scientia Dei, ejusque partibus 
+        summaria annotatio</head>
+            <p xml:id="bt67yj-k37866-d1e106">
+      <!--0124.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="62"/>IN DISTINCTIONE 
+      <lb ed="#P" n="63"/>TRICESIMAMQUINTAM. 
+      <lb ed="#P" n="64"/>§. 1. De scientia Dei, ejusque partibus 
+      <lb ed="#P" n="65"/>summaria annotatio.
+    </p>
+            <p xml:id="bt67yj-k37866-d1e122">
+               <lb ed="#P" n="66"/>PRAECIPUA Dei attributa, quibus ad 
+      creatu<lb ed="#P" n="67" break="no"/>ras refertur, sunt haec tria, scientia, 
+      poten<lb ed="#P" n="68" break="no"/>tia, &amp; voluntas. De quibus hoc ipso ordine 
+      <lb ed="#P" n="69"/>nunc deinceps cum Magistro agendum erit, 
+      nimi<lb ed="#P" n="70" break="no"/>rum procedendo ab universalioribus ad minus 
+      uni<lb ed="#P" n="71" break="no"/>versalia. Nam scientia Dei ad plura extenditur 
+      <lb ed="#P" n="72"/>quam ejus potentia. Et haec rursum plura 
+      comple<lb ed="#P" n="73" break="no"/>ctitur, quam ejus voluntas. Igitur de scientia Dei 
+      <lb ed="#P" n="74"/>primo dicamus. Quae quidem in genere tam late 
+      <lb ed="#P" n="75"/>patet, ut nihil prorsus eam fugiat, quemadmodum 
+      <lb ed="#P" n="76"/>pulchre docet totus fere Psalmus 138. Hac enim 
+      <lb ed="#P" n="77"/>Deus &amp; seipsum novit, &amp; omnia alia a se, seu 
+      bo<lb ed="#P" n="78" break="no"/>na seu mala, praeterita, praesentia, futura, tam 
+      sin<lb ed="#P" n="79" break="no"/>gularia quam universalia, tam contingentia quam 
+      <lb ed="#P" n="80"/>necessaria, possibilia &amp; impossibilia, imo &amp; infinita. 
+      <lb ed="#P" n="81"/>De quibus singulis accurate disputat sanctus 
+      Tho<lb ed="#P" n="82" break="no"/>mas 1. q. 14. Quod autem ad omnia etiam 
+      infini<lb ed="#P" n="83" break="no"/>ta, &amp; quae nobis incomprehensibilia sunt, 
+      extenda<lb ed="#P" n="84" break="no"/>tur divina scientia, docet contra Philosophos <ref xml:id="bt67yj-k37866-Rd1e165">
+      Au<lb ed="#P" n="85" break="no"/>gustinus libro 12. de civitate Dei capite 17. &amp; 18.</ref>
+               <lb ed="#P" n="86"/>etsi autem Dei scientia revera unica sit, utpote 
+      ea<lb ed="#P" n="87" break="no"/>dem cum simplicissima Dei essentia, ratione tamen 
+      <lb ed="#P" n="88"/>rerum subjectarum diversa sortitur nomina, 
+      tan<lb ed="#P" n="89" break="no"/>quam diversas ejus partes seu species constituentia. 
+      <lb ed="#P" n="90"/>Vocatur enim praescientia, dispositio, providentia, 
+      <lb ed="#P" n="91"/>sapientia, praedestinatio, reprobatio. Quae singula 
+      <lb ed="#P" n="92"/>ita breviter distingui ac declarari possunt. 
+      Praescien<lb ed="#P" n="93" break="no"/>tia tantum est rerum futurarum, earumque 
+      om<lb ed="#P" n="94" break="no"/>nium, seu bonae sint seu malae. Dispositionem 
+      Ma<lb ed="#P" n="95" break="no"/>gister esse dicit de faciendis, quasi tantum futura, 
+      <lb ed="#P" n="96"/>eademque a Deo facienda, id est, bona respiciat. 
+      <lb ed="#P" n="97"/>At scriptura Sapientiae 8. dispositionem etiam 
+      prae<lb ed="#P" n="98" break="no"/>sentium esse confirmat, cum ait de Sapientia Dei, 
+      <lb ed="#P" n="99"/>quod attingit a fine usque ad finem fortiter, &amp; 
+      dis<lb ed="#P" n="100" break="no"/>ponit omnia suaviter. Disponit igitur Deus 
+      praesen<lb ed="#P" n="101" break="no"/>tia gubernando: Disponit &amp; futura, seu de futuris 
+      <lb ed="#P" n="102"/>providendo: Disponit autem de futuris, proprie 
+      <lb ed="#P" n="103"/>quidem a se faciendis, quodam tamen modo etiam 
+      <lb ed="#P" n="104"/>de his, quae non ab ipso sed a deficiente voluntate 
+      <lb ed="#P" n="105"/>creaturae rationalis fiunt, id est, de peccatis, scilicet 
+      <lb ed="#P" n="106"/>non ut fiant, sed ut ordinentur &amp; convenientem 
+      <lb ed="#P" n="107"/>inter Dei opera locum habeant, uti explicabitur 
+      <lb ed="#P" n="108"/>ad dist. 39. 
+    </p>
+            <p xml:id="bt67yj-k37866-d1e221">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Providentiam plerique a dispositione non 
+      distin<lb ed="#P" n="110" break="no"/>guunt, quod &amp; Magister sentire videtur. Magis 
+      <lb ed="#P" n="111"/>tamen placet sancti Thomae sententia, qui 1. q. 22. 
+      <lb ed="#P" n="112"/>artic. 1. de providentia disserens dicit eam 
+      praesup<lb ed="#P" n="113" break="no"/>ponere opus creationis, &amp; definit esse rationem 
+      <lb ed="#P" n="114"/>ordinis rerum in finem, id est, eam dispositionem 
+      <lb ed="#P" n="115"/>seu practicam Dei notitiam, qua res jam conditas 
+      <lb ed="#P" n="116"/>gubernare vult; atque in suos fines dirigere. Est 
+      <lb ed="#P" n="117"/>enim rerum gubernatio, divinae providentiae 
+      execu<lb ed="#P" n="118" break="no"/>tio. Ipsa igitur providentia dispositionis quaedam 
+      <lb ed="#P" n="119"/>species esse videtur, tum quia futura tantum respicit, 
+      <lb ed="#P" n="120"/>tum quia significat rationem ordinis rerum in finem, 
+      <lb ed="#P" n="121"/>cum dispositio praeterea complectatur rationem 
+      or<lb ed="#P" n="122" break="no"/>dinis partium in toto, quemadmodum ibidem S. 
+      <lb ed="#P" n="123"/>Thomas affirmat. Qua ratione autem dispositio de 
+      <lb ed="#P" n="124"/>malis esse potest, eadem &amp; providentia. Quamvis 
+      <lb ed="#P" n="125"/>enim Deus mala non provideat, providet tamen de 
+      <lb ed="#P" n="126"/>malis, sensu jam declarato; &amp; infra plenius 
+      decla<lb ed="#P" n="127" break="no"/>rando, ad dist. 39. 
+    </p>
+            <p xml:id="bt67yj-k37866-d1e268">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Porro sapientia Deo attributa scientiam rerum 
+      <lb ed="#P" n="129"/>significat, quatenus eas Deus in semet ipso tanquam 
+      <lb ed="#P" n="130"/>in prima causa cognoscit. Tametsi praeterea con¬ 
+      <!--0125.xml-->
+      <pb ed="#P" n="102"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>junctam scientiae dispositionem de rebus faciendis &amp; 
+      <lb ed="#P" n="2"/>gubernandis sonare videtur. Nam in creatione &amp; 
+      <lb ed="#P" n="3"/>gubernatione rerum sapientia Dei maxime 
+      commen<lb ed="#P" n="4" break="no"/>datur. 
+    </p>
+            <p xml:id="bt67yj-k37866-d1e294">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Praedestinatio &amp; reprobatio partes quaedam sunt 
+      <lb ed="#P" n="6"/>providentiae divinae dirigentis creaturam 
+      intellectua<lb ed="#P" n="7" break="no"/>lem in certum finem. Nam praedestinatio respicit 
+      <lb ed="#P" n="8"/>omnia ea bona, quibus ad salutem aeternam 
+      perdu<lb ed="#P" n="9" break="no"/>cuntur electi, ipsamque adeo ac praecipue salutem, 
+      <lb ed="#P" n="10"/>ad quam perducuntur. Providentia enim non 
+      tan<lb ed="#P" n="11" break="no"/>tum de mediis est, verum etiam &amp; praecipue de ipso 
+      <lb ed="#P" n="12"/>fine. Reprobatio vero respicit poenam aeternam, 
+      re<lb ed="#P" n="13" break="no"/>probis merito peccatorum suorum praeparatam, nec 
+      <lb ed="#P" n="14"/>non alios quosdam effectus divinae providentiae 
+      cir<lb ed="#P" n="15" break="no"/>ca reprobos in hac vita. De quibus omnibus suo loco 
+      <lb ed="#P" n="16"/>dicetur exactius. 
+    </p>
+            <p xml:id="bt67yj-k37866-d1e325">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> His breviter adjiciendum, praeter genera scientiae 
+      <lb ed="#P" n="18"/>divinae jam commemorata, distingui solere a 
+      docto<lb ed="#P" n="19" break="no"/>ribus scientiam quam vocant visionis, cui scilicet 
+      <lb ed="#P" n="20"/>ea sola subjiciuntur quae aliquando in rerum natura 
+      <lb ed="#P" n="21"/>existunt, sive ea praesentia sint, sive praeterita, sive 
+      fu<lb ed="#P" n="22" break="no"/>tura; &amp; scientiam simplicis notitiae, cui subjiciuntur 
+      <lb ed="#P" n="23"/>quae nunquam existunt. Illa, visionis scientiae idec 
+      <lb ed="#P" n="24"/>vocatur, quia sicut oculis nostris subjecta non sunt, 
+      <lb ed="#P" n="25"/>nisi quae nobis sunt praesentia; ita aspectui divino 
+      so<lb ed="#P" n="26" break="no"/>la ea subjiciuntur quae ipsi praesentia sunt. Praesentia 
+      <lb ed="#P" n="27"/>autem Deo sunt quaecunque ullo tempore existunt. 
+      <lb ed="#P" n="28"/>Aeternitas enim in qua Deus res intuetur, totum 
+      tem<lb ed="#P" n="29" break="no"/>pus creatum complectitur ab initio usque ad finem, 
+      <lb ed="#P" n="30"/>seu potius in infinitum. Et proinde uno intuitu 
+      aspi<lb ed="#P" n="31" break="no"/>cit Deus tam ipsum universum tempus, quam 
+      quic<lb ed="#P" n="32" break="no"/>quid toto tempore continetur, ut luculente docet 
+      <lb ed="#P" n="33"/>Boetius lib. 5. consol. philosophiae metro 2. post 
+      <lb ed="#P" n="34"/>Augustinum scribentem in Psalmum 49. &amp; sanct. 
+      <lb ed="#P" n="35"/>Thomas multis locis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

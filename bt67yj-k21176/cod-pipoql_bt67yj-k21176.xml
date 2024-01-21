@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="57"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k21176"><!-- l1d12c4" -->
+            <head xml:id="bt67yj-k21176-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k21176-Hd1e103" type="question-title">An immediate procedat Spiritus sanctus a patre</head>
+            <p xml:id="bt67yj-k21176-d1e106">
+               <lb ed="#P" n="40"/>§. 4. An immediate procedat Spiritus sanctus a patre.
+    </p>
+            <p xml:id="bt67yj-k21176-d1e111">
+               <lb ed="#P" n="41"/>JAm si quaeras utrum quia per filium Spiritus 
+      san<lb ed="#P" n="42" break="no"/>Ictus procedit a patre, ideo fatendum sit, eum a 
+      pa<lb ed="#P" n="43" break="no"/>tre procedere mediate, an vero nihilominus 
+      imme<lb ed="#P" n="44" break="no"/>diate dicendum sit eum ab utroque procedere. 
+      Res<lb ed="#P" n="45" break="no"/>pondeo distinguendo. Procedit enim ab utroque 
+      im<lb ed="#P" n="46" break="no"/>mediate, si consideres spirandi potentiam, sive 
+      spira<lb ed="#P" n="47" break="no"/>tionem ipsam activam, quae una est in patre &amp; filio ut 
+      <lb ed="#P" n="48"/>supra diximus. Mediate vero procedit, nimirum per 
+      <lb ed="#P" n="49"/>filium &amp; quasi mediante filio, si consideres ordinem 
+      <lb ed="#P" n="50"/>originis inter personas. Quo sensu potest etiam 
+      con<lb ed="#P" n="51" break="no"/>cedi res omnes creatas a Deo patre mediate 
+      procede<lb ed="#P" n="52" break="no"/>re, scilicet per filium &amp; Spiritum sanctum, &amp; omnes 
+      <lb ed="#P" n="53"/>effectus causarum secundarum procedere mediate a 
+      <lb ed="#P" n="54"/>causa prima, tametsi intime omnia operante. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

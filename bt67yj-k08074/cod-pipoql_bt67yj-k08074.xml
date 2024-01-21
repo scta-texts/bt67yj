@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="22"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k08074"><!-- l1d4c5" -->
+            <head xml:id="bt67yj-k08074-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k08074-Hd1e103" type="question-title">Quo sensu quidam dixerint Deum a se 
+        genitum</head>
+            <p xml:id="bt67yj-k08074-d1e106">
+               <lb ed="#P" n="56"/>§. 5. Quo sensu quidam dixerint Deum a se 
+        <lb ed="#P" n="57"/>genitum. 
+      </p>
+            <p xml:id="bt67yj-k08074-d1e113">
+               <lb ed="#P" n="58"/>OCcasione superioris argumenti quo concludi 
+        <lb ed="#P" n="59"/>videbatur Deum ex seipso genitum esse, si 
+        <lb ed="#P" n="60"/>Deus ex Deo genitus est, cum non sit nisi unus Deus, 
+        <lb ed="#P" n="61"/>ne forte cuiquam illa propositio, qua Deus dicitur 
+        <lb ed="#P" n="62"/>a seipso genitus, non omnino falsa videatur, quod 
+        <lb ed="#P" n="63"/>nonnulli veteres scriptores sic locuti reperiantur, 
+        <lb ed="#P" n="64"/>explicandum hic breviter quid illi &amp; quo sensu 
+      di<lb ed="#P" n="65" break="no"/>xerint. Augustinus itaque citante Magistro in textu 
+        <lb ed="#P" n="66"/>§. ultimo in epistola ad Maxim. quae est 66. Pater, 
+        <lb ed="#P" n="67"/>inquit, ita genuit de se alterum se, ut totus maneret 
+        <lb ed="#P" n="68"/>in se. Lactantius lib. 1. divinarum instit. c. 7. Deus 
+        <lb ed="#P" n="69"/>ex seipso procreatus est, &amp; ex Seneca, Deus ipse se 
+        <lb ed="#P" n="70"/>fecit. Et lib. 4. c. 8. Hermetem Trismegistum 
+      alle<lb ed="#P" n="71" break="no"/>gat dicentem Deum esse ευοτάτορα καὶ ἀὐτο μήτορα, 
+        <lb ed="#P" n="72"/>idest, ipsum sui patrem &amp; fui matrem. Cujusmodi 
+        <!--0045.xml-->
+        <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>sententia etiam apud Senecam philosophum 
+      repe<lb ed="#P" n="74" break="no"/>ritur. Sic &amp; ab Orpheo poeta Deus ἀυτγεης quasi 
+        <lb ed="#P" n="75"/>a seipso genitus dicitur. Et ab Aristotele in 
+      Politi<lb ed="#P" n="76" break="no"/>cis, <foreign>αὐτόρυτος</foreign>, id est, a seipso natus seu naturam 
+      ha<lb ed="#P" n="77" break="no"/>bens. Similia nomina Deo attributa leguntur in 
+        <lb ed="#P" n="78"/>versibus Sibyllae recitatis a Lactantio lib. I. cap. 7. 
+        <lb ed="#P" n="79"/>Quale est &amp; illud oraculum vetus a Justino martyre 
+        <lb ed="#P" n="80"/>in paraenetico prolatum: Soli Chaldaei &amp; Hebraei 
+        <lb ed="#P" n="81"/>sapientiam nacti sunt, regem a seipso genitum caste 
+        <lb ed="#P" n="82"/>colentes. Praeterea Dion. Areopagita lib. de divinis 
+        <lb ed="#P" n="83"/>nominibus dicit Deum a seipso esse. Sic enim 
+      Grae<lb ed="#P" n="84" break="no"/>cam vocem ἀυτὸ εἶναι superioribus similem 
+      interpre<lb ed="#P" n="85" break="no"/>tantur quidam, quasi ea significet Deum sibi ipsi 
+      es<lb ed="#P" n="86" break="no"/>sentiae suae authorem esse &amp; principium. Nonnus 
+        <lb ed="#P" n="87"/>etiam Graecus idemque Christianus poeta in 
+      quo<lb ed="#P" n="88" break="no"/>dam carmine Filium &amp; Spiritum Sanctum vocat 
+        <lb ed="#P" n="89"/>ἀυτόγονον, id est, per se vel a seipso ortum. 
+      Epipha<lb ed="#P" n="90" break="no"/>nius sub finem lib. 2. contra haereses in haeresi 
+      Aria<lb ed="#P" n="91" break="no"/>norum filium vocatum ἀὐτόθιον, quasi per se &amp; a se 
+        <lb ed="#P" n="92"/>Deum. Atque eandem vocem substantivatam 
+      Ma<lb ed="#P" n="93" break="no"/>ximus Dionysii Scholiastes divinis personis tribuit. 
+        <lb ed="#P" n="94"/>Huc denique accedit Richardi Victorini doctrina 
+        <lb ed="#P" n="95"/>libro primo de trinitate conantis ostendere 
+      substan<lb ed="#P" n="96" break="no"/>tiam primam principalemque a semetipsa esse. Id 
+        <lb ed="#P" n="97"/>enim docet ejus libri &amp;ap. 5. &amp; multis sequentibus 
+        <lb ed="#P" n="98"/>&amp; in caeteris ejusdem operis libris saepe repetit 
+      tan<lb ed="#P" n="99" break="no"/>quam rem confessam &amp; certam. Item Anselmi in 
+        <lb ed="#P" n="100"/>libro de processione Spiritus sancti capite 4. ubi 
+        <lb ed="#P" n="101"/>sic ait: Nulla persona a seipsa potest existere nisi 
+      so<lb ed="#P" n="102" break="no"/>la patris. 
+      </p>
+            <p xml:id="bt67yj-k08074-d1e220">
+               <lb ed="#P" n="103"/>Verum explicandum quo pacto haec omnia aut 
+        <lb ed="#P" n="104"/>recte dicta sint, aut ut recte dicta accipi possint. 
+        <lb ed="#P" n="105"/>Nam Christianorum &amp; Catholicorum sententias 
+        <lb ed="#P" n="106"/>aequum est benige interpretari, quatenus 
+      commo<lb ed="#P" n="107" break="no"/>dum aliquem sensum verum admittant.
+      </p>
+            <p xml:id="bt67yj-k08074-d1e234">
+               <lb ed="#P" n="108"/>De sententiis vero Ethnicorum siquid forte 
+      so<lb ed="#P" n="109" break="no"/>nent a recta fide alienum, non est cur multum 
+      labo<lb ed="#P" n="110" break="no"/>remus, cum satis constet eos perfectam veri Dei 
+      no<lb ed="#P" n="111" break="no"/>titiam non habuisse. Respondemus ergo 
+      Augusti<lb ed="#P" n="112" break="no"/>num figurate locutum esse, quomodo vulgo dici 
+      so<lb ed="#P" n="113" break="no"/>let intimus alicujus amicus esse alter ipse, &amp; 
+      quomo<lb ed="#P" n="114" break="no"/>do quem Ciceroni in eloquentia comparamus, 
+      al<lb ed="#P" n="115" break="no"/>terum Ciceronem vocamus. Quibus locutionibus 
+        <lb ed="#P" n="116"/>significatur summa similitudo seu convenientia 
+        <lb ed="#P" n="117"/>duorum inter se. Ita Deus alterum se genuisse dicitur, 
+        <lb ed="#P" n="118"/>quia filium genuit sui simillimum utpote ejusdem 
+        <lb ed="#P" n="119"/>secum naturae. Hoc explicat ipse Augustinus alibi. 
+        <lb ed="#P" n="120"/>Nam in tractatu de Cantico novo cap. 7. dicit de 
+        <lb ed="#P" n="121"/>patre. Ita genuit de se alterum qualem se, ut totus 
+        <lb ed="#P" n="122"/>maneret in se. Quanquam etiam responderi potest 
+        <lb ed="#P" n="123"/>cum Magistro quod Deus pater genuit alterum se, 
+        <lb ed="#P" n="124"/>id est, genuit alterum qui hoc est quod ipse, nempe 
+        <lb ed="#P" n="125"/>verus &amp; unus Deus, licet non sit ipse, id est 
+      pater<lb ed="#P" n="126" break="no"/>Quod enim non sentiat Augustinus proprio sermone 
+        <lb ed="#P" n="127"/>Deum genuisse seipsum, manifestum est ex verbis 
+        <lb ed="#P" n="128"/>ejus lib. I. de Trinitate, cap. 1. quae supra posuimus. 
+        <lb ed="#P" n="129"/>Lactantium vero plerique absurdi erroris accusant. 
+        <lb ed="#P" n="130"/>quod senserit vere &amp; proprie Deum a seipso 
+      geni<lb ed="#P" n="131" break="no"/>tum &amp; factum esse. Satius tamen fuerit 
+      Christia<lb ed="#P" n="132" break="no"/>num scriptorem etsi minus circumspecte etiam 
+      ali<lb ed="#P" n="133" break="no"/>bi de tanto mysterio locutum, a tanta opinionis 
+      ab<lb ed="#P" n="134" break="no"/>surditate vindicare. Neque enim videtur Lactantius 
+        <lb ed="#P" n="135"/>aliud voluisse, quam quod vocabula graeca non 
+      mo<lb ed="#P" n="136" break="no"/>do ab Ethnicis, verum etiam a Christianis usurpata 
+        <lb ed="#P" n="137"/>Deoque vel divinis personis attributa significant; 
+        <lb ed="#P" n="138"/>nempe Deum ita esse, ut essentiam suam a nullo alio 
+        <lb ed="#P" n="139"/>habeat, sensu videlicet negativo potius quam 
+      affir<lb ed="#P" n="140" break="no"/>mativo, quantum ad illud, a seipso: hoc enim eam 
+        <lb ed="#P" n="141"/>vim habet ut si dicas, non aliunde, seu non ab alio. 
+        <lb ed="#P" n="142"/>Quod quidem de Deo simpliciter asseritur, de 
+      per<lb ed="#P" n="143" break="no"/>sonis autem Filio &amp; Spiritu sancto, non simpliciter, 
+        <lb ed="#P" n="144"/>sed cum hac declaratione, a nullo alio essentialiter 
+        <lb ed="#P" n="145"/>sive substantialiter distincto. Quod annotandum 
+        <lb ed="#P" n="146"/>est propter Antotheanos haereticos, qui supradictis 
+      <!--0046.xml-->
+      <pb ed="#P" n="23"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>patrum sententiis abutuntur ad patrocinium sui 
+      er<lb ed="#P" n="2" break="no"/>roris; quo docent filium ita esse ἀὐτόθιον. ut essentiam 
+      <lb ed="#P" n="3"/>divinam a nullo alio acceperit. Non est ergo idem si 
+      <lb ed="#P" n="4"/>proprie loquamur, Deus per se est, &amp; Deus a se est. 
+      <lb ed="#P" n="5"/>Nam illud verissimum est &amp; vocibus illis Graecis 
+      ex<lb ed="#P" n="6" break="no"/>ἀυτ compositis proprie significatur; hoc autem 
+      fal<lb ed="#P" n="7" break="no"/>sum, nisi improprietate aliqua &amp; catachresi sermonis 
+      <lb ed="#P" n="8"/>excusetur. Similis expositio adhibenda est verbis 
+      Ri<lb ed="#P" n="9" break="no"/>chardi: quibus a semetipsa dicit esse essentiam 
+      divi<lb ed="#P" n="10" break="no"/>nam. Unde &amp; ejus commentator admonet satius 
+      <lb ed="#P" n="11"/>fuisse, si sine praepositionibus a, ab, ex, sermonem 
+      <lb ed="#P" n="12"/>bujusmodi enunciasset, ne videretur significare 
+      <lb ed="#P" n="13"/>Deum sibi ipsi esse causam essendi, cum Dei nulla sit 
+      <lb ed="#P" n="14"/>causa, nihisque omnino sit, quod seipsum efficere 
+      <lb ed="#P" n="15"/>possit. Quocirca in hac materia, si proprie &amp; 
+      inof<lb ed="#P" n="16" break="no"/>tense loqua volumus, hae &amp; hujusmodi propositiones 
+      <lb ed="#P" n="17"/>secundum regulam sanae fidei potissimum 
+      declara<lb ed="#P" n="18" break="no"/>tam in symbolo S. Athanasii retmendae sunt &amp; 
+      usur<lb ed="#P" n="19" break="no"/>pandae: Pater a nullo est, nec ab alio, nec a seipso 
+      <lb ed="#P" n="20"/>nec factus, nec genitus, nec procedons. Filius non a 
+      <lb ed="#P" n="21"/>nullo est, nec a seipso, sed ab alio, scilicet a patre, 
+      <lb ed="#P" n="22"/>non factus sed genitus: Spiritus sanctus non a nullo 
+      <lb ed="#P" n="23"/>est, nec a feipso, sed ab alio scilicet a patre &amp; filio 
+      <lb ed="#P" n="24"/>non factus nec genitus sed procedens: Deus nec a 
+      <lb ed="#P" n="25"/>scipso est, nec ab alio vel factus, vel genitus, vel 
+      pro<lb ed="#P" n="26" break="no"/>cedens. Neque tamen hae propositiones verae sunt, 
+      <lb ed="#P" n="27"/>Deus non est genitus, Deus non est procedens. 
+      Con<lb ed="#P" n="28" break="no"/>tradicunt enim his verbis. Deus est genitus, Deus est 
+      <lb ed="#P" n="29"/>procedens, nimirum Deus ex Deo. Unde necesse est 
+      <lb ed="#P" n="30"/>priores falsas esse. Eadem ratione fatendum videtur 
+      <lb ed="#P" n="31"/>hanc esse falsam, Deus a nullo est. Contradicit enim 
+      <lb ed="#P" n="32"/>huic verae, Deus ab aliquo est. Sensus enim prioris 
+      <lb ed="#P" n="33"/>est, Deus non est ab aliquo, ac proinde falsa 
+      vide<lb ed="#P" n="34" break="no"/>tur, ut istae, Deus non generat, Deus non 
+      genera<lb ed="#P" n="35" break="no"/>tur. Hujusmodi n. propositiones falsas esse supra 
+      o<lb ed="#P" n="36" break="no"/>stendimus ad hanc distinct. c. 1. Si vero illa, Deus a 
+      <lb ed="#P" n="37"/>pullo est, sensum habeat affirmativum istum, Deus 
+      <lb ed="#P" n="38"/>est ingenitus, vera erit, ratione personae patris. Erit 
+      <lb ed="#P" n="39"/>&amp; vera, si accipiatur hoc sensu, Deus a nullo alio 
+      <lb ed="#P" n="40"/>est. Significat n. haec propositio Deum non esse a 
+      <lb ed="#P" n="41"/>quo quam qui, vel quod sit alius vel aliud, id est, 
+      <lb ed="#P" n="42"/>diversus vel diversum a Deo.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

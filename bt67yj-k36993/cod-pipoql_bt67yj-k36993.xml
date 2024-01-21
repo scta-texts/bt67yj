@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="99"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k36993"><!-- l1d33c4" -->
+            <head xml:id="bt67yj-k36993-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k36993-Hd1e103" type="question-title">Responsio ad objectiones in contrarium</head>
+            <p xml:id="bt67yj-k36993-d1e106">
+               <lb ed="#P" n="21"/>§. 4. Responsio ad objectiones in contrarium.
+    </p>
+            <p xml:id="bt67yj-k36993-d1e111">
+               <lb ed="#P" n="22"/>AUthores erroris supra dicti, his fere rationibus 
+      <lb ed="#P" n="23"/>Amoti fuisse videntur. 
+    </p>
+            <p xml:id="bt67yj-k36993-d1e118">
+               <lb ed="#P" n="24"/>Prima: Personae determinantur ac distinguuntur 
+      <lb ed="#P" n="25"/>proprietatibus: Oportet igitur a personis 
+      proprieta<lb ed="#P" n="26" break="no"/>tes esse res distinctas, cum nulla res seipsam 
+      determi<lb ed="#P" n="27" break="no"/>nare, aut per seipsam distingui possit. Sed facile 
+      res<lb ed="#P" n="28" break="no"/>pondetur non tantum per aliud, verum etiam per 
+      <lb ed="#P" n="29"/>seipsum quippiam determinari ac distingui posse. 
+      <lb ed="#P" n="30"/>Nam si rerum distinctio non fit nisi per res alias, in 
+      <lb ed="#P" n="31"/>infinitum erit progressus; quia etiam res illas seu 
+      <lb ed="#P" n="32"/>formas distinguentes erit necesse distingui per alias 
+      <lb ed="#P" n="33"/>ulteriores. Quare cum personas divinas 
+      proprietati<lb ed="#P" n="34" break="no"/>bus distingui ac determinari dicimus, non aliud 
+      re<lb ed="#P" n="35" break="no"/>vera dicimus, quam personas per seipsas distingui 
+      <lb ed="#P" n="36"/>ac determinari, quomodo in rebus creatis per 
+      seip<lb ed="#P" n="37" break="no"/>sas ab aliis distinguuntur formae simplices &amp; 
+      indivi<lb ed="#P" n="38" break="no"/>duorum proprietates. Ideo tamen potius personas 
+      <lb ed="#P" n="39"/>proprietatibus distingui dicimus quam contra, quia 
+      <lb ed="#P" n="40"/>proprietatibus ut tales sunt, competit distinguere, 
+      <lb ed="#P" n="41"/>personis autem, sive suppositis, per illas 
+      distin<lb ed="#P" n="42" break="no"/>gui¬ 
+    </p>
+            <p xml:id="bt67yj-k36993-d1e163">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Secunda: Tres personae non differunt essentia, 
+      <lb ed="#P" n="44"/>differunt autem proprietatibus; ergo proprietates 
+      <lb ed="#P" n="45"/>non sunt essentia. Respondeo non sequi, quia licet 
+      <lb ed="#P" n="46"/>fateamur proprietates esse divinam essentiam, non 
+      ta<lb ed="#P" n="47" break="no"/>men essentiam significant, sed relationes. Et hac 
+      ra<lb ed="#P" n="48" break="no"/>tione per eas distinguuntur personae. 
+    </p>
+            <p xml:id="bt67yj-k36993-d1e181">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Tertia: Si proprietates sunt essentia divina, cum 
+      <lb ed="#P" n="50"/>haec simplex sit &amp; unica, consequens erit 
+      proprieta<lb ed="#P" n="51" break="no"/>tes confundi, sic ut una sit altera, juxta illud; 
+      Quae<lb ed="#P" n="52" break="no"/>cunquae eadem sunt uni tertio, eadem sunt inter 
+      se<lb ed="#P" n="53" break="no"/>Respondetur, quae in eodem communi conveniunt, 
+      <lb ed="#P" n="54"/>non continuo convenire inter se: Est autem 
+      essen<lb ed="#P" n="55" break="no"/>tia Dei quiddam commune tribus personis, non 
+      <lb ed="#P" n="56"/>quidem ut genus, aut species, sed modo quodam 
+      <lb ed="#P" n="57"/>ineffabili. Qua de re satis dictum ad distinctionem 
+      <lb ed="#P" n="58"/>19. Paulo aliter respondet S. Thomas 1. quaest. 28. 
+      <lb ed="#P" n="59"/>art. tertio ad primum. Utramque responsionem 
+      ex<lb ed="#P" n="60" break="no"/>pendat lector. Et quidem haec ratio, si quid 
+      mo<lb ed="#P" n="61" break="no"/>menti haberet, aeque convinceret tres personas non 
+      <lb ed="#P" n="62"/>esse Deum. 
+    </p>
+            <p xml:id="bt67yj-k36993-d1e216">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Praeter has rationes adducebat Porretanus 
+      authori<lb ed="#P" n="64" break="no"/>tatem Boetii, qui libro primo de Trinitate, cap. 6. 
+      <lb ed="#P" n="65"/>affirmat omnia quae Deo tribui possunt, transire in 
+      <lb ed="#P" n="66"/>ejus substantiam. Ea vero quae sunt ad aliquid, de 
+      <lb ed="#P" n="67"/>Deo praedicare non posse. Quibus consentanea 
+      scri<lb ed="#P" n="68" break="no"/>bit etiam ejusdem libri capite decimo &amp; undecimo. 
+      <lb ed="#P" n="69"/>Sed respondendum non aliud significare voluisse 
+      <lb ed="#P" n="70"/>Boetium hujusmodi verbis, quam relationem 
+      con<lb ed="#P" n="71" break="no"/>sideratam secundum propriam duntaxat ipsius ratio¬ 
+      <!--0122.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>nem, separato nimirum eo quod illi cum aliis 
+      acciden<lb ed="#P" n="73" break="no"/>tibus est commune, non posse de Deo praedicari, 
+      tan<lb ed="#P" n="74" break="no"/>quam inexistens aliquid; sed tantum per modum ejus, 
+      <lb ed="#P" n="75"/>quod extrinsecus, atque in aliud tendit. Qui sensus 
+      <lb ed="#P" n="76"/>authoris, ex cap. 10. facile colligitur. 
+    </p>
+            <p xml:id="bt67yj-k36993-d1e255">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Postremo: Sicubi patres negare videntur 
+      proprie<lb ed="#P" n="78" break="no"/>tates personarum esse essentiam Dei, non aliud 
+      vo<lb ed="#P" n="79" break="no"/>lunt, quam diversorum nominum in Dco diversum 
+      <lb ed="#P" n="80"/>esse significandi modum. Alia namque Deum 
+      signi<lb ed="#P" n="81" break="no"/>ficant per modum substantiae, alia per modum 
+      pro<lb ed="#P" n="82" break="no"/>prietatis personalis. Ideóque diversa est in his &amp; illis 
+      <lb ed="#P" n="83"/>propria significandi ratio. Res tamen significata 
+      pror<lb ed="#P" n="84" break="no"/>sus eadem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

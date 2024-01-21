@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="121"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k45703"><!-- l1d39c10" -->
+            <head xml:id="bt67yj-k45703-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-k45703-Hd1e103" type="question-title">Ad ea quae contra universalem Dei 
+      providentiam objiciuntur responsio</head>
+            <p xml:id="bt67yj-k45703-d1e106">
+               <lb ed="#P" n="113"/>§. 10. Ad ea quae contra universalem Dei 
+      providen<lb ed="#P" n="114" break="no"/>tiam objiciuntur responsio.
+    </p>
+            <p xml:id="bt67yj-k45703-d1e113">
+               <lb ed="#P" n="115"/>COntra superiorem, de causali Dei providentia 
+      <lb ed="#P" n="116"/>Odoctrinam, haec praecipua sunt quae objici 
+      so<lb ed="#P" n="117" break="no"/>leant. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e122">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Primo. Dicit Apostolus 1. Cor. 6. Nunquid de bo. 
+      <lb ed="#P" n="119"/>bus cura est Deo: 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e132">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Secundo. Ecclesiast. 15. dicitur: Deus ab initio 
+      con<lb ed="#P" n="121" break="no"/>stituit hominem &amp; reliquit eum in manu consilii sui. Et 
+      <lb ed="#P" n="122"/>similiter permittere quaedam bona dicitur. Heb. 6. &amp; 
+      <lb ed="#P" n="123"/>1. Corinth. 16. dicente Apostolo de re utique bona: 
+      <lb ed="#P" n="124"/>Si Deus permiserit; ergo in talibus homo non 
+      regi<lb ed="#P" n="125" break="no"/>tur a providentia Dei, sed magis a providentia 
+      pro<lb ed="#P" n="126" break="no"/>pria, Deo tantum permittente.
+    </p>
+            <p xml:id="bt67yj-k45703-d1e152">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Tertio. Hieronymus scribens in Abac. 1. absurdum 
+      <lb ed="#P" n="128"/>esse dicit ad hoc deducere Dei majestatem, ut sciat 
+      <lb ed="#P" n="129"/>per momenta singula, quot culices nascantur, quotve 
+      <lb ed="#P" n="130"/>moriantur, &amp;c. Et addit: Non simus tam fatui 
+      adu<lb ed="#P" n="131" break="no"/>latores Dei ut dum (Magister legit providentiam.) Sed 
+      <lb ed="#P" n="132"/>in sancto Hieronymo legitur, potentiam. Potentiam 
+      <lb ed="#P" n="133"/>ejus etiam ad ima detrahimus, in nosmet ipsos injuriosi 
+      <lb ed="#P" n="134"/>simus, eandem rationabilium, quam irrationabilium 
+      <lb ed="#P" n="135"/>providentiam esse dicentes. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e176">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Quarto. Providentia casui &amp; fortunae repugnat. 
+      <lb ed="#P" n="137"/>Cum ergo in multis rebus casus &amp; fortuna locum 
+      ha<lb ed="#P" n="138" break="no"/>beant, imo in omnibus rebus humanis, ut testatur 
+      <lb ed="#P" n="139"/>Ecclesiastes 9. ab iis exclusa erit providentia. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e189">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Quinto. Deus ita se habet respectu totius universi, 
+      <lb ed="#P" n="141"/>quomodo rex aliquis respectu regni. Atqui multa 
+      <lb ed="#P" n="142"/>geruntur in regno per ministros regios, quorum 
+      par<lb ed="#P" n="143" break="no"/>ticularis cura personam regis non attingit, imo 
+      <lb ed="#P" n="144"/>nec dignitatem ejus decet; ergo &amp; in universo sic per 
+      <!--0145.xml-->
+      <pb ed="#P" n="122"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>medias causas multa fiunt, ut de iis particulatim 
+      <lb ed="#P" n="2"/>Deus non curet. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e215">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Postremo: Deus quosdam homines prorsus deserit 
+      <lb ed="#P" n="4"/>permittens eos cadere in gravissima peccata, &amp; in 
+      <lb ed="#P" n="5"/>aeternum perire; igitur curam eorum non habet, quae 
+      <lb ed="#P" n="6"/>providentia vocatur. Definita est enim providentia, 
+      <lb ed="#P" n="7"/>qua Deus unamquamque rem destinavit in finem 
+      <lb ed="#P" n="8"/>suum praecipue ultimum. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e233">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Ad haec sigillatim ita respondemus.
+    </p>
+            <p xml:id="bt67yj-k45703-d1e241">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Ad primum hoc modo: Negat Apostolus ita 
+      pe<lb ed="#P" n="11" break="no"/>culiarem esse Deo curam de bobus, ut principaliter 
+      <lb ed="#P" n="12"/>propter eos praecepta det hominibus, cum potius 
+      <lb ed="#P" n="13"/>contra existimandum sit, praeceptum illud Deut. 25. 
+      <lb ed="#P" n="14"/>de non alligando ore bovis triturantis homini, causa 
+      <lb ed="#P" n="15"/>hominis datum esse, ut intelligeret, quod in brutis 
+      <lb ed="#P" n="16"/>animantibus facere prohibetur, multo minus in 
+      ho<lb ed="#P" n="17" break="no"/>mine committere se debere, praesertim in eo qui 
+      spi<lb ed="#P" n="18" break="no"/>rituali labore occupatur. Hoc enim in illo praecepto 
+      <lb ed="#P" n="19"/>principalius attendisse Spiritum sanctum, tum ex 
+      eo<lb ed="#P" n="20" break="no"/>dem Apostoli loco perspicuum est, tum ex i. Tim. 5. 
+      <lb ed="#P" n="21"/>Qua de re etiam vide Augustinum in enarratione 
+      <lb ed="#P" n="22"/>Psal. 145. &amp; S. Thomam ubi supra ad ult. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e274">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Ad secundum. Reliquit Deus hominem in manu 
+      <lb ed="#P" n="24"/>consilii sui, non eum removendo a sua providentia; 
+      <lb ed="#P" n="25"/>sed quia non ei praefixit operativam facultatem ad 
+      <lb ed="#P" n="26"/>unum aliquid determinatam, sicut brutis &amp; aliis 
+      re<lb ed="#P" n="27" break="no"/>bus naturalibus, verum indito ei libero arbitrio 
+      de<lb ed="#P" n="28" break="no"/>derit potestatem deliberandi de agendis &amp; eligendi 
+      <lb ed="#P" n="29"/>quae vellet. Bona vero quae Deus permittere dicitur, 
+      <lb ed="#P" n="30"/>non tantum permittit, sed etiam facit. Dicitur 
+      ta<lb ed="#P" n="31" break="no"/>men permittere, quia causas secundas sive liberas, 
+      <lb ed="#P" n="32"/>sive naturales a proprio agendi modo non impedit, 
+      <lb ed="#P" n="33"/>quomodo Deus permisit ignem agere in 
+      Lauren<lb ed="#P" n="34" break="no"/>tium: at in tres pueros non permisit. Quo sensu 
+      di<lb ed="#P" n="35" break="no"/>ctum esse sancto Augustino, quod Deus salva 
+      provi<lb ed="#P" n="36" break="no"/>dentia res ipsas proprios exercere motus sinat, supra 
+      <lb ed="#P" n="37"/>ostendimus. Nam alioqui quod Apostolus Paulus 
+      <lb ed="#P" n="38"/>dixit, si Deus permiserit, Jacobus Apostolus ad 
+      vo<lb ed="#P" n="39" break="no"/>luntatem Dei retulit, dicens cap. 4. Si Deus 
+      volue<lb ed="#P" n="40" break="no"/>rit, &amp; ipse Paulus alibi. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e318">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Ad tertium. Quamvis cum Magistro responderi 
+      <lb ed="#P" n="42"/>possit Hieronymum illis verbis excludere a Deo 
+      cu<lb ed="#P" n="43" break="no"/>rarum multiplicitatem, &amp; successionem per tempora 
+      <lb ed="#P" n="44"/>&amp; momenta, prout res singulae, mutantur, oriuntur, 
+      <lb ed="#P" n="45"/>occidunt, (ita enim simplex &amp; stabilis est Dei 
+      provi<lb ed="#P" n="46" break="no"/>dentia, sicut ejus essentia) posteriora tamen 
+      Hiero<lb ed="#P" n="47" break="no"/>nymi verba aliam solutionem nobis suggerunt, 
+      nem<lb ed="#P" n="48" break="no"/>pe non eandem, nec parem curam esse Deode bestiis, 
+      <lb ed="#P" n="49"/>quam de hominibus, adeóque hominum 
+      compara<lb ed="#P" n="50" break="no"/>tione, quos singulari modo curat, nullum videri 
+      cu<lb ed="#P" n="51" break="no"/>ram, quam habet de irrationabilibus. Hoc enim 
+      in<lb ed="#P" n="52" break="no"/>dicant subjuncta verba, quibus stultitiae damnat eos, 
+      <lb ed="#P" n="53"/>qui singulis paene rerum generibus proprios in 
+      custo<lb ed="#P" n="54" break="no"/>diam angelos assignant, cum ea dignitas hominibus 
+      <lb ed="#P" n="55"/>peculiaris sit. Porro suam sententiam de providentia 
+      <lb ed="#P" n="56"/>Dei ad minima quaeque transfusa, satis declarat Hie 
+      <lb ed="#P" n="57"/>ronymus locis supra citatis, ut de mente illius 
+      docto<lb ed="#P" n="58" break="no"/>ris non sit ambigendum. Itaque ad locum 
+      proposi<lb ed="#P" n="59" break="no"/>tum vel ita respondendum est, ut diximus, vel 
+      dicen<lb ed="#P" n="60" break="no"/>dum ut quidam respondent, eum haec non ex propria 
+      <lb ed="#P" n="61"/>sententia; sed ex aliorum opinione scripsisse, quod 
+      <lb ed="#P" n="62"/>sibi in commentariis, esse non infrequens, ipse lib. 
+      <lb ed="#P" n="63"/>1. contra Ruff. fatetur. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e373">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Ad quartum: Casus &amp; fortuna cum Dei 
+      providen<lb ed="#P" n="65" break="no"/>tia non pugnant. Dicitur enim aliquid casu aut 
+      for<lb ed="#P" n="66" break="no"/>tuito evenire respectu causae particularis, praeter 
+      cu<lb ed="#P" n="67" break="no"/>jus intentionem accedit. Nam causae universalis, id 
+      <lb ed="#P" n="68"/>est, Dei intentionem, provisionem &amp; ordinem nihil 
+      <lb ed="#P" n="69"/>effugit. Cujus proinde respectu nihil casuale, nihil 
+      <lb ed="#P" n="70"/>fortuitum est, quemadmodum recte docet August. 
+      <lb ed="#P" n="71"/>lib. 83. q. 34. Vide etiam Boetium lib. 5. prosa 1. 
+      <lb ed="#P" n="72"/>de consol. phil. ubi solvit hoc argumentum, 
+      distin<lb ed="#P" n="73" break="no"/>guendo casum. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e399">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Ad quintum. Quamvis ad regiam dignitatem spe¬ 
+      <!--0145.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ctet habere ministros suae providentiae executores, 
+      <lb ed="#P" n="76"/>non tamen ad ejus dignitatem, sed potius defectum 
+      <lb ed="#P" n="77"/>pertinet, quod particularem rationem eorum non 
+      <lb ed="#P" n="78"/>habeat, quae per illos agenda sunt. Deinde in regno 
+      <lb ed="#P" n="79"/>humano multa sunt &amp; fiunt, quae ordinem regiae 
+      ad<lb ed="#P" n="80" break="no"/>ministrationis excedunt, velut quod miles manum 
+      <lb ed="#P" n="81"/>moveat ad pugnandum, quod preco linguam ad 
+      lo<lb ed="#P" n="82" break="no"/>quendum. Id enim non a rege habent, sed a natura, 
+      <lb ed="#P" n="83"/>licet a rege sit imperium. At in universo nihil est 
+      <lb ed="#P" n="84"/>omnino quod ordinem atque efficientiam primae 
+      <lb ed="#P" n="85"/>causae egredi valeat. 
+    </p>
+            <p xml:id="bt67yj-k45703-d1e434">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Ad postremum. Deserere dicitur Deus reprobos, 
+      <lb ed="#P" n="87"/>non quia eos prorsus a sua providentia excludat. Ita 
+      <lb ed="#P" n="88"/>enim necesse foret eos interire penitus &amp; in nihilum 
+      <lb ed="#P" n="89"/>relabi. Sed comparatione electorum, quibus providet 
+      <lb ed="#P" n="90"/>excellentiori modo, sic videlicet ut a justitia 
+      finali<lb ed="#P" n="91" break="no"/>ter non excidant. Quo modo non providet reprobis. 
+      <lb ed="#P" n="92"/>Quorum tamen etiam habere curam dicitur, non 
+      <lb ed="#P" n="93"/>tantum conservando naturam; sed &amp; providendo ea, 
+      <lb ed="#P" n="94"/>quae providentiae ordo circa malos requirit, id est, 
+      in<lb ed="#P" n="95" break="no"/>fligendo poenas peccatis debitas. Quod etsi illis 
+      ma<lb ed="#P" n="96" break="no"/>lum sit, simpliciter tamen bonum est &amp; ordinatum, ac 
+      <lb ed="#P" n="97"/>toti universo congruens. Simulque hoc pacto salvatur 
+      <lb ed="#P" n="98"/>providentiae ratio, quae requirit ut res unaquaeque in 
+      <lb ed="#P" n="99"/>finem suum dirigatur. Finis enim intelligendus est rei 
+      <lb ed="#P" n="100"/>vel simpliciter, vel quatenus pars est totius universi. 
+      <lb ed="#P" n="101"/>Quamquam dicere possumus, ac forte melius, ad 
+      pro<lb ed="#P" n="102" break="no"/>videntiam non pertinere ut per eam res unaquaeque 
+      <lb ed="#P" n="103"/>in suum dirigatur finem; sed absolute in finem scilicet 
+      <lb ed="#P" n="104"/>eum qui toti operi congruit, quomodo provisor 
+      fa<lb ed="#P" n="105" break="no"/>miliae comburens ligna non ea ordinat in finem 
+      li<lb ed="#P" n="106" break="no"/>gnis convenientem; sed familiae cujus curam gerit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

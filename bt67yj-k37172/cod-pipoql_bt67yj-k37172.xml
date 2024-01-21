@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="99"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k37172"><!-- l1d34c1" -->
+            <head xml:id="bt67yj-k37172-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k37172-Hd1e103" type="question-title">Quid intersit inter naturam et personam</head>
+            <p xml:id="bt67yj-k37172-d1e106">
+               <lb ed="#P" n="85"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="86"/>TRICESIMAMQUARTAM. 
+      <lb ed="#P" n="87"/>§. 1. Quid intersit inter naturam &amp; personam.
+    </p>
+            <p xml:id="bt67yj-k37172-d1e115">
+               <lb ed="#P" n="88"/>OSTENSUM est partim ad superiorem 
+      distin<lb ed="#P" n="89" break="no"/>ctionem, partim aliis locis, non ita 
+      distin<lb ed="#P" n="90" break="no"/>guendum esse inter naturam &amp; personam in 
+      <lb ed="#P" n="91"/>Deo ut una non sit altera. Revera enim in Deo &amp; 
+      per<lb ed="#P" n="92" break="no"/>sona natura est, &amp; natura persona. Nisi enim ita sit, 
+      <lb ed="#P" n="93"/>quaternitatem in Deo confiteri oportebit, scilicet 
+      <lb ed="#P" n="94"/>tres personas, &amp; naturam ab illis distinctam. Aliquid 
+      <lb ed="#P" n="95"/>tamen interesse inter personam &amp; naturam, vel ex eo 
+      <lb ed="#P" n="96"/>liquet, quod veteres haeretici, Ariani, Sabelliani, 
+      <lb ed="#P" n="97"/>Nestoriani, Eutychiani, haec duo non ita ut oportuit 
+      <lb ed="#P" n="98"/>discernentes, gravissime lapsi sunt. Ariani enim ex 
+      <lb ed="#P" n="99"/>tribus hypostasibus tres οὐσιας, id est, essentias 
+      con<lb ed="#P" n="100" break="no"/>cludebant. Sabelliani ex una <foreign>οὐσία</foreign>, unam hypostasim, 
+      <lb ed="#P" n="101"/>Nestoriani quod in Christo duae essent naturae, duas 
+      <lb ed="#P" n="102"/>item personas in eo constituebant, Euthychiani 
+      de<lb ed="#P" n="103" break="no"/>nique personae unitatem in Christo non aliter 
+      consi<lb ed="#P" n="104" break="no"/>stere arbitrabantur, nisi duabus naturis in unam 
+      con<lb ed="#P" n="105" break="no"/>tractis, aut altera, per alteram consumpta. Breviter 
+      <lb ed="#P" n="106"/>itaque discrimen illud, cujus ignorantia hos errores 
+      <lb ed="#P" n="107"/>peperit, nobis est explicandum. 
+    </p>
+            <p xml:id="bt67yj-k37172-d1e163">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Igitur in rebus creatis, reipsa aliud est natura, 
+      <lb ed="#P" n="109"/>aliud persona, atque in genere suppositum. Non 
+      <lb ed="#P" n="110"/>enim homo est humana natura, aut Petrus Petri 
+      na<lb ed="#P" n="111" break="no"/>tura. Quod &amp; in Christo locum habet, qui 
+      quate<lb ed="#P" n="112" break="no"/>nus homo non est natura, sed persona tantum; 
+      tam<lb ed="#P" n="113" break="no"/>etsi naturam humanam habeat. At in Deo propter 
+      <lb ed="#P" n="114"/>summam ejus simplicitatem, idem reipsa est persona, 
+      <lb ed="#P" n="115"/>quod natura, quemadmodum bene docet <ref xml:id="bt67yj-k37172-Rd1e184">sanctus 
+      <lb ed="#P" n="116"/>Thomas 1. quaest. 3. articulo 3.</ref> &amp; <ref xml:id="bt67yj-k37172-Rd1e189">quaest. 39. art. 
+      <lb ed="#P" n="117"/>1.</ref> Unde &amp; sanctus <ref xml:id="bt67yj-k37172-Rd1e195">Augustinus libr. 7. de Trinitate, 
+      <lb ed="#P" n="118"/>capit. 6.</ref> Cum dicimus, inquit, personam patris, non 
+      <lb ed="#P" n="119"/>aliud dicimus quam substantiam patris. Quocirca 
+      <lb ed="#P" n="120"/>Christus ipse, qua ratione est filius Dei, non tantum 
+      <lb ed="#P" n="121"/>habere naturam dicitur; sed &amp; esse ipsa natura, sive es 
+      <lb ed="#P" n="122"/>sentia divina. Caeterum agnoscenda est etiam hic, 
+      in<lb ed="#P" n="123" break="no"/>ter naturam &amp; personam rationis distinctio. Alia 
+      <lb ed="#P" n="124"/>namque naturae, alia personae ratio est. Natura enim 
+      <lb ed="#P" n="125"/>ut talis, supposito vel suppositis communicabilis est, 
+      <lb ed="#P" n="126"/>atque in iis subsistit: Persona vero est ipsum 
+      supposi<lb ed="#P" n="127" break="no"/>tum in quo natura subsistit, estque secundum 
+      pro<lb ed="#P" n="128" break="no"/>priam rationem incommunicabilis, ut ex ejus 
+      defini<lb ed="#P" n="129" break="no"/>tione ad distinctionem vicesimamtertiam exposita, 
+      <lb ed="#P" n="130"/>clarum est. Efficit hoc rationis discrimen, ut neque 
+      <lb ed="#P" n="131"/>personarum distinctio in Deo naturas multiplicet, 
+      <lb ed="#P" n="132"/>neque naturae unitas personas confundat. De qua re 
+      <lb ed="#P" n="133"/>plura <ref xml:id="bt67yj-k37172-Rd1e232">vide supra ad distinctionem 23. &amp; 25.</ref>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

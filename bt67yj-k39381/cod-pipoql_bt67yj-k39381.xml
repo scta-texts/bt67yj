@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="105"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k39381"><!-- l1d37c2" -->
+            <head xml:id="bt67yj-k39381-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k39381-Hd1e103" type="question-title">Deum in quibusdam esse peculiari modo</head>
+            <p xml:id="bt67yj-k39381-d1e106">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> §. 2. Deum in quibusdam esse peculiari modo
+    </p>
+            <p xml:id="bt67yj-k39381-d1e113">
+               <lb ed="#P" n="87"/>QUamvis in omnibus rebus Deus sit tribus 
+      mo<lb ed="#P" n="88" break="no"/>dis jam declaratis, diverso tamen ac peculiari 
+      <lb ed="#P" n="89"/>quodam modo est in justis &amp; sanctis, tum angclis 
+      <lb ed="#P" n="90"/>tum hominibus. In his enim habitare dicitur 
+      con<lb ed="#P" n="91" break="no"/>suetudine scripturae sacrae: &amp; vicissim illi 
+      habitacu<lb ed="#P" n="92" break="no"/>lum &amp; templum Dei esse dicuntur, eo quod fide, 
+      <lb ed="#P" n="93"/>spe, &amp; charitate Deo sint conjuncti, ac veluti 
+      con<lb ed="#P" n="94" break="no"/>secrati instar templi. Neque enim in omnibus a 
+      qui<lb ed="#P" n="95" break="no"/>bus cognoscitur Deus aliquo modo, vel etiam in 
+      qui<lb ed="#P" n="96" break="no"/>bus operatur aliqua, quae ad salutem pertinent, 
+      in<lb ed="#P" n="97" break="no"/>habitare dicitur; sed in iis solis, quos regit propitius, 
+      <lb ed="#P" n="98"/>collata nimirum venia peccatorum &amp; gratia 
+      justifi<lb ed="#P" n="99" break="no"/>cationis per spiritum adoptionis filiorum, sive illi 
+      <lb ed="#P" n="100"/>adulti sint, sive parvuli. De qua re videatur 
+      Augu<lb ed="#P" n="101" break="no"/>stinus epist. 57. &amp; 105. Translata est autem haec 
+      phra<lb ed="#P" n="102" break="no"/>sis ad res divinas ex consuetudine humana. Sicut 
+      <lb ed="#P" n="103"/>enim homines frequentant imo &amp; pessunt, in 
+      ha<lb ed="#P" n="104" break="no"/>bitant ea loca quae amant, &amp; quibus delectantur: ita 
+      <lb ed="#P" n="105"/>Deus habitare dicitur in justis quos diligit. Unde 
+      <lb ed="#P" n="106"/>illud Joan. 14. Si quis diligit me, sermonem meum 
+      ser<lb ed="#P" n="107" break="no"/>vabit, &amp; pater meus diligent eum; &amp; ad eum veniemus, 
+      <lb ed="#P" n="108"/>&amp; mansionem apud eum faciemus. 
+    </p>
+            <p xml:id="bt67yj-k39381-d1e163">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Porro quanto justior, perfectior &amp; beatior quis 
+      <lb ed="#P" n="110"/>fuerit, tanto perfectius &amp; plenius inhabitantem 
+      ha<lb ed="#P" n="111" break="no"/>bet Deum. Unde consequitur multo perfectius ac 
+      <lb ed="#P" n="112"/>plenius Deum esse in beatis sive angelis, sive 
+      homi<lb ed="#P" n="113" break="no"/>nibus, quam in quibuscunque justis, in hac adhuc 
+      <lb ed="#P" n="114"/>vita constitutis. At vero longe perfectissimo &amp; 
+      inef<lb ed="#P" n="115" break="no"/>fabili modo Deus est in Christo homine, in quo ita 
+      <lb ed="#P" n="116"/>excellenter habitat divinitas, ut ipse vere ac proprie 
+      <lb ed="#P" n="117"/>Deus dicatur. De quo dictum est ab Apostoio Col. 
+      <lb ed="#P" n="118"/>2. in ipso plenitudinem divinitatis inhabitare 
+      corpo<lb ed="#P" n="119" break="no"/>raliter. Corporaliter, inquam, non tantum ut 
+      oppo<lb ed="#P" n="120" break="no"/>natur figurae, secundum quam Deus in arca foederis 
+      <lb ed="#P" n="121"/>esse &amp; habitare dicebatur, sed magis propter 
+      hypo<lb ed="#P" n="122" break="no"/>staticam illam unionem, qua divina natura cum hu 
+      <lb ed="#P" n="123"/>mana &amp; corporea in unam convenere personam, ut 
+      <lb ed="#P" n="124"/>vere dicere liceat, divinitatem suscepta humanitate 
+      <lb ed="#P" n="125"/>incarnatam &amp; incorporatam esse. Qua de re vide 
+      <lb ed="#P" n="126"/>Leonem in fine epistolae 97. Sed de hoc argumento 
+      <lb ed="#P" n="127"/>plura &amp; ex professo in <ref xml:id="bt67yj-k39381-Rd1e208">lib. 3. sententiarum dist. 5.</ref>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

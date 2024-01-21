@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="72"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k26775"><!-- l1d18c5" -->
+            <head xml:id="bt67yj-k26775-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-k26775-Hd1e103" type="question-title">An filius dici possit noster, sicut Pater 
+      et Spiritus sanctus</head>
+            <p xml:id="bt67yj-k26775-d1e106">
+               <lb ed="#P" n="39"/>§. 5. An filius dici possit noster, sicut Pater 
+      <lb ed="#P" n="40"/>&amp; Spiritus sanctus?
+    </p>
+            <p xml:id="bt67yj-k26775-d1e113">
+               <lb ed="#P" n="41"/>SUamvis nos absolute ipsius Dei esse dicamur, 
+      <lb ed="#P" n="42"/>nimirum ut creaturae ejus, ac proinde totum 
+      <lb ed="#P" n="43"/>quod sumus aut habemus, ad ipso habentes; Deus 
+      <lb ed="#P" n="44"/>tamen non ita absolute noster dici potest, velut hac 
+      <lb ed="#P" n="45"/>propositione, Deus est noster, sed tantummodo 
+      no<lb ed="#P" n="46" break="no"/>ster dicitur cum addito, dum videlicet de Deo 
+      praedi<lb ed="#P" n="47" break="no"/>catur vox aliqua quae quandam ad nos relationem 
+      <lb ed="#P" n="48"/>importare intelligitur, quales sunt quae causam 
+      effi<lb ed="#P" n="49" break="no"/>cientem, finem, formam, exemplar aut simile alquid 
+      <lb ed="#P" n="50"/>respectu nostri significant. Cujusmodi sunt, creator, 
+      <lb ed="#P" n="51"/>salvator, protector, Dominus, vita beatitudo, 
+      prote<lb ed="#P" n="52" break="no"/>ctio. Quin etiam dicitur Deus noster, quatenus a 
+      no<lb ed="#P" n="53" break="no"/>bis colitur, &amp; pater noster, quatenus nos fecit, &amp; 
+      <lb ed="#P" n="54"/>factos conservat, nec non peculiari ratione, 
+      quate<lb ed="#P" n="55" break="no"/>nus per gratiam nos in filios adoptat. Dicitur &amp; 
+      spiri<lb ed="#P" n="56" break="no"/>tus noster, quatenus nobis inspiratus, spirat, &amp; 
+      vi<lb ed="#P" n="57" break="no"/>tam operatur in nobis. Atque haec omnia variis 
+      scri<lb ed="#P" n="58" break="no"/>pturae testimoniis probare non est difficile. Qua de re 
+      <lb ed="#P" n="59"/>videre est August. lib. 5. de Trinit. cap. 14 
+    </p>
+            <p xml:id="bt67yj-k26775-d1e157">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Sunt autem aliae quaedam voces Deo attributae quae 
+      <lb ed="#P" n="61"/>quod re spectum nullum ad nos importent, 
+      adjectio<lb ed="#P" n="62" break="no"/>nem hujusmodi non admittunt. Non enim essentia 
+      <lb ed="#P" n="63"/>vel persona Deidici potest essentia vel persona 
+      no<lb ed="#P" n="64" break="no"/>stra: ne vel essentia vel persona divina putetur nobis 
+      <lb ed="#P" n="65"/>competere. Sic ergo nec Dei filius recte vocatur 
+      <lb ed="#P" n="66"/>filius noster, ne filius Dei intelligatur ex nobis 
+      geni<lb ed="#P" n="67" break="no"/>tus, aut a nobis aliquo modo accipere esse: sicut 
+      vo<lb ed="#P" n="68" break="no"/>catur pater noster, quia nos ab illo omne esse 
+      no<lb ed="#P" n="69" break="no"/>strum accipimus. Unde &amp; Christus in Evangelio 
+      <lb ed="#P" n="70"/>cum diceret: Qui facit voluntatem patris mei, ille 
+      <lb ed="#P" n="71"/>pmeus frater &amp; soror est &amp; mater est. Matth. 12. non 
+      ad<lb ed="#P" n="72" break="no"/>dit, &amp; pater, ne Dei filius, cujusquam hominis, sola 
+      <!--0095.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>matre excepta, ex qua secundum carnem genitus 
+      <lb ed="#P" n="74"/>erat, filius esse intelligeretur. Atque hoc est quod ait 
+      <lb ed="#P" n="75"/>S. August. loco jam indicato. Quod de patre natum 
+      <lb ed="#P" n="76"/>est, ad patrem solum referri, quatenus filius dicitur, 
+      <lb ed="#P" n="77"/>licet aliis nominibus enunciatus possit etiam noster 
+      <lb ed="#P" n="78"/>dici, ut Dominus, redemptor, panis noster, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-k26775-d1e208">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Breviter autem de hac re sanctus Thomas. 1. p. qu. 
+      <lb ed="#P" n="80"/>36. art. 1. ad tertium, ita scribit: In nomine filii 
+      intel<lb ed="#P" n="81" break="no"/>ligitur sola relatio ejus qui est a principio, ad 
+      princi<lb ed="#P" n="82" break="no"/>pium. Sed in nomine patris intelligitur relatio principu: 
+      <lb ed="#P" n="83"/>Et similiter in nomine spiritus, prout importat 
+      quan<lb ed="#P" n="84" break="no"/>dam vim motivam: Nulli autem creaturae competit esse 
+      <lb ed="#P" n="85"/>principium respectu alicujus divinae personae, sed e 
+      con<lb ed="#P" n="86" break="no"/>verso. Et ideo potest dici pater noster, &amp; spiritus noster, 
+      <lb ed="#P" n="87"/>non tamen dici filius noster. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

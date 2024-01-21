@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="60"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k22263"><!-- l1d14c2" -->
+            <head xml:id="bt67yj-k22263-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-k22263-Hd1e103" type="question-title">Quid intersit inter missionem et dationem 
+      Spiritus sancti</head>
+            <p xml:id="bt67yj-k22263-d1e106">
+               <lb ed="#P" n="42"/>§. 2. Quid intersit inter missionem &amp; dationem 
+      <lb ed="#P" n="43"/>Spiritus sancti.
+    </p>
+            <p xml:id="bt67yj-k22263-d1e113">
+               <lb ed="#P" n="44"/>MIssio Spiritus sancti alio nomine datio vocatur 
+      <lb ed="#P" n="45"/>Min scripturis. Et utrumque tam filio quam 
+      spi<lb ed="#P" n="46" break="no"/>4. ritui sancto in iisdem scripturis tribuitur. Nam de 
+      fi<lb ed="#P" n="47" break="no"/>lio scriptum est, Isa. 9. Filius datus est nobis, Et Joan. 
+      <lb ed="#P" n="48"/>3. Sic Deus dilexit mundum, ut filium suum unigeni 
+      <lb ed="#P" n="49"/>tum daret, &amp; Gal. 4. Misit Deus filium suum. Et 
+      pas<lb ed="#P" n="50" break="no"/>sim in Evangelio Christus se missum a patre testatur 
+      <lb ed="#P" n="51"/>Item de spiritu sancto. Rom. 5. Charitas Dei diffusa 
+      <lb ed="#P" n="52"/>est in cordibus nostris, per spiritum sanctum qui datus est 
+      <lb ed="#P" n="53"/>nobis. Et Gal. 4. Misit spiritum filii sui in corda nostra, 
+      <lb ed="#P" n="54"/>&amp;c. Et saepe alibi. Sed inter missionem &amp; dationem 
+      <lb ed="#P" n="55"/>hoc interest, quod missio primum nobis insinuat 
+      re<lb ed="#P" n="56" break="no"/>spectum quendam personae missae ad mittentem 
+      tan<lb ed="#P" n="57" break="no"/>quam authorem &amp; originem suam, &amp; praeterea 
+      de<lb ed="#P" n="58" break="no"/>signat ejusdem personae novum quendam existendi 
+      <lb ed="#P" n="59"/>modum in creatura. Nam qui mittitur incipit esse ubi 
+      <lb ed="#P" n="60"/>non erat, vel simpliciter, vel certo modo. Hinc fit 
+      <lb ed="#P" n="61"/>ut nusquam legamus patrem missum aliquando 
+      fuis<lb ed="#P" n="62" break="no"/>se, quia originem ab alio non habet; tametsi &amp; ipse 
+      <lb ed="#P" n="63"/>veniat ad sanctificandum hominem, juxta illud Joan. 
+      <lb ed="#P" n="64"/>14. Patermeus diliget eum, &amp; ad eum veniemus, &amp;c. 
+      <lb ed="#P" n="65"/>Est enim haec actio, id est, hominis sanctificatio, 
+      <lb ed="#P" n="66"/>opus ad extra, &amp; proinde toti Trinitati commune. 
+    </p>
+            <p xml:id="bt67yj-k22263-d1e165">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Porro dari id dicitur, quod quocunque authore, 
+      <lb ed="#P" n="68"/>seu agente, incipit haberi, seu possideri ab eo, a quo 
+      <lb ed="#P" n="69"/>prius non habebatur, vel simpliciter vel certo modo. 
+      <lb ed="#P" n="70"/>Non importat autem hoc verbum authoritatem 
+      dan<lb ed="#P" n="71" break="no"/>tis respectu ejus quod datur, vel hujus ab illo origi 
+      <!--0083.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>nem, sed significat tantummodo, liberalem ejus 
+      <lb ed="#P" n="73"/>quod datur communicationem. Dat enim, qui efficit 
+      <lb ed="#P" n="74"/>ut quippiam ab aliquo habeatur, sive ipsius rei, quam 
+      <lb ed="#P" n="75"/>facit haberi, sit author &amp; origo, sive non. Unde &amp; 
+      <lb ed="#P" n="76"/>filius semetipsum dare dicitur. Galat. I. Et pater 
+      ve<lb ed="#P" n="77" break="no"/>niens ad hominem, eique dona sua communicans, 
+      <lb ed="#P" n="78"/>recte dicitur seipsum homini dare. Igitur in 
+      divi<lb ed="#P" n="79" break="no"/>nis, latius patet dare, quam mittere, &amp; similiter 
+      <lb ed="#P" n="80"/>dari, quam mitti. Sed de his plura distinctione 
+      pro<lb ed="#P" n="81" break="no"/>xime sequenti. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

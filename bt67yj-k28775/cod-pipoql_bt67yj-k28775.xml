@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="77"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k28775"><!-- l1d21c1" -->
+            <head xml:id="bt67yj-k28775-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k28775-Hd1e103" type="question-title">Quomodo vox exclusiva, solus, Dec 
+      tribuatur</head>
+            <p xml:id="bt67yj-k28775-d1e106">
+               <lb ed="#P" n="80"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="81"/>VICESIMAMPRIMAM. 
+      <lb ed="#P" n="82"/>§. 1. Quomodo vox exclusiva, solus, Dec 
+      <lb ed="#P" n="83"/>tribuatur.
+    </p>
+            <p xml:id="bt67yj-k28775-d1e117">
+               <lb ed="#P" n="84"/>CUM dixerit S. Augustinus lib. 6. de trinit.  
+      <lb ed="#P" n="85"/>cap. 7. &amp; 8. tantum esse patrem solum, vel! 
+      <lb ed="#P" n="86"/>filium solum, vel spiritum sanctum solum, 
+      <lb ed="#P" n="87"/>quanta est tota Trinitas, merito quaeritur, quomodo 
+      <lb ed="#P" n="88"/>vox ista, solus, quae solitudinem significare videtur, 
+      <lb ed="#P" n="89"/>recte Deo ac divinis personis tribuatur, atque 
+      om<lb ed="#P" n="90" break="no"/>nino, quomodo illa in divinis usurpetur. Ad quod 
+      <lb ed="#P" n="91"/>respondentes dicimus, ejus vocabuli varium esse 
+      <lb ed="#P" n="92"/>usum in vulgato sermone. Aliquando enim 
+      solita<lb ed="#P" n="93" break="no"/>rium significat, ita ut excludat consortium rerum 
+      <lb ed="#P" n="94"/>ejusdem naturae vel speciei; quomodo de Adam 
+      di<lb ed="#P" n="95" break="no"/>ctum est, Genes. 2. Non est bonum hominem esse solum. 
+      <lb ed="#P" n="96"/>Hoc sensu nec Deus, nec ulla in divinis persona, sola 
+      <lb ed="#P" n="97"/>est, cum sit ibi foelicissima trium personarum, in una 
+      <lb ed="#P" n="98"/>natura perfectissime convenientium, societas. Hoc 
+      <lb ed="#P" n="99"/>modo filius Dei, Joan. 8. ait: Solus non sum, sed 
+      <lb ed="#P" n="100"/>ego &amp; qui misit me pater. Et 16. Non sum solus, quia 
+      <lb ed="#P" n="101"/>pater mecum est. Nam quod ibidem dicit: 
+      Relin<lb ed="#P" n="102" break="no"/>quetis me solum, intellige, quantum in vobis erit. 
+      <lb ed="#P" n="103"/>Ita sanctus Augustinus lib. 6. de trinit. cap. 7. docet 
+      <lb ed="#P" n="104"/>Deum non esse solum, tametsi sit solus Deus. Solus 
+      <lb ed="#P" n="105"/>enim esse negatur non tantum quia est cum spiritibus 
+      <lb ed="#P" n="106"/>) &amp; animabus sanctis, ut ibi dicit sanctus Augustinus, 
+      <lb ed="#P" n="107"/>fuit enim sine illis ante mundum conditum; sed 
+      prae<lb ed="#P" n="108" break="no"/>cipue propter beatissimum consortium trium 
+      perso<lb ed="#P" n="109" break="no"/>narum. Quocirca neque ipsa Trinitas sola, id est, 
+      <lb ed="#P" n="110"/>solitaria dici potest, cum ea in se complectatur illud 
+      <lb ed="#P" n="111"/>trium personarum consortium. Quod nimirum 
+      in<lb ed="#P" n="112" break="no"/>dicatum est verbis illis Genes. 1. Faciamus hominem 
+      <lb ed="#P" n="113"/>ad imaginem &amp; similitudinem nostram. Hac enim 
+      <lb ed="#P" n="114"/>scriptura ad hoc ipsum probandum, usus est 
+      Hila<lb ed="#P" n="115" break="no"/>rius lib. 4. de trinit. Fere autem dicto modo 
+      accipi<lb ed="#P" n="116" break="no"/>tur dictio, solus, quando prorsus solitarie ponitur ex 
+      <lb ed="#P" n="117"/>parte attributi in enunciatione, velut cum dicimus 
+      <lb ed="#P" n="118"/>Deus est solus, Joannes est solus. Quod si ex parte 
+      <lb ed="#P" n="119"/>attributi aliam partem adjunctam habeat, non 
+      so<lb ed="#P" n="120" break="no"/>litudinem significabit; sed removebit ab attributo 
+      <lb ed="#P" n="121"/>rem omnem a subjecto diversam. Et hoc pacto 
+      ve<lb ed="#P" n="122" break="no"/>rissime dicitur unus Deus, esse solus Deus, 
+      quemad<lb ed="#P" n="123" break="no"/>modum loco modo citato testatur Augustinus. Unde 
+      <lb ed="#P" n="124"/>ipse Dominus, Deut. 32. Videte, inquit, quod eg¬o 
+      <lb ed="#P" n="125"/>sim solus, subaudi Deus. Sic enim exponit verbis 
+      se<lb ed="#P" n="126" break="no"/>quentibus, Et non sit alius Deus praeter me. Ita 
+      di<lb ed="#P" n="127" break="no"/>ctum est ab Apostolo 1. Timoth. 1. Soli Deo honor. 
+      <lb ed="#P" n="128"/>&amp; gloria, id est, ei qui est solus Deus.
+    </p>
+            <p xml:id="bt67yj-k28775-d1e217">
+               <lb ed="#P" n="129"/>Porro si subjecto propositionis eadem vox 
+      adjun<lb ed="#P" n="130" break="no"/>gatur, longe manifestius significabit remotionem 
+      <lb ed="#P" n="131"/>praedicati ab omni eo quod a subjecto diversum est. 
+      <lb ed="#P" n="132"/>Sic Deo dicitur Job. 13. Nonne tu qui solus es? Quo 
+      <lb ed="#P" n="133"/>significatur Deum solum esse, nimirum illo 
+      excel<lb ed="#P" n="134" break="no"/>lentissimo modo, quo id esse dicitur, quod esse 
+      <lb ed="#P" n="135"/>suum a nullo alio accepit. Ita 1. Timot. 1. solus Deus 
+      <lb ed="#P" n="136"/>dicitur immortalis, id est, natura sua aeternus atque 
+      <lb ed="#P" n="137"/>immutabilis. Et c. 6. Solus Deus potens, &amp; Rom. 16. 
+      <lb ed="#P" n="138"/>Solus sapiens. Sic &amp; Deut. 32. scriptum est: Dominus 
+      <lb ed="#P" n="139"/>solus dux ejus fuit. His, inquam, &amp; hujusmodi 
+      sen<lb ed="#P" n="140" break="no"/>tentiis significat scriptura talium propositionum 
+      at<lb ed="#P" n="141" break="no"/>tributa sic competere Deo, ut nulli rei a Deo diversae 
+      <lb ed="#P" n="142"/>conveniant. De hoc locutionis modo in divinis 
+      <!--0101.xml-->
+      <pb ed="#P" n="78"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>videre est S. August. lib. I. de trinit. cap. 6. &amp; lib. 3. 
+      <lb ed="#P" n="2"/>contra Maxim. cap. 9. &amp; quatuor sequentibus, &amp; 
+      <lb ed="#P" n="3"/>S. Thom. 1. quaest. 31. art. 3. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

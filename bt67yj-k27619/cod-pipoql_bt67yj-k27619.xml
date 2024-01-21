@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="74"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k27619"><!-- l1d19c4" -->
+            <head xml:id="bt67yj-k27619-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k27619-Hd1e103" type="question-title">Cur Deus non triplex sed trinus dicatur</head>
+            <p xml:id="bt67yj-k27619-d1e106">
+               <lb ed="#P" n="86"/>§. 4. Cur Deus non triplex sed trinus dicatur.
+    </p>
+            <p xml:id="bt67yj-k27619-d1e111">
+               <lb ed="#P" n="87"/>DEus in tribus personis subsistens, non triplex sed 
+      <lb ed="#P" n="88"/>trinus dicendus est. Triplicitas enim, 
+      quemad<lb ed="#P" n="89" break="no"/>modum ex Boetio lib. I. de arithmetica c. 24. tradit. 
+      <lb ed="#P" n="90"/>S. Thom. 1. quaest. 31. art. 1. ad tertium, species 
+      quae<lb ed="#P" n="91" break="no"/>dam est inaequalis proportionis, sicut alia similis 
+      for<lb ed="#P" n="92" break="no"/>mae vocabula. Unde triplex dicitur, quasi 
+      triplica<lb ed="#P" n="93" break="no"/>tum, id est, quod triplo majus est eo cum quo 
+      compa<lb ed="#P" n="94" break="no"/>ratur, quod ab arithmeticis subtriplum vocatur. 
+      <lb ed="#P" n="95"/>Quare cum neque tres personae simul, neque divina 
+      <lb ed="#P" n="96"/>essentia sit aliquid majus personis singulis, nec 
+      omni<lb ed="#P" n="97" break="no"/>no proportionem inaequalitatis respectu earum 
+      sub<lb ed="#P" n="98" break="no"/>eat, patet Deum respectu earumdem, triplicem dici 
+      <lb ed="#P" n="99"/>non posse, quemadmodum bene ratiocinatur S. 
+      Au<lb ed="#P" n="100" break="no"/>gustinus l. 6. de Trinit. c. 7. &amp; 8. verbis a Magistro 
+      <lb ed="#P" n="101"/>adductis. Legmus quidem apud Chrysost. in hom. 
+      <lb ed="#P" n="102"/>de Joan. Baptista tom. 3. quod in patre &amp; filio &amp; 
+      spiri<lb ed="#P" n="103" break="no"/>tu sancto est triplex &amp; una divinitas. Verum ea hom. 
+      <lb ed="#P" n="104"/>Chrysostomi non est, sed incerti authoris. Et ut 
+      lo<lb ed="#P" n="105" break="no"/>cum benigne interpretemur, triplex ibi pro trino 
+      <lb ed="#P" n="106"/>positum accipere debemus, sicut &amp; apud 
+      Pruden<lb ed="#P" n="107" break="no"/>tium in hymno de cereo Paschali cum ait de Deo; 
+      <lb ed="#P" n="108"/>Regnum continuat numine triplici. Nam idem 
+      Pruden<lb ed="#P" n="109" break="no"/>tius in hymno ante somnum expresse posuit nomen 
+      <lb ed="#P" n="110"/>Trinitatis. Similiter interpretandum quod apud Isid. 
+      <lb ed="#P" n="111"/>legitur lib. 1. etym. c. 4. in Deo unitatem esse 
+      sin<lb ed="#P" n="112" break="no"/>gularem. Trinitatem vero multiplicem. Nihil aliud 
+      <lb ed="#P" n="113"/>enim vult quam in Deo esse numerum seu 
+      pluralita<lb ed="#P" n="114" break="no"/>tem personarum. Caeterum quo alio sensu Deus 
+      pos<lb ed="#P" n="115" break="no"/>sit dici multiplex, exposuimus supra ad dist. 8. 
+    </p>
+            <p xml:id="bt67yj-k27619-d1e176">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Porro trinum numero singulari, profanis 
+      authori<lb ed="#P" n="117" break="no"/>bus vix usitatum, consuetudine scholae Christiana 
+      <lb ed="#P" n="118"/>significat aliquid habens tria supposita. Estque Deo 
+      <lb ed="#P" n="119"/>proprium, si illud aliquid unum secundum rem 
+      in<lb ed="#P" n="120" break="no"/>telligamus. Nulla est enim creatura quae secundum 
+      <lb ed="#P" n="121"/>rem una cademque cum sit, in tribus suppositis 
+      sub<lb ed="#P" n="122" break="no"/>sistat, sed solicreaturarum authori id competit. Qui 
+      <lb ed="#P" n="123"/>proinde trinus dicitur, quasi tres unus. Trinitas 
+      au<lb ed="#P" n="124" break="no"/>tem etsi secundum etymologiam vocabuli videatur 
+      <lb ed="#P" n="125"/>significare unam essentiam trium personarum, ut 
+      <lb ed="#P" n="126"/>Trinitas dicatur, quasi trium unitas, potius tamen 
+      <lb ed="#P" n="127"/>sccundum proprietatem vocabuli, quam habet ex 
+      <lb ed="#P" n="128"/>usu Ecclesiae, significat numerum personarum unius 
+      <lb ed="#P" n="129"/>essentiae, eumque determinatum, nempe ternarium, 
+      <lb ed="#P" n="130"/>ut Trinitas hoc significet determinate quod 
+      plurali<lb ed="#P" n="131" break="no"/>tas indeterminate, quemadmodum docet S. Thom. 
+      <lb ed="#P" n="132"/>loco jam allegato in corpore &amp; ad primum 
+      argu<lb ed="#P" n="133" break="no"/>mentum. Unde non est consequens unamquamque 
+      <lb ed="#P" n="134"/>personam esse Trinitatem, licet de unaquaque 
+      perso<lb ed="#P" n="135" break="no"/>na vere dicatur, quod sit unitas essentiae divinae, sicut 
+      <lb ed="#P" n="136"/>est essentia divina. Non enim unaquaeque persona est 
+      <lb ed="#P" n="137"/>numerus personarum, id est, ipsae tres personae, unius 
+      <lb ed="#P" n="138"/>essentiae. Trinitatem autem Graeci Tειάδα nominant 
+      <lb ed="#P" n="139"/>vocabulo etiam profanis authoribus usitato, apud 
+      <lb ed="#P" n="140"/>quos in genere ternarium numerum seu ternionem 
+      <lb ed="#P" n="141"/>significat, sed usu Ecclesiae jam inde ab initio, 
+      <lb ed="#P" n="142"/>ad ternarium personarum in Deo significandum 
+      <lb ed="#P" n="143"/>est appropriatum. Utitur eo in hac significatione 
+      <!--0098.xml-->
+      <pb ed="#P" n="75"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Dionysius capit. 1. Eccl. Hierarch. dicens Triadem. 
+      <lb ed="#P" n="2"/>Hierarchiae principium esse, &amp;c. Nec laborandum 
+      <lb ed="#P" n="3"/>ut in sacris literis hoc nomen monstretur, quod olim 
+      <lb ed="#P" n="4"/>exegerunt Ariani. Sufficit enim rem hoc nomine 
+      <lb ed="#P" n="5"/>monstratam ibi contineri, etiam cum numeri 
+      deter<lb ed="#P" n="6" break="no"/>minati expressione ut 1. Joan. 5. Tres sunt qui 
+      testi<lb ed="#P" n="7" break="no"/>monium dant in caelo, &amp;c. &amp; hi tres unum sunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

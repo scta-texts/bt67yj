@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="57"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k21222"><!-- l1d13c1" -->
+            <head xml:id="bt67yj-k21222-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-k21222-Hd1e103" type="question-title">Explicatur discrimen inter generationem 
+      filii et processionem Spiritus sancti</head>
+            <p xml:id="bt67yj-k21222-d1e106">
+               <lb ed="#P" n="55"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="56"/>DECIMAMTERTIAM. 
+      <lb ed="#P" n="57"/>§. 1. Explicatur discrimen inter generationem 
+      <lb ed="#P" n="58"/>filii &amp; processionem Spiritus sancti.
+    </p>
+            <p xml:id="bt67yj-k21222-d1e117">
+               <lb ed="#P" n="59"/>PRo intellectu quaestionis, qua discrimen 
+      in<lb ed="#P" n="60" break="no"/>quiritur generationis filii Dei &amp; processionis 
+    </p>
+            <p xml:id="bt67yj-k21222-d1e124">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Spiritus sancti, primo loco notandum est 
+      pro<lb ed="#P" n="62" break="no"/>cessionis nomen ex se generale esse ad omnem 
+      mo<lb ed="#P" n="63" break="no"/>dum, quo aliud ex alio oritur, atque emanat. Nam &amp; 
+      <lb ed="#P" n="64"/>quae nascuntur, procedunt. Unde Augustinusl. 3. 
+      con<lb ed="#P" n="65" break="no"/>tra Max. cap. 14. Non omne, inquit, quod procedit 
+      <lb ed="#P" n="66"/>nascitur, licet omne id quod nascitur procedat. Et qui 
+      <lb ed="#P" n="67"/>mittitur a mittente procedit. Unde Christus Joan. 8. 
+      <lb ed="#P" n="68"/>Ego ex Deo processi. Quod sive de aeterna ejus ex patre 
+      <!--0080.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>generatione, sive, quod ex contextu magis apparet, 
+      <lb ed="#P" n="70"/>de temporali missione in mundum intelligatur, utro 
+      <lb ed="#P" n="71"/>vis modo intellectum rei propositae servit. Et 
+      gene<lb ed="#P" n="72" break="no"/>raliter effectus ab efficiente causa procedit, ut calor 
+      <lb ed="#P" n="73"/>ab igne, creatura a creatore, opus ab artifice. Item 
+      <lb ed="#P" n="74"/>ex causa materiali, ut ex ligno vermis, ex 
+      vestimen<lb ed="#P" n="75" break="no"/>to tinea, ex Adam processit Eva. Parem fere 
+      latitu<lb ed="#P" n="76" break="no"/>dinem significationis obtinet in causarum genere, 
+      <lb ed="#P" n="77"/>producendi vocabulum, ut exemplis probare facile 
+      <lb ed="#P" n="78"/>est. Nam non solum vagatur per totum genus 
+      effi<lb ed="#P" n="79" break="no"/>cientis causae, verum etiam ultra extenditur. 
+      Produ<lb ed="#P" n="80" break="no"/>cit enim Deus pater filium, &amp; Spiritum sanctum. 
+      <lb ed="#P" n="81"/>Producit &amp; quaedam materia suum effectum, ut 
+      li<lb ed="#P" n="82" break="no"/>gnum vermem, vestis tineam. Quae cum ita sint, usu 
+      <lb ed="#P" n="83"/>tamen totius ecclesiae, nomen processionis 
+      contra<lb ed="#P" n="84" break="no"/>ctum est jam olim, ad significandum in divinis 
+      pecu<lb ed="#P" n="85" break="no"/>liariter illum modum, quo Spiritus sanctus a patre 
+      <lb ed="#P" n="86"/>procedit &amp; filio. Idque factum ea ratione, qua 
+      no<lb ed="#P" n="87" break="no"/>men generis, ad certam speciem nomine vacantem, 
+      <lb ed="#P" n="88"/>restringi solet; nisi quod nomine spirationis passivae, 
+      <lb ed="#P" n="89"/>species illa non tam a veteribus quam scholasticis 
+      do<lb ed="#P" n="90" break="no"/>ctoribus, significari solet. Deinde dubitandum non 
+      <lb ed="#P" n="91"/>est, quin haec processio realiter a generatione sit 
+      di<lb ed="#P" n="92" break="no"/>stincta. Neque enim aliter personae, quarum hae sunt 
+      <lb ed="#P" n="93"/>proprietates, reipsa distingui possent. Caeterum quia 
+      <lb ed="#P" n="94"/>cum reali distinctione consistit, ut sint emanationes 
+      <lb ed="#P" n="95"/>aliquae ejusdem rationis (distinguuntur enim reipsa 
+      <lb ed="#P" n="96"/>generatio hujus hominis &amp; generatio illius) 
+      propter<lb ed="#P" n="97" break="no"/>ea &amp; hoc addendum est, duas istas in divinis 
+      emana<lb ed="#P" n="98" break="no"/>tiones, sic esse reipsa distinctas, ut non ejusdem sint 
+      <lb ed="#P" n="99"/>rationis, sed diversae; sic ut altera quidem veram 
+      ge<lb ed="#P" n="100" break="no"/>nerationis habeat rationem, altera vero minime. 
+      <lb ed="#P" n="101"/>Neque enim duos filios in divinis agnoscit fides 
+      Ca<lb ed="#P" n="102" break="no"/>tholica; sed unicum &amp; unigenitum filium, ut 
+      Joan<lb ed="#P" n="103" break="no"/>1. &amp; alibi. Quo argumento ad probandum 
+      discri<lb ed="#P" n="104" break="no"/>men harum processionum utitur inter alia 
+      Augusti<lb ed="#P" n="105" break="no"/>nus tract. 99. in Joan. 
+    </p>
+            <p xml:id="bt67yj-k21222-d1e232">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> His ergo constitutis, quaeritur qua tandem ratione 
+      <lb ed="#P" n="107"/>distinguenda sit a generatione filii, processio Spiritus 
+      <lb ed="#P" n="108"/>sancti. Cum enim tam Spiritus sanctus, quam filius 
+      <lb ed="#P" n="109"/>ejusdem sit naturae cum patre, difficillimum videtur 
+      <lb ed="#P" n="110"/>ostendere, quod illa processio non sit generatio. 
+      Pri<lb ed="#P" n="111" break="no"/>mum igitur confitendum est cum Augustino lib. 3. 
+      <lb ed="#P" n="112"/>contra Maximinum c. 14. &amp; tract. 99. in Joan. non 
+      <lb ed="#P" n="113"/>posse humanum ingenium in hujus vitae mortalitate 
+      <lb ed="#P" n="114"/>assequi propriam illius rei cognitionem, praesertim 
+      <lb ed="#P" n="115"/>cum scriptura proprium aliquem modum hujus 
+      pro<lb ed="#P" n="116" break="no"/>cessionis, quae Spiritui sancto peculiaris est, non 
+      ex<lb ed="#P" n="117" break="no"/>presserit; quemadmodum etiam testatur Joannes 
+      Da<lb ed="#P" n="118" break="no"/>mascenus lib. 1. de Ortho. fide c. 10. Verumtamen 
+      <lb ed="#P" n="119"/>ut &amp; haereticis respondeatur, &amp; absurdae Deoque 
+      <lb ed="#P" n="120"/>indignae imaginationes ab animis fidelium 
+      excludan<lb ed="#P" n="121" break="no"/>tur, conati sunt scholae doctores, pro suo captu rem 
+      <lb ed="#P" n="122"/>tantam non omnino inexplicatam relinquere, 
+      adhi<lb ed="#P" n="123" break="no"/>bita similitudine, quae nec a scripturis aliena est, &amp; 
+      <lb ed="#P" n="124"/>ex patribus, praecipue ex compluribus Augustini locis 
+      <lb ed="#P" n="125"/>colligi potest. De qua superius etiam nonnihil 
+      di<lb ed="#P" n="126" break="no"/>ctum est ad distinctionem 10. cum de modo 
+      proces<lb ed="#P" n="127" break="no"/>sionis Spiritus sancti ageremus. Cum enim dictum sit 
+      <lb ed="#P" n="128"/>generationem filii, similem esse productioni verbi in 
+      <lb ed="#P" n="129"/>mente, processionem autem Spiritus sancti similem 
+      <lb ed="#P" n="130"/>esse productioni amoris, recte colligunt doctores, 
+      <lb ed="#P" n="131"/>inter haec duo tale discrimen, quod generatio sit 
+      <lb ed="#P" n="132"/>emanatio, per modum naturae, seu naturalis 
+      foecun<lb ed="#P" n="133" break="no"/>ditatis, processio vero, per modum voluntatis, seu 
+      <lb ed="#P" n="134"/>amoris. Non hoc significantes quod pater Spiritum 
+      <lb ed="#P" n="135"/>sanctum voluntate spiret, non natura (nam sicut 
+      fi<lb ed="#P" n="136" break="no"/>lius ita Spiritus sanctus a patre naturaliter emanat) 
+      <lb ed="#P" n="137"/>sed inter duas naturales emanationes, hujusmodi 
+      <lb ed="#P" n="138"/>discrimen constituentes, quod altera sola fiat per 
+      <lb ed="#P" n="139"/>modum naturae, altera vero per modum voluntatis. 
+      <lb ed="#P" n="140"/>Quamvis enim etiam a mente tam amor, quam 
+      <lb ed="#P" n="141"/>cognitio, naturaliter procedat, non tamen idem 
+      <lb ed="#P" n="142"/>processionis utriusque est modus; sed cognitio qui¬ 
+      <!--0081.xml-->
+      <pb ed="#P" n="58"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dem a mente oritur tanquam naturalis eaque 
+      per<lb ed="#P" n="2" break="no"/>fecta rei cognitae imago, amor autem, tanquam 
+      ne<lb ed="#P" n="3" break="no"/>xus quidam mutuus amantis ac rei amatae. Qua 
+      con<lb ed="#P" n="4" break="no"/>sideratione, alii aliis verbis, hoc discrimen 
+      expli<lb ed="#P" n="5" break="no"/>cantes, dicunt generationem esse per modum 
+      per<lb ed="#P" n="6" break="no"/>fectae assimilationis, processionem vero Spiritus 
+      <lb ed="#P" n="7"/>sancti per modum connexionis. Verum hinc 
+      rur<lb ed="#P" n="8" break="no"/>sum nemo suspicetur Spiritum sanctum non esse 
+      <lb ed="#P" n="9"/>perfecte similem patri. Quod dicere nefas est, cum 
+      <lb ed="#P" n="10"/>sit non minus quam filius, propter unitatem 
+      na<lb ed="#P" n="11" break="no"/>turae, patri simillimus. Sed modus processionis 
+      e<lb ed="#P" n="12" break="no"/>jus, non est modus assimilationis, sicut modus quo 
+      <lb ed="#P" n="13"/>procedit filius. Cujus rei aliquale exemplum 
+      finge<lb ed="#P" n="14" break="no"/>re possumus in pictore depingente sui ipsius 
+      imagi<lb ed="#P" n="15" break="no"/>nem. Quam etsi sibi similem, non tamen facit per 
+      <lb ed="#P" n="16"/>modum assimilationis. Nam eodem faciendi 
+      prin<lb ed="#P" n="17" break="no"/>cipio utitur, dum pingit imagines sibi dissimiles. 
+      <lb ed="#P" n="18"/>Aliud exemplum huic rei vicinius est in 
+      productio<lb ed="#P" n="19" break="no"/>ne Evae ex Adam, quae licet in similitudine naturae 
+      <lb ed="#P" n="20"/>ejus, scilicet humanae, ex eo processerit, non 
+      ta<lb ed="#P" n="21" break="no"/>men per modum assimilationis, quia non per 
+      mo<lb ed="#P" n="22" break="no"/>dum naturae: Unde nec nata dicitur ex Adam, nec 
+      <lb ed="#P" n="23"/>filia ejus; sed tantum ex eo producta. Abel autem 
+      <lb ed="#P" n="24"/>&amp; Cam &amp; caeteri, quia per modum naturae, id est, 
+      <lb ed="#P" n="25"/>naturali foecunditate ex Adam processerunt, hinc 
+      <lb ed="#P" n="26"/>nati ex eo dicuntur &amp; filii vocantur. Itaque recte 
+      <lb ed="#P" n="27"/>Damascenus l. 1. de Orth. fide c. 10. &amp; 11. spiritum 
+      <lb ed="#P" n="28"/>sanctum a patre prodire dixit, non nascibiliter, ne 
+      <lb ed="#P" n="29"/>que filialiter, sed processibiliter, quasi diceret, licet 
+      <lb ed="#P" n="30"/>ejusdem sit naturae cum patre, a quo procedit; non 
+      <lb ed="#P" n="31"/>tamen ab eo procedit via generationis, ut ex eo 
+      na<lb ed="#P" n="32" break="no"/>tus &amp; filius ejus dici possit; sed processionis 
+      cujus<lb ed="#P" n="33" break="no"/>dam innominatae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

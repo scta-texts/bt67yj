@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="21"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k07909"><!-- l1d4c4" -->
+            <head xml:id="bt67yj-k07909-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-k07909-Hd1e103" type="question-title">Responsio ad argumenta in contrarium</head>
+            <p xml:id="bt67yj-k07909-d1e106">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> §. 4. Responsio ad argumenta in contrarium.
+    </p>
+            <p xml:id="bt67yj-k07909-d1e113">
+               <lb ed="#P" n="134"/>COntra propositiones jam dictas objicitur 
+      hu<lb ed="#P" n="135" break="no"/>jusmodi argumentum: Si Deus Deum genuit, 
+      <lb ed="#P" n="136"/>ergo vel se Deum genuit vel alium Deum sicut de 
+      <lb ed="#P" n="137"/>homine recte sequitur, genuit hominem, ergo se 
+      <lb ed="#P" n="138"/>vel alium hominem. Et rursum. Si Deus ex Deo 
+      <lb ed="#P" n="139"/>genitus est, ergo vel ex se Deo genitus est, vel ex 
+      <lb ed="#P" n="140"/>alio Deo; quorum utrumque absurdissime dicitur. 
+      <lb ed="#P" n="141"/>Illud quidem quia natura non capit, &amp; ratio 
+      pror<lb ed="#P" n="142" break="no"/>sus aversatur, ut idem gignat seipsum, aut ex seipso 
+      <!--0045.xml-->
+      <pb ed="#P" n="22"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>gignatur, genitumve sit. Unde Augustinus libro 
+        <lb ed="#P" n="2"/>primo de trinit. cap. 1. Qui putat, inquit, ejus esse 
+        <lb ed="#P" n="3"/>potentiae Deum, ut seipsum ipse genuerit, eo plus 
+        <lb ed="#P" n="4"/>errat, quod non solum Deus ita non est, sed nec 
+      spi<lb ed="#P" n="5" break="no"/>ritualis, nec corporalis crcatura. Nulla enim 
+      om<lb ed="#P" n="6" break="no"/>nino res est quae seipsam gignat ut sit. Et 
+      meri<lb ed="#P" n="7" break="no"/>to, Nam &amp; contradictionem includit ea 
+      senten<lb ed="#P" n="8" break="no"/>tia, hanc nimirum ut quidpiam sit &amp; non sit 
+      prin<lb ed="#P" n="9" break="no"/>cipium ejusdem. Alterum vero aeque absurdum, 
+        <lb ed="#P" n="10"/>quia inde evidenter sequitur plures esse Deos. Sed 
+        <lb ed="#P" n="11"/>respondetur neutrum esse consequens. Ut enim 
+        <lb ed="#P" n="12"/>haec propositio vera sit, Deus Deum genuit, 
+      suffi<lb ed="#P" n="13" break="no"/>cit distinctio personarum in eandem naturam 
+      con<lb ed="#P" n="14" break="no"/>currentium, &amp; proinde non est simile, quod 
+      tan<lb ed="#P" n="15" break="no"/>quam simile adferebatur de homine. Nam in rebus 
+        <lb ed="#P" n="16"/>creatis plura supposita plures habent naturas 
+      singu<lb ed="#P" n="17" break="no"/>lares, non autem in Deo. Quare licet diversitas seu 
+        <lb ed="#P" n="18"/>distinctio personarum in humana natura arguat 
+        <lb ed="#P" n="19"/>alium atque alium hominem non tamen in divina 
+        <lb ed="#P" n="20"/>natura alium atque alium Deum. Qui enim dicit 
+      a<lb ed="#P" n="21" break="no"/>lium Deum non personam tantum, sed &amp; naturam 
+        <lb ed="#P" n="22"/>aliam saltem numero distinctam significat, sicut 
+        <lb ed="#P" n="23"/>qui dicit alium hominem. Multo minus sequitur 
+        <lb ed="#P" n="24"/>quod se Deum genuerit, cum hic etiam persona 
+      ea<lb ed="#P" n="25" break="no"/>dem significetur. Sed ex dicto antecedente 
+      distin<lb ed="#P" n="26" break="no"/>cte inferendum erat hoc modo, ergo Deus genuit 
+        <lb ed="#P" n="27"/>eum qui est alia persona divina a gignente. Unde 
+        <lb ed="#P" n="28"/>&amp; Augustinus cum in soliloquiis libro primo capite 
+        <lb ed="#P" n="29"/>17. dixisset de patre &amp; filio: Qui gignit &amp; quem 
+        <lb ed="#P" n="30"/>gignit, unum est, ex quo sequi videbatur quod 
+        <lb ed="#P" n="31"/>idem genuisset seipsum, retractat eam locutionem 
+        <lb ed="#P" n="32"/>lib. 1. retract. cap. 4. dicitque dicendum fuisse, 
+        <lb ed="#P" n="33"/>unum sunt, ut personarum pluralitas &amp; distinctio 
+        <lb ed="#P" n="34"/>significaretur, sicut aperte ipsa veritas loquitur 
+      di<lb ed="#P" n="35" break="no"/>cens: Ego &amp; pater unum sumus. 
+      </p>
+            <p xml:id="bt67yj-k07909-d1e217">
+               <lb ed="#P" n="36"/>Alterum argumentum (quod ut &amp; prius a 
+      Magi<lb ed="#P" n="37" break="no"/>stro adfertur) tale est: Si Deus Deum genuit, ergo 
+        <lb ed="#P" n="38"/>vel Deum genuit qui pater est, vel Deum qui pater 
+        <lb ed="#P" n="39"/>non est, si Deum qui pater est, ergo pater genuit 
+      pa<lb ed="#P" n="40" break="no"/>trem, id est, seipsum. Si vero Deum qui pater non 
+        <lb ed="#P" n="41"/>est, ergo est aliquis Deus qui non est Deus qui pater. 
+        <lb ed="#P" n="42"/>Hujus argumentationis posterius membrum 
+      conce<lb ed="#P" n="43" break="no"/>dendum est. Genuit enim Deus pater Deum filium, 
+        <lb ed="#P" n="44"/>qui pater non est. Quod autem deinde subinfertur, 
+        <lb ed="#P" n="45"/>aliquem esse Deum qui non sit Deus pater, quamvis 
+        <lb ed="#P" n="46"/>improprius fit sermo, cum in Dei vocabulum 
+      pro<lb ed="#P" n="47" break="no"/>prie non cadat signum particulare. Concedi tamen 
+        <lb ed="#P" n="48"/>potest hoc sensu: Est aliqua persona quae Deus est &amp; 
+        <lb ed="#P" n="49"/>pater non est. Quamquam simpliciter hic sermo 
+      vi<lb ed="#P" n="50" break="no"/>tandus est, quo dicitur aliquem Deum non esse 
+      pa<lb ed="#P" n="51" break="no"/>trem, vel sine signo Deum non esse patrem. Nam 
+        <lb ed="#P" n="52"/>prior propositio ratione signi indicat Dei naturam 
+        <lb ed="#P" n="53"/>esse formam multiplicabilem; Posterior cum sit 
+      sin<lb ed="#P" n="54" break="no"/>gularis, absolute removet a Deo paternitatem, quod 
+        <lb ed="#P" n="55"/>utrumque falsum &amp; absurdum est. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

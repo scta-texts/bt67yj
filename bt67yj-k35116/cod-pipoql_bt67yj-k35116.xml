@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pipoql">Paris 1696, v. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="94"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-k35116"><!-- l1d31c3" -->
+            <head xml:id="bt67yj-k35116-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-k35116-Hd1e103" type="question-title">Appropriata ab Hilario assignata explicantur</head>
+            <p xml:id="bt67yj-k35116-d1e106">
+               <lb ed="#P" n="10"/>§. 3. Appropriata ab Hilario assignata explicantur.
+    </p>
+            <p xml:id="bt67yj-k35116-d1e111">
+               <lb ed="#P" n="11"/>QUatuor praecipui appropriatorum terniones 
+      as<lb ed="#P" n="12" break="no"/>signari solent. De quibus videre est S. Thom. 
+      <lb ed="#P" n="13"/>toto art. 8. quaestionis modo citatae. Cum enim in 
+      <lb ed="#P" n="14"/>creaturis quatuor nobis consideranda occurrant, 
+      <lb ed="#P" n="15"/>nempe primo, quod unaquaeque earum sit ens 
+      quod<lb ed="#P" n="16" break="no"/>dam, deinde quod sit res una; terrio quatenus inest 
+      <lb ed="#P" n="17"/>ei virtus ad operandum &amp; causandum, &amp; quarto 
+      qua<lb ed="#P" n="18" break="no"/>tenus ipsa causata effectus suos respicit. Simili modo 
+      <lb ed="#P" n="19"/>quadruplex consideratio circa Deum nobis occurrit. 
+      <lb ed="#P" n="20"/>Igitur secundum primam considerationem, qua Deus 
+      <lb ed="#P" n="21"/>absolute, tanquam ens consideratur, existimat 
+      san<lb ed="#P" n="22" break="no"/>ctus Thomas, sumi appropriata ab Hilario assignata, 
+      <lb ed="#P" n="23"/>quae sunt aeternitas, species, &amp; usus. Ad secundam 
+      <lb ed="#P" n="24"/>vero considerationem, qua consideratur ut unus, 
+      per<lb ed="#P" n="25" break="no"/>tinere dicit appropriata ab Augustino tradita, quae 
+      <lb ed="#P" n="26"/>sunt unitas, aequalitas &amp; concordia seu connexio. Ad 
+      <lb ed="#P" n="27"/>tertiam vero, qua consideratur in Deo virtus ad 
+      cau<lb ed="#P" n="28" break="no"/>sandum sufficiens, pertinere haec tria, potentiam, 
+      <lb ed="#P" n="29"/>sapientiam, bonitatem. Ad quartam denique, qua 
+      <lb ed="#P" n="30"/>consideratur ut respicit suos effectus, pertinere ista 
+      <lb ed="#P" n="31"/>ab Apostolo posita: Ex quo, per quem &amp; in quo; ita 
+      <lb ed="#P" n="32"/>ut in his omnibus, quod primum est patri, quod 
+      se<lb ed="#P" n="33" break="no"/>cundum est filio, quod tertium spiritui sancto 
+      appro<lb ed="#P" n="34" break="no"/>prietur. Caeterum primus ternio, quem posuit 
+      Hila<lb ed="#P" n="35" break="no"/>rius sub initium lib. 2. de Trinitate plus caeteris 
+      ha<lb ed="#P" n="36" break="no"/>bet difficultatis. Ponitur autem ab eo his verbis. 
+      In<lb ed="#P" n="37" break="no"/>finitas in aeterno, species in imagine, usus in munere. 
+      <lb ed="#P" n="38"/>Quam Hilarii assignationem tractans &amp; exponens 
+      <lb ed="#P" n="39"/>August. lib. 6. de trinit. c. 10. &amp; ex Augustino 
+      Ma<lb ed="#P" n="40" break="no"/>gister hac distinctione, patris appropriatum alio 
+      no<lb ed="#P" n="41" break="no"/>mine expresserunt, loco infinitatis aeternitatem patri 
+      <lb ed="#P" n="42"/>assignantes. Rem tamen eandem significarunt. 
+      Aeter<lb ed="#P" n="43" break="no"/>num enim id dicitur, quod duratione infinitum est. 
+      <lb ed="#P" n="44"/>Possunt autem haec tria ab Hilario posita, ad hunc 
+      <lb ed="#P" n="45"/>modum tribus personis sigillatim accommodari. 
+      Ae<lb ed="#P" n="46" break="no"/>ternitas sive infinitas patri appropriatur, propter 
+      con<lb ed="#P" n="47" break="no"/>gruentiam quam habet cum proprietate patris. Nam 
+      <lb ed="#P" n="48"/>sicut pater nullum habet principium ex quo oriatur, 
+      <lb ed="#P" n="49"/>ideóque innascibilis atque ingenitus dicitur: ita 
+      ae<lb ed="#P" n="50" break="no"/>ternitas initium non habet a quo inceperit. Unde &amp; 
+      <lb ed="#P" n="51"/>aeternitas a nobis facilius intelligitur in patre 
+      ingeni<lb ed="#P" n="52" break="no"/>to, quam in filio genito, vel spiritu sancto 
+      proceden<lb ed="#P" n="53" break="no"/>te. Species autem sive pulcritudo filio, qui est imago 
+      <lb ed="#P" n="54"/>patris appropriatur. Cujus ratio ut explicetur, 
+      no<lb ed="#P" n="55" break="no"/>tandum cum S. Thom. ubi supra, ad pulchritudinem 
+      <lb ed="#P" n="56"/>in corporalibus tria requiri. Primum ut res in suo 
+      ge<lb ed="#P" n="57" break="no"/>nere perfecta sit; alterum ut aptam habeat 
+      membro<lb ed="#P" n="58" break="no"/>rum seu partium proportionem; tertium ut colorem 
+      <lb ed="#P" n="59"/>suavem gratumque habeat. Quae tria in filio Dei 
+      si<lb ed="#P" n="60" break="no"/>militudine rationis reperiuntur. Primo enim filius 
+      <lb ed="#P" n="61"/>Dei in se ipso perfectissimus est. Deinde cum sit imago 
+      <lb ed="#P" n="62"/>patris, repraesentat eum perfectissime. Hac enim 
+      ra<lb ed="#P" n="63" break="no"/>tione in rebus corporeis pulchram dicimus 
+      imagi<lb ed="#P" n="64" break="no"/>nem, quae suum exemplar perfecte repraesentat, 
+      e<lb ed="#P" n="65" break="no"/>tiamsi forte res repraesentata deformis, multoque 
+      <lb ed="#P" n="66"/>magis si &amp; ipsa pulchritudine sit insignis. Cum igitur 
+      <lb ed="#P" n="67"/>Dei filius sit imago perfectissima rei, non 
+      cujuscun<lb ed="#P" n="68" break="no"/>que, sed praestantissimae, atque pulcherrimae, id est, 
+      <lb ed="#P" n="69"/>Dei patris; consequens est in ipso summam inesse 
+      <lb ed="#P" n="70"/>pulchritudinem imagini competentem. Tertia est in 
+      <lb ed="#P" n="71"/>eo pulchritudinis ratio, quia tanquam lumen de 
+      lu<lb ed="#P" n="72" break="no"/>mine, &amp; ut Sapiens loquitur cap. 7. Velut candor de 
+      <!--0117.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>luce aeterna procedit. Quod quidem ei potissimum 
+      <lb ed="#P" n="74"/>competit, quatenus est verbum excellentissimum de 
+      <lb ed="#P" n="75"/>patre, tanquam prima &amp; summa mente emanans. 
+      <lb ed="#P" n="76"/>Nam in rebus spiritualibus lucis appellatio, menti &amp; 
+      <lb ed="#P" n="77"/>verbo mentis apertissime tribuitur. Unde &amp; ab 
+      Apo<lb ed="#P" n="78" break="no"/>stolo Hebraeor. 1. Christus splendor gloriae patris ap 
+      <lb ed="#P" n="79"/>pellatur. 
+    </p>
+            <p xml:id="bt67yj-k35116-d1e267">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Porro spiritui sancto Hilarius usum appropriavit 
+      <lb ed="#P" n="81"/>cum ait: Usus in munere. Quod quomodo sit 
+      acci<lb ed="#P" n="82" break="no"/>piendum, haud satis perspicuum est. Augustinus 
+      <lb ed="#P" n="83"/>loco paulo ante citato sensum Hilarii in dictis verbis 
+      <lb ed="#P" n="84"/>scrutans, usum a fructu seu fruitione non distinguit; 
+      <lb ed="#P" n="85"/>sed per usum fruitionem ipsam intelligi putat, non 
+      <lb ed="#P" n="86"/>eam qua homines Deo fruuntur, sed qua Deus 
+      pa<lb ed="#P" n="87" break="no"/>ter &amp; filius in spiritu sancto beatissime 
+      conquies<lb ed="#P" n="88" break="no"/>cunt. Quemadmodum enim res unaquaeque creata 
+      <lb ed="#P" n="89"/>naturaliter aliquid appetit in quo cum gaudio &amp; 
+      <lb ed="#P" n="90"/>suavitate conquiescat, nihil ultra desiderans, ita nos 
+      <lb ed="#P" n="91"/>more humano concipere possumus spiritumsanctum, 
+      <lb ed="#P" n="92"/>tanquam eum quem expectant pater &amp; filius, 
+      com<lb ed="#P" n="93" break="no"/>muni eum spiratione producentes, sic ut ulterius in 
+      <lb ed="#P" n="94"/>aliam personam producendam eorum voluntas non 
+      <lb ed="#P" n="95"/>feratur, sed in ipso tanquam communis actionis &amp; 
+      <lb ed="#P" n="96"/>productionis termino, plenissime conquiescat; 
+      ut<lb ed="#P" n="97" break="no"/>pote in quo ab utroque promanente, &amp; natura sit 
+      <lb ed="#P" n="98"/>eadem, &amp; summa felicitas. Qua consideratione S. 
+      <lb ed="#P" n="99"/>
+               <pc type="indent"/> Augustinus spiritum sanctum esse dicit, ineffabilem 
+      <lb ed="#P" n="100"/>quendam complexum patris &amp; imaginis. Et rursus: 
+      <lb ed="#P" n="101"/>eundem genitoris genitique suavitatem vocat. 
+    </p>
+            <p xml:id="bt67yj-k35116-d1e323">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Ex hac appropriatorum Hilarii interpretatione, 
+      <lb ed="#P" n="103"/>sumptus est a quibusdam doctoribus ille ternio 
+      ver<lb ed="#P" n="104" break="no"/>bis differens, quod patri competit esse, filio esse 
+      con<lb ed="#P" n="105" break="no"/>venienter, spiritui sancto esse delectabiliter. Ratio 
+      <lb ed="#P" n="106"/>patet ex dictis, quia cum pater sit principium sine 
+      <lb ed="#P" n="107"/>principio, recte ei accommodatur esse absolute. Cum 
+      <lb ed="#P" n="108"/>autem filius procedat per modum similitudinis, recte 
+      <lb ed="#P" n="109"/>ei hac peculiari ratione tribuitur esse convenienter. 
+      <lb ed="#P" n="110"/>Cumque Spiritus sanctus instar amoris, quietis &amp; 
+      fi<lb ed="#P" n="111" break="no"/>nis procedat, recte ei accommodatur esse 
+      delectabi<lb ed="#P" n="112" break="no"/>liter. Caeterum haec quamvis apposit e dicantur, 
+      veri<lb ed="#P" n="113" break="no"/>simile tamen est Hilarium aliud quiddam spectasse 
+      <lb ed="#P" n="114"/>in nomine usus, quem spiritui sancto appropriavit, 
+      <lb ed="#P" n="115"/>ac potius significare voluisse, quod spiritus sanctus 
+      <lb ed="#P" n="116"/>hominibus author sit omnis boni usus omnium 
+      do<lb ed="#P" n="117" break="no"/>norum, quae illis a Deo conferuntur, ut iis recte 
+      uten<lb ed="#P" n="118" break="no"/>do ad summi boni fruitionem perveniant. Sensus 
+      igi<lb ed="#P" n="119" break="no"/>tur horum verborum, usus in munere, hic esse 
+      vide<lb ed="#P" n="120" break="no"/>tur. In munere, id est, in spiritu sancto, qui procedit 
+      <lb ed="#P" n="121"/>ut donum, spectatur quod sit author omnis boniusus 
+      <lb ed="#P" n="122"/>donorum a Deo acceptorum, ut cui eorum largitio 
+      <lb ed="#P" n="123"/>tribui solet, eidem &amp; bonus eorum usus ascribatur. 
+      <lb ed="#P" n="124"/>Hoc sensisse in his verbis Hilarium omnino probabile 
+      <lb ed="#P" n="125"/>sit, tum ex eo quia usum ponit in munere. Est autem 
+      <lb ed="#P" n="126"/>spiritus sanctus munus, seu donum quo utantur non 
+      <lb ed="#P" n="127"/>qui donant, id est, pater &amp; filius, sed qui donatum 
+      <lb ed="#P" n="128"/>accipiunt, id est, homines; tum maxime quia, quae 
+      <lb ed="#P" n="129"/>apud sanctum Hilarium sequuntur, hunc sensum 
+      po<lb ed="#P" n="130" break="no"/>stulant, atque illud praesertim quod sub finem 
+      ejus<lb ed="#P" n="131" break="no"/>dem libri de spiritu sancto ejusque donis loquens, 
+      <lb ed="#P" n="132"/>ait: Utamur ergo tam liberalibus donis, &amp; usum 
+      maxi<lb ed="#P" n="133" break="no"/>me necessarii muneris expectamus; tum denique quod 
+      <lb ed="#P" n="134"/>ab Hilario consideretur spiritus sanctus, ut est tertia 
+      <lb ed="#P" n="135"/>persona, a qua nulla alia persona procedat. Unde 
+      ac<lb ed="#P" n="136" break="no"/>commodat ei nomen quo significatur processus &amp; 
+      <lb ed="#P" n="137"/>communicatio donorum ejus in creaturas. Cujus ac 
+      <lb ed="#P" n="138"/>commodationis ratio est, quia quemadmodum 
+      a<lb ed="#P" n="139" break="no"/>mor, qui liberalitatis &amp; donationis omnis origo est, 
+      <lb ed="#P" n="140"/>ex mente &amp; verbo mentis procedit; ita ex patre &amp; 
+      <lb ed="#P" n="141"/>filio procedit spiritus sanctus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
