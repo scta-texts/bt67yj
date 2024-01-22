@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="255"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p098973"><!-- l2d25c1" -->
+            <head xml:id="bt67yj-p098973-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p098973-Hd1e103" type="question-title">An primus homo fuerit creatus 
+        in gratia</head>
+            <p xml:id="bt67yj-p098973-d1e106">
+      <!--0488.xml-->
+               <pb ed="#P" n="255"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="2"/>VICESIMAMQUINTAM. 
+      <lb ed="#P" n="3"/>§. 1. An primus homo fuerit creatus 
+      <lb ed="#P" n="4"/>in gratia. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e124">
+               <lb ed="#P" n="5"/>CUm naturam gratia perficiat, suadet 
+      ordi<lb ed="#P" n="6" break="no"/>nis ratio ut a libero arbitrio, quod a 
+      natu<lb ed="#P" n="7" break="no"/>Tra habemus, ad gratiam transeamus. Est 
+      <lb ed="#P" n="8"/>autem prius agendum de gratia hominis integri, 
+      <lb ed="#P" n="9"/>tum de gratia hominis lapsi. Et ad illam quidem 
+      <lb ed="#P" n="10"/>pertinet quaestio, utrum primus homo fuerit 
+      crea<lb ed="#P" n="11" break="no"/>tus in gratia. Nam Magister id quod supra de 
+      an<lb ed="#P" n="12" break="no"/>gelis docuerat distinct. 3. eos non esse creatos in 
+      <lb ed="#P" n="13"/>gratia qua mereri possent vitam aeternam, tradit 
+      <lb ed="#P" n="14"/>etiam de primo homine initio distinctionis 24. 
+      <lb ed="#P" n="15"/>scilicet utrobique eundem secutus authorem 
+      Hu<lb ed="#P" n="16" break="no"/>gonem Victorinum, apud quem haec doctrina 
+      le<lb ed="#P" n="17" break="no"/>gitur libro primo de sacramentis parte 6. capite 
+      de<lb ed="#P" n="18" break="no"/>cimoseptimo, tametsi profiteatur se nolle quicquam 
+      <lb ed="#P" n="19"/>temere definire. Eadem fuit opinio Ruperti libro 
+      <lb ed="#P" n="20"/>decimotertio in Matth. Horum sententiam non 
+      <lb ed="#P" n="21"/>pauci Scholasticorum secuti sunt, velut Alexander 
+      <lb ed="#P" n="22"/>Alensis parte 2. quaest. 96. membro 1. 
+      Bonaven<lb ed="#P" n="23" break="no"/>tura in 2. distinct. 29. articulo secundo addens istam 
+      <lb ed="#P" n="24"/>opinionem esse communem simul &amp; 
+      probabilio<lb ed="#P" n="25" break="no"/>rem, Scotus &amp; Richardus super eandem distinct. &amp; 
+      <lb ed="#P" n="26"/>alii nonnulli. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e174">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Verum sicut ostensum est supra veriorem esse 
+      sen<lb ed="#P" n="28" break="no"/>tentiam eorum qui angelos in gratia conditos docent, 
+      <lb ed="#P" n="29"/>utpote scripturis &amp; patrum testimoniis magis 
+      con<lb ed="#P" n="30" break="no"/>sonam, imo &amp; rationi congruentiorem; ita &amp; de 
+      <lb ed="#P" n="31"/>primo homine sentiendum. Quod priusquam 
+      do<lb ed="#P" n="32" break="no"/>ceamus, haec pauca pro ejus explicatione 
+      praemit<lb ed="#P" n="33" break="no"/>tenda sunt. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e195">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Primum est; gratiae nomine in hac disputatione 
+      <lb ed="#P" n="35"/>(sicut &amp; in quaestione de angelis monebamus.) 
+      in<lb ed="#P" n="36" break="no"/>telligi donum quoddam habituale &amp; supernaturale, 
+      <lb ed="#P" n="37"/>inhaerens animae; quo qui praeditus est, formaliter 
+      <lb ed="#P" n="38"/>constituitur Deo gratus ad vitam aeternam, per quod 
+      <lb ed="#P" n="39"/>etiam possit exercere opera vitae aeternae meritoria. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e213">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Secundum: nulla ratione dubitari posse, quin 
+      <lb ed="#P" n="41"/>Adam ante transgressionem habuerit dona quaedam 
+      <lb ed="#P" n="42"/>supernaturalia; ut puta veram justitiam &amp; 
+      sanctita<lb ed="#P" n="43" break="no"/>tem, quae utique sine gratia non sunt: necnon 
+      im<lb ed="#P" n="44" break="no"/>mortalitatem corporis. Quae sententia liquido 
+      pro<lb ed="#P" n="45" break="no"/>batur, quia secundum doctrinam sanctorum 
+      pa<lb ed="#P" n="46" break="no"/>trum, haec omnia primus homo peccando amisit. 
+      <lb ed="#P" n="47"/>Quod &amp; synodus Trid. testatur can. I. sess. 5. his 
+      <lb ed="#P" n="48"/>verbis: Si quis non confitetur primum hominem 
+      A<lb ed="#P" n="49" break="no"/>dam cum mandatum Dei in paradiso fuisset 
+      trans<lb ed="#P" n="50" break="no"/>gressus, statim sanctitatem &amp; justitiam in qua 
+      con<lb ed="#P" n="51" break="no"/>stitutus fuerat, amisisse, anathema sit: &amp; can. 2. de 
+      <lb ed="#P" n="52"/>eodem primo homine: Si quis acceptam a Deo 
+      san<lb ed="#P" n="53" break="no"/>ctitatem &amp; justitiam quam perdidit, sibi soli &amp; non 
+      <lb ed="#P" n="54"/>nobis etiam eam perdidisse asserit, anathema sit. 
+      <lb ed="#P" n="55"/>Quo pertinet item quod sess. 6. capite 1. affirmat 
+      <lb ed="#P" n="56"/>eadem synodus, omnes homines in praevaricatione 
+      <lb ed="#P" n="57"/>Adae innocentiam perdidisse; &amp; capite 7. 
+      Catho<lb ed="#P" n="58" break="no"/>licos in baptismo accipere primam stolam, id est, 
+      <lb ed="#P" n="59"/>veram &amp; Christianam justitiam pro illa quam 
+      A<lb ed="#P" n="60" break="no"/>dam sua inobedientia sibi &amp; nobis perdidit, ipsis 
+      <lb ed="#P" n="61"/>per Christum donatam. Manifestum est autem 
+      ju<lb ed="#P" n="62" break="no"/>stitiam &amp; caetera dona, quae in baptismo accipimus, 
+      <lb ed="#P" n="63"/>esse supernaturalia. Igitur juxta synodi 
+      definitio<lb ed="#P" n="64" break="no"/>nem credendum est, talia fuisse in Adam ante 
+      pec<lb ed="#P" n="65" break="no"/>catum. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e274">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Tertium: Non posse sine temeritate &amp; periculo 
+      <lb ed="#P" n="67"/>defendi sententiam, quae dicit primum hominem 
+      <lb ed="#P" n="68"/>in puris naturalibus ita fuisse conditum ab initio, ut 
+      <lb ed="#P" n="69"/>prorsus omni dono supernaturali careret, probatur 
+      <lb ed="#P" n="70"/>hac ratione; quia non est ambigendum quin im¬ 
+      <!--0488.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>mortalitas primi hominis fuerit donum 
+      supernatura<lb ed="#P" n="72" break="no"/>le, uti demonstravimus ad dist. 19. Atqui certum 
+      <lb ed="#P" n="73"/>est ex scripturis &amp; definitione Patrum, primum 
+      ho<lb ed="#P" n="74" break="no"/>minem ab initio factum fuisse immortalem, ita 
+      ni<lb ed="#P" n="75" break="no"/>mirum ut posset non mori. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e305">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Quartum: nihil esse temeritatis aut periculi in ea 
+      <lb ed="#P" n="77"/>sententia, quae tradit primum hominem non fuisse 
+      <lb ed="#P" n="78"/>creatum in gratia, dum tamen non negetur quin 
+      <lb ed="#P" n="79"/>eam (quod secundo loco posuimus) saltem ante 
+      <lb ed="#P" n="80"/>lapsum habuerit. Ratio est, quia haec sententia 
+      mul<lb ed="#P" n="81" break="no"/>tis plaeuit viris doctis &amp; gravibus, quos paulo 
+      an<lb ed="#P" n="82" break="no"/>te recensuimus, fuitque aliquando communior 
+      opi<lb ed="#P" n="83" break="no"/>nio teste Bonaventura; neque est contra expressum 
+      <lb ed="#P" n="84"/>aliquod testimonium scripturae, neque doctores qui 
+      <lb ed="#P" n="85"/>in diversa sunt sententia, hanc tanquam erroneam 
+      <lb ed="#P" n="86"/>aut temerariam rejiciunt, sed potius ab ea tanquam 
+      <lb ed="#P" n="87"/>probabiliter ab aliis asserta cum modestia 
+      rece<lb ed="#P" n="88" break="no"/>dunt. Denique contra eam nulla exstat ecclesiae 
+      de<lb ed="#P" n="89" break="no"/>finitio. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e340">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Nam quod concilium Trident. sess. 9. can. 1. 
+      ver<lb ed="#P" n="91" break="no"/>bis supra citatis definit primum hominem per 
+      pecca<lb ed="#P" n="92" break="no"/>tum amisisse sanctitatem &amp; justitiam in qua 
+      consti<lb ed="#P" n="93" break="no"/>tutus fuerat, non per hoc definire voluit eum in 
+      san<lb ed="#P" n="94" break="no"/>ctitate &amp; justitia creatum fuisse. Siquidem aliud est 
+      <lb ed="#P" n="95"/>creatum esse in sanctitate &amp; justitia, aliud in ea 
+      con<lb ed="#P" n="96" break="no"/>stitutum esse. Constitui enim in ea potuit post 
+      crea<lb ed="#P" n="97" break="no"/>tionem. Nam &amp; in Paradiso constitutus, id est, 
+      po<lb ed="#P" n="98" break="no"/>situs fuit primus homo, Gen. 2. non tamen in eo 
+      <lb ed="#P" n="99"/>creatus. Unde satis liquet, Patres concilii 
+      Triden<lb ed="#P" n="100" break="no"/>tini dum ita cirscunspecte locuti sunt, ut constitutum 
+      <lb ed="#P" n="101"/>dicerent, non creatum, aut conditum, studio 
+      vo<lb ed="#P" n="102" break="no"/>luisse abstinere a definienda quaestione inter 
+      Catho<lb ed="#P" n="103" break="no"/>licos disputata, an homo fuerit creatus in gratia. Si 
+      <lb ed="#P" n="104"/>qui autem in canone pro constitutus, legunt, creatus, 
+      <lb ed="#P" n="105"/>ii vel parum considerate verba canonis inspexerunt, 
+      <lb ed="#P" n="106"/>vel usi sunt vitioso exemplari. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e382">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> His ita praemissis, eam sententiam quae primum 
+      <lb ed="#P" n="108"/>hominem asserit in gratia conditum fuisse, velut 
+      <lb ed="#P" n="109"/>probabiliorem statuimus. Ad quam probandam 
+      va<lb ed="#P" n="110" break="no"/>ient imprimis ea quae suo loco de angelis dicta sunt. 
+      <lb ed="#P" n="111"/>Par enim ratio videtur esse utriusque naturae 
+      an<lb ed="#P" n="112" break="no"/>gelicae &amp; humanae, quando attinet ad rem 
+      prae<lb ed="#P" n="113" break="no"/>sentem. Utraque enim intellectualis est, ad hoc 
+      <lb ed="#P" n="114"/>condita, ut perfecta Dei contemplatione fieret 
+      <lb ed="#P" n="115"/>beata. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e407">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Deinde de ipso homine propria sunt hujus rei 
+      te<lb ed="#P" n="117" break="no"/>stimonia, tum in sacris literis, tum vel maxime in 
+      <lb ed="#P" n="118"/>Patrum monumentis. Scripturae quidem quibus ad 
+      <lb ed="#P" n="119"/>id probandum tam veteres quam recentiores usos 
+      <lb ed="#P" n="120"/>invenimus, sunt istae Gen. 1. Faciamus hominem ad 
+      <lb ed="#P" n="121"/>imaginem &amp; similitudinem nostram, Ecclesiast. 7. Hoc 
+      <lb ed="#P" n="122"/>inveni, quod fecerit Deus hominem rectum, 
+      Ecclesia<lb ed="#P" n="123" break="no"/>stici 17. Deus creavit de terra hominem &amp; secundum 
+      <lb ed="#P" n="124"/>se vestivit illum virtute. Quae sententiae etsi non 
+      om<lb ed="#P" n="125" break="no"/>nino convincunt, hominem in tali rectitudine 
+      con<lb ed="#P" n="126" break="no"/>ditum esse, qua mereri posset vitam aeternam, 
+      acce<lb ed="#P" n="127" break="no"/>dente tamen huc patrum fere omnium consensu, non 
+      <lb ed="#P" n="128"/>immerito in eum sensum quem diximus, 
+      accipiun<lb ed="#P" n="129" break="no"/>tur, praesertim si etiam illud cogitetur, scripturam 
+      <lb ed="#P" n="130"/>non agnoscere aliam hominis rectitudinem, quam 
+      <lb ed="#P" n="131"/>qua ordinetur ad vitam aeternam. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e446">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Quod autem ex dictis scripturis certum 
+      argumen<lb ed="#P" n="133" break="no"/>tum pro hac sententia accipi non possit, facile 
+      ap<lb ed="#P" n="134" break="no"/>paret. Nam in scriptura Gen. Imulti satis 
+      probabili<lb ed="#P" n="135" break="no"/>ter similitudinem intelligunt eandem cum imagine. 
+      <lb ed="#P" n="136"/>Qua de re diximus ad dist. 16. Secunda scriptura 
+      <lb ed="#P" n="137"/>generalis est, &amp; per se minime limitata ad 
+      rectitu<lb ed="#P" n="138" break="no"/>dinem supernaturalem. Cajetanus quoque eam non 
+      <lb ed="#P" n="139"/>de solo Adam interpretatur, verum etiam de caeteris 
+      <lb ed="#P" n="140"/>hominibus. In tertia scriptura virtus non ea 
+      intelli<lb ed="#P" n="141" break="no"/>gitur quae vitio opponitur (tametsi nec eo pacto 
+      <lb ed="#P" n="142"/>certa foret probatio) sed quae infirmitati. Nam vox 
+      <lb ed="#P" n="143"/>Gaeca fortitudinem significat; de quo vide 
+      Janse<lb ed="#P" n="144" break="no"/>nium.
+    </p>
+            <p xml:id="bt67yj-p098973-d1e479">
+      <!--0489.xml-->
+               <pb ed="#P" n="256"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Alii proferunt illud apostoli Ephes. 4. Renovamini 
+      <lb ed="#P" n="2"/>spiritu mentis vestrae, &amp; induite novum hominem, qui 
+      <lb ed="#P" n="3"/>secundum Deum creatus est in justitia &amp; sanctitate 
+      ve<lb ed="#P" n="4" break="no"/>ritatis. Et illud ejusdem Col. 3. Exspoliantes vos 
+      ve<lb ed="#P" n="5" break="no"/>terem hominem cum actibus suis &amp; induentes novum, 
+      <lb ed="#P" n="6"/>cum qui renovatur in agnitionem secundum imaginem 
+      <lb ed="#P" n="7"/>ejus qui creavit illum. Sed neque ex his scripturis 
+      <lb ed="#P" n="8"/>evidens aut certa est probatio: Nam apostolus 
+      no<lb ed="#P" n="9" break="no"/>vum hominem in justitia &amp; sanctitate creatum, non 
+      <lb ed="#P" n="10"/>intelligit Adamum, sed eum qui renovatur ex 
+      ve<lb ed="#P" n="11" break="no"/>tustate, id est, hominem lapsum &amp; restitutum 
+      <lb ed="#P" n="12"/>per Christum; qui quidem renovari spiritu mentis 
+      <lb ed="#P" n="13"/>dicitur, quia reducitur ad novitatem mentis quam 
+      <lb ed="#P" n="14"/>aliquando habuit in primo parente, ipsum autem 
+      <lb ed="#P" n="15"/>primum parentem in tali novitate fuisse creatum, 
+      <lb ed="#P" n="16"/>apostolus non dicit. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e523">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Caeterum illustrior hujus doctrinae probatio est ex 
+      <lb ed="#P" n="18"/>patribus, qui omnes primo homini justitiam &amp; 
+      san<lb ed="#P" n="19" break="no"/>ctitatem tribuunt ante lapsum; plerique autem etiam 
+      <lb ed="#P" n="20"/>ab initio creationis. Quod ut ab aliis non expresse 
+      <lb ed="#P" n="21"/>asseritur, ita nec negatur. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e539">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Dionysius libro de Ecclesiastica Hierarchia 
+      capi<lb ed="#P" n="23" break="no"/>te 3. parte 3. dicit, Deum fecisse nos in primo 
+      pa<lb ed="#P" n="24" break="no"/>rente participes divinae similitudinis ac divinistatus, 
+      <lb ed="#P" n="25"/>quem interpretatur secundum omne genus 
+      virtu<lb ed="#P" n="26" break="no"/>tum. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e555">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p098973-Rd1e561">
+                  <name xml:id="bt67yj-p098973-Nd1e563">Irenaeus</name> lib. 3. contra haereses cap. 20.</ref> dicit, nos 
+      <lb ed="#P" n="28"/>in Jesu Christo recuperare, quod in Adam 
+      perdidi<lb ed="#P" n="29" break="no"/>mus, &amp; cap. 37. ipsum Adam sic facit loquentem: 
+      <lb ed="#P" n="30"/>Quoniam eam quam habui a spiritu sanctitatis stolam, 
+      <lb ed="#P" n="31"/>amisi per inobedientiam, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e577">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p098973-Rd1e583">
+                  <name xml:id="bt67yj-p098973-Nd1e585">Cyprianus</name> in epistola 74</ref>. quae est ad Pompeium 
+      <lb ed="#P" n="33"/>verba illa scripturae: Inspiravit in faciem ejus 
+      spira<lb ed="#P" n="34" break="no"/>culum vitae, exponit de gratia spiritus sancti, in 
+      <lb ed="#P" n="35"/>animam primi hominis a Deo infusa. Et sermone 3. 
+      <lb ed="#P" n="36"/>qui est de patientia, affirmat Adamum acceptam 
+      <lb ed="#P" n="37"/>divinitus gratiam, per transgressionem divini 
+      prae<lb ed="#P" n="38" break="no"/>cepti amisisse. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e602">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Methodius Martyr apud Epiphanium, id haeresi 
+      <lb ed="#P" n="40"/>Origenis per spiraculum vitae quod in faciem 
+      ho<lb ed="#P" n="41" break="no"/>minis inspiravit Deus, similiter intelligit spiritum 
+      <lb ed="#P" n="42"/>sanctum. Quae interpretatio etiam apud alios 
+      non<lb ed="#P" n="43" break="no"/>nullos invenitur, uti annotavimus ad dist. 17. ac 
+      <lb ed="#P" n="44"/>nominatim apud Basilium in expositione psalmi 48. 
+      <lb ed="#P" n="45"/>ad illum versum: Homo cum in honore esset, &amp;c. 
+      At<lb ed="#P" n="46" break="no"/>que hic idem in hom. quod Deus non est author 
+      <lb ed="#P" n="47"/>malorum, sic de Adam loquitur: Quod vero erat 
+      <lb ed="#P" n="48"/>ei praecipuum bonum, assessio Dei &amp; conjunctio per 
+      dile<lb ed="#P" n="49" break="no"/>ctionem, &amp;c. Et libro de Spiritu sancto capite 15. 
+      <lb ed="#P" n="50"/>Per spiritum sanctum, inquit, contingit restitutio in 
+      pa<lb ed="#P" n="51" break="no"/>radisum, reditus in adoptionem filiorum, &amp;c. vide 
+      ibi<lb ed="#P" n="52" break="no"/>dem cap. 9. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e637">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Basilii sententiam secutus est Ambrosius. Nam 
+      <lb ed="#P" n="54"/>libro sexto Hexameron cap. 7. cum imaginem Dei 
+      <lb ed="#P" n="55"/>interpretatus esset de vario ornatu &amp; gratia 
+      virtu<lb ed="#P" n="56" break="no"/>tum, ita subjunxit: Secundum hanc imaginem Adam 
+      <lb ed="#P" n="57"/>factus est ante peccatum; sed ubi lapsus est, 
+      depo<lb ed="#P" n="58" break="no"/>suit imaginem caelestis, &amp; sumpsit terrestris effigiem. 
+      <lb ed="#P" n="59"/>Idem in commentario super Lucam exponens 
+      il<lb ed="#P" n="60" break="no"/>lud capitis 10. de eo qui incidit in latrones, 
+      testa<lb ed="#P" n="61" break="no"/>tur nos exspoliatos &amp; nudatos fuisse in Adam 
+      indu<lb ed="#P" n="62" break="no"/>mentis gratiae spiritalis. Eundem vide scribentem 
+      <lb ed="#P" n="63"/>in Luc. 4. ubi tractat illud psalmi: fordanis 
+      conver<lb ed="#P" n="64" break="no"/>sus est retrorsum, &amp; libro de dignitate hominis 
+      ca<lb ed="#P" n="65" break="no"/>pite tertio. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e670">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Hilarius quoque in homilia quadam de S. Job. 
+      <lb ed="#P" n="67"/>dicit, nos in Adae offensa generositatem primae &amp; 
+      <lb ed="#P" n="68"/>beatae illius creationis amisisse. Quae homilia non 
+      <lb ed="#P" n="69"/>exstat, sed verba leguntur apud S. Augustinum lib. 
+      <lb ed="#P" n="70"/>2. contra Julianum cap. 8. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e686">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Gregorius Nazianzenus oratione 4. quae est de 
+      <lb ed="#P" n="72"/>paschate, disserens de creatione primi hominis, dicit 
+      <lb ed="#P" n="73"/>eum fuisse angelum terrestrem, eundemque spiritum 
+      <lb ed="#P" n="74"/>&amp; carnem; spiritum videlicet propter gratiam, qua 
+      <!--0489.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>cum Deo manebat. Nazianzeno subscribit Joannes 
+      <lb ed="#P" n="76"/>Damascenus lib. 2. de fide cap. 12. Nec ab eodem 
+      <lb ed="#P" n="77"/>praeceptore suo dissentit Hieronymus lib. contra 
+      Jo<lb ed="#P" n="78" break="no"/>vinianum, dum tractat illud Sapientis: Virum unum 
+      <lb ed="#P" n="79"/>de mille inveni. Sed &amp; Chrysostomus hom. 16. super 
+      <lb ed="#P" n="80"/>Gen. fere iisdem cum Nazianzeno verbis extollit 
+      ho<lb ed="#P" n="81" break="no"/>minis primi dignitatem, vocans eum angelum 
+      ter<lb ed="#P" n="82" break="no"/>restrem, &amp; Dei gratia praeditum affirmans. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e721">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Sequitur Augustinus, cujus est omnium 
+      apertissi<lb ed="#P" n="84" break="no"/>ma de hac re sententia variis locis. Nam libro 11. de 
+      <lb ed="#P" n="85"/>Genes. ad litteram capite 31. de primis parentibus 
+      <lb ed="#P" n="86"/>sic ait: Mox ut praeceptum transgressi sunt, 
+      intrin<lb ed="#P" n="87" break="no"/>secus gratia deserente omnino nudati, in sua membra 
+      <lb ed="#P" n="88"/>oculos conjecerunt. Quod &amp; repetit libro 13. de 
+      ci<lb ed="#P" n="89" break="no"/>vitate cap. 13. Idem libro de correptione &amp; 
+      gra<lb ed="#P" n="90" break="no"/>tia capite 11. Quid ergo, inquit, Alam non 
+      ha<lb ed="#P" n="91" break="no"/>buit Dei gratiam? Imo vero habuit magnam, sed 
+      <lb ed="#P" n="92"/>disparem. Et infra: Nec ipsum Deus esse voluit sine 
+      <lb ed="#P" n="93"/>sua gratia, quam reliquit in ejus libero arbitrio. 
+      Si<lb ed="#P" n="94" break="no"/>milia docet libro 13. de civitate cap. 1. nec non 
+      <lb ed="#P" n="95"/>capite 19. ubi dicit fidem Christianam praedicare 
+      <lb ed="#P" n="96"/>primos homines ita fuisse conditos, ut si non 
+      pec<lb ed="#P" n="97" break="no"/>cassent, pro meritis obedientiae, viverent in 
+      aeter<lb ed="#P" n="98" break="no"/>num. Item capite 24. ejusdem libri, &amp; praeterea 
+      li<lb ed="#P" n="99" break="no"/>bro 14. capite 10. 11. &amp; 17. libro de spiritu &amp; litera 
+      <lb ed="#P" n="100"/>capite 27. de libero arbitrio capite undecimo, ub 
+      <lb ed="#P" n="101"/>Evodium introducit dicentem, se credere ac 
+      firmis<lb ed="#P" n="102" break="no"/>sima fide tenere, quod homo tam perfecte sit 
+      condi<lb ed="#P" n="103" break="no"/>tus a Deo &amp; in beata vita constitutus, ut ad 
+      aerum<lb ed="#P" n="104" break="no"/>nas mortalis vitae ipse inde propria voluntate 
+      delap<lb ed="#P" n="105" break="no"/>sus sit: Eamque perfectionem ibidem significat 
+      no<lb ed="#P" n="106" break="no"/>mine sapientiae. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e779">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Augustinum sequuntur Prosper libro scripto 
+      con<lb ed="#P" n="108" break="no"/>tra Collatorem c. 18. &amp; 19. &amp; lib. 2. de vita 
+      contem<lb ed="#P" n="109" break="no"/>plativa cap. 18. Leo Papa sermone 1. de jejunio 
+      de<lb ed="#P" n="110" break="no"/>cimi mensis. Petrus Diaconus lib. 1. de gratia 
+      Chri<lb ed="#P" n="111" break="no"/>sti capite 6. &amp; Fulgentius libro 2. ejusem operis 
+      ca<lb ed="#P" n="112" break="no"/>pite 12. idemque de fide ad Petrum cap. 25. &amp; 
+      Gre<lb ed="#P" n="113" break="no"/>gorius Magnus lib. 5. epist. 115. libr. 6. epist. 195. 
+      <lb ed="#P" n="114"/>Eandem sententiam diligenter inculcat Cyrillus 
+      Ale<lb ed="#P" n="115" break="no"/>xandrinus in suis scriptis, ut lib. 1. in Joannem cap. 
+      <lb ed="#P" n="116"/>15. lib. 2. cap. 3. libro undecimo capite 36. &amp; libro 
+      <lb ed="#P" n="117"/>12. cap. 55. Itemque lib. 6. dialogorum, &amp; lib. de 
+      <lb ed="#P" n="118"/>adoratione &amp; spiritu ante medium. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e810">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> His addere licet Prudentium, qui libro 2. contra 
+      <lb ed="#P" n="120"/>Symmachum, ita canit ex persona Dei: 
+      <lb ed="#P" n="121"/>
+               <quote xml:id="bt67yj-p098973-Qd1e820">Condideram perfectum hominem, spectare superna 
+      <lb ed="#P" n="122"/>Mandaram, totis conversum sensibus in me 
+      <lb ed="#P" n="123"/>Recto habitu, &amp;c.</quote>
+               <lb ed="#P" n="124"/>Et in apotheosi, capite de natura animae, ubi de 
+      ani<lb ed="#P" n="125" break="no"/>ma qualis initio creata est, sic loquitur. 
+      <lb ed="#P" n="126"/>
+               <quote xml:id="bt67yj-p098973-Qd1e834">Formata est namque ore Dei, quae non erat ante, 
+      <lb ed="#P" n="127"/>Sed formata habitu pulcherrima, pictaque rebus 
+      <lb ed="#P" n="128"/>Divinis, &amp; plena Deo, similisque creanti</quote>
+               <lb ed="#P" n="129"/>Et ibidem infra quaedam scribit his similia. Jam huc 
+      <lb ed="#P" n="130"/>etiam referenda sunt testimonia Patrum, quicunque 
+      <lb ed="#P" n="131"/>similitudinem divinam ad quam conditus est homo, 
+      <lb ed="#P" n="132"/>interpretantur secundum virtutes, justitiam, 
+      pieta<lb ed="#P" n="133" break="no"/>tem, sapientiam &amp; caeteras. Loca enumerata vide ad 
+      <lb ed="#P" n="134"/>dist. 16. Item eorum qui parabolam hominis spoliati 
+      <lb ed="#P" n="135"/>a latronibus interpretantur de spoliatione seu 
+      abla<lb ed="#P" n="136" break="no"/>tione donorum gratuitorum, facta per 
+      transgressio<lb ed="#P" n="137" break="no"/>nem primi parentis. Quos citavimus ad dist. 
+      proxi<lb ed="#P" n="138" break="no"/>me praecedentem. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e864">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Insuper ad confirmandam hanc sententiam facit, 
+      <lb ed="#P" n="140"/>quod saepenumero a patribus asseritur, hominem esse 
+      <lb ed="#P" n="141"/>conditum ad videndum &amp; contemplandum Deum. 
+      <lb ed="#P" n="142"/>Sic enim docent Augustinus lib. 1. confess. c. 1. Leo 
+      <lb ed="#P" n="143"/>serm. 4. de nativit. Domini, Gregorius lib. 4. 
+      mora<lb ed="#P" n="144" break="no"/>lium cap. 30. &amp; lib. 8. cap. 14. &amp; alii. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e882">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Denique plana est sententia concilii Arausicani 
+      <lb ed="#P" n="146"/>secundi canon. 19. qui sic habet: Natura 
+      huma<lb ed="#P" n="147" break="no"/>na etiamsi in illa integritate in qua est condita, 
+      <lb ed="#P" n="148"/>permaneret, nullo modo seipsam creatore suo non 
+      <!--0490.xml-->
+      <pb ed="#P" n="257"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>adjuvante servaret. Unde cum sine gratia Dei salutem 
+      <lb ed="#P" n="2"/>non possit custodire quam accepit; quomodo sine gratia 
+      <lb ed="#P" n="3"/>Dei poterit reparare quod perdidit? Quae verba 
+      de<lb ed="#P" n="4" break="no"/>sumpta sunt ex epist. 106. Augustini. Significant 
+      au<lb ed="#P" n="5" break="no"/>tem hominem conditum fuisse in ea integritate quam 
+      <lb ed="#P" n="6"/>peccando amisit. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e915">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Quamvis autem concilium illud ex authoritate 
+      <lb ed="#P" n="8"/>Leonis papae habitum fuerit, non ideo tamen 
+      existi<lb ed="#P" n="9" break="no"/>mandum est definitum esse in ecclesia, quod homo 
+      <lb ed="#P" n="10"/>creatus fuerit in gratia. Nam intentio concilii erat 
+      <lb ed="#P" n="11"/>non totum hoc definire quod verbis canonis 
+      con<lb ed="#P" n="12" break="no"/>tinetur, sed illud tantum de quo tunc propter 
+      Pela<lb ed="#P" n="13" break="no"/>gianos vertebatur quaestio: Sine gratia Dei neque 
+      <lb ed="#P" n="14"/>custodiri posse salutem, id est, justitiam, neque 
+      re<lb ed="#P" n="15" break="no"/>parari. Verum est tamen ex hoc canone magnum 
+      <lb ed="#P" n="16"/>pondus probabilitatis huic sententiae accedere, sicut 
+      <lb ed="#P" n="17"/>&amp; ex tam multis patrum testimoniist 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e944">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Quocirca &amp; apud Scholasticos magis recepta est. 
+      <lb ed="#P" n="19"/>Nam S. Thomas licet in scripto super Magistrum 
+      <lb ed="#P" n="20"/>lib. 2. dist. 20. qu. 2. art. 3. non omnino explicet, 
+      <lb ed="#P" n="21"/>quid ipse sentiat, poste a tamen dist. 29. qu. 1. art. 2. 
+      <lb ed="#P" n="22"/>praefert sententiam affirmantem. Quam deinde in 
+      <lb ed="#P" n="23"/>summa 1. part. qu. 95. art. 1. citra ambiguitatem 
+      de<lb ed="#P" n="24" break="no"/>fendit, &amp; 2. 2. qu. 5. art. iterato confirmat tam de 
+      <lb ed="#P" n="25"/>angelis quam de hominibus. In eadem sententia est 
+      <lb ed="#P" n="26"/>Albertus Magnus scribens in dist. 24. hujus libri, 
+      <lb ed="#P" n="27"/>&amp; in summa sua Theologica. Item Durandus in dist. 
+      <lb ed="#P" n="28"/>4. hujus libri qu. 2. &amp; in dist. 29. qu. 1. Gregorius 
+      <lb ed="#P" n="29"/>Ariminens. in dist. 24. &amp; caeteri, de quibus dictum 
+      <lb ed="#P" n="30"/>est ad dist. 4. Cum enim, ut jam diximus, angeli &amp; 
+      <lb ed="#P" n="31"/>hominis quoad praesentem quaestionem par sit ratio, 
+      <lb ed="#P" n="32"/>quicunque dixerunt angelum in gratia conditum 
+      <lb ed="#P" n="33"/>fuisse, putaverunt idem etiam de homine dicendum. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e984">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Porro pro eadem sententia sunt hae rationes: 
+      <lb ed="#P" n="35"/>Prima S. Thomae quam habet parte 1. loco jam 
+      al<lb ed="#P" n="36" break="no"/>legato, sumptam ex rectitudine primi status homi 
+      <lb ed="#P" n="37"/>nis. Erat enim illa rectitudo posita in eo quod ratio 
+      <lb ed="#P" n="38"/>subdebatur Deo, rationi vero vires inferiores, &amp; 
+      <lb ed="#P" n="39"/>animae corpus; prima autem subjectio erat causae &amp; 
+      <lb ed="#P" n="40"/>secundae &amp; tertiae. Quandiu enim ratio manebat 
+      <lb ed="#P" n="41"/>Deo subjecta, interiora ei subdebantur. At illa 
+      <lb ed="#P" n="42"/>subjectio corporis ad animam &amp; inferiorum 
+      vi<lb ed="#P" n="43" break="no"/>rium ad rationem, non erat naturalis; alioquin post 
+      <lb ed="#P" n="44"/>peccatum mansisset: Quare manifestum est &amp; illam 
+      <lb ed="#P" n="45"/>primam subjectionem, qua ratio Deo subdebatur, 
+      <lb ed="#P" n="46"/>non fuisse solum secundum naturam, sed secundum 
+      <lb ed="#P" n="47"/>supernaturale donum gratiae: siquidem fieri non 
+      po<lb ed="#P" n="48" break="no"/>test, ut effectus sit potior sua causa; ergo cum illa 
+      <lb ed="#P" n="49"/>rectitudine creatus est homo, consequens est eum 
+      <lb ed="#P" n="50"/>fuisse creatum cum supernaturali dono gratiae. Haec 
+      <lb ed="#P" n="51"/>ratio S. Thomae nonnullam difficultatem habet de 
+      <lb ed="#P" n="52"/>qua infra suo loco 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e1030">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Secunda ratio: Homo creatus est a Deo ad finem 
+      <lb ed="#P" n="54"/>supernaturalem; ergo creatus est cum gratia &amp; 
+      vir<lb ed="#P" n="55" break="no"/>tutibus, quibus illum finem consequi &amp; mereri 
+      pos<lb ed="#P" n="56" break="no"/>set. Valet consequentia; quia sic Deus naturam 
+      re<lb ed="#P" n="57" break="no"/>rum instituit, ut quibuscunque finem aliquem 
+      prae<lb ed="#P" n="58" break="no"/>stituit, iisdem etiam statim cum natura indiderit 
+      <lb ed="#P" n="59"/>virtutem ac facultatem pertingendi ad illum finem. 
+      <lb ed="#P" n="60"/>Quod patet exemplo caeterarum rerum quibus Deus 
+      <lb ed="#P" n="61"/>indidit semen &amp; virtutes unicuique juxta genus 
+      <lb ed="#P" n="62"/>suum, quibus fines suos consequerentur. At semen 
+      <lb ed="#P" n="63"/>&amp; virtus consequendi finem supernaturalem, id est 
+      <lb ed="#P" n="64"/>vitam aeternam, quae in Dei visione consistit, est 
+      gra<lb ed="#P" n="65" break="no"/>tia &amp; charitas. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e1063">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Tertia: Filii qui erant nascituri ex Adam servante 
+      <lb ed="#P" n="67"/>innocentiam, nati fuissent in justitia &amp; gratia, uti 
+      <lb ed="#P" n="68"/>ostendimus ad dist. 20. atqui parens eorum non 
+      mi<lb ed="#P" n="69" break="no"/>nora habuit dona in sua creatione, quam illi habitu 
+      <lb ed="#P" n="70"/>ri erant in sua generatione; ergo creatus est in 
+      justi<lb ed="#P" n="71" break="no"/>tia &amp; gratia. 
+    </p>
+            <p xml:id="bt67yj-p098973-d1e1081">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Huc denique concurrunt rationes, quibus ad dist. 
+      <lb ed="#P" n="73"/>3. usi sumus ad docendum angelos in gratia creatos 
+      <lb ed="#P" n="74"/>fuisse.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="149"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p057727"><!-- l2d17c9" -->
+            <head xml:id="bt67yj-p057727-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p057727-Hd1e103" type="question-title">Respondetur ad objectiones</head>
+            <p xml:id="bt67yj-p057727-d1e106">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> §. 9. Respondetur ad objectiones.
+    </p>
+            <p xml:id="bt67yj-p057727-d1e113">
+               <lb ed="#P" n="143"/>SUperest ut respondeatur ad ea quae doctrinae 
+      su<lb ed="#P" n="144" break="no"/>periori videntur adversa.
+    </p>
+            <p xml:id="bt67yj-p057727-d1e120">
+      <!--0383.xml-->
+               <pb ed="#P" n="150"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quale imprimis est quod Sap. 8. Salomon 
+      intro<lb ed="#P" n="2" break="no"/>ducitur dicens se, id est animam suam, de qua jam 
+      <lb ed="#P" n="3"/>dixcrat: Sortitus sum animam bonam, venisse ad 
+      cor<lb ed="#P" n="4" break="no"/>incoinquinatum. Si enim venit ad corpus; ergo erat 
+      <lb ed="#P" n="5"/>antequam esset in corpore. Quod autem velit 
+      cor<lb ed="#P" n="6" break="no"/>pus esse carcerem animae, apparet ex illis verbis cap. 
+      <lb ed="#P" n="7"/>9. <quote xml:id="bt67yj-p057727-Qd1e143">Corpus quod corrumpitur aggravat animam, &amp; 
+      ter<lb ed="#P" n="8" break="no"/>rena inhabitatio deprimit sensum multa cogitantem</quote>
+               <lb ed="#P" n="9"/>Aggravare enim &amp; deprimere proprietates sunt 
+      car<lb ed="#P" n="10" break="no"/>ceris, compedum ac vinculorum 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e155">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> Secundo, apertius id significat David psalm. 141 
+      <lb ed="#P" n="12"/>educ de custodia sive de carcere animam meam. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e164">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Tertio, Ecclesiastae ult. dicitur spiritus rediturus 
+      <lb ed="#P" n="14"/>ad Deum qui dedit illum; ergo aliquando apud 
+      <lb ed="#P" n="15"/>Deum erat extra corpus. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e175">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Quarto, Joannis nono rogant discipuli: 
+      Qui<lb ed="#P" n="17" break="no"/>peccavit hic an parentes ejus, ut coecus nasceretur. 
+      <lb ed="#P" n="18"/>Hinc enim videri potest discipulos fuisse opinatos 
+      <lb ed="#P" n="19"/>quod homines, id est hominum animae in priori vita 
+      <lb ed="#P" n="20"/>peccando contrahant merita poenarum in quibus &amp; 
+      <lb ed="#P" n="21"/>cum quibus nascuntur. Hanc autem opinionem 
+      <lb ed="#P" n="22"/>Christus non correxit; unde apparet eam aut veram 
+      <lb ed="#P" n="23"/>esse aut tolerabilem. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e197">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Quinto, Hieronymus scribens in epistolam ad 
+      <lb ed="#P" n="25"/>Ephes. super illud capitis primi, Elegit nos ante 
+      <lb ed="#P" n="26"/>mundi constitutionem, &amp; super illud: In laudem 
+      glo<lb ed="#P" n="27" break="no"/>ria suae, &amp; rursum super illud: Qui ante speravimus 
+      <lb ed="#P" n="28"/>in Christo; sentire videtur animas hominum olim 
+      <lb ed="#P" n="29"/>in alia vita fecisse quaedam unde Deo placerent aut 
+      <lb ed="#P" n="30"/>displicerent, &amp; ad hoc insinuandum pertinere jam 
+      <lb ed="#P" n="31"/>dicta apost. verba. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e219">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Sexto, Lactantius libro secundo divinarum 
+      in<lb ed="#P" n="33" break="no"/>stitutionum capite octavo dicit hominem corpore 
+      <lb ed="#P" n="34"/>quasi custodia septum teneri, ne libero ac soluto 
+      <lb ed="#P" n="35"/>sensu omnia cernat; &amp; libro septimo capite quinto, 
+      <lb ed="#P" n="36"/>licet anima &amp; corpus consociata sint, tamen ea 
+      con<lb ed="#P" n="37" break="no"/>traria esse &amp; invicem repugnare. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e237">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Septimo, Prudentius in hymno ante somnum, 
+      <lb ed="#P" n="39"/>dicit mentis nostrae e caelo esse originem. Quod D 
+      <lb ed="#P" n="40"/>etiam habet in hymno ad exequias defunctorum, &amp; 
+      <lb ed="#P" n="41"/>lib. Hamartig. non procul a fine. Idem in fine 
+      psy<lb ed="#P" n="42" break="no"/>chomachiae dicit animam inspiratione Dei factam 
+      <lb ed="#P" n="43"/>repugnare corpori facto ex limo terrae. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e256">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Octavo, Augustinus libro primo de libero 
+      arbi<lb ed="#P" n="45" break="no"/>trio cap. 12. Utrum, inquit, ante consortium hujus 
+      cor<lb ed="#P" n="46" break="no"/>poris alia quadam vita vixerit animus, &amp; an 
+      ali<lb ed="#P" n="47" break="no"/>quando sapienter vixerit; magna quaestio est, magnam 
+      <lb ed="#P" n="48"/>secretum, &amp;c. &amp; in psalm. 118. concione 8. ubi in 
+      <lb ed="#P" n="49"/>hujus quaestionis i ncidit mentionem: De hac, inquit, 
+      <lb ed="#P" n="50"/>profundissima quaestione nihil audeo definire, &amp;c. 
+      Ap<lb ed="#P" n="51" break="no"/>paret igitur Augustino perinde ut Ruffino, 
+      quaestio<lb ed="#P" n="52" break="no"/>nem hanc dubiam &amp; problematicam fuisse. Quin 
+      <lb ed="#P" n="53"/>alibi magis in partem affirmativam loqui videtur, 
+      <lb ed="#P" n="54"/>velut eum libro secundo contra Academicos capite 
+      <lb ed="#P" n="55"/>nono, &amp; in expositione psalmi septimi dicit 
+      homi<lb ed="#P" n="56" break="no"/>nes, videlicet secundum animas, redire ac remeare 
+      <lb ed="#P" n="57"/>in caelum; &amp; cum docet scientiam nostram esse 
+      re<lb ed="#P" n="58" break="no"/>miniscentiam lib. 2. soliloquiorum cap. 20. &amp; 
+      ani<lb ed="#P" n="59" break="no"/>mam omnes artes secum attulsse libro de 
+      quantita<lb ed="#P" n="60" break="no"/>te animae cap. 20. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e298">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Postremo, potest huc adduci testimonium 
+      philo<lb ed="#P" n="62" break="no"/>sophi scribentis lib. 2. de generatione animalium 
+      <lb ed="#P" n="63"/>cap. 3. mentem, id est animam rationalem 
+      extrin<lb ed="#P" n="64" break="no"/>secus advenire corpori; quasi nimirum prius alicubi 
+      <lb ed="#P" n="65"/>existentem. Quod &amp; magis indicat praemissa ibidem 
+      <lb ed="#P" n="66"/>divisione animarum quibus foetus humanus 
+      succes<lb ed="#P" n="67" break="no"/>sive informatur. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e318">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Ad haec ita respondemus. 
+      <lb ed="#P" n="69"/>Ad primum: Animam Salomonis venisse ad 
+      cor<lb ed="#P" n="70" break="no"/>pus non quasi prius fuerit quam esset in corpore; 
+      <lb ed="#P" n="71"/>sed quia simul ut esse cepit, ad corpus sive in 
+      cor<lb ed="#P" n="72" break="no"/>pus venit, non motus successione sed per 
+      creatio<lb ed="#P" n="73" break="no"/>nem instantaneam; quomodo dicuntur homine 
+      <lb ed="#P" n="74"/>qui nascuntur, venire in mundum, quia scilicet 
+      <!--0383.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>nascendo incipiunt esse in mundo, cum tamen 
+      ex<lb ed="#P" n="76" break="no"/>tra mundum vel ante mundum nunquam fuerint, 
+      <lb ed="#P" n="77"/>Sic peccatum intravit in mundum cum ante non 
+      <lb ed="#P" n="78"/>esset, sic ait psalmista, Timor &amp; tremor venerum 
+      <lb ed="#P" n="79"/>super me: Sic ejusdem libri Sapient. 7. Venerunt 
+      <lb ed="#P" n="80"/>mihi omnia bona pariter cum illa, scilicet sapientia. 
+      <lb ed="#P" n="81"/>Dicitur autem animam aggravare corpus non 
+      sim<lb ed="#P" n="82" break="no"/>pliciter, sed cum adjectione, quod corrumpitur, 
+      <lb ed="#P" n="83"/>id est quatenus est subjectum corruptioni &amp; 
+      mise<lb ed="#P" n="84" break="no"/>riis. Hac enim ratione corpus animae 
+      quodammo<lb ed="#P" n="85" break="no"/>do vertitur in carcerem. Et hoc voluit psalmista 
+      <lb ed="#P" n="86"/>petens animam suam e carcere educi. Non aliud 
+      <lb ed="#P" n="87"/>enim petit quam quod apostolus Roman. 7. Infelix 
+      <lb ed="#P" n="88"/>ego homo, quis me liberabit de corpore mortis hujus, 
+      <lb ed="#P" n="89"/>id est de mortali corpore. Unde patet solutio 
+      se<lb ed="#P" n="90" break="no"/>cundi. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e377">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Ad tertium dicendum scripturam &amp; Patres 
+      quan<lb ed="#P" n="92" break="no"/>do dicunt animas redire ad Deum, vel in caelum 
+      <lb ed="#P" n="93"/>unde originem habent, non aliud significare, quam 
+      <lb ed="#P" n="94"/>quod animae non sint ex terra vel quacumque 
+      ma<lb ed="#P" n="95" break="no"/>teria, sicuti corpus; sed quod sint formae quaedam 
+      <lb ed="#P" n="96"/>immateriales immediate &amp; ex nihilo a Deo 
+      produ<lb ed="#P" n="97" break="no"/>ctae. Qua ratione etiam Deus vocatur pater 
+      spi<lb ed="#P" n="98" break="no"/>rituum Hebr. 12. In hunc sensum Augustinus 
+      seip<lb ed="#P" n="99" break="no"/>sum exponit libro primo retractationum capite 
+      <lb ed="#P" n="100"/>primo, recteque se locutum ostendit tum ex 
+      scrip<lb ed="#P" n="101" break="no"/>tura Ecclesiasticae jam explicata, tum ex verbis 
+      Cy<lb ed="#P" n="102" break="no"/>priani dicentis: Cum corpus e terra, spiritum possi 
+      <lb ed="#P" n="103"/>deamus e caelo; ipsi terra &amp; celum sumus. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e410">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Ad quartum respondetur Christi discipulos ut pote 
+      <lb ed="#P" n="105"/>adhuc rudes, confusam Magistro suo propofuisse 
+      <lb ed="#P" n="106"/>quaestionem, quam peterent ab illo explicari; 
+      Chri<lb ed="#P" n="107" break="no"/>stum quoque quaestioni respondentem, non omnia 
+      <lb ed="#P" n="108"/>quae ad ejus explicationem facerent, adduxisse, 
+      <lb ed="#P" n="109"/>sed ea tantum quae praesenti instituto servirent. 
+      <lb ed="#P" n="110"/>Multa enim reliquit magisterio Spiritus sancti, quem 
+      <lb ed="#P" n="111"/>illis erat missurus, multa etiam ipse docuit 
+      discipu<lb ed="#P" n="112" break="no"/>los suos quae non sunt scripta. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e434">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Ad quintum respondetur Hieronymus saepe 
+      alie<lb ed="#P" n="114" break="no"/>nas opiniones commentariis suis inserere. Nam 
+      <lb ed="#P" n="115"/>quid ipse sentiat, manifeste liquet ex locis supra 
+      <lb ed="#P" n="116"/>citatis. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e448">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Ad ea quae sexto &amp; septimo loco afferuntur ex 
+      <lb ed="#P" n="118"/>Lactantio &amp; Prudentio, dicendum quod etsi forte 
+      <lb ed="#P" n="119"/>authores illi sapuerint aliquid Platonicum, quoad 
+      <lb ed="#P" n="120"/>naturalem repugnantiam animae &amp; corporis; 
+      nus<lb ed="#P" n="121" break="no"/>quam tamen dicunt animam extitisse ante corpus. 
+      <lb ed="#P" n="122"/>Imo Prudentius alibi ut in apotheosi capite de 
+      na<lb ed="#P" n="123" break="no"/>tura animae, &amp; in hymno Epiphaniae, dicit animas 
+      <lb ed="#P" n="124"/>singulis infundi novas ac recentes, nec prius creari 
+      <lb ed="#P" n="125"/>quam veniant in corpora. Quomodo autem 
+      intelli<lb ed="#P" n="126" break="no"/>gendum sit quod mentibus nostris originem ascribit 
+      <lb ed="#P" n="127"/>e caelo, jam dictum est in solutione tertii¬ 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e477">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Ad octavum respondetur Aug. quidem aliquando 
+      <lb ed="#P" n="129"/>de hac re dubitasse; sed eam dubitationem postea 
+      <lb ed="#P" n="130"/>deposuisse, ut perspicue patet ex aliis locis superius 
+      <lb ed="#P" n="131"/>in contrarium adductis, ac potissimum ex 
+      retracta<lb ed="#P" n="132" break="no"/>tionibus. Nam quod dixerat lib. 2. contra 
+      Academi<lb ed="#P" n="133" break="no"/>cos, retractat &amp; exponit lib. 1. retractationum cap. 1. 
+      <lb ed="#P" n="134"/>Et quod dixerat in soliloquiis, retractat ibidem 
+      cap<lb ed="#P" n="135" break="no"/>4. Quod autem dixerat in lib. de quantitate animae, 
+      <lb ed="#P" n="136"/>retractat cap. 8. 
+    </p>
+            <p xml:id="bt67yj-p057727-d1e501">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Ad postremum respondeo valde incertum esse 
+      <lb ed="#P" n="138"/>quid de hac re Philosophus senserit. Ac vero sicut 
+      <lb ed="#P" n="139"/>videtur sensisse cum Platone mentem non esse 
+      for<lb ed="#P" n="140" break="no"/>mam informantem, sed tantum assistentem homini, 
+      <lb ed="#P" n="141"/>quemadmodum supra diximus; ita non leves sunt 
+      <lb ed="#P" n="142"/>conjecturae ex quibus appareat eum sensisse mentem 
+      <lb ed="#P" n="143"/>seu animam rationalem corpori praeexistere; tum 
+      <lb ed="#P" n="144"/>propter id quod allatum est ex lib. 2. de generatione 
+      <lb ed="#P" n="145"/>animalium; tum quia alibi intellectum vocat 
+      aeter<lb ed="#P" n="146" break="no"/>num. Nihil autem Aristoteli aeternum est quod 
+      ali<lb ed="#P" n="147" break="no"/>quando incepit. Tum denique quia intellectus sive 
+      <lb ed="#P" n="148"/>anima intellectiva non potest incipere esse nisi per 
+      <!--0384.xml-->
+      <pb ed="#P" n="151"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ereationem. Hoc autem genus productionis est 
+      A<lb ed="#P" n="2" break="no"/>ristoteli incognitum. Verum hanc ejus doctrinam si 
+      <lb ed="#P" n="3"/>ita sensit, non sequitur schola Christiana. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

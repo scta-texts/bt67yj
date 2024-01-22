@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="110"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p042266"><!-- l2d11c5" -->
+            <head xml:id="bt67yj-p042266-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p042266-Hd1e103" type="question-title">Utrum angeli praecognoverint mysterium 
+      incarnationis Christi</head>
+            <p xml:id="bt67yj-p042266-d1e106">
+               <lb ed="#P" n="35"/>§. 5. Utrum angeli praecognoverint mysterium 
+      incar<lb ed="#P" n="36" break="no"/>nationis Christi?
+    </p>
+            <p xml:id="bt67yj-p042266-d1e113">
+               <lb ed="#P" n="37"/>QUod quaerit Magister, an mysterium Verbi 
+      in<lb ed="#P" n="38" break="no"/>carnati praecognitum fuerit angelis, non de 
+      na<lb ed="#P" n="39" break="no"/>turali cognitione, sed de supernaturali accipiendum. 
+      <lb ed="#P" n="40"/>est. Satis enim constat angelos per naturam ad 
+      co<lb ed="#P" n="41" break="no"/>gnitionem mysteriorum supernaturalium pertingere 
+      <lb ed="#P" n="42"/>non potuisse, maxime priusquam ea fierent aut 
+      exi<lb ed="#P" n="43" break="no"/>sterent in rerum natura. Haec enim omnium 
+      scho<lb ed="#P" n="44" break="no"/>lasticorum est opinio; tametsi de mysteriis jam factis 
+      <lb ed="#P" n="45"/>aut existentibus solus fere <name xml:id="bt67yj-p042266-Nd1e134">Scotus</name> dissentiat. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e137">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Hoc igitur supposito de praesenti qu. variae sunt 
+      <lb ed="#P" n="47"/>sententiae. Una Magistri in textu docentis, quod 
+      an<lb ed="#P" n="48" break="no"/>gelis superioribus jam olim &amp; a saeculis ex parte 
+      co<lb ed="#P" n="49" break="no"/>gnita fuerint mysteria gratiae, utpote quorum 
+      mi<lb ed="#P" n="50" break="no"/>nisterio eadem nuncianda erant hominibus; angelis 
+      <lb ed="#P" n="51"/>autem inferioribus incognita mansisse, donec 
+      im<lb ed="#P" n="52" break="no"/>pleta sunt, &amp; per ecclesiam praedicata, ac tunc 
+      de<lb ed="#P" n="53" break="no"/>mum illa omnibus angelis perfecte fuisse cognita. 
+      <lb ed="#P" n="54"/>Quam doctrinam Magister accepit ex Haimone 
+      scri<lb ed="#P" n="55" break="no"/>bente super Ephes. 3. ut ipse profitetur. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e164">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Alia sententia est mysterium incarnationis 
+      latuis<lb ed="#P" n="57" break="no"/>se omnes angelos usque ad tempus quo completum 
+      <lb ed="#P" n="58"/>&amp; praedicatum est. Ita sensisse videntur plerique 
+      pa<lb ed="#P" n="59" break="no"/>tres; dicit enim Ambr. super Luc. 1. Neque enim 
+      fa<lb ed="#P" n="60" break="no"/>cile erat scire mysterium absconditum a saeculis in 
+      <lb ed="#P" n="61"/>Deo, quo nec superiores potestates scire 
+      potue<lb ed="#P" n="62" break="no"/>runt, &amp; lib. de institutione virginis cap. 5. Christi 
+      <lb ed="#P" n="63"/>resurrectionem, inquit, angeli ignoraverunt, quod 
+      si<lb ed="#P" n="64" break="no"/>gnificant versiculi: Tollite portas principes vestras, &amp;c. 
+      <lb ed="#P" n="65"/>post quae tandem infert. Quomodo ergo homo potuit 
+      <lb ed="#P" n="66"/>divinum scire secretum quod angeli nesciebant; ubi 
+      lo<lb ed="#P" n="67" break="no"/>quitur de conceptu virginis. Bernardo quoque in ep. 
+      <lb ed="#P" n="68"/>67. dubium est, an quisquam angelorum praeter 
+      <lb ed="#P" n="69"/>Gabrielem hujus mysterii notitiam habuerit, 
+      prius<lb ed="#P" n="70" break="no"/>quam fieret. In hanc praeterea sententiam scribunt 
+      <lb ed="#P" n="71"/>Orig. hom. 15. super Mat. Hier. super Isa. 63. Chrys. 
+      <!--0343.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>hom. 14. super Joan. Theod. lib. de 
+      immutabilita<lb ed="#P" n="73" break="no"/>te. Atque iidem authores &amp; cum eis Theophyl. &amp; 
+      <lb ed="#P" n="74"/>Oecum. in expos. Ephes. 3. Nituntur autem 
+      potissi<lb ed="#P" n="75" break="no"/>mum dicto loco apost. Ephes. 3. ubi dicit datam sibi 
+      <lb ed="#P" n="76"/>gratiam evangelizandi in gentibus investigabiles 
+      di<lb ed="#P" n="77" break="no"/>vitias Christi, &amp; illuminandi omnes quae sit 
+      dispen<lb ed="#P" n="78" break="no"/>satio sacramenti absconditi a saeculis in Deo; dende 
+      <lb ed="#P" n="79"/>addit: Ut innotescat principibus &amp; potestatibus in 
+      caele<lb ed="#P" n="80" break="no"/>stibus per ecclesiam multiformis sapientia Dei 
+      secun<lb ed="#P" n="81" break="no"/>dum praefinitionem faeculorum, quam fecit in Christo 
+      <lb ed="#P" n="82"/>Jesu Domino nostro. Ex quibus Apost. verbis etiam 
+      <lb ed="#P" n="83"/>amplius aliquid adjiciunt, nempe Apostolos angelis 
+      <lb ed="#P" n="84"/>haec mysteria praedicasse. Sic enim Orig. Hieron. &amp; 
+      <lb ed="#P" n="85"/>Chrys. nimirum ex eo quod dicit Apost. mysterium 
+      <lb ed="#P" n="86"/>hoc angelis innotuisse per ecclesiam, id est, ut illi 
+      <lb ed="#P" n="87"/>exponunt, per ecclesiae praedicationem. 
+      <lb ed="#P" n="88"/>Alter ejusdem Apostoli locus est 1. Timoth. 3. cum 
+      <lb ed="#P" n="89"/>ait de hoc eodem pietatis sacramento: Manifestum 
+      <lb ed="#P" n="90"/>est in carne, justificatum est in spiritu, apparuit angelis, 
+      <lb ed="#P" n="91"/>praedicatum est in gentibus, &amp;c. Videntur enim illa 
+      <lb ed="#P" n="92"/>omnia ad idem tempus novi testamenti referenda. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e253">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Adducitur item locus ex psal. 23. ubi angeli quasi 
+      <lb ed="#P" n="94"/>ignorantes, ut ait Ambrosius in institutione virginis, 
+      <lb ed="#P" n="95"/>interrogant dicentes: Quis est iste rex gloria? 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e264">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Similis est locus Isa. 63. ubi rursus eodem 
+      Ambro<lb ed="#P" n="97" break="no"/>sio authore angelorum vox est de Christo seu 
+      resur<lb ed="#P" n="98" break="no"/>gente seu ascendente in caelum sciscitantium; 
+      Qui<lb ed="#P" n="99" break="no"/>est iste qui venit de Edom, &amp;c. Sed &amp; Hieronymus 
+      <lb ed="#P" n="100"/>&amp; alii fere in hunc sensum duo haec posteriora loca 
+      <lb ed="#P" n="101"/>exponunt. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e282">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Porro tertia sententia est omnes angelos ab initio 
+      <lb ed="#P" n="103"/>quo facti sunt beati, mysterium incarnationis 
+      Chri<lb ed="#P" n="104" break="no"/>sti cognovisse quantum ad ejus substantiam, non 
+      <lb ed="#P" n="105"/>autem quoad particulares rationes &amp; 
+      circumstan<lb ed="#P" n="106" break="no"/>tias: sed hanc cognitionem tum demum eos 
+      acce<lb ed="#P" n="107" break="no"/>pisse, quando mysterium ipsum reipsa completum 
+      <lb ed="#P" n="108"/>fuit, &amp; per apostolos praedicatum. Sic S. Thom. 
+      do<lb ed="#P" n="109" break="no"/>cet 1. p. q. 57. a. 5. praecipue in resp. ad primum, &amp; 
+      <lb ed="#P" n="110"/>qu. 64. artic. 1. ad 4. &amp; in commentario Ephes. 3. 
+      <lb ed="#P" n="111"/>&amp; compluribus aliis locis, quem ahii plerique 
+      sequun<lb ed="#P" n="112" break="no"/>tur. Notandum autem, quod ait dicto loco in 
+      cor<lb ed="#P" n="113" break="no"/>pore, angelos cognitione supernaturali in verbo 
+      <lb ed="#P" n="114"/>cognovisse mysteria gratiae, non quidem omnia nec 
+      <lb ed="#P" n="115"/>aequaliter omnes, sed secundum quod Deus voluit 
+      <lb ed="#P" n="116"/>eis revelare; ita tamen quod superiores angeli 
+      per<lb ed="#P" n="117" break="no"/>spicacius divinam sapientiam contemplantes plura 
+      <lb ed="#P" n="118"/>mysteria &amp; altiora in ipsa visione cognoscunt, qui 
+      <lb ed="#P" n="119"/>inferioribus manifestant eos illuminando. Et 
+      ho<lb ed="#P" n="120" break="no"/>rum etiam mysteriorum, inquit, quaedam a 
+      princi<lb ed="#P" n="121" break="no"/>pio cognoverunt, quaedam vero postmodum 
+      secun<lb ed="#P" n="122" break="no"/>dum quod eorum officiis congruit, edocentur. Quod 
+      <lb ed="#P" n="123"/>similiter ad superiores etiam angelos pertinet, ut 
+      <lb ed="#P" n="124"/>ipse S. Tho. infra clare explicat. Rationem autem 
+      <lb ed="#P" n="125"/>generalis cognitionis quam omnes habuerunt ab 
+      ini<lb ed="#P" n="126" break="no"/>tio beatitudinis hanc reddit, quia mysterium 
+      incar<lb ed="#P" n="127" break="no"/>nationis Christi est quoddam generale principium 
+      <lb ed="#P" n="128"/>ad quod omnia angelorum officia ordinantur. Omnes 
+      <lb ed="#P" n="129"/>enim sunt administratorii spiritus in ministerium 
+      <lb ed="#P" n="130"/>missi propter eos, qui haereditatem capient salutis, 
+      <lb ed="#P" n="131"/>videlicet dandae per Christum, Hebr. 1. Non 
+      po<lb ed="#P" n="132" break="no"/>tuerunt ergo hoc mysterium ignorare, illi 
+      praeser<lb ed="#P" n="133" break="no"/>tim per quos illud ipsum patriarchis &amp; prophetis 
+      <lb ed="#P" n="134"/>erat revelandum, &amp; quicumque populo Israelitico 
+      <lb ed="#P" n="135"/>generatim ac sigillatim ad procurandam salutem 
+      <lb ed="#P" n="136"/>principes &amp; custodes dati erant, imo &amp; aliis 
+      ex<lb ed="#P" n="137" break="no"/>tra illum populum. Est alia ratio. Nam Christus 
+      <lb ed="#P" n="138"/>constituendus erat a Deo caput non solum 
+      homi<lb ed="#P" n="139" break="no"/>num, sed etiam angelorum, ut dicitur Ephes. 1. 
+      <lb ed="#P" n="140"/>ergo ad beatam cognitionem angelorum aliquo 
+      mo<lb ed="#P" n="141" break="no"/>do pertinebat mysterium Christi, id est, verbi 
+      in<lb ed="#P" n="142" break="no"/>carnandi. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e376">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Huc praeterea facit, quod angelis in universum 
+      ma<lb ed="#P" n="144" break="no"/>jorem mysteriorum notitiam scripturae attribuant 
+      <lb ed="#P" n="145"/>quam hominibus, ita ut si quid eorum lateat angelos; 
+      <!--0344.xml-->
+      <pb ed="#P" n="111"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>consequenter nec hominibus prodendum videatur. A 
+      <lb ed="#P" n="2"/>Nam Matth. 24. cum discipuli Christum curiosius 
+      <lb ed="#P" n="3"/>interrogassent de tempore adventus sui, repressit 
+      <lb ed="#P" n="4"/>eos hac responsione: De die illa &amp; hora nemo scit, 
+      <lb ed="#P" n="5"/>neque angeli calorum; quasi dicat, quod angeli 
+      ne<lb ed="#P" n="6" break="no"/>sciunt ejus notitiam, vos quaerere non debetis. Unde 
+      <lb ed="#P" n="7"/>apparet de hujusmodi mysteriis nihil unquam fuisse 
+      <lb ed="#P" n="8"/>revelatum hominibus, quod non scirent angeli. 
+      <lb ed="#P" n="9"/>Simul autem redarguitur illa quorumdam opinio 
+      <lb ed="#P" n="10"/>quod angeli de quibus mysteriis fuerint edocti ab 
+      <lb ed="#P" n="11"/>hominibus, de qua vide quaestionem apud sanctum 
+      <lb ed="#P" n="12"/>Thomam 1. parte quaest. 117. art. 2. &amp; super 
+      <lb ed="#P" n="13"/>Ephes. 3. Imo si quis memoratam scripturam ad 
+      <lb ed="#P" n="14"/>hunc modum interpretaretur, angelos, diem &amp; 
+      ho<lb ed="#P" n="15" break="no"/>ram judicii nescire, quia scientes nesciunt, id est, 
+      <lb ed="#P" n="16"/>ita noverunt ut tamen hominibus revelare non 
+      pos<lb ed="#P" n="17" break="no"/>sint; non videretur vim scripturae facere, 
+      quando<lb ed="#P" n="18" break="no"/>quidem eodem contextu additur apud Marcum cap. 
+      <lb ed="#P" n="19"/>13. Neque filius: quod non potest aliter intelligi 
+      <lb ed="#P" n="20"/>quam quia filius etsi sciat, est tamen quasi nesciens, 
+      <lb ed="#P" n="21"/>quia non revelat. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e439">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Ex dictis patet tertiam hanc sententiam non leve 
+      <lb ed="#P" n="23"/>fundamentum habere in scripturis, ut Heb. 1. Ephes. 
+      <lb ed="#P" n="24"/>1. Matth. 24. &amp; in super ubicumque per angelos 
+      fa<lb ed="#P" n="25" break="no"/>ctae leguntur hominibus revelationes de Christo, 
+      <lb ed="#P" n="26"/>ut apud Danielem &amp; alibi. Sed nec patrum deest 
+      <lb ed="#P" n="27"/>ad hanc sententiam authoritas. Nam Dionysius lib. 
+      <lb ed="#P" n="28"/>caelestis hierarchiae capit. 4. &amp; 7. docet non aliter 
+      <lb ed="#P" n="29"/>quam per angelos mysteria divina hominibus 
+      inno<lb ed="#P" n="30" break="no"/>tescere, sicut nec angelis inferioribus nisi per 
+      supe<lb ed="#P" n="31" break="no"/>riores. Quod &amp; August. docet lib. 7. de civitate 
+      <lb ed="#P" n="32"/>Dei cap. 32. Apud quem praeterea lib. 5. de Genesi 
+      <lb ed="#P" n="33"/>ad literam cap. 19. legitur mysterium gratiae sic 
+      ab<lb ed="#P" n="34" break="no"/>sconditum fuisse a seculis in Deo, ut tamen 
+      innotes<lb ed="#P" n="35" break="no"/>ceret principibus, &amp; potestatibus caelestibus. 
+      Au<lb ed="#P" n="36" break="no"/>gustinum Beda sequitur in expositione Ephes. 3. Et 
+      <lb ed="#P" n="37"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="38"/>aperta est Maximi in quodam sermone sententia. 
+      <lb ed="#P" n="39"/>Quod angeli noverint futuram incarnationem, 
+      am<lb ed="#P" n="40" break="no"/>bigi non oportere. Citat S. Thomas 3. parte 
+      quae<lb ed="#P" n="41" break="no"/>stione 3. articulo 2. ad 3. Ut autem plenius tota haec 
+      <lb ed="#P" n="42"/>res explicetur, distinguenda sunt quinque tempora 
+      <lb ed="#P" n="43"/>in angelis. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e494">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Primum est ab initio creationis usque ad 
+      confir<lb ed="#P" n="45" break="no"/>mationem. Hoc autem tempore etsi cognitionem 
+      <lb ed="#P" n="46"/>habuerint supernaturalem, quae est per fidem, non 
+      <lb ed="#P" n="47"/>tamen videntur cognovisse mysterium verbi 
+      incar<lb ed="#P" n="48" break="no"/>nandi. Non enim pertinebat hoc ullo modo ad 
+      il<lb ed="#P" n="49" break="no"/>lum statum angelorum, quia non erant per 
+      Chri<lb ed="#P" n="50" break="no"/>stum salvandi. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e514">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Deinde si electi cognovissent, eadem ratione 
+      cog<lb ed="#P" n="52" break="no"/>novissent &amp; reprobi. Qui proinde postea Christum 
+      <lb ed="#P" n="53"/>in carne apparentem non dubitassent esse Dei 
+      fi<lb ed="#P" n="54" break="no"/>lium. Nam etsi fidem peccando amisissent, non 
+      ta<lb ed="#P" n="55" break="no"/>men rei quondam creditae memoria illis excidisset. 
+      <lb ed="#P" n="56"/>Quod autem dubita verint etiam tunc quando 
+      vide<lb ed="#P" n="57" break="no"/>bant eum miracula facientem, testatur Aug. lib. 19. 
+      <lb ed="#P" n="58"/>de civitate Dei cap. 21. Nullus autem patrum asserit 
+      <lb ed="#P" n="59"/>daemones quod tunc nesciebant, scilicet in eandem 
+      <lb ed="#P" n="60"/>personam convenire Deum &amp; hominem, id olim 
+      <lb ed="#P" n="61"/>priusquam caderent, cognovisse. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e543">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Nec obstat quod quidam objiciunt, oportere ut 
+      <lb ed="#P" n="63"/>fides praecedat visionem, scilicet ut fidei merito 
+      vi<lb ed="#P" n="64" break="no"/>sionis praemium reddatur. Non enim hoc oportet in 
+      <lb ed="#P" n="65"/>omnibus quorum visionem in verbo accipiunt. 
+      Mul<lb ed="#P" n="66" break="no"/>ta enim ibi vident prius numquam credita. 
+      Habue<lb ed="#P" n="67" break="no"/>runt autem angeli fidem trinitatis, cui &amp; gloriam 
+      <lb ed="#P" n="68"/>ab initio creaturae cecinerunt, juxta illud 
+      Ecclesiasti<lb ed="#P" n="69" break="no"/>cum: Gloria patri &amp; filio &amp; spiritui sancto. Sicut erat 
+      <lb ed="#P" n="70"/>in principio. Atque hujus fidei praemium acceperunt 
+      <lb ed="#P" n="71"/>ejusdem trinitatis visionem. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e569">
+               <lb ed="#P" n="72"/>Objiciunt &amp; alia argumenta, sed quibus jam 
+      res<lb ed="#P" n="73" break="no"/>ponsum a nobis est supra ad 6. dist. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e576">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Secundum tempus est a confirmatione usque 
+      <lb ed="#P" n="75"/>ad lapsum hominis. Quo tempore valde probabile 
+      <!--0344.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="76"/>est, angelos habuisse cognitionem dicti mysterii 
+      <lb ed="#P" n="77"/>quoad substantiam ejus &amp; excellentiam, ut jam 
+      pro<lb ed="#P" n="78" break="no"/>batum est. Siquidem &amp; homini ante lapsum id fuit 
+      <lb ed="#P" n="79"/>revelatum Gen. 2. Revelationes autem, ut supra 
+      <lb ed="#P" n="80"/>dictum est, hominibus non fiunt nisi per 
+      ministe<lb ed="#P" n="81" break="no"/>rium angelorum 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e602">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Tertium a lapsu hominis usque ad Christum. A 
+      <lb ed="#P" n="83"/>quo tempore statim coeperunt angeli de hoc 
+      myste<lb ed="#P" n="84" break="no"/>rio quaedam particularia nosse, &amp; illud maxime, quod 
+      <lb ed="#P" n="85"/>per Christum ex Adae posteritate nasciturum genus 
+      <lb ed="#P" n="86"/>ipsius a peccati servitute esset liberandum. Nam 
+      Ge<lb ed="#P" n="87" break="no"/>nes. 3. a Deo utique per angelum dicitur ad 
+      serpen<lb ed="#P" n="88" break="no"/>tem: Inimicitias ponam inter semen tuum &amp; semen 
+      il<lb ed="#P" n="89" break="no"/>lius. Ipsum conteret caput tuum. Prout autem subinde 
+      <lb ed="#P" n="90"/>aliae atque aliae de hoc mysterio factae sunt 
+      homini<lb ed="#P" n="91" break="no"/>bus revelationes, oportuit etiam angelis 
+      revelatio<lb ed="#P" n="92" break="no"/>num ministris ipsum mysterium secundum 
+      circum<lb ed="#P" n="93" break="no"/>stantias magis magisque innotescere. Quod vult 
+      ra<lb ed="#P" n="94" break="no"/>tio &amp; declaratio S. Thom. supra posita.
+    </p>
+            <p xml:id="bt67yj-p042266-d1e636">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Quartum a Christo usque ad finem saeculi. Quo 
+      <lb ed="#P" n="96"/>tempore non dubium est, quin sicut homines ita ac 
+      <lb ed="#P" n="97"/>multo magis angeli pleniorem atque ampliorem 
+      ac<lb ed="#P" n="98" break="no"/>ceperint dicti mysterii notitiam quoad multa 
+      parti<lb ed="#P" n="99" break="no"/>cularia prius ignota. Sicut enim quae in prophetis 
+      <lb ed="#P" n="100"/>obscure dicuntur, eadem clare explicata sunt in 
+      evan<lb ed="#P" n="101" break="no"/>geliis, ita angeli quae prius cognoscebant secundum 
+      <lb ed="#P" n="102"/>generales &amp; quasdam speciales sed pauciores 
+      con<lb ed="#P" n="103" break="no"/>ditiones, eadem postea cognoverunt plene ac 
+      di<lb ed="#P" n="104" break="no"/>stincte secundum eam perfectionem, qua jam 
+      com<lb ed="#P" n="105" break="no"/>pleta erant, &amp; quidem tanto perfectius quam 
+      ho<lb ed="#P" n="106" break="no"/>mines, quanto perfectior de rebus completis notitia 
+      <lb ed="#P" n="107"/>ipsorum naturae &amp; gloriae competit. Et tamen 
+      faten<lb ed="#P" n="108" break="no"/>dum eos ad huc usque ad finem saeculi in cognitione 
+      <lb ed="#P" n="109"/>mysteriorum redemptionis nostrae proficere; quia ad 
+      <lb ed="#P" n="110"/>illud usque tempus, adhuc agitur ipsa redemptio 
+      se<lb ed="#P" n="111" break="no"/>cundum effectus. Quo pertinent etiam revelationes 
+      <lb ed="#P" n="112"/>descriptae in Apocalypsi, &amp; alia quae de Christi 
+      ec<lb ed="#P" n="113" break="no"/>clesia &amp; membris ejus quotidie innotescunt. Ita 
+      re<lb ed="#P" n="114" break="no"/>cte docet Magister in textu, &amp; Rupertus lib. 1. de 
+      <lb ed="#P" n="115"/>victoria verbi Dei cap. 29. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e686">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Quintum tempus a consummatione seculi usque 
+      <lb ed="#P" n="117"/>in aeternum, quando omni modo plena &amp; perfecta 
+      <lb ed="#P" n="118"/>er tomnium beatorum de mysteriis Christi cognitio, 
+      <lb ed="#P" n="119"/>ita ut profectus in ea locum amplius habere non 
+      <lb ed="#P" n="120"/>possit. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e702">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Si quis autem quaerat, utrum profectus 
+      cognitio<lb ed="#P" n="122" break="no"/>nis mysteriorum qui durante hoc saeculo ponitur in 
+      <lb ed="#P" n="123"/>angelis, intelligatur de cognitione quam habent in 
+      <lb ed="#P" n="124"/>verbo; respondeo de ea intelligi posse circa 
+      absur<lb ed="#P" n="125" break="no"/>ditatem. Neque enim illa cognitio ut quidam 
+      pu<lb ed="#P" n="126" break="no"/>tant, ita invariabilis est, ut quoad objecta 
+      cogno<lb ed="#P" n="127" break="no"/>scenda nulla possit ad eam fieri accessio. Valde enim 
+      <lb ed="#P" n="128"/>probabile est sanctos cognoscere preces nostras in 
+      <lb ed="#P" n="129"/>verbo, non ab initio suae beatitudinis, sed ab eo 
+      <lb ed="#P" n="130"/>tempore quoad eos diriguntur, ut alibi dicetur. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e728">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> His ita declaratis illud denique notandum, 
+      Pa<lb ed="#P" n="132" break="no"/>tres adductos pro secunda sententia vel omnes vel 
+      <lb ed="#P" n="133"/>aliquos sic posse intelligi, ut non omnino negent 
+      <lb ed="#P" n="134"/>angelos quicquam scivisse de mysteriis 
+      incarnatio<lb ed="#P" n="135" break="no"/>nis Christi, &amp; redemptionis nostrae ac vocationis 
+      <lb ed="#P" n="136"/>gentilium, priusquam ea jam compleri viderent; 
+      <lb ed="#P" n="137"/>sed tantum perfectam ac distinctam secundum 
+      par<lb ed="#P" n="138" break="no"/>ticulares circumstantias notitiam ab eis removeant, 
+      <lb ed="#P" n="139"/>qualem scilicet rebus completis acceperunt. Sic 
+      <lb ed="#P" n="140"/>enim S. Hieronymus suam sententiam exponit in 
+      <lb ed="#P" n="141"/>commentario super Ephes. 3. dicens angelis 
+      igno<lb ed="#P" n="142" break="no"/>tum fuisse mysterium Christi eo modo quo postea 
+      <lb ed="#P" n="143"/>notum Apostolis, &amp; tamen minus ignotum 
+      fuis<lb ed="#P" n="144" break="no"/>se quam patriarchis &amp; prophetis, qui illud 
+      prae<lb ed="#P" n="145" break="no"/>dixerunt. Quam responsionem colligit ex his apost. 
+      <lb ed="#P" n="146"/>verbis: Quod mysterium aliis generationibus non 
+      <lb ed="#P" n="147"/>est agnitum filiis hominum, sicut nunc revelatum est 
+      <lb ed="#P" n="148"/>sanctis apostolis ejus; id est, olim non fuit 
+      cogni<lb ed="#P" n="149" break="no"/>tum hominibus perfecte &amp; distincte, sicut nunc 
+      <!--0345.xml-->
+      <pb ed="#P" n="112"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Deo revelante cognoscitur ab apostolis. Hoc autem A 
+      <lb ed="#P" n="2"/>similiter vult intelligi de angelis. Nam si prophetis 
+      <lb ed="#P" n="3"/>aliquo modo notum fuit hoc mysterium quanto 
+      ma<lb ed="#P" n="4" break="no"/>gis angelis? Hanc enim consequentiam aperte 
+      in<lb ed="#P" n="5" break="no"/>dicat. Hieronymus. 
+    </p>
+            <p xml:id="bt67yj-p042266-d1e791">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Restat ad extremum una removenda objectio, 
+      <lb ed="#P" n="7"/>quam in fine dist. sibi facit Magister ex Isid. &amp; Greg. 
+      <lb ed="#P" n="8"/>Nam Isid. lib. 1. de summo bono cap. 12. dicit 
+      ange<lb ed="#P" n="9" break="no"/>los in verbo Dei omnia scire priusquam fiant. Et 
+      <lb ed="#P" n="10"/>Greg. lib. 4. dialog. cap. 33. Qui est, inquit, quod 
+      <lb ed="#P" n="11"/>ibi nesciant, ubi scientem omnia sciunt? ex quibus 
+      <lb ed="#P" n="12"/>testimoniis apparet angelos ab initio beatitudinis 
+      <lb ed="#P" n="13"/>perfectam habuisse notitiam omnium mysteriorum. 
+      <lb ed="#P" n="14"/>quod est contra omnes praedictas sententias. 
+      Res<lb ed="#P" n="15" break="no"/>pondeo non posse in his Patrum verbis absolutam 
+      <lb ed="#P" n="16"/>intelligi universalitatem. Certum est enim ex iis quae 
+      <lb ed="#P" n="17"/>ad dist. 38. primi libri, &amp; ad dist. 7. hujus libri 
+      <lb ed="#P" n="18"/>dicta sunt, angelos non omnia scire sine 
+      excaptio<lb ed="#P" n="19" break="no"/>ne. Sed loquuntur hi patres de iis omnibus, quae ad 
+      <lb ed="#P" n="20"/>angelorum statum pertinent, &amp; quorum ignorantia 
+      <lb ed="#P" n="21"/>in vitio foret. Hanc enim esse mentem Greg. ex 
+      <lb ed="#P" n="22"/>alio loco manifestum est, scilicet ex lib. 2. moral. 
+      <lb ed="#P" n="23"/>cap. 3. ubi hanc suam sententiam ad ea, quae scienda 
+      <lb ed="#P" n="24"/>sunt, restringit, simulque significat angelos non 
+      <lb ed="#P" n="25"/>omnia scire quae Deus novit. Quid enim, inquit, 
+      <lb ed="#P" n="26"/>de his quae scienda sunt, nesciunt, qui scientem 
+      om<lb ed="#P" n="27" break="no"/>nia sciunt? Eorum itaque scientia comparatione 
+      no<lb ed="#P" n="28" break="no"/>stra valde dilatata est; sed tamen comparatione 
+      divi<lb ed="#P" n="29" break="no"/>nae scientiae angusta. Sic ille. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

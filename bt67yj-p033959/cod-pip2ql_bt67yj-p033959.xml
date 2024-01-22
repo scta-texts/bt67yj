@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="88"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p033959"><!-- l2d8c5" -->
+            <head xml:id="bt67yj-p033959-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p033959-Hd1e103" type="question-title">Angelos esse immortales</head>
+            <p xml:id="bt67yj-p033959-d1e106">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> §. 5. Angelos esse immortales.
+    </p>
+            <p xml:id="bt67yj-p033959-d1e113">
+               <lb ed="#P" n="66"/>IN quaestione de immortalitate angelorum, illud 
+      <lb ed="#P" n="67"/>imprimis secundum fidem catholicam tenendum 
+      <lb ed="#P" n="68"/>est omnes angelos tam bonos, quam malos, semper 
+      <lb ed="#P" n="69"/>futuros esse, nec unquam interituros, &amp; proinde 
+      <lb ed="#P" n="70"/>immortales seu incorruptibiles esse hoc sensu, quod 
+      <lb ed="#P" n="71"/>nunquam esse definent. Probatio manifesta est ex 
+      <!--0321.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>aeterna beatitudine bonorum, &amp; aeterna miseria 
+      ma<lb ed="#P" n="73" break="no"/>lorum. Hanc enim utramque fide credimus 
+      secun<lb ed="#P" n="74" break="no"/>dum scripturas. Ac de malis quidem loca sunt 
+      Matth<lb ed="#P" n="75" break="no"/>25. Ite in ignem aeternum qui paratus est diabolo &amp; 
+      <lb ed="#P" n="76"/>angelis ejus. Et in epistola Judae: Angelos, inquit, 
+      <lb ed="#P" n="77"/>qui non servaverunt suum principatum vinculis aeternis 
+      <lb ed="#P" n="78"/>sub caligine reservavit. De bonis autem probant 
+      quae<lb ed="#P" n="79" break="no"/>cumque justis hominibus vitam aeternam 
+      promit<lb ed="#P" n="80" break="no"/>tunt. Promittitur enim nobis in evangelio aequalitas 
+      <lb ed="#P" n="81"/>angelorum Luc. 20. Et mensura hominis eadem est 
+      <lb ed="#P" n="82"/>angeli, Apocal. 21. Quare si justorum hominum 
+      ae<lb ed="#P" n="83" break="no"/>terna futura est beatitudo, igitur &amp; sanctorum 
+      an<lb ed="#P" n="84" break="no"/>gelorum. Quanquam nec perfecta foret horum 
+      bea<lb ed="#P" n="85" break="no"/>titudo, si ea aliquando terminanda esset. Quin etiam 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e163">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> ex malis angelis certissimum argumentum sumitur 
+      <lb ed="#P" n="87"/>de bonis. Si enim mali semper erunt, quod utique 
+      <lb ed="#P" n="88"/>per se bonum est, &amp; vehementer optabile; igitur &amp; 
+      <lb ed="#P" n="89"/>boni. Deinde si mali semper in poena; ergo boni 
+      <lb ed="#P" n="90"/>semper in gloria. Non enim patitur ordo justitiae 
+      di<lb ed="#P" n="91" break="no"/>vinae ut supplicia malorum aeterna sint, bonorum 
+      <lb ed="#P" n="92"/>vero praemia temporaria. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e184">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Adde si boni angeli aliquando interirent, futurum 
+      <lb ed="#P" n="94"/>ut regnum Christi tandem minueretur. Nam non 
+      so<lb ed="#P" n="95" break="no"/>lum homines, verum etiam angeli ad regnum Christi 
+      <lb ed="#P" n="96"/>pertinent, uti docet Apostolus Colos. 1. &amp; Heb. 12. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e197">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Secundo, de angelis in universum probatur hac 
+      <lb ed="#P" n="98"/>ratione; quia animas humanas immortales credere 
+      <lb ed="#P" n="99"/>necesse est, juxta totius Ecclesiae sensum, &amp; Concilii 
+      <lb ed="#P" n="100"/>Lateranensis sub Leone X. definitionem Session. 8. 
+      <lb ed="#P" n="101"/>Angeli vero animas &amp; humanum genus perfectione 
+      <lb ed="#P" n="102"/>antecellunt 2. Petri 2. &amp; Hebraeo 2. quare &amp; ipsos 
+      <lb ed="#P" n="103"/>immortales esse credendum est. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e217">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Tertio, Dionysius lib. de divinis nominibus c. 3. 
+      <lb ed="#P" n="105"/>4. &amp; 6. tribuit angelis vitam indeficientem &amp; morte 
+      <lb ed="#P" n="106"/>carentem. Idemque sensus est omnium patrum &amp; 
+      <lb ed="#P" n="107"/>omnium fidelium, quem Sophronius patriarcha 
+      <lb ed="#P" n="108"/>Hierosolymitanus expressit in epistola quae lecta est 
+      <lb ed="#P" n="109"/>in sexta synodo actione undecima, approbata vero 
+      <lb ed="#P" n="110"/>a patribus ejusdem synodi Act. 13. In ea enim tam 
+      <lb ed="#P" n="111"/>angelos quam animas hominum incorruptibiles &amp; 
+      <lb ed="#P" n="112"/>immortales esse docet. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e241">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Sed hac re constituta quaeritur, utrum angeli, quod 
+      <lb ed="#P" n="114"/>sunt incorruptibiles, habeant ex natura, an aliunde. 
+      <lb ed="#P" n="115"/>Nam Platonis quidem in Timaeo sententia est Deos 
+      <lb ed="#P" n="116"/>minores, id est, angelos natura dissolubiles, id est, 
+      <lb ed="#P" n="117"/>corruptibiles esse. Caeterum Dei beneficio semper 
+      <lb ed="#P" n="118"/>victuros, atque ea ratione immortales esse. Cui 
+      sen<lb ed="#P" n="119" break="no"/>tentiae <ref xml:id="bt67yj-p033959-Rd1e260">
+                  <name xml:id="bt67yj-p033959-Nd1e262">Gabriel</name> quaest. 1. super distinct. 2. hujus libri</ref>
+               <lb ed="#P" n="120"/>eatenus accedit, ut doceat angelos natura sua 
+      corru<lb ed="#P" n="121" break="no"/>ptibiles per manutenentiam Dei extrinsecam 
+      perpe<lb ed="#P" n="122" break="no"/>tuo in esse conservari. Qui ita sentiunt, idem pari 
+      <lb ed="#P" n="123"/>E ratione tradunt de animabus humanis. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e275">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Probant autem primo per apostolum dicentem de 
+      <lb ed="#P" n="125"/>Deo 1. Timoth. 6. Qui solus habet immortalitatem, 
+      <lb ed="#P" n="126"/>scilicet per naturam. Deinde authoritate Gregorii 
+      <lb ed="#P" n="127"/>qui libro decimosexto moralium capite 
+      decimoocta<lb ed="#P" n="128" break="no"/>vo dicit, quod omnia tenderent in nihilum, nisi 
+      <lb ed="#P" n="129"/>ea manus omnipotentis conservaret. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e293">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Tertio, testimoniis patrum aperte docentium 
+      an<lb ed="#P" n="131" break="no"/>gelos non natura, sed gratia immortales esse. Nam 
+      <lb ed="#P" n="132"/>B. Ambrosius lib. 3. de fide ad Gratianum capite 
+      se<lb ed="#P" n="133" break="no"/>cundo sic ait: Neque angelus immortalis est 
+      natu<lb ed="#P" n="134" break="no"/>raliter, cujus immortalitas in voluntate est creatoris, 
+      <lb ed="#P" n="135"/>&amp; infra generaliter de omni creatura. Ergo 
+      corru<lb ed="#P" n="136" break="no"/>ptelae &amp; mortis etiamsi non moriatur aut peccet, 
+      ca<lb ed="#P" n="137" break="no"/>pax tamen omnis creatura. Nec ex immortali 
+      natu<lb ed="#P" n="138" break="no"/>ra habet, sed ex disciplina vel gratia si se in aliquibus 
+      <lb ed="#P" n="139"/>ad vitia non mutat. Alia ergo immortalitas quae 
+      do<lb ed="#P" n="140" break="no"/>natur, alia quae sine capacitate matabilitatis est 
+      sem<lb ed="#P" n="141" break="no"/>per. Haec ille. Sed &amp; Hier. lib. 2. contra Pelagianos 
+      <lb ed="#P" n="142"/>cap. 3. adductis verbis apostoli modo citatis ita 
+      scri<lb ed="#P" n="143" break="no"/>bit: Et certe legimus immortales angelos, 
+      immor<lb ed="#P" n="144" break="no"/>tales thronos, &amp; dominationes caterasque virtutes. 
+      <lb ed="#P" n="145"/>Sed solus Deus est immortalis, quia non est per 
+      <!--0322.xml-->
+      <pb ed="#P" n="89"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>gratiam ut caetera, sed per naturam. Idem scribens 
+      <lb ed="#P" n="2"/>in Tit. 1. dicit solum Deum naturaliter immortalem 
+      <lb ed="#P" n="3"/>&amp; verum esse, caeteros, ut angelos &amp; animas ex 
+      <lb ed="#P" n="4"/>Dei largitione immortalitatem &amp; veritatem 
+      conse<lb ed="#P" n="5" break="no"/>qui. Eadem &amp; Origenis fuit sententia, referente 
+      E<lb ed="#P" n="6" break="no"/>pihanio in haeresi Origenistarum. Eadem est apud 
+      <lb ed="#P" n="7"/>Damascenum libro secundo de fide capite 3. &amp; 
+      <lb ed="#P" n="8"/>Theophyl. super illud Hebr. 12. Declarat mobilium 
+      <lb ed="#P" n="9"/>transtationem 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e359">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Denique eadem disertis verbis legitur in sexta 
+      <lb ed="#P" n="11"/>synodo actione undecima, nimirum in epistola 
+      So<lb ed="#P" n="12" break="no"/>phronii supra memorata. Sic enim habet: 
+      Intelle<lb ed="#P" n="13" break="no"/>ctualia &amp; invisibilia, nullatenus quidem 
+      moriun<lb ed="#P" n="14" break="no"/>tur, neque corrumpuntur, non tamen sunt 
+      immor<lb ed="#P" n="15" break="no"/>talia per naturam, neque in essentiam 
+      incorrupti<lb ed="#P" n="16" break="no"/>bilem transeunt, sed gratiam eis largitus est Deus 
+      <lb ed="#P" n="17"/>a corruptione &amp; morte ea coercentem. Sic 
+      homi<lb ed="#P" n="18" break="no"/>num animae permanent incorruptae, sic angeli 
+      im<lb ed="#P" n="19" break="no"/>mortales perseverant, non naturam revera 
+      incor<lb ed="#P" n="20" break="no"/>ruptam, proprieve immortalem habentes 
+      essen<lb ed="#P" n="21" break="no"/>tiam, sed gratiam a Deo sortiti, quae 
+      immortali<lb ed="#P" n="22" break="no"/>tatem largitur &amp; incorruptionem eis providet. Quo 
+      <lb ed="#P" n="23"/>etiam pertinet quod patres aliquando dicunt, 
+      quic<lb ed="#P" n="24" break="no"/>quid factum est corruptibile esse, scilicet natura 
+      <lb ed="#P" n="25"/>sua, atque inde probari filium Dei non esse 
+      fa<lb ed="#P" n="26" break="no"/>ctum, quia constat eum non esse corruptioni 
+      ob<lb ed="#P" n="27" break="no"/>noxium. Unde est illud Prudentii in apotheosi contra 
+      <lb ed="#P" n="28"/>Judaeos: 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e405">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Quod fieri recipit, recipit quandoque perire. 
+      <lb ed="#P" n="30"/>Verum his nihil obstantibus fatendum est vere &amp; 
+      <lb ed="#P" n="31"/>recte dici angelos esse natura immortales &amp; 
+      incorru<lb ed="#P" n="32" break="no"/>ptibiles. Probat id sanctus Thomas prima parte 
+      <lb ed="#P" n="33"/>quaestione quinquagesima articulo quinto hac 
+      per<lb ed="#P" n="34" break="no"/>spicua ratione; quia angcli non sunt compositi ex 
+      <lb ed="#P" n="35"/>materia &amp; forma, sed sunt formae quaedam per se 
+      <lb ed="#P" n="36"/>subsistentes. Nihil autem corrumpitur nisi per hoc 
+      <lb ed="#P" n="37"/>quod forma ejus a materia separatur. Harum enim 
+      <lb ed="#P" n="38"/>partium separatio, compositorum corruptio est. 
+      <lb ed="#P" n="39"/>Ejusdem authoris alias rationes id probantes 
+      vide<lb ed="#P" n="40" break="no"/>ibidem, &amp; lib. 2. contra gentes cap. 94. &amp; 55. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e436">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Porro generalior ratio est, quae sumitur a 
+      remo<lb ed="#P" n="42" break="no"/>tione contrarii. Nihil enim corrumpitur nisi a 
+      con<lb ed="#P" n="43" break="no"/>trario. Angelis autem nihil est contrarium cujus 
+      <lb ed="#P" n="44"/>actione corrumpi aut ad corruptionem disponi 
+      <lb ed="#P" n="45"/>possint. Hanc rationem voco generaliorem; quia 
+      <lb ed="#P" n="46"/>etiam in corporibus caelestibus locum habet, 
+      eo<lb ed="#P" n="47" break="no"/>rumque probat incorruptibilitatem, cum prior 
+      ra<lb ed="#P" n="48" break="no"/>tio ad solas pertineat incorporeas substantias. 
+      Quo<lb ed="#P" n="49" break="no"/>circa potiori ratione angeli &amp; animae rationales 
+      in<lb ed="#P" n="50" break="no"/>corruptibiles sunt quam caeli. Nam angeli &amp; 
+      ani<lb ed="#P" n="51" break="no"/>mae cum sint formae simplices &amp; immateriales, ita 
+      <lb ed="#P" n="52"/>sunt incorruptibiles, ut nec virtute divina destrui 
+      <lb ed="#P" n="53"/>possint, nisi per annihilationem. Caeli vero quia 
+      <lb ed="#P" n="54"/>constant materia &amp; forma, destrui possunt a Deo 
+      <lb ed="#P" n="55"/>dissolutione partium, materia manente. Unde 
+      col<lb ed="#P" n="56" break="no"/>lige si caeli sunt incorruptibiles natura, ut docent 
+      <lb ed="#P" n="57"/>pnhilosophi naturales, multo magis angelos natura 
+      <lb ed="#P" n="58"/>immortales, id est, incorruptibiles esse. Et haec de 
+      <lb ed="#P" n="59"/>angelis seu intelligentiis doctrina est Aristotelis 
+      li<lb ed="#P" n="60" break="no"/>bro secundo de caelo, &amp; libro 12. Metaphysicae. 
+      <lb ed="#P" n="61"/>Cui omnes recte philosophantes assentiuntur. 
+      Pla<lb ed="#P" n="62" break="no"/>tonem aliud sensisse non mirum, ut qui angelis 
+      cor<lb ed="#P" n="63" break="no"/>pora attribuerit, eaque ex elemento aeris conflata. 
+      <lb ed="#P" n="64"/>Sed rectius Dionysius idem philosophus &amp; 
+      Theo<lb ed="#P" n="65" break="no"/>logus, qui libr. de divinis nominibus, cap. 4. 
+      tra<lb ed="#P" n="66" break="no"/>dit intellectuales substantias habere vitam 
+      sempi<lb ed="#P" n="67" break="no"/>ternam atque indeficientem, easque ab omni 
+      in<lb ed="#P" n="68" break="no"/>teritu, morte, materia &amp; ortu solutas ac liberas 
+      es<lb ed="#P" n="69" break="no"/>se, nec in eas cadere instabilem &amp; fluxam 
+      mutatio<lb ed="#P" n="70" break="no"/>nem. His enim verbis immortalitatem angelorum 
+      <lb ed="#P" n="71"/>in naturam ipsorum immaterialem refert, non in 
+      <lb ed="#P" n="72"/>accessoriam Dei largitionem. Quod facit &amp; aliis 
+      <lb ed="#P" n="73"/>locis supra citatis. Sic &amp; Methodius apud 
+      Epipha<lb ed="#P" n="74" break="no"/>nium, in haeresi Origenistarum, cum contradicit 
+      <lb ed="#P" n="75"/>
+               <!-- line coord error -->
+               <!--0322.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="76"/>Origeni in eo quod dixerat angelos non natura, sed 
+      <lb ed="#P" n="77"/>gratia immortales esse; quod tamen quo sensu 
+      de<lb ed="#P" n="78" break="no"/>fendi possit, mox dicemus. Item Gennadius libr. de 
+      <lb ed="#P" n="79"/>ecclesiasticis dogmatibus capite decimotertio: 
+      Im<lb ed="#P" n="80" break="no"/>mortales, inquit, esse credimus intellectuales naturas, 
+      <lb ed="#P" n="81"/>quia carne carent, nec habent quo cadant, ut 
+      resurre<lb ed="#P" n="82" break="no"/>ctione egeant post ruinam. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e538">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Ad ea vero quae in diversum allata sunt, ita 
+      bre<lb ed="#P" n="84" break="no"/>viter respondemus. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e547">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Paulus soli Deo tribuit immortalitatem, vel hoc 
+      <lb ed="#P" n="86"/>sensu, quia perfecta &amp; omnimoda immutabilitas 
+      <lb ed="#P" n="87"/>soli Deo competit. Eam autem significavit 
+      Aposto<lb ed="#P" n="88" break="no"/>lus immortalitatis nomine, quia omnis mutatio 
+      <lb ed="#P" n="89"/>mors quaedam est, ut ait sanctus Augustinus libr. 3. 
+      <lb ed="#P" n="90"/>contra Maximinum cap. 12. &amp; sanctus Bernardus 
+      <lb ed="#P" n="91"/>sermone 81. in Cantica, &amp; ante eos Dionysius de 
+      <lb ed="#P" n="92"/>divinis nominibus cap. 6. &amp; S. Ambrosius libr. 3. 
+      <lb ed="#P" n="93"/>de fide capit. 12. vel quia solus Deus essentialiter 
+      <lb ed="#P" n="94"/>vita est, caetera autem vivunt participatione. 
+      Quo<lb ed="#P" n="95" break="no"/>modo idem Apostolus solum Deum sapientem 
+      vo<lb ed="#P" n="96" break="no"/>cat, &amp; a Christodictum est: Nemo bonus nisi solus 
+      <lb ed="#P" n="97"/>Deus. Jam nihil vetat angelum &amp; participatione 
+      <lb ed="#P" n="98"/>immortalem esse &amp; natura, quia nimirum natura 
+      <lb ed="#P" n="99"/>ejus immortalis dependet ab alia causa, id est, a 
+      <lb ed="#P" n="100"/>Deo, qui solus independenter immortalis est, 
+      sa<lb ed="#P" n="101" break="no"/>piens &amp; bonus. Huic sensui favet sanctus 
+      Ambro<lb ed="#P" n="102" break="no"/>sius libro tertio de fide ad Gratianum capite 
+      se<lb ed="#P" n="103" break="no"/>cundo. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e593">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Ad sanctum Gregorium respondetur cum 
+      san<lb ed="#P" n="105" break="no"/>cto Thoma in responsione ad tertium, verbis ejus 
+      <lb ed="#P" n="106"/>non significari quod in angelis sit aliquod 
+      corrup<lb ed="#P" n="107" break="no"/>tionis principium; sed quod esse angelorum de 
+      <lb ed="#P" n="108"/>pendeat a Deo sicut a causa, quae si cesset 
+      causa<lb ed="#P" n="109" break="no"/>re, res concidet in nihilum. Non autem dicitur, 
+      <lb ed="#P" n="110"/>inquit sanctus Thomas, aliquid esse corruptibile 
+      <lb ed="#P" n="111"/>per hoc quod Deus possit illud in non esse 
+      redige<lb ed="#P" n="112" break="no"/>re, subtrahendo suam conservationem, sed per hoc 
+      <lb ed="#P" n="113"/>quod in seipso aliquod principium corruptionis 
+      ha<lb ed="#P" n="114" break="no"/>bet vel contrarietatem, vel saltem potentiam materiae. 
+      <lb ed="#P" n="115"/>Sic ille. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e625">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Ad ea denique Patrum testimonia quae gratiae 
+      <lb ed="#P" n="117"/>Dei tribuunt immortalitatem angelorum; 
+      respon<lb ed="#P" n="118" break="no"/>detur eos nomine gratiae, neque gratiam 
+      justifican<lb ed="#P" n="119" break="no"/>tem intelligere, neque omnino donum aliquod 
+      or<lb ed="#P" n="120" break="no"/>dinis supernaturalis. Quod ex eo patet, quia 
+      gra<lb ed="#P" n="121" break="no"/>tiam illam faciunt communem angelis malis cum 
+      <lb ed="#P" n="122"/>bonis, nec non animabus hominum impiorum, in 
+      <lb ed="#P" n="123"/>quibus constat nullum remanere donum 
+      supernatu<lb ed="#P" n="124" break="no"/>rale; Sed intelligunt Dei beneplacitum ac liberam 
+      <lb ed="#P" n="125"/>voluntatem, qua voluit angelos facere &amp; perpetuo 
+      <lb ed="#P" n="126"/>conservare immortales; quae quidem voluntas 
+      gra<lb ed="#P" n="127" break="no"/>tia vocatur, quia est beneficium Dei creaturae 
+      inde<lb ed="#P" n="128" break="no"/>bitum. Qua ratione universum creationis 
+      benefi<lb ed="#P" n="129" break="no"/>cium gratia vocari potest. 
+    </p>
+            <p xml:id="bt67yj-p033959-d1e660">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Ex his etiam patet quo sensu Patres interdum 
+      <lb ed="#P" n="131"/>dicant omne quod factum est esse corruptibile; quia 
+      <lb ed="#P" n="132"/>nimirum sicut factum est &amp; conservatur a Deo, ita 
+      <lb ed="#P" n="133"/>eodem subtrahente manum conservatricem interire 
+      <lb ed="#P" n="134"/>potest.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

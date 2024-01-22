@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="377"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p146102"><!-- l2d35c2" -->
+            <head xml:id="bt67yj-p146102-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p146102-Hd1e103" type="question-title">An venialia peccata sunt contra legem Dei</head>
+            <p xml:id="bt67yj-p146102-d1e106">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> §. 2. An venialia peccata sunt contra legem Dei.
+    </p>
+            <p xml:id="bt67yj-p146102-d1e113">
+               <lb ed="#P" n="67"/>EA peccati notio, qua definitur defectus seu 
+      de<lb ed="#P" n="68" break="no"/>viatio a lege Dei, comprehendit etiam venialia 
+      <lb ed="#P" n="69"/>peccata. Quae licet imperfectam, veram tamen 
+      ha<lb ed="#P" n="70" break="no"/>bent peccati rationem; ideóque necesse est etiam ipsa 
+      <lb ed="#P" n="71"/>sub aliqua generali peccati proprie dicti notione 
+      <!--0610.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>contineri. Sed quaeritur, utrum etiam ea definitio, 
+      <lb ed="#P" n="73"/>qua peccatum definitur esse, quicquid fit contra 
+      le<lb ed="#P" n="74" break="no"/>gem Dei, &amp; ea qua dicitur esse voluntas agendi quod 
+      <lb ed="#P" n="75"/>justitia vetat, comprehendat venialia. Id quod in 
+      <lb ed="#P" n="76"/>textu negat Magister, dicens in utraque assignatione 
+      <lb ed="#P" n="77"/>agi de mortali peccato, non de veniali. In qua 
+      opi<lb ed="#P" n="78" break="no"/>nione Magistrum sequuntur non pauci Scholastici. 
+      <lb ed="#P" n="79"/>Inter quos Thomas 1. 2. qu. 88. art. 1. ad 1. sic habet: 
+      <lb ed="#P" n="80"/>Peccatum veniale non est contra legem; quia 
+      veia<lb ed="#P" n="81" break="no"/>liter peccans non facit quod lex prohibet, nec 
+      praeter<lb ed="#P" n="82" break="no"/>mittit id ad quod lex per praeceptum obligat, sed facit 
+      <lb ed="#P" n="83"/>praeter legem, quia non observat modum rationis quem 
+      <lb ed="#P" n="84"/>lex intendit. Sic ille. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e159">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Huic sententiae favere videtur, quod Scriptura eum 
+      <lb ed="#P" n="86"/>qui sola venialia peccata committit, justum 
+      pronun<lb ed="#P" n="87" break="no"/>ciat, &amp; legem implere dicit. Nam Apostolus Rom. 13. 
+      <lb ed="#P" n="88"/>Qui diligit proximum, inquit, legem implevit. Et 
+      ite<lb ed="#P" n="89" break="no"/>rum: Plenitudo legis est dilectio. Et Gal. 5. Omnis lex in 
+      <lb ed="#P" n="90"/>uno sermone impletur: Diliges proximum tuum sicut 
+      <lb ed="#P" n="91"/>teipsum. Cum igitur non venialia quantumcumque 
+      <lb ed="#P" n="92"/>multa, sed sola mortalia dilectionem excludant, 
+      con<lb ed="#P" n="93" break="no"/>sequens videtur venialia non esse contra legem Dei, 
+      <lb ed="#P" n="94"/>eo quod non impediant quo minus lex Dei impleatur. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e186">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Contra vero; nullum esse veniale peccatum, quod 
+      <lb ed="#P" n="96"/>non sit contra aliquam Dei legem, qua peccatum 
+      il<lb ed="#P" n="97" break="no"/>lud prohibeatur, tam ratione, quam authoritate 
+      mul<lb ed="#P" n="98" break="no"/>tipliciter ostendi videtur. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e199">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Primo: Peccatum omne est deviatio seu declinatio 
+      <lb ed="#P" n="100"/>a lege Dei; quare sicut lex recti, ita peccatum omne 
+      <lb ed="#P" n="101"/>obliqui rationem habet: Atqui omne obliquum 
+      con<lb ed="#P" n="102" break="no"/>trarium est recto; ergo omne peccatum contrarium 
+      <lb ed="#P" n="103"/>legi. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e215">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Secundo: Malum non aliud est quam privatio 
+      bo<lb ed="#P" n="105" break="no"/>ni, ut supra declaratum est, quod sine dubio etiam 
+      <lb ed="#P" n="106"/>ad venialia peccata extenditur, quae revera mala 
+      <lb ed="#P" n="107"/>sunt non poenae, sed culpae; quoniam iis aliquo bono 
+      <lb ed="#P" n="108"/>debito privatur rationalis natura. Contrariantur 
+      er<lb ed="#P" n="109" break="no"/>go venialia illis bonis, quorum sunt privationes, &amp; 
+      <lb ed="#P" n="110"/>per consequens legi eadem bona praecipienti, atque 
+      <lb ed="#P" n="111"/>opposita mala prohibenti. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e237">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Tertio: Omne mendacium quantumvis exiguum, 
+      <lb ed="#P" n="113"/>veritati contrarium est; ergo omne peccatum 
+      quam<lb ed="#P" n="114" break="no"/>tumvis modicum, justitiae contrarium est. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e248">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Quarto: Ex inductione. Nam mendacium 
+      offi<lb ed="#P" n="116" break="no"/>ciosum est contra legem, quae universaliter prohibet 
+      <lb ed="#P" n="117"/>mentiri; &amp; concupiscere venialiter, est contra 
+      le<lb ed="#P" n="118" break="no"/>gem quae generaliter ait: Non concupisces; 
+      prohi<lb ed="#P" n="119" break="no"/>bens videlicet consensum etiam imperfectum in 
+      ma<lb ed="#P" n="120" break="no"/>la desideria; &amp; ita de aliis quibuscunque venialibus. 
+      <lb ed="#P" n="121"/>Nullum enim peccatum est, quod non adversetur 
+      <lb ed="#P" n="122"/>legi, quae vel in genere vetat nos peccare, vel 
+      prae<lb ed="#P" n="123" break="no"/>cipit omnia in gloriam Dei facere, 1. Cor. 10. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e272">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Quinto: Si venialia non contra, sed praeter Dei 
+      <lb ed="#P" n="125"/>legem tantum essent, jam non peccata essent, sed 
+      <lb ed="#P" n="126"/>opera quaedam indifferentia, &amp; proinde licita; 
+      lici<lb ed="#P" n="127" break="no"/>tum enim est, quicquid nulla lege prohibetur. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e286">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Sexto: Quot id iana Christianorum confessio, quae 
+      <lb ed="#P" n="129"/>fere de venialibus tantum est, non fallaciter 
+      agnos<lb ed="#P" n="130" break="no"/>cit omnia cogitatione, verbo &amp; opere commissa esse 
+      <lb ed="#P" n="131"/>contra legem Dei. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e299">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Septimo: Venialibus proprie poena debetur; ergo 
+      <lb ed="#P" n="133"/>fiunt contra legem, qua talis poena peccantibus 
+      de<lb ed="#P" n="134" break="no"/>cernitur. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e310">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Octavo: Augustinus libro secundo de peccatorum 
+      <lb ed="#P" n="136"/>meritis, capite 16. de venialibus disserens, sic ait: 
+      <lb ed="#P" n="137"/>Neque negandum est hoc Deum jubere, ita nos in 
+      fa<lb ed="#P" n="138" break="no"/>cienda justitia esse debere perfectos, ut nullum 
+      ha<lb ed="#P" n="139" break="no"/>beamus omnino peccatum. Nam neque peccatum 
+      <lb ed="#P" n="140"/>erit, si quid erit si non divinitus jubeatur ut non sit. 
+      <lb ed="#P" n="141"/>Et verbis consequentibus affirmat, Deum jubere 
+      <lb ed="#P" n="142"/>omnibus hominibus ut non faciant ullum peccatum, 
+      <lb ed="#P" n="143"/>quamvis sit praescius neminem hoc impleturum. Ex 
+      <lb ed="#P" n="144"/>quo patet eum comprehendere venialia. Ac deinde 
+      <lb ed="#P" n="145"/>addit: Quomodo non vetatur per Dei justitiam, si pec¬ 
+      <!--0611.xml-->
+      <pb ed="#P" n="378"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>catum est? Quae profecto sententia ex diametro 
+      pu<lb ed="#P" n="2" break="no"/>gnare videtur cum verbis Magistri &amp; Thomae 
+      negan<lb ed="#P" n="3" break="no"/>tium venialiter peccantem facere quod justitia vel 
+      <lb ed="#P" n="4"/>lex prohibet. Et idem Aug. epist. 29. quae est ad 
+      Hie<lb ed="#P" n="5" break="no"/>ronymum, generaliter asserit, neminem peccare nisi 
+      <lb ed="#P" n="6"/>faciendo contra charitatem. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e358">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Nono: Gregorius lib. 21. Moral. 9. testatur 
+      venia<lb ed="#P" n="8" break="no"/>lia peccata animam polluere, quam crimina 
+      extin<lb ed="#P" n="9" break="no"/>guunt. Cui simile est, quod apud Augustin. legitur 
+      <lb ed="#P" n="10"/>serm. 41. de sanctis, venialia peccata ita deformem 
+      <lb ed="#P" n="11"/>efficere animam, ut eam ad amplexus sponsi 
+      caele<lb ed="#P" n="12" break="no"/>stis, aut vix aut cum grandi confusione venire 
+      per<lb ed="#P" n="13" break="no"/>mittant. Quod certe veritatem non haberet, si non 
+      <lb ed="#P" n="14"/>&amp; deformitas pulchritudini contrariatur. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e380">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Decimo: Bernardus in libro de praecepto &amp; 
+      prae<lb ed="#P" n="16" break="no"/>cepti dispensatione capite 14. apertissime docet, 
+      om<lb ed="#P" n="17" break="no"/>ne peccatum etiam veniale, esse contra Dei 
+      man<lb ed="#P" n="18" break="no"/>datum, eo ipso quo peccatum est. Item; cum, 
+      in<lb ed="#P" n="19" break="no"/>quit, scienter &amp; ex deliberatione in verbae otiosa, 
+      <lb ed="#P" n="20"/>licet non indicto silentio, laxatur lingua, nunquid 
+      <lb ed="#P" n="21"/>hoc tamen neget quispiam usurpari contra regulan 
+      <lb ed="#P" n="22"/>veritatis? 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e402">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Undecimo: <ref xml:id="bt67yj-p146102-Rd1e408">Glossa ordinaria ad illud Roman. 7.</ref>
+               <lb ed="#P" n="24"/>
+               <quote xml:id="bt67yj-p146102-Qd1e412">Nisi lex diceret, non concupisces. Hoc, inquit, elegi
+      <lb ed="#P" n="95"/>
+                  <!--line coord order error -->Apostolus generale, unde omnia. Bona lex, quae dum O
+      <lb ed="#P" n="25"/>hoc prohibet, omnia prohibet</quote>: ergo &amp; venialia lege 
+      <lb ed="#P" n="26"/>prohibentur. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e426">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Duodecimo: Sanctus Thomas etsi diversum 
+      do<lb ed="#P" n="28" break="no"/>ceat uno &amp; altero loco, alibitamen, ut in 1. 2. quaest. 
+      <lb ed="#P" n="29"/>74. art. 10. ad I. ita loquitur, ut dicat peccatum quod 
+      <lb ed="#P" n="30"/>est contra rationes aeternas, etsi sit peccatum mortale 
+      <lb ed="#P" n="31"/>ex genere; posse tamen esse veniale propter 
+      imper<lb ed="#P" n="32" break="no"/>fectionem actus subiti: Atqui eodem articulo in 
+      <lb ed="#P" n="33"/>corpore quaestionis, rationem aeternam interpretatur 
+      <lb ed="#P" n="34"/>degem Dei. Idem. 2. 2. quaestione 88. articulo 
+      secun<lb ed="#P" n="35" break="no"/>do affirmat omne peccatum esse contra Deum. 
+    </p>
+            <p xml:id="bt67yj-p146102-d1e450">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Haec argumenta aliaque ejusmodi quae facile a 
+      stu<lb ed="#P" n="37" break="no"/>dioso colligi possunt; sane quam probabilem efficiunt 
+      <lb ed="#P" n="38"/>eam sententiam, quae concedit etiam venialia 
+      prohi<lb ed="#P" n="39" break="no"/>beri lege divina, eique ad versari, tametsi tantum 
+      im<lb ed="#P" n="40" break="no"/>perfecta quadam ratione, sicut iis non nisi 
+      imperfe<lb ed="#P" n="41" break="no"/>ctam peccati rationem competere fatendum est. 
+      <lb ed="#P" n="42"/>Ad id vero quod in contrarium adferebatur, 
+      res<lb ed="#P" n="43" break="no"/>pondendum, legis plenitudinem, id est, impletionem 
+      <lb ed="#P" n="44"/>juxta sensum Scripturae, magis a fine, hoc est 
+      chari<lb ed="#P" n="45" break="no"/>tate, quam a singulorum praeceptorum observatione 
+      <lb ed="#P" n="46"/>aestimari. Quamdiu ergo charitas non violatur, 
+      etiam<lb ed="#P" n="47" break="no"/>si in minutis quibusdam lex observata non fuerit, 
+      <lb ed="#P" n="48"/>nihilominus recte impleri dicitur; quia ita servatur, 
+      <lb ed="#P" n="49"/>ut charitas quae est finis legis, salva maneat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

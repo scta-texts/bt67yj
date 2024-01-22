@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 23</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 23</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="302"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p117186"><!-- l2d26c23" -->
+            <head xml:id="bt67yj-p117186-Hd1e101">Capitulum 23</head>
+            <head xml:id="bt67yj-p117186-Hd1e103" type="question-title">Initium boni operis esse a gratia Dei</head>
+            <p xml:id="bt67yj-p117186-d1e106">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> §. 23. Initium boni operis esse a gratia Dei.
+    </p>
+            <p xml:id="bt67yj-p117186-d1e113">
+               <lb ed="#P" n="23"/>SAtis ostensum est, ad omnia &amp; singula verae 
+      pie<lb ed="#P" n="24" break="no"/>tatis opera dari gratiam Dei per Christum. 
+      Ve<lb ed="#P" n="25" break="no"/>rum quia in unoquoque opere considerari possunt 
+      <lb ed="#P" n="26"/>initium, progressus &amp; consummatio; quaeri jam 
+      ul<lb ed="#P" n="27" break="no"/>terius posset, utrum sic usnumquodque opus sit a 
+      gra<lb ed="#P" n="28" break="no"/>tia Dei, ut etiam totum ab ea sit, an vero aliquid 
+      <lb ed="#P" n="29"/>ejus, ut initium, vel progressus, vel consummatio 
+      <lb ed="#P" n="30"/>proprie debeat adscribi libero arbitrio, non gratiae, 
+      <lb ed="#P" n="31"/>sic nimirum ut partes suas habeant inter se diversas 
+      <lb ed="#P" n="32"/>in bono opere gratia &amp; liberum arbitrium. Quae 
+      quo<lb ed="#P" n="33" break="no"/>rundam fuit imaginatio, existimantium eo pacto 
+      fa<lb ed="#P" n="34" break="no"/>cilius atque intelligibilius gratiam cum libero 
+      arbi<lb ed="#P" n="35" break="no"/>trio posse conciliari. Sed quam ea falsa sit opinio, &amp; 
+      <lb ed="#P" n="36"/>tam scripturae sacrae quam doctrinae SS. Patrum ac 
+      <lb ed="#P" n="37"/>decretis conciliorum adversa, manifestum fiet ex his 
+      <lb ed="#P" n="38"/>quae deinceps dicemus. Ubi tamen pro declaratione 
+      <lb ed="#P" n="39"/>totius hujus doctrinae breviter praemitto, in bono 
+      <lb ed="#P" n="40"/>opere initium, progressum &amp; consummationem 
+      tri<lb ed="#P" n="41" break="no"/>pliciter considerari posse; vel secundum partes 
+      ope<lb ed="#P" n="42" break="no"/>ris priorem &amp; posteriorem: v. g. in pia meditatione, 
+      <lb ed="#P" n="43"/>jejunio, patientia tormenti, oratione, 
+      exhortatio<lb ed="#P" n="44" break="no"/>ne, &amp; similibus actionibus quae succassionem habent 
+      <lb ed="#P" n="45"/>partium; vel secundum imperfectum &amp; perfectum, 
+      <lb ed="#P" n="46"/>ut cum quis prius imperfecte ac remisse vult aliquod 
+      <lb ed="#P" n="47"/>bonum, &amp; paulatim proficit, ut tandem illud velit 
+      <lb ed="#P" n="48"/>perfecte &amp; intense; vel secundum quod dicitur 
+      bo<lb ed="#P" n="49" break="no"/>num opus habere initium a cogitatione, progressum 
+      <lb ed="#P" n="50"/>in voluntate, consummationem in opere externo. 
+      <lb ed="#P" n="51"/>Et secundum omnes hos modos verum est, &amp; 
+      proba<lb ed="#P" n="52" break="no"/>re intendimus, quod tam initium, quam progressus 
+      <lb ed="#P" n="53"/>&amp; consummatio boni operis sit a gratia Dei. Ut 
+      au<lb ed="#P" n="54" break="no"/>tem de initio boni operis primum agamus, ita de eo 
+      <lb ed="#P" n="55"/>statuimus, fide tenendum esse, quod initium 
+      conver<lb ed="#P" n="56" break="no"/>sionis ac justificationis nostrae, &amp; cujuscunque boni 
+      <lb ed="#P" n="57"/>operis ad veram pietatem pertinentis, sit a gratia Dei 
+      <lb ed="#P" n="58"/>per Christum. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e194">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Quod docetur primo generalibus argumentis e 
+      <lb ed="#P" n="60"/>scriptura, ut: Sine me nihil potestis facere, ergo nec 
+      <lb ed="#P" n="61"/>incipere bonum opus: Quid habes quod non 
+      accepi<lb ed="#P" n="62" break="no"/>sti? ergo nec initium boni operis: Deus operatur 
+      om<lb ed="#P" n="63" break="no"/>nia in omnibus, ergo &amp; initium boni operis. Item 
+      <lb ed="#P" n="64"/>Joan. 3. Non potest homo accipere quicquam, nisi 
+      fue<lb ed="#P" n="65" break="no"/>rit ei datum de caelo. Jacobi 1. Omne datum optimum 
+      <lb ed="#P" n="66"/>desarsum est. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e217">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Idipsum demonstrant rationes generales quae 
+      su<lb ed="#P" n="68" break="no"/>muntur ex orationibus fidelium, ex gratiarum 
+      a<lb ed="#P" n="69" break="no"/>ctone, ex gloriatione, ex universali efficientia 
+      pri<lb ed="#P" n="70" break="no"/>mae causae, de quibus singulis supra dictum est. Si 
+      <lb ed="#P" n="71"/>enim fidcles Deum orant pro infidelibus &amp; pecca¬ 
+      <!--0535.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>toribus ut eis inspiret initium fidei, ac bonae 
+      vo<lb ed="#P" n="73" break="no"/>luntatis; si Deo gratias agunt tam pro se quam pro 
+      <lb ed="#P" n="74"/>aliis, quod in ipsis bonum opus inchoaverit; si 
+      de<lb ed="#P" n="75" break="no"/>initio cujuscunque boni operis non in se, sed in 
+      Do<lb ed="#P" n="76" break="no"/>mino gloriantur; si denique Deus est prima &amp; 
+      univer<lb ed="#P" n="77" break="no"/>salis causa efficiens omnium rerum, formarum, 
+      actio<lb ed="#P" n="78" break="no"/>num, sine exceptione vel initii, vel medii, vel finis; 
+      <lb ed="#P" n="79"/>certissima demonstratio est, initium omnis boni 
+      ope<lb ed="#P" n="80" break="no"/>ris quod fit ab homine, Deum habere authorem. Ita 
+      <lb ed="#P" n="81"/>Caelestinus papa in epistola ad episcopos Galliae 
+      cap<lb ed="#P" n="82" break="no"/>11. ex obsecrationibus sacerdotalibus, quae more ab 
+      <lb ed="#P" n="83"/>Apostolis tradito fiunt per totam ecclesiam, &amp; ex 
+      <lb ed="#P" n="84"/>subsequente gratiarum actione fidelium, probat 
+      in<lb ed="#P" n="85" break="no"/>ter alia, quod etiam ipsa bonae voluntatis exordia ad 
+      <lb ed="#P" n="86"/>Christi gratiam referenda sunt, atque efficienti Deo 
+      <lb ed="#P" n="87"/>tribuenda. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e272">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Sed his generalibus argumentis accedat specialis 
+      <lb ed="#P" n="89"/>probatio, tam e scriptura, quam ex Patribus ac 
+      Pa<lb ed="#P" n="90" break="no"/>trum decretis. Et quidem scripturae testimonia 
+      per<lb ed="#P" n="91" break="no"/>multa sunt, ut Plalm. 76. Dixi, nunc coepi, haec 
+      mu<lb ed="#P" n="92" break="no"/>tatio dexterae Excelsi. Philip. 1. Qui coepit in vobis 
+      <lb ed="#P" n="93"/>bonum opus, perficiet. Et. c. 2. Deus est qui operatur 
+      <lb ed="#P" n="94"/>in vobis v lle, scilicet bonum opus. 2. Corinth. 3. 
+      <lb ed="#P" n="95"/>Non sumus sufficientes cogitare aliquid ex nobis quasi 
+      <lb ed="#P" n="96"/>a nobis, sed sufficientia nostra ex Deo est. Et iterum Ps. 
+      <lb ed="#P" n="97"/>75. Quoniam cogitatio hominis confitebitur tibi, &amp; 
+      re<lb ed="#P" n="98" break="no"/>liquiae cogitationis diem festum agent tibi. Item Joan. 
+      <lb ed="#P" n="99"/>6. Nemo potest venire ad me, nisi pater qui mistt me, 
+      <lb ed="#P" n="100"/>traxerit cum. Et itcium. Nemo potest venire ad me, 
+      <lb ed="#P" n="101"/>nisi fuerit ei datum a patremeo. 1. Joan. 4. Nos ergo 
+      <lb ed="#P" n="102"/>diligamus Deum, quia ipse prior dilexit nos. Isa. 42. 
+      <lb ed="#P" n="103"/>Adducam caecos in viam quam nesciunt, &amp; in semitis 
+      <lb ed="#P" n="104"/>quas ignoraverunt, ambulare eos faciam. Et cap. 65. 
+      <lb ed="#P" n="105"/>Invenerunt me qui non quaesierunt. Pro quo 70. Paulo 
+      <lb ed="#P" n="106"/>citante ad Rom. 10. Inventus sum a non quaerentibus 
+      <lb ed="#P" n="107"/>me. Jerem. 31. Postquam convertisti me, egi 
+      poeniten<lb ed="#P" n="108" break="no"/>tiam. Et Thren. 5. Converte nos Domine, &amp; 
+      conver<lb ed="#P" n="109" break="no"/>temur. 2. Machab. I. Ataperiat Deus cor vestrum in 
+      <lb ed="#P" n="110"/>lege sua &amp; in praeceptis suis. Act. 16. Cujus Dominus 
+      <lb ed="#P" n="111"/>aperuit cor, intendere his quae dicebantur a Paulo. Et 
+      <lb ed="#P" n="112"/>illud Psal. 50. Domine labia mea aperies. Haec omnia 
+      <lb ed="#P" n="113"/>clarissime docent initium fidei, conversionis, bonae 
+      <lb ed="#P" n="114"/>voluntatis ac boni operis ipsamque primam boni 
+      co<lb ed="#P" n="115" break="no"/>gitationem esse a Deo liberum arbitrium hominis per 
+      <lb ed="#P" n="116"/>suam gratiam praeveniente. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e340">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Idem ostenditur ex eo quod Christus oculis suae 
+      <lb ed="#P" n="118"/>misericordiae prius respexit Petrum, quam 
+      Petrus<lb ed="#P" n="119" break="no"/>compungeretur ad Poenitentiam, Luc. 22. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e351">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Eandem doctrinam Patres, etiam Pelagio 
+      anti<lb ed="#P" n="121" break="no"/>quiores, scriptis suis consignarunt. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e360">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Hilarius can. 23. in Matth. palam profitetur, quod 
+      <lb ed="#P" n="123"/>Deo debemus originem &amp; profectum 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e369">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Ambrosius super cap. 22. Luc. in hanc sententiam 
+      <lb ed="#P" n="125"/>eleganter &amp; pie tractat historiam Christi Petrum 
+      <lb ed="#P" n="126"/>respicientis, &amp; ipso respectu convertentis. Idem in 
+      <lb ed="#P" n="127"/>hymno precatur; Jesu labantes respice, &amp; nos videndo 
+      <lb ed="#P" n="128"/>corrige. Si respicis, lapsi stabunt. Ac rursum lib. 2. 
+      <lb ed="#P" n="129"/>in Luc. Nemo, inquit, incipere quicquam potest sine 
+      <lb ed="#P" n="130"/>Domino. Quae verba cum aliis etiam S. Augustinus 
+      <lb ed="#P" n="131"/>acitat libro de gratia Christi cap. 44. Idem 
+      Ambro<lb ed="#P" n="132" break="no"/>sius lib. 1. de Abel &amp; Cain cap. ult. ita scribit. 
+      Quuc<lb ed="#P" n="133" break="no"/>quid sanctum cogitaveris, Deimunus est, Dei 
+      insptra<lb ed="#P" n="134" break="no"/>tio, Dei gratia 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e399">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Chrysostomus quoque vid tatur scribens in omnia 
+      <lb ed="#P" n="136"/>loca Pauli jam citata. Idem super illud epistolae ad 
+      <lb ed="#P" n="137"/>Rom. 11. Quis prior dedit illi, &amp; retribuetur ei? Ipse, 
+      <lb ed="#P" n="138"/>inquit, in beneficus perpetuo prior est. Et ad illud 
+      He<lb ed="#P" n="139" break="no"/>br. 8. Quomam ipsi non permanserunt in testimonio 
+      <lb ed="#P" n="140"/>meo: Mala, inquit, a nobis initium sumunt, bona 
+      au<lb ed="#P" n="141" break="no"/>tem a Deo. Quae verba etiam Theophylactus in suum 
+      <lb ed="#P" n="142"/>retulit commentarium. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e421">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Augustinus in expositione Psalmi 118. concione 
+      <lb ed="#P" n="144"/>7. sic ait; Iste qui orat, si penitus esset mortuus, non 
+      <lb ed="#P" n="145"/>oraret: sed ab ille accepit initium bonae concupiscentiae, 
+      <!--0536.xml-->
+      <pb ed="#P" n="303"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>a quo vitam poscit obedientiae. Idem in libris 
+      scri<lb ed="#P" n="2" break="no"/>ptis contra Pelagium frequens est in eo ut doceat 
+      ini<lb ed="#P" n="3" break="no"/>tium bonae voluntatis ac boni operis esse a Deo, &amp; 
+      <lb ed="#P" n="4"/>ad hoc utitur supra positis testimoniis scripturae. 
+      Pe<lb ed="#P" n="5" break="no"/>culiariter autem id docet toto fere libro de 
+      praedesti<lb ed="#P" n="6" break="no"/>natione sanctorum, simul retractans quod de fide, a 
+      <lb ed="#P" n="7"/>qua initium est justitiae nostrae, diversum aliquando 
+      <lb ed="#P" n="8"/>senserat. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e456">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Prosper contra Collatarem, id est Jo. Cassianum, 
+      <lb ed="#P" n="10"/>qui initia quaedam bonae voluntatis, velut conatus 
+      <lb ed="#P" n="11"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="12"/>quosdam, tribuebat libero arbitrio sine Dei gratia, 
+      <lb ed="#P" n="13"/>late &amp; ex professo disputat; ostendemus quam illa 
+      do<lb ed="#P" n="14" break="no"/>ctrina consentiat cum Pelagio, eamque ex scripturis 
+      <lb ed="#P" n="15"/>&amp; Patrum decretis docte refellens. Ejusdem 
+      senten<lb ed="#P" n="16" break="no"/>tia est, sine gratia neminem currere ad gratiam, 
+      res<lb ed="#P" n="17" break="no"/>ponsione 8. ad capitula Gallorum, &amp; in carmine de 
+      <lb ed="#P" n="18"/>ingratis capite 25. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e485">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p117186-Rd1e491">Fulgentius epist. 6. cap. 7</ref>. Ut desideremus, 
+      in<lb ed="#P" n="20" break="no"/>quit, adjutorium gratiae, hoc ipsum quoque opus est 
+      <lb ed="#P" n="21"/>gratiae. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e498">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Caelestinus papa, praeter locum supra citatum, in 
+      <lb ed="#P" n="23"/>eandem epist. cap. 12. ex praedecessorum suorum 
+      res<lb ed="#P" n="24" break="no"/>ponsis docet &amp; concludit, omnium bonorum 
+      ope<lb ed="#P" n="25" break="no"/>rum atque effectuum ab initio usque ad finem, 
+      <lb ed="#P" n="26"/>Deum esse authorem; ut per quem fiat, ut aliquid 
+      <lb ed="#P" n="27"/>boni &amp; velle incipiamus, &amp; facere. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e516">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Leo sermone 1. de jejunio 10. mensis, docet 
+      ini<lb ed="#P" n="29" break="no"/>tium reparationis nostrae non esse nisi ex gratia &amp; 
+      <lb ed="#P" n="30"/>misericordia Dei, adductis ad eam rem aliquot 
+      scri<lb ed="#P" n="31" break="no"/>pturae testimoniis. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e530">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Clarissime vero authore eodem pontifice 
+      defini<lb ed="#P" n="33" break="no"/>tam habemus hanc doctrinam in Arausicano 
+      conci<lb ed="#P" n="34" break="no"/>lio can. 3. &amp; quinque sequentibus. Quorum summa 
+      <lb ed="#P" n="35"/>est, gratiam facere, ut Deus invocetur a nobis, 
+      <lb ed="#P" n="36"/>Deum non expectare voluntatem nostram, sed per 
+      <lb ed="#P" n="37"/>operationem spiritus sancti fieri in nobis etiam ut 
+      <lb ed="#P" n="38"/>velimus; initium fidei, ipsumque credulitatis 
+      affe<lb ed="#P" n="39" break="no"/>ctum per donum gratiae voluntatem nostram 
+      corri<lb ed="#P" n="40" break="no"/>gentis, nobis inesse; per inspirationem gratiae fieri in 
+      <lb ed="#P" n="41"/>nobis, ut credamus, velimus, desideremus, 
+      cone<lb ed="#P" n="42" break="no"/>mur, &amp;c. Denique capite ultimo sic loquuntur 
+      ejus<lb ed="#P" n="43" break="no"/>dem concilii Patres: Hoc etiam salubriter profitemur 
+      <lb ed="#P" n="44"/>&amp; credimus quod in omni opere bono non nos incipimus, 
+      <lb ed="#P" n="45"/>&amp; postea per Dei misericordiam adjuvamur, sed 
+      ip<lb ed="#P" n="46" break="no"/>se nobis, nullis praecedentibus bonis meritis, &amp; fidem 
+      <lb ed="#P" n="47"/>&amp; amorem sui prius inspirat, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e569">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Huc praeterea facit consuetudo fidelium ac totius 
+      <lb ed="#P" n="49"/>Ecclesiae, qua solent ad initia bonorum operum 
+      im<lb ed="#P" n="50" break="no"/>plorare auxilium Dei. Si quidem ecclesia orationes 
+      <lb ed="#P" n="51"/>suas &amp; consecrationes fere auspicatur ab his 
+      versi<lb ed="#P" n="52" break="no"/>culis, Domine labia mea aperies: Deus in adjutorium 
+      <lb ed="#P" n="53"/>meum intende; Adjutorium nostrum in nomine Domini. 
+      <lb ed="#P" n="54"/>Et in oratione quadam precatur, ut cuncta nostra 
+      <lb ed="#P" n="55"/>oratio &amp; operatio a Deo semper incipiat. Certe etiam 
+      <lb ed="#P" n="56"/>Poetae gentiles obscuram &amp; confusam quandam 
+      di<lb ed="#P" n="57" break="no"/>vinitatis notitiam habentes, ab invocatione poemata 
+      <lb ed="#P" n="58"/>sua ordiebantur. Unde illud, a Jove principium 
+      Mu<lb ed="#P" n="59" break="no"/>sae, &amp; Dii coeptis aspirate meis. Faciunt item ad hanc 
+      <lb ed="#P" n="60"/>doctrinam confirmandam quaecunque probant 
+      gra<lb ed="#P" n="61" break="no"/>tiam praevenientem, de qua dudum egimus, &amp; 
+      <lb ed="#P" n="62"/>dicunt Deum omnibus offerre gratiam suam, illis 
+      <lb ed="#P" n="63"/>quaecunque ostendunt gratiam non dari secundum 
+      <lb ed="#P" n="64"/>merita. De qua re paulo post agemus 
+    </p>
+            <p xml:id="bt67yj-p117186-d1e611">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Ex his autem facile refellitur eorum doctrina, qui 
+      <lb ed="#P" n="66"/>solis profuturam, qui eam proprio arbitrio 
+      accepta<lb ed="#P" n="67" break="no"/>verint. Unde consequens est, initium boni operis 
+      <lb ed="#P" n="68"/>homini esse a semetipso oblatam gratiam 
+      acceptan<lb ed="#P" n="69" break="no"/>te. Cujus doctrinae falsitas alibi pluribus est 
+      dete<lb ed="#P" n="70" break="no"/>genda. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

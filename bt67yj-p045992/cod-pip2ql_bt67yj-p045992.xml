@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="119"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p045992"><!-- l2d13c6" -->
+            <head xml:id="bt67yj-p045992-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p045992-Hd1e103" type="question-title">Quae in contrarium objecta sunt, 
+      dissolvuntur</head>
+            <p xml:id="bt67yj-p045992-d1e106">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> §. 6. Quae in contrarium objecta sunt, 
+      <lb ed="#P" n="135"/>dissolvuntur. 
+    </p>
+            <p xml:id="bt67yj-p045992-d1e115">
+               <lb ed="#P" n="136"/>EX scriptura Genesis duo pro contraria sententia 
+      <lb ed="#P" n="137"/>proferebantur argumenta: sed quorum facilis 
+      <lb ed="#P" n="138"/>est solutio.
+    </p>
+            <p xml:id="bt67yj-p045992-d1e124">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Prioris quidem ista: Moysen idcirco diem ante 
+      <lb ed="#P" n="140"/>noctem nominasse, dicendo; Appellavit lucem 
+      <lb ed="#P" n="141"/>diem &amp; tenebras noctem; quia lucis creationem 
+      <lb ed="#P" n="142"/>verbis praecedentibus descripserat. Nam alibi etiam 
+      <lb ed="#P" n="143"/>ante legem Mosaicam, ut Genesis 8. nox ante 
+      <lb ed="#P" n="144"/>diem nominatur dicente scriptura: Nox &amp; dies 
+      <lb ed="#P" n="145"/>non deficient. Item in cantico trium puerorum 
+      <!--0353.xml-->
+      <pb ed="#P" n="120"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dicitur: Benedicite noctes &amp; dies Domino. Sed &amp; 
+      <lb ed="#P" n="2"/>alibi saepe nox diei anteposita legitur, ordine 
+      vi<lb ed="#P" n="3" break="no"/>delicet temporis, seu generationis: ut hinc etiam 
+      <lb ed="#P" n="4"/>argumentum petere liceat pro ea sententia quam 
+      <lb ed="#P" n="5"/>ut veram probamus. Quanquam alioqui &amp; aliae 
+      <lb ed="#P" n="6"/>rationes esse poterant cur dies etsi generatione 
+      po<lb ed="#P" n="7" break="no"/>sterior, ante noctem nominaretur; tum quia lux 
+      <lb ed="#P" n="8"/>dignior est; tum quia Moyses occasione primae lucis 
+      <lb ed="#P" n="9"/>&amp; primarum tenebrarum generalem de die &amp; 
+      no<lb ed="#P" n="10" break="no"/>cte, luce &amp; tenebris sententiam adferebat, cum 
+      <lb ed="#P" n="11"/>diceret: Appellavit, &amp;c. Cum autem in genere de 
+      <lb ed="#P" n="12"/>his duobus loquimur, diem praeponere solemus ut 
+      <lb ed="#P" n="13"/>digniorem. 
+    </p>
+            <p xml:id="bt67yj-p045992-d1e180">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Alterum vero argumentum magis etiam nostram 
+      <lb ed="#P" n="15"/>sententiam adjuvat, si scripturae phrasis bene 
+      con<lb ed="#P" n="16" break="no"/>sideretur. Nam vespera per synecdochen noctem 
+      <lb ed="#P" n="17"/>cujus initium est, significat Hebraeorum 
+      consue<lb ed="#P" n="18" break="no"/>tudine, sicut &amp; mane diem. Atque hinc est quod 
+      <lb ed="#P" n="19"/>primas illas tenebras, quas lux nulla praecesserat, 
+      <lb ed="#P" n="20"/>eadem Hebraici idiomatis servata consuetudine 
+      <lb ed="#P" n="21"/>Moyses vesperam appellavit, sicut &amp; lucem 
+      se<lb ed="#P" n="22" break="no"/>quentem, licet statim initio secundum modum 
+      <lb ed="#P" n="23"/>suum perfecta fuerit, simili ratione mane vocavit; 
+      <lb ed="#P" n="24"/>quia nimirum aliae omnes noctes initium habent a 
+      <lb ed="#P" n="25"/>vespera &amp; dies a diluculo. Phrasim Hebraeam arguit 
+      <lb ed="#P" n="26"/>quod vespera in scripturis semper aut pro nocte 
+      <lb ed="#P" n="27"/>ponitur, aut pro parte noctis, nunquam autem 
+      <lb ed="#P" n="28"/>pro parte diei, &amp; similiter mane semper partem 
+      <lb ed="#P" n="29"/>diei non noctis significat, &amp; interdum etiam pro 
+      <lb ed="#P" n="30"/>die sumitur; exempla sunt, ut Marci primo. 
+      Vespe<lb ed="#P" n="31" break="no"/>re facto, cum occidisset sol; &amp;ultim. Valde mane, 
+      <lb ed="#P" n="32"/>ubi tamen additur: Orto jam sole; Psalm. 91. Ad 
+      <lb ed="#P" n="33"/>annunciandum mane misericordiam tuam &amp; 
+      verita<lb ed="#P" n="34" break="no"/>tem tuam per noctem. Sunt alia innumera loca quibus 
+      <lb ed="#P" n="35"/>luce clarius ostenditur mane Judaeis non noctis sed 
+      <lb ed="#P" n="36"/>diei partem esse, &amp; contra vesperam non diei sed 
+      <lb ed="#P" n="37"/>noctis; Psalmo 129. A custodia matutina usque ad 
+      <lb ed="#P" n="38"/>noctem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

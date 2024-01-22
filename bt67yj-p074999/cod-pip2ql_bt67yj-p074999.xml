@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="194"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p074999"><!-- l2d22c1" -->
+            <head xml:id="bt67yj-p074999-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p074999-Hd1e103" type="question-title">Quod fuerit primum Adae peccatum</head>
+            <p xml:id="bt67yj-p074999-d1e106">
+               <lb ed="#P" n="85"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="86"/>VICESIMAMSECUNDAM. 
+      <lb ed="#P" n="87"/>§. 1. Quod fuerit primum Adae peccatum. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e115">
+               <lb ed="#P" n="88"/>NOn unum fuisse primi hominis peccatum, 
+      <lb ed="#P" n="89"/>sed multa, in quae per diaboli tentationem 
+      <lb ed="#P" n="90"/>inciderit, docent Ambrosius scribens in 
+      <lb ed="#P" n="91"/>Luc. 4. ubi de tentatione Domini agitur, 
+      Augusti<lb ed="#P" n="92" break="no"/>nus Enchiridii c. 45. &amp; Gregorius hom. 16. in 
+      evange<lb ed="#P" n="93" break="no"/>lia, cujus verba commemorat Magister in superiori 
+      <lb ed="#P" n="94"/>dist. §. D. Enumerant autem hi authores aliquot 
+      pec<lb ed="#P" n="95" break="no"/>cata, quae dicunt in una illa primi parentis 
+      transgres<lb ed="#P" n="96" break="no"/>sione reperiri. Quae omnia revocari possunt ad haec 
+      <lb ed="#P" n="97"/>octo, quae sunt superbia, amor uxoris inordinatus, 
+      <lb ed="#P" n="98"/>curiositas experiendi fructum vetitum, dubitatio de 
+      <lb ed="#P" n="99"/>intellectu praecepti divini, opinio quod transgressio 
+      <lb ed="#P" n="100"/>ejus esset venialis, peccatum gulae, peccatum 
+      inobe<lb ed="#P" n="101" break="no"/>dientiae, &amp; peccati a se commissi excusatio; in quo 
+      <lb ed="#P" n="102"/>postremo continetur, etiam accusatio Dei. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e150">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Quaeritur ergo, quod ex his peccatis in illa 
+      trans<lb ed="#P" n="104" break="no"/>gressione fuerit primum. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e160">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Quidam putant infidelitatem; tum quia hoc 
+      pri<lb ed="#P" n="106" break="no"/>mum serpens conatus fuit persuadere dicens: Non 
+      <lb ed="#P" n="107"/>moriemini; tum quia sicut fides est initium &amp; radix 
+      <lb ed="#P" n="108"/>justitiae, sic infidelitas initium esse videtur &amp; radix 
+      <lb ed="#P" n="109"/>injustitiae &amp; transgressionis. Ita quidem nonnulli 
+      no<lb ed="#P" n="110" break="no"/>stri temporis haeretici, scilicet ut tueantur illud suum 
+      <lb ed="#P" n="111"/>dogma, sola infidelitate gratiam Dei amitti. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e180">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> At inter Catholicos <name xml:id="bt67yj-p074999-Nd1e186">Bonaventura</name> &amp; <name xml:id="bt67yj-p074999-Nd1e188">Scotus</name> 
+      opi<lb ed="#P" n="113" break="no"/>nantur primum Adae peccatum fuisse inordinatum 
+      <lb ed="#P" n="114"/>amorem erga conjugem; non quidem amorem 
+      car<lb ed="#P" n="115" break="no"/>nalis concupiscentiae, quae nondum excitata erat in 
+      <lb ed="#P" n="116"/>membris ejus, sed socialis vitae atque humanae 
+      ami<lb ed="#P" n="117" break="no"/>citiae, quo amore inductus ne conjugem 
+      contrista<lb ed="#P" n="118" break="no"/>ret parvipenderit praeceptum Dei; quomodo saepe 
+      <lb ed="#P" n="119"/>accidere nobis solet ut offendamus Deum, ne 
+      of<lb ed="#P" n="120" break="no"/>fendamus amicum. Hujus sententiae videri cuipiam 
+      <lb ed="#P" n="121"/>posset Augustinus author. Nam lib. 14. de civitate 
+      <lb ed="#P" n="122"/>cap. 11. sic ait: Credendum est illum virum suae 
+      foemi<lb ed="#P" n="123" break="no"/>nae, uni unum, hominem homini, conjugem conjugi ad 
+      <lb ed="#P" n="124"/>Dei legem transgrediendam, non tanquam verum 
+      lo<lb ed="#P" n="125" break="no"/>quenti credidisse seductum, sed sociali necessitudine 
+      pa<lb ed="#P" n="126" break="no"/>ruisse. Et lib. 11. de Genes. ad litteram cap. 42. 
+      No<lb ed="#P" n="127" break="no"/>luit Adam Evam contristare, non quidem carnis 
+      vi<lb ed="#P" n="128" break="no"/>ctus concupiscentia, quam nondum in membris suis 
+      sen<lb ed="#P" n="129" break="no"/>serat, sed amicali quadam benevolentia, qua 
+      plerum<lb ed="#P" n="130" break="no"/>que fit ut offendatur Deus ne homo ex amico fiat 
+      ini<lb ed="#P" n="131" break="no"/>micus. Sic ille. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e232">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Verum huic quaestioni jam ex parte responsum 
+      <lb ed="#P" n="133"/>est ad dist. superiorem, ubi de primo mulieris 
+      pec<lb ed="#P" n="134" break="no"/>cato agebamus. Si enim in muliere, ita &amp; in viro 
+      <lb ed="#P" n="135"/>praecessit occulta mentis elatio, priusquam in 
+      aper<lb ed="#P" n="136" break="no"/>tam praecepti divini transgressionem 
+      prorumpe<lb ed="#P" n="137" break="no"/>rent. Neque enim credibile est hominem in tanta 
+      <lb ed="#P" n="138"/>excellentia justitiae ac sapientiae conditum, Deo, 
+      <lb ed="#P" n="139"/>conditori suo inobedientem futurum fuisse in re 
+      <lb ed="#P" n="140"/>tam modica, ut erat ab una arbore inter tot alias 
+      <lb ed="#P" n="141"/>concessas, abstinere, cum praesertim ad eam nulla 
+      <lb ed="#P" n="142"/>sensus aut appetitus inclinatione moveretur, si non 
+      <!--0428.xml-->
+      <pb ed="#P" n="195"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>prius a Deo per superbiam recessisset. Quod 
+      qui<lb ed="#P" n="2" break="no"/>dem contigisse existimandum est non ante 
+      exter<lb ed="#P" n="3" break="no"/>nam &amp; a diabolo profectam tentationem, sed post 
+      <lb ed="#P" n="4"/>audita illa tentatoris verba: Eritis sicut dii scientes 
+      <lb ed="#P" n="5"/>bonum &amp; malum. Quamvis enim scriptura non 
+      di<lb ed="#P" n="6" break="no"/>cat verba serpentis ad virum prolata fuisse; non 
+      ta<lb ed="#P" n="7" break="no"/>men dubitandum est quin ea mulier viro retulerit, 
+      <lb ed="#P" n="8"/>quando eum ad esum vetiti fructus invitavit. 
+      Scri<lb ed="#P" n="9" break="no"/>ptura enim rem quam brevissime narrans multa 
+      <lb ed="#P" n="10"/>relinquit intelligenda; tametsi satis aperte ex ipsa 
+      <lb ed="#P" n="11"/>scriptura probatur, quia Deus Adae postea 
+      impro<lb ed="#P" n="12" break="no"/>perat quod voluerit esse sicut Deus sciens bonum 
+      <lb ed="#P" n="13"/>&amp; malum. Hoc enim quomodo voluit, nisi sugge 
+      <lb ed="#P" n="14"/>stio serpentis per mulierem ad se pervenisset. Sic 
+      <lb ed="#P" n="15"/>igitur statuendum est Adam verbis serpentis 
+      qui<lb ed="#P" n="16" break="no"/>bus dixerat: Eritis sicut dii, &amp;c. per uxorem ad se 
+      <lb ed="#P" n="17"/>relatis, priusquam ei consentiret ad praecepti 
+      divi<lb ed="#P" n="18" break="no"/>ni praevaricationem, superbiam animo 
+      concepisse<lb ed="#P" n="19" break="no"/>Per ea enim verba ad considerationem propriae ex 
+      <lb ed="#P" n="20"/>cellentiae inductus, ita ad semetipsum conversus 
+      <lb ed="#P" n="21"/>est, ut a Deo recederetu cor ejus; quemadmodum 
+      te<lb ed="#P" n="22" break="no"/>statur Ecclesiasticus cap. 10. dicens: Initium superbiae 
+      <lb ed="#P" n="23"/>hominis apostatare a Deo, quoniam ab eo qui fecit 
+      il<lb ed="#P" n="24" break="no"/>lum recessit cor ejus, quoniam initium omnis peccati 
+      <lb ed="#P" n="25"/>est superbia. Quod &amp; Tobias significat cap. 4. his 
+      <lb ed="#P" n="26"/>verbis: In superbia sumpsit initium omnis perditio. Et 
+      <lb ed="#P" n="27"/>Sapiens Proverb. 16. Ante ruinam exaltabitur 
+      cor<lb ed="#P" n="28" break="no"/>Qua sententia ad hanc rem utitur Aug. libr. 14. de 
+      <lb ed="#P" n="29"/>civitate cap. 13. Quin &amp; Paulus Rom. 5. dum 
+      pec<lb ed="#P" n="30" break="no"/>catum Adae vocat inobedientiam, dicens: Sicut per 
+      <lb ed="#P" n="31"/>inobedientiam unius hominis peccatores constituti sunt 
+      <lb ed="#P" n="32"/>multi; ita &amp; per unius obeditionem justi constituentur 
+      <lb ed="#P" n="33"/>multi; significat illud peccatum superbiam fuisse; 
+      <lb ed="#P" n="34"/>quia primus actus superbiae est nolle subjici 
+      alte<lb ed="#P" n="35" break="no"/>rius imperio, quae proprie dicitur inobedientia. 
+      <lb ed="#P" n="36"/>Quare &amp; Augustinus lib. 14. de civitate cap. 13. &amp; 
+      <lb ed="#P" n="37"/>lib. 8. de Gen. ad literam cap. 14. pro iisdem habet 
+      <lb ed="#P" n="38"/>superbiam &amp; inobedientiam, nec non humilitatem 
+      <lb ed="#P" n="39"/>&amp; obedientiam. Loquitur autem ibi Apostolus de 
+      <lb ed="#P" n="40"/>primo Adae peccato, quia de illo peccato agit per 
+      <lb ed="#P" n="41"/>quod amissa est justitia &amp; infecta peccato tota 
+      po<lb ed="#P" n="42" break="no"/>steritas. Hi autem sunt effectus primi peccati. 
+      Pe<lb ed="#P" n="43" break="no"/>culiariter autem Adami superbia taxata est a Deo 
+      <lb ed="#P" n="44"/>non sine sarcasmo, quando expellens eum e 
+      paradi<lb ed="#P" n="45" break="no"/>so dixit: Ecce Adam quasi unus ex nobis factus est, 
+      <lb ed="#P" n="46"/>sciens bonum &amp; malum. Ex quibus verbis plane 
+      con<lb ed="#P" n="47" break="no"/>stat Adam appetivisse id quod serpens promiserat; 
+      <lb ed="#P" n="48"/>scilicet ut esset sicut Deus, sciens bonum &amp; malum. 
+      <lb ed="#P" n="49"/>Hoc autem fuisse primum ejus peccatum, satis 
+      ap<lb ed="#P" n="50" break="no"/>paret tum ex eo quod tentationem hujus tantae 
+      pro<lb ed="#P" n="51" break="no"/>missionis nulla alia tentatio legatur praecessisse; tum 
+      <lb ed="#P" n="52"/>quia quodcunque aliud ejus nominetur peccatum, 
+      <lb ed="#P" n="53"/>id magis natum est sequi ex superbia, quam contra, 
+      <lb ed="#P" n="54"/>ut mox docebimus. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e384">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Hanc vero sententiam constanter tradunt Patres, 
+      <lb ed="#P" n="56"/>ac praecipue Augustinus multis locis, ut libro 8. de 
+      <lb ed="#P" n="57"/>Genes. ad literam cap. 13. &amp; 14. &amp; lib. 11. cap. 5. 30. 
+      <lb ed="#P" n="58"/>39. &amp; 42. libr. 14. de civitate cap. 13. ubi docta 
+      ra<lb ed="#P" n="59" break="no"/>tione demonstrat tam in homine, quam in daemone 
+      <lb ed="#P" n="60"/>non aliud esse potuisse malae voluntatis initium, nisi 
+      <lb ed="#P" n="61"/>superbiam. Quod &amp; repetit ejusdem libro capite 15. 
+      <lb ed="#P" n="62"/>Item Ench. 45. ubi enumerans peccata primae 
+      trans<lb ed="#P" n="63" break="no"/>gressionis hominis, superbiae primum assignat 
+      lo<lb ed="#P" n="64" break="no"/>cum. Ejusdem Augustini in concione II. super 
+      psal<lb ed="#P" n="65" break="no"/>118. haec verba sunt: Primi homines per serpentem 
+      <lb ed="#P" n="66"/>decepti &amp; dejecti non fuissent, nisi plus quam 
+      acce<lb ed="#P" n="67" break="no"/>perant habere, &amp; plus quam facti fuerant esse 
+      vo<lb ed="#P" n="68" break="no"/>luissent. Hoc quippe ille promiserat dicens: Eritis 
+      <lb ed="#P" n="69"/>sicut dii. Similia tradit concione 9. &amp; 21. super 
+      eun<lb ed="#P" n="70" break="no"/>dem psal. Vide ejusdem enarrationem in psalm. 18. 
+      <lb ed="#P" n="71"/>68. 70. &amp; 82. &amp; ejus titulo dialogum 65. 
+      quaestio<lb ed="#P" n="72" break="no"/>num q 4. Quin &amp; generalis est Augustini sententia 
+      <lb ed="#P" n="73"/>lib. 2. de peccatorum meritis cap. 19. Praecedit in 
+      vo<lb ed="#P" n="74" break="no"/>luntate hominis appetitus quidam propriae potestatis, 
+      <!--0428.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ut fiat inobediens per superbiam. Eadem est de 
+      pri<lb ed="#P" n="76" break="no"/>mo homine doctrina Basilii in hom. quod Deus non 
+      <lb ed="#P" n="77"/>est author malorum; Ambrosii in Luc. 4. ubi dicit 
+      <lb ed="#P" n="78"/>hominem non cibi appetitu, non praecepti 
+      oblivio<lb ed="#P" n="79" break="no"/>ne; sed promissi honoris ambitione illecebrosa 
+      de<lb ed="#P" n="80" break="no"/>ceptum fuisse. Item Chrysostomi hom. 16. in Genes. 
+      <lb ed="#P" n="81"/>&amp; hom. 11. ad populum Antiochenum, &amp; lib. 1. de 
+      <lb ed="#P" n="82"/>providentia; Leonis sermone 5. de Nativitate 
+      Do<lb ed="#P" n="83" break="no"/>mini; Prosperi lib. 2. de vita contemplativa 
+      capit<lb ed="#P" n="84" break="no"/>19. ubi de primis hominibus ait: Non desererent 
+      <lb ed="#P" n="85"/>Deum, nisi superbirent, &amp; similitudinem Dei 
+      dam<lb ed="#P" n="86" break="no"/>nabiliter appetivissent. Item Fulgentii libr. 2. de 
+      In<lb ed="#P" n="87" break="no"/>carnatione &amp; gratia Christi c. 22. Eucherii lib. 1. in 
+      <lb ed="#P" n="88"/>Gen. Gregorii lib. 4. moralium cap. 9. lib. 13. cap. 17. 
+      <lb ed="#P" n="89"/>&amp; lib. 34. cap. 17. Damasceni lib. 2. de fide cap. 10. 
+      <lb ed="#P" n="90"/>Bernardi sermone 1. de Adventu; Rupertilibr. 3. in 
+      <lb ed="#P" n="91"/>Genes. &amp; libr. 10. in Matth. 26. Denique Magistri 
+      <lb ed="#P" n="92"/>hac dist. &amp; omnium pene scholasticorum ac 
+      nomi<lb ed="#P" n="93" break="no"/>natim S. Thomae in 2. 2. quaest. 163. art. 4. &amp; 
+      Caje<lb ed="#P" n="94" break="no"/>tani in eundem locum sententiam communem 
+      con<lb ed="#P" n="95" break="no"/>tra Scotum defendentis. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e482">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Est autem haec eorum ratio potissima: Inter actus 
+      <lb ed="#P" n="97"/>malos priores sunt interni quam externi, tam circa 
+      <lb ed="#P" n="98"/>objecta spiritualia quam sensibilia. Non potuit 
+      au<lb ed="#P" n="99" break="no"/>tem esse in animo cupiditas inordinata boni 
+      sensibi<lb ed="#P" n="100" break="no"/>lis, nisi prius ipse animus a Deo fuisset aversus. 
+      <lb ed="#P" n="101"/>Quamdiu enim Deo manebat subjectus, manebat 
+      <lb ed="#P" n="102"/>etiam pars inferior perfecte subjecta superiori, 
+      ne<lb ed="#P" n="103" break="no"/>que ab ea deficere poterat nisi prius superior 
+      defice<lb ed="#P" n="104" break="no"/>ret a subjectione Dei. Jam autem inter actus 
+      inter<lb ed="#P" n="105" break="no"/>nos qui versantur circa objecta spiritualia, prior est 
+      <lb ed="#P" n="106"/>ille qui circa finem, quam qui circa media versatur. 
+      <lb ed="#P" n="107"/>Nam media appetuntur ob finem, finis autem 
+      homi<lb ed="#P" n="108" break="no"/>nis in malis est excellentia propria, quae proprium est 
+      <lb ed="#P" n="109"/>objectum superbiae; necesse est igitur superbiam 
+      pri<lb ed="#P" n="110" break="no"/>mum peccatum primorum hominum fuisse. Haec 
+      ra<lb ed="#P" n="111" break="no"/>) tio est apud Thomam, eademque consona doctrinae 
+      <lb ed="#P" n="112"/>
+               <pc type="indent"/> quam de primo hominis peccato tradit pluribus 
+      ver<lb ed="#P" n="113" break="no"/>bis Augustinus libro 14. de civitate cap. 13. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e528">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Alia ratio: Primi homines primo omnium 
+      ten<lb ed="#P" n="115" break="no"/>tati sunt peccato superbiae per illa verba: Eritis sicut 
+      <lb ed="#P" n="116"/>dii; ergo per illud primum ceciderunt. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e540">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Alia: Diabolus voluit hominem trahere in ruinam 
+      <lb ed="#P" n="118"/>per illud peccatum per quod primum ipse ceciderat; 
+      <lb ed="#P" n="119"/>cecidit autem per superbiam, ut monstratum est ad 
+      <lb ed="#P" n="120"/>dist. 6. ergo per eam in lapsum praecipitatus est 
+      ho<lb ed="#P" n="121" break="no"/>mo. Hanc rationem continent verba Basilii hom 
+      <lb ed="#P" n="122"/>supra citata, &amp; Gregorii lib. 34. moralium cap. 17. 
+    </p>
+            <p xml:id="bt67yj-p074999-d1e558">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Alia: Christus per humilitatem &amp; obedientiam 
+      <lb ed="#P" n="124"/>genus humanum e statu peccati in statum gratiae 
+      re<lb ed="#P" n="125" break="no"/>stituit atque erexit; ergo Adam per superbiam &amp; 
+      <lb ed="#P" n="126"/>inobedientiam genus humanum e statu primae 
+      in<lb ed="#P" n="127" break="no"/>nocentiae in statum peccati dejecit. Indicat hanc 
+      ra<lb ed="#P" n="128" break="no"/>tionem Augustinus lib. 14. de civitate capite 13. 
+      <lb ed="#P" n="129"/>Fundatur autem in multis scripturis Christi 
+      humi<lb ed="#P" n="130" break="no"/>litatem &amp; obedientiam nobis praecipue 
+      commen<lb ed="#P" n="131" break="no"/>dantibus in negotio reparationis nostrae, ut Rom. 5. 
+      <lb ed="#P" n="132"/>Philip. 2. &amp; alibi. Item in precibus ecclesiae qualis 
+      <lb ed="#P" n="133"/>illa: Deus qui in filii tui humilitate jacentem mundum 
+      <lb ed="#P" n="134"/>erexisti, &amp;c. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

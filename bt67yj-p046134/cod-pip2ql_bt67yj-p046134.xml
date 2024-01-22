@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="120"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p046134"><!-- l2d14c1" -->
+            <head xml:id="bt67yj-p046134-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p046134-Hd1e103" type="question-title">Quod firmamentum inter quas aquas 
+      dividat</head>
+            <p xml:id="bt67yj-p046134-d1e106">
+               <lb ed="#P" n="39"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="40"/>DECIMAMQUARTAM. 
+      <lb ed="#P" n="41"/>§. 1. Quod firmamentum inter quas aquas 
+      <lb ed="#P" n="42"/>dividat.
+    </p>
+            <p xml:id="bt67yj-p046134-d1e117">
+               <lb ed="#P" n="43"/>In opere secundi diei quo Deus dixisse dicitur: 
+      <lb ed="#P" n="44"/>Fiat firmamentum in medio aquarum, &amp; 
+      divi<lb ed="#P" n="45" break="no"/>dat aquas ab aquis; firmamenti nomine caelum 
+      <lb ed="#P" n="46"/>intelligi, non est dubium. Sequitur enim 
+      Vocavit<lb ed="#P" n="47" break="no"/>que Deus firmamentum caelum: Caeli autem nomine 
+      <lb ed="#P" n="48"/>&amp; significatione, ut supra dictum est circa 
+      expo<lb ed="#P" n="49" break="no"/>sitionem operis primi diei, comprehenditur 
+      quic<lb ed="#P" n="50" break="no"/>quid supra nos est expansum, sive elementare sit 
+      <lb ed="#P" n="51"/>corpus, sive quod proprie nobis Latinis caelum 
+      di<lb ed="#P" n="52" break="no"/>citur, id est, quintum corpus simplex. Quae 
+      gene<lb ed="#P" n="53" break="no"/>ralis caeli acceptio non Hebraeis modo, sed &amp; 
+      ethni<lb ed="#P" n="54" break="no"/>cis fuit familiaris. Hinc enim apud eos dicitur 
+      cae<lb ed="#P" n="55" break="no"/>lum serenum, pluvium, temperatum. Et Plinius 
+      li<lb ed="#P" n="56" break="no"/>bro secundo, natural. historiae capite 
+      vicesimoocta<lb ed="#P" n="57" break="no"/>vo, diserte docet etiam hunc aerem caelum a 
+      majori<lb ed="#P" n="58" break="no"/>bus dictum. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e154">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Quocirca nec recte sentire videntur, qui dicunt 
+      <lb ed="#P" n="60"/>secundo die factum esse quoddam caelum diversum 
+      <lb ed="#P" n="61"/>ab eo quod primo die factum sit, uti sentit Sanctus 
+      <lb ed="#P" n="62"/>Basilius homilia tertia Hexameron. Nam scriptura 
+      <lb ed="#P" n="63"/>non aliud significat, quam secundo die factam esse 
+      <lb ed="#P" n="64"/>caeli interpositionem inter aquas &amp; aquas, id est, 
+      da<lb ed="#P" n="65" break="no"/>tum esse caelo ut esset interstitium quoddam dividens 
+      <lb ed="#P" n="66"/>aquas ab aquis. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e177">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Quorumdam autem opinio est hunc aerem a 
+      cor<lb ed="#P" n="68" break="no"/>pore caelesti, in quo sunt astra, non natura, sed 
+      ra<lb ed="#P" n="69" break="no"/>ritate, subtilitate, puritate, aliisque ejusmodi acci 
+      <!--0353.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>dentibus, quae in caelo perfectiora sunt, 
+      tantum<lb ed="#P" n="71" break="no"/>modo differre. Juxta quos etiam sol, luna &amp; stellae 
+      <lb ed="#P" n="72"/>non una cum caelo tanquam ei infixae feruntur in 
+      <lb ed="#P" n="73"/>orbem, sed in caelo continua ejus divisione, ita 
+      mo<lb ed="#P" n="74" break="no"/>ventur, ut pisces in aquis &amp; volucres in aere, hoc 
+      <lb ed="#P" n="75"/>solo excepto, quod syderum motus sit regularis &amp; 
+      <lb ed="#P" n="76"/>eodem modo semper se habens, non item motus 
+      <lb ed="#P" n="77"/>animalium. Sed ea opinio cum ex sacra Theologia 
+      <lb ed="#P" n="78"/>fundamentum non habeat, ipsis vero naturalis 
+      scien<lb ed="#P" n="79" break="no"/>tiae principiis haud parum adversetur; non video 
+      <lb ed="#P" n="80"/>qua ratione inter probabiles opiniones recipi possit. 
+      <lb ed="#P" n="81"/>Nam etsi forte scriptura nusquam indicet naturae 
+      <lb ed="#P" n="82"/>distinctionem inter aerem &amp; caelum in quo sunt 
+      <lb ed="#P" n="83"/>astra; non ideo tamen pro illa sententia stare 
+      putan<lb ed="#P" n="84" break="no"/>da est, quae distinctionem hujusmodi tollit. Multa 
+      <lb ed="#P" n="85"/>enim naturalia scimus de quibus scriptura nihil 
+      tra<lb ed="#P" n="86" break="no"/>dit, utpote non ad hoc edita, ut nos instruat de 
+      na<lb ed="#P" n="87" break="no"/>tura rerum; sed ut monstret viam salutis aeternae. 
+      <lb ed="#P" n="88"/>Unde sanctus Augustinus libro primo de actis 
+      <lb ed="#P" n="89"/>cum Felice Manichaeo capite decimo, Non dixit 
+      <lb ed="#P" n="90"/>Dominus: Mitto vobis Paracletum qui vos doceat 
+      <lb ed="#P" n="91"/>de cursu solis &amp; lunae. Christianos enim facere 
+      vo<lb ed="#P" n="92" break="no"/>lebat, non Mathematicos. Sufficit autem ut 
+      homi<lb ed="#P" n="93" break="no"/>nes de his rebus, quantum in schola didicerunt, 
+      no<lb ed="#P" n="94" break="no"/>verint propter humanos usus. Quare hic philosophia 
+      <lb ed="#P" n="95"/>naturalis nobis sequenda est, ubi scriptura non 
+      ad<lb ed="#P" n="96" break="no"/>versatur. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e251">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Porro aquarum nomine non aliud quam aquas 
+      <lb ed="#P" n="98"/>nobis notas accipimus, id est, aquas elementaris 
+      <lb ed="#P" n="99"/>naturae, tam eas quae super firmamentum sunt, 
+      <lb ed="#P" n="100"/>quam quae sub firmamento, quas nimirum teste 
+      <lb ed="#P" n="101"/>scriptura Deus ab invicem interposito firmamento 
+      <lb ed="#P" n="102"/>divisit. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e269">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Verum difficultas est de aquis quae sunt super 
+      fir<lb ed="#P" n="104" break="no"/>mamentum. Nam supra caelum stellarum quod 
+      <lb ed="#P" n="105"/>plerique firmamenti nomine hic intelligunt, 
+      a<lb ed="#P" n="106" break="no"/>quas existere, nullus sensus, nulla experientia 
+      <lb ed="#P" n="107"/>nobis renuntiat; ratio vero ipsa etiam reclamat 
+      <lb ed="#P" n="108"/>cum sit contra naturam corporis gravis, ut supra 
+      <lb ed="#P" n="109"/>caelos extra mundum elementarem existat, ibique 
+      <lb ed="#P" n="110"/>perpetuo maneat. Nam nec violentum quicquam 
+      <lb ed="#P" n="111"/>ac naturae repugnans perpetuum esse potest, &amp; 
+      <lb ed="#P" n="112"/>omnino per naturam impossibile est, ut aliquid 
+      ele<lb ed="#P" n="113" break="no"/>mentare vel mixtum sit extra terminos orbis 
+      ele<lb ed="#P" n="114" break="no"/>mentaris. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e300">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> At nec ulla ratio satis apta reddi posse videtur, 
+      <lb ed="#P" n="116"/>cur Deus illic aquas collocare voluerit. Nam quod 
+      <lb ed="#P" n="117"/>a nonnullis proditum est, ad temperandum ignes 
+      cae<lb ed="#P" n="118" break="no"/>lestes immensam illam aquarum vim Dei 
+      provi<lb ed="#P" n="119" break="no"/>dentia caelis admotam esse; id omnibus recte 
+      phi<lb ed="#P" n="120" break="no"/>losophantibus merito improbatur, ut quibus 
+      per<lb ed="#P" n="121" break="no"/>suasum sit lumina caelestia non actu sed effectu 
+      <lb ed="#P" n="122"/>tantum &amp; virtute ignea seu calida esse, &amp; si 
+      ca<lb ed="#P" n="123" break="no"/>lida essent natura, nec aquarum temperamento 
+      <lb ed="#P" n="124"/>egerent. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e326">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Quocirca alii recurrunt ad virtutem divinam, cui 
+      <lb ed="#P" n="126"/>nihil est impossibile. Quaerentibus autem facti 
+      ra<lb ed="#P" n="127" break="no"/>tionem, id est, elementi tam sublimi loco 
+      consisten<lb ed="#P" n="128" break="no"/>tis usum; respondent id nos latere, neque curiose 
+      <lb ed="#P" n="129"/>nobis indagandum esse, quanquam &amp; hoc 
+      adductis<lb ed="#P" n="130" break="no"/>quibusdam exemplis declarare conentur. Ita de hac 
+      <lb ed="#P" n="131"/>re scribunt sanctus Basilius homilia tertia &amp; sanctus 
+      <lb ed="#P" n="132"/>Ambrosius sub initium libri secundi Hexameron. 
+      <lb ed="#P" n="133"/>Joan. Chrysostomus quoque scribens in Genesim, 
+      <lb ed="#P" n="134"/>homilia nona &amp; decima ad populum 
+      Antioche<lb ed="#P" n="135" break="no"/>num, veras aquas supra sublime caelum collocatas 
+      <lb ed="#P" n="136"/>interpretatur tribuitque miraculo, quod non 
+      de<lb ed="#P" n="137" break="no"/>cidant in terram. Horum sententiam qua parte 
+      ve<lb ed="#P" n="138" break="no"/>ras aquas caelo stellato superponunt, plerique alii 
+      <lb ed="#P" n="139"/>sequuntur. At nonnulli eorum existimant eas aquas 
+      <lb ed="#P" n="140"/>esse caeruleum illud, quod sereno caelo nobis 
+      appa<lb ed="#P" n="141" break="no"/>ret sursum aspectantibus, quandoquidem &amp; mare 
+      <lb ed="#P" n="142"/>tanquam aqua quae est sub firmamento, colorem 
+      <lb ed="#P" n="143"/>ostendit caeruleum, eoque epitheto a poetis appella¬ 
+      <!--0354.xml-->
+      <pb ed="#P" n="121"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tur. Atque hoc pacto docere se putant aquas illas 
+      su<lb ed="#P" n="2" break="no"/>pernas non esse remotas a perceptione sensus nostri¬ 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e383">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> His si objicias Deum in prima rerum institutione 
+      <lb ed="#P" n="4"/>non fecisse quicquam contra rerum naturam, 
+      prae<lb ed="#P" n="5" break="no"/>sertim quod sic essent perpetuo mansurum; 
+      Respon<lb ed="#P" n="6" break="no"/>dent ad hoc verbis S. Aug. ex lib. 26. contra Faustum 
+      <lb ed="#P" n="7"/>cap. Deus, inquit, conditor &amp; creator omnium 
+      natu<lb ed="#P" n="8" break="no"/>rarum nihil contra naturam facit. Id enim erit cuique 
+      <lb ed="#P" n="9"/>rei naturale quod ille fecerit, a quo est omnis modus, 
+      <lb ed="#P" n="10"/>numerus &amp; ordo naturae. Cum ergo Deus quasdam 
+      <lb ed="#P" n="11"/>aquis ab initio sic ordinaverit, ut essent supra caelum 
+      <lb ed="#P" n="12"/>ibique manerent, dicunt aquis illis locum caelestem 
+      <lb ed="#P" n="13"/>non esse praeter naturam, sed prorsus naturalem, id 
+      <lb ed="#P" n="14"/>est, naturae ipsarum convenientem. Unde &amp; 
+      cogun<lb ed="#P" n="15" break="no"/>tur fateri non esse absurdum, ut ejusdem naturae 
+      cor<lb ed="#P" n="16" break="no"/>pora diversas atque adeo contrarias habeant 
+      natu<lb ed="#P" n="17" break="no"/>rales qualitates &amp; inclinationes. Sed hoc utrum recte 
+      <lb ed="#P" n="18"/>dicatur, praesertim de natura ut est a Deo instituta, 
+      <lb ed="#P" n="19"/>diligentiori opus habet indagatione. Neque enim 
+      ul<lb ed="#P" n="20" break="no"/>lo alio exemplo vel elementi vel mixti corporis, ea 
+      <lb ed="#P" n="21"/>res videtur comprobari posse. Certe videtur hoc 
+      re<lb ed="#P" n="22" break="no"/>pugnare identitati specificae, ut sint naturales 
+      incli<lb ed="#P" n="23" break="no"/>nationes diversae. Nam illae dicuntur naturales 
+      pro<lb ed="#P" n="24" break="no"/>prietates seu inclinationes, quae toti naturae ac 
+      spe<lb ed="#P" n="25" break="no"/>ciei communes sunt, ut gravitas, levitas. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e439">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Quidam igitur recentiores ut totam hanc 
+      difficul<lb ed="#P" n="27" break="no"/>tatem evadant, aquas supercaelestes dicunt 
+      aequivo<lb ed="#P" n="28" break="no"/>ce dumtaxat sic appellatas, revera autem esse naturae 
+      <lb ed="#P" n="29"/>caelestis, easque caelum illud constituere, quod a 
+      phy<lb ed="#P" n="30" break="no"/>sicis aqueum sive crystallinum ob summam omnium 
+      <lb ed="#P" n="31"/>partium ejus diaphaniam vocatur. At vero responsio 
+      <lb ed="#P" n="32"/>coacta nimium est, nec satis respondens simplicitati 
+      <lb ed="#P" n="33"/>sermonis scripturae, quae profecto per aquas in 
+      histo<lb ed="#P" n="34" break="no"/>rica descriptione Genesis mundi, non aliud quam 
+      <lb ed="#P" n="35"/>aquas intelligi voluit, sicut per terram non aliud 
+      <lb ed="#P" n="36"/>quam terram; &amp; ita de aliis quae in ea descriptione 
+      <lb ed="#P" n="37"/>nominantur. Et quidem aquas non alias intelligi 
+      <lb ed="#P" n="38"/>tripliciter probatur. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e472">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Primo, quia aquae sub firmamento verae aquae 
+      in<lb ed="#P" n="40" break="no"/>telliguntur omnium consensu, igitur &amp; supra 
+      firma<lb ed="#P" n="41" break="no"/>mentum. Simul enim eodem vocabulo nominantur 
+      <lb ed="#P" n="42"/>in eadem sententia qua dicitur: Et dividat aquas ab 
+      <lb ed="#P" n="43"/>aquis. Et rursum: Divisitque aquas quae erant sub 
+      fir<lb ed="#P" n="44" break="no"/>mamento ab aquis quae erant super firmamentum. 
+      Utro<lb ed="#P" n="45" break="no"/>bique enim in Hebr. aquarum nomen repetitur. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e492">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Secundo, quia nulla ratio erat ut diceretur caelum 
+      <lb ed="#P" n="47"/>stellatum dividere caelum supra se positum ab aquis 
+      <lb ed="#P" n="48"/>elementaribus apud nos positis, nihilo magis quam 
+      <lb ed="#P" n="49"/>ab aere vel terra, vel aliquo caelo inferiori. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e505">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Tertio, quia quod caelum stellato proxime 
+      immi<lb ed="#P" n="51" break="no"/>nens, vocetur aqueum; recens est appellatio. Quo fit 
+      <lb ed="#P" n="52"/>ut nulli veterum interpretum nec ante Christum nec 
+      <lb ed="#P" n="53"/>post, in mentem venire potuerit per aquas intelligi 
+      <lb ed="#P" n="54"/>quoddam caelum natura prorsus ab aquis nobis 
+      co<lb ed="#P" n="55" break="no"/>gnitis distinctum; ut nec ullo modo verisimile sit 
+      <lb ed="#P" n="56"/>Moysen aquas scribentem tale corpus intellexisse. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e525">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Quartam rationem adde; quia quamvis aequivoce 
+      <lb ed="#P" n="58"/>quaedam dicantur aquae, ut aqua rosacea, &amp; 
+      hujusmo<lb ed="#P" n="59" break="no"/>di, nulli tamen corpori solido &amp; constanti tribui 
+      so<lb ed="#P" n="60" break="no"/>let hoc nomen; adeo ut ne glacies quidem, licet 
+      ejus<lb ed="#P" n="61" break="no"/>dem sit specificae naturae cum vera aqua, simpliciter 
+      <lb ed="#P" n="62"/>aqua dicatur, idque tantum ob defectum 
+      humidita<lb ed="#P" n="63" break="no"/>tis actualis, quae magis est necessaria ut quid hoc no 
+      <lb ed="#P" n="64"/>mine vocetur, quam principalis aquae qualitas, id 
+      <lb ed="#P" n="65"/>est, frigiditas. Nam aqua calida simpliciter vocatur 
+      <lb ed="#P" n="66"/>aqua, sed aqua gelu constricta non item. Quare 
+      mul<lb ed="#P" n="67" break="no"/>to minus caelum perfecte atque immutabiliter 
+      soli<lb ed="#P" n="68" break="no"/>dum, &amp; a natura aquae toto genere diversum, aqua 
+      <lb ed="#P" n="69"/>vocari poterit. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e558">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Est igitur alia quorumdam opinio, qui per aquas 
+      <lb ed="#P" n="71"/>quae super firmamentum sunt, intelligunt nubes 
+      su<lb ed="#P" n="72" break="no"/>pra aerem hunc infismum sublimes, &amp; omnino totam 
+      <lb ed="#P" n="73"/>illam ex vaporibus in altum elevatis collectam, 
+      hu<lb ed="#P" n="74" break="no"/>midam &amp; aquosam mediae regionis aeris constitutio¬ 
+      <!--0354.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>nem. Quae quidem opinio neutiquam improbabilis 
+      <lb ed="#P" n="76"/>est. Nihil enim continet inopinabile; quin potius 
+      <lb ed="#P" n="77"/>cum natura simul &amp; cum scriptura optime 
+      conve<lb ed="#P" n="78" break="no"/>nit. Ac de natura quidem nullum est dubium. De 
+      <lb ed="#P" n="79"/>scriptura vero probatur. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e590">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Primum, quia caeli nomine in scripturis aerem 
+      <lb ed="#P" n="81"/>comprehendi supra satis ostensum est. Quare nihil 
+      <lb ed="#P" n="82"/>absurdi est aquas dici super caelum vel firmamentum 
+      <lb ed="#P" n="83"/>esse per synecdochen; quia sunt supra caeli partem 
+      <lb ed="#P" n="84"/>vulgo notissimam, id est, supra infimam aeris 
+      re<lb ed="#P" n="85" break="no"/>gionem, in qua volucres versantur, &amp; quam fumi 
+      <lb ed="#P" n="86"/>vaporesque pertranseunt atque inficiunt. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e610">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Secundo, quia nomen firmamenti hoc loco non 
+      <lb ed="#P" n="88"/>significat corpus aliquod firmum &amp; solidum, quale 
+      <lb ed="#P" n="89"/>est caelum sydereum; sed corpus longe lateque 
+      expan<lb ed="#P" n="90" break="no"/>sum, quod etiam nostro aeri convenit. Nam pro 
+      fir<lb ed="#P" n="91" break="no"/>mamento Hebraice vox est quae expansionem 
+      signi<lb ed="#P" n="92" break="no"/>ficat, licet 70. verterint σιρεωμα, id est, 
+      firmamen<lb ed="#P" n="93" break="no"/>tum seu stabilimentum, non quidem a soliditate 
+      <lb ed="#P" n="94"/>corporis sic dictum; sed quia stabile est &amp; perpetuum 
+      <lb ed="#P" n="95"/>interstitium inter ea quae dividit. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e634">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Tertio, probatur ex eodem loco Gen. Domino 
+      pau<lb ed="#P" n="97" break="no"/>Io post dicente: Congregentur aquae quae sub caelo sunt in 
+      <lb ed="#P" n="98"/>locum unum. Nam aquae mediae regionis aeris non sunt 
+      <lb ed="#P" n="99"/>in unum locum congregatae, sed per totam eam regio 
+      <lb ed="#P" n="100"/>nem vagantur, ergo non sunt aquae sub caelo; &amp; per 
+      <lb ed="#P" n="101"/>consequens sunt aquae supra caelum seu firmamentum. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e652">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Quarto, confirmat hanc expositionem quod Gen. 7. 
+      <lb ed="#P" n="103"/>dicuntur cataractae caeli apertae fuisse, quando factum 
+      <lb ed="#P" n="104"/>est diluvium; quod certe non de aliis quam de aquis 
+      <lb ed="#P" n="105"/>mediae regionis aeris intelligi potest, quae nimirum 
+      <lb ed="#P" n="106"/>tunc magna copia collectae, &amp; continuo simul effusae 
+      <lb ed="#P" n="107"/>totam terram inundaverunt, cum alioqui nec tanta 
+      <lb ed="#P" n="108"/>copia colligi soleant, nec ita simul effundi, sed 
+      retine<lb ed="#P" n="109" break="no"/>ri ad usum terrae irrigandae, juxta illud Job. 26. de 
+      <lb ed="#P" n="110"/>Deo dicitur: Qui ligat aquas in nubibus suis, ut non 
+      <lb ed="#P" n="111"/>erumpant pariter deorsum, scilicet tali modo quo 
+      <lb ed="#P" n="112"/>eruperunt tempore diluvii.
+    </p>
+            <p xml:id="bt67yj-p046134-d1e681">
+               <lb ed="#P" n="113"/>Quinto, confirmat quod Ps. 103. postquam dictum 
+      e<lb ed="#P" n="114" break="no"/>rat: Extendens celum sicut pellem, Qui tegis aquis 
+      supe<lb ed="#P" n="115" break="no"/>riora ejus, continuo additur: Qui ponis nubem 
+      ascen<lb ed="#P" n="116" break="no"/>sum tuum, nempe ad significandum per aquas caelo 
+      su<lb ed="#P" n="117" break="no"/>periores intelligi nubes supra hunc aerem suspensas. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e694">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Sexto, magis etiam confirmat quod paulo post in 
+      <lb ed="#P" n="119"/>eodem Psal. sequitur: Rigans montes de superioribus 
+      <lb ed="#P" n="120"/>suis. Declarat enim haec sententia, quaenam sint illa 
+      <lb ed="#P" n="121"/>superiora, de quibus dixerat: Qui tegis aquis 
+      superio<lb ed="#P" n="122" break="no"/>ra ejus; scilicet ea de quibus aquae cadentes irrigant 
+      <lb ed="#P" n="123"/>montes, hoc est sublimia loca aeris, quae in Hebraeo 
+      <lb ed="#P" n="124"/>dicuntur utrobique coenacula Hieronymo sic 
+      inter<lb ed="#P" n="125" break="no"/>pretante. Vanum est autem aliter posteriori loco, 
+      <lb ed="#P" n="126"/>aliter priori coenacula velle interpretari, cum 
+      utro<lb ed="#P" n="127" break="no"/>bique de aquis supernis fit sermo¬ 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e721">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Septimo, Psal. 146. simili atque aperto sermone 
+      <lb ed="#P" n="129"/>dicitur: Qui operit caelum nubibus, &amp; parat terra 
+      <lb ed="#P" n="130"/>pluviam. Ecce aquae supercaelestes, id est, caelum 
+      ope<lb ed="#P" n="131" break="no"/>rientes, ex quibus terrae paratur pluvia.
+    </p>
+            <p xml:id="bt67yj-p046134-d1e734">
+               <lb ed="#P" n="132"/>Octavo, simile est &amp; illud Jer. 10. Ad vocem suam dat 
+      <lb ed="#P" n="133"/>multitudinem aquarum in caelo &amp; elevat nebulas ab 
+      ex<lb ed="#P" n="134" break="no"/>tremitatibus terrae; &amp; cap. 51. Dante Deo vocem 
+      multi<lb ed="#P" n="135" break="no"/>plicantur aquae in caelo. Qui levat nubes ab extremo ter 
+      <lb ed="#P" n="136"/>rae. Quo utroque loco quae aquae intelligantur in 
+      prio<lb ed="#P" n="137" break="no"/>ri parte sententiae, manifeste liquet ex posteriori.
+    </p>
+            <p xml:id="bt67yj-p046134-d1e750">
+               <lb ed="#P" n="138"/>Nono, facit huc quod Ps. 146. Aquae quae super caelos 
+      <lb ed="#P" n="139"/>sunt, post solem, lunam &amp; stellas tanquam illis 
+      infe<lb ed="#P" n="140" break="no"/>riores, &amp; proxime ante ea quae circa terram sunt ad 
+      <lb ed="#P" n="141"/>laudandum Dominum invitantur. Quo etiam loco 
+      <lb ed="#P" n="142"/>nubes ideo non nominantur; quia per aquas quae 
+      su<lb ed="#P" n="143" break="no"/>per caelos sunt, jam ante significatae fuerant. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e766">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Decimo, huc pertinet quod Deus in scripturis 
+      di<lb ed="#P" n="145" break="no"/>citur dare pluvias de caelo, quodque terra 
+      promissio<lb ed="#P" n="146" break="no"/>nis a Moyse vocatur terra de caelo, pluvias exspectans 
+      <lb ed="#P" n="147"/>Deut. 11. quodque rursum Deut. 28. dicitur. Aperuit 
+      <lb ed="#P" n="148"/>Dominus thesaurum suum optimum, caelum ut tribuat 
+      <!--0355.xml-->
+      <pb ed="#P" n="122"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>pluviam terrae tua. Nam pluviae de caelo quid 
+      aliud<lb ed="#P" n="2" break="no"/>sunt quam aquae caelestes. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e792">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Undecimo, faciunt ad hanc rem illustrandam aliae 
+      <lb ed="#P" n="4"/>scripturae, in quibus nubes tanquam caelo aequales 
+      <lb ed="#P" n="5"/>aut superiores memorantur, ut Psalm. 35. Domine 
+      <lb ed="#P" n="6"/>in calo, misericordia tua, &amp; veritas tuausque ad 
+      nu<lb ed="#P" n="7" break="no"/>bes. Quae sententia reperitur Psal. 56. &amp; 107. 
+      est<lb ed="#P" n="8" break="no"/>que ei simile quod Jerem. 15. dicitur: Pervenit 
+      us<lb ed="#P" n="9" break="no"/>que ad caelos judicium ejus, &amp; elevatum est usque ad 
+      <lb ed="#P" n="10"/>nubes. Item Isa. 14. In caelum conscendam, super 
+      <lb ed="#P" n="11"/>astra Dei exaltabo solium meum, &amp;c. Ubi deinde 
+      ad<lb ed="#P" n="12" break="no"/>ditur: Ascendam super altitudinem nubium. 
+    </p>
+            <p xml:id="bt67yj-p046134-d1e818">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Duodecimo. Non parum probabilitatis huic 
+      sen<lb ed="#P" n="14" break="no"/>tentiae accedit, ex eo quod haud quaquam verisimile 
+      <lb ed="#P" n="15"/>sit Moysen voluisse nobis describere creationem rei 
+      <lb ed="#P" n="16"/>prorsus ignotae hominibus, quemadmodum constat 
+      <lb ed="#P" n="17"/>eum de nulla alia creatura fecisse. Quam ob causam, 
+      <lb ed="#P" n="18"/>nec de elemento ignis quod vulgus ignorat, licet a 
+      do<lb ed="#P" n="19" break="no"/>ctis agnoscatur, quicquam meminit, imo &amp; de angelis 
+      <lb ed="#P" n="20"/>tacuit, quod rudi &amp; carnali populo scribere se sciret, 
+      <lb ed="#P" n="21"/>ut alibi admonuimus. Certum est autem aquas 
+      pro<lb ed="#P" n="22" break="no"/>prie super caelestes, id est, supra sydereum caelum 
+      posi<lb ed="#P" n="23" break="no"/>tas non solum vulgo, ad cujus captum &amp; sermonem 
+      <lb ed="#P" n="24"/>Moyses hic se dimittit, verum etiam omnibus 
+      natu<lb ed="#P" n="25" break="no"/>raliter philosophantibus prorsus incognitas esse, 
+      qui<lb ed="#P" n="26" break="no"/>bus contra notissimae sunt aquae in caelo, id est, 
+      subli<lb ed="#P" n="27" break="no"/>mi aere suspensae, quas nubes vocamus. Hanc sane 
+      <lb ed="#P" n="28"/>rationem assignat S. Th. 1. p. q. 66. art. 1. ad 1. cur 
+      <lb ed="#P" n="29"/>Moyses aerem &amp; ignem non nominaverit; quia, 
+      in<lb ed="#P" n="30" break="no"/>quit, non est ita manifestum rudibus, quibus Moyses 
+      <lb ed="#P" n="31"/>loquebatur, hujusmodi esse corpora, sicut manifestum 
+      <lb ed="#P" n="32"/>est de terra &amp; aqua. Eandem rationem ignis &amp; aeris 
+      <lb ed="#P" n="33"/>a Moyse non nominati tradit super hanc dist. art. 2. 
+      <lb ed="#P" n="34"/>Unde vicissim ex eo quaeri potuisset. Qua ratione 
+      <lb ed="#P" n="35"/>Moyles nominaverit aquas quae super caelos sunt, non 
+      <lb ed="#P" n="36"/>modo rudibus naturaliter ignotas, sed &amp; eruditis. 
+      <lb ed="#P" n="37"/>Satis igitur patet eas non esse a sensu hominum, ac 
+      <lb ed="#P" n="38"/>multo minus a naturali eorum notitia removendas. 
+      <lb ed="#P" n="39"/>Sed clarior adhuc evadet haec doctrina ex solutione 
+      <lb ed="#P" n="40"/>argumentorum, quae contra eam adferri solent. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="230"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p089150"><!-- l2d24c3" -->
+            <head xml:id="bt67yj-p089150-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p089150-Hd1e103" type="question-title">An et quatenus libertas voluntatis pendeat 
+      ab intellectu</head>
+            <p xml:id="bt67yj-p089150-d1e106">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> §. 3. An &amp; quatenus libertas voluntatis pendeat 
+      <lb ed="#P" n="53"/>ab intellectu?
+    </p>
+            <p xml:id="bt67yj-p089150-d1e115">
+               <lb ed="#P" n="54"/>QUem ordinem habeat voluntas ad intellectum 
+      <lb ed="#P" n="55"/>seu rationem quoad libertatem jam 
+      explica<lb ed="#P" n="56" break="no"/>tam, disputant Scholastici, atque eorum de hac re 
+      <lb ed="#P" n="57"/>tres praecipuae exstant opiniones. Una est <ref xml:id="bt67yj-p089150-Rd1e125">
+                  <name xml:id="bt67yj-p089150-Nd1e127">Durandi</name>
+                  <lb ed="#P" n="58"/>qui scribens in hanc dist. q. 3.</ref> censet, utramque 
+      po<lb ed="#P" n="59" break="no"/>tentiam tam intellectum quam voluntatem 
+      forma<lb ed="#P" n="60" break="no"/>liter liberam esse; imo intellectum seu rationem 
+      <lb ed="#P" n="61"/>prius ac principalius esse liberam quam voluntatem. 
+      <lb ed="#P" n="62"/>Quod utrumque probat argumentis non 
+      contem<lb ed="#P" n="63" break="no"/>nendis, quae nos infra adducemus. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e144">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Secunda est <name xml:id="bt67yj-p089150-Nd1e150">Henrici a Gandavo</name> &amp; <name xml:id="bt67yj-p089150-Nd1e152">Scoti</name>, qui a 
+      <lb ed="#P" n="65"/>praedicta sententia longissime in diversum 
+      abeun<lb ed="#P" n="66" break="no"/>tes, docent (ut videre est apud Henricum quodlib. 
+      <lb ed="#P" n="67"/>1. qu. 16. &amp; apud Scotum scribentem super dist. 25. 
+      <lb ed="#P" n="68"/>hujus libri qu. unica) voluntatem ita esse liberam, 
+      <lb ed="#P" n="69"/>ut in sua coactione non dependeat nec 
+      determine<lb ed="#P" n="70" break="no"/>tur a judicio practico rationis. Imo libertatem 
+      ra<lb ed="#P" n="71" break="no"/>tioni simpliciter adimunt, dicentes eam nec for¬ 
+      <!--0463.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>maliter nec radicaliter liberam esse. Non formaliter, 
+      <lb ed="#P" n="73"/>quia remota ignorantia ratio semper ac necessario 
+      <lb ed="#P" n="74"/>judicat id quod rectum est. Nec radicaliter, quia ut 
+      <lb ed="#P" n="75"/>aiunt, ratio non est vera causa libertatis quae est in 
+      <lb ed="#P" n="76"/>voluntate, sed solum occasio sive conditio, sine qua 
+      <lb ed="#P" n="77"/>non esset libertas in voluntate; nomen autem radicis 
+      <lb ed="#P" n="78"/>veram causam significat. Huic opinioni 
+      astipulan<lb ed="#P" n="79" break="no"/>tur <name xml:id="bt67yj-p089150-Nd1e191">Gabriel</name>, <name xml:id="bt67yj-p089150-Nd1e193">Adrianus</name> &amp; alii nonnulli, inter quos 
+      <lb ed="#P" n="80"/>
+               <name xml:id="bt67yj-p089150-Nd1e198">Abulensis</name> q. 6. super 3. Reg. 12. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e202">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Tertia opinio est S. Thomae qui media via inter 
+      <lb ed="#P" n="82"/>duas superiores sententias incedens, docet 
+      liberta<lb ed="#P" n="83" break="no"/>tem prius quidem esse in intellectu quam in 
+      volun<lb ed="#P" n="84" break="no"/>tate; non tamen formaliter eam esse in intellectu, 
+      <lb ed="#P" n="85"/>sed tantum radicaliter &amp; causaliter. Caeterum in 
+      <lb ed="#P" n="86"/>voluntate eam esse formaliter &amp; complete. Tradit 
+      <lb ed="#P" n="87"/>hanc sententiam variis locis, ut q. 1. super 
+      praesen<lb ed="#P" n="88" break="no"/>tem dist. de veritate q. 24. artic. 1. 4. &amp; 6. parte 1. 
+      <lb ed="#P" n="89"/>summae q 83. articulo I. 3. &amp; 4. &amp; 1. sec. q. 8. art. 2. 
+      <lb ed="#P" n="90"/>ad 2. q. 13. art. 1. &amp; 6. &amp; q. 17. art. 1. ad 2. 
+      Consen<lb ed="#P" n="91" break="no"/>tiunt huic doctrinae <name xml:id="bt67yj-p089150-Nd1e230">Aegidius Romanus</name> quodlibeto 
+      <lb ed="#P" n="92"/>4. q. 21. <name xml:id="bt67yj-p089150-Nd1e234">Richardus</name> &amp; <name xml:id="bt67yj-p089150-Nd1e236">Capreolus</name> super hanc dist. <name xml:id="bt67yj-p089150-Nd1e238">
+      Bo<lb ed="#P" n="93" break="no"/>naventura</name> super dist. 25. articulo 1. q. 6. <name xml:id="bt67yj-p089150-Nd1e244">Cajetanus</name>
+               <lb ed="#P" n="94"/>in summam S. Thomae locis praecipuis jam allegatis. 
+      <lb ed="#P" n="95"/>Item <name xml:id="bt67yj-p089150-Nd1e250">Medina</name>, <name xml:id="bt67yj-p089150-Nd1e252">Bannes</name>, &amp; caeteri S. Thomae sequaces 
+      <lb ed="#P" n="96"/>cum aliis quibusdam. Ut autem toti huic doctrinae 
+      <lb ed="#P" n="97"/>lucem aliquam adferamus, statuendae sunt hae 
+      pro<lb ed="#P" n="98" break="no"/>positiones. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e262">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Prima: Libertas arbitrii radicaliter est in 
+      intelle<lb ed="#P" n="100" break="no"/>ctu seu ratione tanquam in propria causa. Haec 
+      pro<lb ed="#P" n="101" break="no"/>positio multipliciter probari potest. Primum, quia 
+      <lb ed="#P" n="102"/>voluntas ideo libera est, quoniam est appetitus 
+      in<lb ed="#P" n="103" break="no"/>tellectivus seu rationalis, quemadmodum e 
+      contra<lb ed="#P" n="104" break="no"/>rio appetitus in bestiis idcirco non est liber, quia 
+      <lb ed="#P" n="105"/>non est rationalis. Unde patet causam libertatis quae 
+      <lb ed="#P" n="106"/>in voluntate est, ab intellectu, seu ratione 
+      peten<lb ed="#P" n="107" break="no"/>dam esse. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e286">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Secundo id ita probamus a priori, scilicet 
+      expli<lb ed="#P" n="109" break="no"/>cando ipsam causam libertatis. Voluntas ideo 
+      li<lb ed="#P" n="110" break="no"/>bera est, quia intellectus seu ratio indifferens est &amp; 
+      <lb ed="#P" n="111"/>indeterminata ad judicandum. Potest enim ratio 
+      <lb ed="#P" n="112"/>voluntati varia proponere media ad finem, atque in 
+      <lb ed="#P" n="113"/>singulis ostendere rationem boni &amp; rationem mali: 
+      <lb ed="#P" n="114"/>loquendo nimirum de mediis contingentibus, id est, 
+      <lb ed="#P" n="115"/>non necessariam habentibus connexionem cum fine. 
+      <lb ed="#P" n="116"/>Hoc autem non potest sensus, utpote ad unum 
+      na<lb ed="#P" n="117" break="no"/>turaliter determinatus. Profluit igitur libertas 
+      vo<lb ed="#P" n="118" break="no"/>luntatis ex indifferentia seu indeterminatione 
+      judi<lb ed="#P" n="119" break="no"/>cii intellectus, velut ex radice &amp; causa. Quam rem 
+      <lb ed="#P" n="120"/>docte &amp; breviter explicat S. Thomas in 1. sec. q. 17. 
+      <lb ed="#P" n="121"/>art. 1. ad 2. Radix libertatis, inquit, est voluntas 
+      <lb ed="#P" n="122"/>sicut subjectum, sed sicut causa, est ratio. Ex hoc enim 
+      <lb ed="#P" n="123"/>voluntas libere potest ad diversa ferri, quia ratio 
+      po<lb ed="#P" n="124" break="no"/>test habere diversas conceptiones boni; &amp; ideo 
+      Phi<lb ed="#P" n="125" break="no"/>losophi definiunt liberum arbitrium quod est 
+      libe<lb ed="#P" n="126" break="no"/>rum de ratione judicium quasi ratio sit causa 
+      liber<lb ed="#P" n="127" break="no"/>tatis 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e334">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Tertio: Voluntas nunquam ferri potest in 
+      inco<lb ed="#P" n="129" break="no"/>gnitum, ut docet Augustinus libro 10. de Trinitate 
+      <lb ed="#P" n="130"/>cap. 1. estque sententia ab omnibus recepta; igitur 
+      <lb ed="#P" n="131"/>actio voluntatis semper nascitur ex cognitione 
+      ob<lb ed="#P" n="132" break="no"/>jecti, &amp; proinde libera voluntatis actio nascitur ex 
+      <lb ed="#P" n="133"/>quadam indifferentia judicii, quae est in intellectu 
+      <lb ed="#P" n="134"/>cognoscente objectum. Quae sequela probatur, tum 
+      <lb ed="#P" n="135"/>quia alioqui libera non esset actio voluntatis, ut 
+      po<lb ed="#P" n="136" break="no"/>te determinata ad objectum determinate cognitum, 
+      <lb ed="#P" n="137"/>tum quia natura potentiae appetitivae aestimanda est 
+      <lb ed="#P" n="138"/>juxta naturam potentiae, apprehensivae sibi 
+      respon<lb ed="#P" n="139" break="no"/>dentis, &amp; a qua in sua operatione dependet, 
+      quem<lb ed="#P" n="140" break="no"/>admodum docet S. Thomas 1. p. q. 80. art. 2. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e367">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Quarto: Voluntas secundum communem 
+      doctri<lb ed="#P" n="142" break="no"/>nam Philosophorum profluit ab essentia animae 
+      ra<lb ed="#P" n="143" break="no"/>tionalis mediante intellectu in genere causae 
+      efficien<lb ed="#P" n="144" break="no"/>tis; ergo id quod est de essentia voluntatis, nempe 
+      li<lb ed="#P" n="145" break="no"/>bertas, est in intellectu tanquam in causa &amp; radice¬ 
+      <!--0464.xml-->
+      <pb ed="#P" n="231"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quinto: Aristoteles libro 3. Ethic. capite 2. &amp; 3. 
+      <lb ed="#P" n="2"/>aperte docet, desiderium &amp; electionem oriri ex 
+      con<lb ed="#P" n="3" break="no"/>silio &amp; judicio rationis, &amp; libro 9. Metaphysicae 
+      <lb ed="#P" n="4"/>textu 3. concludit potentias rationales ideo quia 
+      ra<lb ed="#P" n="5" break="no"/>tionales sunt, habere se ad opposita; ergo secundum 
+      <lb ed="#P" n="6"/>philosophum ex eo quod ratio se habet ad opposita. 
+      <lb ed="#P" n="7"/>tanquam ex causa, sequitur libertas voluntatis ad 
+      <lb ed="#P" n="8"/>opposita. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e406">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Postremo: Haec sententia plane consonat dictis 
+      <lb ed="#P" n="10"/>veterum doctorum. Nam Clemens vel quisquis 
+      <lb ed="#P" n="11"/>author in epistola 2. ad Jacobum, &amp; Origenes libro 
+      <lb ed="#P" n="12"/>3. Periarchon capite 2. eo argumento probant 
+      li<lb ed="#P" n="13" break="no"/>berum hominis arbitrium, quia homo est animal 
+      a<lb ed="#P" n="14" break="no"/>gens ex judicio rationis; ratio autem indifferens est 
+      <lb ed="#P" n="15"/>ad judicandum, utpote potens varia proponere, &amp; 
+      <lb ed="#P" n="16"/>de iisdem varie judicare. Bernardus sermone 81. in 
+      <lb ed="#P" n="17"/>Cantica libertatem arbitrii ponit in cognitione 
+      ju<lb ed="#P" n="18" break="no"/>dicii &amp; optione eligendi; scilicet in illa 
+      causali<lb ed="#P" n="19" break="no"/>ter, in hac vero formaliter. Gennadius libro de 
+      eccle<lb ed="#P" n="20" break="no"/>siasticis dogmatibus capite 20. libertatem arbitrii 
+      <lb ed="#P" n="21"/>dicit esse rationalem voluntatem, &amp; Magister hac 
+      <lb ed="#P" n="22"/>dist. §. E. liberum arbitrium definit esse facultatem 
+      <lb ed="#P" n="23"/>rationis &amp; voluntatis. Cum igitur libertas arbitrii 
+      <lb ed="#P" n="24"/>non sit in ratione formaliter, ti statim docebimus, 
+      <lb ed="#P" n="25"/>certe confitendum est, eam esse in ratione tanquam 
+      <lb ed="#P" n="26"/>radice &amp; causa. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e451">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Secunda propositio: Libertas arbitrii non est 
+      for<lb ed="#P" n="28" break="no"/>maliter in intellectu. Probatur primo, quia libertas 
+      <lb ed="#P" n="29"/>non est formaliter nisi in ea potentia ad quam 
+      per<lb ed="#P" n="30" break="no"/>tinet electio; haec autem non est actus intellectus 
+      <lb ed="#P" n="31"/>sed voluntatis. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e467">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Deinde, quia sequeretur duas esse libertates 
+      ar<lb ed="#P" n="33" break="no"/>bitrii in homine, unam intellectus, alteram 
+      volun<lb ed="#P" n="34" break="no"/>tatis; &amp; consequenter duas electiones &amp; duo 
+      pec<lb ed="#P" n="35" break="no"/>cata, quotiescunque quis malum eligendo peccaret. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e480">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Tertio, quia ratio est regula humanorum actuum: 
+      <lb ed="#P" n="37"/>Atqui regulam ut talem oportet esse fixam, 
+      deter<lb ed="#P" n="38" break="no"/>minatam atque immobilem; ergo ei non convenit 
+      <lb ed="#P" n="39"/>libertas ad utrumlibet. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e493">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Quartum argumentum tale est: Ratio secundum 
+      <lb ed="#P" n="41"/>se neque libertatem habet a coactione, neque a 
+      ne<lb ed="#P" n="42" break="no"/>cessitate naturali. Non a coactione, quia cogi 
+      po<lb ed="#P" n="43" break="no"/>test ad credendum aliquid contra inclinationem 
+      sup<lb ed="#P" n="44" break="no"/>positi, quomodo cogi non potest voluntas. Sic enim 
+      <lb ed="#P" n="45"/>intellectus daemonum &amp; hominum damnatorum 
+      <lb ed="#P" n="46"/>in multis cogitur, quorum tamen voluntas nullius 
+      <lb ed="#P" n="47"/>est coactionis capax. Neque a necessitate naturali, 
+      si<lb ed="#P" n="48" break="no"/>ve quoad specificationem actus, sive quoad 
+      exerci<lb ed="#P" n="49" break="no"/>tium. Nam quod ad specificationem attinet, ratio 
+      <lb ed="#P" n="50"/>propositis argumentis necessariis assentitur 
+      conclu<lb ed="#P" n="51" break="no"/>sioni tanquam necessariae, propositis autem 
+      proba<lb ed="#P" n="52" break="no"/>bilibus assentitur cum formidine de opposito; neque 
+      <lb ed="#P" n="53"/>aliter potest, nisi voluntatis accesserit in diversum 
+      <lb ed="#P" n="54"/>inclinatio, quemadmodum fit in iis quae propter 
+      au<lb ed="#P" n="55" break="no"/>thoritatem divinam certo credimus, non obstante 
+      <lb ed="#P" n="56"/>probabilitate argumentorum in contrarium. Quod 
+      <lb ed="#P" n="57"/>vero pertinet ad exercitium, ratio per se neque ad 
+      <lb ed="#P" n="58"/>considerationem libere sese movet, neque ab 
+      hujus<lb ed="#P" n="59" break="no"/>modi actu libere cessat, sed movetur a 
+      volun<lb ed="#P" n="60" break="no"/>tate tanquam rationali appetitu. Nam omnem 
+      ac<lb ed="#P" n="61" break="no"/>ctionem ex appetitu alicujus boni fieri, docet <ref xml:id="bt67yj-p089150-Rd1e545">
+      Phi<lb ed="#P" n="62" break="no"/>losophus initio Ethic.</ref> &amp; S. Thomas 1. p. q. 80. art. 
+      <lb ed="#P" n="63"/>1. &amp; 1. sec. quaest. 1. art. 2. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e553">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Tertia propositio: Libertas arbitrii formaliter non 
+      <lb ed="#P" n="65"/>est nisi in voluntate. Sequitur haec ex superiori: nam 
+      <lb ed="#P" n="66"/>si formaliter esset in ulla alia potentia, maxime esset 
+      <lb ed="#P" n="67"/>in intellectu, in quo tamen eam non esse jam 
+      osten<lb ed="#P" n="68" break="no"/>dimus. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e569">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Item, caeterae potentiae &amp; earum actus non habent 
+      <lb ed="#P" n="70"/>libertatem nisi per participationem, qua libertas eis 
+      <lb ed="#P" n="71"/>communicatur a voluntate, ita ut actus ejusmodi non 
+      <lb ed="#P" n="72"/>sint liberi nisi quatenus subsunt imperio voluntatis. 
+      <lb ed="#P" n="73"/>Quare formaliter libertas non est nisi in voluntate. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e586">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Tertio: Libertas arbitrii potissimum in eo consi¬ 
+      <!--0464.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>stit, quod quis habeat actuum suorum dominium, 
+      <lb ed="#P" n="76"/>ut initio dictum est; hoc autem formaliter est per 
+      <lb ed="#P" n="77"/>solam voluntatem.
+    </p>
+            <p xml:id="bt67yj-p089150-d1e604">
+               <lb ed="#P" n="78"/>Quarto: Ea potentia sola formaliter est libera, cui 
+      <lb ed="#P" n="79"/>primo &amp; principaliter tribuuntur peccatum &amp; 
+      me<lb ed="#P" n="80" break="no"/>ritum; haec autem non alia est quam voluntas. Unde 
+      <lb ed="#P" n="81"/>Augustinus lib. de duabus animabus contra 
+      Mani<lb ed="#P" n="82" break="no"/>chaeos cap. 10. dicit, quod nisi voluntate 
+      pecca<lb ed="#P" n="83" break="no"/>tur, &amp; lib. 1. retractationum cap. 9. Voluntas est, 
+      <lb ed="#P" n="84"/>inquit, qua peccatur, &amp; qua bene vivitur. Et 
+      Bernar<lb ed="#P" n="85" break="no"/>dus sermone 3. de paschate: Quid odit aut punit 
+      <lb ed="#P" n="86"/>Deus praeter propriam voluntatem? Cesset voluntas 
+      <lb ed="#P" n="87"/>propria, &amp; infernus non erit, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e628">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Postrema propositio: Sic voluntas est libera, ut 
+      <lb ed="#P" n="89"/>tamen in sua electione necessario dependeat ab 
+      ul<lb ed="#P" n="90" break="no"/>timo judicio practicae rationis. Hujus propositionis 
+      <lb ed="#P" n="91"/>quae contra Henricum, Scotum &amp; sequaces eorum 
+      <lb ed="#P" n="92"/>asseritur, aperta est probatio. Gertum est enim 
+      vo<lb ed="#P" n="93" break="no"/>luntatem non posse velle seu eligere quippiam 
+      abs<lb ed="#P" n="94" break="no"/>que praecedenti judicio rationis, cum sit appetitus 
+      <lb ed="#P" n="95"/>rationalis, cumque ejus objectum sit bonum 
+      quod<lb ed="#P" n="96" break="no"/>dam apprehensum &amp; judicatum conveniens. Igitur 
+      <lb ed="#P" n="97"/>si judicium rationis sit, indeterminatum, ipsa 
+      quo<lb ed="#P" n="98" break="no"/>que voluntas indeterminata erit, nec ad electionem 
+      <lb ed="#P" n="99"/>procedit. Si vero judicium illud sit determinatum, 
+      <lb ed="#P" n="100"/>erit &amp; voluntas ad idem determinata. Nam alioqui 
+      <lb ed="#P" n="101"/>daretur electio sine judicio, &amp; actio sine proprio 
+      <lb ed="#P" n="102"/>objecto. Cum ergo judicium ultimum practicae 
+      ra<lb ed="#P" n="103" break="no"/>tionis sit omnino determinatum, utpote quo ratio 
+      <lb ed="#P" n="104"/>judicat &amp; pronunciat hoc nunc absolute esse 
+      facien<lb ed="#P" n="105" break="no"/>dum, necessario sequitur voluntatem eligere hoc 
+      ip<lb ed="#P" n="106" break="no"/>sum, quod ratio practica sic judicaverit eligendum. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e674">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Hujus probationis confinmationem licebit accipe 
+      <lb ed="#P" n="108"/>re a simili. Nam appetitus sensitivus tam in 
+      homi<lb ed="#P" n="109" break="no"/>ne quam in bestiis idcirco determinatus est ad unum, 
+      <lb ed="#P" n="110"/>quia sensuum cognitio, a qua appetitus ille 
+      depen<lb ed="#P" n="111" break="no"/>det, ad unum determinata est. Ipsa quoque 
+      volun<lb ed="#P" n="112" break="no"/>tas humana respectu ultimi finis determinata est ad 
+      <lb ed="#P" n="113"/>unum, saltem quoad specificationem, eo quod 
+      judi<lb ed="#P" n="114" break="no"/>cium rationis respectu ejusdem determinatum sit; 
+      <lb ed="#P" n="115"/>quia repraesentare finem ultimum non potest nisi 
+      <lb ed="#P" n="116"/>sub ratione boni. Voluntas autem beatorum respectu 
+      <lb ed="#P" n="117"/>ultimi finis determinata est etiam quoad exercitium, 
+      <lb ed="#P" n="118"/>eo quod judicium rationis illum finem repraesentans 
+      <lb ed="#P" n="119"/>semper sit praesens, ut pote perfecte applicatum 
+      men<lb ed="#P" n="120" break="no"/>tibus beatorum; ergo pari ratione quandocunque 
+      <lb ed="#P" n="121"/>praesens aderit ultimum &amp; particulare judicium, quo 
+      <lb ed="#P" n="122"/>ratio practica judicet hoc nunc eligendum, 
+      necessa<lb ed="#P" n="123" break="no"/>rio quoque voluntas ad id eligendum erit 
+      determi<lb ed="#P" n="124" break="no"/>nata, tam quoad exercitium, quam quoad specifi 
+      <lb ed="#P" n="125"/>cationem. Patet sequela: Nam tale judicium 
+      practi<lb ed="#P" n="126" break="no"/>cum rem repraesentat tantum sub ratione boni. 
+      Quo<lb ed="#P" n="127" break="no"/>niam vero judicium hoc se tenet ex parte intellectus, 
+      <lb ed="#P" n="128"/>idcirco arbitror patres concilii Trid. illud significare 
+      <lb ed="#P" n="129"/>voluisse nomine illuminationis spiritus sancti, per 
+      <lb ed="#P" n="130"/>quam Deus tangit cor hominis, id est voluntatem, 
+      <lb ed="#P" n="131"/>nimirum efficaciter eam movens; eo quod electio 
+      volun<lb ed="#P" n="132" break="no"/>tatis ejusmodi illuminationem necessario consequitur. 
+    </p>
+            <p xml:id="bt67yj-p089150-d1e735">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> His accedit, quod si voluntas in sua electione non 
+      <lb ed="#P" n="134"/>necessario dependeret ab ejusmodi judicio rationis, 
+      <lb ed="#P" n="135"/>sed posset eligere contra quam ratio practica 
+      dicta<lb ed="#P" n="136" break="no"/>ret; jam fieri posset ut in voluntate esset peccatum 
+      <lb ed="#P" n="137"/>sine errore intellectus. Quod quidem etsi fatentur 
+      <lb ed="#P" n="138"/>adversarii, falsum tamen esse atque impossibile 
+      mul<lb ed="#P" n="139" break="no"/>tis argumentis ostendimus ad dist. 22. ubi 
+      quae<lb ed="#P" n="140" break="no"/>rebatur, an necesse sit omnem peccantem errare. 
+      <lb ed="#P" n="141"/>Quae tota disputatio facit ad confirmandam 
+      verita<lb ed="#P" n="142" break="no"/>tem hujus nostrae propositionis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

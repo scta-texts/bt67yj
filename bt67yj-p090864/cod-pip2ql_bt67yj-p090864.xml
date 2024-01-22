@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="234"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p090864"><!-- l2d24c5" -->
+            <head xml:id="bt67yj-p090864-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p090864-Hd1e103" type="question-title">Potentiam peccandi non esse de ratione 
+      liberi arbitrii</head>
+            <p xml:id="bt67yj-p090864-d1e106">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> §. 5. Potentiam peccandi non esse de ratione 
+      <lb ed="#P" n="100"/>liberi arbitrii. 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e115">
+               <lb ed="#P" n="101"/>QUod ad rationem liberi arbitrii non pertineat 
+      <lb ed="#P" n="102"/>posse peccare, satis ex superioribus 
+      intelligi<lb ed="#P" n="103" break="no"/>tur; maxime ex eo quod monstravimus ad liberi 
+      ar<lb ed="#P" n="104" break="no"/>bitrii rationem non aliud requiri, quam ut 
+      volun<lb ed="#P" n="105" break="no"/>tas nulla necessitate determinata sit ad id 
+      eligen<lb ed="#P" n="106" break="no"/>dum, cujus respectu libera dicitur; sed ita illud 
+      vel<lb ed="#P" n="107" break="no"/>le possit, ut possit etiam non velle. Qua in re nulla 
+      <lb ed="#P" n="108"/>ad peccandum potentia includitur. 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e135">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Ea doctrina his quoque rationibus evidenter ac 
+      <lb ed="#P" n="110"/>facile probatur. Prima: Liberum arbitrium neque 
+      <lb ed="#P" n="111"/>auferetur ab homine, neque propriam rationem 
+      mu<lb ed="#P" n="112" break="no"/>tabit per ipsius hominis beatitudinem, sed sicut 
+      ho<lb ed="#P" n="113" break="no"/>mo manebit unus &amp; idem secundum substantiam, 
+      <lb ed="#P" n="114"/>sic &amp; liberum ejus arbitrium secundum substantiam 
+      <lb ed="#P" n="115"/>invariatum manebit: Atqui in homine beato 
+      pecca<lb ed="#P" n="116" break="no"/>re omnino non poterit; igitur ad propriam ejus 
+      ra<lb ed="#P" n="117" break="no"/>tionem non pertinet posse peccare. 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e160">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Secunda: Deficere posse non pertinet ad propriam 
+      <lb ed="#P" n="119"/>alicujus potentiae rationem, velut claudicare aut 
+      <lb ed="#P" n="120"/>offendere posse, non pertinet ad rationem facultatis 
+      <lb ed="#P" n="121"/>progressivae; &amp; quod proposito vicinius est, errare 
+      <lb ed="#P" n="122"/>posse non est de ratione intellectus: Atqui peccare 
+      <lb ed="#P" n="123"/>deficere est, multo magis quam claudicare vel 
+      er<lb ed="#P" n="124" break="no"/>rare; ergo peccare posse non est de ratione liberi 
+      <lb ed="#P" n="125"/>arbitrii. Indicat hanc rationem S. Thomas 1. parte 
+      <lb ed="#P" n="126"/>q. 6. art. 8. ad 3. &amp; 2. 2. q. 88. art. 4. ad 1. 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e184">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Tertia: Eadem est liberi arbitrii ratio, saltem 
+      se<lb ed="#P" n="128" break="no"/>cundum analogiam in Deo, angelis &amp; hominibus, 
+      <lb ed="#P" n="129"/>sicut eadem est in illis ratio intellectus. Est enim 
+      libe<lb ed="#P" n="130" break="no"/>rum arbitrium proprietas quaedam per se 
+      conse<lb ed="#P" n="131" break="no"/>quens naturam itellectualem. Et vero confitendum 
+      <lb ed="#P" n="132"/>est Dei voluntatem, ut supra diximus, omnium 
+      ma<lb ed="#P" n="133" break="no"/>xime esse liberam. Quod quidem plenius ostensum 
+      <lb ed="#P" n="134"/>est ad distinctionem 45. libr. 1. At in Deo &amp; 
+      ange<lb ed="#P" n="135" break="no"/>lis beatis ad rationem liberi arbitrii non pertinet 
+      <lb ed="#P" n="136"/>posse peccare; ergo nec in hominibus. 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e210">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Quarta: Non est de ratione liberi arbitrii posse 
+      <lb ed="#P" n="138"/>bene agere, quod pacet in daemonibus &amp; 
+      homini<lb ed="#P" n="139" break="no"/>bus damnatis; maxime secundum eos qui ne quidem 
+      <lb ed="#P" n="140"/>actus tantum moraliter bonos in illis agnoscunt; 
+      <lb ed="#P" n="141"/>multo igitur minus de ejus ratione est posse peccare. 
+      <lb ed="#P" n="142"/>Nam bonum secundum naturam est, malum 
+      natu<lb ed="#P" n="143" break="no"/>rae contrarium. Quare si alterum est extra rationem 
+      <lb ed="#P" n="144"/>liberi arbitrii, etiam alterum erit. 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e232">
+               <lb ed="#P" n="145"/>His rationibus etiam patrum authoritas suffragatur, 
+      <!--0468.xml-->
+      <pb ed="#P" n="235"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>qui non tantum Deo, sed &amp; angelis beatis &amp; 
+      homi<lb ed="#P" n="2" break="no"/>nibus ad angelorum societatem assumptis vel 
+      assu<lb ed="#P" n="3" break="no"/>mendis liberum arbitrium tribuunt. Ambrosius 
+      <lb ed="#P" n="4"/>enim lib. 2. de fide cap. 3. illud de Spiritu sancto 
+      di<lb ed="#P" n="5" break="no"/>ctum 1. Corinth. 12. Dividens singulis prout vult, ita 
+      <lb ed="#P" n="6"/>exponit; pro liberae voluntatis arbitrio, non pro 
+      ne<lb ed="#P" n="7" break="no"/>cessitatis obsequio. 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e258">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Et Augustinus ult. cap. lib. ult. de civitate Dei, ex 
+      <lb ed="#P" n="9"/>eo quod Deus qui peccare non potest, liberum 
+      ha<lb ed="#P" n="10" break="no"/>bet arbitrium, colligit &amp; concludit nihil obstare 
+      <lb ed="#P" n="11"/>quo minus &amp; in hominibus beatis, licet peccare 
+      <lb ed="#P" n="12"/>jam non possint, liberum sit arbitrium. Idem docet 
+      <lb ed="#P" n="13"/>Enchirid. cap. 105. Eandem sententiam apertissimis 
+      <lb ed="#P" n="14"/>verbis tradunt Bernardus &amp; Anselmus, iis locis quos 
+      <lb ed="#P" n="15"/>citavimus ad dist. 7. hujus libri, ubi quaerebatur, 
+      <lb ed="#P" n="16"/>quomodo in angelis jam confirmatis vel obduratis, 
+      <lb ed="#P" n="17"/>salva maneat liberi arbitrii ratio¬ 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e284">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Quin usque adeo vera certaque est Augustino 
+      <lb ed="#P" n="19"/>haec doctrina, ut dicat utroque loco jam citato, 
+      <lb ed="#P" n="20"/>necnon libr. 14. de civit. cap. 11. liberum arbitrium 
+      <lb ed="#P" n="21"/>tunc fore multo liberius, quando omnino non 
+      po<lb ed="#P" n="22" break="no"/>terit servire peccato. Quod &amp; apud alios interdum 
+      <lb ed="#P" n="23"/>legitur. Et recte quidem ad hunc loquuntur 
+      mo<lb ed="#P" n="24" break="no"/>dum. Quamvis enim naturalis libertas voluntatis 
+      <lb ed="#P" n="25"/>secundum se non suscipiat magis &amp; minus, suscipit 
+      <lb ed="#P" n="26"/>tamen secundum exercitium actus sui naturalis, qui 
+      <lb ed="#P" n="27"/>actus est bene velle &amp; bene agere. In quo actu 
+      per<lb ed="#P" n="28" break="no"/>fectius versatur liberum arbitrium, quod peccare, 
+      <lb ed="#P" n="29"/>id est agendo deficere non potest, quam quod ad huc 
+      <lb ed="#P" n="30"/>potest peccare. Ex qua ratione etiam S. Thomas 1. 
+      <lb ed="#P" n="31"/>parte, quaest. 62. art. 8. concludit majorem esse 
+      li<lb ed="#P" n="32" break="no"/>bertatem arbitrii in angelis, qui peccare non 
+      pos<lb ed="#P" n="33" break="no"/>sunt, quam in nobis qui peccare possumus. 
+    </p>
+            <p xml:id="bt67yj-p090864-d1e324">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Hinc igitur patet, libertatem a peccato non 
+      im<lb ed="#P" n="35" break="no"/>pertinentem esse naturali libertati arbitrii, sed eam 
+      <lb ed="#P" n="36"/>in actu suo perficere, ideóque Augustinum cum de 
+      <lb ed="#P" n="37"/>naturali libertate verba faceret, non inepte neque 
+      <lb ed="#P" n="38"/>impertinenter ejus perfectionem &amp; quasi 
+      augmen<lb ed="#P" n="39" break="no"/>tum ostendisse per accessum libertatis, quae est a 
+      <lb ed="#P" n="40"/>peccato. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

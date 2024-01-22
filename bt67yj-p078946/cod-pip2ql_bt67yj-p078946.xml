@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="204"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p078946"><!-- l2d22c12" -->
+            <head xml:id="bt67yj-p078946-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-p078946-Hd1e103" type="question-title">Quae ignorantia in totum excuset 
+      a peccato</head>
+            <p xml:id="bt67yj-p078946-d1e106">
+      <!--0437.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>§. 12. Quae ignorantia in totum excuset 
+      <lb ed="#P" n="73"/>a peccato.
+    </p>
+            <p xml:id="bt67yj-p078946-d1e117">
+               <lb ed="#P" n="74"/>VT intelligatur quae ignorantia vel in totum, 
+      <lb ed="#P" n="75"/>vel ex parte peccatum excuset, rursus 
+      memi<lb ed="#P" n="76" break="no"/>nisse oportet ad peccati definitionem pertinere 
+      vo<lb ed="#P" n="77" break="no"/>luntarium, dicente August. lib. de vera relig. cap. 
+      <lb ed="#P" n="78"/>14. usque adeo peccatum omne esse voluntarium, 
+      <lb ed="#P" n="79"/>ut nullo modo sit peccatum, si non sit voluntarium. 
+      <lb ed="#P" n="80"/>Unde sequitur quod in quantum ignorantia tollit 
+      <lb ed="#P" n="81"/>voluntarium, in tantum excusat a peccato. 
+      Quocir<lb ed="#P" n="82" break="no"/>ca ea ignorantia quae fit ut actus qui alioqui 
+      pecca<lb ed="#P" n="83" break="no"/>tum esset, si prorsus involuntarius; ita videlicet ut 
+      <lb ed="#P" n="84"/>nec directe nec indirecte nec actu, nec virtute a 
+      <lb ed="#P" n="85"/>voluntate eligatur, in totum excusat a peccato. 
+      Hu<lb ed="#P" n="86" break="no"/>jusmodi autem est imprimis ignorantia 
+      invincibi<lb ed="#P" n="87" break="no"/>lis, quam alio nomine justam, alio probabilem 
+      vo<lb ed="#P" n="88" break="no"/>cant. Deinde etiam vincibilis, si sit eorum quae quis 
+      <lb ed="#P" n="89"/>scire non tenetur. Excusat, inquam, in totum 
+      utra<lb ed="#P" n="90" break="no"/>que haec ignorantia, si sit antecedens, id est, 
+      cau<lb ed="#P" n="91" break="no"/>sans actum peccati, quae nimirum si abesset, actus 
+      <lb ed="#P" n="92"/>ipse non fieret, scientia videlicet illi opposita talem 
+      <lb ed="#P" n="93"/>actum impediente ac prohibente: Causare enim 
+      <lb ed="#P" n="94"/>dicitur actum peccati per modum causae 
+      remo<lb ed="#P" n="95" break="no"/>ventis prohibens, quomodo qui subtrahit 
+      colum<lb ed="#P" n="96" break="no"/>nam suppositam muro, causa est ruinae muri; quia 
+      <lb ed="#P" n="97"/>removet id quod ruinam impediebat. 
+    </p>
+            <p xml:id="bt67yj-p078946-d1e172">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Quod si ignorantia causet quidem actum peccati, 
+      <lb ed="#P" n="99"/>sed aliquo modo voluntaria sit de his quae quis scire 
+      <lb ed="#P" n="100"/>tenetur, certum est eam non prorsus actum a 
+      pecca<lb ed="#P" n="101" break="no"/>to excusare. Quatenus enim voluntaria est, eatenus 
+      <lb ed="#P" n="102"/>ad actum inde consequentem transmittit rationem 
+      <lb ed="#P" n="103"/>voluntarii. Proinde ignorantia affectata, quam 
+      dire<lb ed="#P" n="104" break="no"/>cte voluntariam esse supra diximus, quoniam ad hoc 
+      <lb ed="#P" n="105"/>assumitur ut liberius peccetur, tantum abest ut 
+      ex<lb ed="#P" n="106" break="no"/>cuset in totum a peccato, ut simpliciter loquendo 
+      <lb ed="#P" n="107"/>ne minuat quidem peccatum, sed potius augeat; 
+      <lb ed="#P" n="108"/>licet ut infra dicemus, diminuat secundum quid. 
+    </p>
+            <p xml:id="bt67yj-p078946-d1e202">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Quae vero indirecte voluntaria est, etsi non ipsa 
+      <lb ed="#P" n="110"/>penitus excludat peccatum ab actu consequente, 
+      mi<lb ed="#P" n="111" break="no"/>nuit tamen ut infra dicetur. Imo nec omnis 
+      igno<lb ed="#P" n="112" break="no"/>rantia causans, eademque prorsus involuntaria 
+      excu<lb ed="#P" n="113" break="no"/>sat in totum a peccato, velut si sit ejus rei ignorantia, 
+      <lb ed="#P" n="114"/>quae ad peccati rationem non pertineat; ut si quis 
+      <lb ed="#P" n="115"/>percutiataliquem non percussurus si praescivisset, eum 
+      <lb ed="#P" n="116"/>repercussurum, aut si quis occidat hominem, 
+      nes<lb ed="#P" n="117" break="no"/>ciens quid mali temporalis ex illa caede sibi sit 
+      even<lb ed="#P" n="118" break="no"/>turum, quod si praescivisset non occidisset. Talis enim 
+      <lb ed="#P" n="119"/>licet propter ignorantiam peccet, non tamen totaliter 
+      <lb ed="#P" n="120"/>excusatur a peccato, quia adhuc remanet ei cognitio 
+      <lb ed="#P" n="121"/>peccati, quemadmodum docet S. Thom. 1. 2. quaest. 
+      <lb ed="#P" n="122"/>76. art. 3. 
+    </p>
+            <p xml:id="bt67yj-p078946-d1e237">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Huc quidam adjungunt ignorantiam 
+      involunta<lb ed="#P" n="124" break="no"/>riam quidem, sed voluntate quaerente scientiam 
+      pro<lb ed="#P" n="125" break="no"/>pter malum finem, velut si quis doleat se nescire, 
+      <lb ed="#P" n="126"/>quia scientia vult abuti ad inanem gloriam. Cum 
+      <lb ed="#P" n="127"/>enim talis non quaerat nec velit scientiam ut per eam 
+      <lb ed="#P" n="128"/>evitet peccatum, vel omnino ut ea bene utatur, 
+      <lb ed="#P" n="129"/>licet ea habita nolit actum peccati committere, 
+      exi<lb ed="#P" n="130" break="no"/>stimant ignorantiam illi scientiae oppositam 
+      haud<lb ed="#P" n="131" break="no"/>quaquama peccato excusar. Sed hoc an recte dicatur 
+      <lb ed="#P" n="132"/>ex subjunctae quaest. explicatione poterit intelligi. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

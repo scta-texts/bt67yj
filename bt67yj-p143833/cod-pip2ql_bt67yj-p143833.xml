@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="371"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p143833"><!-- l2d33c7" -->
+            <head xml:id="bt67yj-p143833-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p143833-Hd1e103" type="question-title">An parvuli non renati in beatitudine aliqua 
+        futuri sint</head>
+            <p xml:id="bt67yj-p143833-d1e106">
+               <lb ed="#P" n="107"/>§. 7. An parvuli non renati in beatitudine aliqua 
+      <lb ed="#P" n="108"/>futuri sint? 
+    </p>
+            <p xml:id="bt67yj-p143833-d1e113">
+               <lb ed="#P" n="109"/>QUorundam Catholicorum opinio tribuit 
+      par<lb ed="#P" n="110" break="no"/>vulis sine baptismo decedentibus 
+      beatitudi<lb ed="#P" n="111" break="no"/>nem quandam naturalem, in qua &amp; omnis tristitiae 
+      <lb ed="#P" n="112"/>ac doloris expertes sint, &amp; naturalia omnia 
+      cognos<lb ed="#P" n="113" break="no"/>cant, &amp; Deum in creaturis cognitum laudent, 
+      at<lb ed="#P" n="114" break="no"/>que in eo gaudeant &amp; delectentur; praediti nimirum 
+      <lb ed="#P" n="115"/>bona ac laeta voluntate, utpote Dei voluntati per 
+      <lb ed="#P" n="116"/>omnia consentiente. Verum haec &amp; hujusmodi 
+      u<lb ed="#P" n="117" break="no"/>trum sacris literis &amp; Patrum sententiis bene 
+      conso<lb ed="#P" n="118" break="no"/>nent, videndum est. 
+    </p>
+            <p xml:id="bt67yj-p143833-d1e137">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Imprimis ostensum est, parvulos non renatos fore 
+      <lb ed="#P" n="120"/>extra regnum Dei, &amp; alienos a visione Dei: Atqui 
+      <lb ed="#P" n="121"/>Augustinus libro 3. contra Julianum cap. 2. testatur 
+      <lb ed="#P" n="122"/>non parvam esse poenam, imaginem Dei in aeternum 
+      <lb ed="#P" n="123"/>exultare a regno Dei. Et Enchir. capite 112. dicit ei 
+      <lb ed="#P" n="124"/>nulla hujus vitae tormenta posse comparari. Quibus 
+      <lb ed="#P" n="125"/>similia habet serm. 14. de verbis Apostoli. Et 
+      Chry<lb ed="#P" n="126" break="no"/>sostomus homil. 24. in Matth. &amp; homil. 47. ad 
+      po<lb ed="#P" n="127" break="no"/>pulum Antiochenum: &amp; iterum homil. 57. ad 
+      eun<lb ed="#P" n="128" break="no"/>dem populum: &amp; homil. 13. in epist. ad 
+      Philippen<lb ed="#P" n="129" break="no"/>ses, abjectionem a facie Dei, ut pravem poenam 
+      <lb ed="#P" n="130"/>vehementi oratione exaggerat. Basilius quoque in 
+      <lb ed="#P" n="131"/>Psal. 33. ad illud: Timorem Domini, dicit id esse 
+      sup<lb ed="#P" n="132" break="no"/>pliciorum omnium gravissimum. Neque illorum 
+      re<lb ed="#P" n="133" break="no"/>sponsioni acquiescendum, qui dicunt esse eam 
+      qui<lb ed="#P" n="134" break="no"/>dem poenam per se magnam, sed parvulis nullam; ut 
+      <lb ed="#P" n="135"/>qui de ea carentia non sint dolituri, propterea quod 
+      <lb ed="#P" n="136"/>non fuerint, ut aiunt, ad beatitudinem regni 
+      caele<lb ed="#P" n="137" break="no"/>stis proportionati. Quae responsio veritatem peccati 
+      <lb ed="#P" n="138"/>originalis evacuat. Si enim peccatum originale, ut 
+      <lb ed="#P" n="139"/>suo loco oftendimus, peccatum est proprii nominis. 
+      <lb ed="#P" n="140"/>necesse est ut ei poena aliqua proprii nominis 
+      res<lb ed="#P" n="141" break="no"/>pondeat. Hac igitur sublata, tolletur etiam propria 
+      <lb ed="#P" n="142"/>peccati ratio. 
+    </p>
+            <p xml:id="bt67yj-p143833-d1e195">
+               <lb ed="#P" n="143"/>Adde quod neque Scriptura sacra, neque Patrum 
+      <lb ed="#P" n="144"/>quisquam hujus naturalis beatitudinis, quam extra 
+      <lb ed="#P" n="145"/>regnum caelorum parvulis quidam tribuunt, usquam 
+      <!--0605.xml-->
+      <pb ed="#P" n="372"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>meminerit, sed contra satis videntur eam exclusisse, A 
+      <lb ed="#P" n="2"/>quando in Pelagianis damnarunt, quod dicerent eos 
+      <lb ed="#P" n="3"/>non quidem regnum caelorum, sed tamen vitam 
+      aeter<lb ed="#P" n="4" break="no"/>nam habituros. Cum enim distinguerent 
+      Pelagia<lb ed="#P" n="5" break="no"/>ni inter regnum caelorum &amp; vitam aeternam, non 
+      a<lb ed="#P" n="6" break="no"/>liam videntur intellexisse vitam aeternam, quam quae 
+      <lb ed="#P" n="7"/>ab istis vocatur naturalis, eaque aeterna beatitudo; 
+      <lb ed="#P" n="8"/>praesertim cum beatus &amp; tranquillus vitae status 
+      so<lb ed="#P" n="9" break="no"/>leat vitae nomine intelligi. De hac re loca sunt apud 
+      <lb ed="#P" n="10"/>Augustinum lib. I. de peccatorum meritis cap. 28. &amp; 
+      <lb ed="#P" n="11"/>30. &amp; libro de peccato originali cap. 21. &amp; serm. 14. 
+      <lb ed="#P" n="12"/>de verbis Apostoli. Et libro hypognosticon respon. 5. 
+      <lb ed="#P" n="13"/>Quibus addere licet &amp; alia loca superiori capite 
+      ci<lb ed="#P" n="14" break="no"/>tata. In quibus &amp; hoc notandum est, quod locum 
+      <lb ed="#P" n="15"/>inter aeternam beatitudinem &amp; aeternam 
+      damnatio<lb ed="#P" n="16" break="no"/>nem medium (in quo videlicet aliqui neque beati 
+      <lb ed="#P" n="17"/>neque miseri sint) aperte illi Patres rejiciunt, 
+      mul<lb ed="#P" n="18" break="no"/>to magis rejecturi locum foelicitatis alicujus 
+      natu<lb ed="#P" n="19" break="no"/>ralis. 
+    </p>
+            <p xml:id="bt67yj-p143833-d1e252">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Praeterea statum illum parvulorum sine baptismo 
+      <lb ed="#P" n="21"/>decedentium, iis nominibus passim vel appellant 
+      <lb ed="#P" n="22"/>vel indicant Patres, quae cum dicta beatitudme 
+      mi<lb ed="#P" n="23" break="no"/>nime consistant. Nam Cyprianus in epist. ad Fidum 
+      <lb ed="#P" n="24"/>omnes eos perire dicit, qui in Christo non 
+      renas<lb ed="#P" n="25" break="no"/>cuntur. Quomodo loquitur &amp; Leo Pontifex epist. 
+      <lb ed="#P" n="26"/>95. c. 15. Idque consentaneum est Scripturae, Gen. 17. 
+      <lb ed="#P" n="27"/>Masculus cujus praeputii caro circuncisa non fuerit, 
+      de<lb ed="#P" n="28" break="no"/>lebitur, seu peribit anima illa de populo suo. Augustinus 
+      <lb ed="#P" n="29"/>vero aeternam &amp; secundam mortem multis locis 
+      ap<lb ed="#P" n="30" break="no"/>pellat, ut lib. 13. de civitate Deicap. 14. &amp; libr. 21. 
+      <lb ed="#P" n="31"/>cap. 16. &amp; 21. Item lib. 1. de peccatorum meritis, 
+      <lb ed="#P" n="32"/>cap. 28. lib. 3. contra Julianum cap. 1. &amp; lib. 6. cap. 
+      <lb ed="#P" n="33"/>8. &amp; lib. de peccato originali cap. 21. Similiter 
+      lo<lb ed="#P" n="34" break="no"/>quitur commentarius Ambrosio ascriptus in 2. Cor. 
+      <lb ed="#P" n="35"/>5. ad illud: Si unus pro omnibus mortuus, &amp;c. 
+      Pro<lb ed="#P" n="36" break="no"/>sper aeternam miseriam vocat lib. 2. de vocatione, 
+      <lb ed="#P" n="37"/>gentium cap. 22. &amp; 24. Atque his etiam graviora 
+      le<lb ed="#P" n="38" break="no"/>guntur apud Fulgentium de fide ad Petrum c. 3. &amp; 
+      <lb ed="#P" n="39"/>27. &amp; in libro de Incarnatione capite 14. &amp; 30. 
+      <lb ed="#P" n="40"/>apud Gregorium libro 4. Moral. cap. 3. &amp; libro δ. 
+      <lb ed="#P" n="41"/>capite 12. Hi enim tormenta &amp; supplicia gehennae 
+      <lb ed="#P" n="42"/>nominant. 
+    </p>
+            <p xml:id="bt67yj-p143833-d1e307">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> His accedit, quod constet parvulos antequam 
+      ba<lb ed="#P" n="44" break="no"/>ptizentur, esse in regno &amp; potestate diaboli, a qua 
+      <lb ed="#P" n="45"/>non nisi per baptismi Sacramentum eruuntur. Quod 
+      <lb ed="#P" n="46"/>&amp; exorcismi illi baptismum praecedentes arguunt, 
+      <lb ed="#P" n="47"/>quemadmodum colligit Augustinus libro I. de 
+      pec<lb ed="#P" n="48" break="no"/>catorum meritis capite 34. Manent ergo in regno 
+      <lb ed="#P" n="49"/>&amp; potestate diaboli, quicunque sine baptismo ex 
+      <lb ed="#P" n="50"/>hac vita decedunt. Quod &amp; expresse pluribus locis 
+      <lb ed="#P" n="51"/>ab Augustino asseritur, tum contra Julianum, tum 
+      <lb ed="#P" n="52"/>alibi. 
+    </p>
+            <p xml:id="bt67yj-p143833-d1e333">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Denique Concilii Florentini authoritate, 
+      consen<lb ed="#P" n="54" break="no"/>tientibus Graecis, definitum est, illorum animas qui 
+      <lb ed="#P" n="55"/>in actuali mortali peccato, vel in solo originali 
+      de<lb ed="#P" n="56" break="no"/>cedunt, mox in infernum descendere, poenis tamen 
+      <lb ed="#P" n="57"/>disparibus puniendos. Unde manifestum est, 
+      pro<lb ed="#P" n="58" break="no"/>prietatem poenae etiam in talibus agnoscendam, 
+      tam<lb ed="#P" n="59" break="no"/>etsi longe minorem ea qua puniendi sunt qui propria 
+      <lb ed="#P" n="60"/>commiserunt peccata, ut infra docebimus. 
+    </p>
+            <p xml:id="bt67yj-p143833-d1e355">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Quod autem aiunt, mortuos sine baptismo 
+      parvu<lb ed="#P" n="62" break="no"/>los Deum in suis operibus laudare, id cum 
+      manife<lb ed="#P" n="63" break="no"/>stis Scripturis pugnare videtur, ut his atque 
+      hujus<lb ed="#P" n="64" break="no"/>modi: Non mortui laudabunt te Domine, neque omnes 
+      <lb ed="#P" n="65"/>qui descendunt in infernum. Et: In inferno quis 
+      confite<lb ed="#P" n="66" break="no"/>vitur tibi? Et Baruch. 2. Non mortui qui sunt in 
+      infer<lb ed="#P" n="67" break="no"/>no, dabunt honorem &amp; justificationem Domino. 
+      Dein<lb ed="#P" n="68" break="no"/>de quomodo laudant &amp; benedicunt Deum, &amp; in 
+      <lb ed="#P" n="69"/>ejus voluntate acquiescunt, qui ratione peccati quod 
+      <lb ed="#P" n="70"/>in eis est, &amp; ab eis nunquam auferetur, mali sunt &amp; 
+      <lb ed="#P" n="71"/>a Deo aversi, Deoque contrarii, talesque semper 
+      <lb ed="#P" n="72"/>permansuri? quemadmodum circa distinction. 30. 
+      <lb ed="#P" n="73"/>ostendimus. 
+    </p>
+            <p xml:id="bt67yj-p143833-d1e388">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Haec igitur atque alia his similia de poenis parvu¬ 
+      <!--0605.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>lorum in sola originali culpa decedentium, vel 
+      ra<lb ed="#P" n="76" break="no"/>tione vel authoritate subnixa argumenta, plane 
+      im<lb ed="#P" n="77" break="no"/>probabilem declarant eorum opinionem, qui 
+      quen<lb ed="#P" n="78" break="no"/>dam naturalis beatitudinis statum infantibus non 
+      <lb ed="#P" n="79"/>renatis promittunt. Ubi etiam aeterna perditio, 
+      dam<lb ed="#P" n="80" break="no"/>natio, miseria, mors secunda, infernus, gehenna, &amp; 
+      <lb ed="#P" n="81"/>constitutio sub regno &amp; potestate diaboli, aliaque 
+      <lb ed="#P" n="82"/>istiusmodi nominantur, nulla veri nominis 
+      beatitu<lb ed="#P" n="83" break="no"/>do, ne imperfecta quidem intelligi potest. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

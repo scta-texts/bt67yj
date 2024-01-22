@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="164"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p063626"><!-- l2d18c6" -->
+            <head xml:id="bt67yj-p063626-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p063626-Hd1e103" type="question-title">Utrum et quae praefectura fuisset in primo statu</head>
+            <p xml:id="bt67yj-p063626-d1e106">
+               <lb ed="#P" n="141"/>§. 6. Utrum &amp; quae praefectura fuisset in primo statu 
+    </p>
+            <p xml:id="bt67yj-p063626-d1e111">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Nonnullis in dubium vertitur, fuissetne 
+      om<lb ed="#P" n="143" break="no"/>nino in statu innocentiae praefectura, sive ut, 
+      <lb ed="#P" n="144"/>loquuntur, superioritas aliqua aliorum in alios. 
+      <lb ed="#P" n="145"/>Quod enim nihil tale futurum esset, si homo non 
+      <lb ed="#P" n="146"/>peccasset, ex eo suaderi putant; quia in illo statu 
+      <!--0398.xml-->
+      <pb ed="#P" n="165"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>omnes recti &amp; sapientes fuissent; ideoque nemo 
+      <lb ed="#P" n="2"/>docendus propter ignorantiam, nemo regendus 
+      <lb ed="#P" n="3"/>propter imprudentiam, nemo propter malitiam 
+      fuis<lb ed="#P" n="4" break="no"/>set castigandus; quippe cum ista vitia vel peccata 
+      <lb ed="#P" n="5"/>sint, vel ex peccato contracta, &amp; proinde ab illo 
+      <lb ed="#P" n="6"/>statu rectitudinis aliena. Neque apparet quem 
+      <lb ed="#P" n="7"/>alium usum praefecturae in illo statu fingere 
+      possi<lb ed="#P" n="8" break="no"/>mus. 
+    </p>
+            <p xml:id="bt67yj-p063626-d1e150">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Sed diversam sententiam persuadent imprimis ea 
+      <lb ed="#P" n="10"/>quae superiori cap. dicta sunt &amp; scripturae testimoniis 
+      <lb ed="#P" n="11"/>comprobata de praefectura viri in mulierem, etiam 
+      <lb ed="#P" n="12"/>in statu innocentiae. 
+    </p>
+            <p xml:id="bt67yj-p063626-d1e164">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Deinde confirmatur ex comparatione bonorum 
+      <lb ed="#P" n="14"/>angelorum, inter quos alii aliis superiores sunt, ut 
+      <lb ed="#P" n="15"/>quorum alii principatus, alii potestates, alii etiam 
+      <lb ed="#P" n="16"/>dominationes, alii denique apud Judam 
+      aposto<lb ed="#P" n="17" break="no"/>lum majestates vocantur; unus quoque tanquam 
+      <lb ed="#P" n="18"/>omnium princeps, archangelus dicitur. Hinc apud 
+      <lb ed="#P" n="19"/>Danielem cap. 8. &amp; Zach. 2. inducuntur angeli aliis 
+      <lb ed="#P" n="20"/>quaedam agenda praecipere. Quare etiam inter 
+      ho<lb ed="#P" n="21" break="no"/>mines, etsi non peccassent, alii aliis praelati essent, 
+      <lb ed="#P" n="22"/>ut viri foeminis, &amp; parentes filiis, quemadmodum 
+      <lb ed="#P" n="23"/>docet Augustinus loco superius citato de civitate 
+      <lb ed="#P" n="24"/>Dei, &amp; quaest. 153. super Genes. Praelati, inquam, 
+      <lb ed="#P" n="25"/>fuissent ordine quodam naturae; cui tamen etiam 
+      <lb ed="#P" n="26"/>respondisset ordo gratiae, sicut &amp; in angelis res 
+      se<lb ed="#P" n="27" break="no"/>habet. 
+    </p>
+            <p xml:id="bt67yj-p063626-d1e201">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Item quamvis in innocentiae statu nulla malitia, 
+      <lb ed="#P" n="29"/>nulla imprudentia, nulla vitiosa ignorantia fuisset; 
+      <lb ed="#P" n="30"/>quoniam tamen non omnes in sapientia, scientia &amp; 
+      <lb ed="#P" n="31"/>justitia futuri erant aequales, fierique poterat, imo 
+      <lb ed="#P" n="32"/>futurum erat, ut in iis proficerent; postulabat 
+      or<lb ed="#P" n="33" break="no"/>dinis ratio, ut alii aliis subessent atque parerent, 
+      <lb ed="#P" n="34"/>scilicet sapientioribus, doctioribus, melioribus, a 
+      <lb ed="#P" n="35"/>quibus &amp; plenius instruerentur, &amp; ad 
+      perfectio<lb ed="#P" n="36" break="no"/>rem Dei cultum exemplo simul &amp; doctrina 
+      promo<lb ed="#P" n="37" break="no"/>verentur, fieretque etiam in illo statu quod dicit 
+      <lb ed="#P" n="38"/>Petrus 1. epist. cap. 4. Unusquisque gratiam quam 
+      <lb ed="#P" n="39"/>accepit in alterutrum administrantes. Tale quid 
+      Au<lb ed="#P" n="40" break="no"/>gustinus lib. de catechizandis rudibus cap. 18. 
+      con<lb ed="#P" n="41" break="no"/>sideravit in ea praefectura, quam naturaliter habet 
+      <lb ed="#P" n="42"/>vir in foeminam. 
+    </p>
+            <p xml:id="bt67yj-p063626-d1e238">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> His adde quod nec in statu perfectae 
+      beatitudi<lb ed="#P" n="44" break="no"/>nis, ubi nullus erit exspectandus justitiae 
+      profe<lb ed="#P" n="45" break="no"/>ctus, cess. bit omnis praefectura. Nam praeter 
+      supre<lb ed="#P" n="46" break="no"/>mam &amp; perpetuam Dei monarchiam in omnem 
+      <lb ed="#P" n="47"/>etiam rationalem creaturam, sicut nunc est, 
+      sem<lb ed="#P" n="48" break="no"/>perque mansura est praefectura angelorum in 
+      ange<lb ed="#P" n="49" break="no"/>los; ita nihil vetat, quo minus futura sit &amp; 
+      ho<lb ed="#P" n="50" break="no"/>minum juxta aliquem modum praefectura in 
+      ho<lb ed="#P" n="51" break="no"/>mines. Quare nec statui innocentiae praefectura 
+      re<lb ed="#P" n="52" break="no"/>pugnat. 
+    </p>
+            <p xml:id="bt67yj-p063626-d1e264">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Aliam praeterea rationem adfert S. Tho. 1. p. qu. 
+      <lb ed="#P" n="54"/>96. art. 4. sumptam ex sociali hominum vita, quae 
+      <lb ed="#P" n="55"/>non consistit sine praefectura ejus, qui in bonum 
+      <lb ed="#P" n="56"/>commune, idque unum &amp; certum aliquod intentus 
+      <lb ed="#P" n="57"/>sit, cum multi multa considerent. 
+    </p>
+            <p xml:id="bt67yj-p063626-d1e280">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Ea vero dominatio quae servitutem respicit, ut 
+      <lb ed="#P" n="59"/>jam supra diximus, ab illo felici innocentiae statu 
+      <lb ed="#P" n="60"/>longissime aberat; sicut &amp; omnis ea praefectura, 
+      <lb ed="#P" n="61"/>quae non sine molestia vel praefectorum vel 
+      subdito<lb ed="#P" n="62" break="no"/>rum exerceretur. Ita docet Aug. locis supra 
+      memo<lb ed="#P" n="63" break="no"/>ratis. Ac de hujusmodi praelatura, scilicet premente 
+      <lb ed="#P" n="64"/>ac terrorem inferente locutum esse Greg. in 
+      pasto<lb ed="#P" n="65" break="no"/>rali, quando dixit hominem non hominibus sed 
+      <lb ed="#P" n="66"/>brutis natura praelatum esse, jam ante indicavimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

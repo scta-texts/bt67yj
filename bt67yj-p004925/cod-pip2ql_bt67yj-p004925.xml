@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="13"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p004925"><!-- l2d1c14" -->
+            <head xml:id="bt67yj-p004925-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-p004925-Hd1e103" type="question-title">Intellectualis creatura quare a Deo 
+      condita</head>
+            <p xml:id="bt67yj-p004925-d1e106">
+               <lb ed="#P" n="110"/>§. 14. Intellectualis creatura quare a Deo 
+      <lb ed="#P" n="111"/>condita. 
+    </p>
+            <p xml:id="bt67yj-p004925-d1e113">
+               <lb ed="#P" n="112"/>NUlla creatura propius ad divinae naturae 
+      par<lb ed="#P" n="113" break="no"/>ticipationem accedit, atque ea quae mente 
+      <lb ed="#P" n="114"/>praedita est, angelica videlicet &amp; humana. De qua, 
+      <lb ed="#P" n="115"/>dum quaeritur, quare a Deo facta sit, non aliud 
+      quae<lb ed="#P" n="116" break="no"/>ritur, quam summum ejus bonum, &amp; summa 
+      perfe<lb ed="#P" n="117" break="no"/>ctio. Ea autem est perfectissima mentis seu 
+      intelle<lb ed="#P" n="118" break="no"/>ctus operatio, quae quidem est perfecta Dei 
+      cogni<lb ed="#P" n="119" break="no"/>tio, quam visionem Dei doctores secundum 
+      scriptu<lb ed="#P" n="120" break="no"/>ram vocant, ex qua consequitur in voluntate 
+      perfe<lb ed="#P" n="121" break="no"/>cta delectatio, qua nimirum delectetur &amp; gaudeat, 
+      <lb ed="#P" n="122"/>&amp; conquiescat in bono jam habito. Qua de re <ref xml:id="bt67yj-p004925-Rd1e139">
+      Au<lb ed="#P" n="123" break="no"/>gustinus lib. 1. confessionum cap. 1.</ref>
+               <quote xml:id="bt67yj-p004925-Qd1e144" source="http://scta.info/resource/aconf-l1-d1e102@56-68">Fecisti nos, 
+      in<lb ed="#P" n="124" break="no"/>quit, ad te Domine &amp; inquietum est cor nostrum donec 
+      <lb ed="#P" n="125"/>requiescat in te</quote>. Quibus similia scribit etiam lib. 
+      <lb ed="#P" n="126"/>ejusdem operis cap. 8. 
+    </p>
+            <p xml:id="bt67yj-p004925-d1e154">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Hunc hominis creati finem (de Angelo prorsus 
+      <lb ed="#P" n="128"/>idem est judicium) significavit psalmista dicens, 
+      <lb ed="#P" n="129"/>Mihi adhaerere Deo bonum est, psal. 72. Unde rursus 
+      <lb ed="#P" n="130"/>Augustinus lib. 12. de civit. cap. 1. vitium esse dicit 
+      <lb ed="#P" n="131"/>rationalis creaturae, si Deo non adhaereat, &amp; Greg. 
+      <lb ed="#P" n="132"/>lib. 8. mor. cap. 14. &amp; lib. 26. cap. 26. hominem 
+      <lb ed="#P" n="133"/>esse conditum dicit ad contemplandum creatorem, 
+      <lb ed="#P" n="134"/>ita ut nihil ei sufficiat quod Deus non est. Docent 
+      <lb ed="#P" n="135"/>hoc idem Anselmus lib. 2. cur Deus homo cap. 1. &amp; 
+      <lb ed="#P" n="136"/>author libri de diligendo Deo cap. 2. &amp; serm. 181. 
+      <lb ed="#P" n="137"/>de tempore apud August. Item S. Thomas 1. quaest. 
+      <lb ed="#P" n="138"/>12. art. 1. &amp; 1. 2. q. 2. art. 8. &amp; lib. 3. cont. gent. c. 54. 
+    </p>
+            <p xml:id="bt67yj-p004925-d1e186">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Interdum vero Patres non ultimum finem, sed 
+      <lb ed="#P" n="140"/>vel medios vel secundarios assignarunt fines 
+      crea<lb ed="#P" n="141" break="no"/>tionis hominis, ut Augustinus libro primo de 
+      sym<lb ed="#P" n="142" break="no"/>bolo ad catechumenos cap. 1. dicens nos ad hoc esse 
+      <!--0247.xml-->
+      <pb ed="#P" n="14"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>factos ut creaturis caeteris dominemur &amp; author 
+      <lb ed="#P" n="2"/>tractatus de creatione primi hominis inter 
+      Augusti<lb ed="#P" n="3" break="no"/>ni opera, dicens hominem esse creatum, ut 
+      habe<lb ed="#P" n="4" break="no"/>ret charitatem, ut esset bonus, justus, patiens, &amp;c. 
+      <lb ed="#P" n="5"/>&amp; Lactantius lib. 3. cap. 9. dicens hominem 
+      colen<lb ed="#P" n="6" break="no"/>di Dei gratia natum esse. 
+    </p>
+            <p xml:id="bt67yj-p004925-d1e219">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Inter hos fines est etiam ille deputandus, quo 
+      di<lb ed="#P" n="8" break="no"/>eunt quidam factum esse hominem propter 
+      repara<lb ed="#P" n="9" break="no"/>tionem angelicae ruinae. Quod legitur apud Bernar 
+      <lb ed="#P" n="10"/>dum serm. 1. de adventu Domini. Quamquam alii 
+      <lb ed="#P" n="11"/>magis proprie loquentes, non factum, sed 
+      redem<lb ed="#P" n="12" break="no"/>ptum dicunt hominem pro instauranda ruina 
+      ange<lb ed="#P" n="13" break="no"/>lica, ut Augustinus ench. 29. 61. &amp; 62. &amp; lib. 22. 
+      <lb ed="#P" n="14"/>de civit. cap. 1. verum de ea re plura infra ad 
+      distin<lb ed="#P" n="15" break="no"/>ctionem nonam: 
+    </p>
+            <p xml:id="bt67yj-p004925-d1e243">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Sciendum est autem finem omnibus his 
+      superio<lb ed="#P" n="17" break="no"/>rem, propter quem non tantum homo &amp; angelus, sed 
+      <lb ed="#P" n="18"/>totum universum conditum est, esse gloriam Dei. 
+      <lb ed="#P" n="19"/>Nam de homine Deut. 26. testatur scriptura quod 
+      <lb ed="#P" n="20"/>cunctas gentes Deus creavit in laudem, nomen, &amp; 
+      <lb ed="#P" n="21"/>gloriam suam. De toto autem universo &amp; singulis 
+      <lb ed="#P" n="22"/>ejus partibus ad gloriam Dei conditis, rectissime 
+      <lb ed="#P" n="23"/>accipitur illud Prov. 16. Universa propter semetipsum 
+      <lb ed="#P" n="24"/>operatus est Dominus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="151"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p058308"><!-- l2d17c11" -->
+            <head xml:id="bt67yj-p058308-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p058308-Hd1e103" type="question-title">Animas in singulis creari ex scripturis ostenditur</head>
+            <p xml:id="bt67yj-p058308-d1e106">
+               <lb ed="#P" n="55"/>§. 11. Animas in singulis creari ex scripturis ostenditur.
+    </p>
+            <p xml:id="bt67yj-p058308-d1e111">
+               <lb ed="#P" n="56"/>EA quaestionis pars quae statuit recentem 
+      singu<lb ed="#P" n="57" break="no"/>Llarum animarum in suis corporibus ex nihilo 
+      <lb ed="#P" n="58"/>creationem, magna probabilitate nititur: sive 
+      scri<lb ed="#P" n="59" break="no"/>pturas sive Patrum testimonia consulamus. 
+      Scriptu<lb ed="#P" n="60" break="no"/>rae quidem quibus ad hanc sententiam roborandam 
+      <lb ed="#P" n="61"/>patres utuntur, fere sunt istae. 
+    </p>
+            <p xml:id="bt67yj-p058308-d1e127">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Primus locus psal. 32. Qui finxit sigillatim in corda 
+      <lb ed="#P" n="63"/>eorum. Manifestum est enim cordis nomine 
+      frequen<lb ed="#P" n="64" break="no"/>ter animam in scripturis significari, ut cum dicitur: 
+      <lb ed="#P" n="65"/>Cormundum crea in me Deus: Beatimundo corde: 
+      Dili<lb ed="#P" n="66" break="no"/>ges Deum ex toto corde tuo: Cormeum &amp; caro mea 
+      <lb ed="#P" n="67"/>exultaverunt in Deum vivum, &amp; multa hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-p058308-d1e146">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Secundus est apud Isa. 42. Qui fingit spiritum ho¬ 
+      <!--0384.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>minis in ipso: Quod in nostra quidem versione non 
+      <lb ed="#P" n="70"/>habetur sed legitur apud 70. Simile quid autem 
+      <lb ed="#P" n="71"/>habet noster textus apud Zachar. 12. Sic enim ibi 
+      <lb ed="#P" n="72"/>legitur. Dicit Dominus extendens calum &amp; fundane 
+      <lb ed="#P" n="73"/>terram &amp; fingens spiritum hominis in eo. 
+    </p>
+            <p xml:id="bt67yj-p058308-d1e168">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Tertius est Ecclesiastae 11. Antequam revertatur 
+      <lb ed="#P" n="75"/>pulvis in terram suam unde erat, &amp; spiritus redeat ad 
+      <lb ed="#P" n="76"/>Deum qui dedit illum. 
+    </p>
+            <p xml:id="bt67yj-p058308-d1e179">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Quartus ad Hebr. 12. Patres quidem carnis nostra 
+      <lb ed="#P" n="78"/>oruditores habuimus, &amp; reverebamur eos; non multo 
+      <lb ed="#P" n="79"/>magis obtemperabimus patri spirituum, &amp; vivemus? 
+    </p>
+            <p xml:id="bt67yj-p058308-d1e190">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Postremo adferunt interdum etiam illud Joan. 5. 
+      <lb ed="#P" n="81"/>Pater meus usque modo operatur &amp; ego operor. Sed 
+      <lb ed="#P" n="82"/>haec scriptura cum generalis sit, comprehendens non 
+      <lb ed="#P" n="83"/>sola creationis opera, sed universum opus 
+      conserva<lb ed="#P" n="84" break="no"/>tionis &amp; gubernationis naturae semel institutae, rem 
+      <lb ed="#P" n="85"/>propositam non ostendit; nec minus vera esset, si 
+      <lb ed="#P" n="86"/>nullae essent animae in universo, aut si omnes essent 
+      <lb ed="#P" n="87"/>ex traduce. 
+    </p>
+            <p xml:id="bt67yj-p058308-d1e212">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Porro Augustinus epistola vicesimaoctava ad 
+      <lb ed="#P" n="89"/>Hieronymum, &amp; libro primo de origine animae 
+      <lb ed="#P" n="90"/>capite decimoquarto, &amp; libro decimo de Genes. ad 
+      <lb ed="#P" n="91"/>literam capite sexto, putat etiam duo prima 
+      testi<lb ed="#P" n="92" break="no"/>monia dissolvi posse, propterea quod non animas 
+      <lb ed="#P" n="93"/>modo, sed &amp; oculos &amp; manus &amp; caetera hominis 
+      <lb ed="#P" n="94"/>membra sigillatim fingit Deus, quae tamen neque 
+      <lb ed="#P" n="95"/>ex nihilo neque immediate producit. Potest etiam 
+      <lb ed="#P" n="96"/>contra primum argumentum objici, pro vocabulo 
+      <lb ed="#P" n="97"/>sigillatim in Hebraeo esse dictionem significantem 
+      <lb ed="#P" n="98"/>idem quod pariter. Unde &amp; ipse Hieronymus ex 
+      <lb ed="#P" n="99"/>Hebraeo vertit: Fingens pariter cor eorum. Haec 
+      au<lb ed="#P" n="100" break="no"/>tem lectio videtur aperte favere illis qui sentiunt 
+      <lb ed="#P" n="101"/>omnes animas initio simul factas esse. Veruntamen 
+      <lb ed="#P" n="102"/>ad objectionem Augustini responderi posset, 
+      scri<lb ed="#P" n="103" break="no"/>pturam dum peculiariter animas seu spiritus 
+      homi<lb ed="#P" n="104" break="no"/>num dicit fingi a Deo, non autem corpora, ut 
+      ne<lb ed="#P" n="105" break="no"/>que animas bestiarum, velle aliquid peculiare 
+      no<lb ed="#P" n="106" break="no"/>bis innuere de animabus humanis quoad earum 
+      <lb ed="#P" n="107"/>productionem a Deo; ac proinde ex hujusmodi 
+      <lb ed="#P" n="108"/>scripturis satis probabiliter colligi animas humanas 
+      <lb ed="#P" n="109"/>non aliqua propagatione gigni, sicut corpora 
+      <lb ed="#P" n="110"/>&amp; formae corporeae, sed singulas nova creatione 
+      <lb ed="#P" n="111"/>fieri a Deo. Quam collationis probabilitatem 
+      au<lb ed="#P" n="112" break="no"/>gent alia duo testimonia, ut quae expresse 
+      antithe<lb ed="#P" n="113" break="no"/>sim faciunt inter corpus &amp; spiritum, sicut corpus 
+      <lb ed="#P" n="114"/>quidem seu carnem in parentes authores 
+      refe<lb ed="#P" n="115" break="no"/>rant, vel in terram ut principium suum remittant; 
+      <lb ed="#P" n="116"/>Spiritum vero Deo tribuant authori atque datori. 
+    </p>
+            <p xml:id="bt67yj-p058308-d1e280">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Ad alteram objectionem respondetur Deum 
+      jux<lb ed="#P" n="118" break="no"/>ta lectionem Hebraicam pariter finxisse corda 
+      ho<lb ed="#P" n="119" break="no"/>minum, quia omnia finxit sine exceptione. Quem 
+      <lb ed="#P" n="120"/>sensum indicat quod sequitur: Qui intelligit ommnia 
+      <lb ed="#P" n="121"/>opera eorum; sic ergo &amp; quod praecedit accipiendum 
+      <lb ed="#P" n="122"/>quasi diceretur: Qui finxit omnia corda eorum. Quo 
+      <lb ed="#P" n="123"/>etiam sensu dictum esse ab Ecclesiastico cap. 18. 
+      <lb ed="#P" n="124"/>Qui vivit in aeternum creavit omnia simul, alibi 
+      de<lb ed="#P" n="125" break="no"/>monstravimus. 
+    </p>
+            <p xml:id="bt67yj-p058308-d1e305">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> At dices saltem juxta veritatem Hebraicam 
+      prae<lb ed="#P" n="127" break="no"/>dictum psalmi versiculum nihil facene pro 
+      quoti<lb ed="#P" n="128" break="no"/>diana animarum in singulis nascentibus 
+      creatio<lb ed="#P" n="129" break="no"/>ne. Respondeo non quidem facere ex vocabulo 
+      <lb ed="#P" n="130"/>sigillatim, valere tamen ratione paulo ante 
+      ei<lb ed="#P" n="131" break="no"/>plicata. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

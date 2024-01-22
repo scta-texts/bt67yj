@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="38"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p014683"><!-- l2d5c3" -->
+            <head xml:id="bt67yj-p014683-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p014683-Hd1e103" type="question-title">Refelluntur duae opiniones de ordine meriti ad 
+      praemium in angelis</head>
+            <p xml:id="bt67yj-p014683-d1e106">
+      <!--0271.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>§. 3. Refelluntur duae opiniones de ordine meriti ad 
+      <lb ed="#P" n="74"/>praemium in angelis.
+    </p>
+            <p xml:id="bt67yj-p014683-d1e117">
+               <lb ed="#P" n="75"/>DE merito sanctorum angelorum duae 
+      recensen<lb ed="#P" n="76" break="no"/>tur opiniones a Magistro §. ultimo hujus 
+      di<lb ed="#P" n="77" break="no"/>stinctionis. Quidam enim opinati sunt angelos 
+      me<lb ed="#P" n="78" break="no"/>ruisse beatitudinem per gratiam qua confirmati sunt, 
+      <lb ed="#P" n="79"/>ita nimirum ut in eis praemium tempore simul essep 
+      <lb ed="#P" n="80"/>cum merito, solo naturae seu causalitatis ordine 
+      po<lb ed="#P" n="81" break="no"/>sterius. Alii vero putaverunt angelos per obsequia 
+      <lb ed="#P" n="82"/>quae nobis, seu potius Deo circa nos exhibent, 
+      mere<lb ed="#P" n="83" break="no"/>ri beatitudinem jam olim acceptam, ita scilicet ut 
+      <lb ed="#P" n="84"/>praemium in illis tempore prius sit merito. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e141">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Prior opinio placuit <name xml:id="bt67yj-p014683-Nd1e147">Bonaventurae</name>, <name xml:id="bt67yj-p014683-Nd1e149">Marsilio</name>, 
+      at<lb ed="#P" n="86" break="no"/>que etiam S. Thomae super hanc distinctionem 
+      scri<lb ed="#P" n="87" break="no"/>benti, nec non quodlibeto 9. art. 8. Sed idem S. 
+      <lb ed="#P" n="88"/>Thomas ab hac sententia postea recessit eamque 
+      re<lb ed="#P" n="89" break="no"/>futavit in summa 1. q. 62. art. 4. in corpore, ut 
+      <lb ed="#P" n="90"/>mirum sit <name xml:id="bt67yj-p014683-Nd1e162">Cajetanum</name> in eadem hac imaginatione 
+      <lb ed="#P" n="91"/>haesisse scribentem super 1. q. 63. art. 6. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e168">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Qui hujus sunt opinionis dixerunt unum 
+      eundem<lb ed="#P" n="93" break="no"/>que actum conversionis in Deum, quatenus est ex 
+      <lb ed="#P" n="94"/>libero arbitrio esse meritorium, quatenus autem 
+      at<lb ed="#P" n="95" break="no"/>tingit finem esse fruitionem beatificam. Juxta quam 
+      <lb ed="#P" n="96"/>explicationem quam videre est apud S. Thomam 
+      lo<lb ed="#P" n="97" break="no"/>cis commemoratis, non solum simul fuissent in an¬ 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e186">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> gelis meritum &amp; praemium, sed unus, idemque actus 
+      <lb ed="#P" n="99"/>haberet simul meriti &amp; praemii rationem. Verum 
+      <lb ed="#P" n="100"/>hoc refellit ipse hujusmodi ratione; non enim 
+      libe<lb ed="#P" n="101" break="no"/>rum arbitrium sine gratia potest esse sufficiens causa 
+      <lb ed="#P" n="102"/>meriti: Quo circa non poterit actus aliquis esse 
+      me<lb ed="#P" n="103" break="no"/>ritorius, ut est ex libero arbitrio, nisi quatenus sit 
+      <lb ed="#P" n="104"/>gratia informatus; atqui non potest simul informari 
+      <lb ed="#P" n="105"/>gratia imperfecta, quae est principium merendi, &amp; 
+      <lb ed="#P" n="106"/>gratia perfecta, quae est principium fruendi: unde 
+      <lb ed="#P" n="107"/>videtur, inquit, non esse possibile ut angelus simul 
+      <lb ed="#P" n="108"/>fruatur, &amp; suam fruitionem mereatur. Huic 
+      ratio<lb ed="#P" n="109" break="no"/>)ni adde, quod fieri nequit, ut idem sit via, &amp; 
+      ter<lb ed="#P" n="110" break="no"/>minus, meritum autem via est ad praemium ut 
+      termi<lb ed="#P" n="111" break="no"/>num; Quare impossibile est idem esse meritum &amp; 
+      <lb ed="#P" n="112"/>praemium sui ipsius, ut habet ista opinio juxta dictam 
+      <lb ed="#P" n="113"/>explicationem. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e225">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> At neque si diversos facias actus, alterum qui sit 
+      <lb ed="#P" n="115"/>meritum, alterum qui praemium, consistere poterit 
+      <lb ed="#P" n="116"/>opinio. Si enim ut jam dictum est, gratia imperfecta 
+      <lb ed="#P" n="117"/>principium sit merendi, &amp; gratia perfecta 
+      princi<lb ed="#P" n="118" break="no"/>pium fruendi, nec potest simul in eodem esse gratia 
+      <lb ed="#P" n="119"/>perfecta &amp; imperfecta; consequens est simul esse 
+      <lb ed="#P" n="120"/>non posse meritum &amp; praemium, sive in eundem 
+      <lb ed="#P" n="121"/>actum cadere ponantur, sive in diversos. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e247">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Denique si non potest idem simul esse in via &amp; 
+      <lb ed="#P" n="123"/>termino (sic enim simul moveretur ad terminum, &amp; 
+      <lb ed="#P" n="124"/>esset in termino.) Meritum autem via est ad 
+      prae<lb ed="#P" n="125" break="no"/>mium, ut jam diximus; manifeste consequitur non 
+      <lb ed="#P" n="126"/>posse aliquem simul mereri, &amp; illius meriti 
+      prae<lb ed="#P" n="127" break="no"/>mium habere. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e265">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Posteriorem opinionem Magister sibi magis 
+      pla<lb ed="#P" n="129" break="no"/>cere fatetur, quam &amp; alibi sequitur, ut distinctione 
+      <lb ed="#P" n="130"/>11. hujus libri. At revera multo plus absurditatis est 
+      <lb ed="#P" n="131"/>in hac sententia quam in priori. Unde &amp; Magistro 
+      <lb ed="#P" n="132"/>hic contradicunt omnes scholae ejusque opinionem 
+      <lb ed="#P" n="133"/>selectis erroribus annumerant. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e283">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Eam vero praeter rationem jam ante dictam a via 
+      <lb ed="#P" n="135"/>&amp; termino, quae facile huc applicari potest, etiam 
+      <lb ed="#P" n="136"/>haec argumenta destruunt. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e295">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Primum, quia absurdum est, ut recte Scotus 
+      ra<lb ed="#P" n="138" break="no"/>tiocinatur, angelorum remunerationem ab ea quae 
+      <lb ed="#P" n="139"/>secutura erat hominum creatione, vel etiam lapsu 
+      <lb ed="#P" n="140"/>dependere. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e308">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Alterum idemque praecipuum, quia meritum &amp; 
+      <lb ed="#P" n="142"/>praemium, ut hoc loco considerantur, sunt 
+      perfectio<lb ed="#P" n="143" break="no"/>nes quaedam operantes, meritum inchoata quaedam 
+      <lb ed="#P" n="144"/>operantis perfectio est, praemium vero consummata 
+      <!--0272.xml-->
+      <pb ed="#P" n="39"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Est autem perabsurdum, ut perfectionem 
+      consum<lb ed="#P" n="2" break="no"/>matam (quae sane consummata non erit, si vel 
+      de<lb ed="#P" n="3" break="no"/>perdi vel minui aliquando possit (inchoata 
+      perfe<lb ed="#P" n="4" break="no"/>ctio sequatur. Sicut enim quis virilem assecutus 
+      aeta<lb ed="#P" n="5" break="no"/>tem non potest pueritiae annos repetere; ita qui 
+      ter<lb ed="#P" n="6" break="no"/>minum viae, id est beatitudinem consummatam 
+      as<lb ed="#P" n="7" break="no"/>secutus est, non potest postea motu ad eam tendere: 
+      <lb ed="#P" n="8"/>Imo multo minus hoc poterit, cum in ea re 
+      contra<lb ed="#P" n="9" break="no"/>dictio includatur, scilicet esse &amp; non esse beatum. 
+      <lb ed="#P" n="10"/>Quamvis enim praemium vel merces, quae est 
+      ope<lb ed="#P" n="11" break="no"/>ranti externa, dari possit ante meritum, ut patet de 
+      <lb ed="#P" n="12"/>operario, cui ante laborem, merces vel mercedis 
+      <lb ed="#P" n="13"/>pars aliqua prorogatur, nequaquam tamen id acci 
+      <lb ed="#P" n="14"/>dere potest in praemio seu mercede, de qua nunc 
+      <lb ed="#P" n="15"/>loquimur, id est, ea quam diximus operantis 
+      inter<lb ed="#P" n="16" break="no"/>nam esse perfectionem; unde &amp; praemia Christo 
+      in<lb ed="#P" n="17" break="no"/>terna, secuta sunt passionem ejus, velut corporis 
+      <lb ed="#P" n="18"/>ejus resurrectio &amp; glorificatio; praemia vero externa 
+      <lb ed="#P" n="19"/>quaedam praecesserunt, ut justificatio eorum qui ante 
+      <lb ed="#P" n="20"/>ipsius adventum vixerunt. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e371">
+               <lb ed="#P" n="21"/>Quod igitur attinet ad obsequia seu ministeria quae 
+      <lb ed="#P" n="22"/>nunc angeli Deo circa nos exhibent, non ea sunt 
+      cau<lb ed="#P" n="23" break="no"/>sa beatitudinis illorum meritoria, sed potius sunt 
+      bea<lb ed="#P" n="24" break="no"/>titudinis effectus. Procedunt enim hujusmodi 
+      obse<lb ed="#P" n="25" break="no"/>quia ex charitate perfecta, quae praemii rationem in 
+      <lb ed="#P" n="26"/>illis habet, sicut &amp; orationes sanctorum hominum, 
+      <lb ed="#P" n="27"/>qui vita functi cum Christo regnant, ex simili 
+      chari<lb ed="#P" n="28" break="no"/>tate qua erga nos afficiuntur, procedunt. Quocirca 
+      <lb ed="#P" n="29"/>hujus generis opera meriti rationem respectu praemii 
+      <lb ed="#P" n="30"/>essentialis habere non possunt, imo nec proprie 
+      res<lb ed="#P" n="31" break="no"/>pectu praemii accidentalis, de quo in distinct. 11. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e397">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Cum igitur ex his satis jam pateat, angelos neque 
+      <lb ed="#P" n="33"/>prius, neque simul cum merito praemium, id est, 
+      bea<lb ed="#P" n="34" break="no"/>titudinem accepisse, consequens est id quod dudum 
+      <lb ed="#P" n="35"/>ad 3. distinctionem ostendimus eos praemium 
+      acce<lb ed="#P" n="36" break="no"/>pisse post meritum, diversis nimirum instantibus, 
+      <lb ed="#P" n="37"/>quorum prius fuit meriti &amp; perseverantiae, posterius 
+      <lb ed="#P" n="38"/>praemii. Quem eundem ordinem etiam demeriti &amp; 
+      <lb ed="#P" n="39"/>supplicii fuisse diximus in malis. Estque haec aperta 
+      <lb ed="#P" n="40"/>Augustini sententia lib. de corr. &amp; gratia cap. 10. &amp; 
+      <lb ed="#P" n="41"/>11. &amp; lib. de praedestin. Sanctorum cap. 7. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e423">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Neque his obstat quod idem Augustinus alibi, ut 
+      <lb ed="#P" n="43"/>lib. 3. de libero arbitrio c. 15. docet culpam semper 
+      <lb ed="#P" n="44"/>habere poenam conjunctam, quasi similiter merito 
+      <lb ed="#P" n="45"/>conjunctum possit esse praemium. Cui quidem 
+      obje<lb ed="#P" n="46" break="no"/>ctioni respondetur a nonnullis Augustinum non 
+      in<lb ed="#P" n="47" break="no"/>telligere conjunctionem in eodem puncto temporis, 
+      <lb ed="#P" n="48"/>sed qua alterum post alterum statim sequatur. Sed ea 
+      <lb ed="#P" n="49"/>responsio praeter mentem est authoris; dicit enim 
+      <lb ed="#P" n="50"/>nullo temporis intervallo dividi culpam &amp; poenam, 
+      <lb ed="#P" n="51"/>ut quasi alio tempore non faciat anima quod debet. 
+      <lb ed="#P" n="52"/>&amp; alio patiatur quod debet, ne vel puncto temporis 
+      <lb ed="#P" n="53"/>universalis pulchritudo turpetur, ut sit in ea peccati 
+      <lb ed="#P" n="54"/>dedecus sine decore vindictae; vult ergo prorsus simul 
+      <lb ed="#P" n="55"/>existere culpam, &amp; poenam. 
+    </p>
+            <p xml:id="bt67yj-p014683-d1e458">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Verior itaque responsio est, Augustinum loqui 
+      <lb ed="#P" n="57"/>non de quacumque poena peccati, sed de ea qua quis 
+      <lb ed="#P" n="58"/>eo ipso quo peccat, miser &amp; infelix constituitur, 
+      <lb ed="#P" n="59"/>etiamsi quam maxime in peccato delectetur, quam 
+      <lb ed="#P" n="60"/>poenam a peccato inseparabilem esse constat. Nam 
+      <lb ed="#P" n="61"/>poenam affligentem &amp; cruciantem esse culpa 
+      poste<lb ed="#P" n="62" break="no"/>riorem, docet his verbis subsequentibus: Sed in 
+      fu<lb ed="#P" n="63" break="no"/>turum judicium servatur ad manifestationem, atque 
+      <lb ed="#P" n="64"/>acerrimum sensum miseriae quidquid nunc occultissime 
+      <lb ed="#P" n="65"/>vindicatur; sic ille. Potest autem tale quid etiam in 
+      <lb ed="#P" n="66"/>merito &amp; praemio intelligi. Nam eo ipso quo quis 
+      <lb ed="#P" n="67"/>bene agit, bene est ei &amp; proinde jam est aliquo 
+      mo<lb ed="#P" n="68" break="no"/>do beatus, sed tamen pro bono opere futuram 
+      expe<lb ed="#P" n="69" break="no"/>ctare jubetur retributionem, id est beatitudinem 
+      <lb ed="#P" n="70"/>consummatam.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

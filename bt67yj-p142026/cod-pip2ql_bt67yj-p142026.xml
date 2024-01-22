@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="367"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p142026"><!-- l2d32c9" -->
+            <head xml:id="bt67yj-p142026-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p142026-Hd1e103" type="question-title">Peccatum originale an recte imputetur. 
+      <pc type="indent"/> parvulo</head>
+            <p xml:id="bt67yj-p142026-d1e108">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> §. 9. Peccatum originale an recte imputetur. 
+      <lb ed="#P" n="17"/>
+               <pc type="indent"/> parvulo. 
+    </p>
+            <p xml:id="bt67yj-p142026-d1e119">
+               <lb ed="#P" n="18"/>QUaerens Magister, qua justitia peccatum 
+      origi<lb ed="#P" n="19" break="no"/>nale imputetur animae parvuli, praesupponit 
+      <lb ed="#P" n="20"/>peccatum illud parvulo seu animae parvuli a Deo 
+      im<lb ed="#P" n="21" break="no"/>putari. Quod etsi a quibusdam vocetur in dubium, 
+      <lb ed="#P" n="22"/>propterea quod existiment nemini juste quicquam 
+      <lb ed="#P" n="23"/>imputari, nisi quod ipse fecerit, certumque sit 
+      par<lb ed="#P" n="24" break="no"/>vulos nec boni nec mali quicquam egisse, Rom. 9. 
+      <lb ed="#P" n="25"/>pars tamen affirmativa quae a Magistro asseritur §. E. 
+      <lb ed="#P" n="26"/>non improbabiliter statui potest. 
+    </p>
+            <p xml:id="bt67yj-p142026-d1e141">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Primum: Quia Scriptura Psal. 31. beatum 
+      pronun<lb ed="#P" n="28" break="no"/>ciat eum, cui non imputavit Dominus peccatum. 
+      <lb ed="#P" n="29"/>Quare si parvulo non baptizato, peccatum suum in 
+      <lb ed="#P" n="30"/>quo nascitur, non imputatur a Domino, beatus erit, 
+      <lb ed="#P" n="31"/>&amp; proinde justus, ut Apostolus interpretatur Rom. 4. 
+      <lb ed="#P" n="32"/>Hoc autem Catholicae doctrinae adversatur. 
+    </p>
+            <p xml:id="bt67yj-p142026-d1e160">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Aug. quoque lib. 3. de peccatorum meritis cap. 3. 
+      <lb ed="#P" n="34"/>haec Pelagii verba recitat: Nulla ratione concedi, ut 
+      <lb ed="#P" n="35"/>Deus qui propria peccata remittit, imputet aliena: 
+      <lb ed="#P" n="36"/>Ad eaque sic respondet cap. 8. ut doceat parvulo non 
+      <lb ed="#P" n="37"/>jam aliena imputari peccata, sed propria, quia 
+      car<lb ed="#P" n="38" break="no"/>nali generatione jam eorum sunt, quibus nondum 
+      <lb ed="#P" n="39"/>spiritali regeneratione dimissa sunt. Et inter 
+      Schola<lb ed="#P" n="40" break="no"/>sticos Bona ventura scribens in dist. 30. hujus libri in 
+      <lb ed="#P" n="41"/>primo principali, q. 2. affirmat originale vitium nobis 
+      <lb ed="#P" n="42"/>imputari in peccatum, ac rursus ex professo id docet 
+      <lb ed="#P" n="43"/>in dist. praesentem in tertio principali q. 1. Similiter 
+      <lb ed="#P" n="44"/>docet &amp; Hugo Victorinus in sententiis tract. 3. c. 11. 
+      <lb ed="#P" n="45"/>&amp; 12. quem hoc loco secutus videtur Magister. 
+    </p>
+            <p xml:id="bt67yj-p142026-d1e193">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Idem &amp; ratione probatur. Punitur enim peccatum 
+      <lb ed="#P" n="47"/>originale in parvulis; atqui a justitia alienum est ut 
+      <lb ed="#P" n="48"/>peccatum in aliquo puniatur, cui illud jure imputari 
+      <lb ed="#P" n="49"/>non potest; imputatur ergo peccatum parvulo. Quod 
+      <lb ed="#P" n="50"/>ergo aiunt peccata juste non imputari nisi authori, 
+      <lb ed="#P" n="51"/>non innino verum est: cum dicat Apostolus Rom. 1. 
+      <lb ed="#P" n="52"/>dignos esse morte, non solum qui mala faciunt, sed 
+      <lb ed="#P" n="53"/>etiam qui consentiunt facientibus; ideo nimirum 
+      <lb ed="#P" n="54"/>quia &amp; in istis est, quod eis jure imputetur. Quocirca 
+      <lb ed="#P" n="55"/>licet peccati originalis quod est in parvulo, non sit 
+      <lb ed="#P" n="56"/>author ipse parvulus, sed primus homo, qui &amp; fecisse 
+      <lb ed="#P" n="57"/>illud in omni sua posteritate dicendus est, eo ipso 
+      <lb ed="#P" n="58"/>quo divinum mandatum transgressus est; vere tamen 
+      <lb ed="#P" n="59"/>&amp; juste singulis illud contrahentibus imputatur, 
+      tan<lb ed="#P" n="60" break="no"/>quam consentientibus, non in actu, sed velut in 
+      ha<lb ed="#P" n="61" break="no"/>bitu; propterea quod hoc peccato voluntas eorum 
+      <lb ed="#P" n="62"/>depravata sit atque a Deo aversa, Deoque contraria. 
+      <lb ed="#P" n="63"/>Qua etiam ratione voluntarium in unoquoque dici 
+      <lb ed="#P" n="64"/>posse hoc peccatum, ostendimus ad distinct. 30. Quae 
+      <lb ed="#P" n="65"/>tamen ratio minime sufficiet, nisi simul respiciatur 
+      <lb ed="#P" n="66"/>ad actualem voluntatem ejus qui hoc peccatum 
+      fe<lb ed="#P" n="67" break="no"/>cit. Unde recte Bonaventura loco supra dicto 
+      utram<lb ed="#P" n="68" break="no"/>que rationem conjungens, dicit ratione illius 
+      vo<lb ed="#P" n="69" break="no"/>luntatis, quae fuit in Adam, nobis hoc originale 
+      <lb ed="#P" n="70"/>malum imputari in peccatum; quia videlicet ab ejus 
+      <!--0600.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>voluntate malum hoc in posteros propagatum 
+      eo<lb ed="#P" n="72" break="no"/>rum voluntatem infecit, ac depravavit. Et August. 
+      <lb ed="#P" n="73"/>lib. 1. retract. cap. 13. ex eo declarat peccatum 
+      origi<lb ed="#P" n="74" break="no"/>nale non absurde vocari voluntarium, quia ex prima 
+      <lb ed="#P" n="75"/>hominis mala voluntate contractum, factum est 
+      quo<lb ed="#P" n="76" break="no"/>dammodo haereditarium. Quo sensu etiam in libro 
+      <lb ed="#P" n="77"/>contra Adimantum cap. 21. docet id quod in Adam 
+      <lb ed="#P" n="78"/>voluntarium fuit, in nobis esse naturale. 
+    </p>
+            <p xml:id="bt67yj-p142026-d1e274">
+               <lb ed="#P" n="79"/>Ad id quod e diverso objici potest, nullum 
+      neces<lb ed="#P" n="80" break="no"/>sarium atque inevitabile malum jure cuiquam 
+      impu<lb ed="#P" n="81" break="no"/>tari, respondetur quod ita necessarium est, ut sit 
+      <lb ed="#P" n="82"/>involuntarium, necessitate videlicet violentiae seu 
+      <lb ed="#P" n="83"/>coactionis, non recte cuiquam imputari, si non sua 
+      <lb ed="#P" n="84"/>voluntate in eam necessitatem incurrerit. Quod 
+      au<lb ed="#P" n="85" break="no"/>tem necessarium est simul &amp; voluntarium; 
+      necessa<lb ed="#P" n="86" break="no"/>rium quidem, quia vitari non potest; voluntarium 
+      <lb ed="#P" n="87"/>autem juxta modum supra dictum: eo ipso quia 
+      vo<lb ed="#P" n="88" break="no"/>luntarium est, jure imputatur ei cui inest, atque in eo 
+      <lb ed="#P" n="89"/>punitur. Recte igitur Magister. F. &amp; post eum 
+      Bo<lb ed="#P" n="90" break="no"/>naventura loco supra citat. aliique Scholastici 
+      do<lb ed="#P" n="91" break="no"/>cent, peccatum originale &amp; necessarium esse, &amp; 
+      vo<lb ed="#P" n="92" break="no"/>luntarium; tametsi in modo explicandi sit quaedam 
+      <lb ed="#P" n="93"/>inter eos diversitas. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

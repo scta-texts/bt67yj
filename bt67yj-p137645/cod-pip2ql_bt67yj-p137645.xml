@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="355"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p137645"><!-- l2d30c8" -->
+            <head xml:id="bt67yj-p137645-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-p137645-Hd1e103" type="question-title">Non solos actus coram Deo laudabiles aut 
+      vituperabiles esse</head>
+            <p xml:id="bt67yj-p137645-d1e106">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> §. 8. Non solos actus coram Deo laudabiles aut 
+      <lb ed="#P" n="82"/>vituperabiles esse. 
+    </p>
+            <p xml:id="bt67yj-p137645-d1e115">
+               <lb ed="#P" n="83"/>ALterum fundamentum eorum qui parvulis 
+      in<lb ed="#P" n="84" break="no"/>ternum esse peccatum originale negant, istud 
+      <lb ed="#P" n="85"/>est. Quia, inquiunt, nullum est peccatum proprie 
+      <lb ed="#P" n="86"/>dictum, quod non sit actus voluntarius contra 
+      le<lb ed="#P" n="87" break="no"/>gem Dei. Sed &amp; hoc fundamento usus est olim 
+      Pe<lb ed="#P" n="88" break="no"/>lagius ad tollendum originale peccatum, 
+      quemad<lb ed="#P" n="89" break="no"/>modum patet ex verbis ejus paulo ante recitatis, &amp; 
+      <lb ed="#P" n="90"/>plenius ex Augustini contra eundem disputatione, 
+      <lb ed="#P" n="91"/>qua fundamentum illud evertit. Quod autem non 
+      <lb ed="#P" n="92"/>solus actus voluntatis, sed &amp; habitus, &amp; si quid 
+      <lb ed="#P" n="93"/>aliud in voluntate est habitui simile, laudem ac 
+      vi<lb ed="#P" n="94" break="no"/>tuperium mereatur, multipliciter ostendi potest. 
+    </p>
+            <p xml:id="bt67yj-p137645-d1e144">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Primum; quia actiones tam vitiorum quam 
+      virtu<lb ed="#P" n="96" break="no"/>tum per se ex habitibus oriuntur; quare cum per 
+      <lb ed="#P" n="97"/>illas homo laude ac vituperio dignus sit, sequitur 
+      <lb ed="#P" n="98"/>ut &amp; per istos merito laudabilis aut vituperabilis 
+      <lb ed="#P" n="99"/>censeatur. 
+    </p>
+            <p xml:id="bt67yj-p137645-d1e161">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Secundo; quia parvuli baptizati, propter justitiam 
+      <lb ed="#P" n="101"/>infusam, quae non actus sed habitus est, digni sunt 
+      <lb ed="#P" n="102"/>vita aeterna; unde nec absurdum videri debet, 
+      par<lb ed="#P" n="103" break="no"/>vulos non baptizatos, propter peccatum originaliter 
+      <lb ed="#P" n="104"/>contractum; licet non sit actus voluntatis, dignos 
+      <lb ed="#P" n="105"/>esse damnatione aeterna. 
+    </p>
+            <p xml:id="bt67yj-p137645-d1e179">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Tertio; quia homo malus cessans ab actione vel 
+      <lb ed="#P" n="107"/>per somnum, vel alio modo, habet in se aliquid 
+      <lb ed="#P" n="108"/>propter quod vituperetur, &amp; supplicio dignus 
+      ha<lb ed="#P" n="109" break="no"/>beatur. 
+    </p>
+            <p xml:id="bt67yj-p137645-d1e192">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Quarto; quia Scriptura non tantum propter actus, 
+      <lb ed="#P" n="111"/>sed &amp; propter habitus pravos homini comminatur 
+      <lb ed="#P" n="112"/>exclusionem a regno caelorum; ut 1. Corinth. 6. ubi 
+      <lb ed="#P" n="113"/>dicitur, quod neque avari, neque ebriosi, neque 
+      ra<lb ed="#P" n="114" break="no"/>paces (quae habituum non actuum nomina sunt) 
+      re<lb ed="#P" n="115" break="no"/>gnum Dei possi lebunt. 
+    </p>
+            <p xml:id="bt67yj-p137645-d1e210">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Quinto; quod eadem Scriptura non tantum 
+      pro<lb ed="#P" n="117" break="no"/>pter actus bonos, sed &amp; propter habitus promittat 
+      <lb ed="#P" n="118"/>homini regnum caelorum, ut Matth. 5. dicuntur 
+      bea<lb ed="#P" n="119" break="no"/>ti pauperes spiritu, mites, misericordes, pacifici, 
+      <lb ed="#P" n="120"/>&amp;c. quoniam ipsorum est regnum caelorum. Ubi 
+      <lb ed="#P" n="121"/>tamen meminisse oportet, eos virtutum habitus 
+      <lb ed="#P" n="122"/>intelligi, quos supra dist. 27. diximus Christianis 
+      <lb ed="#P" n="123"/>proprios esse, &amp; a philosophicis habitibus 
+      distinxi<lb ed="#P" n="124" break="no"/>mus. 
+    </p>
+            <p xml:id="bt67yj-p137645-d1e234">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Sexto; ex eo quod Augustinus dicit lib. de perfect. 
+      <lb ed="#P" n="126"/>just. capite 2. avaritiam vitium esse, id est, 
+      quali<lb ed="#P" n="127" break="no"/>tatem secundum quam malus est animus, etiam 
+      <lb ed="#P" n="128"/>tunc quando nihil agit unde rapinae vel avaritiae 
+      <lb ed="#P" n="129"/>serviat. Et libro 2. contra Julianum capite 5. ubi 
+      <lb ed="#P" n="130"/>manifeste asserit, quod non actus tantum, sed &amp; 
+      <lb ed="#P" n="131"/>habitus hominem reum faciat, sitque justi supplicii 
+      <lb ed="#P" n="132"/>meritum. Apertissime vero libro de dono cenjugali 
+      <lb ed="#P" n="133"/>capite 21. ubi sic ait: Sicut non est impar meritum 
+      <lb ed="#P" n="134"/>patientiae in Petro, qui passus est, &amp; in foanne qui 
+      <lb ed="#P" n="135"/>passus non est; sic non est impar meritum 
+      continen<lb ed="#P" n="136" break="no"/>tiae in Joanne, qui nullas expertus est nuptias, &amp; in 
+      <lb ed="#P" n="137"/>Abraham qui filios generavit. Sed continentiam 
+      <lb ed="#P" n="138"/>Joannes in opere, Abraham in solo habitu habebat. 
+      <lb ed="#P" n="139"/>Haec ille. Quamvis igitur apud homines, qui ea 
+      <lb ed="#P" n="140"/>sola vident quae foris apparent, praemium non habeat 
+      <lb ed="#P" n="141"/>habitus bonus in mente latens; neque supplicium 
+      re<lb ed="#P" n="142" break="no"/>cipiat fabitus malus, sed solae externae actiones, vel 
+      <!--0589.xml-->
+      <pb ed="#P" n="356"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bonae vel malae; apud Deum tamen, qui corda 
+      in<lb ed="#P" n="2" break="no"/>tuetur, sicut actiones internae, ita &amp; habitus, qui 
+      <lb ed="#P" n="3"/>sunt velut continui quidam actus interni, 
+      tributio<lb ed="#P" n="4" break="no"/>nem accipiunt.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="6"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p001914"><!-- l2d1c6" -->
+            <head xml:id="bt67yj-p001914-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p001914-Hd1e103" type="question-title">Creationis opus esse commune toti Trinitati</head>
+            <p xml:id="bt67yj-p001914-d1e106">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> §. 6. Creationis opus esse commune toti Trinitati.
+    </p>
+            <p xml:id="bt67yj-p001914-d1e113">
+               <lb ed="#P" n="21"/>QUod ad dist. 20. lib. 1. generaliter ostensum est 
+      <lb ed="#P" n="22"/>inseparabilia esse Trinitatis opera, valet ad hoc 
+      <lb ed="#P" n="23"/>ipsum in specie probandum de opere creationis, 
+      <lb ed="#P" n="24"/>scilicet non esse proprium istud opus alicui personae 
+      <lb ed="#P" n="25"/>divinae, sed toti Trinitati commune. Breviter autem 
+      <lb ed="#P" n="26"/>hoc loco ubi de creatione agitur, probatur, quia una 
+      <lb ed="#P" n="27"/>eademque indivisa &amp; simplicissima virtus est trium 
+      <lb ed="#P" n="28"/>personarum; ergo omnis operatio, ab una virtute 
+      <lb ed="#P" n="29"/>procedens, tribus est personis communis, 
+      hujus<lb ed="#P" n="30" break="no"/>modi autem est creatio. Item: Creare convenit 
+      Deo<lb ed="#P" n="31" break="no"/>secundum suum esse, quod est ejus essentia. Quae 
+      <lb ed="#P" n="32"/>cum sit communis tribus personis, necesse est ipsum, 
+      <lb ed="#P" n="33"/>creare, iisdem commune esse. Utitur hac ratione 
+      <lb ed="#P" n="34"/>S. Thomas 1. qu. 45. art. 6. 
+    </p>
+            <p xml:id="bt67yj-p001914-d1e146">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Ut autem intelligatur hanc doctrinam esse 
+      Catho<lb ed="#P" n="36" break="no"/>licae veritatis, annectenda est ex scripturis, &amp; 
+      pa<lb ed="#P" n="37" break="no"/>trum sententiis, atque decretis probatio. Scripturae 
+      <lb ed="#P" n="38"/>quidem opus creationis perum passim tribus perso 
+      <lb ed="#P" n="39"/>nis indifferenter attribuunt, ut Gen. 1. Psal. 32. Proy. 
+      <lb ed="#P" n="40"/>8. Sap. 1. Joan. 1. &amp; 5. Rom. 11. 1. Cor. 8. Similiter 
+      <lb ed="#P" n="41"/>ecclesia, tametsi in symbolo apostolorum solum 
+      pa<lb ed="#P" n="42" break="no"/>trem expresse vocet creatorem caeli &amp; terrae, Nicaeni 
+      <lb ed="#P" n="43"/>tamen &amp; Constantinopolitani concilii patres suis 
+      <lb ed="#P" n="44"/>symbolis inseruerunt illud de filio: Per quem omnia 
+      <lb ed="#P" n="45"/>facta sunt. Spiritum sanctum quoque tota ecclesia 
+      <lb ed="#P" n="46"/>creatorem profitetur in hymno, cujus initium, Veni 
+      <lb ed="#P" n="47"/>creator Spiritus. 
+    </p>
+            <p xml:id="bt67yj-p001914-d1e180">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Exstat autem hujus dogmatis apertissima 
+      defini<lb ed="#P" n="49" break="no"/>tio in magno Concilio Lateranensi cap. 1. ubi patres 
+      <lb ed="#P" n="50"/>illius concilii, se firmiter credere, &amp; simpliciter 
+      con<lb ed="#P" n="51" break="no"/>fiteri testantur, quod unus solus verus Deus, pater, 
+      <lb ed="#P" n="52"/>&amp; filius, &amp; Spiritus sanctus, unum est universorum 
+      <lb ed="#P" n="53"/>principium, creator omnium invisibilium, &amp; 
+      visibi<lb ed="#P" n="54" break="no"/>lium, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p001914-d1e200">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Ex his igitur patet, secundum fidem confitendum 
+      <lb ed="#P" n="56"/>esse, non tantum quod omnes tres personae totam 
+      <lb ed="#P" n="57"/>rerum universitatem ex nihilo produxerint, ita ut 
+      <lb ed="#P" n="58"/>nulla sit creatura, cujus creatrix non sit tota trinitas, 
+      <lb ed="#P" n="59"/>verum etiam quod in ipsis creaturis singulis nihil 
+      <lb ed="#P" n="60"/>omnino sit, quod non aequaliter omnes personae sibi 
+      <lb ed="#P" n="61"/>vendicent. Hoc enim notandum est contra 
+      nonnul<lb ed="#P" n="62" break="no"/>los Raimundi Lulli sectatores, qui ut sententiam 
+      ma<lb ed="#P" n="63" break="no"/>gistri sui defendant, qua dixit ratione naturali posse 
+      <lb ed="#P" n="64"/>demonstrari mysterium trinitatis, docent in omni 
+      <lb ed="#P" n="65"/>effectu creato reperiri aliquid reale productum a 
+      so<lb ed="#P" n="66" break="no"/>lo patre, &amp; aliquid a solo filio, &amp; item aliquid a 
+      <lb ed="#P" n="67"/>solo Spiritu sancto. Quam doctrinam haereticam esse 
+      <lb ed="#P" n="68"/>constat, ut pote scripturae &amp; ecclesiasticae definitioni 
+      <lb ed="#P" n="69"/>aperte contrariam. 
+    </p>
+            <p xml:id="bt67yj-p001914-d1e237">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Porro quidam opinati fuerunt, quod quamvis 
+      om<lb ed="#P" n="71" break="no"/>nes effectus creati, omnesque ipsorum rationes simul 
+      <lb ed="#P" n="72"/>a tribus personis procedant, ipsae tamen divinae 
+      perso<lb ed="#P" n="73" break="no"/>nae aliter atque aliter concurrant ad illorum produ¬ 
+      <!--0239.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>ctionem. Docet enim <ref xml:id="bt67yj-p001914-Rd1e256">
+                  <name xml:id="bt67yj-p001914-Nd1e258">Henricus a Gandavo</name>, 
+      quodli<lb ed="#P" n="75" break="no"/>beto 6. q. 2.</ref> cognitionem &amp; amorem essentialem in 
+      <lb ed="#P" n="76"/>Deo, non esse ei rationem operandi ad extra, sed 
+      co<lb ed="#P" n="77" break="no"/>gnitionem &amp; amorem notionalem, atque inde 
+      con<lb ed="#P" n="78" break="no"/>cludit, quod quemadmodum artifex operatur per 
+      <lb ed="#P" n="79"/>ideam in animo praeconceptam &amp; per inclinationem 
+      <lb ed="#P" n="80"/>suae voluntatis, qua ad operandum se determinat; ita 
+      <lb ed="#P" n="81"/>Deus pater operetur omnia per filium tanquam per 
+      <lb ed="#P" n="82"/>ideam suae mentis, &amp; per Spiritum sanctum tanquam 
+      <lb ed="#P" n="83"/>per inclinationem suae voluntatis, quodque aliter 
+      ope<lb ed="#P" n="84" break="no"/>rari non potuerit. Quae sententia non modo falsa est, 
+      <lb ed="#P" n="85"/>verum nec fidei satis consentanea. Si enim ut in 
+      Late<lb ed="#P" n="86" break="no"/>ranensi concilio definitum est, pater &amp; filius &amp; 
+      spiri<lb ed="#P" n="87" break="no"/>tus sanctus, sunt unum universorum principium, non 
+      <lb ed="#P" n="88"/>ergo alio atque alio modo concurrunt ad effectum 
+      <lb ed="#P" n="89"/>creationis, neque se invicem adjuvant in rerum 
+      pro<lb ed="#P" n="90" break="no"/>ductione, quod ex hac opinione manifeste 
+      conse<lb ed="#P" n="91" break="no"/>quens est; sed una eademque indivisa actione, &amp; 
+      proin<lb ed="#P" n="92" break="no"/>de eodem prorsus modo res producunt, sicut ex eo 
+      <lb ed="#P" n="93"/>quod pater &amp; filius sunt unum principium Spiritus 
+      <lb ed="#P" n="94"/>sancti, sequitur non aliter ex patre quam ex filio 
+      spiri<lb ed="#P" n="95" break="no"/>tum sanctum procedere sed unica spiratione, atque 
+      <lb ed="#P" n="96"/>ob id eodem prorsus modo produci ab utroque. Quae 
+      <lb ed="#P" n="97"/>autem dictam opinionem absurda sequantur, velut 
+      <lb ed="#P" n="98"/>quod majorem habeant virtutem omnes personae, 
+      <lb ed="#P" n="99"/>quam singulae, quod pater sit sapiens &amp; potens 
+      sa<lb ed="#P" n="100" break="no"/>pientia &amp; potentia genita, quod creare non competat 
+      <lb ed="#P" n="101"/>Deo, ut Deus est, sed ut pater, quodque proinde non 
+      <lb ed="#P" n="102"/>competat tribus personis, sed soli patri, eo quod non 
+      <lb ed="#P" n="103"/>per cognitionem essentialem, sed per notionalem, 
+      <lb ed="#P" n="104"/>quae solius est patris, ponitur Deus creaturas 
+      produ<lb ed="#P" n="105" break="no"/>cere, docte &amp; copiose monstrant Scotus q. 1. super 
+      <lb ed="#P" n="106"/>hac distinctione, &amp; <ref xml:id="bt67yj-p001914-Rd1e330">
+                  <name xml:id="bt67yj-p001914-Nd1e332">D. Bannes</name> super 1. q. 45. art. 6.</ref>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

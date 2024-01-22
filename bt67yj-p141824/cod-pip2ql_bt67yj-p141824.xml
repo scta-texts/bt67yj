@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="366"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p141824"><!-- l2d32c7" -->
+            <head xml:id="bt67yj-p141824-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p141824-Hd1e103" type="question-title">An foeditas carnis in baptismo diluatur</head>
+            <p xml:id="bt67yj-p141824-d1e106">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> §. 7. An foeditas carnis in baptismo diluatur? 
+    </p>
+            <p xml:id="bt67yj-p141824-d1e113">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> AD quaestionem quam in textu movet Magister, 
+      <lb ed="#P" n="89"/>utrum sicut anima a peccato, ita &amp; caro ab illa 
+      <lb ed="#P" n="90"/>foeditate quam generatione contraxit &amp; de qua 
+      su<lb ed="#P" n="91" break="no"/>periori dist. disptatum est, in baptismo emundetur, 
+      <lb ed="#P" n="92"/>respondendum; sicut concupiscentia actu manet, 
+      <lb ed="#P" n="93"/>amissa licet ratione peccati, ita &amp; foeditatem illam 
+      <lb ed="#P" n="94"/>in carne remanere post baptismum; &amp; sicut 
+      concupis<lb ed="#P" n="95" break="no"/>centia nonnisi morte aboletur atque extinguitur in 
+      <lb ed="#P" n="96"/>electis, ita vitiosam illam &amp; foedam carnis 
+      qualita<lb ed="#P" n="97" break="no"/>tem non auferri penitus a sanctis nisi per mortem 
+      <lb ed="#P" n="98"/>carnis; ipsam vero carnem ab ea foeditate demum 
+      <lb ed="#P" n="99"/>mundam constitui per resurrectionem, tanquam 
+      <lb ed="#P" n="100"/>ejusdem carnis regenerationem, ut eam Christus 
+      ap<lb ed="#P" n="101" break="no"/>pellat, Matth. 19. Per baptismum vero, quo proprie 
+      <lb ed="#P" n="102"/>anima regeneratur, hactenus etiam carnem 
+      regene<lb ed="#P" n="103" break="no"/>rari ac renovari; quia licet a foeditate illa nondum 
+      <lb ed="#P" n="104"/>„emundetur simpliciter, fit tamen ut ea non obstante, 
+      <lb ed="#P" n="105"/>propter ablatum concupiscentiae dominium, 
+      mem<lb ed="#P" n="106" break="no"/>bra hominis quae prius serviebant immunditiae &amp; 
+      <lb ed="#P" n="107"/>iniquitati ad iniquitatem, servire incipiant justitiae 
+      <lb ed="#P" n="108"/>in sanctificationem, Rom. 6. fiantque membra 
+      Chri<lb ed="#P" n="109" break="no"/>sti &amp; templum Spiritus sancti, 1. Corinth. 6. 
+    </p>
+            <p xml:id="bt67yj-p141824-d1e165">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Remanere autem in carne hominis renati 
+      foedita<lb ed="#P" n="111" break="no"/>tem, ostenditur ex ipsa generatione, qua foeditas 
+      il<lb ed="#P" n="112" break="no"/>la semini communicata a parente transmittitur in 
+      <lb ed="#P" n="113"/>prolem; quam &amp; inficit peccato originali, 
+      quemad<lb ed="#P" n="114" break="no"/>modum superiori dist. declaratum est. Idem arguunt 
+      <lb ed="#P" n="115"/>verba Augustini libr. 2. de peccatorum meritis cap. 
+      <lb ed="#P" n="116"/>25. dicentis, Christum id quod ex Virgine assumpsit, 
+      <lb ed="#P" n="117"/>aut suscipiendo mundasse, aut suscipiendum 
+      mun<lb ed="#P" n="118" break="no"/>dasse. Quae verba plane supponunt in carne aliorum 
+      <lb ed="#P" n="119"/>parentum aliquid immundum remapere, unde 
+      pro<lb ed="#P" n="120" break="no"/>les ab iis genita secundum carnem &amp; animam 
+      im<lb ed="#P" n="121" break="no"/>munda efficiatur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

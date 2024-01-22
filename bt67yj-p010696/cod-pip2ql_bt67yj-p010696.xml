@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="28"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p010696"><!-- l2d3c7" -->
+            <head xml:id="bt67yj-p010696-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p010696-Hd1e103" type="question-title">Utrum Angeli creati sint in gratia</head>
+            <p xml:id="bt67yj-p010696-d1e106">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> §. 7. Utrum Angeli creati sint in gratia.
+    </p>
+            <p xml:id="bt67yj-p010696-d1e113">
+               <lb ed="#P" n="38"/>QUaestio versatur apud Scholasticos, utrum in 
+      <lb ed="#P" n="39"/>gratia creati sint angeli, Gratiam autem 
+      intel<lb ed="#P" n="40" break="no"/>ligunt habituale quoddam &amp; supernaturale donum, 
+      <lb ed="#P" n="41"/>quo qui praeditus est, formaliter constituitur Deo 
+      <lb ed="#P" n="42"/>gratus &amp; acceptus ad vitam aeternam. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e126">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Negativam hujus quaestionis tenuerunt non pauci, 
+      <lb ed="#P" n="44"/>ut<ref xml:id="bt67yj-p010696-Rd1e134"> Hugo Vict. lib. I. de sacram. p. 5. c. 19</ref>. Ubi dicit 
+      an<lb ed="#P" n="45" break="no"/>gelos non in gratia creatos, sed tantum in bonitate, &amp; 
+      <lb ed="#P" n="46"/>justitia quadam naturali, qua recte quidem viverent, 
+      <lb ed="#P" n="47"/>non tamen beatitudinis praemium mererentur, &amp; 
+      <lb ed="#P" n="48"/>hanc suam sententiam ibidem per aliquot capita 
+      re<lb ed="#P" n="49" break="no"/>petit &amp; declarat. <name xml:id="bt67yj-p010696-Nd1e147">Hugonem</name> sequitur Magister hac 
+      <lb ed="#P" n="50"/>dist. §. F. I. K. &amp; rursum dist. 4. &amp; 5. quibus locis 
+      tri<lb ed="#P" n="51" break="no"/>buit angelis sine gratia creatis, non modo cognitionem 
+      <lb ed="#P" n="52"/>aliquam Dei, verum etiam dilectionem, scilicet ex 
+      do<lb ed="#P" n="53" break="no"/>no naturali profectam; non eam tamen qua mereri 
+      <lb ed="#P" n="54"/>possent beatitudinem. Eadem fuit opinio Ruperti 
+      di<lb ed="#P" n="55" break="no"/>ctis authoribus fere contemporanei. Nam lib. 13. in 
+      <lb ed="#P" n="56"/>Matth. negat angelos creatos fuisse in virtute, 
+      sancti<lb ed="#P" n="57" break="no"/>tate, gratia, &amp; lib. 3. de process. Spir.s. agens de primo 
+      <lb ed="#P" n="58"/>angeio qui cecidit, illa verba apud Ezech. Plenus 
+      sa<lb ed="#P" n="59" break="no"/>pientia, &amp;c. vult ironice de eo dicta esse, &amp;c. c. 9. illud 
+      <lb ed="#P" n="60"/>apud eundem prophetam aurum opus decoris tui, ita 
+      <lb ed="#P" n="61"/>supplet, esse debuit. Quo etiam ca. dicit angelum qui 
+      <lb ed="#P" n="62"/>cecidit, nunquam in se spiritum sanctum recepisse, &amp; 
+      <lb ed="#P" n="63"/>c. 17. pro absurdo habet quod daemones aliquando 
+      <lb ed="#P" n="64"/>arserint amore Dei. Idem lib. I. de victo. v. Deic. 29. 
+      <lb ed="#P" n="65"/>dicit angelos opera Dei bono &amp; simplici oculo 
+      spe<lb ed="#P" n="66" break="no"/>ctantes, &amp; artificis sapientiam laudantes, ad ejus 
+      ami<lb ed="#P" n="67" break="no"/>citiam digne fuisse provectos, aliis qui nequam 
+      ha<lb ed="#P" n="68" break="no"/>bentes oculum inviderunt &amp; oderunt, juste repulsis 
+      <lb ed="#P" n="69"/>longeque remotis. Horum sententiam multi 
+      schola<lb ed="#P" n="70" break="no"/>sticorum secuti sunt ut <name xml:id="bt67yj-p010696-Nd1e195">Alexander</name>, <name xml:id="bt67yj-p010696-Nd1e197">Bonaventura</name>, 
+      <lb ed="#P" n="71"/>
+               <name xml:id="bt67yj-p010696-Nd1e201">Marsilius</name>, <name xml:id="bt67yj-p010696-Nd1e204">Altisiodorensis</name>, imo ante aetatem S. 
+      Tho<lb ed="#P" n="72" break="no"/>mae, plerique, adeo ut ipse super dist. 4. hujus lib. q. 1. 
+      <!--0261.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>art. 3. fateatur eam suo seculo fuisse communiorem. 
+      <lb ed="#P" n="74"/>
+               <name xml:id="bt67yj-p010696-Nd1e217">Scotus</name> quoque &amp; Gabriel eidem sententiae magis. 
+      <lb ed="#P" n="75"/>adhaerent. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e223">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Moventur autem isti partim authoritate, partim 
+      <lb ed="#P" n="77"/>ratione, authoritate quidem, eo quod apud Patres 
+      <lb ed="#P" n="78"/>hanc sententiam reperiri existiment. Nam Aug. lib. 
+      <lb ed="#P" n="79"/>1. de Gen. ad lit. c. 1. &amp; aliquot sequentibus, (quae 
+      <lb ed="#P" n="80"/>loca citat in textu Magister) docet angelicam 
+      na<lb ed="#P" n="81" break="no"/>turam primo informiter creatam, &amp; caelum dictam; 
+      <lb ed="#P" n="82"/>deinde formatam, &amp; lucem fuisse appollatam. Qu 
+      <lb ed="#P" n="83"/>etiam lib. 11. ejusdem operis c. 23. dicit angelum 
+      ce<lb ed="#P" n="84" break="no"/>cidisse, non ab eo quod accepit, sed ab eo quod 
+      ac<lb ed="#P" n="85" break="no"/>cepisset, si Deo subdi voluisset. Idem lib. de corr. &amp; 
+      <lb ed="#P" n="86"/>gra. c. 10. scribit sic Deum ordinasse angelorum 
+      ho<lb ed="#P" n="87" break="no"/>minumque vitam, ut in ea prius ostenderet quid 
+      pos<lb ed="#P" n="88" break="no"/>set eorum liberum arbitrium, deinde quid posset suae, 
+      <lb ed="#P" n="89"/>gratiae beneficium, justitiaeque judicium. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e258">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Gregorius lib. 32. mor. c. 18. dicit quod primus 
+      <lb ed="#P" n="91"/>angelus capax charitatis est conditus, qua si repleri 
+      <lb ed="#P" n="92"/>voluisset, potuisset, &amp;c. Joan. Damascenus lib. 2. 
+      <lb ed="#P" n="93"/>de fide orth. c. 3. ita scribit: Per verbum creati sunt 
+      <lb ed="#P" n="94"/>omnes angeli, &amp; a spiritu sancto per sanctificationem 
+      <lb ed="#P" n="95"/>perfecti, pro dignitatis &amp; ordinis ratione 
+      illuminatio<lb ed="#P" n="96" break="no"/>nem &amp; gratiam adepti. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e278">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Huc etiam affertur quod Joannes Papa in quodam 
+      <lb ed="#P" n="98"/>decreto apud Gratianum 16. q. 2. ca. visis, loquitur 
+      <lb ed="#P" n="99"/>in haec verba: Dolet satis &amp; erubescit diabolus 
+      chari<lb ed="#P" n="100" break="no"/>tat&amp;m quam in caelo nequivit habere, homines 
+      constan<lb ed="#P" n="101" break="no"/>tes ex lutea materia tenere in terra. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e294">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Adjungitur &amp; scripturae authoritas. Nam Job. 4. 
+      <lb ed="#P" n="103"/>ubi nos legimus, &amp; in angelis suis reperit pravitatem, 
+      <lb ed="#P" n="104"/>Hebraea sic habent: Et in angelis suis non posuit 
+      lau<lb ed="#P" n="105" break="no"/>dem vel lucem, utroque enim modo verti potest 
+      di<lb ed="#P" n="106" break="no"/>ctio Hebraica; Gratiam autem lucis nomine in 
+      scri<lb ed="#P" n="107" break="no"/>pturis significari frequens est, ut cum justi vocantur 
+      <lb ed="#P" n="108"/>filii lucis. Unde &amp; Petrus I. c. 2. gratiam Dei 
+      commen<lb ed="#P" n="109" break="no"/>dans, Vocavit nos, inquit, in admirabile lumen suum.
+    </p>
+            <p xml:id="bt67yj-p010696-d1e316">
+               <lb ed="#P" n="110"/>Porro rationes pro hac sententia sunt hujusmodi.
+    </p>
+            <p xml:id="bt67yj-p010696-d1e321">
+               <lb ed="#P" n="111"/>Prima, Gratia media est inter naturam &amp; gloriam, 
+      <lb ed="#P" n="112"/>ergo sicut ordine temporis prior in angelis fuit gratia 
+      <lb ed="#P" n="113"/>quam gloria, ita &amp; prior esse debuit natura quam gratia. 
+      <lb ed="#P" n="114"/>Secunda, Omne id rei naturale est cum quo 
+      crea<lb ed="#P" n="115" break="no"/>tur. Inde enim colligimus aliquid alicui esse naturale, 
+      <lb ed="#P" n="116"/>quia cum eo creatum est: Si ergo angeli in gratia 
+      crea<lb ed="#P" n="117" break="no"/>ti essent, gratia illis esset naturalis, non autem 
+      superna<lb ed="#P" n="118" break="no"/>turalis, quod falsum est, &amp; damnatum, ac satis ex eo 
+      <lb ed="#P" n="119"/>probatur; quia gratia contra naturam distinguitur, 
+      <lb ed="#P" n="120"/>sicut &amp; distinguit Aug. lib. 12. de civit. c. 9. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e346">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Tertia, Si daemones fuissent creati in gratia, ut ique 
+      <lb ed="#P" n="122"/>cognovissent dignitatem gratiae, scilicet quod faciat 
+      <lb ed="#P" n="123"/>filios Dei, &amp; haeredes aeternae vitae; ergo non statim 
+      <lb ed="#P" n="124"/>libera voluntate eam perdidissent. Non enim 
+      veri<lb ed="#P" n="125" break="no"/>simile est eos tam cito liberrime amissuros fuisse 
+      do<lb ed="#P" n="126" break="no"/>num adeo excellens, cujus naturam, &amp; praestantiam 
+      <lb ed="#P" n="127"/>optime cognitam haberent. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e366">
+               <lb ed="#P" n="128"/>Porro his non obstantibus diversa sententia 
+      tan<lb ed="#P" n="129" break="no"/>quam longe probabilior, &amp; tam scripturae, quam 
+      Pa<lb ed="#P" n="130" break="no"/>trum dictis conformior a plerisque non immeriuo 
+      re<lb ed="#P" n="131" break="no"/>cipitur, ac nobis etiam probatur. Quoniam autem 
+      <lb ed="#P" n="132"/>praedictae opinionis assertores bifariam dividuntur: 
+      <lb ed="#P" n="133"/>Quidam enim ita negant angelos in gratia creatos 
+      <lb ed="#P" n="134"/>esse, ut nec postea gratiam fateantur collatam fuisse 
+      <lb ed="#P" n="135"/>iis omnibus, sed solis electis, id quod authoritates 
+      <lb ed="#P" n="136"/>quaedam adductae sonare videntur. Quo spectat 
+      <lb ed="#P" n="137"/>etiam tertia ratio. Alii vero concedunt omnes 
+      ange<lb ed="#P" n="138" break="no"/>los tam reprobos, quam electos post creationem 
+      gra<lb ed="#P" n="139" break="no"/>tia fuisse donatos; idcirco prius ostendendum est 
+      <lb ed="#P" n="140"/>contra priores, illud in quo cum affirmativa 
+      senten<lb ed="#P" n="141" break="no"/>tia posteriores conveniunt, scilicet gratiam fuisse 
+      <lb ed="#P" n="142"/>collatam etiam reprobis, priusquam ad terminum 
+      <lb ed="#P" n="143"/>viae in qua conditi sunt, pervenirent. Nam de 
+      ele<lb ed="#P" n="144" break="no"/>ctis nulla potest esse dubitatio, quandoquidem 
+      beati<lb ed="#P" n="145" break="no"/>tudinem, quam utique sine gratia promereri non 
+      po<lb ed="#P" n="146" break="no"/>terant, promeruisse eos constat, ut infra docebitur.
+    </p>
+            <p xml:id="bt67yj-p010696-d1e410">
+      <!--0262.xml-->
+               <pb ed="#P" n="29"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Probatur autem Ezech. 28. ubi sub typo regis 
+      <lb ed="#P" n="2"/>Tyri, diabolo dicitur; Tu signaculum similitudinis, 
+      <lb ed="#P" n="3"/>plenus sapientia, &amp; perfectus decore: At sapientia 
+      <lb ed="#P" n="4"/>quam scriptura per allegoriam commendat, non est 
+      <lb ed="#P" n="5"/>sine gratia. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e430">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Item ex eo quod Joan. 8. dicitur diabolus in 
+      veri<lb ed="#P" n="7" break="no"/>tate non stetisse, id est, perseverasse, per quod 
+      signi<lb ed="#P" n="8" break="no"/>ficatur aliquando in veritate fuisse. Veritas autem in 
+      <lb ed="#P" n="9"/>scripturis justitiam significare solet, id est, eam 
+      re<lb ed="#P" n="10" break="no"/>ctitudinem qua quis Deo gratus redditur. Unde 
+      si<lb ed="#P" n="11" break="no"/>mili phrasi dixit Ezech. 4. Reg. 20. Memento 
+      Domi<lb ed="#P" n="12" break="no"/>ne quomodo ambulaverim coram te in veritate. Docent 
+      <lb ed="#P" n="13"/>hoc ipsum Patres modo generatim loquentes de 
+      <lb ed="#P" n="14"/>omnibus angelis, modo speciatim de reprobis. Sic 
+      <lb ed="#P" n="15"/>enim Hieronymus in cap. 3. Osee, Judaeos qui ad 
+      <lb ed="#P" n="16"/>idola respicientes pristinam gratiam perdiderant, 
+      <lb ed="#P" n="17"/>cum daemonibus comparat, qui lapsi de propria 
+      di<lb ed="#P" n="18" break="no"/>gnitate, &amp; nihil antiquae gratiae possidentes; aridi 
+      <lb ed="#P" n="19"/>sunt &amp; veteri siccitate marcentes. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e465">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Item <ref xml:id="bt67yj-p010696-Rd1e471">Aug. lib. I1. de civit. cap. 11.</ref> testatur omnes 
+      <lb ed="#P" n="21"/>angelos divinam sapientiam participasse, non solum 
+      <lb ed="#P" n="22"/>ut viverent, sed etiam ut sapienter beateque 
+      vive<lb ed="#P" n="23" break="no"/>rent. Talis autem vita nequaquam est sine gratia. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e481">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Nec minus aperte Greg. qui lib. 32. mor. cap. 18. 
+      <lb ed="#P" n="25"/>locum Ezech. de diabolo exponens, inter alia dicit; 
+      <lb ed="#P" n="26"/>Quid namque boni non habuit, si signaculum 
+      simi<lb ed="#P" n="27" break="no"/>litudinis Dei fuit? Ubi &amp; consequenter docet 
+      scri<lb ed="#P" n="28" break="no"/>pturam plus aliquid illi tribuisse, quam homini ad 
+      <lb ed="#P" n="29"/>similitudinem Dei condito, quoniam ipse non ad 
+      <lb ed="#P" n="30"/>similitudinem Dei factus; sed ipsum signaculum si 
+      <lb ed="#P" n="31"/>militudinis Dei dicitur, ut quo subtilior est, inquit, 
+      <lb ed="#P" n="32"/>in natura, eo in illo similitudo Dei plenius credatur 
+      <lb ed="#P" n="33"/>expressa. Idem lib. 34. ejusdem operis cap. 17. dicit, 
+      <lb ed="#P" n="34"/>diabolum perdidisse beatitudines aeternae felicitatis, 
+      <lb ed="#P" n="35"/>&amp; dicit eum sic factum &amp; conditum esse, quatenus 
+      <lb ed="#P" n="36"/>authorem suum &amp; amans metueret, &amp; metuens 
+      <lb ed="#P" n="37"/>amaret, idque exponit de timore casto, quem 
+      cha<lb ed="#P" n="38" break="no"/>ritas gignit; Dicit eum similitudinem Dei 
+      perdidis<lb ed="#P" n="39" break="no"/>se; dicit eum amisisse charitatem Dei, quam imitari 
+      <lb ed="#P" n="40"/>debuit; Dicit eum non fuisse contentum 
+      participa<lb ed="#P" n="41" break="no"/>tione verae celsitudinis, &amp; sic jure perdidisse 
+      celsitu<lb ed="#P" n="42" break="no"/>dinem participatam. Item dicit: Nam quem 
+      exal<lb ed="#P" n="43" break="no"/>tabat libera servitus, dejecit captiva libertas. Ubi 
+      <lb ed="#P" n="44"/>manifeste significat quod servierit Deo libera 
+      servi<lb ed="#P" n="45" break="no"/>tute, quae est per charitatem. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e534">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Eadem sententia est Anselm ilib. de casu diaboli 
+      <lb ed="#P" n="47"/>ap. 3. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e543">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Sed quia praecipue nunc quaeritur, utrum omnes 
+      <lb ed="#P" n="49"/>in hac gratia fuerint creati; hoc enim pariter ab 
+      <lb ed="#P" n="50"/>utrisque negatur, quorum opinionem supra 
+      expo<lb ed="#P" n="51" break="no"/>suimus; ideo videndum quibus hoc argumentis 
+      con<lb ed="#P" n="52" break="no"/>tra eos doceatur. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e559">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Primum igitur argumentum est ex scriptura 
+      Ezech<lb ed="#P" n="54" break="no"/>28. ubi diabolo dicitur: Perfectus in vus tuis a die 
+      <lb ed="#P" n="55"/>conditionis tuae donec inventa est iniquitas in te. Quod 
+      <lb ed="#P" n="56"/>enim dicitur: Adie conditionis tuae, ita 
+      accipien<lb ed="#P" n="57" break="no"/>dum Hebraica phrasi, quasi diceretur, ab initio, sive 
+      <lb ed="#P" n="58"/>ab ipso momento creationis. Nec est quod objiciat 
+      <lb ed="#P" n="59"/>aliquis, parum firmum videri hoc argumentum, eo 
+      <lb ed="#P" n="60"/>quod procedat ex sensu allegorico. Nam 
+      firmita<lb ed="#P" n="61" break="no"/>tem ei addit communis interpretatio Patrum, 
+      Hie<lb ed="#P" n="62" break="no"/>ronymi, Gregorii, &amp; aliorum qui eam scripturam 
+      <lb ed="#P" n="63"/>mystice de diabolo exposuerunt. Neque profecto 
+      <lb ed="#P" n="64"/>spiritus Dei per prophetam de rege Tyri, tam 
+      gran<lb ed="#P" n="65" break="no"/>dia loqueretur, nisi sub illorum verborum velamine, 
+      <lb ed="#P" n="66"/>sublimior alius sensus tegeretur. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e594">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Secundum argumentum est ex Patribus inter 
+      <lb ed="#P" n="68"/>quos <ref xml:id="bt67yj-p010696-Rd1e602">August. lib. I1. de civit. cap. 11</ref>. de omnibus 
+      <lb ed="#P" n="69"/>angelis disserens: Simul, inquit, ut facti sunt, lux 
+      <lb ed="#P" n="70"/>facti sunt; non ita tantum creati, ut quoquo modo 
+      <lb ed="#P" n="71"/>essent, sed etiam illuminati ut sapienter beateque 
+      vi<lb ed="#P" n="72" break="no"/>verent. Apertius autem lib. 12. cap. 9. Bonam 
+      vo<lb ed="#P" n="73" break="no"/>luntatem, inquit, in eis quis fecerat, nisi ille qui eos 
+      <lb ed="#P" n="74"/>cum bona voluntate, id est, cum amore casto, quo 
+      <!--0262.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>illi adhaererent, creavit, simul in eis &amp; condens 
+      natu<lb ed="#P" n="76" break="no"/>ram &amp; largiens gratiam? Unde sine bona 
+      volunta<lb ed="#P" n="77" break="no"/>te, hoc est, Dei amore, nunquam sanctos argelos 
+      <lb ed="#P" n="78"/>fuisse credendum est, &amp; quae sequuntur, ubi 
+      expres<lb ed="#P" n="79" break="no"/>se docet etiam malos angelos ab initio accepisse 
+      <lb ed="#P" n="80"/>gratiam divini amoris. Idem lib. de corr. &amp; gra. cap. 7 
+      <lb ed="#P" n="81"/>10. dicit angelos in principio accepisse charitatem, 
+      <lb ed="#P" n="82"/>per quam stare, id est, perseverare possent, si vellent; 
+      <lb ed="#P" n="83"/>sed non eam charitatis abundantiam per quam ca¬¬ 
+      <lb ed="#P" n="84"/>dere ulterius non possent, &amp; quidem ex his patet 
+      <lb ed="#P" n="85"/>hanc indubitanter esse Augustini sententiam. Sed &amp; 
+      <lb ed="#P" n="86"/>ante eum Basilius super illud psalmi 32. Verbo 
+      Domi<lb ed="#P" n="87" break="no"/>ni caeli firmati sunt, multis &amp; apertis verbis docet 
+      <lb ed="#P" n="88"/>virtutes caelestes, id est angelos, in ipsa creatione 
+      <lb ed="#P" n="89"/>infusam a spiritu sancto sanctitatem accepisse. Idem 
+      <lb ed="#P" n="90"/>cap. 16. de spiritu sancto docet apertissime. His 
+      ac<lb ed="#P" n="91" break="no"/>cedit glossa ordinaria super illud Osee 3. Vinacia 
+      <lb ed="#P" n="92"/>uvarum. Per vinacia, inquit, daemones qui creati 
+      <lb ed="#P" n="93"/>sunt in magna pinguedine spiritus sancti, sed per 
+      su<lb ed="#P" n="94" break="no"/>perbiam arefacti de caelo sunt projecti. Ex 
+      Hicrony<lb ed="#P" n="95" break="no"/>mo¬ 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e668">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Cyrillus quoque lib. 6. in Joan. cap. 6. dicit 
+      dia<lb ed="#P" n="97" break="no"/>bolum in veritate non stetisse, quia prolapsus est, 
+      in<lb ed="#P" n="98" break="no"/>quit, a veritate, nec manere voluit in suae 
+      sanctita<lb ed="#P" n="99" break="no"/>tis origine: factus enim fuerat ad imaginem &amp; 
+      simili<lb ed="#P" n="100" break="no"/>tudinem Dei, sed superbiendo retinuit quidem 
+      ima<lb ed="#P" n="101" break="no"/>ginem; amisit tamen veritatem similitudinis, quia 
+      <lb ed="#P" n="102"/>ex justo &amp; bono angelo, diabolus injustus &amp; malus 
+      <lb ed="#P" n="103"/>factus est. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e690">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Tertia probatio est a ratione. Non enim 
+      putan<lb ed="#P" n="105" break="no"/>dum est angelum quo ad donum gratiae, factum 
+      fuis<lb ed="#P" n="106" break="no"/>se inferiorem homine. Quare si homo ab initio 
+      re<lb ed="#P" n="107" break="no"/>ctus &amp; justus &amp; gratia praeditus, &amp; spiritu sancto 
+      <lb ed="#P" n="108"/>donatus fuit, quemadmodum ex scripturis &amp; 
+      patri<lb ed="#P" n="109" break="no"/>bus docebitur infra ad dist. 25. ratio poscit ut idem 
+      <lb ed="#P" n="110"/>sentiamus de angclo¬ 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e711">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Alia ratio. Si angelica natura creata fuit sine 
+      gra<lb ed="#P" n="112" break="no"/>tia, non erat perfecta secundum tempus, (quod 
+      ta<lb ed="#P" n="113" break="no"/>men ei tribuendum est, atque etiam tribuunt Hugo 
+      <lb ed="#P" n="114"/>lib. 1. de sacramentis cap. 5. &amp; Magister dist. 
+      proxi<lb ed="#P" n="115" break="no"/>me sequente.) Non enim moveri poterat ad suum 
+      <lb ed="#P" n="116"/>finem ad quem condita erat, quia ut hoc posset, 
+      gra<lb ed="#P" n="117" break="no"/>tia necessaria erat. Nec valet responsio, si dicas eam 
+      <lb ed="#P" n="118"/>sine gratia moveri potuisse in finem naturalem. 
+      <lb ed="#P" n="119"/>Nam creata erat non solum ad finem naturalem, sed 
+      <lb ed="#P" n="120"/>etiam &amp; praecipue ad finem supernaturalem. Neque 
+      <lb ed="#P" n="121"/>enim ad hunc finem destinata fuit post creationem; 
+      <lb ed="#P" n="122"/>sed ab initio, quia propter eum condita. Ad quem 
+      <lb ed="#P" n="123"/>proinde si moveri statim initio non poterat, haud 
+      <lb ed="#P" n="124"/>igitur ut dixi, secundum tempus perfecta erat. 
+      <lb ed="#P" n="125"/>b 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e748">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Hanc rationem corroborat ea quae est apud Sanct. 
+      <lb ed="#P" n="127"/>Thomam 1. q. 62. a. 3. &amp; est talis: Omnia quae 
+      pro<lb ed="#P" n="128" break="no"/>cessu temporis per opus divinae providentiae 
+      produ<lb ed="#P" n="129" break="no"/>cuntur, in prima rerum conditione producta fuerunt. 
+      <lb ed="#P" n="130"/>secundum quasdam seminales rationes, velut 
+      arbo<lb ed="#P" n="131" break="no"/>res, animalia, &amp; alia hujusmodi, quemadmodum &amp;, 
+      <lb ed="#P" n="132"/>Gen. 1. docet August. lib. 8. de Gen. ad lit. cap. 3. 
+      <lb ed="#P" n="133"/>Manifestum est autem quod gratia gratum faciens. 
+      <lb ed="#P" n="134"/>ita comparatur ad beatitudinem sicut ratio 
+      semina<lb ed="#P" n="135" break="no"/>lis in natura ad effectum naturalem. Unde I. Joan. 3. 
+      <lb ed="#P" n="136"/>gratia semen Dei vocatur. Quare sicut res naturales. 
+      <lb ed="#P" n="137"/>in sua creatione sibi inditas acceperunt rationes 
+      se<lb ed="#P" n="138" break="no"/>minales omnium suorum effectuum, &amp; operationum 
+      <lb ed="#P" n="139"/>naturalium, ita &amp; angeli in sua creatione gratiam 
+      <lb ed="#P" n="140"/>acceperunt tanquam semen quoddam operationis 
+      <lb ed="#P" n="141"/>ad quam conditi sunt, id est aeternae beatitudinis. 
+    </p>
+            <p xml:id="bt67yj-p010696-d1e787">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Sentiunt autem cum S. Thoma omnes ejus 
+      sequa<lb ed="#P" n="143" break="no"/>ces, ac praeterea <name xml:id="bt67yj-p010696-Nd1e795">Albertus Magnus</name>, <name xml:id="bt67yj-p010696-Nd1e797">Durandus</name>, <name xml:id="bt67yj-p010696-Nd1e800">
+      Ari<lb ed="#P" n="144" break="no"/>minensis</name>. Quorum etiam sententiae subscribit 
+      Cate<lb ed="#P" n="145" break="no"/>chismus parochorum, ad illud symboli: Creatorem 
+      <lb ed="#P" n="146"/>caeli &amp; terrae: Perspicuum est, inquit, diabolum 
+      reli<lb ed="#P" n="147" break="no"/>quosque desertores angelos, ab ortus sui initio 
+      gra<lb ed="#P" n="148" break="no"/>tia praeditos fuisse.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

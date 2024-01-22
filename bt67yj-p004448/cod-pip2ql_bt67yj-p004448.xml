@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="12"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p004448"><!-- l2d1c12" -->
+            <head xml:id="bt67yj-p004448-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-p004448-Hd1e103" type="question-title">Quare factus sit mundus</head>
+            <p xml:id="bt67yj-p004448-d1e106">
+      <!--0245.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>§. 12. Quare factus sit mundus.
+    </p>
+            <p xml:id="bt67yj-p004448-d1e115">
+               <lb ed="#P" n="76"/>DUm quaeritur quare Deus mundum fecerit, 
+      <lb ed="#P" n="77"/>non causa quaeritur divinae voluntatis, aut 
+      fi<lb ed="#P" n="78" break="no"/>nis Deo propositus, quem ipse sibi per hoc suum 
+      <lb ed="#P" n="79"/>opificium acquirere voluerit, sicut homo domum 
+      <lb ed="#P" n="80"/>facit propter bonum suum assequendum, scilicet 
+      <lb ed="#P" n="81"/>inhabitationem, aut locum, aut quid simile. Deus 
+      <lb ed="#P" n="82"/>enim perfectissimus ac nullius indigens, sicut 
+      effi<lb ed="#P" n="83" break="no"/>cientem causam non habet, ita nec finalem, ipse 
+      <lb ed="#P" n="84"/>rerum omnium principium &amp; finis. Qua 
+      conside<lb ed="#P" n="85" break="no"/>ratione Augustinus libr. 1. de gen. cont. Man. cap. 
+      <lb ed="#P" n="86"/>2. &amp; libr. 83. quaest. 28. quaerenti cur fecerit Deus 
+      <lb ed="#P" n="87"/>caelum &amp; terram, tantum respondet quia voluit; 
+      <lb ed="#P" n="88"/>ulterius autem quaerenti quare voluerit stultam 
+      es<lb ed="#P" n="89" break="no"/>se dicit eam quaestionem, cum nulla sit causa 
+      vo<lb ed="#P" n="90" break="no"/>luntatis divinae, cujus sententiae veritatem 
+      exposui<lb ed="#P" n="91" break="no"/>mus ad distinctionem 45. libri primi. Veruntamen 
+      <lb ed="#P" n="92"/>ut ex ejusdem loci doctrina perspici potest, recte 
+      <lb ed="#P" n="93"/>ejus operis quod Deus facere voluit, &amp; fecit, 
+      assi<lb ed="#P" n="94" break="no"/>gnatur causa finalis propter quam Deus ipsum fecit 
+      <lb ed="#P" n="95"/>&amp; facere voluit. Unde sicut dictum est Proverb. 
+      <lb ed="#P" n="96"/>16. Universa propter semetipsum operatus est 
+      Domi<lb ed="#P" n="97" break="no"/>nus; ita dici quoque potest, universa propter 
+      se<lb ed="#P" n="98" break="no"/>metipsum operari voluit Dominus, una tamen &amp; 
+      <lb ed="#P" n="99"/>eadem voluntate, quae ipsius essentia est, &amp; opus 
+      <lb ed="#P" n="100"/>ipsum volens &amp; finem ejus. Finalis igitur causa 
+      <lb ed="#P" n="101"/>mundi creati est bonitas Dei, quatenus nimirum 
+      <lb ed="#P" n="102"/>ea creaturis communicatur, id est aliis verbis, 
+      com<lb ed="#P" n="103" break="no"/>municatio bonitatis divinae, ita ut quaerenti quare 
+      <lb ed="#P" n="104"/>Deus mundum fecerit recte respondeatur; ut 
+      boni<lb ed="#P" n="105" break="no"/>tatem suam ad extra communicaret. Hoc enim 
+      sen<lb ed="#P" n="106" break="no"/>su docent patres creationis rerum causam esse 
+      bo<lb ed="#P" n="107" break="no"/>nitatem Dei, ut Augustinus enchir. 9. libro 
+      unde<lb ed="#P" n="108" break="no"/>cimo confessionum cap. quarto &amp; in expositione 
+      <lb ed="#P" n="109"/>Fsalmi 138. Quod &amp; legitur in libro de diligendo 
+      <lb ed="#P" n="110"/>Deo seu meditationum Augustini titulo capit. 2. 
+      <lb ed="#P" n="111"/>inter opera ejus tom. 9. Et idem Augustinus libro 
+      <lb ed="#P" n="112"/>undecimo de civit. cap. 21. vehementer probat 
+      sen<lb ed="#P" n="113" break="no"/>tentiam. Platonis dicentis, hanc condendi mundi 
+      <lb ed="#P" n="114"/>justissimam causam suisse, ut a bono Deo bona opera 
+      <lb ed="#P" n="115"/>fierent. Siquidem hoc interest inter operantem 
+      <lb ed="#P" n="116"/>Deum &amp; creaturam, quod omnis creatura operatur 
+      <lb ed="#P" n="117"/>ut bona sit, id est, ut perfectionem suam acquirat, 
+      <lb ed="#P" n="118"/>aut conservet, Deus autem operatur tantum quia 
+      <lb ed="#P" n="119"/>bonus est, id est, perfectionem suam operando aliis 
+      <lb ed="#P" n="120"/>communicat, ipse nullius perfectionis indigens, nec 
+      <lb ed="#P" n="121"/>ullius assequendae capax. 
+    </p>
+            <p xml:id="bt67yj-p004448-d1e217">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Quod autem Magister dicit in textu, mundum 
+      <lb ed="#P" n="123"/>factum esse ut homini serviret, id quod etiam 
+      habe<lb ed="#P" n="124" break="no"/>tur in libro jam dicto de diligendo Deo cap. 3. &amp; 4. 
+      <lb ed="#P" n="125"/>non de toto mundo accipiendum. Non enim homo 
+      <lb ed="#P" n="126"/>propter semetipsum, neque angelus propter 
+      homi<lb ed="#P" n="127" break="no"/>nem factus est. Sed de mundo ut a creatura 
+      intelle<lb ed="#P" n="128" break="no"/>ctuali distinguitur, id est, qua parte sola ea quae 
+      <lb ed="#P" n="129"/>mentis expertia sunt, complectitur. Nam de 
+      infe<lb ed="#P" n="130" break="no"/>rioribus quidem dictum est, psal. 8. Omnia subjecisti 
+      <lb ed="#P" n="131"/>sub pedibus ejus, &amp;c. de superioribus autem, id est, 
+      <lb ed="#P" n="132"/>caelestibus scriptum est. Gen. I. quod luminaria in 
+      <lb ed="#P" n="133"/>caelo posita sunt ut sint in signa, &amp; tempora, &amp; dies 
+      <lb ed="#P" n="134"/>&amp; annos, &amp;c. scilicet ad usum hominum. Et Deut. 4. 
+      <lb ed="#P" n="135"/>quod sol &amp; luna &amp; omnia astra caeli creata sunt a 
+      <lb ed="#P" n="136"/>Deo in ministerium cunctis gentibus. Verum ita ad 
+      <lb ed="#P" n="137"/>hominis ministerium corporeus hic mundus factus 
+      <lb ed="#P" n="138"/>est, ut per eum homo ad Dei creatoris notitiam &amp; 
+      <lb ed="#P" n="139"/>amorem erigeretur. 
+    </p>
+            <p xml:id="bt67yj-p004448-d1e262">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Caeterum absurdus est, &amp; proinde cavendus 
+      er<lb ed="#P" n="141" break="no"/>ror eorum qui dicunt Deum fecisse materiam, &amp; 
+      <lb ed="#P" n="142"/>ex materia mundum, ad puniendum diabolum, sive 
+      <lb ed="#P" n="143"/>ad hoc (quemadmodum loquitur author 
+      quaestio<lb ed="#P" n="144" break="no"/>num veteris &amp; novi testamenti quaestione secunda 
+      <lb ed="#P" n="145"/>inter opera Augustini) ut diaboli praesumptionem 
+      <!--0246.xml-->
+      <pb ed="#P" n="13"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non potestate, sed ratione destrueret; absurdus, 
+      in<lb ed="#P" n="2" break="no"/>quam, tum quia satis per se manifestum est 
+      pulcher<lb ed="#P" n="3" break="no"/>rimum hoc mundi opificium, non exercendae 
+      puni<lb ed="#P" n="4" break="no"/>tionis, sed magis declarandae Dei bonitatis 
+      instru<lb ed="#P" n="5" break="no"/>mentum esse. Authoritas autem dicti operis multis 
+      <lb ed="#P" n="6"/>aliis etiam de causis suspecta (nam Augustini non 
+      <lb ed="#P" n="7"/>esse certissime constat) merito ab omnibus doctis 
+      <lb ed="#P" n="8"/>rejicitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

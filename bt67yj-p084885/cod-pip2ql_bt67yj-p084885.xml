@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="219"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p084885"><!-- l2d23c5" -->
+            <head xml:id="bt67yj-p084885-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p084885-Hd1e103" type="question-title">Quae scientia supernaturalis homini in 
+      creatione collata</head>
+            <p xml:id="bt67yj-p084885-d1e106">
+               <lb ed="#P" n="59"/>§. 5. Quae scientia supernaturalis homini in 
+      <lb ed="#P" n="60"/>creatione collata.
+    </p>
+            <p xml:id="bt67yj-p084885-d1e113">
+               <lb ed="#P" n="61"/>PRaeter naturalem rerum scientiam omnino 
+      fa<lb ed="#P" n="62" break="no"/>tendum est, primo homini in sua creatione 
+      fuis<lb ed="#P" n="63" break="no"/>se infusam a Deo quandam scientiam sive notitiam 
+      <lb ed="#P" n="64"/>supernaturalem, quippe qui conditus fuerit ad 
+      fi<lb ed="#P" n="65" break="no"/>nem supernaturalem, quem consequi impossibile 
+      <lb ed="#P" n="66"/>erat per solam eam notitiam quae viribus naturae 
+      <lb ed="#P" n="67"/>acquiritur. Sed haec res rursum per aliquot 
+      docu<lb ed="#P" n="68" break="no"/>menta nobis explicanda. Quorum 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e133">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Primum sit istud: Adam non est conditus cum ea 
+      <lb ed="#P" n="70"/>notitia qua Deum videret per essentiam. Quod 
+      pri<lb ed="#P" n="71" break="no"/>mum probatur ex comparatione angelorum.
+    </p>
+            <p xml:id="bt67yj-p084885-d1e145">
+      <!--0452.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Non enim perfectior secundum intellectum 
+      crea<lb ed="#P" n="73" break="no"/>tus est homo quam angeli; hos autem cum 
+      hujus<lb ed="#P" n="74" break="no"/>modi notitia creatos non fuisse, manifestum est ex 
+      <lb ed="#P" n="75"/>iis quae de angelis disputata sunt hoc libro, 
+      praeser<lb ed="#P" n="76" break="no"/>tim ad dist. 3. 4. &amp; 5. Deinde probatur hac ratione, 
+      <lb ed="#P" n="77"/>quia nemo videns Deum per essentiam potest 
+      vo<lb ed="#P" n="78" break="no"/>luntate averti a Deo, quod est peccare; atqui Adam 
+      <lb ed="#P" n="79"/>peccavit, non igitur sic creatus est, ut Dei essentiam 
+      <lb ed="#P" n="80"/>videret. Haec probatio est S. Thomae 1. part. quaest. 
+      <lb ed="#P" n="81"/>94. art. 1. &amp; quaest. 18. de veritate art. 1. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e174">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Secundum: Adam in statu innocentiae non vidit 
+      <lb ed="#P" n="83"/>Deum per essentiam, ne in raptu quidem. Prior pars 
+      <lb ed="#P" n="84"/>praeter jam dictam rationem, communi 
+      Theologo<lb ed="#P" n="85" break="no"/>rum sententia probatur. Consentiunt enim omnes 
+      <lb ed="#P" n="86"/>in hoc quod primus homo Deum non viderit per 
+      <lb ed="#P" n="87"/>modum habitus, id est, permanenter, scilicet eo 
+      <lb ed="#P" n="88"/>modo quo videtur a beatis in patria. Eam enim 
+      vi<lb ed="#P" n="89" break="no"/>sionem necessario consequitur impeccabilitas in 
+      ani<lb ed="#P" n="90" break="no"/>ma, &amp; ex animae redundantia serfecta 
+      immortali<lb ed="#P" n="91" break="no"/>tas in corpore. Quarum neutram in Adamo fuisse 
+      <lb ed="#P" n="92"/>certum est. Sed utrum viderit in raptu, seu per 
+      mo<lb ed="#P" n="93" break="no"/>dum transeuntis, ut loquuntur, eo videlicet modo 
+      <lb ed="#P" n="94"/>quo quidam existimant Moysen &amp; Paulum vidisse 
+      <lb ed="#P" n="95"/>Deum, nonnullam quaestionem habet, de qua S. 
+      <lb ed="#P" n="96"/>Thomas loco jam dicto in summa nihil determinat. 
+      <lb ed="#P" n="97"/>Tantum enim affirmat, quo primus homo Deum 
+      <lb ed="#P" n="98"/>per essentiam non vidit secundum communem 
+      sta<lb ed="#P" n="99" break="no"/>tum illius vitae. Nisi forte dicatur, inquit, quod 
+      <lb ed="#P" n="100"/>viderit cum in raptu, quando Deus misit soporem in 
+      <lb ed="#P" n="101"/>Adam ut dicitur Genes. 2. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e222">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Sunt qui partem affirmantem statuant ex 
+      Augu<lb ed="#P" n="103" break="no"/>stino lib. 9. de Genes. ad litteram cap. ult. scribente 
+      <lb ed="#P" n="104"/>in hunc modum: Ecstasis illa quam Deus immisit in 
+      <lb ed="#P" n="105"/>Adam ut soporatus obdormiret, recte intelligitur ad 
+      <lb ed="#P" n="106"/>hoc immissa, ut &amp; ipsius mens per ecstasim 
+      parti<lb ed="#P" n="107" break="no"/>ceps fieret tanquam angelicaetcuriae; &amp; intrans 
+      sanctua<lb ed="#P" n="108" break="no"/>rium Dei intelligeret novissima. Item ex Bernardo 
+      <lb ed="#P" n="109"/>serm. 2. Septuagesimae, dicente de Adam: Mihi 
+      <lb ed="#P" n="110"/>quidem nonnisi incommutabilis veritatis intuitu &amp; 
+      <lb ed="#P" n="111"/>abysso divinae sapientiae corporeis excedens sensibus 
+      <lb ed="#P" n="112"/>obdormisse videtur. Quin ipse S. Thomas alibi, ut 
+      <lb ed="#P" n="113"/>q. 18. de veritate art. 1. ad 13. hanc sententiam ut 
+      <lb ed="#P" n="114"/>probabilem tenet, ut &amp; alii nonnulli. Durandus in 
+      <lb ed="#P" n="115"/>praesentem dist. quaest. 2. Richardus in eandem 
+      ar<lb ed="#P" n="116" break="no"/>ticulo 2. quaest. 1. ad 2. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e259">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Verum pars negativa multo probabilior est. Jam 
+      <lb ed="#P" n="118"/>enim supra ad dist. 11. generaliter ostendimus, 
+      nul<lb ed="#P" n="119" break="no"/>lum hominem in hac vita, qua tanquam via ad 
+      cae<lb ed="#P" n="120" break="no"/>lestem patriam tenditur, Deum per essentiam 
+      vidis<lb ed="#P" n="121" break="no"/>se, nec admittendam esse exceptionem de Moyse &amp; 
+      <lb ed="#P" n="122"/>Paulo, quam quidam faciunt. Ac certe minus 
+      vide<lb ed="#P" n="123" break="no"/>tur admittenda exceptio de Adamo, tum quod is 
+      <lb ed="#P" n="124"/>paulo post tam graviter peccaverit in Deum &amp; in 
+      <lb ed="#P" n="125"/>universam suam posteritatem, tum quod haec 
+      exce<lb ed="#P" n="126" break="no"/>ptio nusquam apud patres legatur. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e285">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Unde Dionysius Carthusianus qu. 2. super 
+      praesen<lb ed="#P" n="128" break="no"/>tem dist. negat se legisse apud ullum doctorem 
+      au<lb ed="#P" n="129" break="no"/>thenticum, quod Adam in illo sopore viderit Dei 
+      <lb ed="#P" n="130"/>essentiam. Et quidem si id concedamus, nihil 
+      pro<lb ed="#P" n="131" break="no"/>hibebit cur non idem dicatur de angelis, etiam iis 
+      <lb ed="#P" n="132"/>qui lapsi sunt; scilicet quod Deum per essentiam 
+      vi<lb ed="#P" n="133" break="no"/>derint in raptu, dum adhuc essent in via &amp; statu 
+      me<lb ed="#P" n="134" break="no"/>rendi, quod tamen est inauditum 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e307">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Nec diversum probant allegata Augustini verba, 
+      <lb ed="#P" n="136"/>quia nulla in iis est mentio visionis Dei; nec aliud 
+      <lb ed="#P" n="137"/>significant quam Adamo secreta quaedam caelestia 
+      <lb ed="#P" n="138"/>in ecstasi suisse revelata. Quin potius contrarium eo 
+      <lb ed="#P" n="139"/>loco significat Augustiis. Nam statim subjungit, 
+      <lb ed="#P" n="140"/>Adamum ex illo sopore experrectum fuisse tanquam 
+      <lb ed="#P" n="141"/>prophetiae plenum; non ergo sentit eum vidisse Dei 
+      <lb ed="#P" n="142"/>essentiam, sed tantum propheticam accepisse 
+      visio<lb ed="#P" n="143" break="no"/>nem. Ea autem pertinet ad imperfectionem hujus 
+      <lb ed="#P" n="144"/>vitae, sicut fides &amp; spes, juxta illud Apost. 1. Cor. 13. Ex 
+      <lb ed="#P" n="145"/>parte cognoscimus &amp; ex parte prophetamus. At neque 
+      <!--0453.xml-->
+      <pb ed="#P" n="220"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>
+               <name xml:id="bt67yj-p084885-Nd1e343">Bernardus</name> visionem Dei nomina; neque aliud vult! 
+      <lb ed="#P" n="2"/>quam quod Adam in illa ecstasi veritatem divinam 
+      <lb ed="#P" n="3"/>intuitus fuerit excellenti quodammodo, qui 
+      perfe<lb ed="#P" n="4" break="no"/>ctioni status ejus congrueret. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e354">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Tertium documentum: Primus homo licet 
+      evi<lb ed="#P" n="6" break="no"/>dentem habuerit notitiam eorum quae de Deo 
+      na<lb ed="#P" n="7" break="no"/>turaliter sciri possunt, cujusmodi sunt, Deum esse, 
+      <lb ed="#P" n="8"/>eumque esse unum, incorporeum, optimum, 
+      sapien<lb ed="#P" n="9" break="no"/>tissimum, primam rerum causam, &amp; alia hujusmodi: 
+      <lb ed="#P" n="10"/>non tamen eorum quae proprie ad fidem pertinent, 
+      <lb ed="#P" n="11"/>id est, quae sola divina revelatione cognosci 
+      pos<lb ed="#P" n="12" break="no"/>sunt; propterea quod excedant facultatem rationis 
+      <lb ed="#P" n="13"/>ac luminis naturalis, ut sunt, Deum esse trinum, 
+      <lb ed="#P" n="14"/>Deum habere filium, Deum futurum hominem, &amp;c. 
+      <lb ed="#P" n="15"/>Prior pars patet ex iis quae dicta sunt de scientia 
+      <lb ed="#P" n="16"/>naturali primi hominis, quarto documento. Et 
+      fa<lb ed="#P" n="17" break="no"/>cile probatur, quoniam &amp; philosophi quidam solo 
+      <lb ed="#P" n="18"/>naturali lumine talem de Deo notitiam assecuti sunt, 
+      <lb ed="#P" n="19"/>licet non aeque cenum, plenam &amp; perfectam, uti 
+      <lb ed="#P" n="20"/>ostensum est ad dist. 3. Posterior patebit ex quarto, 
+      <lb ed="#P" n="21"/>quod tale est. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e396">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Primus homo in creatione &amp; durante statu 
+      inno<lb ed="#P" n="23" break="no"/>centiae habuit fidem mysteriorum quae naturalem 
+      <lb ed="#P" n="24"/>cognitionem excedunt. Id probant imprimis ea 
+      pa<lb ed="#P" n="25" break="no"/>trum testimonia quibus affirmant, Adamum 
+      pec<lb ed="#P" n="26" break="no"/>cando fidem amisisse; quae infra suo loco 
+      proferen<lb ed="#P" n="27" break="no"/>tur. Si enim amisit, procul dubio prius habuit. 
+      Pro<lb ed="#P" n="28" break="no"/>batur item hac ratione, quia primus homo viator 
+      <lb ed="#P" n="29"/>erat; ergo per fidem ambulabat, 2. Cor. 5. &amp; in 
+      <lb ed="#P" n="30"/>aenigmate videbat, 1. Corinth. 13. Item, quia in 
+      an<lb ed="#P" n="31" break="no"/>gelis fuit fides antequam confirmarentur in bono. 
+      <lb ed="#P" n="32"/>Denique generales &amp; apertae sunt Apostoli 
+      senten<lb ed="#P" n="33" break="no"/>tiae. Heb. 10. Justus ex fide vivit; &amp; 11. Sine fide 
+      <lb ed="#P" n="34"/>impossibile est placere Deo. Atque hinc consequens est, 
+      <lb ed="#P" n="35"/>quod modo dicebamus, primum hominem non 
+      ha<lb ed="#P" n="36" break="no"/>buisse notitiam evidentem ne quidem abstractivam 
+      <lb ed="#P" n="37"/>mysteriorum naturalem cognitionem excedentium, 
+      <lb ed="#P" n="38"/>nam evidentia fidem destruit. Est enim fides eorum 
+      <lb ed="#P" n="39"/>quae non apparent, Hebr. 11. Quocirca rejicienda 
+      <lb ed="#P" n="40"/>est opinio Scoti primo homini tribuentis notitiam 
+      <lb ed="#P" n="41"/>evidentem hujusmodi mysteriorum. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e444">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Quintum: Primus homo ante lapsum, &amp; angelus 
+      <lb ed="#P" n="43"/>ante confirmationem quaedam cognoverunt 
+      eviden<lb ed="#P" n="44" break="no"/>ti &amp; manifesta cognitione, quae nos non 
+      cognosci<lb ed="#P" n="45" break="no"/>mus nisi per fidem. Affirmat hoc S. Thomas 2. 2. q. 5. 
+      <lb ed="#P" n="46"/>art. 1. Veritatem autem habet in iis dumtaxat quae 
+      <lb ed="#P" n="47"/>per accidens pertinent ad fidem, per se autem 
+      scien<lb ed="#P" n="48" break="no"/>tifice cognosci possunt etiam in hac vita. Nam &amp; 
+      <lb ed="#P" n="49"/>nunc quaedam divinitus nobis revelata a doctis 
+      <lb ed="#P" n="50"/>sciuntur &amp; ab indoctis creduntur, quemadmodum 
+      <lb ed="#P" n="51"/>S. Thomas ibidem explicat. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e470">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Sextum: Primus homo per fidem cognovit 
+      ulti<lb ed="#P" n="53" break="no"/>mum finem supernaturalem humanae atque etiam 
+      <lb ed="#P" n="54"/>angelicae naturae: quare &amp; scivit aeternae illius 
+      felici<lb ed="#P" n="55" break="no"/>tatis praemia bonis &amp; justis ac Deo servientibus esse 
+      <lb ed="#P" n="56"/>reposita, nam ut ait Apostolus Heb. 11. Accedentem 
+      <lb ed="#P" n="57"/>ad Deum credere oportet, quia inquirentibus se 
+      remu<lb ed="#P" n="58" break="no"/>nerator est. Quod &amp; ex eo probatur, quia per 
+      gra<lb ed="#P" n="59" break="no"/>tiam in qua creatus fuit, statim &amp; continuo tendere 
+      <lb ed="#P" n="60"/>debebat in illum finem. Caeterum cognoscere quod 
+      <lb ed="#P" n="61"/>aeterna supplicia peccatoribus sint a justo judice Deo 
+      <lb ed="#P" n="62"/>praeparata, non pertinet per se ad scientiam 
+      superna<lb ed="#P" n="63" break="no"/>turalem; quia lex Dei aeterna &amp; incommutabilis 
+      <lb ed="#P" n="64"/>eam justitiam exigit, &amp; exigeret, etiamsi homo non 
+      <lb ed="#P" n="65"/>esset conditus ad finem supernaturalem. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e505">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Septimum: Cognovit per fidem ea quae ad finem 
+      <lb ed="#P" n="67"/>illum consequendum simpliciter &amp; omni tempore 
+      <lb ed="#P" n="68"/>sunt homini necessaria, &amp; adeum proprie ordinata; 
+      <lb ed="#P" n="69"/>ut sunt, gratia gratum faciens virtutes Theologicae, 
+      <lb ed="#P" n="70"/>fides, spes, charitas, &amp; si quid aliud hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e521">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Octavum: Habuit fidem distinctam &amp; explicitam 
+      <lb ed="#P" n="72"/>mysterii Sanctissimae Trinitatis. Ea communis est 
+      <lb ed="#P" n="73"/>Doctorum sententia, quam diserte tradit 
+      Epipha<lb ed="#P" n="74" break="no"/>nius in exordio operis quod scripsit contra haereses. 
+      <!--0453.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Probatur autem, tum quia majorem acceperat 
+      no<lb ed="#P" n="76" break="no"/>titiam mysteriorum Dei, quam nos accepimus, tum 
+      <lb ed="#P" n="77"/>quia clara visio Trinitatis tota est fidei merces, ut 
+      <lb ed="#P" n="78"/>ait Augustinus. Quare nullo modo verisimile est, 
+      <lb ed="#P" n="79"/>Adamum hac parte fidei caruisse. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e550">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Nonum: Valde probabile est, primo homini 
+      re<lb ed="#P" n="81" break="no"/>velatum fuisse, quod angelorum alii Deo 
+      adhaeren<lb ed="#P" n="82" break="no"/>tes beati essent, alii per superbiam a Deo aversi in 
+      <lb ed="#P" n="83"/>aeternum essent miseri. Satis hoc insinuant patres, 
+      <lb ed="#P" n="84"/>quando dicunt Adamum caelestis curiae fuisse 
+      parti<lb ed="#P" n="85" break="no"/>cipem, &amp; beatorum angelorum spiritibus 
+      inter<lb ed="#P" n="86" break="no"/>fuisse. Quomodo loquuntur Augustinus libro 9. de 
+      <lb ed="#P" n="87"/>Gen. ad literam cap. ult. &amp; Gregorius lib. 4. Dialog. 
+      <lb ed="#P" n="88"/>capite 1. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e574">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Decimum: Ex revelatione didicit Adam futuram 
+      <lb ed="#P" n="90"/>filii Dei incarnationem, non quidem in creatione, 
+      <lb ed="#P" n="91"/>sed post. Ita multi non temere sentiunt, 
+      argumen<lb ed="#P" n="92" break="no"/>to sumpto ex loco Genes. 2. ubi Adam prophetico 
+      <lb ed="#P" n="93"/>spiritu dixisse legitur: Hoc nunc os ex ossibus meis, &amp; 
+      <lb ed="#P" n="94"/>caro de carne mea. Quamobrem relinquet homo patrem 
+      <lb ed="#P" n="95"/>suum, &amp; matrem, &amp; adhaerebit uxori suae, &amp; erunt 
+      <lb ed="#P" n="96"/>duo in carne una. Quod mysterium magnum 
+      inter<lb ed="#P" n="97" break="no"/>pretatur Apostolus in Christo &amp; Ecclesia, Ephes. 5. 
+      <lb ed="#P" n="98"/>Neque enim dubitandum videtur, quin Adam hoc 
+      <lb ed="#P" n="99"/>ipsum mysterium a se prophetatum cognoverit. 
+      <lb ed="#P" n="100"/>Nam alioqui proprie respectu ejus propheta non 
+      <lb ed="#P" n="101"/>fuisset, si non ad illud cognoscendum quod 
+      praedi<lb ed="#P" n="102" break="no"/>cebat, fuisset aliquo modo illuminatus, sed tantum 
+      <lb ed="#P" n="103"/>prophetasset eo modo quo Caiphas, qui mysterium 
+      <lb ed="#P" n="104"/>verborum suorum nec sciebat nec intelligebat. Haec 
+      <lb ed="#P" n="105"/>sententia est S. Tho. 2. 2. q. 2. art. 7. Bonaventurae ad 
+      <lb ed="#P" n="106"/>praesentem dist. in expositione textus, &amp; aliorum. 
+      Ean<lb ed="#P" n="107" break="no"/>dem tradit Prosper, vel quisquis author lib. de 
+      pro<lb ed="#P" n="108" break="no"/>missionibus &amp; praedictionibus, p. 1. c. 1. tametsi quod 
+      <lb ed="#P" n="109"/>ibi addit, Adamum praevidisse Ecclesiam de latere 
+      <lb ed="#P" n="110"/>Christi in cruce pendentis formandam, unde 
+      seque<lb ed="#P" n="111" break="no"/>retur quod passionem &amp; mortem Christi in illo 
+      so<lb ed="#P" n="112" break="no"/>pore praeviderit, non est probabile, neque id 
+      reci<lb ed="#P" n="113" break="no"/>pit S. Thomas loco jam citato. Nam passio &amp; mors 
+      <lb ed="#P" n="114"/>Christi cum secundum se mala quaedam sint, non 
+      <lb ed="#P" n="115"/>fuissent Adamo adhuc innocenti revclata, nisi in 
+      <lb ed="#P" n="116"/>ordine ad bonum; scilicet ad liberationem humani 
+      <lb ed="#P" n="117"/>generis e captivitate peccati, atque ita sui lapsus 
+      <lb ed="#P" n="118"/>fuisset praescius. Quod cum Magistro hac dist. post 
+      <lb ed="#P" n="119"/>Hugonem lib. 1. de sacramentis parte 6. cap. 15. 
+      ne<lb ed="#P" n="120" break="no"/>gant omnes Theologi. Ac sane nullo modo 
+      dicen<lb ed="#P" n="121" break="no"/>dum est, utineque de angelis, quemadmodum 
+      do<lb ed="#P" n="122" break="no"/>cuimus ad quartam distinct hac certissima ratione; 
+      <lb ed="#P" n="123"/>quia per talem praescientiam fuissent miseri 
+      ante<lb ed="#P" n="124" break="no"/>quam mali. 
+    </p>
+            <p xml:id="bt67yj-p084885-d1e657">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Non sequitur autem, si incarnationem primus 
+      <lb ed="#P" n="126"/>homo praevidit, quod suum lapsum praeviderit. 
+      Po<lb ed="#P" n="127" break="no"/>test enim alicui revelari effectus non revelata ejus 
+      <lb ed="#P" n="128"/>causa, vel occasione, quemadmodum contigit in 
+      Jo<lb ed="#P" n="129" break="no"/>seph patriarcha, qui praevidit in somnio futuram 
+      <lb ed="#P" n="130"/>exaltationem suam, non tamen venditionem neque 
+      <lb ed="#P" n="131"/>incarcerationem. Unde dicit S. Thomas ubi supra, 
+      <lb ed="#P" n="132"/>quod homo ante peccatum habuit explicitam fidem 
+      <lb ed="#P" n="133"/>incarnationis Christi, prout ordinabatur ad 
+      con<lb ed="#P" n="134" break="no"/>summationem gloriae, non autem ut ordinabatur ad 
+      <lb ed="#P" n="135"/>liberationem a peccato per passionem, ne per hoc 
+      <lb ed="#P" n="136"/>praescius esset sui peccati. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

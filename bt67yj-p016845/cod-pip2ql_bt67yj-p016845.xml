@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="44"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p016845"><!-- l2d6c6" -->
+            <head xml:id="bt67yj-p016845-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p016845-Hd1e103" type="question-title">In quo sita fuerit angeli superbia</head>
+            <p xml:id="bt67yj-p016845-d1e106">
+               <lb ed="#P" n="14"/>§. 6. In quo sita fuerit angeli superbia.
+    </p>
+            <p xml:id="bt67yj-p016845-d1e111">
+               <lb ed="#P" n="15"/>DE superbia diaboli cujusmodi ea fuerit, &amp; in 
+      <lb ed="#P" n="16"/>quo proprie sita, id est, quodnam ejus fuerit 
+      <lb ed="#P" n="17"/>objectum, variae sunt Doctorum opiniones. 
+      Qua<lb ed="#P" n="18" break="no"/>rum prima superbiam diaboli ponit in eo quod 
+      ap<lb ed="#P" n="19" break="no"/>petiverit aequalitatem Dei, id est, ut esset Deus. 
+      <lb ed="#P" n="20"/>Quae sententia frequens est apud veteres. Nam 
+      Au<lb ed="#P" n="21" break="no"/>gust. tract. 17. in Joannem ad illud cap. 5. Ae 
+      qua<lb ed="#P" n="22" break="no"/>lem se faciens Deo, dicit diabolum voluisse facere se 
+      <lb ed="#P" n="23"/>aequalem Deo, atque eandem superbiam homini 
+      <lb ed="#P" n="24"/>propinasse. Et concione prima in psal. 68. tractans 
+      <lb ed="#P" n="25"/>illud, quae non rapui tunc exolvebam, affirmat 
+      diabo<lb ed="#P" n="26" break="no"/>lum voluisse rapere divinitatem; scilicet eandem 
+      <lb ed="#P" n="27"/>quam Christus non per rapinam usurpavit, sed per 
+      <lb ed="#P" n="28"/>naturam accepit Philip. 2. His similia loca 
+      adducun<lb ed="#P" n="29" break="no"/>tur ex eodem Aug. lib. 11. de civitate Dei cap. 1. &amp; 
+      <lb ed="#P" n="30"/>lib. 12. cap. 1. &amp; 6. &amp; lib. 14. cap. 13. Item libr. 22. 
+      <lb ed="#P" n="31"/>contra Faustum Manichaeum cap. 17. &amp; libr. contra 
+      <lb ed="#P" n="32"/>Secundinum Manichaeum c. 17. &amp; serm. 6. de 
+      tem<lb ed="#P" n="33" break="no"/>pore. Scribunt in eandem sententiam Prosper epist. 
+      <lb ed="#P" n="34"/>ad Demetriadem. Greg. libr. 34. moralium cap. 17. 
+      <lb ed="#P" n="35"/>Isidorus lib. 1. de summo bono cap. 12. &amp; Bernardus 
+      <lb ed="#P" n="36"/>serm. 3. supermissus est, &amp; libro de gradibus 
+      humili<lb ed="#P" n="37" break="no"/>tatis. Et ante hos omnes Prudentius in Hamart. 
+      di<lb ed="#P" n="38" break="no"/>cens, diabolum per superbiam sibi persuasisse quod 
+      <lb ed="#P" n="39"/>ex seipso genitus esset, id est, ex nullo alio, quod 
+      <lb ed="#P" n="40"/>solius Dei est. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e170">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Utuntur autem ad confirmationem his fere 
+      scri<lb ed="#P" n="42" break="no"/>pturis Isaiae 14. Similis ero altissimo: Ezech. 28. 
+      Di<lb ed="#P" n="43" break="no"/>xisti: Deus ego sum. Matth. 4. Haec omnia tibi dabo, 
+      <lb ed="#P" n="44"/>si cadens adoraveris me. Philip. 2. Non rapinam 
+      arbi<lb ed="#P" n="45" break="no"/>tratus est esse se aequatem Deo, nempe sicut diabolus 
+      <lb ed="#P" n="46"/>rapere voluit. Item 2. ad Thess. 2. de Antichristo 
+      <lb ed="#P" n="47"/>diaboli organo: Extollitur super omne quod dicitur 
+      <lb ed="#P" n="48"/>Deus, aut quod colitur, ita ut in templo Dei sedeat. 
+      <lb ed="#P" n="49"/>ostendens se tanquam sit Deus. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e195">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Praeterea hujus rei argumentum esse volunt quod 
+      <lb ed="#P" n="51"/>diabolus olim per omnes gentes sub variis 
+      numi<lb ed="#P" n="52" break="no"/>num formis, atque vocabulis sibi sacrificia offerri, 
+      <lb ed="#P" n="53"/>aliosque divinos honores exhiberi studiosissime 
+      <lb ed="#P" n="54"/>procuraverit, &amp; adhuc quantum potest, procu¬ 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e211">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> His addunt quod veteres Irenaeus lib. 3. contra 
+      <lb ed="#P" n="56"/>haereses cap. 22. Aug. tract. 17. in Joannem, 
+      Pro<lb ed="#P" n="57" break="no"/>sper lib. 2. de vita contemplativa cap. 19. &amp; Cyrillus 
+      <lb ed="#P" n="58"/>lib. 3. contra Julianum testantur primum hominem 
+      <lb ed="#P" n="59"/>in tantam superbiam elatum fuisse, ut se Deo 
+      aequa<lb ed="#P" n="60" break="no"/>re voluerit. Quare id multo magis de angelo 
+      credi<lb ed="#P" n="61" break="no"/>bile existimant, utpote cujus natura pure spiritualis 
+      <lb ed="#P" n="62"/>ad immaterialem, &amp; simplicissimam Dei naturam 
+      <lb ed="#P" n="63"/>multo propius accedat. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e235">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Hujus opinionis sunt Scotus in hanc dist. qu. 2. 
+      <lb ed="#P" n="65"/>art. 2. &amp; quieum sequuntur. Quorum potissima 
+      ra<lb ed="#P" n="66" break="no"/>tio est, quia cum scriptufa aperte significet 
+      diabo<lb ed="#P" n="67" break="no"/>lum appetivisse celsitudinem divinam, &amp; constet 
+      <lb ed="#P" n="68"/>maximam esse diaboli superbiam; si possibile est, 
+      <lb ed="#P" n="69"/>diabolum hoc modo peccasse, tenendum est quod 
+      <lb ed="#P" n="70"/>ita peccaverit. Possibile autem esse, non obstante eo 
+      <!--0277.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>quod impossibile sit creaturam fieri Deo aequalem, 
+      <lb ed="#P" n="72"/>inde probant quia voluntas potest esse 
+      impossibi<lb ed="#P" n="73" break="no"/>lium, uti docet philosophus 3. Ethic. 2 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e266">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Alia opinio est diabolum appetivisse non quidem 
+      <lb ed="#P" n="75"/>ut Deo aequalis esset, sed ut similis in eo quod nulli 
+      <lb ed="#P" n="76"/>subesset; &amp; in hunc sensum interpretantur 
+      aequali<lb ed="#P" n="77" break="no"/>tatem quam scripturae &amp; patrum verba sonant. Unde 
+      <lb ed="#P" n="78"/>&amp; Greg. lib. 32. moral. c. ultimo, &amp; lib. 34. cap. 
+      <lb ed="#P" n="79"/>17. peccatum angeli videtur in eo constituere, quod 
+      <lb ed="#P" n="80"/>voluerit esse sui juris. Sic enim ait loco posteriore de 
+      <lb ed="#P" n="81"/>diabolo: Celsus esset, si ei qui veraciter celsus est, 
+      in<lb ed="#P" n="82" break="no"/>haerere voluisset: celsus esset, si participatione verae 
+      cel<lb ed="#P" n="83" break="no"/>situdinis contentus fuisset; sed dum privatam 
+      celsitu<lb ed="#P" n="84" break="no"/>dinem superbe appetiit, jure perdidit participatam. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e295">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Relicto enim eo cui debuit inherere principio, suum 
+      <lb ed="#P" n="86"/>sibi appetiit quodammodo esse principium: relicto eo 
+      <lb ed="#P" n="87"/>qui vere illi sufficere poterat, se sibi sufficere posse 
+      ju<lb ed="#P" n="88" break="no"/>dicavit. Haec ibi. In hac opinione sunt Alexander 
+      <lb ed="#P" n="89"/>in summa parte 2. q. 109. art. 2. Liranus, &amp; 
+      Bur<lb ed="#P" n="90" break="no"/>gensis in Isa. 14. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e313">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Utramque jam dictam opinionem improbat S. 
+      <lb ed="#P" n="92"/>Thom. 1. part. q. 63. a. 3. duplici argumento. 
+      Pri<lb ed="#P" n="93" break="no"/>mum est, quia angelus sciebat utrumque esse 
+      impos<lb ed="#P" n="94" break="no"/>sibile, non potuit autem in angelo esse electio rei 
+      <lb ed="#P" n="95"/>impossibilis, ni ex praevio errore, quem ante 
+      pecca<lb ed="#P" n="96" break="no"/>tum in eo nullum fuisse manifestum est. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e332">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Quod autem in contrarium ex philosopho 
+      objici<lb ed="#P" n="98" break="no"/>tur, ex eodem refellitur. Dicit enim eo loco 
+      philo<lb ed="#P" n="99" break="no"/>sophus, voluntatem quidem esse impossibilium, sed 
+      <lb ed="#P" n="100"/>intentionem &amp; electionem nonnisi possibilium, 
+      in<lb ed="#P" n="101" break="no"/>tellige quoad aestimationem operantis, qui nihil 
+      in<lb ed="#P" n="102" break="no"/>tendit aut eligit, nisi quod aestimet possibile. Cum 
+      <lb ed="#P" n="103"/>ergo angelus non aestimaret sibi possibile, ut vel 
+      ae<lb ed="#P" n="104" break="no"/>qualis esset Deo, vel simpliciter sui juris (alioqui 
+      <lb ed="#P" n="105"/>enim error in eo fuisset, cum utrumque istorum sit 
+      <lb ed="#P" n="106"/>impossibile) non potuit horum alterum eligere. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e358">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Alterum S. Thomae argumentum est; quia nulla 
+      <lb ed="#P" n="108"/>creatura potest appetere suum non esse; atqui hoc 
+      <lb ed="#P" n="109"/>sequeretur si angelus fieret aut aequalis Deo, aut 
+      sim<lb ed="#P" n="110" break="no"/>pliciter sui juris. Haec enim Deo propria sunt, &amp; 
+      <lb ed="#P" n="111"/>creaturis incommunicabilia; neque hoc angelus 
+      ig<lb ed="#P" n="112" break="no"/>norabat, imo evidenter ita esse sciebat: quare 
+      neu<lb ed="#P" n="113" break="no"/>trum horum eligere potuit. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e378">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Porro tertia opinio est eorum qui duas praedictas 
+      <lb ed="#P" n="115"/>opiniones ita veras existimant: (prout ex scriptura 
+      <lb ed="#P" n="116"/>&amp; patrum authoritate veras esse persuasum habent. 
+      <lb ed="#P" n="117"/>ut tamen aliquam superbiae inchoationem, ex qua 
+      <lb ed="#P" n="118"/>causa esset erroris, in angelo praecessisse putent, 
+      prius<lb ed="#P" n="119" break="no"/>quam id appeteret, quod secundum eas opiniones 
+      <lb ed="#P" n="120"/>appetivisse dicitur. Distinguunt enim 
+      inchoatio<lb ed="#P" n="121" break="no"/>nem angelici peccati ab ejus consummatione; &amp; 
+      il<lb ed="#P" n="122" break="no"/>lam quidem absque errore fuisse dicunt, hanc vero 
+      <lb ed="#P" n="123"/>non sine errore, &amp; magna mentis caecitate esse 
+      po<lb ed="#P" n="124" break="no"/>tuisse fatentur. Initium enim illius peccati ponunt in 
+      <lb ed="#P" n="125"/>consideratione &amp; amore propriae excellentiae non 
+      <lb ed="#P" n="126"/>comparatae cum bono superiori e excellentiori; inde 
+      <lb ed="#P" n="127"/>autem mox in mente angelica obortam esse 
+      coecita<lb ed="#P" n="128" break="no"/>tem, qua &amp; sibi plus tribueret quam oporteret, &amp; 
+      <lb ed="#P" n="129"/>Deo minus; ita ut tandem crescente superbia, &amp; 
+      <lb ed="#P" n="130"/>propriae excellentiae opinione, aequalitatem Dei sibi 
+      <lb ed="#P" n="131"/>promittere auderet. Hanc vero suam opinionem, ex 
+      <lb ed="#P" n="132"/>ea probabilem reddi, quoniam &amp; in hominis lapsu 
+      <lb ed="#P" n="133"/>similis quidam fuerit superbiae progressus. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e426">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Neque mirum, inquiunt, ex hoc peccati initio 
+      <lb ed="#P" n="135"/>statim in tantas mentis tenebras hominem &amp; 
+      ange<lb ed="#P" n="136" break="no"/>lum incidisse; quoniam initium illud peccati 
+      super<lb ed="#P" n="137" break="no"/>bia fuit inchoata; eam porro superbiae naturam 
+      es<lb ed="#P" n="138" break="no"/>se, ut cujuscumque animum occupare ceperit, mox 
+      <lb ed="#P" n="139"/>nebula quadam &amp; caligine ignorantiae involvat, 
+      <lb ed="#P" n="140"/>qua fiat ut nec de se, nec de aliis, sicut oportet, 
+      ae<lb ed="#P" n="141" break="no"/>stimet. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e448">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Dicunt igitur qui hujus sunt opinionis, veteres, 
+      <lb ed="#P" n="143"/>doctores qui diabolum aiunt appetivisse 
+      aequalita<lb ed="#P" n="144" break="no"/>tem Dei, vel hoc saltem ut sui juris esset, ac nulli 
+      <!--0278.xml-->
+      <pb ed="#P" n="45"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>subjiceretur, respexisse ad peccati ejus 
+      consumma<lb ed="#P" n="2" break="no"/>tionem, vel progressum, non ad initium; ideóque 
+      <lb ed="#P" n="3"/>facile concedunt hujusmodi appetitum in eo fuisse 
+      <lb ed="#P" n="4"/>ex praevia mentis coecitate, nimirum contracta ex 
+      <lb ed="#P" n="5"/>ipsius. superbiae initio, quo sibi ipsi inordinate 
+      pla<lb ed="#P" n="6" break="no"/>cere ceperit, primum considerando bonum sine 
+      <lb ed="#P" n="7"/>comparatione boni superioris. Hoc enim initio 
+      da<lb ed="#P" n="8" break="no"/>to gradum factum volunt, ad incrementum &amp; 
+      fasti<lb ed="#P" n="9" break="no"/>gium illud superbiae quod consecutum fuit; scilicet 
+      <lb ed="#P" n="10"/>ut rapere vellet divinitatem, &amp; diceret, In caelum 
+      <lb ed="#P" n="11"/>conscendam, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e490">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Verum huic opinioni initium, progressum &amp; 
+      <lb ed="#P" n="13"/>consummationem ponenti in peccato angelico, 
+      ob<lb ed="#P" n="14" break="no"/>stat illud Damasceni passim receptum, &amp; supra 
+      ci<lb ed="#P" n="15" break="no"/>tatum: Quod hominibus est mors, hoc angelis est 
+      <lb ed="#P" n="16"/>lapsus. Inde enim consequens est: sicut hominibus 
+      <lb ed="#P" n="17"/>non est augendae malitiae, nec ulterioris demeriti 
+      <lb ed="#P" n="18"/>locus post mortem; ita nec angelis esse postquam 
+      <lb ed="#P" n="19"/>semel lapsi sunt. Quare post illud peccatum quod ab 
+      <lb ed="#P" n="20"/>illis ponitur angelicae superbiae initium, quo utique 
+      <lb ed="#P" n="21"/>lapsi sunt a justitia; nec crescere in malitia, nec 
+      de<lb ed="#P" n="22" break="no"/>mereri amplius potuerunt. Obstant item alia ex 
+      qui<lb ed="#P" n="23" break="no"/>bus ad distinctionem tertiam probatum est, unicum 
+      <lb ed="#P" n="24"/>instans fuisse transgressionis atque demeriti 
+      ange<lb ed="#P" n="25" break="no"/>lorum. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e526">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Quarta igitur opinio est; angelum in eo per 
+      super<lb ed="#P" n="27" break="no"/>biam peccasse, quod ultimum finem 
+      supernatura<lb ed="#P" n="28" break="no"/>lem, id est, Dei similitudinem quae datur ex gratia, 
+      <lb ed="#P" n="29"/>voluerit habere per virtutem suae naturae. Hanc 
+      opi<lb ed="#P" n="30" break="no"/>nionem S. Thomas loco memorato ita refert, ut 
+      <lb ed="#P" n="31"/>non rejiciat, sed magis uti probabilem admittere 
+      <lb ed="#P" n="32"/>videatur; addens eam consonam esse dictis 
+      Ansel<lb ed="#P" n="33" break="no"/>mi, qui libro de casu diaboli capitulo quarto dicit. 
+      <lb ed="#P" n="34"/>eumappetivisse illud ad quod pervenisset, si 
+      stetis<lb ed="#P" n="35" break="no"/>set. Alii vero ut <name xml:id="bt67yj-p016845-Nd1e552">Bannes</name>, hanc quoque refellunt 
+      ea<lb ed="#P" n="36" break="no"/>dem ratione qua S. Thomas primam &amp; secundam 
+      <lb ed="#P" n="37"/>opiniones rejecit. Non enim velle potuit angelus ad 
+      <lb ed="#P" n="38"/>finem supernaturalem pertingere viribus naturae, 
+      ni<lb ed="#P" n="39" break="no"/>si id judicaret possibile. Hoc autem judicium non 
+      <lb ed="#P" n="40"/>modo falsum, sed haereticum fuisset, ac fidei quam 
+      <lb ed="#P" n="41"/>in creatione acceperat, contrarium. Unde 
+      conse<lb ed="#P" n="42" break="no"/>queretur primum angeli peccatum fuisse ortum ex 
+      <lb ed="#P" n="43"/>erroneo atque haeretico judicio praecedente, quod 
+      <lb ed="#P" n="44"/>est impossibile; tum quia primum angeli vel 
+      homi<lb ed="#P" n="45" break="no"/>nis peccatum nullus error praecedere potuit; tum 
+      <lb ed="#P" n="46"/>quia contradictionem includit primum peccatum ex 
+      <lb ed="#P" n="47"/>haeresi ortum fuisse, cum ipsa haeresis magnum sit 
+      <lb ed="#P" n="48"/>peccatum. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e583">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Quinta opinio est; angeli superbiam in eo sitam 
+      <lb ed="#P" n="50"/>esse, quod appetiverit ut finem ultimum 
+      beatitudi<lb ed="#P" n="51" break="no"/>nis id ad quod virtute suae naturae poterat pervenire; 
+      <lb ed="#P" n="52"/>scilicet avertens suum appetitum a beatitudine 
+      super<lb ed="#P" n="53" break="no"/>naturali, quae est ex gratia Dei. Hic modus 
+      explican<lb ed="#P" n="54" break="no"/>dae suberbiae angelicae traditur &amp; maxime probatur a 
+      <lb ed="#P" n="55"/>S. Thoma. Nec sane a doctrina S. Augustini alienus 
+      <lb ed="#P" n="56"/>videtur. Nam lib. 12. de civit. Dei, cap. 1. 
+      contra<lb ed="#P" n="57" break="no"/>rios appetitus angelorum bonorum &amp; malorum, ita 
+      <lb ed="#P" n="58"/>exponit; quod alii constanter in communi omnibus 
+      <lb ed="#P" n="59"/>bono quod Deus est, atque in ejus aeternitate, 
+      veri<lb ed="#P" n="60" break="no"/>tate, charitate perstiterunt; alii sua potestate 
+      po<lb ed="#P" n="61" break="no"/>tius delectati, velut bonum suum sibi ipsi essent, a 
+      <lb ed="#P" n="62"/>superiori communi omnium beatifico bono ad 
+      pro<lb ed="#P" n="63" break="no"/>pria defluxerunt, &amp;c. &amp; cap. 6. Cum, inquit, 
+      cau<lb ed="#P" n="64" break="no"/>sa miseriae malorum angelorum quaeritur, a merito 
+      oc<lb ed="#P" n="65" break="no"/>currit, quo d ab illo qui summe est, aversi ad seipsos 
+      <lb ed="#P" n="66"/>conversi sunt, quia non summe sunt; &amp; hoc vitium 
+      <lb ed="#P" n="67"/>quid aliud quam superbia nuncupatur? Quibus 
+      utrius<lb ed="#P" n="68" break="no"/>que loci verbis, Augustinus objectum superbiae 
+      <lb ed="#P" n="69"/>angelicae non aequalitatem Dei, sed propriam 
+      po<lb ed="#P" n="70" break="no"/>testatem &amp; excellentiam cum aversione a superiori 
+      <lb ed="#P" n="71"/>bono fuisse significat. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e638">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Hic autem si quaeras, quomodo juxta hanc 
+      expli<lb ed="#P" n="73" break="no"/>cationem verum sit, diabolum voluisse Deo esse 
+      si<lb ed="#P" n="74" break="no"/>milem &amp; aequalem, &amp; voluisse rapere divinitatem, 
+      <!--0278.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>&amp; caetera quae pro prima opinione ex scriptura &amp; 
+      <lb ed="#P" n="76"/>patribus sunt allegata: Respondent haec omnia eo 
+      <lb ed="#P" n="77"/>sensu dici, quia quemadmodum Deus suapte natura 
+      <lb ed="#P" n="78"/>beatus est, nullum habens superiorem a quo 
+      beati<lb ed="#P" n="79" break="no"/>tudinem hauriat; ita diabolus voluit esse beatus 
+      <lb ed="#P" n="80"/>propriis bonis naturae, non se subjiciens ordini a 
+      su<lb ed="#P" n="81" break="no"/>periore praescripto, qui requirebat ut ad 
+      supernatu<lb ed="#P" n="82" break="no"/>ralem beatitudinem gratia Dei consequendam 
+      appe<lb ed="#P" n="83" break="no"/>titum suum extenderet. Igitur quantum ad hoc 
+      <lb ed="#P" n="84"/>quod voluit inhaerere &amp; conquiescere in bonis 
+      natu<lb ed="#P" n="85" break="no"/>rae, neglecta regula superioris, qua ad supernaturale 
+      <lb ed="#P" n="86"/>bonum vocabatur; dicunt eum appetivisse Dei 
+      si<lb ed="#P" n="87" break="no"/>militudinem &amp; aequalitatem; velut si quispiam 
+      va<lb ed="#P" n="88" break="no"/>sallus regis vellet frui propriis bonis non reddendo 
+      <lb ed="#P" n="89"/>debitum tributum superiori, is diceretur velle esse 
+      <lb ed="#P" n="90"/>regi similis, aut aequalis, scilicet quoad hoc quod 
+      <lb ed="#P" n="91"/>est non agnoscere superiorem, vel certe non id 
+      fa<lb ed="#P" n="92" break="no"/>cere, quod est hujusmodi agnitionis signum, &amp; 
+      testi<lb ed="#P" n="93" break="no"/>monium. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e695">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> At vero licet haec aliqua probabilitate dicantur, 
+      <lb ed="#P" n="95"/>non tamen satisfacere videntur iis quae pro prima 
+      <lb ed="#P" n="96"/>opinione allata sunt. Sic enim scripturae &amp; patres de 
+      <lb ed="#P" n="97"/>diaboli superbia loquuntur, quasi expresse, &amp; non 
+      <lb ed="#P" n="98"/>tantum interpretative dignitatem appetiverit, nec 
+      <lb ed="#P" n="99"/>ad similitudinem Dei quamcunque, sed ad 
+      aequali<lb ed="#P" n="100" break="no"/>tatem aspiraverit. Unde &amp; usque in hodiernum 
+      <lb ed="#P" n="101"/>diem ab hominibus adorari vult tanquam Deus, &amp; 
+      <lb ed="#P" n="102"/>eandem superbiam quibusdam etiam hominibus 
+      <lb ed="#P" n="103"/>inspirat. Hoc autem obstinate retinet ex prima 
+      su<lb ed="#P" n="104" break="no"/>perbia, qua ita fuit excoecatus, ut se male egisse non 
+      <lb ed="#P" n="105"/>sentiat, quemadmodum Gregorius ait lib. 34. 
+      mora<lb ed="#P" n="106" break="no"/>lium cap. 17. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e728">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> His adde quod si superbia diaboli fuisset in eo quina 
+      <lb ed="#P" n="108"/>finem naturalem, id est eum ad quem viribus 
+      natu<lb ed="#P" n="109" break="no"/>rae pertingere poterat, statuit sibi pro fine ultimo 
+      <lb ed="#P" n="110"/>suae beatitudinis; jam non alia esset diaboli superbia 
+      <lb ed="#P" n="111"/>quam fuit gentilium philosophorum, &amp; est omnium 
+      <lb ed="#P" n="112"/>fere infidelium, qui similiter finem ultimum 
+      beatitu<lb ed="#P" n="113" break="no"/>dinis sibi statuerunt eum, ad quem virtute naturae 
+      <lb ed="#P" n="114"/>pervenitur: imo nec alia quam sit eorum superbia, 
+      <lb ed="#P" n="115"/>qui beatitudinem supernaturalem cognoscunt 
+      qui<lb ed="#P" n="116" break="no"/>dem per fidem, sed ab ejus appetitu se avertentes in 
+      <lb ed="#P" n="117"/>bonis naturae volunt requiescere. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e757">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Propter haec igitur retinenda videtur prima 
+      sen<lb ed="#P" n="119" break="no"/>tentia, quae dicit angelum appetivisse aequalitatem 
+      <lb ed="#P" n="120"/>Dei, id est, ipsam divinitatem. Hoc autem 
+      quomo<lb ed="#P" n="121" break="no"/>do fieri potuerit, ut intelligatur, distinguit Scotus 
+      <lb ed="#P" n="122"/>duplicem voluntatem, scilicet simplicem seu 
+      abso<lb ed="#P" n="123" break="no"/>lutam, &amp; conditionatam, vel aliis verbis, 
+      volunta<lb ed="#P" n="124" break="no"/>tem efficacem, &amp; complacentiae, quam etiam alibi 
+      <lb ed="#P" n="125"/>velleitatem vocat. Dicit itaque diabolum 
+      appetivis<lb ed="#P" n="126" break="no"/>se divinitatem non effieaci voluntate, qua scilicet 
+      <lb ed="#P" n="127"/>eam assequi absolute intenderet; quia cum id sciret 
+      <lb ed="#P" n="128"/>impossibile, non potuit ad id assequendum conari, 
+      <lb ed="#P" n="129"/>quemadmodum recte S. Thomas argumentatur; 
+      <lb ed="#P" n="130"/>sed voluntate complacentiae qua scilicet 
+      divinita<lb ed="#P" n="131" break="no"/>tem ut rem placitam sibi concupivit, eo modo quo 
+      <lb ed="#P" n="132"/>aeger etsi desperans sanitatem, concupiscit tamen, &amp; 
+      <lb ed="#P" n="133"/>vult eam. Non enim voluntate efficaci, id est, ea 
+      <lb ed="#P" n="134"/>quae media adhibet ad finem, sanit atem vult, qui 
+      <lb ed="#P" n="135"/>eam sibi non aestimat possibilem, sed in eam fertur 
+      <lb ed="#P" n="136"/>optando &amp; desiderando tanquam rem sibi bonam, 
+      <lb ed="#P" n="137"/>licet sciat se eam non posse consequi. Vocatur 
+      au<lb ed="#P" n="138" break="no"/>tem hoc velle conditionatum, quia si desiderans 
+      <lb ed="#P" n="139"/>sciret rem quam desiderat, esse possibilem, vellet ad 
+      <lb ed="#P" n="140"/>eam consequendam efficaciter niti. Hoc igitur 
+      mo<lb ed="#P" n="141" break="no"/>do dici potest in diabolo quando primum peccavit, 
+      <lb ed="#P" n="142"/>fuisse appetitum divinitatis; ita nimirum ut 
+      quam<lb ed="#P" n="143" break="no"/>vis eam nondum efficaciter vellet, quod sibi sciret 
+      <lb ed="#P" n="144"/>impossibilem; voluisset tamen si possibilis fuisset. 
+      <lb ed="#P" n="145"/>Nam velle &amp; nolle conditionatum sufficit ad 
+      pecca<lb ed="#P" n="146" break="no"/>tum, imo tam grave potest esse peccatum, quantum 
+      <lb ed="#P" n="147"/>velle &amp; nolle absolutum; si videlicet fiat pari 
+      inten<lb ed="#P" n="148" break="no"/>tione actus, ut facile est exemplis declarare. Docet 
+      <!--0279.xml-->
+      <pb ed="#P" n="46"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>haec <ref xml:id="bt67yj-p016845-Rd1e837">
+                  <name xml:id="bt67yj-p016845-Nd1e839">Scotus</name> in hanc dist. quaest. 1. &amp; in 3. dist. 15. q. 
+      <lb ed="#P" n="2"/>1. &amp; dist. 33. q. 1.</ref>
+            </p>
+            <p xml:id="bt67yj-p016845-d1e846">
+               <lb ed="#P" n="3"/>Postea quam vero diabolus primae superbiae merito 
+      <lb ed="#P" n="4"/>coecitatem mentis incurrit, nihil absurdi est, si 
+      di<lb ed="#P" n="5" break="no"/>catur etiam efficaciter divinitatem appetere, 
+      vendi<lb ed="#P" n="6" break="no"/>cans sibi quidquid ejus, aut aliquo modo possibile 
+      <lb ed="#P" n="7"/>est, aut ipse coeca mente possibile arbitratur. Hoc 
+      <lb ed="#P" n="8"/>enim declaravit quando filium Dei ad se adorandum 
+      <lb ed="#P" n="9"/>ut Deum inducere voluit; quando sui cultum sub 
+      <lb ed="#P" n="10"/>variis Deorum nominibus toto mundo institui cura 
+      <lb ed="#P" n="11"/>vit, &amp; alia hujusmodi eodem spectantia fecit. 
+    </p>
+            <p xml:id="bt67yj-p016845-d1e868">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Quod autem pro quinta opinione ex S. Augustino 
+      <lb ed="#P" n="13"/>affertur, ita solvi potest, si dicamus simul in angelo 
+      <lb ed="#P" n="14"/>peccante fuisse delectationem inordinatam in bono 
+      <lb ed="#P" n="15"/>proprio, &amp; aversionem a superiori bono beatifico, &amp; 
+      <lb ed="#P" n="16"/>appetitum aequalitatis Dei jam explicatum; nam haec 
+      <lb ed="#P" n="17"/>inter se non pugnant. S. Augustinus autem dicendo 
+      <lb ed="#P" n="18"/>quod minus est, non negavit quod majus est; 
+      prae<lb ed="#P" n="19" break="no"/>sertim cum alibi satis clare illud exprimat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

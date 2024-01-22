@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="3"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p000841"><!-- l2d1c4" -->
+            <head xml:id="bt67yj-p000841-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p000841-Hd1e103" type="question-title">An creandi potentia communicari possit creaturae</head>
+            <p xml:id="bt67yj-p000841-d1e106">
+               <lb ed="#P" n="68"/>§. 4. An creandi potentia communicari possit creaturae. 
+    </p>
+            <p xml:id="bt67yj-p000841-d1e111">
+               <lb ed="#P" n="69"/>QUaestio celebris est apud doctores scholasticos, 
+      <lb ed="#P" n="70"/>utrum creare ita sit proprium Deo, ut nulli 
+      <lb ed="#P" n="71"/>4. possit creaturae communicari. Nos ad eam omissa 
+      <lb ed="#P" n="72"/>opinionum multiplici varietate, particulatim per 
+      <!--0234.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>capita seu puncta respondebimus: quorum primum 
+      <lb ed="#P" n="74"/>est: Nullam creaturam posse esse causam 
+      principa<lb ed="#P" n="75" break="no"/>lem creationis, ne quidem per absolutam Dei 
+      po<lb ed="#P" n="76" break="no"/>tentiam. Rationem hujus doctrinae S. Thonias 
+      assi<lb ed="#P" n="77" break="no"/>gnat ubi supra articulo 5. quia creatio est productio 
+      <lb ed="#P" n="78"/>entis ex non ente; ens autem, ut tale, est proprius 
+      <lb ed="#P" n="79"/>effectus primae &amp; universalissimae causae. Quod ita 
+      <lb ed="#P" n="80"/>probat, quia oportet universallores effectus in 
+      uni<lb ed="#P" n="81" break="no"/>versaliores &amp; priores causas reducere: cum ergo inter 
+      <lb ed="#P" n="82"/>omnes effectus, universalissimum sit ipsum esse; 
+      ne<lb ed="#P" n="83" break="no"/>cesse est ipsum in primam &amp; universalissimam 
+      cau<lb ed="#P" n="84" break="no"/>sam, quae est Deus, reduci. 
+    </p>
+            <p xml:id="bt67yj-p000841-d1e153">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Alia ratio: Nihil potest esse causa principalis 
+      <lb ed="#P" n="86"/>creandi, nisi virtutem habeat infinitam. Nam 
+      quan<lb ed="#P" n="87" break="no"/>to forma producenda remotior est a potentia; tanto 
+      <lb ed="#P" n="88"/>major requiritur virtus in agente, &amp; proinde ad pro 
+      <lb ed="#P" n="89"/>ducendam formam ex nulla potentia, quod fit in 
+      <lb ed="#P" n="90"/>creatione, requiritur virtus infinita; hanc autem 
+      im<lb ed="#P" n="91" break="no"/>possibile est creaturae communicari. 
+    </p>
+            <p xml:id="bt67yj-p000841-d1e174">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Rursum alia ratio: Nihil potest esse causa 
+      princi<lb ed="#P" n="93" break="no"/>palis creandi, nisi virtutem habeat productivam 
+      to<lb ed="#P" n="94" break="no"/>tius entis, siquidem creatio est productio entis in 
+      <lb ed="#P" n="95"/>quantum est ens. Hujusmodi autem virtutem 
+      im<lb ed="#P" n="96" break="no"/>possibile est poni in creatura; sic enim sequeretur 
+      <lb ed="#P" n="97"/>quod creatura producere posset seipsam, quod 
+      qui<lb ed="#P" n="98" break="no"/>dem manifestam implicat contradictionem; scilicet, 
+      <lb ed="#P" n="99"/>essendi &amp; non essendi. Denique omnium recte 
+      phi<lb ed="#P" n="100" break="no"/>losophantium consensus habet, nulla vi creata posse 
+      <lb ed="#P" n="101"/>quidpiam ex nihilo produci. Confirmatur autem haec 
+      <lb ed="#P" n="102"/>doctrina etiam patrum testimoniis. August. enim lib. 
+      <lb ed="#P" n="103"/>3. de Trin. c. 8. &amp; 9. non tantum de facto, verum etiam 
+      <lb ed="#P" n="104"/>de possibili disserens, docet neque bonos neque 
+      ma<lb ed="#P" n="105" break="no"/>los Angelos posse esse alicujus rei creatores, unde 
+      se<lb ed="#P" n="106" break="no"/>quitur multo minus id posse alias creaturas. Idem lib. 
+      <lb ed="#P" n="107"/>II. de Civit. c. 4. Exceptis, inquit, propheticis vocibus, 
+      <lb ed="#P" n="108"/>mundus ipse ordinatissima sua mutabilitate, 
+      mobili<lb ed="#P" n="109" break="no"/>tate, &amp; visibilium omnium pulcherrima specie, 
+      quo<lb ed="#P" n="110" break="no"/>dammodo tacitus &amp; factum se esse, &amp; non nisi a Deo 
+      <lb ed="#P" n="111"/>ineffabiliter atque mvisibiliter magno, &amp; 
+      ineffabili<lb ed="#P" n="112" break="no"/>ter atque invisibiliter pulchro, fieri se potuisse 
+      pro<lb ed="#P" n="113" break="no"/>clamat. Ubi quamvis non tam de creationis 
+      po<lb ed="#P" n="114" break="no"/>tentia loquatur August. quam de fabrica totius 
+      uni<lb ed="#P" n="115" break="no"/>versi, quam negat ab alio quam a Deo fieri 
+      potuis<lb ed="#P" n="116" break="no"/>se, sumpto argumento, ex ordinatissima ejus 
+      com<lb ed="#P" n="117" break="no"/>positione &amp; pulchritudine: ratio tamen par est. Si 
+      <lb ed="#P" n="118"/>enim creandi potentia, cuiquam praeterquam Deo 
+      <lb ed="#P" n="119"/>posset competere; nihil obstaret, quo minus ab alio 
+      <lb ed="#P" n="120"/>quam a Deo, posset hujusmodi fabrica produci. 
+      Por<lb ed="#P" n="121" break="no"/>ro Cyrillus lib. 2. contra Julianum disertissimis 
+      ver<lb ed="#P" n="122" break="no"/>bis affirmat, posse creare, proprium esse divinae 
+      na<lb ed="#P" n="123" break="no"/>turae, &amp; unum esse inter ea quae inaccessa sunt, id est, 
+      <lb ed="#P" n="124"/>incommunicabilia naturae creatae, imo hoc pertinere 
+      <lb ed="#P" n="125"/>ad summam Dei gloriam; ideoque maxime contra 
+      <lb ed="#P" n="126"/>divinam gloriam militare, si quis putet etiam alios 
+      <lb ed="#P" n="127"/>creare, &amp; ex nihilo producere quippiam posse. 
+      Simi<lb ed="#P" n="128" break="no"/>liter Fulgent. c. 3. de fide ad Petrum, in eo 
+      Deiomni<lb ed="#P" n="129" break="no"/>potentiam intelligi dicit, quod omnem creaturam de 
+      <lb ed="#P" n="130"/>nihilo fecit. Quare secundum Fulgentium, sicut 
+      om<lb ed="#P" n="131" break="no"/>nipotentia non potest communicari creaturae; ita nec 
+      <lb ed="#P" n="132"/>virtus creandi. Damascen. quoque lib. 2. de orth. 
+      <lb ed="#P" n="133"/>fide c. 3. angelos non esse creatores cujuscumque 
+      sub<lb ed="#P" n="134" break="no"/>stantiae, hoc argumento probat, quia sunt creaturae: 
+      <lb ed="#P" n="135"/>videlicet manifeste significans, Deo propriam, &amp; 
+      crea<lb ed="#P" n="136" break="no"/>turae incommunicabilem esse creandi potentiam. 
+    </p>
+            <p xml:id="bt67yj-p000841-d1e276">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Hoc igitur ut certo constituto, disputatur: utrum 
+      <lb ed="#P" n="138"/>per modum causae instrumentalis creatura possit ad 
+      <lb ed="#P" n="139"/>creationem concurrere. 
+    </p>
+            <p xml:id="bt67yj-p000841-d1e287">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Sit igitur hoc secundum: Nullam creaturam ex 
+      <lb ed="#P" n="141"/>sua natura habere, ut possit esse instrumentum 
+      divi<lb ed="#P" n="142" break="no"/>nae virtutis ad creandum. Loquimur autem hic de 
+      <lb ed="#P" n="143"/>instrumento physico; scilicet ad cujus rationem 
+      <lb ed="#P" n="144"/>pertinet, ut per aliquid sibi proprium disponmive 
+      <lb ed="#P" n="145"/>operetur ad effectum principalis agentis, ut definit 
+      <lb ed="#P" n="146"/>S. Thomas art. 5. Quo modo calor est instrumentum 
+      <!--0235.xml-->
+      <pb ed="#P" n="4"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ignis ad producendum alium ignem, &amp; securis, 
+      in<lb ed="#P" n="2" break="no"/>strumentum artificis ad faciendum scamnum. 
+      Calo<lb ed="#P" n="3" break="no"/>ris enim proprium est calefacere, &amp; securis secare. 
+      <lb ed="#P" n="4"/>Hujus igitur doctrinae ratio est, quia nulla creatura, 
+      <lb ed="#P" n="5"/>per aliquid sibi proprium, dispositive potest 
+      coope<lb ed="#P" n="6" break="no"/>rari ad actionem Dei creantis. Quod ita probat S. 
+      <lb ed="#P" n="7"/>Thomas: quia creatio cum sit productio rei ex 
+      ni<lb ed="#P" n="8" break="no"/>hilo, nihil praesupponit, circa quod actio instrumerti 
+      <lb ed="#P" n="9"/>versari possit. Potest etiam probari iisdem rationibus, 
+      <lb ed="#P" n="10"/>quibus ostensum est creaturam non posse esse 
+      princi<lb ed="#P" n="11" break="no"/>palem creationis causam. Nam si creatura ad 
+      effe<lb ed="#P" n="12" break="no"/>ctum creationis operetur dispositive per aliquid sibi 
+      <lb ed="#P" n="13"/>proprium, habebit rationem causae maxime 
+      univer<lb ed="#P" n="14" break="no"/>salis, &amp; virtutem habebit infinitam, eamque 
+      pro<lb ed="#P" n="15" break="no"/>ductivam totius entis, juxta deductionem superius 
+      <lb ed="#P" n="16"/>factam, quemadmodum patere potest rationes ipsas 
+      <lb ed="#P" n="17"/>diligenter expendenti, unde &amp; in hoc puncto 
+      doctri<lb ed="#P" n="18" break="no"/>nae Theologi satis conveniunt. 
+    </p>
+            <p xml:id="bt67yj-p000841-d1e352">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Tertium, non potest creatura supernaturali 
+      virtu<lb ed="#P" n="20" break="no"/>te elevari ad hujusmodi actionem, qua tanquam 
+      <lb ed="#P" n="21"/>instrumentum physicum cooperetur creationi, 
+      hu<lb ed="#P" n="22" break="no"/>jus eadem est probatio cum superiori. Nam rationes 
+      <lb ed="#P" n="23"/>ibi allatae simpliciter &amp; absolute probant, creaturam 
+      <lb ed="#P" n="24"/>non posse esse instrumentum physicum ad 
+      crean<lb ed="#P" n="25" break="no"/>dum, eo quod ad propriam hujus generis instrumenta 
+      <lb ed="#P" n="26"/>rationem pertineat, per aliquid sibi proprium operari 
+      <lb ed="#P" n="27"/>dispositive ad effectum causae principalis. Quare nec 
+      <lb ed="#P" n="28"/>divina virtute poterit assumi creatura ad creandum, 
+      <lb ed="#P" n="29"/>tanquam instrumentum physicum, salva manente 
+      <lb ed="#P" n="30"/>propria ratione hujusmodi instrumenti. Haec 
+      senten<lb ed="#P" n="31" break="no"/>tia est S. Thomae articulo supra citato, &amp; de 
+      poten<lb ed="#P" n="32" break="no"/>tia q. 1. art. 4. &amp; lib. 2. contra gentes cap. 21. Item 
+      <lb ed="#P" n="33"/>
+               <ref xml:id="bt67yj-p000841-Rd1e388">
+                  <name xml:id="bt67yj-p000841-Nd1e390">Alberti</name> magni super hanc distinctionem art. 7.</ref> &amp; 
+      <lb ed="#P" n="34"/>
+               <ref xml:id="bt67yj-p000841-Rd1e396">
+                  <name xml:id="bt67yj-p000841-Nd1e398">Gabrielis</name> super eandem, q. 4.</ref> nec non <ref xml:id="bt67yj-p000841-Rd1e401">
+                  <name xml:id="bt67yj-p000841-Nd1e403">Scoti</name> in 4. 
+      <lb ed="#P" n="35"/>dist. 1. q. 1.</ref> licet in modo probandi a S. Thoma 
+      dissen<lb ed="#P" n="36" break="no"/>tiat. At in diversa sententia sunt <ref xml:id="bt67yj-p000841-Rd1e410">
+                  <name xml:id="bt67yj-p000841-Nd1e412">Magister</name> in 4. dist. 
+      <lb ed="#P" n="37"/>5.</ref> &amp; <ref xml:id="bt67yj-p000841-Rd1e417">
+                  <name xml:id="bt67yj-p000841-Nd1e419">Durandus</name> super hanc dist. q. 4.</ref> Quam 
+      opinio<lb ed="#P" n="38" break="no"/>nem ipse etiam S. Thomas in suis super Magistrum 
+      <lb ed="#P" n="39"/>utroque loco scriptis, ut probabilem secutus fuit, 
+      <lb ed="#P" n="40"/>scilicet quaest. 1. art. 10. in hanc distinct. &amp; q. 2. art. 
+      <lb ed="#P" n="41"/>1. in distinct. 5. lib. 4. 
+    </p>
+            <p xml:id="bt67yj-p000841-d1e432">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Quartum, potest creatura tanquam 
+      instrumen<lb ed="#P" n="43" break="no"/>tum morale assumi a Deo ad opus creationis. Ratio: 
+      <lb ed="#P" n="44"/>quia instrumentum morale dicitur omne medium, 
+      <lb ed="#P" n="45"/>quod a causa principali morali desumitur ad effectus, 
+      <lb ed="#P" n="46"/>quos ejusmodi causa respicit, ut sunt verba, nutus, 
+      <lb ed="#P" n="47"/>scriptura, chirographum, &amp; quodcunque aliud ad 
+      <lb ed="#P" n="48"/>placitum causae jam dictae. Sic ergo manifestum est 
+      <lb ed="#P" n="49"/>Deum potuisse &amp; posse ad creationem cujuscunque 
+      <lb ed="#P" n="50"/>rei adhibere quamlibet aliam creaturam, vel 
+      actio<lb ed="#P" n="51" break="no"/>nem ejus ut instrumentum, velut ad orationem 
+      Pe<lb ed="#P" n="52" break="no"/>tri, ad elevationem manus aut virgae Moysi rem 
+      ali<lb ed="#P" n="53" break="no"/>quam novam creare superterram. Verum hoc ipsum 
+      <lb ed="#P" n="54"/>tamen in treatione mundi factum non fuisse 
+      supe<lb ed="#P" n="55" break="no"/>perius ostendimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

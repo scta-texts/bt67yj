@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="122"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p046919"><!-- l2d14c2" -->
+            <head xml:id="bt67yj-p046919-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p046919-Hd1e103" type="question-title">Objectiones solvuntur</head>
+            <p xml:id="bt67yj-p046919-d1e106">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> §. 2. Objectiones solvuntur. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e113">
+               <lb ed="#P" n="42"/>PRima objectio est ex nomine firmamenti. 
+      Quam<lb ed="#P" n="43" break="no"/>vis enim vocem Hebraeam plerique extensionem 
+      <lb ed="#P" n="44"/>interpretentur: S. Hier. tamen &amp; 70. transtulerunt, 
+      <lb ed="#P" n="45"/>firmamentum. Hoc enim significat Graeca dictio 
+      <lb ed="#P" n="46"/>στερέωμα quae est apud 70. At non videtur hoc 
+      voca<lb ed="#P" n="47" break="no"/>bulum competere in aerem, corpus scilicet prae 
+      caete<lb ed="#P" n="48" break="no"/>ris omnibus tenue, instabile, penetrabile, fluxum, &amp; 
+      <lb ed="#P" n="49"/>secundum Physicos summe humidum, denique ut ita 
+      <lb ed="#P" n="50"/>loquamur, adeo infirmum, ut nulli corpori resistat 
+      <lb ed="#P" n="51"/>sed caeteris omnibus cedat facillime, proindeque 
+      <lb ed="#P" n="52"/>ejus objectu nihil repelli aut retineri possit. 
+      Respon<lb ed="#P" n="53" break="no"/>deo caelum a Moyse expansionem vocari, recte 
+      ta<lb ed="#P" n="54" break="no"/>men etiam firmamentum dici, non quod sit firmum 
+      <lb ed="#P" n="55"/>&amp; solidum corpus, aquas excludens atque 
+      distermi<lb ed="#P" n="56" break="no"/>nans eo modo quo aggeres &amp; litora marium arcent 
+      <lb ed="#P" n="57"/>aquas a terra, &amp; quo terra ipsa aquas maris fundo 
+      su<lb ed="#P" n="58" break="no"/>stinet; sed quia interstitium est &amp; terminus inter 
+      a<lb ed="#P" n="59" break="no"/>quas superiores &amp; inferiores interpositus, idemque 
+      <lb ed="#P" n="60"/>non naturali soliditate, sed divina ordinatione 
+      per<lb ed="#P" n="61" break="no"/>petuus atque intransgressibilis, ut S. Aug. loquitur 
+      <lb ed="#P" n="62"/>lib. 2. de Gen. ad liter. cap. 10. Quod idem de 
+      fir<lb ed="#P" n="63" break="no"/>mamenti nomine sentit <name xml:id="bt67yj-p046919-Nd1e162">Rupert.</name> lib. 1. in Genes. 
+      <lb ed="#P" n="64"/>cap. 22. Neque tamen eam aquarum per aerem 
+      in<lb ed="#P" n="65" break="no"/>ter medium divisionem seu disterminationem praeter 
+      <lb ed="#P" n="66"/>aut contra naturam fieri putandum est, quomodo 
+      <lb ed="#P" n="67"/>contra naturam divisae steterunt aquae maris rubri, 
+      <lb ed="#P" n="68"/>ut transitum praeberent filiis Israel. Nam aer infimus 
+      <lb ed="#P" n="69"/>tum calore proprio, tum eo quem accipit ex radiis 
+      <lb ed="#P" n="70"/>solis a terra reverberatis, naturaliter sustentat aquas 
+      <lb ed="#P" n="71"/>superiores, id est, nubes &amp; quicquid aquosae 
+      consti<lb ed="#P" n="72" break="no"/>tutionis est in sublimi. 
+      <!--0355.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Secunda objectio: Aquae mediae regionis aeris 
+      quo<lb ed="#P" n="74" break="no"/>tiescumque pluit, aut ningit, aut grandinat, miscentur 
+      <lb ed="#P" n="75"/>aquis inferioribus; non ergo constat inter has aquas 
+      <lb ed="#P" n="76"/>divisio, quod officium scriptura firmamento attribuit 
+      <lb ed="#P" n="77"/>Respondeo divisionem probe constare. Non enim 
+      il<lb ed="#P" n="78" break="no"/>lae aquae cum istis ita miscentur, ut medium 
+      intersti<lb ed="#P" n="79" break="no"/>tium tollatur, fiatque aquosae regionis aeris cum 
+      ele<lb ed="#P" n="80" break="no"/>mento aquae permixtio atque confusio, sic ut unum 
+      <lb ed="#P" n="81"/>aquarumcorpus constituant, quale fuerat ante 
+      separa<lb ed="#P" n="82" break="no"/>tionem nondum assignato loco generationi nubium 
+      <lb ed="#P" n="83"/>&amp; pluviarum, quale item forsitan erat tempore 
+      uni<lb ed="#P" n="84" break="no"/>versalis diluvii confusis aquarum superiorum &amp; 
+      infe<lb ed="#P" n="85" break="no"/>riorum terminis; sed id factum extraordinarie Deo 
+      <lb ed="#P" n="86"/>peccata generis humani generali excidio vindicante. 
+      <lb ed="#P" n="87"/>Nec mirum, cum &amp; mare terminos sibi ab initio 
+      po<lb ed="#P" n="88" break="no"/>sitos aliquando transgrediatur Deo modis insolitis 
+      <lb ed="#P" n="89"/>hominum scelera puniente. Itaque scriptura non aliud 
+      <lb ed="#P" n="90"/>vult quam aquas ab aquis interposito, id est, caelo ita 
+      <lb ed="#P" n="91"/>esse diversas ut perpetua lege aliae gignantur in 
+      subli<lb ed="#P" n="92" break="no"/>mi, ibidemque consistant supra hunc aerem 
+      suspen<lb ed="#P" n="93" break="no"/>sae, donec guttatim ac sensim defluant ad usum 
+      homi<lb ed="#P" n="94" break="no"/>num; aliae vero sub hoc aere collocatae maneant. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e237">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Tertia: In describendo opere quarti diei refert 
+      <lb ed="#P" n="96"/>Moyses Deum dixisse: Fiant luminaria in firmamente 
+      <lb ed="#P" n="97"/>diei; moxque subjungit Deum ea posuisse in 
+      firma<lb ed="#P" n="98" break="no"/>mento caeli. Hoc autem intelligi nullo modo potest 
+      <lb ed="#P" n="99"/>de aeris elemento, praesertim qua parte aquas nubium 
+      <lb ed="#P" n="100"/>sustinet. Sed in promptu est solutio ex eo quod initio 
+      <lb ed="#P" n="101"/>diximus firmamenti nomine caelum intelligi; caelum 
+      <lb ed="#P" n="102"/>autem sua significatione, &amp; hunc aerem terrae 
+      proxi<lb ed="#P" n="103" break="no"/>mum &amp; quicquid supra ipsum longe lateque 
+      extendi<lb ed="#P" n="104" break="no"/>tur, complecti non habita ratione distinctionis 
+      ele<lb ed="#P" n="105" break="no"/>mentorum aeris &amp; ignis, nec non diversorum orbium 
+      <lb ed="#P" n="106"/>caelestium, de quibus distincte scriptura nihil 
+      tradi<lb ed="#P" n="107" break="no"/>dit, ut pote non ad hoc edita ut talia nos doceret. 
+      Ve<lb ed="#P" n="108" break="no"/>rum aliis atque aliis scripturae locis juxta subj ctam 
+      <lb ed="#P" n="109"/>materiam verificatio fit pro diversis totius supra nos 
+      <lb ed="#P" n="110"/>expansi corporis partibus, ut modo pro aere ejusque 
+      <lb ed="#P" n="111"/>parte infima, modo pro caelo sidereo, modo pro caelo 
+      <lb ed="#P" n="112"/>empyreo. Sunt igitur astra in firmamento, id est, in 
+      <lb ed="#P" n="113"/>caelo secundum partem ejus superiorem; aquae vero 
+      <lb ed="#P" n="114"/>supra firmamentum, &amp; ut alibi scriptura loquitur, 
+      su<lb ed="#P" n="115" break="no"/>pra caelum sunt, secundum partem ejus inferiorem. Et 
+      <lb ed="#P" n="116"/>quidem hoc modo solvit istam de firmamento 
+      obje<lb ed="#P" n="117" break="no"/>ctionem etiam S. Thom. 1. p. q. 70. art. 1. Quanquam 
+      <lb ed="#P" n="118"/>&amp; alia non improbanda solutio est hujus argumenti. 
+      <lb ed="#P" n="119"/>Potest enim quod dicitur: Fiant luminaria in 
+      firma<lb ed="#P" n="120" break="no"/>mento cali, sic intelligi, fiant ut luceant in firmamento 
+      <lb ed="#P" n="121"/>caeli. Ita enim scriptura semetipsam exponere 
+      vide<lb ed="#P" n="122" break="no"/>tur, dum statim addit: ut luceant in firmamento caeli, &amp; 
+      <lb ed="#P" n="123"/>illuminent terram, id est, ut lumen diffundant toto 
+      ae<lb ed="#P" n="124" break="no"/>re super terram. Apparet enim Moysen non tam 
+      vo<lb ed="#P" n="125" break="no"/>luisse nos docere ubi fixa sint luminaria, quam ubi 
+      lu<lb ed="#P" n="126" break="no"/>cendo nobis, quorum causa mundus corporeus factus 
+      <lb ed="#P" n="127"/>est, usum praebeant, scilicet in aere terris vicino.
+    </p>
+            <p xml:id="bt67yj-p046919-d1e314">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Quarta: Ad opus quintae diei dixit Deus: Producant 
+      <lb ed="#P" n="129"/>aquae volatile super terram, sub firmamento celi; non 
+      <lb ed="#P" n="130"/>dixit in firmamento caeli; quomodo tamen loquendum 
+      <lb ed="#P" n="131"/>fuisset, si aer in quo versantur volatilia nomine 
+      fir<lb ed="#P" n="132" break="no"/>mamenti comprehenderetur. Respondeo pro eo quod 
+      <lb ed="#P" n="133"/>nostra versio habet, sub firmamento apud 70. legi 
+      se<lb ed="#P" n="134" break="no"/>cundum, seu juxta firmamentum, id est, in 
+      firmamen<lb ed="#P" n="135" break="no"/>to. In Heb. autem hoc pacto: Super terram, super 
+      fa<lb ed="#P" n="136" break="no"/>ciem firmamenti caeli. In Chald. Super terram, super 
+      <lb ed="#P" n="137"/>faciem aeris firmamenti cali. Haec igitur scriptura ad 
+      <lb ed="#P" n="138"/>fontem revocata manifeste pro nobis facit. In nostra 
+      <lb ed="#P" n="139"/>autem visione, sub, pro, in, positum facile potest 
+      intel<lb ed="#P" n="140" break="no"/>ligi, nisi quis malit firmamentum caeli pro superiori 
+      <lb ed="#P" n="141"/>parte caeli eo loco verificari; quod tamen secundum 
+      <lb ed="#P" n="142"/>Hebr. veritatem &amp; versiones alias non est necesse. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e351">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Quinta: Aquae supra firmamentum collocatae, alibi 
+      <lb ed="#P" n="144"/>dicuntur aquae quae super caelos sunt ut Ps. 148. Ergo 
+      <lb ed="#P" n="145"/>non uno aere, sed pluribus caelis superiores sunt illae 
+      <lb ed="#P" n="146"/>aquae. Facilis est responsio caelos pro caelo dici tum 
+      <!--0356.xml-->
+      <pb ed="#P" n="123"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ibi, tum alibi frequentissime in scripturis. Nam 
+      He<lb ed="#P" n="2" break="no"/>braeis caelum caret singulari numero, sive de uno sive 
+      <lb ed="#P" n="3"/>de pluribus dicatur; tametsi interpretes modo 
+      plu<lb ed="#P" n="4" break="no"/>rale, modo singulare reddiderunt. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e379">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Sexta: Ex eodem Psal. in quo hic est versiculus: 
+      <lb ed="#P" n="6"/>Laudate Deum celi caelorum &amp; aquae quae super caelos 
+      <lb ed="#P" n="7"/>sunt, laudent nomen Domini. Per caelos autem 
+      caelo<lb ed="#P" n="8" break="no"/>rum sive per caelum caeli, uti reddidit interpres Pl. 113. 
+      <lb ed="#P" n="9"/>intelligitur caelum praecipuum ac praestantissimum 
+      <lb ed="#P" n="10"/>phrasi Hebraica, qua etiam dictum est sanctum 
+      san<lb ed="#P" n="11" break="no"/>ctorum, &amp; canticum canticorum, simili 
+      significa<lb ed="#P" n="12" break="no"/>tione excellentiae; ergo quod sequitur: Et aquae quae 
+      <lb ed="#P" n="13"/>super caelos sunt, &amp;c. de eodem caelo venit 
+      intelligen<lb ed="#P" n="14" break="no"/>dum, utpote proxime nominato. Hoc autem non est 
+      <lb ed="#P" n="15"/>aer, sed vel sidereum caelum, vel empyreum. 
+      Res<lb ed="#P" n="16" break="no"/>pondetur non esse consequens ut de eodem caelo 
+      po<lb ed="#P" n="17" break="no"/>sterior versiculi pars intelligatur de quo prior. Quin 
+      <lb ed="#P" n="18"/>potius ipsis verbis insinuatum est hoc ab illo 
+      diver<lb ed="#P" n="19" break="no"/>sum esse, dum priori loco nominatur caelum caeli; 
+      po<lb ed="#P" n="20" break="no"/>steriori vero caelum simpliciter &amp; nullo addito, 
+      quo<lb ed="#P" n="21" break="no"/>modo positum plerumque pro aere accipitur. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e421">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Septima: In hymno trium puerorum Dan. 3. 
+      com<lb ed="#P" n="23" break="no"/>memorantur opera Dei, convenienti ordine quo a 
+      <lb ed="#P" n="24"/>superioribus ad inferiora descenditur. Primum 
+      enim<lb ed="#P" n="25" break="no"/>angeli commemorantur, deinde caeli &amp; sidera, tum 
+      <lb ed="#P" n="26"/>meteora, postremo terra &amp; quae in ea sunt: At ibi 
+      <lb ed="#P" n="27"/>aquae quae super caelos sunt ante solem &amp; lunam &amp; 
+      <lb ed="#P" n="28"/>stellas ponuntur. Igitur eum in universo ordinem 
+      <lb ed="#P" n="29"/>habent, ut his sint superiores. Respondendum si 
+      sin<lb ed="#P" n="30" break="no"/>gula percurramus Dei opera quae in illo Cantico 
+      re<lb ed="#P" n="31" break="no"/>censentur facile animadverti (quod etiam 
+      admo<lb ed="#P" n="32" break="no"/>nuit Euthymius in ejus expositione) non esse certum 
+      <lb ed="#P" n="33"/>aliquem inter ea ordinem observatum. Nam quod 
+      <lb ed="#P" n="34"/>ad ordinem locationis attinet, constat stelliferum 
+      cae<lb ed="#P" n="35" break="no"/>lum esse supra solem &amp; lunam, post quae tamen hic 
+      <lb ed="#P" n="36"/>stellae nominantur. Sed &amp; in sequentibus hunc 
+      ordi<lb ed="#P" n="37" break="no"/>nem non fuisse per omnia servatum, perspicuum est. 
+      <lb ed="#P" n="38"/>Adde quod eaedem aquae quas hoc canticum 
+      com<lb ed="#P" n="39" break="no"/>memorat ante solem &amp; lunam Ps. 148. in simili 
+      ma<lb ed="#P" n="40" break="no"/>teria laudis divinae post solem &amp; lunam stellasque 
+      no<lb ed="#P" n="41" break="no"/>minavit. Unde satis apparet ex ordine hujusmodi 
+      <lb ed="#P" n="42"/>non esse certum argumentum, ut pote qui diversis 
+      lo<lb ed="#P" n="43" break="no"/>cis diversus atque inversus reperiatur. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e473">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Octava: In eodem Cantico seorsum nominantur 
+      <lb ed="#P" n="45"/>atque supercaelestes, &amp; seorsum quibusdam 
+      interpo<lb ed="#P" n="46" break="no"/>sitis imber, ros, pruina, nives, nubes. Haec autem 
+      <lb ed="#P" n="47"/>pertinent ad aquas quae in media aeris regione 
+      gi<lb ed="#P" n="48" break="no"/>gnuntur. Sunt igitur hae aquae diversae ab illis 
+      super<lb ed="#P" n="49" break="no"/>caelestibus. Neganda est consequentia. Voluit enim 
+      <lb ed="#P" n="50"/>scriptura prius universe atque in genere nominare 
+      <lb ed="#P" n="51"/>aquas superiores quas deinde paulo post speciatim ac 
+      <lb ed="#P" n="52"/>distincte per partes explicat; tametsi proprie inter 
+      <lb ed="#P" n="53"/>has partes solae nubes sunt aquae super caelum. Nam 
+      <lb ed="#P" n="54"/>caetera non ibi sunt, sed ex aquis illic proprium 
+      lo<lb ed="#P" n="55" break="no"/>cum habentibus originem vel immediate vel 
+      media<lb ed="#P" n="56" break="no"/>te ducunt. Quare etiam responderi potest ideo 
+      nu<lb ed="#P" n="57" break="no"/>bium postea factam esse mentionem, quia fulgura 
+      <lb ed="#P" n="58"/>nominabantur quae erumpunt e nubibus. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e510">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Nona: In hymno quem ad vesperas feriae secundae 
+      <lb ed="#P" n="60"/>canit Ecclesia, dicitur Deus caelum posuisse limitem 
+      <lb ed="#P" n="61"/>inter aquas caelestes &amp; terrestres, ad hunc usum, ut 
+      <lb ed="#P" n="62"/>unda flammas temperet, terrae solum ne dissipent; ergo 
+      <lb ed="#P" n="63"/>sentit Ecclesia aquas supra caelum sidereum positas 
+      <lb ed="#P" n="64"/>esse ad temperandum caelestium ignium ardorem ne 
+      <lb ed="#P" n="65"/>terris noceat. Negatur &amp; haec consequentia. 
+      Verita<lb ed="#P" n="66" break="no"/>tem enim habent illius hymni verba de aquis in 
+      su<lb ed="#P" n="67" break="no"/>blimi aere haerentibus. Nam per eas subinde 
+      deci<lb ed="#P" n="68" break="no"/>dentes vel caelum obnubilantes atque umbram nobis 
+      <lb ed="#P" n="69"/>exhibentes temperatur ardor siderum, ac praecipue 
+      <lb ed="#P" n="70"/>solis, ne terram radiis suis adurat ac dissipet. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e542">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Decima &amp; postrema objectio est, hanc scripturae 
+      <lb ed="#P" n="72"/>expositionem qua aquas supercaelestes interpretamur 
+      <lb ed="#P" n="73"/>aquas mediae regionis aeris novam esse, ut quae 
+      nus<lb ed="#P" n="74" break="no"/>quam exstet apud Theologos paulo vestutiores, ideó 
+      <!--0356.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>que merito explodendam. Unde quidam <name xml:id="bt67yj-p046919-Nd1e561">Franciscus 
+      <lb ed="#P" n="76"/>Feuardentius</name> in appendice operis <name xml:id="bt67yj-p046919-Nd1e566">Alphonsi de Castro</name>
+               <lb ed="#P" n="77"/>de haeresibus, titulo Aqua, hujusmodi argumento 
+      <lb ed="#P" n="78"/>motus eo progreditur, ut inter haereses referat aquas 
+      <lb ed="#P" n="79"/>negare supra firmamentum sidereum, &amp; scripturam 
+      <lb ed="#P" n="80"/>interpretari de aquis supra aerem hunc nostrum 
+      sus<lb ed="#P" n="81" break="no"/>pensis, hoc est de nubibus. Primum respondeo non 
+      <lb ed="#P" n="82"/>posse videri novam expositionem, quam tot alia 
+      scri<lb ed="#P" n="83" break="no"/>pturae loca in quibus de sublimibus aquis mentio fit, 
+      <lb ed="#P" n="84"/>confirment. Deinde novam expositionem scripturae 
+      <lb ed="#P" n="85"/>nullam jure damnari, si non sit contra fidem aut 
+      pie<lb ed="#P" n="86" break="no"/>tatem, aut contra concordem patrum 
+      interpretatio<lb ed="#P" n="87" break="no"/>nem, talem autem hanc constat non esse, cum sit 
+      con<lb ed="#P" n="88" break="no"/>formis &amp; sensuum experimento, &amp; scripturis aliis 
+      per<lb ed="#P" n="89" break="no"/>multis, &amp; nulla exstet alia ejusdem scripturae 
+      inter<lb ed="#P" n="90" break="no"/>pretatio, in quam patres omnes consentiant, nec 
+      quis<lb ed="#P" n="91" break="no"/>quam patrum ita suam statuat expositionem, ut 
+      di<lb ed="#P" n="92" break="no"/>versamdamnet. Tertio ac plenius respondetur, dictam 
+      <lb ed="#P" n="93"/>expositionem adeo non esse novam ut &amp; a patribus &amp; 
+      <lb ed="#P" n="94"/>a scholasticis magnam habeat commendationem. 
+      <lb ed="#P" n="95"/>Nam Aug. lib. 2. de Gen. ad literam c. 4. hanc 
+      senten<lb ed="#P" n="96" break="no"/>tiam non solum commemorat, verum &amp; aut horis ejus, 
+      <lb ed="#P" n="97"/>quem non nominat, diligentiam 
+      considerationem<lb ed="#P" n="98" break="no"/>que laude dignissimam judicare se affirmat, addita 
+      <lb ed="#P" n="99"/>hac ratione. Quod enim dixit, inquit, neque contra 
+      <lb ed="#P" n="100"/>fidem est, &amp; in promptu posito documento credi potest. 
+      <lb ed="#P" n="101"/>Idem lib. 13. confess. c. 32. firmamenti inter aquas 
+      <lb ed="#P" n="102"/>positi duas adfert expositiones, quarum posterior 
+      <lb ed="#P" n="103"/>haec ipsa est quam probamus. Videmus, inquit, 
+      fir<lb ed="#P" n="104" break="no"/>mamentum caeli, sive inter spirituales aquas 
+      superio<lb ed="#P" n="105" break="no"/>res &amp; corporales inferiores primarium corpus mundi. 
+      <lb ed="#P" n="106"/>sive hoc spatium aeris (quia &amp; hoc vocatur caelum 
+      <lb ed="#P" n="107"/>per quod vagantur volatilia caeli) inter aquas quae 
+      va<lb ed="#P" n="108" break="no"/>poraliter ei superferuntur, &amp; serenis etiam noctibus 
+      ro<lb ed="#P" n="109" break="no"/>rant, &amp; has quae in terris graves fluitant. Haec Aug. 
+      <lb ed="#P" n="110"/>Apparet autem tale aliquid Epiphan. quoque 
+      sen<lb ed="#P" n="111" break="no"/>sisse, ex eo quod in epist. ad Joann. 
+      Hierosolymita<lb ed="#P" n="112" break="no"/>num scripta, &amp; ab Hicronymo in Latinum 
+      conver<lb ed="#P" n="113" break="no"/>sa, dicit aquas quae super caelos sunt, eas fuisse quae 
+      <lb ed="#P" n="114"/>cataractis caeli apertis terram universam inundarunt. 
+    </p>
+            <p xml:id="bt67yj-p046919-d1e651">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Has enim non ex aethereo caelo, sed ex aereo 
+      decidis<lb ed="#P" n="116" break="no"/>se apud doctos in confesso est. Caeterum clarissime 
+      <lb ed="#P" n="117"/>sententiam hanc tradit initio libri 2. de elementis 
+      <lb ed="#P" n="118"/>philosophiae, seu Beda, seu quisquis alius illius operis 
+      <lb ed="#P" n="119"/>author est, quam &amp; probat atque diversam improbat 
+      <lb ed="#P" n="120"/>doctis rationibus, quas inde repetat studiosus. S. 
+      <lb ed="#P" n="121"/>Thomas etiam 1. p. q. 68. art. 1. 2. &amp; 3. hanc 
+      opi<lb ed="#P" n="122" break="no"/>nionem &amp; expositionem ita tractat, ut eam caeteris 
+      <lb ed="#P" n="123"/>videatur anteponere, dicitque eam ab Aug. 
+      com<lb ed="#P" n="124" break="no"/>mendari, &amp; secundum eam omnia argumenta quae 
+      <lb ed="#P" n="125"/>de aquis supercaelestibus moventur, facilius 
+      solvi<lb ed="#P" n="126" break="no"/>Bona ventura in praesentem distinctionem de hac re 
+      <lb ed="#P" n="127"/>agens, primo loco hanc opinionem recenset, nec illi 
+      <lb ed="#P" n="128"/>admodum reluctatur; tametsi nihil definit. Hoc 
+      <lb ed="#P" n="129"/>autem, inquit, praecipue attendendum est, ne in incerta 
+      <lb ed="#P" n="130"/>materia aliquid certitudinaliter afferatur. Melius est 
+      <lb ed="#P" n="131"/>enim pie dubitare quam aliquid temerarie definires 
+      <lb ed="#P" n="132"/>Porro Durandus eam sententiam aperte &amp; sine 
+      <lb ed="#P" n="133"/>ambiguitate amplectitur in hanc ipsam 
+      distinctio<lb ed="#P" n="134" break="no"/>nem scribens. Eidem sententiae subscribunt author 
+      <lb ed="#P" n="135"/>altercationis ecclesiae &amp; synagogae cap. 3. Aug. 
+      Eu<lb ed="#P" n="136" break="no"/>gubinus in Comospoeia, Antonius Fonseca in notis 
+      <lb ed="#P" n="137"/>marginalibus ad Caietanum super Gen. 1. <name xml:id="bt67yj-p046919-Nd1e705">Jacobus 
+        <lb ed="#P" n="138"/>Faber<!-- https://www.wikidata.org/wiki/Q356513--></name> super 2. Petri 3. <name xml:id="bt67yj-p046919-Nd1e711">Franciscus Vatablus<!--https://www.wikidata.org/wiki/Q356572--></name> in 
+      Gen<lb ed="#P" n="139" break="no"/>1. <name xml:id="bt67yj-p046919-Nd1e717">Benedictus Pererius</name> in Gen. &amp; Daniel 3. <name xml:id="bt67yj-p046919-Nd1e719">M. 
+      Ba<lb ed="#P" n="140" break="no"/>jus<!--https://www.wikidata.org/wiki/Q661867--></name> in hanc distinct. <name xml:id="bt67yj-p046919-Nd1e726">Dom. Bannes</name> in 1. p. q. 68. 
+      <lb ed="#P" n="141"/>art. 1. 2. &amp; 3. suos quoque adducens authores 
+      mul<lb ed="#P" n="142" break="no"/>tisque ac bonis rationibus sententiam hanc 
+      constabi<lb ed="#P" n="143" break="no"/>liens &amp; alii ex recentioribus, quibus accedunt ex 
+      <lb ed="#P" n="144"/>Hebraeorum <name xml:id="bt67yj-p046919-Nd1e736">Rabbinis Moyses</name> &amp; <name xml:id="bt67yj-p046919-Nd1e739">Kimhi</name>. Ex quibus 
+      <lb ed="#P" n="145"/>omnibus manifestum est quam temere &amp; imperite 
+      <lb ed="#P" n="146"/>supra memoratus author hanc sententiam novitatis 
+      <lb ed="#P" n="147"/>nomine damnarit, aut quoquo modo de erro e 
+      fi<lb ed="#P" n="148" break="no"/>fidei contrario suspectam reddere voluerit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

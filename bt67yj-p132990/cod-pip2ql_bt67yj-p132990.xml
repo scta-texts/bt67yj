@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="343"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p132990"><!-- l2d27c1" -->
+            <head xml:id="bt67yj-p132990-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p132990-Hd1e103" type="question-title">Quid sit virtus</head>
+            <p xml:id="bt67yj-p132990-d1e106">
+               <lb ed="#P" n="47"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="48"/>VICESIMAMSEPTIMAM. 
+      <lb ed="#P" n="49"/>§. 1. Quid sit virtus.
+    </p>
+            <p xml:id="bt67yj-p132990-d1e115">
+               <lb ed="#P" n="50"/>AB iis bonis quae per Christi gratiam homini 
+      <lb ed="#P" n="51"/>conferuntur, virtus Christiana nequaquam 
+      <lb ed="#P" n="52"/>separanda est; praesertim si quod jam 
+      du<lb ed="#P" n="53" break="no"/>dum probabile fecimus, ipsa gratia etiam virtus 
+      <lb ed="#P" n="54"/>est, imo virtutum maxima, scilicet charitas. Ut 
+      au<lb ed="#P" n="55" break="no"/>tem intelligatur quae virtus ascribenda sit gratiae 
+      <lb ed="#P" n="56"/>Christi, prius quaerendum, quid sit virtus. 
+      Repe<lb ed="#P" n="57" break="no"/>riuntur autem virtutis apud authores variae 
+      descri<lb ed="#P" n="58" break="no"/>ptiones. Aristoteles definit eam dispositionem 
+      per<lb ed="#P" n="59" break="no"/>secti ad id quod est optimum. Et alibi virtutem esse 
+      <lb ed="#P" n="60"/>dicit quae bonum facit habentem, &amp; opus ejus reddit 
+      <lb ed="#P" n="61"/>bonum. August. autem lib. 83. quaest. q. 31. ex 
+      Cice<lb ed="#P" n="62" break="no"/>rone virtutem definit animi habitum, naturae, 
+      mo<lb ed="#P" n="63" break="no"/>do, atque rationi consentaneum. Quam 
+      definitio<lb ed="#P" n="64" break="no"/>nem repetit &amp; bonam esse affirmat lib. 4. contra 
+      <lb ed="#P" n="65"/>Julianum cap. 3. Eidem Augustino Magister tribuit 
+      <lb ed="#P" n="66"/>hanc definitionem: Virtus est bona qualitas mentis 
+      <lb ed="#P" n="67"/>qua recte vivitur, &amp; qua nullus male utitur, quam 
+      <lb ed="#P" n="68"/>Deus solus in homine operatur. Quae definitio 
+      col<lb ed="#P" n="69" break="no"/>lecta est ex diversis Augustini locis. Quod enim 
+      <lb ed="#P" n="70"/>virtus sit bona qualitas mentis, legitur lib. 6. contra 
+      <!--0576.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>Julianum cap. 8. Quod autem ea recte vivatur, &amp; 
+      <lb ed="#P" n="72"/>nemo male utatur, habetur lib. 2. de libero 
+      arbi<lb ed="#P" n="73" break="no"/>trio cap. 18. &amp; 19. &amp; lib. 1. retract. cap. 9. 
+      Postre<lb ed="#P" n="74" break="no"/>ma pars sumpta est ex enarratione Psal. 118. conc. 
+      <lb ed="#P" n="75"/>26. ad illud: Feci judicium &amp; justitiam. Verba sunt 
+      <lb ed="#P" n="76"/>apud Magistrum. 
+    </p>
+            <p xml:id="bt67yj-p132990-d1e180">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Notandum autem pro intelligentia dictae 
+      defi<lb ed="#P" n="78" break="no"/>nitionis tria esse genera bonorum, quemadmodum 
+      <lb ed="#P" n="79"/>ex Augustino Magister ostendit dist. superiori §. K. 
+      <lb ed="#P" n="80"/>Quaedam enim magna bona sunt, quaedam minima, 
+      <lb ed="#P" n="81"/>quaedam media. Magna bona sunt, quibus non 
+      ni<lb ed="#P" n="82" break="no"/>si recte vivitur, minima sine quibus recte vivi 
+      po<lb ed="#P" n="83" break="no"/>test, media quibus &amp; recte &amp; non recte vivitur, 
+      <lb ed="#P" n="84"/>sine quibus tamen recte vivi non potest. Patet ergo 
+      <lb ed="#P" n="85"/>virtutes in primo genere bonorum collocandas 
+      es<lb ed="#P" n="86" break="no"/>se, quoniam &amp; per eas recte vivitur &amp; iis nemo 
+      ma<lb ed="#P" n="87" break="no"/>le utitur, intellige tanquam principiis utendi, licet 
+      <lb ed="#P" n="88"/>male quis uti iis posset tanquam objectis, quod 
+      fa<lb ed="#P" n="89" break="no"/>ciunt qui de virtutibus superbiunt. In minimis 
+      au<lb ed="#P" n="90" break="no"/>tem bonis reponit Augustinus species corporum, 
+      <lb ed="#P" n="91"/>quibus adjungi possunt multae qualitates animi, ut 
+      <lb ed="#P" n="92"/>gratiae quae dicuntur gratis datae. In mediis vero 
+      po<lb ed="#P" n="93" break="no"/>nit potentias animi, intellectum, &amp; voluntatem, 
+      <lb ed="#P" n="94"/>sine quibus virtutum opera non exercemus. 
+      Expo<lb ed="#P" n="95" break="no"/>nit particulatim dictam virtutis definitionem sanctus 
+      <lb ed="#P" n="96"/>Thomas 1. 2. q. 55. art. 4. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

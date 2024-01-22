@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="376"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p145651"><!-- l2d34c2" -->
+            <head xml:id="bt67yj-p145651-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p145651-Hd1e103" type="question-title">Malum non esse nisi in bono</head>
+            <p xml:id="bt67yj-p145651-d1e106">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> §. 2. Malum non esse nisi in bono.
+    </p>
+            <p xml:id="bt67yj-p145651-d1e113">
+               <lb ed="#P" n="37"/>PEccatum atque in genere malum omne sicut a I. 
+      <lb ed="#P" n="38"/>Tre bona est tanquam origine &amp; causa, ita esse 
+      <lb ed="#P" n="39"/>non potest nisi in re bona. Cujus ratio est, quia 
+      ma<lb ed="#P" n="40" break="no"/>lum non aliud est quam defectus, privatio atque 
+      cor<lb ed="#P" n="41" break="no"/>ruptio. Quod autem ejusmodi est, existere non 
+      po<lb ed="#P" n="42" break="no"/>test nisi in bono, ut subjecto. Quod si penitus 
+      extin<lb ed="#P" n="43" break="no"/>guatur, atque esse desinat, jam non erit in quo 
+      hae<lb ed="#P" n="44" break="no"/>reat malum, ut recte dixerit quidam: Malum si 
+      de<lb ed="#P" n="45" break="no"/>struat totum bonum, destruit seipsum. 
+    </p>
+            <p xml:id="bt67yj-p145651-d1e135">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Porro malum non esse rem vel naturam aliquam, 
+      <lb ed="#P" n="47"/>sed rei ac naturae corruptionem, primum ex 
+      meta<lb ed="#P" n="48" break="no"/>phora docetur, quae tradit bonum &amp; ens converti. 
+      <lb ed="#P" n="49"/>Cum igitur malum non sit bonum per se loquendo, 
+      <lb ed="#P" n="50"/>fit ut nec entium genere contineatur. 
+      Convertibi<lb ed="#P" n="51" break="no"/>lium enim unum a quocunque removeris, removebis 
+      <lb ed="#P" n="52"/>&amp; alterum. Deinde, cum natura omnis a Deo sit, 
+      ma<lb ed="#P" n="53" break="no"/>lum autem non sit a Deo, manifestum est malum non 
+      <lb ed="#P" n="54"/>significare naturam. 
+    </p>
+            <p xml:id="bt67yj-p145651-d1e160">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Ad idem ostendendum utitur Dionysius 
+      Areopa<lb ed="#P" n="56" break="no"/>gita libro de divinis nominibus cap. 4. parte 4. 
+      hu<lb ed="#P" n="57" break="no"/>jusmodi argumento: Quidquid appetibile est bonum 
+      <lb ed="#P" n="58"/>est; At omnis res appetibilis est, quia seipsam natura 
+      <lb ed="#P" n="59"/>liter diligit &amp; conservat: Res igitur omnis bona est. 
+      <lb ed="#P" n="60"/>Malum ergo non res aliqua est, sed in re boni 
+      alicu<lb ed="#P" n="61" break="no"/>jus privatio, ut in justitia justitiae privatio in homine, 
+      <lb ed="#P" n="62"/>vel angelo, sive in aliqua eorum naturali facultate; 
+      <lb ed="#P" n="63"/>quae quidem naturaliter bona esse constat. 
+    </p>
+            <p xml:id="bt67yj-p145651-d1e184">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Quare non minus stulta, quam impia fuit illa. 
+      Ma<lb ed="#P" n="65" break="no"/>nichaeorum doctrina, qua mali nomine naturam 
+      quan<lb ed="#P" n="66" break="no"/>dam per se malam, &amp; a bono ita separabilem, ut 
+      seor<lb ed="#P" n="67" break="no"/>sim existere posset, intelligentes, finxerunt duas in 
+      <lb ed="#P" n="68"/>rerum universitate naturas, boni scilicet &amp; mali; 
+      quo<lb ed="#P" n="69" break="no"/>rum ut neutrum ab altero exortum, ita neutrum 
+      al<lb ed="#P" n="70" break="no"/>teri necessario messe, sed velut substantias, separatim 
+      <lb ed="#P" n="71"/>ambo subsistere posse, putabant. Quanquam nec ut 
+      <!--0609.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>accidens aliquod, malum imaginari debemus, sed 
+      <lb ed="#P" n="73"/>tantummodo, ut diximus, boni sive substantialis, sive 
+      <lb ed="#P" n="74"/>accidentarii privationem. 
+    </p>
+            <p xml:id="bt67yj-p145651-d1e217">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Unde nec aliter, quam per privationem Patres 
+      ma<lb ed="#P" n="76" break="no"/>lum definiendum esse putarunt. Ambrosius enim 
+      li<lb ed="#P" n="77" break="no"/>de Isaac &amp; anima cap. 7. Quid est, inquit, malitia 
+      <lb ed="#P" n="78"/>nisi boni indigentia? Et Augustinus l. 11. de civit. 
+      <lb ed="#P" n="79"/>cap. 9. Mali nulla est natura, sed amissio boni 
+      mali<lb ed="#P" n="80" break="no"/>nomen accepit. Et Ench. 11. Quid est aliud quod 
+      ma<lb ed="#P" n="81" break="no"/>lum dicitur, quam privatio boni? Nam sicut corporis 
+      <lb ed="#P" n="82"/>animalium nihil est aliud morbis &amp; vulneribus affici. 
+      <lb ed="#P" n="83"/>quam sanitate privari: ita &amp; animorum quaecumque 
+      <lb ed="#P" n="84"/>sunt vitia, naturalium sunt privationes bonorum. 
+      La<lb ed="#P" n="85" break="no"/>te hanc doctrinam ibidem prosequitur Augustinus 
+      <lb ed="#P" n="86"/>per tria capita sequent. Et quidem capite 13. ex 
+      su<lb ed="#P" n="87" break="no"/>periori doctrina concludit, malum esse quod bonum 
+      <lb ed="#P" n="88"/>est, atque adeo nullum malum esse, nisi quod bonum 
+      <lb ed="#P" n="89"/>est; quia quaecumque mala dicuntur, quatenus res 
+      <lb ed="#P" n="90"/>seu naturae quaedam sunt, bona sunt, ut homo vel 
+      <lb ed="#P" n="91"/>Angelus, quatenus autem bono aliquo, veluti 
+      justi<lb ed="#P" n="92" break="no"/>tia, vel sapientia privata, mala sunt. Et capite 
+      pro<lb ed="#P" n="93" break="no"/>ximo in his contrariis, bonum &amp; malum, illam 
+      <lb ed="#P" n="94"/>Dialecticorum regulam: Nulli rei duo simul inesse 
+      <lb ed="#P" n="95"/>contraria; deficere dicit, usque adeo, ut horum 
+      al<lb ed="#P" n="96" break="no"/>terum sine altero, id est, malum sine bono inveniri 
+      <lb ed="#P" n="97"/>non possit. Deficere autem hactenus intellige, quia 
+      <lb ed="#P" n="98"/>ad haec opposita bonum &amp; malum, quae generali 
+      tan<lb ed="#P" n="99" break="no"/>tum ratione contraria dicuntur, non se extendit illa 
+      <lb ed="#P" n="100"/>Dialecticorum regula. 
+    </p>
+            <p xml:id="bt67yj-p145651-d1e278">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Quod si objicias illud Isa. 5. Vaeiis qui dicunt 
+      bo<lb ed="#P" n="102" break="no"/>num malum, &amp; malum bonum; Respondet ibidem 
+      <lb ed="#P" n="103"/>cap. 13. &amp; 19. Augustinus, id dictum de rebus 
+      qui<lb ed="#P" n="104" break="no"/>bus homines mali sunt, non de hominibus ipsis 
+      ac<lb ed="#P" n="105" break="no"/>cipiendum esse: verbi gratia, qui adulterium dicit 
+      <lb ed="#P" n="106"/>bonum, aut castitatem dicit malam, in illam 
+      inci<lb ed="#P" n="107" break="no"/>dit propheticam sententiam; non qui hominem 
+      <lb ed="#P" n="109"/>
+               <!-- line coord order error -->adulterum, quem castum putat, simpliciter bonum 
+      <lb ed="#P" n="110"/>dicit, ac multo minus, qui hominem adulterum, 
+      <lb ed="#P" n="111"/>quatenus homo est, bonum, quatenus autem 
+      adul<lb ed="#P" n="108" break="no"/>
+               <!-- line coord order error -->ter est, malum esse pronunciat.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

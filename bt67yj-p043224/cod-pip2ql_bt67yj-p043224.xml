@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="112"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p043224"><!-- l2d12c1" -->
+            <head xml:id="bt67yj-p043224-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p043224-Hd1e103" type="question-title">Praenotanda quadam ad rectam 
+      intelligentiam historiae creationis rerum</head>
+            <p xml:id="bt67yj-p043224-d1e106">
+               <lb ed="#P" n="106"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="107"/>DUODECIMAM. 
+      <lb ed="#P" n="108"/>§. 1. Praenotanda quadam ad rectam 
+      intelli<lb ed="#P" n="109" break="no"/>gentiam historiae creationis rerum. 
+   
+      <lb ed="#P" n="110"/>
+               <pc type="indent"/> DE creatione mundi corporei &amp; partium 
+      <lb ed="#P" n="111"/>ejus, quae Gen. 1. describitur, deque modo! 
+      <lb ed="#P" n="112"/>&amp; ordine creationis, ne quid a veritate 
+      <lb ed="#P" n="113"/>alienum credamus aut sentiamus. Primo omnium 
+      <lb ed="#P" n="114"/>cavendum est, ne ob ullam vel sensuum 
+      experien<lb ed="#P" n="115" break="no"/>tiam, vel humanae mentis ratiocinationem, 
+      quan<lb ed="#P" n="116" break="no"/>tumvis ea in speciem certa sit ac firma quicquam 
+      de<lb ed="#P" n="117" break="no"/>trahamus authoritati scripturae sacrae creationis 
+      re<lb ed="#P" n="118" break="no"/>rum historiam nobis describentis, ut vel falsum, 
+      <lb ed="#P" n="119"/>vel incertum aliquid in ea contineri putemus; neve 
+      <lb ed="#P" n="120"/>propter sermonis ac styli rudem simplicitatem 
+      mi<lb ed="#P" n="121" break="no"/>nus reverenter erga eam affecti simus; sed 
+      verita<lb ed="#P" n="122" break="no"/>tem ejus ut divinam per omnia inconcussam 
+      tenea<lb ed="#P" n="123" break="no"/>mus, verba quoque ut a Spiritu sancto dictata cum 
+      <lb ed="#P" n="124"/>omni veneratione suscipiamus. Monet hoc S. 
+      Au<lb ed="#P" n="125" break="no"/>gustinus lib. I. de Genes. ad literam cap. 20. propter 
+      <lb ed="#P" n="126"/>eos qui philosophorum hujus seculi speciosis 
+      opinio<lb ed="#P" n="127" break="no"/>nibus imbuti, vel aliud sentiunt de rerum origine 
+      <lb ed="#P" n="128"/>quam scripturae veritas habet, vel ad simplicem 
+      scri<lb ed="#P" n="129" break="no"/>pturae sensum aegre suum assensum, judiciumque 
+      <lb ed="#P" n="130"/>possunt accommodare. 
+    </p>
+            <p xml:id="bt67yj-p043224-d1e165">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Cavendum deinde, ne scripturae verba, quae 
+      va<lb ed="#P" n="132" break="no"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="133"/>riam interpretationem admittunt, ita ad unam 
+      sen<lb ed="#P" n="134" break="no"/>tentiam cogamus, ut excludamus &amp; abjiciamus 
+      cae<lb ed="#P" n="135" break="no"/>teras. Hoc enim qui faciunt, non tam scripturam 
+      vi<lb ed="#P" n="136" break="no"/>dentur exponere, quam pro sua ex aliis principiis 
+      <lb ed="#P" n="137"/>praeconcepta opinione laborare. Quod 
+      interpreta<lb ed="#P" n="138" break="no"/>tionis vitium fugere nos admonet idem Augustin. 
+      <lb ed="#P" n="139"/>ejusdem lib. cap. 18. &amp; 19. &amp; lib. 12. confession. cap 
+      <lb ed="#P" n="140"/>18. &amp; sequentibus. 
+    </p>
+            <p xml:id="bt67yj-p043224-d1e194">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Nec minus cavendum ne propter quascumque 
+      <lb ed="#P" n="142"/>celebres, &amp; receptas philosophorum opiniones, si 
+      <!--0346.xml-->
+      <pb ed="#P" n="113"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non certissima ratione demonstratae sint, relicto 
+      sen<lb ed="#P" n="2" break="no"/>su, qui in simplici narratione legentibus obvius est, 
+      <lb ed="#P" n="3"/>in alium ac diversum sensum scripturae verba 
+      con<lb ed="#P" n="4" break="no"/>vertamus. Qua in re olim peccatum est ab 
+      Orige<lb ed="#P" n="5" break="no"/>ne, qui Moysen juxta Platonem interpretatus est, &amp; 
+      <lb ed="#P" n="6"/>ita suas statuit allegorias, ut literam aboleret. 
+    </p>
+            <p xml:id="bt67yj-p043224-d1e224">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Peccatum est item a posterioribus nonnullis, qui 
+      <lb ed="#P" n="8"/>secundum normam Aristotelicae philosophiae sacram 
+      <lb ed="#P" n="9"/>historiam interpretari sunt conati. 
+    </p>
+            <p xml:id="bt67yj-p043224-d1e235">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Postremo circa eandem historiam &amp; illud 
+      notan<lb ed="#P" n="11" break="no"/>tandum, cum miraculum id solum proprie dicatur, 
+      <lb ed="#P" n="12"/>quod fit praeter institutum naturae cursum, non esse 
+      <lb ed="#P" n="13"/>existimandum ea quae Genes. 1. narrantur, esse 
+      mi<lb ed="#P" n="14" break="no"/>racula, sed opera Dei quibus rerum corporearum 
+      <lb ed="#P" n="15"/>natura primitus est instituta. Quae proinde Dei 
+      ope<lb ed="#P" n="16" break="no"/>ratio neque miraculosa fuit, neque naturalis, sed 
+      <lb ed="#P" n="17"/>primaeva naturae ipsius institutio. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

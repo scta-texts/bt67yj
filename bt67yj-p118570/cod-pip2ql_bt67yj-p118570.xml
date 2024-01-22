@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 26</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 26</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="305"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p118570"><!-- l2d26c26" -->
+            <head xml:id="bt67yj-p118570-Hd1e101">Capitulum 26</head>
+            <head xml:id="bt67yj-p118570-Hd1e103" type="question-title">Objectiones solvuntur</head>
+            <p xml:id="bt67yj-p118570-d1e106">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> §. 26. Objectiones solvuntur. 
+    </p>
+            <p xml:id="bt67yj-p118570-d1e113">
+               <lb ed="#P" n="99"/>PAuca quaedam adversus superiorem doctrinams 
+      <lb ed="#P" n="100"/>objiciuntur.
+    </p>
+            <p xml:id="bt67yj-p118570-d1e120">
+               <lb ed="#P" n="101"/>Primum est illud <ref xml:id="bt67yj-p118570-Rd1e124">
+                  <name xml:id="bt67yj-p118570-Nd1e126">Gennadii</name> libro de ecclesiasticis 
+      <lb ed="#P" n="102"/>dogmatibus capite 21</ref>. Initium, inquit, salutis nostra, 
+      <lb ed="#P" n="103"/>Deo miserante habemus; ut autem acquiescamus 
+      sa<lb ed="#P" n="104" break="no"/>lutiferae inspirationi, nostrae potestatis est. Similia 
+      le<lb ed="#P" n="105" break="no"/>guntur apud Faustum in duobus libris de gratia &amp; 
+      li<lb ed="#P" n="106" break="no"/>bero arbitrio. 
+    </p>
+            <p xml:id="bt67yj-p118570-d1e142">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Secunda objectio: Gratia interdum a patribus 
+      <lb ed="#P" n="108"/>comparatur lumini, quod Deus offert hominibus 
+      <lb ed="#P" n="109"/>ut videant, si velint oculos aperire, ut nominatim a 
+      <lb ed="#P" n="110"/>Chrysostomo homil. 7. in Joan. ergo sicut prius 
+      of<lb ed="#P" n="111" break="no"/>fertur lumen, deinde homo aperit oculos, &amp; ita 
+      com<lb ed="#P" n="112" break="no"/>pletur visio; sic in bono opere priores partes sunt Dei 
+      <lb ed="#P" n="113"/>offerentis lumen gratiae, posteriores hominis 
+      cor<lb ed="#P" n="114" break="no"/>suum aperientis. 
+    </p>
+            <p xml:id="bt67yj-p118570-d1e164">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Tertia: Opus bonum perficitur in acceptatione 
+      <lb ed="#P" n="116"/>gratiae &amp; consensu, acceptare autem &amp; consentire 
+      <lb ed="#P" n="117"/>solius est liberi arbitrii. Nam ipsa gratia non recte 
+      <lb ed="#P" n="118"/>dicitur acceptare gratiam, vel gratiae consentire; 
+      er<lb ed="#P" n="119" break="no"/>go a solo libero arbitrio bonum opus perficitur. Item 
+      <lb ed="#P" n="120"/>non est ejusdem dare &amp; accipere; quare sicut dare 
+      gra<lb ed="#P" n="121" break="no"/>tiam solius est Dei, ita per consensum accipere 
+      gra<lb ed="#P" n="122" break="no"/>tiam, solius est liberi arbitrii. 
+    </p>
+            <p xml:id="bt67yj-p118570-d1e186">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Respondeo haec &amp; similia argumenta, si quid 
+      va<lb ed="#P" n="124" break="no"/>leant, non solum progressum &amp; consummationem, 
+      <lb ed="#P" n="125"/>sed etiam initium boni operis subtrahere 
+      operatio<lb ed="#P" n="126" break="no"/>ni gratiae Dei; quia bonum opus ne quidem 
+      inchoa<lb ed="#P" n="127" break="no"/>ri potest, nisi voluntate consentiente, &amp; 
+      acquies<lb ed="#P" n="128" break="no"/>cente inspirationi gratiae divinae, eamque 
+      acceptan<lb ed="#P" n="129" break="no"/>te. Verum quia voluntas nihil horum potest nisi 
+      prae<lb ed="#P" n="130" break="no"/>venta a gratia Dei haec eadem operante; hinc 
+      ve<lb ed="#P" n="131" break="no"/>re proprieque dicitur, initium boni operis esse a 
+      <lb ed="#P" n="132"/>Dei gratia. Est autem par ratio de progressu &amp; 
+      <lb ed="#P" n="133"/>consummatione. Nam in qualibet parte boni 
+      ope<lb ed="#P" n="134" break="no"/>ris simul agunt gratia &amp; liberum arbitrium, sed ita 
+      <lb ed="#P" n="135"/>ut gratia moveat liberum arbitrium ad opus, non 
+      <lb ed="#P" n="136"/>contra. 
+    </p>
+            <p xml:id="bt67yj-p118570-d1e221">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Quae cum ita sint, ad primam objectionem 
+      res<lb ed="#P" n="138" break="no"/>pondeo, sententiam illam <name xml:id="bt67yj-p118570-Nd1e229">Gennadii</name>, tanquam a 
+      <lb ed="#P" n="139"/>sincera doctrina alienam, non esse recipiendam; ut 
+      <lb ed="#P" n="140"/>nec alia quaedam ejusdem authoris, ut pote qui 
+      fue<lb ed="#P" n="141" break="no"/>rit ex presbyteris Massiliensibus, quorum de 
+      gra<lb ed="#P" n="142" break="no"/>tia &amp; praedestinatione doctrinam ab Augustino, 
+      <lb ed="#P" n="143"/>Prospero &amp; Hilario reprehensam damnavit Caele¬ 
+      <!--0539.xml-->
+      <pb ed="#P" n="306"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>stinus pontifex in epistola ad episcopos Galliae. 
+      Ea<lb ed="#P" n="2" break="no"/>dem responsio est de Fausto, quem constat haereseos 
+      <lb ed="#P" n="3"/>Pelagianae graviter insimulatum atque etiam 
+      damna<lb ed="#P" n="4" break="no"/>tum fuisse a patribus. 
+    </p>
+            <p xml:id="bt67yj-p118570-d1e258">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Ad secundam objectionem respondetur, 
+      imperfe<lb ed="#P" n="6" break="no"/>ctam esse comparationem gratiae cum lumine: Nam 
+      <lb ed="#P" n="7"/>gratia non tantum est instar oblati luminis, sed ipsa 
+      <lb ed="#P" n="8"/>etiam oculos aperit &amp; videre facit, juxta illud 
+      Eze<lb ed="#P" n="9" break="no"/>chielis 36. Faciam ut in praeceptis meis ambuletis &amp; 
+      <lb ed="#P" n="10"/>operemini. Unde de ea re Prosper in carmine de 
+      in<lb ed="#P" n="11" break="no"/>gratis: Ipsa suum consumat opus, &amp;c. Imo proprium 
+      <lb ed="#P" n="12"/>hoc est officium gratiae, producere voluntatis 
+      assen<lb ed="#P" n="13" break="no"/>sum, id est, facere ut homo velit legique obediat. 
+      <lb ed="#P" n="14"/>Nam oblato lumine ostendere tantum quid 
+      agen<lb ed="#P" n="15" break="no"/>dum sit, officium est legis, non gratiae. Porro 
+      Chry<lb ed="#P" n="16" break="no"/>sostomus loquitur non de gratia interna &amp; proprie 
+      <lb ed="#P" n="17"/>dicta, sed de vocatione externa. 
+    </p>
+            <p xml:id="bt67yj-p118570-d1e291">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Ad tertiam objectionem respondeo, quod sicut 
+      <lb ed="#P" n="19"/>pater non est incarnatus, &amp; tamen incarnationem 
+      fi<lb ed="#P" n="20" break="no"/>lii sui operatus est, &amp; sicut Deus non movetur nec 
+      <lb ed="#P" n="21"/>ambulat, &amp; tamen motum omnem in rebus 
+      produ<lb ed="#P" n="22" break="no"/>cit; sic &amp; gratia non acceptat gratiam, sed tamen 
+      il<lb ed="#P" n="23" break="no"/>lam acceptationem qua voluntas nostra gratiam 
+      ac<lb ed="#P" n="24" break="no"/>ceptat, operatur. Acceptare enim respectum 
+      quem<lb ed="#P" n="25" break="no"/>dam includit, propter quem de ipsa gratia nequeat 
+      <lb ed="#P" n="26"/>praedicari. Nam acceptare est acceptationem 
+      produ<lb ed="#P" n="27" break="no"/>cere, non quomodocunque, sed in seipso; sicut 
+      am<lb ed="#P" n="28" break="no"/>bulare est producere in seipso motum ambulationis. 
+      <lb ed="#P" n="29"/>Idem judicium est de consensu &amp; similibus. Hoc 
+      au<lb ed="#P" n="30" break="no"/>tem revera non aliud est, quam gratiae cooperari; 
+      <lb ed="#P" n="31"/>Deus autem etsi gratiae non cooperetur (id enim est 
+      <lb ed="#P" n="32"/>agentis creati) hanc tamen cooperationem efficit &amp; 
+      <lb ed="#P" n="33"/>producit in voluntate creata. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

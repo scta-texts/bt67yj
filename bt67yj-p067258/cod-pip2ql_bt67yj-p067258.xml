@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="174"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p067258"><!-- l2d19c11" -->
+            <head xml:id="bt67yj-p067258-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p067258-Hd1e103" type="question-title">Quomodo passibilis fuisset homo in 
+      statu integro</head>
+            <p xml:id="bt67yj-p067258-d1e106">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> §. 11. Quomodo passibilis fuisset homo in 
+      <lb ed="#P" n="68"/>statu integro.
+    </p>
+            <p xml:id="bt67yj-p067258-d1e115">
+               <lb ed="#P" n="69"/>AD quaestionem superiori cohaerentem, qua 
+      <lb ed="#P" n="70"/>quaeritur, utrum homo in statu integro fuisset 
+      <lb ed="#P" n="71"/>passibuis, breviter respondendum cum lancto Tho¬ 
+      <!--0407.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ma scribente in hanc distinctionem, &amp; prima 
+      quae<lb ed="#P" n="73" break="no"/>stione 97. articulo secundo, cum passio alia sit 
+      <lb ed="#P" n="74"/>corruptiva, alia perfectiva, solam posterioris modi 
+      <lb ed="#P" n="75"/>passionem in illo statu locum habere potuisse, 
+      qua<lb ed="#P" n="76" break="no"/>les sunt passiones sensuum dum patiuntur ab 
+      obje<lb ed="#P" n="77" break="no"/>ctis; qua ratione etiam ipsum intelligere, est pati 
+      <lb ed="#P" n="78"/>quoddam. 
+    </p>
+            <p xml:id="bt67yj-p067258-d1e144">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Unde non tantum secundum corpus, sed etiam 
+      <lb ed="#P" n="80"/>secundum animam fuisset homo integer hoc modo 
+      <lb ed="#P" n="81"/>passibilis. Passio vero corruptiva ab illo statu 
+      pror<lb ed="#P" n="82" break="no"/>sus aliena erat, ea ratione qua illa mors 
+      corruptio<lb ed="#P" n="83" break="no"/>que dicitur. Quicquid enim hoc modo passibile est, 
+      <lb ed="#P" n="84"/>idem &amp; corruptibile est. Quare non aliter homo 
+      in<lb ed="#P" n="85" break="no"/>teger erat passibilis corruptive, quam quomodo 
+      su<lb ed="#P" n="86" break="no"/>pra diximus eum fuisse mortalem. Sicut enim 
+      inno<lb ed="#P" n="87" break="no"/>centia con stabat cum morte, ita nec cum hujusmodi 
+      <lb ed="#P" n="88"/>passione. Sed quia poterat homo ille peccare, poterat 
+      <lb ed="#P" n="89"/>etiam mori. Quare similiter &amp; corruptive pati. 
+    </p>
+            <p xml:id="bt67yj-p067258-d1e174">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Porro ne pateretur rectus permanens, 
+      multiplici<lb ed="#P" n="91" break="no"/>ter ei cautum erat a divina providentia. Nam 
+      passio<lb ed="#P" n="92" break="no"/>nem corporis externam depellebat partim ipsius 
+      ho<lb ed="#P" n="93" break="no"/>minis prudentia, partim peculiaris Dei protectio; 
+      <lb ed="#P" n="94"/>scilicet in his quae prudentiam humanam fugere 
+      <lb ed="#P" n="95"/>poterant, ut sunt multa casualia. Internam vero 
+      <lb ed="#P" n="96"/>depellebat interior animae bona constitutio. Sed hoc 
+      <lb ed="#P" n="97"/>totum intellige de passione disponente &amp; viam 
+      pa<lb ed="#P" n="98" break="no"/>rante ad corruptionem totius. Non enim est 
+      ne<lb ed="#P" n="99" break="no"/>gandum quin aliquae partes corporis ex iis quas 
+      <lb ed="#P" n="100"/>materiales vocant, interna actione qualitatum 
+      pri<lb ed="#P" n="101" break="no"/>marum periturae essent corpori, quemadmodum 
+      <lb ed="#P" n="102"/>supra monstravimus. Sed quia per continuam 
+      nutri<lb ed="#P" n="103" break="no"/>tionem vicissim aliae partes erant accessurae, non 
+      <lb ed="#P" n="104"/>erat hujusmodi passio disponens ad totius corporis 
+      <lb ed="#P" n="105"/>corruptionem. 
+    </p>
+            <p xml:id="bt67yj-p067258-d1e213">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> An autem ex dictis sequatur famem, sitim &amp; 
+      som<lb ed="#P" n="107" break="no"/>nium ab illo statu removenda esse; ad proximam 
+      di<lb ed="#P" n="108" break="no"/>stinctionem explicabitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

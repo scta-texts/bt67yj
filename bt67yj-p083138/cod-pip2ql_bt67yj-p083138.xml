@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="215"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p083138"><!-- l2d23c2" -->
+            <head xml:id="bt67yj-p083138-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p083138-Hd1e103" type="question-title">An licitum sit appetere tentationem</head>
+            <p xml:id="bt67yj-p083138-d1e106">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> §. 2. An licitum sit appetere tentationem?
+    </p>
+            <p xml:id="bt67yj-p083138-d1e113">
+               <lb ed="#P" n="6"/>MOvet hoc loco quaestionem Bonaventura, 
+      <lb ed="#P" n="7"/>utrum tentatio desideranda sit a viro justo? 
+      <lb ed="#P" n="8"/>Pro parte affirmante sunt haec argumenta. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e122">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Primum: Jacobus Apostolus capite 1. Omne 
+      gau<lb ed="#P" n="10" break="no"/>dium, inquit, existimate fratres, cum in tentationes 
+      <lb ed="#P" n="11"/>varias incideritis. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e134">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Secundum: Psal. 25. ait Propheta: Proba me 
+      Do<lb ed="#P" n="13" break="no"/>mine &amp; tenta me; ure renes meos &amp; cor meum. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e143">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Tertium: Augustinus libro 14. de civit. cap. 9. 
+      <lb ed="#P" n="15"/>ex duobus testimoniis scripturae modo dictis, docet 
+      <lb ed="#P" n="16"/>quomodo recte justi &amp; firmi tentari cupiant, &amp; in 
+      <lb ed="#P" n="17"/>tentationibus gaudeant. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e156">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Quartum: Gregorius alicubi sic loquitur: Sanctus 
+      <lb ed="#P" n="19"/>vir se tentari post virtutes desiderat, ne ex 
+      confiden<lb ed="#P" n="20" break="no"/>tia virtutum torpescat. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e167">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Quintum: Quicquid promovet salutem nostram, 
+      <lb ed="#P" n="22"/>merito desideratur; talis autem est tentatio; per 
+      <lb ed="#P" n="23"/>eam enim exercentur, augentur &amp; confirmantur 
+      <lb ed="#P" n="24"/>virtutes, &amp; acquiritur victoria contra diabolum, 
+      <lb ed="#P" n="25"/>carnem &amp; mundum. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e183">
+      <!-- missing line break -->Sextum: Sanctus Antonius &amp; alii Sancti leguntur
+      <lb ed="#P" n="26"/>provocasse diabolum ad pugnam; ergo tentationem 
+      <lb ed="#P" n="27"/>quae a diabolo est appetiverunt. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e192">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Septimum: Martyrium recte desideratur; hoc 
+      au<lb ed="#P" n="29" break="no"/>Sextum: Sanctus Antonius &amp; alii Sancti leguntur. 
+      <lb ed="#P" n="30"/>tem non est sine tentatione mundi &amp; diaboli. Unde 
+      <lb ed="#P" n="31"/>dicebat S. Ignatius in epistola ad Rom. Utinam fruar 
+      <lb ed="#P" n="32"/>bestiis quae mihi praeparatae sunt. Et iterum: Ignis, 
+      <lb ed="#P" n="33"/>crux, bestiae, confractio ossium, membrorumque 
+      divi<lb ed="#P" n="34" break="no"/>sio, &amp; totius corporis contritio, &amp; tormenta diaboli in 
+      <lb ed="#P" n="35"/>me veniant, tantum Christo fruar. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e215">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> At in contrarium haec faciunt.
+    </p>
+            <p xml:id="bt67yj-p083138-d1e222">
+               <lb ed="#P" n="37"/>Primum: Nihil licet appetere nisi bonum; 
+      tenta<lb ed="#P" n="38" break="no"/>tio autem non est bona, quia omne bonum a Deo 
+      <lb ed="#P" n="39"/>est, tentatio autem non est a Deo. Dicit enim 
+      Ja<lb ed="#P" n="40" break="no"/>cobus cap. 1. Nemo cum tentatur, dicat, quoniam a 
+      <lb ed="#P" n="41"/>Deo tentatur; Deus enim intentator malorum est: Ipse 
+      <lb ed="#P" n="42"/>autem neminem tentat. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e238">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Secundum: Nihil appetendum quod per se 
+      ordi<lb ed="#P" n="44" break="no"/>natur ad peccatum; talis autem est tentatio, ut quae 
+      <lb ed="#P" n="45"/>non aliud sit quam sollicitatio &amp; incitatio ad 
+      pec<lb ed="#P" n="46" break="no"/>candum, sive ea procedat a diabolo, sive a carne, 
+      si<lb ed="#P" n="47" break="no"/>ve a mundo. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e254">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Tertium: Glossa quaedam super illud Matth. 4. 
+      <lb ed="#P" n="49"/>Ductus est Jesus in desertum, sic loquitur: Ductum 
+      <lb ed="#P" n="50"/>esse Jesum commemorat, ut nos instruat, quod non 
+      <lb ed="#P" n="51"/>sponte oporteat in tentationem insilire. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e267">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Quartum: Occasiones peccatorum non sunt appe 
+      <lb ed="#P" n="53"/>tendae, sed fugiendae, ergo multo magis tentationes 
+      <lb ed="#P" n="54"/>propriam habent causalitatem ad peccatum, 
+      scili<lb ed="#P" n="55" break="no"/>cet in genere causae efficientis, non item occasiones. 
+      <lb ed="#P" n="56"/>De hac quaestione S. Thomas in commentario 2. 
+      <lb ed="#P" n="57"/>Corint. 12. super illud: Datus est mihi stimulus 
+      car<lb ed="#P" n="58" break="no"/>nis, ita scribit; Contingit ut illud quod secundum 
+      <lb ed="#P" n="59"/>se malum est &amp; vitandum, secundum ordinem ad 
+      <lb ed="#P" n="60"/>aliud sit appetendum; sicut potio, inquantum 
+      se<lb ed="#P" n="61" break="no"/>cundum se est amara, vitanda est, &amp; tamen qui 
+      con<lb ed="#P" n="62" break="no"/>siderat eam secundum ordinem ad sanitatem, 
+      appe<lb ed="#P" n="63" break="no"/>tit eam; ergo &amp; stimulus carnis secundum se est 
+      vi<lb ed="#P" n="64" break="no"/>tandus, ut affligens, inquantum vero est via ad 
+      vir<lb ed="#P" n="65" break="no"/>tutem &amp; exercitium virtutis, est appetendus. 
+      Sti<lb ed="#P" n="66" break="no"/>mulum autem carnis interpretatus fuerat 
+      alte<lb ed="#P" n="67" break="no"/>ro modo, motum concupiscentiae surgentem ex 
+      <lb ed="#P" n="68"/>carne. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e309">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Bonaventura duplicem ponit viam respondendi 
+      <lb ed="#P" n="70"/>ad quaestionem: Una est, tentationem quae fit a Deo 
+      <lb ed="#P" n="71"/>simpliciter appetendam esse; quia Dei tentatio non 
+      <!--0448.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>est nisi ad bonum, tentationem quae est a carne sim¬ 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e328">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> pliciter fugiendam esse; quia illa, inquit, non potest 
+      <lb ed="#P" n="74"/>esse absque peccato, quod quomodo sit 
+      intelligen<lb ed="#P" n="75" break="no"/>dum, exposuimus ad dist. 21. Tentationem autem 
+      <lb ed="#P" n="76"/>quae est a diabolo (sub qua comprehendere videtur 
+      <lb ed="#P" n="77"/>eam quae est a mundo, id est a malis hominibus, 
+      ut<lb ed="#P" n="78" break="no"/>pote diaboli membris) quibusdam fugiendam esse, 
+      <lb ed="#P" n="79"/>quibusdam appetendam, fugiendam infirmis, 
+      appe<lb ed="#P" n="80" break="no"/>tendam firmis. Idque probat ex Augustino, qui 
+      lo<lb ed="#P" n="81" break="no"/>co supra citato dicit, quod cives sanctae civitatis 
+      <lb ed="#P" n="82"/>Dei, sicuti se infirmitas eorum firmitasque habuerit, 
+      <lb ed="#P" n="83"/>metuunt tentari &amp; cupiunt tentari; dolent in 
+      tenta<lb ed="#P" n="84" break="no"/>tionibus, &amp; gaudent in tentationibus. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e359">
+               <lb ed="#P" n="85"/>Altera via est, de tentatione nos loqui bifariam, 
+      <lb ed="#P" n="86"/>scilicet aut formaliter &amp; sub propria ratione; sic 
+      <lb ed="#P" n="87"/>enim tentatio, prout nunc de illa loquimur, est 
+      im<lb ed="#P" n="88" break="no"/>pulsus ad illicitum. Qua ratione tentationem 
+      appe<lb ed="#P" n="89" break="no"/>tere non licet, sed omnino refugere eam debemus: 
+      <lb ed="#P" n="90"/>Aut materialiter, id est, secundum rem subjectam, 
+      <lb ed="#P" n="91"/>cujusmodi est afflictio, morbus, cruciatus, mors, 
+      fa<lb ed="#P" n="92" break="no"/>mes, egestas, &amp;c. quae per se non sunt mala, &amp; 
+      pos<lb ed="#P" n="93" break="no"/>sunt esse materia exercendae virtutis. Hac igitur 
+      ra<lb ed="#P" n="94" break="no"/>tione tentationem recte appetunt justi charitate 
+      <lb ed="#P" n="95"/>ferventes; quia in hoc appetitu nihil est mali, &amp; 
+      <lb ed="#P" n="96"/>multum inest boni. His ex Bonaventura 
+      praemis<lb ed="#P" n="97" break="no"/>sis, ad quaestionem respondeo quinque 
+      propositio<lb ed="#P" n="98" break="no"/>nibus. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e392">
+               <lb ed="#P" n="99"/>Prima: Tentatio qua Deus tentat, a justis appeti 
+      <lb ed="#P" n="100"/>potest, nam &amp; per se bona est, &amp; prodest tentato, 
+      <lb ed="#P" n="101"/>ut patet exemplis Abrahae, Job. Tobiae, Apostolorum 
+      <lb ed="#P" n="102"/>&amp; Martyrum. De qua tentatione loquitur David 
+      <lb ed="#P" n="103"/>psal. 21. 25. 138. &amp; alibi. Non modo igitur licite, sed 
+      <lb ed="#P" n="104"/>&amp; sancte appetitur hujusmodi tentatio cum 
+      fidu<lb ed="#P" n="105" break="no"/>cia &amp; oratione, ut Deus faciat cum tentatione 
+      pro<lb ed="#P" n="106" break="no"/>ventum. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e412">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Secunda: Tentatio peccati simpliciter &amp; 
+      formali<lb ed="#P" n="108" break="no"/>ter non est appetenda; quia per se mala est, ut bene 
+      <lb ed="#P" n="109"/>probant argumenta primum &amp; secundum partis 
+      ne<lb ed="#P" n="110" break="no"/>gantis, &amp; ratio adducta ex Bonaventura. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e425">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Tertia: Tentatio peccati quae infertur a daemone 
+      <lb ed="#P" n="112"/>&amp; mundo, materialiter appeti potest, 
+      quemadmo<lb ed="#P" n="113" break="no"/>dum satis probant Augustini &amp; Gregorii testimonia, 
+      <lb ed="#P" n="114"/>nec non ea quae ex Bonaventura produximus. Et huc 
+      <lb ed="#P" n="115"/>pertinent desideria sanctorum appetentium 
+      marty<lb ed="#P" n="116" break="no"/>rium, &amp; provocantium diabolum ad certamen. Non 
+      <lb ed="#P" n="117"/>enim desiderant actus malos diaboli aut malorum 
+      <lb ed="#P" n="118"/>hominum, sive per internas suggestiones, sive per 
+      <lb ed="#P" n="119"/>externas persecutiones, minas, terrores, tormenta 
+      <lb ed="#P" n="120"/>sollicitantium ipsos ad peccata; sed praesupposita 
+      il<lb ed="#P" n="121" break="no"/>lorum malitia desiderant ipsas afflictiones, quae ut 
+      <lb ed="#P" n="122"/>tales a Deo sunt, &amp; proinde bonae. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e456">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Quarta: Tentatio peccati quae est a carne ne 
+      ma<lb ed="#P" n="124" break="no"/>terialiter quidem appetenda est; quia motus 
+      concu<lb ed="#P" n="125" break="no"/>piscentiae per se malus est, utpote spiritui contrarius 
+      <lb ed="#P" n="126"/>&amp; legi Deirepugnans, teste apostolo Rom. 7. &amp; cui 
+      <lb ed="#P" n="127"/>ad rationem peccati non deest nisi voluntarium. Si 
+      <lb ed="#P" n="128"/>ergo appetas, voluntaria tibi fiet hujusmodi prava 
+      <lb ed="#P" n="129"/>motio, &amp; proinde peccatum. Atque hoc sibi volunt 
+      <lb ed="#P" n="130"/>verba Bonaventurae supra citata, quibus docet 
+      ten<lb ed="#P" n="131" break="no"/>tationem carnis simpliciter fugiendum esse, quod 
+      <lb ed="#P" n="132"/>ea nequeat esse sine peccato. Qui etiam libro 2. de 
+      <lb ed="#P" n="133"/>profectu religionis capite 5. cum docuisset, quod 
+      <lb ed="#P" n="134"/>appetere tentationes &amp; iis sese ingerere incautum 
+      <lb ed="#P" n="135"/>est, maxime infirmis &amp; imperfectis, licet 
+      quibus<lb ed="#P" n="136" break="no"/>dam aliquando utile sit excitare sese ad pugnam 
+      <lb ed="#P" n="137"/>contra spritualia vitia, subjunxit haec verba: De 
+      <lb ed="#P" n="138"/>carnalibus autem vitiis hoc periculosum &amp; stultum 
+      <lb ed="#P" n="139"/>est, sed fugiendae sunt eorum pugnae &amp; a memoria 
+      <lb ed="#P" n="140"/>excludendae &amp; occasiones eorum tollendae. Unde 
+      Do<lb ed="#P" n="141" break="no"/>minus noluit se permittere de luxuria tentari, ut 
+      do<lb ed="#P" n="142" break="no"/>ceret non debere nos ingerere huic tentationi, 
+      <lb ed="#P" n="143"/>etiam spe triumphi &amp; praemii. Cum enim haec 
+      ten<lb ed="#P" n="144" break="no"/>tatio magnam habeat delectationem admixtam, &amp; 
+      <lb ed="#P" n="145"/>in hoc vitio omnes concepti simus; &amp; non solum 
+      <!--0449.xml-->
+      <pb ed="#P" n="216"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>mens, sed etiam corpus delectetur, ideo periculosus ejus 
+      <lb ed="#P" n="2"/>aditus conceditur, &amp;c. Sciendum tamen, ut alibi 
+      <lb ed="#P" n="3"/>diximus, tentationem carnis non solum respicere 
+      car<lb ed="#P" n="4" break="no"/>nalia peccata, sed etiam spiritualia; quia 
+      concupis<lb ed="#P" n="5" break="no"/>centia generale vitium est, licet in carnalibus magis 
+      <lb ed="#P" n="6"/>appareat rebellio ejus contra spiritum. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e531">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Non repugnat autem, ut arbitror, huic 
+      proposi<lb ed="#P" n="8" break="no"/>tioni, quod dicit S. Thomas, stimulum carnis in 
+      <lb ed="#P" n="9"/>ordine ad virtutis exercitium appeti posse. Cum 
+      <lb ed="#P" n="10"/>enim dupliciter exponat stimulum carnis, nempe 
+      <lb ed="#P" n="11"/>dolorem corporis, vel motum concupiscentiae, aut 
+      <lb ed="#P" n="12"/>praedicta ejus verba referenda tantum ad priorem 
+      <lb ed="#P" n="13"/>expositionem; &amp; ita valebunt ad confirmationem 
+      <lb ed="#P" n="14"/>tertiae propositionis, nam juxta eam expositionem 
+      <lb ed="#P" n="15"/>tentatio illa erat a daemone, non a carne; aut 
+      qua<lb ed="#P" n="16" break="no"/>parte dicta sunt de motu concupiscentiae 
+      intelligen<lb ed="#P" n="17" break="no"/>da sunt secundum propositionem sequentem. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e560">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Ultima propositio: Sicut bonum quod ex malo, 
+      <lb ed="#P" n="19"/>id est, peccato per Dei providentiam elicitur, 
+      sim<lb ed="#P" n="20" break="no"/>pliciter &amp; secundum se appeti potest, licet 
+      pecca<lb ed="#P" n="21" break="no"/>tum ipsum nullo modo sit appetendum; ita &amp; 
+      bo<lb ed="#P" n="22" break="no"/>num quod homini provenit ex tentatione peccati, 
+      <lb ed="#P" n="23"/>non ea tantum quae fit a daemone &amp; mundo, sed 
+      <lb ed="#P" n="24"/>etiam quae a carne, recte appetitur; etiamsi 
+      tenta<lb ed="#P" n="25" break="no"/>tio carnis sive motus concupiscentiae, ut jam dictum 
+      <lb ed="#P" n="26"/>est, nullo ordine sit appetendus. His ita declaratis 
+      fa<lb ed="#P" n="27" break="no"/>cile jam est videre, quatenus argumenta utrimque 
+      <lb ed="#P" n="28"/>allata concludant. 
+    </p>
+            <p xml:id="bt67yj-p083138-d1e589">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Caeterum id admonendum ex Augustino libr. de 
+      <lb ed="#P" n="30"/>sancta virginitate cap. 44. &amp; 47. quod non facile 
+      <lb ed="#P" n="31"/>quis existimare debeat, se satis fortem ad 
+      superan<lb ed="#P" n="32" break="no"/>das tentationes, sed magis timere exemplum Petri, 
+      <lb ed="#P" n="33"/>quem nimis confidentem tentatio statim dejecit; 
+      <lb ed="#P" n="34"/>&amp; exempla quorumdam de quibus scribit Eusebius 
+      <lb ed="#P" n="35"/>libro 4. historiae ecclesiasticae cap. 15. quod cum se 
+      <lb ed="#P" n="36"/>persecutoribus ultro ingessissent, turpiter in 
+      cer<lb ed="#P" n="37" break="no"/>tamine passionis defecerint. Quare nec illi qui 
+      for<lb ed="#P" n="38" break="no"/>tes videntur &amp; exercitati in pugna contra 
+      diabo<lb ed="#P" n="39" break="no"/>um &amp; mundum, absque necessitate vel evidenti 
+      <lb ed="#P" n="40"/>lutilitate tum sua, tum aliorum, objicere se debent 
+      <lb ed="#P" n="41"/>tentationi; praesertim illi quae fit a malis 
+      homini<lb ed="#P" n="42" break="no"/>bus, propterea quod haec sine novo tentantium 
+      pec<lb ed="#P" n="43" break="no"/>cato, &amp; graviori damnationis eorum periculo fieri 
+      <lb ed="#P" n="44"/>non possit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

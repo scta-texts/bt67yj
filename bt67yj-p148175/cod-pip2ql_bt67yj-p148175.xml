@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="382"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p148175"><!-- l2d40c1" -->
+            <head xml:id="bt67yj-p148175-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p148175-Hd1e103" type="question-title">An sint aliqua opera externa per 
+      se mala</head>
+            <p xml:id="bt67yj-p148175-d1e106">
+               <lb ed="#P" n="133"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="134"/>QUADRAGESIMAM. 
+      <lb ed="#P" n="135"/>§. unicus. An sint aliqua opera externa per 
+      <lb ed="#P" n="136"/>se mala. 
+    </p>
+            <p xml:id="bt67yj-p148175-d1e117">
+               <lb ed="#P" n="137"/>QUONIAM principali quaestioni hujus, 
+      <lb ed="#P" n="138"/>distinctionis, utrum videlicet actus 
+      ex<lb ed="#P" n="139" break="no"/>cteriores ex solo fine bonitatem, vel 
+      <lb ed="#P" n="140"/>malitiam sortiantur, satisfactum est per ea quae 
+      <lb ed="#P" n="141"/>dicta sunt distinct. 38. paucis expediemus aliam 
+      <!--0616.xml-->
+      <pb ed="#P" n="383"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>huic connexam &amp; subservientem quaestionem; 
+      an<lb ed="#P" n="2" break="no"/>videlicet aliqui sint actus exteriores ita per se mali, 
+      <lb ed="#P" n="3"/>ut nullo modo, nullo casu, nulla intentione bene 
+      <lb ed="#P" n="4"/>fieri possint. Si enim tales quidam reperiuntur, jam 
+      <lb ed="#P" n="5"/>ex his quae ad dist. 38. diximus, perspicuum est 
+      bo<lb ed="#P" n="6" break="no"/>nitatem finis seu intentionis non sufficere ad 
+      statuen<lb ed="#P" n="7" break="no"/>dam omnium exteriorum actuum bonitatem. Si 
+      au<lb ed="#P" n="8" break="no"/>tem nulli sunt tales, nihil vetabit ex fine omnem 
+      a<lb ed="#P" n="9" break="no"/>ctum externum bonum effici posse. Et quidem ut 
+      <lb ed="#P" n="10"/>refert Magister §. B. Quibusdam visum est omnes 
+      <lb ed="#P" n="11"/>actus esse indifferentes, ut nec boni nec mali per se 
+      <lb ed="#P" n="12"/>sint, sed quisque ex intentione vel bonus vel malus. 
+      <lb ed="#P" n="13"/>Quorum opinione consequenter ex solo fine 
+      quili<lb ed="#P" n="14" break="no"/>bet actus bonitatem vel malitiam accipit. Huic 
+      opi<lb ed="#P" n="15" break="no"/>nioni etiam Scholasticorum doctorum nonnulli 
+      sub<lb ed="#P" n="16" break="no"/>scripserunt. 
+    </p>
+            <p xml:id="bt67yj-p148175-d1e171">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Ut igitur ad propositam quaestionem 
+      respondea<lb ed="#P" n="18" break="no"/>mus, supponendum hoc loco ut certum &amp; 
+      indubita<lb ed="#P" n="19" break="no"/>tum, quosdam interiores actus voluntatis per se 
+      ma<lb ed="#P" n="20" break="no"/>los esse, sic ut nulla vel finis vel alterius modi 
+      circun<lb ed="#P" n="21" break="no"/>stantia eos bonos aut licitos efficere possit; ut Deum 
+      <lb ed="#P" n="22"/>odisse, nolle Deo credere, velle mentiri, alienum 
+      <lb ed="#P" n="23"/>concupiscere. Hujus autem probatio tum ex lege 
+      ae<lb ed="#P" n="24" break="no"/>terna Dei, qua talia prohibentur, tum ex decalogo 
+      <lb ed="#P" n="25"/>qui est declaratio quaedam legis aeternae, satis est 
+      ma<lb ed="#P" n="26" break="no"/>nifesta. Constat enim aeternam Dei legem 
+      immuta<lb ed="#P" n="27" break="no"/>bilem esse, ideóque decalogi praecepta nullo casu 
+      <lb ed="#P" n="28"/>admittere dispensationem, qua parte continent 
+      ex<lb ed="#P" n="29" break="no"/>plicationem legis aeternae. 
+    </p>
+            <p xml:id="bt67yj-p148175-d1e205">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Hoc igitur de actibus internis constituto, quod 
+      <lb ed="#P" n="31"/>ad exteriores actus attinet, cum distinctione 
+      respon<lb ed="#P" n="32" break="no"/>dendum. Aut enim quod exterius fit ab homine, 
+      con<lb ed="#P" n="33" break="no"/>sideratur secundum se tantum, &amp; non ut ab 
+      interio<lb ed="#P" n="34" break="no"/>ri voluntatis actu procedit &amp; unum cum eo moralem 
+      <lb ed="#P" n="35"/>actum constituit. Qua consideratione exterior actus 
+      <lb ed="#P" n="36"/>per se neque bonus est unquam, neque malus. Nam 
+      <lb ed="#P" n="37"/>si ab eo separes voluntatem, nihil in se habet, quo sit 
+      <lb ed="#P" n="38"/>legi Dei conformis, aut difformis, cum lex non sit 
+      <lb ed="#P" n="39"/>posita nisi voluntati. 
+    </p>
+            <p xml:id="bt67yj-p148175-d1e231">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Aut idipsum externum opus consideratur 
+      quate<lb ed="#P" n="41" break="no"/>nus ab interiori voluntatis actu procedit, &amp; unum 
+      <lb ed="#P" n="42"/>morale opus cum eo constituit. Qua consideratione 
+      <lb ed="#P" n="43"/>certum est quaedam externa opera esse per se mala; ea 
+      <lb ed="#P" n="44"/>nimirum omnia quae decalogo prohibentur, ut Diis 
+      <lb ed="#P" n="45"/>alienis sacrificare, pejerare, furari, falsum 
+      testimo<lb ed="#P" n="46" break="no"/>nium dicere, aliaque ejusmodi. Ac de his praecipue 
+      <lb ed="#P" n="47"/>intelligenda D. Augustini disputatio in lib. contra 
+      <lb ed="#P" n="48"/>mendacium capite 7. &amp; 8. ubi docet ea quae constat. 
+      <lb ed="#P" n="49"/>esse peccata, nullo quasi bono fine esse facienda. 
+      Do<lb ed="#P" n="50" break="no"/>clarat enim se loqui de operibus, quae per se peccata 
+      <lb ed="#P" n="51"/>sunt. Potest nihilominus ejus doctrina, quem 
+      admo<lb ed="#P" n="52" break="no"/>dum supra admonuimus, etiam ad ea extendi, quae 
+      <lb ed="#P" n="53"/>ideo tantum peccata sunt, quia prohibita vel divina 
+      <lb ed="#P" n="54"/>vel humana lege; stante enim tali prohibitione, talia 
+      <lb ed="#P" n="55"/>opera nullo fine bene fieri possint. Neque continuo 
+      <lb ed="#P" n="56"/>bonitas finis efficere valet, ut positiva talis 
+      prohibi<lb ed="#P" n="57" break="no"/>tio esset, ne quidem in legibus humanis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

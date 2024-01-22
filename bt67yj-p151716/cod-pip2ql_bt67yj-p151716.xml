@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="392"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p151716"><!-- l2d42c5" -->
+            <head xml:id="bt67yj-p151716-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p151716-Hd1e103" type="question-title">An omne peccatum natura sua mortale sit</head>
+            <p xml:id="bt67yj-p151716-d1e106">
+               <lb ed="#P" n="27"/>§. 5. An omne peccatum natura sua mortale sit?
+    </p>
+            <p xml:id="bt67yj-p151716-d1e111">
+               <lb ed="#P" n="28"/>QUidam supradictam peccati divisionem ita 
+      re<lb ed="#P" n="29" break="no"/>cipiunt, ut tamen existiment, etiam ea quae 
+      ve<lb ed="#P" n="30" break="no"/>nialia dicuntur, natura sua mortalia esse; id est, 
+      ejus<lb ed="#P" n="31" break="no"/>modi, ut a regno caelorum excludant, &amp; in mortem 
+      <lb ed="#P" n="32"/>aeternam praecipitent; ex sola autem Dei 
+      misericor<lb ed="#P" n="33" break="no"/>dia hoc habere, ut sint venialia. Cui sententiae 
+      fa<lb ed="#P" n="34" break="no"/>vere putant <name xml:id="bt67yj-p151716-Nd1e128">Joannem Roffensem</name> responsione ad 
+      ar<lb ed="#P" n="35" break="no"/>ticulum 32. <name xml:id="bt67yj-p151716-Nd1e132">Lutheri</name> ubi fatetur se ita sentire, quod 
+      <lb ed="#P" n="36"/>peccatum veniale solum ex Dei misericordia veniale 
+      <lb ed="#P" n="37"/>sit, alioqui omne peccatum damnabile esse, si 
+      di<lb ed="#P" n="38" break="no"/>stricte judicetur. Ex quo tamen consequens esse 
+      <lb ed="#P" n="39"/>negat, peccatum veniale simpliciter mortale esse. 
+    </p>
+            <p xml:id="bt67yj-p151716-d1e144">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Verum illi opinioni multiplex ratio observatur: 
+      <lb ed="#P" n="41"/>Prima haec: Veniale peccatum, ut eodem loco 
+      fate<lb ed="#P" n="42" break="no"/>tur <name xml:id="bt67yj-p151716-Nd1e154">Rossensis</name>, &amp; declarat <ref xml:id="bt67yj-p151716-Rd1e157">synodus Trident. sess. 14. 
+      <lb ed="#P" n="43"/>cap. 5.</ref> a gratia Dei non excludit, non ergo juste 
+      <lb ed="#P" n="44"/>puniri posset aeterna privatione regni, iis promissi 
+      <lb ed="#P" n="45"/>qui per gratiam sunt amici Dei¬ 
+    </p>
+            <p xml:id="bt67yj-p151716-d1e168">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Secunda: Deus in futuro saeculo, ubi reddit 
+      uni<lb ed="#P" n="47" break="no"/>cuique secundum opera sua, tribuit venialium 
+      pec<lb ed="#P" n="48" break="no"/>catorum remissionem; ergo venialia natura sua 
+      ta<lb ed="#P" n="49" break="no"/>lia non sunt, ut aeterna morte puniantur. 
+    </p>
+            <p xml:id="bt67yj-p151716-d1e181">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Tertia: Qui sola commiserunt venialia, retinent 
+      <lb ed="#P" n="51"/>pignus haereditatis aeternae, videlicet charitatem &amp; 
+      <lb ed="#P" n="52"/>Spiritum sanctum, per quemjus habent regni 
+      con<lb ed="#P" n="53" break="no"/>sequendi; non ergo venialia jure faciunt eos 
+      obno<lb ed="#P" n="54" break="no"/>xios aeternae damnationi; cum sit impossibile eis 
+      <lb ed="#P" n="55"/>utrumque reddi. 
+    </p>
+            <p xml:id="bt67yj-p151716-d1e199">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Quarta: Pater ob leve delictum jure non potest 
+      <lb ed="#P" n="57"/>filium exhaeredare; ergo nec Deus ob levem 
+      cul<lb ed="#P" n="58" break="no"/>pam excludere justum ab haereditate regni caelestis, 
+      <lb ed="#P" n="59"/>jure adoptionis ei debiti. 
+    </p>
+            <p xml:id="bt67yj-p151716-d1e212">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Quinta: Deus juste non posset omnes justos in 
+      ae<lb ed="#P" n="61" break="no"/>ternum damnare; dicente Abraham Genes. 18. 
+      Nun<lb ed="#P" n="62" break="no"/>quid perdes justum cum impio? Non est hoc tuum 
+      <lb ed="#P" n="63"/>qui judicas omnem terram. Cum igitur nemo justus 
+      <lb ed="#P" n="64"/>venialibus careat, non posset Deus juste aeterna 
+      <lb ed="#P" n="65"/>morte vindicare veniale peccatum. 
+    </p>
+            <p xml:id="bt67yj-p151716-d1e230">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Postremo: Confirmat hanc sententiam 
+      commu<lb ed="#P" n="67" break="no"/>nis Doctorum opinio, suffragante etiam 
+      hacdefini<lb ed="#P" n="68" break="no"/>tione peccati venialis ab Hugone Victorino 
+      tradi<lb ed="#P" n="69" break="no"/>ta: Peccatum veniale est, cui secundum se debetur 
+      <lb ed="#P" n="70"/>poena transtloria.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

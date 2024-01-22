@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="183"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p070755"><!-- l2d21c5" -->
+            <head xml:id="bt67yj-p070755-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p070755-Hd1e103" type="question-title">Quem sensum habeat interrogatio serpentis</head>
+            <p xml:id="bt67yj-p070755-d1e106">
+               <lb ed="#P" n="106"/>§. 5. Quem sensum habeat interrogatio serpentis?
+    </p>
+            <p xml:id="bt67yj-p070755-d1e111">
+               <lb ed="#P" n="107"/>HAEc serpentis interrogatio: Cur praecepit vobis? 
+      <lb ed="#P" n="108"/>Deus ut non comederetis ex omni ligno paradisi? 
+      <lb ed="#P" n="109"/>in hunc fere sensum a vetustioribus exponitur: Quid 
+      <lb ed="#P" n="110"/>causae est cur praeceperit vobis Deus, ut de nullo 
+      li<lb ed="#P" n="111" break="no"/>gno paradisi comedatis? Juxta quam expositionem 
+      <lb ed="#P" n="112"/>diabolus mendacii pater mendacium hac 
+      interro<lb ed="#P" n="113" break="no"/>gatione supponit; scilicet Deum prohibuisse primis 
+      <lb ed="#P" n="114"/>hominibus, ne de ullo paradisi ligno comederent, 
+      <lb ed="#P" n="115"/>simulque tacite Deum accusat, tanquam 
+      crude<lb ed="#P" n="116" break="no"/>lem &amp; invidum ac praeter rationem cum homine 
+      <lb ed="#P" n="117"/>agentem, quem in tanta fructiferorum lignorum 
+      <lb ed="#P" n="118"/>abundantia vetet quicquam attingere. Ita 
+      expo<lb ed="#P" n="119" break="no"/>nunt sanctus Ambrosius libro de paradiso, capite 12. 
+      <lb ed="#P" n="120"/>Joannes Chrysostomus homilia decimasexta in 
+      Ge<lb ed="#P" n="121" break="no"/>nes. sanctus Augustinus libro undecimo de Geness 
+      <lb ed="#P" n="122"/>ad literam, capite 30. sanctus Cyrillus libro tertio 
+      <lb ed="#P" n="123"/>contra Julian. &amp; <name xml:id="bt67yj-p070755-Nd1e150">Rupertus</name> libro tertio in Genes. 
+      ca<lb ed="#P" n="124" break="no"/>pite quarto. 
+    </p>
+            <p xml:id="bt67yj-p070755-d1e155">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Possunt autem interrogantis verba etiam in hunc 
+      <lb ed="#P" n="126"/>sensum accipi: Cur prohibuit vobis Deus, ne de 
+      <lb ed="#P" n="127"/>omni ligno paradisi comedatis, sed exceptionem 
+      fe<lb ed="#P" n="128" break="no"/>cit, praecipiens ab aliquo, scilicet a ligno scientiae 
+      <lb ed="#P" n="129"/>boni &amp; mali, vobis abstinendum esse? ut illud, non 
+      <lb ed="#P" n="130"/>omne, non universalem, sed particularem faciat 
+      sen<lb ed="#P" n="131" break="no"/>sum negantem, idque juxta leges dialecticorum. 
+      <lb ed="#P" n="132"/>Quae expositio multorum est recentiorum. 
+    </p>
+            <p xml:id="bt67yj-p070755-d1e178">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> At vero priorem sensum magis arguit tum 
+      prae<lb ed="#P" n="134" break="no"/>ceptum quo dictum fuerat, De omni ligno paradist 
+      <lb ed="#P" n="135"/>comedes, &amp;c. tum subsequens responsio mulieris, 
+      <lb ed="#P" n="136"/>quasi corrigentis interrogationem serpentis dum 
+      <lb ed="#P" n="137"/>ait: De fructu lignorum quae sunt in paradiso vescimur, 
+      <lb ed="#P" n="138"/>&amp;c. quasi dicat, non ita est ut opinaris. Neque 
+      <lb ed="#P" n="139"/>enim praecepit nobis Deus ut non comederemus ex 
+      <lb ed="#P" n="140"/>omni ligno paradisi, sed unius tantum esum 
+      inhi<lb ed="#P" n="141" break="no"/>buit. Sane juxta posteriorem sensum responsio 
+      mu<lb ed="#P" n="142" break="no"/>lieris supervacanea videtur. Hoc enim respondet 
+      <!--0417.xml-->
+      <pb ed="#P" n="184"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod interrogatio supponebat. Nec obstat priori 
+      <lb ed="#P" n="2"/>sensui illa locutio, Num ex omni; Neque enim 
+      ra<lb ed="#P" n="3" break="no"/>rum est in scripturis, ut, non omne, idem sit quod, 
+      <lb ed="#P" n="4"/>nullum. Exempla sunt Daniel. 3. Ne adorarent 
+      om<lb ed="#P" n="5" break="no"/>nem Deum, excepto Deo suo. Psalm. 143. Non 
+      justi<lb ed="#P" n="6" break="no"/>ficabitur in conspectu tuo omnis vivens. In Evangelio 
+      <lb ed="#P" n="7"/>Matth. &amp; Marci, Non fieret salva omnis caro. 
+      Apo<lb ed="#P" n="8" break="no"/>stolus ad Rom. &amp; Gal. Ex operibus legis non 
+      justifi<lb ed="#P" n="9" break="no"/>cabitur omnis caro. Jam quod ad interrogationis 
+      mo<lb ed="#P" n="10" break="no"/>dum attinet, quibusdam placet ironiam quandam 
+      <lb ed="#P" n="11"/>esse in verbis serpentis, quam sic interpretantur: 
+      <lb ed="#P" n="12"/>Stulte putatis Deum vobis praecepisse ne 
+      comeda<lb ed="#P" n="13" break="no"/>tis de omni ligno paradisi. Favet huic 
+      interpreta<lb ed="#P" n="14" break="no"/>tioni versio Chaldaica quae sic habet. Verumne 
+      <lb ed="#P" n="15"/>est quod dixit Deus: Non comedetis ex omni 
+      arbo<lb ed="#P" n="16" break="no"/>re horti? id est: Itane existimatis hoc Deum vobis 
+      <lb ed="#P" n="17"/>dixisse? Quocirca &amp; illud quod postea dicitur a 
+      <lb ed="#P" n="18"/>serpente: Scit enim Deus, &amp;c. pro quo Chaldaeus 
+      <lb ed="#P" n="19"/>interpres habet, manifestum coram Deo, &amp; ab 
+      iis<lb ed="#P" n="20" break="no"/>dem authoribus ita exponitur: Testis mihi est Deus, 
+      <lb ed="#P" n="21"/>quod cum primum comedetis ex eo, aperientur 
+      ocu<lb ed="#P" n="22" break="no"/>li vestri, &amp;c. ut sint verba affimantis cum 
+      jure<lb ed="#P" n="23" break="no"/>jurando. Juxta hanc expositionem verba 
+      serpen<lb ed="#P" n="24" break="no"/>tis nullam continent Dei accusationem, sed 
+      lau<lb ed="#P" n="25" break="no"/>dem potius &amp; reverentiam. Sic autem locutum 
+      <lb ed="#P" n="26"/>dicunt serpentem, ut hac boni specie facilius 
+      mu<lb ed="#P" n="27" break="no"/>lier ad consentiendum suae suasioni induceretur. 
+      <lb ed="#P" n="28"/>Hoc quippe artificio ad fallendum homines uti 
+      so<lb ed="#P" n="29" break="no"/>lere diabolum, qui teste Apostolo 2. Corinth. II. 
+      <lb ed="#P" n="30"/>Transfigurat se in angelum lucis, cujus exemplo &amp; 
+      <lb ed="#P" n="31"/>pseudoapostoli ac Satanae ministri se transfigurant in 
+      <lb ed="#P" n="32"/>Apostolos Christi &amp; ministros justitiae. Unde &amp; 
+      eo<lb ed="#P" n="33" break="no"/>dem capite seductioni mulieris a serpente 
+      compa<lb ed="#P" n="34" break="no"/>rat idem Apostolus seductionem Corinthiorum a 
+      <lb ed="#P" n="35"/>pseudoapostolis. Qua ex re videri potest, 
+      serpen<lb ed="#P" n="36" break="no"/>tem sub specie honoris &amp; commendationis divini 
+      <lb ed="#P" n="37"/>nominis aggressum esse hanc tentationem mulieris, 
+      <lb ed="#P" n="38"/>non autem cum accusatione invidiae &amp; crudelitatis. 
+      <lb ed="#P" n="39"/>Si quidem eam blasphemiam mulier statim 
+      exhor<lb ed="#P" n="40" break="no"/>ruisset. Probabilis etiam fit hic intellectus ex 
+      ver<lb ed="#P" n="41" break="no"/>bis Epiphanii in haeresi Cainanorum, dicentis 
+      dia<lb ed="#P" n="42" break="no"/>bolum mendacio amicitiam cum creatore 
+      ostendis<lb ed="#P" n="43" break="no"/>se. Haec autem ut probabilitate aliqua nitantur; 
+      <lb ed="#P" n="44"/>simplicior tamen &amp; tam nostrae quam 70. versioni 
+      <lb ed="#P" n="45"/>accommodatior sensus est, serpentem quasi 
+      intelle<lb ed="#P" n="46" break="no"/>xisset prohibitum esse hominibus a Deo, ne de ullo 
+      <lb ed="#P" n="47"/>paradisi ligno comederent, interrogasse mulierem 
+      <lb ed="#P" n="48"/>ejus rei causam. Nam praeterquam quod huic 
+      in<lb ed="#P" n="49" break="no"/>terrogationi aptissime quadrat mulieris responsio, 
+      <lb ed="#P" n="50"/>ut supra ostendimus; hoc etiam modo fallaciam 
+      <lb ed="#P" n="51"/>suam diabolus magis occultavit, dum statim initio 
+      <lb ed="#P" n="52"/>non apertum persuadere vult mendacium, quale, 
+      <lb ed="#P" n="53"/>erat Deum nihil praecepisse de non edendo alicujus 
+      <lb ed="#P" n="54"/>ligni fructu; sed ignorantiam, imo errorem 
+      simu<lb ed="#P" n="55" break="no"/>lans circa praeceptum, causam ejus sciscitatur, ut 
+      <lb ed="#P" n="56"/>hac ratione mulierem ad colloquium provocet, 
+      ut<lb ed="#P" n="57" break="no"/>pote quam non dubitaret libenter correcturam 
+      erro<lb ed="#P" n="58" break="no"/>rem interrogantis. 
+    </p>
+            <p xml:id="bt67yj-p070755-d1e336">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Quod autem opinantur nonnulli, serpentis 
+      inter<lb ed="#P" n="60" break="no"/>rogationem quam Moyses scribit, abruptam esse, 
+      <lb ed="#P" n="61"/>quasi serpens post multa alia a Moyse omissa, quae 
+      <lb ed="#P" n="62"/>mulieri dixerat, Deo obtrectans; tandem etiam hoc 
+      <lb ed="#P" n="63"/>subjunxerit: Et jamne verum est quod praecepit 
+      vo<lb ed="#P" n="64" break="no"/>bis? &amp;c. non satis respondet statui integritatis &amp; 
+      in<lb ed="#P" n="65" break="no"/>nocentiae mulieris. Neque enim longum sermonem 
+      <lb ed="#P" n="66"/>quo continebatur accusatio Dei tanquam maligne 
+      <lb ed="#P" n="67"/>tractantis hominem, quod eum multis bonis 
+      pri<lb ed="#P" n="68" break="no"/>vasset, patienter audire sustinuisset mulier sine 
+      pec<lb ed="#P" n="69" break="no"/>cato, cum tamen constet apud omnes fere 
+      Theolo<lb ed="#P" n="70" break="no"/>gos, mulierem ante istam a Moyse expressam 
+      inter<lb ed="#P" n="71" break="no"/>rogationem non peccasse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

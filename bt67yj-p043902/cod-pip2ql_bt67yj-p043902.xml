@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="114"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p043902"><!-- l2d12c3" -->
+            <head xml:id="bt67yj-p043902-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p043902-Hd1e103" type="question-title">Respondetur ad objectiones</head>
+            <p xml:id="bt67yj-p043902-d1e106">
+      <!--0347.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>§. 3. Respondetur ad objectiones.
+    </p>
+            <p xml:id="bt67yj-p043902-d1e115">
+               <lb ed="#P" n="74"/>SOlvenda nunc sunt argumenta contrariae 
+      opinio<lb ed="#P" n="75" break="no"/>nis. Quorum 
+    </p>
+            <p xml:id="bt67yj-p043902-d1e122">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Primum est ex Ecclesiastico dicente, cap. 18. Qui 
+      <lb ed="#P" n="77"/>vivit in aeternum creavit omnia simul. Hinc enim 
+      Au<lb ed="#P" n="78" break="no"/>gustinus suam opinionem stabilit lib. 4. de Genes. 
+      <lb ed="#P" n="79"/>cap. 33. Sed respondetur in ea sententia adverbium, 
+      <lb ed="#P" n="80"/>simul, non determinare verbum, creavit, sed nomen 
+      <lb ed="#P" n="81"/>omnia, neque ad tempus referri debere, sed ad 
+      re<lb ed="#P" n="82" break="no"/>rum generalitatem. Nam vox graeca significat, 
+      pari<lb ed="#P" n="83" break="no"/>ter, consequenter, sine acceptione; ut sit sensus nihil 
+      <lb ed="#P" n="84"/>esse in rerum natura, quod non sit a Deo creatum. 
+      <lb ed="#P" n="85"/>Quare non aliud Ecclesiasticus dicere voluit, quam 
+      <lb ed="#P" n="86"/>quod Joannes dixit de Verbo Dei: Omnia per ipsum 
+      <lb ed="#P" n="87"/>facta sunt, &amp; sine ipso factum est nihil; &amp; quod 
+      Moy<lb ed="#P" n="88" break="no"/>ses dixit Deum creasse caelum &amp; terram &amp; omnia 
+      <lb ed="#P" n="89"/>quae in eis sunt. Deinde etiam si sensus esset simul, 
+      <lb ed="#P" n="90"/>id est, uno instantiomnia esse creata, non ideo 
+      ta<lb ed="#P" n="91" break="no"/>men confundenda essent sex dierum opera, quia 
+      <lb ed="#P" n="92"/>quae post diem primum facta sunt, non ita proprie 
+      <lb ed="#P" n="93"/>creata dicuntur, ut ea quae primo die; quia non 
+      im<lb ed="#P" n="94" break="no"/>mediate ex nihilo producta, sed ex materia 
+      praeexi<lb ed="#P" n="95" break="no"/>stente, quae tota simul creata fuerat primo die. 
+    </p>
+            <p xml:id="bt67yj-p043902-d1e171">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Secundum argumentum: Genes. 2. creatio caeli 
+      <lb ed="#P" n="97"/>&amp; terrae cum creatione plantarum uni diei 
+      asscribi<lb ed="#P" n="98" break="no"/>tur his verbis: In die quo creavit Deus caelum &amp; 
+      ter<lb ed="#P" n="99" break="no"/>ram, &amp; omne virgultum agri, &amp;c. Est autem de 
+      cae<lb ed="#P" n="100" break="no"/>teris operibus idem judicium. Respondeo more 
+      scri<lb ed="#P" n="101" break="no"/>pturae diem ibi positum pro tempore. Quanquam 
+      <lb ed="#P" n="102"/>potest etiam dies intelligi proprie sed acceptione 
+      <lb ed="#P" n="103"/>confusa, ut non unus idemque dies, sed alius atque 
+      <lb ed="#P" n="104"/>alius intelligatur. Quod autem ibidem consequenter 
+      <lb ed="#P" n="105"/>de virgultis &amp; herbis subjungitur: Priusquam 
+      ori<lb ed="#P" n="106" break="no"/>rentur, aut germinarent; non propterea dicitur, quod 
+      <lb ed="#P" n="107"/>etsi nondum existerent actu, potentialiter tamen 
+      <lb ed="#P" n="108"/>essent in terra prima creationis die, sed hunc habet 
+      <lb ed="#P" n="109"/>sensum, quando creavit omne virgultum &amp; 
+      her<lb ed="#P" n="110" break="no"/>bam, cum antea non essent. 
+    </p>
+            <p xml:id="bt67yj-p043902-d1e208">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Tertium; Exod. 31. dicit Moyses: Sex diebus 
+      crea<lb ed="#P" n="112" break="no"/>vit Deus caelum &amp; terram: At idem Genes. 1. dicit 
+      <lb ed="#P" n="113"/>Deum in principio, &amp; primo die creasse caelum &amp; 
+      <lb ed="#P" n="114"/>terram: ergo secundum Moysen sex dies sunt unus 
+      <lb ed="#P" n="115"/>dies. Respondeo sententiam Exod. 31. supplendam 
+      <lb ed="#P" n="116"/>ex altera quae est Exod. 20. addendo hanc 
+      clausu<lb ed="#P" n="117" break="no"/>lam: Et omnia quae in eis sunt. 
+    </p>
+            <p xml:id="bt67yj-p043902-d1e228">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Quartum; Dei perfecta sunt opera Deuteron. 32. 
+      <lb ed="#P" n="119"/>ergo mundus ab ipso statim initio in sua 
+      perfectio<lb ed="#P" n="120" break="no"/>ne a Deo conditus est. Respondeo perfectum eo 
+      lo<lb ed="#P" n="121" break="no"/>co dici, non quod omni ex parte sit absolutum, 
+      in<lb ed="#P" n="122" break="no"/>tegrum &amp; formatum; sed in quo nihil est quod 
+      me<lb ed="#P" n="123" break="no"/>rito reprehendas, qualia sunt sine dubio omnia Dei 
+      <lb ed="#P" n="124"/>opera quantumvis alioqui imperfecta. 
+    </p>
+            <p xml:id="bt67yj-p043902-d1e248">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Quintum; Gregorius homil. 26. super evangelia 
+      <lb ed="#P" n="126"/>dicit Deum simul omnia ex nihilo creasse. 
+      Respon<lb ed="#P" n="127" break="no"/>detur id recte dici ratione materiae, quae tota simul 
+      <lb ed="#P" n="128"/>initio creata fuit. 
+    </p>
+            <p xml:id="bt67yj-p043902-d1e261">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Sextum; huic doctrinae quae statuit omnia simul 
+      <lb ed="#P" n="130"/>creata, pulchre consonat illa quae ponit angelis 
+      con<lb ed="#P" n="131" break="no"/>creatas fuisse omnium rerum naturalium species 
+      in<lb ed="#P" n="132" break="no"/>telligibiles, scilicet ut omnia simul ab initio fuerint 
+      <lb ed="#P" n="133"/>&amp; in re &amp; in angelorum cognitione. Et ob hanc 
+      <lb ed="#P" n="134"/>forte rationem S. Thomas, cujus haec praecipue 
+      sen<lb ed="#P" n="135" break="no"/>tentia est de speciebus omnium rerum angelo 
+      con<lb ed="#P" n="136" break="no"/>genitis, ut ostendimus ad distinct. 7. non abhorret 
+      <lb ed="#P" n="137"/>ab eorum opinione qui ponunt omnia simul facta. 
+      <lb ed="#P" n="138"/>Veruntamen respondetur non recte procedi a 
+      co<lb ed="#P" n="139" break="no"/>gnitione etiam naturali, ad rei cognitae existentiam. 
+      <lb ed="#P" n="140"/>Sic enim instituta est rerum natura a Deo, ut sicut 
+      <lb ed="#P" n="141"/>tota creatura prius erat in mente Dei quam in 
+      seip<lb ed="#P" n="142" break="no"/>sa; sic inferior creatura, id est, corporea prius esset 
+      <lb ed="#P" n="143"/>in intellectu creaturae superioris quam in seipsa.
+      <!--0348.xml-->
+      <pb ed="#P" n="115"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quod intellige secundum totum genus creaturae 
+      <lb ed="#P" n="2"/>corporeae; ne alioqui hac ratione cogamur dicere 
+      <lb ed="#P" n="3"/>angelicam naturam ante mundum corporeum 
+      fuis<lb ed="#P" n="4" break="no"/>se creatam. Hanc responsionem suggerit sanctus 
+      <lb ed="#P" n="5"/>Thomas prima parte quaestione 55. articulo 
+      secun<lb ed="#P" n="6" break="no"/>do in corpore &amp; ad primum, verbis ex Augustino 
+      <lb ed="#P" n="7"/>depromptis libro secundo de Genesi ad literam 
+      <lb ed="#P" n="8"/>capite 8. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

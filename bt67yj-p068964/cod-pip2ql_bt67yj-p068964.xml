@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="178"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p068964"><!-- l2d20c6" -->
+            <head xml:id="bt67yj-p068964-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p068964-Hd1e103" type="question-title">Utrum fames et sitis in primo statu fuissent</head>
+            <p xml:id="bt67yj-p068964-d1e106">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> §. 6. Utrum fames &amp; sitis in primo statu fuissent? 
+    </p>
+            <p xml:id="bt67yj-p068964-d1e113">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/>CUm a statu primae innocentiae excludenda sit 
+      <lb ed="#P" n="136"/>omnis poenalitas &amp; miseria; consequens est in, 
+      <lb ed="#P" n="137"/>eo nec famem nec sitim futuram fuisse, quatenus his 
+      <lb ed="#P" n="138"/>vocabulis defectuosum aut vitiosum aliquid 
+      signifi<lb ed="#P" n="139" break="no"/>catur. Non enim uno modo haec accipiuntur. 
+    </p>
+            <p xml:id="bt67yj-p068964-d1e129">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Primo namque &amp; usitatissime fames &amp; sitis 
+      di<lb ed="#P" n="141" break="no"/>cuntur appetitus cibi &amp; potus ad instaurandum 
+      ali<lb ed="#P" n="142" break="no"/>quid quod naturae per internam pugnam qualitatum 
+      <lb ed="#P" n="143"/>jam detractum est; qui appetitus quandam sensus 
+      <lb ed="#P" n="144"/>molestiam conjunctam habet, qua scilicet 
+      admo<lb ed="#P" n="145" break="no"/>netur &amp; quasi premitur animal ad assumendum id 
+      <!--0412.xml-->
+      <pb ed="#P" n="179"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod illi defectui reparando necessarium est. Juxta 
+      <lb ed="#P" n="2"/>hunc modum fames &amp; sitis in primo statu non 
+      fuis<lb ed="#P" n="3" break="no"/>sent, tum quia nullus ibi defectus erat, tum quia 
+      <lb ed="#P" n="4"/>molestia omnis aberat. Ita S. Augustinus lib. 14. de 
+      <lb ed="#P" n="5"/>civitate Dei, cap. 26. dicit primo homini cibum 
+      ad<lb ed="#P" n="6" break="no"/>fuisse, ne esuriret, potum, ne sitiret, quo videlicet 
+      <lb ed="#P" n="7"/>defectum alioqui venturum anteverteret, sicut &amp; 
+      li<lb ed="#P" n="8" break="no"/>gnum vitae praesto aderat, ne ad illum senectus 
+      adi<lb ed="#P" n="9" break="no"/>tum haberet. 
+    </p>
+            <p xml:id="bt67yj-p068964-d1e174">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Secundo, potest iis vocabulis significari 
+      immode<lb ed="#P" n="11" break="no"/>ratus &amp; inordinatus edendi &amp; bibendi appetitus, 
+      <lb ed="#P" n="12"/>quomodo Magister ea accipit in textu §. G. 
+      Quo<lb ed="#P" n="13" break="no"/>modo acceptae fames &amp; sitis gulae potius sunt quam 
+      <lb ed="#P" n="14"/>necessitatis, &amp; pro fine habent eam quae ex cibo &amp; 
+      <lb ed="#P" n="15"/>potu percipitur, voluptatem, non ipsius naturae 
+      con<lb ed="#P" n="16" break="no"/>servationem aut corporis sanitatem. Quod proinde 
+      <lb ed="#P" n="17"/>genus appetitus ab innocentiae statu, multo magis 
+      <lb ed="#P" n="18"/>quam primum illud, alienum fuisset, utpote cum 
+      <lb ed="#P" n="19"/>peccato conjunctum. Eadem ratio, si naturalem 
+      qui<lb ed="#P" n="20" break="no"/>dem cibi potusque cupiditatem per ea vocabula 
+      in<lb ed="#P" n="21" break="no"/>telligas, sed quae rectae rationis ordinem turbet. 
+      Ta<lb ed="#P" n="22" break="no"/>lis enim appetitus etsi peccato careat, sine dubio 
+      ta<lb ed="#P" n="23" break="no"/>men vitiosus est. Sed forte usus Latine loquentium 
+      <lb ed="#P" n="24"/>non habet, ut hoc secundo modo fames &amp; sitis 
+      acci<lb ed="#P" n="25" break="no"/>piantur, si nihil aliud addatur. 
+    </p>
+            <p xml:id="bt67yj-p068964-d1e213">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Tertio, per famem &amp; sitim potest generaliter 
+      si<lb ed="#P" n="27" break="no"/>gnificari naturalis appetitus edendi &amp; bibendi. Sic 
+      <lb ed="#P" n="28"/>accepta fames &amp; sitis fuisset haud dubie in primo 
+      <lb ed="#P" n="29"/>statu, nimirum summa tranquillitate &amp; absque ulla 
+      <lb ed="#P" n="30"/>molestia incitans hominem; non quidem ad 
+      instau<lb ed="#P" n="31" break="no"/>randum eum qui jam contractus esset, naturae 
+      defe<lb ed="#P" n="32" break="no"/>ctum, sed ad occurrendum tempestive defectui 
+      <lb ed="#P" n="33"/>alioqui superventuro per moderatam cibi potusque 
+      <lb ed="#P" n="34"/>sumptionem. Quod igitur apud patres interdum 
+      le<lb ed="#P" n="35" break="no"/>gimus, velut apud S. Basilium homilia secunda de 
+      <lb ed="#P" n="36"/>jejunio; &amp; S. Ambrosium in libro de Elia &amp; 
+      jeju<lb ed="#P" n="37" break="no"/>nio, primos parentes in paradiso jejunasse, &amp; 
+      tan<lb ed="#P" n="38" break="no"/>tisper innocentiam servasse, quamdiu jejunium 
+      co<lb ed="#P" n="39" break="no"/>lerent, non jejunio quod carnem affligat, quale 
+      <lb ed="#P" n="40"/>nunc ab homine postquam peccavit, exigitur, sed 
+      <lb ed="#P" n="41"/>de sola cibi ac potus abstinentia, etiam quae famem 
+      <lb ed="#P" n="42"/>ac sitim hujus postremi generis nullam adhuc 
+      con<lb ed="#P" n="43" break="no"/>junctam haberet, intelligendum est. Neque vero 
+      <lb ed="#P" n="44"/>ob aliud abstinebant, nisi quia ad alimentum 
+      su<lb ed="#P" n="45" break="no"/>mendum, nullo adhuc naturali desiderio 
+      admone<lb ed="#P" n="46" break="no"/>bantur; tametsi S. Augustinus, ut ad superiorem 
+      <lb ed="#P" n="47"/>distinctionem annotavimus, nolit consentire iis qui 
+      <lb ed="#P" n="48"/>affirmant primum hominem ante peccatum non 
+      <lb ed="#P" n="49"/>fuisse usum ligno vitae. 
+    </p>
+            <p xml:id="bt67yj-p068964-d1e270">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Porro, quod de appetitu cibiac potus dictum est, 
+      <lb ed="#P" n="51"/>hoc de omni opere tam naturae, quam liberae 
+      actio<lb ed="#P" n="52" break="no"/>nis similiter intelligendum, nempe in primo statu 
+      <lb ed="#P" n="53"/>quicquid ejusmodierat, futurum fuisse absque omni 
+      <lb ed="#P" n="54"/>molestia, imo cum magna &amp; honesta delectatione 
+      <lb ed="#P" n="55"/>conjunctum, quemadmodum de agricolatione 
+      pul<lb ed="#P" n="56" break="no"/>chre declarat S. Aug. libro de Genesi ad literam, 
+      <lb ed="#P" n="57"/>cap. 8. tractans illud Genes. 2. Posuit Deus 
+      homi<lb ed="#P" n="58" break="no"/>nem in paradisum voluptatis, ut operaretur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

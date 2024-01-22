@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="202"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p077924"><!-- l2d22c9" -->
+            <head xml:id="bt67yj-p077924-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p077924-Hd1e103" type="question-title">Objecta dissolvuntur</head>
+            <p xml:id="bt67yj-p077924-d1e106">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> §. 9. Objecta dissolvuntur.
+    </p>
+            <p xml:id="bt67yj-p077924-d1e113">
+               <lb ed="#P" n="4"/>REstat ut videamus quemadmodum ad 
+      argu<lb ed="#P" n="5" break="no"/>menta diversae partis responderi possit. Ad id 
+      <lb ed="#P" n="6"/>quidem quod ex apostolo Roman. 5. adferebatur, 
+      <lb ed="#P" n="7"/>non bona est quorundam responsio, dicentium per 
+      <lb ed="#P" n="8"/>unum hominem intelligi mulierem, quae prima 
+      pec<lb ed="#P" n="9" break="no"/>cavit. Nec ea parte recipienda est expositio 
+      autho<lb ed="#P" n="10" break="no"/>ris innominati commentantis in Paulum, supra 
+      ci<lb ed="#P" n="11" break="no"/>tata; tum propter rationes in argumento allatas, 
+      <lb ed="#P" n="12"/>tum quia sic consequens videretur juxta apostolum, 
+      <lb ed="#P" n="13"/>qui vim facit in uno, per solam mulierem 
+      propa<lb ed="#P" n="14" break="no"/>gatum esse peccatum ea ratione, qua ex eodem 
+      <lb ed="#P" n="15"/>apostolo alii contendunt illud per solum virum 
+      pro<lb ed="#P" n="16" break="no"/>pagari. 
+    </p>
+            <p xml:id="bt67yj-p077924-d1e144">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Quocirca melius respondetur unitatem, quam 
+      <lb ed="#P" n="18"/>urget apostolus, utrimque suo modo esse 
+      intelli<lb ed="#P" n="19" break="no"/>gendam, ex parte Christi simpliciter, quia 
+      Chri<lb ed="#P" n="20" break="no"/>stus ad reparationem seu regenerationem humani 
+      <lb ed="#P" n="21"/>generis non egebat alterius cooperatione. 
+      Caete<lb ed="#P" n="22" break="no"/>rum ex parte Adae hactenus, quia Adam cum uxore 
+      <lb ed="#P" n="23"/>erat quodammodo unum, juxta illud: Erunt duo in 
+      <lb ed="#P" n="24"/>carne una. Inde enim concludit Dominus in 
+      Evan<lb ed="#P" n="25" break="no"/>gelio: Itaque jam non sunt duo, sed una caro. 
+      Ne<lb ed="#P" n="26" break="no"/>que enim Adam solus sufficiebat generationi 
+      huma<lb ed="#P" n="27" break="no"/>ni generis, sed muliere opus habebat, velut 
+      adjuto<lb ed="#P" n="28" break="no"/>rio sibi simili, ut dicit scriptura, cum qua 
+      consti<lb ed="#P" n="29" break="no"/>tueret unum primum generativum principium 
+      to<lb ed="#P" n="30" break="no"/>tius generis hominum. 
+    </p>
+            <p xml:id="bt67yj-p077924-d1e180">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Ex hac declaratione solvenda est etiam prior 
+      ra<lb ed="#P" n="32" break="no"/>tio. Cum enim dicitur quod solus Adam acceperat 
+      <lb ed="#P" n="33"/>justitiam pro se &amp; tota posteritate, intelligitur 
+      quate<lb ed="#P" n="34" break="no"/>nus erat principium generis; &amp; proinde non 
+      exclu<lb ed="#P" n="35" break="no"/>ditur Eva, quae unum constituebat principium 
+      ge<lb ed="#P" n="36" break="no"/>neris cum Adamo, ut jam dictum est. 
+    </p>
+            <p xml:id="bt67yj-p077924-d1e198">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Ad posteriorem respondetur, quod revera uterque 
+      <lb ed="#P" n="38"/>parens est effectivum ac proprie generans 
+      princi<lb ed="#P" n="39" break="no"/>pium filiorum, licet mas sit principale ac 
+      poten<lb ed="#P" n="40" break="no"/>tius in agendo, foemina vero plus materiae 
+      submini<lb ed="#P" n="41" break="no"/>stret. Nam alioqui non videretur mulier vere esse 
+      <lb ed="#P" n="42"/>mater ac genitrix filii, quae nomina significant 
+      cau<lb ed="#P" n="43" break="no"/>sam efficientem, sed tantum esset principium 
+      sus<lb ed="#P" n="44" break="no"/>ceptivum &amp; materiale, quod est absurdum. Atque 
+      <lb ed="#P" n="45"/>haec Galeni &amp; omnium medicorum sententia est, 
+      <lb ed="#P" n="46"/>multo certe probabilior ea quam tradere videtur 
+      <lb ed="#P" n="47"/>Aristoteles, &amp; quam ex eo S. Thomas hausit. 
+      Quan<lb ed="#P" n="48" break="no"/>quam idcirco peccati &amp; corruptionis origo magis 
+      <lb ed="#P" n="49"/>viro quam foeminae tribui solet in scripturis, 
+      qui<lb ed="#P" n="50" break="no"/>generationis initium a viro est, tanquam a 
+      principa<lb ed="#P" n="51" break="no"/>liori; quemadmodum ex August. annotarunt Beda 
+      <lb ed="#P" n="52"/>&amp; Anselmus in Rom. 3. 
+    </p>
+            <p xml:id="bt67yj-p077924-d1e237">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Verba Magistri quae postremo loco objiciebantur 
+      <lb ed="#P" n="54"/>juxta expositionem Bonaventurae ad textum, accipi 
+      <lb ed="#P" n="55"/>possunt in hunc sensum: Si mulier peccasset, viro 
+      <lb ed="#P" n="56"/>non peccante, non futurum fuisse ut vir ex ea jam 
+      <lb ed="#P" n="57"/>peccando corrupta sobolem suscitare vellet, quam 
+      <lb ed="#P" n="58"/>sciret corruptioni &amp; peccato nascituram obnoxiam, 
+      <lb ed="#P" n="59"/>sed exspectaturum fuisse super procreatione filiorum 
+      <lb ed="#P" n="60"/>significationem voluntatis divinae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="374"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p145075"><!-- l2d33c10" -->
+            <head xml:id="bt67yj-p145075-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p145075-Hd1e103" type="question-title">An primi parentes transgressionis suae veniam 
+      fuerint consecuti</head>
+            <p xml:id="bt67yj-p145075-d1e106">
+               <lb ed="#P" n="98"/>§. 10. An primi parentes transgressionis suae veniam 
+      <lb ed="#P" n="99"/>fuerint consecuti?
+  </p>
+            <p xml:id="bt67yj-p145075-d1e113">
+               <lb ed="#P" n="100"/>PRimo homines per poenitentiam peccati sui 
+      ve<lb ed="#P" n="101" break="no"/>niam &amp; salutem consecutos esse, ac praecipue 
+      <lb ed="#P" n="102"/>protoplasten Adam, tam constans est Ecclesiae 
+      to<lb ed="#P" n="103" break="no"/>tius sententia, ut haeretici jam olim habiti fuerint, 
+      <lb ed="#P" n="104"/>qui illorum saluti contradicerent, quales fuere 
+      En<lb ed="#P" n="105" break="no"/>cratitae &amp; Tatiani. De quibus Irenaeus lib. 3. contra 
+      <lb ed="#P" n="106"/>haereses cap. 34. &amp; aliquot sequentibus, &amp; post eum 
+      <lb ed="#P" n="107"/>Epiphanius &amp; Philastaus in haeresi eorumdem, &amp; 
+      <lb ed="#P" n="108"/>Augustinus haeresi 25. Qui etiam lib. Dde 
+      peccato<lb ed="#P" n="109" break="no"/>rum meritis cap. 34. de utroque primo parente id 
+      <lb ed="#P" n="110"/>merito credi dicit, quod postea juste vivendo per 
+      <lb ed="#P" n="111"/>Domini sanguinem ab extremo supplicio fuerint 
+      li<lb ed="#P" n="112" break="no"/>berati. Et epist. 99. De primo homine, inquit, quod 
+      <lb ed="#P" n="113"/>eum Christus ex inferis solverit, tota fere Ecclesia 
+      <lb ed="#P" n="114"/>consentit. Quod eam non inaniter credidisse credendum 
+      <lb ed="#P" n="115"/>est, undecumque hoc traditum sit, etiamsi 
+      Canonica<lb ed="#P" n="116" break="no"/>rum Scripturarum hinc expressa non proferatur 
+      autho<lb ed="#P" n="117" break="no"/>ritas. Deinde proferens illud quod de Sapientia 
+      dici<lb ed="#P" n="118" break="no"/>tur Sap. 10. Haec illum qui primus formatus est a Deo, 
+      <lb ed="#P" n="119"/>custodivit &amp; eduxit a delicto suo: Dicit eam 
+      Scriptu<lb ed="#P" n="120" break="no"/>ram magippro hac sententia, quam pro ullo alio 
+      <lb ed="#P" n="121"/>intellectu facere.
+    </p>
+            <p xml:id="bt67yj-p145075-d1e163">
+               <lb ed="#P" n="122"/>Quamvis autem ea Scriptura non diserte significet 
+      <lb ed="#P" n="123"/>primum hominem salvatum esse (potuit enim 
+      acce<lb ed="#P" n="124" break="no"/>pta primi peccati venia relabi in aliud) ideo tamen 
+      <lb ed="#P" n="125"/>diversam opinionem Patres supradicti inter haereses 
+      <lb ed="#P" n="126"/>numerarunt, quod de salute primi hominis, imo 
+      <lb ed="#P" n="127"/>utriusque primi parentis, eorumque per Christum 
+      <lb ed="#P" n="128"/>ex inferis eductione perpetua quaedam esset in 
+      Eccle<lb ed="#P" n="129" break="no"/>sia per manus accepta traditio. Quam &amp; Augustinus 
+      <lb ed="#P" n="130"/>urgendam putavit, magis quam Scripturam. 
+    </p>
+            <p xml:id="bt67yj-p145075-d1e186">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Potest nihilominus ad ejusdem Ecclesiasticae 
+      sen<lb ed="#P" n="132" break="no"/>tentiae confirmationem proferri etiam illud; quod 
+      <lb ed="#P" n="133"/>Deus utrumque postquam peccarunt non dereliquit, 
+      <lb ed="#P" n="134"/>sed increpando requisivit, &amp; ad poenitentiam 
+      voca<lb ed="#P" n="135" break="no"/>vit; &amp; ut eos in majorem spem ven ae erigeret, 
+      pro<lb ed="#P" n="136" break="no"/>misit semen ex muliere nasciturum, quo aliquando 
+      <lb ed="#P" n="137"/>contereretur caput serpentis, qui eos ad transe 
+      <lb ed="#P" n="138"/>sionem divinae legis induxcrat. Genes. 3.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

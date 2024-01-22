@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="31"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p011820"><!-- l2d3c9" -->
+            <head xml:id="bt67yj-p011820-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p011820-Hd1e103" type="question-title">Angelos ut naturae, ita gratiae donis creatos 
+      fuisse inaequales</head>
+            <p xml:id="bt67yj-p011820-d1e106">
+               <lb ed="#P" n="9"/>§. 9. Angelos ut naturae, ita gratiae donis creatos 
+      <lb ed="#P" n="10"/>fuisse inaequales. 
+    </p>
+            <p xml:id="bt67yj-p011820-d1e113">
+               <lb ed="#P" n="11"/>ANgelos sive in eadem omnes specie ponantur, 
+      <lb ed="#P" n="12"/>sive in diversis, impares fuisse secundum dona 
+      <lb ed="#P" n="13"/>naturalia, consentiens est omnium Theologorum 
+      <lb ed="#P" n="14"/>doctrina, cujus ratio sumitur ex perfectione totius 
+      <lb ed="#P" n="15"/>universi, quae ut varios rerum gradus postulat, ita 
+      <lb ed="#P" n="16"/>in eodem gradu diversitatem, aut specierum, &amp; 
+      in<lb ed="#P" n="17" break="no"/>dividuorum requirit secundum proprietates, seu 
+      <lb ed="#P" n="18"/>conditiones naturales, ut vel aliae sint atque aliae, 
+      <lb ed="#P" n="19"/>vel eaedem magis minusve perfectae. Quod patet in 
+      <lb ed="#P" n="20"/>creaturis corporeis tam caelestibus, ut stellis, 
+      qua<lb ed="#P" n="21" break="no"/>rum alia ab alia differt in claritate, aliisque 
+      proprie<lb ed="#P" n="22" break="no"/>tatibus, quam in his inferioribus, ut elementis ac 
+      <lb ed="#P" n="23"/>variis animalium ac plantarum generibus, atque in 
+      <lb ed="#P" n="24"/>ipso humano genere, tametsi subuna specie 
+      compre<lb ed="#P" n="25" break="no"/>henso. Sic igitur &amp; in substantiis incorporeis, id est, 
+      <lb ed="#P" n="26"/>angelis, rem se habere prorsus consentaneum est, 
+      sci<lb ed="#P" n="27" break="no"/>licet ut alii aliis natura subtiliores sint &amp; ad 
+      intelli<lb ed="#P" n="28" break="no"/>gendum perspicaciores, uti docet in textu Magister. 
+      <lb ed="#P" n="29"/>Quam doctrinam confirmat in scripturis fundata 
+      <lb ed="#P" n="30"/>distinctio angelorum, in hierarchias, &amp; ordines; 
+      <lb ed="#P" n="31"/>de qua infra ad dist. 9. 
+    </p>
+            <p xml:id="bt67yj-p011820-d1e161">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Quoniam autem secundum S. Thomae sententiam 
+      <lb ed="#P" n="33"/>omnes angeli differunt specie, hinc idem docet 
+      <lb ed="#P" n="34"/>oportere, quod unius angeli natura semper sit 
+      subli<lb ed="#P" n="35" break="no"/>mior natura alterius, quicumque duo inter se 
+      com<lb ed="#P" n="36" break="no"/>parentur. Et ideo, inquit, non est accipere duos 
+      <lb ed="#P" n="37"/>angelos aequales in tota caelesti hierarchia. Quae ejus 
+      <lb ed="#P" n="38"/>verba sunt super distinct. 9. hujus libri art. 5. Quin 
+      <lb ed="#P" n="39"/>etiamsi ponantur esse ejusdem speciei, vel omnes, 
+      <lb ed="#P" n="40"/>vel aliqui; probabile tamen est etiam sic non 
+      reperi<lb ed="#P" n="41" break="no"/>ri duos in naturalibus omnino aequales. Hoc enim 
+      <lb ed="#P" n="42"/>exigere videtur ordinatissima totius universi 
+      dispo<lb ed="#P" n="43" break="no"/>sitio in iis maxime individuis quae sunt 
+      incorrupti<lb ed="#P" n="44" break="no"/>bilia, quorum proinde multiplicatio non ordinatur 
+      <lb ed="#P" n="45"/>ad conservationem speciei, sed talia sunt ut 
+      unum<lb ed="#P" n="46" break="no"/>quodque eorum per se locum obtincat in universo. 
+    </p>
+            <p xml:id="bt67yj-p011820-d1e199">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> Porro sicut in naturalibus angeli inter se 
+      differen<lb ed="#P" n="48" break="no"/>tes creati sunt; ita credibile est &amp; valde rationabile 
+      <lb ed="#P" n="49"/>etiam secundum dona gratiae eos impares creatos 
+      <lb ed="#P" n="50"/>fuisse &amp; ita quidem, ut pro gradu &amp; capacitate 
+      do<lb ed="#P" n="51" break="no"/>norum naturalium, collata eis fuerint dona 
+      gratia<lb ed="#P" n="52" break="no"/>rum, id est, ut quo quisque natura perfectior esset, 
+      <lb ed="#P" n="53"/>eo perfectiorem haberet gradum gratiae, sanctitatis 
+      <lb ed="#P" n="54"/>&amp; justitiae. 
+    </p>
+            <p xml:id="bt67yj-p011820-d1e221">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Hanc imparitatem manifeste tradit Dionysius 
+      A<lb ed="#P" n="56" break="no"/>reop. toto libro de caelesti hierarchia, non tantum 
+      <lb ed="#P" n="57"/>agens de varietate donorum naturalium, verum 
+      <lb ed="#P" n="58"/>etiam supernaturalium, idque secundum 
+      propor<lb ed="#P" n="59" break="no"/>tionem naturalium; velut cum docet inferiores 
+      an<lb ed="#P" n="60" break="no"/>gelos a superioribus illuminari atque edoceri de 
+      <lb ed="#P" n="61"/>occultis mysteriis &amp; alia hujusmodi. Idem docet 
+      Basi<lb ed="#P" n="62" break="no"/>lius lib. de spiritu sancto cap. 16. dicens angelos 
+      jux<lb ed="#P" n="63" break="no"/>ta proportionem qua se invicem superant, a spiritu 
+      <lb ed="#P" n="64"/>sancto habere sanctificationis mensuram. Quod &amp; 
+      <lb ed="#P" n="65"/>innuit lib. 3. cont. Eunomium non procul ab initio¬ 
+    </p>
+            <p xml:id="bt67yj-p011820-d1e250">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Basilium hac in re sequitur Damascenus libro 2. 
+      <lb ed="#P" n="67"/>de fide orth. cap. 3. cum dicit angelos pro suae 
+      digni<lb ed="#P" n="68" break="no"/>tatis &amp; ordinis ratione per sanctificationem spiritus 
+      <lb ed="#P" n="69"/>sancti illuminationem &amp; gratiam participasse. 
+    </p>
+            <p xml:id="bt67yj-p011820-d1e263">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Eadem est Magistri doctrina in hac dist. quem 
+      om<lb ed="#P" n="71" break="no"/>nes deinde scholastici doctores secuti sunt. 
+    </p>
+            <p xml:id="bt67yj-p011820-d1e272">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Praeterea probatur ex eo, quia hierarchiae &amp; ordi¬ 
+      <!--0264.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>nes angelorum constituti sunt ab initio per naturam, 
+      <lb ed="#P" n="74"/>id est, juxta naturalia dona, nec tamen per gratiam 
+      <lb ed="#P" n="75"/>mutati sunt, imo nec mutari potuerunt, si quod 
+      ha<lb ed="#P" n="76" break="no"/>bet melior sententia, Deus simul in eis, &amp; condidit 
+      <lb ed="#P" n="77"/>naturam, &amp; indidit gratiam. At neque per gratiae 
+      u<lb ed="#P" n="78" break="no"/>sum, neque per gloriam consequentem mutatus est 
+      <lb ed="#P" n="79"/>ordo ille hierarchicus, sed talis omnino permansit, 
+      <lb ed="#P" n="80"/>qualis initio fuit constitutus. Ex quo colligitur quod 
+      <lb ed="#P" n="81"/>sicut in angelis naturae gratia: ita &amp; gratiae respondet 
+      <lb ed="#P" n="82"/>usus seu meritum, &amp; merito gloria. Unde recte 
+      do<lb ed="#P" n="83" break="no"/>cent Theologi non modo gratiam, sed &amp; gloriam 
+      <lb ed="#P" n="84"/>angelos consecutos fuisse secundum sua naturalia, 
+      <lb ed="#P" n="85"/>adeo ut si nec duo quidem fuerint in naturalibus, 
+      <lb ed="#P" n="86"/>aequales consequenter dicendum sit, nec duos esse 
+      ae<lb ed="#P" n="87" break="no"/>quales in gloria. 
+    </p>
+            <p xml:id="bt67yj-p011820-d1e316">
+               <lb ed="#P" n="88"/>Ex his autem elicitur haec ratio praesentis doctrinae, 
+      <lb ed="#P" n="89"/>quia dona gratiae simul cum ipsa natura collata 
+      fue<lb ed="#P" n="90" break="no"/>runt angelis in creatione, ideóque gratia danda erat 
+      <lb ed="#P" n="91"/>juxta proportionem &amp; exigentiam naturalium. 
+      <lb ed="#P" n="92"/>Quod &amp; probatur ex simili. Quoniam &amp; Adae in sua 
+      <lb ed="#P" n="93"/>creatione data fuit gratia viro conveniens, mulieri 
+      <lb ed="#P" n="94"/>vero gratia suo sexuicongruens, sicut &amp; soli ad hoc 
+      <lb ed="#P" n="95"/>creato, ut praesit diei, lumen datum est majus quam 
+      <lb ed="#P" n="96"/>lunae, &amp; caeteris stellis ad hoc factis ut noctem 
+      illu<lb ed="#P" n="97" break="no"/>strent. At vero nunc postquam in peccatum lapsus 
+      <lb ed="#P" n="98"/>est homo, non eadem est ratio donationis gratiae, quia 
+      <lb ed="#P" n="99"/>enim homo dignitatem primae conditionis, &amp; 
+      orna<lb ed="#P" n="100" break="no"/>tum seu perfectionem naturae, id est, gratiam, 
+      pec<lb ed="#P" n="101" break="no"/>cando amisit; fit ut gratiae collatio proportionem 
+      na<lb ed="#P" n="102" break="no"/>turalium nunc nullo modo sequatur; sed sine 
+      respe<lb ed="#P" n="103" break="no"/>ctu naturalium fiat secundum merum Dei miserentis 
+      <lb ed="#P" n="104"/>beneplacitum. Cum enim haec gratia qua lapsa 
+      natu<lb ed="#P" n="105" break="no"/>ra reparatur, in tantum sit gratuita, ut non modo 
+      ni<lb ed="#P" n="106" break="no"/>hil meritis, verum indignis ac male meritis detur ad 
+      <lb ed="#P" n="107"/>hoc declarandum non jam attendit Deus in 
+      distri<lb ed="#P" n="108" break="no"/>buendis gratiae suae donis capacitatem naturae, vel 
+      <lb ed="#P" n="109"/>quantitatem naturalium, sed ut ait apostolus 1. Cor. 
+      <lb ed="#P" n="110"/>12. Dividit singulis prout vult, minus interdum 
+      con<lb ed="#P" n="111" break="no"/>ferens illis qui ad ea suscipienda natura capaciores 
+      <lb ed="#P" n="112"/>erant, plus autem iis qui alioquierant minus capaces 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

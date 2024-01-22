@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 20</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 20</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="253"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p098519"><!-- l2d24c20" -->
+            <head xml:id="bt67yj-p098519-Hd1e101">Capitulum 20</head>
+            <head xml:id="bt67yj-p098519-Hd1e103" type="question-title">Quaedam notanda circa ordinem tentationis 
+        in homine</head>
+            <p xml:id="bt67yj-p098519-d1e106">
+               <lb ed="#P" n="109"/>§. 20. Quaedam notanda circa ordinem tentationis 
+      <lb ed="#P" n="110"/>in homine. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e113">
+               <lb ed="#P" n="111"/>DOcet hac dist. Magister eundem nunc esse 
+      ten<lb ed="#P" n="112" break="no"/>tationis ordinem &amp; progressum in hominibus, 
+      <lb ed="#P" n="113"/>qualis sub quadam typica significatione praecessit in 
+      <lb ed="#P" n="114"/>primis parentibus, quando praeceptum 
+      Beitransgres<lb ed="#P" n="115" break="no"/>si sunt; atque hac occasione satis prolixe de ratione 
+      <lb ed="#P" n="116"/>duplici &amp; sensualitate disserit. Vult autem per 
+      ser<lb ed="#P" n="117" break="no"/>pentem significari sensualitatem, per mulierem 
+      ra<lb ed="#P" n="118" break="no"/>tionem inferiorem, quae temporalibus intendit; per 
+      <lb ed="#P" n="119"/>virum rationem superiorem, quae considerat aeterna. 
+      <lb ed="#P" n="120"/>Sicut ergo serpens peccatum persuasit mulieri &amp; 
+      mu<lb ed="#P" n="121" break="no"/>lier viro; ita secundum Magistrum sensualitas 
+      con<lb ed="#P" n="122" break="no"/>ceptam peccati illecebram suggerit inferiori parti 
+      ra<lb ed="#P" n="123" break="no"/>tionis, quae si consentiat, eandem suggerit rationi 
+      <lb ed="#P" n="124"/>superiori, qui similiter consentiente, consummatur 
+      <lb ed="#P" n="125"/>peccatum. Haec doctrina Magistri est in §. H. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e148">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Verum multo aptius &amp; ad explicandum 
+      tentatio<lb ed="#P" n="127" break="no"/>nis ordinem convenientius per mulierem intelligi 
+      <lb ed="#P" n="128"/>poterit ratio inferior, id est, imperfecta, nec plane 
+      <lb ed="#P" n="129"/>deliberans aut actum considerans. Per virum autem 
+      <lb ed="#P" n="130"/>ratio superior, id est, perfecta, deliberata, &amp; ad 
+      <lb ed="#P" n="131"/>actum attenta. Caeterum in hac comparatione &amp; 
+      <lb ed="#P" n="132"/>tentationis ordine, quaedam occurrunt notanda. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e169">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Primum est, sensualitatem proprie acceptam &amp; 
+      <lb ed="#P" n="134"/>appetitum sensitivum esse eandem potentiam, 
+      ra<lb ed="#P" n="135" break="no"/>tione tamen differre. Nam sensualitas significat 
+      ap<lb ed="#P" n="136" break="no"/>petitum sensitivum, quatenus praevenit rationis 
+      de<lb ed="#P" n="137" break="no"/>liberationem, &amp; omnino quatenus vitiatus ac 
+      vul<lb ed="#P" n="138" break="no"/>neratus est ex prima transgressione. Unde in Christo 
+      <lb ed="#P" n="139"/>Domino &amp; in primis parentibus ante 
+      transgressio<lb ed="#P" n="140" break="no"/>nem sensualitas non fuit. Hujus autem 
+      discri<lb ed="#P" n="141" break="no"/>minis ratio sumitur ex usu scholasticorum magis 
+      <lb ed="#P" n="142"/>quam veterum, apud quos nomen sensualitatis vix 
+      <!--0487.xml-->
+      <pb ed="#P" n="254"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>invenitur. Vide S. Thomam in 1. 2. q. 74. art. 3. 
+      <lb ed="#P" n="2"/>&amp; commentatores ejus Cajetanum &amp; Medinam in 
+      <lb ed="#P" n="3"/>eundem locum, &amp; Durandum in distin. 21. hujus 
+      <lb ed="#P" n="4"/>libri. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e210">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Secundum; ut haec Magistri doctrina ad omne 
+      <lb ed="#P" n="6"/>genus peccati extendatur, sensualitatis etiam nomen 
+      <lb ed="#P" n="7"/>latius extendendum esse. Cum enim multa sint 
+      pec<lb ed="#P" n="8" break="no"/>cata quae non committuntur circa sensibilia; per 
+      sen<lb ed="#P" n="9" break="no"/>sualitatem intelligere oportet non solum appetitum 
+      <lb ed="#P" n="10"/>sensus, sed in genere appetitum hominis vitiatum 
+      <lb ed="#P" n="11"/>&amp; corruptum. Hoc enim ipse etiam Magister 
+      anno<lb ed="#P" n="12" break="no"/>tandum putavit in fine distinctionis. Unde &amp; 
+      Apo<lb ed="#P" n="13" break="no"/>stolus Gal. 5. nomine carnis quae concupiscit ad 
+      ver<lb ed="#P" n="14" break="no"/>sus spiritum, non solum intelligit vitium, quo 
+      ten<lb ed="#P" n="15" break="no"/>tatur homo ad ea peccata quae carnalia vocantur, 
+      <lb ed="#P" n="16"/>sed totam hominis vetustatem &amp; corruptionem qua 
+      <lb ed="#P" n="17"/>contra spiritum ac rectam rationem commovetur. 
+      <lb ed="#P" n="18"/>Quod ex eo perspicuum est, quia ibidem 
+      conse<lb ed="#P" n="19" break="no"/>quenter carnis opera recensens, multa etiam 
+      spiri<lb ed="#P" n="20" break="no"/>tualia vitia inter ea commemorat, ut contentiones, 
+      <lb ed="#P" n="21"/>sectas, invidias &amp; alia hujusmodi. Quare &amp; 
+      deside<lb ed="#P" n="22" break="no"/>ria carnis eodem loco conformiter intelligenda sunt 
+      <lb ed="#P" n="23"/>in illa sententia: Spiritu ambulate, &amp; desideria 
+      car<lb ed="#P" n="24" break="no"/>nis non perficietis. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e258">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Tertium; in sola sensualitate sive specialiter eam 
+      <lb ed="#P" n="26"/>accipias, sive generaliter, nullum esse peccatum. 
+      <lb ed="#P" n="27"/>Diversum quidem hic docere videtur Magister dum 
+      <lb ed="#P" n="28"/>dicit veniale ac levissimum esse peccatum, si in motu 
+      <lb ed="#P" n="29"/>sensuali tantum peccati illecebra teneatur. Quod 
+      <lb ed="#P" n="30"/>iterum ac tertio repetit. Sed id veritatem habere non 
+      <lb ed="#P" n="31"/>potest, nisi quando hujusmodi motus vel ex praevia 
+      <lb ed="#P" n="32"/>culpa nascitur, vel non statim ut subortus fuerit, 
+      <lb ed="#P" n="33"/>cohibetur ac repellitur. Nam priori modo 
+      volunta<lb ed="#P" n="34" break="no"/>rius est a voluntate culpae praecedentis ex qua 
+      sequi<lb ed="#P" n="35" break="no"/>tur. Posteriori modo propter negligentiam rationis 
+      <lb ed="#P" n="36"/>voluntarius est interpretative, a voluntate praesente. 
+      <lb ed="#P" n="37"/>AAlioqui sine consensu voluntatis nullum committi 
+      <lb ed="#P" n="38"/>peccatum, ne veniale quidem, supra 
+      demonstra<lb ed="#P" n="39" break="no"/>vimus ad dist. 21. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e295">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Quartum; doctrinam Magistri non in omni 
+      mate<lb ed="#P" n="41" break="no"/>ria peccatorum locum habere, sed tantum in 
+      mate<lb ed="#P" n="42" break="no"/>ria gravi seu mortali; velut in materia fornicationis, 
+      <lb ed="#P" n="43"/>ebrietatis, homicidii &amp; aliorum hujusmodi. Nam 
+      <lb ed="#P" n="44"/>consensus etiam deliberatus in peccatum quod 
+      gene<lb ed="#P" n="45" break="no"/>re suo veniale est, nisi contemptus adsit, tantum 
+      <lb ed="#P" n="46"/>venialis est, ametsi nec omne peccatum ex 
+      con<lb ed="#P" n="47" break="no"/>temptu factum, mortale dicimus. Quod bene 
+      do<lb ed="#P" n="48" break="no"/>cet Navarrus. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e319">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Quintum; consensum deliberatum in ea peccata, 
+      <lb ed="#P" n="50"/>quae per se nata sunt ducere in actum peccati 
+      mor<lb ed="#P" n="51" break="no"/>talis consummatum, dummodo ex agentis seu 
+      con<lb ed="#P" n="52" break="no"/>sentientis intentione non eo dirigantur, non semper 
+      <lb ed="#P" n="53"/>esse mortalem. Quod quidem non obstante Cajetani 
+      <lb ed="#P" n="54"/>&amp; aliorum quorundam in contrarium opinione 
+      ma<lb ed="#P" n="55" break="no"/>gis consentaneum arbitramur apostolo Jacobo 
+      di<lb ed="#P" n="56" break="no"/>centi cap. 1. Concupiscentia cum conceperit, parit 
+      pec<lb ed="#P" n="57" break="no"/>catum: Peccatum vero cum consummatum fuerit, 
+      ge<lb ed="#P" n="58" break="no"/>nerat mortem: Hinc enim apparet peccatum illud de 
+      <lb ed="#P" n="59"/>quo ait, parit peccatum, non generare mortem; licet 
+      <lb ed="#P" n="60"/>natura sua ducat ad illud de quo dicitur cum 
+      consum<lb ed="#P" n="61" break="no"/>matum fuerit. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e352">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Sextum; distinguendum esse multiplicem 
+      consen<lb ed="#P" n="63" break="no"/>sum in peccatum: Aliis enim est consensus expressus, 
+      <lb ed="#P" n="64"/>alius tacitus seu interpretativus. Et rursum alius 
+      de<lb ed="#P" n="65" break="no"/>liberatus, qui &amp; plenus &amp; perfectus dicitur; alius 
+      <lb ed="#P" n="66"/>surreptitius seu imperfectus. Interpretativum 
+      con<lb ed="#P" n="67" break="no"/>sensum dicimus, quando quis licet expresse non 
+      con<lb ed="#P" n="68" break="no"/>sentiat, non tamen impedit quod in sua est potestate, 
+      <lb ed="#P" n="69"/>quodque impedire tenetur; velut accidit in 
+      cogita<lb ed="#P" n="70" break="no"/>tionibus rerum illicitarum, quae cogitationes 
+      ani<lb ed="#P" n="71" break="no"/>mum afficiunt delectatione, &amp; alliciunt ad peccatum. 
+      <lb ed="#P" n="72"/>Tales enim cogitationes si non statim ut subierint 
+      <lb ed="#P" n="73"/>animum, repellantur, interpretative jam in eas 
+      con<lb ed="#P" n="74" break="no"/>sentit voluntas. Quod si ejusmodi cogitatio cum de¬ 
+      <!--0487.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>lectatione diu in animo retineatur, morosam efficit 
+      <lb ed="#P" n="76"/>delectationem, a mora temporis sic appellatam; quae 
+      <lb ed="#P" n="77"/>si est de materia mortali, mortalis censetur. Non 
+      <lb ed="#P" n="78"/>quod diuturnitas temporis per se mortalem efficiat 
+      <lb ed="#P" n="79"/>culpam quae alioquin venialis esset, sed quia mora 
+      <lb ed="#P" n="80"/>illa signum esse solet pleni perfectique consensus, si 
+      <lb ed="#P" n="81"/>non expressi saltem taciti. Quandiu tamen revera 
+      <lb ed="#P" n="82"/>consensus hujusmodi non est plenus, id est, neque 
+      <lb ed="#P" n="83"/>actu neque virtute deliberatus, sed tantum 
+      subre<lb ed="#P" n="84" break="no"/>ptitius, &amp; imperfectus, non alligat hominem 
+      mor<lb ed="#P" n="85" break="no"/>tali peccato. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e414">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Postremo notandum, dupliciter contingere, ut 
+      <lb ed="#P" n="87"/>quis delectetur in cogitatione rei malae; uno modo 
+      <lb ed="#P" n="88"/>si delectetur tantum de cogitatione &amp; non de re 
+      co<lb ed="#P" n="89" break="no"/>gitata, cujusmodi quidem delectatio non semper est 
+      <lb ed="#P" n="90"/>mala, imo bona &amp; laudabilis esse potest; ut si 
+      cogi<lb ed="#P" n="91" break="no"/>tatio rei malae &amp; illicitae assumatur ad finem aliquem 
+      <lb ed="#P" n="92"/>bonum, velut ad concionandum, ad docendum, 
+      <lb ed="#P" n="93"/>ad consulendum, vel ad aliud tale. Quomodo licite 
+      <lb ed="#P" n="94"/>&amp; honeste quis etiam delectatur in scientia vitiorum 
+      <lb ed="#P" n="95"/>&amp; peccatorum, quae virtutibus sunt opposita; est 
+      <lb ed="#P" n="96"/>enim eadem scientia contrariorum, &amp; ut recte dixit 
+      <lb ed="#P" n="97"/>philosophus initio libri primi de anima, omnis 
+      scien<lb ed="#P" n="98" break="no"/>tia bona est. Quod procul dubio pertinet etiam ad 
+      <lb ed="#P" n="99"/>scientiam malorum sive in natura, sive in moribus. 
+      <lb ed="#P" n="100"/>Unde &amp; Deo perfectam tribuimus scientiam non 
+      <lb ed="#P" n="101"/>bonorum tantummodos sed etiam malorum. Altero 
+      <lb ed="#P" n="102"/>modo si delectetur de re cogitata, quae delectatio 
+      <lb ed="#P" n="103"/>semper vitiosa est. At pro ratione consensus vel 
+      per<lb ed="#P" n="104" break="no"/>fecti vel imperfecti, nec non pro ratione materiae 
+      <lb ed="#P" n="105"/>circa quam versatur, nunc moralis, nunc venialis. 
+      <lb ed="#P" n="106"/>Quod si nullus adsit consensus, nullum erit 
+      pec<lb ed="#P" n="107" break="no"/>catum. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e466">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Si quaeras quomodo dignosci possit, an delectatio 
+      <lb ed="#P" n="109"/>sit de cogitatione, an de re cogitata, hoc enim 
+      qui<lb ed="#P" n="110" break="no"/>busdam videtur ad discernendum difficile. 
+      Respon<lb ed="#P" n="111" break="no"/>deo id cognosci posse hujusmodi signo. Si cogitatio 
+      <lb ed="#P" n="112"/>cum delectatione saepe alicui se ingerat, signum est 
+      <lb ed="#P" n="113"/>delectationem esse de re cogitata, quia frequentia 
+      <lb ed="#P" n="114"/>illa cogitationis ubi nulla est ejus neque necessitas 
+      <lb ed="#P" n="115"/>neque utilitas, oritur ex prava inclinatione corrupti 
+      <lb ed="#P" n="116"/>affectus erga rem ipsam quae cogitatur. Si vero talis 
+      <lb ed="#P" n="117"/>cogitatio non sit importuna, sed sequatur judicium 
+      <lb ed="#P" n="118"/>ac moderamen rationis, &amp; ad ejus imperium facile 
+      <lb ed="#P" n="119"/>absistat, signum est delectationem esse tantum de 
+      <lb ed="#P" n="120"/>ipsa cogitatione tanquam assumpta ad bonum 
+      ali<lb ed="#P" n="121" break="no"/>quem finem. Quanquam &amp; delectatio quae 
+      cogita<lb ed="#P" n="122" break="no"/>tionem &amp; non rem cogitatam pro objecto habet, 
+      <lb ed="#P" n="123"/>vitiosa esse potest, si ob malum finem assumatur; 
+      <lb ed="#P" n="124"/>ut contingit iis qui scientiam quaerunt non ut Deo 
+      <lb ed="#P" n="125"/>&amp; Ecclesiae serviant, sed ut opes, honores, gratiam 
+      <lb ed="#P" n="126"/>apud homines consequantur. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e512">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Illud demum adjicimus, non esse eum a peccato 
+      <lb ed="#P" n="128"/>immunem, qui principio quidem delectatur in ipsa 
+      <lb ed="#P" n="129"/>cogitatione quam habet de re mala propter bonum 
+      <lb ed="#P" n="130"/>finem, sed paulatim admittit in animum 
+      delectatio<lb ed="#P" n="131" break="no"/>nem de re cogitata. Proclivis est enim homini 
+      cor<lb ed="#P" n="132" break="no"/>rupto gradus a delectatione cogitationis ad 
+      delecta<lb ed="#P" n="133" break="no"/>tionem rei malae quam cogitat, praesertim in 
+      pecca<lb ed="#P" n="134" break="no"/>tis carnalibus. 
+    </p>
+            <p xml:id="bt67yj-p098519-d1e534">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Caeterum de toto hoc argumento plura qui volet, 
+      <lb ed="#P" n="136"/>legat S. Thomam ejusque commentatores in 1. 2. q. 
+      <lb ed="#P" n="137"/>31. articulo 5. &amp; q. 74. articulo 6. ad 3. &amp; articulo 
+      <lb ed="#P" n="138"/>8. per totum, &amp; q. 88. articulo 5. ad 2. Item in 2. 
+      <lb ed="#P" n="139"/>2. q. 154. articulo 4. &amp; 5. &amp; q 162. articulo 3. ad 
+      <lb ed="#P" n="140"/>1. &amp; q. 180. art. 7.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

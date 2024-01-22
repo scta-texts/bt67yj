@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="39"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p015080"><!-- l2d5c4" -->
+            <head xml:id="bt67yj-p015080-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p015080-Hd1e103" type="question-title">Quaedam in doctrina Magistri de angelis 
+      improbabilia</head>
+            <p xml:id="bt67yj-p015080-d1e106">
+      <!--0272.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>§. 4. Quaedam in doctrina Magistri de angelis 
+      <lb ed="#P" n="72"/>improbabilia.
+    </p>
+            <p xml:id="bt67yj-p015080-d1e117">
+               <lb ed="#P" n="73"/>QUoniam sunt apud Magistrum in hac 
+      distin<lb ed="#P" n="74" break="no"/>ctione, &amp; tribus praecedentibus quaedam de 
+      an<lb ed="#P" n="75" break="no"/>gelis, quae vel a plerisque scholasticis, vel ab 
+      omni<lb ed="#P" n="76" break="no"/>bus partim ut absurda, &amp; inopinabilia, partim ut 
+      <lb ed="#P" n="77"/>minus probabilia rejiciuntur; non abs re fuerit ut ea 
+      <lb ed="#P" n="78"/>ad numerum recensendo annotemus, quo certior, 
+      <lb ed="#P" n="79"/>aut certe probabilior nobis constet de statu 
+      angelo<lb ed="#P" n="80" break="no"/>rum doctrina. 
+    </p>
+            <p xml:id="bt67yj-p015080-d1e137">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Primum igitur est angelos non fuisse creatos cum 
+      <lb ed="#P" n="82"/>actu voluntatis, sed tantum intellectus, tametsi in 
+      <lb ed="#P" n="83"/>fine tertiae distinctionis tribuit eis aliquam Dei 
+      dile<lb ed="#P" n="84" break="no"/>ctionem, per quam tamen eos putat non meruisse, 
+      <lb ed="#P" n="85"/>neque liquet utrum hanc jis tribuat primo instanti 
+      <lb ed="#P" n="86"/>creationis, an post illud. 
+    </p>
+            <p xml:id="bt67yj-p015080-d1e156">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Secundum, angelos non fuisse creatos in gratia, 
+      <lb ed="#P" n="88"/>de quo jam ante satis egimus. 
+    </p>
+            <p xml:id="bt67yj-p015080-d1e165">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Tertium, angelos bonos non accepisse gratiam, 
+      ne<lb ed="#P" n="90" break="no"/>que ad Deum fuisse conversos ante confirmationem. 
+    </p>
+            <p xml:id="bt67yj-p015080-d1e174">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Quartum, angelos malos nunquam habuisse 
+      gra<lb ed="#P" n="92" break="no"/>tiam, &amp; nunquam fuisse ad Deum conversos, 
+    </p>
+            <p xml:id="bt67yj-p015080-d1e183">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Quintum, quod ex tertio sequitur, angelos bonos 
+      <lb ed="#P" n="94"/>non meruisse ante confirmationem, sed vel in ipsa 
+      <lb ed="#P" n="95"/>confirmatione per gratiam tunc appositam, vel, 
+      <lb ed="#P" n="96"/>quod Magistro magis placet, post confirmationem 
+      <lb ed="#P" n="97"/>per obsequia nobis exhibita. 
+    </p>
+            <p xml:id="bt67yj-p015080-d1e199">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Sextum, quod ex quarto sequitur, angelos malos 
+      <lb ed="#P" n="99"/>nunquam meruisse beatitudinem. 
+    </p>
+            <p xml:id="bt67yj-p015080-d1e208">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Septimum, angelis non opus fuisse gratia ad 
+      stan<lb ed="#P" n="101" break="no"/>dum in eo quod acceperant, propterea quod nihil 
+      <lb ed="#P" n="102"/>esset quod eos ad casum impelleret, ideóque 
+      pecca<lb ed="#P" n="103" break="no"/>tum a quibusdam fuisse, quia cum sine gratia stare 
+      <lb ed="#P" n="104"/>possent, non steterunt, quousque gratia 
+      opponere<lb ed="#P" n="105" break="no"/>tur, sicut perstiterunt alii donec eis gratia fuit 
+      appo<lb ed="#P" n="106" break="no"/>sita. Haec Magistri doctrina est §. F. hujus 
+      distinctio<lb ed="#P" n="107" break="no"/>nis, sed pugnans cum doctrina Augustini de 
+      cor<lb ed="#P" n="108" break="no"/>reptione &amp; gratia cap. 11. ubi angelis ad 
+      perseveran<lb ed="#P" n="109" break="no"/>dum in eo quod in conditione acceperant, diversum 
+      <lb ed="#P" n="110"/>quoddam a gratia creationis auxilium, necessarium 
+      <lb ed="#P" n="111"/>fuisse dicit non obstante eo quod nihil esset quo 
+      an<lb ed="#P" n="112" break="no"/>gelus ad casum impelleretur. Quamvis enim homini 
+      <lb ed="#P" n="113"/>lapso, &amp; per peccatum vitiato, jamque per Christi 
+      <lb ed="#P" n="114"/>gratiam qua justificatus est, ad persistendum in 
+      ju<lb ed="#P" n="115" break="no"/>stitia accepta propterea necessarium sit aliud 
+      quod<lb ed="#P" n="116" break="no"/>dam auxilium gratiae, propterea quod velut continuo 
+      <lb ed="#P" n="117"/>ad casum infirmitate carnis urgeatur, non tamen haec 
+      <lb ed="#P" n="118"/>sola causa est necessitatis gratiae ad perseverandum, 
+      <lb ed="#P" n="119"/>sed etiam &amp; praecipua haec est; quia tam angelica, 
+      <lb ed="#P" n="120"/>quam natura humana sic condita est a Deo, ut non 
+      <lb ed="#P" n="121"/>nisi ab eodem suo conditore sapientiam, justitiam, 
+      <lb ed="#P" n="122"/>&amp; beatitudinem consequi, &amp; in ea semel accepta 
+      <lb ed="#P" n="123"/>non nisi continuatis per eundem auxiliis manere, ac 
+      <lb ed="#P" n="124"/>perseverare possit; sicut aer non tantum ut primum 
+      il<lb ed="#P" n="125" break="no"/>luminetur, sed ut luminosus continenter permaneat, 
+      <lb ed="#P" n="126"/>a sole accipit. De qua re videre est August. Ench. 
+      <lb ed="#P" n="127"/>c. 106. &amp; aliis locis, quae commodius alibi a nobis 
+      <lb ed="#P" n="128"/>proferentur, ubi de statu primi hominis agetur, ut 
+      <lb ed="#P" n="129"/>ad distinct. 25. &amp; 29. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

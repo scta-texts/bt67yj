@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="133"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p051510"><!-- l2d15c4" -->
+            <head xml:id="bt67yj-p051510-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p051510-Hd1e103" type="question-title">Animalia noxia utrum initio creata: Item 
+      de herbis, spinis, tribulis</head>
+            <p xml:id="bt67yj-p051510-d1e106">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> §. 4. Animalia noxia utrum initio creata: Item 
+      <lb ed="#P" n="141"/>de herbis, spinis, tribulis. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e115">
+               <lb ed="#P" n="142"/>DE noxiis animalibus, id est, quae vel feri 
+      <lb ed="#P" n="143"/>tate, vel veneno, vel alio modo noxiasunt. 
+      <!--0367.xml-->
+      <pb ed="#P" n="134"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>hominibus, ut sunt leones, ursi, lupi, serpentes, gry¬ A 
+      <lb ed="#P" n="2"/>phes, accipitres, omnino sentiendum ea non post 
+      <lb ed="#P" n="3"/>nominis transgressionem, ut nonnulli senserunt, sed 
+      <lb ed="#P" n="4"/>una cum caeteris ejusdem generis animalibus quinta 
+      <lb ed="#P" n="5"/>&amp; sexta die creata esse. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e139">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Probatur id primo, quia sex diebus teste scriptura 
+      <lb ed="#P" n="7"/>Exod. 20. fecit Deus caelum &amp; terram &amp; mare &amp; 
+      om<lb ed="#P" n="8" break="no"/>nia quae in eis sunt. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e151">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Deinde, quia Genes. 2. cuncta animantia terrae 
+      <lb ed="#P" n="10"/>&amp; universa volatilia caeli ad Adam priusquam 
+      <lb ed="#P" n="11"/>peccasset, ut iis nomina imponeret, adducta 
+      le<lb ed="#P" n="12" break="no"/>guntur. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e164">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Tertio, quia Genes. 1. inter ea quae quinta die fa 
+      <lb ed="#P" n="14"/>cta legimus, cete nominantur, quae tamen 
+      voraci<lb ed="#P" n="15" break="no"/>tate sua perinde ut terrestria quaedam, hominibus 
+      <lb ed="#P" n="16"/>noxia sunt. Exemplo esse potest piscis ille immanis, 
+      <lb ed="#P" n="17"/>qui Tob. 6. scribitur exivisse e flumine Tigri ad 
+      de<lb ed="#P" n="18" break="no"/>vorandum Tobiam juniorem. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e182">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Quarto, quia serpentem, quod est animal 
+      vene<lb ed="#P" n="20" break="no"/>nosum &amp; homini inimicum, antequam homo 
+      pec<lb ed="#P" n="21" break="no"/>caret, extitisse constat ex historia Gen. 3. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e193">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Caeterum scire oportet eadem haec animalia non 
+      <lb ed="#P" n="23"/>statim ab initio noxia aut infesta homini fuisse, sed 
+      <lb ed="#P" n="24"/>ex eo demum tempore quo per inobedientiam 
+      ho<lb ed="#P" n="25" break="no"/>mo recessit a Deo. Peccati enim merito factum est 
+      <lb ed="#P" n="26"/>ut homo dominium quod in bestias acceperat, 
+      ma<lb ed="#P" n="27" break="no"/>gna ex parte amiserit. Unde sicut nunc contingit 
+      in<lb ed="#P" n="28" break="no"/>terdum etiam mansueta &amp; domestica animalia 
+      effe<lb ed="#P" n="29" break="no"/>rari in homines, ita tunc quaedam ex universo 
+      ani<lb ed="#P" n="30" break="no"/>malium genere, statim ut homo peccavit in Deum, 
+      <lb ed="#P" n="31"/>perpetuam contra hominem feritatem &amp; 
+      inimici<lb ed="#P" n="32" break="no"/>tiam induerunt. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e222">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Quod autem ante peccatum nullum animal 
+      ho<lb ed="#P" n="34" break="no"/>mini noxium fuerit, primum ex eo ostenditur quod 
+      <lb ed="#P" n="35"/>Adam adductis ad se cunctis animalibus, nullum 
+      <lb ed="#P" n="36"/>eorum tanquam noxium aut inimicum refugerit, 
+      <lb ed="#P" n="37"/>sed magna securitate singulis coram imposuerit 
+      <lb ed="#P" n="38"/>propria nomina. Neque enim illa securitas 
+      igno<lb ed="#P" n="39" break="no"/>rantiae potuit ascribi, ut in pueris, cum ipse 
+      natu<lb ed="#P" n="40" break="no"/>ras singulorum perfecte nosset, quod illa nominum 
+      <lb ed="#P" n="41"/>apta impositio satis arguit. Item ex eo quod Eva ad 
+      <lb ed="#P" n="42"/>serpentis aspectum non expaverit, sed absque 
+      hor<lb ed="#P" n="43" break="no"/>rore etiam collocuta cum eo fuerit. Tertio, quod 
+      <lb ed="#P" n="44"/>demum post hominis peccatum inimicitiae jussu 
+      di<lb ed="#P" n="45" break="no"/>vino constitutae sint inter serpentem &amp; hominem. 
+      <lb ed="#P" n="46"/>Quod similiter de aliis noxiis animalibus 
+      intelli<lb ed="#P" n="47" break="no"/>gendum est, tametsi gradu impari ac modo 
+      dissi<lb ed="#P" n="48" break="no"/>mili. Jam tum enim ex parte fieri cepit illud quod 
+      <lb ed="#P" n="49"/>Sapiens aliquando futurum dicit capit. quinto cum 
+      <lb ed="#P" n="50"/>ait: Pugnabit cum eo orbis terrarum contra insensatos. 
+      <lb ed="#P" n="51"/>Significant enim ea verba creaturas alioqui innoxias 
+      <lb ed="#P" n="52"/>velut zelo quodam creatoris sui commotas 
+      insurge<lb ed="#P" n="53" break="no"/>re contra peccatores, tanquam Dei ac Domini sui 
+      <lb ed="#P" n="54"/>inimicos. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e274">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Hanc de noxiis animalibus doctrinam tradit 
+      san<lb ed="#P" n="56" break="no"/>ctus Augustinus libro tertio de Genes. ad literam 
+      <lb ed="#P" n="57"/>capit. decimoquinto, tractatu 1. in Joannem, &amp; 
+      li<lb ed="#P" n="58" break="no"/>pro primo contra Julianum capite sexto, ubi etiam 
+      <lb ed="#P" n="59"/>Joan. Chrysostomi verba pro hac sententia 
+      com<lb ed="#P" n="60" break="no"/>memorat. Idem praeterea lib. 8. de Gen. ad literam 
+      <lb ed="#P" n="61"/>capit. 18. similia tradit de noxiis herbis. Est enim 
+      <lb ed="#P" n="62"/>eadem prorsus ratio. Atque hoc sensu scriptum 
+      vi<lb ed="#P" n="63" break="no"/>detur ab Hilario in expositione Psalmi 68. venena 
+      <lb ed="#P" n="64"/>&amp; similia nocumenta ex hominum nequitiis habere 
+      <lb ed="#P" n="65"/>initium. Consentiunt denique plerique omnes 
+      scho<lb ed="#P" n="66" break="no"/>lastici doctores. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e306">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Quod autem de noxiis animalibus dictum est, 
+      <lb ed="#P" n="68"/>idem quoque de immundis dicendum, ut sunt 
+      por<lb ed="#P" n="69" break="no"/>cus, hircus, canis, &amp;c. Nihil enim homini fuisset 
+      <lb ed="#P" n="70"/>immundum, sic ut eum quoquo modo offenderet, 
+      <lb ed="#P" n="71"/>si non peccasset. 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e322">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Quae cum ita sint, improbabile est quod dicit 
+      <lb ed="#P" n="73"/>sanctus Basilius homilia quinta Hexameron, rosas 
+      <lb ed="#P" n="74"/>initio factas fuisse sine spinis, postea vero quam 
+      <!--0367.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>homo peccavit, spinas eis adnatas fuisse; 
+      Quod<lb ed="#P" n="76" break="no"/>que <name xml:id="bt67yj-p051510-Nd1e341">Alcuinus</name> referente <ref xml:id="bt67yj-p051510-Rd1e343">sancto Thoma secunda 
+      se<lb ed="#P" n="77" break="no"/>cundae quaest. 164. articul. 2. ad primum</ref>, dicit 
+      spi<lb ed="#P" n="78" break="no"/>nas &amp; tribulos omnino e terra prodituros non 
+      fuis<lb ed="#P" n="79" break="no"/>se, nisi homo peccasset. Nam nec Basilium 
+      Ambro<lb ed="#P" n="80" break="no"/>sius in ea sententia secutus est, quamvis pleraque 
+      <lb ed="#P" n="81"/>illius imitetur. <name xml:id="bt67yj-p051510-Nd1e357">Alcuino</name> autem Augustinum S. 
+      Tho<lb ed="#P" n="82" break="no"/>mas anteponit ita scribens: Spnas &amp; tribulos terra 
+      <lb ed="#P" n="83"/>germinasset, si homo non peccasset, in cibum 
+      ani<lb ed="#P" n="84" break="no"/>malium, non autem in hominis poenam; quia 
+      scili<lb ed="#P" n="85" break="no"/>cet propter eorum exortum nullus labor aut punitio 
+      ho<lb ed="#P" n="86" break="no"/>mini operanti in terra accideret, ut Augustinus 
+      di<lb ed="#P" n="87" break="no"/>cit super Gen. ad literam; quamvis Alcuinus dicat 
+      <lb ed="#P" n="88"/>quod ante peccatum terra gmnino spinas &amp; tribulos 
+      <lb ed="#P" n="89"/>non germinasset. Sed primum est melius. Sic ille. 
+      <lb ed="#P" n="90"/>Confirmatur autem hoc ex ipsis scripturae verbis. 
+      <lb ed="#P" n="91"/>Non enim simpliciter dictum est ad Adam post 
+      pec<lb ed="#P" n="92" break="no"/>catum: Spinas &amp; tribulos terra germinabit, sed 
+      ad<lb ed="#P" n="93" break="no"/>ditum est, tibi, id est in poenam tuam legitur &amp; 
+      <lb ed="#P" n="94"/>homine non peccante spinas &amp; tribulos terra 
+      ger<lb ed="#P" n="95" break="no"/>minasset, non autem in poenam hominis, sed ad 
+      <lb ed="#P" n="96"/>usum animalium atque etiam ipsius hominis, qui 
+      <lb ed="#P" n="97"/>omnibus creaturis sibi subjectis illis etiam quae nunc 
+      <lb ed="#P" n="98"/>noxia sunt, oportune uti novisset, multo magis ac 
+      <lb ed="#P" n="99"/>certius quam nunc iisdem utitur vel medicinae causa 
+      <lb ed="#P" n="100"/>vel aliis modis 
+    </p>
+            <p xml:id="bt67yj-p051510-d1e401">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Est quidem etiam apud Augustinum lib. I. de 
+      Gen<lb ed="#P" n="102" break="no"/>contra Manichaeos cap 13. ea sententia quod spinae 
+      <lb ed="#P" n="103"/>&amp; herbae venenosae sint creatae ad poenam propter 
+      <lb ed="#P" n="104"/>peccatum. Sed hoc vel ita intellige, propter 
+      pecca<lb ed="#P" n="105" break="no"/>tum factae sunt homini poenales, &amp; maxime quae 
+      <lb ed="#P" n="106"/>prius innoxiae erant, quomodo dicitur 
+      Ecclesiasti<lb ed="#P" n="107" break="no"/>ci 39. quod ignis, grando, bestiarum dentes &amp; scorpit 
+      <lb ed="#P" n="108"/>&amp; serpentes creati sunt ad vindictam. Item omnia per 
+      <lb ed="#P" n="109"/>quae Deus peccata hominum vindicat, creata sunt 
+      <lb ed="#P" n="110"/>ad vindictam tanquam ad finem ad quem Deus illis 
+      <lb ed="#P" n="111"/>uti ab aeterno voluit. Si tamen homo non peccasset, 
+      <lb ed="#P" n="112"/>Deus illa non fecisset ad hunc usum, id est, 
+      vindi<lb ed="#P" n="113" break="no"/>ctam, sed ad alios, ut patet de igne; vel ab authore 
+      <lb ed="#P" n="114"/>retractatum scias in scriptis ejus posterioribus quae 
+      <lb ed="#P" n="115"/>supra citavimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

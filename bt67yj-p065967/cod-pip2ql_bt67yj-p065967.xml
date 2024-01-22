@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="171"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p065967"><!-- l2d19c7" -->
+            <head xml:id="bt67yj-p065967-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p065967-Hd1e103" type="question-title">An praedicta virtus ligni vitae fuerit 
+      <pc type="indent"/> naturalis</head>
+            <p xml:id="bt67yj-p065967-d1e108">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> §. 7. An praedicta virtus ligni vitae fuerit 
+      <lb ed="#P" n="27"/>
+               <pc type="indent"/> naturalis ?
+    </p>
+            <p xml:id="bt67yj-p065967-d1e119">
+               <lb ed="#P" n="28"/>DE ligno vitae quaerunt doctores, utrum ea 
+      vir<lb ed="#P" n="29" break="no"/>tus qua praestare poterat homini 
+      immortalita<lb ed="#P" n="30" break="no"/>tem, naturalis ei fuerit, an supernaturalis. 
+    </p>
+            <p xml:id="bt67yj-p065967-d1e128">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Posteriori quaestionis parti favere videtur August. 
+      <lb ed="#P" n="32"/>Nam lib. 8. de Gen. ad lit. cap. 5. virtutem illius 
+      ar<lb ed="#P" n="33" break="no"/>boris declarat &amp; credibilem facit duobus exemplis; 
+      <lb ed="#P" n="34"/>altero subcinericii panis, in cujus cibi fortitudine 
+      <lb ed="#P" n="35"/>ambulavit Elias 40. diebus &amp; noctibus, 3. Reg. 19. 
+      <lb ed="#P" n="36"/>altero farinae &amp; olei non deficientis, 3. Reg. 17. In 
+      <lb ed="#P" n="37"/>his autem constat operatam fuisse virtutem divinam 
+      <lb ed="#P" n="38"/>&amp; supernaturalem. Idem August. ejusdem operis 
+      <lb ed="#P" n="39"/>libro undecimo cap. 40. dicit Adam postquam 
+      pec<lb ed="#P" n="40" break="no"/>caverat, separari debuisse a ligno vitae, sive quod ex 
+      <lb ed="#P" n="41"/>ipso subsisteret foelix ille status corporis ex re 
+      visibi<lb ed="#P" n="42" break="no"/>li, virtute invisibili, sive quod in eo esset 
+      sacra<lb ed="#P" n="43" break="no"/>mentum visibile invisibilis sapientiae. In quibus 
+      ver<lb ed="#P" n="44" break="no"/>bis non significat Aug. se dubitare, fueritne virtus 
+      <lb ed="#P" n="45"/>illa invisibilis, id est, corporis visibilis naturam 
+      ex<lb ed="#P" n="46" break="no"/>cedens, quomodo quidam hunc locum 
+      intellexe<lb ed="#P" n="47" break="no"/>runt3 sed potius duas causas commemorat, propter 
+      <lb ed="#P" n="48"/>quas oportuerit hominem peccatorem a ligno 
+      vi<lb ed="#P" n="49" break="no"/>tae separari. Quanquam hoc quod dicit, in ligno 
+      <lb ed="#P" n="50"/>fuisse sacramentum visibile invisibilis sapientiae, 
+      <lb ed="#P" n="51"/>non valet ad probandum virtutem supernaturalem. 
+      <lb ed="#P" n="52"/>Sacramentum enim dicitur non propter operationem 
+      <lb ed="#P" n="53"/>supernaturalem, sed tantum propter 
+      significatio<lb ed="#P" n="54" break="no"/>nem rei sacrae, sicut serpens aeneus &amp; alia multa 
+      ge<lb ed="#P" n="55" break="no"/>nerali nomine sacramenta vocantur. Alius 
+      Augu<lb ed="#P" n="56" break="no"/>stini locus est libro decimotertio de civitate capite 
+      <lb ed="#P" n="57"/>20. ubi dicit quod status immortalitatis primis 
+      ho<lb ed="#P" n="58" break="no"/>minibus de ligno vitae mirabili Dei gratia 
+      praestaba<lb ed="#P" n="59" break="no"/>tur. Accedit &amp; V. Bedae sententia super Genes. 
+      affir<lb ed="#P" n="60" break="no"/>mantis lignum vitae sic dictum fuisse, quia divinitus 
+      <lb ed="#P" n="61"/>acceperat, ut qui ex eo manducaret, corpus ejus 
+      sta<lb ed="#P" n="62" break="no"/>bili sanitate firmaretur. Hanc autem sententiam 
+      aper<lb ed="#P" n="63" break="no"/>tissime tradit Bonaventura scribens in praesentem dist. 
+      <lb ed="#P" n="64"/>ubi inter alia probat eam hoc argumento, quia cum 
+      <lb ed="#P" n="65"/>lignum illud per se fuerit corruptibile, non potuit in 
+      <lb ed="#P" n="66"/>se naturalem habere virtutem tribuendi homini 
+      im<lb ed="#P" n="67" break="no"/>mortalitatem. Deinde in haec verba concludit: 
+      Er<lb ed="#P" n="68" break="no"/>go sicut sacramenta nostra non creant gratiam, sed 
+      di<lb ed="#P" n="69" break="no"/>vina virtus eis assistens in eorum legitima 
+      perceptio<lb ed="#P" n="70" break="no"/>ne gratiam infundit, ita fructus illius arboris non 
+      <lb ed="#P" n="71"/>dabat immortalitatem, sed divina virtus, cum fru¬ 
+      <!--0404.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ctus ille comedebatur, immortalitatem homini 
+      largie<lb ed="#P" n="73" break="no"/>batur. 
+    </p>
+            <p xml:id="bt67yj-p065967-d1e231">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Contra vero sunt alii authores qui naturalem fuisse 
+      <lb ed="#P" n="75"/>eam virtutem doceant, ut Strabus in Genes. &amp; Hugo 
+      <lb ed="#P" n="76"/>Victorinus in quaest. super Gen. Atque hanc fuisse S. 
+      <lb ed="#P" n="77"/>Thom. sent. plane colligitur ex iis quae scribit in f. p. 
+      <lb ed="#P" n="78"/>qu. 97. art. ult. Quo loco probat lignum vitae non 
+      <lb ed="#P" n="79"/>potuisse corpori humano praestare aliquam 
+      disposi<lb ed="#P" n="80" break="no"/>tionem immortalitatis, qua fieret ut nunquam 
+      dissol<lb ed="#P" n="81" break="no"/>vi posset, propterea quod virtus cujuscunque 
+      cor<lb ed="#P" n="82" break="no"/>poris sit finita. Quae probatio ejus invalida prorsus 
+      <lb ed="#P" n="83"/>esset, si virtus ligni vitae dicatur fuisse supernaturalis. 
+      <lb ed="#P" n="84"/>Supponit ergo eam naturalem fuisse. Huc quoque 
+      <lb ed="#P" n="85"/>tendit eorum omnium opinio, qui existimant lignum 
+      <lb ed="#P" n="86"/>vitae sua illa virtute qua poterat homini integro 
+      prae<lb ed="#P" n="87" break="no"/>stare vitam immortalem; potuisse etiam homini 
+      <lb ed="#P" n="88"/>jam lapso prodesse saltem ad vitam in tempus valde 
+      <lb ed="#P" n="89"/>longum producendam. Hoc enim sine ratione 
+      dice<lb ed="#P" n="90" break="no"/>ret, si non esset ea virtus illi arbori naturalis. Nam 
+      <lb ed="#P" n="91"/>homini peccatori virtus illa divina &amp; supernaturalis 
+      <lb ed="#P" n="92"/>non adfuisset, sicut nec adest nunc iis, qui ad 
+      sacra<lb ed="#P" n="93" break="no"/>menta indigni accedunt. 
+    </p>
+            <p xml:id="bt67yj-p065967-d1e279">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Haec igitur sententia nobis probabilior apparet. 
+      <lb ed="#P" n="95"/>eo maxime quod virtus supernaturalis non sit in 
+      <lb ed="#P" n="96"/>corpore naturali sine necessitate vel manifesta 
+      au<lb ed="#P" n="97" break="no"/>thoritate ponenda. Nam ad argumentum 
+      Bona<lb ed="#P" n="98" break="no"/>venturae facile respondetur, nihil prohibere quo 
+      mi<lb ed="#P" n="99" break="no"/>nus effectui corporali &amp; nonnisi successione quadam 
+      <lb ed="#P" n="100"/>perpetuo, qualis est vita corporalis in statu 
+      inno<lb ed="#P" n="101" break="no"/>centiae, causam tribuamus naturalem; praesertim 
+      <lb ed="#P" n="102"/>cum ipsa causa, id est, arbor vitae, licet non in 
+      in<lb ed="#P" n="103" break="no"/>dividuo, secundum speciem tamen perpetua esset 
+      <lb ed="#P" n="104"/>futura, quod sufficiebat ad usum ejus perpetuum. 
+      <lb ed="#P" n="105"/>Quam solutionem suggerit etiam S. Thomas loco 
+      <lb ed="#P" n="106"/>paulo ante citato. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="185"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p071364"><!-- l2d21c7" -->
+            <head xml:id="bt67yj-p071364-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p071364-Hd1e103" type="question-title">An primum hominis peccatum potuerit 
+      esse veniale</head>
+            <p xml:id="bt67yj-p071364-d1e106">
+               <lb ed="#P" n="68"/>§. 7. An primum hominis peccatum potuerit 
+      <lb ed="#P" n="69"/>esse veniale? 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e113">
+               <lb ed="#P" n="70"/>ETsi inter Theologos convenit, primum 
+      mulie<lb ed="#P" n="71" break="no"/>Eris peccatum, ut viri, mortale fuisse; non inuti¬ 
+      <!--0418.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>liter tamen quaeritur utrum veniale esse potuerit, &amp; 
+      <lb ed="#P" n="73"/>omnino, utrum in statu innocentiae potuerit homo 
+      <lb ed="#P" n="74"/>venialiter peccare. Et quidem in eo quoque omnes 
+      <lb ed="#P" n="75"/>consentiunt, non potuisse hominem in illo statu 
+      pec<lb ed="#P" n="76" break="no"/>care venialiter eo peccato quod fit ex passione vel 
+      <lb ed="#P" n="77"/>surreptione. Cujus ratio est, quia sensualitas in eo 
+      <lb ed="#P" n="78"/>statu ita perfecte erat rationi subjecta, ut nec 
+      per<lb ed="#P" n="79" break="no"/>verteret ejus imperium, nec ei resisteret. Ipsa 
+      quo<lb ed="#P" n="80" break="no"/>que ratio sic ordinata, ut non exiret in actum 
+      ali<lb ed="#P" n="81" break="no"/>quem nisi plene deliberatum. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e146">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Sed dubitatio est de tertio quodam genere 
+      venia<lb ed="#P" n="83" break="no"/>lis peccati, quod nimirum ex suo genere veniale est 
+      <lb ed="#P" n="84"/>ob imperfectionem actus vel levitatem materiae, 
+      e<lb ed="#P" n="85" break="no"/>tiamsi plena deliberatione committatur, cujusmodi 
+      <lb ed="#P" n="86"/>sunt, risus immoderatus, verbum otiosum, 
+      menda<lb ed="#P" n="87" break="no"/>cium jocosum vel officiosum. De hoc genere peccati 
+      <lb ed="#P" n="88"/>venialis dicit Scotus super hac distinctione quaest. 1. 
+      <lb ed="#P" n="89"/>se non videre, cur negari debeat in statu 
+      inocen<lb ed="#P" n="90" break="no"/>tiae, non potuisse committi. Si enim, inquit, donum 
+      <lb ed="#P" n="91"/>imnocentiae vel justitiae originalis non obstabat, quo 
+      mi<lb ed="#P" n="92" break="no"/>nus potuerit homo peccare mortaliter, multo minus 
+      ob<lb ed="#P" n="93" break="no"/>stitisset peccato veniali. Nam hujus admissi non arguit 
+      <lb ed="#P" n="94"/>inordinatam partem superiorem vel inferiorem 
+      homi<lb ed="#P" n="95" break="no"/>nis, nec ullam aliam ponit inordinationem, quam 
+      <lb ed="#P" n="96"/>quae in ipso actu venialis peccati consistit. Eadem est 
+      <lb ed="#P" n="97"/>opinio Altisiodorensis lib. 2. suae summae tract. 10. 
+      <lb ed="#P" n="98"/>cap. 3. quaest. 4. Dicit enim quod ex consensu 
+      de<lb ed="#P" n="99" break="no"/>liberato potuisset homo diligere uxorem vel filios 
+      <lb ed="#P" n="100"/>plus debito, sed tamen citra Deum; non autem ex 
+      <lb ed="#P" n="101"/>motu praeter voluntatem insurgente, quia non erat 
+      <lb ed="#P" n="102"/>ineo fomes. Idem sentit Franciscus Maironis in hanc 
+      <lb ed="#P" n="103"/>distinctionem. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e199">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Pro hac sententia adferri solet illud Aug. l. 14. de 
+      <lb ed="#P" n="105"/>civit. c. 11. quod homo inexpertus divinae 
+      severita<lb ed="#P" n="106" break="no"/>tis in eo falli potuit, ut veniale crederet esse 
+      commis<lb ed="#P" n="107" break="no"/>sum. Potest &amp; illud adferri, quod dicit ejusdem l. c. 
+      <lb ed="#P" n="108"/>10. primos homines fuisse permansuros in statu suae 
+      <lb ed="#P" n="109"/>foelicitatis, si nec ipsi nec quisquam ex eorum stirpe 
+      <lb ed="#P" n="110"/>iniquitatem committeret quae damnationem 
+      recipe<lb ed="#P" n="111" break="no"/>ret. Hoc enim ita dici videtur quasi potuerint aliquam 
+      <lb ed="#P" n="112"/>iniquitatem committere, quae non reciperet 
+      damna<lb ed="#P" n="113" break="no"/>tionem, id est, quae tantum venialis esset. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e225">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> At vero diversam sententiam multo plures iique 
+      <lb ed="#P" n="115"/>graviores Theologi tradiderunt, ut Alexander in 
+      <lb ed="#P" n="116"/>summa p. 2. q. 104. num. 6. S. Thom. 1. 2. q. 89. 
+      <lb ed="#P" n="117"/>art. 3. &amp; in praesentem dist. Item <name xml:id="bt67yj-p071364-Nd1e238">Albertus</name>, <name xml:id="bt67yj-p071364-Nd1e240">Aegydius 
+      <lb ed="#P" n="118"/>Rom.</name>
+               <name xml:id="bt67yj-p071364-Nd1e245">Bonaventura</name>, <name xml:id="bt67yj-p071364-Nd1e247">Richardus</name>, <name xml:id="bt67yj-p071364-Nd1e249">Durandus</name> &amp; alii 
+      <lb ed="#P" n="119"/>scribentes in hanc dist. Et quidem <name xml:id="bt67yj-p071364-Nd1e254">Bonaventura</name> 
+      com<lb ed="#P" n="120" break="no"/>munem hanc opinionem vocat, similiter &amp; S. Thom. 
+      <lb ed="#P" n="121"/>in dumma. His omnibus placet nullum omnino 
+      venia<lb ed="#P" n="122" break="no"/>le peccatum in statu innocentiae committi potuisse. 
+      <lb ed="#P" n="123"/>Ex quo consequens fit primum peccatum non 
+      potuis<lb ed="#P" n="124" break="no"/>se esse veniale, siquidem propter peccatum veniale 
+      <lb ed="#P" n="125"/>non excidisset homo ab illo statu; quia non excidisset 
+      <lb ed="#P" n="126"/>a gratia, atque ita si primum fuisset, salvo 
+      innocen<lb ed="#P" n="127" break="no"/>tiae statu, commissum fuisset. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e274">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Haec sententia probatur. Primo, quia venialia etiam 
+      <lb ed="#P" n="129"/>quae sunt tertii generis, non committuntur nisi ex 
+      ali<lb ed="#P" n="130" break="no"/>quo inordinato affectu animi ad res creatas. Ideo 
+      e<lb ed="#P" n="131" break="no"/>nim nunc etiam a sanctis ejusmodi peccata 
+      commit<lb ed="#P" n="132" break="no"/>tuntur interdum, quia ratio non est in illis perfecte 
+      <lb ed="#P" n="133"/>ordinata, idque propter vitium concupiscentiae. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e292">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Secundo, quia statu illi repugnabat poena; ergo &amp; 
+      <lb ed="#P" n="135"/>culpa etiam venialis. Quae sequela tripliciter 
+      proba<lb ed="#P" n="136" break="no"/>tur, tum quia omnis culpa poenam meretur eamque 
+      <lb ed="#P" n="137"/>secum traht. Quare data culpa, datur &amp; poena in illo 
+      <lb ed="#P" n="138"/>statu; tum quia debebat homo de peccato commisso 
+      <lb ed="#P" n="139"/>dolere; tum denique quia culpa majus est malum 
+      <lb ed="#P" n="140"/>quam poena quaecunque. Si ergo poena illi statui 
+      re<lb ed="#P" n="141" break="no"/>pugnabat, multo magis culpa¬ 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e314">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Tertio, idem probatur ex aliis effectibus peccati 
+      <lb ed="#P" n="143"/>etiam venialis. Minuit enim fervorem charitatis, 
+      <lb ed="#P" n="144"/>gignit difficultatem bene agendi, saltem 
+      multipli<lb ed="#P" n="145" break="no"/>catum relinquit post se dolorem &amp; morsum con¬ 
+      <!--0419.xml-->
+      <pb ed="#P" n="186"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>scientiae, mentem aliquo modo obfuscat, imo sine P 
+      <lb ed="#P" n="2"/>aliquo judicii practici errore eligi &amp; committi non 
+      <lb ed="#P" n="3"/>potest. Quae omnia aliena sunt ab integritate &amp; 
+      per<lb ed="#P" n="4" break="no"/>fectione illius status. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e342">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Quarto, tanta corporis sanitas fuisset in illo statu, 
+      <lb ed="#P" n="6"/>ut nullo vel levissimo morbo affici posset; ergo &amp; 
+      <lb ed="#P" n="7"/>animi tanta rectitudo, quae ne minimam quidem 
+      <lb ed="#P" n="8"/>culpae obliquitatem admitteret. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e356">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Postremo, non obscure sententiam hanc tradit 
+      <lb ed="#P" n="10"/>
+               <ref xml:id="bt67yj-p071364-Rd1e364">Aug. I. 14. de civit. c. 10</ref>. Disserens enim de primo 
+      sta<lb ed="#P" n="11" break="no"/>tu hominis; Nihil erat, inquit, quod carnem 
+      animum<lb ed="#P" n="12" break="no"/>ve hominis feliciter viventis offenderet: erat devitatio 
+      <lb ed="#P" n="13"/>tranquilla peccati, qua manente nullum omnino 
+      aliun<lb ed="#P" n="14" break="no"/>de malum quod contristaret, irruebat. An forte 
+      cupie<lb ed="#P" n="15" break="no"/>bant prohibitum lignum ad vescendum contingere, sed 
+      <lb ed="#P" n="16"/>mori metuebant? ac per hoc &amp; cupiditas &amp; motus jam 
+      <lb ed="#P" n="17"/>tunc illos homines etiam in illo perturbabat loco? 
+      Ab<lb ed="#P" n="18" break="no"/>sit ut hoc existimemus fuisse, ubi nullum erat 
+      omni<lb ed="#P" n="19" break="no"/>no peccatum: &amp; cap. 26. Summa erat in carne 
+      sani<lb ed="#P" n="20" break="no"/>tas, in animo tota tranquillitas. Sicut in paradise 
+      <lb ed="#P" n="21"/>nullus actus aut frigus, sic in ejus habitatore nulla 
+      <lb ed="#P" n="22"/>ex cupiditate vel timore accidebat bonae voluntatis 
+      <lb ed="#P" n="23"/>offensio. Nihil omnine triste, nihil erat inaniter 
+      la<lb ed="#P" n="24" break="no"/>tum, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e398">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Cum igitur haec sententia sit quam maxime 
+      proba<lb ed="#P" n="26" break="no"/>bilis, breviter ad argumenta prioris sententiae 
+      res<lb ed="#P" n="27" break="no"/>pondendum est. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e409">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Et quidem ad argumentum quod velut 
+      praeci<lb ed="#P" n="29" break="no"/>puum ex <name xml:id="bt67yj-p071364-Nd1e417">Scoto</name> adduximus, ita respondet 
+      Bona<lb ed="#P" n="30" break="no"/>ventura, ut dicat ea quae sunt ex genere suo 
+      venfa<lb ed="#P" n="31" break="no"/>lia, ut verbum ociosum &amp; similia, futura fuisse 
+      ho<lb ed="#P" n="32" break="no"/>mini integro mortalia, propter status ejus 
+      perfectio<lb ed="#P" n="33" break="no"/>nem. Unde, inquit, quod dicitur communiter, 
+      ali<lb ed="#P" n="34" break="no"/>quod esse peccatum ex genere suo veniale; hoc 
+      intel<lb ed="#P" n="35" break="no"/>ligendum est respectu natura lapsae. Sed hanc 
+      solu<lb ed="#P" n="36" break="no"/>tionem rejicit S. Thom. loco supra citato: Quia, 
+      in<lb ed="#P" n="37" break="no"/>quit, dignitas personae est quidem circunstantia, a 
+      <lb ed="#P" n="38"/>gravans peccatum, non tamen transfert in aliam 
+      <lb ed="#P" n="39"/>speciem, &amp;c. Unde id quod est de se veniale, non 
+      <lb ed="#P" n="40"/>potuit transferri in mortale propter dignitatem 
+      pri<lb ed="#P" n="41" break="no"/>mi status. Cum quo proinde respondendum est, 
+      <lb ed="#P" n="42"/>ut in prima ratione jam indicavimus, omne 
+      venia<lb ed="#P" n="43" break="no"/>le etiam quod ex genere suo tale est, contingere 
+      pro<lb ed="#P" n="44" break="no"/>pter aliquem ordinis defectum, scilicet ex eo quod 
+      <lb ed="#P" n="45"/>inferius non continetur firmiter sub superiori, 
+      quem<lb ed="#P" n="46" break="no"/>admodum ibidem S. Thom. docte declarat. In statu 
+      <lb ed="#P" n="47"/>autem innocentiae erat infallibilis ordinis firmitas, 
+      <lb ed="#P" n="48"/>ut semper inferius contineretur sub superiori, 
+      quam<lb ed="#P" n="49" break="no"/>diu quod in homine supremum erat, contineretur 
+      <lb ed="#P" n="50"/>sub Deo, quemadmodum docet <ref xml:id="bt67yj-p071364-Rd1e465">Aug. lib. 14. de 
+      <lb ed="#P" n="51"/>Civit. cap. 13.</ref>
+            </p>
+            <p xml:id="bt67yj-p071364-d1e471">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Ad id quod priori loco ex Augustino objicitur, 
+      <lb ed="#P" n="53"/>respondet ibidem sanctus Thomas, veniale eo loco 
+      <lb ed="#P" n="54"/>non dici, quomodo nunc de veniali loquimur, 
+      di<lb ed="#P" n="55" break="no"/>stinguentes illud a mortali, sed id cujus facile 
+      po<lb ed="#P" n="56" break="no"/>test impetrari venia. Sic enim veniale in scriptis 
+      pa<lb ed="#P" n="57" break="no"/>trum interdum accipitur. Unde Greg. l. 33. 
+      mora<lb ed="#P" n="58" break="no"/>lium cap. 10. loquens contra praesumptionem 
+      miseri<lb ed="#P" n="59" break="no"/>cordiae sic ait: Nemo dicat, quiae pius est, venialiter 
+      <lb ed="#P" n="60"/>pecco, id est, facile veniam obtinebo peccati mei. 
+      <lb ed="#P" n="61"/>Caeterum vera solutio petenda est ex ipso August. 
+      <lb ed="#P" n="62"/>qui cap. 13. ejusdem libri de primis homnibus Adam 
+      <lb ed="#P" n="63"/>"&amp; Eva sic loquitur: Si voluntas in amore 
+      superio<lb ed="#P" n="64" break="no"/>"ris immutabilis boni, a quo illustrabatur ut videret, 
+      <lb ed="#P" n="65"/>„&amp; accendebatur ut amaret, stabilis permaneret, 
+      <lb ed="#P" n="66"/>„non inde ad sibi placendum averteretur, &amp; ex hoc 
+      <lb ed="#P" n="67"/>intenebresceret &amp; frigesceret, ut vel illa verum 
+      cre<lb ed="#P" n="68" break="no"/>deret dixisse serpentem, vel ille Dei mandato 
+      uxo<lb ed="#P" n="69" break="no"/>ris praeponeret voluntatem, putaretque se 
+      veniali<lb ed="#P" n="70" break="no"/>ter transgressorem esse praecepti, si vitae suae sociam 
+      <lb ed="#P" n="71"/>non desereret etiam in societate peccati. Ex 
+      qui<lb ed="#P" n="72" break="no"/>bus verbis intelligitur quod secundum S. 
+      Augusti<lb ed="#P" n="73" break="no"/>num jam ante peccaverat homo sibi nimium 
+      pla<lb ed="#P" n="74" break="no"/>cendo, quam ita fuit obtenebratus merito illius 
+      <!--0419.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>peccati, ut veniale putaret si ad obsequendum uxori 
+      <lb ed="#P" n="76"/>transgrederetur praeceptum Dei. Quod etiam ex eo 
+      <lb ed="#P" n="77"/>ostenditur, quia falli &amp; errare non potuit homo, ut 
+      <lb ed="#P" n="78"/>veniale putaret quod erat mortale, nisi prius 
+      pecca<lb ed="#P" n="79" break="no"/>to corruptus esset; quia in statu integro aullus esse 
+      <lb ed="#P" n="80"/>potuit error. Unde nec primum peccatum potuit ex 
+      <lb ed="#P" n="81"/>errore vel ignorantia committi, licet errorem 
+      judi<lb ed="#P" n="82" break="no"/>cii practici involveret. 
+    </p>
+            <p xml:id="bt67yj-p071364-d1e547">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Ad alterum Augustini locum dicendum: Illud, 
+      <lb ed="#P" n="84"/>quae danmnationem reciperet, non esse 
+      determinatio<lb ed="#P" n="85" break="no"/>nem restringentem, sed explicantem. Sensus enim 
+      <lb ed="#P" n="86"/>est, primos nomines cum tota stirpe sua permansuros 
+      <lb ed="#P" n="87"/>fuisse in statu foelicitatis, si nullus eorum 
+      committe<lb ed="#P" n="88" break="no"/>Sret iniquitatem. Hanc enim si committerent, 
+      futu<lb ed="#P" n="89" break="no"/>rum etiam ut ab illo statu dejicerentur &amp; 
+      damnatio<lb ed="#P" n="90" break="no"/>nem incurrerent. Plura argumenta cum 
+      solutioni<lb ed="#P" n="91" break="no"/>bus, vide apud Cajetanum super sanctum Thomam 
+      <lb ed="#P" n="92"/>loco dudum citato. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

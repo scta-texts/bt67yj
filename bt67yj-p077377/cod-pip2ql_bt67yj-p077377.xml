@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="200"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p077377"><!-- l2d22c8" -->
+            <head xml:id="bt67yj-p077377-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-p077377-Hd1e103" type="question-title">Utrum si sola mulier peccasset, peccatum in 
+      posteros transiret</head>
+            <p xml:id="bt67yj-p077377-d1e106">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> §. <!-- text doesn't have a number here, but probably should be 8 --> Utrum si sola mulier peccasset, peccatum in 
+      <lb ed="#P" n="99"/>posteros transiret.
+    </p>
+            <p xml:id="bt67yj-p077377-d1e117">
+               <lb ed="#P" n="100"/>Didam ex eo conantur extenuare mulieris 
+      pec<lb ed="#P" n="101" break="no"/>catum prae peccato viri, quia si sola mulier 
+      pec<lb ed="#P" n="102" break="no"/>casse, non ideo peccatum &amp; mors in posteros ex ipsa 
+      <lb ed="#P" n="103"/>&amp; Adam transiret; quod tamen futurum fuisse 
+      di<lb ed="#P" n="104" break="no"/>cunt, si vir solus peccasset. Quocirca peccati in quo 
+      <lb ed="#P" n="105"/>nunc nascimur originem, quamvis etiam mulier 
+      <lb ed="#P" n="106"/>peccaverit, id solum tamen Adamum referendum 
+      <lb ed="#P" n="107"/>putant, utentes ad haec probanda testimonio 
+      apo<lb ed="#P" n="108" break="no"/>stoli dicentis Rom. 5. Per unum hominem peccatum 
+      <lb ed="#P" n="109"/>in hunc mundum intravit, &amp; per peccatum mors. Nam 
+      <lb ed="#P" n="110"/>sine controversia unus ille homo est Adam, quem 
+      <lb ed="#P" n="111"/>statim post nominatim apostolus designat dicens: Sed 
+      <lb ed="#P" n="112"/>regnavit mors ab Adam usque ad Moysen, &amp;c. Quem 
+      <lb ed="#P" n="113"/>etiam tum eo loco, tam 1. Corinth. 5. opponit. 
+      <lb ed="#P" n="114"/>Christo tanquam primum hominem secundo, 
+      vete<lb ed="#P" n="115" break="no"/>rem novo, &amp; authorem peccati ac mortis, authori 
+      <lb ed="#P" n="116"/>justitiae &amp; vitae. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e156">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Quod autem apostolus sic unum nominet ut 
+      plu<lb ed="#P" n="118" break="no"/>res excludat, videlicet vim potens in viro, videtur 
+      <lb ed="#P" n="119"/>ostendi ex collatione Adae cum Christo. Nam 
+      Chri<lb ed="#P" n="120" break="no"/>stus unus &amp; solus est humani generis instaurator. 
+      <lb ed="#P" n="121"/>Quare &amp; Adam significatur unus &amp; solus esse sui 
+      <lb ed="#P" n="122"/>generis destructor. Item ex eo quod dixit, ex unc 
+      <lb ed="#P" n="123"/>omnes, quomodo &amp; in Actis dicit; quod Deus ex 
+      <lb ed="#P" n="124"/>uno omne genus humanum fecit inhabitare super terram. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e179">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Huc accedit ratio. Solus enim Adam acceperat 
+      <lb ed="#P" n="126"/>justitiam pro se &amp; tota posteritate; igitur per solum 
+      <lb ed="#P" n="127"/>ejus peccatum periit justitia a tota posteritate. Quare 
+      <lb ed="#P" n="128"/>si mulier peccasset, nullum justitiae detrimentum 
+      <lb ed="#P" n="129"/>posteritas sensisset.
+    </p>
+            <p xml:id="bt67yj-p077377-d1e195">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Item peccatum traducitur a primo parente, in 
+      <lb ed="#P" n="131"/>quantum ipse est causa movens &amp; efficiens, in 
+      gene<lb ed="#P" n="132" break="no"/>ratione filiorum. Unde si per miraculum aliquis 
+      <lb ed="#P" n="133"/>tantum materialiter generaretur ex carne humana? 
+      <lb ed="#P" n="134"/>non contraheret is peccatum originale, ut docet S. 
+      <lb ed="#P" n="135"/>Thomas 1. 2. q. 81. art. 4. &amp; alii plerique: Atqui 
+      <lb ed="#P" n="136"/>secundum physicos principium activum est a patre: 
+      <lb ed="#P" n="137"/>nam mater solum materiam subministrat. Ita enim 
+      <lb ed="#P" n="138"/>docet diserte Philosophus lib. 2. de generatione 
+      ani<lb ed="#P" n="139" break="no"/>malium cap. 4. Igitur peccatum originale non 
+      con<lb ed="#P" n="140" break="no"/>trahitur a matre, sed a patre solo, ac proinde sola 
+      <lb ed="#P" n="141"/>muliere peccante non fuisset in nos transfusum 
+      pec<lb ed="#P" n="142" break="no"/>catum; fuisset autem transfusum si vir solus peccasset. 
+      <lb ed="#P" n="143"/>Haec est ratio S. Thomae art. 5. dictae quaest. Vide 
+      <lb ed="#P" n="144"/>eundem in 2. dist. 31. q. 1. art. 2. &amp; in 3. dist. 3. q. 
+      <lb ed="#P" n="145"/>1. quibus duobus locis ita distinguit, quod originalis 
+      <!--0434.xml-->
+      <pb ed="#P" n="201"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>corruptio quoad culpam contrahitur a patre, quoad 
+      <lb ed="#P" n="2"/>poenam a matre; quia, inquit, mater materiam 
+      sub<lb ed="#P" n="3" break="no"/>ministrat, pater est causa efficiens. Sed hoc bene 
+      <lb ed="#P" n="4"/>retractat in summa loco jam citato ad 2. propterea 
+      <lb ed="#P" n="5"/>quod immortalitas primi status non erat ex 
+      condi<lb ed="#P" n="6" break="no"/>tione materiae, sed ex justitia originali. Quare si 
+      mu<lb ed="#P" n="7" break="no"/>liere peccante non fuisset in posteris justitia 
+      deper<lb ed="#P" n="8" break="no"/>dita, nec quidem poena mortalitatis ad eos 
+      tran<lb ed="#P" n="9" break="no"/>siisset. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e260">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Huc denique adducitur Magister, cujus in hac 
+      <lb ed="#P" n="11"/>dist. §. G. haec sunt verba: Etiam peccante muliere si 
+      <lb ed="#P" n="12"/>vir non peccasset, humanum genus minime peccatis 
+      cor<lb ed="#P" n="13" break="no"/>ruptum periret. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e273">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Verum illi opinioni multa videntur adversari. 
+      <lb ed="#P" n="15"/>Primum quod scriptura nonnunquam etiam in 
+      mu<lb ed="#P" n="16" break="no"/>lierem transfert causam originalis peccati &amp; 
+      mor<lb ed="#P" n="17" break="no"/>tis. Dicit enim Ecclesiasticus cap. 25. A muliere 
+      <lb ed="#P" n="18"/>initium factum est peccati, &amp; per illam omnes 
+      mori<lb ed="#P" n="19" break="no"/>mur. Et David Psalm. 50. In peccatis concepit me 
+      ma<lb ed="#P" n="20" break="no"/>ter mea. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e293">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Deinde Patrum sententiae in hanc partem 
+      admo<lb ed="#P" n="22" break="no"/>dum videntur propensae. Scribit enim Irenaeus lib. 
+      <lb ed="#P" n="23"/>5. contra haereses cap. 19 Quemadmodum astrictum 
+      <lb ed="#P" n="24"/>est morti genus humanum per virginem, solvatur 
+      <lb ed="#P" n="25"/>per virginem. Citat hoc Augustinus libr. 1. contra 
+      <lb ed="#P" n="26"/>Julianum cap. 3. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e311">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> En phanius haeresi 76. Eva mortis causa facta est 
+      <lb ed="#P" n="28"/>hominibus. Per ipsam enim mors ingressa est in 
+      mun<lb ed="#P" n="29" break="no"/>dum. Item, Christus venit ut mortem ex muliere 
+      indu<lb ed="#P" n="30" break="no"/>ctam excluderet. Nec loquitur Epiphanius de sola 
+      <lb ed="#P" n="31"/>suasione, quasi per mulierem hac tantum ratione 
+      <lb ed="#P" n="32"/>peccatum dicat intrasse in mundum, quia illa suasit 
+      <lb ed="#P" n="33"/>viro, per quem deinde peccatum in posteros 
+      tradu<lb ed="#P" n="34" break="no"/>ctum est; quomodo dici potest etiam per diabolum 
+      <lb ed="#P" n="35"/>qui primus suasit, intrasse peccatum in mundum; 
+      <lb ed="#P" n="36"/>sed loquitur de ipsa transgressione praecepti divini, 
+      <lb ed="#P" n="37"/>ut per quem mulier introduxerit mortem in genus 
+      <lb ed="#P" n="38"/>humanum, quemadmodum patet locum inspicienti. 
+      <lb ed="#P" n="39"/>Nam eo modo de muliere loquitur, quo apostolus 
+      <lb ed="#P" n="40"/>de viro Rom. 5. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e347">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Ambrosius libr. de Tobia citante Augustino libr. 
+      <lb ed="#P" n="42"/>1. contra Julianum cap. 2. Eva maculata peccato 
+      <lb ed="#P" n="43"/>obnoxiae successionis usuris omne genus defoeneravit 
+      <lb ed="#P" n="44"/>humanum. Et libr. 5. de fide ad Gratian. cap. 3. 
+      <lb ed="#P" n="45"/>Consi derate Evae illius primae mulieris haereditatem 
+      <lb ed="#P" n="46"/>transfusam in omnes, immoderatae cupiditatis 
+      suc<lb ed="#P" n="47" break="no"/>cessione labantem. Et concludit: Haereditario igitur 
+      <lb ed="#P" n="48"/>mulier delinquebat errore. Idem in exhortatione 
+      <lb ed="#P" n="49"/>ad virgines: Christus, inquit, per virginem venit, 
+      <lb ed="#P" n="50"/>&amp; mulieris lapsus partu virginis solvit. Mulieris 
+      lap<lb ed="#P" n="51" break="no"/>sus vocat peccata humani generis per mulierem 
+      <lb ed="#P" n="52"/>vitiati. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e378">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Author commentarii in Paulum Ambrosii 
+      titu<lb ed="#P" n="54" break="no"/>lo, scribens super illud Roman. 5. Per unum 
+      ho<lb ed="#P" n="55" break="no"/>minem, &amp;c. adeo favet huic sententiae, ut per 
+      homi<lb ed="#P" n="56" break="no"/>nem eo loco non Adamum, sed Evam intelligat. 
+      <lb ed="#P" n="57"/>Quod &amp; Epiphanius velle videtur loco paulo ante 
+      <lb ed="#P" n="58"/>citato. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e396">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Augustinus eandem sententiam perspicue tradit 
+      <lb ed="#P" n="60"/>compluribus locis, ut libro 1. de peccatorum 
+      meri<lb ed="#P" n="61" break="no"/>tis capite 16. &amp; libro 2. capite 25. quaestione 40. 
+      su<lb ed="#P" n="62" break="no"/>per Leviticum, in expositione psal. 50. ad illud: 
+      Li<lb ed="#P" n="63" break="no"/>bera me de sanguinibus. Tract. 2. in Joann. ad illud. 
+      <lb ed="#P" n="64"/>Qui non ex sanguinibus. Item in opere secundo 
+      con<lb ed="#P" n="65" break="no"/>tra Julianum verbis citatis a Beda in repetita 
+      expo<lb ed="#P" n="66" break="no"/>sitione ejus quod dicit apostolus Roman. 5. Sicut 
+      <lb ed="#P" n="67"/>per unum hominem. Idem Augustinus libro 1. contra 
+      <lb ed="#P" n="68"/>Julianum capite 3. citat verba quaedam Ambrosii ex 
+      <lb ed="#P" n="69"/>apologia David capite 11. &amp; ex libro de Tobia 
+      ca<lb ed="#P" n="70" break="no"/>pite 9. &amp; 23. Ac rursum libro secundo contra 
+      Ju<lb ed="#P" n="71" break="no"/>lianum capite 6. citat ejusdem Ambrosii verba ex 
+      <lb ed="#P" n="72"/>libro de Sacramento regenerationis, qui hodie non 
+      <lb ed="#P" n="73"/>extat. Quibus omnibus locis mulieri propagatio 
+      <lb ed="#P" n="74"/>peccati tribuitur.
+    </p>
+            <p xml:id="bt67yj-p077377-d1e435">
+      <!--0434.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Ejusdem Augustini verba sunt libro secundo de 
+      <lb ed="#P" n="76"/>symbolo capite 4. Per foeminam mors, per foeminam 
+      <lb ed="#P" n="77"/>vita, per Evam interitus, per Mariam salus, &amp;c. Et 
+      <lb ed="#P" n="78"/>libr. 4. cap. 1. loquens de ecclesia: Haec solvit, quod 
+      <lb ed="#P" n="79"/>illa ligaverat; vel prolem quam per inobedientiam 
+      <lb ed="#P" n="80"/>suam morte damnavit, hac per obedientiam restituit 
+      <lb ed="#P" n="81"/>vitae. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e457">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Gregorius libro 17. moralium cap. 10. Quia homo 
+      <lb ed="#P" n="83"/>per mulierem culpae subditam nascitur, reatus primi 
+      <lb ed="#P" n="84"/>infirmitas in prole propagatur. Bernardus in sermone 
+      <lb ed="#P" n="85"/>cujus initium: Signum magnum: Vehementer nobis 
+      <lb ed="#P" n="86"/>ovir unus &amp; mulier una nocuere. His adde Anselmum 
+      <lb ed="#P" n="87"/>&amp; Hugonem scribentes in Roman. 5. Bedam &amp; 
+      <lb ed="#P" n="88"/>Theophylactum in Joannis 1. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e477">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Praeterea facit huc eorum sententia qui dicunt, 
+      <lb ed="#P" n="90"/>ideo B. Virginem vel ante conceptum Filii Dei, vel 
+      <lb ed="#P" n="91"/>in ipso conceptu fuisse purgatam a fomite peccati; 
+      <lb ed="#P" n="92"/>quia Christus ex ea fine peccato erat nasciturus. 
+      <lb ed="#P" n="93"/>Unde consequens videtur etiam ex sola matre non 
+      <lb ed="#P" n="94"/>purgata a fomite, peccatum propagari. Dicunt 
+      au<lb ed="#P" n="95" break="no"/>tem illud Augustinus libro 2. de peccatorum 
+      meri<lb ed="#P" n="96" break="no"/>tis cap. 25. Damascenus lib. 3. de fide cap. 2. &amp; 12. 
+      <lb ed="#P" n="97"/>&amp; alii qui citari solent ad dist. 3. libr. 3. 
+      Confirma<lb ed="#P" n="98" break="no"/>tur item hac ratione: Si quispiam purus homo ex 
+      <lb ed="#P" n="99"/>sola matre per miraculum nasceretur, vel etiam ex 
+      <lb ed="#P" n="100"/>sola Eva natus fuisset, contraheret peccatum 
+      origi<lb ed="#P" n="101" break="no"/>nale, quia naturam humanam ab ea acciperet non 
+      <lb ed="#P" n="102"/>integram, quia non est talis in matre; ergo 
+      cor<lb ed="#P" n="103" break="no"/>ruptam &amp; infectam peccato. Hoc autem est 
+      contra<lb ed="#P" n="104" break="no"/>here peccatum originale. Idem argumentum 
+      con<lb ed="#P" n="105" break="no"/>firmatur ex scriptura. Dicit enim Dominus Joannis 
+      <lb ed="#P" n="106"/>3. Quod natum est ex carne, caro est. Qui autem ex 
+      <lb ed="#P" n="107"/>sola matre nasceretur, non purgata a fomite, 
+      nasce<lb ed="#P" n="108" break="no"/>retur ex carne; quia omnis homo in quantum 
+      infe<lb ed="#P" n="109" break="no"/>ctus est vitio concupiscentiae, caro est; ergo qui sic 
+      <lb ed="#P" n="110"/>nasceretur, caro esset, &amp; proinde eodem vitio 
+      con<lb ed="#P" n="111" break="no"/>cupiscentiae infectus. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e533">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Rursum, dicunt Patres peccatum originale 
+      con<lb ed="#P" n="113" break="no"/>trahi ex concupiscentia &amp; libidine, quae intervenit 
+      <lb ed="#P" n="114"/>in actu generationis. Unde Augustinus Enchiridii 
+      <lb ed="#P" n="115"/>26. Quicquid per carnalem concupiscentiam 
+      nasci<lb ed="#P" n="116" break="no"/>tur, trahit originale peccatum. Atqui si sola 
+      mu<lb ed="#P" n="117" break="no"/>lier peccasset, nascerentur filii per carnalem 
+      con<lb ed="#P" n="118" break="no"/>cupiscentiam ex parte mulieris; ergo ex ejus 
+      par<lb ed="#P" n="119" break="no"/>te traherent peccatum originale. Cui etiam 
+      argu<lb ed="#P" n="120" break="no"/>mento firmitas additur ex scriptura. Nam 
+      Joan<lb ed="#P" n="121" break="no"/>nis 1. non tantum damnatur nativitas ex 
+      volunta<lb ed="#P" n="122" break="no"/>te viri, sed etiam ex voluntate carnis. Quae quidem 
+      <lb ed="#P" n="123"/>intelligi potest ex parte solius mulieris, si sola 
+      pec<lb ed="#P" n="124" break="no"/>casset. Atque idem efficacius probatur ex altera 
+      <lb ed="#P" n="125"/>scriptura Joannis 1. Quod natum est ex carne, caro 
+      <lb ed="#P" n="126"/>est. Nasceretur enim homo ex carne, id est, ex 
+      car<lb ed="#P" n="127" break="no"/>nali concupiscentia, etiamsi sola mater peccato 
+      cor<lb ed="#P" n="128" break="no"/>rupta esset. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e575">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Item Catholici contra <name xml:id="bt67yj-p077377-Nd1e581">Calvinum</name> docent 
+      pecca<lb ed="#P" n="130" break="no"/>tum originale contrahi non solum ab injustis 
+      paren<lb ed="#P" n="131" break="no"/>tibus, verum etiam a justis &amp; sanctis; utique 
+      paren<lb ed="#P" n="132" break="no"/>tum nomine patrem &amp; matrem intelligentes. Quae 
+      <lb ed="#P" n="133"/>res pluribus demonstranda erit ad dist. 31. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e593">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Denique non parum hanc confirmat sententiam, 
+      <lb ed="#P" n="135"/>quod cum pro ea tam multa apud veteres legantur, 
+      <lb ed="#P" n="136"/>nihil expresse contra eam apud quemquam illorum 
+      <lb ed="#P" n="137"/>scriptum inveniatur. 
+    </p>
+            <p xml:id="bt67yj-p077377-d1e606">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Haec argumenta partem quaestionis 
+      affirmati<lb ed="#P" n="139" break="no"/>vam reddunt valde probabilem; tametsi ea stante 
+      <lb ed="#P" n="140"/>illud adhuc dubitari potest, utrum aequalis esset 
+      <lb ed="#P" n="141"/>naturae corruptio in posteris, si sola mulier 
+      pec<lb ed="#P" n="142" break="no"/>casset, aut etiam vir solus, cum ca quae nunc est, 
+      <lb ed="#P" n="143"/>postquam uterque peccavit. Sed hujus dubii 
+      so<lb ed="#P" n="144" break="no"/>lutio pendere videtur ex quaestione qua quaeritur, 
+      <lb ed="#P" n="145"/>quid sit peccatum originale. Si enim non aliud est 
+      <lb ed="#P" n="146"/>quam privatio justitiae originalis, apparet 
+      corru<lb ed="#P" n="147" break="no"/>ptionem fore aequalem; si autem dicatur esse 
+      ip<lb ed="#P" n="148" break="no"/>sum concupiscentiae vitium, sic non videtur tanta 
+      <!--0435.xml-->
+      <pb ed="#P" n="202"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>fore corruptio ex uno parente peccatore, atque ex 
+      <lb ed="#P" n="2"/>duobus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

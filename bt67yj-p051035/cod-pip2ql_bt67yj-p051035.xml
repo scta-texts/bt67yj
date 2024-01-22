@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="132"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p051035"><!-- l2d15c2" -->
+            <head xml:id="bt67yj-p051035-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p051035-Hd1e103" type="question-title">Utrum pisces et aves ex eodem aquae 
+      elemento facti</head>
+            <p xml:id="bt67yj-p051035-d1e106">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> §. 2. Utrum pisces &amp; aves ex eodem aquae 
+      <lb ed="#P" n="105"/>elemento facti.
+    </p>
+            <p xml:id="bt67yj-p051035-d1e115">
+               <lb ed="#P" n="106"/>QUaeri praeterea solet hoc loco qua ratione 
+      fa<lb ed="#P" n="107" break="no"/>ctum sit, ut ex eodem aquae elemento diversi1 
+      <lb ed="#P" n="108"/>generis ac naturae animalia, videlicet aves &amp; pisces 
+      <lb ed="#P" n="109"/>producerentur; cum videatur multo magis ipsarum 
+      <lb ed="#P" n="110"/>rerum naturae congruere, ut sicut pisces ex aqua, 
+      <lb ed="#P" n="111"/>ita aves ex aere fierent, utraque nimirum animalia 
+      <lb ed="#P" n="112"/>ex proprio in quo versantur elemento. 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e133">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Cui quaestioni respondent Augustinus libro 
+      ter<lb ed="#P" n="114" break="no"/>tio de Genesi ad literam capite tertio, &amp; Rupertus 
+      <lb ed="#P" n="115"/>libro primo in Genes. cap. 50. &amp; alii nonnulli, 
+      <lb ed="#P" n="116"/>aquarum nomine hic non solum aquae elementum, 
+      <lb ed="#P" n="117"/>verum etiam aerem istum crassum &amp; vaporosum, 
+      <lb ed="#P" n="118"/>qui terrae vel aquae proximus est, comprehendi. 
+      <lb ed="#P" n="119"/>Verum juxta hanc expositionem aves non solum 
+      <lb ed="#P" n="120"/>originem acceperunt ex aquis, sed etiam in iisdem 
+      <lb ed="#P" n="121"/>degunt &amp; versantur &amp; volant. Qui sermo non est 
+      <lb ed="#P" n="122"/>consonus scripturae, quae tam hoc loco Genesis 
+      <lb ed="#P" n="123"/>quam alibi saepe, aves non in aqua sed in aere &amp; 
+      <lb ed="#P" n="124"/>caelo &amp; super terram volitare dicit. Repugnat etiam 
+      <lb ed="#P" n="125"/>quod ex hymno Ambrosiano canit Ecclesia: Qui ex 
+      <lb ed="#P" n="126"/>aquis ortum genus partim remittis gurgiti, partim 
+      <lb ed="#P" n="127"/>levas in aera, &amp; quae sequuntur. Quibus 
+      consen<lb ed="#P" n="128" break="no"/>tanea sunt apud eundem Ambrosium libro quinto 
+      <lb ed="#P" n="129"/>Hexameron capite primo, secundo &amp; tertio. Illud 
+      <lb ed="#P" n="130"/>etiam accedit quod idem Ambrosius libro 6. 
+      Hexa<lb ed="#P" n="131" break="no"/>meron cap. 2. post Basilium, quodque Epiphanius 
+      <lb ed="#P" n="132"/>in epistola ab Hieronymo versa contra Origenis 
+      <lb ed="#P" n="133"/>allegorismos, ita scripturam simpliciter accipi 
+      vo<lb ed="#P" n="134" break="no"/>lunt, ut per aquam aqua intelligatur, &amp; ita de aliis. 
+      <lb ed="#P" n="135"/>Certe si aquae vocabulum ita extendi patiamur, 
+      <lb ed="#P" n="136"/>cum dicitur: Producant aquae, &amp;c. ut aerem in quo 
+      <lb ed="#P" n="137"/>verlantur aves, comprehendat; jam non erit certum 
+      <lb ed="#P" n="138"/>ex scriptura ipsos pisces ex aqua proprie &amp; 
+      specia<lb ed="#P" n="139" break="no"/>liter dicta factos esse. Quod est contra omnium 
+      do<lb ed="#P" n="140" break="no"/>ctorum sententiam. Alii proinde dicunt, tametsi 
+      <!--0366.xml-->
+      <pb ed="#P" n="133"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod scriptura narrat, a ratione physica alienum 
+      <lb ed="#P" n="2"/>videri possit; incunctanter tamen recipiendum atque 
+      <lb ed="#P" n="3"/>credendum esse, sed nec dubitandum quin magna 
+      <lb ed="#P" n="4"/>ratione ita factum sit, licet ea fortassis nos lateat. Qui 
+      <lb ed="#P" n="5"/>dam sane rationem hujus facti probabilem 
+      investi<lb ed="#P" n="6" break="no"/>gantes, existimant ex aqua tenuiori, quae ad aeris 
+      <lb ed="#P" n="7"/>naturam nonnihil accederet, vera tamen aqua esset, 
+      <lb ed="#P" n="8"/>qualis est fontium &amp; fluminum fontibus 
+      propinquio<lb ed="#P" n="9" break="no"/>rum, aves factas fuisse, sed ex crassiori qualis est 
+      <lb ed="#P" n="10"/>marina, pisces: Ac notum est physicis facilem ac 
+      <lb ed="#P" n="11"/>proclivem esse elementorum aeris &amp; aquae per 
+      vapo<lb ed="#P" n="12" break="no"/>rem medium transmutationem mutuam. Alii porro 
+      <lb ed="#P" n="13"/>alias rationes excogitant, quare conveniens fuerit 
+      <lb ed="#P" n="14"/>etiam aves ex aquis fier 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e236">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Verum tam contra horum omnium responsionem 
+      <lb ed="#P" n="16"/>quam contra scripturam ipsam quae avibus ortum 
+      fa<lb ed="#P" n="17" break="no"/>cere videtur ex aquis, in cujus investiganda ratione 
+      <lb ed="#P" n="18"/>atque intelligentia ab illis laboratur, objici potest 
+      <lb ed="#P" n="19"/>quod cap. 2. dicitur de humo, id est de terra 
+      forma<lb ed="#P" n="20" break="no"/>ta esse non modo cuncta animantia terrae, sed &amp; 
+      uni<lb ed="#P" n="21" break="no"/>versa volatilia caeli. 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e256">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Ad hoc quidam respondent volatilia facta dici ex 
+      <lb ed="#P" n="23"/>humo temperata. Quod forte sensit interpres 
+      quan<lb ed="#P" n="24" break="no"/>do eo loco non terram sed humum vertere maluit. 
+      <lb ed="#P" n="25"/>Humus enim ab humiditate dicta putatur. Sed 
+      ina<lb ed="#P" n="26" break="no"/>nis ea responsio est, quia scriptura similiter ibi 
+      loqui<lb ed="#P" n="27" break="no"/>tur de volucribus &amp; de bestiis terrae. Est quidem in 
+      <lb ed="#P" n="28"/>Hebraeo pro terra seu homo adamo non ares: sed 
+      <lb ed="#P" n="29"/>utrumque tamen proprie terram significat, ex qua 
+      <lb ed="#P" n="30"/>etiam homo factus describitur. Nam quod legitur 
+      <lb ed="#P" n="31"/>homo factus de pulvere terrae vel pulvis de terra 
+      He<lb ed="#P" n="32" break="no"/>braice est adama 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e285">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Alii putant hoc ideo dictum quod tam aves quam 
+      <lb ed="#P" n="34"/>quadrupedia pabulum suum accipiant e terra. 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e294">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Alii respondent illud, de humo tantum esse 
+      refe<lb ed="#P" n="36" break="no"/>rendum ad priorem sententiae partem, non etiam ad 
+      <lb ed="#P" n="37"/>posteriorem, id est tantum pertinere ad animantia 
+      <lb ed="#P" n="38"/>terrae, non ad volatilia caeli 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e307">
+               <lb ed="#P" n="39"/>Est &amp; alia non improbanda responsio; nempe in ea 
+      <lb ed="#P" n="40"/>sententia nomine terrae comprehendi etiam aquam, 
+      <lb ed="#P" n="41"/>tanquam crassum elementum quod unum cum terra 
+      <lb ed="#P" n="42"/>globum constituat, idque non praeter morem 
+      scri<lb ed="#P" n="43" break="no"/>pturae. Sic enim accipi terram ubi dictum est: In 
+      <lb ed="#P" n="44"/>principio creavit caelum &amp; terram. 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e323">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> At vero licet hae duae postremae responsiones 
+      prae<lb ed="#P" n="46" break="no"/>caeteris probabiles sint; illud tamen sciendum (quod 
+      <lb ed="#P" n="47"/>ad totam quaestionem breviter ac facile expediendam 
+      <lb ed="#P" n="48"/>imprimis valet) eam sententiam: Producant aquae 
+      <lb ed="#P" n="49"/>reptile animae viventis &amp; volatile super terram, &amp;c. 
+      <lb ed="#P" n="50"/>In Hebraeo plenius hoc pacto legi: Reptificent seu 
+      re<lb ed="#P" n="51" break="no"/>pere faciant aquae reptile animae viventis, &amp; volatile 
+      <lb ed="#P" n="52"/>volitet super terram secundum faciem firmamenti 
+      caelo<lb ed="#P" n="53" break="no"/>rum. Non igitur juxta hanc lectionem Moyses his 
+      <lb ed="#P" n="54"/>verbis significat aves ex aquis esse productas, sed 
+      <lb ed="#P" n="55"/>sola reptilia, id est, pisces. Quod autem ad aves 
+      <lb ed="#P" n="56"/>attinet, locum describit in quo volitare &amp; versari 
+      <lb ed="#P" n="57"/>debeant, cum dicit: Et volatile volitet super terram 
+      <lb ed="#P" n="58"/>secundum firmamentum caeli, id est, in aere. Caeterum 
+      <lb ed="#P" n="59"/>ex quo elemento factae sint aves, quoniam hic 
+      prae<lb ed="#P" n="60" break="no"/>termiserat, dicit proximo capite iis verbis quae 
+      vi<lb ed="#P" n="61" break="no"/>debantur huic loco contraria secundum nostram 
+      <lb ed="#P" n="62"/>lectionem. 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e368">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Quae tamen apparens contrarietas facile tolli 
+      po<lb ed="#P" n="64" break="no"/>terit si in verbis nostrae versionis accipiatur volatile 
+      <lb ed="#P" n="65"/>in casu nominandi, sicut est in Hebraeo &amp; ei verbum 
+      <lb ed="#P" n="66"/>aliquod addatur, velut hoc modo: Producant aqua 
+      <lb ed="#P" n="67"/>reptile animae viventis, &amp; volatile sit, seu volitet 
+      <lb ed="#P" n="68"/>super terram. 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e386">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Nunc si quem moveat cur non potius ex aere 
+      fa<lb ed="#P" n="70" break="no"/>ctae sint aves, sicut pisces ex aqua, &amp; quadrupedia 
+      <lb ed="#P" n="71"/>de terra, scilicet unumquodque genus ex elemento 
+      <lb ed="#P" n="72"/>sibi connaturali; parata responsio est, elementum 
+      <lb ed="#P" n="73"/>avibus perinde ut quadrupedibus &amp; homini 
+      con<lb ed="#P" n="74" break="no"/>naturale esse terram. Nam &amp; victum omnem aves 
+      <!--0366.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>accipiunt ex terra, &amp; neque quiescere neque 
+      ni<lb ed="#P" n="76" break="no"/>dificari, neque omnino habitare possunt nisi super 
+      <lb ed="#P" n="77"/>terram, quemadmodum &amp; homines &amp; caetera 
+      ter<lb ed="#P" n="78" break="no"/>restria. 
+    </p>
+            <p xml:id="bt67yj-p051035-d1e417">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Nec obstat quod volitando moveantur per aerem, 
+      <lb ed="#P" n="80"/>quoniam &amp; homines &amp; quadrupedia non aliter 
+      mo<lb ed="#P" n="81" break="no"/>veri possunt aut omnino vivere nisi in aere. Solum 
+      <lb ed="#P" n="82"/>enim inter aves &amp; terrestria hoc discrimen est, quod 
+      <lb ed="#P" n="83"/>aves alarum subsidio altius in aere sese attollere 
+      pos<lb ed="#P" n="84" break="no"/>sint: caetera vero non moveantur nisi pedibus 
+      pre<lb ed="#P" n="85" break="no"/>mant humum; quanquam &amp; inter aves quaedam sint 
+      <lb ed="#P" n="86"/>quae etiam hac parte vix differant a terrestribus, ut 
+      <lb ed="#P" n="87"/>cygni, anseres, anates, gallinae.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

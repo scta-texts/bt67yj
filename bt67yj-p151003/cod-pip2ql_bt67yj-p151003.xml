@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="390"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p151003"><!-- l2d42c3" -->
+            <head xml:id="bt67yj-p151003-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p151003-Hd1e103" type="question-title">Quo sensu peccata actu transeant, maneant reatu</head>
+            <p xml:id="bt67yj-p151003-d1e106">
+               <lb ed="#P" n="37"/>§. 3. Quo sensu peccata actu transeant, maneant reatu? 
+    </p>
+            <p xml:id="bt67yj-p151003-d1e111">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> CUm de remissione peccari originalis ageretur 
+      <lb ed="#P" n="39"/>distinct. 32. diximus secundum doctrinam 
+      Au<lb ed="#P" n="40" break="no"/>gustini &amp; S. Thomae, hoc inter originale peccatum &amp; 
+      <lb ed="#P" n="41"/>actualia dicriminis esse, quod originale peccatum 
+      <lb ed="#P" n="42"/>actu maneat, transeat reatu, dum remittitur; actualia 
+      <lb ed="#P" n="43"/>vero transeant actu, maneant reatu, donec 
+      remit<lb ed="#P" n="44" break="no"/>tantur. Quod quidem quo sensu de originali 
+      pecca<lb ed="#P" n="45" break="no"/>to accipiendum sit, eo loco est explicatum. Nunc 
+      <lb ed="#P" n="46"/>autem quod de actualibus peccatis dictum est, 
+      <lb ed="#P" n="47"/>plenius erit explicandum. 
+    </p>
+            <p xml:id="bt67yj-p151003-d1e137">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Primum igitur, manifesta est Augustini doctrina 
+      <lb ed="#P" n="49"/>libso 1. de nuptiis &amp; concupiscentia, cap. 26. ubi dicit 
+      <lb ed="#P" n="50"/>eorum peccatorum, quae manere non possunt, 
+      quo<lb ed="#P" n="51" break="no"/>niam cum fiunt, praetereunt, reatum tamen 
+      mane<lb ed="#P" n="52" break="no"/>re, e nisi remittatur, in aeternum mansurum: Hoc 
+      <lb ed="#P" n="53"/>est enim, inquit, non habere peccatum, reum non 
+      <lb ed="#P" n="54"/>esse peccati, nam si quisquam, verbi gratia, fecerit 
+      <lb ed="#P" n="55"/>adulterium, etiam si nunquam deinceps faciat, reus 
+      <lb ed="#P" n="56"/>est adulterii, donec reatus ipsius indulgentia 
+      remitta<lb ed="#P" n="57" break="no"/>tur; habet ergo peccatum, quamvis illud quod 
+      admi<lb ed="#P" n="58" break="no"/>sit, jam non sit, quia cum tempore quo factum est, 
+      <lb ed="#P" n="59"/>praeteriit. Probat deinde ex scriptura Ecclesiastici 
+      <lb ed="#P" n="60"/>21. Nam si, inquit, a peccando desistere, hoc esset 
+      <lb ed="#P" n="61"/>non habere peccatum, sufficeret ut hoc nos moneret 
+      <lb ed="#P" n="62"/>„scriptura: Fili, peccasti, non adjicias iterum: Non 
+      au<lb ed="#P" n="63" break="no"/>tem su fficit, sed addidit: Et de pristinis deprecare, ut 
+      <lb ed="#P" n="64"/>tibi remittantur. Manent ergo, nisi remittantur. Sed 
+      <lb ed="#P" n="65"/>quomodo manent, si praeterita sunt, nisi quia 
+      praete<lb ed="#P" n="66" break="no"/>rierunt actu, manent reatu: Haec Angustinus. Quam 
+      <lb ed="#P" n="67"/>suam doctrinam repetens lib. 6. contra Julianum 
+      <lb ed="#P" n="68"/>cap. 19. alio eam exemplo declarat. Sacrificium, 
+      in<lb ed="#P" n="69" break="no"/>quit, idolis factum, si deinceps non fiat, praeteriit 
+      <lb ed="#P" n="70"/>actu, sed manet reatu, nisi per indulgentiam 
+      remitta<lb ed="#P" n="71" break="no"/>tur. Quiddam enim tale est sacrificare idolis, ut opus 
+      <!--0623.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ipsum, cum fit, praetereat, eodemque praeterito 
+      rea<lb ed="#P" n="73" break="no"/>tus ejus manet, venia resolvendus. 
+    </p>
+            <p xml:id="bt67yj-p151003-d1e203">
+               <lb ed="#P" n="74"/>Sciendum est autem in superioribus Augustini 
+      ver<lb ed="#P" n="75" break="no"/>bis, nomine actus non solum significari opus 
+      exter<lb ed="#P" n="76" break="no"/>num; sed eo comprehendi voluntatem peccandi 
+      <lb ed="#P" n="77"/>etiam habitualem. In illo enim homine intelligit 
+      <lb ed="#P" n="78"/>peccatum praeterire actu, qui voluntatem peccandi 
+      <lb ed="#P" n="79"/>deposuit, eamque ad Dei amorem inflexit. Neque 
+      <lb ed="#P" n="80"/>enim actum contra habitum distinguit hoc loco 
+      Au<lb ed="#P" n="81" break="no"/>gustinus, sed contra reatum. Quod imprimis ex eo 
+      li<lb ed="#P" n="82" break="no"/>quet; quia docet concupiscentiam in renatis manere 
+      <lb ed="#P" n="83"/>actu, transire reatu; quam tamen constat non 
+      actua<lb ed="#P" n="84" break="no"/>le, sed habituale vitium esse. Deinde subjuncta 
+      Au<lb ed="#P" n="85" break="no"/>gustini declaratio hoc idem evineit. Voluntatem 
+      <lb ed="#P" n="86"/>enim sacrificandi idolis, &amp; voluntatem adulterandi, 
+      <lb ed="#P" n="87"/>quae manere potest post actum sacrilegii &amp; adulterii, 
+      <lb ed="#P" n="88"/>non jam reatum vocat, sed illam quidem 
+      impieta<lb ed="#P" n="89" break="no"/>tem, hanc vero concupiscentiam. Sic enim ait: 
+      Im<lb ed="#P" n="90" break="no"/>pietas ipsa tamdiu manet, donec idolis renuncietur 
+      <lb ed="#P" n="91"/>&amp; credatur in Deum. Et rursum: Impietas qua 
+      sacri<lb ed="#P" n="92" break="no"/>ficatum est; quia &amp; sacrificio peracto manet, 
+      vide<lb ed="#P" n="93" break="no"/>tur esse concupiscentiae similis, qua commissum est 
+      <lb ed="#P" n="94"/>adulterium. Et paulo post manifestius idem 
+      decla<lb ed="#P" n="95" break="no"/>rans, dicit post immolationem idolis factam, quae 
+      <lb ed="#P" n="96"/>jam nec in actione est, quia praeteriit; nec in 
+      vo<lb ed="#P" n="97" break="no"/>luntate, quia error quo fiebat absumptus; manere 
+      <lb ed="#P" n="98"/>tamen reatum ejus donec in lavacro regenerationis 
+      <lb ed="#P" n="99"/>peccatorum omnium solvatur. Et iterum post 
+      non<lb ed="#P" n="100" break="no"/>nulla, reatum hunc agnoscit etiam in correcto, &amp; 
+      <lb ed="#P" n="101"/>recte beneque vivente, cui tamen peccatum 
+      non<lb ed="#P" n="102" break="no"/>dum sit remissum. 
+    </p>
+            <p xml:id="bt67yj-p151003-d1e268">
+               <lb ed="#P" n="103"/>Ex his omnibus anparet, reatum peccati Augustino 
+      <lb ed="#P" n="104"/>non aliud esse, quam obligationem ac poenam ex 
+      <lb ed="#P" n="105"/>peccato commisso. Hanc enim certum est remanere 
+      <lb ed="#P" n="106"/>in homine post peccatum vere converso, veramque 
+      <lb ed="#P" n="107"/>agente poenitentiam, donec peccati sui veniam 
+      con<lb ed="#P" n="108" break="no"/>sequatur. Quod autem nomen reatus non amplius 
+      <lb ed="#P" n="109"/>in sua significatione includat, etiam aliunde doceri 
+      <lb ed="#P" n="110"/>potest. Nam &amp; venialibus peccatis suus respondet 
+      <lb ed="#P" n="111"/>reatus, &amp; pro mortalibus, remissa culpa, debetur 
+      ad<lb ed="#P" n="112" break="no"/>huc plerumque poena temporalis, cujus persolvendae 
+      <lb ed="#P" n="113"/>obligatio reatus quidam est; &amp; qui in rempublicam 
+      <lb ed="#P" n="114"/>peccavit, etiam si Deo satisfecerit, manet adhuc 
+      <lb ed="#P" n="115"/>reus supplicii temporalis. Qui reatus non aliud est. 
+      <lb ed="#P" n="116"/>quam obligatio qua quis propter crimen 
+      commis<lb ed="#P" n="117" break="no"/>sum, tali supplicio est obnoxius. Quae significatio 
+      <lb ed="#P" n="118"/>hujus vocabuli passim etiam in sacris litteris 
+      occur<lb ed="#P" n="119" break="no"/>rit, ut Matth. 5. &amp; 26. Jacobi 2. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-p151003-d1e307">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Quin &amp; Augustinus, quem supra memoratis 
+      lo<lb ed="#P" n="121" break="no"/>cis reatum nominat, alias vocat obligationem, ut 
+      <lb ed="#P" n="122"/>cap. 16. lib? 6. contra Julianum. 
+    </p>
+            <p xml:id="bt67yj-p151003-d1e318">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Denique in supradicto capite 19. ejusdem libri, 
+      <lb ed="#P" n="124"/>quaerens ex Juliano, quis sit iste reatus, &amp; ubi maneat 
+      <lb ed="#P" n="125"/>jam homine correcto, recteque vivente, nondum 
+      ta<lb ed="#P" n="126" break="no"/>men peccatorum remissione liberato, cum dixisset 
+      <lb ed="#P" n="127"/>Julianus manere in illius conscientia qui deliquit, 
+      <lb ed="#P" n="128"/>donec dimittatur; objicit; Quid, si obliviscatur se 
+      <lb ed="#P" n="129"/>deliquisse, nec ejus conscientia stimulptur, ubi tunc erit 
+      <lb ed="#P" n="130"/>reatus ille? Et tandem concludit manere, neque in 
+      <lb ed="#P" n="131"/>corpore, neque in animo, sed in occultis legibus 
+      <lb ed="#P" n="132"/>Dei, quae conscriptae sunt quodammodo in 
+      menti<lb ed="#P" n="133" break="no"/>bus angelorum, ut nulla sit iniquitas impunita, 
+      <lb ed="#P" n="134"/>nisi quam sanguis mediatoris expiaverit. 
+    </p>
+            <p xml:id="bt67yj-p151003-d1e349">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Quae tamen verba non ita videntur accipienda, 
+      <lb ed="#P" n="136"/>quasi revera non in ipso homine, vel aliqua ejus 
+      <lb ed="#P" n="137"/>parte maneat reatus post peccatum commissum &amp; 
+      <lb ed="#P" n="138"/>nondum remissione deletum. Sed negat manere in 
+      <lb ed="#P" n="139"/>animo hominis per cognitionem seu conscientiam 
+      <lb ed="#P" n="140"/>peccati; quia sive ejus conscientiam habeat, sive 
+      <lb ed="#P" n="141"/>non, manet nihilominus peccati reus, donec ejus 
+      <lb ed="#P" n="142"/>accipiat remissionem. 
+    </p>
+            <p xml:id="bt67yj-p151003-d1e371">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Unde non est hoc Augustini dictum contrarium 
+      <lb ed="#P" n="144"/>eorum doctrinae; qui reatum quatenus est relatio 
+      <lb ed="#P" n="145"/>quaedam, dicunt fundari vel in peccato praeterito, vel 
+      <!--0624.xml-->
+      <pb ed="#P" n="391"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>in macula, vel deformitate quadam ex peccato 
+      reli<lb ed="#P" n="2" break="no"/>qua &amp; permanente in anima hominis peccatoris 
+      us<lb ed="#P" n="3" break="no"/>que ad peccati remissionem. Cui sententiaeadmodum 
+      <lb ed="#P" n="4"/>favent verba Magistri in textu §. D. ubi dicit 
+      pecca<lb ed="#P" n="5" break="no"/>tum reatum esse in aliquo, cum pro eo, sive 
+      transie<lb ed="#P" n="6" break="no"/>rit, sive adsit, mens hominis polluta est &amp; corrupta, 
+      <lb ed="#P" n="7"/>totusque homo suppliciis obligatus perpetuis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

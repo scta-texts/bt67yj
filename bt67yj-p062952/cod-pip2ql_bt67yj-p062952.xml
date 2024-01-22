@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="163"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p062952"><!-- l2d18c4" -->
+            <head xml:id="bt67yj-p062952-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p062952-Hd1e103" type="question-title">Eva quo tempore et loco formata</head>
+            <p xml:id="bt67yj-p062952-d1e106">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> §. 4. Eva quo tempore &amp; loco formata.
+    </p>
+            <p xml:id="bt67yj-p062952-d1e113">
+               <lb ed="#P" n="25"/>DE tempore creationis Evae illud imprimis 
+      <lb ed="#P" n="26"/>juxta ea quae supra dicta sunt, tenendum, 
+      <lb ed="#P" n="27"/>eam non simul cum viro creatam fuisse, sed illum 
+      <lb ed="#P" n="28"/>prius, ipsam posterius. Hoc enim Apostolus 
+      ex<lb ed="#P" n="29" break="no"/>presse affirmat 1. Timoth. 2. Adam, inquit, primus 
+      <lb ed="#P" n="30"/>creatus est, deinde Eva. Author quoque libri 
+      Sa<lb ed="#P" n="31" break="no"/>pientiae cap. 10. Adam primum formatum fuisse a 
+      <lb ed="#P" n="32"/>Deo, &amp; solum creatum, scribit. Idem planissime 
+      <lb ed="#P" n="33"/>liquet ex historica narratione formationis mulieris 
+      <lb ed="#P" n="34"/>Genes. 2. Cum enim factus esset Adam dixit Deus: 
+      <lb ed="#P" n="35"/>Non est bonum hominem esse solum, faciaemus ei 
+      ad<lb ed="#P" n="36" break="no"/>jutorium simile sibi. Fuit igitur aliquod tempus quo 
+      <lb ed="#P" n="37"/>homo solus erat &amp; sine socio, nec habens 
+      adju<lb ed="#P" n="38" break="no"/>torium simile sibi. Quocirca adductis ad eum 
+      om<lb ed="#P" n="39" break="no"/>nibus animantibus adhuc dicitur: Adae vero non 
+      <lb ed="#P" n="40"/>invemebatur adjutor similis ei, quae causa fuit statimi 
+      <lb ed="#P" n="41"/>post creandi mulierem, prout ibidem scriptura 
+      con<lb ed="#P" n="42" break="no"/>sequenter declarat. 
+    </p>
+            <p xml:id="bt67yj-p062952-d1e155">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Fallitur ergo Cajetanus dum sentit Adam &amp; 
+      E<lb ed="#P" n="44" break="no"/>vam simul creatos fuisse, quomodo in caeteris 
+      ani<lb ed="#P" n="45" break="no"/>malium generibus simul creatus fuisse creditur 
+      u<lb ed="#P" n="46" break="no"/>terque sexus. Non enim eadem ratio est hominis 
+      <lb ed="#P" n="47"/>&amp; caeterorum animalium. Nam inter homines, 
+      ut<lb ed="#P" n="48" break="no"/>pote rationale animal, ordo superioritatis &amp; 
+      sub<lb ed="#P" n="49" break="no"/>jectionis institui debuit, qui proprie locum non 
+      <lb ed="#P" n="50"/>habet in bestiis. Deinde &amp; propter mysterium 
+      si<lb ed="#P" n="51" break="no"/>gnificandum, de quo supra. Cum igitur constet 
+      <lb ed="#P" n="52"/>Evam post Adam creatam fuisse, quaeritur utrum 
+      <lb ed="#P" n="53"/>eodem die, id est, sexto crcata fuerit, an 
+      septimo<lb ed="#P" n="54" break="no"/>Septimo creatam sentit Catharinus super Genesim 
+      <lb ed="#P" n="55"/>scribens. Sed jam diximus ad distinctionem 
+      deci<lb ed="#P" n="56" break="no"/>mamquintam, non septimo, sed sexto die creatam 
+      <lb ed="#P" n="57"/>fuisse mulierem; tum quia in descriptione operis 
+      <lb ed="#P" n="58"/>sexti diei creatio mulieris continetur; tum quia 
+      <lb ed="#P" n="59"/>Genes. 2. &amp; Exod. 20. scriptura aperte testatur 
+      <lb ed="#P" n="60"/>Deum septimo die requievisse &amp; cessasse ab omni 
+      <lb ed="#P" n="61"/>opere suo, scilicet eo quod pertinebat ad mundi 
+      <lb ed="#P" n="62"/>ac totius creaturae institutionem. Ad quam utique 
+      <lb ed="#P" n="63"/>pertinebat mulieris in humano genere productio, 
+      <lb ed="#P" n="64"/>multo magis quam in aliis animantium generibus. 
+      <lb ed="#P" n="65"/>In quibus nemini dubium est sexum foemininum 
+      <lb ed="#P" n="66"/>intra sex primos dies creatum fuisse. Quibus 
+      ar<lb ed="#P" n="67" break="no"/>gumentis accedit patrumiita communiter 
+      sentien<lb ed="#P" n="68" break="no"/>tium authoritas. 
+    </p>
+            <p xml:id="bt67yj-p062952-d1e217">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Altera quaestio est de loco. Nam virum quidem 
+      <lb ed="#P" n="70"/>extra paradisum fuisse creatum, nulla videtur esse 
+      <lb ed="#P" n="71"/>dubitatio, cum dicat scriptura Deum in paradiso 
+      <!--0396.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>posuisse hominem, quem formaverat, &amp; iterum: 
+      <lb ed="#P" n="73"/>Tulit ergo Dominus Deus hominem, &amp; posuit eum in 
+      <lb ed="#P" n="74"/>paradisum veluptatis, &amp;c. Quae verba manifeste 
+      si<lb ed="#P" n="75" break="no"/>gnificant hominem, id est, Adam (hoc enim 
+      no<lb ed="#P" n="76" break="no"/>men iis locis est in Hebraeo) extra paradisum factum 
+      <lb ed="#P" n="77"/>fuisse ut in eum transponeretur. Sed de muliere 
+      <lb ed="#P" n="78"/>non similiter nec ita clare scriptura loquitur. Unde 
+      <lb ed="#P" n="79"/>de ea alii aliud senserunt. Josephus enim lib. 1. 
+      <lb ed="#P" n="80"/>1. antiquitatum cap. 1. &amp; Tertullianus lib. 2. 
+      con<lb ed="#P" n="81" break="no"/>tra Marcionem &amp; Rupertus lib. 2. in Genes. cap. 
+      <lb ed="#P" n="82"/>32. existimant mulierem aeque ut virum extra 
+      pa<lb ed="#P" n="83" break="no"/>radisum creatam esse. Contra vero sanctus Basilius 
+      <lb ed="#P" n="84"/>homilla undecima Hexa. Sanctus Thomas 
+      pri<lb ed="#P" n="85" break="no"/>ma parte quaestione 102. articulo quarto ad 
+      ter<lb ed="#P" n="86" break="no"/>tium, caeterique scholastici super hanc <sic>distinction.</sic>
+               <lb ed="#P" n="87"/>censent in paradiso mulierem factam esse. Quod 
+      <lb ed="#P" n="88"/>profecto valde consentaneum est narrationi 
+      scriptu<lb ed="#P" n="89" break="no"/>rae. Postquam enim Adam introductus fuit in 
+      pa<lb ed="#P" n="90" break="no"/>radisum, adducta sunt ad eum animalia, deinde 
+      <lb ed="#P" n="91"/>ex ejus latere formata Eva. Neque enim Adamum 
+      <lb ed="#P" n="92"/>postquam semel paradisum fuit ingressus, credibile 
+      <lb ed="#P" n="93"/>est rursus inde exivisse, ut ex ipso extra paradisum 
+      <lb ed="#P" n="94"/>Eva formaretur; cum neque scriptura, neque patres 
+      <lb ed="#P" n="95"/>ullum agnoscant alium primi hominis exitum e 
+      <lb ed="#P" n="96"/>paradiso, quam quo exiit pulsus inde propter 
+      pec<lb ed="#P" n="97" break="no"/>catum una cum muliere peccati socia. Huc adde 
+      <lb ed="#P" n="98"/>quod nec scriptura nec patres Evam dicant 
+      transla<lb ed="#P" n="99" break="no"/>tam &amp; positam fuisse in paradisum. Unde cum 
+      <lb ed="#P" n="100"/>constet eam in paradiso fuisse (ibi enim peccavit 
+      <lb ed="#P" n="101"/>&amp; inde ejecta est) consequenter intelligitur etiam 
+      <lb ed="#P" n="102"/>in paradiso fuisse formatam. 
+    </p>
+            <p xml:id="bt67yj-p062952-d1e302">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Nec obstat haec ratio: Si mulier in paradiso 
+      fa<lb ed="#P" n="104" break="no"/>cta fuit; ergo multo magis vir qui muliere 
+      di<lb ed="#P" n="105" break="no"/>gnior est, in paradiso fieri debuit. Recte enim 
+      re<lb ed="#P" n="106" break="no"/>spondet S. Thomas loco jam citato, mulierem 
+      fa<lb ed="#P" n="107" break="no"/>ctam fuisse in paradiso, non propter dignitatem 
+      <lb ed="#P" n="108"/>suam, sed propter dignitatem principii ex quo 
+      cor<lb ed="#P" n="109" break="no"/>pus ejus formabatur. Quia similiter, inquit, &amp; filii 
+      <lb ed="#P" n="110"/>in paradiso fuissent nati, in quo parentes erant positi.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

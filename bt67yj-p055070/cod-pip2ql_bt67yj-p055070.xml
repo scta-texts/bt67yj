@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="143"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p055070"><!-- l2d17c1" -->
+            <head xml:id="bt67yj-p055070-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p055070-Hd1e103" type="question-title">Quae hominis formatio secundum corpus</head>
+            <p xml:id="bt67yj-p055070-d1e106">
+               <lb ed="#P" n="25"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="26"/>DECIMAMSEPTIMAM. 
+      <lb ed="#P" n="27"/>§. 1. Quae hominis formatio secundum corpus. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e115">
+               <lb ed="#P" n="28"/>CREATIONEM hominis secundum corpus 
+      <lb ed="#P" n="29"/>&amp; animam scriptura Genes. 2. ita paucis 
+      de<lb ed="#P" n="30" break="no"/>Iscribit: Formavit Deminus Deus hominem 
+      <lb ed="#P" n="31"/>de limo terrae, &amp; inspiravit in faciem ejus 
+      spiracu<lb ed="#P" n="32" break="no"/>lum vitae. Quae verba docent hominem ex gemino 
+      <lb ed="#P" n="33"/>principio compositum esse corporeo scilicet &amp; 
+      in<lb ed="#P" n="34" break="no"/>corporeo, velut quiddam inter utramque naturam 
+      <lb ed="#P" n="35"/>medium, &amp; ut ait Damascenus libr. 2. de fide capit. 
+      <lb ed="#P" n="36"/>12. tanquam vinculum quoddam visibilis &amp; 
+      invisibi<lb ed="#P" n="37" break="no"/>lis naturae. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e139">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Circa formationem corporis quatuor haec 
+      consi<lb ed="#P" n="39" break="no"/>deranda veniunt, materia, temperamentum, aetas 
+      <lb ed="#P" n="40"/>&amp; statura. Nam de figura jam dictum est ad dist. 
+      <lb ed="#P" n="41"/>superiorem; quod ad materiam attinet, aperta est 
+      <lb ed="#P" n="42"/>scriptura dicens hominem factum esse de limo terrae, 
+      <lb ed="#P" n="43"/>sive ut Hebraea &amp; Chaldaea consentientibus etiam 
+      <lb ed="#P" n="44"/>70. habent, de pulvere terrae. Quam vocem etiam 
+      <lb ed="#P" n="45"/>Joann. Chrysostomus peculiariter urget in suo 
+      com<lb ed="#P" n="46" break="no"/>mentario. Neque vero repugnant haec duo, ex 
+      <lb ed="#P" n="47"/>limo factum esse hominem, &amp; ex pulvere, cum ex 
+      <lb ed="#P" n="48"/>pulvere mixto cum aqua limus fiat. Quocirca 
+      no<lb ed="#P" n="49" break="no"/>ster interpres pro pulvere limum vertens, 
+      signifi<lb ed="#P" n="50" break="no"/>care voluit materiam ex qua factum est corpus 
+      ho<lb ed="#P" n="51" break="no"/>minis, non fuisse purum pulverem, utpote qui 
+      pro<lb ed="#P" n="52" break="no"/>pter tenuitatem &amp; ariditatem suam non sit 
+      formabi<lb ed="#P" n="53" break="no"/>lis in unum aliquod solidum corpus, sed pulverem 
+      <lb ed="#P" n="54"/>cum aqua mixtum, id est, lutum seu terram 
+      limo<lb ed="#P" n="55" break="no"/>sam, quali nimirum solent uti figuli ad opera suae 
+      <lb ed="#P" n="56"/>artis. Quo pertinet etiam tam verbum Hebraicum 
+      <lb ed="#P" n="57"/>quam Graecum, quod utrumque fingere significat, 
+      <lb ed="#P" n="58"/>&amp; figulis proprium est. Pro quo nos habemus, 
+      <lb ed="#P" n="59"/>formavit. Nam Moyses Deum hic quasi figulum 
+      <lb ed="#P" n="60"/>introducit ex luto fingentem &amp; plasmantem corpus 
+      <lb ed="#P" n="61"/>hominis. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e197">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Ratio autem cur ex istiusmodi materia 
+      forma<lb ed="#P" n="63" break="no"/>tus sit homo, triplex adduci potest. Una, ut per hoc 
+      <lb ed="#P" n="64"/>monstraretur admirabilis sapientia creatoris, qui 
+      <lb ed="#P" n="65"/>e re vilissima tam nobilem facere potuerit 
+      creatu<lb ed="#P" n="66" break="no"/>ram; terra enim corporum omnium vilissimum est, 
+      <lb ed="#P" n="67"/>ut &amp; infimum. Altera, ad reprimendam 
+      homi<lb ed="#P" n="68" break="no"/>nis elationem, si quando sibi propter excellentiam 
+      <lb ed="#P" n="69"/>suae naturae vel quacunque alia ratione nimium pla¬ 
+      <!--0376.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>ceret. Nam originis istius consideratio magnum 
+      <lb ed="#P" n="71"/>momentum adfert ad humilitatem. Unde 
+      Abra<lb ed="#P" n="72" break="no"/>ham dicebat Genes. 18. Loquar ad Dominum meum 
+      <lb ed="#P" n="73"/>cum sim pulvis &amp; cinis, &amp; Ecclesiasticus adversus 
+      <lb ed="#P" n="74"/>superbiam hominis exclamat capite 10. Quid 
+      su<lb ed="#P" n="75" break="no"/>perbit terra &amp; cinis. Similiter &amp; Isaias capite 45. 
+      <lb ed="#P" n="76"/>Va qui contradicit fictori suo, msta de samis terrae. 
+      <lb ed="#P" n="77"/>Denique in primo homine semel universo generi 
+      <lb ed="#P" n="78"/>humano dictum est Genes. 3. Avis es &amp; in 
+      pulve<lb ed="#P" n="79" break="no"/>rem reverteris. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e245">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Tertia ratio, ut materia suae formae responderet. 
+      <lb ed="#P" n="81"/>Cum enim anima rationalis sit in potentia ad 
+      multi<lb ed="#P" n="82" break="no"/>plices operationes, oportebat ei subjici materiam 
+      <lb ed="#P" n="83"/>mollem, tractabilem atque formabilem cujusmodi 
+      <lb ed="#P" n="84"/>maxime est lutum. Hoc enim nomine, etsi non in 
+      <lb ed="#P" n="85"/>Genesi ubi creatio hominis describitur, alibi tamen 
+      <lb ed="#P" n="86"/>humani corporis materiam scriptura designat, ut 
+      <lb ed="#P" n="87"/>Job. 10. &amp; 33. Isa. 64. Jerem. 18. 
+      <lb ed="#P" n="88"/>Porro sicut ex terra formatum est hominis 
+      cor<lb ed="#P" n="89" break="no"/>pus non sine aqua, uti diximus; ita probabile est 
+      <lb ed="#P" n="90"/>etiam reliqua duo elementa in hanc mixturam 
+      ma<lb ed="#P" n="91" break="no"/>teriae ex qua corpus hominis fingeretur, venisse, 
+      <lb ed="#P" n="92"/>eo quod ex quatuor elementis compositum sit 
+      hu<lb ed="#P" n="93" break="no"/>manum corpus, ut &amp; caetera mixta corpora 
+      perfe<lb ed="#P" n="94" break="no"/>cta; sed ideo solum limum seu lutum quod ex 
+      ter<lb ed="#P" n="95" break="no"/>ra &amp; aqua est nominari, quod haec duo elementa 
+      <lb ed="#P" n="96"/>in compositione corporis humani secundum 
+      mo<lb ed="#P" n="97" break="no"/>lem aliis praecellant, ac sensibus quoque magis 
+      con<lb ed="#P" n="98" break="no"/>spicua sint. Quod autem a nonnullis proditum est 
+      <lb ed="#P" n="99"/>aliquid etiam ex quinta essentia, id est, ex natura 
+      <lb ed="#P" n="100"/>caelesti desumptum esse, quod materiae humani 
+      cor<lb ed="#P" n="101" break="no"/>poris misceretur, ut id quasi medium quoddam 
+      vin<lb ed="#P" n="102" break="no"/>culum esset, per quod anima cujus natura 
+      incorpo<lb ed="#P" n="103" break="no"/>rea est, cum corpore colligaretur; merito id a 
+      <lb ed="#P" n="104"/>Theologis naturalis philosophiae peritis tanquam 
+      <lb ed="#P" n="105"/>figmentum cum vera philosophia minime 
+      cohae<lb ed="#P" n="106" break="no"/>rens exploditur. Natura enim caelestium corporum 
+      <lb ed="#P" n="107"/>incorruptibilis est &amp; inalterabilis. Quare fieri 
+      ne<lb ed="#P" n="108" break="no"/>quit, ut inde quicquam deducatur in humani 
+      cor<lb ed="#P" n="109" break="no"/>poris compositionem. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e315">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Jam quod ad temperamentum humani corporis 
+      <lb ed="#P" n="111"/>attinet quam complexionem vocant; est illud sane 
+      <lb ed="#P" n="112"/>caeterorum animantium comparatione 
+      praestantissi<lb ed="#P" n="113" break="no"/>mum, utpote in mixto corpore omnium secundum 
+      <lb ed="#P" n="114"/>naturam praestantissimo. Propius enim accedit in 
+      <lb ed="#P" n="115"/>homine quam in caeteris ad aequalitatem &amp; 
+      medio<lb ed="#P" n="116" break="no"/>critatem, longiusque remotum est ab excessu 
+      qua<lb ed="#P" n="117" break="no"/>litatum primarum. Hanc vero temperamenti 
+      perfe<lb ed="#P" n="118" break="no"/>ctionem in homine arguit excellentia tactus, quod 
+      <lb ed="#P" n="119"/>ille sensus pro instrumento totum corpus possideat, 
+      <lb ed="#P" n="120"/>idemque in contemperatione primarum qualitatum 
+      <lb ed="#P" n="121"/>propterea consistat, quod earundem qualitatum sit 
+      <lb ed="#P" n="122"/>perceptivus. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e348">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Unde praeterea sequitur in humano corpore prae 
+      <lb ed="#P" n="124"/>caeteris sensuum tam interiorum quam reliquorum 
+      <lb ed="#P" n="125"/>quatuor exteriorum praestantia. Nam ubi 
+      praestan<lb ed="#P" n="126" break="no"/>tissimum est temperamentum, ibi &amp; sensoria 
+      instru<lb ed="#P" n="127" break="no"/>menta; &amp; proinde sensus ipsos optime sese habere 
+      <lb ed="#P" n="128"/>necesse est. Ac de sensibus quidem interioribus ea 
+      <lb ed="#P" n="129"/>res extra controversiam est. De exterioribus autem 
+      <lb ed="#P" n="130"/>potest hoc ipsum ostendi ex iis quae philosophus 
+      tra<lb ed="#P" n="131" break="no"/>dit lib. 5. de generatione animalium cap. 1. quae nos 
+      <lb ed="#P" n="132"/>hic causa brevitatis omittimus. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e374">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> De aetate (quod tertium erat) quaestionem 
+      mo<lb ed="#P" n="134" break="no"/>vet Augustinus libr. 6. de Genes. ad literam cap. 13. 
+      <lb ed="#P" n="135"/>scilicet utrum in aetate perfecta, hoc est juvenili aut 
+      <lb ed="#P" n="136"/>virili formatus fuerit Adam, an in tali quae nostrae 
+      <lb ed="#P" n="137"/>responderet pueritiae aut infantiae, &amp; ex qua 
+      pro<lb ed="#P" n="138" break="no"/>gressus illi fuerit ad aetates perfectiores. Quamvis 
+      <lb ed="#P" n="139"/>autem nihil expresse definiat Augustinus; satis 
+      ta<lb ed="#P" n="140" break="no"/>men indicat magis sibi placere priorem quaestionis 
+      <lb ed="#P" n="141"/>partem, idque merito. Nam prima illa Dei opera 
+      <lb ed="#P" n="142"/>quae initio sobricatus est, omnia perfecta esse 
+      con<lb ed="#P" n="143" break="no"/>veniebat. Unde sicut caetera animantia magnitudine 
+      <!--0377.xml-->
+      <pb ed="#P" n="144"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>corporum atque aetate perfecta initio facta sunt; ita 
+      <lb ed="#P" n="2"/>de homine qui caeterorum omnium dominium 
+      sta<lb ed="#P" n="3" break="no"/>tim ac cepturus erat, multo magis existimandum est. 
+      <lb ed="#P" n="4"/>Quod vel inde etiam aperte monstratur, quia statim 
+      <lb ed="#P" n="5"/>ut creati sunt Adam &amp; Eva, audierunt a Domino: 
+      <lb ed="#P" n="6"/>Crescite &amp; multiplicamini. Ex quo constat aetate jam 
+      <lb ed="#P" n="7"/>firma, utpote ad generandum idonea, ambos 
+      crea<lb ed="#P" n="8" break="no"/>tos fuisse. Nam generare eorum est animalium quae 
+      <lb ed="#P" n="9"/>plenum corporuuorum incrementum jam sunt 
+      <lb ed="#P" n="10"/>adepta. Atque haec cum Magistri in hac 
+      distinctio<lb ed="#P" n="11" break="no"/>ne tum Scholasticorum omnium communis est 
+      sen<lb ed="#P" n="12" break="no"/>tentia. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e435">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Si quaeras qua igitur aetate, id est cui annorum 
+      <lb ed="#P" n="14"/>numero respondente creati fuerint; recte plerique 
+      <lb ed="#P" n="15"/>sentiunt creatos fuisse ea aetate qua Christus erat 
+      <lb ed="#P" n="16"/>quando mortuus est &amp; resurrexit, quae nimirum 
+      <lb ed="#P" n="17"/>respondeat anno aetatis tricesimoquarto aut 
+      circi<lb ed="#P" n="18" break="no"/>ter. Ea enim habetur aetas integra &amp; perfecta. 
+      Scien<lb ed="#P" n="19" break="no"/>dum tamen hanc aetatem non eidem annorum 
+      nu<lb ed="#P" n="20" break="no"/>mero adaptari potuisse sub initium generis 
+      huma<lb ed="#P" n="21" break="no"/>ni. Nam ut diutissime tunc vivebant homines; ita 
+      <lb ed="#P" n="22"/>ad perfectam aetatem tardius accedebant, ut fortasse 
+      <lb ed="#P" n="23"/>circa sexagesimum aut septuagesimum annum, vel 
+      <lb ed="#P" n="24"/>etiam serius. Siquidem ante sexagesimum aetatis 
+      an<lb ed="#P" n="25" break="no"/>num nemo ante diluvium legitur filios genuisse, ut 
+      <lb ed="#P" n="26"/>videre est cap. 5. Genesis, ubi series generationum 
+      <lb ed="#P" n="27"/>texitur ab Adam usque ad Noe, cum annorum 
+      qui<lb ed="#P" n="28" break="no"/>bus singuli genuerunt recensione. Ex quo jam illud 
+      <lb ed="#P" n="29"/>etiam colligitur, primi hominis ab aetate perfecta 
+      <lb ed="#P" n="30"/>longissimam vitam fuisse prae omnibus quorum 
+      lon<lb ed="#P" n="31" break="no"/>gaevitatem scriptura expressit. Vixit enim Adam 
+      an<lb ed="#P" n="32" break="no"/>nis 930. Mathusala vero, qui caeteros annorum 
+      nu<lb ed="#P" n="33" break="no"/>mero superavit, annis 969. quibus si detrahas 
+      pri<lb ed="#P" n="34" break="no"/>mos sexaginta annos aetatem perfectam 
+      praeceden<lb ed="#P" n="35" break="no"/>tes, facile inde conjicias quanto longior fuerit Ada 
+      <lb ed="#P" n="36"/>quam Mathusalae vita, si ab aetate perfecta utriusque 
+      <lb ed="#P" n="37"/>anni supputentur. Qua ratione si quis dicat Adam 
+      <lb ed="#P" n="38"/>diutissime omnium mortalium vixisse, iis dumtaxat 
+      <lb ed="#P" n="39"/>exceptis qui ex hominum consortio translati 
+      non<lb ed="#P" n="40" break="no"/>dum mortem gustarunt, nihil improbabile dicere 
+      <lb ed="#P" n="41"/>videbitur. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e504">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Postremum erat statura, molesque corporis, de 
+      <lb ed="#P" n="43"/>qua breviter dicimus quemadmodum de aetate, 
+      fa<lb ed="#P" n="44" break="no"/>ctum fuisse primum hominem magnitudine 
+      corpo<lb ed="#P" n="45" break="no"/>ris perfecta secundum omnem extensionem. Eam 
+      <lb ed="#P" n="46"/>enim magnitudinem perfecta aetas adducit tanquam 
+      <lb ed="#P" n="47"/>terminum naturalis incrementi corporum. Neque 
+      <lb ed="#P" n="48"/>vero mulier gestando foetui in utero satis apta fuisset 
+      <lb ed="#P" n="49"/>nisi corpus habuisset juxta magnitudine. Quamvis 
+      <lb ed="#P" n="50"/>hoc ipsum etiam exemplo caeterorum animantium 
+      <lb ed="#P" n="51"/>recte ostendi jam supra monuimus. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e530">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Sunt autem nonnulli qui opinentur Adamum 
+      <lb ed="#P" n="53"/>quod ad molem corporis attinet, gigantem fuisse, &amp; 
+      <lb ed="#P" n="54"/>quidem omnium qui unquam fuerunt maximum. 
+      <lb ed="#P" n="55"/>Quod probare contendunt ex Josue 14. ubi sic 
+      legi<lb ed="#P" n="56" break="no"/>tur, Nomen Hebron ante vocabatur Cariath Arbe 
+      <lb ed="#P" n="57"/>Adam maximus ibi inter Enacim situs est. Hoc enim 
+      <lb ed="#P" n="58"/>de Adam primo homine Hieronymus interpretatur. 
+      <lb ed="#P" n="59"/>in commentario super Matth. 27. Quod si maximus 
+      <lb ed="#P" n="60"/>fuit Adam inter Enacim: Enacim vero famosi 
+      prae<lb ed="#P" n="61" break="no"/>caeteris fuere gigantes, ut constat ex Numer. 13. &amp; 
+      <lb ed="#P" n="62"/>Deut. 1. 2. &amp; 9. sane apparet Adamum caeteros 
+      <lb ed="#P" n="63"/>etiam mortales omnes mole corporis superasse. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e561">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Sed haec opinio facile refellitur: Primum, quia 
+      <lb ed="#P" n="65"/>magnitudo gigantaea monstrosa est &amp; praeter 
+      natu<lb ed="#P" n="66" break="no"/>ram, ut docent naturales. Quare primo homini qui 
+      <lb ed="#P" n="67"/>perfectus creatus fuit, nequaquam tribuenda. Quod 
+      <lb ed="#P" n="68"/>sit monstrosa probatur; quia in magnitudine sicut 
+      <lb ed="#P" n="69"/>est defectus, ita &amp; excessus. Defectus autem 
+      con<lb ed="#P" n="70" break="no"/>spicitur in nanis; ergo excessus in gigantibus. Non 
+      <lb ed="#P" n="71"/>enim sunt alii in quibus excessus justae magnitudinis 
+      <lb ed="#P" n="72"/>notari possit. Deinde quia scriptura testatur Genesis 
+      <lb ed="#P" n="73"/>sexto, tunc demum gigantes exortos fuisse, quando 
+      <lb ed="#P" n="74"/>genus humanum multis ac gravissimis vitus de¬ 
+      <!--0377.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>pravatum fuit, propter quae postea mundo inductum 
+      <lb ed="#P" n="76"/>fuit diluvium, id est, multo tempore post Adae 
+      <lb ed="#P" n="77"/>mortem. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e600">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Tertio, quia scriptura de gigantibus nusquam in 
+      <lb ed="#P" n="79"/>bonam loquitur partem, sed fere semper in malam. 
+      <lb ed="#P" n="80"/>Quin &amp; Poetae gentilium fere non nisi in malam 
+      par<lb ed="#P" n="81" break="no"/>tem loquuntur, ut de illis qui Jovem tentarunt caelo 
+      <lb ed="#P" n="82"/>exturbare, &amp; apud Virgilium de Cyclopibus. Item 
+      <lb ed="#P" n="83"/>scriptura de iis loquitur tanquam superbis &amp; in sua 
+      <lb ed="#P" n="84"/>virtute &amp; fortitudne confidentibus. Vide Baruch. 
+      <lb ed="#P" n="85"/>Nec obstat illud Psalmi 18. Exultabit ut gigas, &amp;c. 
+      <lb ed="#P" n="86"/>Nam ibi Hebraice non est gigas, sed potens. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e624">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Quarto, quia Christus cujus tam magnitudo 
+      cor<lb ed="#P" n="88" break="no"/>poris quam aetas perfecta fuit, non gigantaea sed 
+      me<lb ed="#P" n="89" break="no"/>diocri fuit corporis statura. 
+    </p>
+            <p xml:id="bt67yj-p055070-d1e635">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Postremo, quia nulla authoritate nititur dicta 
+      <lb ed="#P" n="91"/>opinio. Nam quod ex libro Josue adfertur, longe 
+      <lb ed="#P" n="92"/>alium habet intellectum. Adam enim eo loco, non 
+      <lb ed="#P" n="93"/>proprium sed commune nomen est hominem 
+      signi<lb ed="#P" n="94" break="no"/>ficans, &amp; sensus est: Oppidum Hebron olim 
+      voca<lb ed="#P" n="95" break="no"/>tum fuisse Cariath Arbe, id est oppidum Arbae, qui 
+      <lb ed="#P" n="96"/>erat homo maximus inter Enacim, id est gigantes 
+      <lb ed="#P" n="97"/>sic dictos. Quem sensum confirmat quod proxime 
+      <lb ed="#P" n="98"/>sequenti cap. dicitur Caleb cepisse &amp; in possessionem 
+      <lb ed="#P" n="99"/>accepisse Cariath Arbe patris Enac: Erat igitur 
+      Ar<lb ed="#P" n="100" break="no"/>ba pater Enac gigantis, cujus filii item gigantes a 
+      <lb ed="#P" n="101"/>nomine patris dicti sunt Enacim; qui &amp; ipsi 
+      gigan<lb ed="#P" n="102" break="no"/>tes ex se genuerunt, quos scriptura filios Enacim 
+      <lb ed="#P" n="103"/>vocat. Horum autem omnium Arba maximus fuit 
+      <lb ed="#P" n="104"/>vel statura ac mole corporis, vel nominis &amp; rerum 
+      <lb ed="#P" n="105"/>gestarum celebritate; tametsi in Hebraeo non est 
+      ma<lb ed="#P" n="106" break="no"/>ximus, sed magnus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

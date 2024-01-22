@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="140"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p054206"><!-- l2d16c5" -->
+            <head xml:id="bt67yj-p054206-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p054206-Hd1e103" type="question-title">Utrum et mulier ad imaginem Dei facta sit</head>
+            <p xml:id="bt67yj-p054206-d1e106">
+               <lb ed="#P" n="122"/>§. 5. Utrum &amp; mulier ad imaginem Dei facta sit? 
+    </p>
+            <p xml:id="bt67yj-p054206-d1e111">
+               <lb ed="#P" n="123"/>EX verbis Apostoli 1. Corinth. 11. Vir imago &amp; 
+      <lb ed="#P" n="124"/>Lgloria Dei est, mulier autem gloria viri est; 
+      qui<lb ed="#P" n="125" break="no"/>dam occasionem sumpserunt docendi solum virum, 
+      <lb ed="#P" n="126"/>non etiam mulierem ad imaginem Dei factam esse. 
+      <lb ed="#P" n="127"/>Tradunt hoc author quaestionum veteris &amp; novi 
+      te<lb ed="#P" n="128" break="no"/>stamenti apud Augustinum quaest. 21. &amp; 24. &amp; 
+      au<lb ed="#P" n="129" break="no"/>thor commentariorum in Paulum titulo Ambrosii 
+      <lb ed="#P" n="130"/>sup. 1. Corinth. 11. Quin ipse etiam Ambros. videri 
+      <lb ed="#P" n="131"/>potest ita sensisse, dum super Luc. 4. de Adam &amp; 
+      <lb ed="#P" n="132"/>Eva sic ait: quorum alter ad imaginem Dei factus, 
+      <lb ed="#P" n="133"/>altera virtutem sui accipiens viri. 
+    </p>
+            <p xml:id="bt67yj-p054206-d1e137">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Sed falsam esse eam doctrinam facile est ostendere. 
+      <lb ed="#P" n="135"/>Primum ex authoritate scripturae, quae Genes. 1. 
+      <lb ed="#P" n="136"/>cum dixisset de homine: Ad imaginem Dei creavit 
+      il<lb ed="#P" n="137" break="no"/>lum, addidit: Masculum &amp; foemina creavit eos. 
+      Simili<lb ed="#P" n="138" break="no"/>ter &amp; cap. 5. cum dixisset, Ad similitudinem Dei fecu 
+      <lb ed="#P" n="139"/>illum, iterum adjunxit: Masculum &amp; foeminam creavit 
+      <lb ed="#P" n="140"/>eos: Sed &amp; cap. 9. huic legi: Quicumque effuderit 
+      hu<lb ed="#P" n="141" break="no"/>manum sanguinem, fundetur sanguis illius, hanc 
+      sub<lb ed="#P" n="142" break="no"/>jecit ratione: Ad imaginem quippe Dei factus est homo. 
+      <lb ed="#P" n="143"/>Hoc enim certo argumento colligitur cum ea lex 
+      u<lb ed="#P" n="144" break="no"/>trumque sexum comprehendat, consequenter etiam 
+      <lb ed="#P" n="145"/>rationem adjunctam ad utrumque sexum pertinere. 
+    </p>
+            <p xml:id="bt67yj-p054206-d1e169">
+      <!--0374.xml-->
+               <pb ed="#P" n="141"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Potest idem ostendi ex ratione imaginis superius? 
+      <lb ed="#P" n="2"/>explicata. Sive enim in intellectu sive in libero 
+      arbi<lb ed="#P" n="3" break="no"/>trio, sive in potestate dominandi secundum diversas 
+      <lb ed="#P" n="4"/>patrum declarationes, imaginis ratio constituatur; 
+      <lb ed="#P" n="5"/>manifestum est haec omnia ex eorum patrum 
+      senten<lb ed="#P" n="6" break="no"/>tia, muliebri sexui communia esse¬ 
+    </p>
+            <p xml:id="bt67yj-p054206-d1e191">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> His accedunt aperta SS. Patrum testimonia. 
+      Ba<lb ed="#P" n="8" break="no"/>silii homilia 10. Hexameron, Ambrosii lib. 6. 
+      ejus<lb ed="#P" n="9" break="no"/>dem argumenti cap. 8. &amp; Augustini libr. 12. de 
+      tri<lb ed="#P" n="10" break="no"/>nitate cap. 7. Item S. Julittae verbis a S. Basilio 
+      reci<lb ed="#P" n="11" break="no"/>tatis homilia 5. Neque sane diversum quid sensit 
+      <lb ed="#P" n="12"/>Apostolus. Cum enim dixit virum esse imaginem 
+      <lb ed="#P" n="13"/>Dei, non voluit mulierem simpliciter ab ea 
+      dignita<lb ed="#P" n="14" break="no"/>te exclusam; sed significavit majori ratione virum 
+      <lb ed="#P" n="15"/>quam mulierem dici imaginem Dei. Quamvis enim 
+      <lb ed="#P" n="16"/>uterque mente &amp; arbitrii libertate praeditus sit; 
+      ma<lb ed="#P" n="17" break="no"/>gis tamen in viro quam in foemina viget ratio, si 
+      uni<lb ed="#P" n="18" break="no"/>versum genus muliebre spectemus. Propter quod 
+      <lb ed="#P" n="19"/>etiam viro magis quam foeminae competit 
+      domi<lb ed="#P" n="20" break="no"/>nium ac praefectura in res homini subjectas, quod 
+      <lb ed="#P" n="21"/>ex eo liquet; quia vir naturaliter praeest mulieri, 
+      <lb ed="#P" n="22"/>non contra: Et, ut eodem loco ait apostolus, non 
+      <lb ed="#P" n="23"/>vir ex muliere est, sed mulier ex viro; &amp;, non est 
+      crea<lb ed="#P" n="24" break="no"/>tus vir propter mulierem, sed mulier propter virum. 
+      <lb ed="#P" n="25"/>Quibus utique verbis significatur virum esse 
+      prin<lb ed="#P" n="26" break="no"/>cipium mulieris &amp; finem, sicut Deus est principium 
+      <lb ed="#P" n="27"/>&amp; finis totius creaturae, ut bene annotavit S. Th. 1. 
+      <lb ed="#P" n="28"/>qe qu. 93. art. 4. ad 1. 
+    </p>
+            <p xml:id="bt67yj-p054206-d1e243">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Respondent alii virum peculiariter ab Apostolo 
+      <lb ed="#P" n="30"/>dici imaginem &amp; gloriam Dei, quod ex Deo sit 
+      <lb ed="#P" n="31"/>immediate, ac nullo alio cujus imaginem gerat, 
+      <lb ed="#P" n="32"/>interveniente; mulierem vero, quod mediante 
+      vi<lb ed="#P" n="33" break="no"/>ro ex quo formata est, sit a Deo, non Dei, sed viri 
+      <lb ed="#P" n="34"/>gloriam &amp; imaginem convenientius appellari; 
+      <lb ed="#P" n="35"/>Quomodo Adam Genes. 5. filium genuisse dicitur 
+      <lb ed="#P" n="36"/>ad imaginem &amp; similitudinem suam; ex 
+      consequen<lb ed="#P" n="37" break="no"/>ti tamen ac mediate tam uxorem ejus, quam filium 
+      <lb ed="#P" n="38"/>esse Dei imaginem. Hanc responsionem prior illa 
+      <lb ed="#P" n="39"/>magis illustrat, utraque vero satis congruit textui 
+      <lb ed="#P" n="40"/>apostolico, ut non sit nobis necesse imaginem 
+      a<lb ed="#P" n="41" break="no"/>pud Apostolum aliter interpretari, quam in 
+      Gene<lb ed="#P" n="42" break="no"/>si. Quod fecisse videtur Joan. Chrysostomus, dum 
+      <lb ed="#P" n="43"/>Apostoli locum exponens per imaginem intelligit 
+      <lb ed="#P" n="44"/>principatum viri in mulierem. At Cyrillus eundem 
+      <lb ed="#P" n="45"/>Apostoli locum tractans lib. 13. thesauri cap. 3. 
+      ma<lb ed="#P" n="46" break="no"/>nifeste in eo quod mulieri commune est, imaginis 
+      <lb ed="#P" n="47"/>rationem constituit; S. Aug. vero lib. 12. de 
+      Trini<lb ed="#P" n="48" break="no"/>tate cap. 7. mysticam quandam adfert. 
+      intelligen<lb ed="#P" n="49" break="no"/>tiam verborum Apostoi, ut per mulierem 
+      signifi<lb ed="#P" n="50" break="no"/>cetur ratio inferior, quae rebus temporalibus 
+      inten<lb ed="#P" n="51" break="no"/>dit, per virum ratio superior, quae intenta est 
+      aeter<lb ed="#P" n="52" break="no"/>nis, dicitque hac in parte potissimum relucere 
+      ima<lb ed="#P" n="53" break="no"/>ginem Dei, quod &amp; repetit lib. 15. cap. 3. 
+    </p>
+            <p xml:id="bt67yj-p054206-d1e302">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Porro rejecta authoritate duorum librorum, 
+      quo<lb ed="#P" n="55" break="no"/>rum alter Augustini, alter Ambrosii falsum gerit 
+      ti<lb ed="#P" n="56" break="no"/>tulum; uterque vero incogniti est authoris; ad 
+      ve<lb ed="#P" n="57" break="no"/>rum Ambrosium respondetur, non aliud eo loco 
+      <lb ed="#P" n="58"/>ipsum velle quam quod ipse Apostolus secundum 
+      <lb ed="#P" n="59"/>posteriorem solutionem jam datam, nec de ejus 
+      <lb ed="#P" n="60"/>sententia dubitari posse quam clare expresserit in 
+      <lb ed="#P" n="61"/>Hexamero loco a nobis citato. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

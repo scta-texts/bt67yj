@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="391"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p151309"><!-- l2d42c4" -->
+            <head xml:id="bt67yj-p151309-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p151309-Hd1e103" type="question-title">Peccatorum alia mortalia esse alia venialia</head>
+            <p xml:id="bt67yj-p151309-d1e106">
+               <lb ed="#P" n="8"/>§. 4. Peccatorum alia mortalia esse alia venialia
+    </p>
+            <p xml:id="bt67yj-p151309-d1e111">
+               <lb ed="#P" n="9"/>POst generalem peccati divisionem in originale 
+      <lb ed="#P" n="10"/>&amp; actuale, multiplices existunt peccatorum 
+      <lb ed="#P" n="11"/>actualium differentiae, &amp; variae divisiones. Quarum 
+      <lb ed="#P" n="12"/>ea apud orthodoxosscriptores est celeberrima, 
+      quam<lb ed="#P" n="13" break="no"/>primo loco Magister assignavit in textu; qua 
+      nimi<lb ed="#P" n="14" break="no"/>rum dividitur actuale peccatum in mortale &amp; 
+      venia<lb ed="#P" n="15" break="no"/>le. Mortale peccatum dicitur, quod hominem Deo 
+      <lb ed="#P" n="16"/>inimicum constituit, &amp; mortem meretur aeternam. 
+      <lb ed="#P" n="17"/>Veniale, quod hominem a gratia Dei non excludit, 
+      <lb ed="#P" n="18"/>nec aeternae, sed temporalis tantum poenae reum 
+      <lb ed="#P" n="19"/>facit. Mortalia alio nomine crimina ac graviora 
+      <lb ed="#P" n="20"/>peccata a veteribus appellantur: Venialia vero 
+      <lb ed="#P" n="21"/>tum quotidiana, tum leviora peccata. 
+    </p>
+            <p xml:id="bt67yj-p151309-d1e142">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Utrumque hoc peccatorum genus ex scriptura 
+      <lb ed="#P" n="23"/>comprobare non est difficile. Ea enim non omnibus, 
+      <lb ed="#P" n="24"/>sed quibusdam tantum peccatis tribuit, quod 
+      chari<lb ed="#P" n="25" break="no"/>tatem excludant, quod privent regno caelorum, qod 
+      <lb ed="#P" n="26"/>gehennam mereantur, quod impium vel injustum 
+      <lb ed="#P" n="27"/>faciant hominem, aliis vero nihil horum; sed eos 
+      <lb ed="#P" n="28"/>qui talibus sunt obnoxii, si gravioribus careant, 
+      <lb ed="#P" n="29"/>etiam justos vocat, &amp; legis divinae observationem 
+      <lb ed="#P" n="30"/>iis ascribit, &amp; indulgentiam, salutemque promittit. 
+      <lb ed="#P" n="31"/>De mortalibus haec loca sunt, 1. Corinth. 6. Neque 
+      <lb ed="#P" n="32"/>fornicarii, neque idolis servientes, neque adulteri, &amp;c. 
+      <lb ed="#P" n="33"/>regnum Dei possidebunt. Et Ephes. 5. Omnis fornicaton 
+      <lb ed="#P" n="34"/>aut immundus, &amp;c non habet haereditatem in 
+      regno<lb ed="#P" n="35" break="no"/>Christi &amp; Dei. Et Gal. 5. ubi enumeratis aliquot 
+      o<lb ed="#P" n="36" break="no"/>peribus carnis concludit: Quoniam qui talia agunt, 
+      <lb ed="#P" n="37"/>regnum Dei non consequentur. Item Apoc. 21. aliquot 
+      <lb ed="#P" n="38"/>peccantium genera enumerantur, quorum pars 
+      fu<lb ed="#P" n="39" break="no"/>tura dicitur in stagno ardente igni &amp; sulfure, quod 
+      <lb ed="#P" n="40"/>est mors secunda. Et Matth. 5. Qui dixerit fratri suo, 
+      <lb ed="#P" n="41"/>fatue, reus erit gehennae ignis. Et cap. I1. Qui dixerit. 
+      <lb ed="#P" n="42"/>verbum in Spiritum sanctum, non remittetur ei. Et 
+      <lb ed="#P" n="43"/>cap. 25. mittuntur in ignem aeternum qui opera 
+      mi<lb ed="#P" n="44" break="no"/>sericordiae egentibus non exhibuerunt, in quibus &amp; 
+      <lb ed="#P" n="45"/>charitatem manere posse negat. Joannes 1. epistol. 
+      <lb ed="#P" n="46"/>3. Et Marci ultimo generaliter dicitur: Qui non 
+      cre<lb ed="#P" n="47" break="no"/>diderit, condemnabitue. 
+    </p>
+            <p xml:id="bt67yj-p151309-d1e204">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> De venialibus autem haec sunt loca, 1. Corinth. 3. 
+      <lb ed="#P" n="49"/>Si quis superaedificaverit superfundamentum hoc 
+      li<lb ed="#P" n="50" break="no"/>gna, foenum, stipulam, detrimentum patietur; ipse 
+      au<lb ed="#P" n="51" break="no"/>tem salus erit, sic tamen quasi per ignem. Et 1. Cor. 7. 
+      <lb ed="#P" n="52"/>Hoc autem dico secundum indulgentiam. Et 
+      Ecclesia<lb ed="#P" n="53" break="no"/>stae 7. Non est homo justus in terra qui faciat bonum, &amp; 
+      <lb ed="#P" n="54"/>non peccet. Etin universumomnia scripturae loca, quae 
+      <lb ed="#P" n="55"/>testantur neminem sine peccato vivere, collata cum 
+      <lb ed="#P" n="56"/>iis, quae justos aliquos &amp; sine crimine viventes &amp; Dei 
+      <lb ed="#P" n="57"/>amicos &amp; regni haeredes agnoscunt, manifeste 
+      con<lb ed="#P" n="58" break="no"/>vincunt esse quaedam peccata a gratia &amp; regno Dei 
+      <lb ed="#P" n="59"/>non excludentia, ut 1. Joannis 1. Si dixerimus quia 
+      <lb ed="#P" n="60"/>peccatum non habemus, nosipsos seducimus: Et Jacobi 
+      <lb ed="#P" n="61"/>3. In multis offendimus omnes. Et 2. Paralip. 6. Non est 
+      <lb ed="#P" n="62"/>homo qui non peccet. Quibus cum non repugnent hae 
+      <lb ed="#P" n="63"/>sententiae, Lucae 1. Erant justi ambo ante Deum. Tit. 
+      <lb ed="#P" n="64"/>1. Si quis sine crimine est, &amp; similes, consequens est, 
+      <lb ed="#P" n="65"/>esse peccata quaedam quae justitiam &amp; amicitiam Dei 
+      <lb ed="#P" n="66"/>non tollant, neque mortem aeternam inferant. 
+    </p>
+            <p xml:id="bt67yj-p151309-d1e250">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Hinc ulterius colligendum, omnia loca scripturae 
+      <lb ed="#P" n="68"/>quae generatim peccato tribuunt hos &amp; hujusmodi 
+      <lb ed="#P" n="69"/>effectus, inimicitiam Dei, exhaeredationem a regno, 
+      <lb ed="#P" n="70"/>perditionem &amp; mortem aeternam; non de quovis 
+      <lb ed="#P" n="71"/>peccato, sed de eo tantum quod perfectam peccati 
+      <!--0624.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>rationem habet, id est de peccato mortali intelligi 
+      <lb ed="#P" n="73"/>debere, velut ista Rom. 6. Stipendium peccati mors. 
+      <lb ed="#P" n="74"/>Jacob. 3. Quicumque offendit in uno factus est omnium 
+      <lb ed="#P" n="75"/>reus. Joan. 3. Qui facii peccatum, ex diabolo est. Psal. 5. 
+      <lb ed="#P" n="76"/>Odisti omnes qui operanturiniquitatem, Isa. 59. 
+      Pecca<lb ed="#P" n="77" break="no"/>ta vestra diviserunt inter vos &amp; Deum vestrum. 
+      Eze<lb ed="#P" n="78" break="no"/>chiel. 18. Anima quae peccaverit, ipsamorietur. Et Sap. 
+      <lb ed="#P" n="79"/>16. Homo per malitiam occidit animam suam. Quod 
+      <lb ed="#P" n="80"/>etiam ad certas peccati species referi potest, ut ad 
+      <lb ed="#P" n="81"/>mendacium, contentionem, iram &amp; similia, 
+      quem<lb ed="#P" n="82" break="no"/>admodum declarant hae scripturae, Psal 5. Perdes 
+      om<lb ed="#P" n="83" break="no"/>nes qui loquuntur mendacium. Sap. 1. Os quod 
+      monti<lb ed="#P" n="84" break="no"/>tur, occidit animam. Apoc. 21. Omnibus mendacibus 
+      <lb ed="#P" n="85"/>pars erit in stagno, &amp;c. Et Gal. 5. inter opera 
+      car<lb ed="#P" n="86" break="no"/>nis excludentia a regno caelorum, numerantur 
+      con<lb ed="#P" n="87" break="no"/>tentiones, rixae, dissensiones. Quae omnia, non 
+      <lb ed="#P" n="88"/>nisi secundum quandam peccati perfectionem 
+      acci<lb ed="#P" n="89" break="no"/>pi debent, cum alioqui constet etiam ex ipsa 
+      scrip<lb ed="#P" n="90" break="no"/>tura, in his peccatorum generibus, delinqui posse 
+      <lb ed="#P" n="91"/>venialiter. 
+    </p>
+            <p xml:id="bt67yj-p151309-d1e313">
+               <lb ed="#P" n="92"/>Sed nunc ex patribus eandem de peccatorum 
+      di<lb ed="#P" n="93" break="no"/>versitate doctriham confirmemus. Augustinus 
+      En<lb ed="#P" n="94" break="no"/>chir. 64. Neque enim, inquit, quia peccatum est 
+      om<lb ed="#P" n="95" break="no"/>ne crimen, ideo crimen est etiam omne peccatum. Et 
+      <lb ed="#P" n="96"/>cap. 78. simili sensu peccata in levia &amp; gravia 
+      <lb ed="#P" n="97"/>distinguit. Pro levibus, id est, venialibus praeter 
+      su<lb ed="#P" n="98" break="no"/>pra posita testimonia etiam illud proferemus, quod 
+      <lb ed="#P" n="99"/>est 1. Corinth. 6. Jam quidem omnino delictum est in 
+      <lb ed="#P" n="100"/>vebis, quod judicia habetis inter vos, &amp; illud 
+      quoti<lb ed="#P" n="101" break="no"/>die etiam a justis dicendum: Dimitte nobis debita 
+      no<lb ed="#P" n="102" break="no"/>stra. Item tract. 41. in Joannem. Crimen definit 
+      pec<lb ed="#P" n="103" break="no"/>catum grave accusatione &amp; damnatione 
+      dignissi<lb ed="#P" n="104" break="no"/>mum: ac deinde docet multos vivere sine crimine, 
+      <lb ed="#P" n="105"/>quos tamen line peccato vivere negat. Et lib. 1. de 
+      <lb ed="#P" n="106"/>symbolo cap. 6. Sunt venialia, inquit, sine quibus 
+      <lb ed="#P" n="107"/>haec vita non est. Similia sunt loca lib. de bono 
+      conju<lb ed="#P" n="108" break="no"/>gali cap. 6. &amp; lib. 21. de civit. cap. ult. &amp; serm. 12. de 
+      <lb ed="#P" n="109"/>diversis cap. 9. Consentit Hieronymus dialog. 2. 
+      <lb ed="#P" n="110"/>contra Pelag. &amp; Chrysost. homil. 16. in Matth. 
+      Cla<lb ed="#P" n="111" break="no"/>ra quoque Gregorii sententia est lib. 21. Moral. cap. 
+      <lb ed="#P" n="112"/>9. cujus haec sunt verba: Hoc inter peccatum distat 
+      <lb ed="#P" n="113"/>&amp; crimen, quod omne crimen peccatum est, non 
+      ta<lb ed="#P" n="114" break="no"/>men omne peccatum crimen est. Et in hac vita multi 
+      <lb ed="#P" n="115"/>sine crimine, nullus vero esse sine peccatis valet. Et 
+      <lb ed="#P" n="116"/>paulo post. In qua, videlicet peccatorum &amp; criminum 
+      <lb ed="#P" n="117"/>distinctione, pensandum est; quia nonnulla peccata 
+      <lb ed="#P" n="118"/>animam polluunt, quam crimina extinguunt. 
+      Simi<lb ed="#P" n="119" break="no"/>lis est locus cap. 5. ejusdem libri, &amp; cap. 4. lib. 
+      <lb ed="#P" n="120"/>18. His subscribit Beda Jacob. 3. ad illud: In multis 
+      <lb ed="#P" n="121"/>offendimus omnes. 
+    </p>
+            <p xml:id="bt67yj-p151309-d1e381">
+               <lb ed="#P" n="122"/>Horum &amp; aliorum Patrum sententiam tota 
+      poste<lb ed="#P" n="123" break="no"/>rior Ecclesia secuta est, cujus mentem diligenter 
+      ex<lb ed="#P" n="124" break="no"/>posuerunt Patres concilii Trident. pluribus locis, ut 
+      <lb ed="#P" n="125"/>sess. 6. cap. 11. ubi docent peccata venialia non 
+      obsta<lb ed="#P" n="126" break="no"/>re quo minus quis vere justus dicatur, &amp; 15. ubi 
+      defi<lb ed="#P" n="127" break="no"/>niunt, non sola infidelitate, sed quolibet peccato 
+      <lb ed="#P" n="128"/>mortali amitti justificationis gratiam, idque probant 
+      <lb ed="#P" n="129"/>ex scriptura 1. Corinth. 6. &amp; can. 27. ejusdem sess. 
+      <lb ed="#P" n="130"/>contrarium errorem damnant anathemate. Item. 
+      <lb ed="#P" n="131"/>sess. 14. cap. 5. declarant universa mortalia peccata 
+      <lb ed="#P" n="132"/>etiam cogitationis, homines irae filios &amp; Dei 
+      inimi<lb ed="#P" n="133" break="no"/>cos reddere, ideóque sacerdoti per confessionem 
+      de<lb ed="#P" n="134" break="no"/>tegenda esse; venialia vero, quibus a gratia Dei 
+      <lb ed="#P" n="135"/>non excludimur, &amp; in quae frequentius labimur, 
+      <lb ed="#P" n="136"/>quamquam recte &amp; utiliter in confessione dicantur, 
+      <lb ed="#P" n="137"/>taceri tamen citra culpam posse 
+    </p>
+            <p xml:id="bt67yj-p151309-d1e418">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Ex dictis facile est refellere quorumdam hujus 
+      <lb ed="#P" n="139"/>temporis haereticorum nova commenta, non eorum 
+      <lb ed="#P" n="140"/>tantum qui omnia peccata mortalia, vel contra 
+      eo<lb ed="#P" n="141" break="no"/>rum qui excepta infidelitate omnia venialia esse 
+      do<lb ed="#P" n="142" break="no"/>cuerunt; sed etiam aliorum, qui omne peccatum 
+      <lb ed="#P" n="143"/>hominis reprobi mortale, praedestinati vero 
+      venia<lb ed="#P" n="144" break="no"/>le esse volunt. In quorum proinde refutatione non 
+      <lb ed="#P" n="145"/>est nobis hic immorandum.
+    </p>
+            <p xml:id="bt67yj-p151309-d1e440">
+      <!--0625.xml-->
+               <pb ed="#P" n="392"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Postremo notandum est circa discretionem 
+      pec<lb ed="#P" n="2" break="no"/>catorum, utrum mortalia sint an venialia, quamvis 
+      <lb ed="#P" n="3"/>de multis certum judicium habeamus ex scriptura &amp; 
+      <lb ed="#P" n="4"/>Patribus, &amp; multa utiliter tradita sint a 
+      recentiori<lb ed="#P" n="5" break="no"/>bus ad ea vel certo vel probabiliter dignoscenda; 
+      <lb ed="#P" n="6"/>exactum tamen &amp; infallibile de omnibus aut 
+      pleris<lb ed="#P" n="7" break="no"/>que judicium a nobis haberi non posse, 
+      quemadmo<lb ed="#P" n="8" break="no"/>dum non uno loco monuit Augustinus. Nam Enchir. 
+      <lb ed="#P" n="9"/>78. ait: Quae sint levia &amp; quae gravia peccata, non 
+      hu<lb ed="#P" n="10" break="no"/>mano, sed divino sunt pensanda judicio. Et cap. 
+      pro<lb ed="#P" n="11" break="no"/>ximo: Sunt, inquit, quadam quae levissima 
+      putaren<lb ed="#P" n="12" break="no"/>tur, nisi inscripturis demonstrarentur opinione 
+      gravio<lb ed="#P" n="13" break="no"/>ra. Quo loco &amp; illud repetit quod scripserat in 
+      com<lb ed="#P" n="14" break="no"/>mentario epist. ad Galat. ad illud: Timeo vos 
+      nefor<lb ed="#P" n="15" break="no"/>te, &amp;c. Vae peccatis hominum, quae sola inusitata 
+      ex<lb ed="#P" n="16" break="no"/>horrescimus, usitata vero, &amp;c. Apertissimus autem 
+      <lb ed="#P" n="17"/>&amp; notatu dignus locus est lib. 21. de civitate cap. 
+      <lb ed="#P" n="18"/>ult. Quae sint, inquit, ipsa peccata, quae ita 
+      impe<lb ed="#P" n="19" break="no"/>diunt perventionem ad regnum Dei, ut tamen 
+      san<lb ed="#P" n="20" break="no"/>ctorum amicorum meritis impetrent indulgentiam 
+      dif<lb ed="#P" n="21" break="no"/>ficillimum est invenire, periculosissimum 
+      definire<lb ed="#P" n="22" break="no"/>Ego certo usque ad hoc tempus, cum inde satagerem, 
+      <lb ed="#P" n="23"/>ad eorum indaeginem pervenire non potui. Et 
+      fortas<lb ed="#P" n="24" break="no"/>sis propterea latent, ne studium proficiendi ad omnia 
+      <lb ed="#P" n="25"/>peccata cavenda pigrescat. Haec ibi &amp; alia 
+      nonnul<lb ed="#P" n="26" break="no"/>la quae sequuntur in eandem sententiam. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

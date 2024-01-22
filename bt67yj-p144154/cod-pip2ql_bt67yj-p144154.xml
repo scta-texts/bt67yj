@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="372"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p144154"><!-- l2d33c8" -->
+            <head xml:id="bt67yj-p144154-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-p144154-Hd1e103" type="question-title">An peccato originali debeatur in futuro saculo 
+        poena sensus</head>
+            <p xml:id="bt67yj-p144154-d1e106">
+               <lb ed="#P" n="84"/>§. 8. An peccato originali debeatur in futuro saculo 
+      <lb ed="#P" n="85"/>poena sensus?
+    </p>
+            <p xml:id="bt67yj-p144154-d1e113">
+               <lb ed="#P" n="86"/>ALia quaestio est, utrum poena originali peccato: 
+      <lb ed="#P" n="87"/>debita post hanc vitam sit sola carentia 
+      visio<lb ed="#P" n="88" break="no"/>nis Dei, an vero etiam poena sensus. Cujus 
+      quaestio<lb ed="#P" n="89" break="no"/>nis utrique parti sua non desunt argumenta. Pro 
+      con<lb ed="#P" n="90" break="no"/>firmatione prioris haec fere proferri solent. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e126">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Primum: Poena sensibilis respondet illicitae 
+      dele<lb ed="#P" n="92" break="no"/>ctationi sensus, juxta illud Apoc. 18. Quantum in 
+      de<lb ed="#P" n="93" break="no"/>liciis fuit, tantum date illi tormentum &amp; luctum. At 
+      <lb ed="#P" n="94"/>parvuli nunquam fuerunt illicite delectati; non 
+      er<lb ed="#P" n="95" break="no"/>go poena sensibili affligentur. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e143">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Secundum: B. Job capit- 3. prae miseriis hujus 
+      <lb ed="#P" n="97"/>saeculi optabat se in utero matris mortuum, addens: 
+      <lb ed="#P" n="98"/>Nunc enim dormiens silerem &amp; somno meo 
+      requiesce<lb ed="#P" n="99" break="no"/>rem. Igitur tales mortui ita separatisunt a conspectu 
+      <lb ed="#P" n="100"/>Dei, ut tamen quietem habeant a poenis. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e159">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Tertium: Matth. 25. soli illi addicuntur igni 
+      aeter<lb ed="#P" n="102" break="no"/>no, qui opera misericordiae, sub quibus &amp; alia bona 
+      <lb ed="#P" n="103"/>opera comprehenduntur, non fecerunt; vel ut 
+      sub<lb ed="#P" n="104" break="no"/>inde Augustinus exponit, qui peccata sua 
+      misericor<lb ed="#P" n="105" break="no"/>diae operibus redimere neglexerunt. Talis autem 
+      <lb ed="#P" n="106"/>culpa in parvulos conferri non potest; non ergo 
+      <lb ed="#P" n="107"/>ignis poenam sustinebunt. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e179">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Quartum: Augustinus Enchir. 93. dicit, 
+      mitissi<lb ed="#P" n="109" break="no"/>mam fore poenam eorum qui originali peccato 
+      nul<lb ed="#P" n="110" break="no"/>lum aliud addiderunt. Et libro 5. contra Julianum 
+      <lb ed="#P" n="111"/>capite 11. non dubitat parvulos sine baptismo 
+      mo<lb ed="#P" n="112" break="no"/>rientes in damnatione omnium levissima futuros. 
+      <lb ed="#P" n="113"/>Nec audet dicere, quod eis non esse, quam sic esse, 
+      <lb ed="#P" n="114"/>potius expediret. Non ergo sentit eos ab igne 
+      cru<lb ed="#P" n="115" break="no"/>ciari. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e201">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Quintum: Ambrosius lib. 2. de Abraham cap. ult. 
+      <lb ed="#P" n="117"/>dicit parvulos immunitatem habere poenarum; sed 
+      <lb ed="#P" n="118"/>non regni honorem. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e212">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Sextum: Gregorius Nazian. oratione in sanctum 
+      <lb ed="#P" n="120"/>baptisma, quae est num. 40. dicit infantes sine 
+      baptis<lb ed="#P" n="121" break="no"/>mo mortuos, nec coelesti gloria, nec suppliciis a justo 
+      <lb ed="#P" n="122"/>judice Deo affici. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e225">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Septimum: Gregorius Rom. lib. 13. Moral. cap. 21. 
+      <lb ed="#P" n="124"/>hoc indicat discrimen inter originale peccatum &amp; 
+      <lb ed="#P" n="125"/>actuale, quod poena originalis culpae sit speciem 
+      <lb ed="#P" n="126"/>creatoris non videre, peccatis autem actualibus 
+      sup<lb ed="#P" n="127" break="no"/>plicium debeatur. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e242">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Octavum: Bernardi sermo 3. de Paschate haec sunt 
+      <lb ed="#P" n="129"/>verba: Quid odit aut punit Deus praeter propriam 
+      <lb ed="#P" n="130"/>voluntatem? Cesset voluntas propria, &amp; infernus 
+      <lb ed="#P" n="131"/>non erit. In quem enim ignis ille desaeviet, nisi 
+      <lb ed="#P" n="132"/>in propriam voluntatem? Cum ergo parvuli 
+      pro<lb ed="#P" n="133" break="no"/>pria voluntate nihil egerint, ab illo igne non 
+      pa<lb ed="#P" n="134" break="no"/>tientur. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e262">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Nonam: Innocentius III. capite Majores. extra de 
+      <lb ed="#P" n="136"/>baptismo &amp; ejus effectu: Poena, inquit, originalis 
+      <lb ed="#P" n="137"/>peccati, est carentia visionis Dei; actualis vero 
+      pec<lb ed="#P" n="138" break="no"/>cati poena, est gehennae perpetuae cruciatus. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e275">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Decimum: Magister in hanc distinction. §. E. 
+      di<lb ed="#P" n="140" break="no"/>cit parvulos pro peccato originali nullam aliam 
+      <lb ed="#P" n="141"/>ignis materialis vel conscientiae vermis poenam 
+      sen<lb ed="#P" n="142" break="no"/>suros, nisi quod Dei visione carebunt in 
+      perpe<lb ed="#P" n="143" break="no"/>tuum. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e291">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Quam Magistri sententiam sequuntur omnes fere 
+      <lb ed="#P" n="145"/>scholastio 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e300">
+      <!--0606.xml-->
+               <pb ed="#P" n="373"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Porro diversam opinionem alii his argumentis 
+      fir<lb ed="#P" n="2" break="no"/>mare conantur. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e313">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Primo: Christus judicium universale describens 
+      <lb ed="#P" n="4"/>Matth. 25. nihil medium facit inter regnum Patris &amp; 
+      <lb ed="#P" n="5"/>ignem aeternum. Eo autem judicio comprehendi 
+      <lb ed="#P" n="6"/>etiam infantes, seu bonos seu malos, inde apparet, 
+      <lb ed="#P" n="7"/>quia pertinent ad multitudinem gentium, quas dicit 
+      <lb ed="#P" n="8"/>Dominus omnes ad illud judicium congregandas; 
+      si<lb ed="#P" n="9" break="no"/>cut bonos comprehendi constat hac promissione 
+      A<lb ed="#P" n="10" break="no"/>brahae facta: Benedicentur in semine tuo omnes gentes. 
+      <lb ed="#P" n="11"/>Unde &amp; Augustinus in epist. ad Vitam 107. Et 
+      li<lb ed="#P" n="12" break="no"/>bro 6. contra Julianum cap. 10. dicit parvulos in 
+      no<lb ed="#P" n="13" break="no"/>vissimo die judicandos, &amp; recepturos secundum ea 
+      <lb ed="#P" n="14"/>quae gesserunt in vita. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e345">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Secundo: Matth. 3. dicit Dominus triticum 
+      con<lb ed="#P" n="16" break="no"/>gregandum in horreum, paleas autem comburendas 
+      <lb ed="#P" n="17"/>igni inextinguibili. Et 13. ait: Exibunt Angeli &amp; 
+      <lb ed="#P" n="18"/>separabunt malos de medio justorum, &amp; mittent eos in 
+      <lb ed="#P" n="19"/>caminum ignis, ubi erit fletus &amp; stridor dentium. Cum 
+      <lb ed="#P" n="20"/>ergo parvuli non renati, neque justi sint, neque ad 
+      <lb ed="#P" n="21"/>triticum pertineant, cum malis, quos palea 
+      signifi<lb ed="#P" n="22" break="no"/>cat, mittentur in ignem. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e367">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Tertio: Apoc. 20. judicati dicuntur mortui pusilli 
+      <lb ed="#P" n="24"/>&amp; magni, &amp; quotquot non sunt inventi scripti in libro 
+      <lb ed="#P" n="25"/>vitae, missi sunt in stagnum ignis. Quo etiam loco 
+      di<lb ed="#P" n="26" break="no"/>cuntur infernus &amp; mors mittenda in stagnum ignis; 
+      <lb ed="#P" n="27"/>quia videlicet extra stagnum illud, neque infernus, 
+      <lb ed="#P" n="28"/>neque mors amplius futura sunt, sicut nunc sunt 
+      <lb ed="#P" n="29"/>aliqua ex parte. Igitur cum certum sit, in infernum 
+      <lb ed="#P" n="30"/>infantes non renatos descendere, juxta definitionem 
+      <lb ed="#P" n="31"/>Florentini Concilii, consequens videtur eos 
+      mitten<lb ed="#P" n="32" break="no"/>dos in stagnum ignis. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e393">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Quarto: Patres de poena non renatorum infantium 
+      <lb ed="#P" n="34"/>loquentes, non tantum separationem a conspectu 
+      <lb ed="#P" n="35"/>Dei, sed tormenta &amp; supplicia gehennae &amp; ignem 
+      <lb ed="#P" n="36"/>aeternum nominant, ut Fulgentius de fide ad 
+      Pe<lb ed="#P" n="37" break="no"/>trum cap. 3. &amp; 27. &amp; Gregorius lib. 9. Moral. cap. 16. 
+      <lb ed="#P" n="38"/>&amp; ipse August. interdum, ut serm. 14. de verbis 
+      Apo<lb ed="#P" n="39" break="no"/>stoli; Enchit. 26. &amp; lib. 21. Q civitate Dei cap. 12. &amp; 
+      <lb ed="#P" n="40"/>35. &amp; lib. 1. de peccatorum meritis cap. 28. &amp; alibi. 
+      <lb ed="#P" n="41"/>Et Prosper in Psal. 128. citans locum Matth. 13. Igni 
+      <lb ed="#P" n="42"/>deputabitur, inquit, quicquid caruerit substantia 
+      cha<lb ed="#P" n="43" break="no"/>ritatis. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e422">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Quinto: Peccatum originale punitur in hoc 
+      saecu<lb ed="#P" n="45" break="no"/>lo poenis sensibilibus, ut in parvulorum miseriis est 
+      <lb ed="#P" n="46"/>manifestum, &amp; Augustinus testatur lib. 3. contra 
+      Ju<lb ed="#P" n="47" break="no"/>lianum, capite 3. &amp; 5. Atqui hoc saeculum non est 
+      <lb ed="#P" n="48"/>tempus retributionis &amp; vindictae; sed potius 
+      mise<lb ed="#P" n="49" break="no"/>ricordiae: Multo igitur magis in futuro saeculo 
+      sensi<lb ed="#P" n="50" break="no"/>biliter punietur. Unde idem Augustinus lib. 3. de 
+      li<lb ed="#P" n="51" break="no"/>bero arbitrio cap. 15. In futurum, inquit, judicium 
+      <lb ed="#P" n="52"/>servatur ad manifestationem atque accebrimum 
+      sen<lb ed="#P" n="53" break="no"/>sum miseriae, quidquid nunc occultissime 
+      vindica<lb ed="#P" n="54" break="no"/>tur. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e451">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Sexto: In parvulis non renatis est habituale 
+      fasti<lb ed="#P" n="56" break="no"/>dium sanctae delectationis. Quam ob causam 
+      gravis<lb ed="#P" n="57" break="no"/>simi peccati participes eos asserit Prosper lib. 2. de 
+      vo<lb ed="#P" n="58" break="no"/>catione gentium cap. 4. Igitur merito vindicatur 
+      ta<lb ed="#P" n="59" break="no"/>le peccatum sensibili poena. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e467">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Septimo: Christus pro abolendo peccato originali 
+      <lb ed="#P" n="61"/>in sua passione poenam subiit sensibilem: Sensibilis 
+      <lb ed="#P" n="62"/>ergo poena ei debetur. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e479">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Octavo: Infantes renati ratione justitiae a Christo 
+      <lb ed="#P" n="64"/>acceptae digni sunt gaudio sensibili; ergo non renati 
+      <lb ed="#P" n="65"/>ratione originalis injustitiae digni cruciatu sensibili 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e490">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Nono: Pueri non renati corpora habebunt 
+      passibi<lb ed="#P" n="67" break="no"/>lia, utpote non donata dote impassibilitatis. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e499">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Quod &amp; Augustinus Ench. 92. &amp; 93. non obscure 
+      <lb ed="#P" n="69"/>significavit: Patientur ergo secundum corpus¬ 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e508">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Postremo: Concupiscentiae fomes non erit in eis 
+      <lb ed="#P" n="71"/>extinctus: Commovebit ergo desideria rerum, quas 
+      <lb ed="#P" n="72"/>tamen consequi non poterunt, &amp; proinde suis 
+      desi<lb ed="#P" n="73" break="no"/>deriis cruciabuntur. Unde Augustinus lib. 6. contra 
+      <lb ed="#P" n="74"/>Julianum cap. 16. In eis, inquit, qui non ad vitam 
+      <!--0606.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>resurgent: non foeliciter, sed poenaliter erit 
+      concupiscen<lb ed="#P" n="76" break="no"/>tia: non quia tunc ab ea quisquam mundabitur, sed 
+      <lb ed="#P" n="77"/>quia tunc malis non in delectamenta excitabitur, sed 
+      <lb ed="#P" n="78"/>in tormenta vertetur. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e537">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Porro hanc de poena parvulorum sententiam post 
+      <lb ed="#P" n="80"/>veteres Augustinum, Fulgentium, Prosperum &amp; 
+      <lb ed="#P" n="81"/>Gregorium Romanum, quos ita sensisse apparet, 
+      <lb ed="#P" n="82"/>secuti sunt inter posteriores <name xml:id="bt67yj-p144154-Nd1e550">Gregorius Ariminensis</name>, 
+      <lb ed="#P" n="83"/>
+               <name xml:id="bt67yj-p144154-Nd1e554">Joannes Driedo</name> &amp; alii nonnulli. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e557">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> In hac igitur opinionum contrarietate imprimis 
+      <lb ed="#P" n="85"/>scire oportet, neutram a suis authoribus (excepto 
+      <lb ed="#P" n="86"/>Fulgentio qui cap. 27. de fide ad Petrum suam 
+      sen<lb ed="#P" n="87" break="no"/>tentiam inter regulas fidei ponit) tanquam fide 
+      te<lb ed="#P" n="88" break="no"/>nendam asseri, aut oppositam veluti haereticam 
+      <lb ed="#P" n="89"/>damnari. Quare &amp; nos hanc de sensibili poena 
+      quae<lb ed="#P" n="90" break="no"/>stionem in medio relinquentes, dicimus rationes 
+      u<lb ed="#P" n="91" break="no"/>trimque allatas non omnes ejusmodi esse, quae 
+      effi<lb ed="#P" n="92" break="no"/>caciter concludant, aut probabiliter solvi non 
+      pos<lb ed="#P" n="93" break="no"/>sint, quemadmodum patebit vim earum diligentius 
+      <lb ed="#P" n="94"/>expendenti; verbi gratia: Quod primo loco parte 
+      <lb ed="#P" n="95"/>priori propositum fuit, non concludit; quia pro 
+      pec<lb ed="#P" n="96" break="no"/>catis spiritualibus, in quibus nulla est sensus 
+      de<lb ed="#P" n="97" break="no"/>lectatio, omnium consensu debetur poena sensibilis. 
+      <lb ed="#P" n="98"/>Et Gregorium Romanum (quod septimo loco 
+      ob<lb ed="#P" n="99" break="no"/>jiciebatur) certum est loqui de sanctis veteris 
+      testa<lb ed="#P" n="100" break="no"/>menti in lymbo constitutis, quibus tamen peccatum 
+      <lb ed="#P" n="101"/>originale dimissum erat per circuncisionem. Unde 
+      <lb ed="#P" n="102"/>ex ipsius Gregorii sententia consequi videtur, eos 
+      qui<lb ed="#P" n="103" break="no"/>bus nulla ex parte dimissum est illud peccatum, 
+      gra<lb ed="#P" n="104" break="no"/>vius puniri quam sola visionis Dei carentia; 
+      praeser<lb ed="#P" n="105" break="no"/>tim cum alibi extet ejusdem Gregorii satis expressa 
+      <lb ed="#P" n="106"/>sententia loco a nobis citato. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e613">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Sed neque illud quod in partem diversam quinto 
+      <lb ed="#P" n="108"/>loco propositum est, concludere videtur. Non enim 
+      <lb ed="#P" n="109"/>quicquid meretur poenam sensibilem temporariam, 
+      <lb ed="#P" n="110"/>meretur aeternam, ut patet de venialibus peccatis. 
+      <lb ed="#P" n="111"/>Et sane consequens alioqui foret, parvulos in futuro 
+      <lb ed="#P" n="112"/>saeculo acerbissimis cruciatibus affici, cum id 
+      inter<lb ed="#P" n="113" break="no"/>dum non patiantur in hoc saeculo infantes tam 
+      bapti<lb ed="#P" n="114" break="no"/>zati, quam non baptizati. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e635">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Ad sextum vero respondemus; proprie in parvulis 
+      <lb ed="#P" n="116"/>non esse habitus malos, sed habituum actuumque 
+      <lb ed="#P" n="117"/>malorum radicem quandam, ipsam videlicet 
+      concu<lb ed="#P" n="118" break="no"/>piscentiam. Nemo enim dixerit in parvulo recens 
+      <lb ed="#P" n="119"/>nato inesse habitum avaritiae, ebrietatis, 
+      impudici<lb ed="#P" n="120" break="no"/>tiae. Oportet enim habitus esse ad certum genus 
+      actio<lb ed="#P" n="121" break="no"/>num determinatos: Atqui parvuli voluntas etsi mala, 
+      <lb ed="#P" n="122"/>nondum tamen est ad certum aliquid determinata. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e657">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Sequitur enim ea determinatio usum sensuum &amp; 
+      <lb ed="#P" n="124"/>rationalium potentiarum in aetate adulta. Quare nec 
+      <lb ed="#P" n="125"/>parvulus in futuro saeculo punietur avarus, 
+      impu<lb ed="#P" n="126" break="no"/>dicus, ebriosus, sed tantum ut malus atque a Deo 
+      <lb ed="#P" n="127"/>aversus. Unde &amp; eos falli non dubitamus, qui sic 
+      ha<lb ed="#P" n="128" break="no"/>bitualem voluntatem malam parvulo non renato 
+      tri<lb ed="#P" n="129" break="no"/>buunt; ut ex ea in futuro saeculo Deum actualiter 
+      <lb ed="#P" n="130"/>odio habiturus &amp; blasphematurus sit, cum id ne 
+      <lb ed="#P" n="131"/>quidem de adultis omnibus vere dici posse videatur. 
+      <lb ed="#P" n="132"/>Nec rationi consentaneum videtur, ut quisquam vel 
+      <lb ed="#P" n="133"/>adultus vel parvulus in futuro saeculo pejor sit, quam 
+      <lb ed="#P" n="134"/>in praesenti fuerit, cum divinae justitiae sit non 
+      mali<lb ed="#P" n="135" break="no"/>tiam augere, sed peccata punire¬ 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e690">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Septimum quoque argumentum non videtur 
+      con<lb ed="#P" n="137" break="no"/>cludere. Christus enim passus est pro peccatis etiam 
+      <lb ed="#P" n="138"/>gravissimis, ideóque sustinuit acerbissimos etiam in 
+      <lb ed="#P" n="139"/>corpore dolores. Quae tamen passio sicut pro 
+      venia<lb ed="#P" n="140" break="no"/>libus, ita &amp; pro originali peccato delendo valebat. 
+      <lb ed="#P" n="141"/>Non enim negandum est; Christum solo suscepto 
+      <lb ed="#P" n="142"/>animi dolore potuisse satisfacere pro universis 
+      ho<lb ed="#P" n="143" break="no"/>minum peccatis. Sed qui se ex abundanti charitate 
+      <lb ed="#P" n="144"/>pro omnibus impendit, voluit copiosam etiam in 
+      <lb ed="#P" n="145"/>poenis esse suam redemptionem.
+    </p>
+            <p xml:id="bt67yj-p144154-d1e716">
+               <lb ed="#P" n="146"/>Haec cum ita sint, pro nonnulla tamen hujus 
+      quaestio<lb ed="#P" n="147" break="no"/>nis explicatione aliquot conclusiones adjungemus. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e723">
+               <lb ed="#P" n="148"/>
+               <pc type="indent"/> Prima est; Si non corporis poenam, saltem animi 
+      <!--0607.xml-->
+      <pb ed="#P" n="374"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dolorem a parvulis, non renatis ac ratione 
+      utenti<lb ed="#P" n="2" break="no"/>bus excludi non posse. Non enim fieri potest, ut qui 
+      <lb ed="#P" n="3"/>tanto bono ad quod creati fuerant, se in aeternum 
+      <lb ed="#P" n="4"/>privatos intelligunt, non animo doleant. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e746">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Quod &amp; testantur Augustini &amp; Chrysostomi 
+      sen<lb ed="#P" n="6" break="no"/>tentiae supra suis locis citatae. Quin &amp; Gregorius 
+      <lb ed="#P" n="7"/>libro 13. Moral. cap. 21. Patribus in lymbo positis ex 
+      <lb ed="#P" n="8"/>sola visionis Dei carentia grave taedium ascribit. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e759">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Secunda: Parvulos non tantum secundum animam, 
+      <lb ed="#P" n="10"/>sed &amp; secundum corpus miseros &amp; infelices futuros. 
+      <lb ed="#P" n="11"/>Utriusque enim par est ratio quantum ad generalem 
+      <lb ed="#P" n="12"/>miseriae conditionem attinet. Et propterea etiam illa 
+      <lb ed="#P" n="13"/>animae sua corpora aliquando resumpturae sunt, ut 
+      <lb ed="#P" n="14"/>plenam accipiant pro peccato retributionem. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e777">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Tertia: Ex miseria corporis non sequi dolorem seu 
+      <lb ed="#P" n="16"/>poenam sensibilem, ne quidem in hac vita, ut patet 
+      <lb ed="#P" n="17"/>in dormientibus, &amp; iis qui stupefacta habent 
+      mem<lb ed="#P" n="18" break="no"/>bra, vel alioqui ad operationem inepta. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e790">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Quarta: Mitissimam atque levissimam inter 
+      om<lb ed="#P" n="20" break="no"/>nes damnatos fore parvulorum poenam, etiamsi ea 
+      <lb ed="#P" n="21"/>sensibilis ponatur, teste Augustino Enchir. 93. &amp; lib. 
+      <lb ed="#P" n="22"/>5. contra Julianum cap. 11. Huc facit, quod David 
+      <lb ed="#P" n="23"/>qui pro Absalom mortuo luxit incnsolabiliter pro 
+      <lb ed="#P" n="24"/>filio ex adulterio ante octavum diem mortuo non 
+      lu<lb ed="#P" n="25" break="no"/>xit; sed luctus signa statim abjecit. 
+    </p>
+            <p xml:id="bt67yj-p144154-d1e810">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Postrema: Etiamsi sensibilis sit poena, non tamen 
+      <lb ed="#P" n="27"/>affirmandum ita gravem fore, ut considerata poenae 
+      <lb ed="#P" n="28"/>magnitudine melius sit eis non esse, quam levem 
+      <lb ed="#P" n="29"/>aliquem in sensu dolorem etsi perpetuum pati. Ab 
+      <lb ed="#P" n="30"/>hac sententia non abhorret Augustinus loco jam 
+      <lb ed="#P" n="31"/>dicto contra Jullanum, tametsi eam simpliciter non 
+      <lb ed="#P" n="32"/>asserat. Idem quoque ex facto David jam memorato 
+      <lb ed="#P" n="33"/>colligi potest. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

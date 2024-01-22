@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="374"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p144889"><!-- l2d33c9" -->
+            <head xml:id="bt67yj-p144889-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p144889-Hd1e103" type="question-title">An Adae peccatum fuerit omnium gravissimum</head>
+            <p xml:id="bt67yj-p144889-d1e106">
+               <lb ed="#P" n="34"/>§. 9. An Adae peccatum fuerit omnium gravissimum. 
+    </p>
+            <p xml:id="bt67yj-p144889-d1e111">
+               <lb ed="#P" n="35"/>AD exaggerationem peccati primi hominis 
+      mul<lb ed="#P" n="36" break="no"/>ta concurrunt, quemadmodum ex iis quae circa 
+      <lb ed="#P" n="37"/>dist. 22. dicta sunt, intelligi potest. Primum illud 
+      <lb ed="#P" n="38"/>est, quod in Deum directe peccaverit, appetendo ut 
+      <lb ed="#P" n="39"/>esset sicut Deus, &amp; verbis ejus non credendo, &amp; 
+      <lb ed="#P" n="40"/>culpam sui peccati in Deum retorquendo. Unde ex 
+      <lb ed="#P" n="41"/>parte objecti gravissimum fuit illud peccatum, cum 
+      <lb ed="#P" n="42"/>simpliciter gravitas peccatorum ex objectis 
+      aesti<lb ed="#P" n="43" break="no"/>metur. 
+    </p>
+            <p xml:id="bt67yj-p144889-d1e133">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Deinde alia consideratione gravissimum fuit 
+      om<lb ed="#P" n="45" break="no"/>nium peccatorum, quae ab hominibus committuntur; 
+      <lb ed="#P" n="46"/>quatenus videlicet in principio sui liberrimum, 
+      ma<lb ed="#P" n="47" break="no"/>ximeque voluntarium fuit, utpote quando rationem 
+      <lb ed="#P" n="48"/>adhuc integram nulla ignorantia vel passio a boni 
+      <lb ed="#P" n="49"/>electione impediebat, aut ad malum impellebat. Hac 
+      <lb ed="#P" n="50"/>consideratione saepe ab Augustino peccatum illud 
+      <lb ed="#P" n="51"/>exaggeratur ut libro 14. de civit. cap. 12. &amp; 15. &amp; 
+      <lb ed="#P" n="52"/>lib. 21. cap. 12. Item libro 3. de libero arbitrio cap. 19. 
+      <lb ed="#P" n="53"/>&amp; retractationum lib. 1. cap. 9. 13. &amp; 15. 
+    </p>
+            <p xml:id="bt67yj-p144889-d1e160">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Tertio, gravissimum fuit ex parte nocumenti, quod 
+      <lb ed="#P" n="55"/>ex eo consecutum est, quodque primus homo debuit 
+      <lb ed="#P" n="56"/>&amp; potuit praecavere. Laesit enim, &amp; quantum in ipso 
+      <lb ed="#P" n="57"/>est, in aeternum perdidit totum genus humanum. 
+      <lb ed="#P" n="58"/>Attendit hanc rationem Augustinus Enchir. 48. 
+      ca<lb ed="#P" n="59" break="no"/>pite dicens, unum illud peccatum tam magnum 
+      <lb ed="#P" n="60"/>fuisse, ut in uno homine originaliter &amp; radicaliter 
+      <lb ed="#P" n="61"/>totum genus humanum damnaretur. Et lib. 22. de 
+      <lb ed="#P" n="62"/>civit. Dei cap. 24. cum ait, nimis grande peccatum 
+      <lb ed="#P" n="63"/>in primo homine, de quo caeteri exorti sunt, 
+      praeces<lb ed="#P" n="64" break="no"/>sisse. Et Gregorius in 1. Reg. 8. ad illud: Juxta omnia 
+      <lb ed="#P" n="65"/>opera sua, &amp;c. dicens: Nam quae major culpa quam 
+      <lb ed="#P" n="66"/>illa, qua omnes moriemur? 
+    </p>
+            <p xml:id="bt67yj-p144889-d1e193">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Verumtamen ex his non est consequens, peccatum 
+      <lb ed="#P" n="68"/>Adae fuisse simpliciter gravius quocumque alio 
+      pec<lb ed="#P" n="69" break="no"/>cato aliquando ab homine commisso, aut 
+      commit<lb ed="#P" n="70" break="no"/>tendo. Quod enim ad primam rationem attinet, 
+      tan<lb ed="#P" n="71" break="no"/>tum inde colligitur, peccatum hoc fuisse in genere 
+      <!--0607.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>maximorum peccatorum. In quo tamen genere 
+      pos<lb ed="#P" n="73" break="no"/>sunt alia aliis esse graviora. Gravius enim peccat in 
+      <lb ed="#P" n="74"/>Deum blasphemus vel atheus, quam superstitiosus, 
+      <lb ed="#P" n="75"/>&amp; rursum in eadem specie fit ut alius alio gravius 
+      <lb ed="#P" n="76"/>delinquat. 
+    </p>
+            <p xml:id="bt67yj-p144889-d1e224">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Secunda vero &amp; tertia ratio non convincunt 
+      gra<lb ed="#P" n="78" break="no"/>vitatem majorem simpliciter, sed tantum, caeteris 
+      <lb ed="#P" n="79"/>paribus, maxime cum non intenderit nocumentum, 
+      <lb ed="#P" n="80"/>quod proinde tantum indirecte fuit ei voluntarium. 
+      <lb ed="#P" n="81"/>Utrum autem prima illa transgressio fuerit 
+      pecca<lb ed="#P" n="82" break="no"/>tum in Spiritum sanctum, quod negat Magister, 
+      <lb ed="#P" n="83"/>pendet ex intelctu ejus quod in Evangelio vocatur 
+      <lb ed="#P" n="84"/>peccatum in Spiritum sanctum. Varie enim illud ab 
+      <lb ed="#P" n="85"/>interpretibus exponitur. 
+    </p>
+            <p xml:id="bt67yj-p144889-d1e248">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Nec rursum improbabile est quod idem Magister 
+      <lb ed="#P" n="87"/>asserit, primum hominem peccando non meruisse 
+      <lb ed="#P" n="88"/>tam gravem poenam aeternam, quam multi postea 
+      <lb ed="#P" n="89"/>meruerunt per alia peccata; ut Cam per homicidium 
+      <lb ed="#P" n="90"/>fratris, Judas per traditionem filii Dei, &amp; alii similes, 
+      <lb ed="#P" n="91"/>quorum peccata valde habentur execrabilia. 
+    </p>
+            <p xml:id="bt67yj-p144889-d1e266">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Adde quod aut potest, aut non potest quisquam 
+      <lb ed="#P" n="93"/>posterorum Adae gravius eo peccare. Si non potest, 
+      <lb ed="#P" n="94"/>quaerenda est ratio, cum voluntas hominis hic 
+      viven<lb ed="#P" n="95" break="no"/>tis semper proficere possit in pejus, sicut potest 
+      sem<lb ed="#P" n="96" break="no"/>per proficere in melius. Si potest, temere affirmatur. 
+      <lb ed="#P" n="97"/>nullum in tanta multitudole extare exemplum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

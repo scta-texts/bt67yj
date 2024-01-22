@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="354"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p137176"><!-- l2d30c6" -->
+            <head xml:id="bt67yj-p137176-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p137176-Hd1e103" type="question-title">Ejusdem Doctrinae per rationes confirmatio</head>
+            <p xml:id="bt67yj-p137176-d1e106">
+               <lb ed="#P" n="54"/>§. 6. Ejusdem Doctrinae per rationes confirmatio. 
+    </p>
+            <p xml:id="bt67yj-p137176-d1e111">
+               <lb ed="#P" n="55"/>QUamvis authoritas sola sufficere debeat ad 
+      di<lb ed="#P" n="56" break="no"/>cti dogmatis confirmationem, &amp; erroris 
+      con<lb ed="#P" n="57" break="no"/>trarii confutationem; pro majori tamen evidentia 
+      <lb ed="#P" n="58"/>rationes aliquot idem suadentes adjiciendae sunt; quae 
+      <lb ed="#P" n="59"/>in hac materia tantum habent momenti, ut dicat B. 
+      <lb ed="#P" n="60"/>Bonaventura loco citato, Catholicis doctoribus non 
+      <lb ed="#P" n="61"/>solum fidei, sed etiam rationum evidentia certam 
+      <lb ed="#P" n="62"/>hanc doctrinam apparere. 
+    </p>
+            <p xml:id="bt67yj-p137176-d1e131">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Prima ratio sumpta est ex poena futuri saeculi, quae 
+      <lb ed="#P" n="64"/>pro peccato originali infligitur, id est, carentia 
+      divi<lb ed="#P" n="65" break="no"/>nae visionis. Nullus enim aeterno bono ad quod 
+      fa<lb ed="#P" n="66" break="no"/>ctus est, privari debet, nisi in se habeat per quod 
+      <lb ed="#P" n="67"/>indignus sit aspectu divino; id autem non est nisi 
+      <lb ed="#P" n="68"/>culpa. Hanc rationem indicat Augustinus libro 5. 
+      <lb ed="#P" n="69"/>contra Julianum cap. 1. affirmans grandem esse 
+      poe<lb ed="#P" n="70" break="no"/>nam parvulo, quod excludatur a regno, quae e 
+      <lb ed="#P" n="71"/>justo Deo nisi ob culpam ejus non infligatur. Simi¬ 
+      <!--0587.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>lia sunt libro sexto contra Julianum capite 4. 
+    </p>
+            <p xml:id="bt67yj-p137176-d1e163">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Secunda ratio sumitur ex erubescentia. Nemo enim 
+      <lb ed="#P" n="74"/>recte erubescit de passionibus quas habet a natura, 
+      <lb ed="#P" n="75"/>nisi propter adjunctam aliquam culpam. Nam in 
+      <lb ed="#P" n="76"/>operibus Dei nihil est pudendum. Cum igitur in 
+      <lb ed="#P" n="77"/>membris humanis, eorumque motu sit aliquid 
+      pu<lb ed="#P" n="78" break="no"/>dendum, manifestum est, iis conjungi aliquid, quod 
+      <lb ed="#P" n="79"/>natura sua sit culpabile. Indicat hanc rationem 
+      Au<lb ed="#P" n="80" break="no"/>gustinus libro de peccato originali cap. 34. &amp; libro 
+      <lb ed="#P" n="81"/>3. contra Julianum cap. 10. &amp; libro 4. cap. 16. 
+    </p>
+            <p xml:id="bt67yj-p137176-d1e187">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Tertia ratio sumitur ex dominatu 
+      concupiscen<lb ed="#P" n="83" break="no"/>tiae. Sicut enim tunc anima hominis ordinata est, 
+      <lb ed="#P" n="84"/>quando ratio subjicitur Deo, &amp; sensualitas rationi; 
+      <lb ed="#P" n="85"/>ita necesse est tunc eam inordinatam, &amp; ut loquitur 
+      <lb ed="#P" n="86"/>Bonaventura, perversam esse, quando vel 
+      sensuali<lb ed="#P" n="87" break="no"/>tas non subjicitur rationi, vel ratio non paret 
+      Deo<lb ed="#P" n="88" break="no"/>Haec quoque ratio ex variis Augustini locis 
+      desum<lb ed="#P" n="89" break="no"/>pta est. 
+    </p>
+            <p xml:id="bt67yj-p137176-d1e209">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Quarta ratio nititur justitiae divinae, quae non 
+      in<lb ed="#P" n="91" break="no"/>fert poenam ei in quo nulla praecesserit culpa. Quam 
+      <lb ed="#P" n="92"/>rationem aperte allegant Patres Concilii Arausicani, 
+      <lb ed="#P" n="93"/>August. lib. 4. contra duas epist. Pelagianorum cap. 
+      <lb ed="#P" n="94"/>4. &amp; aliis aliquot locis. Item Prosper, Fulgentius &amp; 
+      <lb ed="#P" n="95"/>Anselmus locis supra citatis. Et inter Scholasticos 
+      <lb ed="#P" n="96"/>S. Thomas, S. Bona ventura, &amp; Albertus Magnus, 
+      <lb ed="#P" n="97"/>quorum etiam loca supra annotavimus. 
+    </p>
+            <p xml:id="bt67yj-p137176-d1e231">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Huic rationi si objicias, Christum qui fuit agnus 
+      <lb ed="#P" n="99"/>sine macula, poenas subiisse sine culpa. Primum 
+      res<lb ed="#P" n="100" break="no"/>pondemus, ad primam naturae institutionem hoc 
+      <lb ed="#P" n="101"/>pertinere, ut nemo poenis &amp; miseriis subjiciatur, in 
+      <lb ed="#P" n="102"/>quo non aliquod peccatum praecesserit; hoc autem, 
+      <lb ed="#P" n="103"/>ut Christus plane innocens &amp; immaculatus 
+      patere<lb ed="#P" n="104" break="no"/>tur, factum esse praeter &amp; supra primam naturae 
+      in<lb ed="#P" n="105" break="no"/>stitutionem; idque peculiari Dei consilio, ad 
+      redi<lb ed="#P" n="106" break="no"/>mendum per ejus mortem genus humanum a poena 
+      <lb ed="#P" n="107"/>mortis aeternae, quae juxta primam institutionem ei 
+      <lb ed="#P" n="108"/>propter primi parentis praevaricationem debebatur. 
+      <lb ed="#P" n="109"/>Deinde Christo non invito, sed volenti poenas 
+      in<lb ed="#P" n="110" break="no"/>flictas esse; parvulis autem ex Adamo nascentibus 
+      <lb ed="#P" n="111"/>invitis infligi. Postremo, Deum ad redimendum 
+      ge<lb ed="#P" n="112" break="no"/>nus humanum, non elegisse aliquem diversae naturae, 
+      <lb ed="#P" n="113"/>sed seipsum pro peccatis hominum tradidisse in 
+      mor<lb ed="#P" n="114" break="no"/>tem; injustitiam autem proprie non esse cujusquam 
+      <lb ed="#P" n="115"/>in semet ipsum, sed in alterum. 
+    </p>
+            <p xml:id="bt67yj-p137176-d1e275">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Quinta ratio connexa superiori sumitur ex 
+      praero<lb ed="#P" n="117" break="no"/>gativa Christi, quae est pati poenam sine merito 
+      <lb ed="#P" n="118"/>poenae, quod de uno solo mediatore Christo 
+      Catho<lb ed="#P" n="119" break="no"/>lica fides novit, ut ait Augustin. lib. 4. contra duas 
+      <lb ed="#P" n="120"/>epist. Pelagianorum cap. 4. Qui etiam cap. 2. 
+      ejus<lb ed="#P" n="121" break="no"/>dem lib. dicit hanc opinionem animae Christi 
+      coae<lb ed="#P" n="122" break="no"/>quare omnes animas parvulorum. Eandem rationem 
+      <lb ed="#P" n="123"/>videre est apud Anselmum lib. de conceptu 
+      virgina<lb ed="#P" n="124" break="no"/>li cap. 3. 
+    </p>
+            <p xml:id="bt67yj-p137176-d1e299">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Supra dictis possunt &amp; aliae rationes addi ad 
+      pro<lb ed="#P" n="126" break="no"/>bandum peculiariter, quod originale vitium in 
+      par<lb ed="#P" n="127" break="no"/>vulis sit peccatum proprii nominis; velut quod illi 
+      <lb ed="#P" n="128"/>respondeat poena proprie dicta, tam in hoc saeculo, 
+      <lb ed="#P" n="129"/>quam in futuro, quemadmodum annotavit Beda in 
+      <lb ed="#P" n="130"/>Cantica contra Julianum cap. 6. Item, quod eadem 
+      <lb ed="#P" n="131"/>definitione peccatum actuale &amp; originale 
+      comple<lb ed="#P" n="132" break="no"/>xus sit Augustinus q 2. ad Simplicianum; cum 
+      alio<lb ed="#P" n="133" break="no"/>qui aequivocorum nominum non sit eadem ratio 
+      <lb ed="#P" n="134"/>communis. Denique, quod sicut lex naturae in 
+      par<lb ed="#P" n="135" break="no"/>vulo latens &amp; in adulto se exerens, est eadem 
+      nume<lb ed="#P" n="136" break="no"/>ro atque ejusdem rationis; ita vitium illud naturae, 
+      <lb ed="#P" n="137"/>quod latet in parvulo, idem est ejusdemque rationis 
+      <lb ed="#P" n="138"/>cum eo, quod in adulto se tandem exerit, &amp; prava 
+      <lb ed="#P" n="139"/>desideria producit. Sicut ergo istud, ita &amp; illud 
+      pro<lb ed="#P" n="140" break="no"/>prie peccatum est. His adde quod Patres Concilii 
+      <lb ed="#P" n="141"/>Trid. sess. 5. can. 5. fatentur, &amp; docent peccatum 
+      <lb ed="#P" n="142"/>originale, quod baptismo tollitur, veram &amp; 
+      pro<lb ed="#P" n="143" break="no"/>priam peccati rationem habere.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

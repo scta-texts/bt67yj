@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="43"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p016421"><!-- l2d6c4" -->
+            <head xml:id="bt67yj-p016421-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p016421-Hd1e103" type="question-title">Quando invidia superbiam in diabolo fuerit 
+      subsecuta</head>
+            <p xml:id="bt67yj-p016421-d1e106">
+      <!--0276.xml-->
+               <pb ed="#P" n="43"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 4. Quando invidia superbiam in diabolo fuerit 
+      <lb ed="#P" n="2"/>subsecuta. 
+    </p>
+            <p xml:id="bt67yj-p016421-d1e119">
+               <lb ed="#P" n="3"/>SEd quaeritur quando superbiam ejus subsecuta 
+      <lb ed="#P" n="4"/>fuerit invidia, utrum in eodem instanti solo 
+      na<lb ed="#P" n="5" break="no"/>turae ordine posterior, an vero in alio sequenti. Et 
+      <lb ed="#P" n="6"/>quidem si invidia est velut propria passio superbiae, 
+      <lb ed="#P" n="7"/>videri potest utramque simul in eodem fuisse 
+      instan<lb ed="#P" n="8" break="no"/>ti, quia tempore non separantur propriae passiones a 
+      <lb ed="#P" n="9"/>naturis ex quibus profluunt. Contra vero; non prius 
+      <lb ed="#P" n="10"/>potuit homini diabolus invidere, quam homo 
+      con<lb ed="#P" n="11" break="no"/>ditus esset: Hoc autem juxta communem 
+      senten<lb ed="#P" n="12" break="no"/>tiam factum est sexto die post lapsum angeli in 
+      su<lb ed="#P" n="13" break="no"/>perbiam: Quare sexto demum die videtur invidia 
+      <lb ed="#P" n="14"/>superbiam consecuta. 
+    </p>
+            <p xml:id="bt67yj-p016421-d1e148">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Respondendum videtur eodem illo instanti quo 
+      <lb ed="#P" n="16"/>primum peccavit angelus, non fuisse expressum 
+      <lb ed="#P" n="17"/>actum invidiae, aut odii in Deum, multoque 
+      mi<lb ed="#P" n="18" break="no"/>nus in hominem quem nondum cognoscebat, sed 
+      <lb ed="#P" n="19"/>solum appetitum inordinatum propriae excellentiae, 
+      <lb ed="#P" n="20"/>in quo tamen radicaliter invidia, &amp; odium Dei jam 
+      <lb ed="#P" n="21"/>continebantur. At in alio instanti habuisse eum 
+      ex<lb ed="#P" n="22" break="no"/>pressum actum invidiae &amp; odii Dei, scilicet cum 
+      tri<lb ed="#P" n="23" break="no"/>stitia quam ex damnatione propriae conscientiae 
+      ma<lb ed="#P" n="24" break="no"/>ximam concipiebat conjunctam. Ratio responsionis 
+      <lb ed="#P" n="25"/>est: quia in actu primo superbiae maximam habuit 
+      <lb ed="#P" n="26"/>angelus delectationem; non ergo fuit ibi tristitia 
+      <lb ed="#P" n="27"/>damnationis, &amp; invidia atque odium Dei expressum. 
+      <lb ed="#P" n="28"/>Nam alioqui fatendum esset diabolum in actu 
+      super<lb ed="#P" n="29" break="no"/>biae non fuisse magis delectatum initio, cum primum 
+      <lb ed="#P" n="30"/>superbivit, quam unquam postea. Quae ratio postea 
+      <lb ed="#P" n="31"/>etiam ostendit non idem fuisse instans primi peccati 
+      <lb ed="#P" n="32"/>&amp; damnationis ut nonnullis placuit. In hominem 
+      <lb ed="#P" n="33"/>vero non prius invidiam concepit, quam eum vidit 
+      <lb ed="#P" n="34"/>creatum ad illam felicitatem quam ipse fuerat 
+      habi<lb ed="#P" n="35" break="no"/>turus, si non ab ea peccando decidisset, sic enim 
+      <lb ed="#P" n="36"/>communiter doctores tradunt. Quod si ut nonnulli 
+      <lb ed="#P" n="37"/>opinati sunt, primus angelus statim initio 
+      revelatio<lb ed="#P" n="38" break="no"/>nem habuit de homine futuro, vel etiam de Christo 
+      <lb ed="#P" n="39"/>Deo &amp; homine nascituro; nihil absurdi fuerit, imo 
+      <lb ed="#P" n="40"/>quam verissime dici posset, in eo statim post 
+      super<lb ed="#P" n="41" break="no"/>biam secutum fuisse invidiae peccatum, quo contra 
+      <lb ed="#P" n="42"/>genus humanum, aut contra hominem Deum (quae 
+      <lb ed="#P" n="43"/>quidem summa futura erat excellentia) zelo malo 
+      <lb ed="#P" n="44"/>commoveretur. Sed utrum probanda sit hujusmodi 
+      <lb ed="#P" n="45"/>opinio, dicemus infra.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

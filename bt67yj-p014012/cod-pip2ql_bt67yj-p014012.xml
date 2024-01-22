@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="36"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p014012"><!-- l2d4c2" -->
+            <head xml:id="bt67yj-p014012-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p014012-Hd1e103" type="question-title">Angelos futuri sui status non fuisse praescios</head>
+            <p xml:id="bt67yj-p014012-d1e106">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> §. 2. Angelos futuri sui status non fuisse praescios. 
+    </p>
+            <p xml:id="bt67yj-p014012-d1e113">
+               <lb ed="#P" n="95"/>ANgelos tam electos quam reprobos ignaros 
+      <lb ed="#P" n="96"/>fuisse futurae suae conditionis, id est, 
+      perseve<lb ed="#P" n="97" break="no"/>rantiae &amp; lapsus beatitudinis &amp; miseriae post 
+      Magi<lb ed="#P" n="98" break="no"/>strum constanter docent iidem omnes Theologi, 
+      <lb ed="#P" n="99"/>qui negant eos ab initio fuisse beatos beatitudine 
+      <lb ed="#P" n="100"/>consummata. Quod quidem de reprobis, id est, iis 
+      <lb ed="#P" n="101"/>qui postmodum ceciderunt, ex dictis manifeste 
+      se<lb ed="#P" n="102" break="no"/>quitur: Si enim hi sui casus &amp; miseriae praescien 
+      <lb ed="#P" n="103"/>tiam habuissent, jam miseri fuissent antequam 
+      ma<lb ed="#P" n="104" break="no"/>li, quodque amplius est, jam inchoationem 
+      habuis<lb ed="#P" n="105" break="no"/>sent aliquam suae damnationis. Est enim pars non 
+      <lb ed="#P" n="106"/>minima damnationis aeternae, lapsum suum 
+      damna<lb ed="#P" n="107" break="no"/>bilem ipsamque proinde damnationem praescire, 
+      <lb ed="#P" n="108"/>quod patet in Juda proditore &amp; nonnullis aliis; Imo 
+      <lb ed="#P" n="109"/>eo ipso quo alicui sua revelatur aeterna damnatio, 
+      <lb ed="#P" n="110"/>
+               <!-- cord error -->constituitur is extra statum viatoris, quia per fidem
+      <lb ed="#P" n="111"/>&amp; spem tendere non potest in illud, quod certissime, 
+      <lb ed="#P" n="112"/>id est, Deo revelante, novit se non consecuturum, 
+      <lb ed="#P" n="113"/>quemadmodum plenius declaratum est ad 
+      distinctio<lb ed="#P" n="114" break="no"/>nem ultimam libr. 1. Hujusmodi praescientiam 
+      re<lb ed="#P" n="115" break="no"/>movent ab angelis reprobis Augustinus libr. 11. de 
+      <lb ed="#P" n="116"/>Genesi ad literam cap. 17. 18. &amp; 23. Basilius hom. 9. 
+      <lb ed="#P" n="117"/>Quod Deus non est author malorum, &amp; Cyrillus lib 
+      <lb ed="#P" n="118"/>4. contra Julianum. 
+    </p>
+            <p xml:id="bt67yj-p014012-d1e170">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> At vero nec electos, id est, eos qui perstiterunt, 
+      <lb ed="#P" n="120"/>suae perseverantiae atque aeternae foelicitatis praescios 
+      <lb ed="#P" n="121"/>fuisse, valde probabile est. Nam hujusmodi scientia 
+      <lb ed="#P" n="122"/>pars quaedam praemii est, &amp; proinde ante finem 
+      cur<lb ed="#P" n="123" break="no"/>sus ordinarie non tribuitur, ut patet in hominibus 
+      <lb ed="#P" n="124"/>quinisi ad terminum pervenerint, vel in Caelo, vel 
+      <lb ed="#P" n="125"/>saltem in Purgatorio positi certitudinem suae 
+      beati<lb ed="#P" n="126" break="no"/>tudinis non accipiunt, paucissimis dumtaxat 
+      exce<lb ed="#P" n="127" break="no"/>ptis, quibus extraordinarie sua praedestinatio fuit 
+      <lb ed="#P" n="128"/>ante terminum revelata. 
+    </p>
+            <p xml:id="bt67yj-p014012-d1e197">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Quamvis autem de hac re Augustinum 
+      aliquan<lb ed="#P" n="130" break="no"/>do dubitasse satis appareat ex prioribus ejus scriptis, 
+      <lb ed="#P" n="131"/>ut lib. II. de Genesi ad literam cap. 17. &amp; 19. (unde 
+      <lb ed="#P" n="132"/>loca allegantur a Magistro) &amp; lib. 11. de civit. cap. 
+      <lb ed="#P" n="133"/>11. &amp; 13. postea tamen hanc quam probavimus 
+      sen<lb ed="#P" n="134" break="no"/>tentiam ei magis placuisse, tum ex eodem cap. 13. 
+      <lb ed="#P" n="135"/>colligitur, tum certius ostenditur ex lib. de corr. &amp; 
+      <lb ed="#P" n="136"/>gratia cap. 10. ubi inter electos &amp; reprobos 
+      ange<lb ed="#P" n="137" break="no"/>los ante horum lapsum &amp; illorum perseverantiam 
+      <lb ed="#P" n="138"/>nullum prorsus agnoscit discrimen.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

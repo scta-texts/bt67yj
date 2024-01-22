@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="379"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p146728"><!-- l2d36c1" -->
+            <head xml:id="bt67yj-p146728-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p146728-Hd1e103" type="question-title">Peccata et causas esse et poenas peccatorum</head>
+            <p xml:id="bt67yj-p146728-d1e106">
+      <!--0612.xml-->
+               <pb ed="#P" n="379"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="2"/>TRICESIMAMSEXTAM. 
+      <lb ed="#P" n="3"/>§. 1. Peccata &amp; causas esse &amp; poenas peccatorum.
+    </p>
+            <p xml:id="bt67yj-p146728-d1e122">
+               <lb ed="#P" n="4"/>TERTA est e Scripturis doctrina, peccata alia 
+      <lb ed="#P" n="5"/>aliorum causas esse; sicut &amp; illud certum 
+      <lb ed="#P" n="6"/>quaedam ita esse peccata, ut sint etiam 
+      poe<lb ed="#P" n="7" break="no"/>nae peccatorum praecedentium. Et quidem 
+      pecca<lb ed="#P" n="8" break="no"/>tum peccati causa existit variis modis, vel quia 
+      <lb ed="#P" n="9"/>unum alteri materiam subministrat, ut gula 
+      libidi<lb ed="#P" n="10" break="no"/>ni, avaritia contentioni &amp; litibus, &amp; homicidiis. 
+      <lb ed="#P" n="11"/>Unde Apostolus 1. Timoth. 6. Radix omnium 
+      ma<lb ed="#P" n="12" break="no"/>lorum est cupiditas; vel quia peccatum semel cum 
+      <lb ed="#P" n="13"/>delectatione perpetratum, invitat ad ejusdem 
+      itera<lb ed="#P" n="14" break="no"/>tionem &amp; actuum frequentiam, unde nascitur 
+      ha<lb ed="#P" n="15" break="no"/>bitus &amp; consuetudo peccandi; vel quia unum ad 
+      <lb ed="#P" n="16"/>alterum ut finem ordinatur, ut furtum ad luxum, 
+      <lb ed="#P" n="17"/>homicidium ad rapinam &amp; injustam rei 
+      possessio<lb ed="#P" n="18" break="no"/>nem, ut in Achab cui dictum est: Occidisti, insuper 
+      <lb ed="#P" n="19"/>&amp; posse disti. 3. Reg. 21. vel quia prioris pecati 
+      tegen<lb ed="#P" n="20" break="no"/>di causa aliud committitur, quomodo furtum saepe 
+      <lb ed="#P" n="21"/>causa est mendacii ac perjurii, &amp; in Davide 
+      adulte<lb ed="#P" n="22" break="no"/>rium causa fuit homicidii; vel quia praecedenti 
+      pecca<lb ed="#P" n="23" break="no"/>to removetur impedimentum sequentis, ut pudor vel 
+      <lb ed="#P" n="24"/>timor, vel gratia Dei, vel aliud retinaculum, quo 
+      <lb ed="#P" n="25"/>quis a peccando retrahi ac prohiberi poterat, 
+      quo<lb ed="#P" n="26" break="no"/>modo mitium omnis peccati superbia; vel denique 
+      <lb ed="#P" n="27"/>quia peccatum procedens meritum est sequentis 
+      <lb ed="#P" n="28"/>quomodo male vivendo meretur Christianus, ut in 
+      <lb ed="#P" n="29"/>haeresim vel aliud infidelitatis genus labi 
+      permitta<lb ed="#P" n="30" break="no"/>tur. Atque hic modus per omnes superiores sparsus 
+      <lb ed="#P" n="31"/>est, ac sola ab iis ratione differt, ut patet diligenter 
+      <lb ed="#P" n="32"/>consideranti. 
+    </p>
+            <p xml:id="bt67yj-p146728-d1e187">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Ex quo etiam modo consequens est quod 
+      diceba<lb ed="#P" n="34" break="no"/>mus, quaedam peccata poenas esse praecedentium 
+      <lb ed="#P" n="35"/>peccatorum. Quia enim homo peccando meretur, 
+      <lb ed="#P" n="36"/>non solum ut in peccato relinquatur gratia Dei 
+      de<lb ed="#P" n="37" break="no"/>stitutus, verum etiam ut in alia graviora 
+      permitta<lb ed="#P" n="38" break="no"/>tur incidere, consequens est, posteriora peccata 
+      <lb ed="#P" n="39"/>poenae rationem respectu, praecedentis subire. 
+      Mani<lb ed="#P" n="40" break="no"/>festa est autem hujus rei probatio ex Scriptura. Ait 
+      <lb ed="#P" n="41"/>enim Dominus Joann. 8. Omnis qui facit peccatum, 
+      <lb ed="#P" n="42"/>servus est peccati. Et Petrus 2. epist. 2. de peccato 
+      lo<lb ed="#P" n="43" break="no"/>quens: A quo quis superatus est, hujus &amp; servus est. 
+      <lb ed="#P" n="44"/>Et Apoc. ult. Qui in sordibus est, sordescat adhuc. 
+      <lb ed="#P" n="45"/>Hoc enim justum est, ut eodem loco annotat 
+      Glos<lb ed="#P" n="46" break="no"/>sa ordinaria. Tale est &amp; illud Psalm. 68. Appone 
+      ini<lb ed="#P" n="47" break="no"/>quitatem super iniquitatem eorum. Et 2. Thes. 2. Ideo 
+      <lb ed="#P" n="48"/>mittet illis Deus operationem erroris, ut credant 
+      men<lb ed="#P" n="49" break="no"/>dacio. Omnium vero apertissimus est locus Roman. I. 
+      <lb ed="#P" n="50"/>ubi Apostolus exaggerans ingratitudinem eorum qui 
+      <lb ed="#P" n="51"/>cum agnovissent Deum, non sicut Deum 
+      glorifica<lb ed="#P" n="52" break="no"/>verunt, sed creatoris cultu neglecto creaturis 
+      servie<lb ed="#P" n="53" break="no"/>runt; late ostendit in quae &amp; quam abominanda 
+      pec<lb ed="#P" n="54" break="no"/>cata merito illius ingratitudinis prolapsi sint, atque 
+      <lb ed="#P" n="55"/>a Deo traditi. Ita enim ait semel, iterum &amp; tertio. 
+      <lb ed="#P" n="56"/>Propter quod tradidit illos Deus, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p146728-d1e245">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Reperitur haec doctrina compluribus locis apud 
+      <lb ed="#P" n="58"/>Augustinum ut in Psalm. 57. Supercecidit ignis. 
+      In<lb ed="#P" n="59" break="no"/>ter primum, inquit, peccatum apostasiae, &amp; ultimam 
+      <lb ed="#P" n="60"/>poenam ignis aterni, media quae sunt, &amp; peccata 
+      <lb ed="#P" n="61"/>sunt, &amp; poenae peccati. Et paulo ante ad illud. 
+      Ini<lb ed="#P" n="62" break="no"/>quitates manus vestra connectunt, docet quandam esse 
+      <lb ed="#P" n="63"/>peccatorum inter se colligationem, ac velut 
+      cate<lb ed="#P" n="64" break="no"/>nam, in qua alia sint causae subsequentium, alia 
+      poe<lb ed="#P" n="65" break="no"/>nae praecedentium peccatorum. Idem libs. 5. contra 
+      <lb ed="#P" n="66"/>Julianum cap. 5. justo Dei judicio fieri dicit, ut 
+      cri<lb ed="#P" n="67" break="no"/>mina criminibus vindicentur, &amp; supplicia 
+      peccan<lb ed="#P" n="68" break="no"/>tium non tantum sint tormenta, sed &amp; vitiorum 
+      in<lb ed="#P" n="69" break="no"/>crementa. Alia loca sunt libr. de praedestinatione 
+      <!--0612.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>sanctorum cap. 10. libr. 1. retractationum cap. 9. &amp; 
+      <lb ed="#P" n="71"/>lib. 3. de libero arbitrio cap. 18. lib. 83. qu. 77 &amp; 
+      li<lb ed="#P" n="72" break="no"/>bro de natura &amp; gratia cap. 22. &amp; 23. His 
+      consenta<lb ed="#P" n="73" break="no"/>nea scribit Gregorius lib. 25. Moral. cap. 9. per 
+      to<lb ed="#P" n="74" break="no"/>tum, &amp; homilia 11. in Ezechielem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

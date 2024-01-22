@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="394"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p152763"><!-- l2d43c2" -->
+            <head xml:id="bt67yj-p152763-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p152763-Hd1e103" type="question-title">Quod sit peccatum in Spiritum sanctum</head>
+            <p xml:id="bt67yj-p152763-d1e106">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> §. 2. Quod sit peccatum in Spiritum sanctum. 
+    </p>
+            <p xml:id="bt67yj-p152763-d1e113">
+               <lb ed="#P" n="125"/>QUoniam superiori doctrinae contraria videri 
+      <lb ed="#P" n="126"/>potest Domini sententia in evangelio, qua ait 
+      <lb ed="#P" n="127"/>Matth. 12. Omne peccatum &amp; blasphemia remittetur. 
+      <lb ed="#P" n="128"/>hominibus, spiritus autem blasphemia (sic enim 
+      legen<lb ed="#P" n="129" break="no"/>dum, non, blasphemiae) non remittetur. Et 
+      quicum<lb ed="#P" n="130" break="no"/>que dixerit verbum contra filium hominis, remittetur 
+      <lb ed="#P" n="131"/>ei; qui autem dixerit contra spiritum sanctum, non 
+      re<lb ed="#P" n="132" break="no"/>mittetur ei neque in hoc saeculo, neque in futuro; 
+      id<lb ed="#P" n="133" break="no"/>circo breviter dicendum hoc loco, quodnam ad 
+      <lb ed="#P" n="134"/>sensum evangelii sit peccatum in Spiritum sanctum; 
+      <lb ed="#P" n="135"/>&amp; quo sensu dicatur nunquam remittendum.
+    </p>
+            <p xml:id="bt67yj-p152763-d1e139">
+               <lb ed="#P" n="136"/>Imprimis autem manifestum est, non omnia 
+      morta<lb ed="#P" n="137" break="no"/>lia peccata comprehendi nomine peccati in 
+      Spiri<lb ed="#P" n="138" break="no"/>tum sanctum. Est enim omnis blasphemia peccatum 
+      <!--0628.xml-->
+      <pb ed="#P" n="395"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>mortale; cum tamen juxta dictam sententiam non 
+      <lb ed="#P" n="2"/>omnis blasphemia in spiritum committatur, sed 
+      <lb ed="#P" n="3"/>quaedam etiam in Filium, quae dicitur remissibilis. 
+      <lb ed="#P" n="4"/>Deinde distinguendum inter peccatum in Spiritum 
+      <lb ed="#P" n="5"/>sanctum, &amp; blasphemiam in Spiritum sanctum, 
+      <lb ed="#P" n="6"/>tanquam inter genus &amp; speciem. Multis enim 
+      mo<lb ed="#P" n="7" break="no"/>dis peccari potest in Spiritum sanctum, citra 
+      blas<lb ed="#P" n="8" break="no"/>phemiam. 
+    </p>
+            <p xml:id="bt67yj-p152763-d1e173">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Ut igitur quaestioni respondeamus. sciendum hunc 
+      <lb ed="#P" n="10"/>scripturae locum August. judicio difficillimum serm. 
+      <lb ed="#P" n="11"/>11. de verbis Domini, ubi &amp; prolixe eum tractat, a 
+      <lb ed="#P" n="12"/>variis varie exponi. Quidam illud peccatum 
+      intelli<lb ed="#P" n="13" break="no"/>gunt, quo quis post perceptam Dei gratiam, 
+      veri<lb ed="#P" n="14" break="no"/>tatem &amp; charitatem Christianam oppugnat. Sic 
+      Au<lb ed="#P" n="15" break="no"/>gust. tametsi dubitanter loquens libro 1. de serm. 
+      Do<lb ed="#P" n="16" break="no"/>mini in monte, cap. 22. Hoc fortasse est, inquit, 
+      pec<lb ed="#P" n="17" break="no"/>care in Spiritum sanctum, per malitiam &amp; invidiam 
+      <lb ed="#P" n="18"/>fraternam oppugnante charitatem post acceptam 
+      gra<lb ed="#P" n="19" break="no"/>tiam Sviritus sancti; quod peccatum Dominus neque 
+      <lb ed="#P" n="20"/>hic neque in futuro saeculo dimitti dicit. Secundum 
+      <lb ed="#P" n="21"/>hanc expositionem sententia dominica similis est illi 
+      <lb ed="#P" n="22"/>Apostolicae 6. Impossibile est eos qui semel sunt 
+      illu<lb ed="#P" n="23" break="no"/>minati, rursus renovari ad poenitentiam. Et cap. 10. 
+      <lb ed="#P" n="24"/>Voluntarie peccantibus nobis post acceptam notitiam 
+      <lb ed="#P" n="25"/>veritatis, jam non relinquitur pro peccatis hostia. 
+      <lb ed="#P" n="26"/>Quales etiam ibidem dicit spiritui gratiae 
+      contume<lb ed="#P" n="27" break="no"/>liam facere. Hoc genus peccati &amp; Petrus notavit 2. 
+      <lb ed="#P" n="28"/>epist. 2. cum ait de quibusdam, quod melius erat 
+      il<lb ed="#P" n="29" break="no"/>lis non cognoscere viam justitiae, quam post 
+      agni<lb ed="#P" n="30" break="no"/>tionem retrorsum converti, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p152763-d1e225">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Caeterum Augustinus libro 1. retract. cap. 19. ut 
+      <lb ed="#P" n="32"/>supra monuimus, ita dictam expositionem 
+      restrin<lb ed="#P" n="33" break="no"/>git, ut addi velit; si tamen in ea perversitate quis 
+      fi<lb ed="#P" n="34" break="no"/>nierit hanc vitam. Et proinde aliis aliquot locis, ut 
+      <lb ed="#P" n="35"/>serm. 11. de verbis Domini, epist. 50. Enchir 83. &amp; 
+      <lb ed="#P" n="36"/>de correptione &amp; gratia, cap. 12. peccatum in 
+      Spiri<lb ed="#P" n="37" break="no"/>tum sanctum vult esse impoenitentiam, quam Graeci 
+      <lb ed="#P" n="38"/>vocant ἀμετάνοιαν, id est ut Augustinus loquitur. 
+      <lb ed="#P" n="39"/>epist. 50. duritiam cordis usque ad finem hujus vitae, 
+      <lb ed="#P" n="40"/>qua homo recusat in unitate corporis Christi, quod 
+      <lb ed="#P" n="41"/>vivificat Spiritus sanctus, remissionem accipere 
+      <lb ed="#P" n="42"/>peccatorum. 
+    </p>
+            <p xml:id="bt67yj-p152763-d1e256">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Hae duae Augustini expositiones occasionem 
+      dede<lb ed="#P" n="44" break="no"/>runt posterioribus Theologis distinguendi sex 
+      spe<lb ed="#P" n="45" break="no"/>cies peccati in Spiritum sanctum; videlicet 
+      despera<lb ed="#P" n="46" break="no"/>tionem, praesumptionem, impoenitentiam, 
+      obsti<lb ed="#P" n="47" break="no"/>nationem, veritatis agnitae impugnationem, &amp; gra 
+      <lb ed="#P" n="48"/>tiae fraternae invidentiam. Quatuor enim primae ad 
+      <lb ed="#P" n="49"/>posteriorem Augustini expositionem pertinent; duae 
+      <lb ed="#P" n="50"/>postremae ad priorem. Omnes quoque recte &amp; 
+      con<lb ed="#P" n="51" break="no"/>venienter vocantur peccata in Spiritum sanctum, 
+      <lb ed="#P" n="52"/>quod per ea directe peccetur in ipsam Dei 
+      bonita<lb ed="#P" n="53" break="no"/>tem, quae appropriatur Spiritui sancto. Unde &amp; 
+      <lb ed="#P" n="54"/>nata est disputatio de peccatis infirmitatis, quae in 
+      <lb ed="#P" n="55"/>Patrem, cui appropriatur potentia; &amp; de 
+      pecca<lb ed="#P" n="56" break="no"/>tis ignorantiae quae in Filium committi dicuntur, 
+      <lb ed="#P" n="57"/>cui appropriatur sapientia. 
+    </p>
+            <p xml:id="bt67yj-p152763-d1e293">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Haec porro, etsi recte vere dicantur, non tamen, 
+      <lb ed="#P" n="59"/>ut apparet, ad sensum sententiae evangelicae. Nam 
+      <lb ed="#P" n="60"/>in evangelio sermo est de iis qui Christi miracula 
+      <lb ed="#P" n="61"/>malitios e calumniabantur, attribuentes ea 
+      daemoni<lb ed="#P" n="62" break="no"/>bus, quae facta erant virtute Spiritus sancti. Nec de 
+      <lb ed="#P" n="63"/>quovis agitur peccato in Spiritum sanctum 
+      commis<lb ed="#P" n="64" break="no"/>so, sed de blasphemia in Spiritum sanctum, id est, 
+      <lb ed="#P" n="65"/>contumelia verbis ei illata. Quare textuiconformior 
+      <lb ed="#P" n="66"/>esse videtur eorum expositio, qui blasphemiam in 
+      <lb ed="#P" n="67"/>Spiritum sanctum eam contumeliaminterpretantur, 
+      <lb ed="#P" n="68"/>qua quis malitios e &amp; ex industria ea opera quae 
+      mani<lb ed="#P" n="69" break="no"/>feste sunt Dei, malignis spiritibus tribuit, qualis erat 
+      <lb ed="#P" n="70"/>ejectio daemonum. Generaliter autem peccatum in 
+      <lb ed="#P" n="71"/>Spiritum sanctumjuxta eandem conformitatem erit, 
+      <lb ed="#P" n="72"/>quicquid seu verbo, seu opere, seu cogitatione, contra 
+      <lb ed="#P" n="73"/>Deum dicto modo committitur. Haec complurium 
+      <lb ed="#P" n="74"/>veterum est interpretatio, ut Ambrosii, Hieronymi, 
+      <!--0628.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Chrysostomi Euthymii &amp; Theophylacti &amp; 
+      <lb ed="#P" n="76"/>aliorum quorundam in commentariis hujus loci 
+      <lb ed="#P" n="77"/>apud Matth. &amp; Lucam cap. 12. Et rursum Ambrosii 
+      <lb ed="#P" n="78"/>lib. 1. de Spiritu sancto cap. 3. 
+    </p>
+            <p xml:id="bt67yj-p152763-d1e348">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Juxta hanc vero expositionem putant nonnulli 
+      no<lb ed="#P" n="80" break="no"/>men Spiritus sancti non ita accipi hoc loco, ut 
+      pecu<lb ed="#P" n="81" break="no"/>liariter significet tertiam in Deitate personam, sed 
+      <lb ed="#P" n="82"/>pro tota divinitate. Non enim distinguere voluisse 
+      <lb ed="#P" n="83"/>Dominum inter peccata in Spiritum, &amp; ea quae in 
+      <lb ed="#P" n="84"/>Patrem vel Filium committuntur, sed tantum inter 
+      <lb ed="#P" n="85"/>peccatum in Deum &amp; peccatum in Filium hominis; 
+      id<lb ed="#P" n="86" break="no"/>circo tamen expressum nomen Spiritus sancti, quod 
+      <lb ed="#P" n="87"/>id apposite opponatur spiritui immundo, cujus 
+      virtu<lb ed="#P" n="88" break="no"/>ti, calumniatores illi divina Christi opera tribuebant. 
+    </p>
+            <p xml:id="bt67yj-p152763-d1e374">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Potest nihilominus dici, idcirco prae reliquis 
+      per<lb ed="#P" n="90" break="no"/>sonis nominatum Spiritum sanctum, quod ea divina 
+      <lb ed="#P" n="91"/>opera quae pertinent ad hominis lapsi 
+      reparatio<lb ed="#P" n="92" break="no"/>nem &amp; sanctificationem, cujusmodi erant Christi 
+      <lb ed="#P" n="93"/>miracula, in scripturis peculiariter Spiritui sancto 
+      <lb ed="#P" n="94"/>tribui soleant. Unde illud: Si ego in spiritu Dei 
+      eji<lb ed="#P" n="95" break="no"/>cio daemonia. Et: Spiritus sanctus superveniet in te. Et: 
+      <lb ed="#P" n="96"/>Concepius de Spiritu sancto. Et: Per Spiritum 
+      san<lb ed="#P" n="97" break="no"/>ctum obtulit semetipsum. Ex his jam consequenter 
+      <lb ed="#P" n="98"/>intelligere licet quae sit blasphemia in filium 
+      homi<lb ed="#P" n="99" break="no"/>nis; ea nimirum qua quidem reprehendebant facta 
+      <lb ed="#P" n="100"/>Christi humana, velut eorum qui dicebant eum 
+      vo<lb ed="#P" n="101" break="no"/>racem &amp; vini potatorem, amicum peccatorum &amp; 
+      <lb ed="#P" n="102"/>publicanorum, offensi videlicet ejus familiari inter 
+      <lb ed="#P" n="103"/>homines conversatione.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

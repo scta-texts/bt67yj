@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="387"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p150087"><!-- l2d41c6" -->
+            <head xml:id="bt67yj-p150087-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p150087-Hd1e103" type="question-title">Ad quadam in contrarium argumenta responsio</head>
+            <p xml:id="bt67yj-p150087-d1e106">
+               <lb ed="#P" n="115"/>§. 6. Ad quadam in contrarium argumenta responsio.
+    </p>
+            <p xml:id="bt67yj-p150087-d1e111">
+               <lb ed="#P" n="116"/>HIs quae dicta sunt contrarium videri potest 
+      il<lb ed="#P" n="117" break="no"/>lud imprimis quod est apud S. August. lib. 2. 
+      <lb ed="#P" n="118"/>retract. c. 13. ubi generalem sententiam supra 
+      cita<lb ed="#P" n="119" break="no"/>tam ex libro de vera religione tractans &amp; 
+      interpre<lb ed="#P" n="120" break="no"/>tans: Illud inquit, peccatum cogitandum est, quod 
+      <lb ed="#P" n="121"/>tantummodo peccatum est, non quod est etiam poena 
+      <lb ed="#P" n="122"/>peccati, scilicet peccatum primi hominis. Cui 
+      simi<lb ed="#P" n="123" break="no"/>lia scribit etiam libro primo retractationum cap. 15. 
+      <lb ed="#P" n="124"/>&amp; 16. asserens etiam quosdam peccare nolentes. 
+      ali<lb ed="#P" n="125" break="no"/>bi quoque, ut libro tertio de libero arbitrio 
+      cap<lb ed="#P" n="126" break="no"/>18. &amp; 19. Item libro de praedestinatione Sanctorum 
+      <lb ed="#P" n="127"/>capite undecimo, &amp; libro de natura &amp; gratia capite 
+      <lb ed="#P" n="128"/>66. ac rursum libro primo retractationum capite 
+      <lb ed="#P" n="129"/>nono, fatetur ac docet, quaedam peccata necessitate 
+      <lb ed="#P" n="130"/>fieri, ad id probandum praeter alia proferens illud 
+      <lb ed="#P" n="131"/>Psal. De necessitatibus meis erue me. Nec dissimile est 
+      <lb ed="#P" n="132"/>quod scribit Beda in Proverb. vicesimo quarto ad 
+      <lb ed="#P" n="133"/>illud: Septies in die, &amp;c. ita inquiens. Ex 
+      ignoran<lb ed="#P" n="134" break="no"/>tia, oblivione, subreptione, necessitate quotidie vel 
+      <lb ed="#P" n="135"/>inviti, vel volentes peccamus. 
+    </p>
+            <p xml:id="bt67yj-p150087-d1e157">
+               <lb ed="#P" n="136"/>Ad haec respondemus, sanctum Augustinum 
+      prio<lb ed="#P" n="137" break="no"/>ribus locis, dum soli peccato primi hominis 
+      ascri<lb ed="#P" n="138" break="no"/>bere videtur vosuntarium, id intelligere, quod mere 
+      <lb ed="#P" n="139"/>&amp; perfecte voluntarium est. Caetera autem quae 
+      <lb ed="#P" n="140"/>etiam poenae sunt peccatorum, velut quae per 
+      igno<lb ed="#P" n="141" break="no"/>rantiam, infirmitatem, vel coactionem 
+      commit<lb ed="#P" n="142" break="no"/>tuntur, negat illam perfectam voluntarii rationem 
+      <!--0621.xml-->
+      <pb ed="#P" n="388"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>habere, propterea quod tales circunstantiae semper 
+      <lb ed="#P" n="2"/>aliqua parte voluntarium minuant, efficiantque ut 
+      <lb ed="#P" n="3"/>actiones quibus conjunctae sunt, minus libere 
+      pro<lb ed="#P" n="4" break="no"/>cedant a voluntate. Esse tamen absolute voluntaria 
+      <lb ed="#P" n="5"/>etiam hujusmodi peccata, testatur iisdem locis 
+      Au<lb ed="#P" n="6" break="no"/>gustinus. Nam libro primo retractationum capite 
+      <lb ed="#P" n="7"/>decimoquinto, eum qui nesciens peccavit, ideó¬ 
+      <lb ed="#P" n="8"/>que non incongruenter nolens peccasse dicitur, 
+      <lb ed="#P" n="9"/>docet ideo volentem peccasse, quia voluntate fecit 
+      <lb ed="#P" n="10"/>quod peccatum esse nesc ebat. Et capite 
+      decimo<lb ed="#P" n="11" break="no"/>sexto dum dicit illud praecipue intelligendum esse 
+      <lb ed="#P" n="12"/>peccatum voluntarium, quod justa damnatio 
+      con<lb ed="#P" n="13" break="no"/>secuta est, id est, primum peccatum hominis, satis 
+      <lb ed="#P" n="14"/>significat &amp; caetera peccata esse voluntaria, licet 
+      mi<lb ed="#P" n="15" break="no"/>nus perfecte. Et libro secundo capite decimotertio 
+      <lb ed="#P" n="16"/>post verba in objectione posita, sic ait: Quamvis &amp; 
+      <lb ed="#P" n="17"/>illa quae non voluntaria peccata non immerito 
+      dicun<lb ed="#P" n="18" break="no"/>tur, quia vel a nescientibus, vel a coactis 
+      perpetran<lb ed="#P" n="19" break="no"/>tur, non omni modo possunt sine voluntate 
+      committi<lb ed="#P" n="20" break="no"/>Et quae sequuntur. 
+    </p>
+            <p xml:id="bt67yj-p150087-d1e226">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Ubi docet qua ratione non actualia tantum 
+      pec<lb ed="#P" n="22" break="no"/>cata, sed &amp; originale voluntarium sit; hoc quidem 
+      <lb ed="#P" n="23"/>aliena voluntate contractum, illa vero propria 
+      vo<lb ed="#P" n="24" break="no"/>luntate commissa. 
+    </p>
+            <p xml:id="bt67yj-p150087-d1e239">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Quoniam autem quantum minuitur libertas, 
+      tan<lb ed="#P" n="26" break="no"/>tum crescit necessitas; hinc recte eadem peccata 
+      <lb ed="#P" n="27"/>necessitate quadam fieri dicuntur, id quod 
+      poste<lb ed="#P" n="28" break="no"/>riora Augustini loca cum adjuncto Bedae testimonio 
+      <lb ed="#P" n="29"/>significant; tametsi in Psalmis &amp; aliis scripturae 
+      lo<lb ed="#P" n="30" break="no"/>cis per necessitates, ad literam, non peccata, sed 
+      <lb ed="#P" n="31"/>angustiae tribulationum, consueta scripturae phrasi 
+      <lb ed="#P" n="32"/>intelliguntur. 
+    </p>
+            <p xml:id="bt67yj-p150087-d1e261">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Caeterum qui &amp; quot sint gradus voluntarii 
+      se<lb ed="#P" n="34" break="no"/>cundum magis &amp; minus, diligenter a Bonaventura 
+      <lb ed="#P" n="35"/>in hanc distinctionem scribente explicatum est, ubi 
+      <lb ed="#P" n="36"/>novem gradus enumerat, quorum primus idemque 
+      <lb ed="#P" n="37"/>perfectissimus primo peccato angeli convenit, 
+      se<lb ed="#P" n="38" break="no"/>cundus &amp; ipse perfectus primo peccato hominis, 
+      ul<lb ed="#P" n="39" break="no"/>timus idemque imperfectissimus peccato originali; 
+      <lb ed="#P" n="40"/>reliqui vero medii diversis actualibus peccatis 
+      ho<lb ed="#P" n="41" break="no"/>minis lapsi, juxta varios modos perfectionis &amp; 
+      im<lb ed="#P" n="42" break="no"/>perfectionis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

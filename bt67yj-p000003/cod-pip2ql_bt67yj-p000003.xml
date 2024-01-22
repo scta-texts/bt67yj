@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="1"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p000003"><!-- l2d1c1" -->
+            <head xml:id="bt67yj-p000003-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p000003-Hd1e103" type="question-title">Varii de mundi creatione errores recitantur</head>
+            <p xml:id="bt67yj-p000003-d1e106">
+      <!--0232.xml-->
+               <pb ed="#P" n="1"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>GUILLELEMI ESITI 
+      <lb ed="#P" n="2"/>IN LIB. II. SENTENT 
+      <lb ed="#P" n="3"/>COMMENTARI.
+      <!--0232.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="4"/>IN DISTINCTIONEM I. 
+      <lb ed="#P" n="5"/>§. 1. Varii de mundi creatione errores recitantur. 
+    </p>
+            <p xml:id="bt67yj-p000003-d1e130">
+               <lb ed="#P" n="6"/>EST de rerum creatione rectam &amp; 
+      Catho<lb ed="#P" n="7" break="no"/>licam sententiam teneamus, cavendi 
+      <lb ed="#P" n="8"/>sunt imprimis errores, partim 
+      Philoso<lb ed="#P" n="9" break="no"/>phorum, partim haereticorum, jam 
+      o<lb ed="#P" n="10" break="no"/>lim Ecclesiae judicio condemnati. Qua 
+      <lb ed="#P" n="11"/>etsi pro opinantium varietate, propemodum sint 
+      <lb ed="#P" n="12"/>innumeri; ad pauca tamen capita omnes revocari 
+      <lb ed="#P" n="13"/>possunt. 
+    </p>
+            <p xml:id="bt67yj-p000003-d1e150">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Primus error est eorum, qui mundum aliquando 
+      <lb ed="#P" n="15"/>s. in tempore factum fuisse negant, asserentes eum 
+      <lb ed="#P" n="16"/>semper extitisse, &amp; proinde aeternum esse; fuit haec 
+      <lb ed="#P" n="17"/>opinio Aristotelis Peripateticorum principis, ut 
+      vi<lb ed="#P" n="18" break="no"/>dere est apud eum libro 1. physicorum in fine, &amp; 
+      <lb ed="#P" n="19"/>plenius libro 8. Item libro 1. de caelo, &amp; libro 2. de 
+      <lb ed="#P" n="20"/>generatione, &amp; alibi. Quam &amp; sectatores ejus 
+      com<lb ed="#P" n="21" break="no"/>muniter tenuerunt, estque ea etiamnum hodie atheo 
+      <lb ed="#P" n="22"/>rum quorundam sententia. Veruntamen inter 
+      aster<lb ed="#P" n="23" break="no"/>tores hujus erroris, discrimen est non modicum. 
+      <lb ed="#P" n="24"/>Alii namque, ut athei, absolute negant, Deum, vel 
+      <lb ed="#P" n="25"/>mentem aliquam, esse mundi causam efficientem, 
+      <lb ed="#P" n="26"/>scilicet mundo tribuentes, quod per se sit, 
+      semper<lb ed="#P" n="27" break="no"/>que fuerit, nec ab ulla causa dependeat. Alii vero 
+      <lb ed="#P" n="28"/>fatentur mundum a Deo authore existere; sed eo 
+      <lb ed="#P" n="29"/>modo, quo effectus sempiternus fingitur esse a 
+      sem<lb ed="#P" n="30" break="no"/>piterna causa; quemadmodum eorum sententiam, 
+      <lb ed="#P" n="31"/>similitudine vestigii in pulvere impressi, a nonnullis 
+      <lb ed="#P" n="32"/>declarari dicit Augustinus libro 10. de civit. Dei 
+      ca<lb ed="#P" n="33" break="no"/>pite 31. Cujus erroris causa itidem duplex fuit. 
+      Qui<lb ed="#P" n="34" break="no"/>dam enim ita senserunt, quod comprehendere non 
+      <lb ed="#P" n="35"/>possent, quomodo Deus citra mutationem 
+      volun<lb ed="#P" n="36" break="no"/>tatis, in tempore, mundum velut rem novam 
+      fa<lb ed="#P" n="37" break="no"/>ceret, quem ante non fecisset. Quibus respondet 
+      <lb ed="#P" n="38"/>Augustinus libro 11. de civitate Dei, capite 4. &amp; 5. 
+      <lb ed="#P" n="39"/>&amp; libro 12. cap. 10. 14. &amp; 17. &amp; responderi potest ex 
+      <lb ed="#P" n="40"/>iis, quae libro superiori dicta sunt, ad 
+      distinctio<lb ed="#P" n="41" break="no"/>nem octavam, de immutabilitate voluntatis 
+      divi<lb ed="#P" n="42" break="no"/>nae. Quidam vero ex eo suum statuunt errorem, 
+      <lb ed="#P" n="43"/>quod putent, Deum non libera voluntate, sed 
+      na<lb ed="#P" n="44" break="no"/>turali necessitate agere. Quae opinio Aristoteli a 
+      ple<lb ed="#P" n="45" break="no"/>risque ascribitur, recensetur autem &amp; rejicitur 
+      no<lb ed="#P" n="46" break="no"/>minatim ab Ambrosio libro 1. hexam. cap. 5. ac 
+      sa<lb ed="#P" n="47" break="no"/>tis refellitur per ea quae libro superiori diximus ad 
+      <lb ed="#P" n="48"/>distinctionem 45 
+    </p>
+            <p xml:id="bt67yj-p000003-d1e232">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Secundus error primo proximus, est eorum qui 
+      <lb ed="#P" n="50"/>mundum quidem aliquando, &amp; in tempore factum 
+      <lb ed="#P" n="51"/>asserunt; sed materiam ex qua factus. sit, Deo 
+      fa<lb ed="#P" n="52" break="no"/>ciunt coaeternam, propterea quod impossibile 
+      cre<lb ed="#P" n="53" break="no"/>dant, etiam potentiae divinae, ex nihilo, id est, nulla 
+      <lb ed="#P" n="54"/>praeexistente materia producere quippiam. Sic 
+      sen<lb ed="#P" n="55" break="no"/>serunt olim haeretici Seleuciani &amp; Hermiani, quod 
+      <lb ed="#P" n="56"/>testantur Epiphanius &amp; Augustinus lib. de 
+      haeresi<lb ed="#P" n="57" break="no"/>bus. Sed &amp; ante eos, <name xml:id="bt67yj-p000003-Nd1e255">Plato</name> idem sensisse a quibus¬ 
+      <!--0232.xml-->
+      <cb ed="#P" n="c"/>
+               <lb ed="#P" n="58"/>dam existimatur. Hunc errorem Manichaei etiam 
+      <lb ed="#P" n="59"/>auxerunt, dicentes materiam non esse factam a 
+      Deo<lb ed="#P" n="60" break="no"/>sed Deum ut mundum faceret, a materia fuisse adju 
+      <lb ed="#P" n="61"/>tum, uti refert August. lib. de fide contra Manich 
+      <lb ed="#P" n="62"/>c. 40. &amp; 41. Huc item referendi sunt, quimundum 
+      <lb ed="#P" n="63"/>fortuite constare, atque ex atomorum concursu con 
+      <lb ed="#P" n="64"/>ceptum esse docuerunt: ut veteres philosophi 
+      Leu<lb ed="#P" n="65" break="no"/>cippus &amp; Democritus, quorum etiam posterior 
+      <lb ed="#P" n="66"/>atheus fuit cognominatus. 
+    </p>
+            <p xml:id="bt67yj-p000003-d1e282">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Tertius est eorum, qui quidem fatentur mundum, 
+      <lb ed="#P" n="68"/>etiam quoad materiam, sumpsisse aliquando initium; 
+      <lb ed="#P" n="69"/>sed Deum ejus opificem negantes, aliis quibusdam 
+      <lb ed="#P" n="70"/>causis effectionem seu creationem ejus attribuerunt, 
+      <lb ed="#P" n="71"/>velut angelis, vel diabolo, vel alicui caelorum. Cujus 
+      <lb ed="#P" n="72"/>absurdissimi erroris authores fuere Simon magus, 
+      <lb ed="#P" n="73"/>Menander, Saturninus, Basilides, Valentinus, &amp; a 
+      <lb ed="#P" n="74"/>lii, contra quos copiose disserit Epiphan. l. 1. de 
+      hae<lb ed="#P" n="75" break="no"/>resibus: Meminerunt autem post Epiph. Philastrius 
+      <lb ed="#P" n="76"/>&amp; August. in opusculis ejusdem argumenti. Ad hoc 
+      <lb ed="#P" n="77"/>genus illi quoque referuntur, qui non omnes sed 
+      ali<lb ed="#P" n="78" break="no"/>quas dumtaxat creaturas, divino operi subtrahentes, 
+      <lb ed="#P" n="79"/>ad alias effectrices causas, earum creationem seu pro 
+      <lb ed="#P" n="80"/>ductionem retulerunt; ut Seleuciani, animas 
+      ange<lb ed="#P" n="81" break="no"/>lis; Severiani, vinum diabolo; rursum alii, corpus 
+      <lb ed="#P" n="82"/>humanum angelis; alii vero, membra humani 
+      cor<lb ed="#P" n="83" break="no"/>poris inferiora, diabolo opifici tribuentes. 
+    </p>
+            <p xml:id="bt67yj-p000003-d1e324">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Quartus error eorum est, qui etsi Deum fateantur 
+      <lb ed="#P" n="85"/>totius mundi authorem, docent tamen mediantibus 
+      <lb ed="#P" n="86"/>aliis creaturis tanquam Dei administris eum 
+      condi<lb ed="#P" n="87" break="no"/>) tum esse. Ita namque Arius dogmatizavit, dicens 
+      <lb ed="#P" n="88"/>Deum Patrem ante omnia fecisse sibi Filium; ac 
+      dein<lb ed="#P" n="89" break="no"/>de per Filium creasse Spiritum sanctum; per 
+      utrum<lb ed="#P" n="90" break="no"/>que vero, produxisse reliquam omnem creaturam. 
+      <lb ed="#P" n="91"/>Nec prorsus absimilis fuit Avicennae philosophi 
+      do<lb ed="#P" n="92" break="no"/>ctrina, qui initio factam a Deo dixit intelligentiam 
+      <lb ed="#P" n="93"/>primam; tum per eam, alias, atque alias 
+      intelligen<lb ed="#P" n="94" break="no"/>tias ac postremo a novissima intelligentia conditum 
+      <lb ed="#P" n="95"/>esse mundum hunc corporeum. Quo pertinet illud 
+      <lb ed="#P" n="96"/>ejusdem, formas omnes naturales &amp; mortales, hoc 
+      <lb ed="#P" n="97"/>est, corruptibiles fieri ex nihilo, ab intelligentia quae 
+      <lb ed="#P" n="98"/>mundo elementari praesit, causis naturalibus 
+      mate<lb ed="#P" n="99" break="no"/>riam tantum disponentibus; ut qui neget formas 
+      ul<lb ed="#P" n="100" break="no"/>las essentiales, virtute agentis educi e potetia materiae. 
+    </p>
+            <p xml:id="bt67yj-p000003-d1e366">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Postremus error eorum est, qui duo constituerunt 
+      <lb ed="#P" n="102"/>prima rerum effectiva principia, tanquam duos 
+      <lb ed="#P" n="103"/>Deos; alterum bonum, alterum malum: ut 
+      Gnosti<lb ed="#P" n="104" break="no"/>ci, Cerdoniani, Manichaei, Priscillianistae, aliique 
+      <lb ed="#P" n="105"/>horum sequaces: quorum nonnulli etiam tertium 
+      <lb ed="#P" n="106"/>addiderunt principium. De quibus omnibus agunt 
+      <lb ed="#P" n="107"/>Epiphanius, Philastrius, &amp; Augustinus. Putantur au 
+      <lb ed="#P" n="108"/>tem isti errorem suum hausisse ex doctrina 
+      Pythago<lb ed="#P" n="109" break="no"/>rae, duo rerum principia tradentis, bonum &amp; malum. 
+      <lb ed="#P" n="110"/>Hunc errorem &amp; alter necessario consecutus est. 
+      <lb ed="#P" n="111"/>Cum enim dicerent, res omnes corporeas a malo Deo 
+      <lb ed="#P" n="112"/>conditas esse, consequenter huic principio docuerunt, 
+      <!--0233.xml-->
+      <pb ed="#P" n="2"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quidquid corporeum est, malum esse suapte natura. 
+      <lb ed="#P" n="2"/>Quam quidem Manichaeorum haeresim, &amp; ante eos 
+      <lb ed="#P" n="3"/>Gnostici, &amp; postea Priscillianistae tenuerunt. 
+    </p>
+            <p xml:id="bt67yj-p000003-d1e410">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Contra superiores omnes aliosque similes errores, 
+      <lb ed="#P" n="5"/>ostendendum est, juxta fidem Catholicam, unum ac 
+      <lb ed="#P" n="6"/>bonum Deum, eumque solum, esse omnium rerum, 
+      <lb ed="#P" n="7"/>quae non sunt ipse Deus, creatorem; proindeque 
+      om<lb ed="#P" n="8" break="no"/>nem creaturam bonam esse: mundum quoque non 
+      <lb ed="#P" n="9"/>ab aeterno fuisse; sed cum prius nulla sui parte 
+      existe<lb ed="#P" n="10" break="no"/>ret, initium aliquando suae durationis accepisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

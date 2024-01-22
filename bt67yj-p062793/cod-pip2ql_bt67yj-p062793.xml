@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="162"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p062793"><!-- l2d18c3" -->
+            <head xml:id="bt67yj-p062793-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p062793-Hd1e103" type="question-title">Formatio mulieris ex viro quid significet</head>
+            <p xml:id="bt67yj-p062793-d1e106">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> §. 3. Formatio mulieris ex viro quid significet.
+    </p>
+            <p xml:id="bt67yj-p062793-d1e113">
+               <lb ed="#P" n="116"/>CUm non sit dubitandum quin singula quae 
+      cir<lb ed="#P" n="117" break="no"/>ca mulieris formationem facta a Moyse 
+      descri<lb ed="#P" n="118" break="no"/>buntur, suam habeant eamque sacram ac mysticam 
+      <lb ed="#P" n="119"/>significationem, &amp; quidem ejusmodi quae pertineat 
+      <lb ed="#P" n="120"/>ad Christum &amp; Ecclesiam, uti post Apostolum ad 
+      <lb ed="#P" n="121"/>Ephes. cap. 5. testatur sanctus August. lib. 9. de 
+      <lb ed="#P" n="122"/>Genes. ad literam cap. decimotertio, breviter nobis 
+      <lb ed="#P" n="123"/>ea significatio explicanda est. 
+    </p>
+            <p xml:id="bt67yj-p062793-d1e133">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Primum per Adam Christus, per Evam Ecclesia 
+      <lb ed="#P" n="125"/>significatur. Adam correptus sopore sibi immisso a 
+      <lb ed="#P" n="126"/>Deo Christum significat voluntate Dei Patris in 
+      <lb ed="#P" n="127"/>cruce mortuum. Nam soporem illum Adae non 
+      usi<lb ed="#P" n="128" break="no"/>tatum somnum fuisse, sed ecstasin propheticam, 
+      <lb ed="#P" n="129"/>satis apparet ex ipsius verbis propheticis, quae 
+      sta<lb ed="#P" n="130" break="no"/>tim post eum soporem eructavit, tanquam divina 
+      <lb ed="#P" n="131"/>revelatione in somnis accepta. Quod &amp; sanctus 
+      <lb ed="#P" n="132"/>Augustinus docet ejusdem libri capite ultimo, &amp; 
+      <lb ed="#P" n="133"/>Joan. Chrysost. hom. 15. super Genes. Idque etiam 
+      <lb ed="#P" n="134"/>70. interpretes significarunt, quando pro sopore 
+      <lb ed="#P" n="135"/>reddiderunt ecstasin¬ 
+    </p>
+            <p xml:id="bt67yj-p062793-d1e165">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Formatio Evae ex latere viri dormientis significat 
+      <lb ed="#P" n="137"/>ortum &amp; progressum Ecclesiae de latere Christi in 
+      <lb ed="#P" n="138"/>cruce mortui. Ex eo enim sanguis &amp; aqua 
+      proflu<lb ed="#P" n="139" break="no"/>xerunt, ad significandum sacramenta, quibus a 
+      <lb ed="#P" n="140"/>peccatis abluimur &amp; emundamur, eademque 
+      vir<lb ed="#P" n="141" break="no"/>tute sanguinis Christi efficacia, per quae Ecclesia 
+      <lb ed="#P" n="142"/>ortum &amp; incrementum accepit. Quoniam autem 
+      <lb ed="#P" n="143"/>Christi infirmitas fortitudo est Ecclesiae, ad id 
+      si<lb ed="#P" n="144" break="no"/>gnificandum non caro sed costa nominatur, ubi 
+      <lb ed="#P" n="145"/>formatio mulieris ex viro describitur. Iterum 
+      <!--0396.xml-->
+      <pb ed="#P" n="163"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>autem osse sublato, non aliud os, sed caro quae 
+      in<lb ed="#P" n="2" break="no"/>firmior est, viro restituta dicitur, maxime secundum 
+      <lb ed="#P" n="3"/>vulgatam &amp; 70. interpretum versionem. Per illud 
+      <lb ed="#P" n="4"/>vero quod dicit Moyses, Aedificavit Dominus 
+      co<lb ed="#P" n="5" break="no"/>stam in mulierem, non autem finxit aut fecit, 
+      si<lb ed="#P" n="6" break="no"/>gnificatum est Ecclesiam esse domum Dei, quae de 
+      <lb ed="#P" n="7"/>vivis lapidibus ex Christo quotidie aedificatur; 
+      <lb ed="#P" n="8"/>quemadmodum idem Apostolus compluribus locis 
+      <lb ed="#P" n="9"/>docet. 
+    </p>
+            <p xml:id="bt67yj-p062793-d1e217">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Praeter haec autem habet &amp; aliam significationem 
+      <lb ed="#P" n="11"/>formatio mulieris ex viro, pertinentem ad 
+      conju<lb ed="#P" n="12" break="no"/>galem viri &amp; foeminae societatem. Quam 
+      significa<lb ed="#P" n="13" break="no"/>tionem tribus locis indicavit Apostolus Ephes. 5. 1. 
+      <lb ed="#P" n="14"/>Corinth. 11. &amp; 1. Timoth. 2. Sed illa ipsa tamen 
+      vi<lb ed="#P" n="15" break="no"/>ri &amp; mulieris conjunctio juxta ejusdem Apostoli 
+      <lb ed="#P" n="16"/>authoritatem ad Ephes. 5. ulterius ad significatio 
+      <lb ed="#P" n="17"/>nem Christi &amp; Ecclesiae, cujus &amp; singulare 
+      sacra<lb ed="#P" n="18" break="no"/>mentum, referri debet. 
+    </p>
+            <p xml:id="bt67yj-p062793-d1e241">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> De utraque significatione videre est Augustinum 
+      <lb ed="#P" n="20"/>lib. 9. de Genes. ad literam capit. 13. &amp; 15. &amp; 
+      Am<lb ed="#P" n="21" break="no"/>brosium lib. 2. in Luc. ad cap. 12. Peculiariter 
+      au<lb ed="#P" n="22" break="no"/>tem de posteriori videatur Cajetanus in Genes. ubi 
+      <lb ed="#P" n="23"/>eam non indocte explicat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

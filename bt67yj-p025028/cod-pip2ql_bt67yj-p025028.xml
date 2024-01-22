@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="65"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p025028"><!-- l2d7c8" -->
+            <head xml:id="bt67yj-p025028-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-p025028-Hd1e103" type="question-title">Trium circa praedicta dubiorum explicatio</head>
+            <p xml:id="bt67yj-p025028-d1e106">
+               <lb ed="#P" n="31"/> §. 8. Trium circa praedicta dubiorum explicatio.
+    </p>
+            <p xml:id="bt67yj-p025028-d1e111">
+               <lb ed="#P" n="32"/>CIrca jam dicta de libertate arbitrii in angelis 
+      <lb ed="#P" n="33"/>bonis &amp; malis, triplex moveri potest 
+      diffi<lb ed="#P" n="34" break="no"/>cultas. 
+    </p>
+            <p xml:id="bt67yj-p025028-d1e120">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Primo enim dubitatur, utrum daemones peccent 
+      <lb ed="#P" n="36"/>in eo quod malum volunt aut faciunt; si enim, ut jam 
+      <lb ed="#P" n="37"/>probatum est, obdurati sunt in malo, non ergo 
+      liber<lb ed="#P" n="38" break="no"/>tatem habent ad malum, &amp; proinde non peccant 
+      <lb ed="#P" n="39"/>malum volentes. Nullus enim peccat in eo circa 
+      <lb ed="#P" n="40"/>quod non est liber. Contra vero communis 
+      Theo<lb ed="#P" n="41" break="no"/>logorum sententia est, in quartum distinctione 
+      ulti<lb ed="#P" n="42" break="no"/>ma daemones continuo peccare, licet propter statum 
+      <lb ed="#P" n="43"/>in termino non demereantur. 
+    </p>
+            <p xml:id="bt67yj-p025028-d1e145">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Respondetur malum in hoc dubio posse bifariam 
+      <lb ed="#P" n="45"/>intelligi, scilicet aut ipsum malum finem cui se 
+      dae<lb ed="#P" n="46" break="no"/>mones semel applicuerunt, aut medium ad hunc 
+      fi<lb ed="#P" n="47" break="no"/>nem. Si finis ipse intelligitur, fatendum videtur 
+      <lb ed="#P" n="48"/>daemones post primam electionem qua malo fini 
+      <lb ed="#P" n="49"/>sese applicuerunt, non amplius peccare novo 
+      pec<lb ed="#P" n="50" break="no"/>cato per hoc quod finem illum volunt, sed 
+      affectio<lb ed="#P" n="51" break="no"/>nem mali finis in iis sine intermissione 
+      perduran<lb ed="#P" n="52" break="no"/>tem esse continuatum &amp; unum peccatum, tum ab 
+      <lb ed="#P" n="53"/>iis commissum quando hoc libere elegerunt: Si vero 
+      <lb ed="#P" n="54"/>medium ad hunc finem ordinabile intelligitur, cum 
+      <lb ed="#P" n="55"/>respectu mediorum quae non habent necessariam 
+      <lb ed="#P" n="56"/>connexionem ad finem, maneat voluntas 
+      angelo<lb ed="#P" n="57" break="no"/>rum libera; manifestum est daemones peccare novo 
+      <lb ed="#P" n="58"/>peccato quoties assumunt &amp; ordinant hujusmodi 
+      <lb ed="#P" n="59"/>media ad pravum finem cui sunt affixi; vel, quod 
+      <lb ed="#P" n="60"/>eodem recidit, quoties assumunt ipsum pravum 
+      fi<lb ed="#P" n="61" break="no"/>nem ut rationem eligendi haec aut illa media. 
+      Quam<lb ed="#P" n="62" break="no"/>vis enim affectio mali finis versa sit eis quasi in 
+      na<lb ed="#P" n="63" break="no"/>turam, ideóque illa non fiat novum peccatum, 
+      ejus<lb ed="#P" n="64" break="no"/>dem tamen finis per hujusmodi affectionem 
+      assum<lb ed="#P" n="65" break="no"/>ptio ad certa media eligenda, novi subinde peccati 
+      <lb ed="#P" n="66"/>rationem habet. 
+    </p>
+            <p xml:id="bt67yj-p025028-d1e200">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Secundo dubitatur, utrum in his quae sancti 
+      an<lb ed="#P" n="68" break="no"/>geli faciunt ex mandato Dei, liberam habeant 
+      ele<lb ed="#P" n="69" break="no"/>ctionem. Quod quidem non videtur, quia non 
+      <lb ed="#P" n="70"/>possunt ea non facere. Sic enim peccare possent. 
+      <lb ed="#P" n="71"/>Sed contra, si in illis non sunt liberi, ergo nihil 
+      <!--0298.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>libere agunt. Nam ut Augustinus ait libro tertio 
+      <lb ed="#P" n="73"/>de Trinitate capite octavo, angeli boni nihil 
+      fa<lb ed="#P" n="74" break="no"/>ciunt nisi quantum Deus jubet. Ac sane 
+      probabi<lb ed="#P" n="75" break="no"/>le est omnes omnino beatos quaecumque faciunt, 
+      <lb ed="#P" n="76"/>facere ex praecepto Dei. Videntes enim Deum, 
+      <lb ed="#P" n="77"/>vident in eo omnia ad se pertinentia, quorum 
+      im<lb ed="#P" n="78" break="no"/>primis est quidquid ab ipsis est agendum. Itaque 
+      <lb ed="#P" n="79"/>in Deo intuentur voluntatem ejus beneplacitam 
+      <lb ed="#P" n="80"/>de omnibus a se agendis, quae voluntas cognita 
+      <lb ed="#P" n="81"/>est instar decreti &amp; praecepti respectu 
+      cognoscen<lb ed="#P" n="82" break="no"/>tis, quia tenetur se quisque conformare voluntati 
+      <lb ed="#P" n="83"/>divinae sibi cognitae, idque maxime &amp; citra 
+      con<lb ed="#P" n="84" break="no"/>troversiam in beatis locum habere monstratum est 
+      <lb ed="#P" n="85"/>ad distinctionem ultimam libri primi. Adde quod 
+      <lb ed="#P" n="86"/>si liberi non sunt angeli in his quae faciunt jussu 
+      <lb ed="#P" n="87"/>Dei, propterea quod contra Dei voluntatem 
+      ni<lb ed="#P" n="88" break="no"/>hil possunt facere, jam neque Christus in iis liber 
+      <lb ed="#P" n="89"/>fuit quae pro nostra salute gessit in carne, ut quod 
+      <lb ed="#P" n="90"/>passionem &amp; crucem &amp; mortem subiit. Haec enim 
+      <lb ed="#P" n="91"/>ut &amp; caetera omnia fecit ex mandato Patris, unde 
+      <lb ed="#P" n="92"/>&amp; singularis ejus obedientia commendatur, 
+      Phi<lb ed="#P" n="93" break="no"/>lip. 2. &amp; alibi. At si haec non egit libere; ergo per 
+      <lb ed="#P" n="94"/>ea nihil meruit nec sibi nec nobis. Nam ad 
+      meri<lb ed="#P" n="95" break="no"/>tum &amp; demeritum requiri libertatem actionis in 
+      <lb ed="#P" n="96"/>confesso est. Respondetur ergo libere fieri a 
+      san<lb ed="#P" n="97" break="no"/>ctis angelis ac caeteris beatis, sicut &amp; libere facta 
+      <lb ed="#P" n="98"/>sunt a Christo Domino, quaecumque faciunt aut 
+      <lb ed="#P" n="99"/>fecerunt ex praecepto Dei, neque obstare quod 
+      <lb ed="#P" n="100"/>non possint aut potuerint aliter, facere stante 
+      prae<lb ed="#P" n="101" break="no"/>cepto. Nam haec voluntatis determinatio qua per 
+      <lb ed="#P" n="102"/>praeceptum Deiad certum aliquid agendum 
+      deter<lb ed="#P" n="103" break="no"/>minatur, non est ab intrinseco, id est, a natura, 
+      <lb ed="#P" n="104"/>vel ab eo quod sit quasi natura, sed tantum ab 
+      ex<lb ed="#P" n="105" break="no"/>terno principio directivo, scilicet ex praecepto, 
+      <lb ed="#P" n="106"/>quo posito non consistit ut aliter faciant, eo quod 
+      <lb ed="#P" n="107"/>voluntatem habeant inflexibilem a regula 
+      volun<lb ed="#P" n="108" break="no"/>tatis tam beneplaciti divini quam praecepti. Nam, 
+      <lb ed="#P" n="109"/>alioqui si res ipsa quae praecipitur in se 
+      specte<lb ed="#P" n="110" break="no"/>tur etiam cum ordine ad finem, non habet ea 
+      ne<lb ed="#P" n="111" break="no"/>cessariam connexionem ad finem beatitudinis, 
+      <lb ed="#P" n="112"/>licet ad eam ordinabilis sit, &amp; proinde ad eam 
+      <lb ed="#P" n="113"/>agendam vel non agendam libera manet angelica 
+      <lb ed="#P" n="114"/>voluntas. 
+    </p>
+            <p xml:id="bt67yj-p025028-d1e313">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Tertio dubitatur quomodo recte dicatur 
+      daemo<lb ed="#P" n="116" break="no"/>nibus impossibilem esse boni moralis aut saltem 
+      su<lb ed="#P" n="117" break="no"/>pernaturalis electionem, suique ad Deum 
+      conver<lb ed="#P" n="118" break="no"/>sionem, cum Deus sine dubio possit eos ad se 
+      con<lb ed="#P" n="119" break="no"/>vertere, &amp; voluntatem eorum ex malo in bonum 
+      <lb ed="#P" n="120"/>corrigere. Hinc enim aperte consequens videtur 
+      <lb ed="#P" n="121"/>eos posse converti, tum per consequentiam a 
+      re<lb ed="#P" n="122" break="no"/>latis, quorum si unum possibile ponitur, ponitur 
+      <lb ed="#P" n="123"/>&amp; alterum; tum per illud Sanct. Thomae libro 
+      <lb ed="#P" n="124"/>primo compendii Theologici capite 144. In iis, 
+      in<lb ed="#P" n="125" break="no"/>quit, quae supra naturam aguntur, possibile &amp; 
+      impos<lb ed="#P" n="126" break="no"/>sibile attenditur secundum potentiam divinam, 
+      <lb ed="#P" n="127"/>non secundum potentiam naturalem. Quod enim 
+      <lb ed="#P" n="128"/>coecus illuminari possit, vel mortuus resurgere, 
+      <lb ed="#P" n="129"/>non est naturalis potentiae sed divinae: dona autem 
+      <lb ed="#P" n="130"/>gratuita sunt supernaturalia. Quod igitur ea 
+      ali<lb ed="#P" n="131" break="no"/>quis consequi possit, ad divinam potentiam 
+      perti<lb ed="#P" n="132" break="no"/>net. Dicere igitur quod aliquis post peccatum 
+      gra<lb ed="#P" n="133" break="no"/>tuita dona consequi non possit, est divinae 
+      poten<lb ed="#P" n="134" break="no"/>tiae derogare, Sic ille. Respondemus si spectetur 
+      <lb ed="#P" n="135"/>absoluta Dei potentia, posse procul dubio 
+      daemo<lb ed="#P" n="136" break="no"/>nes ad Deum converti, quia Deus potest eos ad se 
+      <lb ed="#P" n="137"/>convertere, vere tamen &amp; recte dicuntur non 
+      pos<lb ed="#P" n="138" break="no"/>se converti ad Deum, nec velle bonum, quia jam 
+      <lb ed="#P" n="139"/>in illo sunt statu in quo constitutos Deus certo &amp; 
+      <lb ed="#P" n="140"/>immobili decreto statuit non amplius ad se 
+      con<lb ed="#P" n="141" break="no"/>vertere, aut ad bonum movere, sed per justitiam 
+      <lb ed="#P" n="142"/>suam in peccato sicut &amp; in miseria perpetuo 
+      re<lb ed="#P" n="143" break="no"/>linquere. Qui proinde licet per absolutam Dei 
+      <lb ed="#P" n="144"/>potentiam converti possint, non tamen per 
+      po<lb ed="#P" n="145" break="no"/>tentiam ejus ordinariam, qua scilicet ea sola posse 
+      <!--0299.xml-->
+      <pb ed="#P" n="66"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dicitur, quae non repugnant justitiae quam requirit 
+      <lb ed="#P" n="2"/>ordo semel atque immobiliter ab eo institutus, de 
+      <lb ed="#P" n="3"/>quo potentiae modo egimus ad dist. 43. libri primi. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

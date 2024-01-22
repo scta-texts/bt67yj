@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="85"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p032963"><!-- l2d8c2" -->
+            <head xml:id="bt67yj-p032963-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p032963-Hd1e103" type="question-title">Angelos non habere corpora sibi naturaliter 
+      unita</head>
+            <p xml:id="bt67yj-p032963-d1e106">
+               <lb ed="#P" n="115"/>§. 2. Angelos non habere corpora sibi naturaliter 
+      <lb ed="#P" n="116"/>unita.
+    </p>
+            <p xml:id="bt67yj-p032963-d1e113">
+               <lb ed="#P" n="117"/>NOn idem est quaerere, utrum angeli sint 
+      cor<lb ed="#P" n="118" break="no"/>Iporei, &amp; utrum habeant corpora sibi 
+      natura<lb ed="#P" n="119" break="no"/>liter unita, sicut non idem est horum utrumque 
+      <lb ed="#P" n="120"/>quaerere de animabus. Nam animae quidem 
+      huma<lb ed="#P" n="121" break="no"/>nae nequaquam corporeae sunt, sed tamen 
+      corpori<lb ed="#P" n="122" break="no"/>bus naturaliter uniuntur. Secus vero dicendum 
+      <lb ed="#P" n="123"/>de angelis. Hi enim neque corporei sunt, neque 
+      <lb ed="#P" n="124"/>ulla corpora habent quibus naturaliter uniantur. 
+      <lb ed="#P" n="125"/>Eos corporeos non esse jam probatum est. Quod 
+      <lb ed="#P" n="126"/>autem corporibus non uniantur naturaliter, eo 
+      sci<lb ed="#P" n="127" break="no"/>licet modo quo anima unitur corpori, cum quo 
+      <lb ed="#P" n="128"/>unam perfectam substantiam, ac naturale 
+      compo<lb ed="#P" n="129" break="no"/>situm, id est, hominem constituit, probatur: Quia 
+      <lb ed="#P" n="130"/>angelus in genere intellectualium est substantia 
+      <lb ed="#P" n="131"/>quaedam totalis &amp; perfecta. Non enim ut de parte 
+      <lb ed="#P" n="132"/>substantiae, sed ut de tota quadam intellectuali 
+      sub<lb ed="#P" n="133" break="no"/>stantia loquuntur scripturae, ubicumque de angelis 
+      <lb ed="#P" n="134"/>meminerunt, videlicet eo modo de angelis 
+      loquen<lb ed="#P" n="135" break="no"/>tes, quo de hominibus, non autem quo de 
+      anima<lb ed="#P" n="136" break="no"/>bus aut spiritibus hominum. Quod inde 
+      perspi<lb ed="#P" n="137" break="no"/>cuum est, quia si de angelis loquerentur sicut de 
+      <lb ed="#P" n="138"/>animabus, certe alicubi suo nomine exprimerent 
+      <lb ed="#P" n="139"/>ipsam perfectam substantiam ex angelo &amp; corpore 
+      <lb ed="#P" n="140"/>constantem, sicut mille locis nominant hominem 
+      <lb ed="#P" n="141"/>qui constat ex anima &amp; corpore. Illud vero 
+      no<lb ed="#P" n="142" break="no"/>men nusquam exstat, neque in scripturis, neque 
+      <lb ed="#P" n="143"/>alibi. 
+    </p>
+            <p xml:id="bt67yj-p032963-d1e174">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Ad eundem modum &amp; Patres loquuntur de 
+      an<lb ed="#P" n="145" break="no"/>gelis. Quare similiter ex eorum sententia angeli 
+      <!--0319.xml-->
+      <pb ed="#P" n="86"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non modo non sunt corporei, verum nec ullis 
+      cor<lb ed="#P" n="2" break="no"/>poribus naturaliter uniti. 
+    </p>
+            <p xml:id="bt67yj-p032963-d1e195">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Probat autem hanc doctrinam S. Thomas 1. part. 
+      <lb ed="#P" n="4"/>q. 51. art. 1. hujusmodi ratione; Quea habere corpus 
+      <lb ed="#P" n="5"/>naturaliter sibi nnitum accidens quoddam est 
+      intelle<lb ed="#P" n="6" break="no"/>ctualis substantiae, sicut habere alas accidit animali ut 
+      <lb ed="#P" n="7"/>est animal. Nam anima rationalis habet corpus sibi 
+      <lb ed="#P" n="8"/>naturaliter unitum, non quia est intellectualis 
+      substan<lb ed="#P" n="9" break="no"/>tia, sed quia est in eo genere imperfecta, id est, ejus 
+      <lb ed="#P" n="10"/>naturae quae necesse habeat scientiam suam accipere per 
+      <lb ed="#P" n="11"/>sensus corporeos a rebus sensibilibus. Jam autem in 
+      <lb ed="#P" n="12"/>quocunque genere invenitur aliquid imperfectum, in 
+      <lb ed="#P" n="13"/>eodem praexistere oportet aliquid perfectum, cui 
+      scili<lb ed="#P" n="14" break="no"/>cet insit perfectio quae deest alteri, &amp; cujus defectu 
+      <lb ed="#P" n="15"/>alterum imperfectum dicitur. Sunt igitur aliquae 
+      sub<lb ed="#P" n="16" break="no"/>stantiae intellectuales perfectae, quae non necesse habeant 
+      <lb ed="#P" n="17"/>acquirere scientiam a rebus, &amp; proinde non egeant 
+      cor<lb ed="#P" n="18" break="no"/>poribus quibus naturaliter uniantur. 
+    </p>
+            <p xml:id="bt67yj-p032963-d1e234">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Huc accedunt &amp; aliae rationes. Nam si angeli 
+      <lb ed="#P" n="20"/>haberent corpora propria, aut ea essent organizata 
+      <lb ed="#P" n="21"/>&amp; membris distincta, ut sunt humana corpora, aut 
+      <lb ed="#P" n="22"/>essent confusa &amp; indistincta, ut sunt homogenea. 
+      <lb ed="#P" n="23"/>At horum neutrum dici potest. Non prius, quia illa 
+      <lb ed="#P" n="24"/>membrorum distinctio potissimum subservit 
+      sensi<lb ed="#P" n="25" break="no"/>tivae cognitioni per quam accipitur cognitio 
+      intel<lb ed="#P" n="26" break="no"/>lectualis; nunc autem supponitur angelos non 
+      acci<lb ed="#P" n="27" break="no"/>pere cognitionem per sensum. Non posterius, quia 
+      <lb ed="#P" n="28"/>ejusmodi corpora multo minus poterunt angelis ad 
+      <lb ed="#P" n="29"/>suas operationes subservire, quamcumque illis 
+      cor<lb ed="#P" n="30" break="no"/>poribus figuram tribuas; quin potius impedimento 
+      <lb ed="#P" n="31"/>illis erunt ad motum &amp; ministeria, quia moveri non 
+      <lb ed="#P" n="32"/>possunt nisi cum mora successionis &amp; cum divisione 
+      <lb ed="#P" n="33"/>medii corporis. 
+    </p>
+            <p xml:id="bt67yj-p032963-d1e271">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Alia ratio: Si quis contendat angelos accipere 
+      <lb ed="#P" n="35"/>scientiam a rebus, &amp; propter hoc dicat angelicas 
+      <lb ed="#P" n="36"/>mentes egere corporibus, in quibus &amp; sensus &amp; 
+      <lb ed="#P" n="37"/>sensuum organa sint distincta, scilicet ut horum 
+      ad<lb ed="#P" n="38" break="no"/>miniculo percipiant rerum cognitionem; jam 
+      con<lb ed="#P" n="39" break="no"/>saquens erit angelos esse animalia quaedam sensu 
+      si<lb ed="#P" n="40" break="no"/>mul ac mente praedita, quae est hominis definitio. 
+      <lb ed="#P" n="41"/>Erunt igitur angeli ejusdem naturae cum 
+      homini<lb ed="#P" n="42" break="no"/>bus, atque revera homines. Neque enim a propria 
+      <lb ed="#P" n="43"/>ratione hominis excludi poterunt. Nam crassum &amp; 
+      <lb ed="#P" n="44"/>subtile corpus habere, mortalem &amp; immortalem esse, 
+      <lb ed="#P" n="45"/>alimentis egere &amp; non egere, nullum in natura 
+      <lb ed="#P" n="46"/>discrimen faciunt. 
+    </p>
+            <p xml:id="bt67yj-p032963-d1e304">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> Alia ratio: Si angeli habent propria corpora, 
+      <lb ed="#P" n="48"/>fieri poterit ut ab iis separentur, sicut anima 
+      separa<lb ed="#P" n="49" break="no"/>bilis est a corpore. Quaeritur ergo, quare propter 
+      <lb ed="#P" n="50"/>peccatum non fuerint angeli a suis corporibus 
+      se<lb ed="#P" n="51" break="no"/>parati, sicut separantur animae hominum per 
+      mor<lb ed="#P" n="52" break="no"/>tem; praesertim cum illi gravius peccaverint. Et 
+      <lb ed="#P" n="53"/>utrum angeli a corporibus separati imperfectius 
+      in<lb ed="#P" n="54" break="no"/>telligerent, quam conjuncti, &amp; utrum vellent ad 
+      <lb ed="#P" n="55"/>corpora redire, &amp; quid omnino minus haberent 
+      se<lb ed="#P" n="56" break="no"/>parati, quam conjuncti, propter quod appeterent 
+      <lb ed="#P" n="57"/>sibi corporum conjunctionem. 
+    </p>
+            <p xml:id="bt67yj-p032963-d1e333">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Rursum alia ratio: Angeli sunt motores caelorum; 
+      <lb ed="#P" n="59"/>ergo non habent propria corpora sibi unita. 
+      Seque<lb ed="#P" n="60" break="no"/>retur enim quod caelos moverent motu suorum 
+      cor<lb ed="#P" n="61" break="no"/>porum. Quod quidem frustra poneretur. Nam 
+      ea<lb ed="#P" n="62" break="no"/>dem vis motiva quae tribueretur corporibus 
+      angelo<lb ed="#P" n="63" break="no"/>rum ad movendos caelos, compendio tribui posset 
+      <lb ed="#P" n="64"/>ipsis corporibus caelorum. 
+    </p>
+            <p xml:id="bt67yj-p032963-d1e353">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Porro alias rationes videat studiosus apud 
+      Aristo<lb ed="#P" n="66" break="no"/>telem libro duodecimo Metaphysicae cap. 6. 8. &amp; 
+      <lb ed="#P" n="67"/>ultimo, ubi de angelis caelorum motoribus sub 
+      no<lb ed="#P" n="68" break="no"/>mine intelligentiarum disserens, probat eos 
+      corpo<lb ed="#P" n="69" break="no"/>rum expertes esse ex eo, quia si corporei essent, 
+      cae<lb ed="#P" n="70" break="no"/>los perpetuo motu ciere non possent.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

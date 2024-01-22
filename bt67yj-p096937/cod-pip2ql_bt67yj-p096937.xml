@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 16</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 16</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="249"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p096937"><!-- l2d24c16" -->
+            <head xml:id="bt67yj-p096937-Hd1e101">Capitulum 16</head>
+            <head xml:id="bt67yj-p096937-Hd1e103" type="question-title">Solvuntur argumenta petita ex Patribus</head>
+            <p xml:id="bt67yj-p096937-d1e106">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> §. 16. Solvuntur argumenta petita ex Patribus.
+    </p>
+            <p xml:id="bt67yj-p096937-d1e113">
+               <lb ed="#P" n="101"/>SUperest ut ea quoque refellamus argumenta, quae 
+      <lb ed="#P" n="102"/>contra liberum arbitrium ex Patribus &amp; maxime 
+      <lb ed="#P" n="103"/>ex Augustino proferuntur. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e122">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Quale imprimis est quod aliquoties liberum 
+      ar<lb ed="#P" n="105" break="no"/>bitrium dicit peccato primi parentis amissum esse, 
+      <lb ed="#P" n="106"/>ut Enchirid. c. 30. Libero, inquit, arbitrio male 
+      <lb ed="#P" n="107"/>utens homo, &amp; se perdidit &amp; ipsum. Et iterum: 
+      <lb ed="#P" n="108"/>Cum libero peccaretur arbitrio, victore peccate 
+      <lb ed="#P" n="109"/>amissum est &amp; liberum arbitrium. Et epist. 107. ad 
+      <lb ed="#P" n="110"/>Vitalem, liberum arbitrium ad diligendum Deum 
+      <lb ed="#P" n="111"/>primi peccati granditate perdidimus. Et sermone 
+      <lb ed="#P" n="112"/>secundo de verbis Apostoli, cap. 6. Magnas arbitrii 
+      <lb ed="#P" n="113"/>liberi vires homo cum conderetur accepit, sed peccando 
+      <lb ed="#P" n="114"/>amisit. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e152">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Secundo: Idem Augustinus frequenter negat 
+      ar<lb ed="#P" n="116" break="no"/>bitrium hominis esse liberum priusquam per 
+      gra<lb ed="#P" n="117" break="no"/>tiam liberetur. Dicit enim libr. 1. retractationum 
+      <lb ed="#P" n="118"/>capite 15. quod voluntas nostra in tantum libera 
+      <lb ed="#P" n="119"/>est, in quantum liberata. Et libro primo contra 
+      <lb ed="#P" n="120"/>duas epistolas Pelagianorum capite tertio. 
+      Arbi<lb ed="#P" n="121" break="no"/>trium, inquit, liberum, in bono non est, quod 
+      <lb ed="#P" n="122"/>liberator non liberaverit. Similia repetit tum 
+      eo<lb ed="#P" n="123" break="no"/>dem capite, tum libro 3. capite 7. Idem libro de 
+      <lb ed="#P" n="124"/>spiritu &amp; litera capit. 30. ait: Per gratiam 
+      sana<lb ed="#P" n="125" break="no"/>tio animae abolitione peccati a vitio peccati, per 
+      ai<lb ed="#P" n="126" break="no"/>mae sanitatem libertas arbitrii. Et infra: Ut quid 
+      <lb ed="#P" n="127"/>miseri homines audent superbire de libero arbitrio 
+      <lb ed="#P" n="128"/>antequam liberentur, nec attendunt in ipso nomine 
+      <lb ed="#P" n="129"/>liberi arbitrii utique libertatem sonare? Et epist. 144. 
+      <lb ed="#P" n="130"/>ad Anastasium. Nec libera dicenda est voluntas 
+      <lb ed="#P" n="131"/>quamdiu est vincentibus &amp; vincientibus 
+      cupiditati<lb ed="#P" n="132" break="no"/>bus subdita. Porro utrumque, scilicet amissionem 
+      <lb ed="#P" n="133"/>liberi arbitrii per peccatum primi parentis &amp; 
+      recu<lb ed="#P" n="134" break="no"/>perationem ejus per Christi gratiam, conjungit 
+      <lb ed="#P" n="135"/>Augustinus libro 14. de civitate Dei capite 11. sic 
+      <lb ed="#P" n="136"/>inquiens: Arbitrium voluntatis tunc est vere 
+      libe<lb ed="#P" n="137" break="no"/>rum, cum vitiis peccatisque non servit. Tale datum 
+      <lb ed="#P" n="138"/>est a Deo, quod amissum proprio vitio, nisi a quo dari 
+      <lb ed="#P" n="139"/>potuit, reddi non potest. Quae verba etiam Prosper 
+      <lb ed="#P" n="140"/>inter sententias suas ex Augustino collectas retulit 
+      <lb ed="#P" n="141"/>num. 152. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e215">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Tertio: Rursum Augustinus lib. 2. contra 
+      Julia<lb ed="#P" n="143" break="no"/>num capite 8. dicit, arbitrium voluntatis nostrae 
+      <lb ed="#P" n="144"/>servum potius quam liberum appellandum esse. Quae 
+      <lb ed="#P" n="145"/>appellatio ita placuit <name xml:id="bt67yj-p096937-Nd1e228">Luthero</name>, ut libro suo quem 
+      <!--0483.xml-->
+      <pb ed="#P" n="250"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>contra liberum arbitrium scripsit, titulum fecerit P 
+      <lb ed="#P" n="2"/>de servo arbitrio. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e241">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Quarto: Idem Augustinus docet, ex peccato per 
+      <lb ed="#P" n="4"/>liberum arbitrium commisso, nos incidisse in 
+      ne<lb ed="#P" n="5" break="no"/>cessitatem peccandi. Sic enim scribit libro de 
+      per<lb ed="#P" n="6" break="no"/>fectione justitiae, capite 4. Per arbitrii libertatem 
+      <lb ed="#P" n="7"/>factum est ut esset homo cum peccato, sed jam 
+      poena<lb ed="#P" n="8" break="no"/>lis vitiositas subsecuta ex libertate fecit necessitatem. 
+      <lb ed="#P" n="9"/>Et mox: Victa enim vitio in quod cecidit voluntate, 
+      <lb ed="#P" n="10"/>caruit libertate natura. Et paulo post: Quia vero 
+      pec<lb ed="#P" n="11" break="no"/>cavit voluntas, secuta est peccantem peccatum habendi 
+      <lb ed="#P" n="12"/>dura necessitas. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e267">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Quinto: Chrysostomus homil. 23. ex variis in 
+      <lb ed="#P" n="14"/>Matth. locis, affirmat, hominem post peccatum 
+      <lb ed="#P" n="15"/>amisisse liberum arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e278">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Sexto: Concilium Carthaginense in epistola missa 
+      <lb ed="#P" n="17"/>ad Innocentium Papam, quae est inter Augustini 
+      <lb ed="#P" n="18"/>epistolas numero 60. loquens de gratia Christi: Qua, 
+      <lb ed="#P" n="19"/>inquit, &amp; ipsum nostrae voluntatis arbitrium vere fit 
+      li<lb ed="#P" n="20" break="no"/>berum, dum a carnalium concupiscentiarum 
+      dominatio<lb ed="#P" n="21" break="no"/>ne liberatur. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e296">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Septimo: Concilium Arausicanum jussu Leonis 
+      <lb ed="#P" n="23"/>primi habitum, ex ejusdem praescripto inter alios 
+      <lb ed="#P" n="24"/>hunc statuit canonem 13. Arbitrium voluntatis in 
+      <lb ed="#P" n="25"/>primo homine infirmatum, nisi per gratiam baptismi 
+      <lb ed="#P" n="26"/>non potest reparari. Quod amissum nisi a quo potuit 
+      <lb ed="#P" n="27"/>dari, non potest reddi. Quae posteriora verba 
+      sum<lb ed="#P" n="28" break="no"/>pta sunt ex Augustino de civitate Dei, loco supra 
+      <lb ed="#P" n="29"/>citato. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e319">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Haec argumenta fere omnia solvuntur 
+      distinctio<lb ed="#P" n="31" break="no"/>ne multiplicis libertatis ac necessitatis. Nam, ut 
+      do<lb ed="#P" n="32" break="no"/>cet Bernardus libro de gratia &amp; libero arbitrio, 
+      quan<lb ed="#P" n="33" break="no"/>tum ad rem propositam attinet, triplex est libertas; 
+      <lb ed="#P" n="34"/>scilicet a culpa, a miseria &amp; a necessitate. Per 
+      pecca<lb ed="#P" n="35" break="no"/>tum autem amisit quidem homo libertatem a culpa &amp; 
+      <lb ed="#P" n="36"/>a miseria: at vero libertatem a necessitate, 
+      quo<lb ed="#P" n="37" break="no"/>niam illa naturam hominis necessario consequitur, 
+      <lb ed="#P" n="38"/>amittere non potuit. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e343">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Totidem modis etiam servitus libertati opposita 
+      <lb ed="#P" n="40"/>distingui potest. Nam servitutem peccati &amp; 
+      mise<lb ed="#P" n="41" break="no"/>riae incurrit homo per peccatum. Eam vero 
+      servitu<lb ed="#P" n="42" break="no"/>tem quae naturalem arbitrii libertatem, qua a 
+      ne<lb ed="#P" n="43" break="no"/>cessitate agendi liberum est, excluderet, 
+      cujusmo<lb ed="#P" n="44" break="no"/>di servitus competit bestiis ratione carentibus, nec 
+      <lb ed="#P" n="45"/>incurrit, nec incurrere potuit aut potest, nisi 
+      desi<lb ed="#P" n="46" break="no"/>neret esse rationale animal. Nam eo ipso quo 
+      ratio<lb ed="#P" n="47" break="no"/>ne praeditus est &amp; de agendis deliberare potest, 
+      libe<lb ed="#P" n="48" break="no"/>rum habet arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e369">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Necessitas quoque quoad praesens institutum, 
+      mul<lb ed="#P" n="50" break="no"/>tiplex est; una patiendi motus concupiscentiae 
+      re<lb ed="#P" n="51" break="no"/>pugnantes legi mentis, secunda peccandi ex 
+      igno<lb ed="#P" n="52" break="no"/>rantia, tertia peccandi ex infirmitate, quarta 
+      pec<lb ed="#P" n="53" break="no"/>candi venialiter in genere, quinta peccandi 
+      ali<lb ed="#P" n="54" break="no"/>quando mortaliter in eo qui nondum est per 
+      Chri<lb ed="#P" n="55" break="no"/>stum liberatus, sexta necessitas mortis &amp; poenarum 
+      <lb ed="#P" n="56"/>hujus vitae, septima necessitas naturalis ad 
+      actio<lb ed="#P" n="57" break="no"/>nes voluntatis. Inter has necessitates sola postrema 
+      <lb ed="#P" n="58"/>simpliciter repugnat libero arbitrio. Nam, uti suo 
+      <lb ed="#P" n="59"/>loco ostendimus, liberum arbitrium proprie 
+      dici<lb ed="#P" n="60" break="no"/>tur ab ea libertate, qua ex judicio rationis agere 
+      <lb ed="#P" n="61"/>potest &amp; non agere. Quae libertas locum non habet 
+      <lb ed="#P" n="62"/>in iis ad quae voluntas est naturali necessitate 
+      deter<lb ed="#P" n="63" break="no"/>minata. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e406">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> His praemissis, respondemus ad ea quae primo loco 
+      <lb ed="#P" n="65"/>allata sunt, Augustinum ubicunque dicit hominem 
+      <lb ed="#P" n="66"/>peccato amisisse liberum arbitrium, loqui de 
+      liber<lb ed="#P" n="67" break="no"/>tate quae est a peccato &amp; miseria. Sic seipsum 
+      ex<lb ed="#P" n="68" break="no"/>plicat fere omnibus iisdem locis. Plerumque enim 
+      <lb ed="#P" n="69"/>addit pro confirmatione illud Joannis 8. Si vos filius 
+      <lb ed="#P" n="70"/>liberaverit, vere liberi eritis, aut illud 1. Corinth. 3. 
+      <lb ed="#P" n="71"/>ubi spiritus Domini, ibi libertas, aut aliud quid 
+      simi<lb ed="#P" n="72" break="no"/>le. Quas sententias manifestum est intelligi 
+      debe<lb ed="#P" n="73" break="no"/>re non de libertate naturali voluntatis nostrae, sed 
+      <lb ed="#P" n="74"/>de libertate gratiae. Idque etiam patet per hoc, 
+      <!--0483.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>quod in epistola 107. non simpliciter dicitur nos 
+      <lb ed="#P" n="76"/>perdidisse liberum arbitrium peccato primi 
+      paren<lb ed="#P" n="77" break="no"/>tis, sed perdidisse ad diligendum Deum; quia 
+      ni<lb ed="#P" n="78" break="no"/>mirum voluntas hominis lapsi, nisi reparata per 
+      <lb ed="#P" n="79"/>gratiam, non potest Deum super omnia diligere. 
+      <lb ed="#P" n="80"/>Sed de hoc notandum, quod sermone 2. de verbis 
+      <lb ed="#P" n="81"/>Apostoli, non dicitur homo amisisse ipsum 
+      libe<lb ed="#P" n="82" break="no"/>rum arbitrium, sed magnas vires liberi arbitrii 
+      <lb ed="#P" n="83"/>quas acceperat in sua conditione. Quae vires 
+      con<lb ed="#P" n="84" break="no"/>sistebant in justitia originali, donisque gratuitis 
+      <lb ed="#P" n="85"/>&amp; facilitate bene operandi. Quod autem non velit! 
+      <lb ed="#P" n="86"/>dicere Augustinus liberum arbitrium simpliciter 
+      <lb ed="#P" n="87"/>extinctum esse per peccatum, liquet ex eo, quia in 
+      <lb ed="#P" n="88"/>Enchiridio dicit hominem male utentem libero 
+      ar<lb ed="#P" n="89" break="no"/>bitrio &amp; se perdidisse &amp; ipsum. Nam seipsum non 
+      <lb ed="#P" n="90"/>ita perdidit ut non esset, sed ut deterior effectus 
+      fue<lb ed="#P" n="91" break="no"/>rit; quomodo dicuntur quidam homines perditi, 
+      <lb ed="#P" n="92"/>id est, vita ac moribus depravati. Sic igitur etiam 
+      <lb ed="#P" n="93"/>perdidit, id est deterius reddidit ac depravavit 
+      li<lb ed="#P" n="94" break="no"/>berum suum arbitrium. Denique ipse Augustinus 
+      <lb ed="#P" n="95"/>de qua libertate per peccatum amissa in 
+      hujusmo<lb ed="#P" n="96" break="no"/>di sententiis loquatur, apertissime exponit libro 1. 
+      <lb ed="#P" n="97"/>contra duas epistolas Pelagianorum capite 2. Cum 
+      <lb ed="#P" n="98"/>enim Julianus Pelagianus ei objiceret hoc ipsum, 
+      <lb ed="#P" n="99"/>quod eum dicere nunc affirmant haeretici, 
+      scili<lb ed="#P" n="100" break="no"/>cet primi hominis peccato liberum arbitrium 
+      pe<lb ed="#P" n="101" break="no"/>riisse, &amp; neminem jam habere potestatem bene 
+      vi<lb ed="#P" n="102" break="no"/>vendi, sed omnes in peccatum carnis necessitate 
+      <lb ed="#P" n="103"/>cogi, quemadmodum eodem loco 
+      commemora<lb ed="#P" n="104" break="no"/>tur, respondens ad eam calumniam Augustinus ita 
+      <lb ed="#P" n="105"/>scribit: 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e506">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Quis nostrum dicat quod primi hominis peccato 
+      <lb ed="#P" n="107"/>perierit liberum arbitrium de humano genere? 
+      Li<lb ed="#P" n="108" break="no"/>bertas quidem periit per peccatum, sed illa quae in 
+      <lb ed="#P" n="109"/>paradiso fuit, hujusmodi plenam cum 
+      immortalita<lb ed="#P" n="110" break="no"/>te justitiam: Propter quod natura humana divina 
+      <lb ed="#P" n="111"/>indiget gratia, dicente Demino: Si vos filius 
+      libera<lb ed="#P" n="112" break="no"/>verit, tunc vere liberi eritis; utique liberi ad bene 
+      <lb ed="#P" n="113"/>justeque vivendum. Nam liberum arbitrium usque 
+      <lb ed="#P" n="114"/>adeo in peccatore non periit, ut per illud peccent 
+      maxi<lb ed="#P" n="115" break="no"/>me omnes qui cum delectatione peccant. Et alia quae 
+      se<lb ed="#P" n="116" break="no"/>quuntur. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e535">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Hinc etiam responsio patet ad ejusdem 
+      Augu<lb ed="#P" n="118" break="no"/>stini testimonia secundo loco allata. Nam voluntas 
+      <lb ed="#P" n="119"/>nostra semper quidem retinet libertatem suam 
+      na<lb ed="#P" n="120" break="no"/>turalem, quia possit agere &amp; non agere, sed eam 
+      <lb ed="#P" n="121"/>libertatem qua libera fiat a servitute peccati, non 
+      <lb ed="#P" n="122"/>consequitur nisi per gratiam Christi. Atque hoc 
+      <lb ed="#P" n="123"/>Augustinum velle rursum ex ipsis locis manifestum 
+      <lb ed="#P" n="124"/>est. Nam libro de spiritu &amp; litera confirmat id 
+      <lb ed="#P" n="125"/>quod dicit per Apostolum dicentem: Ubi spiritus 
+      <lb ed="#P" n="126"/>Domini, ibi libertas. In aliis autem fere addit illud: 
+      <lb ed="#P" n="127"/>Si vos filius liberaverit, &amp;c. Quod nec Prosper 
+      prae<lb ed="#P" n="128" break="no"/>termisit in sententiis. Quanquam totum hoc 
+      ar<lb ed="#P" n="129" break="no"/>gumentum etiamsi concluderet, non admodum 
+      <lb ed="#P" n="130"/>faceret pro doctrina haereticorum; ut qui non 
+      tan<lb ed="#P" n="131" break="no"/>tum in statu peccati, verum etiam post acceptam 
+      <lb ed="#P" n="132"/>Christi gratiam negant in homine esse liberum 
+      ar<lb ed="#P" n="133" break="no"/>bitrium. Praesens autem argumentum saltem post 
+      <lb ed="#P" n="134"/>acceptam gratiam homini libertatem arbitrii 
+      ven<lb ed="#P" n="135" break="no"/>dicat. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e582">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Ad tertium, respondetur Augustinum eo loco 
+      <lb ed="#P" n="137"/>disputantem contra haereticum qui liberum 
+      ar<lb ed="#P" n="138" break="no"/>bitrium immodice extollebat, significare voluisse 
+      <lb ed="#P" n="139"/>quid nobis potius in libero arbitrio considerare 
+      ex<lb ed="#P" n="140" break="no"/>pediat, nempe quod peccando inciderit in 
+      servitu<lb ed="#P" n="141" break="no"/>tem peccati, atque hac ratione servum factum sit: 
+      <lb ed="#P" n="142"/>Verum haec servitus naturali libertati arbitrii non 
+      <lb ed="#P" n="143"/>repugnat. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e604">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Ad quartum, patet responsio ex iis quae diximus de 
+      <lb ed="#P" n="145"/>multiplici necessitate. Potissimum autem loquitur 
+      <lb ed="#P" n="146"/>Augustinus de ea necessitate peccandi, quae etsi non 
+      <lb ed="#P" n="147"/>obstet justitiae, obstat tamen perfectioni justitiae; 
+      <lb ed="#P" n="148"/>qualis est necessitas peccandi venialiter, quia nec 
+      <!--0484.xml-->
+      <pb ed="#P" n="251"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>justi vivere possunt sine peccatis. Haec tamen 
+      ne<lb ed="#P" n="2" break="no"/>cessitas non repugnat libero arbitrio; tum quia 
+      sin<lb ed="#P" n="3" break="no"/>gula peccata vitare potest homo, licet non omnia: 
+      <lb ed="#P" n="4"/>tum quia etiam daemones qui in omni actu peccant, 
+      <lb ed="#P" n="5"/>ita tamen eligunt unum peccatum, ut eo omisso 
+      fa<lb ed="#P" n="6" break="no"/>cere possint aliud, &amp; proinde libere faciunt hoc 
+      par<lb ed="#P" n="7" break="no"/>ticulare peccatum. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e641">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Ad quintum, respondeo eam homiliam non esse 
+      <lb ed="#P" n="9"/>Chrysostomi, sed latini authoris, veruntamen &amp; 
+      in<lb ed="#P" n="10" break="no"/>dubitatum sensum habere quod dicit, quia ut author 
+      <lb ed="#P" n="11"/>explicat, homo semel subjectus peccato non potest 
+      <lb ed="#P" n="12"/>sine Dei gratia se inde liberare; loquitur ergo de liber 
+      <lb ed="#P" n="13"/>tate quae est a peccato 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e659">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Eadem est responsio ad sextum9 manifeste enim 
+      <lb ed="#P" n="15"/>loquitur concilium de libertate a dominio peccati, 
+      <lb ed="#P" n="16"/>de qua &amp; mox subjungit testimonium evangelicum. 
+      <lb ed="#P" n="17"/>Si vos filius liberaverit, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p096937-d1e672">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Ad septimum respondeo, si proprie loquamur, 
+      <lb ed="#P" n="19"/>non posse liberum arbitrium simul &amp; infirmatum 
+      <lb ed="#P" n="20"/>esse &amp; amissum. Quae tamen duo affirmat canon 
+      con<lb ed="#P" n="21" break="no"/>cilii. Amissum igitur est eo sensu quo loquitur 
+      Au<lb ed="#P" n="22" break="no"/>gustinus, ex quo verba illa desumpta sunt. Unde 
+      <lb ed="#P" n="23"/>&amp; hic additur illud: Si vos filius liberaverit, &amp;c. 
+      In<lb ed="#P" n="24" break="no"/>firmatum vero, quia ut dicitur in canone 25. 
+      ejus<lb ed="#P" n="25" break="no"/>dem concilii, &amp; repetitur in concilio Trid. sess. 6. 
+      <lb ed="#P" n="26"/>cap. 1. per peccatum primi hominis ita inclinatum est 
+      <lb ed="#P" n="27"/>&amp; viribus attenuatum, ut nullus postea aut diligere 
+      <lb ed="#P" n="28"/>bonum Deum sicut oportet, aut credere aut operari 
+      <lb ed="#P" n="29"/>quod est possit, nisi gratia eum &amp; misericordia 
+      divi<lb ed="#P" n="30" break="no"/>na praevenerit. Ubi inclinatum &amp; viribus 
+      attenua<lb ed="#P" n="31" break="no"/>tum intellige, non quod ipsa facultas liberi 
+      ar<lb ed="#P" n="32" break="no"/>bitrii in se diminuta fuerit, sed quantum ad vires 
+      <lb ed="#P" n="33"/>bene agendi, quemadmodum declarant verba 
+      sub<lb ed="#P" n="34" break="no"/>juncta. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

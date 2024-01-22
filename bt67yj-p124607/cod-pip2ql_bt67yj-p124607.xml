@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 37</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 37</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="321"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p124607"><!-- l2d26c37" -->
+            <head xml:id="bt67yj-p124607-Hd1e101">Capitulum 37</head>
+            <head xml:id="bt67yj-p124607-Hd1e103" type="question-title">Utrum sine gratia possit homo Deum. 
+      supra omnia diligere</head>
+            <p xml:id="bt67yj-p124607-d1e106">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> §. 37. Utrum sine gratia possit homo Deum. 
+      <lb ed="#P" n="36"/>supra omnia diligere. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e115">
+               <lb ed="#P" n="37"/>Quoniam videri potest vel maxime quis Dei 
+      <lb ed="#P" n="38"/>gratiam promereri, si Deum supra omnia 
+      dili<lb ed="#P" n="39" break="no"/>gat, ideo tractanda quaestio est; an possit homo sine 
+      <lb ed="#P" n="40"/>gratia ac solis naturae viribus Deum supra omnia 
+      di<lb ed="#P" n="41" break="no"/>ligere. Ex quo simul intelligetur, quid absque 
+      gra<lb ed="#P" n="42" break="no"/>tia Dei possit, aut non possit, peccato corrupta 
+      na<lb ed="#P" n="43" break="no"/>tura. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e133">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Pro parte quaestionis affirmativa stant Durandus, 
+      <lb ed="#P" n="45"/>Scotus, Gabriel, &amp; nonnulli alii scribentes in 
+      Ma<lb ed="#P" n="46" break="no"/>gistrum, partim ad dist. 28. hujus libri, partim ad 
+      <lb ed="#P" n="47"/>27. lib. 3. Item Jacobus Almainus moralium tract. 2. 
+      <lb ed="#P" n="48"/>cap. 9. Quibus etiam Cajetanus assentiri videtur in 
+      <lb ed="#P" n="49"/>tract. de attritione &amp; contritione q. 1. Dicit enim 
+      <lb ed="#P" n="50"/>posse hominem ex viribus naturae sine aliquo speciali 
+      <lb ed="#P" n="51"/>auxilio gratiae Deum diligere supra omnia, etiam ut 
+      <lb ed="#P" n="52"/>est objectum supernaturale. Moventur autem 
+      praedi<lb ed="#P" n="53" break="no"/>cti authores his fere argumentis. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e160">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Primo, Potest homo solis naturae viribus Deum 
+      co<lb ed="#P" n="55" break="no"/>gnoscere ut summum &amp; maximum bonum, &amp; 
+      proin<lb ed="#P" n="56" break="no"/>de ut bonum supra omnia diligibile; poterit ergo 
+      <lb ed="#P" n="57"/>eum super omnia diligere, quia ad quod 
+      cognoscen<lb ed="#P" n="58" break="no"/>dum sine gratia valet intellectus, ad id diligendum 
+      <lb ed="#P" n="59"/>sine gratia videtur etiam attingere posse voluntas, 
+      <lb ed="#P" n="60"/>quia potest voluntas se conformare dictamini 
+      ratio<lb ed="#P" n="61" break="no"/>nis; imo judicium rationis ultimum necessario 
+      vo<lb ed="#P" n="62" break="no"/>luntas sequitur, uti demonstratum est ad dist. 
+      supe<lb ed="#P" n="63" break="no"/>riorem. Praeterea confirmatur hoc argumentum ex 
+      <lb ed="#P" n="64"/>Apostolo Rom. 1. ubi graviter philosophos accusat, 
+      <lb ed="#P" n="65"/>quod cum ingenio naturali ex creaturis Deum 
+      co<lb ed="#P" n="66" break="no"/>gnovissent, non tamen sit Deum, id est, ut 
+      sum<lb ed="#P" n="67" break="no"/>mum bonum glorificassent, aut gratias ei egissent. 
+      <lb ed="#P" n="68"/>Per hoc enim innuere videtur eadem naturali 
+      facul<lb ed="#P" n="69" break="no"/>tate potuisse eos haec agere. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e199">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Secundo: Potest homo naturae viribus diligere 
+      <lb ed="#P" n="71"/>creaturam aliquam supra omnia, ut voluptates, opes, 
+      <!--0554.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>honores, potentiam; ergo &amp; Deum. Est enim in Deo 
+      <lb ed="#P" n="73"/>major ratio diligendi. Et eam rationem potest homo 
+      <lb ed="#P" n="74"/>cognoscere &amp; considerare sine gratia. Confirmatur 
+      <lb ed="#P" n="75"/>argumentum hoc ab eorum exemplo, qui amicos 
+      <lb ed="#P" n="76"/>aut patriam in tantum diligunt, ut pro iis non 
+      du<lb ed="#P" n="77" break="no"/>bitent mortem oppetere. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e225">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Tertio: Naturale est homini Deum diligere super 
+      <lb ed="#P" n="79"/>omnia. Nam voluntas inclinatur naturaliter ad 
+      bo<lb ed="#P" n="80" break="no"/>num quatenus bonum est, tanquam ad proprium 
+      <lb ed="#P" n="81"/>suum objectum; magis igitur inclinatur ad majus 
+      <lb ed="#P" n="82"/>bonum, &amp; maxime ad maximum &amp; summum 
+      bo<lb ed="#P" n="83" break="no"/>num. Poterit ergo homo per naturalem hanc 
+      inclina<lb ed="#P" n="84" break="no"/>tionem Deum maxime summeque diligere. Quo 
+      spe<lb ed="#P" n="85" break="no"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="86"/>ctare videtur illud Augustini, quod dicit initio 
+      sua<lb ed="#P" n="87" break="no"/>rum confessionum. Fecisti nos Demine ad te, &amp; 
+      in<lb ed="#P" n="88" break="no"/>quietum est cor nostrum, donec requiescat in te. Item 
+      <lb ed="#P" n="89"/>probatur hujus argumenti propositio authoritate S. 
+      <lb ed="#P" n="90"/>Thomae qui. 1. qu. 60. art. 5. &amp; alibi scribit, 
+      ho<lb ed="#P" n="91" break="no"/>minem naturaliter inclinari ad diligendum Deum 
+      <lb ed="#P" n="92"/>plusquam seipsum. Unde &amp; eodem loco ad 5. 
+      affir<lb ed="#P" n="93" break="no"/>mat daemones &amp; damnatos Deum supra omnia 
+      di<lb ed="#P" n="94" break="no"/>ligere, quatenus est commune quoddam &amp; 
+      univer<lb ed="#P" n="95" break="no"/>sale bonum. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e271">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Quarto: Naturaliter unaquaeque res magis 
+      incli<lb ed="#P" n="97" break="no"/>natur in bonum totius quam in bonum proprium, 
+      <lb ed="#P" n="98"/>utitestatur idem S. Thomas 1. 2. qu. 109. art. 3. At 
+      <lb ed="#P" n="99"/>Deus qui est totius naturae author, habet se ut totum 
+      <lb ed="#P" n="100"/>quoddam: homo vero ut pars; ergo per amorem 
+      ma<lb ed="#P" n="101" break="no"/>gis inclinatur homo naturaliter in Deum, quam in 
+      <lb ed="#P" n="102"/>seipsum. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e291">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Quinto: Amor Dei nascitur ex amore sui. Nam 
+      <lb ed="#P" n="104"/>ut ait philosophus, amicabilia quae sunt ad alterum, 
+      <lb ed="#P" n="105"/>oriuntur ex amicabilibus quae sunt ad se; ergo per hoc 
+      <lb ed="#P" n="106"/>solum potest homo Deum summe diligere, quia 
+      no<lb ed="#P" n="107" break="no"/>vit in ejus contemplatione summum suum bonum 
+      <lb ed="#P" n="108"/>consistere. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e309">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Sexto: Dilectio qua Deus solum ut author naturae 
+      <lb ed="#P" n="110"/>super omnia diligitur, non ordinatur per se ad 
+      beati<lb ed="#P" n="111" break="no"/>tudinem supernaturalem; ergo non debet ea ascribi 
+      <lb ed="#P" n="112"/>gratiae Christi, sed facultati naturali. Quae 
+      conse<lb ed="#P" n="113" break="no"/>quentia probatur, quia ad Christi gratiam referenda 
+      <lb ed="#P" n="114"/>sunt solum ea bona, quae pertinent ad salutem vitae 
+      <lb ed="#P" n="115"/>aeternae, quae est beatitudo nostra supernaturalis, ut 
+      <lb ed="#P" n="116"/>alibi monstratum est. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e332">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Porro negativam partem docet S. Thomas 1. 2. 
+      <lb ed="#P" n="118"/>quaest. 109. art. 3. scilicet hominem in statu naturae 
+      <lb ed="#P" n="119"/>corruptae non posse per sola naturalia Deum super 
+      <lb ed="#P" n="120"/>omnia diligere, sed ad hoc indigere auxilio gratiae 
+      <lb ed="#P" n="121"/>naturam sanantis. Item 2. 2. q. 2. art. 5. ad 1. asserens 
+      <lb ed="#P" n="122"/>hominem non posse diligere Deum &amp; proximum, 
+      in<lb ed="#P" n="123" break="no"/>tellige juxta praeceptum legis, sine gratia reparante. 
+      <lb ed="#P" n="124"/>Quam doctrinam etiam alii probati Theologi 
+      se<lb ed="#P" n="125" break="no"/>quuntur, eamque muniunt tam authoritate sacrae 
+      <lb ed="#P" n="126"/>scripturae, quam testimoniis sanctorum Patrum &amp; 
+      <lb ed="#P" n="127"/>conciliorum; quibus nimirum ostendatur 
+      dilectio<lb ed="#P" n="128" break="no"/>nem Dei esse a Deo, &amp; pertinere ad dona Spiritus 
+      <lb ed="#P" n="129"/>sancti, &amp; ad ea beneficia quibus homo lapsus per 
+      <lb ed="#P" n="130"/>Christi gratiam restituitur &amp; reparatur. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e367">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Primo loco proferuntur haec e scriptura Rom. 5. 
+      <lb ed="#P" n="132"/>Charitas Dei diffusa est in cordibus nostris per 
+      Spiri<lb ed="#P" n="133" break="no"/>tum sanctum qui datus est nobis. Ephes. 6. Charitas 
+      <lb ed="#P" n="134"/>cum fide a Deo patre, &amp; Domino Jesu Christo. I. Jo. 4. 
+      <lb ed="#P" n="135"/>Charitas ex Deo est. Rursum ab Apostolo Galat. 5 
+      <lb ed="#P" n="136"/>charitas prima nominatur inter fructus spiritus, &amp; 1. 
+      <lb ed="#P" n="137"/>Cor. 12. &amp; 13. Charitas inter omnia Spiritus sancti 
+      <lb ed="#P" n="138"/>charismata tanquam maxima &amp; excellentissima 
+      com<lb ed="#P" n="139" break="no"/>mendatur. Itemque Eccl. 24. divina sapientia 
+      vo<lb ed="#P" n="140" break="no"/>catur mater pulchrae dilectionis. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e393">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Secundo loco, profertur authoritas conciliorum. 
+      <lb ed="#P" n="142"/>Nam concilium Milevitanum canon. 4. sic habet: 
+      <lb ed="#P" n="143"/>utrumque Dei donum est, &amp; scire quid facere 
+      debea<lb ed="#P" n="144" break="no"/>mus, &amp; diligere ut faciamus. Concilium 
+      Arausica<lb ed="#P" n="145" break="no"/>num canon. ultimo; Prorsus donum Dei est diligere 
+      <lb ed="#P" n="146"/>Deum: ipse ut diligeretur, dedit, qui non dilectus 
+      <!--0555.xml-->
+      <pb ed="#P" n="322"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>diligit; displicentes amati sumus, ut fieret in nobis unA 
+      <lb ed="#P" n="2"/>de placeremus. Diffundit enim charitatem in cordibus 
+      <lb ed="#P" n="3"/>nostris spiritus patris &amp; filii. Ubi &amp; paulo post 
+      sub<lb ed="#P" n="4" break="no"/>jungitur, fidem &amp; amorem Dei nobis prius 
+      inspi<lb ed="#P" n="5" break="no"/>rari, ut baptismum fideliter requiramus &amp; can. 22. 
+      <lb ed="#P" n="6"/>generaliter dicitur, neminem habere de suo nisi 
+      men<lb ed="#P" n="7" break="no"/>dacium &amp; peccatum. Quare nec dilectionem Dei, 
+      <lb ed="#P" n="8"/>ne quidem ut authoris naturae quisquam habet de 
+      <lb ed="#P" n="9"/>suo, id est, facultate suae naturae. Quibus accedit 
+      <lb ed="#P" n="10"/>concilium Trident. sess. 6. cap. 6. ubi dicit 
+      homi<lb ed="#P" n="11" break="no"/>nem a Deo motum &amp; excitatum, eodem adjuvante, 
+      <lb ed="#P" n="12"/>incipere Deum diligere. Et can. 3. ubi anathema 
+      <lb ed="#P" n="13"/>dicitur ei, qui dixerit sine praeveniente Spiritus 
+      san<lb ed="#P" n="14" break="no"/>cti inspiratione atque ejus adjutorio hominem 
+      dili<lb ed="#P" n="15" break="no"/>gere Deum posse sicut oportet. At certe qui Deum 
+      <lb ed="#P" n="16"/>supra omnia diligit, is diligit Deum sicut oportet; 
+      <lb ed="#P" n="17"/>quia diligit eum ex toto corde, prout exigit primum 
+      <lb ed="#P" n="18"/>&amp; maximum Dei mandatum. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e456">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Tertio loco, producuntur testimonia Patrum, 
+      no<lb ed="#P" n="20" break="no"/>minatim Augustini &amp; Prosperi. Augustinus 
+      episto<lb ed="#P" n="21" break="no"/>la ad Vitalem 107. Liberum arbitrium, inquit, ad 
+      <lb ed="#P" n="22"/>diligendum Deum primi peccati granditate 
+      perdidi<lb ed="#P" n="23" break="no"/>mus. Et serm. 2. de diversis. Quare unde homini 
+      di<lb ed="#P" n="24" break="no"/>ligere Deum, nec invenies omnino, nisi quia prior 
+      <lb ed="#P" n="25"/>illum dilexit Deus. Et infra. Nec diligere possumus 
+      <lb ed="#P" n="26"/>Deum nisi per Spiritum sanctum. Item lib. 1. de 
+      pa<lb ed="#P" n="27" break="no"/>tientia cap. 25. Nisi amor ejus detur inde nobis, 
+      <lb ed="#P" n="28"/>non est unde esse possit in nobis. Ac per hoc 
+      volun<lb ed="#P" n="29" break="no"/>tas bona qua diligitur Deus, in homine non potest 
+      <lb ed="#P" n="30"/>esse, nisi in quo Deus operatur &amp; velle. Et libro 4. 
+      <lb ed="#P" n="31"/>contra Julianum cap. 3. Amor Dei quo pervenitur 
+      <lb ed="#P" n="32"/>ad Deum, non est nisi a Deo; per hunc amorem 
+      <lb ed="#P" n="33"/>creatoris bene quisque utitur creaturis, sine hoc 
+      a<lb ed="#P" n="34" break="no"/>more creatoris nemo bene utitur creaturis. Et lib. de 
+      <lb ed="#P" n="35"/>gratia &amp; libero arbitrio cap. 17. Quis istam, inquit, 
+      <lb ed="#P" n="36"/>quamvis parvam dare ceperat charitatem, nisi qui 
+      <lb ed="#P" n="37"/>praeparat voluntatem? Et cap. 18. Cur dictum est 
+      <lb ed="#P" n="38"/>diligamus invicem, quia dilectio ex Deo est; nisi 
+      <lb ed="#P" n="39"/>quia praecepto admonitum est liberum arbitrium, ut 
+      <lb ed="#P" n="40"/>quaereret Dei donum? quod quidem sine suo fructu 
+      <lb ed="#P" n="41"/>prorsus admoneretur, nisi prius acciperet aliquid 
+      di<lb ed="#P" n="42" break="no"/>lectionis: ut addi sibi quaereret, unde quod 
+      jubeba<lb ed="#P" n="43" break="no"/>tur, impleret. Quae duo loca manifeste probant 
+      e<lb ed="#P" n="44" break="no"/>tiam parvam &amp; imperfectam Dei dilectionem, quae 
+      <lb ed="#P" n="45"/>nondum valeat ad implenda mandata, Dei 
+      do<lb ed="#P" n="46" break="no"/>num esse. Concludit eodem loco Augustinus: Si 
+      <lb ed="#P" n="47"/>non ex Deo, sed ex hominibus est dilectio Dei &amp; 
+      pro<lb ed="#P" n="48" break="no"/>ximi, vicerunt Pelagiani; si autem ex Deo, 
+      vici<lb ed="#P" n="49" break="no"/>mus Pelagianos. Igitur ex sententia Augustini 
+      Pela<lb ed="#P" n="50" break="no"/>gianum est dicere, quod solis naturae viribus possit 
+      <lb ed="#P" n="51"/>Deus diligi, etiam imperfecta dilectione. Vide 
+      eun<lb ed="#P" n="52" break="no"/>dem Augustinum libro 21. de civit. cap. 15. &amp; lib. 8. 
+      <lb ed="#P" n="53"/>de trinit. cap. 7. &amp; tract. 102. in Joan. Ex quo loco 
+      <lb ed="#P" n="54"/>desumpta sunt verba quae supra citavimus ex ultimo 
+      <lb ed="#P" n="55"/>canone concilii Arausicani. Quae eadem rursus a 
+      <lb ed="#P" n="56"/>Prospero transcripta sunt in librum sententiarum 
+      <lb ed="#P" n="57"/>numero 368. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e545">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Idem Prosper scribens contra Coll. cap. 30. ex 
+      scri<lb ed="#P" n="59" break="no"/>pturis contendit Dei dilectionem nonnisi a Deo 
+      ha<lb ed="#P" n="60" break="no"/>peri, adducens inter alia illud Apostoli: Quid habes 
+      <lb ed="#P" n="61"/>quod non accepisti? Quo etiam loco naturam 
+      huma<lb ed="#P" n="62" break="no"/>nam omni gratia destitutam facit tanquam glaciali 
+      <lb ed="#P" n="63"/>rigore torpentem, ut ex ea nihil omnino caloris 
+      eli<lb ed="#P" n="64" break="no"/>ci queat, nisi rigorem illum spiritus Dei relaxet per 
+      <lb ed="#P" n="65"/>eum qui dixit: Ignem veni mittere in terram. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e567">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Eadem porro doctrina est Bernardi libro de 
+      dili<lb ed="#P" n="67" break="no"/>gendo Deo, ubi cum ostendisset omnes etiam 
+      infi<lb ed="#P" n="68" break="no"/>deles ex lege naturae teneri ad diligendum Deum ex 
+      <lb ed="#P" n="69"/>toto corde, &amp;c. &amp; inexcusabiles esse si non sic 
+      dili<lb ed="#P" n="70" break="no"/>gant, subjunxit: Verum id difficile, imo 
+      impossi<lb ed="#P" n="71" break="no"/>vile est; suis scilicet quempiam liberive arbitrii 
+      viri<lb ed="#P" n="72" break="no"/>bus accepta a Deo ad Dei ex toto convertere 
+      volunta<lb ed="#P" n="73" break="no"/>tem, &amp; non magis ad propriam retorquere, eaque sibi 
+      <lb ed="#P" n="74"/>tanquam propria retinere, sicuti scriptum est: Omnes 
+      <!--0555.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>quae sua sunt quaerunt. Et iterum: Proni sunt sensus 
+      <lb ed="#P" n="76"/>&amp; cogitationes hominis in malum. Contra quod plane 
+      <lb ed="#P" n="77"/>fideles norunt, quam omnino necessarium habeant 
+      Je<lb ed="#P" n="78" break="no"/>sum &amp; hunc crucifixum. Haec ille. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e605">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Postremo loco adducuntur argumenta ex ratione. 
+      <lb ed="#P" n="80"/>Primum, Oratio certissima gratiae testificatio est; 
+      <lb ed="#P" n="81"/>Atqui dilectionem Dei ecclesia suis orationibus a 
+      <lb ed="#P" n="82"/>Deo petit, velut cum orat, ut Deus infundat 
+      cordi<lb ed="#P" n="83" break="no"/>bus nostris sui amoris affectum, ut inserat 
+      pectori<lb ed="#P" n="84" break="no"/>bus nostris amorem sui nominis, ut faciat nos 
+      ama<lb ed="#P" n="85" break="no"/>re quod praecipit, &amp; alia hujusmodi; ergo dilectio 
+      <lb ed="#P" n="86"/>Dei est opus gratiae Dei, &amp; sine ea haberi non 
+      po<lb ed="#P" n="87" break="no"/>test. Nam alioqui frustra ac sine necessitate a Deo 
+      pe<lb ed="#P" n="88" break="no"/>teretur. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e631">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Secundum: Si posset homo sine gratia diligere 
+      <lb ed="#P" n="90"/>Deum super omnia, posset sine ea implere omnia 
+      <lb ed="#P" n="91"/>Dei mandata. Nam qui diligit Deum, implet 
+      le<lb ed="#P" n="92" break="no"/>gem, &amp; servat mandata Dei, quemadmo dum 
+      do<lb ed="#P" n="93" break="no"/>cent Apostoli, Paulus Rom. 13. &amp; Joannes sparsim 
+      <lb ed="#P" n="94"/>in sua epistola. At dicere, quod quis implere possit 
+      <lb ed="#P" n="95"/>omnia Dei mandata sine gratia, est ipsa naeresis 
+      Pe<lb ed="#P" n="96" break="no"/>lagiana, teste Augustino lib. de haeresibus, &amp; 
+      dam<lb ed="#P" n="97" break="no"/>natur verbis expressis in concilio Milevitano can. 5. 
+      <lb ed="#P" n="98"/>igitur ad haeresim Pelagianam pertinet opinari; 
+      <lb ed="#P" n="99"/>quod quis sine gratia possit Deum supra omnia 
+      di<lb ed="#P" n="100" break="no"/>ligere. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e662">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Tertium: Per amorem Dei super omnia, 
+      conver<lb ed="#P" n="102" break="no"/>titur homo ad Deum, sicut per odium erat aversus; 
+      <lb ed="#P" n="103"/>non potest autem quis ad Deum converti sine ejus 
+      <lb ed="#P" n="104"/>gratia, juxta illud Jeremiae Threnorum 5. Converte 
+      <lb ed="#P" n="105"/>nos ad te &amp; convertemur; ergo nec summe diligere 
+      <lb ed="#P" n="106"/>eum potest sine gratia. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e680">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Quartum: Si quis diligat Deum super omnia 
+      so<lb ed="#P" n="108" break="no"/>lis naturae viribus, is accedente baptismo 
+      justifica<lb ed="#P" n="109" break="no"/>bitur, quia non ponit obicem malae voluntatis; ergo 
+      <lb ed="#P" n="110"/>per solas naturae vires ac sine praeveniente Dei dono 
+      <lb ed="#P" n="111"/>poterit homo se sufficienter disponere ad gratiam 
+      <lb ed="#P" n="112"/>justificationis &amp; remissionem peccatorum 
+      accipien<lb ed="#P" n="113" break="no"/>dam, saltem accedente sacramento; quod prorsus 
+      <lb ed="#P" n="114"/>est Pelagianum, ut patet ex Augustino lib. 1. contra 
+      <lb ed="#P" n="115"/>duas epistolas Pelagianorum cap. ult. estque sub 
+      ana<lb ed="#P" n="116" break="no"/>themate damnatum a concilio Trident. sess. 6. 
+      ca<lb ed="#P" n="117" break="no"/>none 1. &amp; 3. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e709">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Quintum: Qui diligit Deum super omnia, si 
+      re<lb ed="#P" n="119" break="no"/>pente morte occupetur, in eo dilectionis actu vel 
+      <lb ed="#P" n="120"/>affectu positus, salvabitur; quia Deus non 
+      damna<lb ed="#P" n="121" break="no"/>bit hominem diligentem se super omnia. Dicit enim 
+      <lb ed="#P" n="122"/>ipse Proverb. 8. Ego diligentes me diligo, &amp; Joan. 14. 
+      <lb ed="#P" n="123"/>Qui diligit me, diligetur a patre meo. Dicitur autem 
+      <lb ed="#P" n="124"/>absolute Deus hominem diligere, quando vult ei 
+      <lb ed="#P" n="125"/>summum ejus bonum, quod est vita aeterna; ergo 
+      <lb ed="#P" n="126"/>si quis solis viribus naturae Deum super omnia 
+      dili<lb ed="#P" n="127" break="no"/>git, poterit is sine gratia per id solum quod habet in 
+      <lb ed="#P" n="128"/>natura, pertingere ad salutem. Quod si ita est; ergo 
+      <lb ed="#P" n="129"/>gratis Christus mortuus est. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e740">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Sextum: Si potest homo Deum diligere per sola 
+      <lb ed="#P" n="131"/>naturalia; ergo sine gratia merebitur gratiam, quod 
+      <lb ed="#P" n="132"/>ipsum quoque Pelagianum est, &amp; a Patribus 
+      dam<lb ed="#P" n="133" break="no"/>natum. Sequela probatur, quia nihil aeque provocat 
+      <lb ed="#P" n="134"/>amorem atque amor; est enim maxime 
+      consenta<lb ed="#P" n="135" break="no"/>neum rectae rationi, &amp; naturali voluntatis 
+      inclina<lb ed="#P" n="136" break="no"/>tioni, amantem redamare. Quo pertinent duae 
+      scri<lb ed="#P" n="137" break="no"/>pturae modo citatae, &amp; exemplum peccatricis, Luc 
+      <lb ed="#P" n="138"/>7. cui remissa sunt peccata multa, quia dilexit 
+      mul<lb ed="#P" n="139" break="no"/>tum. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e767">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Septimum: Nullum opus verae pietatis fieri potest 
+      <lb ed="#P" n="141"/>solis viribus naturae, ut abunde docent canones 
+      A<lb ed="#P" n="142" break="no"/>rausicani &amp; a nobis jam in superioribus satis 
+      proba<lb ed="#P" n="143" break="no"/>tum est: At dilectio Dei quamvis ea sit imperfecta, 
+      <lb ed="#P" n="144"/>&amp; inchoata duntaxat, quamvis etiam in Deum 
+      ten<lb ed="#P" n="145" break="no"/>dat tantum ut authorem naturae, est opus pietatis. 
+      <lb ed="#P" n="146"/>Dicit enim Augustinus epist. 29. ad Hieronymum. 
+      <lb ed="#P" n="147"/>Pietas est cultus Dei, qui praecipue diligendo 
+      exhi<lb ed="#P" n="148" break="no"/>betur, ergo nulla Dei dilectio haberi potest per solas 
+      <!--0556.xml-->
+      <pb ed="#P" n="323"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>vires naturae. Quod autem dilectio Dei ut authoris A 
+      <lb ed="#P" n="2"/>naturae, spectet ad pietatem, qua Deus colitur, 
+      do<lb ed="#P" n="3" break="no"/>ceri potest ex statu hominis pure naturali, in quo 
+      <lb ed="#P" n="4"/>utique cultum pietatis Deo deberet, nec tamen 
+      di<lb ed="#P" n="5" break="no"/>ligere eum, ut authorem supernaturalis 
+      beatitudi<lb ed="#P" n="6" break="no"/>nis, sed tantum ut authorem naturae &amp; largitorem 
+      <lb ed="#P" n="7"/>beatitudinis naturalis. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e813">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Octavum; Primus homo per peccatum amisit 
+      fi<lb ed="#P" n="9" break="no"/>dem &amp; Dei dilectionem, nec retinuit nisi servilem 
+      <lb ed="#P" n="10"/>quemdam Dei timorem, unde dicebat: Audivi 
+      vo<lb ed="#P" n="11" break="no"/>cem tuam &amp; timui; ergo qui nascitur ex Adam, sicut 
+      <lb ed="#P" n="12"/>fidem recuperare non potest; ita nec veram Dei 
+      di<lb ed="#P" n="13" break="no"/>lectionem, nisi ad hoc per gratiam Christi 
+      reforme<lb ed="#P" n="14" break="no"/>tur. Confirmatur per illua Augustini supra citatum, 
+      <lb ed="#P" n="15"/>Liberum arbitrium ad diligendum Deum primi 
+      pec<lb ed="#P" n="16" break="no"/>cati granditate perdidimus. 
+    </p>
+            <p xml:id="bt67yj-p124607-d1e837">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Postremum argumentum adversus eos qui 
+      faten<lb ed="#P" n="18" break="no"/>tur quidem perfectam Dei dilectionem, qua 
+      nimi<lb ed="#P" n="19" break="no"/>rum Deus ex toto corde diligitur, ex solis naturae 
+      vi<lb ed="#P" n="20" break="no"/>ribus Christi haberi non posse; sed secus de 
+      imper<lb ed="#P" n="21" break="no"/>fecta dilectione sentiunt, sit tale: Si perfecta Dei 
+      di<lb ed="#P" n="22" break="no"/>lectio non potest haberi sine gratia; ergo nec 
+      imper<lb ed="#P" n="23" break="no"/>fecta. Nam cujuscunque rei perfectio est a Deo, ab 
+      <lb ed="#P" n="24"/>eodem est inchoatio, cum sint in eodem genere 
+      per<lb ed="#P" n="25" break="no"/>fectum &amp; imperfectum. Unde sicut fatemur initium 
+      <lb ed="#P" n="26"/>fidei esse a Deo, quia fides ipsa a Deo est; sic 
+      etiam<lb ed="#P" n="27" break="no"/>fatendum charitatis seu dilectionis initium, 
+      quam<lb ed="#P" n="28" break="no"/>tumvis imperfectum esse a Deo, quia charitas a Dec 
+      <lb ed="#P" n="29"/>est. Quod &amp; August. docet his uerbis lib. 2. contra 
+      <lb ed="#P" n="30"/>duas epist. Pelag. c. 9. Nec initium ejus, inquit, ex 
+      <lb ed="#P" n="31"/>nobis, &amp; perfectio ejus ex Deo; sed si charitas kx Deo 
+      <lb ed="#P" n="32"/>est, tota nobis ex Deo est. Avertat enim Deus hanc 
+      <lb ed="#P" n="33"/>amentiam, ut in ejus donis nos priores faciamus, 
+      <lb ed="#P" n="34"/>posteriorem ipsum, quoniam misericordia ejus 
+      praeve<lb ed="#P" n="35" break="no"/>niet me. Denique argumento est, quod sicut 
+      cha<lb ed="#P" n="36" break="no"/>ritas praesupponit fidem; ita initium charitatis 
+      prae<lb ed="#P" n="37" break="no"/>supponit saltem initium aliquod fidei; quod non 
+      o<lb ed="#P" n="38" break="no"/>porteret, si ex solis naturae viribus haberi posset 
+      <lb ed="#P" n="39"/>Nam ea quae sola virtute naturae comparantur, a fide 
+      <lb ed="#P" n="40"/>non dependent. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

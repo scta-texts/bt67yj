@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="35"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p013683"><!-- l2d4c1" -->
+            <head xml:id="bt67yj-p013683-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p013683-Hd1e103" type="question-title">Vtrum angeli facti sint beati et perfecti</head>
+            <p xml:id="bt67yj-p013683-d1e106">
+               <lb ed="#P" n="118"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="119"/>QUARTAM. 
+      <lb ed="#P" n="120"/>§. 1. Vtrum angeli facti sint beati &amp; perfecti? 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e115">
+               <lb ed="#P" n="121"/>AD eam quaestionem, quam fere solam hac 
+      <lb ed="#P" n="122"/>distinctione tractat Magister, scilicet utrum 
+      <lb ed="#P" n="123"/>beati &amp; perfecti, an miseri &amp; imperfecti 
+      <lb ed="#P" n="124"/>creati sint angeli, non erit difficilis responsio, si prius 
+      <lb ed="#P" n="125"/>quid beatum, &amp; quid perfectum dicatur, 
+      distinguen<lb ed="#P" n="126" break="no"/>do explicuerimus. 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e131">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Nam beatum quidem explicari potest trifariam. 
+      <lb ed="#P" n="128"/>Cum enim nomine beatitud inis intelligatur ultima 
+      <lb ed="#P" n="129"/>perfectio substantiae intellectualis, ea autem sit 
+      du<lb ed="#P" n="130" break="no"/>plex, una quam assequi potest virtute naturae, unde 
+      <lb ed="#P" n="131"/>&amp; naturalis beatitudo vocatur, &amp; altera quae 
+      virtu<lb ed="#P" n="132" break="no"/>tem naturae superat, quae proinde vocatur 
+      superna<lb ed="#P" n="133" break="no"/>turalis. 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e152">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Primo modo beatus dicitur quispiam 
+      beatitu<lb ed="#P" n="135" break="no"/>dine naturali, qui habet ultimam perfectionem, ad 
+      <lb ed="#P" n="136"/>quam virtus suae naturae se extendit. Hoc modo 
+      ra<lb ed="#P" n="137" break="no"/>tionabiliter dicitur angelos fuisse in creatione 
+      bea<lb ed="#P" n="138" break="no"/>tos, quia perfectas habuerunt operationes 
+      intelle<lb ed="#P" n="139" break="no"/>ctus &amp; voluntatis, respectu ultimi finis naturalis. 
+      <lb ed="#P" n="140"/>Sed notandum quod haec naturalis beatitudo 
+      crea<lb ed="#P" n="141" break="no"/>turae secundum sanctum Thomam 1. quaest. 62. art. 
+      <lb ed="#P" n="142"/>1. non simpliciter, sed quodammodo beatitudo, seu 
+      <lb ed="#P" n="143"/>foelicitas dicitur. Cujus ratio est, ut ibidem indicatur, 
+      <!--0269.xml-->
+      <pb ed="#P" n="36"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quia creatura intellectualis capax est beatitudinis. 
+      <lb ed="#P" n="2"/>cujusdam altioris, nempe supernaturalis, &amp; ad eam 
+      <lb ed="#P" n="3"/>creata. Et idcirco beatitudo naturalis non est 
+      sim<lb ed="#P" n="4" break="no"/>pliciter ultima perfectio illius creaturae, sed 
+      secun<lb ed="#P" n="5" break="no"/>dum quid; unde nec implet totum ejus desiderium, 
+      <lb ed="#P" n="6"/>quia nec implet ejus capacitatem 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e198">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Igitur secundo modo beatus dicitur aliquis 
+      ra<lb ed="#P" n="8" break="no"/>tione beatitudinis supernaturalis, nondum tamen 
+      <lb ed="#P" n="9"/>ut eam assecutus, sed ut tendens ad eam. Unde nec 
+      <lb ed="#P" n="10"/>talis simpliciter beatus dici potest, sed inchoative 
+      <lb ed="#P" n="11"/>dumtaxat, scilicet per gratiam &amp; meritum, quibus 
+      <lb ed="#P" n="12"/>in aeternam tendit beatitudinem, idque eo magis si 
+      <lb ed="#P" n="13"/>illuc tendat absque impedimento. Qua ratione 
+      an<lb ed="#P" n="14" break="no"/>geli, &amp; primus homo in gratia conditi, beati 
+      fue<lb ed="#P" n="15" break="no"/>runt, quia iis donis praediti quibus tendere possent; 
+      <lb ed="#P" n="16"/>imo actu tenderent per operationes meritorias in 
+      <lb ed="#P" n="17"/>finem ultimum supernaturalem, nullum nec 
+      inte<lb ed="#P" n="18" break="no"/>rius, nec exterius patientes impedimentum, quod 
+      <lb ed="#P" n="19"/>ab illo cursu eos remoraretur, nec ullis obnoxii 
+      mi<lb ed="#P" n="20" break="no"/>seriis quibus illa foelicitas, quoad bona ejus 
+      accesso<lb ed="#P" n="21" break="no"/>ria, minueretur. Quamquam huc etiam pertinet 
+      <lb ed="#P" n="22"/>beatitudo hominis post lapsum restituti in gratiam, 
+      <lb ed="#P" n="23"/>&amp; justitiam tanquam in viam qua tendere possit ad 
+      <lb ed="#P" n="24"/>supernam foelicitatem, sed non sine impedimento 
+      <lb ed="#P" n="25"/>concupiscentiae &amp; quotidianorum lapsuum &amp; 
+      ten<lb ed="#P" n="26" break="no"/>tationum, quibus a cursu retardatur, nec sine 
+      mul<lb ed="#P" n="27" break="no"/>tiplici miseria foelicitatem ejus per se minuente, 
+      li<lb ed="#P" n="28" break="no"/>cet per accidens eam promoveat. Unde in scripturis 
+      <lb ed="#P" n="29"/>beati dicuntur qui timent Dominum, &amp; beati qui 
+      <lb ed="#P" n="30"/>lugent, &amp; qui persecutionem patiuntur propter 
+      <lb ed="#P" n="31"/>justitiam, &amp;c. beati, inquam, in spe, quia jam 
+      me<lb ed="#P" n="32" break="no"/>rita virtutum habent, per quae beatitudinem ipsam 
+      <lb ed="#P" n="33"/>certo sperare jubentur. 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e261">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Tertio, beatus dicitur qui ultimam 
+      perfectio<lb ed="#P" n="35" break="no"/>nem cujus capax est, id est, supernaturalem, quae in 
+      <lb ed="#P" n="36"/>visione divinae essentiae consistit, jam est 
+      consccu<lb ed="#P" n="37" break="no"/>tus. Haec enim est consummata foelicitas, qua 
+      nimi<lb ed="#P" n="38" break="no"/>rum intellectualis creatura finem suum adepta, in 
+      <lb ed="#P" n="39"/>ipso conquiescit, sic ut nihil ulterius desideret. Hoc I. 
+      <lb ed="#P" n="40"/>modo angeli in creatione non fuerunt beati, 
+      quip<lb ed="#P" n="41" break="no"/>pe quos tales secundum ordinem divinae sapientiae 
+      <lb ed="#P" n="42"/>creari oportuit, ut per meritum ad supernaturalem 
+      <lb ed="#P" n="43"/>hanc beatitudinem tenderent, eandemque post 
+      me<lb ed="#P" n="44" break="no"/>ritum consequerentur. Atque haec doctrina est 
+      Au<lb ed="#P" n="45" break="no"/>gustini lib. de corr. &amp; gratia, cap. 10. &amp; lib. 11. de 
+      <lb ed="#P" n="46"/>civit. Dei, cap. 11. &amp; 13. &amp; Fulgentii de fide ad Petr. 
+      <lb ed="#P" n="47"/>cap. 3. Quibus consentanea scribit <name xml:id="bt67yj-p013683-Nd1e295">Gennadius</name> libr. 
+      <lb ed="#P" n="48"/>de eccles. dogm. cap. 58. &amp; sequentibus. Idem 
+      sen<lb ed="#P" n="49" break="no"/>tiunt Hugo, Magister, &amp; omnes posteriores 
+      Theolo<lb ed="#P" n="50" break="no"/>gi paucissimis exceptis ut Alexandro, &amp; Ariminensi 
+      <lb ed="#P" n="51"/>qui opinati sunt angelos ab initio Deum vidisse per 
+      <lb ed="#P" n="52"/>essentiam. 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e309">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Porro perfectum quadrifariam potest distingui. 
+      <lb ed="#P" n="54"/>Nam uno modo perfectum aliquid dicitur 
+      secun<lb ed="#P" n="55" break="no"/>dum substantiam, nempe id cui nihil deest eorum 
+      <lb ed="#P" n="56"/>quae ad substantiam rei pertinent. Hoc modo non est 
+      <lb ed="#P" n="57"/>dubium omnes angelos, sicut &amp; res caeteras, fuisse in 
+      <lb ed="#P" n="58"/>sua creatione perfectos. 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e327">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Secundo modo id cui nihil deest perfectionis 
+      na<lb ed="#P" n="60" break="no"/>turalis. Hoc etiam modo angelos factos esse 
+      perfe<lb ed="#P" n="61" break="no"/>ctos, utpote naturali beatitudine praeditos, jam 
+      <lb ed="#P" n="62"/>diximus. 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e340">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Tertio modo, secundum perfectionem 
+      superna<lb ed="#P" n="64" break="no"/>turalem, prout per dona supernaturalia ad eam 
+      ten<lb ed="#P" n="65" break="no"/>ditur. Quae proinde inchoativa hujus generis 
+      perfe<lb ed="#P" n="66" break="no"/>ctio est. Hoc modo angelos in sua creatione fuisse 
+      <lb ed="#P" n="67"/>perfectos ex supra dictis patet, quia &amp; gratiam &amp; 
+      <lb ed="#P" n="68"/>meritum ab initio habuerunt. Erat quidem haec in 
+      <lb ed="#P" n="69"/>angelis perfectio viae non patriae, sed tanto in illis 
+      <lb ed="#P" n="70"/>major quam in hominibus, quanto plenior juxta 
+      <lb ed="#P" n="71"/>capacitatem seu quantitatem naturalium, 
+      quanto<lb ed="#P" n="72" break="no"/>que liberior ab omni peccato &amp; miseria, quam 
+      <lb ed="#P" n="73"/>nunc est in hominibus. Itaque duae hae perfectiones 
+      <lb ed="#P" n="74"/>&amp; secundum naturam, &amp; secundum gratiam, sta¬ 
+      <!--0269.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>tumque merendi, omne vitium &amp; defectum ab 
+      an<lb ed="#P" n="76" break="no"/>gelis excludebant. Nam perfectio viae quae competit 
+      <lb ed="#P" n="77"/>nobis hominibus, multum vitiorum atque defectuum 
+      <lb ed="#P" n="78"/>habet admixtum, ideóque nec secundum statum 
+      via<lb ed="#P" n="79" break="no"/>toris absolute perfecta est, quantumcumque aliquis, 
+      <lb ed="#P" n="80"/>dum est in hoc statu, profecerit. 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e389">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Quarto, perfectum aliquid dicitur secundum 
+      ean<lb ed="#P" n="82" break="no"/>dem supernaturalem perfectionem quatenus reipsa 
+      <lb ed="#P" n="83"/>jam obtinetur, quam perfectionem sicut &amp; 
+      postre<lb ed="#P" n="84" break="no"/>mi generis beatitudinem (est enim una &amp; eadem 
+      <lb ed="#P" n="85"/>angeli non in creatione, nec in via, sed in 
+      termi<lb ed="#P" n="86" break="no"/>no viae quo confirmati sunt, acceperunt. 
+    </p>
+            <p xml:id="bt67yj-p013683-d1e407">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Est autem notandum quamvis angelos aliquo 
+      mo<lb ed="#P" n="88" break="no"/>B do imperfectos in creatione dicere possumus, 
+      qua<lb ed="#P" n="89" break="no"/>tenus nimirum perfectionem hanc ultimam 
+      non<lb ed="#P" n="90" break="no"/>dum erant adepti, nullatenus tamen dicendum eos 
+      <lb ed="#P" n="91"/>miseros fuisse. Nam ut recte dicit Magister, miseri 
+      <lb ed="#P" n="92"/>ante peccatum esse non potuerunt, quia ex peccato 
+      <lb ed="#P" n="93"/>miseria est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

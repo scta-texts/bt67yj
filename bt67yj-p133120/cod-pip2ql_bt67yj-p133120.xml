@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="343"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p133120"><!-- l2d27c2" -->
+            <head xml:id="bt67yj-p133120-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p133120-Hd1e103" type="question-title">Virtutem esse habitum plenius ostenditur</head>
+            <p xml:id="bt67yj-p133120-d1e106">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> §. 2. Virtutem esse habitum plenius ostenditur.
+    </p>
+            <p xml:id="bt67yj-p133120-d1e113">
+               <lb ed="#P" n="98"/>Ate disputat Magister in textu utrum virtus sit 
+      <lb ed="#P" n="99"/>Lhabitus, an actus, ac tandem utriusque partis 
+      <lb ed="#P" n="100"/>argumentis propositis nihil sibi definiendum 
+      sta<lb ed="#P" n="101" break="no"/>tuit. Verum sicut negari non potest virtutis nomen 
+      <lb ed="#P" n="102"/>ab authoribus interdum actibus seu operationibus 
+      <lb ed="#P" n="103"/>ipsis attribui, ut facile probant quae pro posteriori 
+      <lb ed="#P" n="104"/>parte authoritates a Magistro proferuntur; ita 
+      du<lb ed="#P" n="105" break="no"/>bitandum non est quin agnoscendus sit in homine 
+      <lb ed="#P" n="106"/>aliquis habitus virtutis, qui non sit cum actu semper 
+      <lb ed="#P" n="107"/>conjunctus. 
+    </p>
+            <p xml:id="bt67yj-p133120-d1e137">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Primum; id patet ex definitione Ciceronis ab 
+      Au<lb ed="#P" n="109" break="no"/>gustino duobus locis posita &amp; probata, ut supra 
+      di<lb ed="#P" n="110" break="no"/>ctum est, qua virtus definitur habitus animi. Et priori 
+      <lb ed="#P" n="111"/>quidem loco etiam justitia per habitum ab eodem 
+      <lb ed="#P" n="112"/>definitur. 
+    </p>
+            <p xml:id="bt67yj-p133120-d1e154">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Secundo; idem Augustinus in Psal. 118. ad illud: 
+      <lb ed="#P" n="114"/>Feci judicium &amp; justitiam, aperte distinguit virtutem 
+      <lb ed="#P" n="115"/>ab opere virtutis his verbis: Justitiae nomine hoc loco 
+      <lb ed="#P" n="116"/>non ipsa virtus sed opus ejus significatum est. Quis enim 
+      <lb ed="#P" n="117"/>facit in homine justitiam, nisi qui justificat impium. 
+      <lb ed="#P" n="118"/>Hoc est per gratiam suam ex impio facit justum. Unde 
+      <lb ed="#P" n="119"/>ait Apostolus. Justificati gratis per gratiam ipsius, 
+      fa<lb ed="#P" n="120" break="no"/>cit ergo justitiam, id est, opus justitiae qui habet in se 
+      <lb ed="#P" n="121"/>justitiam, id est, opus gratiae. Sic ille. Eandem 
+      distin<lb ed="#P" n="122" break="no"/>ctionem innuit lib. 1. retract. cap. 9. &amp; lib. 2. de 
+      li<lb ed="#P" n="123" break="no"/>bero arbitrio cap. 18. &amp; 19. 
+    </p>
+            <p xml:id="bt67yj-p133120-d1e183">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Tertio; cessante omni actione etiam interna 
+      fa<lb ed="#P" n="125" break="no"/>tendum est in homine justo esse virtutem qua Deo 
+      <lb ed="#P" n="126"/>placeat, velut cum dormit, aut alias ab actione 
+      va<lb ed="#P" n="127" break="no"/>cat, aut etiam cum venialiter peccat. Est igitur in eo 
+      <lb ed="#P" n="128"/>habitus virtutis. 
+    </p>
+            <p xml:id="bt67yj-p133120-d1e199">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Quarto; homo fortis non semper fortiter 
+      opera<lb ed="#P" n="130" break="no"/>tur &amp; temperans non semper temperanter, &amp; ita 
+      <lb ed="#P" n="131"/>de aliis; quia non semper occurrunt talium operum 
+      <lb ed="#P" n="132"/>occasiones. Quare agnoscere in eo oportet 
+      fortitudi<lb ed="#P" n="133" break="no"/>nem habitualem, &amp; similiter temperantiam aliasque 
+      <lb ed="#P" n="134"/>virtutes. 
+    </p>
+            <p xml:id="bt67yj-p133120-d1e217">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Quinto: Quidam habent in se latentem sibique 
+      <lb ed="#P" n="136"/>incognitam martyrii virtutem, ut multi sancti 
+      Con<lb ed="#P" n="137" break="no"/>fessores, quidam castitatem virginalem ut sancti 
+      <lb ed="#P" n="138"/>Patriarchae, teste Augustino lib. 1. de bono conjugali 
+      <lb ed="#P" n="139"/>cap. 21. &amp; 23. &amp; lib. 1. de sancta virginitate cap. 44. 
+      <lb ed="#P" n="140"/>Idem de patientia Job antequam percuteretur, &amp; 
+      <lb ed="#P" n="141"/>de obedientia Abrahae antequam tentaretur vere 
+      <!--0577.xml-->
+      <pb ed="#P" n="344"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>lici potest. Erant ergo in illis talium virtutum 
+      ha<lb ed="#P" n="2" break="no"/>bitus. 
+    </p>
+            <p xml:id="bt67yj-p133120-d1e248">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Sextum argumentum sumitur a vitiis oppositis. 
+      <lb ed="#P" n="4"/>Testatur enim Augustinus contra Julianum lib. 6. 
+      <lb ed="#P" n="5"/>cap. 8. in homine pravam inesse concupiscentiam, 
+      <lb ed="#P" n="6"/>etiam tunc quando nulla tentatione commovetur, &amp; 
+      <lb ed="#P" n="7"/>praeter actum seu motum concupiscentiae inesse &amp; 
+      <lb ed="#P" n="8"/>vitium unde motus illi surgunt, quod vitium non est 
+      <lb ed="#P" n="9"/>aliud quam concupiscentia quodammodo 
+      habitua<lb ed="#P" n="10" break="no"/>lis. Et idem Augustinus lib. de perfectione justitiae 
+      <lb ed="#P" n="11"/>cap. 2. accepta similitudine a claudicatione &amp; vitio 
+      <lb ed="#P" n="12"/>pedis unde claudicatio provenit, declarat in animo 
+      <lb ed="#P" n="13"/>esse vitium velut avaritiam, a quo actus malus, 
+      ve<lb ed="#P" n="14" break="no"/>lut rapina, procedat. Et vitium definit qualitatem 
+      <lb ed="#P" n="15"/>secundum quam malus est animus etiam quando 
+      ni<lb ed="#P" n="16" break="no"/>hil agit. Quare haec omnia similiter de virtute 
+      ejus<lb ed="#P" n="17" break="no"/>que actu dici poterunt, licebitque definire virtutem 
+      <lb ed="#P" n="18"/>qualitatem secundum quam bonus est animus etiam 
+      <lb ed="#P" n="19"/>quando nihil agit.
+    </p>
+            <p xml:id="bt67yj-p133120-d1e290">
+               <lb ed="#P" n="20"/>Postremo huc referenda sunt quae de habitu 
+      chari<lb ed="#P" n="21" break="no"/>tatis disputata sunt libro 1. ad distinctionem 17. ubi 
+      <lb ed="#P" n="22"/>ostendimus praeter Spiritum sanctum esse in homine 
+      <lb ed="#P" n="23"/>non tantum actum seu motum animi, sed &amp; 
+      habi<lb ed="#P" n="24" break="no"/>tum charitatis creatum, a quo tanquam a principio 
+      <lb ed="#P" n="25"/>operatorio facultatem naturalem determinante actus 
+      <lb ed="#P" n="26"/>boni procedant. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

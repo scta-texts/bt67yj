@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="25"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p009731"><!-- l2d3c4" -->
+            <head xml:id="bt67yj-p009731-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p009731-Hd1e103" type="question-title">Utrum angeli ab initio mali fuerint</head>
+            <p xml:id="bt67yj-p009731-d1e106">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> §. 4. Utrum angeli ab initio mali fuerint?
+    </p>
+            <p xml:id="bt67yj-p009731-d1e113">
+               <lb ed="#P" n="130"/>DIversa a superiori quaestio est, utrum angeli 
+      <lb ed="#P" n="131"/>praevaricatores fuerint mali ab initio, id est, 
+      <lb ed="#P" n="132"/>ab instanti creationis, non quidem ut malitiam 
+      ve<lb ed="#P" n="133" break="no"/>lut naturam a Deo creante acceperint, sed ut 
+      pro<lb ed="#P" n="134" break="no"/>pria voluntate malos se fecerint. Communis autem 
+      <lb ed="#P" n="135"/>est tam veterum scriptorum, quam scholasticorum 
+      <lb ed="#P" n="136"/>sententia inter creationem &amp; primum peccatum 
+      an<lb ed="#P" n="137" break="no"/>gelorum, moram temporis aliquam intercessisse, 
+      <lb ed="#P" n="138"/>quod quidem tempore, boni, justi, &amp; gratiae donis in 
+      <lb ed="#P" n="139"/>creatione acceptis ornati essent, Deoque pura 
+      dile<lb ed="#P" n="140" break="no"/>ctione adhaererent, qua etiam vitam mererentur 
+      ae<lb ed="#P" n="141" break="no"/>ternam eandem accepturi, si in hac bonitate 
+      volun<lb ed="#P" n="142" break="no"/>tatis permansissent, aut saltem ita excreatione bon¬ 
+      <!--0259.xml-->
+      <pb ed="#P" n="26"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ut quamvis, licut quidam opinati sunt, in gratia 
+      crea<lb ed="#P" n="2" break="no"/>ti non essent, in culpam tamen non nisi post moram 
+      <lb ed="#P" n="3"/>aliquam a creatione inciderent. Quae doctrina 
+      scri<lb ed="#P" n="4" break="no"/>pturis sacris valde consonat. Ac primum hujus rei 
+      <lb ed="#P" n="5"/>argu mentum est quod diabolus cum suis angelis 
+      la<lb ed="#P" n="6" break="no"/>psus esse, &amp; cecidisse dicitur. Sicut enim lapsus 
+      cor<lb ed="#P" n="7" break="no"/>porum fingi non potest nisi e loco superiore; ita 
+      la<lb ed="#P" n="8" break="no"/>psus animorum non est nisi a quadam celsitudine 
+      bo<lb ed="#P" n="9" break="no"/>ni quod prius habuerint, sive in homine, sive in 
+      an<lb ed="#P" n="10" break="no"/>gelis, hunc lapsum intelligamus. Nam lapsum 
+      ange<lb ed="#P" n="11" break="no"/>lorum tantum ad locum corporeum referre, 
+      perab<lb ed="#P" n="12" break="no"/>surdum est; cum lapsum hominis cui tamen potius 
+      <lb ed="#P" n="13"/>quam angelo locus corporeus competit, non ad loci 
+      <lb ed="#P" n="14"/>mutationem, sed animi referamus. Quod ergo de 
+      <lb ed="#P" n="15"/>caelo cecidisse diabolus in scriptura dicitur, non 
+      tam<lb ed="#P" n="16" break="no"/>ad localem motum referendum est, quam ad 
+      muta<lb ed="#P" n="17" break="no"/>tionem ejus ex justitia in peccatum, unde 
+      conse<lb ed="#P" n="18" break="no"/>quenter &amp; loci mutatio ut peccati poena subsecuta 
+      <lb ed="#P" n="19"/>est. Hoc Chrysostomi argumentum est hom. 10. de 
+      <lb ed="#P" n="20"/>poenit. dum ex eo quod dicit Dominus Luc. 10. 
+      Vide<lb ed="#P" n="21" break="no"/>bam Satanam sicut fulgur de calo cadentem, colligit 
+      <lb ed="#P" n="22"/>diabolum, priusquam caderet, bonum fuisse. 
+    </p>
+            <p xml:id="bt67yj-p009731-d1e198">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Idem &amp; aliis scripturae testimoniis ostenditur. Nam 
+      <lb ed="#P" n="24"/>Isa. 14. sub typo regis Babylonis, diabolo dicitur: 
+      <lb ed="#P" n="25"/>Quomodo cecidisti de caelo Lucifer, qui mane oriebaris? 
+      <lb ed="#P" n="26"/>Et Ezech. 28. sub typo regis Tyri. Tu signaculum 
+      si<lb ed="#P" n="27" break="no"/>militudinis plenus sapientia, &amp; perfectus decore, in 
+      <lb ed="#P" n="28"/>deliciis paradisi Dei fuisti, &amp;c. Et paucis interpositis: 
+      <lb ed="#P" n="29"/>In medio lapidum ignitorum ambulasti, perfectus in 
+      <lb ed="#P" n="30"/>viis tuis a die conditionis tuae; donec inventa est 
+      iniqui<lb ed="#P" n="31" break="no"/>tas in te. Haec enim typice de diabolo dicta esse. 
+      <lb ed="#P" n="32"/>Hieron. aliique commentatores interpretantur. 
+      Prae<lb ed="#P" n="33" break="no"/>terea Joan. 8. dicit Dominus diabosum in veritate 
+      <lb ed="#P" n="34"/>non stetisse, id est, non perseverasse, hoc enim est 
+      <lb ed="#P" n="35"/>stare in sacris literis Gal. 5. 1. Cor. 16. 2. Thess. 2. 4. 
+      <lb ed="#P" n="36"/>Reg. 6. &amp; alibi; significat ergo fuisse eum aliquando 
+      <lb ed="#P" n="37"/>in veritate. Sic Judas apostolus de malis angelis in 
+      <lb ed="#P" n="38"/>epistola dicit, quod non servaverunt suum 
+      principa<lb ed="#P" n="39" break="no"/>tum, sed dereliquerunt suum domicilium. 
+      Principa<lb ed="#P" n="40" break="no"/>tum autem &amp; domicilium tenebant per justitiam. 
+      <lb ed="#P" n="41"/>Ubi nota posse e Graeco verti, qui non servaverunt 
+      <lb ed="#P" n="42"/>suam originem, id est, rectitudinem in qua conditi 
+      <lb ed="#P" n="43"/>erant, quasi dicat, justitiam originalem. 
+    </p>
+            <p xml:id="bt67yj-p009731-d1e249">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Porro loca Patrum in hanc sententiam plurima 
+      <lb ed="#P" n="45"/>sunt, ex quibus haec praecipua. Dion lib. de divin. 
+      <lb ed="#P" n="46"/>nominibus cap. 4. Origenes lib. 6. cont. Celsum 
+      al<lb ed="#P" n="47" break="no"/>legans scripturam Ezech. 28. Basilius hom. 9. de eo 
+      <lb ed="#P" n="48"/>quod Deus non est author malorum, &amp; hom. 21. in 
+      <lb ed="#P" n="49"/>aliquot scripturae loca, Greg. Naz. oratione in 
+      na<lb ed="#P" n="50" break="no"/>talem Domini. Amb. in Luc. 4. Epiph. in haeresi 
+      Ma<lb ed="#P" n="51" break="no"/>nichaeorum, &amp; rursum verbis Methodii in haeresi 
+      <lb ed="#P" n="52"/>Origenistarum. Prudentius in hamart. Hier. praeter 
+      <lb ed="#P" n="53"/>loca supra citata in epist. ad Pammachium qua 
+      refel<lb ed="#P" n="54" break="no"/>lit errores Joannis Hierosol. Chrys. quoque praeter 
+      <lb ed="#P" n="55"/>locum superius indicatum hom. 3. de patientia Job. 
+      <lb ed="#P" n="56"/>&amp; hom. 16. in Gen. &amp; hom. 13. in 2. Cor. Aug. lib. 
+      <lb ed="#P" n="57"/>II. de civit. cap. 11. 13. &amp; 15. &amp; lib. 12. cap. 9. Item 
+      <lb ed="#P" n="58"/>lib. de corr. &amp; gra. cap. 10. &amp; 11. &amp; de dono persev. 
+      <lb ed="#P" n="59"/>cap. 7. Cyrillus lib. 4. con. Julian. Fulg. de fide ad 
+      Pe<lb ed="#P" n="60" break="no"/>trum c. 3. &amp; lib. 2. ad Thrasimundum cap. 2. Greg. 
+      <lb ed="#P" n="61"/>Rom. lib. 34. mor. cap. 17. Damasc. lib. 2. de fide 
+      <lb ed="#P" n="62"/>orth. c. 3. &amp; 4. Anselmus lib. de casu diaboli. Quos 
+      <lb ed="#P" n="63"/>concorditer secuti sunt Hugo, Mag. sententiarum, 
+      <lb ed="#P" n="64"/>&amp; omnes Theologi posteriores. Atque hanc 
+      senten<lb ed="#P" n="65" break="no"/>tiam adeo confirmat <ref xml:id="bt67yj-p009731-Rd1e301">Bracarense conc. 1. can. 7.</ref> ut 
+      <lb ed="#P" n="66"/>anathemate damnet eum qui dixerit diabolum non 
+      <lb ed="#P" n="67"/>prius fuisse angelum bonum. Huc etiam adducunt 
+      <lb ed="#P" n="68"/>definitionem concilii Lateran. sub Innoc. 3. cap. 1. 
+      <lb ed="#P" n="69"/>Qua dicitur diabolum &amp; daemones alios a Deo 
+      qui<lb ed="#P" n="70" break="no"/>dem natura creatos esse bonos, sed ipsos per se factos 
+      <lb ed="#P" n="71"/>esse malos. Quae tamen verba quia temporis aliquam 
+      <lb ed="#P" n="72"/>prioritatem non exprimunt, rem propositam non 
+      vi<lb ed="#P" n="73" break="no"/>dentur convincere. 
+    </p>
+            <p xml:id="bt67yj-p009731-d1e321">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Merito autem S. Thomas 1. q. 63. art. 5. &amp; q. 16. 
+      <!--0259.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>de malo art. 4. necnon Bonav. sup. hanc dist. q. 2. 
+      <lb ed="#P" n="76"/>sententiam oppositam ut erroneam rejecerunt, 
+      acce<lb ed="#P" n="77" break="no"/>dente etiam apud Parisienses Magistros ejusdem 
+      ar<lb ed="#P" n="78" break="no"/>ticuli condemnatione, ante annos 350. facta, cujus 
+      <lb ed="#P" n="79"/>&amp; Bonaventura meminit. 
+    </p>
+            <p xml:id="bt67yj-p009731-d1e343">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Caeterum eo constituto quod inter creationem &amp; 
+      <lb ed="#P" n="81"/>lapsum diaboli tempus aliquod intercesserit; 
+      incer<lb ed="#P" n="82" break="no"/>tum nihilominus manet quantum illud tempus 
+      fue<lb ed="#P" n="83" break="no"/>rit, &amp; quoto die a genesi peccaverit. Neque ex eo 
+      <lb ed="#P" n="84"/>quod de sexto die dictum est: Vidit Deus cuncta quae 
+      <lb ed="#P" n="85"/>fecerat &amp; erant valde bona, consequens est usque ad 
+      <lb ed="#P" n="86"/>illud tempus angelum non peccasse. Quia &amp; 5. die 
+      <lb ed="#P" n="87"/>vere dixeris omnia quae Deus fecit esse valde bona, 
+      <lb ed="#P" n="88"/>idemque semper vere dicetur, Angeli enim &amp; 
+      homi<lb ed="#P" n="89" break="no"/>nes etiam mali, quatenus a Deo facti, boni sunt. Et 
+      <lb ed="#P" n="90"/>quidem angelum peccasse ante creationem hominis 
+      <lb ed="#P" n="91"/>secundum scripturas contendit Chrysostomus hom. 
+      <lb ed="#P" n="92"/>22. in Gen. Imo Patres communiter ita sentiunt, eo 
+      <lb ed="#P" n="93"/>ipso quo docent ad instaurandam angelicam ruinam, 
+      <lb ed="#P" n="94"/>hominem conditum esse, de qua re agemus infra ad 
+      <lb ed="#P" n="95"/>dist. 9. Credibile est autem diabolum modico 
+      admo<lb ed="#P" n="96" break="no"/>dum tempore mansisse in justitia, &amp; vel statim post 
+      <lb ed="#P" n="97"/>instans suae creationis ut quidam volunt; vel ut alii, 
+      <lb ed="#P" n="98"/>paulo post quam creatus est, nempe primo die, per 
+      <lb ed="#P" n="99"/>superbiam cecidisse, quando &amp; boni angeli in justitia 
+      <lb ed="#P" n="100"/>fuerunt confirmati, scilicet illis ab eo bono se 
+      aver<lb ed="#P" n="101" break="no"/>tentibus, ad quod isti perseveranter sese 
+      converte<lb ed="#P" n="102" break="no"/>bant. Haec enim scholasticorum sententia est 
+      confor<lb ed="#P" n="103" break="no"/>mis mentiecclesiae quae in martyrologiis quibusdam 
+      <lb ed="#P" n="104"/>ad eundem diem videlicet 8. in cal. Ap. annotat 
+      ge<lb ed="#P" n="105" break="no"/>nesim mundi &amp; victoriam Michaelis archangeli 
+      con<lb ed="#P" n="106" break="no"/>tra draconem. Quare improbabile est quod quidam 
+      <lb ed="#P" n="107"/>opinati sunt, non prius quam homo factus esset, 
+      dia<lb ed="#P" n="108" break="no"/>bolum peccasse, motum scilicet invidia adversus eum 
+      <lb ed="#P" n="109"/>quem tanto in honore conditum videbat, quasi 
+      pri<lb ed="#P" n="110" break="no"/>mum ejus peccatum invidia fuerit, non superbia. 
+      <lb ed="#P" n="111"/>Qua de re infra ad 6. dist. Repetitur ea opinio apud 
+      <lb ed="#P" n="112"/>Cyprianum serm. de zelo &amp; livore, sed refellitur ab 
+      <lb ed="#P" n="113"/>Augustino lib. I1. de Gen. ad lit. cap. 14. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="218"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p084466"><!-- l2d23c4" -->
+            <head xml:id="bt67yj-p084466-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p084466-Hd1e103" type="question-title">Quaedam objectiones solvuntur</head>
+            <p xml:id="bt67yj-p084466-d1e106">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> §. 4. Quaedam objectiones solvuntur.
+    </p>
+            <p xml:id="bt67yj-p084466-d1e113">
+               <lb ed="#P" n="56"/>ADversus superiorem doctrinam, quatenus in 
+      <lb ed="#P" n="57"/>universum tradit, primum hominem cum 
+      <lb ed="#P" n="58"/>magnae scientiae perfectione conditum esse a Deo, 
+      <lb ed="#P" n="59"/>quaedam sunt objectiones breviter a nobis 
+      dissol<lb ed="#P" n="60" break="no"/>vendae. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e126">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Prima: Genes. 3. serpens homini promittit 
+      scien<lb ed="#P" n="62" break="no"/>tiam boni &amp; mali; quae stulta &amp; ridicula esset 
+      pro<lb ed="#P" n="63" break="no"/>missio, nec ullo modo ad fallendum idonea, si homo 
+      <lb ed="#P" n="64"/>omnium rerum scientiam jam ab initio habebat. 
+      <lb ed="#P" n="65"/>Nam licet hoc mulieri fuerit dictum, ea tamen 
+      in<lb ed="#P" n="66" break="no"/>tentione &amp; consilio dictum est, ut per eam ad virum 
+      <lb ed="#P" n="67"/>promissio perveniret. Unde &amp; ipsi Adam postea fuit 
+      <lb ed="#P" n="68"/>improperatum: Ecce Adam quasi unus ex nobis, sciens 
+      <lb ed="#P" n="69"/>bonum &amp; malum. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e151">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Secunda: Eod mcap. dicitur de Adam &amp; Eva. Et 
+      <lb ed="#P" n="71"/>aperti sunt oculi amborum, &amp; cognoverunt se esse nudos.
+    </p>
+            <p xml:id="bt67yj-p084466-d1e160">
+      <!--0451.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Tertia: Chrysostomus in hom. de Adam &amp; Eva, 
+      <lb ed="#P" n="73"/>quae habetur tomo 1. operum ejus, primo homini 
+      as<lb ed="#P" n="74" break="no"/>cribit ruditatem: Tanta, inquit, fulgebat in 
+      rudita<lb ed="#P" n="75" break="no"/>te primi hominis gratia, &amp;c. Et infra, quaerit an Deus 
+      <lb ed="#P" n="76"/>ignoraverit cadere potuisse per mandatum rudem 
+      <lb ed="#P" n="77"/>hominem. At ruditas eruditioni &amp; perfectae omnium 
+      <lb ed="#P" n="78"/>rerum scientiae valde contraria est. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e182">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Quarta: Quid opus erat, inquiunt, ut primus 
+      ho<lb ed="#P" n="80" break="no"/>mo sciret omnes conclusiones Geometriae, 
+      Arithme<lb ed="#P" n="81" break="no"/>ticae, Musicae, caeterarumque artium? 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e193">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Quinta: Filii ac nepotes Adae multas scientias &amp; 
+      <lb ed="#P" n="83"/>artes adinvenerunt: ergo. Adam non omnes scientias 
+      <lb ed="#P" n="84"/>&amp; artes tenuit; alioqui enim ipse eas filiis suis 
+      tradi<lb ed="#P" n="85" break="no"/>disset, utpote ejus rei gratia in creatione acceptas, 
+      <lb ed="#P" n="86"/>ut in superioribus dictum est. Antecedens patet tum 
+      <lb ed="#P" n="87"/>ex Gen. 4. ubi quaedam artes, ut fabrilis &amp; musica &amp; 
+      <lb ed="#P" n="88"/>pastoralis &amp; scenofactoria certis inventoribus 
+      ascri<lb ed="#P" n="89" break="no"/>puntur, &amp; Gen. 9. ubi Noe plantandae vitis &amp; vini 
+      <lb ed="#P" n="90"/>exprimendi aut hor est; tum ex historiis omnium 
+      tem<lb ed="#P" n="91" break="no"/>porum. De qua re videre est Polydorum Virgilium 
+      <lb ed="#P" n="92"/>in libro de inventoribus rerum. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e222">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Sexta: Augustinus lib. 3. de libero arbitrio cap. 
+      <lb ed="#P" n="94"/>24. dicit primum hominem nec sapientem, nec 
+      stul<lb ed="#P" n="95" break="no"/>tum creatum fuisse. Quod multum abest ab eo, &amp;t 
+      <lb ed="#P" n="96"/>dicatur creatus sapientissimus. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e235">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Postrema: De Salomone scribitur 3. Reg. 4. quod 
+      <lb ed="#P" n="98"/>erat sapientior cunctis hominibus. Quod &amp; 
+      con<lb ed="#P" n="99" break="no"/>firmant verba promissionis divinae cap. 3. 
+      praeceden<lb ed="#P" n="100" break="no"/>tis: Ecce dedi tibi cor sapiens &amp; intelligens, in tantum 
+      <lb ed="#P" n="101"/>ut nullus ante te similis tui fuerit, nec post te surrecturus 
+      <lb ed="#P" n="102"/>sit. Certe Sap. 7. tanta rerum naturalium atque 
+      hu<lb ed="#P" n="103" break="no"/>manarum scientia Salomoni tribuitur, ut ei nihil 
+      su<lb ed="#P" n="104" break="no"/>peraddi posse videatur. Nam post enumerationem 
+      <lb ed="#P" n="105"/>variarum rerum, quarum scientiam dicitur 
+      habuis<lb ed="#P" n="106" break="no"/>se, subnectitur haec universalis clausula: Et 
+      quaecun<lb ed="#P" n="107" break="no"/>que sunt absconsa &amp; improvisa didici; subjuncta etiam 
+      <lb ed="#P" n="108"/>hac ratione: Omnium enim artifex docuit me 
+      sapien<lb ed="#P" n="109" break="no"/>tia, quasi dicat non mirum quod habeam scientiam 
+      <lb ed="#P" n="110"/>omnium; quia omnium artifex sapientia me docuit. 
+      <lb ed="#P" n="111"/>Igitur apparet hanc summae sapientiae laudem falso 
+      <lb ed="#P" n="112"/>transferri in Adamum. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e275">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Ad haec objecta sigillatim respondemus. Ad 
+      pri<lb ed="#P" n="114" break="no"/>mum, boni &amp; mali scientiam quam serpens homini 
+      <lb ed="#P" n="115"/>promisit, non humanam intelligi, id est, eam quae 
+      <lb ed="#P" n="116"/>humano studio &amp; ingenio possit acquiri, sed humana 
+      <lb ed="#P" n="117"/>longe excellentiorem, hoc est, divinam. Quod patet 
+      <lb ed="#P" n="118"/>ex ipsis verbis: Eritis, inquit, sicut Dii scientes 
+      bo<lb ed="#P" n="119" break="no"/>num &amp; malum. Hominem autem ad hujusmodi 
+      scien<lb ed="#P" n="120" break="no"/>tiam aspirasse prius tamen superbia corruptum, 
+      <lb ed="#P" n="121"/>ostendunt illa verba Dei irrisoria: Ecce Adam quasi 
+      <lb ed="#P" n="122"/>unus ex nobis factus est, sciens bonum &amp; malum. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e301">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Quod secundo loco objicitur, non de nova 
+      alicu<lb ed="#P" n="124" break="no"/>jus rei scientia dictum est, sed de mali cujusdam 
+      ex<lb ed="#P" n="125" break="no"/>perientia, deque erubescentia mox inde consecuta. 
+      <lb ed="#P" n="126"/>Opponitur enim hoc ei quod prius dictum fuerat. 
+      <lb ed="#P" n="127"/>Erant ambo nudi, &amp; non erubescebant. Quare sensus 
+      <lb ed="#P" n="128"/>est: Tunc primum, scilicet perpetrato peccato, eos 
+      <lb ed="#P" n="129"/>percepisse nuditatem corporis sibi turpem &amp; 
+      pu<lb ed="#P" n="130" break="no"/>dendam esse propter inordinatos &amp; obscaenos in 
+      car<lb ed="#P" n="131" break="no"/>ne insurgentes motus libidinis, &amp; ob eam causam 
+      <lb ed="#P" n="132"/>erubuisse. Quem sensum pluribus prosequitur 
+      Au<lb ed="#P" n="133" break="no"/>gustinus lib. 14. de civit. cap. 17. &amp; lib. II. de Gen. ad 
+      <lb ed="#P" n="134"/>literam cap. 31. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e332">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Ad tertiam objectionem primum respondeo, eam 
+      <lb ed="#P" n="136"/>homiliam falso ascribi Chrysostomo; cum latine 
+      <lb ed="#P" n="137"/>scriptam esse constet, &amp; quidem post Chrysostomi 
+      <lb ed="#P" n="138"/>aetatem. Deinde quicunque est author, non voluit 
+      si<lb ed="#P" n="139" break="no"/>gnificare hominem fuisse rudem, id est, rerum quae 
+      <lb ed="#P" n="140"/>in mundo sunt ignarum; sed ruditatem dixit vel 
+      sim<lb ed="#P" n="141" break="no"/>plicitatem doli expertem, id est, innocentiam, ut 
+      <lb ed="#P" n="142"/>quidam exponunt, vel potius novitatem, ipsumque 
+      <lb ed="#P" n="143"/>hominem rudem, id est, novum seu recenter 
+      crea<lb ed="#P" n="144" break="no"/>tum. Hic enim sensus patet ex contextu¬ 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e358">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Ad quartum generalis est responsio. Quamvis 
+      <!--0452.xml-->
+      <pb ed="#P" n="219"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>enim scientiae Mathematicae &amp; caeterae speculativae 
+      <lb ed="#P" n="2"/>per se non conducant ad vitam instituendam &amp; 
+      mo<lb ed="#P" n="3" break="no"/>res componendos; perficiunt tamen intellectum, 
+      sunt<lb ed="#P" n="4" break="no"/>que artes liberali homine dignae, &amp; ad pleniorem 
+      <lb ed="#P" n="5"/>Dei notitiam praestant adminiculum. Quamobrem 
+      <lb ed="#P" n="6"/>nec superfluae erant, nec indignae quibus Adam 
+      ge<lb ed="#P" n="7" break="no"/>nus humanum instrueret. Posset autem eadem 
+      ob<lb ed="#P" n="8" break="no"/>jectio moveri de angelis, quibus tamen omnes 
+      re<lb ed="#P" n="9" break="no"/>rum scientias congenitas fuisse non dubitatur. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e391">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Ad quintam objectionem primum respondetur 
+      <lb ed="#P" n="11"/>Adamo inditam fuisse rerum omnium scientiam, ut 
+      <lb ed="#P" n="12"/>ipse permanens in justitia filiis justis ex se genitis 
+      <lb ed="#P" n="13"/>eam, velut quidam humani generis magister, 
+      do<lb ed="#P" n="14" break="no"/>cendo communicaret. Sed quia peccato corruptus 
+      <lb ed="#P" n="15"/>corrupit genus suum, non fuit a Deo permissus eam 
+      <lb ed="#P" n="16"/>universam posteritati suae communicare, idque in 
+      <lb ed="#P" n="17"/>poenam peccati, ut sicut peccatoribus conveniebat, 
+      <lb ed="#P" n="18"/>non facile nec statim, sed paulatim &amp; cum 
+      difficul<lb ed="#P" n="19" break="no"/>tate, labore &amp; molestia tam scientiae quam artes 
+      mul<lb ed="#P" n="20" break="no"/>tiplices ab hominibus invenirentur, atque inventae 
+      <lb ed="#P" n="21"/>excolerentur. Deinde non est improbabile quod 
+      <lb ed="#P" n="22"/>quidam sentiunt, primam illam Adami scientiam 
+      <lb ed="#P" n="23"/>magna ex parte peccato imminutam, obscuratam 
+      at<lb ed="#P" n="24" break="no"/>que obliteratam fuisse. Qua de re infra dicemus. His 
+      <lb ed="#P" n="25"/>accedit, quod aliud est nosse totam rerum naturam, 
+      <lb ed="#P" n="26"/>aliud nosse artes omnes seu liberales seu 
+      mechani<lb ed="#P" n="27" break="no"/>cas, quaecunque inveniri possunt, etiam mere 
+      servi<lb ed="#P" n="28" break="no"/>les &amp; quae subserviturae essent miseriae &amp; 
+      imbecilli<lb ed="#P" n="29" break="no"/>tati humanae conditionis, ad quam utique Adam 
+      <lb ed="#P" n="30"/>generis nostri princeps non erat creatus. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e441">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Quod sexto loco ex Augustino adfertur, ipse 
+      Au<lb ed="#P" n="32" break="no"/>gustinus retractando dissolvit lib. 1. retractationum 
+      <lb ed="#P" n="33"/>ca. 14. ubi retractat librum de utilitate credendi, &amp; 
+      <lb ed="#P" n="34"/>dicit quod tunc nondum apparebat, quomodo 
+      sa<lb ed="#P" n="35" break="no"/>pientem diceremus, qui potuit seduci. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e458">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Sed de eo plura ad dist. 25. ubi disputatur, an 
+      <lb ed="#P" n="37"/>fuerit homo creatus in gratia. 
+    </p>
+            <p xml:id="bt67yj-p084466-d1e467">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Ad postremam objectionem ita respondent 
+      ali<lb ed="#P" n="39" break="no"/>qui, ut exceptionem agnoscant in uno Salomone, 
+      <lb ed="#P" n="40"/>quem inter puros homines putant sine exceptione 
+      <lb ed="#P" n="41"/>omnium mortalium fuisse sapientissimum, idque 
+      <lb ed="#P" n="42"/>propter scripturam allegatam quae id affirmare 
+      vi<lb ed="#P" n="43" break="no"/>detur; sed post eum primas sapientiae partes Adamo 
+      <lb ed="#P" n="44"/>tribuunt. Verum non est necesse ut id dicatur, 
+      ne<lb ed="#P" n="45" break="no"/>que id scriptura convincit. Non enim loquitur de 
+      <lb ed="#P" n="46"/>sapientia quae est scientia speculativa rerum 
+      natu<lb ed="#P" n="47" break="no"/>ralium ac divinarum, sed de scientia politica, quae 
+      <lb ed="#P" n="48"/>est prudentia bene gubernandi regna, civitates ac 
+      <lb ed="#P" n="49"/>populos. Hanc enim sapientiam Salomon a Deo 
+      <lb ed="#P" n="50"/>petiverat, 3. Reg. 3. 2. Paralip. 1. &amp; Sap. 9. 
+      Quan<lb ed="#P" n="51" break="no"/>quam non est negandum quin sicut Deus ex 
+      abun<lb ed="#P" n="52" break="no"/>danti &amp; supra quam ille petiverat, adjecit ei 
+      divi<lb ed="#P" n="53" break="no"/>tias &amp; gloriam, ita &amp; auxerit eum multiplici 
+      scien<lb ed="#P" n="54" break="no"/>tia rerum naturalium speculativa. Id enim aperte 
+      <lb ed="#P" n="55"/>traditur 3. Reg. 4. &amp; Sap. 7. Sed non est 
+      verisimi<lb ed="#P" n="56" break="no"/>le quod in hoc genere scientiae, quod tantum 
+      ve<lb ed="#P" n="57" break="no"/>lut pro auctario ei adjectum fuit, excelluerit 
+      pri<lb ed="#P" n="58" break="no"/>mum humani generis parentem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

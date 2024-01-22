@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="96"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p037043"><!-- l2d8c11" -->
+            <head xml:id="bt67yj-p037043-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p037043-Hd1e103" type="question-title">Quomodo daemones obsideant homines 
+      corporaliter</head>
+            <p xml:id="bt67yj-p037043-d1e106">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> §. 11. Quomodo daemones obsideant homines 
+      <lb ed="#P" n="82"/>corporaliter?
+    </p>
+            <p xml:id="bt67yj-p037043-d1e115">
+               <lb ed="#P" n="83"/>CUm daemones sint incorporei, nihil est quod 
+      <lb ed="#P" n="84"/>Deos impediat, modo divinitus permittantur, 
+      <lb ed="#P" n="85"/>quo minus ingrediantur in hominum corpora. 
+      Ha<lb ed="#P" n="86" break="no"/>bent enim omnes angeli tam boni, quam mali ex 
+      <lb ed="#P" n="87"/>natura sua virtutem transmutandi corpora 
+      huma<lb ed="#P" n="88" break="no"/>na, sicut &amp; alia corpora naturalia, quemadmodum 
+      <lb ed="#P" n="89"/>alibi dictum est. Quoniam autem Joanne 
+      Damas<lb ed="#P" n="90" break="no"/>ceno teste, ubi operantur, ibi sunt, hinc est quod 
+      <lb ed="#P" n="91"/>dicuntur illabi corporibus, sive intrare corpora, 
+      <lb ed="#P" n="92"/>atque in iis esse, quando in iis operantur, scilicet 
+      <lb ed="#P" n="93"/>ea quoque transmutando. Tunc enim ratione 
+      ope<lb ed="#P" n="94" break="no"/>rationis ipsi vel angeli vel daemones substantialiter, 
+      <lb ed="#P" n="95"/>id est, secundum substantiam suam in corporibus 
+      <lb ed="#P" n="96"/>esse vere dicuntur, quamvis non ita secundum 
+      sub<lb ed="#P" n="97" break="no"/>stantiam, ut sint de substantia hominis, ac per 
+      mo<lb ed="#P" n="98" break="no"/>dum formae substantialis aut interni principii 
+      mo<lb ed="#P" n="99" break="no"/>veant corpus sicut anima movet; sed instar motoris 
+      <lb ed="#P" n="100"/>externi, quomodo intelligentia caelum &amp; 
+      guberna<lb ed="#P" n="101" break="no"/>tor movet navim. 
+    </p>
+            <p xml:id="bt67yj-p037043-d1e159">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Et primum quidem possunt daemones in humanis 
+      <lb ed="#P" n="103"/>corporibus mutationes facere mere corporales, 
+      ve<lb ed="#P" n="104" break="no"/>lut e loco in locum transferre, morbos immittere, 
+      <lb ed="#P" n="105"/>hominem mutum, surdum, vel coecum efficere, in 
+      <lb ed="#P" n="106"/>ignem vel aquam projicere, corpus ejus incurvum 
+      <lb ed="#P" n="107"/>reddere, ut sursum aspicere nequeat, &amp; similia. 
+      <lb ed="#P" n="108"/>Quorum exempla habemus in evangelio¬ 
+    </p>
+            <p xml:id="bt67yj-p037043-d1e180">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Deinde mediante eadem virtute motiva possunt 
+      <lb ed="#P" n="110"/>varie operari circa sensus hominum exteriores, 
+      eos<lb ed="#P" n="111" break="no"/>que immutare; vel intrinsecus in organa 
+      impedi<lb ed="#P" n="112" break="no"/>mentum immittentes; vel forinsecus objiciendo 
+      <lb ed="#P" n="113"/>species alienas; vel alio quocunque modo iis 
+      illu<lb ed="#P" n="114" break="no"/>dendo, ita ut homines etiam praesentia non 
+      perci<lb ed="#P" n="115" break="no"/>piant, &amp; ea quae non sunt, videre sibi videantur. 
+      <lb ed="#P" n="116"/>Quo pertinet hominum in bestias transformatio, 
+      <lb ed="#P" n="117"/>secundum externam dumtaxat &amp; apparentem 
+      spe<lb ed="#P" n="118" break="no"/>ciem. Cujus exempla quaedam refert S. August. lib. 
+      <lb ed="#P" n="119"/>18. de civit. Dei, cap. 18. Haec autem omnia &amp; his 
+      <lb ed="#P" n="120"/>similia, sunt obsessionis diabolicae genera quaedam, 
+      <lb ed="#P" n="121"/>sed imperfecta tantum &amp; sccundaria. Unde nec 
+      so<lb ed="#P" n="122" break="no"/>lent qui talia patiuntur, simpliciter obsessi vocari, sed 
+      <lb ed="#P" n="123"/>a diabolo vexari. Atque his modis possunt daemones 
+      <lb ed="#P" n="124"/>etiam bestias obsidere, Deo permittente. Cujus rei 
+      <lb ed="#P" n="125"/>exemplum de porcis habemus in evangelio, &amp; de 
+      <lb ed="#P" n="126"/>serpente in Gen. Perfectum vero ac praecipuum 
+      ob<lb ed="#P" n="127" break="no"/>sessionis diabolicae genus est, quando daemon ita 
+      <lb ed="#P" n="128"/>commovet &amp; perturbat hominis imaginationem, ut 
+      <lb ed="#P" n="129"/>mentis usus impediatur. Id autem facit vel varie 
+      <lb ed="#P" n="130"/>concitando humores in corpore, unde naturaliter 
+      <lb ed="#P" n="131"/>sequitur interiorum sensuum perturbatio, ut fit 
+      <lb ed="#P" n="132"/>etiam in iis qui absque daemonis vexatione 
+      phrene<lb ed="#P" n="133" break="no"/>tide laborant. Vel magis immediate circa 
+      interio<lb ed="#P" n="134" break="no"/>res sensus operando, dum species aut inexistentes 
+      <lb ed="#P" n="135"/>permiscet atque confundit, aut peregrinas objicit. 
+      <lb ed="#P" n="136"/>Ubi notandum quoniam phrenetici daemoniacis in 
+      <lb ed="#P" n="137"/>multis similes sunt, ita ut hac in re saepe contingat 
+      <lb ed="#P" n="138"/>error, dum vel daemoniaci judicantur, qui tantum 
+      <lb ed="#P" n="139"/>phrenetici sunt; vel contra, eos qui vere obsessi sunt 
+      <lb ed="#P" n="140"/>a daemone, hujusmodi signo cognoscendos esse, si 
+      fa<lb ed="#P" n="141" break="no"/>ciant aut dicant aliqua, quae ab homine fieri nequeant 
+      <lb ed="#P" n="142"/>absque operatione substantiae separatae, 
+      cujusmo<lb ed="#P" n="143" break="no"/>di sunt arcana dicta aut facta aliorum nec visa nec 
+      <lb ed="#P" n="144"/>audita prodere, dicere quid in remotis locis 
+      gera<lb ed="#P" n="145" break="no"/>tur, lingua quam nunquam didicerint loqui, literas 
+      <!--0330.xml-->
+      <pb ed="#P" n="97"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quas non didicerint legere aut scribere &amp; alia his 
+      si<lb ed="#P" n="2" break="no"/>milia. Quorum nihil facere possunt nec qui tantum 
+      <lb ed="#P" n="3"/>phrenetici sunt, nec qui simulate tantum daemoniaci. 
+    </p>
+            <p xml:id="bt67yj-p037043-d1e278">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Porro qui juxta perfectum hunc modum a diabolo 
+      <lb ed="#P" n="5"/>vexantur peculiariter obsessi &amp; possessi a diabolo &amp; 
+      <lb ed="#P" n="6"/>daemoniaci dici solent. Neque hoc loco inter 
+      obses<lb ed="#P" n="7" break="no"/>sos &amp; possessos distinguimus, quod quidam faciunt; 
+      <lb ed="#P" n="8"/>quasi plus aliquid sit possessum esse a daemone quam 
+      <lb ed="#P" n="9"/>obsessum. Nam scriptura quidem neutrum habet 
+      vo<lb ed="#P" n="10" break="no"/>cabulum. Patres autem utrolibet indifferenter 
+      utun<lb ed="#P" n="11" break="no"/>tur. Iidem vocantur etiam Graeco vocabulo 
+      energu<lb ed="#P" n="12" break="no"/>meni, quasi inoperati, id est, ab inoperante spiritu 
+      <lb ed="#P" n="13"/>acti. De hoc igitur genere evangelium subinde 
+      testa<lb ed="#P" n="14" break="no"/>tur non tantum quod daemonibus vexati, verum 
+      e<lb ed="#P" n="15" break="no"/>tiam quod in eos ingressi sint daemones, scilicet pro¬ p 
+      <lb ed="#P" n="16"/>pter efficaciorem &amp; pleniorem in ipsis operandi 
+      pote<lb ed="#P" n="17" break="no"/>statem. Qua etiam rationis usum in illis 
+      interver<lb ed="#P" n="18" break="no"/>tunt, adeo ut nesciant quid agant aut loquantur, 
+      <lb ed="#P" n="19"/>quando daemon in eis agit aut loquitur, sicut nec 
+      <lb ed="#P" n="20"/>serpens in quo diabolus tentavit Evam, nec asina 
+      <lb ed="#P" n="21"/>qua angelus locutus est ad Balaam, uti scribit S 
+      <lb ed="#P" n="22"/>Thomas secunda secundae quaest. 165. art. 2. 
+    </p>
+            <p xml:id="bt67yj-p037043-d1e324">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Illud denique notandum, daemoniacos etsi 
+      inter<lb ed="#P" n="24" break="no"/>valla quaedam habeant quibus cesset in iis actualis 
+      <lb ed="#P" n="25"/>operatio diabolica, tandiu tamen a daemone 
+      obses<lb ed="#P" n="26" break="no"/>sos dici, donec potestas operandi in iis daemoni 
+      fue<lb ed="#P" n="27" break="no"/>rit adempta, quod fit per daemonis ejectionem, quae 
+      <lb ed="#P" n="28"/>non aliud est quam potestatis quam in obsessum 
+      <lb ed="#P" n="29"/>habebat, ablatio. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="17"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p006438"><!-- l2d2c4" -->
+            <head xml:id="bt67yj-p006438-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p006438-Hd1e103" type="question-title">An fidei sit angelos simul cum mundo corporeo 
+      creatos esse</head>
+            <p xml:id="bt67yj-p006438-d1e106">
+               <lb ed="#P" n="93"/>§. 4. An fidei sit angelos simul cum mundo corporeo 
+      <lb ed="#P" n="94"/>creatos esse.
+    </p>
+            <p xml:id="bt67yj-p006438-d1e113">
+               <lb ed="#P" n="95"/>DUbium ex dictis oritur, an quod verum esse 
+      <lb ed="#P" n="96"/>Dostendimus, angelos simul cum mundo 
+      corpo<lb ed="#P" n="97" break="no"/>reo esse creatos, etiam fide tenendum sit. Et quidem 
+      <lb ed="#P" n="98"/>id omnino apparet ex decreto Lateran. quo 
+      verita<lb ed="#P" n="99" break="no"/>tem hanc astrui diximus. Nam decreti hoc initium 
+      <lb ed="#P" n="100"/>est: Firmiter credimus &amp; simpliciter confitemur. Pro 
+      <lb ed="#P" n="101"/>confirmatione facit quod in toto illo decreto etsi 
+      <lb ed="#P" n="102"/>prolixo, nihil habeatur praeterea quod non 
+      certitu<lb ed="#P" n="103" break="no"/>dine fidei tenendum esse constet. Adde quod ex 
+      scri<lb ed="#P" n="104" break="no"/>pturis evidenter ostensum videtur, ante caelum &amp; 
+      <lb ed="#P" n="105"/>terram nihil esse creatum. 
+    </p>
+            <p xml:id="bt67yj-p006438-d1e139">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> In hac sententia sunt <name xml:id="bt67yj-p006438-Nd1e145">Gregor. Ariminensis</name> scribens 
+      <lb ed="#P" n="107"/>in hanc distinct. Ferrariensis sup. lib. 2. cont. gent. 
+      <lb ed="#P" n="108"/>cap. 83. <ref xml:id="bt67yj-p006438-Rd1e152">
+                  <name xml:id="bt67yj-p006438-Nd1e154">Melchior Canus</name> lib. 7. locorum Theolog. 
+      <lb ed="#P" n="109"/>cap. 3. &amp; lib. 12. cap. 10. &amp; nonnulli alii.</ref>
+            </p>
+            <p xml:id="bt67yj-p006438-d1e161">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Pars autem negans his nititur argumentis.
+    </p>
+            <p xml:id="bt67yj-p006438-d1e168">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Primo, quia Patres fere pari numero diversa 
+      sen<lb ed="#P" n="112" break="no"/>tiunt, ut ex supra dictis patet: Quare una pars prae 
+      <lb ed="#P" n="113"/>altera non est dicenda ut fidei contraria. 
+    </p>
+            <p xml:id="bt67yj-p006438-d1e179">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Secundo, quia nemo eorum qui sententiam hanc 
+      <lb ed="#P" n="115"/>quam veram probavimus, tenent, affirmavit eam ut 
+      <lb ed="#P" n="116"/>fide tenendam. 
+    </p>
+            <p xml:id="bt67yj-p006438-d1e190">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Tertio, quin potius quidam eorum diserte 
+      nega<lb ed="#P" n="118" break="no"/>runt esse fidei, ut Aug. Theod. Hugo. Mag. locis 
+      <lb ed="#P" n="119"/>prae allegatis ac censent cuique relinqui liberam 
+      <lb ed="#P" n="120"/>utrumlibet opinandi facultatem 
+    </p>
+            <p xml:id="bt67yj-p006438-d1e203">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Quarto, sanctus Thomas qui Lateranensi decreto 
+      <lb ed="#P" n="122"/>fuit posterior, loco supra citato respondens ad 
+      quae<lb ed="#P" n="123" break="no"/>stionem, dicit, cum circa eam duplex inveniatur 
+      <lb ed="#P" n="124"/>sanctorum Doctorum sententia, illam videri 
+      proba<lb ed="#P" n="125" break="no"/>biliorem quae ponit angelos simul cum creatura 
+      cor<lb ed="#P" n="126" break="no"/>porali creatos esse. Contrarium autem negat 
+      repu<lb ed="#P" n="127" break="no"/>tandum erroneum. Et in respons. ad tertium docet 
+      <lb ed="#P" n="128"/>quomodo scriptura Gen. 1. secundum diversam 
+      opi<lb ed="#P" n="129" break="no"/>nionem possit exponi. Idem scribens in hanc distinct 
+      <lb ed="#P" n="130"/>aperte dicit alteri sententiae non esse 
+      praejudican<lb ed="#P" n="131" break="no"/>dum, quia, inquit, non est determinatum nec fide 
+      <lb ed="#P" n="132"/>expressum. Sed neque S. Bonaventura qui sancto 
+      <lb ed="#P" n="133"/>Thomae contemporaneus fuit, eandem tractans 
+      <lb ed="#P" n="134"/>quaestionem super hac distinct. meminit erroris in 
+      <lb ed="#P" n="135"/>fide, sed tantum opinionis. Quibus rationibus moti 
+      <lb ed="#P" n="136"/>Caietanus &amp; Dominicus Bannes in 1. part. summae 
+      <lb ed="#P" n="137"/>sancti Thomae, &amp; Sixtus Senensis lib. 5. bibliot. 
+      san<lb ed="#P" n="138" break="no"/>ctae annotat. 5. &amp; alii nonnulli sentiunt hanc 
+      quae<lb ed="#P" n="139" break="no"/>stionem non pertinere ad fidem; licet non putent ab 
+      <lb ed="#P" n="140"/>ea parte recedendum quae communiter a Theologis 
+      <lb ed="#P" n="141"/>tenetur. Neque eos admodum movent scripturae 
+      <lb ed="#P" n="142"/>in illam partem allatae, quasi ex eis doceatur rem 
+      <lb ed="#P" n="143"/>esse fidei. Nam ut ex sancto Thoma jam 
+      indica<lb ed="#P" n="144" break="no"/>tum est, &amp; ad distictionem superiorem plenius 
+      <lb ed="#P" n="145"/>dictum, scriptura Genes. 1. salva fide varias re¬ 
+      <!--0251.xml-->
+      <pb ed="#P" n="18"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cipit expositiones. Quod etiam August. docet lib. 12. P 
+      <lb ed="#P" n="2"/>confess. per aliquot capita. Locum autem Exod. 20. 
+      <lb ed="#P" n="3"/>&amp; similes dicunt exponi posse de omnibus rebus 
+      cor<lb ed="#P" n="4" break="no"/>poralibus, scilicet iis quarum creatio describitur in 
+      <lb ed="#P" n="5"/>exordio Genesis. 
+    </p>
+            <p xml:id="bt67yj-p006438-d1e279">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Ad id vero quod ex Lateranensi concilio affertur, 
+      <lb ed="#P" n="7"/>quidam respondent ea dictione, simul non esse 
+      si<lb ed="#P" n="8" break="no"/>gnificatum idem instans creationis utriusque 
+      sub<lb ed="#P" n="9" break="no"/>stantiae, sed idem tempus suam quandam habens 
+      <lb ed="#P" n="10"/>latitudinem, quomodo quae eodem die, &amp; interdum 
+      <lb ed="#P" n="11"/>quae eodem anno fiunt, simul facta dicuntur. Quam 
+      <lb ed="#P" n="12"/>responsionem confirmant ex eo, quia patres illius 
+      <lb ed="#P" n="13"/>concilii non laborarunt de instanti creationis 
+      ange<lb ed="#P" n="14" break="no"/>lorum, comparatione creationis mundi corporei; 
+      <lb ed="#P" n="15"/>sed curae illis fuit excludere errorem Origenis qui 
+      <lb ed="#P" n="16"/>multis seculis ante mundum hunc conditum 
+      ange<lb ed="#P" n="17" break="no"/>los &amp; animas extitisse, quibus peccantibus ex 
+      occa<lb ed="#P" n="18" break="no"/>sione factum hunc mundum corporeum, ut illi per 
+      <lb ed="#P" n="19"/>corpora vel in corporibus punirentur, dogmatizavit. 
+    </p>
+            <p xml:id="bt67yj-p006438-d1e315">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Verum aliis haec responsio non satisfacit, tum quia 
+      <lb ed="#P" n="21"/>addit concilium, ab initio temporis, nimirum 
+      signi<lb ed="#P" n="22" break="no"/>ficans initium temporis fuisse unum atque idem 
+      imi<lb ed="#P" n="23" break="no"/>tium existentiae spiritualis &amp; corporalis creaturae: 
+      <lb ed="#P" n="24"/>tum vero quia subjungit humanam creaturam, 
+      dein<lb ed="#P" n="25" break="no"/>de, id est, interposito aliquo tempore factam 
+      esse<lb ed="#P" n="26" break="no"/>Unde colliguntur juxta mentem concilii, haec duo 
+      <lb ed="#P" n="27"/>opponi, simul fieri, quod tribuit angelis &amp; mundo, &amp; 
+      <lb ed="#P" n="28"/>deinde fieri, quod respectu mundi &amp; angelorum 
+      <lb ed="#P" n="29"/>tribuit homini. 
+    </p>
+            <p xml:id="bt67yj-p006438-d1e341">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Aliam itaque responsionem adfert Cajetanus, 
+      <lb ed="#P" n="31"/>quam &amp; probant Sixus &amp; Bannesius, ea est, 
+      men<lb ed="#P" n="32" break="no"/>tem concilii non fuisse ut hanc sententiam definiret, 
+      <lb ed="#P" n="33"/>licet eam ut longe probabiliorem receperit, &amp; 
+      de<lb ed="#P" n="34" break="no"/>creto suo inseruerit; sed ut Origenis errorem 
+      dam<lb ed="#P" n="35" break="no"/>naret ac similium qui posuerunt solas spirituales 
+      <lb ed="#P" n="36"/>creaturas per se productas a Deo, corporales 
+      au<lb ed="#P" n="37" break="no"/>tem postmodum productas propter demerita 
+      spiri<lb ed="#P" n="38" break="no"/>tualium. Quae explicatio mentis concilii est apud 
+      <lb ed="#P" n="39"/>S. Thomam opusc. 23. Unde, inquit, Cajetanus cum 
+      <lb ed="#P" n="40"/>dupliciter teneatur angelos productos esse ante 
+      corpo<lb ed="#P" n="41" break="no"/>ra, scilicet vel secundum errorem jam dictum, vel 
+      <lb ed="#P" n="42"/>simpliciter &amp; absolute quod ex Dei voluntate angeli 
+      <lb ed="#P" n="43"/>praecesserint mundum visibilem, decretalis illa quam 
+      <lb ed="#P" n="44"/>vis secundum verba utramque positionem destruat; 
+      <lb ed="#P" n="45"/>contra primam tamen tanquam contra haeresim 
+      in<lb ed="#P" n="46" break="no"/>terpretanda est; ad secundam vero tanquam ad 
+      mi<lb ed="#P" n="47" break="no"/>nus probabilem applicari potest. Et ratio hujus glossa 
+      <lb ed="#P" n="48"/>est, quia determinationes istae non nisi contra 
+      ali<lb ed="#P" n="49" break="no"/>quos errores fieri consueverunt. Haec ille non 
+      impro<lb ed="#P" n="50" break="no"/>babiliter. 
+    </p>
+            <p xml:id="bt67yj-p006438-d1e391">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Si cui tamen altera placet sententia &amp; verbis 
+      de<lb ed="#P" n="52" break="no"/>creti, ut sonant, putet firmiter inhaerendum; 
+      respon<lb ed="#P" n="53" break="no"/>dere poterit quaestionem superioribus seculis diu 
+      con<lb ed="#P" n="54" break="no"/>troversam &amp; dubiam potuisse tandem ecclesiae 
+      de<lb ed="#P" n="55" break="no"/>creto definiri ex scripturis diligentius examinatis, 
+      <lb ed="#P" n="56"/>in quarum vera intelligentia Christi Ecclesiam 
+      quo<lb ed="#P" n="57" break="no"/>tidie. proficere non est dubitandum. Utrumlibet 
+      <lb ed="#P" n="58"/>autem dicatur, omnino verisimile est sanctum 
+      Tho<lb ed="#P" n="59" break="no"/>mam &amp; <name xml:id="bt67yj-p006438-Nd1e414">sanctum Bonaventuram</name> quamvis concilio 
+      <lb ed="#P" n="60"/>Lateran. posteriores, decreti illius dum hanc quaest. 
+      <lb ed="#P" n="61"/>tractarent, non fuisse memores. Nam alioqui 
+      <lb ed="#P" n="62"/>mentionem aliquam ejus fecissent, nec de 
+      senten<lb ed="#P" n="63" break="no"/>tia contraria, tanquam de libera opinione fuissent 
+      <lb ed="#P" n="64"/>locuti; quando quidem &amp; hi qui etiam nunc fidei 
+      <lb ed="#P" n="65"/>quaestionem hanc esse negant, tamen propter 
+      ver<lb ed="#P" n="66" break="no"/>ba d creti, saltem alicujus temeritatis notant dictam 
+      <lb ed="#P" n="67"/>opinionem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 16</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 16</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="55"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p021142"><!-- l2d6c16" -->
+            <head xml:id="bt67yj-p021142-Hd1e101">Capitulum 16</head>
+            <head xml:id="bt67yj-p021142-Hd1e103" type="question-title">An daemones alii aliis vitus praesint</head>
+            <p xml:id="bt67yj-p021142-d1e106">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> §. 16. An daemones alii aliis vitus praesint?
+    </p>
+            <p xml:id="bt67yj-p021142-d1e113">
+               <lb ed="#P" n="40"/>PRaeter duas jam dictas tertia quaedam praefectura 
+      <lb ed="#P" n="41"/>daemonibus tribuitur a nonullis; ea nimirum 
+      <lb ed="#P" n="42"/>qua sic distributas inter se functiones habeant, ut alii 
+      <lb ed="#P" n="43"/>aliis vitiis praesint, ad quae peculiariter homines 
+      ten<lb ed="#P" n="44" break="no"/>tent. In ea opinione videtur esse Magister hac 
+      distin<lb ed="#P" n="45" break="no"/>ctione cum dicit, unumquemque daemonem ab eo 
+      <lb ed="#P" n="46"/>vitio denominari, de quo maxime potest homines 
+      <lb ed="#P" n="47"/>tentare, dum scilicet alius luxuriae, seu fornicationis 
+      <lb ed="#P" n="48"/>spiritus dicitur, alius superbiae, alius invidiae, &amp; ita 
+      <lb ed="#P" n="49"/>de caeteris. Addunt exempla e scripturis, ut 
+      Asmo<lb ed="#P" n="50" break="no"/>daeum, de quo in Tobia, luxuriae praefuisse, 
+      Mam<lb ed="#P" n="51" break="no"/>monam de quo Matth. 6. Non potestis Deo servire &amp; 
+      <lb ed="#P" n="52"/>Mammonae, daemonem esse avaritiae praefectum, ut 
+      <lb ed="#P" n="53"/>habet Magister, sic &amp; alios aliis vitiorum 
+      nomini<lb ed="#P" n="54" break="no"/>bus appellatos. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e148">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Adducuntur &amp; patrum testimonia. Nam 
+      Orige<lb ed="#P" n="56" break="no"/>nes homil. 14. super Josue 11. per diversos reges 
+      pu<lb ed="#P" n="57" break="no"/>gnantes contra Israel, varios intellexit daemones 
+      di<lb ed="#P" n="58" break="no"/>versis vitiis praefectos, quibus nos impugnent. His 
+      <lb ed="#P" n="59"/>consona scribit Hieronymus in commentario Ephes. 
+      <lb ed="#P" n="60"/>6. Plenissime vero tradit hanc doctrinam Cassianus 
+      <lb ed="#P" n="61"/>collatione 7. Hoc, inquit, nosse debemus, non omnes 
+      <lb ed="#P" n="62"/>daemones universas hominibus inurere passiones, sed 
+      <lb ed="#P" n="63"/>unicuique vitio certos spiritus incubare: &amp; alios 
+      qui<lb ed="#P" n="64" break="no"/>dem immunditis ac libidinum sordibus oblectari, 
+      <lb ed="#P" n="65"/>alios blasphemiis, alios irae furorique peculiarius 
+      im<lb ed="#P" n="66" break="no"/>minere, alios pasci tristitia; alios ceno loxia, 
+      superbia<lb ed="#P" n="67" break="no"/>que mulceri, &amp; unumquemque illud vitium humanis 
+      <lb ed="#P" n="68"/>cordibus quo ipse gaudet, inserere. Haec cap. 17. 
+      qui<lb ed="#P" n="69" break="no"/>bus alia ejusmodi addit cap. 19. ac rursum alia 
+      com<lb ed="#P" n="70" break="no"/>plura cap. 32. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e188">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Denique S. Gregor. eandem sententiam expressis¬ 
+      <!--0288.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>se videtur lib. 15. moral. cap. 16. dum ait: Maligni 
+      <lb ed="#P" n="73"/>spiritus certis quibusque vitiis singuli obsequi sunt 
+      <lb ed="#P" n="74"/>credendi, &amp; infra: In cujus ergo mentem vitia 
+      vi<lb ed="#P" n="75" break="no"/>tis succedunt, recte de eo dicitur, vadent &amp; vemem 
+      <lb ed="#P" n="76"/>super eum horribiles; quia quot vitiis decedentibus, 
+      <lb ed="#P" n="77"/>&amp; succedentibus premitur, tot malignis spiritibus 
+      <lb ed="#P" n="78"/>ejus animus quasi cuntibus ac redeuntibus devasta¬ 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e214">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Scribunt etiam nonnulli esse aliquos daemones, 
+      <lb ed="#P" n="80"/>qui memores antiquae suae nobilitatis non 
+      dignen<lb ed="#P" n="81" break="no"/>tur homines de immunditia tentare; &amp; hujus 
+      si<lb ed="#P" n="82" break="no"/>gnum adferunt, quod Lucifer tentans Christum in 
+      <lb ed="#P" n="83"/>deserto, non tentavit eum de luxuria. Meminit 
+      Pe<lb ed="#P" n="84" break="no"/>raldus in summa vitiorum cap. de luxuria. Videtur 
+      <lb ed="#P" n="85"/>autem hoc consentaneum iis quae ex Cassiano allata 
+      <lb ed="#P" n="86"/>sunt. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e236">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Porro aliis haec doctrina non placet atque his 
+      ra<lb ed="#P" n="88" break="no"/>tionibus oppugnatur. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e245">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Primo, quia daemonum quisque per se 
+      paratissi<lb ed="#P" n="90" break="no"/>mus &amp; cupidissimus est ad tentandum &amp; 
+      sollicitan<lb ed="#P" n="91" break="no"/>dum homines ad quaecumque vitia &amp; peccata; nec 
+      <lb ed="#P" n="92"/>eis ad hoc facultas aut peritia deest; modo 
+      permit<lb ed="#P" n="93" break="no"/>tantur a Deo. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e261">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Secundo, quia ad regnum diaboli promovendum 
+      <lb ed="#P" n="95"/>nihil adjuvat, sed magis obest, si daemonum 
+      pote<lb ed="#P" n="96" break="no"/>stas ita restringatur, ut singuli de singulis tantum 
+      <lb ed="#P" n="97"/>vitiis homines tentare sinantur; ergo haec 
+      potesta<lb ed="#P" n="98" break="no"/>tis eorum restrictio non est a principe eorum 
+      diabo<lb ed="#P" n="99" break="no"/>lo. At neque esse videtur a Deo, quia cum eundem 
+      <lb ed="#P" n="100"/>hominem de diversis vitiis tentari Deo permittente 
+      <lb ed="#P" n="101"/>saepe contingat, non refert sive id fieri permittatur a 
+      <lb ed="#P" n="102"/>diversis daemonibus, sive ab uno &amp; eodem. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e285">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Tertio, quaedam vitia naturalem quandam inter se 
+      <lb ed="#P" n="104"/>cognitionem habent, ut superbia &amp; invidia; tristitia 
+      <lb ed="#P" n="105"/>&amp; blasphemia; gula &amp; luxuria; avaritia &amp; 
+      fraudu<lb ed="#P" n="106" break="no"/>lentia; non est ergo werisimile, quod talibus 
+      praefi<lb ed="#P" n="107" break="no"/>ciantur diversi daemones. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e302">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Quarto, ipse daemonum princeps de triplici aut 
+      <lb ed="#P" n="109"/>quadruplici peccato Dominum tentasse legitur in 
+      <lb ed="#P" n="110"/>evangelio; nec apparet ratio, cur non &amp; per angelos 
+      <lb ed="#P" n="111"/>suos etiam singulos similia faciat. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e315">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Quibus argumentis cum memorata opinio satis 
+      <lb ed="#P" n="113"/>efficaciter convelli videatur, breviter 
+      responden<lb ed="#P" n="114" break="no"/>dum ad ea quibus videbatur stabiliri. Et quidem 
+      <lb ed="#P" n="115"/>Origenis, &amp; Cassiani authoritas hac in parte non est 
+      <lb ed="#P" n="116"/>magni ponderis. Nam Origenes alia quoque multa 
+      <lb ed="#P" n="117"/>de angelis tam bonis quam malis commentus est, 
+      <lb ed="#P" n="118"/>quae ecclesia Christi non recipit. Atque inter ea 
+      il<lb ed="#P" n="119" break="no"/>lud etiam tradidit unicuique homini sicut bonum, 
+      <lb ed="#P" n="120"/>ita &amp; malum angelum a nativitate deputatum esse. 
+      <lb ed="#P" n="121"/>Quod si verum est, non facile prior sententia 
+      con<lb ed="#P" n="122" break="no"/>stat: non enim sufficiet unus tentator ad hominis 
+      <lb ed="#P" n="123"/>exercitium deputatus, si tantum ad unum peccati 
+      <lb ed="#P" n="124"/>genus eum tentare potest; secum ergo pugnat 
+      Ori<lb ed="#P" n="125" break="no"/>genes. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e350">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Sed &amp; Cassianus in eadem collatione quaedam 
+      <lb ed="#P" n="127"/>inepta, &amp; fabulosa, atque a sensu ecclesiae aliena de 
+      <lb ed="#P" n="128"/>daemonibus scribit, ut c. 19. neminem simul ad 
+      plu<lb ed="#P" n="129" break="no"/>ra &amp; distincta vitia tentari, eo quod daemones inter 
+      <lb ed="#P" n="130"/>se tentandi vices servare debeant, &amp; cap. 21. quod 
+      <lb ed="#P" n="131"/>daemones tentando laborant &amp; fatigantur; &amp; cap. 
+      <lb ed="#P" n="132"/>32. esse quosdam daemones jocosos qui non 
+      quae<lb ed="#P" n="133" break="no"/>rant nocere, sed tantum oblectare &amp; risum movere 
+      <lb ed="#P" n="134"/>hominibus, &amp; alia hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e374">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Porro Hieronymus Origenis sententiam lege 
+      <lb ed="#P" n="136"/>commentarii transcripsit, non appprobavit. 
+      Scri<lb ed="#P" n="137" break="no"/>bit enim, quosdam sic dicere, satis per hoc 
+      signifi<lb ed="#P" n="138" break="no"/>cans alienam se sententiam referre, pro qua certare 
+      <lb ed="#P" n="139"/>nolit. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e390">
+               <lb ed="#P" n="140"/>Ad Gregorii authoritatem respondere possumus. 
+      <lb ed="#P" n="141"/>spiritus de quibus loquitur, secundum nomina 
+      in<lb ed="#P" n="142" break="no"/>telligi diversos. Quoniam enim daemonibus nomina 
+      <lb ed="#P" n="143"/>tribuuntur ex officiis, hinc si mutetur officium, sive 
+      <lb ed="#P" n="144"/>persona sit eadem sive non; quasi mutato nomine 
+      <!--0289.xml-->
+      <pb ed="#P" n="56"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>plures atque alios videri, scilicet formaliter, quod P 
+      <lb ed="#P" n="2"/>&amp; de angelis contingere potest. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e414">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Similis adhiberi posset responsio ad scripturas in 
+      <lb ed="#P" n="4"/>quibus leguntur haec nominas spiritus mendacii, 
+      spi<lb ed="#P" n="5" break="no"/>ritus fornicationis, spiritus vertiginis, spiritus 
+      zelo<lb ed="#P" n="6" break="no"/>typiae. Nam ut dictum est, unus &amp; idem daemon 
+      qua<lb ed="#P" n="7" break="no"/>tenus ad diversa vitia sollicitat, variis significari 
+      po<lb ed="#P" n="8" break="no"/>test nominibus; sicut Spiritus sanctus cum sit unicus, 
+      <lb ed="#P" n="9"/>vocatur spiritus sapientiae, &amp; spiritus scientiae, &amp;c. 
+      <lb ed="#P" n="10"/>Isaiae 11. &amp; alibi. Neque enim scriptura dicit, hos 
+      <lb ed="#P" n="11"/>spiritus esse plures aut inter se distinctos. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e439">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Sed verior responsio est peculiari phrasi scripturae 
+      <lb ed="#P" n="13"/>per spiritum mendacii, fornicationis, &amp;c. non 
+      dae<lb ed="#P" n="14" break="no"/>mones significari, qui suggerant vitia; sed ipsa 
+      vi<lb ed="#P" n="15" break="no"/>tia, seu potius vehementem impetum ac 
+      pronita<lb ed="#P" n="16" break="no"/>tem ad vitia. Sic etiam Matth. 6. (ut &amp; hoc obiter 
+      <lb ed="#P" n="17"/>admoneamus) per mammonam non daemon aliquis 
+      <lb ed="#P" n="18"/>avaritiae praeses significatur, sed ipsae divitiae; 
+      qui<lb ed="#P" n="19" break="no"/>bus homines servire dicuntur ea locutione, qua 
+      qui<lb ed="#P" n="20" break="no"/>dam dicuntur servire ventri suo, &amp; quidam servi 
+      di<lb ed="#P" n="21" break="no"/>cuntur inanis gloriae, atque in genere servi peccati 
+      <lb ed="#P" n="22"/>Joannis 8. Rom. 6. 2. Petr. 2. Patet hoc ex alio loco 
+      <lb ed="#P" n="23"/>evangelii, scilicet Lucae 16. ubi dicitur. Facite 
+      ve<lb ed="#P" n="24" break="no"/>bis amicos de mammona iniquitatis. Quo loco non 
+      <lb ed="#P" n="25"/>diabolum sed divitias intelligi in confesso est. 
+    </p>
+            <p xml:id="bt67yj-p021142-d1e474">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Denique &amp; illud mere fabulosum esse aliquos 
+      dae<lb ed="#P" n="27" break="no"/>mones quided ignentur homines tentare ad 
+      turpitu<lb ed="#P" n="28" break="no"/>dinem. Quod si enim ipsorum daemonum ad vitia 
+      <lb ed="#P" n="29"/>propensiones spectentur, ipsi quidem ad carnalia 
+      <lb ed="#P" n="30"/>peccata nullo moventur affectu, cum sint 
+      incorpo<lb ed="#P" n="31" break="no"/>rei. Verum si pensetur eorum malitia, qua cupiunt 
+      <lb ed="#P" n="32"/>quovis modo nocere hominibus, non minus ad 
+      car<lb ed="#P" n="33" break="no"/>nalia quam ad spiritualia peccata conantur eos 
+      ten<lb ed="#P" n="34" break="no"/>tando inducere. Imo nullum est genus peccati quod 
+      <lb ed="#P" n="35"/>secundum reatum in daemonibus non sit; quia ut ait 
+      <lb ed="#P" n="36"/>sanctus Thomas 1. parte quaest. 6 3. art. 2. dum 
+      ho<lb ed="#P" n="37" break="no"/>mines ad omnia peccata inducunt, omnium 
+      pecca<lb ed="#P" n="38" break="no"/>torum reatum incurrunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

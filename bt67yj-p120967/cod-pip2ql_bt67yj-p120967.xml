@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 31</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 31</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="311"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p120967"><!-- l2d26c31" -->
+            <head xml:id="bt67yj-p120967-Hd1e101">Capitulum 31</head>
+            <head xml:id="bt67yj-p120967-Hd1e103" type="question-title">Astruitur ejusdem sententiae veritas ex 
+      scripturis</head>
+            <p xml:id="bt67yj-p120967-d1e106">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> §. 31. Astruitur ejusdem sententiae veritas ex 
+      <lb ed="#P" n="126"/>scripturis. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e115">
+               <lb ed="#P" n="127"/>SEntentiam Patrum sic ex eorum mente 
+      explica<lb ed="#P" n="128" break="no"/>tam nunc probemus primum ex scripturis, 
+      dein<lb ed="#P" n="129" break="no"/>de ex patribus, ac demum ex ratione. Omissis autem 
+      <lb ed="#P" n="130"/>scripturis generalibus quibus jam dudum ostendimus, 
+      <lb ed="#P" n="131"/>hominem nihil boni salutaris posse sine gratia Dei, 
+      <lb ed="#P" n="132"/>quales sunt istae: Sine me nihil potestis facere: Quid 
+      <lb ed="#P" n="133"/>habes quod non accepisti? Non sumus sufficientes ex 
+      <lb ed="#P" n="134"/>nobis, &amp;c. aliaeque quam plurimae, proferamus eas 
+      <lb ed="#P" n="135"/>quae magis ad rem praesentem speciales sunt. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e137">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Huc igitur imprimis &amp; directe faciunt scripturae, 
+      <lb ed="#P" n="137"/>quae opera nostra, id est ex nobis facta, a negotio 
+      ju<lb ed="#P" n="138" break="no"/>stificationis &amp; salutis nostrae prorsus removent, &amp; e 
+      <lb ed="#P" n="139"/>contra, solam Dei gratiam commendant, ut Rom. 3. 
+      <lb ed="#P" n="140"/>Ex operibus legis non justificabitur omnis caro. Et 
+      ite<lb ed="#P" n="141" break="no"/>rum: Justificati gratis per gratiam ipsius. Et cap. 4. 
+      <lb ed="#P" n="142"/>Si Abraham ex operibus justificatus est, habet gloriam, 
+      <!--0545.xml-->
+      <pb ed="#P" n="312"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sed non apud Deum. Et mox: Ei autem qui operatur, 
+      <lb ed="#P" n="2"/>merces non imputatur secundum gratiam, sed secundum 
+      <lb ed="#P" n="3"/>debitum. Ac rursum: David dixit beatitudinem 
+      ho<lb ed="#P" n="4" break="no"/>minis, cui Deus accepto fert justitiam sine operibus. 
+      <lb ed="#P" n="5"/>Quod idem breviter ac diserte dicitur ejusdem 
+      epi<lb ed="#P" n="6" break="no"/>stolae c. 11. Si autem gratia, jam non ex operibus: 
+      alio<lb ed="#P" n="7" break="no"/>quin gratia jam non est gratia. Ex quibus locis patet, 
+      <lb ed="#P" n="8"/>eam esse oppositionem inter gratiam &amp; opera seu 
+      me<lb ed="#P" n="9" break="no"/>rita nostra, ut se invicem excludant. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e184">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Eodem pertinent hae scripturae Ephes. 2. Gratia 
+      <lb ed="#P" n="11"/>estis salvati per fidem, &amp; hoc non ex vobis: Dei enim 
+      <lb ed="#P" n="12"/>donum est, non ex operibus, ut ne quis glorietur. 2. Tim. 
+      <lb ed="#P" n="13"/>1. Liberavit &amp; vocavit nos Deus vocatione sua sancta, 
+      <lb ed="#P" n="14"/>non secundum opera nostra, sed secundum propositum 
+      <lb ed="#P" n="15"/>suum &amp; gratiam quae data est nobis in Christo jesu. Et 
+      <lb ed="#P" n="16"/>ad Tit. 3. Non ex operibus justitiae quae fecimus nos, sed 
+      <lb ed="#P" n="17"/>secundum suam misericordiam salvos nos fecit. Itemi 
+      <lb ed="#P" n="18"/>Ezechiel. 36. Non propter vos ego faciam, sed propter 
+      <lb ed="#P" n="19"/>nomen sanctum meum, quod polluistis in gentibus. Et 
+      <lb ed="#P" n="20"/>iterum. Non propter vos ego faciam, notum sit vobis. 
+      <lb ed="#P" n="21"/>Unde &amp; ibidem dicitur: Dabo vobis cor novum, &amp; 
+      <lb ed="#P" n="22"/>auferam corlapideum de carne vestra, &amp; dabo vobis cor 
+      <lb ed="#P" n="23"/>carneum, &amp;c. de quo toto Prophetae loco vide 
+      Au<lb ed="#P" n="24" break="no"/>gustinum libro de gratia &amp; libero arbitrio cap. 14. 
+      <lb ed="#P" n="25"/>Item Ephes. 2. Ipsius enim sumus factura, creati in 
+      <lb ed="#P" n="26"/>Christo Jesu in operibus bonis quae praeparavit Deus ut 
+      <lb ed="#P" n="27"/>in illis ambulemus. Significatur enim hisce verbis, 
+      <lb ed="#P" n="28"/>quod sicut creatura non se potest ullo modo 
+      dispo<lb ed="#P" n="29" break="no"/>nere ad creationem suam, cum antea nihil sit 
+      quan<lb ed="#P" n="30" break="no"/>tum ad esse suum naturale; ita nec homo disponere 
+      <lb ed="#P" n="31"/>se possit ullo praevio opere ad gratiam bonorum 
+      ope<lb ed="#P" n="32" break="no"/>rum &amp; justitiae in Christo, id est, ad reparationem, 
+      <lb ed="#P" n="33"/>&amp; quasi recreationem suam; cum &amp; ipse ante 
+      gra<lb ed="#P" n="34" break="no"/>tiam reparantem &amp; recreantem nihil sit, quantum 
+      <lb ed="#P" n="35"/>ad esse spirituale. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e245">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Huc item faciunt scripturae quae nostram ad Deum 
+      <lb ed="#P" n="37"/>conversionem ipsi Deo tribuunt, &amp; gratiae ejus, ut 
+      <lb ed="#P" n="38"/>Psalmo 84. Converte nos Deus salutaris noster. Jerem. 
+      <lb ed="#P" n="39"/>31. Converte me &amp; convertar. Postquam enim 
+      conver<lb ed="#P" n="40" break="no"/>tistime, egi poenitentiam; Et Thren. ultimo. 
+      Conver<lb ed="#P" n="41" break="no"/>te nos Domine ad te, &amp; convertemur. Eo Lucae 22. 
+      <lb ed="#P" n="42"/>Conversus Dominus respexit Petrum, scilicet 
+      prius<lb ed="#P" n="43" break="no"/>quam ab illo per poenitentiam respiceretur. Quale 
+      <lb ed="#P" n="44"/>est illud Psalm. 76. Dixi, nunc coepi; haec mutatio 
+      <lb ed="#P" n="45"/>dexterae Excelsi. Quo nimirum significatur ipsum 
+      <lb ed="#P" n="46"/>nostrae conversionis initium dono Dei tribuendum 
+      <lb ed="#P" n="47"/>esse, teste S. Augustino lib. 2. contra duas epist. 
+      Pe<lb ed="#P" n="48" break="no"/>lagianorum cap. 10. Et quaecunque aliae scripturae 
+      <lb ed="#P" n="49"/>docent fidem &amp; poenitentiam esse dona Dei, de 
+      qui<lb ed="#P" n="50" break="no"/>bus est propria tractatio suis locis. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e282">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Pertinent eodem scripturae, quae significant nos 
+      <lb ed="#P" n="52"/>trahi a Deo ad ea quae sunt justitiae &amp; salutis 
+      no<lb ed="#P" n="53" break="no"/>strae. Trahitur enim quod de se erat aversum &amp; 
+      re<lb ed="#P" n="54" break="no"/>pugnans atque renitens, quemadmodum bene 
+      ex<lb ed="#P" n="55" break="no"/>pendunt eam phrasim Hieronymus in dialogo 
+      con<lb ed="#P" n="56" break="no"/>tra Pelagianos. Et S. Augustinus libro primo 
+      con<lb ed="#P" n="57" break="no"/>tra duas epistolas Pelagianorum capite 19. &amp; libro 
+      <lb ed="#P" n="58"/>2. cap. 8. Loca scripturae sunt Joann. 6. Nemo potest 
+      <lb ed="#P" n="59"/>venire ad me, nisi pater qui misit me, traxerit eum. 
+      <lb ed="#P" n="60"/>Et cap. 11. Si exaltatus fuero a terra, omnia traham 
+      <lb ed="#P" n="61"/>ad meipsum. Cantic. 1. Trahe me post te. Jerem. 31. 
+      <lb ed="#P" n="62"/>In charitate perpetua dilexi te, ideo attraxi te 
+      mise<lb ed="#P" n="63" break="no"/>rans. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e315">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Quo etiam referendae sunt scripturae quae 
+      signifi<lb ed="#P" n="65" break="no"/>cant, quod Deus nos aberrantes quaerit, &amp; fugientes 
+      <lb ed="#P" n="66"/>insequitur. Id enim docet parabola de ove perdita, 
+      <lb ed="#P" n="67"/>quaesita &amp; inventa, Luc. 15. &amp; illud Isa. 65. citatum 
+      <lb ed="#P" n="68"/>ab Apostolo Rom. 10. Inventus sum a non 
+      quaerenti<lb ed="#P" n="69" break="no"/>bus me, palam apparuiiis qui me non interrogabant, &amp; 
+      <lb ed="#P" n="70"/>quod idem Apostolus dicit in eadem epistola cap. 9. 
+      <lb ed="#P" n="71"/>Gentes quae non sectabantur justitiam, apprehenderunt 
+      <lb ed="#P" n="72"/>justitiam; Israel vero sectando legem justitiae, in legem 
+      <lb ed="#P" n="73"/>justitiae non pervenit. Quare? quia non ex fide, sed 
+      <lb ed="#P" n="74"/>quasi ex operibus.
+    </p>
+            <p xml:id="bt67yj-p120967-d1e344">
+      <!--0545.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>His adde scripturas, quae Deum nostri 
+      compara<lb ed="#P" n="76" break="no"/>tione faciunt in dando priorem, ut Rom. 11. Quis 
+      <lb ed="#P" n="77"/>prior dedit illi, &amp; retribuetur ei? Cujus &amp; ratio 
+      sequi<lb ed="#P" n="78" break="no"/>tur.* Quoniam ex ipso sunt omnia, &amp; Job. 41. Quis 
+      <lb ed="#P" n="79"/>ante dedit mihi, ut reddam ei? Ubi similiter 
+      ratio<lb ed="#P" n="80" break="no"/>nem addit generalem: Omnia quae sub celo sunt, mea 
+      <lb ed="#P" n="81"/>sunt. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e366">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Adde &amp; alias scripturas quae commendant 
+      gra<lb ed="#P" n="83" break="no"/>tiam praevenientem, ut est illud Psal. Misericordia 
+      <lb ed="#P" n="84"/>ejus praeveniet me. Et Prov. 8. secundum 70. 
+      frequen<lb ed="#P" n="85" break="no"/>ter ab Augustino &amp; aliis Patribus contra Pelagianos 
+      <lb ed="#P" n="86"/>allegatum: Praeparatur voluntas a Domino. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e383">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Peculiariter autem huc faciunt scripturae 
+      quaecun<lb ed="#P" n="88" break="no"/>que docent electionem seu praedestinationem 
+      no<lb ed="#P" n="89" break="no"/>stram esse mere gratuitum; adeo ut ab ea omne 
+      me<lb ed="#P" n="90" break="no"/>ritum nostrum excludant, cujusmodi sunt istae 
+      <lb ed="#P" n="91"/>Joann. 15. Non vos me elegistis, sed ego elegi vos. Et 1. 
+      <lb ed="#P" n="92"/>Joann. 4. Non quasi nos dilexerimus Deum, sed 
+      quo<lb ed="#P" n="93" break="no"/>niam ipse dilexit nos. Et iterum: Nos ergo diligamus 
+      <lb ed="#P" n="94"/>Deum, quoniam Deus prior dilexit nos, Roman. 9. 
+      <lb ed="#P" n="95"/>Ut secundum electionem propositum Dei maneret, non 
+      <lb ed="#P" n="96"/>ex operibus, sed ex vocante dictum est ei; Quia major 
+      <lb ed="#P" n="97"/>serviet minori. Et caetera, quae eodem capite ac 
+      de<lb ed="#P" n="98" break="no"/>inde capite 11. de electione gratuita disserit 
+      Apo<lb ed="#P" n="99" break="no"/>stolus. Atque aliae scripturae, quas plurimas ad 
+      <lb ed="#P" n="100"/>demonstrandam gratuitae praedestinationis 
+      doctri<lb ed="#P" n="101" break="no"/>nam adduximus distinctione 41. libro primo. 
+      Quae<lb ed="#P" n="102" break="no"/>cunque enim argumenta probant praedestinationem 
+      <lb ed="#P" n="103"/>non esse ex meritis, eadem aeque convincunt 
+      gra<lb ed="#P" n="104" break="no"/>tiam Dei, quae praedestinationis est proprius 
+      effe<lb ed="#P" n="105" break="no"/>ctus, non dari secundum merita eorum quibus da¬ 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e429">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Jam huc etiam referendae sunt variae 
+      comparatio<lb ed="#P" n="107" break="no"/>nes, quibus ad declarandam justificationem 
+      pecca<lb ed="#P" n="108" break="no"/>toris passim utuntur scripturae. Nam praeter hoc 
+      <lb ed="#P" n="109"/>quod in iis justificatio comparatur creationi, ut 
+      <lb ed="#P" n="110"/>Ephes. 2. de quo loco jam diximus, comparatur 
+      <lb ed="#P" n="111"/>etiam generationi, ut Jacobi 1. Voluntarie genuit 
+      <lb ed="#P" n="112"/>nos verbo veritatis, &amp; 1. Pet. 1. Secundum 
+      misericor<lb ed="#P" n="113" break="no"/>diam suam magnam regeneravit nos in spem vivam. 
+      <lb ed="#P" n="114"/>Atqui res nulla sese potest ad sui generationem 
+      dis<lb ed="#P" n="115" break="no"/>ponere. Quare nec homo quicquam suum ac 
+      pro<lb ed="#P" n="116" break="no"/>prium habet, quo se disponat ad sui 
+      justificatio<lb ed="#P" n="117" break="no"/>nem, sed eam totam accipit dono prorsus 
+      gratuito<lb ed="#P" n="118" break="no"/>Ad quod significandum alter Apostolus addidit, 
+      <lb ed="#P" n="119"/>voluntarie, id est, secundum beneplacitum suae 
+      vo<lb ed="#P" n="120" break="no"/>luntatis; alter, secundum misericordiam suam 
+      ma<lb ed="#P" n="121" break="no"/>gnam. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e468">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Praeterea, secundum allegoriam comparatur 
+      ho<lb ed="#P" n="123" break="no"/>minis justificatio foecundationi sterilium foeminarum. 
+      <lb ed="#P" n="124"/>Ideo namque, ut ait Franco tom. 3. de gratia Dei, 
+      <lb ed="#P" n="125"/>steriles conjuges secreto Dei consilio sortiti sunt 
+      san<lb ed="#P" n="126" break="no"/>cti patriarchae, Abraham Saram, Isaac Rebeccam, 
+      <lb ed="#P" n="127"/>Jacob Rachelem; in quorum actu, conjugio ac 
+      so<lb ed="#P" n="128" break="no"/>bole adumbratum est sacramentum Christi &amp; 
+      eccle<lb ed="#P" n="129" break="no"/>siae, ut deficiente naturae adminiculo intelligat homo, 
+      <lb ed="#P" n="130"/>ex sola se gratia salvatum, &amp; non ex meritis. 
+      Rur<lb ed="#P" n="131" break="no"/>sum peccator quoad justificationem, comparatur 
+      lu<lb ed="#P" n="132" break="no"/>to, ut Isa. 47. Jerem. 18. &amp; Rom. 9. comparatur 
+      <lb ed="#P" n="133"/>terrae aridae, Psal. 142. Anima mea sicut terra sine 
+      <lb ed="#P" n="134"/>aqua tibi, comparatur homini mortuo, Luc. 18. Joan. 
+      <lb ed="#P" n="135"/>5. Ephes. 2. &amp; 5. Coloss. 2. At nihil horum ex se 
+      ul<lb ed="#P" n="136" break="no"/>lam adfert dispositionem ad formam, fructum, vitam 
+      <lb ed="#P" n="137"/>recipiendam. Sic igitur &amp; homo peccator ad 
+      justifi<lb ed="#P" n="138" break="no"/>cationem se habet. 
+    </p>
+            <p xml:id="bt67yj-p120967-d1e510">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Denique accedat exemplum conversionis 
+      Apo<lb ed="#P" n="140" break="no"/>stoli Pauli, tanquam exemplar &amp; forma 
+      justificatio<lb ed="#P" n="141" break="no"/>nis omnium peccatorum; qui cum prius esset 
+      blas<lb ed="#P" n="142" break="no"/>phemus &amp; persecutor &amp; contumeliosus, attamen 
+      <lb ed="#P" n="143"/>misericordiam consecutus est, &amp; ad fidem vocatus, 
+      <lb ed="#P" n="144"/>quando jam in actu &amp; fervore persecutionis 
+      versa<lb ed="#P" n="145" break="no"/>batur, scilicet ut in eo primo Christus ostenderet 
+      <lb ed="#P" n="146"/>omnem patientiam; ad informationem eorum qui 
+      <lb ed="#P" n="147"/>credituri essent, quemadmodum ipse commemorat. 
+      <!--0546.xml-->
+      <pb ed="#P" n="313"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>1. Timoth. 1. De quo Augustin. libro de gratia &amp; 
+      <lb ed="#P" n="2"/>libero arbitrio capite sexto: Apostolum Paulum, 
+      in<lb ed="#P" n="3" break="no"/>quit, invenimus sine ullis meritis bonis, imo cum 
+      <lb ed="#P" n="4"/>multis meritis malis, Dei gratiam consecutum, 
+      <lb ed="#P" n="5"/>reddentis bonum pro malis. Idem autem dicendum 
+      <lb ed="#P" n="6"/>de caeteris peccatoribus affirmat idem doctor 
+      tra<lb ed="#P" n="7" break="no"/>ctat. duodecimo in Joan. ad illud: Erant enim 
+      ma<lb ed="#P" n="8" break="no"/>la eorum opera. Quorum, inquit, opera bona invenit 
+      <lb ed="#P" n="9"/>Dominus? nullorum. Omnium enim opera mala 
+      in<lb ed="#P" n="10" break="no"/>venit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

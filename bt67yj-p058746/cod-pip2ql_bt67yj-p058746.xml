@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 13</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 13</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="152"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p058746"><!-- l2d17c13" -->
+            <head xml:id="bt67yj-p058746-Hd1e101">Capitulum 13</head>
+            <head xml:id="bt67yj-p058746-Hd1e103" type="question-title">Qui scriptores vel diversam vel dubiam 
+      habuerint sententiam</head>
+            <p xml:id="bt67yj-p058746-d1e106">
+               <lb ed="#P" n="65"/>§. 13. Qui scriptores vel diversam vel dubiam 
+      <lb ed="#P" n="66"/>habuerint sententiam.
+    </p>
+            <p xml:id="bt67yj-p058746-d1e113">
+               <lb ed="#P" n="67"/>QUi docuerunt animas ex traduce nasci, nec 
+      <lb ed="#P" n="68"/>numero nec authoritate pares sunt iis quorum 
+      <lb ed="#P" n="69"/>de creatione animarum testimonia modo 
+      citavi<lb ed="#P" n="70" break="no"/>mus. De illis scribens Hieronymus in epistola ad 
+      <!--0385.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>Marellinum &amp; Anapsygiam, quae est 82. tomi 2. &amp; 
+      <lb ed="#P" n="72"/>inter Augustini epistolas habetur numero 27. sic 
+      <lb ed="#P" n="73"/>ait: An certe ex traduce ut Tertullianus, 
+      Apollina<lb ed="#P" n="74" break="no"/>ris &amp; maxima pars Occidentalium autumavit. 
+    </p>
+            <p xml:id="bt67yj-p058746-d1e137">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Tertulliani sane authoritas hac in parte nulla 
+      ha<lb ed="#P" n="76" break="no"/>beri debet, cum ille praeterquam quod ab ecclesia 
+      <lb ed="#P" n="77"/>Catholica descivit, etiam senserit animas 
+      corpo<lb ed="#P" n="78" break="no"/>reas esse, ut ex Augustino supra ostendimus. Neque 
+      <lb ed="#P" n="79"/>hoc Tertullianum somniasse mirandum est, inquit 
+      <lb ed="#P" n="80"/>idem Augustinus ad Optatum epist. 157. qui etiam 
+      <lb ed="#P" n="81"/>ipsum creatorem Deum non esse nisi corpus 
+      opina<lb ed="#P" n="82" break="no"/>tur. Ex his autem fundamentis proclive ei fuit 
+      tra<lb ed="#P" n="83" break="no"/>ducem animarum construere. 
+    </p>
+            <p xml:id="bt67yj-p058746-d1e162">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Porro Apollinarem quoque haereticum fuisse 
+      con<lb ed="#P" n="85" break="no"/>stat. Cum autem addit Hieronymus maximam 
+      oc<lb ed="#P" n="86" break="no"/>cidentalium partem ita sentire, non ecclesiam 
+      oc<lb ed="#P" n="87" break="no"/>cidentalem intelligit, ut qui alibi suam sententiam 
+      <lb ed="#P" n="88"/>vocat Ecclesiasticam (tametsi Augustinus de 
+      occi<lb ed="#P" n="89" break="no"/>dentali Ecclesia sanctum Hicronymum locutum 
+      <lb ed="#P" n="90"/>interpretatus sit in epistola jam dicta) sed 
+      scripto<lb ed="#P" n="91" break="no"/>res occidentales eosque obscuriores qui ante ipsius 
+      <lb ed="#P" n="92"/>tempora vixerunt. Quos etiam Gennadius loco 
+      su<lb ed="#P" n="93" break="no"/>pra memorato significans addit, &amp; aliqui 
+      Latino<lb ed="#P" n="94" break="no"/>rum praesumptores. Eos certe qui Catholico 
+      nomi<lb ed="#P" n="95" break="no"/>ne celebres in occidente fuerunt, Hilarium &amp; 
+      Am<lb ed="#P" n="96" break="no"/>brosium non ita sensisse, ex iis quae supra diximus, 
+      <lb ed="#P" n="97"/>est manifestum. 
+    </p>
+            <p xml:id="bt67yj-p058746-d1e197">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Eandem opinionem <name xml:id="bt67yj-p058746-Nd1e203">Gennadius</name> tribuit 
+      Luciferia<lb ed="#P" n="99" break="no"/>nis. Quibus etiam Augustinus eam in quodam libro 
+      <lb ed="#P" n="100"/>asscriptam invenisse se testatur libro de haeresibus. 
+    </p>
+            <p xml:id="bt67yj-p058746-d1e210">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Plures istis vetusti scriptores in ea sententia 
+      fuis<lb ed="#P" n="102" break="no"/>se non reperiuntur. Cumque hi &amp; paucissimi &amp; 
+      <lb ed="#P" n="103"/>haeretici omnes fuerint, facile est videre, quam 
+      pa<lb ed="#P" n="104" break="no"/>rum probabilitatis huic sententiae ex suis 
+      authori<lb ed="#P" n="105" break="no"/>bus accedat. Feruntur autem etiam Aethiopes 
+      <lb ed="#P" n="106"/>Christiani qui sub regno Pretojani degunt, ad 
+      eun<lb ed="#P" n="107" break="no"/>dem modum sentire; scilicet omnes animas 
+      propa<lb ed="#P" n="108" break="no"/>gari ex anima primi hominis, sicut corpora ex 
+      cor<lb ed="#P" n="109" break="no"/>pore. Hoc enim de iis refert Damianus Goezius in 
+      <lb ed="#P" n="110"/>libro quem de moribus ac religione Aethiopum 
+      edi<lb ed="#P" n="111" break="no"/>dit. Sed in eo multa etiam alia minime probanda 
+      <lb ed="#P" n="112"/>iis asscribit, ut circumcisionem, &amp; similia. 
+    </p>
+            <p xml:id="bt67yj-p058746-d1e241">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Caeterum inter eos qui neutram quaestionis 
+      par<lb ed="#P" n="114" break="no"/>tem asserendam sibi putarunt, princeps est 
+      Augu<lb ed="#P" n="115" break="no"/>stinus, cujus usque ad mortem super hac re 
+      dubita<lb ed="#P" n="116" break="no"/>tio voluntaria duravit, adeo ut temerarios eos 
+      judi<lb ed="#P" n="117" break="no"/>caret, qui alterutram partem absque pleniori 
+      instru<lb ed="#P" n="118" break="no"/>ctione amplecterentur. Declarant hoc varia ejus 
+      <lb ed="#P" n="119"/>scripta, &amp; imprimis liber primus &amp; secundus de 
+      ani<lb ed="#P" n="120" break="no"/>ma &amp; ejus origine, quibus suam dubitationem 
+      con<lb ed="#P" n="121" break="no"/>tra reprehensores defendit. Patet hoc ipsum ex 
+      <lb ed="#P" n="122"/>epistola ejus 28. ad Hieronymum &amp; 157. ad 
+      Opta<lb ed="#P" n="123" break="no"/>tum. Item ex lib. 2. de peccatorum meritis cap. 26. 
+      <lb ed="#P" n="124"/>&amp; lib. 3. cap. 10. &amp; lib. 5. contra Julianum cap. 9. 
+      <lb ed="#P" n="125"/>&amp; ex fine libriad Orosium contra Priscillianistas, ac 
+      <lb ed="#P" n="126"/>denique ex lib. 1. retractationum cap. 1. &amp; lib. 2. 
+      <lb ed="#P" n="127"/>cap. 45. &amp; 56. Quibus adde totum librum 10. de 
+      <lb ed="#P" n="128"/>Gen. ad literam, quo ita quaestionem hanc excutit, 
+      <lb ed="#P" n="129"/>ut nihil definiat. Solet autem pro defensione suae 
+      du<lb ed="#P" n="130" break="no"/>bitationis inter alia proferre illud matris 
+      Machabaeo<lb ed="#P" n="131" break="no"/>rum 2. Machab. 7. dicentis ad filios: Nescio 
+      quali<lb ed="#P" n="132" break="no"/>ter in utero meo apparuistis, &amp;c. ut in loco iam 
+      alle<lb ed="#P" n="133" break="no"/>gato cont. Julian. 
+    </p>
+            <p xml:id="bt67yj-p058746-d1e291">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Augustini dubitationem secutus est Gregorius lib. 
+      <lb ed="#P" n="135"/>7. epistola 53. ubi dicit hanc quaestionem esse 
+      inso<lb ed="#P" n="136" break="no"/>lubilem, nec posse ab homine comprehendi. 
+      Ean<lb ed="#P" n="137" break="no"/>dem secuti sunt Eucherius Lugdunensis scribens 
+      su<lb ed="#P" n="138" break="no"/>ber illud Genes. 2. Inspiravit in faciem ejus, &amp;c. 
+      <lb ed="#P" n="139"/>Cassiodorus libro de anima capit. 14. &amp; Rabanus 
+      <lb ed="#P" n="140"/>Maurus lib. 2. de institutione clericorum cap. 57. 
+      <lb ed="#P" n="141"/>Quibus annumerandus videtur Salvianus, qui in 
+      <lb ed="#P" n="142"/>praefatione sermonum de operibus Christi 
+      cardina<lb ed="#P" n="143" break="no"/>libus (quos Cypriani esse falso existimatum est) scire 
+      <lb ed="#P" n="144"/>se negat animae suae originem.
+    </p>
+            <p xml:id="bt67yj-p058746-d1e320">
+      <!--0386.xml-->
+               <pb ed="#P" n="153"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Poterat his quoque <name xml:id="bt67yj-p058746-Nd1e330">Ruffinus</name> adjungi. Dubitare 
+      <lb ed="#P" n="2"/>enim se de hac quaestione declarat in epistola ad 
+      Ana<lb ed="#P" n="3" break="no"/>stasium Papam. Sed ejus dubitatio non magni 
+      facien<lb ed="#P" n="4" break="no"/>da est, quod in eadem epistola dubitet etiam an 
+      om<lb ed="#P" n="5" break="no"/>nes animae simul initio mundi creatae sint. Quod 
+      <lb ed="#P" n="6"/>constat ab Ecclesia damnatum esse. 
+    </p>
+            <p xml:id="bt67yj-p058746-d1e345">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Sed ut ad Augustinum redeamus, fuit illi causa 
+      <lb ed="#P" n="8"/>dubitandi, quod Pelagiani ex eo capite quod 
+      ani<lb ed="#P" n="9" break="no"/>ma non sit ex traduce, conabantur evertere 
+      funda<lb ed="#P" n="10" break="no"/>tissimam Ecclesiae fidem de peccato originali, quod 
+      <lb ed="#P" n="11"/>secundum animam trahunt filii a parentibus. Hanc 
+      <lb ed="#P" n="12"/>enim causam compluribus locis ac nominatim in 
+      <lb ed="#P" n="13"/>epistola 157. &amp; lib. 3. de peccatorum meritis capit. 
+      <lb ed="#P" n="14"/>10. expresse significavit. Quin hoc argumento 
+      mo<lb ed="#P" n="15" break="no"/>tus interdum in opinionem quae traducem ponit, 
+      <lb ed="#P" n="16"/>nonnihil inclinasse visus est, ut lib. 10. de Genes. ad 
+      <lb ed="#P" n="17"/>literam cap. 13. Quanquam postea satis intellexit 
+      <lb ed="#P" n="18"/>invalidum esse hoc argumentum, ut in epistola 157. 
+      <lb ed="#P" n="19"/>&amp; libro 2. de peccatorum meritis cap. 26. adeo ut 
+      <lb ed="#P" n="20"/>in scriptis posterioribus aliquando in eam videatur 
+      <lb ed="#P" n="21"/>sententiam magis propendere, quae tradit 
+      anima<lb ed="#P" n="22" break="no"/>rum novam in singulis creationem, ut libr. 5. 
+      con<lb ed="#P" n="23" break="no"/>tra Julianum capit. tertio; atque hanc sententiam 
+      <lb ed="#P" n="24"/>etiam suam esse exoptet scribens ad Sanctum 
+      Hie<lb ed="#P" n="25" break="no"/>ronymum epistola 28. si fidei Catholicae qua 
+      pecca<lb ed="#P" n="26" break="no"/>tum originale asseritur, non repugnet: quod autem 
+      <lb ed="#P" n="27"/>non repugnet, definivit postea <name xml:id="bt67yj-p058746-Nd1e394">Zoymus Papa</name> in 
+      <lb ed="#P" n="28"/>epistola ad orbis Episcopos. In ea quippe hanc 
+      <lb ed="#P" n="29"/>consequentiam damnavit, qua ita colligebat 
+      Pela<lb ed="#P" n="30" break="no"/>gius. Anima non est ex traduce; ergo non 
+      contra<lb ed="#P" n="31" break="no"/>hio a parentibus peccatum. Unde apparet 
+      Augu<lb ed="#P" n="32" break="no"/>stinum hac istius consequentiae damnatione 
+      intel<lb ed="#P" n="33" break="no"/>lecta libenter assensurum fuisse Hieronymo atque 
+      <lb ed="#P" n="34"/>aliis, qui creationem animarum statuerunt. Quare 
+      <lb ed="#P" n="35"/>si Augustinus in alterutra parte quaestionis 
+      ponen<lb ed="#P" n="36" break="no"/>dus esset, potius adjungendus erit iis qui dicunt 
+      <lb ed="#P" n="37"/>animas in singulis recenter creari, quam qui 
+      pro<lb ed="#P" n="38" break="no"/>pagari eas volunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

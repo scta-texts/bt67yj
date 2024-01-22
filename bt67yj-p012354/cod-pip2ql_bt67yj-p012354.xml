@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="32"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p012354"><!-- l2d3c11" -->
+            <head xml:id="bt67yj-p012354-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p012354-Hd1e103" type="question-title">Utrum omnes angeli in primo instanti 
+      meruerint</head>
+            <p xml:id="bt67yj-p012354-d1e106">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> §. 11. Utrum omnes angeli in primo instanti 
+      <lb ed="#P" n="63"/>meruerint? 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e115">
+               <lb ed="#P" n="64"/>CUm solus Deus naturaliter sit beatus, creaturis 
+      <lb ed="#P" n="65"/>autem intellectualibus beatitudo praefigatur 
+      <lb ed="#P" n="66"/>tanquam ultimus finis ad quem per operationes 
+      <lb ed="#P" n="67"/>quasdam, tanquam per media, ad illum finem 
+      or<lb ed="#P" n="68" break="no"/>dinata pertingere debeant, oportuit tam angelum 
+      <lb ed="#P" n="69"/>quam hominem, non prius beatitudine potiri, quam 
+      <lb ed="#P" n="70"/>ad eam per merita bonarum operationum 
+      tende<lb ed="#P" n="71" break="no"/>rent, uti recte docet S. Thomas 1. q. 62. art. 4.
+    </p>
+            <p xml:id="bt67yj-p012354-d1e135">
+      <!--0265.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Sed cum non sit necesse, ut quicumque per 
+      meri<lb ed="#P" n="73" break="no"/>tum in finem beatitudinis tendit, eam aliquando 
+      <lb ed="#P" n="74"/>assequatur, (fieri enim potest, &amp; fit saepenumero ut 
+      <lb ed="#P" n="75"/>propter impedimentum peccati ad finem 
+      proposi<lb ed="#P" n="76" break="no"/>tum non perveniat) merito quaeritur, utrum per 
+      gra<lb ed="#P" n="77" break="no"/>tiam in creationem acceptam, omnes angeli 
+      merue<lb ed="#P" n="78" break="no"/>rint, etiam reprobi, &amp; utrum statim initio, id est, 
+      <lb ed="#P" n="79"/>primo instanti quo creati sunt meruerint, an postea. 
+      <lb ed="#P" n="80"/>Sunt enim connexae hae duae quaestiones, &amp; proinde 
+      <lb ed="#P" n="81"/>simul tractandae. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e165">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Quidam opinantur angelos omnes quamvis in 
+      <lb ed="#P" n="83"/>gratia conditos, per eam tamen primo instanti nihil 
+      <lb ed="#P" n="84"/>meruisse, licet bonam in omnibus agnoscant 
+      opera<lb ed="#P" n="85" break="no"/>tionem, nempe naturalem sui ipsorum 
+      cognitio<lb ed="#P" n="86" break="no"/>nem. Dicunt enim mox post primam hanc 
+      opera<lb ed="#P" n="87" break="no"/>tionem, quam vespertinam cognitionem vocant, 
+      <lb ed="#P" n="88"/>alios in Deum tetendisse cognitione supernaturali, 
+      <lb ed="#P" n="89"/>quam vocant matutinam; alios autem in seipsis 
+      re<lb ed="#P" n="90" break="no"/>manentes, inordinato propriae excellentiae amore, 
+      <lb ed="#P" n="91"/>factos fuisse tenebrosos. Et illos quidem unico illo 
+      <lb ed="#P" n="92"/>actu conversionis in Deum pervenisse statim ad 
+      bea<lb ed="#P" n="93" break="no"/>titudinem, hos autem actu contrario lapsos in 
+      dam<lb ed="#P" n="94" break="no"/>nationem. Idcirco autem negant diabolum etsi in 
+      <lb ed="#P" n="95"/>gratia creatum, meruisse beatitudinem, quia sic 
+      <lb ed="#P" n="96"/>consequens foret eum beat itudinem ipsam adeptum 
+      <lb ed="#P" n="97"/>esse, quod ea sit angelorum conditio, ut per unum 
+      <lb ed="#P" n="98"/>actum meritorium ad beatitudinem perveniant, 
+      <lb ed="#P" n="99"/>quemadmodum ex professo docet S. Thomas. 1. q. 
+      <lb ed="#P" n="100"/>62. art. 5. &amp; repetit q. 63. art. 6. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e211">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Verum multo rectius sentiunt qui docent omnes 
+      <lb ed="#P" n="102"/>angelos, &amp; quidem primo instanti quo facti sunt, 
+      <lb ed="#P" n="103"/>beatitudinem meruisse, idque secundum proprie 
+      di<lb ed="#P" n="104" break="no"/>ctam ac plenam meriti rationem. Hoc enim &amp; 
+      ra<lb ed="#P" n="105" break="no"/>tioni, &amp; scripturis, &amp; Patrum dictis magis est 
+      con<lb ed="#P" n="106" break="no"/>sonum. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e229">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Nam si rationem consulamus, cum angeli omnes 
+      <lb ed="#P" n="108"/>in gratia creati sint, &amp; primo instanti operationem 
+      <lb ed="#P" n="109"/>) aliquam habuerint, non tantum intellectus, verum 
+      <lb ed="#P" n="110"/>etiam voluntatis; non apparet ratio quare ea 
+      opera<lb ed="#P" n="111" break="no"/>tio dici non debeat a gratia tanquam habituali 
+      prin<lb ed="#P" n="112" break="no"/>cipio, quod jam habebant, profecta, &amp; ut scholastici 
+      <lb ed="#P" n="113"/>loquuntur gratia informata, &amp; per hoc meritoria, 
+      <lb ed="#P" n="114"/>praesertim cum ideo ponantur in gratia creati, 
+      quem<lb ed="#P" n="115" break="no"/>admodum suo loco dictum est, ut statim ab initio 
+      <lb ed="#P" n="116"/>moveri possent in finem ad quem conditi erant. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e255">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Nec vero repugnat quod initio habuerunt actus 
+      <lb ed="#P" n="118"/>naturales cognitionis &amp; dilectionis sui. Nihil enim 
+      <lb ed="#P" n="119"/>prohibet actus supernaturales, &amp; proinde 
+      merito<lb ed="#P" n="120" break="no"/>rios, simul ab initio fuisse cum naturalibus, sicut 
+      <lb ed="#P" n="121"/>simul esse possunt in statu beatitudinis; non enim 
+      <lb ed="#P" n="122"/>gloria destruit naturam. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e273">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Probatur item ab exemplo Christi qui in ipso 
+      in<lb ed="#P" n="124" break="no"/>stanti quo anima ejus sanctissima corpori fuit 
+      infu<lb ed="#P" n="125" break="no"/>sa, perfectissime meruit. Unde manifestum est nihil 
+      <lb ed="#P" n="126"/>obstare quo minus gratia sic perficiat naturam, ut 
+      <lb ed="#P" n="127"/>in primo instanti angelus &amp; homo mereantur etiam 
+      <lb ed="#P" n="128"/>perfecte. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e291">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Scriptura quoque Ezech. 28. testatur diabolum 
+      <lb ed="#P" n="130"/>aliquando ambulasse perfectum in viis suis, &amp; 
+      qui<lb ed="#P" n="131" break="no"/>dem a die suae conditionis. Ubi secundum morem 
+      <lb ed="#P" n="132"/>scripturae meritum significatur. Sic enim Deus dixit 
+      <lb ed="#P" n="133"/>ad Abraham Gen. 17. Ambula coram me, &amp; este 
+      <lb ed="#P" n="134"/>perfectus. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e310">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Sed &amp; Joan. 8. cum dicitur diabolus in veritate non 
+      <lb ed="#P" n="136"/>stetisse, tantum perseverasse in bono negatur. Unde 
+      <lb ed="#P" n="137"/>August. hanc scripturam adducens lib. 11. de civit. 
+      <lb ed="#P" n="138"/>c. 15. Oportet, inquit, ut hoc sic accipiamus, quod in 
+      <lb ed="#P" n="139"/>veritate fuerit, sed non permanserit; igitur 
+      secun<lb ed="#P" n="140" break="no"/>dum hanc scripturam, &amp; Augustini expositionem, 
+      <lb ed="#P" n="141"/>tantum opus illi erat ad beatitudinem consequendam 
+      <lb ed="#P" n="142"/>ut permaneret in eo quod acceperat; Meritum ergo 
+      <lb ed="#P" n="143"/>habebat, sed non meriti perseverantiam. Quod rursus 
+      <lb ed="#P" n="144"/>idem August. aperte significat lib. de corr. &amp; gr. cap. 
+      <lb ed="#P" n="145"/>10. Nam &amp; ibi solam boni perseverantiam in ordine 
+      <!--0266.xml-->
+      <pb ed="#P" n="33"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ad beatitudinem ab angelo praevaricatore removet. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e347">
+               <lb ed="#P" n="2"/>
+               <pc type="indent"/> Hae autem scripturae satis ostendunt etiam 
+      ange<lb ed="#P" n="3" break="no"/>los malos (quod enim de capite dicitur, de toto 
+      cor<lb ed="#P" n="4" break="no"/>pore intelligitur (meruisse beatitudinem. Et insuper 
+      <lb ed="#P" n="5"/>ex priori scriptura habetur quod meruerint ab 
+      initio<lb ed="#P" n="6" break="no"/>Hanc enim vim habet illud: a die conditionis tuae, ut 
+      <lb ed="#P" n="7"/>alibi diximus. Potest hoc ipsum probari ex scriptura 
+      <lb ed="#P" n="8"/>Job. 38. ubi Dominus testatur ab omnibus filiis Dei, 
+      <lb ed="#P" n="9"/>id est, angelis laudatum se fuisse, tunc quando 
+      <lb ed="#P" n="10"/>ponebat fundamenta terrae, id est, initio creationis 
+      <lb ed="#P" n="11"/>mundi. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e373">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Porro Augustinus de eadem re clarius suam 
+      sen<lb ed="#P" n="13" break="no"/>tentiam expressit lib. 12. de civit. c. 9. diserte 
+      affir<lb ed="#P" n="14" break="no"/>mans omnes angelos cum bona voluntate, id est, 
+      <lb ed="#P" n="15"/>cum amore casto, quo Deo adhaerent, creatos esse. 
+      <lb ed="#P" n="16"/>Nam bonam voluntatem, actualem intelligit, quia 
+      <lb ed="#P" n="17"/>per actum exponit, addens, id est, cum amore casto; 
+      <lb ed="#P" n="18"/>tum quia disputat eo loco utrum bonum 
+      volunta<lb ed="#P" n="19" break="no"/>tem angeli in seipsis fecerint; quod utique de actu 
+      <lb ed="#P" n="20"/>intelligitur. Et alioqui familiare est Augustino 
+      vo<lb ed="#P" n="21" break="no"/>luntatem pro actu voluntatis ponere. Huc etiam 
+      fa<lb ed="#P" n="22" break="no"/>cit quod Basilius in expositione psalm. 32. ad illud. 
+      <lb ed="#P" n="23"/>Vervo Domini caeli firmati sunt, dicit angelos 
+      confir<lb ed="#P" n="24" break="no"/>matos fuisse pene momento, quo creati sunt. Per hoc 
+      <lb ed="#P" n="25"/>enim solum primum instans reliquum facere 
+      vide<lb ed="#P" n="26" break="no"/>tur ad meritum eorum, ita ut statim a primo instanti 
+      <lb ed="#P" n="27"/>stabilitatem acceperint. Quod autem eandem primi 
+      <lb ed="#P" n="28"/>instantis perfectionem agnoscat etiam in angelis 
+      re<lb ed="#P" n="29" break="no"/>probis, ex eo colligitur, quia dicit eos ad malitiam 
+      <lb ed="#P" n="30"/>difficulter se potuisse transmovere. 
+    </p>
+            <p xml:id="bt67yj-p012354-d1e419">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Denique hanc sententiam S. Thomas habet 
+      aper<lb ed="#P" n="32" break="no"/>tissime 1. q. 63. art. 5. ad 4. dicens omnes angelos in 
+      <lb ed="#P" n="33"/>gratia creatos in primo instanti meruisse, &amp; 
+      quos<lb ed="#P" n="34" break="no"/>dam peccando hoc meritum amisisse, quae ejusdem 
+      <lb ed="#P" n="35"/>Doctoris etiam de primo homine sententia est q. 95. 
+      <lb ed="#P" n="36"/>art. 1. ad 5. in eo quod dicit primum hominem in 
+      pri<lb ed="#P" n="37" break="no"/>mo instanti suae creationis gratiae consensisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

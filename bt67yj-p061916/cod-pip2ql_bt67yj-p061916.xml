@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 18</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 18</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="160"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p061916"><!-- l2d17c18" -->
+            <head xml:id="bt67yj-p061916-Hd1e101">Quaestio 18</head>
+            <head xml:id="bt67yj-p061916-Hd1e103" type="question-title">Utrum paradisus adhuc supersit</head>
+            <p xml:id="bt67yj-p061916-d1e106">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> §. 18. Utrum paradisus adhuc supersit?
+    </p>
+            <p xml:id="bt67yj-p061916-d1e113">
+               <lb ed="#P" n="70"/>POstremo quaeritur utrum paradisus, e quo 
+      eje<lb ed="#P" n="71" break="no"/>Actus est Adam, etiam nunc exstet, an vero tan¬ 
+      <!--0393.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>dem, ut se habent res terrenae, temporum atque 
+      ele<lb ed="#P" n="73" break="no"/>mentorum injuria dissipatus ac destructus, 
+      amoeni<lb ed="#P" n="74" break="no"/>tatem illam primae conditionis amiserit, &amp; proinde 
+      <lb ed="#P" n="75"/>paradisus esse defierit. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e133">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Existere adhuc paradisum videtur ostendi ex 
+      scri<lb ed="#P" n="77" break="no"/>ptura Ecclesiastici 44. quae testatur Enoch 
+      transla<lb ed="#P" n="78" break="no"/>tum esse in paradisum, ut det gentibus 
+      poeniten<lb ed="#P" n="79" break="no"/>tiam. Hinc enim consequens apparet eum adhuc 
+      <lb ed="#P" n="80"/>degere in paradiso, donec inde ad nos redeat 
+      genti<lb ed="#P" n="81" break="no"/>bus poenitentiam praedicaturus. Atque idem de 
+      <lb ed="#P" n="82"/>Elia similiter translato habet communis opinio 
+      fi<lb ed="#P" n="83" break="no"/>delium, eademque a multis patribus tradita. Nam 
+      <lb ed="#P" n="84"/>S. Justinus Martyr ad Orthodoxos, quaest. 75. 76. 
+      <lb ed="#P" n="85"/>&amp; 85. &amp; sanctus Irenaeus libro 5. adversus haereses, 
+      <lb ed="#P" n="86"/>scribunt Enoch &amp; Eliam in paradiso unde pulsus 
+      <lb ed="#P" n="87"/>est Adam, versari &amp; in eo mansuros usque ad finem 
+      <lb ed="#P" n="88"/>saeculi. Tertullianus in apologetico contra gentes, 
+      <lb ed="#P" n="89"/>&amp; in fine libri de anima, itidem de paradiso, ut 
+      <lb ed="#P" n="90"/>adhuc perdurante, &amp; usque ad diem judicii 
+      perman<lb ed="#P" n="91" break="no"/>suro loquitur. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e173">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Isidorus lib. de vita &amp; obitu patriarcharum, agens 
+      <lb ed="#P" n="93"/>de Enoch eidem sententiae subscribit. Et ut alios 
+      <lb ed="#P" n="94"/>praetereamus, tradit eam Magister hac distinctione, 
+      <lb ed="#P" n="95"/>quem plerique sequuntur doctores scholastici. Nec 
+      <lb ed="#P" n="96"/>eam rem veterum quisquam videtur in dubium 
+      re<lb ed="#P" n="97" break="no"/>vocasse. Quin sanctus Augustinus libro de peccato 
+      <lb ed="#P" n="98"/>originali cap. 23. cum dixisset salva fide dubitari 
+      at<lb ed="#P" n="99" break="no"/>que ignorari posse ubi sit paradisus, in quo 
+      consti<lb ed="#P" n="100" break="no"/>tuit Deus hominem, subjecit haec verba. Cum tamen 
+      <lb ed="#P" n="101"/>esse illum paradisum fides Christiana non dubitet. 
+      <lb ed="#P" n="102"/>Quare secundum sanctum Augustinum videtur 
+      sal<lb ed="#P" n="103" break="no"/>va fide non posse dubitari, sitne adhuc in rerum 
+      ha<lb ed="#P" n="104" break="no"/>tura paradisus. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e206">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> At contra; si vera sunt quae supra de loco paradisi 
+      <lb ed="#P" n="106"/>diximus, non leve argumentum ex iis sumitur, 
+      pa<lb ed="#P" n="107" break="no"/>radisum jam non existere. Si enim ut ostendimus, 
+      <lb ed="#P" n="108"/>paradisus fuit circa Mesopotamiam vel Armeniam, 
+      <lb ed="#P" n="109"/>cum ea loca fuerint olim atque etiam hodie sint non 
+      <lb ed="#P" n="110"/>)tantum hominibus quaquaversum pervia, verum 
+      <lb ed="#P" n="111"/>etiam culta &amp; habitata, nec in iis usquam inveniatur 
+      <lb ed="#P" n="112"/>paradisus, neque quisquam dixerit cum ratione 
+      pa<lb ed="#P" n="113" break="no"/>radisum alio translatum esse, consequitur eum nunc 
+      <lb ed="#P" n="114"/>non exstare. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e232">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Accedit argumentum ex scriptura sacra, quae 
+      Ge<lb ed="#P" n="116" break="no"/>nes. 7. memorat totum orbem terrae aquis diluvii 
+      <lb ed="#P" n="117"/>coopertum fuisse, adeo ut etiam altissimos montes 
+      <lb ed="#P" n="118"/>aquae superaverint 15. cubitis. Quare necesse est 
+      <lb ed="#P" n="119"/>etiam paradisum cum caeteris totius terrae hortis 
+      <lb ed="#P" n="120"/>cultisque locis illo diluvio inundatum periisse. 
+      <lb ed="#P" n="121"/>Quod si hoc argumentum conjungas cum 
+      superio<lb ed="#P" n="122" break="no"/>ri, plus habebit roboris. Si enim paradisus fuit in 
+      <lb ed="#P" n="123"/>partibus Armeniae vel Mesopotamiae (dicit autem 
+      <lb ed="#P" n="124"/>scriptura arcam Noe decrescentibus aquis 
+      requie<lb ed="#P" n="125" break="no"/>visse super montibus Armeniae) plane consequens 
+      <lb ed="#P" n="126"/>est paradisum in illis regionibus situm, nec 
+      monti<lb ed="#P" n="127" break="no"/>bus altiorem, iisdem aquis quibus &amp; montes 
+      obru<lb ed="#P" n="128" break="no"/>tum fuisse. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e267">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Nec vero ulla ratio nos urget cur existimemus 
+      <lb ed="#P" n="130"/>paradisum permansisse, qualis initio factus 
+      legi<lb ed="#P" n="131" break="no"/>tur; sed magis credibile est eum locum more 
+      re<lb ed="#P" n="132" break="no"/>rum caducarum &amp; corruptibilium paulatim in 
+      de<lb ed="#P" n="133" break="no"/>terius mutatum, submota tandem custodia 
+      Che<lb ed="#P" n="134" break="no"/>rubim &amp; gladio flammeo, etiam hominibus 
+      ac<lb ed="#P" n="135" break="no"/>cessibilem factum esse saltem post diluvium. Nam 
+      <lb ed="#P" n="136"/>custodiam ei appositam tantisper tantum manere 
+      <lb ed="#P" n="137"/>oportuit, quamdiu locus ille integer &amp; incorruptus 
+      <lb ed="#P" n="138"/>primam fertilitatem &amp; pulchritudinem retinere 
+      po<lb ed="#P" n="139" break="no"/>tuit. Ac sane probabile fit terram paradisi simul cum 
+      <lb ed="#P" n="140"/>reliqua terra factam fuisse maledicto obnoxiam 
+      <lb ed="#P" n="141"/>propter hominis trangressionem in ipso paradiso 
+      <lb ed="#P" n="142"/>perpetratam, sicut ipsa rei experientia satis constat 
+      <lb ed="#P" n="143"/>Palestinam, id est, terram promissionis, quae juxta 
+      <lb ed="#P" n="144"/>fidem sacrarum literarum fuit aliquando terra 
+      <lb ed="#P" n="145"/>fluens lacte &amp; melle, posterioribus saeculis propter 
+      <!--0394.xml-->
+      <pb ed="#P" n="161"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Judaeorum peccata plurimum ab illa fertilitate 
+      de<lb ed="#P" n="2" break="no"/>generasse. Hanc sententiam ut probabilem tradunt 
+      <lb ed="#P" n="3"/>praeter authores capite superiori citatos Jansenius 
+      <lb ed="#P" n="4"/>commentar. in concordiam evangel. capit. 143. &amp; 
+      <lb ed="#P" n="5"/>
+               <ref xml:id="bt67yj-p061916-Rd1e325">
+                  <name xml:id="bt67yj-p061916-Nd1e327">R. Bellarmiuus</name> lib. de beatitudine sanctorum 
+      ca<lb ed="#P" n="6" break="no"/>pite 3</ref>. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e333">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Igitur ad ea quae in diversum objecta sunt 
+      respon<lb ed="#P" n="8" break="no"/>demus. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e342">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Apud Ecclesiasticum in Graeco codice non 
+      nomi<lb ed="#P" n="10" break="no"/>natur paradisus, sed tantum mentio fit translationis 
+      <lb ed="#P" n="11"/>Enoch, non addito loco in quem fuerit traislatus. 
+      <lb ed="#P" n="12"/>Et aperta est sancti Augustini doctrina loco supra 
+      <lb ed="#P" n="13"/>citato ex libro de peccato originali, incertum esse, 
+      <lb ed="#P" n="14"/>nec ad fidem pertinere utrum in paradiso sint 
+      <lb ed="#P" n="15"/>Enoch &amp; Elias an alibi. Unde &amp; sanctus Thomas 
+      <lb ed="#P" n="16"/>non simpliciter affirmare ausus est Enoch &amp; Eliam 
+      <lb ed="#P" n="17"/>degere in illo paradiso ex quo pulsus est Adam, sed 
+      <lb ed="#P" n="18"/>fere addit, ut dicitur, vel, ut creditur, 
+      quemadmo<lb ed="#P" n="19" break="no"/>dum videre est in prima parte quaestione 103. art. 2 
+      <lb ed="#P" n="20"/>&amp; secunda secundae quaestione 64. articulo 
+      secun<lb ed="#P" n="21" break="no"/>do. Qui etiam parte 3. quaestione 49. articulo 
+      se<lb ed="#P" n="22" break="no"/>cundo, cum docet paradisum tametsi a nullo 
+      habi<lb ed="#P" n="23" break="no"/>tetur, non tamen esse frustra; satis significat sibi 
+      <lb ed="#P" n="24"/>non esse certum quod in eo habitent Enoch &amp; Elias. 
+      <lb ed="#P" n="25"/>Et quidem <ref xml:id="bt67yj-p061916-Rd1e383">
+                  <name xml:id="bt67yj-p061916-Nd1e385">Rupertus</name> lib. 3. in Genes. capit. 
+      tricesi<lb ed="#P" n="26" break="no"/>motertio</ref> diserte negat scripturam significare quod 
+      <lb ed="#P" n="27"/>Enoch &amp; Elias translati sint in illum paradisum in 
+      <lb ed="#P" n="28"/>quo positus fuerat Adam. Sanctus Gregorius 
+      quo<lb ed="#P" n="29" break="no"/>que homilia 29. in evangelia scribit Eliam in aera 
+      <lb ed="#P" n="30"/>sublatum fuisse, ut in secretam quandam terrae 
+      re<lb ed="#P" n="31" break="no"/>gionem repente duceretur; at paradisi non 
+      memi<lb ed="#P" n="32" break="no"/>nit. Quanquam locus ille quicunque est in quo 
+      foe<lb ed="#P" n="33" break="no"/>liciter degunt Enoch &amp; Elias, rectissime paradisus 
+      <lb ed="#P" n="34"/>vocatur. Est enim illud nomen commune, etiam in 
+      <lb ed="#P" n="35"/>sacris literis, ut initio indicavimus. Quare etiamsi 
+      <lb ed="#P" n="36"/>in Ecclesiastico esset additum, in paradisum; nihil 
+      <lb ed="#P" n="37"/>id nostrae sententiae obstaret. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e416">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Ad Justini, Irenaei &amp; Tertulliani sententiam 
+      res<lb ed="#P" n="39" break="no"/>pondemus, eos quaedam alia iisdem locis adjungere, 
+      <lb ed="#P" n="40"/>quae ecclesia non recipit, ut quod in illum 
+      terre<lb ed="#P" n="41" break="no"/>strem paradisum ductus sit latro, quodque in eo 
+      <lb ed="#P" n="42"/>demorentur omnes justorum animae usque ad diem 
+      <lb ed="#P" n="43"/>judicii, proinde non temere nos facere, si etiam 
+      <lb ed="#P" n="44"/>in hoc quod volunt paradisum adhuc exstare, ab 
+      <lb ed="#P" n="45"/>iis recedimus. Fundant enim hanc suam sententiam 
+      <lb ed="#P" n="46"/>in propositionibus quibusdam aut incertis, aut certe 
+      <lb ed="#P" n="47"/>falsis. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e442">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Alii patres &amp; Scholastici doctores suam 
+      senten<lb ed="#P" n="49" break="no"/>tiam non afferunt ut certam, sed ut sibi 
+      probabi<lb ed="#P" n="50" break="no"/>lem, atque etiam quod fatemur, ut communiter 
+      <lb ed="#P" n="51"/>receptam, a qua proinde non est recedendum sine 
+      <lb ed="#P" n="52"/>ratione. 
+    </p>
+            <p xml:id="bt67yj-p061916-d1e458">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Sanctus Augustinus vero non sentit certum esse 
+      <lb ed="#P" n="54"/>secundum fidem quod paradisus nunc sit, sed quod 
+      <lb ed="#P" n="55"/>sit secundum aliquam temporis differentiam, 
+      scili<lb ed="#P" n="56" break="no"/>cet eam quam postulat ejus descriptio in Genesi. 
+      <lb ed="#P" n="57"/>Postulat autem illa quod paradisus olim fuerit, non 
+      <lb ed="#P" n="58"/>quod nunc adhuc existat. Loquitur enim sanctus 
+      <lb ed="#P" n="59"/>Augustinus contra Origenem qui allegorica sua 
+      in<lb ed="#P" n="60" break="no"/>terpretatione paradisum terrestrem tollebat e medio, 
+      <lb ed="#P" n="61"/>quasi nunquam fuisset. Unde nec dicit quod 
+      exi<lb ed="#P" n="62" break="no"/>stere paradisum fides Christiana non dubitet, sed 
+      <lb ed="#P" n="63"/>esse illum. Nam esse abstrahit ab existentia. Si quis 
+      <lb ed="#P" n="64"/>tamen urgendum omnino putet tempus praesens 
+      <lb ed="#P" n="65"/>apud sanctum Augustinum; illi respondebimus S. 
+      <lb ed="#P" n="66"/>Augustino certum &amp; indubitabile esse quod ille 
+      <lb ed="#P" n="67"/>paradisus sit in quo Deus hominem posuit, id est, 
+      <lb ed="#P" n="68"/>quod sit locus in terris, ubi sit, fueritve ille 
+      para<lb ed="#P" n="69" break="no"/>disus; idque aeque contra Origenem. Et fere haec 
+      <lb ed="#P" n="70"/>solutio cum priori convenit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

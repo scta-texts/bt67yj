@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="115"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p044126"><!-- l2d12c4" -->
+            <head xml:id="bt67yj-p044126-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p044126-Hd1e103" type="question-title">Utrum materia formas rerum tempore 
+      antecesserit</head>
+            <p xml:id="bt67yj-p044126-d1e106">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> §. 4. Utrum materia formas rerum tempore 
+      <lb ed="#P" n="10"/>antecesserit? 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e115">
+               <lb ed="#P" n="11"/>QUaeri praeterea solet circa rerum creationem 
+      <lb ed="#P" n="12"/>in genere; an materia rerum creata fuerit 
+      an<lb ed="#P" n="13" break="no"/>te formas, ita nimirum ut materia aliquando 
+      exstite<lb ed="#P" n="14" break="no"/>rit informis. Supponimus autem ex iis quae ad 
+      pri<lb ed="#P" n="15" break="no"/>mam distinct. dicta sunt, materiam non esse Deo 
+      <lb ed="#P" n="16"/>coaevam, sed a Deo creatam, cum prius non esset. 
+      <lb ed="#P" n="17"/>Quaestioni occasionem dederunt quaedam scripturae 
+      <lb ed="#P" n="18"/>loca, ut illud Genes. 1. Terra erat inais &amp; vacua, 
+      <lb ed="#P" n="19"/>pro quo 70. habent; Invisibilis &amp; incomposita. Et 
+      <lb ed="#P" n="20"/>quod Sapient. 11. legitur, Deum creasse orbem 
+      <lb ed="#P" n="21"/>terrarum ex materia invisa, vel, ut Graece est, 
+      infor<lb ed="#P" n="22" break="no"/>mi. Quomodo etiam Augustinus legit libro 1. de 
+      <lb ed="#P" n="23"/>Genes. ad litteram capite 14. Item quod Hebr. 11. 
+      <lb ed="#P" n="24"/>dicitur, aptata esse saecula verbo Dei, ut ex 
+      invisibi<lb ed="#P" n="25" break="no"/>libus visibilia fierent. Haec enim omnia significare 
+      <lb ed="#P" n="26"/>videntur materiam rudem, indigestam, &amp; 
+      forma<lb ed="#P" n="27" break="no"/>rum vacuam, ex qua rerum species fingerentur, 
+      <lb ed="#P" n="28"/>prius extitisse. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e157">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Pro hac sententia adducuntur patres ut Basilius 
+      <lb ed="#P" n="30"/>homil. 2. Hexameron, Ambros. lib. 1. ejusdem 
+      argu<lb ed="#P" n="31" break="no"/>menti cap. 8. &amp; Chrysost. homil. 2. super Genesim. 
+      <lb ed="#P" n="32"/>atque alii nonnulli, qui omnes materiam dicunt ab 
+      <lb ed="#P" n="33"/>initio creatam informem, quae postea per dierum 
+      <lb ed="#P" n="34"/>inter valla formata fuerit. Augustinus etiam lib. 12. 
+      <lb ed="#P" n="35"/>confessionum cap. 3. &amp; sequentibus usque ad 12. late 
+      <lb ed="#P" n="36"/>docet materiam factam informem, id est, carentem 
+      <lb ed="#P" n="37"/>omni forma, ita ut esset prope nihil, eamque 
+      signi<lb ed="#P" n="38" break="no"/>ficatam Genes. 1. per terram, ut ipse ex 70. legit, 
+      in<lb ed="#P" n="39" break="no"/>visib lem &amp; incompositam. Ad eundem modum 
+      scri<lb ed="#P" n="40" break="no"/>bit lib. 2. de Genes. ad literam cap. 11. &amp; alibi. Beda. 
+      <lb ed="#P" n="41"/>quoque memoratum Sapientiae locum exponens, 
+      in<lb ed="#P" n="42" break="no"/>de colligit materiam ante formam exstitisse. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e193">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Ex his vetustior Lactantius lib. 2. divinarum 
+      insti<lb ed="#P" n="44" break="no"/>tutionum cap. 8. scribit Deum materiam praeparasse, 
+      <lb ed="#P" n="45"/>antequam mundum faceret. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e204">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Porro in contrarium gravissimae sunt authoritates 
+      <lb ed="#P" n="47"/>&amp; rationes, ut mox patebit. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e213">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Est autem distinctione explicanda haec quaestio. 
+      <lb ed="#P" n="49"/>Nam si intelligatur de materia quae omni prorsus 
+      <lb ed="#P" n="50"/>forma nuda sit &amp; vacua; respondemus talem ante 
+      <lb ed="#P" n="51"/>res ipsas materia &amp; forma constantes non exstitisse. 
+      <lb ed="#P" n="52"/>Quod probatur apertissime ex initio Genesis, ubi 
+      <lb ed="#P" n="53"/>non materiam, sed caelum &amp; terram in principio, id 
+      <lb ed="#P" n="54"/>est, primo omnium creata a Deo legimus. Neque 
+      <lb ed="#P" n="55"/>enim caeli &amp; terrae nomine materia plane informis 
+      <lb ed="#P" n="56"/>intelligi potest, cum haec duo nomina res diversas 
+      <lb ed="#P" n="57"/>significent; diversitatem autem non materia sed 
+      for<lb ed="#P" n="58" break="no"/>ma inducat. Scribit in hanc sententiam Augustinus 
+      <lb ed="#P" n="59"/>lib. 1. de Genesi ad literam cap. 15. Non est, inquit, 
+      <lb ed="#P" n="60"/>informis materia rebus formatis tempore prior, cum 
+      <lb ed="#P" n="61"/>sit utrumque simul creatum, &amp; unde factum est &amp; 
+      <lb ed="#P" n="62"/>quod factum est, sicut vox materia est verborum, 
+      <lb ed="#P" n="63"/>verba vero formatam vocem indicant. Non autem 
+      <lb ed="#P" n="64"/>qui loquitur, prius emittit informem vocem quam 
+      <lb ed="#P" n="65"/>possit postea colligere &amp; in verba formare; &amp; quae 
+      se<lb ed="#P" n="66" break="no"/>quuntur. Unde perspicue patet ex Augustini 
+      sen<lb ed="#P" n="67" break="no"/>tentia materiam quando creata est, non prorsus 
+      in<lb ed="#P" n="68" break="no"/>formem fuisse, sed ut ipse eodem loco concludit, 
+      <lb ed="#P" n="69"/>formatam. Quod &amp; repetit libro 1. contra 
+      adversa<lb ed="#P" n="70" break="no"/>rium legis &amp; prophetarum cap. 9. &amp; lib. 12. 
+      con<lb ed="#P" n="71" break="no"/>fessionum cap. 29.
+    </p>
+            <p xml:id="bt67yj-p044126-d1e270">
+      <!--0348.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Huic sententiae subscribunt non modo Latini 
+      pa<lb ed="#P" n="73" break="no"/>tres Augustino posteriores, verum etiam universa 
+      <lb ed="#P" n="74"/>Theologorum schola. Multi vero quorum princeps 
+      <lb ed="#P" n="75"/>sanctus Thomas diversam opinionem non solum 
+      <lb ed="#P" n="76"/>falsam, sed simpliciter impossibilem arbitrantur, 
+      ut<lb ed="#P" n="77" break="no"/>pote negantes fieri posse, ut vel momento existat 
+      <lb ed="#P" n="78"/>materia sine forma. Docet id S. Thomas prima parte 
+      <lb ed="#P" n="79"/>quaest. 66. art. 1. ubi quaestionem hanc ex professo 
+      <lb ed="#P" n="80"/>tractat; item ejusdem partis quaest. 44. art. 2. ad 3. 
+      <lb ed="#P" n="81"/>de potentia quaest. 4. art. 1. In quodlibet. quaestione 
+      <lb ed="#P" n="82"/>3. artic. 1. &amp; in praesentem distinct. articulo quarto. 
+      <lb ed="#P" n="83"/>Ratio ejus praecipua haec est. Si materia existeret 
+      <lb ed="#P" n="84"/>sine forma, simul esset &amp; non esset, quae est 
+      mani<lb ed="#P" n="85" break="no"/>festa contradictio. Sequela probatur; esset enim, 
+      <lb ed="#P" n="86"/>quia ponitur existere; non esset, quia ponitur 
+      ca<lb ed="#P" n="87" break="no"/>rens forma. Nihil autem existit sine forma. Haec 
+      <lb ed="#P" n="88"/>enim dat esse rei. Nec quicquam omnino esse potest 
+      <lb ed="#P" n="89"/>actu sine forma, quae est actus rei; dicere igitur 
+      ma<lb ed="#P" n="90" break="no"/>teriam existere sine forma, est dicere, ens actu sine 
+      <lb ed="#P" n="91"/>actu. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e320">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Item materia nuda tantum est ens potentia. Unde 
+      <lb ed="#P" n="93"/>recte docent Physici materiam per se &amp; sine forma 
+      <lb ed="#P" n="94"/>consideratam nihil, aut prope nihil esse; ergo 
+      repu<lb ed="#P" n="95" break="no"/>gnat ei esse actu, nisi ejusmodi esse aliunde, id est, a 
+      <lb ed="#P" n="96"/>forma accipiat. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e336">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Sunt &amp; aliae rationes, quas vide apud Cajetanum 
+      <lb ed="#P" n="98"/>super tractatum S. Thomae de ente &amp; essentia 
+      quae<lb ed="#P" n="99" break="no"/>stione 8. ubi &amp; argumenta Scoti diversum opinantis 
+      <lb ed="#P" n="100"/>refellit. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e350">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Verum quidquid sit de possibili (neque enim 
+      con<lb ed="#P" n="102" break="no"/>temnendae sunt rationes quae etiam pro Scoti 
+      opi<lb ed="#P" n="103" break="no"/>nione sive ab ipso, sive ab aliis adferuntur) satis 
+      <lb ed="#P" n="104"/>constare nobis debet ex apertis scripturae verbis de 
+      <lb ed="#P" n="105"/>facto, scilicet materiam non fuisse initio creatam a 
+      <lb ed="#P" n="106"/>Deo absque omni forma. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e368">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Caeterum quoniam alia quaedam est informitas, 
+      <lb ed="#P" n="108"/>quae non simpliciter excludit formam, sed vel 
+      for<lb ed="#P" n="109" break="no"/>mam rei praestantioris, vel ejusdem rei ornatum ac 
+      <lb ed="#P" n="110"/>pulchritudinem bifariam adhuc quaestio proposita 
+      <lb ed="#P" n="111"/>intelligi potest. Uno modo, utrum initio fecerit 
+      <lb ed="#P" n="112"/>Deus chaos quoddam in quo solum virtute &amp; quasi 
+      <lb ed="#P" n="113"/>in semine inessent caelum &amp; terra cum caeteris 
+      ele<lb ed="#P" n="114" break="no"/>mentis, non autem secundum formas suas 
+      substan<lb ed="#P" n="115" break="no"/>tiales; sic tamen ut ipsum illud chaos, per suam 
+      <lb ed="#P" n="116"/>quandam formam indigestae illi materiae congruam. 
+      <lb ed="#P" n="117"/>subsisteret. Hoc enim videri potest alicubi sensisse 
+      <lb ed="#P" n="118"/>Augustinus, ut libro 1. de Genesi contra Manichaeos 
+      <lb ed="#P" n="119"/>cap. 3. 4. &amp; 7: &amp; lib. 12. confessionum c. 19. Item 
+      <lb ed="#P" n="120"/>Gennadius de ecclesiasticis dogmatibus capite 10. 
+      <lb ed="#P" n="121"/>Manifestius autem id senserunt ethnici quidam 
+      phi<lb ed="#P" n="122" break="no"/>losophi, &amp; poetae, quorum sententiam versibus 
+      ex<lb ed="#P" n="123" break="no"/>plicat Ovidius lib. 1. Metamorph. Horum literis 
+      <lb ed="#P" n="124"/>imbutus Erasmus in commentario hymni 
+      Pruden<lb ed="#P" n="125" break="no"/>tiani de Epiphania Domini affirmat chaos fuisse ante 
+      <lb ed="#P" n="126"/>mundum conditum. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e416">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Sed huic opinioni rursum obstat, quod initio 
+      <lb ed="#P" n="128"/>Gen. dicitur Deus in principio fecisse caelum &amp; 
+      ter<lb ed="#P" n="129" break="no"/>ram, non chaos aliquod confusum ex quo postea 
+      <lb ed="#P" n="130"/>caelum &amp; terra producerentur. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e429">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Deinde, si formam aliquam communem materiae 
+      <lb ed="#P" n="132"/>initio conditae tribuas, cui postea supervenirent 
+      for<lb ed="#P" n="133" break="no"/>mae diversae speciales, quibus illa distingueretur, jam 
+      <lb ed="#P" n="134"/>redibitur ad opinionem antiquorum naturalium, qui 
+      <lb ed="#P" n="135"/>materiam primam ponebant ens aliquod actu. Unde 
+      <lb ed="#P" n="136"/>sequeretur rerum ex ea generationem non esse nisi 
+      <lb ed="#P" n="137"/>alterationem, ut ex Philosopho argumentatur S. 
+      <lb ed="#P" n="138"/>Thomas in summa. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e451">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Alter intelligendae quaestionis modus est; utrum 
+      <lb ed="#P" n="140"/>ab initio caelum &amp; terra &amp; caetera elementa vere 
+      <lb ed="#P" n="141"/>quidem exstiterint secundum formas suas 
+      substan<lb ed="#P" n="142" break="no"/>tiales, sed ita ut ea dispositione, ornatu ac 
+      pulchri<lb ed="#P" n="143" break="no"/>tudine carerent, cujusmodi postea acceperunt. Sic 
+      <lb ed="#P" n="144"/>explicatae quaestioni prorsus est affirmative 
+      respon<lb ed="#P" n="145" break="no"/>dendum. Nam &amp; caelum luce atque stellarum ornatu 
+      <!--0349.xml-->
+      <pb ed="#P" n="116"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>carebat ab initio, &amp; terra aquis undique cooperta 
+      <lb ed="#P" n="2"/>ac tenebris immersa multum aberat ab eo cultu &amp; 
+      <lb ed="#P" n="3"/>specie in qua nunc conspicitur. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e484">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Atque hoc sensu accipiendum quod initio 
+      Gene<lb ed="#P" n="5" break="no"/>sis dicitur: Terra autem erat inanis &amp; vacua; pro 
+      <lb ed="#P" n="6"/>quo in Hebraeo est, solitudo &amp; inanitas. Per quod 
+      <lb ed="#P" n="7"/>significatur terram incultam &amp; plantis atque 
+      ani<lb ed="#P" n="8" break="no"/>malibus vacuam fuisse. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e501">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Eadem porro secundum 70. invisibilis erat &amp; 
+      in<lb ed="#P" n="10" break="no"/>composita; Invisibilis quidem propter tenebras &amp; 
+      <lb ed="#P" n="11"/>aquam qua undique tegebatur: Incomposita vero 
+      <lb ed="#P" n="12"/>quia inculta ut modo dictum est. Hanc 
+      informita<lb ed="#P" n="13" break="no"/>tis explicationem primum ipse contextus scripturae 
+      <lb ed="#P" n="14"/>postulat. Sequitur enim: Et tenebrae erant super 
+      fa<lb ed="#P" n="15" break="no"/>ciem abyssi, &amp;c. Deinde plerique patres qui 
+      Gene<lb ed="#P" n="16" break="no"/>sim mundi enarraverunt, ut Basilius, sanctus 
+      Am<lb ed="#P" n="17" break="no"/>brosius, Chrysostomus, Theodoretus, &amp; alii, non 
+      <lb ed="#P" n="18"/>aliam ab ea quam diximus informitatem hic 
+      ima<lb ed="#P" n="19" break="no"/>ginati sunt; utpote per caelum, caelum, per terram, 
+      <lb ed="#P" n="20"/>terram intelligentes, sed utrumque adhuc informe 
+      <lb ed="#P" n="21"/>&amp; ornatu carens. Ubi etiam est notandum, sub 
+      ap<lb ed="#P" n="22" break="no"/>pellatione elementi maxime materialis &amp; sensibilis, 
+      <lb ed="#P" n="23"/>secundum quosdam, reliqua tria comprehensa 
+      in<lb ed="#P" n="24" break="no"/>telligi; secundum alios autem solum ipsi 
+      cogna<lb ed="#P" n="25" break="no"/>tum elementum aquae simul comprehendi; reliqua 
+      <lb ed="#P" n="26"/>vero duo in caeli nomine intelligi. Quorum 
+      senten<lb ed="#P" n="27" break="no"/>tia magis placet. Nam aerem &amp; quicquid sursum est, 
+      <lb ed="#P" n="28"/>caeli nomine comprehendi, frequentissimum est in 
+      <lb ed="#P" n="29"/>sacris literis. Sed de ea re infra. 
+      <lb ed="#P" n="30"/>Eodem modo intelligendumquod ex Sap. 11. 
+      ob<lb ed="#P" n="31" break="no"/>jiciebatur. Sentit enim Sapiens Deum creasse 
+      or<lb ed="#P" n="32" break="no"/>bem terrarum, vel ut Graece est κόσμου, id est, 
+      mun<lb ed="#P" n="33" break="no"/>dum (hoc enim Graecum vocabulum ab ornatu 
+      di<lb ed="#P" n="34" break="no"/>ctum est) ex materia informi, id est, ex primis illis 
+      <lb ed="#P" n="35"/>corporibus istiusmodi ornatum, a quo κόσμος 
+      dicere<lb ed="#P" n="36" break="no"/>tur, nondum habentibus. Itaque secundum 
+      Sa<lb ed="#P" n="37" break="no"/>pientem informis materia praecessit mundum, 
+      qua<lb ed="#P" n="38" break="no"/>lem nunc videmus etiam tempore; quia informitas 
+      <lb ed="#P" n="39"/>illa jam explicata praecessit hunc ornatum. In hunc 
+      <lb ed="#P" n="40"/>sensum praeter patres modo nominatos, quos 
+      con<lb ed="#P" n="41" break="no"/>stat de hujusmodi informitate fuisse locutos, etiam 
+      <lb ed="#P" n="42"/>Beda &amp; Lactantius exponi possunt. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e579">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Quod autem Apost. Heb. 11. dicit ex 
+      invisibili<lb ed="#P" n="44" break="no"/>bus visibilia facta; sanctus Thomas 1. part. quaest. 
+      <lb ed="#P" n="45"/>65. art. 4. ad primum, de rerum ideis exponit, quae 
+      <lb ed="#P" n="46"/>sunt in mente divina. Alii sic: Ex invisibilibus, sive 
+      <lb ed="#P" n="47"/>ex non apparentibus (ita enim Graece est) id est, ex 
+      <lb ed="#P" n="48"/>non existentibus facta esse ea quae videntur, quia 
+      <lb ed="#P" n="49"/>nimirum omnia ex nihilo facta sunt. Sed rectius 
+      <lb ed="#P" n="50"/>est, ni fallor, ut &amp; hanc scripturam conformiter cum 
+      <lb ed="#P" n="51"/>prioribus exponamus, eo quod terra secundum 70. 
+      <lb ed="#P" n="52"/>(quorum versionem passim sequitur illius epistolae 
+      <lb ed="#P" n="53"/>scriptor) initio ἀόρατος, id est, invisibilis fuisse 
+      di<lb ed="#P" n="54" break="no"/>catur. 
+    </p>
+            <p xml:id="bt67yj-p044126-d1e610">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Quid vero ad Augustini quaedam loca sit 
+      respon<lb ed="#P" n="56" break="no"/>dendum; satis jam patet ex dictis. Ipse enim suam 
+      <lb ed="#P" n="57"/>mentem clarissime interpretatus est lib. 1. de Genesi 
+      <lb ed="#P" n="58"/>ad literam cap. 15. &amp; lib. 12. confessionum cap. 17. 
+      <lb ed="#P" n="59"/>&amp; sequentibus usque ad 29. atque alibi. Vult enim 
+      <lb ed="#P" n="60"/>quod informitas materiae non praecesserit tempore 
+      <lb ed="#P" n="61"/>formationem ejus; sed solum ordine naturae sive 
+      ori<lb ed="#P" n="62" break="no"/>ginis atque intelligentiae nostrae; quomodo, ut ex eo 
+      <lb ed="#P" n="63"/>supra dictum est, vox prior est verbo. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

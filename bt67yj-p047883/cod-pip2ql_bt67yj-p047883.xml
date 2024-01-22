@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="124"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p047883"><!-- l2d14c4" -->
+            <head xml:id="bt67yj-p047883-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p047883-Hd1e103" type="question-title">De opere tertiae diei annotatio</head>
+            <p xml:id="bt67yj-p047883-d1e106">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> §. 4. De opere tertiae diei annotatio.
+    </p>
+            <p xml:id="bt67yj-p047883-d1e113">
+               <lb ed="#P" n="118"/>TErtio diei juxta communiorem sententiam, duo 
+      <lb ed="#P" n="119"/>opera ascribuntur; scilicet congregatio 
+      aqua<lb ed="#P" n="120" break="no"/>rum, &amp; productio terrae nascentium. Quorum illud 
+      <lb ed="#P" n="121"/>factum est hujus causa; idcirco enim terra nudata est 
+      <lb ed="#P" n="122"/>aquis, ut primum germinare &amp; fructum facere; 
+      <lb ed="#P" n="123"/>deinde etiam animalium generationi &amp; habitationi 
+      <lb ed="#P" n="124"/>apta esse posset. De priori opere notandum, non sic in 
+      <lb ed="#P" n="125"/>unum locum aquas convenire jussas quasi omnes 
+      si<lb ed="#P" n="126" break="no"/>mul unum eumdemque locum occupare deberent, 
+      <lb ed="#P" n="127"/>non autem in plura depressa &amp; humiliora terrae loca se 
+      <lb ed="#P" n="128"/>recipere. Hoc enim &amp; contra id quod videmus est, &amp; 
+      <lb ed="#P" n="129"/>scripturae contrarium, quae cum alibi passim, tum in 
+      <lb ed="#P" n="130"/>hac ipsa descriptione separationis aquarum plura 
+      ma<lb ed="#P" n="131" break="no"/>ria, &amp; consequenter plura congregatarum aquarum 
+      <lb ed="#P" n="132"/>loca agnoscit. Ait enim plurali numero: 
+      Congregatio<lb ed="#P" n="133" break="no"/>nesque aquarum appellavitmaria. Unde perspicue 
+      da<lb ed="#P" n="134" break="no"/>tur intelligi, hac aquarum a terra separatione plures 
+      <lb ed="#P" n="135"/>factas fuisse aquarum congregationes, scilicet 
+      diver<lb ed="#P" n="136" break="no"/>sis terrae finibus susceptas, &amp; a superficie terrae 
+      altio<lb ed="#P" n="137" break="no"/>ris reductas, suisque litoribus velut terminis ita 
+      se<lb ed="#P" n="138" break="no"/>clusas, ut terram a suis officiis quae in animantium 
+      <lb ed="#P" n="139"/>plantarumque generatione, nutritione atque 
+      conser<lb ed="#P" n="140" break="no"/>vatione potissimum consistunt, nequaquam 
+      impe<lb ed="#P" n="141" break="no"/>diant. Haec igitur maria sunt plura quidem numero, 
+      <lb ed="#P" n="142"/>sed quorum unumquodque divisum a terra, suum 
+      ha<lb ed="#P" n="143" break="no"/>beat locum. Nam in eo quod dicitur: Congregentur 
+      <lb ed="#P" n="144"/>aquae in unum locum; facile est dialectico intelligere 
+      <!--0358.xml-->
+      <pb ed="#P" n="125"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>locum non determinate accipi sed confuse, ratione 
+      <lb ed="#P" n="2"/>numeri pluralis aquae; quomodo dicimus omnes 
+      ho<lb ed="#P" n="3" break="no"/>mines habere unum caput &amp; duas manus. 
+    </p>
+            <p xml:id="bt67yj-p047883-d1e187">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Haec declaratio cum sit &amp; plana &amp; textui valde 
+      con<lb ed="#P" n="5" break="no"/>sentanea, jam impertinens est operi divino quod hic 
+      <lb ed="#P" n="6"/>describitur, eorum disputatio, qui quaerunt, utrum 
+      <lb ed="#P" n="7"/>fatendum sit omnia maria &amp; flumina in unum 
+      ma<lb ed="#P" n="8" break="no"/>gnum mare, id est, oceanum confluere propterea 
+      <lb ed="#P" n="9"/>quod dictum sit aquas jussas congregari in unum 
+      lo<lb ed="#P" n="10" break="no"/>cum. Jam enim patet id statui non posse ex hac 
+      scri<lb ed="#P" n="11" break="no"/>ptura, tametsi in eam sententiam fere omnes tam 
+      <lb ed="#P" n="12"/>profani scriptores, quam ecclesiastici conveniunt, 
+      <lb ed="#P" n="13"/>omnia maria cum oceano continuari; nisi quod de 
+      <lb ed="#P" n="14"/>mari Caspio secus sentiunt graves authores, 
+      Aristo<lb ed="#P" n="15" break="no"/>teles, Ptolomaeus, Herodotus &amp; alii. Sed istius 
+      con<lb ed="#P" n="16" break="no"/>troversiae tractatio huc non pertinet. 
+    </p>
+            <p xml:id="bt67yj-p047883-d1e221">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Ex dicta declaratione illud quoque refellitur 
+      tan<lb ed="#P" n="18" break="no"/>quam praeter rationem dictum, quod in explanatione 
+      <lb ed="#P" n="19"/>hujus scripturae a nonnullis traditum est, aquas ita 
+      <lb ed="#P" n="20"/>fuisse in unum locum collectas, ut in maximam 
+      alti<lb ed="#P" n="21" break="no"/>tudinem clatae tota terra celsiores eminerent. Unde 
+      <lb ed="#P" n="22"/>&amp; nata est quorumdam inquisitio: Num propterea 
+      <lb ed="#P" n="23"/>quod seorsim in unum locum congestae sunt aquae, 
+      <lb ed="#P" n="24"/>proprium illi elemento centrum tam gravitatis quam 
+      <lb ed="#P" n="25"/>magnitudinis tribuendum sit, diversum scilicet a 
+      cen<lb ed="#P" n="26" break="no"/>tro mundi &amp; elementi terrae, quemadmodum 
+      opina<lb ed="#P" n="27" break="no"/>tur Paulus Burgensis in additione sua ad Lirani 
+      expo<lb ed="#P" n="28" break="no"/>sitionem super Genes. 1. Quae opinio praeterquam 
+      <lb ed="#P" n="29"/>quod infirmo fundamento nititur ex falso hujus 
+      scri<lb ed="#P" n="30" break="no"/>pturae intellectu accepto, ut jam ostensum est, etiam 
+      <lb ed="#P" n="31"/>placitis Philosophiae naturalis adversatur, &amp; cum ipsa 
+      <lb ed="#P" n="32"/>pugnat experientia. Ex eo enim quod eadem 
+      dire<lb ed="#P" n="33" break="no"/>cta linea &amp; ad perpendiculum partes aquae &amp; terrae 
+      <lb ed="#P" n="34"/>deorsum tendere videmus, certa demonstratione 
+      <lb ed="#P" n="35"/>consequens est utriusque elementi unum idemque 
+      <lb ed="#P" n="36"/>gravitatis centrum esse. Ex eo vero quod aquae non 
+      <lb ed="#P" n="37"/>unum aliquod terrae latus occupant, sed diversos 
+      at<lb ed="#P" n="38" break="no"/>que etiam ex diametro oppositos terrarum sinus, ut 
+      <lb ed="#P" n="39"/>ex orbis descriptione notissimum est; illud etiam I 
+      <lb ed="#P" n="40"/>monstratur, ne quidem magnitudinis centrum aliud 
+      <lb ed="#P" n="41"/>aquae tribuendum esse, quam terrae, sed utrique 
+      pror<lb ed="#P" n="42" break="no"/>sus unum &amp; idem, scilicet tamquam uni globo ex 
+      <lb ed="#P" n="43"/>aqua &amp; terra composito. 
+    </p>
+            <p xml:id="bt67yj-p047883-d1e284">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Notandum est autem ad pleniorem praesentis 
+      ope<lb ed="#P" n="45" break="no"/>ris divini notitiam, virtute jussionis divinae factas 
+      <lb ed="#P" n="46"/>fuisse in terra quae prius ex sua creatione perfecte 
+      ro<lb ed="#P" n="47" break="no"/>tunda &amp; sphaerica erat, civitates quasdam, id est, 
+      <lb ed="#P" n="48"/>loca demissiora ac depressiora in quae aquae seorsim 
+      <lb ed="#P" n="49"/>congregari jussae defluerent, multis aliis terrae 
+      parti<lb ed="#P" n="50" break="no"/>bus e diverso in altum plus minusve exuberantibus, 
+      <lb ed="#P" n="51"/>quos montes collesque vocamus. Itaque magna cum 
+      <lb ed="#P" n="52"/>ratione dicitur, licet id scriptura non expresserit, 
+      <lb ed="#P" n="53"/>montes eodem die factos fuisse cum opere 
+      congrega<lb ed="#P" n="54" break="no"/>tionis aquarum in loca terrae depressiora. Dico 
+      fa<lb ed="#P" n="55" break="no"/>ctos quoad figuram, non quoad substantiam. Terra 
+      <lb ed="#P" n="56"/>enim tota sicut &amp; aqua primo die facta fuit. 
+    </p>
+            <p xml:id="bt67yj-p047883-d1e317">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> De posteriori hujus diei opere, quo terrae indita est 
+      <lb ed="#P" n="58"/>vis proferendi omnia ea quae terrae nascentia 
+      dicun<lb ed="#P" n="59" break="no"/>tur, idque cum effectu hujusmodi productionis, de 
+      <lb ed="#P" n="60"/>qua dicitur: Et protulit terra herbam virentem, &amp;c. 
+      <lb ed="#P" n="61"/>hoc tantum adjicimus, ideo dictum esse de 
+      unoquo<lb ed="#P" n="62" break="no"/>que plantarum genere: Cujus semen in semetipso sit 
+      <lb ed="#P" n="63"/>super terram, quod non est dictum postea de 
+      anima<lb ed="#P" n="64" break="no"/>libus; quia herbae, arbores, aliaeque plantae non 
+      <lb ed="#P" n="65"/>egent diverso sexu ad producendum sibi simile, sicut 
+      <lb ed="#P" n="66"/>egent animalia, sed ad eam rem sufficit eis semen 
+      <lb ed="#P" n="67"/>suum terrae tanquam matris gremio receptum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

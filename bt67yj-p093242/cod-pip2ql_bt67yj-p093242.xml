@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="240"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p093242"><!-- l2d24c11" -->
+            <head xml:id="bt67yj-p093242-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p093242-Hd1e103" type="question-title">Ejusdem doctrinae per rationes evidens 
+        probatio</head>
+            <p xml:id="bt67yj-p093242-d1e106">
+      <!--0473.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>§. 11. Ejusdem doctrinae per rationes evidens 
+      <lb ed="#P" n="72"/>probatio.
+    </p>
+            <p xml:id="bt67yj-p093242-d1e117">
+               <lb ed="#P" n="73"/>EX scripturis &amp; patribus facile est insignes 
+      ali<lb ed="#P" n="74" break="no"/>quot rationes colligere, quibus doceatur esse in 
+      <lb ed="#P" n="75"/>homine etiam lapso liberum arbitrium, nec id 
+      mo<lb ed="#P" n="76" break="no"/>do quoad actiones externas civiles, sed etiam quoad 
+      <lb ed="#P" n="77"/>internas &amp; morales, atque eas quae pertinent ad 
+      ve<lb ed="#P" n="78" break="no"/>ram pietatem. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e133">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Prima ratio sit ista: Homo per peccatum non 
+      de<lb ed="#P" n="80" break="no"/>siit esse animal rationale, &amp; naturam habere 
+      rationa<lb ed="#P" n="81" break="no"/>lem. Hanc autem naturam arbitrii libertas 
+      insepara<lb ed="#P" n="82" break="no"/>biliter consequitur, utpote ab intellectu seu ratione 
+      <lb ed="#P" n="83"/>velut apice necessario profluens; igitur homo 
+      natu<lb ed="#P" n="84" break="no"/>raliter habet, neque per peccatum habere desiit 
+      li<lb ed="#P" n="85" break="no"/>berum arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e154">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Hanc rationem illustrat secunda, quae talis est; 
+      <lb ed="#P" n="87"/>Modus appetendi sequitur modum cognoscendi: at 
+      <lb ed="#P" n="88"/>in homine etiam post peccatum est cognitio tam 
+      fi<lb ed="#P" n="89" break="no"/>nis quam mediorum, non eorum tantum quae sunt 
+      <lb ed="#P" n="90"/>ad finem necessaria, verum etiam eorum quae non 
+      <lb ed="#P" n="91"/>necessaria sunt sed contingentia; ergo appetitus illi 
+      <lb ed="#P" n="92"/>cognitioni respondens, id est, voluntas hominis ex 
+      <lb ed="#P" n="93"/>necessitate quidem movetur in finem &amp; in media 
+      ne<lb ed="#P" n="94" break="no"/>cessario cum fine cohaerentia; contingenter autem 
+      <lb ed="#P" n="95"/>in media contingentia, id est, non necessariam cum 
+      <lb ed="#P" n="96"/>fine connexionem habentia. Est igitur in hominis 
+      <lb ed="#P" n="97"/>voluntate libertas contingentiae, qua nimirum 
+      in<lb ed="#P" n="98" break="no"/>ter plura media necessario cum fine connexa, possit 
+      <lb ed="#P" n="99"/>prout voluerit, aliud amplecti, aliud rejicere. Haec 
+      <lb ed="#P" n="100"/>autem est libertas arbitrii. Sumpta est haec ratio ex 
+      <lb ed="#P" n="101"/>S. Thoma 1. p. q. 80. art. 2. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e193">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Tertia: Homo etiam peccato vitiatus deliberare, 
+      <lb ed="#P" n="103"/>consultare, eligere potest, ut latissime probat 
+      expe<lb ed="#P" n="104" break="no"/>rientia, &amp; sermo omnium gentium. Actiones enim 
+      <lb ed="#P" n="105"/>his vocabulis significatae, ubique gentium 
+      tribuun<lb ed="#P" n="106" break="no"/>tur hominibus, tam malis quam bonis sine 
+      exceptio<lb ed="#P" n="107" break="no"/>ne; atqui hae actiones vel sunt propriae libero arbitrio, 
+      <lb ed="#P" n="108"/>ut eligere, vel sine eo esse non possunt, ut deliberare 
+      <lb ed="#P" n="109"/>&amp; consultare; ergo in omnibus hominibus est 
+      libe<lb ed="#P" n="110" break="no"/>rum arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e217">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Quarta: Homo etiam post lapsum multa agit quae 
+      <lb ed="#P" n="112"/>posset omittere, &amp; contra; potest enim ire ad 
+      eccle<lb ed="#P" n="113" break="no"/>siam, ire ad forum vel non ire, prout voluerit: 
+      Ta<lb ed="#P" n="114" break="no"/>les autem actus manifeste arguunt liberum arbitrium, 
+      <lb ed="#P" n="115"/>utpote ab eo imperati. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e233">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Quinta: Homini etiam lapso dantur leges &amp; 
+      prae<lb ed="#P" n="117" break="no"/>cepta, proponuntur praemia &amp; supplicia. Nec vero 
+      <lb ed="#P" n="118"/>fuit unquam ulla respub. nec omnino esse potest, 
+      <lb ed="#P" n="119"/>quae careat legibus, &amp; transgressores earum non 
+      pu<lb ed="#P" n="120" break="no"/>niat. Nec Deus hominem postquam lapsus est sine 
+      <lb ed="#P" n="121"/>lege reliquit; sed praeter aeternam atque 
+      immutabi<lb ed="#P" n="122" break="no"/>lem legem etiam mutabilia apposuit praecepta, tam 
+      <lb ed="#P" n="123"/>in veteri quam in novo testamento. Addidit etiam 
+      <lb ed="#P" n="124"/>promissa, exhortationes &amp; comminationes; at haec 
+      <lb ed="#P" n="125"/>omnia frustra, si non habet homo libertatem 
+      agen<lb ed="#P" n="126" break="no"/>di, vel non agendi. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e262">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Sexta: Si homo post lapsum non habet liberum 
+      <lb ed="#P" n="128"/>arbitrium; ergo non peccat. Consequens manifeste 
+      <lb ed="#P" n="129"/>falsum est, etiam adversariorum judicio, quorum 
+      <lb ed="#P" n="130"/>dogma est, hominem in omni opere peccare; 
+      conse<lb ed="#P" n="131" break="no"/>quentia vero non minus est manifesta, quia nemo 
+      <lb ed="#P" n="132"/>peccat in eo quod vitare non potuit, &amp; a quo 
+      absti<lb ed="#P" n="133" break="no"/>nere liberum non fuit, uti docet Augustinus locis 
+      du<lb ed="#P" n="134" break="no"/>dum allegatis, ac nominatim libro de vera religione 
+      <lb ed="#P" n="135"/>cap. 14. &amp; lib. de duabus animabus cap. 11. His enim 
+      <lb ed="#P" n="136"/>duobus locis affirmat, tam esse certum omnibus ac 
+      <lb ed="#P" n="137"/>manifestum, neminem peccare in eo quod 
+      necessita<lb ed="#P" n="138" break="no"/>te facit, ut dicat nullum esse genus hominum a quo 
+      <lb ed="#P" n="139"/>hoc ignoretur. Fatendum igitur est hominem post 
+      <lb ed="#P" n="140"/>lapsum esse liberi arbitrii. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e297">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Septima: Si non est in hominibus libertas arbi¬ 
+      <!--0474.xml-->
+      <pb ed="#P" n="241"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>trii, non igitur alii boni sunt, alii mali; sed vel 
+      om<lb ed="#P" n="2" break="no"/>nes boni vel omnes mali; vel potius nulli boni aut 
+      <lb ed="#P" n="3"/>mali moraliter; si de morali bonitate ac malitia 
+      lo<lb ed="#P" n="4" break="no"/>quamur. Nam hujusmodi bonitatis aut 
+      mali<lb ed="#P" n="5" break="no"/>tiae capax non est natura, quae caret libero 
+      arbi<lb ed="#P" n="6" break="no"/>trio. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e324">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Octava: Si non est in homine libertas arbitrii; nulla 
+      <lb ed="#P" n="8"/>igitur est ratio, cur quisquam agat de malis actis 
+      <lb ed="#P" n="9"/>poenitentiam, ad quam tamen scriptura 
+      pecca<lb ed="#P" n="10" break="no"/>tores toties cohortatur. Quis enim seipsum accuset 
+      <lb ed="#P" n="11"/>de eo quod non potuit non facere? 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e340">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Nona: Si non est in hominibus liberum arbitrium, 
+      <lb ed="#P" n="13"/>crudelis &amp; injustus est Deus, dum punit hominum 
+      <lb ed="#P" n="14"/>facta legi suae contraria; siquidem ea non 
+      potue<lb ed="#P" n="15" break="no"/>runt non facere, libero arbitrio ad non faciendum 
+      <lb ed="#P" n="16"/>destituti. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e356">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Decima: Si non est in hominibus liberum 
+      arbi<lb ed="#P" n="18" break="no"/>trium; igitur in Deum authorem rejicienda sunt 
+      <lb ed="#P" n="19"/>omnia quaecunque male &amp; scelerate ab hominibus 
+      <lb ed="#P" n="20"/>committuntur; si enim non libere ea agunt: ergo 
+      <lb ed="#P" n="21"/>necessitate agunt naturali; quidquid autem sic 
+      agi<lb ed="#P" n="22" break="no"/>tur, Deum habet authorem. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e374">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Hae rationes quamvis non omnes probent in 
+      ho<lb ed="#P" n="24" break="no"/>mine lapso esse libertatem ad eligendum bonum 
+      <lb ed="#P" n="25"/>morale, (nam &amp; in daemonibus absque hujusmodi 
+      <lb ed="#P" n="26"/>libertate boni moralis, consistit liberum arbitrium) 
+      <lb ed="#P" n="27"/>pleraeque tamen etiam hoc probant; at tamen omnes 
+      <lb ed="#P" n="28"/>convincunt, absolute in hominibus etiam lapsis 
+      <lb ed="#P" n="29"/>esse liberum arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e394">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Cum autem hae rationes vel omnes vel saltem 
+      fe<lb ed="#P" n="31" break="no"/>re omnes, adeo sint clarae &amp; evidentes, ut a quovis 
+      <lb ed="#P" n="32"/>homine mediocris ingenii &amp; judicii percipi queant, 
+      <lb ed="#P" n="33"/>jam neque illud dubitandum est, quin haec ecclesiae 
+      <lb ed="#P" n="34"/>doctrina qua docet in nobis esse liberum arbitrium; 
+      <lb ed="#P" n="35"/>non tantum sit fide tenenda, verum etiam ex 
+      ratio<lb ed="#P" n="36" break="no"/>ne ac lumine naturali evidens &amp; manifesta. Quod 
+      <lb ed="#P" n="37"/>quidem expresse docet S. Thomas in disputatis de 
+      <lb ed="#P" n="38"/>veritate q. 24. art. 1. <name xml:id="bt67yj-p093242-Nd1e417">Gregorius Ariminensis</name> in dist. 
+      <lb ed="#P" n="39"/>25. hujus libri q. 1. cap. 1. <name xml:id="bt67yj-p093242-Nd1e422">Gabriel</name> in eandem dist. 
+      <lb ed="#P" n="40"/>articulo 3. dubio 2. Quorum sententiam merito 
+      se<lb ed="#P" n="41" break="no"/>quuntur <name xml:id="bt67yj-p093242-Nd1e428">Ruardus</name>, <name xml:id="bt67yj-p093242-Nd1e430">Dom. Bannes</name> &amp; alii eruditi, 
+      <lb ed="#P" n="42"/>licet quidam obscuri authores, ut <name xml:id="bt67yj-p093242-Nd1e435">Baridanus</name> q. 1. 
+      <lb ed="#P" n="43"/>super Ethicorum 3. &amp; <ref xml:id="bt67yj-p093242-Rd1e439">
+                  <name xml:id="bt67yj-p093242-Nd1e441">Andreas de Castro</name> in 1. sent. 
+      <lb ed="#P" n="44"/>distinct. 45.</ref> diversum senserint. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e447">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Accedit autem ad hanc evidentiam declarandam, 
+      <lb ed="#P" n="46"/>quod etiam philosophi gentiles solo praediti lumine 
+      <lb ed="#P" n="47"/>naturali, doctrinam hanc communi consensu 
+      tradi<lb ed="#P" n="48" break="no"/>derunt; adeo ut &amp; Stoici, quamvis caetera omnia 
+      <lb ed="#P" n="49"/>fato subjicerent, humanas tamen voluntates ab ea 
+      <lb ed="#P" n="50"/>lege fatalis necessitatis exceptas facerent, teste 
+      Au<lb ed="#P" n="51" break="no"/>gustino libro 5. de civit. cap. 10. Quod ipsum tam 
+      <lb ed="#P" n="52"/>de Stoicis quam de Platonicis affirmat Gregorius 
+      <lb ed="#P" n="53"/>Nyssenus lib. de fato cap. 1. 2. &amp; 3. Refert idem 
+      <lb ed="#P" n="54"/>Augustinus ejusdem lib. cap. 7. Ciceroni tam fuisse 
+      <lb ed="#P" n="55"/>compertum homines habere liberum arbitrium; ut 
+      <lb ed="#P" n="56"/>cum non posset liberum arbitrium cum divina 
+      futu<lb ed="#P" n="57" break="no"/>rorum praescientia conciliare, maluerit, non sine 
+      <lb ed="#P" n="58"/>impietate, futurorum praescientiam in Deo negare, 
+      <lb ed="#P" n="59"/>quam voluntatis arbitrium hominibus auferre. 
+      Le<lb ed="#P" n="60" break="no"/>gitur hoc apud ipsum Ciceronem lib. 2. de 
+      divina<lb ed="#P" n="61" break="no"/>tione. Videatur etiam <name xml:id="bt67yj-p093242-Nd1e488">Eusebius</name> lib. 6. de 
+      praepara<lb ed="#P" n="62" break="no"/>tione evangelica cap. 5. 6. &amp; 7. ubi tam 
+      rationi<lb ed="#P" n="63" break="no"/>bus quam ethnicorum testimoniis confirmat, esse in 
+      <lb ed="#P" n="64"/>nobis liberum arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e498">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Verum objiciet aliquis illud Augustini libro de 
+      <lb ed="#P" n="66"/>gratia &amp; libero arbitrio capite 2. Deus, inquit, 
+      re<lb ed="#P" n="67" break="no"/>velavit nobis per scripturas suas sanctas, esse in 
+      ho<lb ed="#P" n="68" break="no"/>mine liberum voluntatis arbitrium. Quomodo autem 
+      <lb ed="#P" n="69"/>revelaverit commemoro vos non humano eloquio sed 
+      <lb ed="#P" n="70"/>divino. Haec enim verba videntur significare non 
+      <lb ed="#P" n="71"/>humana ratione, sed sola divina revelatione 
+      cogno<lb ed="#P" n="72" break="no"/>sci, quod in homine sit liberum voluntatis 
+      arbi<lb ed="#P" n="73" break="no"/>trium. Nam ea quae per experientiam ac rationem 
+      <lb ed="#P" n="74"/>humanam passim omnibus nota sunt, non opus ha¬ 
+      <!--0474.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>bent divina revelatione; neque de illis ita loqui 
+      so<lb ed="#P" n="76" break="no"/>lemus, ut dicamus Deum ea nobis revelasse per 
+      scri<lb ed="#P" n="77" break="no"/>pturam sacram. Exempli causa, quamvis scriptura 
+      <lb ed="#P" n="78"/>testetur, esse mundum, caelum, terram, aquam, 
+      <lb ed="#P" n="79"/>solem, lunam, stellas, non tamen quis dixerit Deum 
+      <lb ed="#P" n="80"/>haec nobis in scripturis revelasse, non humano sed 
+      <lb ed="#P" n="81"/>divino eloquio; praesertim cum revelari non 
+      dica<lb ed="#P" n="82" break="no"/>tur nisi quod prius velatum &amp; occultum erat. 
+    </p>
+            <p xml:id="bt67yj-p093242-d1e546">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Respondeo aliud esse de iis quae sensibus exposita 
+      <lb ed="#P" n="84"/>sunt, aliud de iis quae rationis adminiculo, tametsi 
+      <lb ed="#P" n="85"/>mediante sensu, a nobis cognoscuntur. Sensibus 
+      ex<lb ed="#P" n="86" break="no"/>posita sunt elementa &amp; lumina caelestia. Quare ut 
+      <lb ed="#P" n="87"/>haec esse in rerum natura creantur, non solemus uti 
+      <lb ed="#P" n="88"/>argumento sumpto ex revelatione divina, tum quia 
+      <lb ed="#P" n="89"/>supponitur omnes sanae mentis homines sensibus suis 
+      <lb ed="#P" n="90"/>credere, tum quia verisimile non est, eum qui prae 
+      <lb ed="#P" n="91"/>absurditate ingenii aut judicii negat id quod sensu 
+      <lb ed="#P" n="92"/>percipit, fidem habiturum revelationi scripturae 
+      sa<lb ed="#P" n="93" break="no"/>crae. Ea vero quae ratiocinando cognoscimus per 
+      sen<lb ed="#P" n="94" break="no"/>sum, non perinde ut ipsa sensibilia, nota sunt 
+      evi<lb ed="#P" n="95" break="no"/>denter intellectui humano. Non enim ipsa 
+      secun<lb ed="#P" n="96" break="no"/>dum se sensibus subjacent, imo per se sunt a 
+      sensi<lb ed="#P" n="97" break="no"/>bus remota, quo in genere est, hominem esse liberi 
+      <lb ed="#P" n="98"/>arbitrii. Quocirca propter imbecillitatem vel 
+      corru<lb ed="#P" n="99" break="no"/>ptionem mentis humanae, non satis assequentis ea, 
+      <lb ed="#P" n="100"/>quae sunt rationis naturalis; recte ad ea probanda 
+      <lb ed="#P" n="101"/>adducitur authoritas Dei nobis ea revelantis in 
+      scri<lb ed="#P" n="102" break="no"/>pturis sacris. Quomodo autem possit idem aliquid 
+      <lb ed="#P" n="103"/>esse fidei, &amp; nihilominus evidens esse per rationem 
+      <lb ed="#P" n="104"/>naturalem, ut contingit tum in hoc articulo, tum 
+      <lb ed="#P" n="105"/>in quibusdam aliis, ostendimus alibi, scilicet ad dist. 
+      <lb ed="#P" n="106"/>3. lib. 1. &amp; ad dist. 24. lib. 3. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

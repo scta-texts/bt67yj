@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="91"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p035158"><!-- l2d8c7" -->
+            <head xml:id="bt67yj-p035158-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p035158-Hd1e103" type="question-title">Quales in assumptis corporibus operationes 
+      angeli exerceant</head>
+            <p xml:id="bt67yj-p035158-d1e106">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> §. 7. Quales in assumptis corporibus operationes 
+      <lb ed="#P" n="85"/>angeli exerceant. 
+    </p>
+            <p xml:id="bt67yj-p035158-d1e115">
+               <lb ed="#P" n="86"/>QUaeri solet de operationibus quas visi sunt 
+      an<lb ed="#P" n="87" break="no"/>geli in assumptis corporibus exercere, verae ne 
+      <lb ed="#P" n="88"/>fuerint an apparentes dumtaxat &amp; imaginariae; &amp; si 
+      <lb ed="#P" n="89"/>verae, an fuerint vitales operationes. Ad quod 
+      res<lb ed="#P" n="90" break="no"/>pondendum, sicut vera corpora assumpserunt, ita 
+      <lb ed="#P" n="91"/>sine dubio veras fuisse operationes quas in iis 
+      exer<lb ed="#P" n="92" break="no"/>cuerunt, ut ex supra dictis manifestum est. Caeterum 
+      <lb ed="#P" n="93"/>nullas earum fuisse vitales, id est, opera vitae. Cujus 
+      <lb ed="#P" n="94"/>ratio est; quia corpora assumpta ab angelis non 
+      vi<lb ed="#P" n="95" break="no"/>vunt vita prima. Non enim ab angelis informantur. 
+      <lb ed="#P" n="96"/>Quare nec opera vitae possunt in iis ab angelis 
+      exer<lb ed="#P" n="97" break="no"/>ceri. Nam vita secunda vitam primam necessario 
+      <lb ed="#P" n="98"/>praesupponit. 
+    </p>
+            <p xml:id="bt67yj-p035158-d1e146">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Item nihil potest exercere opera vitae; quod non 
+      <lb ed="#P" n="100"/>habet potentiale principium ad ejusmodi 
+      operatio<lb ed="#P" n="101" break="no"/>nes. Atqui angeli quamvis habeant principium, id 
+      <lb ed="#P" n="102"/>est, virtutem qua possint corpora, seu partes eorum 
+      <lb ed="#P" n="103"/>localiter movere, &amp; hoc motu mediante figurare 
+      <lb ed="#P" n="104"/>&amp; certis qualitatibus afficere, imo &amp; quaedam in illis 
+      <lb ed="#P" n="105"/>opera exercere habentia aliquid commune cum 
+      ope<lb ed="#P" n="106" break="no"/>ribus vitae corporalis, iisdemque valde similia; non 
+      <lb ed="#P" n="107"/>tamen habent principium potentiale ad veras &amp; 
+      pro<lb ed="#P" n="108" break="no"/>prie dictas hujusmodi actiones, quia non habent 
+      <lb ed="#P" n="109"/>sensum, neque vim progressi vam, comestivam, 
+      gene<lb ed="#P" n="110" break="no"/>rativam, &amp;c. ergo non possunt eas exercere. Quare 
+      <lb ed="#P" n="111"/>quoties scriptura testatur angelos fuisse locutos, 
+      <lb ed="#P" n="112"/>edisse, bibisse, ambulasse, vel quid simile in assumptis 
+      <lb ed="#P" n="113"/>corporibus egisse; non proprie sed metaphorice 
+      lo<lb ed="#P" n="114" break="no"/>quitur, videlicet haec eis tribuens ob similitudinem 
+      <lb ed="#P" n="115"/>talium operum cum veris operibus vitae, 
+      quemad<lb ed="#P" n="116" break="no"/>modum bene docet Theodoretus in Genes. 4. Hinc 
+      <lb ed="#P" n="117"/>&amp; Philosophus libro 2. de anima dicit, vocem esse 
+      <lb ed="#P" n="118"/>actum animati corporis, lyram vero aut tibiam non 
+      <lb ed="#P" n="119"/>emittere vocem nisi secundum metaphoram. 
+      Ve<lb ed="#P" n="120" break="no"/>rumtamen sciendum quidquid in hujusmodi 
+      operi<lb ed="#P" n="121" break="no"/>bus invenitur, quod commune esse possit animato 
+      <lb ed="#P" n="122"/>corpori, totum id ab angelis per assumpta corpora 
+      <lb ed="#P" n="123"/>exerceri posse velut sonum articulatum in aere 
+      ex<lb ed="#P" n="124" break="no"/>citare, qualem nos loquentes excitamus, cibum 
+      <lb ed="#P" n="125"/>frangere, &amp; comminuere, liquorem infundere, 
+      <lb ed="#P" n="126"/>&amp; utrumque in partes interiores trajicere atque 
+      <lb ed="#P" n="127"/>etiam consumere, quod homines edentes &amp; 
+      biben<lb ed="#P" n="128" break="no"/>tes faciunt. Item movere corpus eo modo quo 
+      mo<lb ed="#P" n="129" break="no"/>ventur homines ambulantes. Propter haec enim &amp; 
+      <lb ed="#P" n="130"/>locuti fuisse, &amp; edisse, ac bibisse, &amp; ambulasse 
+      le<lb ed="#P" n="131" break="no"/>guntur in scripturis. Quod autem non fuerit illa 
+      <lb ed="#P" n="132"/>proprii nominis commestio &amp; bibitio, testatur 
+      ange<lb ed="#P" n="133" break="no"/>lus Raphael his verbis Tobiae duodecimo. Videbar 
+      <lb ed="#P" n="134"/>quidem vobiscum manducare &amp; bibere, sed ego cibo 
+      <lb ed="#P" n="135"/>invisibili &amp; potu, qui ab hominibus videri non potest, 
+      <lb ed="#P" n="136"/>utor. Nam etsi haec angeli verba quidam ad 
+      effe<lb ed="#P" n="137" break="no"/>ctum nutritionis referunt, videntur tamen 
+      sim<lb ed="#P" n="138" break="no"/>pliciter accipienda de manducatione &amp; bibitione 
+      <lb ed="#P" n="139"/>proprie dicta. Quod autem de his dicit, id 
+      simi<lb ed="#P" n="140" break="no"/>liter de caeteris vitae corporalis operibus 
+      intelli<lb ed="#P" n="141" break="no"/>gendum est. Nec aliter sentiendum de 
+      operationi<lb ed="#P" n="142" break="no"/>bus quas daemones in assumptis corporibus 
+      exer<lb ed="#P" n="143" break="no"/>cent. Unde &amp; quod generasse interdum 
+      legun<lb ed="#P" n="144" break="no"/>tur apud authores, ita accipiendum, quod 
+      se<lb ed="#P" n="145" break="no"/>men ab homine susceptum infuderunt quasi per 
+      <!--0325.xml-->
+      <pb ed="#P" n="92"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>coitum vasis muliebribus ad hominis generationem, 
+      <lb ed="#P" n="2"/>sicut &amp; ab aliis corporibus semina assumunt ad 
+      va<lb ed="#P" n="3" break="no"/>riarum rerum effectiones, quemadmodum hoc ex 
+      <lb ed="#P" n="4"/>sancto Augustino lib. 15. de Civitate Dei, cap. 23. 
+      <lb ed="#P" n="5"/>declarat S. Thomas prima parte quaest. 51. art. 3. ad 
+      <lb ed="#P" n="6"/>ultimum. Quam ob causam, ut idem S. August. 
+      <lb ed="#P" n="7"/>ait lib. 3. de Irinitate, cap. 8. qui ex tali concubitu 
+      <lb ed="#P" n="8"/>nascitur, non daemonis filius dicendus est, sed 
+      homi<lb ed="#P" n="9" break="no"/>nis potius a quo semen acceptum fuit. 
+    </p>
+            <p xml:id="bt67yj-p035158-d1e280">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Insuper notandum quod etiamsi angelus 
+      assume<lb ed="#P" n="11" break="no"/>ret corpus vivens (fieri enim posse ut verum 
+      homi<lb ed="#P" n="12" break="no"/>nem assumat, licet id minus congruum esset, 
+      fate<lb ed="#P" n="13" break="no"/>tur ibidem sanctus Thomas ad primum) &amp; in eo 
+      <lb ed="#P" n="14"/>commoveret vitales operationes sensuum &amp; aliarum 
+      <lb ed="#P" n="15"/>potentiarum, ne sic quidem tamen proprie 
+      dicere<lb ed="#P" n="16" break="no"/>tur, exempli gratia, videre, audire, loqui, edere, 
+      <lb ed="#P" n="17"/>bibere, ambulare, sed tantummodo corpus aut 
+      ho<lb ed="#P" n="18" break="no"/>minem ad has actiones movendo suscitare. Cujus 
+      <lb ed="#P" n="19"/>ratio est; quia operationes illae talibus vocabulis 
+      ex<lb ed="#P" n="20" break="no"/>pressae hoc important, ut ab interno ejus cui 
+      tribuun<lb ed="#P" n="21" break="no"/>tur, principio proficiscantur. Unde etiam est quod 
+      <lb ed="#P" n="22"/>etsi Deus omnium operationum vitalium tam in 
+      bru<lb ed="#P" n="23" break="no"/>tis, quam hominibus, propriissime sit author, non 
+      <lb ed="#P" n="24"/>tamen illae operationes propriis nominibus expressae 
+      <lb ed="#P" n="25"/>Deo tribuuntur. Non enim dicitur Deus ambulare, 
+      <lb ed="#P" n="26"/>comedere, volare, &amp;c. scilicet ob rationem 
+      consi<lb ed="#P" n="27" break="no"/>milem, eo quod hae voces significent operationem 
+      <lb ed="#P" n="28"/>internam operanti. Dicitur enim ambulare, non 
+      quis<lb ed="#P" n="29" break="no"/>quis veram ambulationem producit, sed qui eam 
+      <lb ed="#P" n="30"/>producit in semetipso. Et ita de aliis. 
+    </p>
+            <p xml:id="bt67yj-p035158-d1e330">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> At vero quoniam Deus homo factus operationes 
+      <lb ed="#P" n="32"/>vitales in seipso homine produxit, fit ut hac 
+      ratio<lb ed="#P" n="33" break="no"/>ne Deus proprie manduca verit, biberit, 
+      ambulave<lb ed="#P" n="34" break="no"/>rit, ac caetera humana fecerit, quae de eo tanquam 
+      <lb ed="#P" n="35"/>vero homine scribunt evangelistae. Quare &amp; post 
+      re<lb ed="#P" n="36" break="no"/>surrectionem vere ac proprie manducavit, ut se non 
+      <lb ed="#P" n="37"/>phantasma, sed verum ac vivum hominem esse 
+      osten<lb ed="#P" n="38" break="no"/>deret. Nec veritati aut proprietati comestionis 
+      de<lb ed="#P" n="39" break="no"/>rogat, quod cibo tunc sumpto non fuerit nutritus. 
+      <lb ed="#P" n="40"/>Certum est enim veram comestionem sine nutritione 
+      <lb ed="#P" n="41"/>consistere. Est enim comestio nutritione prior, &amp; 
+      <lb ed="#P" n="42"/>ab ea quandoque separatur ut in aegrotis &amp; cibum 
+      <lb ed="#P" n="43"/>comestum rejicientibus. Fuit autem in Christo post 
+      <lb ed="#P" n="44"/>relurrectionem vera comestio, tum quia procedebat 
+      <lb ed="#P" n="45"/>ab interno potentiali principio ad eam operationem 
+      <lb ed="#P" n="46"/>ordinato; tum quia nec vis nutritiva, cui facultas 
+      <lb ed="#P" n="47"/>comestiva subservit, deerat. Nam corpus Christi 
+      <lb ed="#P" n="48"/>talis erat naturae, etiam post resurrectionem, in 
+      <lb ed="#P" n="49"/>quod cibus possit converti; quemadmodum sanctus 
+      <lb ed="#P" n="50"/>Thomas docet ibidem ad quintum, &amp; S. August. 
+      <lb ed="#P" n="51"/>indicat epist. 49. quaest. 1. 
+    </p>
+            <p xml:id="bt67yj-p035158-d1e380">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Una est objectio adversus praedicta, quod Patres 
+      <lb ed="#P" n="53"/>angelis &amp; daemonibus interdum sensum tribuunt, 
+      <lb ed="#P" n="54"/>ut sanctus Augustinus in expositione Psalmi 96. &amp; 
+      <lb ed="#P" n="55"/>alibi. Sensus autem potentiale principium est ad 
+      <lb ed="#P" n="56"/>exercendas operationes sensitivas. Ex quo 
+      conse<lb ed="#P" n="57" break="no"/>quens videtur has saltem vitales operationes ab 
+      an<lb ed="#P" n="58" break="no"/>gelis in corporibus exerceri posse. Sed respondetur 
+      <lb ed="#P" n="59"/>sensum, ut angelis tribuitur, significare in genere 
+      <lb ed="#P" n="60"/>facultatem cognoscendi seu percipiendi res 
+      sensibi<lb ed="#P" n="61" break="no"/>les, sive id fiat per intellectum, in cujus objecto 
+      <lb ed="#P" n="62"/>etiam sensibilia comprehenduntur, sive per sensum 
+      <lb ed="#P" n="63"/>proprie dictum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 27</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 27</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="306"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p118802"><!-- l2d26c27" -->
+            <head xml:id="bt67yj-p118802-Hd1e101">Capitulum 27</head>
+            <head xml:id="bt67yj-p118802-Hd1e103" type="question-title">Bonum opus totum gratiae Dei 
+      asscrivendum esse</head>
+            <p xml:id="bt67yj-p118802-d1e106">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> §. 27. Bonum opus totum gratiae Dei 
+      asscri<lb ed="#P" n="35" break="no"/>vendum esse. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e115">
+               <lb ed="#P" n="36"/>QUod de partibus boni operis hactenus 
+      osten<lb ed="#P" n="37" break="no"/>dimus, id de toto restat ut nunc 
+      demonstre<lb ed="#P" n="38" break="no"/>5. mus. Quamvis enim certissimum sit argumentum a 
+      <lb ed="#P" n="39"/>m partibus universe sumptis ad totum, ideóque si 
+      par<lb ed="#P" n="40" break="no"/>1. tes omnes &amp; singulae boni operis sint a gratia Dei, 
+      <lb ed="#P" n="41"/>dubitari non possit, quin totum bonum opus ab 
+      ea<lb ed="#P" n="42" break="no"/>dem gratia proficiscatur; quo certius tamen, atque 
+      <lb ed="#P" n="43"/>evidentius constet ejus doctrinae veritas, quae bonum 
+      <lb ed="#P" n="44"/>opus totum atque omni ex parte gratiae Dei 
+      asscri<lb ed="#P" n="45" break="no"/>bit, peculiaribus adhuc argumentis id probare 
+      in<lb ed="#P" n="46" break="no"/>stitui. Quod quidem eo magis faciendum mihi 
+      pu<lb ed="#P" n="47" break="no"/>tavi, quia sunt nonnulli qui sermonem hunc, quo 
+      <lb ed="#P" n="48"/>dicitur totum bonum opus esse a Deo, vana quadam 
+      <lb ed="#P" n="49"/>formidine refugiunt, existimantes per hoc nihil 
+      pror<lb ed="#P" n="50" break="no"/>sus relinqui libero arbitrio. Quibus infra 
+      responde<lb ed="#P" n="51" break="no"/>bimus. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e152">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Est autem prima probatio ex sacra scriptura, quae 
+      <lb ed="#P" n="53"/>cum tot locis omne bonum nostrum sine exceptione 
+      <lb ed="#P" n="54"/>tribuat Deo &amp; gratiae ejus, profecto etiam totum 
+      il<lb ed="#P" n="55" break="no"/>li tribuit. Nam si non totum; igitur aliquid totius 
+      ex<lb ed="#P" n="56" break="no"/>cipitur, &amp; proinde non omne bonum tribuendum 
+      <lb ed="#P" n="57"/>est Deo. Exempli causa, dicit Dominus: Sine me 
+      ni<lb ed="#P" n="58" break="no"/>hil potestis facere; ergo nec partem ullam operis. Nam 
+      <lb ed="#P" n="59"/>&amp; pars est aliquid cui contradictorie opponitur 
+      ni<lb ed="#P" n="60" break="no"/>hil. Si autem nec ullam partem operis sine Christo 
+      <lb ed="#P" n="61"/>possumus; totum igitur opus est a gratia Christi. 
+      Ea<lb ed="#P" n="62" break="no"/>dem plane probatio est ex his sententiis, Jo. 3. Non 
+      <lb ed="#P" n="63"/>potest homo accipere quicquam, nisi fuerit ei datum de 
+      <lb ed="#P" n="64"/>caelo. 1. Corinth. 4. Quis te discernit? Quid autem 
+      <lb ed="#P" n="65"/>habes quod non accepisti: &amp; cap. 12. Deus operatur 
+      <lb ed="#P" n="66"/>omnia in omnibus. 2. Corinth. 3. Non sumus 
+      sufficien<lb ed="#P" n="67" break="no"/>tes cogitare aliquid ex nobis, quasi a nobis: sed 
+      suffi<lb ed="#P" n="68" break="no"/>cientia nostra ex Deo est. Heb. 13. Deus aptet vos in 
+      <lb ed="#P" n="69"/>omni bono. Jac. 1. Omne datum optimum, &amp; omne 
+      do<lb ed="#P" n="70" break="no"/>num perfectum de sursum est.
+    </p>
+            <p xml:id="bt67yj-p118802-d1e199">
+      <!--0539.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>Ad idem valent hae scripturae, 2. Corinth. 12. 
+      Ta<lb ed="#P" n="72" break="no"/>metsi nihil sum, &amp; Gal. 6. Si quis existimat se aliquid 
+      <lb ed="#P" n="73"/>esse, cum mhil sit, ipse se seducit; &amp; Luc. 17. Cum 
+      fece<lb ed="#P" n="74" break="no"/>ritis omnia quae praecepta sunt vobis, dicite, servi 
+      inuti<lb ed="#P" n="75" break="no"/>les sumus. Significant enim hujusmodi sententiae 
+      ho<lb ed="#P" n="76" break="no"/>minem ex seipso prorsus inutilem esse, nihilque 
+      bo<lb ed="#P" n="77" break="no"/>ni habere, sed quicquid habet, id omne &amp; totum 
+      <lb ed="#P" n="78"/>habere a Deo. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e223">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Ejusdem rei quaedam figura fuit, quod Numer. 
+      <lb ed="#P" n="80"/>17. legitur virga Aaron primum germinasse, deinde 
+      <lb ed="#P" n="81"/>floruisse, ac postremo fructus protulisse. Quae 
+      qui<lb ed="#P" n="82" break="no"/>dem in ligno arido singula fuerunt miracula. Per 
+      <lb ed="#P" n="83"/>hoc enim significatum est, totum bonum quod 
+      agi<lb ed="#P" n="84" break="no"/>mus esse gratiae Dei, sive faciendum primo 
+      cogite<lb ed="#P" n="85" break="no"/>tur, sive faciendum decernatur, sive tandem opere 
+      <lb ed="#P" n="86"/>ipso perficiatur. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e245">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Secunda probatio est ex rationibus in scriptura 
+      sa<lb ed="#P" n="88" break="no"/>cra fundatis, iisque certissimis ac solidissimis, quas 
+      <lb ed="#P" n="89"/>jam aliquoties in superioribus adduximus, &amp; hoc 
+      <lb ed="#P" n="90"/>loco breviter repetimus; velut ex orationibus 
+      fide<lb ed="#P" n="91" break="no"/>lium, ex gratiarum actione &amp; ex gloriatione. 
+      Do<lb ed="#P" n="92" break="no"/>cet enim nos scriptura tum per orationem nobis a 
+      <lb ed="#P" n="93"/>Domino traditam qua dicere jubemur: Fiat 
+      volun<lb ed="#P" n="94" break="no"/>tas tua, tum aliis locis, potissimum in epistolis 
+      Pau<lb ed="#P" n="95" break="no"/>linis, nullum omnino bonum opus, nec quicquam 
+      <lb ed="#P" n="96"/>ejus nobis praecipi, quod non a Deo petendum sit, 
+      <lb ed="#P" n="97"/>ut per ejus gratiam a nobis fiat. Docet nos eadem 
+      <lb ed="#P" n="98"/>scriptura, maxime vero Paulus in suis passim 
+      episto<lb ed="#P" n="99" break="no"/>lis, gratias esse referendas Deo pro omni bono 
+      <lb ed="#P" n="100"/>quodcunque habemus &amp; quodcunque fecerimus; 
+      <lb ed="#P" n="101"/>sub quo procul dubio pars omnis boni 
+      comprehen<lb ed="#P" n="102" break="no"/>ditur. Docet eadem scriptura, nominatim vero 
+      Pau<lb ed="#P" n="103" break="no"/>lus, de nullo gloriandum esse, nisi in Deo. Quare 
+      <lb ed="#P" n="104"/>nec de ulla parte boni operis, nisi in Deo authore 
+      glo<lb ed="#P" n="105" break="no"/>riandum nobis est. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e291">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Adde rationem efficacissimam ex universali 
+      ef<lb ed="#P" n="107" break="no"/>ficientia primae ac supremae causae; quae sicut 
+      nul<lb ed="#P" n="108" break="no"/>lum prorsus bonum nec ullam ejus partem patitur 
+      <lb ed="#P" n="109"/>excludi a generali opere &amp; auxilio Dei; ita nullum 
+      <lb ed="#P" n="110"/>opus ad pietatem &amp; salutem aeternae vitae pertinens, 
+      <lb ed="#P" n="111"/>nec ullam ejus partem exceptam sinit ab auxilio 
+      <lb ed="#P" n="112"/>speciali, id est, ab operatione gratiae Dei per 
+      Chri<lb ed="#P" n="113" break="no"/>stum. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e313">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Ejusdem argumenti est haec ratio; Omne bonum a 
+      <lb ed="#P" n="115"/>Deo est, idque secundum omnem partem qua 
+      bo<lb ed="#P" n="116" break="no"/>num est, quia non potest esse ullum bonum 
+      secun<lb ed="#P" n="117" break="no"/>dum accidens, nisi ab eo quod essentialiter bonum 
+      <lb ed="#P" n="118"/>est; totum igitur bonum nostrum est a Deo¬ 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e329">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Accedant &amp; hae rationes paris momenti &amp; 
+      effi<lb ed="#P" n="120" break="no"/>caciae. Prima: Deo nil potest placere nisi quod suum 
+      <lb ed="#P" n="121"/>est, nec diligit quicquam in tota creatura, nisi quod 
+      <lb ed="#P" n="122"/>ipse fecerit; nec diligit in nobis nisi dona sua. Atqui 
+      <lb ed="#P" n="123"/>Deo placet &amp; Deus diligit totum bonum opus, quia 
+      <lb ed="#P" n="124"/>bonum est; igitur totum a Deo est authore &amp; 
+      largi<lb ed="#P" n="125" break="no"/>tore. Atqui id non obscure significat. Sapiens cap. 
+      <lb ed="#P" n="126"/>I1. ita loquens ad Deum: Diligis omnia quae sunt, &amp; 
+      <lb ed="#P" n="127"/>nihil odisti eorum quae fecisti. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e354">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Secunda: Nihil Deo offerendum, quod ab eo non 
+      <lb ed="#P" n="129"/>acceperimus; semper enim oblatio quae fit Deo, 
+      de<lb ed="#P" n="130" break="no"/>bet esse conjuncta cum gratiarum actione pro 
+      ac<lb ed="#P" n="131" break="no"/>cepto eo ipso quod offertur: at omne &amp; totum 
+      bo<lb ed="#P" n="132" break="no"/>num nostrum Deo est offerendum, ergo omne &amp; 
+      to<lb ed="#P" n="133" break="no"/>tum accepimus a Deo. Hanc rationem indicat <ref xml:id="bt67yj-p118802-Rd1e371">
+      Arau<lb ed="#P" n="134" break="no"/>sicani concilii canon 11.</ref> his verbis. <quote xml:id="bt67yj-p118802-Qd1e376">Nemo quicquam 
+      <lb ed="#P" n="135"/>Domino recte voverit, nisi ab illo acceperit, sicut 
+      le<lb ed="#P" n="136" break="no"/>gitur. Quae de manu tua accepimus, damus tibi</quote>. Qui 
+      <lb ed="#P" n="137"/>canon desumptus est ex Augustino de civitate lib. 
+      <lb ed="#P" n="138"/>17. capite 4. verbis etiam a Prospero repetitis 
+      sen<lb ed="#P" n="139" break="no"/>tentia 54 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e391">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Tertia: Peculiaris est hujus rei significatio in 
+      ho<lb ed="#P" n="141" break="no"/>locausto sacrificio, quod olim secundum legem 
+      offe<lb ed="#P" n="142" break="no"/>rebatur. Continet enim hoc sacrificii genus 
+      prote<lb ed="#P" n="143" break="no"/>stationem, quod homo totum &amp; omne bonum suum 
+      <!--0540.xml-->
+      <pb ed="#P" n="307"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quicquid esset &amp; haberet, accepisset a Deo: cui 
+      proin<lb ed="#P" n="2" break="no"/>de per ejusmodi sacrificium, cum recognitione &amp; 
+      <lb ed="#P" n="3"/>gratiarum actione totum redderet. Nam propterea 
+      <lb ed="#P" n="4"/>totum illud sacrificium, nulla ejus parte reservata, 
+      <lb ed="#P" n="5"/>igne consumi debebat in honorem Dei. Unde &amp; 
+      ho<lb ed="#P" n="6" break="no"/>locaustum Graeco vocabulo, id est, totum 
+      combu<lb ed="#P" n="7" break="no"/>stum dicebatur. Offert ergo spirituale holocaustum 
+      <lb ed="#P" n="8"/>Deo qui totum bonum suum agnoscens se a Deo 
+      ac<lb ed="#P" n="9" break="no"/>cepisse, totum ei reddit. Quod quidem facere 
+      de<lb ed="#P" n="10" break="no"/>bet omnis Christianus. Omnia enim bona ad 
+      autho<lb ed="#P" n="11" break="no"/>rem suum referenda sunt, unde nascuntur, ait post 
+      <lb ed="#P" n="12"/>Zosymum papam Caelestinus in epist. scripta ad 
+      epis<lb ed="#P" n="13" break="no"/>copos Galliae cap. 8. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e439">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Quarta: Omne bonum nostrum saepe Deo &amp; 
+      gra<lb ed="#P" n="15" break="no"/>tiae ejus tribuitur, addita dictione exclusiva; ut cum 
+      <lb ed="#P" n="16"/>dicit Apostolus 1. Tim. 1. Soli Deo honor &amp; gloria, 
+      <lb ed="#P" n="17"/>&amp; cum orat ecclesia in Dominica 3. post Epiph. 
+      Fa<lb ed="#P" n="18" break="no"/>miliam tuam custodi, ut quae in sola spe gratiae caelestis 
+      in<lb ed="#P" n="19" break="no"/>nititur, &amp;c. Tale etiam est quod dicit Leo serm. 1. 
+      <lb ed="#P" n="20"/>de jejunio 10. mensis, causam reparationis nostrae 
+      <lb ed="#P" n="21"/>non esse nisi misericordiam Dei, &amp; quod Gregor. 
+      <lb ed="#P" n="22"/>hom. 29. super evangelia: Ut Stephanus, inquit, 
+      <lb ed="#P" n="23"/>in terra persecutorum infidelitatem vinceret, pro illo de 
+      <lb ed="#P" n="24"/>caelo Christi gratia pugnavit. Hujusmodi enim 
+      senten<lb ed="#P" n="25" break="no"/>tiis non significatur, nihil in bono opere tribuendum 
+      <lb ed="#P" n="26"/>esse libero arbitrio, sed hoc ipsum quod est a libero 
+      ar<lb ed="#P" n="27" break="no"/>bitrio, totum esse a gratia &amp; misericordia Dei. Quem 
+      <lb ed="#P" n="28"/>sensum habent &amp; aliae quaedam sententiae patrum 
+      <lb ed="#P" n="29"/>quas modo citabimus. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e478">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Quinta: Bonum opus totum &amp; omni ex parte 
+      li<lb ed="#P" n="31" break="no"/>berum est; quod facile probatur, tum quia totum fit 
+      <lb ed="#P" n="32"/>a libera voluntate, tum quia totum meritorium est, 
+      <lb ed="#P" n="33"/>quale esse non posset, si non totum liberum esset. Si 
+      <lb ed="#P" n="34"/>ergo totalis haec operis libertas non obstat, quo 
+      mi<lb ed="#P" n="35" break="no"/>nus aliqua pars ejus efficienter procedat a gratia Dei; 
+      <lb ed="#P" n="36"/>certe nec obstare poterit, quo minus totum &amp; omni 
+      <lb ed="#P" n="37"/>ex parte ab eadem sit gratia. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e500">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Sexta: Opera Christi redemptoris nostri quibus 
+      <lb ed="#P" n="39"/>reparationem nostram humana sua voluntate eaque 
+      <lb ed="#P" n="40"/>libera promeruit, tota procedebant efficienter a 
+      vo<lb ed="#P" n="41" break="no"/>luntate divina: ergo &amp; nostra opera bona, tametsi 
+      <lb ed="#P" n="42"/>profecta a libera nostra voluntate, tota sunt a 
+      gra<lb ed="#P" n="43" break="no"/>tia Dei. Si enim Christus homo nihil habuit suum, 
+      <lb ed="#P" n="44"/>quod illi non esset a Deo, multo minus nos 
+      ali<lb ed="#P" n="45" break="no"/>quid tale dumtaxat bonum habere aut agere 
+      pote<lb ed="#P" n="46" break="no"/>rimus. 
+    </p>
+            <p xml:id="bt67yj-p118802-d1e524">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> Postrema: Quicquid entitatis est in peccato, 
+      to<lb ed="#P" n="48" break="no"/>tum est a Deo, uti scribit S. Thomas super Rom. 11. 
+      <lb ed="#P" n="49"/>&amp; alibi, cum de actu peccati disputat, quod etiam 
+      <lb ed="#P" n="50"/>communiter concedunt &amp; docent Scholastici, 
+      mul<lb ed="#P" n="51" break="no"/>to magis igitur atque securius fatendum est, 
+      quic<lb ed="#P" n="52" break="no"/>quid entitatis est in bono opere, totum esse a Deo. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

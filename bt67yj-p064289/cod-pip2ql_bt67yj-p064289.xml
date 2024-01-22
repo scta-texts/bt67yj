@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="166"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p064289"><!-- l2d19c1" -->
+            <head xml:id="bt67yj-p064289-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p064289-Hd1e103" type="question-title">Hominem nisi peccasset moriturum non</head>
+            <p xml:id="bt67yj-p064289-d1e106">
+               <lb ed="#P" n="98"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="99"/>DECIMAMNONAM. 
+      <lb ed="#P" n="100"/>§. 1. Hominem nisi peccasset moriturum non 
+    </p>
+            <p xml:id="bt67yj-p064289-d1e115">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> DE mortalitate vel immortalitate primi 
+      ho<lb ed="#P" n="102" break="no"/>minis secundum corpus, agit hac dist. 
+      Ma<lb ed="#P" n="103" break="no"/>gister, ubi prima quaestio occurrit; Utrum, 
+      <lb ed="#P" n="104"/>moriturus fuisset homo, si non peccassit. Ad quam: 
+      <lb ed="#P" n="105"/>juxta regulam fidei catholicae respondendum, 
+      nul<lb ed="#P" n="106" break="no"/>lum hominem sive primum, sive ex posteris ejus 
+      <lb ed="#P" n="107"/>aliquem corpore moriturum fuisse, si non peccando 
+      <lb ed="#P" n="108"/>Deum offendisset vel primus homo vel posterorum 
+      <lb ed="#P" n="109"/>aliquis. Tradit enim fides Catholica mortem 
+      cor<lb ed="#P" n="110" break="no"/>poris hominibus, non naturae necessitate perinde 
+      <lb ed="#P" n="111"/>ut brutis animantibus accidere, sed eam merito 
+      pec<lb ed="#P" n="112" break="no"/>cati, quod est mors animae, intrasse in genus 
+      hu<lb ed="#P" n="113" break="no"/>manum. Quae quidem manifesta est doctrina 
+      scri<lb ed="#P" n="114" break="no"/>pturae sacrae causam mortis ubique in peccatum 
+      re<lb ed="#P" n="115" break="no"/>ferentis. 
+    </p>
+            <p xml:id="bt67yj-p064289-d1e152">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Primum quidem Gen. 2. de ligno vetito dictum 
+      <lb ed="#P" n="117"/>est homini: In quocumque die comederis ex eo, morto 
+      <lb ed="#P" n="118"/>morieris: id est, ut teste Hieronymo Symmachus 
+      <lb ed="#P" n="119"/>vertit, mortalis eris; hoc est necessitati moriendi 
+      <lb ed="#P" n="120"/>obnoxius. Non enim de morte animae, ut 
+      Pelagian<lb ed="#P" n="121" break="no"/>volebant, illa sententia accipienda est, sed de morte 
+      <lb ed="#P" n="122"/>corporis; quemadmodum ex eo patet, quod homini 
+      <lb ed="#P" n="123"/>post transgressionem pro maledictione repositum 
+      <lb ed="#P" n="124"/>est, dicente Domino: In sudore vultus tui vescers 
+      <lb ed="#P" n="125"/>pane tuo, donec revertaris in terram de qua sumptus 
+      <lb ed="#P" n="126"/>es, quia pulvis es &amp; in pulverem reverteris. Quo 
+      ar<lb ed="#P" n="127" break="no"/>gumento praeter alia Pelagianos urget Aug. libr. 1. 
+      <lb ed="#P" n="128"/>de peccatorum meritis c. 3. 
+    </p>
+            <p xml:id="bt67yj-p064289-d1e186">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Item scriptum est sap. 1. Deus mortem non fecit, 
+      <lb ed="#P" n="130"/>scilicet humanam, id est, non ita hominem 
+      insti<lb ed="#P" n="131" break="no"/>tuit ut moreretur, quomodo bestiarum instituit 
+      na<lb ed="#P" n="132" break="no"/>turam; sed impii manibus ac verbis accersierunt 
+      il<lb ed="#P" n="133" break="no"/>lam, scilicet peccando &amp; peccata peccatis 
+      cumu<lb ed="#P" n="134" break="no"/>lando. Neque enim solius primi hominis 
+      transgres<lb ed="#P" n="135" break="no"/>sio mortem meruit, sed eam peccatis suis 
+      meren<lb ed="#P" n="136" break="no"/>tur omnes mali. Et c. 2. Deus creavit hominem 
+      inex<lb ed="#P" n="137" break="no"/>terminabilem, id est, immortalem: Invidia autem 
+      <lb ed="#P" n="138"/>diaboli mors introivit in orbem terrarum, quia 
+      nimi<lb ed="#P" n="139" break="no"/>rum diabolus invidia succensus adversus hominem, 
+      <lb ed="#P" n="140"/>tentavit eum &amp; ad peccandum induxit, &amp; sic per 
+      <lb ed="#P" n="141"/>peccatum in mortem traxit.
+    </p>
+            <p xml:id="bt67yj-p064289-d1e219">
+      <!--0400.xml-->
+               <pb ed="#P" n="167"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Nec minus aperta est apost. doctrina Roman. 5. 
+      <lb ed="#P" n="2"/>Per unum hominem, inquit, peccatum in hunc 
+      mun<lb ed="#P" n="3" break="no"/>dum intravit, &amp; per peccatum mers, &amp; ita in omnes 
+      <lb ed="#P" n="4"/>homines mors pertransiit, in quo omnes peccaverunt: Et 
+      <lb ed="#P" n="5"/>quae deinceps eodem cap. sequuntur. Item cap. 6. 
+      <lb ed="#P" n="6"/>Stipendia peccati mors, &amp; c. 8. Corpus quidem 
+      mor<lb ed="#P" n="7" break="no"/>tuum est, id est, necessitati mortis subjectum propter 
+      <lb ed="#P" n="8"/>peccatum: spiritus vero vivit propter justificationem. 
+      <lb ed="#P" n="9"/>Quo loco tum quia corpus nominatur, tum quia 
+      <lb ed="#P" n="10"/>spiritus per justitiam vivere dicitur; plane 
+      perspi<lb ed="#P" n="11" break="no"/>cuum est de morte corporis non animae apostolum 
+      <lb ed="#P" n="12"/>loqui. Ejusdem apost. verba sunt aCor. 15. Per 
+      <lb ed="#P" n="13"/>hominem mors, &amp; per hominem resurrebio mortuorum, 
+      <lb ed="#P" n="14"/>&amp; sicut in Adam omnes moriuntur, ita &amp; in Christo. 
+      <lb ed="#P" n="15"/>omnes vivificabuntur. Et infra eodem cap. Stimulut 
+      <lb ed="#P" n="16"/>mortis peccatum est, id est, aculeus quo mors est 
+      in<lb ed="#P" n="17" break="no"/>flicta homini, peccatum est. 
+    </p>
+            <p xml:id="bt67yj-p064289-d1e265">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> His &amp; hujusmodi scripturae testimoniis contra 
+      Pe<lb ed="#P" n="19" break="no"/>lagianos, qui mortem corporis in naturam non in 
+      <lb ed="#P" n="20"/>peccatum referebant, ideóque dicebant Adamum 
+      <lb ed="#P" n="21"/>etiamsi non peccasset, moriturum fuisse; usi sunt 
+      ve<lb ed="#P" n="22" break="no"/>teres, atque imprimis Aug. variis locis, ut lib. 1. de 
+      <lb ed="#P" n="23"/>peccatorum meritis a cap. 2. usque ad 9. &amp; rursus 
+      <lb ed="#P" n="24"/>cap. 16. Item lib. 13. de civit. cap. 5. &amp; 23. &amp; Ench. 
+      <lb ed="#P" n="25"/>cap. 25. &amp; 26. &amp; alibi. Prosp. sent. 148. &amp; resp. ad 
+      <lb ed="#P" n="26"/>5. objectionem Vincent. Greg. lib. 4. moral. c. 26. 
+      <lb ed="#P" n="27"/>necnon alii patres, iis potissimum locis quibus 
+      scri<lb ed="#P" n="28" break="no"/>pturas jam memoratas commentariis illustrant. 
+    </p>
+            <p xml:id="bt67yj-p064289-d1e294">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Denique hoc ipsum tanquam Catholicum dogni 
+      <lb ed="#P" n="30"/>definitum est in duobus conciliis contra Pelagianos 
+      <lb ed="#P" n="31"/>coactis, Carthaginensi &amp; Milevitano, quibus etiam 
+      <lb ed="#P" n="32"/>ipse Aug. interfuit. Habita sunt autem tempore 
+      In<lb ed="#P" n="33" break="no"/>nocentii I. &amp; ab eodem pontifice confirmata, ut 
+      con<lb ed="#P" n="34" break="no"/>stat ex ejus epist. 25. ad Carth. &amp; 26. ad Milevitanum 
+      <lb ed="#P" n="35"/>concilium scriptis. Deinde iterum confirmata a 
+      Cae<lb ed="#P" n="36" break="no"/>lestino papa in ep. ejus ad episcopos Galliae. 
+      Milevi<lb ed="#P" n="37" break="no"/>tani concilii can. 1. haec sunt verba: Quicumque dict 
+      <lb ed="#P" n="38"/>Alam primum hominem mortalem factum, ita ut sive 
+      <lb ed="#P" n="39"/>peccaret, sive non peccaret, moreretur in corpore, hoc est 
+      <lb ed="#P" n="40"/>de corpore exiret, non peccati merito, sed necessitate 
+      na<lb ed="#P" n="41" break="no"/>turae, anathema sit. Huic deinde accessit definitio 
+      con<lb ed="#P" n="42" break="no"/>cilii Arausicani 2. can. 2. authore Leone primo, ac 
+      <lb ed="#P" n="43"/>postremo concilii Tridentini sess. 5. cap. 1. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

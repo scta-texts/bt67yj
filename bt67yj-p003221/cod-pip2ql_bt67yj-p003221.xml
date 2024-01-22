@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="9"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p003221"><!-- l2d1c11" -->
+            <head xml:id="bt67yj-p003221-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p003221-Hd1e103" type="question-title">Utrum mundus esse potuerit aeternus</head>
+            <p xml:id="bt67yj-p003221-d1e106">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> §. 11. Utrum mundus esse potuerit aeternus.
+    </p>
+            <p xml:id="bt67yj-p003221-d1e113">
+               <lb ed="#P" n="78"/>CUm ex superioribus constet secundum fidem 
+      <lb ed="#P" n="79"/>Catholicam fatendum esse, quod mundus non 
+      <lb ed="#P" n="80"/>semper fuerit, sed aliquando esse inceperit, 
+      proble<lb ed="#P" n="81" break="no"/>matica tamen apud Theologos quaestio versatur de 
+      <lb ed="#P" n="82"/>possibili, scilicet, an Deus potuerit mundum ab 
+      <lb ed="#P" n="83"/>aeterno producere. Sententiam quippe affirmantem 
+      <lb ed="#P" n="84"/>suadere videntur hae rationes.
+    </p>
+            <p xml:id="bt67yj-p003221-d1e131">
+               <lb ed="#P" n="85"/>Prima: Deus omnia potest, quae non includunt 
+      <lb ed="#P" n="86"/>contradictionem; tale autem est, mundum semper 
+      <lb ed="#P" n="87"/>a Deo ut productivo principio procedere. Nulla 
+      <lb ed="#P" n="88"/>enim in hoc apparet contradictio. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e143">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Secunda: Deus ab aeterno fuit omnipotens; ergo 
+      <lb ed="#P" n="90"/>ab aeterno potuit operari ad extra. Nam hujusmodi 
+      <lb ed="#P" n="91"/>tantum operum respectu, Deus dicitur omnipotens. 
+      <lb ed="#P" n="92"/>Confirmatur haec ratio; quia si causa est aeterna, 
+      <lb ed="#P" n="93"/>aeternam habens virtutem, nihil prohibet etiam 
+      <lb ed="#P" n="94"/>effectum ejus esse aeternum, imo in quibusdam ex 
+      <lb ed="#P" n="95"/>aeternitate causae sequitur aeternitas effectus. Nam 
+      <lb ed="#P" n="96"/>posita aeternitate caeli, solis, ignis, sequitur 
+      aeterni<lb ed="#P" n="97" break="no"/>tas motus, splendoris, caloris. Deus autem aeternus 
+      <lb ed="#P" n="98"/>est, aeternam habens virtutem; nihil ergo prohibet 
+      <lb ed="#P" n="99"/>effectum ab eo procedere aeternum. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e172">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Tertia: Non minus potest Deus agens libera 
+      vo<lb ed="#P" n="101" break="no"/>luntate, quam posset, si ageret necessitate naturae; 
+      <lb ed="#P" n="102"/>hoc autem modo si ageret, ageret ab aeterno; ergo 
+      <lb ed="#P" n="103"/>&amp; libera voluntate agere potest ab aeterno. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e185">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Quarta: Mundus aeternus est a parte posteriori, 
+      <lb ed="#P" n="105"/>quia semper duraturus; similiter ergo aeternus a Deo 
+      <lb ed="#P" n="106"/>fieri potuit a parte anteriori. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e196">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Quinta: Deus ex quo potuit velle agere, ex eo 
+      po<lb ed="#P" n="108" break="no"/>tuit agere. Nihil enim ab aeternitate fuit quod 
+      volun<lb ed="#P" n="109" break="no"/>tatem ejus ab agendo posset impedire; Atqui potuit 
+      <lb ed="#P" n="110"/>ab aeterno velle agere, imo revera ab aeterno volun 
+      <lb ed="#P" n="111"/>agere, ergo potuit ab aeterno agere. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e212">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Sexta: Quandocunque Deus est, operari potest; est 
+      <lb ed="#P" n="113"/>autem ab aeterno; ergo ab aeterno operari potest. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e221">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Septima: Possibile esse, ut mundus aeternus sit ab 
+      <lb ed="#P" n="115"/>aeterno Deo, etiam philosophi solo naturali lumine 
+      <lb ed="#P" n="116"/>rationis adjuti intellexerunt, nominatim Platonici, 
+      <lb ed="#P" n="117"/>de quibus refert Augustinus lib. 10. de civ. cap. 31. &amp; 
+      <lb ed="#P" n="118"/>lib. 11. ca. 4. eos docuisse mundum non habere 
+      tem<lb ed="#P" n="119" break="no"/>poris, seu suae creationis initium, ut modo quodam, 
+      <lb ed="#P" n="120"/>sicut ait, vix intelligibili semper sit factus. Id quod 
+      <lb ed="#P" n="121"/>pedis &amp; vestigii similitudine declarant. Si enim, 
+      in<lb ed="#P" n="122" break="no"/>quiunt, pes ex aeternitate semper fuisset in pulvere, 
+      <lb ed="#P" n="123"/>sem per ei subesset vestigium, quod tamen a calcante 
+      <lb ed="#P" n="124"/>factum nemo dubitaret. Sic igitur &amp; mundus semper 
+      <lb ed="#P" n="125"/>existere, a Deo semper existente potuit, imo 
+      secun<lb ed="#P" n="126" break="no"/>dum eos sic semper fuit. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e255">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Pro parte negante sunt hae rationes. Prima: 
+      fa<lb ed="#P" n="128" break="no"/>ctum &amp; aeternum repugnant: necesse est autem 
+      om<lb ed="#P" n="129" break="no"/>nem creaturam esse factam; ergo impossibile est 
+      ali<lb ed="#P" n="130" break="no"/>quam creaturam esse aeternam. Major probatur, quia 
+      <lb ed="#P" n="131"/>omne praeteritum fuit aliquando praesens; ergo de 
+      <lb ed="#P" n="132"/>omni eo quod factum est, fuit aliquando verum 
+      di<lb ed="#P" n="133" break="no"/>cere, nunc fit; ergo in illo, nunc, habuit initium 
+      du<lb ed="#P" n="134" break="no"/>rationis &amp; proinde non erat aeternum. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e277">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Secunda: Necesse est mundum, si est, esse ex 
+      nihi<lb ed="#P" n="136" break="no"/>lo; oportet igitur ut acceperit esse post non esse; non 
+      <lb ed="#P" n="137"/>potux ergo esse ab aeterno.
+    </p>
+            <p xml:id="bt67yj-p003221-d1e288">
+               <lb ed="#P" n="138"/>Tertia: Aeternitas est divinae naturae proprietas, 
+      <lb ed="#P" n="139"/>ande psalmo 54. ponitur tanquam periphrasis seu 
+      <lb ed="#P" n="140"/>epithetum Dei, Qui est ante saecula, &amp; Genes. 26. 
+      <lb ed="#P" n="141"/>Invocavit nomen Dei aeterm: non potest ergo 
+      com<lb ed="#P" n="142" break="no"/>municari creaturae. Explicatur haec ratio 
+      authorita<lb ed="#P" n="143" break="no"/>tibus patrum in fine positis. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e304">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Quarta: Infinitum pertransiri non potest; ergo 
+      <lb ed="#P" n="145"/>si mundus ab aeterno fuisset, numquam perveniri 
+      <!--0243.xml-->
+      <pb ed="#P" n="10"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>potuisset ad hunc diem; siquidem totum spatium 
+      <lb ed="#P" n="2"/>praeteritum esset infinitum. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e324">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Quinta: Si mundus ab aeterno fuisset, infinita 
+      <lb ed="#P" n="4"/>hominum multitudo jam praecessisset, quorum cum 
+      <lb ed="#P" n="5"/>animae sint immortales, sequeretur innumerabiles 
+      <lb ed="#P" n="6"/>animas actu existere, quod est apud recte 
+      philoso<lb ed="#P" n="7" break="no"/>phantes impossibile. Quoniam autem sanctus 
+      Tho<lb ed="#P" n="8" break="no"/>mas respondet hanc rationem esse particularem, 
+      <lb ed="#P" n="9"/>affertur 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e344">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Sexta ratio generalior: Si Deus potuit operari 
+      <lb ed="#P" n="11"/>ab aeterno; potuit ergo semper aliud post aliud 
+      fa<lb ed="#P" n="12" break="no"/>cere, eademque permanentia, &amp; non peritura, ut 
+      <lb ed="#P" n="13"/>materiam, mundum, caelum, stellas, atque ita tam 
+      <lb ed="#P" n="14"/>mole, quam numero infinitum actu existeret velut 
+      <lb ed="#P" n="15"/>materia infinita, mundi innumeri, &amp;c. si videlicet 
+      <lb ed="#P" n="16"/>singulis diebus vel horis illius infiniti temporis 
+      <lb ed="#P" n="17"/>unum mundum, vel caelum, &amp; stellam, vel 
+      ali<lb ed="#P" n="18" break="no"/>quam produceret materiae portionem, prioribus 
+      <lb ed="#P" n="19"/>manentibus. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e371">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Septima: Deus non potest producere infinitum 
+      <lb ed="#P" n="21"/>actu neque secundum magnitudinem, neque 
+      secun<lb ed="#P" n="22" break="no"/>dum multitudinem; ergo nec secundum 
+      duratio<lb ed="#P" n="23" break="no"/>nem: Est enim in his tribus eadem ratio 
+      impossibi<lb ed="#P" n="24" break="no"/>litatis, scilicet infinitum aliquid actu completo jam 
+      <lb ed="#P" n="25"/>sumptum esse. Hoc enim tam in tempore praeterito, 
+      <lb ed="#P" n="26"/>li aeternum ponatur, quam in permanentibus locum 
+      <lb ed="#P" n="27"/>habet. Nam temporis aeterni praeteriti jam omnes 
+      <lb ed="#P" n="28"/>partes acceptae atque emensae sunt, quod secus habet 
+      <lb ed="#P" n="29"/>de tempore futuro, utpote nunquam evolvendo, 
+      li<lb ed="#P" n="30" break="no"/>cet semper volvatur. Unde est 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e400">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Octava ratio: Deus non potest facere mundum 
+      <lb ed="#P" n="32"/>aeternum actu completo a parte posteriori, ergo nec 
+      <lb ed="#P" n="33"/>a parte anteriori. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e411">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Nona: Deus non potuit mundum prius facere 
+      <lb ed="#P" n="35"/>quam fecit; ergo nec ab aeterno facere potuit. 
+      Se<lb ed="#P" n="36" break="no"/>quela probatur; quia si ab aeterno fecisset, prius 
+      fe<lb ed="#P" n="37" break="no"/>cisset. Probatur antecedens; quia ante mundum 
+      <lb ed="#P" n="38"/>conditum non fuit prius &amp; posterius, sed stabilis 
+      <lb ed="#P" n="39"/>aeternitas, quae non est aliud quam ipsa divinitas 
+      <lb ed="#P" n="40"/>Item probatur authoritate Augustinilib. II. de civit. 
+      <lb ed="#P" n="41"/>Dei cap. 5. in fine. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e433">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Decima: Quicquid ab aeterno potui: Deus, 
+      sem<lb ed="#P" n="43" break="no"/>per potest; igitur &amp; nunc potest; atqui nunc non 
+      po<lb ed="#P" n="44" break="no"/>test facere mundum, aut creaturam aliquam 
+      aeter<lb ed="#P" n="45" break="no"/>nam a parte anteriori; ergo nec ab aeterno potuit. 
+      <lb ed="#P" n="46"/>Probatur major, quia in Dei aeternitate non est ante 
+      <lb ed="#P" n="47"/>&amp; post, sed aeternitas ejus est immutabile esse, in 
+      <lb ed="#P" n="48"/>quo locum non habet prius &amp; posterius. Unde idem 
+      <lb ed="#P" n="49"/>est, Deum posse &amp; Deum semper posse, ac proinde 
+      <lb ed="#P" n="50"/>non valet responsio qua dicatur Deum propterea 
+      <lb ed="#P" n="51"/>nunc non posse, quod ab aeterno potuit; quia non 
+      <lb ed="#P" n="52"/>est potentia ad praeteritum. Nam ut dictum est, in 
+      <lb ed="#P" n="53"/>aeternitate nihil est praeteritum. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e464">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Undecima: Quando Deus fecit hunc mundum, 
+      <lb ed="#P" n="55"/>non poterat eum facere aeternum; ergo ab aeterno 
+      <lb ed="#P" n="56"/>non potuit facere aeternum. Probatur antecedens; 
+      <lb ed="#P" n="57"/>quia non fecit hunc mundum ab aeterno. Sequela 
+      <lb ed="#P" n="58"/>probatur, quia cum in Deo nullum fuerit 
+      praeteri<lb ed="#P" n="59" break="no"/>tum antequam mundum faceret, (erat enim stabilis 
+      <lb ed="#P" n="60"/>aeternitas) nihil minus tunc potuit quando mundum 
+      <lb ed="#P" n="61"/>fecit, quam potuit ab aeterno, 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e486">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Duodecima: Deus creans hunc mundum in 
+      tem<lb ed="#P" n="63" break="no"/>pore non abstulit sibi potentiam creandialium 
+      mun<lb ed="#P" n="64" break="no"/>dum ab aeterno; quia Deus nihilominus mansit in 
+      <lb ed="#P" n="65"/>suo aeterno, in quo nec est principium, nec medium, 
+      <lb ed="#P" n="66"/>nec finis: atqui non potest nunc alium mundum 
+      fa<lb ed="#P" n="67" break="no"/>cere aeternum; ergo nec facere potuisset ab aeterno. 
+      <lb ed="#P" n="68"/>Quaeritur enim si Deus ab aeterno potuit mundum 
+      <lb ed="#P" n="69"/>facere aeternum, &amp; nunc non potest, quando defierit 
+      <lb ed="#P" n="70"/>hoc posse; utrum ante hujus mundi creationem, an 
+      <lb ed="#P" n="71"/>eo instanti quo mundum hunc creavit: Prius dici 
+      <lb ed="#P" n="72"/>non potest, quia ante mundi creationem non fuit 
+      <lb ed="#P" n="73"/>aliud postaliud, ut dici possit, ab aeterno potuit: At 
+      <lb ed="#P" n="74"/>neque posterius, videtur enim absurdissime dici, 
+      <!--0243.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>quod cum Deus usque ad illud instans potuerit 
+      mun<lb ed="#P" n="76" break="no"/>dum facere aeternum, eo instanti amiserit hanc 
+      po<lb ed="#P" n="77" break="no"/>testatem. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e531">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Si dicas Deum etiam nunc posse creaturam 
+      ali<lb ed="#P" n="79" break="no"/>quam aeternam, sive ab aeterno facere, hoc quidem 
+      <lb ed="#P" n="80"/>ab iis quibus affirmativa placet opinio, non 
+      conce<lb ed="#P" n="81" break="no"/>ditur, nec sane concedi posse videtur, quoniam &amp; 
+      <lb ed="#P" n="82"/>hic mundus esset ea creatura antiquior, &amp; ipse Deus 
+      <lb ed="#P" n="83"/>qui hunc mundum antecessit. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e549">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Decimatertia: Si mundus fuisset ab aeterno, tam 
+      <lb ed="#P" n="85"/>verum esset dicere, In principio erat mundus, quam 
+      <lb ed="#P" n="86"/>vere dixit Joannes: In principio erat Verbum. Quam 
+      <lb ed="#P" n="87"/>tamen sententiam ille protulit ad declarandum 
+      Ver<lb ed="#P" n="88" break="no"/>bidivinitatem, sicut &amp; illam in exordio primae suae 
+      <lb ed="#P" n="89"/>epistolae: Quod fuit ab initio, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e567">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Postremo; rationi suffragatur authoritas. Nam 
+      pa<lb ed="#P" n="91" break="no"/>tres concilii Nicaeni senserunt haec duo repugnare. 
+      <lb ed="#P" n="92"/>creatum esse, &amp; semper fuisse. Unde est illa synodi 
+      <lb ed="#P" n="93"/>sententia: Quicunque dicit filium creaturam, dicit 
+      <lb ed="#P" n="94"/>eum cepisse. Nam &amp; Ariani, ut patet ex actis ejusdem 
+      <lb ed="#P" n="95"/>synodi, &amp; ex ep. Alexandri patriarchae Alexandrini, 
+      <lb ed="#P" n="96"/>imo ex epistola ipsius Arii ad Euseb. Nicomed. ideo 
+      <lb ed="#P" n="97"/>filium Dei negabant semper fuisse, ne fateri 
+      coge<lb ed="#P" n="98" break="no"/>rentur esse proprie Deum, patri aequalem. Unde 
+      di<lb ed="#P" n="99" break="no"/>cebant, erat quando non erat; Tametsi posteriores 
+      <lb ed="#P" n="100"/>Ariani in concilio Ariminensi, quemadmodum 
+      re<lb ed="#P" n="101" break="no"/>fert Hieron. in dialogo contra Lucif. insidiosa 
+      qua<lb ed="#P" n="102" break="no"/>dam subtilitate distinguere conati sunt, inter 
+      sempi<lb ed="#P" n="103" break="no"/>ternum &amp; increatum; videlicet diserte damnantes 
+      il<lb ed="#P" n="104" break="no"/>lud: erat quando non erat, atque iterum aliis verbis 
+      <lb ed="#P" n="105"/>hoc agentes, ut crederetur filius esse creatura. 
+      Ne<lb ed="#P" n="106" break="no"/>gabant enim consequens esse, si semper fuit; ergo 
+      <lb ed="#P" n="107"/>non est creatus: Sed hoc, ut dixi, praeter mentem 
+      <lb ed="#P" n="108"/>suorum antecessorum a quibus errorem hauserant. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e613">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> His adde sententias aliorum parrum negantium 
+      <lb ed="#P" n="110"/>fieri posse, ut aliquid creatum semper fuerit. Nam 
+      <lb ed="#P" n="111"/>Athanasius in epist. priore ad Serapionem de spiritu 
+      <lb ed="#P" n="112"/>sancto, sic ait; Quemadmodum filius quia semper 
+      <lb ed="#P" n="113"/>est, non est creatura; ita quoniam semper est 
+      Trini<lb ed="#P" n="114" break="no"/>tas, nulla est in ea creatura, quapropter non est crea¬ 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e631">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> tura spiritus. Basilius hom. 1. in hexam. notat 
+      im<lb ed="#P" n="116" break="no"/>pietatis eos philosophos, qui mundum Deo 
+      coaeter<lb ed="#P" n="117" break="no"/>num posuerunt, quasi creaturam aequiparantes 
+      crea<lb ed="#P" n="118" break="no"/>tori, Ambrosius praefatione in hexam. cum de 
+      Peri<lb ed="#P" n="119" break="no"/>pateticorum opinione loqueretur: Quid tam 
+      incon<lb ed="#P" n="120" break="no"/>veniens, inquit, ut aeternitatem operis cum Dei 
+      om<lb ed="#P" n="121" break="no"/>nipotentis aeternitate conjungerent? &amp; ejusdem 
+      ope<lb ed="#P" n="122" break="no"/>ris lib. 1. cap. 3. dicit eos qui mundum Deo 
+      coaeter<lb ed="#P" n="123" break="no"/>num asserunt, creaturam creatori lociare, atque 
+      ae<lb ed="#P" n="124" break="no"/>qualem facere. <ref xml:id="bt67yj-p003221-Rd1e657">Augustinus lib. 8. de Gen. ad lit. ca. 
+      <lb ed="#P" n="125"/>23.</ref>
+               <quote xml:id="bt67yj-p003221-Qd1e662">Omnino, inquit, incommutabilis est illa natura 
+      <lb ed="#P" n="126"/>Trinitatis, &amp; ob hoc ita aeterna, ut ei coaeternum 
+      <lb ed="#P" n="127"/>aliquid esse non possit</quote>. Idem <ref xml:id="bt67yj-p003221-Rd1e669">lib. 12. de civit. c. 15.</ref>
+               <lb ed="#P" n="128"/>negat angelos potuisse esse coaeternos creatori, licet 
+      <lb ed="#P" n="129"/>aliquo sensu concedat eos semper fuisse, quia 
+      vide<lb ed="#P" n="130" break="no"/>licet nullum dari potest tempus creatum quo 
+      non<lb ed="#P" n="131" break="no"/>fuerint. Damascenus lib. 1. de fide orth. cap. 8. 
+      di<lb ed="#P" n="132" break="no"/>stinguit inter generationem Dei &amp; creationem, 
+      quod<lb ed="#P" n="133" break="no"/>generatio cum sit naturae opus, &amp; ex substantia gi¬¬ 
+      <lb ed="#P" n="134"/>gnentis, sit aeterna: Creatio vero, inquit, cum vo 
+      <lb ed="#P" n="135"/>luntatis opus sit, non coaeterna Deo est, quandoqui¬¬ 
+      <lb ed="#P" n="136"/>dem rei natura non patitur, ut quod ex non esse ad a 
+      <lb ed="#P" n="137"/>esse deducitur, coaeternum ei sit, quod sine 
+      principio<lb ed="#P" n="138" break="no"/>&amp; semper est 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e696">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> In eandem sententiam scribit <ref xml:id="bt67yj-p003221-Rd1e702">
+                  <name xml:id="bt67yj-p003221-Nd1e704">Richardus a Sancto 
+      <lb ed="#P" n="140"/>Victore</name> lib. 2. de trin. cap. 1.</ref>
+               <quote xml:id="bt67yj-p003221-Qd1e710">De nihilo, inquit, fieri 
+      <lb ed="#P" n="141"/>non potuit, qui nunquam nihil fuit</quote>. Et his omnibus 
+      <lb ed="#P" n="142"/>antiquior Lactantius lib. 2. divinarum inst. cap. 8. 
+      <lb ed="#P" n="143"/>simpliciter negat materiam potuisse esse Deo 
+      coaeter<lb ed="#P" n="144" break="no"/>nam. Ex his autem utrumque apparet quid veteres 
+      <lb ed="#P" n="145"/>senserint de possibilitate aeternitatis mundi, vel 
+      cu<lb ed="#P" n="146" break="no"/>juscumque creaturae. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e728">
+               <lb ed="#P" n="147"/>
+               <pc type="indent"/> Caeterum apud Scholasticos variae fuerunt de hac 
+      <lb ed="#P" n="148"/>re opiniones. Et quidem S. Thomas de potentia 
+      <!--0244.xml-->
+      <pb ed="#P" n="11"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>q 3. art. 14. pro affirmativa parte disputat: In 
+      sum<lb ed="#P" n="2" break="no"/>ma vero p. 1. q. 46. ubi de principio durationis 
+      re<lb ed="#P" n="3" break="no"/>rum creatarum disserit, non plane suam sententiam 
+      <lb ed="#P" n="4"/>aperit. Nam art. 2. tantum negat demonstrative 
+      pro<lb ed="#P" n="5" break="no"/>bari posse quod mundus aliquando inceperit: In 
+      so<lb ed="#P" n="6" break="no"/>lutionibus autem argumentorum, non tam quid ipse, 
+      <lb ed="#P" n="7"/>quam quid alii de hoc problemate sentiant, 
+      decla<lb ed="#P" n="8" break="no"/>rat. Contra vero art. 1. ejusdem quaestionis absolute 
+      <lb ed="#P" n="9"/>dicit nihil posse praeter Deum ab aeterno fuisse. Sed 
+      <lb ed="#P" n="10"/>&amp; q. 2. art. 3. ex possibilitate non essendi concludit 
+      <lb ed="#P" n="11"/>negationem aeternitatis, hoc modo: Si omnia sunt 
+      <lb ed="#P" n="12"/>possibilia non esse, aliquando nihil fuit in rebus. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e770">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Porro Theologi sequentes, expressius atque 
+      di<lb ed="#P" n="14" break="no"/>stinctius hac de re disputarunt, sed ita varie, ut 
+      eo<lb ed="#P" n="15" break="no"/>rum facile quinque aut sex diversae numerentur 
+      opi<lb ed="#P" n="16" break="no"/>niones. Quarum prima est: Deum potuisse totum 
+      <lb ed="#P" n="17"/>hoc universum, &amp; quamlibet ejus partem ab aeterno 
+      <lb ed="#P" n="18"/>producere, in ea dispositione ac mutabilitate quam 
+      <lb ed="#P" n="19"/>modo habet. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e790">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Secunda docet idem cum exceptione unius speciei 
+      <lb ed="#P" n="21"/>humanae, propterca quod hujus aeternitate posita, 
+      se<lb ed="#P" n="22" break="no"/>queretur animas esse numero infinitas, ut arguebat 
+      <lb ed="#P" n="23"/>quinta ratio partis negantis. Verum utramque hanc 
+      <lb ed="#P" n="24"/>opinionem multa sequuntur absurda, maxime 
+      ratio<lb ed="#P" n="25" break="no"/>ne temporis infiniti, ut sunt ea quae inferuntur per 
+      <lb ed="#P" n="26"/>rationes quartam &amp; sextam, &amp; alia iis similia. Quale 
+      <lb ed="#P" n="27"/>est istud: Cum enim infinitum unum altero non sit 
+      <lb ed="#P" n="28"/>majus, sequeretur tot annos praeteritos esse quot 
+      <lb ed="#P" n="29"/>menses, &amp; rursum tot menses, quot dies, ac de horis 
+      <lb ed="#P" n="30"/>similiter. Nec multum adjuvat secundam opinionem 
+      <lb ed="#P" n="31"/>exceptio de specie humana. Nam eadem absurditas 
+      <lb ed="#P" n="32"/>sequetur de quacunque alia specie corruptibilium, si 
+      <lb ed="#P" n="33"/>ponamus, quod negari non potest, Deum potuisse 
+      <lb ed="#P" n="34"/>formas singularium corruptorum conservare. Hoc 
+      <lb ed="#P" n="35"/>enim si fecisset, jam non minus fuerit consequens 
+      <lb ed="#P" n="36"/>sive animas brutorum, sive formas aliarum rerum 
+      <lb ed="#P" n="37"/>existere secundum numerum infinitas. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e834">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Hujusmodi absurda effugere conatur tertia opinio, 
+      <lb ed="#P" n="39"/>quae tradit res successi vas, &amp; quaecumque per motum 
+      <lb ed="#P" n="40"/>vel successionem incipiunt, non potuisse produci ab 
+      <lb ed="#P" n="41"/>aeterno; sed solas &amp; omnes res permanentes, tam 
+      cor<lb ed="#P" n="42" break="no"/>ruptibiles quam incorruptibiles, etiamsi suae naturae 
+      <lb ed="#P" n="43"/>relinquantur. Sed hanc quoque opinionem quoad 
+      <lb ed="#P" n="44"/>res corruptibiles refellere non est difficile, tum eo 
+      <lb ed="#P" n="45"/>argumento quod modo allatum est, tum quia 
+      neces<lb ed="#P" n="46" break="no"/>se esset jam praecessisse infinitas generationes &amp; 
+      cor<lb ed="#P" n="47" break="no"/>ruptiones individuorum in eadem specie, cum suis 
+      <lb ed="#P" n="48"/>alterationibus, &amp; tempore in quo mutationes illae 
+      <lb ed="#P" n="49"/>factae essent; atque ita consequeretur etiam entia 
+      <lb ed="#P" n="50"/>successiva fuisse ab aeterno, quod est contra 
+      prio<lb ed="#P" n="51" break="no"/>rem hujus opinionis partem. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e869">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Quarta opinio ponit solam creaturam 
+      incorrupti<lb ed="#P" n="53" break="no"/>bilem etiam naturae suae relictam, ut sunt angelus, 
+      <lb ed="#P" n="54"/>anima rationalis, caelum, esse potuisse ab aeterno. Sic 
+      <lb ed="#P" n="55"/>
+               <ref xml:id="bt67yj-p003221-Rd1e882">
+                  <name xml:id="bt67yj-p003221-Nd1e884">Dominicus Soto </name>q. 2. super 8. phys.</ref> Verum &amp; huic 
+      <lb ed="#P" n="56"/>opinioni obstat, quod angelus &amp; anima secundum 
+      <lb ed="#P" n="57"/>naturam suam subeunt mutationes, quoad 
+      operatio<lb ed="#P" n="58" break="no"/>nes intellectus &amp; voluntatis, ita ut in illis 
+      cogitatio<lb ed="#P" n="59" break="no"/>nes ac volitiones aliae aliis subinde succedant, caelum 
+      <lb ed="#P" n="60"/>quoque naturaliter movetur in orbem. Si ergo res, 
+      <lb ed="#P" n="61"/>istae fuissent ab aeterno, sequeretur operationes ac 
+      <lb ed="#P" n="62"/>motus seu revolutiones hujusmodi praeteriisse 
+      infini<lb ed="#P" n="63" break="no"/>tas, sequerentur &amp; alia absurda, quae facile colligi 
+      <lb ed="#P" n="64"/>possunt ex superioribus. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e907">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Est igitur quinta opinio, quae ponit potuisse Deum 
+      <lb ed="#P" n="66"/>ab aeterno producere hoc universum complectens 
+      <lb ed="#P" n="67"/>omnia tam corruptibilia quam incorruptibilia, tam 
+      <lb ed="#P" n="68"/>succelliva, quam permanentia, non aliter tamen 
+      <lb ed="#P" n="69"/>quam immutando earum rerum naturas &amp; ordinem 
+      <lb ed="#P" n="70"/>quem modo habent. Immutationem autem 
+      intelli<lb ed="#P" n="71" break="no"/>gunt non in essentialibus, sic enim non essent res 
+      <lb ed="#P" n="72"/>eaedem; sed in proprietatibus quibusdam 
+      accidenta<lb ed="#P" n="73" break="no"/>riis, scilicet ut infinito tempore nullam subirent 
+      ope<lb ed="#P" n="74" break="no"/>rationum seu quorumcumque accidentium varia¬ 
+      <!--0244.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>tionem aut successionem, sed essent res quaedam 
+      mu<lb ed="#P" n="76" break="no"/>tabilitatis omnino expertes, ut si angelus infinito 
+      <lb ed="#P" n="77"/>tempore vel nullam vel unam constantem haberet 
+      <lb ed="#P" n="78"/>operationem, haec opinio licet evadere videatur 
+      ab<lb ed="#P" n="79" break="no"/>surda quae ex prioribus consequuntur, non parum 
+      <lb ed="#P" n="80"/>tamen difficultatis habet. Primo quia rerum 
+      succes<lb ed="#P" n="81" break="no"/>sivarum velut temporis, ac motus, atque instantis 
+      <lb ed="#P" n="82"/>naturae non videntur ullo modo sic immutari posse, 
+      <lb ed="#P" n="83"/>salva essentia, ut sint aut fuerint ab aeterno velut 
+      <lb ed="#P" n="84"/>haec hora, haec ambulatio, hoc instans. Ratio, quia 
+      <lb ed="#P" n="85"/>natura temporis ac motus in successione consistit, 
+      <lb ed="#P" n="86"/>instans autem temporis omnem excludit 
+      duratio<lb ed="#P" n="87" break="no"/>nem. Secundo quia immutabilitas illa per se nihil 
+      fa<lb ed="#P" n="88" break="no"/>cit ad aeternitatem. Nam &amp; nunc Deus potest talem 
+      <lb ed="#P" n="89"/>facere creaturam, quae tamen non esset aeterna. Quid 
+      <lb ed="#P" n="90"/>autem interest inter Deum creantem nunc, &amp; ab 
+      <lb ed="#P" n="91"/>aeterno, si neque in Deo, neque in creatura est prius &amp; 
+      <lb ed="#P" n="92"/>posterius? Posset etiam Deus talem creaturam 
+      anni<lb ed="#P" n="93" break="no"/>hilare. Quo casu non erit aeterna, a parte posteriori. 
+      <lb ed="#P" n="94"/>Quare eo ipso quo ponitur immutabilis, dici non 
+      <lb ed="#P" n="95"/>potest fuisse ab aeterno. Quin &amp; ante hunc mundum 
+      <lb ed="#P" n="96"/>quando nulla erat duratio, nisi stabilis aeternitas 
+      <lb ed="#P" n="97"/>Dei, potuit Deus ejusmodi creaturam &amp; facere &amp; 
+      <lb ed="#P" n="98"/>annihilare. Denique praecipuae rationes in partem 
+      <lb ed="#P" n="99"/>quaestionis negantem allatae non minus hanc 
+      opinio<lb ed="#P" n="100" break="no"/>nem quam caeteras evertunt
+    </p>
+            <p xml:id="bt67yj-p003221-d1e995">
+               <lb ed="#P" n="101"/>His igitur rejectis, restat omnium maxime 
+      proba<lb ed="#P" n="102" break="no"/>bilis ea opinio, quae negat ullam creaturam 
+      qua<lb ed="#P" n="103" break="no"/>cumque possibili suppositione facta, produci 
+      potuis<lb ed="#P" n="104" break="no"/>se ab aeterno; hoc enim rationes allatae non modo 
+      <lb ed="#P" n="105"/>probare, verum etiam quaedam earum subtilius 
+      exa<lb ed="#P" n="106" break="no"/>minatae demonstrare videntur. Hoc &amp; sacris literis 
+      <lb ed="#P" n="107"/>&amp; veterum patrum atque conciliorum sententiis 
+      <lb ed="#P" n="108"/>multo magis est consentaneum, ut ex supra dictis 
+      <lb ed="#P" n="109"/>liquet. Rationes itaque in contrarium adductae 
+      dis<lb ed="#P" n="110" break="no"/>solvendae sunt. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1019">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Prima solvitur negatione minoris, implicat 
+      <lb ed="#P" n="112"/>enim affirmativa pars hanc contradictionem, 
+      ali<lb ed="#P" n="113" break="no"/>quid esse factum &amp; non factum, creatum &amp; non 
+      <lb ed="#P" n="114"/>creatum. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1032">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Ad secundam respondetur, quod Deus est 
+      qui<lb ed="#P" n="116" break="no"/>dem omnipotens ab aeterno, quodque ab 
+      aeter<lb ed="#P" n="117" break="no"/>no potuit mundum producere, id est, potentiam 
+      <lb ed="#P" n="118"/>habuit producendi mundum, non tamen 
+      mun<lb ed="#P" n="119" break="no"/>dus potuit ab aeterno produci, sed produci 
+      po<lb ed="#P" n="120" break="no"/>tuit sicut &amp; productus est juxta modum &amp; 
+      natu<lb ed="#P" n="121" break="no"/>ram creaturae, id est, in tempore, sive ab aliquo 
+      <lb ed="#P" n="122"/>initio. Sicut ab aeterno potuit Deus facere 
+      ip<lb ed="#P" n="123" break="no"/>sum tempus, &amp; motum, &amp; instans, id est, 
+      po<lb ed="#P" n="124" break="no"/>tentiam habuit haec faciendi, sed juxta istorum 
+      <lb ed="#P" n="125"/>naturam quibus repugnat fuisse ab aeterno. Quod 
+      <lb ed="#P" n="126"/>ergo dicimus hunc sensum habet, Deus in tota 
+      <lb ed="#P" n="127"/>aeternitate sua quae est indivisibilis, potuit 
+      mun<lb ed="#P" n="128" break="no"/>dum producere, non tamen potuit producere ab 
+      <lb ed="#P" n="129"/>aeterno. Ad confirmationem vero respondetur, 
+      <lb ed="#P" n="130"/>ex uno absurdo aliud colligi, nec parem esse 
+      <lb ed="#P" n="131"/>comparationem creaturae cum creatura, nec 
+      tan<lb ed="#P" n="132" break="no"/>quam causae cum effectu, &amp; creatoris cum 
+      crea<lb ed="#P" n="133" break="no"/>tura. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1078">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Tertia ratio quae nonnullos vehementer torsit, 
+      <lb ed="#P" n="135"/>nihil convincit; assumit enim contradictionem 
+      im<lb ed="#P" n="136" break="no"/>possibilem, ex qua non hoc modo sequeretur quod 
+      <lb ed="#P" n="137"/>concluditur, verum etiam sequeretur Deum non esse 
+      <lb ed="#P" n="138"/>Deum; Nam si non libere agat, sed necessario, non 
+      <lb ed="#P" n="139"/>est Deus. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1096">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Ad quartam respondetur non esse eandem 
+      ra<lb ed="#P" n="141" break="no"/>tionem praeteriti &amp; futuri, ut supra indicavimus in 
+      <lb ed="#P" n="142"/>ratione septima negantis partis: Quod enim 
+      prae<lb ed="#P" n="143" break="no"/>teriit, totum jam sumptum est: Quod autem 
+      fu<lb ed="#P" n="144" break="no"/>turum est, si sit infinitum, semper manet in 
+      poten<lb ed="#P" n="145" break="no"/>tia, quia nunquam pertransibitur. Sequitur ergo 
+      <lb ed="#P" n="146"/>infinitum actu, si mundus semper fuit, non item, 
+      <lb ed="#P" n="147"/>si semper erit. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1118">
+               <lb ed="#P" n="148"/>
+               <pc type="indent"/> Ad quintam, sicut volitio Dei aeterna est, sic &amp; 
+      <!--0245.xml-->
+      <pb ed="#P" n="12"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>actio ejus qua producit creaturam, quatenus est in 
+      <lb ed="#P" n="2"/>ipso, aeterna est, non autem quatenus ad rem 
+      crea<lb ed="#P" n="3" break="no"/>tam terminatur; neque fieri potest, ut ad eam 
+      ter<lb ed="#P" n="4" break="no"/>minetur ab aeterno, quia hoc repugnat creaturae. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1141">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Ad sextam similis est responsio. Potuit enim Deus 
+      <lb ed="#P" n="6"/>ab aeterno operari, tum quia ab aeterno habuit 
+      poten<lb ed="#P" n="7" break="no"/>tiam operandi, tum quia omnis operatio Dei ex parte 
+      <lb ed="#P" n="8"/>ipsius aeterna est, licet non ab aeterno ad opus ipsum 
+      <lb ed="#P" n="9"/>terminetur. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1157">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Ad septimam, Respondetur philosophos 
+      similitu<lb ed="#P" n="11" break="no"/>dine creatarum causarum, quae si aeternae essent, 
+      <lb ed="#P" n="12"/>aeternos haberent effectus, non recte uti ad idem 
+      <lb ed="#P" n="13"/>probandum de causa increata. Rationem 
+      dissimili<lb ed="#P" n="14" break="no"/>tudinis quidam assignant, quia causae creatae quae 
+      <lb ed="#P" n="15"/>pro exemplis assignari solent, effectus suos 
+      produ<lb ed="#P" n="16" break="no"/>cunt naturaliter. Deus autem ad extra nihil agit 
+      na<lb ed="#P" n="17" break="no"/>turaliter, sed libere tantum. Quae responsio non male 
+      <lb ed="#P" n="18"/>refellitur ab aliis, quia Deus in agendo non 
+      delibe<lb ed="#P" n="19" break="no"/>rat, &amp; proinde actiones ejus, ex eo quia liberae sunt, 
+      <lb ed="#P" n="20"/>non requirunt durationem aliquam effectui 
+      prae<lb ed="#P" n="21" break="no"/>viam. Nam nec in creaturis intellectualibus id 
+      appa<lb ed="#P" n="22" break="no"/>ret necessarium, cum multa libere agant sine 
+      delibe<lb ed="#P" n="23" break="no"/>ratione. Unde ratio potius reddenda videtur ex 
+      re<lb ed="#P" n="24" break="no"/>pugnantia creaturae ad aeternitatem. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1194">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Porro sciendum quod ad rationes attinet partis 
+      <lb ed="#P" n="26"/>negantis, <ref xml:id="bt67yj-p003221-Rd1e1202">Augustinum quidem lib. 12. de civit. 
+      <lb ed="#P" n="27"/>cap. 15.</ref> &amp; <ref xml:id="bt67yj-p003221-Rd1e1207">
+                  <name xml:id="bt67yj-p003221-Nd1e1209">Boethium</name> libr. 5. cons. Phil. prosa 6.</ref> 
+      in<lb ed="#P" n="28" break="no"/>dicare solutionem quandam tertiae rationis, hanc 
+      <lb ed="#P" n="29"/>videlicet, quod etsi creatura aliqua semper fuisset, 
+      <lb ed="#P" n="30"/>non tamen aequaretur Deo in aeternitate, quia esse 
+      <lb ed="#P" n="31"/>divinum est esse totum simul absque successione, non 
+      <lb ed="#P" n="32"/>autem sic esset esse creaturae. Verum hanc 
+      responsio<lb ed="#P" n="33" break="no"/>nem non admittunt authoritates patrum supra 
+      cita<lb ed="#P" n="34" break="no"/>tae, ut qui philosophos dixerint aequasse mundum 
+      <lb ed="#P" n="35"/>creatori, quod ponerent eum aeternum. Quos tamen 
+      <lb ed="#P" n="36"/>constat non fuisse locutos de aeternitate illa stabili in 
+      <lb ed="#P" n="37"/>qua non esset prius &amp; posterius. Deinde solutio haec 
+      <lb ed="#P" n="38"/>non adjuvat assertores quintae opinionis supra 
+      cita<lb ed="#P" n="39" break="no"/>tae, quae ita demum concedit creaturam potuisse esse 
+      <lb ed="#P" n="40"/>ab aeterno, si omnis mutatio &amp; successio ab ea 
+      re<lb ed="#P" n="41" break="no"/>moveatur, nisi dicant hujusmodi stabilem, &amp; 
+      suc<lb ed="#P" n="42" break="no"/>cessionis expertem aeternitatem soli Deo competere, 
+      <lb ed="#P" n="43"/>per naturam, aliis autem competere posse per 
+      par<lb ed="#P" n="44" break="no"/>ticipationem. Sed hoc ipsum est quod patres 
+      impos<lb ed="#P" n="45" break="no"/>sibile esse contendunt. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1252">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Nonam quoque rationem antecedente ejus 
+      con<lb ed="#P" n="47" break="no"/>cesso, prout omnino concedendum videtur, 
+      solve<lb ed="#P" n="48" break="no"/>re quidam conantur negatione consequentiae. 
+      <lb ed="#P" n="49"/>Quamvis enim, ut inquiunt, non potuerit prius, 
+      <lb ed="#P" n="50"/>id est, priori aliquo tempore mundus creari, potuit 
+      <lb ed="#P" n="51"/>tamen creari ab aeterno. Sed non videtur bona 
+      solu<lb ed="#P" n="52" break="no"/>tio. Causa enim cur non potuerit prius creari, ea est, 
+      <lb ed="#P" n="53"/>quia in aeternitate non est successio, haec autem ratio 
+      <lb ed="#P" n="54"/>tam excludit prius creatum aeternum, quam prius 
+      <lb ed="#P" n="55"/>temporarium. 
+    </p>
+            <p xml:id="bt67yj-p003221-d1e1278">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Verum dicet aliquis saltem demonstrari non 
+      <lb ed="#P" n="57"/>posse quod mundus inceperit, eo quod sit articulus 
+      <lb ed="#P" n="58"/>fidei. Respondeo, nihil obstare quo minus aliquid 
+      <lb ed="#P" n="59"/>credendum proponatur quod demonstrari potest, 
+      <lb ed="#P" n="60"/>ut Deum esse, &amp; omnia posse, &amp; alia hujusmodi, 
+      <lb ed="#P" n="61"/>primo quia dubitari potest an sit demonstrabile, ut 
+      <lb ed="#P" n="62"/>in proposito; secundo quia paucorum est scientia 
+      de<lb ed="#P" n="63" break="no"/>monstrativa, fides autem ad omnes patet; tertio 
+      <lb ed="#P" n="64"/>quia etiam illi ipsi qui demonstrationem alicujus, 
+      <lb ed="#P" n="65"/>articuli acceperunt, certius eundem tenent ex fide, 
+      <lb ed="#P" n="66"/>ut contingit quando philosophus fit Christianus. 
+      <lb ed="#P" n="67"/>Et notandum quod S. Thomas negare videtur, 
+      pos<lb ed="#P" n="68" break="no"/>se demonstrari hunc mundum secundum eam quam 
+      <lb ed="#P" n="69"/>habet dispositionem &amp; mutabilitatem, aliquando 
+      <lb ed="#P" n="70"/>incepisse, ut satis colligitur ex argumentis quae 
+      ad<lb ed="#P" n="71" break="no"/>ducit &amp; eorum solutionibus. Quod tamen hodie 
+      <lb ed="#P" n="72"/>plerique Thomistae concedunt, propter rationes quae 
+      <lb ed="#P" n="73"/>ex motu &amp; tempore, &amp; ac rerum mutabilitate 
+      su<lb ed="#P" n="74" break="no"/>muntur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

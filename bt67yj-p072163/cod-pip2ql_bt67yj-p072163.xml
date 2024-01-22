@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="187"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p072163"><!-- l2d21c10" -->
+            <head xml:id="bt67yj-p072163-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p072163-Hd1e103" type="question-title">Quaedam objectiones solvuntur</head>
+            <p xml:id="bt67yj-p072163-d1e106">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> §. 10. Quaedam objectiones solvuntur.
+    </p>
+            <p xml:id="bt67yj-p072163-d1e113">
+               <lb ed="#P" n="67"/>ADversus jam dicta primum objiciunt quidam, 
+      <lb ed="#P" n="68"/>quod Greg. in homil. 16. super Evang. dicit 
+      <!--0420.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>Christum per suggestionem tentari potuisse. Sed 
+      <lb ed="#P" n="70"/>facilis est responsio Greg. loqui de suggestione 
+      ex<lb ed="#P" n="71" break="no"/>teriori, ut ex ipso loco planum est. Addit enim: 
+      Ar<lb ed="#P" n="72" break="no"/>que ideo omnis illa diabolica tentatio foris, non intus 
+      <lb ed="#P" n="73"/>fuit. 
+    </p>
+            <p xml:id="bt67yj-p072163-d1e135">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Dices, Greg. eadem hom. 16. in evang. dicit de 
+      <lb ed="#P" n="75"/>Christo: Justum erat ut sic tentationes nostras suis 
+      <lb ed="#P" n="76"/>tentationibus vinceret, sicut mortem nostram 
+      ve<lb ed="#P" n="77" break="no"/>nerat sua morte superare; ergo justum erat &amp; ut sua 
+      <lb ed="#P" n="78"/>tentatione carnis, nostram tentationem carnis 
+      supe<lb ed="#P" n="79" break="no"/>raret. Negatur consequentia, quia tentatio carnis 
+      <lb ed="#P" n="80"/>habet aliquid repugnans fatisfactioni &amp; placationi 
+      <lb ed="#P" n="81"/>divinae; non ita caeterae tentationes, in quibus 
+      <lb ed="#P" n="82"/>B ex parte Christi nihil erat mali adversantis legi 
+      di<lb ed="#P" n="83" break="no"/>vinae. 
+    </p>
+            <p xml:id="bt67yj-p072163-d1e162">
+               <lb ed="#P" n="84"/>Secundo, objici potest Theoph. &amp; aliorum 
+      quo<lb ed="#P" n="85" break="no"/>rundam sententia, qui Christum a diabolo 
+      tenta<lb ed="#P" n="86" break="no"/>tum dicunt, non in specie aliqua exteriori, sed per 
+      <lb ed="#P" n="87"/>hoc quod ejus phantasiae objecerit imagines 
+      ta<lb ed="#P" n="88" break="no"/>lium rerum de quibus &amp; ex quibus eum tentabat. 
+      <lb ed="#P" n="89"/>Quomodo &amp; nonnulli existimant eum a diabolo 
+      <lb ed="#P" n="90"/>tentatum fuisse pendentem in cruce, juxta illud 
+      <lb ed="#P" n="91"/>quod Lucas ait cap. 4. diabolum ab illo receffisse 
+      <lb ed="#P" n="92"/>usque ad tempus, scilicet passionis. Sed 
+      dicen<lb ed="#P" n="93" break="no"/>dum utramque Christi tentationem, &amp; eam quae 
+      <lb ed="#P" n="94"/>post baptismum ejus a tribus evangelistis facta 
+      nar<lb ed="#P" n="95" break="no"/>ratur, &amp; eam quam in cruce passus est, non nisi 
+      <lb ed="#P" n="96"/>exterius factam fuisse; illam quidem a diabolo 
+      im<lb ed="#P" n="97" break="no"/>mediate, hanc vero a malis hominibus instigante 
+      <lb ed="#P" n="98"/>diabolo, ut ex evangeliis manifestum est. Qualis &amp; 
+      <lb ed="#P" n="99"/>illa fuit tentatio, de qua ipse tentantes alloquitur 
+      <lb ed="#P" n="100"/>dicens: Quid me tentatis, hypocritae? Eorum porro 
+      <lb ed="#P" n="101"/>qui diversum sentiunt, ut &amp; Ruperti, qui putat 
+      <lb ed="#P" n="102"/>primos homines prius interius a diabolo tentatos 
+      <lb ed="#P" n="103"/>&amp; tentatione prostratos fuisse, quam per sepentem 
+      <lb ed="#P" n="104"/>exterius tentarentur, necnon Cajetan. qui totam 
+      <lb ed="#P" n="105"/>serpentini colloquii historiam trahit ad interiorem 
+      <lb ed="#P" n="106"/>peccati per diabolum suggestionem; horum, 
+      in<lb ed="#P" n="107" break="no"/>quam, authoritatem dicimus hac in parte non esse 
+      <lb ed="#P" n="108"/>recipiendam. 
+    </p>
+            <p xml:id="bt67yj-p072163-d1e219">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Tertio, potest objici quod dicit Aug. lib. 32. 
+      con<lb ed="#P" n="110" break="no"/>tra Faustum in fine, carnem Christi a Diabolo 
+      ten<lb ed="#P" n="111" break="no"/>tatam fuisse. Verum his verbis non vult Aug. 
+      diabo<lb ed="#P" n="112" break="no"/>lum in Christo excitasse aliquam carnis vel 
+      sensuali<lb ed="#P" n="113" break="no"/>tatis tentationem; sed seosus est Christum in carne, 
+      <lb ed="#P" n="114"/>id est, Christum hominem fuisse tentatum a 
+      dia<lb ed="#P" n="115" break="no"/>bolo; qui sensus patet ex contexu¬ 
+    </p>
+            <p xml:id="bt67yj-p072163-d1e239">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Postremo, contra rationem ex S. Tho. allatam 
+      <lb ed="#P" n="117"/>objecerit aliquis, non solum per suggestionem 
+      in<lb ed="#P" n="118" break="no"/>teriorem, verum etiam per eam quae foris fit 
+      im<lb ed="#P" n="119" break="no"/>mutari phantasiam ejus cui aliquid suggeritur, dum 
+      <lb ed="#P" n="120"/>nimirum suggestio exterior per auditum penetrat 
+      <lb ed="#P" n="121"/>ad sensum interiorem atque ad ipsum intellectum. 
+      <lb ed="#P" n="122"/>Respondeo id ad naturalem hominis 
+      conditio<lb ed="#P" n="123" break="no"/>nem pertinere, ut exterius objecta vel proposita 
+      <lb ed="#P" n="124"/>videat vel audiat, atque ea deinde sensu 
+      inte<lb ed="#P" n="125" break="no"/>riori &amp; intellectu percipiat; sed non pertinet ad 
+      <lb ed="#P" n="126"/>primam ejus conditionem, ut clausis exterioribus 
+      <lb ed="#P" n="127"/>sensibus, imaginatio ejus ab alio movente externo, 
+      <lb ed="#P" n="128"/>praeterquam a Deo, vel ejus jussu a bono angelo 
+      <lb ed="#P" n="129"/>immutetur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

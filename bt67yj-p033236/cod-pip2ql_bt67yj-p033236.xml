@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="86"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p033236"><!-- l2d8c3" -->
+            <head xml:id="bt67yj-p033236-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p033236-Hd1e103" type="question-title">De Angelorum corporibus aliorum quorundam 
+      sententiae expenduntur</head>
+            <p xml:id="bt67yj-p033236-d1e106">
+      <!--0319.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>§. 3. De Angelorum corporibus aliorum quorundam 
+      <lb ed="#P" n="72"/>sententiae expenduntur.
+    </p>
+            <p xml:id="bt67yj-p033236-d1e117">
+               <lb ed="#P" n="73"/>APud veteres Ecclesiae scriptores non perinde 
+      at<lb ed="#P" n="74" break="no"/>que hodie certa fuit &amp; omnibus probata 
+      sen<lb ed="#P" n="75" break="no"/>tentia angelos &amp; daemones incorporeos esse, neque 
+      <lb ed="#P" n="76"/>corpora sibi naturaliter unita habere. 
+    </p>
+            <p xml:id="bt67yj-p033236-d1e128">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Quidam enim secuti Platonis &amp; sequacium ejus, 
+      <lb ed="#P" n="78"/>ut Porphyrii &amp; Apulei sententiam docentium 
+      dae<lb ed="#P" n="79" break="no"/>mones tam bonos quam malos esse animalia 
+      quae<lb ed="#P" n="80" break="no"/>dam aerea (de qua vide <name xml:id="bt67yj-p033236-Nd1e141">Apuleum</name> libro. de Deo 
+      <lb ed="#P" n="81"/>Socratis) hoc ipsum de angelis tradiderunt, eosque 
+      <lb ed="#P" n="82"/>proinde aut corporeos esse, aut corpora naturaliter 
+      <lb ed="#P" n="83"/>unita habere dixerunt. 
+    </p>
+            <p xml:id="bt67yj-p033236-d1e151">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Nonnulli vero de tota hac re tanquam de re 
+      du<lb ed="#P" n="85" break="no"/>bia locuti sunt. Inter quos imprimis ponimus 
+      Au<lb ed="#P" n="86" break="no"/>gustinum, tametsi in eam partem quae angelis 
+      cor<lb ed="#P" n="87" break="no"/>pora tribuit, multis locis proniorem. Nam ut erat 
+      <lb ed="#P" n="88"/>Platonica disciplina imbutus, Platonicorum 
+      opi<lb ed="#P" n="89" break="no"/>nionem de corporibus angelorum sic alicubi 
+      com<lb ed="#P" n="90" break="no"/>memorat, ut eam approbare videatur, velut libro 8. 
+      <lb ed="#P" n="91"/>de civitate capite decimoquarto, decimoquinto &amp; 
+      <lb ed="#P" n="92"/>decimosexto. Quin alibi frequenter angelos 
+      anima<lb ed="#P" n="93" break="no"/>lia vocat &amp; corpora eis attribuit. Loca sunt libro 1. 
+      <lb ed="#P" n="94"/>contra Academicos capite septimo, &amp; libro secundo 
+      <lb ed="#P" n="95"/>de ordine capite nono, libro secundo de trinitate 
+      <lb ed="#P" n="96"/>cap. 7. &amp; lib. 3. cap. 1. in expositione psalmi 85. &amp; 
+      <lb ed="#P" n="97"/>145. libro nono de civitate capite decimotertio, &amp; 
+      <lb ed="#P" n="98"/>libro undecimo capite vicesimotertio, &amp; libro 
+      vi<lb ed="#P" n="99" break="no"/>cesimoprimo capite tertio. Item epistola 111. &amp; 115. 
+      <lb ed="#P" n="100"/>sermone 102. de diversis cap. 9. &amp; lib. 83. 
+      quaestio<lb ed="#P" n="101" break="no"/>num quaest. 47. &amp; 67. Denique libro de 
+      divinatio<lb ed="#P" n="102" break="no"/>ne daemonum capite tertio, cur acriore sensu &amp; 
+      mo<lb ed="#P" n="103" break="no"/>tus celeritate daemones praestent hominibus, 
+      ratio<lb ed="#P" n="104" break="no"/>nem reddit ex eo quod praediti sunt corpore aereo, 
+      <lb ed="#P" n="105"/>id est, corpore subtilioris elementi. Quod autem 
+      <lb ed="#P" n="106"/>hanc opinionem non pro certa habuerit, ex aliis 
+      <lb ed="#P" n="107"/>) ostenditur locis, quae dubitationem ejus super hac 
+      <lb ed="#P" n="108"/>quaest. tanquam difficili palam declarant. Nam 
+      En<lb ed="#P" n="109" break="no"/>chiridii capite 59. difficillimam esse dicit 
+      quaestio<lb ed="#P" n="110" break="no"/>nem de corporibus angelorum, &amp; lib. 1. 
+      retracta<lb ed="#P" n="111" break="no"/>tionum c. 26. id quod dixerat quaest. 67. inter 83. 
+      <lb ed="#P" n="112"/>quosdam angelos animaliter vivere, retractat 
+      ve<lb ed="#P" n="113" break="no"/>lut audacius dictum, quam quod ostendi possit. 
+      <lb ed="#P" n="114"/>Praeterea libro vicesimoprimo de civitate capite 10. 
+      <lb ed="#P" n="115"/>cum dixisset daemonibus quoque sua esse corpora 
+      <lb ed="#P" n="116"/>ex aere conflata. Si autem quisquam, inquit, 
+      nul<lb ed="#P" n="117" break="no"/>la habere corpora daemones asseverat, non est hac 
+      <lb ed="#P" n="118"/>de re aut laborandum operosa inquisitione, aut 
+      <lb ed="#P" n="119"/>contentiosa disputatione certandum. Idem &amp; alibi 
+      <lb ed="#P" n="120"/>de corporibus angelorum dubitanter loquitur, ut 
+      <lb ed="#P" n="121"/>libro tertio de Genesi ad literam cap. 10. Dicit 
+      <lb ed="#P" n="122"/>enim conditionaliter: Si haec ita sunt, &amp;c. &amp; lib. 
+      <lb ed="#P" n="123"/>15. de civitate Dei cap. 23. necnon epistola 157. In 
+      <lb ed="#P" n="124"/>eadem dubitatione Bernardus haesisse se fatetur 
+      li<lb ed="#P" n="125" break="no"/>bro quinto de consideratione capite 4. &amp; sermone 
+      <lb ed="#P" n="126"/>quinto &amp; sexto super Cantica. Nam existimat 
+      qui<lb ed="#P" n="127" break="no"/>dem angelos sua ministeria exequi non posse sine 
+      cor<lb ed="#P" n="128" break="no"/>poribus, an autem ea corpora ad eorum substantiam 
+      <lb ed="#P" n="129"/>pertineant, ipsisve naturaliter uniantur, ut sint 
+      ani<lb ed="#P" n="130" break="no"/>malia sicut homines, an vero ea pro voluntate 
+      su<lb ed="#P" n="131" break="no"/>mant &amp; ponant, nescire se profitetur. Neque 
+      ta<lb ed="#P" n="132" break="no"/>men hi duo authores dubitandum putarunt de 
+      ani<lb ed="#P" n="133" break="no"/>ma rationali quin ea sit incorporea, ut ex eorum 
+      <lb ed="#P" n="134"/>scriptis clare potest ostendi, quemadmodum alibi 
+      <lb ed="#P" n="135"/>docebimus scilicet ad distinctionem 17. Ex quo non 
+      <lb ed="#P" n="136"/>leve fumitur argumentum juxta eorundem 
+      senten<lb ed="#P" n="137" break="no"/>tiam angelos suapte natura esse incorporeos, licet 
+      <lb ed="#P" n="138"/>iis quacumque ratione corpora conjuncta esse 
+      opi<lb ed="#P" n="139" break="no"/>nati fuerint. 
+    </p>
+            <p xml:id="bt67yj-p033236-d1e277">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Porro alii quidam docuerunt non modo 
+      ange<lb ed="#P" n="141" break="no"/>los, sed &amp; animas humanas &amp; in universum omnem 
+      <!--0320.xml-->
+      <pb ed="#P" n="87"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>creaturam corpoream esse, nihilque praeter unum 
+      <lb ed="#P" n="2"/>Deum esse quod sit prorsus incorporeum. Ita 
+      sen<lb ed="#P" n="3" break="no"/>tiunt Origenes libro secundo periarchon capite 
+      se<lb ed="#P" n="4" break="no"/>cundo &amp; tertio, Cassianus collatione 7. c. 13. 
+      Gen<lb ed="#P" n="5" break="no"/>nadius lib. de ecclesiasticis dogmatibus cap. 11. &amp; 
+      <lb ed="#P" n="6"/>12. Faustus Regiensis episcopus peculiari lib. de ea 
+      <lb ed="#P" n="7"/>re conscripto; cujus idem Gennadius meminit in 
+      <lb ed="#P" n="8"/>libro de scriptoribus ecclesiasticis, &amp; author 
+      li<lb ed="#P" n="9" break="no"/>bri de spiritu &amp; anima cap. 18. qui liber fertur 
+      in<lb ed="#P" n="10" break="no"/>ter opera Augustini. Sed horum authoritas non est 
+      <lb ed="#P" n="11"/>magni ponderis. Nam Origenis multa dogmata ab 
+      <lb ed="#P" n="12"/>ecclesia proscripta sunt. Tres sequentes authores ab 
+      <lb ed="#P" n="13"/>errore Pelagiano male audiunt. Postremus 
+      incogni<lb ed="#P" n="14" break="no"/>tus est author, de quo vide Trithemium in 
+      Augusti<lb ed="#P" n="15" break="no"/>no. Quanquam &amp; alii nonnulli, quorum verba 
+      re<lb ed="#P" n="16" break="no"/>citat Burchardus libro vicesimo sui decreti cap. 41. 
+      <lb ed="#P" n="17"/>&amp; 42. eandem sententiam tradiderunt. Quae 
+      qui<lb ed="#P" n="18" break="no"/>dem verum aliquem sensum habere potest, 
+      quemad<lb ed="#P" n="19" break="no"/>modum in eodem libro de spiritu &amp; anima 
+      declara<lb ed="#P" n="20" break="no"/>tur, nempe omnem creaturam corpoream esse, non 
+      <lb ed="#P" n="21"/>simpliciter sed Dei comparatione, quippe qui 
+      so<lb ed="#P" n="22" break="no"/>lus ita incorporeus est, ut sit infinitus, 
+      incircumscri<lb ed="#P" n="23" break="no"/>ptus &amp; omnino simplex, omnisque compositionis 
+      <lb ed="#P" n="24"/>expers. Quo sensu Patres quidam praecipui eorum 
+      <lb ed="#P" n="25"/>quos supra pro diversa sententia adduximus, 
+      inter<lb ed="#P" n="26" break="no"/>dum fatentur angelos corporeos &amp; circumscriptos 
+      <lb ed="#P" n="27"/>esse, ut Basilius lib. de spiritu sancto cap. 16. Naz. 
+      <lb ed="#P" n="28"/>lib. 2. de Theologia in fine, Gregorius libro 
+      secun<lb ed="#P" n="29" break="no"/>do moralium cap. 8. &amp; Damascenus libro secundo 
+      <lb ed="#P" n="30"/>de fide cap. duodecimo &amp; lib. primo cap. 17. ubi 
+      <lb ed="#P" n="31"/>&amp; tribuit angelis locum intelligibilem, &amp; dicit 
+      <lb ed="#P" n="32"/>eos intelligibiliter in loco esse, quia oircumscripti 
+      <lb ed="#P" n="33"/>sunt, &amp; exponit, quia dum sunt in caelo, non sunt 
+      <lb ed="#P" n="34"/>in terra. 
+    </p>
+            <p xml:id="bt67yj-p033236-d1e366">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Sunt autem &amp; alii nonnulli qui angelis non 
+      qua<lb ed="#P" n="36" break="no"/>liacumque corpora tribuerunt, sed talia in quibus 
+      <lb ed="#P" n="37"/>opera carnis exercere possint, eo quod Genesis 6. 
+      <lb ed="#P" n="38"/>legantur filii Dei adamasse filias hominum, &amp; cum 
+      <lb ed="#P" n="39"/>iis carnaliter fuisse commixtos. Sed hanc erroneam 
+      <lb ed="#P" n="40"/>&amp; nimis crassam de angelis opinionem alibi 
+      refuta<lb ed="#P" n="41" break="no"/>vimus ad superiorem distinctionem. 
+    </p>
+            <p xml:id="bt67yj-p033236-d1e386">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Est praeterea Ruperti de corporibus angelorum &amp; 
+      <lb ed="#P" n="43"/>daemonum peculiaris quaedam sententia. Nam lib. 
+      <lb ed="#P" n="44"/>1. de victoria verbi Dei cap. 26. dicit daemones ante 
+      <lb ed="#P" n="45"/>transgressionem quidem caelestia corpora gessisse, 
+      <lb ed="#P" n="46"/>lapsos vero per superbiam in aeream qualitatem esse 
+      <lb ed="#P" n="47"/>conversos, &amp; cap. 28. probat angelos non esse factos 
+      <lb ed="#P" n="48"/>ante caelum &amp; terram, quia locales sunt &amp; 
+      circum<lb ed="#P" n="49" break="no"/>scripti, &amp; ideo in loco corporeo creari eos debuisse, 
+      <lb ed="#P" n="50"/>ubi deinde addit omnes angelos factos esse ex 
+      sub<lb ed="#P" n="51" break="no"/>stantia aeris. Habent enim, inquit, corpora aerea, 
+      <lb ed="#P" n="52"/>quae tamen &amp; sint corpora caelestia. Porro apostatae 
+      an<lb ed="#P" n="53" break="no"/>geli ab illa felicitate lapsi rursum in aeream qualita: 
+      <lb ed="#P" n="54"/>tem conversi sunt. Haec ille, &amp; alia quae sequuntur. 
+      Si<lb ed="#P" n="55" break="no"/>milia tradit lib. I. in Genesim cap. 11. &amp; lib. 1. de 
+      Tri<lb ed="#P" n="56" break="no"/>nitate. Sed haec qua facilitate ab illo dicuntur absque 
+      <lb ed="#P" n="57"/>graviori authoritate Scripturae, aut Sanctorum 
+      Pa<lb ed="#P" n="58" break="no"/>trum, eadem merito rejiciuntur. 
+    </p>
+            <p xml:id="bt67yj-p033236-d1e428">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Plus vero difficultatis habet quod ex septima 
+      sy<lb ed="#P" n="60" break="no"/>nodo generali pro corporibus angelorum solet 
+      ad<lb ed="#P" n="61" break="no"/>ferri. In cujus actione 5. ex lib. Joannis episcopi 
+      <lb ed="#P" n="62"/>Thessalonicensis verba quaedam proferuntur, 
+      qui<lb ed="#P" n="63" break="no"/>bus author ille &amp; angelos &amp; animas nostras negat 
+      <lb ed="#P" n="64"/>omnino corporis expertes &amp; invisibiles esse; verum 
+      <lb ed="#P" n="65"/>tenui corpore praeditos aereo sive igneo, ac 
+      multo<lb ed="#P" n="66" break="no"/>ties in proprio corpore visos esse. Eaque in 
+      senten<lb ed="#P" n="67" break="no"/>tia fuisse Basilium, Athanasium &amp; Methodium. 
+      <lb ed="#P" n="68"/>Quam &amp; ejusdem synodi Patres videantur sua 
+      ac<lb ed="#P" n="69" break="no"/>clamatione comprobasse, ut qui post illius episcopi 
+      <lb ed="#P" n="70"/>verba perlecta, dicente Tharasio patriarcha: 
+      Osten<lb ed="#P" n="71" break="no"/>dit autem pater quod &amp; angelos pingere oporteat, 
+      <lb ed="#P" n="72"/>quando circumscribi possunt, &amp; ut homines 
+      appa<lb ed="#P" n="73" break="no"/>ruerunt; respondisse leguntur. Etiam Domine. Sed 
+      <lb ed="#P" n="74"/>respondemus, utcumque se habeat opinio Joannis 
+      <!--0320.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>aepiscopi, cujus in synodo verba lecta fuerunt; 
+      Pa<lb ed="#P" n="76" break="no"/>tres synodi non ipsam opinionem approbasse, sed 
+      <lb ed="#P" n="77"/>quod ex ea velut consequens idem episcopus 
+      dedu<lb ed="#P" n="78" break="no"/>cebat, quodque suis deinde verbis Tharasius 
+      pa<lb ed="#P" n="79" break="no"/>triarcha repetebat, videlicet angelos recte pingi. 
+      <lb ed="#P" n="80"/>Nam de sacrarum imaginum usu in ea synodo 
+      age<lb ed="#P" n="81" break="no"/>batur. Ad ejus autem rei probationem variae 
+      pro<lb ed="#P" n="82" break="no"/>ferebantur sententiae Patrum, eatenus dumtaxat 
+      ap<lb ed="#P" n="83" break="no"/>probatae, quatenus ad statuendum usum sacrarum 
+      <lb ed="#P" n="84"/>imaginum valebant. Nec ob id infirma probatione 
+      <lb ed="#P" n="85"/>synodus utebatur. Probabat enim suam doctrinam 
+      <lb ed="#P" n="86"/>argumento ducto ab authoritate &amp; sententiis 
+      Pa<lb ed="#P" n="87" break="no"/>trum qui praecesserant, etiamsi patres ad 
+      confirman<lb ed="#P" n="88" break="no"/>das suas sententias non ubique certa &amp; solida 
+      attu<lb ed="#P" n="89" break="no"/>lissent argumenta, nec veras semper adhibuissent 
+      <lb ed="#P" n="90"/>sumptiones. Fit enim interdum ut ad probandum 
+      <lb ed="#P" n="91"/>quod verum est; utantur authores argumentis 
+      pa<lb ed="#P" n="92" break="no"/>rum firmis. Dici quóque potest synodum respexisse 
+      <lb ed="#P" n="93"/>ad unam dumtaxat eamque extremam 
+      probatio<lb ed="#P" n="94" break="no"/>nis partem, qua nimirum dicitur angelos 
+      saepenu<lb ed="#P" n="95" break="no"/>mero hominibus apparuisse in forma numana. Hoc 
+      <lb ed="#P" n="96"/>enim &amp; verum est &amp; per se sufficiens ad 
+      pro<lb ed="#P" n="97" break="no"/>bandum, quod in hujusmodi forma recte 
+      pin<lb ed="#P" n="98" break="no"/>gantur, sive natura sua corporei sint, sive 
+      in<lb ed="#P" n="99" break="no"/>corporei. 
+    </p>
+            <p xml:id="bt67yj-p033236-d1e526">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Potest insuper objici de daemonibus, quod cum 
+      <lb ed="#P" n="101"/>torqueantur igne corporeo, consequens videatur 
+      <lb ed="#P" n="102"/>eos aut corporeos esse, aut propria quaedam habere 
+      <lb ed="#P" n="103"/>corpora, in quibus ab igne patiantur, eo quod 
+      cor<lb ed="#P" n="104" break="no"/>pus in rem mere spiritualem agere non possit. Sed 
+      <lb ed="#P" n="105"/>huic difficultati explicandae proprius est locus ad 
+      <lb ed="#P" n="106"/>distinct. 44. lib. 4. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

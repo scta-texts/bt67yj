@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="385"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p149115"><!-- l2d41c3" -->
+            <head xml:id="bt67yj-p149115-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p149115-Hd1e103" type="question-title">Supradictae quaestionis explicatio 
+      et determinatio</head>
+            <p xml:id="bt67yj-p149115-d1e106">
+               <lb ed="#P" n="33"/>§. 3. Supradictae quaestionis explicatio 
+      <lb ed="#P" n="34"/>&amp; determinatio. 
+    </p>
+            <p xml:id="bt67yj-p149115-d1e113">
+               <lb ed="#P" n="35"/>PRo quaestionis supradictae declaratione 
+      scien<lb ed="#P" n="36" break="no"/>dum imprimis est, eam de solis actionibus 
+      hu<lb ed="#P" n="37" break="no"/>manis intelligendam esse. Eam autem dicimus 
+      hu<lb ed="#P" n="38" break="no"/>manam actionem, quae ex rationis judicio &amp; 
+      deli<lb ed="#P" n="39" break="no"/>berata voluntate procedit. Quae igitur tales non 
+      <lb ed="#P" n="40"/>sunt, sed ex sola fiunt imaginatione, ut scalpere 
+      ca<lb ed="#P" n="41" break="no"/>put, fricare barbam, spuere in terram, dum fiunt 
+      <lb ed="#P" n="42"/>ab homine aliis intento, in praesentem 
+      disputatio<lb ed="#P" n="43" break="no"/>nem non sunt adducendae. 
+    </p>
+            <p xml:id="bt67yj-p149115-d1e135">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Porro actionem omnem humanam aut bonam aut 
+      <lb ed="#P" n="45"/>malam moraliter esse oportet, quemadmodum recte 
+      <lb ed="#P" n="46"/>S. Thom. docet 1. 2. q. 18. art. 9. non quidem ex gene 
+      <lb ed="#P" n="47"/>re suo, sive objecti ratione, quandoquidem constat 
+      <lb ed="#P" n="48"/>multas esse actiones ex genere indifferentes, 
+      cujus<lb ed="#P" n="49" break="no"/>modi sunt ambulare, stare, sedere, loqui; sed in 
+      par<lb ed="#P" n="50" break="no"/>ticulari consideratam secundum circunstantias, in 
+      <lb ed="#P" n="51"/>quibus etiam finis continetur. Aut enim adsunt 
+      om<lb ed="#P" n="52" break="no"/>nes ad bonitatem operis requisitae circunstantiae, &amp; 
+      <lb ed="#P" n="53"/>bonum est opus; aut deest aliqua, &amp; malum est 
+      <lb ed="#P" n="54"/>opus, aut simpliciter, aut secundum quid 
+      <lb ed="#P" n="55"/>Neque obstat condemnatio articuli supra citati de 
+      <lb ed="#P" n="56"/>operibus indifferentibus; tum quia saltem secundum 
+      <lb ed="#P" n="57"/>speciem indifferentia opera cognoscimus; tum quia 
+      <lb ed="#P" n="58"/>ad justam illius articuli condemnationem sufficit 
+      <lb ed="#P" n="59"/>falsitas ejus quod in eodem articulo sequitur, &amp; ex 
+      <lb ed="#P" n="60"/>prioribus male colligebatur; nempe hominem si 
+      vi<lb ed="#P" n="61" break="no"/>tiosus sit, necessario vitios e agere, &amp; si virtuosus sit, 
+      <lb ed="#P" n="62"/>necessario virtuose agere. Cujus rationem 
+      haereti<lb ed="#P" n="63" break="no"/>cus subjungebat: Quia sicut peccatum inficit 
+      univer<lb ed="#P" n="64" break="no"/>saliter omnes actus hominis vitiosi, ita virtus vivificat 
+      <lb ed="#P" n="65"/>omnes actus hominis virtuosi. Quae ratio parte 
+      utra<lb ed="#P" n="66" break="no"/>que falsa est: Nam neque justi hominis opera omnia 
+      <lb ed="#P" n="67"/>bona sunt, quem constat saepenumero venialiter 
+      pec<lb ed="#P" n="68" break="no"/>care; neque hominis in peccatum mortale prolapsi, 
+      <lb ed="#P" n="69"/>omnia mala sunt opera; cum ei ad multas bonas 
+      ope<lb ed="#P" n="70" break="no"/>rationes fides, quam non amisit, possit praelucere, 
+      <lb ed="#P" n="71"/>ut eas etiam in tali statu persistens faciat.
+    </p>
+            <p xml:id="bt67yj-p149115-d1e201">
+      <!--0618.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Notandum praeterea, in praesenti quaestione 
+      infi<lb ed="#P" n="73" break="no"/>delem non dici Judaeum aut haereticum, tametsi 
+      re<lb ed="#P" n="74" break="no"/>vera talis fidem non habeat, propterea quod fides 
+      <lb ed="#P" n="75"/>integrae virtutis sit nomen; sed paganum seu 
+      ethni<lb ed="#P" n="76" break="no"/>cum, qui ne unius quidem Dei, in quem suas 
+      actio<lb ed="#P" n="77" break="no"/>nes referre possit, cognitionem habeat. At neque 
+      <lb ed="#P" n="78"/>dubitandum, quin qui hoc pacto infidelis est, multa 
+      <lb ed="#P" n="79"/>possit ex genere bona, quae vocantur virtutum 
+      offi<lb ed="#P" n="80" break="no"/>cia, facere. Quod vel ipsa experientia teste est 
+      mani<lb ed="#P" n="81" break="no"/>festissimum. Sed quaeritur, an quicquid agit infidelis, 
+      <lb ed="#P" n="82"/>a fine non debito vitium accipiat, ut vere peccatum 
+      <lb ed="#P" n="83"/>dicatur; vel quia finem eum sibi in qualibet actione 
+      <lb ed="#P" n="84"/>proponit, quem spectare non debet; vel quia non 
+      <lb ed="#P" n="85"/>eum spectat, quem debet. Nam reliquas 
+      circun<lb ed="#P" n="86" break="no"/>stantias infidelium actionibus adesse posse non 
+      am<lb ed="#P" n="87" break="no"/>bigitur. Quocirca de fine propria est hujus 
+      quaestio<lb ed="#P" n="88" break="no"/>nis difficultas. 
+    </p>
+            <p xml:id="bt67yj-p149115-d1e245">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Et quidem August. serm. 13. de verbis apostoli 
+      gra<lb ed="#P" n="90" break="no"/>viter Stoicos reprehendit, eosque secundum carnem 
+      <lb ed="#P" n="91"/>vixisse dicit, quod ad seipsos virtutum officia 
+      refer<lb ed="#P" n="92" break="no"/>rent. Quo sane loco id praecipue docet Augustinus, 
+      <lb ed="#P" n="93"/>&amp; manifesta ratio convincit, omne opus quod non 
+      <lb ed="#P" n="94"/>refertur in finem ad quem referendum est, sed in 
+      <lb ed="#P" n="95"/>alium finem ad quem referri non debet, pravum &amp; 
+      <lb ed="#P" n="96"/>vitiosum esse, ideoque peccatum. Quare diligenter 
+      <lb ed="#P" n="97"/>considerandum, utrum omnia infidelium opera sint 
+      <lb ed="#P" n="98"/>hujusmodi. Dicimus itaque, quemadmodum non 
+      <lb ed="#P" n="99"/>ita tenebris ignorantiae extinctum est lumen mentis 
+      <lb ed="#P" n="100"/>humanae, quin de multis rebus sane recteque 
+      judi<lb ed="#P" n="101" break="no"/>cet, ita non sic vitiorum labe foedatam esse mentem 
+      <lb ed="#P" n="102"/>humanam, ut omnis scintilla boni &amp; naturalis 
+      affe<lb ed="#P" n="103" break="no"/>ctus extincta sit; ac non interdum inter innumera 
+      <lb ed="#P" n="104"/>licet vitae vitia, emicet appareatque, &amp; per 
+      actio<lb ed="#P" n="105" break="no"/>nes quasdam sese exerat. 
+    </p>
+            <p xml:id="bt67yj-p149115-d1e287">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Porro naturalis ille affectus ex se ad bonum 
+      ten<lb ed="#P" n="107" break="no"/>dit finem ultimum, saltem ingenere, licet quis sit 
+      <lb ed="#P" n="108"/>ille finis in particulari &amp; distincte ignoretur. Sicut 
+      <lb ed="#P" n="109"/>enim beati, ita &amp; boni esse naturaliter omnes 
+      desi<lb ed="#P" n="110" break="no"/>derant, quamvis ignorent quibus in rebus vera 
+      bo<lb ed="#P" n="111" break="no"/>nitas &amp; beatitudo sita sit. Igitur naturalis ille 
+      appeti<lb ed="#P" n="112" break="no"/>tus boni in genere cogniti &amp; cogitati, saepenumero, 
+      <lb ed="#P" n="113"/>determinatur fine aliquo in particulari proposito, 
+      <lb ed="#P" n="114"/>vel bono, vel malo, prout diversarum voluntatum 
+      <lb ed="#P" n="115"/>diversi sunt fines. Veruntamen necesse non est, ut 
+      <lb ed="#P" n="116"/>quisquis sibi finem aliquem ultimum, in quo ut 
+      <lb ed="#P" n="117"/>summo bono conquiescat, constituit, ad eum omnes 
+      <lb ed="#P" n="118"/>suas actiones referat. Non enim ambitiosus omnia 
+      <lb ed="#P" n="119"/>ad inanem gloriam, neque libidinosus omnia ad 
+      vo<lb ed="#P" n="120" break="no"/>luptatem carnis refert, quaecunque deliberata 
+      vo<lb ed="#P" n="121" break="no"/>luntate agit. Idem enim si concesserimus; jam non 
+      <lb ed="#P" n="122"/>infidelium tantum, sed &amp; fidelium male viventium 
+      <lb ed="#P" n="123"/>omnia opera ex circunstantia finis ultimi peccata 
+      <lb ed="#P" n="124"/>erunt. Quod nemo Catholicus dixerit. 
+    </p>
+            <p xml:id="bt67yj-p149115-d1e333">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Potest hoc e ex contrario intelligi. Nam justi in 
+      <lb ed="#P" n="126"/>hac vita non omnes suas actiones in Deum, quem 
+      <lb ed="#P" n="127"/>pro fine ultimo habent referunt; eas nimirum in 
+      <lb ed="#P" n="128"/>quibus quotidie offendunt. Quare nec injustos, 
+      <lb ed="#P" n="129"/>tametsi infideles, necesse est omnes actiones referre 
+      <lb ed="#P" n="130"/>in illud, quod prava voluntate sibi statuerunt summe 
+      <lb ed="#P" n="131"/>diligendum. Sicut enim ibi concupiscentia interdum 
+      <lb ed="#P" n="132"/>surripit aliquos motus voluntatis, qui non 
+      referan<lb ed="#P" n="133" break="no"/>tur in Deum ut finem ultimum, ac ne referri quidem 
+      <lb ed="#P" n="134"/>possint; ita hic interdum naturalis ille ad bonum 
+      in<lb ed="#P" n="135" break="no"/>stinctus elicit actiones quasdam, quas non eo dirigat 
+      <lb ed="#P" n="136"/>homo, quod in particulari pro summo bono diligit. 
+      <lb ed="#P" n="137"/>Et hac comparatione usus est August. lib. de spiritu 
+      <lb ed="#P" n="138"/>&amp; litera cap. 28. verbis supra citatis. 
+    </p>
+            <p xml:id="bt67yj-p149115-d1e368">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Hujusmodi ergo motus licet adhuc informes &amp; 
+      <lb ed="#P" n="140"/>imperfecti sint, propterea quod ex amore boni 
+      tan<lb ed="#P" n="141" break="no"/>tum in genere cogniti procedentes, ad idem ipsum 
+      <lb ed="#P" n="142"/>sub eadem ratione tendunt, unde nec ad vitam 
+      aeter<lb ed="#P" n="143" break="no"/>nam, quae Dei cultoribus &amp; amatoribus promissa 
+      <lb ed="#P" n="144"/>est, consequendam prodesse possunt, teste ibidem 
+      <lb ed="#P" n="145"/>Augustino, &amp; Leone sermone 7. de quadragesima: 
+      <!--0619.xml-->
+      <pb ed="#P" n="386"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sunt tamen natura sua formabiles per fidem, qua A 
+      <lb ed="#P" n="2"/>ipsum in particulari summum bonum, id est, Deus 
+      <lb ed="#P" n="3"/>cognoscatur, &amp; per charitatem, qua idem ut tale 
+      di<lb ed="#P" n="4" break="no"/>ligatur. Neque ulla omnino impedit circunstantia, 
+      <lb ed="#P" n="5"/>quominus hoc pacto formari &amp; perfici queant, id 
+      <lb ed="#P" n="6"/>quod de iis actionibus quae revera peccata sunt, dici 
+      <lb ed="#P" n="7"/>non potest; utpote quae vel ex objecto malae sint, 
+      <lb ed="#P" n="8"/>vel tali aliqua circunstantia affectae, quae fidei ac 
+      <lb ed="#P" n="9"/>charitatis formationem excludat. 
+    </p>
+            <p xml:id="bt67yj-p149115-d1e414">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Ex his igitur apparet eas infidelium actiones, quae 
+      <lb ed="#P" n="11"/>dicto modo fiunt, non tantum non esse peccata: 
+      <lb ed="#P" n="12"/>sed &amp; moraliter licet imperfecte bonas. Caeterum 
+      <lb ed="#P" n="13"/>hujusmodi motus vel actiones infidelium, propter 
+      <lb ed="#P" n="14"/>latissime grassantem infidelitatis &amp; concupiscentiae 
+      <lb ed="#P" n="15"/>tyrannidem, rarissimas esse indicavit eodem libro 
+      <lb ed="#P" n="16"/>Augustinus cap. 27. quando ait, si discutiatur quo 
+      <lb ed="#P" n="17"/>fine illa ex officio bona opera ab infidelibus, fiant, 
+      <lb ed="#P" n="18"/>vix inveniri, quae justitiae debitam laudem 
+      defensio<lb ed="#P" n="19" break="no"/>nemve mereantur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

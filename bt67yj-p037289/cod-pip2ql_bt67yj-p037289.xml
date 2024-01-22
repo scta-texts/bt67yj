@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="97"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p037289"><!-- l2d8c12" -->
+            <head xml:id="bt67yj-p037289-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-p037289-Hd1e103" type="question-title">Utrum daemones illabantur mentibus. 
+      hominum</head>
+            <p xml:id="bt67yj-p037289-d1e106">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> §. 12. Utrum daemones illabantur mentibus. 
+      <lb ed="#P" n="31"/>hominum? 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e115">
+               <lb ed="#P" n="32"/>QUaerit Magister utrum daemones animabus seu 
+      <lb ed="#P" n="33"/>mentibus hominum illabantur, idque exponit 
+      <lb ed="#P" n="34"/>secundum substantiam. Qua de re Didymus in libris 
+      <lb ed="#P" n="35"/>de spiritu sancto nonnulla disserit. Nam lib. 1. non 
+      <lb ed="#P" n="36"/>procul ab initio docet spiritum sanctum implere 
+      ani<lb ed="#P" n="37" break="no"/>mas hominum, id vero angelis nequaquam 
+      compe<lb ed="#P" n="38" break="no"/>tere. Quo argumento concludit spiritum sanctum 
+      <lb ed="#P" n="39"/>Deum esse, non creaturam. 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e135">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Idem porro sub finem libri tertii explicat 
+      quomo<lb ed="#P" n="41" break="no"/>do Satanas interdum non tantum intrare in cor 
+      ho<lb ed="#P" n="42" break="no"/>minis, sed &amp; implere illud dicatur, videlicet non 
+      <lb ed="#P" n="43"/>mentem ipsam movendo, quae potestas, solius est 
+      <lb ed="#P" n="44"/>Trinitatis, sed multiplicia vitiorum incentiva, 
+      qui<lb ed="#P" n="45" break="no"/>bus ipse plenus est, suggerendo. Ex Didymo suam 
+      <lb ed="#P" n="46"/>accepisse sententiam videtur Gennadius, libro de 
+      <lb ed="#P" n="47"/>ecclesiasticis dogmatibus cap. 82. Ex eodem non 
+      <lb ed="#P" n="48"/>modo sententiam accepit, sed &amp; ipsa verba 
+      descri<lb ed="#P" n="49" break="no"/>psit Beda in suum commentarium super Actor. 5. Et 
+      <lb ed="#P" n="50"/>ille quidem negat daemones substantialiter illabi 
+      ani<lb ed="#P" n="51" break="no"/>mae: Hic vero dicit solam Trinitatem posse implere 
+      <lb ed="#P" n="52"/>mentem hominis secundum substantiam, verba 
+      u<lb ed="#P" n="53" break="no"/>triusque authoris sunt in Magistro. Cujus 
+      contempo<lb ed="#P" n="54" break="no"/>rancus Bernardus serm. 5. super Cantica aliis 
+      ver<lb ed="#P" n="55" break="no"/>bis hoc idem docet. Exstat etiam inter opera August. 
+      <lb ed="#P" n="56"/>liber de spiritu &amp; anima, cujus capit. 27. dicitur 
+      <lb ed="#P" n="57"/>quod solus Deus implet mentem hominis, licet 
+      ali<lb ed="#P" n="58" break="no"/>quo modo Satanas etiam implere dicatur. Haec 
+      isto<lb ed="#P" n="59" break="no"/>rum doctrina quo plenius intelligatur, sciendum est 
+      <lb ed="#P" n="60"/>multis modis soli Deo competere, quod aut impleat 
+      <lb ed="#P" n="61"/>hominum mentes, aut iis illabatur. 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e188">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Ac primo confitendum est (quod a dictis aut 
+      ho<lb ed="#P" n="63" break="no"/>ribus traditur) solum Deum implere mentem 
+      ho<lb ed="#P" n="64" break="no"/>minis secundum substantiam, id est, solum Deum 
+      <lb ed="#P" n="65"/>praesentia suae naturae intimum esse toti animae 
+      in<lb ed="#P" n="66" break="no"/>trinsecus eam continendo, conservando, 
+      guber<lb ed="#P" n="67" break="no"/>nando, &amp; in ea operando. Cujus rei imago 
+      quae<lb ed="#P" n="68" break="no"/>dam est in anima respectu corporis. Ipsa enim 
+      to<lb ed="#P" n="69" break="no"/>tum corpus implet, quodammodo secundum 
+      sub<lb ed="#P" n="70" break="no"/>stantiam, dum sua praesentia dat &amp; conservat corpori 
+      <lb ed="#P" n="71"/>vitam, ipsum gubernat &amp; in eo operatur. 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e214">
+      <!--0330.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Secundo, solus Deus implet cor hominis; quoad 
+      <lb ed="#P" n="73"/>desiderii ejus capacitatem. Quod quidem fit quando 
+      <lb ed="#P" n="74"/>visione substantiae ejus satjatur desiderium creaturae 
+      <lb ed="#P" n="75"/>rationalis: Unde scriptum est in psalmo: Qui replet 
+      <lb ed="#P" n="76"/>in bonis desiderium tuum; &amp; in alio: Satiabor cum 
+      ap<lb ed="#P" n="77" break="no"/>paruerit gloria tua. 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e234">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Tertio, solus Deus cor hominis implet per 
+      cogni<lb ed="#P" n="79" break="no"/>tionem, quia omnia cordis penetralia &amp; recessus, id 
+      <lb ed="#P" n="80"/>est, quascumque etiam cogitationes occultissimas, 
+      <lb ed="#P" n="81"/>affectiones, &amp; intentiones cordis, ipse solus intima 
+      <lb ed="#P" n="82"/>sua virtute scrutatur &amp; cognoscit. Unde Joannes I. 
+      <lb ed="#P" n="83"/>epistolae capite tertios Majorest Deus corde nostro &amp; 
+      <lb ed="#P" n="84"/>novit omnia. 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e254">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Quarto, peculiari quadam ratione Deus illabi 
+      di<lb ed="#P" n="86" break="no"/>Scitur mentibus hominum, quando eas gratiae suae 
+      <lb ed="#P" n="87"/>praesentia sanctificat, &amp; domicilium ac templum 
+      <lb ed="#P" n="88"/>suum efficit. Quas etiam hac eadem ratione implere 
+      <lb ed="#P" n="89"/>dicitur infusione gratiae abundantioris, juxta illud 
+      <lb ed="#P" n="90"/>Actor. 2. Repleti sunt omnes Spiritu sancto. Et illud 
+      <lb ed="#P" n="91"/>Ecclesiasticum: Reple tuorum corda fidelium. 
+      Ho<lb ed="#P" n="92" break="no"/>rum igitur quae dicta sunt, nihil competere potest 
+      <lb ed="#P" n="93"/>angelis, ne bonis quidem; sed tam boni angeli quam 
+      <lb ed="#P" n="94"/>mali non aliter quam extrinsecus mentem movere 
+      <lb ed="#P" n="95"/>possunt, objiciendo sensibus tam internis quam 
+      ex<lb ed="#P" n="96" break="no"/>ternis imagines earum rerum, quae ad electionem 
+      <lb ed="#P" n="97"/>boni vel mali inclinent, atque per hunc modum res 
+      <lb ed="#P" n="98"/>hujusmodi intellectui ac voluntati proponendo, 
+      mi<lb ed="#P" n="99" break="no"/>nime vero consensum voluntatis (quod solius Dei 
+      <lb ed="#P" n="100"/>est) efficaciter operando. Unde tantum suadere &amp; 
+      <lb ed="#P" n="101"/>suggerere vel bona vel mala dicendi sunt. 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e296">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Porro daemonum suggestioni qui consentiunt, in 
+      <lb ed="#P" n="103"/>eos jam intrare, eosque interdum etiam implere 
+      <lb ed="#P" n="104"/>diabolus dicitur, non secundum substantiam eo 
+      <lb ed="#P" n="105"/>modo quo supra explicatum est, quem Deo 
+      pro<lb ed="#P" n="106" break="no"/>prium diximus; sed secundum effectum suggestionis 
+      <lb ed="#P" n="107"/>extrinsecus adhibitae, &amp; secundum potestatem do 
+      <lb ed="#P" n="108"/>minationis. Ita legimus Luc. 22. diabolum intrasse 
+      <lb ed="#P" n="109"/>in Judam quando consilium coepit tradendi 
+      Domi<lb ed="#P" n="110" break="no"/>num. Pro quo Joannes cap. 13. dicit diabolum 
+      mi<lb ed="#P" n="111" break="no"/>sisse in cor Judae ut traderet Dominum. Ita rursus 
+      <lb ed="#P" n="112"/>apud Joannem infra eodem capit. legimus Satanam 
+      <lb ed="#P" n="113"/>post buccellam intrasse in Judam, quando ad 
+      exe<lb ed="#P" n="114" break="no"/>quendum scelus proditionis e sacro convivio 
+      surre<lb ed="#P" n="115" break="no"/>xit atque exivt. Sic etiam Actor. 5. legimus a Petro 
+      <lb ed="#P" n="116"/>dictum Ananiae: Cur implevit Satanas cor tuum! 
+      <lb ed="#P" n="117"/>quomodo secundum fidem Graecorum codicum 
+      le<lb ed="#P" n="118" break="no"/>gunt etiam authores Latini, Fulgentius epistola 1. 
+      <lb ed="#P" n="119"/>cap. 8. &amp; Beda in commentario, quomodo etiam 
+      <lb ed="#P" n="120"/>vertit Hieronymus ex Didymo libro 3. de Spiritu 
+      <lb ed="#P" n="121"/>sancto. 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e344">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Hanc autem phrasim qua diabolus dicitur ingredi 
+      <lb ed="#P" n="123"/>cor hominis, adeo probat Gregorius lib. 6. 
+      epistola<lb ed="#P" n="124" break="no"/>rum epistola 31. ut hoc negantem dicat in haeresim 
+      <lb ed="#P" n="125"/>Pelagianam cadere; nimirum agens contra quosdam 
+      <lb ed="#P" n="126"/>qui dicebant animam Adae non fuisse mortuam in 
+      <lb ed="#P" n="127"/>peccato, eo quod diabolus in cor hominis non 
+      in<lb ed="#P" n="128" break="no"/>grederetur. Quae doctrina Pelagiana est, primo 
+      ca<lb ed="#P" n="129" break="no"/>noni Arausicano contraria. 
+    </p>
+            <p xml:id="bt67yj-p037289-d1e367">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Jam quod de daemonibus dicitur, id conformiter 
+      <lb ed="#P" n="131"/>de bonis angelis intelligendum, qui &amp; ipsi 
+      secun<lb ed="#P" n="132" break="no"/>dum effectus sanctarum suggestionum ingredi in 
+      <lb ed="#P" n="133"/>cor hominis, atque in eo operari recte dicuntur, 
+      <lb ed="#P" n="134"/>juxta illud Zachar. 1. Angelus loquebatur in me. 
+      <lb ed="#P" n="135"/>Qua scriptura ad hanc rem utitur Bernardus libro 
+      <lb ed="#P" n="136"/>quinto de consideratione ad Eugenium cap. 5. ubi 
+      <lb ed="#P" n="137"/>hoc ipsum bonis angelis diserte tradit, &amp; 
+      quomo<lb ed="#P" n="138" break="no"/>do hoc aliter angelis, aliter Deo competat dilucide 
+      <lb ed="#P" n="139"/>exponit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="153"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p059069"><!-- l2d17c14" -->
+            <head xml:id="bt67yj-p059069-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-p059069-Hd1e103" type="question-title">An sit fidei animas per creationem 
+      infundi</head>
+            <p xml:id="bt67yj-p059069-d1e106">
+               <lb ed="#P" n="39"/>§. 14. An sit fidei animas per creationem 
+      <lb ed="#P" n="40"/>infundi.
+    </p>
+            <p xml:id="bt67yj-p059069-d1e113">
+               <lb ed="#P" n="41"/>SUnt qui sententiam de animarum creatione ita 
+      <lb ed="#P" n="42"/>astruant, ut eam existiment ad dogmata fidei 
+      <lb ed="#P" n="43"/>pertinere. Quod imprimis sensisse videtur <ref xml:id="bt67yj-p059069-Rd1e121">
+                  <name xml:id="bt67yj-p059069-Nd1e123">
+      Genna<lb ed="#P" n="44" break="no"/>dius</name> libro de Ecclesiasticis dogmatibus cap. 14</ref>. ubi 
+      <lb ed="#P" n="45"/>hoc inter regulas fidei annumerat; scilicet animam 
+      <lb ed="#P" n="46"/>formato jam corpore creari &amp; infundi. Hujus 
+      au<lb ed="#P" n="47" break="no"/>thoritate nitens Magister dicit §. C. hujus 
+      distinctio<lb ed="#P" n="48" break="no"/>nis de animabus certissime sentiendum esse quod 
+      <lb ed="#P" n="49"/>in corpore creentur, &amp; distinctione proxima §. H. 
+      <lb ed="#P" n="50"/>Catholicam Ecclesiam docere animas in 
+      corpori<lb ed="#P" n="51" break="no"/>bus formatis infundi &amp; infundendo creari. Ubi &amp; 
+      <lb ed="#P" n="52"/>authoritatem Hieronymi allegat, tanquam 
+      anathe<lb ed="#P" n="53" break="no"/>mate cos condemnantis, qui animas esse dicunt ex 
+      <lb ed="#P" n="54"/>traduce. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e152">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p059069-Rd1e158">Glossa quoque interlinearis super illud Psal. 32</ref>. 
+      <lb ed="#P" n="56"/>Qui finxit sigillatim, &amp;c. Hic, inquit, 
+      destrui<lb ed="#P" n="57" break="no"/>tur quorumdam haeresis qui dicebant in Adam simul 
+      <lb ed="#P" n="58"/>omnes animas esse creatas. Nam illud in Adam, 
+      vi<lb ed="#P" n="59" break="no"/>detur intelligere tanquam in radice seminali. 
+      Ne<lb ed="#P" n="60" break="no"/>que enim legitur talis haeresis exstitisse quae omnes 
+      <lb ed="#P" n="61"/>animas actu in Adam creatas fuisse diceret; 
+      om<lb ed="#P" n="62" break="no"/>nino autem apparet sumptam illam glossam ex 
+      com<lb ed="#P" n="63" break="no"/>mentario Hieronymi in Psal. 32. ubi ad unum 
+      eun<lb ed="#P" n="64" break="no"/>demque errorem refertur, existimare animam ex 
+      <lb ed="#P" n="65"/>anima esse genitam, &amp; in Adam omnium animas 
+      <lb ed="#P" n="66"/>contineri. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e186">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Huc adduci praetere a solet Leo Papa qui epistola 
+      <lb ed="#P" n="68"/>93. cap. 10. dicit Catholicam fidem praedicare, quod 
+      <lb ed="#P" n="69"/>animae hominum priusquam suis inspirentur 
+      corpo<lb ed="#P" n="70" break="no"/>ribus, non fuerint. Unde colligi putent ad fidem 
+      per<lb ed="#P" n="71" break="no"/>tinere, quod animae corporibus inspirentur; praeser¬ 
+      <!--0386.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>tim cum addat Pontifex, nec ab alio incorporentur, 
+      <lb ed="#P" n="73"/>nisi ab opifice Deo. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e210">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Certe Prudentius opinionem traductionis velut 
+      <lb ed="#P" n="75"/>erroneam insectatur in apotheosi cap. de natura 
+      ani<lb ed="#P" n="76" break="no"/>mae, dum ita canit. 
+      <lb ed="#P" n="77"/>
+               <quote xml:id="bt67yj-p059069-Qd1e223">Vitandus tamen error erit, ne traduce carnis 
+      <lb ed="#P" n="78"/>Transfundi in sobolem credatur fons animarum, &amp;c.</quote>
+            </p>
+            <p xml:id="bt67yj-p059069-d1e229">
+               <lb ed="#P" n="79"/>Denique partim authoritate <name xml:id="bt67yj-p059069-Nd1e233">Gennadii</name> &amp; 
+      Magi<lb ed="#P" n="80" break="no"/>stri, partim philosophicis rationibus motus fuisse 
+      <lb ed="#P" n="81"/>videtur Sanctus Thomas, ut parte prima quaest. 118. 
+      <lb ed="#P" n="82"/>art. 2. concluderet quod sit haereticum dicere 
+      ani<lb ed="#P" n="83" break="no"/>mam intellectivam traduci cum semine. Sed &amp; 
+      Joan<lb ed="#P" n="84" break="no"/>nes Gerson in trilogio astrologiae propositione 15. 
+      <lb ed="#P" n="85"/>vocat haeretieos qui ponunt animas rationales ex 
+      <lb ed="#P" n="86"/>traduce fieri. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e251">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> At vero in contrarium est quod Augustinus, 
+      Gre<lb ed="#P" n="88" break="no"/>gorius &amp; alii patres supra memorati nunquam 
+      ele<lb ed="#P" n="89" break="no"/>gissent dubitare de hac quaestione, si putassent eam 
+      <lb ed="#P" n="90"/>esse de dogmate pertinente ad fidem; praesertim 
+      <lb ed="#P" n="91"/>cum non ignorarent non eos tantum haereticos esse, 
+      <lb ed="#P" n="92"/>qui dogma aliquod fidei contrarium tenerent, sed 
+      <lb ed="#P" n="93"/>etiam qui de hujusmodi dogmate dubitarent. 
+      Un<lb ed="#P" n="94" break="no"/>de Augustinus illam Caelestii dubitationem 
+      damna<lb ed="#P" n="95" break="no"/>re non dubitavit dicentis de parvulis sine baptismo 
+      <lb ed="#P" n="96"/>decedentibus. Quo non eant scio, quo eant nescio. 
+      <lb ed="#P" n="97"/>Quin idem Augustinus in haeresi Luciferianorum 
+      <lb ed="#P" n="98"/>diserte negat Luciferianos propterea dicendos 
+      hae<lb ed="#P" n="99" break="no"/>reticos, quod assererent animarum traductionem. 
+      <lb ed="#P" n="100"/>Quanquam hoc ipsum fere ubique indicat, quoties 
+      <lb ed="#P" n="101"/>in hanc quaestionem incidit; scilicet nullum esse 
+      <lb ed="#P" n="102"/>periculum haeresis in ea quaestione, ut est videre 
+      lo<lb ed="#P" n="103" break="no"/>cis dudum allegatis. Hugo quoque Victorinus 
+      li<lb ed="#P" n="104" break="no"/>bro primo de sacramentis parte 7. capite 30. ita 
+      <lb ed="#P" n="105"/>suam de ereatione animarum sententiam statuit, ut 
+      <lb ed="#P" n="106"/>tamen damnare noluit diversum sentientes. Cui 
+      con<lb ed="#P" n="107" break="no"/>sentit etiam <name xml:id="bt67yj-p059069-Nd1e300">Alphonsus a Castro</name> libro de haeresibus 
+      <lb ed="#P" n="108"/>tit. de anima, ubi &amp; Sanctum Thomam pro se 
+      ci<lb ed="#P" n="109" break="no"/>tat ex opere contra gentiles libro secundo cap. 86. 
+      <lb ed="#P" n="110"/>laudatque eum quod istam de traduce opinionem 
+      er<lb ed="#P" n="111" break="no"/>rorem vocaverit non haeresim, magis etiam 
+      lauda<lb ed="#P" n="112" break="no"/>turus si scriptum ejus vidisset super distinctionem 18. 
+      <lb ed="#P" n="113"/>hujus libri qu. 2. art. 1. ubi de hac quaestione non 
+      <lb ed="#P" n="114"/>aliud pronuntiat, quam quod animarum creatio 
+      <lb ed="#P" n="115"/>communiter conceditur a theologis &amp; 
+      philoso<lb ed="#P" n="116" break="no"/>phis. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e323">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Insuper &amp; ratio docet quaestionem hanc fidei non 
+      <lb ed="#P" n="118"/>esse. Quamvis enim alteram partem velut 
+      probabi<lb ed="#P" n="119" break="no"/>liorem multi patres elegerint, quoniam tamen ea nec 
+      <lb ed="#P" n="120"/>evidentibus scripturae testimoniis ostendi, nec certa 
+      <lb ed="#P" n="121"/>traditione probari potuit (neque enim Augustinum 
+      <lb ed="#P" n="122"/>&amp; Gregorium ut caeteros taceam, hujusmodi traditio 
+      <lb ed="#P" n="123"/>latuisset) nullo Ecclesiae decreto inter dogmata fidei 
+      <lb ed="#P" n="124"/>relata usquam invenitur, uti nec anathemate 
+      dam<lb ed="#P" n="125" break="no"/>nata diversa opinio. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e347">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Nam ad ea quae damnationem ejus concludere 
+      <lb ed="#P" n="127"/>videbantur, facile est respondere. <name xml:id="bt67yj-p059069-Nd1e355">Gennadius</name> enim 
+      <lb ed="#P" n="128"/>Augustino ejusque contra Pelagianos doctrinae 
+      pa<lb ed="#P" n="129" break="no"/>rum aequus, ut patet ex ejus catalogo scriptorum 
+      <lb ed="#P" n="130"/>ecclesiasticorum, vehementior fuit in eam partem 
+      <lb ed="#P" n="131"/>asseverandam, de qua non ignorabat Augustinum 
+      <lb ed="#P" n="132"/>perpetuo dubitasse. Nec sane potuit facere 
+      regu<lb ed="#P" n="133" break="no"/>lam fidei, quam ut talem a majoribus non 
+      acce<lb ed="#P" n="134" break="no"/>pisset. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e374">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Quod ex Hieronymo citat Magister, nusquam 
+      <lb ed="#P" n="136"/>apud eum legitur. Etenim in commentario illi 
+      as<lb ed="#P" n="137" break="no"/>scripto super psal. 32. mendacii quidem arguuntur 
+      <lb ed="#P" n="138"/>nonnulli, locum illius psalmi: Qui finxit sigillatim 
+      <lb ed="#P" n="139"/>corda eorum, ad hoc referentes quod ut ibi dicitur, 
+      <lb ed="#P" n="140"/>animam ex anima existiment esse generatam. Sed 
+      <lb ed="#P" n="141"/>nulla ibi anathematis mentio. Quin ex ipsius 
+      Hiero<lb ed="#P" n="142" break="no"/>nymi scriptis satis apparet, quod non senserit fidei 
+      <lb ed="#P" n="143"/>esse hanc quaestionem. Nam in epistola ad 
+      Augu<lb ed="#P" n="144" break="no"/>stinum, quae inter Augustini epistolas est 30. 
+      testa<lb ed="#P" n="145" break="no"/>tur in duabus illius epistolis ad se missis (quarum 
+      <!--0387.xml-->
+      <pb ed="#P" n="154"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>altera erat de origine animarum continens 
+      autho<lb ed="#P" n="2" break="no"/>ris dubitationem) nihil esse reprehendendum, 
+      ad<lb ed="#P" n="3" break="no"/>jungens illud apostolicum: Unusquisque in suo sensu 
+      <lb ed="#P" n="4"/>abundet. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e418">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Quod ex glossa adductum est, id non ad 
+      tradu<lb ed="#P" n="6" break="no"/>cem animarum, sed ad aliam quandam opinionem 
+      <lb ed="#P" n="7"/>haeresi Originis non dissimilem pertinere putant. 
+      <lb ed="#P" n="8"/>Sed quoniam satis apparet glossam alludere ad 
+      ver<lb ed="#P" n="9" break="no"/>ba commentarii memorati, qui diserte de traduce 
+      <lb ed="#P" n="10"/>loquitur. Hinc alii quidam respondent glossam in 
+      <lb ed="#P" n="11"/>eo quod haeresim nominat, quae vox in illo 
+      com<lb ed="#P" n="12" break="no"/>mentario non habetur, esse depravatam. Quod ut 
+      <lb ed="#P" n="13"/>non sit, attamen parata responsio est glossam sine 
+      <lb ed="#P" n="14"/>authore aliquid dicentem, non esse magnae 
+      autho<lb ed="#P" n="15" break="no"/>ritatis. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e447">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Prudentii verba difficultatem non habent. 
+      Erro<lb ed="#P" n="17" break="no"/>rem enim nominat, non haeresim. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e456">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> At neque illud convincit quod ex Leone 
+      profer<lb ed="#P" n="19" break="no"/>tur. Damnat enim ibi Pontifex eos qui animas 
+      fuis<lb ed="#P" n="20" break="no"/>se, priusquam corporibus ad venirent, affirmabant. 
+      <lb ed="#P" n="21"/>Hoc autem advenire, vocat inspirari, quod est, 
+      spi<lb ed="#P" n="22" break="no"/>ritum in aliquo produci, non tamen definiens utrum 
+      <lb ed="#P" n="23"/>propagatione id fiat, an nova creatione. Nec urget 
+      <lb ed="#P" n="24"/>quod apud Leonem sequitur, animas non ab alio 
+      <lb ed="#P" n="25"/>incorporari quam a Deo. Subjungit enim: qui &amp; 
+      <lb ed="#P" n="26"/>ipsarum creator est corporum; plane fignificans se 
+      <lb ed="#P" n="27"/>creationem intelligere talem, quae etiam 
+      corpo<lb ed="#P" n="28" break="no"/>ribus communis sit. Leoni namque eo loco 
+      contra<lb ed="#P" n="29" break="no"/>Priscillianistas sermo atque censura instituitur, ut 
+      <lb ed="#P" n="30"/>qui post Origenem &amp; Manichaeum fabulosa 
+      quae<lb ed="#P" n="31" break="no"/>dam de animarum creatione tradidissent. Sed etsi 
+      <lb ed="#P" n="32"/>detur Leonem fuisse locutum de inspiratione qua 
+      <lb ed="#P" n="33"/>animae sic producuntur in singulorum corporibus a 
+      <lb ed="#P" n="34"/>Deo, quomodo primi hominis anima in ejus 
+      corpo<lb ed="#P" n="35" break="no"/>re fuit producta, dicente scriptura: Et inspiravit in 
+      <lb ed="#P" n="36"/>faciem ejus spiraculum vitae, non tamen ex ejus 
+      ver<lb ed="#P" n="37" break="no"/>bis consequens erit hunc modum productionis 
+      ani<lb ed="#P" n="38" break="no"/>marum sub fide contineri. Cum enim dicit 
+      Catho<lb ed="#P" n="39" break="no"/>licam fidem praedicare quod animae hominum 
+      prius<lb ed="#P" n="40" break="no"/>quam suis inspirentur corporibus, non fuerint; 
+      tan<lb ed="#P" n="41" break="no"/>tum illud Catholicae fidei adversum ponit, animas 
+      <lb ed="#P" n="42"/>fuisse priusquam venirent ad corpora. Quomodo 
+      <lb ed="#P" n="43"/>autem venerint, non determinat ex fide; licet suam 
+      <lb ed="#P" n="44"/>forte opinionem eamque pluribus communem 
+      in<lb ed="#P" n="45" break="no"/>terponat dicendo, priusquam inspirentur, &amp;c. Qua 
+      <lb ed="#P" n="46"/>res si Leoni certa fuisset secundum fidem 
+      catholi<lb ed="#P" n="47" break="no"/>cam, non utique Gregorius post 150. annos de ea 
+      <lb ed="#P" n="48"/>dubitasset. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e528">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Ad illud denique quod ex S. Thoma objicitur, 
+      <lb ed="#P" n="50"/>respondeo S. Thomam de hac re alibi moderatius 
+      <lb ed="#P" n="51"/>fuisse locutum, ut paulo ante ostendimus. Estque 
+      <lb ed="#P" n="52"/>notandum collectionem sancti Thomae qua ita 
+      con<lb ed="#P" n="53" break="no"/>cludit: Et ideo haereticum est dicere, &amp;c. salva tanti 
+      <lb ed="#P" n="54"/>doctoris reverentia, non esse validam. Nam in 
+      su<lb ed="#P" n="55" break="no"/>perioribus non scripturam neque Ecclesiae 
+      doctri<lb ed="#P" n="56" break="no"/>nam adduxerat, sed solas rationes: Atqui constat 
+      <lb ed="#P" n="57"/>ex solis rationibus quantumcumque certis &amp; 
+      mani<lb ed="#P" n="58" break="no"/>festis, non posse probari quippiam esse fidei. Non 
+      <lb ed="#P" n="59"/>enim humanae rationi, sed revelationi divinae nititur 
+      <lb ed="#P" n="60"/>fides Christiana. 
+    </p>
+            <p xml:id="bt67yj-p059069-d1e559">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Quod si dicas illud etiam recte tanquam 
+      haereti<lb ed="#P" n="62" break="no"/>cum damnari, ex quo sequitur aliquid fidei 
+      contra<lb ed="#P" n="63" break="no"/>rium, atque in eo principio fundatum esse 
+      proba<lb ed="#P" n="64" break="no"/>tionem S. Thomae; Respondetur assumptum illud 
+      <lb ed="#P" n="65"/>veritatem non habere, nisi consequentia talis tam 
+      <lb ed="#P" n="66"/>sit evidens, ut facile cuique pateat; cujusmodi 
+      pro<lb ed="#P" n="67" break="no"/>fecto consecutio non conspicitur in rationibus a S. 
+      <lb ed="#P" n="68"/>Thoma allatis. Adde quod si argumenta S. Thomae 
+      <lb ed="#P" n="69"/>probarent dictum dogma haereticum esse; 
+      sequere<lb ed="#P" n="70" break="no"/>tur illud ipsum jam olim tempore Augustini &amp; 
+      Gre<lb ed="#P" n="71" break="no"/>gorii haereticum fuisse, quia rationes sunt omni 
+      tem<lb ed="#P" n="72" break="no"/>pore eaedem: At ex praedictis manifestum est illorum 
+      <lb ed="#P" n="73"/>tempore non fuisse de eo dogmate quicquam in 
+      ec<lb ed="#P" n="74" break="no"/>clesia constitutum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="388"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p150276"><!-- l2d41c7" -->
+            <head xml:id="bt67yj-p150276-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p150276-Hd1e103" type="question-title">An omne peccatum ab homine vitari possit</head>
+            <p xml:id="bt67yj-p150276-d1e106">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> §. 7. An omne peccatum ab homine vitari possit. 
+    </p>
+            <p xml:id="bt67yj-p150276-d1e113">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> QUaestio haec superiori connexa, an possit 
+      ho<lb ed="#P" n="45" break="no"/>mo in hac naturae corruptione vitare omne 
+      <lb ed="#P" n="46"/>peccatum, (nam de homine integro nulla 
+      quae<lb ed="#P" n="47" break="no"/>stio est quin potuerit) duplicem habet intellectum. 
+      <lb ed="#P" n="48"/>Aut enim de singulis peccatis an vitari possint, 
+      quae<lb ed="#P" n="49" break="no"/>ritur; ad quod respondendum erit affirmative. 
+      Nul<lb ed="#P" n="50" break="no"/>lum enim peccatum ab homine committitur, quod 
+      <lb ed="#P" n="51"/>non possit evitare atque avertere, si &amp; ratio 
+      dili<lb ed="#P" n="52" break="no"/>genter advigilet, &amp; voluntas constanter peccato 
+      re<lb ed="#P" n="53" break="no"/>sistat; quorum utrumque etiam juxta statum hujus 
+      <lb ed="#P" n="54"/>corruptionis est possibile, adcóque exemplis 
+      pro<lb ed="#P" n="55" break="no"/>batur vel in eodem homine alio atque alio 
+      tempo<lb ed="#P" n="56" break="no"/>re, vel in diversis hominibus. 
+    </p>
+            <p xml:id="bt67yj-p150276-d1e146">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Aut intelligitur quaestio de omnibus peccatis 
+      si<lb ed="#P" n="58" break="no"/>mul atque conjunctim, ita videlicet ut quis tota 
+      vi<lb ed="#P" n="59" break="no"/>ta nullum committat peccatum. Quomodo si intel 
+      <lb ed="#P" n="60"/>ligas, negative respondendum erit. Quae quidem 
+      <lb ed="#P" n="61"/>responsio probatur omnibus iis scripturae locis, quae 
+      <lb ed="#P" n="62"/>docent neminem in hac mortalitate vivere sine 
+      <lb ed="#P" n="63"/>quotidianis ac venialibus offensis. 
+    </p>
+            <p xml:id="bt67yj-p150276-d1e167">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Quamvis enim scriptura non aperte dicat 
+      ho<lb ed="#P" n="65" break="no"/>minem non posse vitare omnia peccata, sed tantum 
+      <lb ed="#P" n="66"/>testetur neminem vivere sine peccato; recte 
+      ta<lb ed="#P" n="67" break="no"/>men inde Patres collegerunt possibilitatis 
+      negatio<lb ed="#P" n="68" break="no"/>nem; propterea quod negatio actus in toto 
+      ali<lb ed="#P" n="69" break="no"/>quo genere per universum tempus inferat 
+      negatio<lb ed="#P" n="70" break="no"/>nem potentiae saltem ordinariae, &amp; secundum 
+      com<lb ed="#P" n="71" break="no"/>munem cursum ac statum rei. Verumtamen etiam 
+      <!--0621.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>potentiae negationem aliquo modo expressit 
+      Sa<lb ed="#P" n="73" break="no"/>piens, quando ait Proverb. 20. Quis potest dicere, 
+      <lb ed="#P" n="74"/>mundum est cor meum, purus sum a peccato? 
+    </p>
+            <p xml:id="bt67yj-p150276-d1e200">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Veteres autem manifestius hoc tradiderunt, ut 
+      <lb ed="#P" n="76"/>sanctus Augustinus Enchirid. 64. asserens vitam 
+      ju<lb ed="#P" n="77" break="no"/>storum esse posse sine crimine, &amp; non sine peccato. 
+      <lb ed="#P" n="78"/>Et sanctus Hieronymus in Jeremiae 17. tacito 
+      no<lb ed="#P" n="79" break="no"/>mine Pelagium perstringit, qui confinxerit posse 
+      <lb ed="#P" n="80"/>hominem sine peccato esse, si velit. Item late in 
+      <lb ed="#P" n="81"/>Dialogis contra Pelagium. Nec minus diserte 
+      san<lb ed="#P" n="82" break="no"/>ctus Gregorius aliquot locis idem affirmat. Nam 
+      <lb ed="#P" n="83"/>libro decimooctavo moralium capite quarto; 
+      <lb ed="#P" n="84"/>Sciendum est, inquit, quod sunt peccata quae a justis 
+      <lb ed="#P" n="85"/>vitari non possunt. Et libro vicesimoprimo capite 
+      <lb ed="#P" n="86"/>nono; In hac vita multi sine crimine, nullus vero 
+      <lb ed="#P" n="87"/>esse sine peccatis valet. Et homilia decimaseptima 
+      <lb ed="#P" n="88"/>in Evang. Humana vita sine culpa transigi 
+      nequa<lb ed="#P" n="89" break="no"/>quam potest. 
+    </p>
+            <p xml:id="bt67yj-p150276-d1e237">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> His accessit &amp; Conciliorum authoritas. Etenim in 
+      <lb ed="#P" n="91"/>Concilio Milevitano canon. sexto, septimo &amp; 
+      octa<lb ed="#P" n="92" break="no"/>vo, hoc ostenditur, quod ut habet inscriptio capitis 
+      <lb ed="#P" n="93"/>sexti, juxta sententiam Joannis Evangelistae, nemo 
+      <lb ed="#P" n="94"/>sit qui esse possit sine peccato. Et in Oecumenico 
+      <lb ed="#P" n="95"/>Tridentino Concilio sessione sexta can. 23. 
+      anathe<lb ed="#P" n="96" break="no"/>mate damnatur, quisquis dixerit hominem posse in 
+      <lb ed="#P" n="97"/>tota vita peccata omnia etiam venialia vitare, nisi 
+      <lb ed="#P" n="98"/>ex speciali Dei privilegio, quemadmodum de B. 
+      <lb ed="#P" n="99"/>
+               <pc type="indent"/> Virgine tenet Ecclesia. 
+    </p>
+            <p xml:id="bt67yj-p150276-d1e266">
+               <lb ed="#P" n="100"/>Contra haec si quis objiciat symbolum sancti 
+      Hie<lb ed="#P" n="101" break="no"/>ronymi ad Damasum, in quo eorum detestatur 
+      er<lb ed="#P" n="102" break="no"/>rorem, qui cum Manichaeo dicunt hominem 
+      pecca<lb ed="#P" n="103" break="no"/>tum evitare non posse, respondebimus illam fidei 
+      <lb ed="#P" n="104"/>formulam non esse sancti Hieronymi ad Damasum 
+      <lb ed="#P" n="105"/>sed potius ipsius Pelagii ad Innocentium Damasi 
+      <lb ed="#P" n="106"/>successorem, quemadmodum non dubiis 
+      conjunctu<lb ed="#P" n="107" break="no"/>ris coargui potest. Quod si tamen ut Catholicum 
+      <lb ed="#P" n="108"/>testimonium recipimus, vel cum Magistro 
+      distin<lb ed="#P" n="109" break="no"/>ctione tricesima sexta, responderi poterit, id dictum 
+      <lb ed="#P" n="110"/>de mortalibus peccatis, vel potius dictum 
+      intelligi<lb ed="#P" n="111" break="no"/>mus de vitatione singulorum. Ita enim recte 
+      oppo<lb ed="#P" n="112" break="no"/>netur ea sententia dogmati Manichaeorum, qui 
+      ne<lb ed="#P" n="113" break="no"/>cessitate naturae docebant homines impelli in 
+      pec<lb ed="#P" n="114" break="no"/>cata. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

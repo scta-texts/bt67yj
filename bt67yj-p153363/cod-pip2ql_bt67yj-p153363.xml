@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="396"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p153363"><!-- l2d44c1" -->
+            <head xml:id="bt67yj-p153363-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p153363-Hd1e103" type="question-title">An potentia peccandi sit a Deo</head>
+            <p xml:id="bt67yj-p153363-d1e106">
+      <!--0629.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>IN DISTINCTIONEM
+      <lb ed="#P" n="68"/>
+               <pc type="indent"/> QUADRACESIMAMQUARTAM. 
+      <lb ed="#P" n="69"/>§. 1. An potentia peccandi sit a Deo 
+    </p>
+            <p xml:id="bt67yj-p153363-d1e122">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/>AD priorem hujus distinctionis quaestionem, 
+      <lb ed="#P" n="71"/>an potentiam peccandi homo vel angelus 
+      <lb ed="#P" n="72"/>Deo acceperit, tribus conclusionibus, 
+      <lb ed="#P" n="73"/>seu membris comprehensam adferemus 
+      responsio<lb ed="#P" n="74" break="no"/>nem, juxta quod trifariam intelligi potest 
+      pec<lb ed="#P" n="75" break="no"/>candi potentia.
+    </p>
+            <p xml:id="bt67yj-p153363-d1e140">
+               <lb ed="#P" n="76"/>Nam si intelligatur naturalis potentia seu facultas 
+      <lb ed="#P" n="77"/>animae, qua bene vel male agimus, cujusmodi 
+      im<lb ed="#P" n="78" break="no"/>primis est voluntas, deinde &amp; aliae facultates, 
+      qui<lb ed="#P" n="79" break="no"/>bus suos actus voluntas imperat, ut intellectus, 
+      sen<lb ed="#P" n="80" break="no"/>sus, sensualis appetitus, vis loco motiva, hanc a 
+      <lb ed="#P" n="81"/>Deo esse certum est. Sed haec minus usitate 
+      pec<lb ed="#P" n="82" break="no"/>candi potentia vocatur; Augustinus possibilitatem 
+      <lb ed="#P" n="83"/>appellat, &amp; a Deo esse docet lib. de gratia Christi 
+      <lb ed="#P" n="84"/>cap. 17. &amp; sequentibus. 
+    </p>
+            <p xml:id="bt67yj-p153363-d1e163">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Alio modo potentia, vel ut frequentius authores 
+      <lb ed="#P" n="86"/>loquuntur, potestas peccandi intelligitur facultas 
+      <lb ed="#P" n="87"/>non impedita ad peccatum perpetrandum, id est, 
+      <lb ed="#P" n="88"/>talis quae sine impedimento potest procedere in 
+      <lb ed="#P" n="89"/>actum. Et haec quoque potentia a Deo est, quia non 
+      <lb ed="#P" n="90"/>tantum Deum authorem habet ipsa naturalis agendi 
+      <lb ed="#P" n="91"/>facultas, ut modo diximus, sed &amp; quod in actum vel 
+      <lb ed="#P" n="92"/>bonum vel malum exire possit, &amp; exeat certo 
+      tem<lb ed="#P" n="93" break="no"/>pore &amp; loco, ad divinam pertinet ordinationem. 
+      <lb ed="#P" n="94"/>Hoc modo intellectam potestatem peccandi in 
+      scri<lb ed="#P" n="95" break="no"/>pturis &amp; Patribus saepissime Deo attributam 
+      legi<lb ed="#P" n="96" break="no"/>mus. Nam diabolus S. Job tentare non potuit. Job 
+      <lb ed="#P" n="97"/>1. neque regem Achab decipere 3. Reg. ult. nisi a 
+      <lb ed="#P" n="98"/>Deo accepta potestate. Unde &amp; Dominus Pilato 
+      <lb ed="#P" n="99"/>dicenti se habere potestatem ipsum crucifigendi, quae 
+      <lb ed="#P" n="100"/>utique erat potestas peccandi, respondit Joan. 19. 
+      <lb ed="#P" n="101"/>Non haberes potestatem adversum me ullam, nisi 
+      <lb ed="#P" n="102"/>tibi datum esset desuper
+    </p>
+            <p xml:id="bt67yj-p153363-d1e207">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Et generaliter omnem impiorum potestatem, qua 
+      <lb ed="#P" n="104"/>utuntur adversus pios, dum malam suamvoluntatem 
+      <lb ed="#P" n="105"/>exequentes, eis quocumque modo nocent, scriptura 
+      <lb ed="#P" n="106"/>Deo tribuit. Unde Osee 13. Dedi eis regem in ira mea. 
+      <lb ed="#P" n="107"/>Et Job 34. Qui facit regnare hypocritam propter 
+      pec<lb ed="#P" n="108" break="no"/>cata populi. Et Christus in evangelio: Haec est hora 
+      <lb ed="#P" n="109"/>vestra &amp; potestas tenebrarum, id est, potestas 
+      pecca<lb ed="#P" n="110" break="no"/>toribus a Deo data, ut me comprehenderent. Sic 
+      <lb ed="#P" n="111"/>Augustin. saepenumero docet, peccandi potestatem 
+      <lb ed="#P" n="112"/>non nisi a Deo esse, utens etiam ad id probandum 
+      il<lb ed="#P" n="113" break="no"/>la apostolica sententia. Non est potestas nisi a Deo, 
+      <lb ed="#P" n="114"/>ut in enarratione psal. 32. conc. 2. Malitia hominum, 
+      <lb ed="#P" n="115"/>inquit, cupiditatem nocendi per se habet, 
+      potesta<lb ed="#P" n="116" break="no"/>tem autem si Deus non dat, non habet. Non est enim 
+      <lb ed="#P" n="117"/>potestas nisi a Deo. Et iterum: Est mala cupiditas quae 
+      <lb ed="#P" n="118"/>non est a Deo; sed quia ipsa mala cupiditas nulli 
+      no<lb ed="#P" n="119" break="no"/>cet, si ille non permittat, non est, inquit, potestas nisi 
+      <lb ed="#P" n="120"/>a Deo. Et alia quae sequuntur. Similis est locus in 
+      <lb ed="#P" n="121"/>psalm. 56. &amp; 96. Eandem doctrinam &amp; alibi 
+      in<lb ed="#P" n="122" break="no"/>culcat, ut in libro de natura boni cap. 32. ubi ex 
+      <lb ed="#P" n="123"/>scriptura docet nocendi potestatem quam in bonos 
+      <lb ed="#P" n="124"/>habent mali, a Deo esse. Item in libro 11. Genes. 
+      <lb ed="#P" n="125"/>ad litteram cap. 3. &amp; plenius lib. ad Simplicianum 
+      <lb ed="#P" n="126"/>qu. 1. &amp; lib. de spiritu &amp; littera cap. 31. Eadem est 
+      <lb ed="#P" n="127"/>sententia Gregorii lib. 26. Moral. cap. 19. &amp; lib. 
+      <lb ed="#P" n="128"/>14. capite 18. 
+    </p>
+            <p xml:id="bt67yj-p153363-d1e268">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Tertio, potest peccandi potentia accipi pro 
+      po<lb ed="#P" n="130" break="no"/>tentia deficiendi ab eo quod rectum &amp; justum est, 
+      <lb ed="#P" n="131"/>quam uno vocabulo in his quae ad mores pertinent, 
+      <lb ed="#P" n="132"/>defectibilitatem appellare possumus. Haec autem 
+      <lb ed="#P" n="133"/>cum proprie non potentia, sed impotentia sit (nam 
+      <lb ed="#P" n="134"/>posse deficere, sicut posse aegrotare, proprie non est 
+      <lb ed="#P" n="135"/>posse aliquid, sed magis non posse) non est ex Deo, 
+      <!--0630.xml-->
+      <pb ed="#P" n="397"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sed ex creaturae ipsius imperfectione quae in 
+      quan<lb ed="#P" n="2" break="no"/>tum ex nihilo condita est, ex se habet, ut deficere, 
+      <lb ed="#P" n="3"/>peccare, &amp; in nihilum redigi possit. Quod si ex Deo 
+      <lb ed="#P" n="4"/>foret hoc potentiae genus, etiam peccatum quod 
+      in<lb ed="#P" n="5" break="no"/>de nascitur, &amp; ad quod illa potentia per se 
+      ordina<lb ed="#P" n="6" break="no"/>tur, ex Deo esset A quo enim potentia est, ab eodem 
+      <lb ed="#P" n="7"/>est &amp; actus ejus proprius. Unde Augustinus lib. 14. 
+      <lb ed="#P" n="8"/>de civitate capite 13. Vt natura sit, ex eo habet, 
+      in<lb ed="#P" n="9" break="no"/>quit, quod a Deo facta est, ut autem ab eo a quo facta 
+      <lb ed="#P" n="10"/>est deficiat, ex hoc habet quod de nihilo facta est. Et 
+      <lb ed="#P" n="11"/>lib. 12. cap. 1. docet omnia creata mutabilia esse, non 
+      <lb ed="#P" n="12"/>quatenus a Deo, sed quatenus ex nihilo facta sunt. 
+      <lb ed="#P" n="13"/>Similia scribit lib. 2. de nuptiis &amp; concupiscentia 
+      <lb ed="#P" n="14"/>cap. 28. &amp; 29. &amp; lib. 1. contra Julianum cap. 8. 
+      <lb ed="#P" n="15"/>&amp; lib. 3. cap. 24. &amp; epistola 56. Item Fulgentius 
+      <lb ed="#P" n="16"/>de fide ad Petrum cap. 3.
+    </p>
+            <p xml:id="bt67yj-p153363-d1e329">
+               <lb ed="#P" n="17"/>Diversum quidem legitur in epistola ad 
+      Demetria<lb ed="#P" n="18" break="no"/>dem, cujus initium, Si summo ingenio; quae &amp; inter 
+      <lb ed="#P" n="19"/>Augustini &amp; Hieronymi epistolas invenitur; verum 
+      <lb ed="#P" n="20"/>ea neutrius horum est, sed Pelagium authorem 
+      ha<lb ed="#P" n="21" break="no"/>bet, ut certis argumentis ex Augustino doceri potest. 
+    </p>
+            <p xml:id="bt67yj-p153363-d1e342">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Quod autem apud Augustinum legitur in psalm. 
+      <lb ed="#P" n="23"/>61. Deum dedisse hominibus potestatem faciendi 
+      <lb ed="#P" n="24"/>quod bonum est, &amp; non faciendi quod malum est, 
+      <lb ed="#P" n="25"/>quamvis de ea quam dicimus deficiendi potentia 
+      <lb ed="#P" n="26"/>accipi possit, rectius tamen intelligendum videtur, 
+      <lb ed="#P" n="27"/>de potentia aliqua positiva cujus proprius &amp; per 
+      <lb ed="#P" n="28"/>se actus sit, malum facere. Disserit enim eo loco 
+      <lb ed="#P" n="29"/>contra Genethliacos, qui homines impulsu 
+      astro<lb ed="#P" n="30" break="no"/>rum mala facere dicebant. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

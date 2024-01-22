@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="56"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p021704"><!-- l2d7c1" -->
+            <head xml:id="bt67yj-p021704-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p021704-Hd1e103" type="question-title">Angelos sanctos frui beatifica Dei 
+      visione</head>
+            <p xml:id="bt67yj-p021704-d1e106">
+               <lb ed="#P" n="91"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="92"/>SEPTIMAM.
+      <lb ed="#P" n="93"/>§. 1. Angelos sanctos frui beatifica Dei 
+      <lb ed="#P" n="94"/>visione. 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e117">
+               <lb ed="#P" n="95"/>CUM sancti angeli ex eo tempore quo malis 
+      <lb ed="#P" n="96"/>angelis in peccatum &amp; mox in aeternam 
+      mi<lb ed="#P" n="97" break="no"/>Iseriam cadentibus, in Dei dilectione 
+      perse<lb ed="#P" n="98" break="no"/>verarunt, non amplius sint in via, sed merito 
+      per<lb ed="#P" n="99" break="no"/>severantiae statim post eam constituti sint in 
+      termi<lb ed="#P" n="100" break="no"/>no, quemadmodum ex iis quae ad tertiam 
+      distinctio<lb ed="#P" n="101" break="no"/>nem dicta sunt, aperte potest intelligi; illud quoque 
+      <lb ed="#P" n="102"/>consequitur, eos statim, id est, eodem instanti, quo 
+      <lb ed="#P" n="103"/>) fuerunt in termino constituti, justitiae ac perseveran¬ 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e139">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> tiae suae praemium accepisse. Nam finito tempore 
+      <lb ed="#P" n="105"/>merendi, sicut nihil erat quod malos angelos a 
+      sup<lb ed="#P" n="106" break="no"/>plicio illis debito remoraretur, ita nihil fuit quod 
+      <lb ed="#P" n="107"/>ponos a praemio retardaret. Non enim oportebat in 
+      <lb ed="#P" n="108"/>angelis ullam moram interponi inter meritum vel 
+      <lb ed="#P" n="109"/>demeritum eorum, &amp; praemium vel supplicium; 
+      <lb ed="#P" n="110"/>cum neque ex parte Dei, neque ex parte ipsorum, 
+      <lb ed="#P" n="111"/>neque aliunde quicquam obstaret, quo minus finito 
+      <lb ed="#P" n="112"/>tempore ad merendum praestituto statim ac 
+      imme<lb ed="#P" n="113" break="no"/>diate post acciperent debitam meritis 
+      retributio<lb ed="#P" n="114" break="no"/>nem. 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e169">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Quod enim animae justorum antiquorum non 
+      <lb ed="#P" n="116"/>prius acceperint praemium justitiae, quam per 
+      Chri<lb ed="#P" n="117" break="no"/>stum patefacta esset in caelum via, propriam habet 
+      <lb ed="#P" n="118"/>rationem, quae nihil ad angelos, ad quos 
+      redem<lb ed="#P" n="119" break="no"/>ptio Christi non pertinet; sicut &amp; illud quod 
+      quae<lb ed="#P" n="120" break="no"/>dam animae differuntur a praemio, quoniam in iis 
+      <lb ed="#P" n="121"/>adhuc purgandum aliquid restet; nam neque haec 
+      <lb ed="#P" n="122"/>ratio in angelis locum habet. 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e191">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Porro justitiae praemium est beatitudo; consistit 
+      au<lb ed="#P" n="124" break="no"/>tem haec in clara Dei visione; quare consequens est, 
+      <lb ed="#P" n="125"/>sanctos angelos clara Dei visione frui &amp; per eam 
+      bea<lb ed="#P" n="126" break="no"/>tos esse jam inde ab initio quo post unum charitatis 
+      <lb ed="#P" n="127"/>actum, eumque perseverantem in termino sunt 
+      col<lb ed="#P" n="128" break="no"/>locati, quemadmodum docet S. Thomas 1. parte 
+      q<lb ed="#P" n="129" break="no"/>62. a. 5. Haec autem doctrina quae tradit sanctos 
+      an<lb ed="#P" n="130" break="no"/>gelos Deum videre, &amp; proinde beatos esse non modo 
+      <lb ed="#P" n="131"/>nunc novi testamenti tempore, verum etiam olim 
+      <lb ed="#P" n="132"/>ante Christi adventum, adeo certa est e scripturis, &amp; 
+      <lb ed="#P" n="133"/>perpetua traditione, ut de ea nefas sit dubitare. 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e220">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Ac primum apertissima scriptura est, Matth. 18. 
+      <lb ed="#P" n="135"/>Angeli eorum in calis semper vident faciem Patris. 
+      <lb ed="#P" n="136"/>Quibus utique verbis hoc angelis in praesenti 
+      attri<lb ed="#P" n="137" break="no"/>buitur, quod nobis praemii loco expectandum 
+      pro<lb ed="#P" n="138" break="no"/>mittitur, Matth. 5. ubi dicitur; Beati mundo corde, 
+      <lb ed="#P" n="139"/>quoniam ipsi Deum videbunt; Et I. Joan. 3. Cum appa¬ 
+      <!--0290.xml-->
+      <pb ed="#P" n="57"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>uerit, similes erimus, quoniam videbimus eum sicuti 
+      <lb ed="#P" n="2"/>est. Quo etiam referenda aequalitas angelorum filiis 
+      <lb ed="#P" n="3"/>resurrectionis promissa, Luc. 20. Hoc enim de 
+      an<lb ed="#P" n="4" break="no"/>gelis secundum statum eorum praesentem, non 
+      fu<lb ed="#P" n="5" break="no"/>turum intelligi perspicuum est. Huc item facit quod 
+      <lb ed="#P" n="6"/>Gabriel, Lucae 1. &amp; Raphael, Tobiae 11. affirmant se 
+      <lb ed="#P" n="7"/>esse ex iis qui astant ante Deum, id est, qui assidue 
+      <lb ed="#P" n="8"/>Deum vident. Quod quidem ab illis dictum est ante 
+      <lb ed="#P" n="9"/>Christi adventum in carnem, sicut illud Matth. 18. 
+      <lb ed="#P" n="10"/>de angelis a Christo dictum est ante mortem ipsius. 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e266">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> Ex quo planum est errare Nicaetam graecum 
+      scho<lb ed="#P" n="12" break="no"/>liastem sanct. Gregorii Nazianzeni super orationem 
+      <lb ed="#P" n="13"/>2. de paschate scribentem, quod angeli ante 
+      Chri<lb ed="#P" n="14" break="no"/>sti resurrectionem neque stabiles fuerunt in gratia, 
+      <lb ed="#P" n="15"/>neque divinam viderunt essentiam. 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e282">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Praeterea catholicam hanc doctrinam confirmant 
+      <lb ed="#P" n="17"/>multa testimonia patrum: inter quos Augustinus 
+      <lb ed="#P" n="18"/>lib. 1. retractationum capit. 14. de angelis sanctis 
+      <lb ed="#P" n="19"/>quin jam sint in ea possessione, quo ducit haec via, 
+      <lb ed="#P" n="20"/>nullam dicit esse quaestionem, id est, rem esse vult 
+      <lb ed="#P" n="21"/>indubitate credendam. Unde &amp; lib. 11. de Civitate 
+      <lb ed="#P" n="22"/>Dei capit. 13. dicit neminem catholicum hoc 
+      igno<lb ed="#P" n="23" break="no"/>rare. Eandem habet doctrinam capit. 11. ejusdem 
+      <lb ed="#P" n="24"/>libri, &amp; cap. 9. lib. 12. item lib. 12. de Genesi ad 
+      lite<lb ed="#P" n="25" break="no"/>ram, cap. 35. in expositione psalmi 56. &amp; homilia 
+      <lb ed="#P" n="26"/>32. cap. 5. inter 50. S. Gregorius Nazianzenus in 
+      <lb ed="#P" n="27"/>oratione in Gorgoniam dicit angelos frui purissima 
+      <lb ed="#P" n="28"/>illustratione Trinitatis, Gregorius Romanus 
+      homi<lb ed="#P" n="29" break="no"/>lia 8. in Ezcchielem haec scribit. In sanctis angelis est 
+      <lb ed="#P" n="30"/>sine fine festivitas visionis Domini, &amp; laetitia sine de 
+      <lb ed="#P" n="31"/>fectu, &amp; desiderium visionis Dei cum fatietate, &amp; 
+      <lb ed="#P" n="32"/>satietas cum desiderio, &amp; post multa: Caelestes 
+      spiri<lb ed="#P" n="33" break="no"/>tus Christum in divinitate sua conspiciunt. In 
+      ean<lb ed="#P" n="34" break="no"/>dem Pntentiam scribit lib. 2. moralium cap. 2. &amp; 
+      <lb ed="#P" n="35"/>3. sanctus Bernardus sermone 1. de festo Sancti 
+      Mi<lb ed="#P" n="36" break="no"/>chaclis pronuntiat angelos praesentia &amp; visione Dei 
+      <lb ed="#P" n="37"/>esse beatos. 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e334">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> His adde quod in ecclesia jam olim definitum est, 
+      <lb ed="#P" n="39"/>animas justorum corporibus exutas ac plene 
+      purga<lb ed="#P" n="40" break="no"/>tas frui clara Dei visione. Qua de re ex professo in 
+      <lb ed="#P" n="41"/>4. distinctione quadragesimaquinta Quod si de 
+      ani<lb ed="#P" n="42" break="no"/>mabus hominum, multo magis de sanctis angelis 
+      <lb ed="#P" n="43"/>certum &amp; definitum haberi debet. 
+    </p>
+            <p xml:id="bt67yj-p021704-d1e353">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Denique hanc doctrinam usque adeo sibi 
+      persua<lb ed="#P" n="45" break="no"/>sam habet ecclesia, ut sanctos angelos tanquam 
+      per<lb ed="#P" n="46" break="no"/>petuo Dei conspectu beatos quotidianis precibus 
+      <lb ed="#P" n="47"/>invocare non dubitet. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

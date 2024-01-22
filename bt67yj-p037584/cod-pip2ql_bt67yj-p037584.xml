@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="98"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p037584"><!-- l2d9c1" -->
+            <head xml:id="bt67yj-p037584-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p037584-Hd1e103" type="question-title">Quot et qui sint Angelorum ordines</head>
+            <p xml:id="bt67yj-p037584-d1e106">
+      <!--0331.xml-->
+               <pb ed="#P" n="98"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="2"/>NONAM.
+      <lb ed="#P" n="3"/>§. 1. Quot &amp; qui sint Angelorum ordines?
+    </p>
+            <p xml:id="bt67yj-p037584-d1e122">
+               <lb ed="#P" n="4"/>DE ordinibus angelorum quot &amp; qui sint, &amp; 
+      <lb ed="#P" n="5"/>quibus proprietatibus inter se discreti, ita 
+      <lb ed="#P" n="6"/>disserendum nobis est, ut meminerimus 
+      <lb ed="#P" n="7"/>istorum cognitionem a sensibus atque experientia 
+      <lb ed="#P" n="8"/>mortalium remotissimam esse, &amp; proinde de iis non 
+      <lb ed="#P" n="9"/>ex humanis rationibus pronunciandum, sed tantum 
+      <lb ed="#P" n="10"/>asserendum quantum scripturae sacrae &amp; majorum 
+      <lb ed="#P" n="11"/>authoritas hic nobis praelucet. Nam &amp; Patres hanc 
+      <lb ed="#P" n="12"/>rem sobrie sibi attingendam putarunt. Unde Hilarius 
+      <lb ed="#P" n="13"/>narrans psal. 129. Quis angelorum &amp; potestatum &amp; 
+      <lb ed="#P" n="14"/>dominationum &amp; thronorum &amp; principatuum officia 
+      <lb ed="#P" n="15"/>rationesque percipiet? Similiter Aug. Ench. 58. 
+      inge<lb ed="#P" n="16" break="no"/>nue fatetur se ignorare, quomodo se habeat 
+      beatissi<lb ed="#P" n="17" break="no"/>ma illa &amp; superna societas, &amp; quae ibi sint 
+      differen<lb ed="#P" n="18" break="no"/>tiae personarum &amp; lib. ad Orosium contra 
+      Priscillia<lb ed="#P" n="19" break="no"/>nistas, &amp; Origenistas cap. 11. dicit se firmissime 
+      cre<lb ed="#P" n="20" break="no"/>dere &amp; indubitata fidem tenere, quod in caelestibus sint 
+      <lb ed="#P" n="21"/>sedes, dominationes, &amp;c. &amp; quod inter se differant, 
+      <lb ed="#P" n="22"/>sed quaenam illa sint &amp; quid inter se differant, 
+      nesci<lb ed="#P" n="23" break="no"/>re, nec in ea ignorantia ullum esse periculum. Item 
+      <lb ed="#P" n="24"/>Bern. lib. 5. de consideratione c. 4. post enumerata 
+      <lb ed="#P" n="25"/>quaedam de angelis quae legendo comperta dicit, &amp; 
+      <lb ed="#P" n="26"/>fide tenenda (inter quae ponit quod distincti sint in 
+      <lb ed="#P" n="27"/>personas, dispositi in dignitates, ab initio stantes in 
+      <lb ed="#P" n="28"/>ordine suo) tandem docet opinionis esse, non fidei, 
+      <lb ed="#P" n="29"/>quibus officiis, meritis, gradibus, ordinibus inter 
+      <lb ed="#P" n="30"/>se distinguantur, quorum in scripturis distincta 
+      ex<lb ed="#P" n="31" break="no"/>primuntur nomina. Et in serm. de S. Martino cum 
+      <lb ed="#P" n="32"/>ordines angelorum enumerasset, ait: Bene nomina 
+      <lb ed="#P" n="33"/>novi, forte hoc totum est. Quin &amp; ipse Dion. lib. de 
+      <lb ed="#P" n="34"/>caelesti hier. cap. 6. ubi tractationem doctrinae de 
+      <lb ed="#P" n="35"/>angelorum ordinibus aggreditur, praefatur solum 
+      <lb ed="#P" n="36"/>Deum &amp; ipsos angelos certo scire quot sint &amp; qui 
+      <lb ed="#P" n="37"/>caelestium naturarum ordines. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e198">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Ut igitur hac in re scripturam imprimis ducem 
+      se<lb ed="#P" n="39" break="no"/>quamur, ex Apost. Paulo colligimus sex aut septem 
+      <lb ed="#P" n="40"/>distinctos ordines angelorum. Nam Col. 1. quatuor 
+      <lb ed="#P" n="41"/>expressit ordinum angelicorum nomina, thronos, 
+      <lb ed="#P" n="42"/>dominationes, principatus &amp; potestates, &amp; quamvis 
+      <lb ed="#P" n="43"/>Aug. Enchir. loco jam citato existimet Apost. 
+      qua<lb ed="#P" n="44" break="no"/>tuor illis vocabulis universam caelestem societatem 
+      <lb ed="#P" n="45"/>complexum esse; ex aliis tamen Apost. locis aliud 
+      ap<lb ed="#P" n="46" break="no"/>paret. Siquidem in epist. ad Eph. 1. addit virtutes. Ac 
+      <lb ed="#P" n="47"/>ne putemus vel hoc ordinum numero totam 
+      multi<lb ed="#P" n="48" break="no"/>tudinem caelestium spirituum ab eo comprehensam 
+      <lb ed="#P" n="49"/>fuisse; addit ibidem hanc generalem clausulam: Et 
+      <lb ed="#P" n="50"/>omne nomen quod nominatur non solum in hoc saeculo, 
+      <lb ed="#P" n="51"/>sed etiam in futuro. Dictis ergo ordinibus addit idem 
+      <lb ed="#P" n="52"/>Apost. angelos Rom. 8. utique tanquam ordinem a 
+      <lb ed="#P" n="53"/>principatibus &amp; virtutibus distinctum; cum alioqui 
+      <lb ed="#P" n="54"/>nomen angeli passim per universam scripturam 
+      com<lb ed="#P" n="55" break="no"/>muniter omnibus supernis spiritibus tribuatur. His 
+      <lb ed="#P" n="56"/>accedit archangeli nomen, quod idem Apost. 1. Thess. 
+      <lb ed="#P" n="57"/>4. nec non Judas in sua epistola expresserunt. Hoc 
+      <lb ed="#P" n="58"/>autem etsi non ab aliis nominibus distinxerunt, ipso 
+      <lb ed="#P" n="59"/>tamen nomine quandam prae aliis angelis vel 
+      omni<lb ed="#P" n="60" break="no"/>bus vel aliquibus excellentiam ac superioritatem 
+      si<lb ed="#P" n="61" break="no"/>gnificari dubium non est. Et haec quidem ex Apost. 
+      <lb ed="#P" n="62"/>Paulo. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e258">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Porro apud Isa. cap. 9. Seraphim velut peculiaris 
+      <lb ed="#P" n="64"/>angelorum ordo nominatur, sicut &amp; in praefatione 
+      <lb ed="#P" n="65"/>canonis missae, &amp; eodem pertinere videtur, si 
+      nomi<lb ed="#P" n="66" break="no"/>nis interpretationem attendamus, quod psalmista 
+      <lb ed="#P" n="67"/>psalm. 103. quosdam Dei ministros vocat ignem 
+      u<lb ed="#P" n="68" break="no"/>rentem, sive ut ad Hebr. 1. citatur ab Apostolo, 
+      <lb ed="#P" n="69"/>flammam ignis.
+    </p>
+            <p xml:id="bt67yj-p037584-d1e278">
+      <!--0331.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>Nomen Cherubim vel singulari numero Cherub 
+      <lb ed="#P" n="71"/>pro angelo vel angelis certi alicujus ordinis positum 
+      <lb ed="#P" n="72"/>habemus Genes. 3. Ezech. 10. &amp; 28. Quibus adde 
+      <lb ed="#P" n="73"/>canticum ecclesiasticum Te Deum, in quo 
+      jungun<lb ed="#P" n="74" break="no"/>tur cherubim &amp; seraphim. Nam in aliis scripturae 
+      lo<lb ed="#P" n="75" break="no"/>cis ut Exod. 25. 3. Reg. 6. &amp; 7. 2. Paral. 3. &amp; 
+      ubi<lb ed="#P" n="76" break="no"/>cunque in psalm. aut alibi sedere dicitur Dominus 
+      <lb ed="#P" n="77"/>super Cherubim, eo nomine ad literam 
+      intelligun<lb ed="#P" n="78" break="no"/>tur imagines quaedam in sanctuario super 
+      propitiato<lb ed="#P" n="79" break="no"/>rium positae, ipsumque alis expansis obtegentes, ut 
+      <lb ed="#P" n="80"/>ex dictis locis manifestum est. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e309">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Haec igitur novem jam enumerata angelicorum 
+      <lb ed="#P" n="82"/>ordinum vocabula ex scripturis collecta accepimus; 
+      <lb ed="#P" n="83"/>tametsi ex iisdem non omnino liqueat ordines his 
+      vo<lb ed="#P" n="84" break="no"/>cabulis significatos omnes inter se distingui. Diceret 
+      <lb ed="#P" n="85"/>enim aliquis vel plura vocabula eidem ordini 
+      signifi<lb ed="#P" n="86" break="no"/>cando imposita esse; vel ita se habere ut alterum in 
+      <lb ed="#P" n="87"/>altero contineatur. Nam archangeliquidem nomen 
+      <lb ed="#P" n="88"/>in scriptura tantum legitur numero singulari, 
+      idem<lb ed="#P" n="89" break="no"/>que attributum Michaeli, qui non ex penultimo est 
+      <lb ed="#P" n="90"/>ordine angelorum, sed primus in supremo juxta 
+      com<lb ed="#P" n="91" break="no"/>munem doctorum opinionem, uti proxima dist. 
+      di<lb ed="#P" n="92" break="no"/>cetur. Unde nomen archangeli ut penultimum 
+      an<lb ed="#P" n="93" break="no"/>gelorum ordinem significat, non videtur haberi in 
+      <lb ed="#P" n="94"/>scriptura, nisi juxta eos qui Michaelem esse dicunt 
+      <lb ed="#P" n="95"/>de penultimo angelorum ordine, quorum sententia 
+      <lb ed="#P" n="96"/>quam parum sit probabilis, infra docebimus. Itaque 
+      <lb ed="#P" n="97"/>miror Greg. hom. 34. dicentem, quod angelos &amp; 
+      ar<lb ed="#P" n="98" break="no"/>changelos pene omnes sacri eloquii paginae 
+      testan<lb ed="#P" n="99" break="no"/>tur, cum archangelorum rara sit in scripturis imo 
+      <lb ed="#P" n="100"/>nulla mentio, nisi duobus tantum locis in numero 
+      <lb ed="#P" n="101"/>singulari, ubi pene certum est non peculiarem 
+      ordi<lb ed="#P" n="102" break="no"/>nem significari, sed principem omnium angelorum. 
+      <lb ed="#P" n="103"/>Porro Hier. lib. 2. contra Pelag. cap. 3. nomen 
+      virtu<lb ed="#P" n="104" break="no"/>tum generale facit, cum ait: Legimus angelos, 
+      thro<lb ed="#P" n="105" break="no"/>nos, dominationes caeterasque virtutes. Sed &amp; in 2. 
+      <lb ed="#P" n="106"/>epist. Pet. 2. &amp; in ep. Judae legimus δόξας, id est, 
+      glo<lb ed="#P" n="107" break="no"/>rias seu splendores. Quod de angelis multi ac 
+      proba<lb ed="#P" n="108" break="no"/>biliter interpretantur. Ex quo suspicari quispiam 
+      pos<lb ed="#P" n="109" break="no"/>set novem praedictis ordinibus hunc decimum pro 
+      <lb ed="#P" n="110"/>complemento adjiciendum esse. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e379">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Veruntamen novem nec plures nec pauciores esse 
+      <lb ed="#P" n="112"/>angelorum ordines, gradu ac dignitate inter se 
+      distin<lb ed="#P" n="113" break="no"/>ctos, multorum Patrum consensu traditumest. Nam 
+      <lb ed="#P" n="114"/>Ignatius in epistola ad Trallianos (quam ut 
+      germa<lb ed="#P" n="115" break="no"/>nam illius authoris incatalogo agnoscit Hieronymus. 
+      <lb ed="#P" n="116"/>novem ordines enumerat, militias principatuum 
+      lo<lb ed="#P" n="117" break="no"/>co ponens. Totidem Dionysius Ignatio coaevus 
+      recen<lb ed="#P" n="118" break="no"/>set in lib. de caelesti Hierarchia capit. 6. ubi ex 
+      insti<lb ed="#P" n="119" break="no"/>tuto eam rem tractans, tres angelorum Hierarchias 
+      <lb ed="#P" n="120"/>constituens, eas rursus singulas in ternos ordines, qui 
+      <lb ed="#P" n="121"/>simul novem efficiunt, subdistinguit. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e408">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Porro Dionys. hac in re authorem allegant &amp; 
+      se<lb ed="#P" n="123" break="no"/>quuntur Greg. homil. 34. super evang. &amp; Damasc. 
+      <lb ed="#P" n="124"/>lib. 2. de fide orthodoxa cap. 3. Eundem numerum 
+      <lb ed="#P" n="125"/>tradunt Hieron. lib. 2. apologiae contra Ruf. 
+      Chry<lb ed="#P" n="126" break="no"/>sost. hom. 4. super Gen. Eucher. I. formularum 
+      spi<lb ed="#P" n="127" break="no"/>ritualium cap. 11. Bernarduslib. 5. de consideratione 
+      <lb ed="#P" n="128"/>cap. 4. &amp; in serm. de S. Martino, &amp; homil. 18. super 
+      <lb ed="#P" n="129"/>Cant. Rupertus lib. 3. de processione Spiritus sancti 
+      <lb ed="#P" n="130"/>cap. 16. Author altercationis Ecclesiae &amp; synagogae 
+      <lb ed="#P" n="131"/>cap. 3. &amp; author sermonis Athanas. ascriptide 
+      As<lb ed="#P" n="132" break="no"/>sumpt. B. Virg. Nec dissentit Nazianzen. dum lib. 4. 
+      <lb ed="#P" n="133"/>de Theologia sub finem totidem atque eosdem 
+      enu<lb ed="#P" n="134" break="no"/>merat ordines, licet Hebraica vocabula, Cherubim 
+      <lb ed="#P" n="135"/>&amp; Seraphim in Graeca, quae splendores &amp; 
+      accensio<lb ed="#P" n="136" break="no"/>nes significat, commutet. His accedit officium 
+      Ec<lb ed="#P" n="137" break="no"/>clesiasticum quod in festo S. Michaelis ac rursum in 
+      <lb ed="#P" n="138"/>festo omnium Sanctorum eosdem ordines omnes 
+      <lb ed="#P" n="139"/>enumerat. Est autem inter authores jam dictos 
+      non<lb ed="#P" n="140" break="no"/>nulla enumerationis diversitas. Nam Greg. &amp; 
+      Ber<lb ed="#P" n="141" break="no"/>nard. a Dion. &amp; Damas. in unius ordinis 
+      collocatio<lb ed="#P" n="142" break="no"/>ne dissident. Virtutes enim tertio loco ponunt ab 
+      <lb ed="#P" n="143"/>inferioribus ad superiores ascendendo, quos illi in 
+      <!--0332.xml-->
+      <pb ed="#P" n="99"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>secunda hierarchia medio loco constituunt, id est, 
+      <lb ed="#P" n="2"/>quinto ac medio loco inter univerlos, ubi a Greg. &amp; 
+      <lb ed="#P" n="3"/>Bernardo collocantur principatus. Et quidem pro 
+      <lb ed="#P" n="4"/>Dion. facere videtur enumerationis ordo qui est 
+      <lb ed="#P" n="5"/>apud Apost. Eph. 1. ubi virtutem ponit inter 
+      potesta<lb ed="#P" n="6" break="no"/>tem &amp; dominationem. At Greg. favere videtur alter 
+      <lb ed="#P" n="7"/>Apost. locus qui est Col. 1. ubi inter dominationes 
+      <lb ed="#P" n="8"/>&amp; potestates medii nominantur principatus. 
+      Utrius<lb ed="#P" n="9" break="no"/>que autem dispositionis congruitatem diligenter 
+      ex<lb ed="#P" n="10" break="no"/>plicat S. Thom. 1. p. q. 108. art. 6. in corp. ac 
+      deni<lb ed="#P" n="11" break="no"/>que in responsione ad ult. ambas sententias ita 
+      con<lb ed="#P" n="12" break="no"/>ciliari posse putat, si dicamus Greg. principatus esse 
+      <lb ed="#P" n="13"/>qui Dionys. sunt virtutes, &amp; Greg. virtutes, qui 
+      <lb ed="#P" n="14"/>Dion. sunt principatus. Hoc enim colligi posse ex 
+      <lb ed="#P" n="15"/>ipsius Greg. declaratione. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e499">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Porro alii scriptores in enumerandis ordinibus 
+      <lb ed="#P" n="17"/>non videntur certae collocationis rationem habuisse. 
+      <lb ed="#P" n="18"/>Nam Hier. contra Ruffin. scribens incipit a 
+      cheru<lb ed="#P" n="19" break="no"/>bim, &amp; virtutes quarto a fine loco collocat, necnon 
+      <lb ed="#P" n="20"/>in aliis quibusdam a Dion. &amp; Greg. discrepat. Quod 
+      <lb ed="#P" n="21"/>etiam observare est in officio ecclesiastico festorum 
+      <lb ed="#P" n="22"/>S. Michaelis &amp; omnium Sanctorum juxta usum 
+      Ro<lb ed="#P" n="23" break="no"/>manum. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e522">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Jam praeter memoratos authores sunt alii qui 
+      pau<lb ed="#P" n="25" break="no"/>ciores quidem enumerent angelicos ordines, non 
+      <lb ed="#P" n="26"/>tamen cum exclusione numeri majoris. Nam (ut 
+      Ma<lb ed="#P" n="27" break="no"/>ximinum haereticum praetereamus, qui verbis ab 
+      <lb ed="#P" n="28"/>Aug. in 1. lib. contra eum scripto, recitatis octo 
+      enu<lb ed="#P" n="29" break="no"/>merat ordines) Methodius apud Epiph. in haeresi 
+      <lb ed="#P" n="30"/>Origenis tantummodo septem recenset. Ac totidem 
+      <lb ed="#P" n="31"/>Hier. lib. 2. contra Jovinianum, addens tamen haec 
+      <lb ed="#P" n="32"/>verba. Et omne nomen, &amp;c. per quod significat se non 
+      <lb ed="#P" n="33"/>omnes enumerasse. Numerum autem complet 
+      scri<lb ed="#P" n="34" break="no"/>bens contra Ruffin. ut dictum est. Ambr. vero lib I. de 
+      <lb ed="#P" n="35"/>fide c. 1. quatuor dumtaxat enumerat, ut &amp; Cyrillus 
+      <lb ed="#P" n="36"/>Hierosolymitanus cateches. 6. Sed his patribus, ut 
+      <lb ed="#P" n="37"/>dixi, non fuit propositum omnes angelicos ordines 
+      re<lb ed="#P" n="38" break="no"/>censere, neque certum eorum numerum, atque 
+      ipso<lb ed="#P" n="39" break="no"/>rum inter se differentias tradere; quemadmodum nec 
+      <lb ed="#P" n="40"/>propositum est Ecclesiae in praefatione canonis missae, 
+      <lb ed="#P" n="41"/>&amp; in hymno Te Deum laudamus, &amp; in aliis nonnullis 
+      <lb ed="#P" n="42"/>partibus officii divini, in quibus contenta est aliquos 
+      <lb ed="#P" n="43"/>tantum ordines nunc plures, nunc pauciores, suis 
+      <lb ed="#P" n="44"/>nominibus expressisse. Et tamen in his omnibus 
+      no<lb ed="#P" n="45" break="no"/>tandum nomina ab aliis aut alio loco tacita, ab aliis 
+      <lb ed="#P" n="46"/>aut alio loco fuisse expressa, ut etiam apud hos qui 
+      <lb ed="#P" n="47"/>videntur minorem posuisse numerum, si diversa loca 
+      <lb ed="#P" n="48"/>colligantur, non sit difficile reperire numerum 
+      no<lb ed="#P" n="49" break="no"/>venarium. Quem quidem numerum angelicorum 
+      <lb ed="#P" n="50"/>ordinum in scriptura nobis significatum esse per 
+      no<lb ed="#P" n="51" break="no"/>vem lapides preciosos quos in d scriptione principis 
+      <lb ed="#P" n="52"/>Tyri enumerat Ezechiel 28. sentit Greg. hom. 34. 
+      <lb ed="#P" n="53"/>super evangelia, &amp; lib. 32. moralium cap. 18. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e592">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Ex his igitur Patrum sententiis non immerito 
+      <lb ed="#P" n="55"/>Theologi posteriores concorditer docent novem 
+      es<lb ed="#P" n="56" break="no"/>se angelorum distinctos inter se ordines. Quam 
+      co<lb ed="#P" n="57" break="no"/>rum doctrinam immerito traducunt hujus temporis 
+      <lb ed="#P" n="58"/>haeretici velut curiosam ac temerariam. Non enim 
+      <lb ed="#P" n="59"/>temeraria est aut curiosa, sed pia &amp; Theologo digna 
+      <lb ed="#P" n="60"/>inquisitio de vocibus in scriptura sacra proditis, quas 
+      <lb ed="#P" n="61"/>res significent, &amp; quae sit rerum significatarum 
+      di<lb ed="#P" n="62" break="no"/>stinctio, modo id moderate fiat, &amp; absit audacia 
+      <lb ed="#P" n="63"/>certo affirmandi quod liquido probari non possit. 
+      <lb ed="#P" n="64"/>Ad quid emm (inquit Bernardus lib. 5. de 
+      conside<lb ed="#P" n="65" break="no"/>ratione capit. 4.) caelestium nomina innotuerunt, si ne 
+      <lb ed="#P" n="66"/>opinari quidem salva fide aliquid licet de rebus 
+      qua<lb ed="#P" n="67" break="no"/>rum nomina sunt. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e627">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Verum hic breviter una &amp; altera removenda est 
+      <lb ed="#P" n="69"/>objectio. Nam Leo IX. apud Gratianum de 
+      conse<lb ed="#P" n="70" break="no"/>cratione dist. 1. cap. Hi duo, decem ordines 
+      ange<lb ed="#P" n="71" break="no"/>lorum agnoscere videtur, cum dicit decimum 
+      ordi<lb ed="#P" n="72" break="no"/>nem per superbiam corruisse; ubi glossa quaedam, 
+      <lb ed="#P" n="73"/>nomen, inquit, decimi ordinis non habemus. Sed bene 
+      <lb ed="#P" n="74"/>consequenter ibidem respondet alia glossa. Nec ha¬ 
+      <!--0332.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>bere possumus, cum non fuerint nisi novem. Sensus 
+      igi<lb ed="#P" n="76" break="no"/>tur est, ut eadem glossa exponit, tot angelos 
+      corruis<lb ed="#P" n="77" break="no"/>se qui possent ordinem constituere; intellige quoad 
+      <lb ed="#P" n="78"/>numerum. Unde &amp; ex hominibus dicitur decimus 
+      <lb ed="#P" n="79"/>ordo reparari. De quo infra. 
+    </p>
+            <p xml:id="bt67yj-p037584-d1e662">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Altera objectio superius mota est ex epistolis Petri 
+      <lb ed="#P" n="81"/>&amp; Judae, quae <foreign>δόξας</foreign>, id est, glorias seu majestates 
+      <lb ed="#P" n="82"/>velut nomen alicujus ordinis videntur angelis 
+      tri<lb ed="#P" n="83" break="no"/>buisse. Sed dici potest non significari ordinem a 
+      prae<lb ed="#P" n="84" break="no"/>dictis diversum, sed eum quem Gregorius 
+      Nazian<lb ed="#P" n="85" break="no"/>zenus lib. 4. Theologiae splendores vocat, nos 
+      He<lb ed="#P" n="86" break="no"/>braico nomine Cherubim, quod multitudinem 
+      <lb ed="#P" n="87"/>scientiae significat. Quanquam &amp; aliter potest 
+      re<lb ed="#P" n="88" break="no"/>sponderi, scilicet in universum omnes caelestes 
+      spi<lb ed="#P" n="89" break="no"/>ritus doxarum nomine significari, propter 
+      excellen<lb ed="#P" n="90" break="no"/>tiam intellectualis eorum naturae, vel etiam propter 
+      <lb ed="#P" n="91"/>gloriam beatitudinis. Non enim Apostoli doxas aliis 
+      <lb ed="#P" n="92"/>ordinibus connumerant, tanquam ordinem ab aliis 
+      <lb ed="#P" n="93"/>distinctum, sed solas nominant. Facilior autem 
+      res<lb ed="#P" n="94" break="no"/>ponsio est (nescio tamen an verior) secundum eos 
+      <lb ed="#P" n="95"/>qui doxas intelligunt non angelos sed homines 
+      po<lb ed="#P" n="96" break="no"/>testate &amp; gloria praeeminentes. Qua de re 
+      consulan<lb ed="#P" n="97" break="no"/>tur commentarii. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

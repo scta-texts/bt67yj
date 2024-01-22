@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="183"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p070540"><!-- l2d21c4" -->
+            <head xml:id="bt67yj-p070540-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p070540-Hd1e103" type="question-title">Cur mulier serpentem eumque loquentem 
+      non horruerit</head>
+            <p xml:id="bt67yj-p070540-d1e106">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> §. 4. Cur mulier serpentem eumque loquentem 
+      <lb ed="#P" n="25"/>non horruerit?
+    </p>
+            <p xml:id="bt67yj-p070540-d1e115">
+               <lb ed="#P" n="26"/>NOn difficile est rationem reddere, cur mulier 
+      <lb ed="#P" n="27"/>non exhorruerit ac refugerit aspectum 
+      serpen<lb ed="#P" n="28" break="no"/>tis, sicut Moysen prae horrore refugisse legimus 
+      <lb ed="#P" n="29"/>Exodi 4. Erat enim homo bestiarum dominus, 
+      ne<lb ed="#P" n="30" break="no"/>que adhuc a perfecto illius dominii usu per 
+      pecca<lb ed="#P" n="31" break="no"/>tum exciderat. Sed &amp; bestiae hominem ut dominum 
+      <lb ed="#P" n="32"/>suum naturali instinctu verebantur, unde nullum 
+      <lb ed="#P" n="33"/>tunc homini noxium erat animal, quemadmodum 
+      <lb ed="#P" n="34"/>ad distinctionem decimamquintam ostendimus. 
+      <lb ed="#P" n="35"/>Nulla igitur causa erat horroris in illo statu, sicuti 
+      <lb ed="#P" n="36"/>nunc est, quando &amp; dominium in bestias bona parte 
+      <lb ed="#P" n="37"/>amisimus, &amp; insuper multas earum etiam inimicas 
+      <lb ed="#P" n="38"/>ac noxias experimur. Sic docet Joannes Chrysost. 
+      <lb ed="#P" n="39"/>homilia 9. &amp; 16. in Genes. &amp; ex Joan. Chrysostomo 
+      <lb ed="#P" n="40"/>sanctus Augustinus libro primo contra Julianum 
+      <lb ed="#P" n="41"/>capite 6. 
+    </p>
+            <p xml:id="bt67yj-p070540-d1e152">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Illud difficultatem habet, cur non horruerit aut 
+      <lb ed="#P" n="43"/>certe non admirata fuerit mulier serpentem audiens 
+      <lb ed="#P" n="44"/>loquentem, cum non ignoraret hoc esse praeter 
+      natu<lb ed="#P" n="45" break="no"/>ram, ut brutum animal loqueretur. Respondet 
+      Ma<lb ed="#P" n="46" break="no"/>gister §. B. quia cum nosset eum creatum esse, ipsum 
+      <lb ed="#P" n="47"/>etiam loquendi officium a Deo accepisse putavit. 
+      <lb ed="#P" n="48"/>Sed contra eam responsionem parata est opjectio, 
+      <lb ed="#P" n="49"/>nullum in primo statu errorem esse potuisse, veluti 
+      <lb ed="#P" n="50"/>ostendemus ad distinctionem 23. 
+    </p>
+            <p xml:id="bt67yj-p070540-d1e177">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Huic objectioni respondens sanctus Thomas 1. p. 
+      <lb ed="#P" n="52"/>quaest. 94. art. 4. dicit mulierem putasse quod hoc 
+      <lb ed="#P" n="53"/>loquendi officium acceperat serpens, non per 
+      natu<lb ed="#P" n="54" break="no"/>ram, sed aliqua supernaturali operatione. Intelligit 
+      <lb ed="#P" n="55"/>autem supernaturalem operationem, non quae 
+      natu<lb ed="#P" n="56" break="no"/>ram absolute superaret; sed naturam serpentis. Non 
+      <lb ed="#P" n="57"/>enim miraculum erat, quod in serpente fiebat per 
+      <lb ed="#P" n="58"/>diabolum. Addit S. Thom. non esse necessarium 
+      au<lb ed="#P" n="59" break="no"/>thoritatem Magistri sequi in hac parte. Verum 
+      quo<lb ed="#P" n="60" break="no"/>niam eadem responsio reperitur apud Cyrillum 
+      li<lb ed="#P" n="61" break="no"/>bro tertio contra Julianum, etiam aliter defendi illa 
+      <lb ed="#P" n="62"/>potest; nempe si dicamus Evam hoc, quod 
+      Magi<lb ed="#P" n="63" break="no"/>ster ait, putasse non assentiendo seu judicando quod 
+      <lb ed="#P" n="64"/>ita res se haberet, sed cogitando ac reputando 
+      se<lb ed="#P" n="65" break="no"/>cum, num forte sic se haberet. Quem sensum 
+      Cy<lb ed="#P" n="66" break="no"/>rillus satis clare expressit; juxta quam 
+      declaratio<lb ed="#P" n="67" break="no"/>nem non error fuit in illa mulieris cogitatione, sed 
+      <lb ed="#P" n="68"/>prudens quaedam rei latentis aestimatio. Quo sensu 
+      <lb ed="#P" n="69"/>etiam illud accipiendum quod ait Apostolus Phil. 2. 
+      <lb ed="#P" n="70"/>Superiores invicem arbitrantes. Non enim de eo, 
+      <lb ed="#P" n="71"/>quod est, unumquemque proximum virtute aut gra¬ 
+      <!--0416.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>tia apud. Deum nobis superiorem esse certum a 
+      no<lb ed="#P" n="73" break="no"/>bis assensum requirit, sed saltem suspensum 
+      judi<lb ed="#P" n="74" break="no"/>cium, quo cogitemus forte ita rem se habere. 
+    </p>
+            <p xml:id="bt67yj-p070540-d1e238">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Quod autem sanctus Thomas tam loco jam 
+      cita<lb ed="#P" n="76" break="no"/>to quam in hanc dist. scribens, &amp; ibidem <quote xml:id="bt67yj-p070540-Qd1e246">
+      Bonaven<lb ed="#P" n="77" break="no"/>tura</quote>, existimant Evam putasse quod per serpentem 
+      <lb ed="#P" n="78"/>spiritus angelicus secum loqueretur, non videtur 
+      <lb ed="#P" n="79"/>probabile ob duas rationes. Tum quia sic, pro ea 
+      <lb ed="#P" n="80"/>prudentia quam habebat, secum reputasset, cur 
+      spi<lb ed="#P" n="81" break="no"/>ritus ille vellet per serpentem secum loqui, atque ita 
+      <lb ed="#P" n="82"/>sermonem serpentis tanquam a superiori natura 
+      pro<lb ed="#P" n="83" break="no"/>fectum diligentius examinasset, ac doli suspicionem 
+      <lb ed="#P" n="84"/>ex verbis ejus illico concepisset. Deinde, quia sic 
+      sci<lb ed="#P" n="85" break="no"/>visset postea se non a serpente, sed a spiritu per illum 
+      <lb ed="#P" n="86"/>loquente deceptam fuisse, neque dixisset: Serpens 
+      <lb ed="#P" n="87"/>decepit me, sed angelus malus decepit me. Quare 
+      <lb ed="#P" n="88"/>magis apparet probabile quod sentiunt Cyrillus 
+      Ma<lb ed="#P" n="89" break="no"/>gister; scilicet Evam putasse (suspenso ut jam dictum 
+      <lb ed="#P" n="90"/>est judicio) quod serpens facultatem loquendi 
+      habe<lb ed="#P" n="91" break="no"/>ret a natura. Nesciebat enim eam facultatem soli 
+      <lb ed="#P" n="92"/>homini propriam esse. Nam ut recenter erat creata, 
+      <lb ed="#P" n="93"/>&amp; quidem posteaquam Adam bestiis omnibus ad se 
+      <lb ed="#P" n="94"/>adductis nomina imposuisset, ut liquet ex historia 
+      <lb ed="#P" n="95"/>Genes. 2. nondum naturae rerum &amp; in his bestiarum 
+      <lb ed="#P" n="96"/>experientiam habebat. Sed neque perfectio 
+      condi<lb ed="#P" n="97" break="no"/>tionis muliebris exigebat ut congenitam sibi haberet 
+      <lb ed="#P" n="98"/>omnium rerum naturalium scientiam, sicut hoc 
+      <lb ed="#P" n="99"/>exigebat perfectio viri protoplasti. Haec sententia 
+      <lb ed="#P" n="100"/>eo potior habenda videtur, quod per eam tota Moysi 
+      <lb ed="#P" n="101"/>de serpente narratio secundum historicum 
+      intelle<lb ed="#P" n="102" break="no"/>ctum expedita est, &amp; probe sibi constat; non item, 
+      <lb ed="#P" n="103"/>si ponatur mulier existimasse quod non tam cum 
+      ser<lb ed="#P" n="104" break="no"/>pente, quam cum angelo seu bono seu malo, sibi 
+      <lb ed="#P" n="105"/>colloquium esset.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

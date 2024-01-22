@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="228"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p088246"><!-- l2d24c2" -->
+            <head xml:id="bt67yj-p088246-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p088246-Hd1e103" type="question-title">Respondetur ad objectiones</head>
+            <p xml:id="bt67yj-p088246-d1e106">
+      <!--0461.xml-->
+               <pb ed="#P" n="228"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 2. Respondetur ad objectiones.
+    </p>
+            <p xml:id="bt67yj-p088246-d1e117">
+               <lb ed="#P" n="2"/>QUidam hujus temporis haeretici, dum cum 
+      <lb ed="#P" n="3"/>
+               <name xml:id="bt67yj-p088246-Nd1e123">Martino Luthero</name> liberum arbitrium aperte 
+      <lb ed="#P" n="4"/>negare non audent, ut <name xml:id="bt67yj-p088246-Nd1e127">Calvinus</name> &amp; <name xml:id="bt67yj-p088246-Nd1e130">Bucerus</name>, ita 
+      vo<lb ed="#P" n="5" break="no"/>cabulum liberi arbitrii retinent propter SS. Patrum 
+      <lb ed="#P" n="6"/>authoritatem, ut tamen propriam ejus rationem 
+      <lb ed="#P" n="7"/>jam a nobis explicatam tollant, &amp; proinde rem 
+      ip<lb ed="#P" n="8" break="no"/>sam destruant. Docent enim libero arbitrio non 
+      re<lb ed="#P" n="9" break="no"/>pugnare necessitatem naturalem, sed solam 
+      necessi<lb ed="#P" n="10" break="no"/>tatem coactionis. Et hac ratione hominem post 
+      <lb ed="#P" n="11"/>peccatum fatentur esse liberii arbitrii, quia non 
+      co<lb ed="#P" n="12" break="no"/>acte, sed sponte &amp; voluntarie operatur. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e150">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Adducunt autem pro hac sua sententia quaedam 
+      <lb ed="#P" n="14"/>loco ex patribus. Cujusmodi in primis est illud 
+      Au<lb ed="#P" n="15" break="no"/>gustini lib. 5. de civit. cap. 10. Si illa definitur 
+      ne<lb ed="#P" n="16" break="no"/>cessitas, secundum quam dicimus necesse esse, ut ita 
+      <lb ed="#P" n="17"/>sit aliquid vel ita fiat, nescio cur eam timeamus, ne 
+      <lb ed="#P" n="18"/>nobis libertatem auferat voluntatis. Neque enim &amp; 
+      <lb ed="#P" n="19"/>vitam Dei &amp; praescientiam Dei sub necessitate ponimus, 
+      <lb ed="#P" n="20"/>si dicamus necesse esse Deum semper vivere &amp; cuncta 
+      <lb ed="#P" n="21"/>praescire. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e175">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Secundo: Idem libr. 22. de civit. cap. ult. sic 
+      lo<lb ed="#P" n="23" break="no"/>quitur de beatis. Nec ideo liberum arbitrium non 
+      <lb ed="#P" n="24"/>habebunt, quia peccata eos delectare non poterunt. 
+      <lb ed="#P" n="25"/>Magis quippe erit liberum, a delectatione peccandi 
+      <lb ed="#P" n="26"/>usque ad delectationem non peccandi indeclinabilem 
+      <lb ed="#P" n="27"/>liberatum. Et Enchir. cap. 105. Erit homo sic ut velle 
+      <lb ed="#P" n="28"/>malum non possit, nec tamen ideo carebit libero 
+      arbi<lb ed="#P" n="29" break="no"/>trio. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e197">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Tertio: Idem Aug. eodem Enchir. cap. scribit in 
+      <lb ed="#P" n="31"/>hunc modum: Neque culpanda est voluntas, aut 
+      vo<lb ed="#P" n="32" break="no"/>luntas non est, aut libera dicenda non est, qua beati 
+      <lb ed="#P" n="33"/>esse sic volumus, ut esse miseri non solum nolimus, sed 
+      <lb ed="#P" n="34"/>nequaquam velle possimus. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e213">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Quarto: Idem libr. de natura, &amp; gratia cap. 46. 
+      <lb ed="#P" n="36"/>Perquam absurdum est, inquit, ut ideo dicamus non 
+      <lb ed="#P" n="37"/>pertinere ad voluntatem nostram, quod beati esse 
+      <lb ed="#P" n="38"/>volumus, quia id omnino nolle non possumus; nec 
+      <lb ed="#P" n="39"/>dicere audemus, Deum non voluntatem, sed 
+      necessi<lb ed="#P" n="40" break="no"/>tatem habere justitiae, quia non potest velle peccare. 
+      <lb ed="#P" n="41"/>Ubi agit de voluntate non qualicunque, sed 
+      <lb ed="#P" n="42"/>libera, ut patet ex praecedentibus verbis 
+      adver<lb ed="#P" n="43" break="no"/>farii qui dixerat voluntatis arbitrio ac 
+      deliberatio<lb ed="#P" n="44" break="no"/>ne privari quicquid naturali necessitate 
+      constrin<lb ed="#P" n="45" break="no"/>gitur. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e242">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Quinto: Prosper scribens contra Collatorem 
+      ca<lb ed="#P" n="47" break="no"/>19. liberum arbitrium definit, quod sit rei sibi 
+      pla<lb ed="#P" n="48" break="no"/>citae spontaneus appetitus. Ex qua definitione 
+      ap<lb ed="#P" n="49" break="no"/>paret ad liberi arbitrii rationem sufficere, quod 
+      vo<lb ed="#P" n="50" break="no"/>luntas sponte &amp; non coacte aliquid appetat, sive id 
+      <lb ed="#P" n="51"/>faciat necessario, sive non. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e260">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Sexto: <name xml:id="bt67yj-p088246-Nd1e266">Bernardus</name> sermone 81. in Cantica dicit, 
+      <lb ed="#P" n="53"/>quod voluntas peccato in deterius mutata ipsa sibi 
+      <lb ed="#P" n="54"/>necessitatem faciat; ut necessitas cum voluntaria 
+      <lb ed="#P" n="55"/>sit, exculare non valeat voluntatem; nec voluntas 
+      <lb ed="#P" n="56"/>cum sit illecta, excludere necessitatem. Est enim 
+      <lb ed="#P" n="57"/>necessitas haec quodam modo voluntaria. Et 
+      qui<lb ed="#P" n="58" break="no"/>busdam interpositis: Ita, inquit, anima miro 
+      quo<lb ed="#P" n="59" break="no"/>dam &amp; malo modo sub hac voluntaria quadam ac 
+      <lb ed="#P" n="60"/>male libera necessitate &amp; ancilla tenetur &amp; libera, 
+      <lb ed="#P" n="61"/>ancilla propter necessitatem, libera propter 
+      volun<lb ed="#P" n="62" break="no"/>tatem, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e291">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Septimo: Magister distinctione 25. §. A. Liberum 
+      <lb ed="#P" n="64"/>arbitrium dicitur, inquit, quantum ad voluntatem, 
+      <lb ed="#P" n="65"/>quia voluntarie moveri, &amp; spontaneo appetitu ferri 
+      <lb ed="#P" n="66"/>potest ad ea quae bona &amp; mala judicat. Et §. B. 
+      reci<lb ed="#P" n="67" break="no"/>tatis verbis ex Enchiridio Augustini, &amp; ex lib. ejus 
+      <lb ed="#P" n="68"/>22. de civit. ca. 30. concludit arbitrium dici liberum. 
+      <lb ed="#P" n="69"/>quia sine coactione &amp; necessitate valet appetere vel 
+      <lb ed="#P" n="70"/>eligere quod ratione decreverit. Quam autem 
+      <lb ed="#P" n="71"/>intelligat necessitatem exponit §. I. his verbis: A 
+      <!--0461.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>necessitate &amp; ante peccatum &amp; post aeque liberum est 
+      <lb ed="#P" n="73"/>arbitrium. Sicut enim tunc cogi non poterat, ita nec 
+      <lb ed="#P" n="74"/>modo, ideoque voluntas merito apud Deum judicatur, 
+      <lb ed="#P" n="75"/>quae semper a necessitate libera est, &amp; nunquam 
+      cog<lb ed="#P" n="76" break="no"/>potest. Ex his apparet Magistrum non alia ratione 
+      <lb ed="#P" n="77"/>voluntatem facere liberam a necessitate, quam quia 
+      <lb ed="#P" n="78"/>libera est a coactione. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e336">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Octavo: Proferuntur etiam ex S. Thoma quaedam 
+      <lb ed="#P" n="80"/>loca: Nam in disputatis q. 3. de potentia art. 7. ad 
+      <lb ed="#P" n="81"/>14. Dicendum est, inquit, quod non quaelibet causa 
+      <lb ed="#P" n="82"/>excludit libertatem, sed solum causa cogens. Ac 
+      <lb ed="#P" n="83"/>rursus q. 10. art. 2. ad 5. dicit solam coactionem 
+      <lb ed="#P" n="84"/>repugnare naturali libertati voluntar: Et 1. p. q 
+      <lb ed="#P" n="85"/>83. a. 2. ad 3. dicit, per peccatum on periisse 
+      libe<lb ed="#P" n="86" break="no"/>rum arbitrium quoad libertatem aturalem quae est 
+      <lb ed="#P" n="87"/>a coactione. Per quod significare videtur, periisse 
+      <lb ed="#P" n="88"/>liberum arbitrium quoad eam libertatem quae est 
+      <lb ed="#P" n="89"/>a necessitate naturali. Item I. 2. q. 114. art. 4. in 
+      cor<lb ed="#P" n="90" break="no"/>pore dicit, quod homo est liberi arbitrii, in 
+      quan<lb ed="#P" n="91" break="no"/>tum habet prae caeteris creaturis, ut per se agat 
+      vo<lb ed="#P" n="92" break="no"/>luntarie agens. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e371">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Nono: <name xml:id="bt67yj-p088246-Nd1e377">Bonaventura</name> in dist. 25. ut textum dicit, 
+      <lb ed="#P" n="94"/>libertatem essentialem liberii arbitrii, esse libertatem 
+      <lb ed="#P" n="95"/>a coactione, &amp; similia repetit ad eandem dist. art. 2. 
+      <lb ed="#P" n="96"/>q. 1. Deinde q. 2. Si, inquit, loquamur de libere 
+      <lb ed="#P" n="97"/>arbitrio secundum quod liberum est, sic concedo 
+      <lb ed="#P" n="98"/>quod potest esse non solum respectu contingentis, sed 
+      <lb ed="#P" n="99"/>etiam necessarii, sicut patet in Deo, &amp; in Christo, 
+      <lb ed="#P" n="100"/>&amp; in angelis, &amp; in hominibus beatis. Cum enim 
+      <lb ed="#P" n="101"/>duplex sit necessitas, videlicet coactionis &amp; 
+      immuta<lb ed="#P" n="102" break="no"/>bilitatis; necessitas coactionis repugnat libertati 
+      <lb ed="#P" n="103"/>arbitrii, non autem necessitas immutabilitatis: 
+      <lb ed="#P" n="104"/>eo quod arbitrium dicitur liberum, non quia sic 
+      ve<lb ed="#P" n="105" break="no"/>lit hoc ut possit velle ejus oppositum, sed quia omne 
+      <lb ed="#P" n="106"/>quod vult, appetit ad sui ipsius imperium; quia sic 
+      <lb ed="#P" n="107"/>vult aliquid, ut velit se velle illud, &amp; ideo in actu 
+      <lb ed="#P" n="108"/>volendi seipsum movet &amp; sibi dominatur, &amp; pro 
+      tan<lb ed="#P" n="109" break="no"/>to dicitur liberum, quamvis immutabiliter ordinetur 
+      <lb ed="#P" n="110"/>ad illud. Et infra: Actus liberi arbitrii, ut liberum 
+      <lb ed="#P" n="111"/>est, non solum potest esse crca necessarium, sed etiam 
+      <lb ed="#P" n="112"/>necessarius in se. Haec ibi &amp; alia quaedam in eandem 
+      <lb ed="#P" n="113"/>sententiam. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e423">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Decimo: <name xml:id="bt67yj-p088246-Nd1e429">Alfonsus a Castro</name> libro de haeresibus, 
+      <lb ed="#P" n="115"/>in verbo, libertas, disputans de ea libertate a qua 
+      <lb ed="#P" n="116"/>dictum est liberum arbitrium: Est, inquit, libertas 
+      <lb ed="#P" n="117"/>quae opponitur necessitati, vel ut verius dicam, 
+      <lb ed="#P" n="118"/>coactioni. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e441">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Difficultas argumentorum omnis fere in eo est, 
+      <lb ed="#P" n="120"/>quod patres non satis clare distinxerunt de qua 
+      ne<lb ed="#P" n="121" break="no"/>cessitate, libertate, coactione, &amp; de quibus actibus 
+      <lb ed="#P" n="122"/>voluntatis loquerentur, &amp; quid per spontaneum 
+      <lb ed="#P" n="123"/>intelligerent. Horum igitur accurata distinctione 
+      <lb ed="#P" n="124"/>solvenda sunt argumenta, ut per singula videbitur. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e459">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Et quidem pro solutione ejus quod primum ex 
+      <lb ed="#P" n="126"/>Aug. objicitur, notandum necessitatem absolutam 
+      <lb ed="#P" n="127"/>competentem alicui in quibusdam rebus seu 
+      actio<lb ed="#P" n="128" break="no"/>nibus, non tollere ab eo libertatem in aliis. Sic Deus, 
+      <lb ed="#P" n="129"/>qui necessario est &amp; necessario vivit, &amp; necessario 
+      <lb ed="#P" n="130"/>seipsum cognoscit &amp; diligit; non necessario mundum 
+      <lb ed="#P" n="131"/>creavit, sed libere; sic ut potuerit, non creare. 
+      No<lb ed="#P" n="132" break="no"/>tandum etiam quod necessitas consequentiae, cum 
+      <lb ed="#P" n="133"/>non sit respectu nostri absoluta, sed conditionata 
+      ne<lb ed="#P" n="134" break="no"/>cessitas, libertatem arbitrii secundum rationem ejus 
+      <lb ed="#P" n="135"/>superius explicatam minime tollit. Unde dicit ibidem 
+      <lb ed="#P" n="136"/>Augustinus. Necesse est ut cum volumus, libero 
+      ve<lb ed="#P" n="137" break="no"/>simus arbitrio, nec tamen ideo ipsum liberum 
+      ar<lb ed="#P" n="138" break="no"/>bitrium necessitati subjicimus, quae adimit 
+      liberta<lb ed="#P" n="139" break="no"/>tem: Ex quibus verbis palam fit, Augustinum dum 
+      <lb ed="#P" n="140"/>negat libero arbitrio repugnare necessitatem, loqui 
+      <lb ed="#P" n="141"/>de necessitate consequentiae; quae est necessitas 
+      tan<lb ed="#P" n="142" break="no"/>tum ex hypothesi. Ut autem sententia illius loci 
+      <lb ed="#P" n="143"/>clarior fiat, observandum est Augustinum eo loco 
+      <lb ed="#P" n="144"/>disserere contra Stoicos; qui cum fatum in primis 
+      <lb ed="#P" n="145"/>causis assererent, negabant tamen in actibus hu¬ 
+      <!--0462.xml-->
+      <pb ed="#P" n="229"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>manis necessitatem, ne tollerent arbitrii libertatem, 
+      <lb ed="#P" n="2"/>quemadmodum etiam de iis scribit Aulus Gellius lib. 
+      <lb ed="#P" n="3"/>6. noct. At. cap. 2. Quibus respondet Aug. eam 
+      ne<lb ed="#P" n="4" break="no"/>cessitatem quae non est in nostra potestate, qualis est 
+      <lb ed="#P" n="5"/>naturalis necessitas, cum libero arbitrio repugnare. 
+      <lb ed="#P" n="6"/>Eam vero secundum quam dicimus necesse esse, ut 
+      <lb ed="#P" n="7"/>ita sit aliquid, vel ita fiat, id est, quae consistit in 
+      cer<lb ed="#P" n="8" break="no"/>ta connexione causarum &amp; effectuum, quae 
+      profe<lb ed="#P" n="9" break="no"/>cto tantum conditionata necessitas est, si in se 
+      spe<lb ed="#P" n="10" break="no"/>ctetur, non esse timendum, ne nobis libertatem 
+      au<lb ed="#P" n="11" break="no"/>ferat voluntatis. Huc quoque facit exemplum quod 
+      <lb ed="#P" n="12"/>adfert de praescientia Dei. Nam ejus necessitas non 
+      <lb ed="#P" n="13"/>est absoluta, sed ex hypothesi; qua nimirum 
+      suppo<lb ed="#P" n="14" break="no"/>nitur aliqua esse futura. Nam si nihil sit futurum 
+      <lb ed="#P" n="15"/>(quod quidem absolute esse potuit) nulla erit Dei 
+      <lb ed="#P" n="16"/>praescientia, ut dictum est ad dist. 38. lib. 1. Quidam 
+      <lb ed="#P" n="17"/>similiter censent de vita Dei quam pro exemplo 
+      ad<lb ed="#P" n="18" break="no"/>ducit Augustinus. Dicunt enim Augustinum vitam 
+      <lb ed="#P" n="19"/>accipere pro actione viventis, qualis est intelligere, 
+      <lb ed="#P" n="20"/>velle. Constat autem Deum multa velle ac multa 
+      <lb ed="#P" n="21"/>etiam intelligere practico intellectu, quae posset non 
+      <lb ed="#P" n="22"/>velle &amp; non intelligere. Unde horum actuum vitae 
+      <lb ed="#P" n="23"/>non tollitur libertas a Deo per hoc quod semper &amp; 
+      <lb ed="#P" n="24"/>necessario vivit; sicut mihi non adimitur libertas 
+      <lb ed="#P" n="25"/>existendi in hoc loco, per hoc quod necessario sum 
+      <lb ed="#P" n="26"/>in loco. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e572">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Ad secundum Aug. locum respondemus, non esse 
+      <lb ed="#P" n="28"/>sensum, quod beati habituri sint arbitrium liberum 
+      <lb ed="#P" n="29"/>ad non peccandum; quae phrasis significaret ipsum 
+      <lb ed="#P" n="30"/>etiam liberum esse ad peccandum, quod manifeste 
+      <lb ed="#P" n="31"/>falsum est. Sed significat iis verbis Augustinus, per 
+      <lb ed="#P" n="32"/>necessitatem non peccandi non auferri beatis 
+      libe<lb ed="#P" n="33" break="no"/>rum arbitrium, sed potius confirmari, magisque 
+      li<lb ed="#P" n="34" break="no"/>berum effici. Qui enim peccare non possunt, multo 
+      <lb ed="#P" n="35"/>sunt liberiores in electionem honorum, dum inter ea 
+      <lb ed="#P" n="36"/>sine errore &amp; periculo peccati eligunt quod volunt, 
+      <lb ed="#P" n="37"/>quam si peccare possent. Quod patet in Deo qui 
+      <lb ed="#P" n="38"/>peccare non potest, &amp; tamen ad eligendum 
+      opposi<lb ed="#P" n="39" break="no"/>ta liberrimam habet voluntatem. Ad hoc 
+      significan<lb ed="#P" n="40" break="no"/>dum subjungit Augustinus in Enchiridio haec 
+      ver<lb ed="#P" n="41" break="no"/>ba: Multo quippe liberius erit arbitrium, quod 
+      om<lb ed="#P" n="42" break="no"/>nino non poterit servire peccato. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e612">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Ad tertium respondetur, recte dicere Augustinum 
+      <lb ed="#P" n="44"/>voluntatem qua beati esse sic volumus, ut esse miseri 
+      <lb ed="#P" n="45"/>ne velle quidem possimus, non debere negari 
+      libe<lb ed="#P" n="46" break="no"/>ram esse; tum quia tametsi in appetenda beatitudine 
+      <lb ed="#P" n="47"/>libertatem non habeat contrarietatis, eo quod non 
+      <lb ed="#P" n="48"/>possit velle miseriam, habet tamen contradictionis 
+      <lb ed="#P" n="49"/>libertatem in hac vita. Potest enim actu non velle 
+      <lb ed="#P" n="50"/>beatitudinem &amp; ab actu cessare, tum quia 
+      volun<lb ed="#P" n="51" break="no"/>tas etiam beatorum, qui ne contradictionis quidem 
+      <lb ed="#P" n="52"/>habent libertatem in appetenda beatitudine; libera 
+      <lb ed="#P" n="53"/>tamen est in multis aliis cum beatitudine non 
+      neces<lb ed="#P" n="54" break="no"/>sariam habentibus connexionem, quae nimirum 
+      <lb ed="#P" n="55"/>agere potest &amp; non agere. Quod si contendas 
+      Aug<lb ed="#P" n="56" break="no"/>loqui non de voluntate potenti, sed de voluntate 
+      <lb ed="#P" n="57"/>actuali, quod fortasse verum est, tunc praeter id quod 
+      <lb ed="#P" n="58"/>priori loco jam dicimus, respo deri potest, 
+      Augu<lb ed="#P" n="59" break="no"/>stinum in ejusmodi voluntate actuali considerare 
+      li<lb ed="#P" n="60" break="no"/>bertatem quandam alterius generis; scilicet 
+      opposi<lb ed="#P" n="61" break="no"/>tam, violentiae seu coactioni, nec tamen inde 
+      con<lb ed="#P" n="62" break="no"/>sequens esse, quod in aliis actibus voluntatis non 
+      a<lb ed="#P" n="63" break="no"/>liam quae libero arbitrio propria sit, agnoscat 
+      liber<lb ed="#P" n="64" break="no"/>tatem. Satis enim illi fuisse, si ostenderet quandam 
+      <lb ed="#P" n="65"/>libertatem competere voluntati, etiam in eo 
+      volen<lb ed="#P" n="66" break="no"/>do quod non potest nolle, aut etiam non velle. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e669">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Ad quartum respondent quidam, Augustinum iis 
+      <lb ed="#P" n="68"/>verbis significare eum qui vult beatitudinem, etsi 
+      <lb ed="#P" n="69"/>constringatur necessitate quoad specificationem, 
+      <lb ed="#P" n="70"/>quia non potest velle miseriam; non ideo tamen 
+      pri<lb ed="#P" n="71" break="no"/>vari libero arbitrio, quia quoad exercitium potest 
+      <lb ed="#P" n="72"/>velle &amp; non velle beatitudinem, Deum quoque licet 
+      <lb ed="#P" n="73"/>justitiam velit ex necessitate quoad specificationem 
+      <lb ed="#P" n="74"/>quandam, eo quod non possit velle injustitiam, non 
+      <!--0462.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ideo tamen privari libero arbitrio quia potest &amp; 
+      <lb ed="#P" n="76"/>quoad exercitium quaedam justa facere &amp; non 
+      face<lb ed="#P" n="77" break="no"/>re; &amp; quoad specificationem ex multis justis unum 
+      <lb ed="#P" n="78"/>justum eligere prae altero. Verum haec responsio non 
+      <lb ed="#P" n="79"/>videtur explicare mentem Augustini. Non enim 
+      lo<lb ed="#P" n="80" break="no"/>quitur de operatione Dei, qua facit ea quae justa sunt, 
+      <lb ed="#P" n="81"/>sed de ipsa ejus justitia, qua scilicet ita in se justus est 
+      <lb ed="#P" n="82"/>ut peccare non possit. Potius ergo dicendum 
+      credi<lb ed="#P" n="83" break="no"/>derim id quod Pelagius dixerat, voluntatis arbitrio 
+      <lb ed="#P" n="84"/>privari quicquid naturali necessitate constringitur, 
+      <lb ed="#P" n="85"/>non tam reprehendi ab Augustino, quam in 
+      dubi<lb ed="#P" n="86" break="no"/>tationem quandam vocari. Dicit enim; Et hic 
+      non<lb ed="#P" n="87" break="no"/>nulla quaestio est. Ideo autem non immerito dicit de eo 
+      <lb ed="#P" n="88"/>nonnullam esse quaestionem, quia Pelagius non 
+      di<lb ed="#P" n="89" break="no"/>stinguebat inter voluntatem &amp; liberum arbitrium, 
+      <lb ed="#P" n="90"/>ut patet ex ejus verbis ibidem paulo superius 
+      reci<lb ed="#P" n="91" break="no"/>tatis. Itaque secundum Pelagium non erat voluntas 
+      <lb ed="#P" n="92"/>ubi erat naturalis necessitas. Hoc autem optime 
+      re<lb ed="#P" n="93" break="no"/>fellit Augustinus, dum probat interdum voluntatem 
+      <lb ed="#P" n="94"/>esse etiam in eo quod necessario habetur aut 
+      appeti<lb ed="#P" n="95" break="no"/>tur, qualis est justitia respectu Dei, &amp; beatitudo 
+      res<lb ed="#P" n="96" break="no"/>pectu nostri. Et hanc esse mentem Augustini 
+      proba<lb ed="#P" n="97" break="no"/>bile fit ex eo, quia cum Pelagius nominasset liberum 
+      <lb ed="#P" n="98"/>arbitrium, ipse tamen hoc vocabulo dissimulato 
+      tan<lb ed="#P" n="99" break="no"/>tummodo voluntatem nominavit, de qua sciret sua 
+      <lb ed="#P" n="100"/>verba nullam habitura dubitationem nec poterat 
+      <lb ed="#P" n="101"/>Pelagius hanc Augustini objectionem removere, 
+      ni<lb ed="#P" n="102" break="no"/>si voluntatem a libero arbitrio distingueret. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e756">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Ad quintum respondeo, Prosperum illud vocare 
+      <lb ed="#P" n="104"/>spontaneum, quod ita agit ut possit non agere; ut 
+      <lb ed="#P" n="105"/>pote nec violentia nec naturali necessitate 
+      constri<lb ed="#P" n="106" break="no"/>ctum ac determinatum in alteram partem. Unde 
+      <lb ed="#P" n="107"/>paulo post etiam de primo homine dicit, quod se 
+      <lb ed="#P" n="108"/>sponte bono privaverit; per hoc volens significare 
+      <lb ed="#P" n="109"/>ita eum peccasse, ut potuerit non peccare. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e776">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Ad sextum, <name xml:id="bt67yj-p088246-Nd1e782">Bernardus</name> loquitur non de naturali 
+      <lb ed="#P" n="111"/>seu absoluta necessitate, sed de necessitate quadam 
+      <lb ed="#P" n="112"/>improprie dicta, qua nimirum id necessario facere 
+      <lb ed="#P" n="113"/>quis dicitur, ad quod vehementer inclinatur, ita ut 
+      <lb ed="#P" n="114"/>ei difficillimum sit affectionem &amp; voluntatem ab eo 
+      <lb ed="#P" n="115"/>retrahere. Juxta quem etiam modum necessitate 
+      <lb ed="#P" n="116"/>quadam peccare dicuntur, qui sunt in longa 
+      con<lb ed="#P" n="117" break="no"/>suetudine peccandi; &amp; tamen illa necessitas magis 
+      <lb ed="#P" n="118"/>respicit peccatum in genere aut in specie, quam 
+      par<lb ed="#P" n="119" break="no"/>ticulares &amp; singulos actus peccandi. Nec vero de 
+      <lb ed="#P" n="120"/>alia necessitate Bernardum locutum esse satis ex 
+      eo<lb ed="#P" n="121" break="no"/>dem sermone liquet. Nam ibidem claris &amp; expressis 
+      <lb ed="#P" n="122"/>verbis liberum arbitrium, &amp; consequenter 
+      meri<lb ed="#P" n="123" break="no"/>tum tam in bono quam in malo, per hoc asserit, 
+      <lb ed="#P" n="124"/>quia faciunt homines bonum &amp; malum, quod eis 
+      <lb ed="#P" n="125"/>non facere liberum est. Idque probat authoritate 
+      <lb ed="#P" n="126"/>scripturae Ecclesiastici 31. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e820">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Ad septimum: Magister spontaneum accepit eo 
+      <lb ed="#P" n="128"/>modo quo Prosper. Quae quidem acceptio non est 
+      <lb ed="#P" n="129"/>omnino aliena a communi usu loquendi. Magis 
+      e<lb ed="#P" n="130" break="no"/>nim de hominibus qui possunt ea quae faciunt 
+      omit<lb ed="#P" n="131" break="no"/>tere, dicere solemus eos sponte aliquid facere, 
+      <lb ed="#P" n="132"/>quam de bestiis, in quarum potestate non est quod 
+      <lb ed="#P" n="133"/>agunt non agere. Idem Magister coactionem a 
+      ne<lb ed="#P" n="134" break="no"/>cessitate non videtur exacte distinxisse, ideóque 
+      ex<lb ed="#P" n="135" break="no"/>plicatione &amp; supplemento indigent ejus verba 
+      po<lb ed="#P" n="136" break="no"/>sita §. 1. Quod fieri potest hoc modo: A necessitate 
+      <lb ed="#P" n="137"/>&amp; ante peccatum &amp; post aeque liberum est 
+      arbi<lb ed="#P" n="138" break="no"/>trium. Sicut enim tunc cogi vel omnino necessitari 
+      <lb ed="#P" n="139"/>non poterat, ita nec modo, &amp;c. Aut certe 
+      coactio<lb ed="#P" n="140" break="no"/>nem posuit pro necessitate. Nec mirum, quia &amp; 
+      <lb ed="#P" n="141"/>Deus qui minus violentiae capax est, aliquando cogi 
+      <lb ed="#P" n="142"/>dicitur a sua bonitate, misericordia, justitia ad haec 
+      <lb ed="#P" n="143"/>aut illa facienda. Unde illud in hymno: Ipse te 
+      co<lb ed="#P" n="144" break="no"/>gat pietas, ut mala nostra superes, parcendo. Unde &amp; 
+      <lb ed="#P" n="145"/>dicit ad Moysen. Dimitte me ut irascatur furor meus. 
+      <lb ed="#P" n="146"/>Exod. 32. quasi qui invitus retineri possit, &amp; de 
+      Chri<lb ed="#P" n="147" break="no"/>sto Lucae 24. Et coegerunt illum, ubi tamen revera 
+      <lb ed="#P" n="148"/>nulla fuit volentia.
+    </p>
+            <p xml:id="bt67yj-p088246-d1e872">
+      <!--0463.xml-->
+               <pb ed="#P" n="230"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Ad octavum, S. Thomas primo loco videtur 
+      po<lb ed="#P" n="2" break="no"/>suisse coactionem pro necessitate naturali, 
+      quomo<lb ed="#P" n="3" break="no"/>do diximus Magistrum esse locutum. Secundo loco 
+      <lb ed="#P" n="4"/>generalius loquitur de libertate voluntatis, dum 
+      di<lb ed="#P" n="5" break="no"/>cit eam violentiae vel coactioni opponi, non autem 
+      <lb ed="#P" n="6"/>naturali necessitati. Dicit enim quod voluntas 
+      libe<lb ed="#P" n="7" break="no"/>re appetit felicitatem, licet necessario eam appetat, 
+      <lb ed="#P" n="8"/>&amp; quod Deus libere sua voluntate amat seipsum, 
+      <lb ed="#P" n="9"/>licet id faciat necessario, &amp; quod spiritus sanctus 
+      <lb ed="#P" n="10"/>libere procedit a patre, licet procedat ex necessitate; 
+      <lb ed="#P" n="11"/>non tamen dicit has esse actiones liberiarbitrii; 
+      vo<lb ed="#P" n="12" break="no"/>luntas ergo generali modo dicitur libera, quatenus 
+      <lb ed="#P" n="13"/>spontanea est &amp; non coacta. Voluntatis autem 
+      ar<lb ed="#P" n="14" break="no"/>bitrium liberum non dicitur, nisi quatenus potest 
+      <lb ed="#P" n="15"/>ad utrumlibet. Sciendum tamen hunc loquendi 
+      mo<lb ed="#P" n="16" break="no"/>dum de voluntate libera, non reperiri in iis, quae 
+      <lb ed="#P" n="17"/>postea scripsit, &amp; proinde a nobis non temere 
+      usur<lb ed="#P" n="18" break="no"/>pandum, praesertim cum ipse in summa 1. p. q. 41. 
+      <lb ed="#P" n="19"/>artic. 2. improbet eam locutionem, qua dicitur 
+      pa<lb ed="#P" n="20" break="no"/>ter filium genuisse voluntate; multo magis 
+      impro<lb ed="#P" n="21" break="no"/>baturus, si dicatur libera voluntate genuisse. Tertius 
+      <lb ed="#P" n="22"/>locus videtur intelligendus quomodo primus. 
+      Quar<lb ed="#P" n="23" break="no"/>to loco per se agere, est agere per electionem 
+      pro<lb ed="#P" n="24" break="no"/>priae voluntatis. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e934">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Ad nonum, Bonaventura q 2. docet liberum 
+      ar<lb ed="#P" n="26" break="no"/>bitrium dupliciter posse considerari, vel ut liberum 
+      <lb ed="#P" n="27"/>vel ut deliberans: Et quidem quatenus liberum est, 
+      <lb ed="#P" n="28"/>dicit esse posse respectu necessarii, sicut patet in Deo 
+      <lb ed="#P" n="29"/>&amp; beatis; quia licet in illis habeat necessitatem 
+      im<lb ed="#P" n="30" break="no"/>mutabilitatis, non tamen coactionis. Quatenus 
+      au<lb ed="#P" n="31" break="no"/>tem deliberans: Non est, inquit, nisi de contingenti, 
+      <lb ed="#P" n="32"/>quia nemo deliberat de necessario &amp; impossibili. Ex 
+      <lb ed="#P" n="33"/>qua distinctione satis apparet, quo sensu dixerit 
+      li<lb ed="#P" n="34" break="no"/>berum arbitrium quatenus liberum est, respicere 
+      <lb ed="#P" n="35"/>etiam necessaria, &amp; habere posse actum 
+      necessa<lb ed="#P" n="36" break="no"/>rium. Nam illud, quatenus liberum, non aliud est 
+      <lb ed="#P" n="37"/>quam quatenus voluntarium &amp; non coactum. 
+      Ita<lb ed="#P" n="38" break="no"/>que perinde est atque si dicatur, voluntatem 
+      quate<lb ed="#P" n="39" break="no"/>nus libera est a coactione, versari circa actiones 
+      <lb ed="#P" n="40"/>etiam necessarias. Illud vero, quatenus deliberans, 
+      <lb ed="#P" n="41"/>id est, ut ipse exponit, quatenus consilians utrum 
+      <lb ed="#P" n="42"/>eligat hoc an illud, intelligitur de libertate quae 
+      pro<lb ed="#P" n="43" break="no"/>pria est libero arbitrio ut tali. Igitur Bonaventura 
+      <lb ed="#P" n="44"/>non in re discrepat ab aliis, sed minus commode, &amp; 
+      <lb ed="#P" n="45"/>praeter communem consuetudinem locutus est. 
+    </p>
+            <p xml:id="bt67yj-p088246-d1e984">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Id quod etiam respondemus de Alfonso a Castro. 
+      <lb ed="#P" n="47"/>Nam is alioqui satis aperte eodem loco declarat se 
+      <lb ed="#P" n="48"/>coactionem intelligere, non aliam quam necessita 
+      <lb ed="#P" n="49"/>tem determinantem ad unum. Dicit enim hominem 
+      <lb ed="#P" n="50"/>per libertatem a coactione posse velle &amp; non velle, 
+      <lb ed="#P" n="51"/>facere &amp; non facere, &amp;c. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="124"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p047571"><!-- l2d14c3" -->
+            <head xml:id="bt67yj-p047571-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p047571-Hd1e103" type="question-title">Quare de 2. die non sit dictum: Vidit Deus, etc</head>
+            <p xml:id="bt67yj-p047571-d1e106">
+      <!--0357.xml-->
+               <pb ed="#P" n="124"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 3. Quare de 2. die non sit dictum: Vidit Deus, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p047571-d1e117">
+               <lb ed="#P" n="2"/>ET si apud 70. interpretes in descriptione operis 
+      <lb ed="#P" n="3"/>secundi diei proxime post illa verba: Et vocavit 
+      <lb ed="#P" n="4"/>Deus firmamentum caelum, legamus additum: Et 
+      vi<lb ed="#P" n="5" break="no"/>dit Deus quod esset bonum, eorumque versionem 
+      se<lb ed="#P" n="6" break="no"/>cuti Basilius hom. 3. Hexameron, Ambr. lib. 2. 
+      ejus<lb ed="#P" n="7" break="no"/>dem argumenti cap. 5. Chrysost. hom. 4. in Genesim, 
+      <lb ed="#P" n="8"/>Aug. l. 2. de Genesi ad literam cap. 1. eadem verba 
+      <lb ed="#P" n="9"/>legant: attamen sciendum est in Hebraeo ea non 
+      ha<lb ed="#P" n="10" break="no"/>beri, uti nec apud alios sacrarum literarum ex 
+      He<lb ed="#P" n="11" break="no"/>braeo fonte interpretes, Aquilam, Symmachum, 
+      Tho<lb ed="#P" n="12" break="no"/>dotionem, quemadmodum testatur Hieronymus 
+      par<lb ed="#P" n="13" break="no"/>tim libro 1. contra Jovinianum cap. 9. partim ex 
+      a<lb ed="#P" n="14" break="no"/>pologia ejusdem operis ad Pammachium cap. 8. 
+      Un<lb ed="#P" n="15" break="no"/>de nec ipse ea verba nobis in sua versione reddidit. 
+    </p>
+            <p xml:id="bt67yj-p047571-d1e150">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Quaeritur ergo, cum in caeteris diebus describendis 
+      <lb ed="#P" n="17"/>addita sint haec verba; cur hoc solo die fuerint a 
+      Moy<lb ed="#P" n="18" break="no"/>se praetermissa? Ad hoc a variis varie respondetur. 
+    </p>
+            <p xml:id="bt67yj-p047571-d1e162">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Prima est responsio Hieronymi, qui utroque loco 
+      <lb ed="#P" n="20"/>jam allegato rationem hanc adfert proposito ac 
+      dis<lb ed="#P" n="21" break="no"/>putationi suae congruentem; ideo de secundo die id 
+      <lb ed="#P" n="22"/>scriptum non esse, quod binarius numerus non 
+      bo<lb ed="#P" n="23" break="no"/>nam habeat significationem, cum sit primus 
+      nume<lb ed="#P" n="24" break="no"/>rus ab unitate dividens. Eandem rationem tametsi 
+      <lb ed="#P" n="25"/>dubitanter, adducit in textu Magister: Ideo fortasse, 
+      <lb ed="#P" n="26"/>inquit, non est dictum, quia binarius principium 
+      alte<lb ed="#P" n="27" break="no"/>ritatis est &amp; signum divisionis. Sed haec non magni 
+      <lb ed="#P" n="28"/>momenti ratio est, cum alibi saepe idem hic numerus 
+      <lb ed="#P" n="29"/>ad boni cujuspiam significationem adhibeatur, velut 
+      <lb ed="#P" n="30"/>amicitiae, concordiae, geminae charitatis. Unde duae 
+      <lb ed="#P" n="31"/>tabulae decalogi, gemelli foetus ovium in canticis, &amp; 
+      <lb ed="#P" n="32"/>apostoli bini ad praedicandum a Christo missi. 
+    </p>
+            <p xml:id="bt67yj-p047571-d1e197">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Secunda responsio est glossae ordinariae Lyrani &amp; 
+      <lb ed="#P" n="34"/>Rabbi Salomonis; propterea in secundae diei 
+      descri<lb ed="#P" n="35" break="no"/>ptione nihil tale additum esse, quod eo die inchoata 
+      <lb ed="#P" n="36"/>quidem, sed nondum perfecta fuerit aquarum 
+      sepa<lb ed="#P" n="37" break="no"/>ratio. Nam secundo die separatae sunt aquae ab aquis, 
+      <lb ed="#P" n="38"/>tertio die separatae sunt etiam a terra atque seorsim 
+      <lb ed="#P" n="39"/>in unum collectae. Tunc itaque opere separationis 
+      <lb ed="#P" n="40"/>aquarum jam absoluto &amp; consummato existimant 
+      <lb ed="#P" n="41"/>oportunum fuisse, ut diceretur: Vidit Deus quod 
+      <lb ed="#P" n="42"/>esset bonum. Sed neque haec ratio magnum pondus 
+      <lb ed="#P" n="43"/>habet. Nam si Deo visum fuit has duas separationes 
+      <lb ed="#P" n="44"/>in duos dies distinguere, quid ni ad unamquamque 
+      <lb ed="#P" n="45"/>diceretur; Vidit Deus quod esset bonum. Quin &amp; lux 
+      <lb ed="#P" n="46"/>primo die inchoata quarto demum die perfectionem 
+      <lb ed="#P" n="47"/>accepit; &amp; tamen etiam primo die dictum est: Vidit 
+      <lb ed="#P" n="48"/>Deus lucem quod esset bona 
+    </p>
+            <p xml:id="bt67yj-p047571-d1e236">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Est igitur tertia responsio, quae quibusdam doctis 
+      <lb ed="#P" n="50"/>prae caeteris placet. Quod enim in descriptione terrae 
+      <lb ed="#P" n="51"/>diei dicitur: Vidit Deus quod esset bonum, referunt ad 
+      <lb ed="#P" n="52"/>omnia tria commemorata divisionis seu separationis 
+      <lb ed="#P" n="53"/>opera, nempe lucis a tenebris, quae primo die, 
+      aqua<lb ed="#P" n="54" break="no"/>rum ab aquis quae secundo die, &amp; aquarum a terra 
+      <lb ed="#P" n="55"/>quae tertio die facta est, neque enim de prima neque 
+      <lb ed="#P" n="56"/>de secunda divisione dictum erat: Vidit Deus, &amp;c. 
+      <lb ed="#P" n="57"/>sed ante primam divisionem de sola luce id dictum 
+      <lb ed="#P" n="58"/>legitur. Unde tres istas divisiones tribus diebus 
+      fa<lb ed="#P" n="59" break="no"/>ctas Moysen unica approbationis clausula 
+      commen<lb ed="#P" n="60" break="no"/>dare voluisse arbitrantur. Verum &amp; in hac ratione 
+      <lb ed="#P" n="61"/>plus subtilitatis, quam soliditatis inesse videtur. Nam 
+      <lb ed="#P" n="62"/>hoc pacto dicta clausula non ad opus unius diei 
+      pro<lb ed="#P" n="63" break="no"/>xime descriptum ut in caeteris omnibus diebus, sed 
+      <lb ed="#P" n="64"/>ad trium dierum opera referetur. Nec vero opus erat 
+      <lb ed="#P" n="65"/>ut divisionilucis a tenebris haec commendatio 
+      boni<lb ed="#P" n="66" break="no"/>tatis peculiariter ascriberetur. Non enim post lucis 
+      <lb ed="#P" n="67"/>creationem facta est lucis a tenebris divisio, tanquam 
+      <lb ed="#P" n="68"/>opus aliquod novum ac diversum, sicut accidit in 
+      <lb ed="#P" n="69"/>aquarum ab aquis, vel terris divisione, quae procul 
+      <lb ed="#P" n="70"/>dubio secuta est aquarum creationem; sed ipsa lucis 
+      <lb ed="#P" n="71"/>creatio divisionem sui a tenebris secum attulit. Unde 
+      <lb ed="#P" n="72"/>satis erat de luce dictum esse: Vidit Deus, &amp;c. 
+      <!--0357.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Quarta responsio est eorum qui aquarum in unum 
+      <lb ed="#P" n="74"/>locum congregationem cujus descriptio continue 
+      se<lb ed="#P" n="75" break="no"/>quitur, operi secundae diei adjungunt; quodque post 
+      <lb ed="#P" n="76"/>eam descriptionem additur: Et vidit Deus quod esset 
+      <lb ed="#P" n="77"/>bonum; ad totum opus ejusdem diei referendum 
+      di<lb ed="#P" n="78" break="no"/>cunt; &amp; proinde quod habet scriptura. Dixit vero 
+      <lb ed="#P" n="79"/>Deus: Congregentur aquae, &amp;c. cum verbis 
+      praeceden<lb ed="#P" n="80" break="no"/>tibus: Factum est vespere &amp; mane dies secundus, ita 
+      <lb ed="#P" n="81"/>connectunt: Factus est dies secundus; quo eodem 
+      <lb ed="#P" n="82"/>die dixit praeterea Deus: Congregentur aquae, &amp;c. 
+      <lb ed="#P" n="83"/>Porro descriptionem operis tertiae diei inchoari 
+      di<lb ed="#P" n="84" break="no"/>cunt ab eo loco. Et ait: Germinet terra herbam 
+      vi<lb ed="#P" n="85" break="no"/>rentem, &amp;c. Haec expositio non caret probabilitate, 
+      <lb ed="#P" n="86"/>videturque caeteris anteponenda.
+    </p>
+            <p xml:id="bt67yj-p047571-d1e327">
+               <lb ed="#P" n="87"/>Primum, quia congregatio aquarum in unum 
+      lo<lb ed="#P" n="88" break="no"/>cum, quaedam fuit continuatio &amp; consummatio ejus 
+      <lb ed="#P" n="89"/>operis cujus descriptio praecedebat, nempe 
+      divisio<lb ed="#P" n="90" break="no"/>nis aquarum ab aquis. Nam credibile est uno 
+      conti<lb ed="#P" n="91" break="no"/>nuo motu locali consequente condensationem 
+      aqua<lb ed="#P" n="92" break="no"/>rum inferiorum totum hoc factum fuisse, ut &amp; 
+      sepa<lb ed="#P" n="93" break="no"/>rarentur a superioribus, &amp; loca decliviora petendo 
+      <lb ed="#P" n="94"/>superficiem terrae relinquerent, &amp; maria 
+      constitue<lb ed="#P" n="95" break="no"/>rent. Quare non erat hujusmodi separatio 
+      dividen<lb ed="#P" n="96" break="no"/>da in duos dies. 
+    </p>
+            <p xml:id="bt67yj-p047571-d1e351">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Deinde quia fatendum alioqui esset tertio die bis 
+      <lb ed="#P" n="98"/>fuisse dictum: Vidit Deus quod esset bonum. Nam 
+      <lb ed="#P" n="99"/>illud adhuc sequitur post ejusdem diei 
+      descriptio<lb ed="#P" n="100" break="no"/>nem, ut in aliis diebus: At nulla causa apparet cur 
+      <lb ed="#P" n="101"/>tertio die bis diceretur, quod caeteris omnibus 
+      die<lb ed="#P" n="102" break="no"/>bus tantum semel dictum legitur. Nam si id referas 
+      <lb ed="#P" n="103"/>ad mysterium trinitatis propter tertium diem; 
+      ma<lb ed="#P" n="104" break="no"/>gis ergo conveniebat ter dici. 
+    </p>
+            <p xml:id="bt67yj-p047571-d1e373">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Postremo quia juxta hanc expositionem non 
+      la<lb ed="#P" n="106" break="no"/>borabimus in quaerenda ratione, cur secundo die non 
+      <lb ed="#P" n="107"/>fuerit dictum: Vidit Deus, &amp;c. quam certe 
+      ratio<lb ed="#P" n="108" break="no"/>nem quae quaerentis animo satisfaciat, difficillimum 
+      <lb ed="#P" n="109"/>est invenire. Sed juxta eam ostenditur revera dictum 
+      <lb ed="#P" n="110"/>esse, quod cur non sit dictum, ex falsa hypothesi 
+      <lb ed="#P" n="111"/>quaerebatur. 
+    </p>
+            <p xml:id="bt67yj-p047571-d1e394">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Non obstat autem quod objicere quis posset ex 4. 
+      <lb ed="#P" n="113"/>Esdrae 6. ubi tertio die diserte ascribitur 
+      congrega<lb ed="#P" n="114" break="no"/>tio aquarum in unum locum. Constat enim eum 
+      li<lb ed="#P" n="115" break="no"/>brum apocryphum esse, &amp; alia multa habere quae 
+      <lb ed="#P" n="116"/>nullius apud Catholicos sint authoritatis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

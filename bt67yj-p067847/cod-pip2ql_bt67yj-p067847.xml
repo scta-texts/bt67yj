@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="176"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p067847"><!-- l2d20c2" -->
+            <head xml:id="bt67yj-p067847-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p067847-Hd1e103" type="question-title">Utrum salva virginitate fieret in primo 
+      statu generatio</head>
+            <p xml:id="bt67yj-p067847-d1e106">
+      <!--0409.xml-->
+               <pb ed="#P" n="176"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 2. Utrum salva virginitate fieret in primo 
+      <lb ed="#P" n="2"/>statu generatio?
+    </p>
+            <p xml:id="bt67yj-p067847-d1e119">
+               <lb ed="#P" n="3"/>PLUS difficultatis habet argumentum quo 
+      supe<lb ed="#P" n="4" break="no"/>rior oppugnatur doctrina, ex eo quod neque 
+      <lb ed="#P" n="5"/>mulier a viro cognosci possit, neque foetum 
+      con<lb ed="#P" n="6" break="no"/>ceptum patere sine corruptione carnis, qua 
+      integri<lb ed="#P" n="7" break="no"/>tas illa corporis, quam virginitatem vocamus, 
+      amit<lb ed="#P" n="8" break="no"/>titur. 
+    </p>
+            <p xml:id="bt67yj-p067847-d1e135">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Quidam existimant nihil esse absurdi si dicatur, per 
+      <lb ed="#P" n="10"/>actum conjugalem in illo statu futurum fuisse ut 
+      in<lb ed="#P" n="11" break="no"/>tegritas foeminei corporis violaretur, sicque 
+      virgini<lb ed="#P" n="12" break="no"/>tas, quatenus significat integritatem corporis 
+      amit<lb ed="#P" n="13" break="no"/>teretur. Ita sentiunt S. Thomas in hanc distinction. 
+      <lb ed="#P" n="14"/>quaest. 1. art. 2. ad 1. &amp; in 4. distinct. 49. quaest. 5. 
+      <lb ed="#P" n="15"/>art. 3. quaest. 1. ad 3. <name xml:id="bt67yj-p067847-Nd1e154">Bonaventura</name> in eandem hanc 
+      <lb ed="#P" n="16"/>distinctionem quaest. 4. <name xml:id="bt67yj-p067847-Nd1e158">Altisiodorensis</name> lib. 2. suae 
+      <lb ed="#P" n="17"/>summaetractatu 10. cap. 2. quaest. 4. &amp; nonnulli alii. 
+      <lb ed="#P" n="18"/>Cui sententiae favere etiam videtur <name xml:id="bt67yj-p067847-Nd1e165">Epiphanius</name> 
+      hae<lb ed="#P" n="19" break="no"/>resi 78. quae est contra <name xml:id="bt67yj-p067847-Nd1e169">Antidicomarianitas</name>, ubi 
+      di<lb ed="#P" n="20" break="no"/>cit Evam cum adhuc esset virgo, transgressam fuisse 
+      <lb ed="#P" n="21"/>Deo mandatum, volens significare quod nondum 
+      <lb ed="#P" n="22"/>fuerat cognita viro quando peccavit. Quare 
+      secun<lb ed="#P" n="23" break="no"/>dum eum, si cognita viro fuisset ante peccatum, 
+      <lb ed="#P" n="24"/>virgo non esset. 
+    </p>
+            <p xml:id="bt67yj-p067847-d1e184">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Sed huic sententiae vehementer resistit ratio primi 
+      <lb ed="#P" n="26"/>illius status. Si enim ibi futura erat in corpore 
+      mu<lb ed="#P" n="27" break="no"/>liebri per concubitum vel partum violatio 
+      integrita<lb ed="#P" n="28" break="no"/>tis &amp; amissio virginitatis; ergo consequenter ibi 
+      fu<lb ed="#P" n="29" break="no"/>tura erat corruptio &amp; corruptiva passio &amp; dolor, 
+      <lb ed="#P" n="30"/>quia partium corporis violenta destructio fieri non 
+      <lb ed="#P" n="31"/>potest naturaliter sine dolore. At certum est 
+      dolo<lb ed="#P" n="32" break="no"/>rem ibi futurum non fuisse, quia ad maledictionem 
+      <lb ed="#P" n="33"/>&amp; poenam peccati pertinet illud: In dolore paries 
+      <lb ed="#P" n="34"/>filios; ergo nec corruptio, nec fractio, nec violenta 
+      <lb ed="#P" n="35"/>partium corporis distractio ibi futura erat. Adde 
+      <lb ed="#P" n="36"/>quod haec omnia sunt mala poenae; &amp; proinde ab ille 
+      <lb ed="#P" n="37"/>integritatis statu prorsus removenda 
+    </p>
+            <p xml:id="bt67yj-p067847-d1e217">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Quod autem respondent quidam ideo dolorem 
+      nul<lb ed="#P" n="39" break="no"/>lum in partu futurum fuisse, quia Deus poenam illam 
+      <lb ed="#P" n="40"/>miraculose a partu prohibuisset, non recte dicitur, 
+      <lb ed="#P" n="41"/>Non enim in illo statu opus erat miraculis. Hoc 
+      au<lb ed="#P" n="42" break="no"/>tem pacto miracula fuissent quot idiana, utpote 
+      sin<lb ed="#P" n="43" break="no"/>gulis mulicrum partubus adhibenda. 
+    </p>
+            <p xml:id="bt67yj-p067847-d1e235">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Rectius igitur Augustinus libro decimoquarto de 
+      <lb ed="#P" n="45"/>Civitate Dei, capite 26. docet in illo statu sic 
+      futu<lb ed="#P" n="46" break="no"/>rum fuisse concubitum, ut nulla corruptione 
+      inte<lb ed="#P" n="47" break="no"/>gritatis infunderetur gremio maritus uxoris. Ita 
+      <lb ed="#P" n="48"/>namque tunc potuisse utero conjugis salva 
+      integri<lb ed="#P" n="49" break="no"/>tate foeminei genitalis virile semen immitti, sicut 
+      <lb ed="#P" n="50"/>nunc potest eadem integritate salva ex utero 
+      vir<lb ed="#P" n="51" break="no"/>ginis fluxus menstrui cruoris emitti, eadem quippe 
+      <lb ed="#P" n="52"/>via posse illud injici qua hoc potest ejici. Ad 
+      parien<lb ed="#P" n="53" break="no"/>dum vero, inquit, non doloris gemitus, sed 
+      maturi<lb ed="#P" n="54" break="no"/>tatis impulsus foeminea viscera relaxaret. Ubi 
+      notan<lb ed="#P" n="55" break="no"/>dum sanctum Augustinum non ponere miraculum 
+      <lb ed="#P" n="56"/>in conceptu vel partu mulieris, quem futurum dicit 
+      <lb ed="#P" n="57"/>in statu innocentiae salva virginitate; sed significare 
+      <lb ed="#P" n="58"/>quod ibi futura erat naturalis viscerum muliebrium 
+      <lb ed="#P" n="59"/>apertio &amp; relaxatio; quae proinde neque corruptio 
+      <lb ed="#P" n="60"/>seu violatio dici debeat, neque dolorem allatura 
+      <lb ed="#P" n="61"/>esset, nihilo magis quam naturalis apertio oris aut 
+      <lb ed="#P" n="62"/>cujuscumque alterius membri quod naturaliter &amp; 
+      <lb ed="#P" n="63"/>contrahi potest &amp; laxari. Hoc autem quia desiit in 
+      <lb ed="#P" n="64"/>corpore muliebri post peccatum, idque in poenam 
+      <lb ed="#P" n="65"/>peccati; fit ut nunc neque cognosci possit mulier a 
+      <lb ed="#P" n="66"/>viro sine effractione quadam claustri virginalis, 
+      ne<lb ed="#P" n="67" break="no"/>que parere sine violentia viscerum per quae foetus 
+      <lb ed="#P" n="68"/>erumpit, divulsione gravissimum dolorem 
+      adferen<lb ed="#P" n="69" break="no"/>te. Hanc suam sententiam sanctus Augustinus 
+      re<lb ed="#P" n="70" break="no"/>petit libro de peccato originis cap. 35. Eidem 
+      sub<lb ed="#P" n="71" break="no"/>scribit Haimo in sermone de vigilia Nativitatis 
+      <!--0409.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Domini, diserte affirmans quod in statu innocentiae 
+      <lb ed="#P" n="73"/>sine virginitatis detrimento fuisset humani generis 
+      <lb ed="#P" n="74"/>multiplicatio. Magister quoque §. A. dicit quod 
+      <lb ed="#P" n="75"/>homines in paradiso filios genuissent sine 
+      corru<lb ed="#P" n="76" break="no"/>ptione. 
+    </p>
+            <p xml:id="bt67yj-p067847-d1e315">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> In eandem sententiam S. Thomas rejecta priori 
+      <lb ed="#P" n="78"/>opinione inductus est. Nam in 1. quaest. 98. art. 2. 
+      <lb ed="#P" n="79"/>cum postremo loco movisset argumentum de 
+      cor<lb ed="#P" n="80" break="no"/>ruptione, sine qua non est congressus viri &amp; 
+      foemi<lb ed="#P" n="81" break="no"/>nae; respondet ipsius S. Augustini verbis quae supra 
+      <lb ed="#P" n="82"/>posuimus. In quibus etiam notandum, pro eo quod 
+      <lb ed="#P" n="83"/>dicitur, maturitatis impulsus eum legere, naturalis 
+      <lb ed="#P" n="84"/>impulsus. Consentit &amp; Durandus in hanc 
+      distin<lb ed="#P" n="85" break="no"/>ctionem scribens, sed eatenus tantum ut ab illo statu 
+      <lb ed="#P" n="86"/>removeat divisionem seu laesionem, qua solveretur 
+      <lb ed="#P" n="87"/>integritas carnis, ponat autem cum sancto 
+      Augusti<lb ed="#P" n="88" break="no"/>no laxationem seu dilatationem violentiae expertem, 
+      <lb ed="#P" n="89"/>cum qua nimirum consistat integritas; licet 
+      hujus<lb ed="#P" n="90" break="no"/>modi integritatem non putet sufficere ad virginitatis 
+      <lb ed="#P" n="91"/>rationem, ut qui nomine virginitatis existimet 
+      signi<lb ed="#P" n="92" break="no"/>ficari privationem actus generationis. Quod si verum 
+      <lb ed="#P" n="93"/>esset, sequeretur nec Deum posse efficere, ut per 
+      <lb ed="#P" n="94"/>actum generationis virginitas non amittatur, quia 
+      <lb ed="#P" n="95"/>hoc implicaret contradictionem. 
+    </p>
+            <p xml:id="bt67yj-p067847-d1e361">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Porro ex Augustini sententia consequens est 
+      bea<lb ed="#P" n="97" break="no"/>tam Virginem Deiparam, etiamsi, quod quidam 
+      <lb ed="#P" n="98"/>opinati sunt, non peperisset utero clauso cum 
+      mi<lb ed="#P" n="99" break="no"/>raculo penetrationis dimensionum, quomodo 
+      <lb ed="#P" n="100"/>Christus ad discipulos intravit januis clausis; 
+      ad<lb ed="#P" n="101" break="no"/>huc tamen in partu virginem permansuram fuisse, 
+      <lb ed="#P" n="102"/>sicut sine tali miraculo mulieres permansissent in 
+      <lb ed="#P" n="103"/>partu virgines tempore innocentiae; dummodo 
+      <lb ed="#P" n="104"/>nulla ponatur integritatis violatio, sed tantum vel 
+      <lb ed="#P" n="105"/>miraculosa, ut in B. Virgine; vel naturalis, ut in 
+      <lb ed="#P" n="106"/>primo statu, secreti virginalis apertio. Quanquam 
+      <lb ed="#P" n="107"/>sine dubio multo majus miraculum est, utero clauso 
+      <lb ed="#P" n="108"/>peperisse. 
+    </p>
+            <p xml:id="bt67yj-p067847-d1e394">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Ad verba Epiphanii responderi potest, quod sic 
+      <lb ed="#P" n="110"/>loquatur secutus morem quo nunc in hoc statu 
+      cor<lb ed="#P" n="111" break="no"/>ruptionis &amp; peccati loquimur, eo quod nunc 
+      mulie<lb ed="#P" n="112" break="no"/>res a viris cognitae non sunt virgines. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

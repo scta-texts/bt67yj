@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="112"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p043017"><!-- l2d11c6" -->
+            <head xml:id="bt67yj-p043017-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p043017-Hd1e103" type="question-title">Utrum angeli in merito et praemio proficiant</head>
+            <p xml:id="bt67yj-p043017-d1e106">
+               <lb ed="#P" n="30"/>§. 6. Utrum angeli in merito &amp; praemio 
+      <lb ed="#P" n="31"/>proficiant? 
+    </p>
+            <p xml:id="bt67yj-p043017-d1e113">
+               <lb ed="#P" n="32"/>OStensum est ad dist. 5. angelos per officia, quae 
+      <lb ed="#P" n="33"/>circa nos exercent, non mereri beatitudinem 
+      <lb ed="#P" n="34"/>jam olim acceptam, ut opinatus est Magister, sed 
+      <lb ed="#P" n="35"/>eam accepisse merito perseverantiae praecedentis. 
+      <lb ed="#P" n="36"/>Non dissimilis illi est opinio, quam hac dist. idem 
+      <lb ed="#P" n="37"/>Magister ut probabiliorem amplectitur, scilicet 
+      an<lb ed="#P" n="38" break="no"/>gelos usque ad diem judicii in merito simul &amp; 
+      prae<lb ed="#P" n="39" break="no"/>mio proficere, ac praemium illud ipsum 
+      interpre<lb ed="#P" n="40" break="no"/>tatur cognitionem &amp; dilectionem Dei. Unde 
+      con<lb ed="#P" n="41" break="no"/>sequens foret non accidentalem modo, sed &amp; essen 
+      <lb ed="#P" n="42"/>tialem beatitudinem in eis augeri. Quam 
+      senten<lb ed="#P" n="43" break="no"/>tiam revera absurdam &amp; improbandam, meritoque 
+      <lb ed="#P" n="44"/>inter errores selectos annotatam, non aliter probat 
+      <lb ed="#P" n="45"/>quam quia angeli in quorumdam mysteriorum 
+      cog<lb ed="#P" n="46" break="no"/>nitione proficiunt, sicut jam ante ostendimus. 
+      Ve<lb ed="#P" n="47" break="no"/>rum inde nullo modo consequens est eorum 
+      felici<lb ed="#P" n="48" break="no"/>tatem, quae in perfecta Deicognitione consistit, 
+      au<lb ed="#P" n="49" break="no"/>geri. Nam huic cognitioni nullus accedit 
+      perfectio<lb ed="#P" n="50" break="no"/>nis gradus per hoc quod alia quaedam mysteria 
+      sub<lb ed="#P" n="51" break="no"/>inde discunt, aut in eorum cognitione proficiunt, 
+      <lb ed="#P" n="52"/>sicut nec decederet quicquam, si de mysteriis 
+      hu<lb ed="#P" n="53" break="no"/>manae redemptionis vel minus aliquid vel nihil 
+      <lb ed="#P" n="54"/>prosus cognoscerent. Haec enim cognitio tantum 
+      <lb ed="#P" n="55"/>est operum Dei, non ipsius Dei secundum 
+      essen<lb ed="#P" n="56" break="no"/>tiam. 
+    </p>
+            <p xml:id="bt67yj-p043017-d1e170">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Dicendum igitur angelos post confirmationem nec 
+      <lb ed="#P" n="58"/>in merito nec in essentiali praemio proficere. 
+    </p>
+            <p xml:id="bt67yj-p043017-d1e180">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Primum quia per confirmationem terminum suum 
+      <lb ed="#P" n="60"/>consecuti sunt, post quem nullus est locus merendi, 
+      <lb ed="#P" n="61"/>cum mereri sit eorum tantum qui adhuc in via positi! 
+      <lb ed="#P" n="62"/>ad terminum tendunt. 
+    </p>
+            <p xml:id="bt67yj-p043017-d1e193">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Deinde si angeli suis erga nos officiis augmentum 
+      <lb ed="#P" n="64"/>suae beatitudinis merentur, consequens erit etiam 
+      <lb ed="#P" n="65"/>hominibus sanctis post mortem merita accrescere. 
+      <lb ed="#P" n="66"/>Nam &amp; ipsorum animae sua intercessione atque 
+      <lb ed="#P" n="67"/>aliis interdum officiis nostram salutem promovent. 
+      <lb ed="#P" n="68"/>Quod autem animabus beatis crescat vel meritum 
+      <lb ed="#P" n="69"/>vel praemium, nec ipse Magister sentit, &amp; ad versatur 
+      <lb ed="#P" n="70"/>hoc scripturae dicenti Eccles. 11. Lignum in 
+      quocum<lb ed="#P" n="71" break="no"/>que loco ceciderit, ibi erit. Et Joan. 9. Venit nox quan¬ 
+      <!--0345.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>do nemo potest operari. Quare nec in angelis 
+      confir<lb ed="#P" n="73" break="no"/>matis agnoscendum est ullum meritum, cum illis 
+      <lb ed="#P" n="74"/>hoc sit confirmatio quod hominibus mors. 
+    </p>
+            <p xml:id="bt67yj-p043017-d1e228">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Praeterea si multiplicatis bonis operibus 
+      conse<lb ed="#P" n="76" break="no"/>quenter necesse foret multiplicari merita, 
+      sequere<lb ed="#P" n="77" break="no"/>tur eadem ratione angelos nunquam merendi 
+      fi<lb ed="#P" n="78" break="no"/>nem facere, ne quidem ad extremum judicii diem, 
+      <lb ed="#P" n="79"/>quia nunquam in aeternum cessabunt a laude Dei 
+      <lb ed="#P" n="80"/>ejusdemque &amp; omnium beatorum dilectione, qua 
+      <lb ed="#P" n="81"/>sunt actiones sine dubio bonae. Meritorias tamen 
+      es<lb ed="#P" n="82" break="no"/>se nemo dixerit. Neque enim omne bonum opus 
+      <lb ed="#P" n="83"/>meriti rationem habet, sed illud demum quod 
+      pro<lb ed="#P" n="84" break="no"/>cedit ex charitate viae, non quod ex charitate 
+      pa<lb ed="#P" n="85" break="no"/>triae, cujusmodi sunt opera beatorum, sive ante 
+      ju<lb ed="#P" n="86" break="no"/>dicii diem, sive post ab eis fiant. Qui quidem hac in 
+      <lb ed="#P" n="87"/>parte Deo similes sunt. Sicut enim Deus cum sit 
+      bea<lb ed="#P" n="88" break="no"/>tissimus, non ideo beneficia confert in homines, ut 
+      <lb ed="#P" n="89"/>sibi aliqua felicitatis portio accedat, sed ut 
+      homini<lb ed="#P" n="90" break="no"/>bus bene sit; ita beati tam angeli quam homines 
+      <lb ed="#P" n="91"/>suis nos officiis adjuvant; non quo ipsis aliquid 
+      fe<lb ed="#P" n="92" break="no"/>licitatis accrescat, sed ut nos suae felicitatis habeant 
+      <lb ed="#P" n="93"/>consortes. 
+    </p>
+            <p xml:id="bt67yj-p043017-d1e274">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> At dicet aliquis: Angeli proficiunt in praemio 
+      ac<lb ed="#P" n="95" break="no"/>cidentali; ergo &amp; in merito. Respondetur id non 
+      <lb ed="#P" n="96"/>magis in angelis esse consequens, quam in animabus 
+      <lb ed="#P" n="97"/>beatis. Etenim tam angeli ante confirmationem, 
+      <lb ed="#P" n="98"/>quam homines ante mortem sibi comparaverunt 
+      <lb ed="#P" n="99"/>omne meritum non modo praemii essentialis, sed 
+      <lb ed="#P" n="100"/>etiam accessorii, quod postea quacumque occasione 
+      <lb ed="#P" n="101"/>percipiunt. Quod &amp; in damnatis similiter se habet, 
+      <lb ed="#P" n="102"/>quibus crescit quotidie supplicium accidentale, non 
+      <lb ed="#P" n="103"/>ex novo aliquo merito operum praesentium, tametsi 
+      <lb ed="#P" n="104"/>ea omnia mala sint atque perversa; sed ex merito 
+      <lb ed="#P" n="105"/>operum quae ipsorum damnationem praecesserunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

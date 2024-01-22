@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="NaN"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p153631"><!-- l2d44c2" -->
+            <head xml:id="bt67yj-p153631-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p153631-Hd1e103" type="question-title">An liceat aliquando resi stere potestati</head>
+            <p xml:id="bt67yj-p153631-d1e106">
+               <lb ed="#P" n="31"/>§. 2. An liceat aliquando resi stere potestati.
+    </p>
+            <p xml:id="bt67yj-p153631-d1e111">
+               <lb ed="#P" n="32"/>CIrca posteriorem quaestionem hujus dist. qua 
+      <lb ed="#P" n="33"/>quaerntur, an aliquando resistendum sit 
+      potesta<lb ed="#P" n="34" break="no"/>ti, notandum inprimis est, potestatis nomine non 
+      <lb ed="#P" n="35"/>intelligi quamcumque potentiam aut vim agendi. 
+      <lb ed="#P" n="36"/>Ita enim omnis resistentia, etiam ea qua diabolo 
+      <lb ed="#P" n="37"/>tentanti, &amp; latroni periequenti resistitur, est 
+      adver<lb ed="#P" n="38" break="no"/>sus aliquam potestatem; sed eam tantum 
+      potesta<lb ed="#P" n="39" break="no"/>tem, quam docendi gratia superioritatem vocant, 
+      <lb ed="#P" n="40"/>id est, quam quis tanquam superior habet in alios 
+      <lb ed="#P" n="41"/>ut subjectos; cujusmodi est potestas regis vel 
+      ma<lb ed="#P" n="42" break="no"/>gistratus, vel cujuscumque praefecti in subditos. De 
+      <lb ed="#P" n="43"/>qua potestate proprie accipiendum illud Rom. 13. 
+      <lb ed="#P" n="44"/>Non est potestas nisi a Deo. 
+    </p>
+            <p xml:id="bt67yj-p153631-d1e142">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Deinde supponendum est secundum sanam &amp; 
+      Ca<lb ed="#P" n="46" break="no"/>tholicam doctrinam quod omni tali potestati 
+      de<lb ed="#P" n="47" break="no"/>beatur a subditis obedientia, quemadmodum 
+      eo<lb ed="#P" n="48" break="no"/>dem loco apostolus, &amp; pluribus aliis locis scriptura 
+      <lb ed="#P" n="49"/>nos docet. Quam doctrinam non tantum ad bonos 
+      <lb ed="#P" n="50"/>&amp; Christianos, sed etiam ad malos &amp; infideles 
+      <lb ed="#P" n="51"/>principes, quales primis illis Ecclesiae temporibus 
+      <lb ed="#P" n="52"/>fuerunt, eadem scriptura extendit. 
+    </p>
+            <p xml:id="bt67yj-p153631-d1e165">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Deinde notandum, in proposita quaestione 
+      pote<lb ed="#P" n="54" break="no"/>statem concretive sumi pro iis in quibus potestas 
+      <lb ed="#P" n="55"/>residet. Nam si abstractive sumatur certum est 
+      <lb ed="#P" n="56"/>nunquam ei resistendum esse, cum ipsa secundum 
+      <lb ed="#P" n="57"/>se non possit esse nisi legitima, &amp; ut apost. 
+      testa<lb ed="#P" n="58" break="no"/>tur, a Deo ordinata Unde de hac universaliter 
+      ve<lb ed="#P" n="59" break="no"/>rum est, quod idem apost. ait: Qui resistit 
+      potesta<lb ed="#P" n="60" break="no"/>ti, Dei ordinationi resistit. 
+    </p>
+            <p xml:id="bt67yj-p153631-d1e187">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Quaestio igitur hunc sensum habet, an subditi 
+      pos<lb ed="#P" n="62" break="no"/>sint vel debeant aliquando resistere superioribus; 
+      id<lb ed="#P" n="63" break="no"/>que vel simpliciter, non obediendo praeceptis 
+      eo<lb ed="#P" n="64" break="no"/>rum; vel etiam adversus eos vim inferentes, 
+      repu<lb ed="#P" n="65" break="no"/>gnando. Ad quam respondendum, quod eis 
+      ne<lb ed="#P" n="66" break="no"/>quaquam resistere liceat recte &amp; legitime utentibus 
+      <lb ed="#P" n="67"/>sua potestate, id est, ut Magister ait, in iis omnibus 
+      <!--0630.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>quae jubet Deus eis exhiberi. Jubet autem quicquid 
+      <lb ed="#P" n="69"/>ab illis praecipitur comprehensum intra limites 
+      <lb ed="#P" n="70"/>dictae potestatis a Deo derivatae. 
+    </p>
+            <p xml:id="bt67yj-p153631-d1e218">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Si vero praecipitur ab illis aliquid quod eam 
+      pote<lb ed="#P" n="72" break="no"/>statem egreditur, tum distinguere oportet; aut enim 
+      <lb ed="#P" n="73"/>bonum est quod praecipitur, aut malum, aut 
+      indiffe<lb ed="#P" n="74" break="no"/>rens. Si vel bonum est vel indifferens, tunc licet 
+      sub<lb ed="#P" n="75" break="no"/>ditus simpliciter ad tale praeceptum non teneatur, 
+      <lb ed="#P" n="76"/>ob defectum potellatis in eo qui praecipit, 
+      ple<lb ed="#P" n="77" break="no"/>rumque tamen tenetur ad vitandum scandalum, 
+      <lb ed="#P" n="78"/>seu speciem inobedientiae. Qua ratione &amp; 
+      <lb ed="#P" n="79"/>Christus pro se &amp; Petro solvere voluit didrachma 
+      <lb ed="#P" n="80"/>Matth. 17. ad quod alioqui non tenebatur. 
+      <lb ed="#P" n="81"/>B 
+    </p>
+            <p xml:id="bt67yj-p153631-d1e247">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Sin autem malum ac Dei legi contrarium aliquid 
+      <lb ed="#P" n="83"/>praecipitur, nullo modo est obediendum; quia tale 
+      <lb ed="#P" n="84"/>praeceptum non egreditur tantum potestatem 
+      praeci<lb ed="#P" n="85" break="no"/>pientis, sed etiam pervertit ordinem potestatis 
+      su<lb ed="#P" n="86" break="no"/>premae. Unde principibus sacerdotum 
+      prohibenti<lb ed="#P" n="87" break="no"/>bus evangelii praedicationem sapientissime a Petro 
+      <lb ed="#P" n="88"/>responsum est Actor. 5. Obedire oportet Deo magis 
+      <lb ed="#P" n="89"/>quam hominibus. Sic ergo apostoli &amp; martyres 
+      re<lb ed="#P" n="90" break="no"/>stiterunt pote sati, de quibus canit Ecclesia quod 
+      con<lb ed="#P" n="91" break="no"/>temnentes jussa principum meruerunt praemia aeterna. 
+      <lb ed="#P" n="92"/>Sic Antiocho restiterunt 7. Machabaei fratres, 
+      <lb ed="#P" n="93"/>quorum unus dicebat: Non obedio praecepto regis, sed 
+      <lb ed="#P" n="94"/>praecepto legis, quae data est nobis per Moysen. Sic regi 
+      <lb ed="#P" n="95"/>Nabuchodonosor tres pueri, qui ab eo jussi adorare 
+      <lb ed="#P" n="96"/>statuam, dixerunt: Non oportet nos de hac re 
+      responde<lb ed="#P" n="97" break="no"/>re tibi. Et iterum, Notum sit tibi rex; quia Deos tuos 
+      <lb ed="#P" n="98"/>non colimus, &amp; statuam auream quam erexisti, non 
+      <lb ed="#P" n="99"/>adoramus. Unde August. serm. 6. de verbis Domini: 
+      <lb ed="#P" n="100"/>Si illud jubeat potestas quod non debeas facere, hic 
+      <lb ed="#P" n="101"/>sane contemne potestatem, timendo majorem 
+      potesta<lb ed="#P" n="102" break="no"/>tem. Et similibudinem addit potestatibus humanis 
+      <lb ed="#P" n="103"/>sibi subordinatis, quarum inferiori contra 
+      supe<lb ed="#P" n="104" break="no"/>riorem non est obediendum. 
+    </p>
+            <p xml:id="bt67yj-p153631-d1e302">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Utrum vero aliquando etiam repugnare superiori 
+      <lb ed="#P" n="106"/>injuste subditos opprimenti liceat, non perinde 
+      cla<lb ed="#P" n="107" break="no"/>rum est. Certe proceribus &amp; populo totius alicujus 
+      <lb ed="#P" n="108"/>regni id aliquando licere, apparet ex historia 
+      Ro<lb ed="#P" n="109" break="no"/>boam, 3. Reg. 12. &amp; ex verbis Augustini lib. 17. de 
+      <lb ed="#P" n="110"/>civitate cap. 21. &amp; libro de unitate Ecclesiae capite21. 
+      <lb ed="#P" n="111"/>ubi factum populi regem tyrannice imperare 
+      volen<lb ed="#P" n="112" break="no"/>tem abjicientis, non putat improbandum. Ratio 
+      <lb ed="#P" n="113"/>autem videtur; quia in proceribus &amp; populo 
+      resi<lb ed="#P" n="114" break="no"/>det publica authoritas, qua &amp; se a manifesta 
+      tyran<lb ed="#P" n="115" break="no"/>nide vindicare, &amp; legitimum principem eligere sibi 
+      <lb ed="#P" n="116"/>possunt, atque etiam electum, si causa subsit, 
+      im<lb ed="#P" n="117" break="no"/>perio privare. 
+    </p>
+            <p xml:id="bt67yj-p153631-d1e335">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Caeterum privato nemini licet superiori, etsi 
+      ty<lb ed="#P" n="119" break="no"/>rannice imperanti, per vim resistere, ac multo minus 
+      <lb ed="#P" n="120"/>eum de medio tollere, ut patet ex decalogi 
+      praecep<lb ed="#P" n="121" break="no"/>to: Non occides, &amp; definitione Constantiensis 
+      sy<lb ed="#P" n="122" break="no"/>nodi sess. 15. Quod &amp; suo exemplo David 
+      sepenu<lb ed="#P" n="123" break="no"/>mero ostendit, dum Saulem in manu sua traditum, 
+      <lb ed="#P" n="124"/>nec ipse occidere voluit, nec ab aliis occidi passus est. 
+      <lb ed="#P" n="125"/>Quis enim, inquit, extendet manum saam in 
+      Chri<lb ed="#P" n="126" break="no"/>stum Domini, &amp; innocens erit? 1. Regum 26. 
+      Quam<lb ed="#P" n="127" break="no"/>vis enim jam in regem unctus esset, nondum tamen 
+      <lb ed="#P" n="128"/>erat suffragiis populi confirmatus; nec adhuc ullam 
+      <lb ed="#P" n="129"/>habebat regni potestatem. 
+    </p>
+            <p xml:id="bt67yj-p153631-d1e367">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Quare merito audiendus hac in parte Cyprianus, 
+      <lb ed="#P" n="131"/>qui in epistola ad Demetrianum, qua Christianorum 
+      <lb ed="#P" n="132"/>adversus calumniatores defendit innocentiam, ita 
+      <lb ed="#P" n="133"/>scribit: Nemo nostrum quando apprehenditur, 
+      re<lb ed="#P" n="134" break="no"/>luctatur, nec se adversus injustam violentiam 
+      ve<lb ed="#P" n="135" break="no"/>stram, quamvis nimius &amp; copiosus sit noster populus, 
+      <lb ed="#P" n="136"/>ulciscitur. Patientes facit de secutura ultione 
+      securi<lb ed="#P" n="137" break="no"/>tas; innocentes nocentibus cedunt; insontes poenis &amp; 
+      <lb ed="#P" n="138"/>cruciatibus acquitscunt. Et quae sequuntur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="358"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p138819"><!-- l2d30c14" -->
+            <head xml:id="bt67yj-p138819-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-p138819-Hd1e103" type="question-title">Quomodo peccatum originale sit voluntarium</head>
+            <p xml:id="bt67yj-p138819-d1e106">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> §. 14. Quomodo peccatum originale sit voluntarium. 
+    </p>
+            <p xml:id="bt67yj-p138819-d1e113">
+               <lb ed="#P" n="91"/>QUi concupiscentiam negant esse peccatum 
+      ori<lb ed="#P" n="92" break="no"/>ginale, hoc utuntur argumento. 
+      Concupiscen<lb ed="#P" n="93" break="no"/>tia parvulorum ante regenerationem non est 
+      volun<lb ed="#P" n="94" break="no"/>taria; igitur peccati rationem in his habere non 
+      <lb ed="#P" n="95"/>potest. Sequelam probant, quia teste Augustino 
+      li<lb ed="#P" n="96" break="no"/>bro de vera religione cap. 14. peccatum omne 
+      us<lb ed="#P" n="97" break="no"/>que adeo voluntarium est, ut nullo modo sit 
+      pecca<lb ed="#P" n="98" break="no"/>tum, si non sit voluntarium. Et ut dicit Thomas 
+      <lb ed="#P" n="99"/>2. 2. q. 34. artic. 2. Aversio a Deo rationem culpae 
+      <lb ed="#P" n="100"/>non haberet, nisi voluntaria esset. Unde, inquit, 
+      ra<lb ed="#P" n="101" break="no"/>tio culpae consistit in voluntaria aversione. Breviter 
+      res<lb ed="#P" n="102" break="no"/>pondemus, peccatum originale, sive sit proprie 
+      <lb ed="#P" n="103"/>ipsa concupiscentia, sive averso, sive quid aliud, in 
+      <lb ed="#P" n="104"/>parvulis non eo quidem modo voluntariam esse, 
+      <lb ed="#P" n="105"/>quo actualia peccata dicuntur esse voluntaria; 
+      nimi<lb ed="#P" n="106" break="no"/>rum propria &amp; actuali voluntate eorum in quibus 
+      <lb ed="#P" n="107"/>sunt. Constat enim parvulos propriae voluntatis usum 
+      <lb ed="#P" n="108"/>nullum habere. Sed voluntarium recte &amp; vere 
+      dici<lb ed="#P" n="109" break="no"/>tur, partim voluntate primi parentis, ex qua 
+      tan<lb ed="#P" n="110" break="no"/>quam causa efficiente malum hoc originale in 
+      po<lb ed="#P" n="111" break="no"/>steros propagatum est; partim voluntate singulorum, 
+      <lb ed="#P" n="112"/>in quibus est hoc peccatum; propterea quod 
+      volun<lb ed="#P" n="113" break="no"/>tas eorum, licet nunquam fuerit in actu, revera 
+      ta<lb ed="#P" n="114" break="no"/>men infecta sit vitio pravae concupiscentiae, a quo 
+      <lb ed="#P" n="115"/>ipsa mala, perversa, atque a Deo aversa &amp; prave 
+      in<lb ed="#P" n="116" break="no"/>clinata dicitur. 
+    </p>
+            <p xml:id="bt67yj-p138819-d1e172">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Priorem voluntarii rationem spectavit 
+      Augusti<lb ed="#P" n="118" break="no"/>nus compluribus locis, ut lib. retractat. capite 11. 13. 
+      <lb ed="#P" n="119"/>&amp; 15. de peccato originali capite 40. libro 2. de 
+      nup<lb ed="#P" n="120" break="no"/>tiis &amp; concupiscentia capite 28. libro 3. contra 
+      Ju<lb ed="#P" n="121" break="no"/>lianum capite 5. &amp; enchiridii capite 46. 
+      Posterio<lb ed="#P" n="122" break="no"/>rem vero alibi considerasse videtur, ut libro 1. 
+      con<lb ed="#P" n="123" break="no"/>tra ad versarium legis &amp; Prophetarum, capite 22. ubi 
+      <lb ed="#P" n="124"/>dicit, omnes nasci impia voluntate. Et de natura 
+      <lb ed="#P" n="125"/>&amp; gratia cap. 67. ubi testatur omnes nasci subditos 
+      <lb ed="#P" n="126"/>carni. Qua phrasi &amp; a Fulgentio dictum est lib. de 
+      <lb ed="#P" n="127"/>fide ad Petrum capite 26. omnem hominem nasci 
+      <lb ed="#P" n="128"/>impietati subditum. Eodem pertinet, quod 
+      Pros<lb ed="#P" n="129" break="no"/>per contra Collatorem capite 20. dicit in 
+      nascenti<lb ed="#P" n="130" break="no"/>bus laesum esse liberum arbitrium, &amp; Patres Concilii 
+      <lb ed="#P" n="131"/>Arausicani Can. I. damnant eos, qui docent animi 
+      <lb ed="#P" n="132"/>libertate illaesa, corpus tantummodo corruptioni 
+      ob<lb ed="#P" n="133" break="no"/>noxium factum esse per offensam primi hominis. 
+    </p>
+            <p xml:id="bt67yj-p138819-d1e215">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Porro neutra voluntarii ratio in peccato originali 
+      <lb ed="#P" n="135"/>seorsim sumpta sufficere ad peccati rationem 
+      vide<lb ed="#P" n="136" break="no"/>tur. Non prior; quia si ea sola spectetur, 
+      volunta<lb ed="#P" n="137" break="no"/>rium tantum extrinsecus competit ei, quod in 
+      par<lb ed="#P" n="138" break="no"/>vulo dicitur esse peccatum originale, &amp; per 
+      conse<lb ed="#P" n="139" break="no"/>quens sub peccati ratione non erit parvulo 
+      inter<lb ed="#P" n="140" break="no"/>num originale illud malum. At neque posterior; 
+      <lb ed="#P" n="141"/>quia necesse est omne peccatum; ut peccatum sit, 
+      <lb ed="#P" n="142"/>voluntate aliqua fieri aut factum esse. Nam alioqui 
+      <!--0592.xml-->
+      <pb ed="#P" n="359"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Deo, aut naturae, cujus Deus institutor &amp; author est, 
+      <lb ed="#P" n="2"/>ascribendum esset. 
+    </p>
+            <p xml:id="bt67yj-p138819-d1e250">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Quare ut veram peccati rationem in parvulo 
+      ag<lb ed="#P" n="4" break="no"/>noscamus, necessario respiciendum est ad eam 
+      vo<lb ed="#P" n="5" break="no"/>luntatem, a qua velut radice atque origine 
+      propa<lb ed="#P" n="6" break="no"/>gatum est hoc malum. Nam ut recte docet Aug. lib. 
+      <lb ed="#P" n="7"/>3. contra Julianum cap. 12. nulla foret hominis 
+      cul<lb ed="#P" n="8" break="no"/>pa, si talis a Deo creatus esset, qualis nunc nascitur. 
+      <lb ed="#P" n="9"/>Porro utramque rationem breviter complexus est 
+      <lb ed="#P" n="10"/>idem Augustinus lib. 1. retract. cap. 13. dicens, 
+      pec<lb ed="#P" n="11" break="no"/>catum originale non absurde vocari voluntarium, 
+      <lb ed="#P" n="12"/>quiae ex prima hominis mala voluntate contractum, 
+      <lb ed="#P" n="13"/>factum est quodammodo haereditarium.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

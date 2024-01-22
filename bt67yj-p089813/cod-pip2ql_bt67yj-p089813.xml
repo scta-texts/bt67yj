@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="231"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p089813"><!-- l2d24c4" -->
+            <head xml:id="bt67yj-p089813-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p089813-Hd1e103" type="question-title">Ad ea quae supra dictis adversari videntur 
+      responsio</head>
+            <p xml:id="bt67yj-p089813-d1e106">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> §. 4. Ad ea quae supra dictis adversari videntur 
+      <lb ed="#P" n="144"/>responsio. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e115">
+               <lb ed="#P" n="145"/>ADversus doctrinam superiorem argumenta 
+      <lb ed="#P" n="146"/>sunt non levia, quae tamen quo pacto refelli 
+      <!--0465.xml-->
+      <pb ed="#P" n="232"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>probabiliter possint, docebimus. Et quidem contra 
+      <lb ed="#P" n="2"/>primam propositionem illic constitutam haec 
+      adfe<lb ed="#P" n="3" break="no"/>runtur. Primum, intellectus seu ratio tantum est 
+      <lb ed="#P" n="4"/>conditio quaedam &amp; causa, sine qua non potest 
+      vo<lb ed="#P" n="5" break="no"/>luntas actum liberum exercere. Nam officium 
+      ra<lb ed="#P" n="6" break="no"/>tionis est repraesentare ac proponere voluntati suum 
+      <lb ed="#P" n="7"/>objectum, quod nisi praesens esset, agere voluntas 
+      <lb ed="#P" n="8"/>non posset; quomodo qui admovet ignem ad 
+      com<lb ed="#P" n="9" break="no"/>burendum, non est proprie causa physica 
+      combu<lb ed="#P" n="10" break="no"/>stionis, sed tantum causa sine qua non; ergo libertas 
+      <lb ed="#P" n="11"/>voluntatis non est in intellectu tanquam in radice &amp; 
+      <lb ed="#P" n="12"/>causa proprie dicta, sed tantum quoad usum 
+      depen<lb ed="#P" n="13" break="no"/>det ab intellectu ut proponente objectum. 
+      Respon<lb ed="#P" n="14" break="no"/>deo non plene explicari officium rationis erga 
+      vo<lb ed="#P" n="15" break="no"/>luntatem, per hoc quod est proponere illi suum 
+      ob<lb ed="#P" n="16" break="no"/>jectum: Non enim tam proponit, quam facit 
+      ob<lb ed="#P" n="17" break="no"/>jectum voluntatis; dum rem aliquam judicat bonam, 
+      <lb ed="#P" n="18"/>convenientem &amp; eligendam. Quod judicium vere 
+      <lb ed="#P" n="19"/>est causa liberae electionis in voluntate, juxta 
+      pro<lb ed="#P" n="20" break="no"/>positionem ultimam; facit enim ut res quae prius erat 
+      <lb ed="#P" n="21"/>expetibilis potentia, fiat &amp; sit expetibilis actu, id est, 
+      <lb ed="#P" n="22"/>ut voluntas actu eam expetat¬ 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e176">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Secundum argumentum: In Deo vere &amp; proprie 
+      <lb ed="#P" n="24"/>est libertas arbitrii, nec tamen in eo ulla est 
+      indiffe<lb ed="#P" n="25" break="no"/>rentia judicii, quia omne judicium mentis divinae 
+      <lb ed="#P" n="26"/>ab aeterno est determinatum; ergo libertas 
+      volunta<lb ed="#P" n="27" break="no"/>tis non pendet ab intellectu ut causa, quatenus ille 
+      <lb ed="#P" n="28"/>indifferens est &amp; indeterminatus ad judicandum de 
+      <lb ed="#P" n="29"/>mediis contingentibus. Respondetur etiam in Deo 
+      <lb ed="#P" n="30"/>agnoscendam esse indifferentiam judicii de iis 
+      re<lb ed="#P" n="31" break="no"/>bus quarum respectu libertatem habet arbitrii. Nam 
+      <lb ed="#P" n="32"/>exempli gratia, libere Deus creavit hunc mundum, 
+      <lb ed="#P" n="33"/>quia judicavit hoc esse medium conveniens ad 
+      ma<lb ed="#P" n="34" break="no"/>nifestandam suam bonitatem, simul etiam 
+      cognos<lb ed="#P" n="35" break="no"/>cens hoc medium non habere necessariam 
+      connexio<lb ed="#P" n="36" break="no"/>nem ad illum finem. Unde sicut potuit illud ab 
+      ae<lb ed="#P" n="37" break="no"/>terno non cligere, sic potuit ab aeterno non judicare 
+      <lb ed="#P" n="38"/>eligendum. Est ergo judicium hoc indifferens, quia 
+      <lb ed="#P" n="39"/>Deus non ex necessitate, sed libere ad hoc se 
+      deter<lb ed="#P" n="40" break="no"/>minavit, &amp; determinat. Quippe in Deo proprie 
+      ni<lb ed="#P" n="41" break="no"/>hil est praeteritum, sed praesens tantum. Indicat hanc 
+      <lb ed="#P" n="42"/>responsionem S. Thom. de veritate q. 24. art. 3. ad 3. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e225">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Tertium: Si libertas voluntatis radicaliter dependet 
+      <lb ed="#P" n="44"/>ab indifferentia judicii intellectus; igitur quando 
+      in<lb ed="#P" n="45" break="no"/>tellectus jam determinatus est ad judicandum unum, 
+      <lb ed="#P" n="46"/>tunc voluntas non erit libera ad illud eligendum, 
+      <lb ed="#P" n="47"/>cessante nimirum ac sublata libertatis causa, id est, 
+      <lb ed="#P" n="48"/>indifferentia judicii per ejus determinationem. 
+      Res<lb ed="#P" n="49" break="no"/>pondeo, sicut intellectus eodem instanti quo se 
+      deter<lb ed="#P" n="50" break="no"/>minatad judicandum unum, potuitdeterminare se ad 
+      <lb ed="#P" n="51"/>judicandum alterum, ita pariter&amp; voluntatem eodem 
+      <lb ed="#P" n="52"/>instanti quo eligit unum, posse eligere 
+      alterumonimi<lb ed="#P" n="53" break="no"/>rum sensu diviso, idque sufficere ut in intellectu 
+      ra<lb ed="#P" n="54" break="no"/>dicaliter, &amp; in voluntate formaliter existat libertas. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e256">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Quartum: Actus intellectus praeveniens omnem 
+      <lb ed="#P" n="56"/>liberum actum voluntatis, non est liber, quia neque 
+      <lb ed="#P" n="57"/>est actus voluntatis, neque imperatur a voluntate: 
+      <lb ed="#P" n="58"/>ergo non est indeterminatus, quia videntur idem 
+      <lb ed="#P" n="59"/>esse in proposito liberum &amp; indeterminatum; 
+      igi<lb ed="#P" n="60" break="no"/>tur voluntas non ideo libera est, quia 
+      indetermina<lb ed="#P" n="61" break="no"/>tus est intellectus. Nam alioqui sequeretur, actum 
+      <lb ed="#P" n="62"/>intellectus praevenientem actum liberum 
+      volunta<lb ed="#P" n="63" break="no"/>tis esse indeterminatum. Ad hoc argumentum bene 
+      <lb ed="#P" n="64"/>respondet Cajetanus 1. p. q. 83. art. 1. duobus modis 
+      <lb ed="#P" n="65"/>actionem aliquam dici liberam; uno modo quia fit 
+      <lb ed="#P" n="66"/>per electionem voluntatis, quae quidem actio 
+      pro<lb ed="#P" n="67" break="no"/>prie &amp; formaliter libera dicitur. Nam ut in eadem 
+      q<lb ed="#P" n="68" break="no"/>83. art. 3. docet S. Thomas, actio propria liberi 
+      ar<lb ed="#P" n="69" break="no"/>bitrii est electio. Altero modo minúsque proprie. 
+      <lb ed="#P" n="70"/>quia procedit a potentia quae suapte natura non est 
+      <lb ed="#P" n="71"/>determinata ad hanc vel illam operationem. Hoc 
+      <lb ed="#P" n="72"/>modo actio intellectus omnem voluntatis 
+      electio<lb ed="#P" n="73" break="no"/>nem praecedens libera vocari potest; non quidem 
+      <lb ed="#P" n="74"/>formaliter, ut diximus, sed radicaliter; eo quod ab 
+      <!--0465.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>actione taliter indeterminata habeat appetitus qui 
+      <lb ed="#P" n="76"/>eam sequitur, quod non sit indeterminatus ad unum, 
+      <lb ed="#P" n="77"/>sed possit vel hoc vel illud eligere. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e315">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Contra secundam &amp; tertiam propositiones sunt 
+      <lb ed="#P" n="79"/>haec argumenta. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e324">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Primum: Voluntas est libera propter 
+      indifferen<lb ed="#P" n="81" break="no"/>tiam intellectus; ergo propter eandem 
+      indifferen<lb ed="#P" n="82" break="no"/>tiam ipse intellectus magis ac potius est liber; &amp; 
+      <lb ed="#P" n="83"/>proinde non tantum radicaliter, sed etiam 
+      forma<lb ed="#P" n="84" break="no"/>liter est liber. Consequentia probatur hoc vulgari 
+      <lb ed="#P" n="85"/>axiomate, propter quod unumquodque tale, illud 
+      <lb ed="#P" n="86"/>magis. Sed respondetur, hoc axioma locum non 
+      ha<lb ed="#P" n="87" break="no"/>bere, nisi in ea causa quae capax est ejus formae quam 
+      <lb ed="#P" n="88"/>causat in altero. Atqui potentia cognoscitiva non 
+      <lb ed="#P" n="89"/>est capax libertatis, sicut potentia appetitiva. Ad 
+      <lb ed="#P" n="90"/>hanc enim pertinet appetere, ad illam vero 
+      cogno<lb ed="#P" n="91" break="no"/>scere &amp; judicare. Unde sufficit quod libertas sit in 
+      <lb ed="#P" n="92"/>intellectu velut in radice. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e357">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Sed dices, esse liberum est perfectio simpliciter; 
+      <lb ed="#P" n="94"/>est enim perfectissime in Deo; ergo effectus non 
+      po<lb ed="#P" n="95" break="no"/>test illam perfectionem habere, nisi &amp; causa 
+      ha<lb ed="#P" n="96" break="no"/>beat eam formaliter; alioqui effectus secundum id 
+      <lb ed="#P" n="97"/>quod habet a causa, excelleret suam causam, quod 
+      <lb ed="#P" n="98"/>est impossibile. Dicendum videtur, quod non 
+      ha<lb ed="#P" n="99" break="no"/>beat eam ab intellectu tanquam causa principali, 
+      <lb ed="#P" n="100"/>sed tanquam potentia continente rationem ejus 
+      ori<lb ed="#P" n="101" break="no"/>ginalem; habet autem a Deo tanquam causa 
+      prin<lb ed="#P" n="102" break="no"/>cipali. Unde recte sequitur Deum esse magis 
+      libe<lb ed="#P" n="103" break="no"/>rum. Item responderi potest, quod sufficiat eam 
+      <lb ed="#P" n="104"/>perfectionem esse in supposito. Nam illa libertas est 
+      <lb ed="#P" n="105"/>perfectio hominis, sed non intellectus qui non est 
+      <lb ed="#P" n="106"/>ejus capax. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e392">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Secundum: Ratio in judicando libera est non 
+      <lb ed="#P" n="108"/>tantum a coactione, verum etiam a naturali 
+      neces<lb ed="#P" n="109" break="no"/>sitate, saltem in contingentibus; ergo formaliter li 
+      <lb ed="#P" n="110"/>bera est perinde ut voluntas. Respondeo non 
+      pro<lb ed="#P" n="111" break="no"/>prie liberam dici rationem a naturali necessitate, 
+      <lb ed="#P" n="112"/>sed indifferentem sua natura; quatenus diversas 
+      bo<lb ed="#P" n="113" break="no"/>ni rationes circa eandem rem concipere potest. 
+      <lb ed="#P" n="114"/>Quam ejus indifferentiam sequitur proprie dicta 
+      li<lb ed="#P" n="115" break="no"/>bertas in voluntate. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e417">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Tertium: Voluntas non potest aliud eligere quam 
+      <lb ed="#P" n="117"/>quod ratio judicaverit eligendum, juxta ultimam 
+      <lb ed="#P" n="118"/>propositionem; ergo voluntas vere &amp; formaliter 
+      <lb ed="#P" n="119"/>non erit libera in eligendo, nisi ratio vere ac 
+      forma<lb ed="#P" n="120" break="no"/>liter libera fuerit in judicando. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e433">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Ad hoc argumentum quidem respondent, 
+      volun<lb ed="#P" n="122" break="no"/>tatem in eligendo vere liberam esse; non quod non 
+      <lb ed="#P" n="123"/>necessario determinetur ab ultimo judicio rationis 
+      <lb ed="#P" n="124"/>practicae, sed quia illud ipsum judicium in potestate 
+      <lb ed="#P" n="125"/>voluntatis est. Censent enim libertatem voluntatis 
+      <lb ed="#P" n="126"/>in eo proprie sitam esse, quod propositis variis 
+      ra<lb ed="#P" n="127" break="no"/>tionibus non necessariis, sinat se moveri ab una &amp; 
+      <lb ed="#P" n="128"/>non ab alia, priusquam ratio concludat judicium 
+      <lb ed="#P" n="129"/>particulare. Idque probant ex philosopho dicente 3. 
+      <lb ed="#P" n="130"/>Ethic. cap. 5. quod electiones ideo sunt in nostra 
+      <lb ed="#P" n="131"/>potestate; quia judicia seu visiones ad quas 
+      electio<lb ed="#P" n="132" break="no"/>nes sequuntur, in nostra sunt potestate. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e464">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Probant etiam ex S. Thoma, qui q. 1. de malo 
+      <lb ed="#P" n="134"/>art. 3. dicit causam peccati esse, quod homo 
+      ope<lb ed="#P" n="135" break="no"/>retur non attendens ad regulam divinae legis; ejus 
+      <lb ed="#P" n="136"/>autem quod est non attendere ad eam regulam, non 
+      <lb ed="#P" n="137"/>esse quaerendam aliam causam, cum ad hoc sufficiat 
+      <lb ed="#P" n="138"/>libertas voluntatis humanae. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e482">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Verum haec responsio multa continet 
+      incommo<lb ed="#P" n="140" break="no"/>da. Primum, quia destruere videtur ultimam 
+      pro<lb ed="#P" n="141" break="no"/>positionem, quam tamen iidem illi authores 
+      po<lb ed="#P" n="142" break="no"/>nunt. Si enim in potestate voluntatis est ultimum 
+      <lb ed="#P" n="143"/>judicium practicum, ut volunt certe id esse, non 
+      <lb ed="#P" n="144"/>potest nisi ratione liberi actus voluntatis. At hoc dici 
+      <lb ed="#P" n="145"/>non potest, cum ponatur secundum dictam 
+      propo<lb ed="#P" n="146" break="no"/>sitionem voluntas ad actum quemcunque liberum 
+      <lb ed="#P" n="147"/>determinari necessario per ejusmodi judicium 
+      ra<lb ed="#P" n="148" break="no"/>tionis. Deinde, quia illud sinere se moveri ab una 
+      <!--0466.xml-->
+      <pb ed="#P" n="233"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ratione &amp; non ab alia, aut est actus liberi arbitrii 
+      <lb ed="#P" n="2"/>aut non est; si est, ergo etiam illud dependet a 
+      judi<lb ed="#P" n="3" break="no"/>cio practico intellectus, ipsumque necessario 
+      sequi<lb ed="#P" n="4" break="no"/>tur; si non est, ergo per illud non est ultimum 
+      judi<lb ed="#P" n="5" break="no"/>cium practicum in potestate voluntatis, neque etiam 
+      <lb ed="#P" n="6"/>per illud voluntas culpari poterit aut laudari. Non 
+      <lb ed="#P" n="7"/>enim recte culpatur aut laudatur voluntas, nisi 
+      pro<lb ed="#P" n="8" break="no"/>pter actus liberos. Praeterea, si libertas voluntatis 
+      <lb ed="#P" n="9"/>in eo proprie sita est, quod variis rationibus 
+      propo<lb ed="#P" n="10" break="no"/>sitis sinat se moveri ab una &amp; non ab alia, quaeritur 
+      <lb ed="#P" n="11"/>in quo sita sit libertas voluntatis sinentis ita se 
+      mo<lb ed="#P" n="12" break="no"/>veri. Erunt enim ad hoc quaerendae aliae rationes, 
+      <lb ed="#P" n="13"/>itaque fiet progressus in infinitum. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e543">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Nec pro dicta responsione stant verba 
+      Philoso<lb ed="#P" n="15" break="no"/>phi. Neque enim aliud dicit Philosophus, quam 
+      <lb ed="#P" n="16"/>virtutes &amp; vitia in nostra esse potestate, quamvis 
+      <lb ed="#P" n="17"/>omnes appetant id quod bonum ipsis videtur; quia 
+      <lb ed="#P" n="18"/>unusquisque sibi quodammodo causa est, ut hoc aut 
+      <lb ed="#P" n="19"/>illud bonum sibi videatur. Ubi manifestum est, eum 
+      <lb ed="#P" n="20"/>loqui de virtutibus &amp; vitiis, non autem de singulis 
+      <lb ed="#P" n="21"/>actionibus. Deinde dicens, quodammodo 
+      signifi<lb ed="#P" n="22" break="no"/>cat non absolute quenquam sibi causam esse, 
+      nimi<lb ed="#P" n="23" break="no"/>rum per actum aliquem liberum, ut hoc aut illud 
+      <lb ed="#P" n="24"/>sibi bonum vidcatur. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e572">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> S. Thomas quoque pro ea responsione nihil facit. 
+      <lb ed="#P" n="26"/>Nam non attendere ad regulam, quod al bi idem 
+      <lb ed="#P" n="27"/>doctor vocat inconsiderationem, vitium est 
+      intel<lb ed="#P" n="28" break="no"/>lectus; cujus causa suponatur aliquis actus 
+      volun<lb ed="#P" n="29" break="no"/>tatis, jam primo peccato erit aliquod prius; 
+      scili<lb ed="#P" n="30" break="no"/>cet ille voluntatis actus, quae causa est ut 
+      intelle<lb ed="#P" n="31" break="no"/>ctus non attendat ad regulam; ex qua non 
+      attentio<lb ed="#P" n="32" break="no"/>ne ponebatur committi primum peccatum. Quod 
+      <lb ed="#P" n="33"/>ergo S. Thomas dicit ad hoc ut ratio non attendat, 
+      <lb ed="#P" n="34"/>sufficere libertatem voluntatis; intellige libertatem 
+      <lb ed="#P" n="35"/>voluntatis in se, vel in radice. Sicut enim 
+      volun<lb ed="#P" n="36" break="no"/>tas ratione propriae libertatis sibi sufficit ad male 
+      <lb ed="#P" n="37"/>eligendum, ita intellectus ratione suae indifferentiae 
+      <lb ed="#P" n="38"/>sibi sufficit ad non considerandum regulam, &amp; ad 
+      <lb ed="#P" n="39"/>male judicandum. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e610">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Quae cum ita sint, nobis ad argumentum 
+      propo<lb ed="#P" n="41" break="no"/>situm potius respondendum videtur, voluntatem 
+      <lb ed="#P" n="42"/>vere &amp; formaliter liberam esse, etiamsi judicium 
+      <lb ed="#P" n="43"/>rationis a quo pendet ac determinatur, non sit 
+      eo<lb ed="#P" n="44" break="no"/>dem prorsus modo liberum; quia ad hoc ut proprie 
+      <lb ed="#P" n="45"/>sit libertas in voluntate, requiritur &amp; sufficit 
+      indif<lb ed="#P" n="46" break="no"/>ferentia judicii in intellectu. Haec enim 
+      indifferen<lb ed="#P" n="47" break="no"/>tia causa est originalis, eademque per se efficax ejus 
+      <lb ed="#P" n="48"/>libertatis, quae in voluntate est. Juxta quam respon 
+      <lb ed="#P" n="49"/>sionem adeo non sequitur ex dicto argumento, 
+      vo<lb ed="#P" n="50" break="no"/>luntatem non esse vere liberam, ut potius 
+      contra<lb ed="#P" n="51" break="no"/>rium sequatur, scilicet ideo voluntatem hoc 
+      libe<lb ed="#P" n="52" break="no"/>re eligere; quia ratio ex pluribus, circa quae 
+      indif<lb ed="#P" n="53" break="no"/>ferens erat, judicavit hoc eligendum. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e645">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Si autem quaeratur, quid sit quod ipsam rationem 
+      <lb ed="#P" n="55"/>determinet ad hoc judicium. Neque enim a 
+      poten<lb ed="#P" n="56" break="no"/>tia per se indeterminata actio ulla procedere potest, 
+      <lb ed="#P" n="57"/>nisi prius ab aliquo determinetur. Respondeo 
+      se<lb ed="#P" n="58" break="no"/>cundum mentem S. Thomae intellectum 
+      determina<lb ed="#P" n="59" break="no"/>ri interdum ex sola Dei notione. Sic enim docet 1. 
+      <lb ed="#P" n="60"/>p. q. 82. art. 4. ad 3. &amp; ibidem Cajetanus. Item 
+      <lb ed="#P" n="61"/>1. sec. qu. 9. art. 4. &amp; libro 3. contra gentes c. 89. &amp; 
+      <lb ed="#P" n="62"/>
+               <ref xml:id="bt67yj-p089813-Rd1e668">ibidem <name xml:id="bt67yj-p089813-Nd1e670">Ferrariensis</name>
+               </ref>. Interdum vero determinatur 
+      <lb ed="#P" n="63"/>intellectus ad hoc judicium, &amp; non ad aliud ex 
+      dis<lb ed="#P" n="64" break="no"/>cursu &amp; consilio rationis originem habente ex 
+      sen<lb ed="#P" n="65" break="no"/>su, dum scilicet ex hujusmodi discursu per 
+      princi<lb ed="#P" n="66" break="no"/>pium aliquod sibi notum in hoc judicium ducitur, 
+      <lb ed="#P" n="67"/>cum tamen per aliud principium ad diversum 
+      judi<lb ed="#P" n="68" break="no"/>cium duci potuisset. Ac priori quidem modo 
+      intel<lb ed="#P" n="69" break="no"/>lectus determinatur ab alio potius quam a seipso; 
+      <lb ed="#P" n="70"/>posterioriautem determinatur etiam a seipso. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e692">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Contra postremam propositionem haec 
+      objiciun<lb ed="#P" n="72" break="no"/>tur. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e701">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Primum: Inter potentias naturales &amp; liberas hoc 
+      <lb ed="#P" n="74"/>interest, quod naturales non possunt non agere prae¬ 
+      <!--0466.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>sente objecto liberae possunt. Atqui voluntas est 
+      <lb ed="#P" n="76"/>potentia maxime libera, utpote sola libera 
+      forma<lb ed="#P" n="77" break="no"/>liter; poterit ergo non agere praesente objecto sibi 
+      <lb ed="#P" n="78"/>per judicium rationis practicae repraesentatio. 
+      Res<lb ed="#P" n="79" break="no"/>pondeo discrimen illud inter potentias naturales, &amp; 
+      <lb ed="#P" n="80"/>liberas eatenus esse verum, quia liberae potentiae; 
+      <lb ed="#P" n="81"/>quatenus sunt mediorum, plerumque versantur 
+      cir<lb ed="#P" n="82" break="no"/>ca contingentia, in quibus variae rationes 
+      conside<lb ed="#P" n="83" break="no"/>rari possunt, ob quas ad ea inclinentur aut non 
+      in<lb ed="#P" n="84" break="no"/>clinentur. Potentiae vero non liberae, semper unum 
+      <lb ed="#P" n="85"/>aliquid habent pro objecto, quod nimirum sub una 
+      <lb ed="#P" n="86"/>tantum ratione proponitur, ideóque non possunt 
+      <lb ed="#P" n="87"/>operari nisi uno modo. Caeterum quando 
+      volunta<lb ed="#P" n="88" break="no"/>ti repraesentatur objectum per ultimum judicium 
+      <lb ed="#P" n="89"/>rationis; ideo tunc non potest non operari tali 
+      judi<lb ed="#P" n="90" break="no"/>cio posito, quia tunc objectum ei non proponitur 
+      <lb ed="#P" n="91"/>nisi sub una ratione: At nihilominus etiam in illo 
+      <lb ed="#P" n="92"/>actu libertatem voluntas retinet, quia sicut 
+      propo<lb ed="#P" n="93" break="no"/>ni ei poterat objectum ab intellectu sub alia 
+      ratio<lb ed="#P" n="94" break="no"/>ne, sic &amp; ipsa poterat aliud eligere; cum ut supra 
+      <lb ed="#P" n="95"/>monstratum est, libertas ejus pendeat ex 
+      indiffe<lb ed="#P" n="96" break="no"/>rentia judicii rationis. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e762">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Ex qua responsione solvitur etiam secundum 
+      ar<lb ed="#P" n="98" break="no"/>gumentum, quod tale est: Si voluntas non potest 
+      <lb ed="#P" n="99"/>non sequi judicium ultimum rationis; ergo talis 
+      ac<lb ed="#P" n="100" break="no"/>tus non erit electio; nam electionem esse constat 
+      in<lb ed="#P" n="101" break="no"/>ter multa proposita, oblata, seu repraesentata. 
+      Res<lb ed="#P" n="102" break="no"/>pondetur enim, actum illum vere &amp; proprie dici 
+      e<lb ed="#P" n="103" break="no"/>lectionem, quia illo actu voluntas vere &amp; proprie 
+      <lb ed="#P" n="104"/>elegit e multis unum ad quae intellectus habebat 
+      in<lb ed="#P" n="105" break="no"/>differentiam judicii; propterea quod non haberent 
+      <lb ed="#P" n="106"/>necessariam cum fine connexionem. Erant autem 
+      <lb ed="#P" n="107"/>ea multa voluntati proposita &amp; oblata, non per 
+      ul<lb ed="#P" n="108" break="no"/>timum judicium rationis, sed per intellectum 
+      consi<lb ed="#P" n="109" break="no"/>derantem in unoquoque eorum aliquam rationem 
+      <lb ed="#P" n="110"/>boni appetibilis, &amp; ad finem ordinabilis. In ea 
+      <lb ed="#P" n="111"/>enim consideratione fons est libertatis, quae 
+      com<lb ed="#P" n="112" break="no"/>petit voluntati. Aliter quoque responderi potest, si 
+      <lb ed="#P" n="113"/>dicamus nomen electionis non praecise significare 
+      <lb ed="#P" n="114"/>cium rationis, sed in plena sui ratione simul 
+      inclu<lb ed="#P" n="115" break="no"/>actum voluntatis, qui consequitur ultimum 
+      judi<lb ed="#P" n="116" break="no"/>dere illud judicium. Quod voluisse videtur S. 
+      Tho<lb ed="#P" n="117" break="no"/>mas in 1. 2. quaest. 13. art. 1. cum dicit, electionem 
+      <lb ed="#P" n="118"/>esse quidem actum elicitum a voluntate; sed tamen 
+      <lb ed="#P" n="119"/>importare etiam actum rationis. Unde &amp; 
+      Philoso<lb ed="#P" n="120" break="no"/>phus lib. 3. Ethic. cap. 3. electionem vocat 
+      consulta<lb ed="#P" n="121" break="no"/>tivam appetitionem; &amp; lib. 6. cap. 2. dicit eam esse 
+      <lb ed="#P" n="122"/>appetitum intellectivum, vel intellectum 
+      appeti<lb ed="#P" n="123" break="no"/>tivum. Sed &amp; lib. 7. cap. 3. dicit electionem esse 
+      <lb ed="#P" n="124"/>quasi conclusionem syllogismi practici, quia 
+      nimi<lb ed="#P" n="125" break="no"/>rum ea conclusio cum actu voluntatis qui illam 
+      ne<lb ed="#P" n="126" break="no"/>cessario consequitur, videtur electionem: 
+      consti<lb ed="#P" n="127" break="no"/>tuere. Et hac ratione fortassis Gregorius Nyssenus 
+      <lb ed="#P" n="128"/>lib. 5. de Philosophia c. 4. scripsit, electionem esse 
+      <lb ed="#P" n="129"/>quid compositum ex consilio &amp; appetitu. Cum 
+      igi<lb ed="#P" n="130" break="no"/>tur ex his appareat in electione utrumque 
+      contine<lb ed="#P" n="131" break="no"/>ri, scilicet ultimum judicium rationis, &amp; ex eo 
+      se<lb ed="#P" n="132" break="no"/>quentem motum voluntatis, facile videre est, 
+      quo<lb ed="#P" n="133" break="no"/>modo electio sit inter multa, ac proinde vero nomine 
+      <lb ed="#P" n="134"/>electio vocetur. Veruntamen quoniam adhuc 
+      ob<lb ed="#P" n="135" break="no"/>jici potest illum ipsum voluntatis motum praecise 
+      <lb ed="#P" n="136"/>consideratum vere dici electionem, quia per illum 
+      <lb ed="#P" n="137"/>formaliter voluntas eligit, ideo recurrendum 
+      vide<lb ed="#P" n="138" break="no"/>tur ad priorem argumenti solutionem.
+    </p>
+            <p xml:id="bt67yj-p089813-d1e858">
+               <lb ed="#P" n="139"/>Tertium argumentum: Si voluntas necessario 
+      se<lb ed="#P" n="140" break="no"/>quitur judicium ultimum rationis, nunquam ergo 
+      <lb ed="#P" n="141"/>poterit eligere minus bonum relicto majori, 
+      ratio<lb ed="#P" n="142" break="no"/>ne non errante. Item propositis duobus bonis 
+      ae<lb ed="#P" n="143" break="no"/>qualibus neutrum eligere poterit, siquidem hic 
+      ra<lb ed="#P" n="144" break="no"/>tio neutrum alteri praeponit. Respondeo id quod 
+      <lb ed="#P" n="145"/>absolute minus bonum est, posse judicari sine 
+      er<lb ed="#P" n="146" break="no"/>rore hic &amp; nunc esse majus bonum &amp; sic eligi. 
+      <lb ed="#P" n="147"/>Quandiu autem ratio neultrum alteri praeponit, 
+      <lb ed="#P" n="148"/>non potest fieri electio; quia nondum perventum 
+      <!--0467.xml-->
+      <pb ed="#P" n="234"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>est ad ultimum judicium practicum; cujus proprium A 
+      <lb ed="#P" n="2"/>est officium, unum prae alio acceptandum proponere, 
+      <lb ed="#P" n="3"/>ut sequatur electio. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e896">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Quartum: Augustinus libro 12. de civit. cap. 6. 
+      <lb ed="#P" n="5"/>dicit: Si aliqui duo aequaliter affecti animo &amp; 
+      cor<lb ed="#P" n="6" break="no"/>pore, &amp; aequaliter tentati, videant unius corporis 
+      <lb ed="#P" n="7"/>pulchritudinem, qua visa unus impudice moveatur, 
+      <lb ed="#P" n="8"/>alter in voluntate pudica stabilis perseveret; nihil 
+      <lb ed="#P" n="9"/>aliud apparere quod hanc in illis faciat diversitatem, 
+      <lb ed="#P" n="10"/>nisi quia unus voluit, alter noluit a castitate 
+      defice<lb ed="#P" n="11" break="no"/>re: Atqui judicium rationis ad affectionem animi 
+      <lb ed="#P" n="12"/>pertinet; ergo eodem judicio utrimque posito unus 
+      <lb ed="#P" n="13"/>poterit velle, alter nolle¬ 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e922">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Quidam respondent in his duobus diversa esse 
+      ju<lb ed="#P" n="15" break="no"/>dicia ultima rationis ex ipsa diversitate voluntatum. 
+      <lb ed="#P" n="16"/>Nam, ut aiunt, unus quia volet judicabit sibi 
+      fruen<lb ed="#P" n="17" break="no"/>dum esse voluptate; alter quia volet judicabit esse 
+      <lb ed="#P" n="18"/>resistendum. Sed haec responsio incidit in eadem 
+      in<lb ed="#P" n="19" break="no"/>commoda quae sequebantur ex simili responsione 
+      <lb ed="#P" n="20"/>superius allata &amp; refutata. Breviter quoque sic 
+      re<lb ed="#P" n="21" break="no"/>fellitur: Si enim judicabit quia volet, hoc autem 
+      <lb ed="#P" n="22"/>velle actus est &amp; electio voluntatis; igitur actus &amp; 
+      <lb ed="#P" n="23"/>electio voluntatis prior est judicio rationis, &amp; 
+      proin<lb ed="#P" n="24" break="no"/>de concidit tota haec doctrina, qua docetur omnem 
+      <lb ed="#P" n="25"/>electionem voluntatis ita dependere a ratione, ut 
+      <lb ed="#P" n="26"/>judicium ejus practicum necessario sequatur. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e955">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Potius ergo respondendum videtur, Augustinum 
+      <lb ed="#P" n="28"/>sub voluntate comprehendere etiam conclusionem 
+      <lb ed="#P" n="29"/>judicii rationis; ut cui necessario &amp; inseparabiliter 
+      <lb ed="#P" n="30"/>conjuncta est acceptatio voluntatis. Dicuntur 
+      au<lb ed="#P" n="31" break="no"/>tem illi duo aequaliter animo affecti quoad totum 
+      <lb ed="#P" n="32"/>illud, quod hanc voluntatem, qua inter se 
+      dissen<lb ed="#P" n="33" break="no"/>tiunt, praecedit. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e975">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Postremum: Deus judicando falli non potest, sed 
+      <lb ed="#P" n="35"/>de unaquaque re judicat secundum veritatem; idem 
+      <lb ed="#P" n="36"/>tamen facere potest minus bonum, omisso magis 
+      <lb ed="#P" n="37"/>bono. Constat enim inter Theologos, eum potuisse 
+      <lb ed="#P" n="38"/>facere meliora iis quae fecit. Potuit quoque nullam 
+      <lb ed="#P" n="39"/>producere creaturam, &amp; tamen producere 
+      creatu<lb ed="#P" n="40" break="no"/>ram melius est, quam non producere; ergo voluntas 
+      <lb ed="#P" n="41"/>non necessario sequitur judicium intellectus. Cum 
+      <lb ed="#P" n="42"/>enim ejusdem rationis sit liberum arbitrium in 
+      Deo<lb ed="#P" n="43" break="no"/>&amp; in nobis, si ad ejus rationem, quatenus in nobis 
+      <lb ed="#P" n="44"/>est, pertineret necessario sequi judicium intellectus, 
+      <lb ed="#P" n="45"/>idem sequeretur in Deo¬ 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e1006">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Quidam respondent Deum quando aliquid agit. 
+      <lb ed="#P" n="47"/>tametsi sciat se melius aliquid facere posse; ideo 
+      ta<lb ed="#P" n="48" break="no"/>men illud agere, quia judicat tunc illud maxime 
+      ex<lb ed="#P" n="49" break="no"/>pedire. At haec responsio nequaquam effugit 
+      diffi<lb ed="#P" n="50" break="no"/>cultatem. Sicut enim Deus potest facere meliora, sic 
+      <lb ed="#P" n="51"/>&amp; ea quae magis expediunt iis quae facit. Nam si 
+      <lb ed="#P" n="52"/>non potest agere nisi quae maxime expediunt, haec 
+      <lb ed="#P" n="53"/>autem sunt quae judicat maxime expedire &amp; 
+      proin<lb ed="#P" n="54" break="no"/>de agit, sequitur res absurda &amp; damnata; Deum non 
+      <lb ed="#P" n="55"/>posse agere, nisi quae agit. Certe cum Deus, exempli 
+      <lb ed="#P" n="56"/>gratia, convertit hunc peccatorem, potest pro 
+      li<lb ed="#P" n="57" break="no"/>bertate suae voluntatis eum non convertere, sed 
+      re<lb ed="#P" n="58" break="no"/>linquere in peccato, &amp; eadem ratio est de aliis 
+      quae<lb ed="#P" n="59" break="no"/>cunque agit ad extra, nec tamen dici potest 
+      opposi<lb ed="#P" n="60" break="no"/>ta simul maxime expedire. Igitur judicium quo 
+      <lb ed="#P" n="61"/>Deus judicat aliquid maxime expedire, non est 
+      re<lb ed="#P" n="62" break="no"/>gula agendorum. Adde quod Deus ipse facit media 
+      <lb ed="#P" n="63"/>esse expedientia ad finem. Quare non est dicendum, 
+      <lb ed="#P" n="64"/>ideo Deum facere quippiam, quia judicat illud 
+      ma<lb ed="#P" n="65" break="no"/>xime expedire. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e1054">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Alia responsio est, diversam esse rationem de Deo 
+      <lb ed="#P" n="67"/>&amp; de creatura intellectuali; propterea quod Deo 
+      <lb ed="#P" n="68"/>competat summa &amp; perfectissima libertas ad omnia, 
+      <lb ed="#P" n="69"/>quae potentiae ejus subjacent, qua ratione eligere 
+      <lb ed="#P" n="70"/>possit quidlibet ex iis; libertas autem creaturae 
+      in<lb ed="#P" n="71" break="no"/>tellectualis limitata sit ad judicium rationis. Sed nec 
+      <lb ed="#P" n="72"/>ista responsio valet. Quantumvis enim summa sit 
+      <lb ed="#P" n="73"/>in Deo libertas, ea tamen subordinatur intellectui 
+      <lb ed="#P" n="74"/>divino; ita ut sicut velle non potest nisi intellectu 
+      <!--0467.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>cognitum, sic nec libere velle vel agere quippiam. 
+      <lb ed="#P" n="76"/>possit, nisi intellectus practico suo judicio id 
+      agen<lb ed="#P" n="77" break="no"/>dum decreverit. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e1090">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Vera igitur responsio, ni fallor, est, actum liberum 
+      <lb ed="#P" n="79"/>voluntatis divinae dependere necessario a judicio 
+      <lb ed="#P" n="80"/>practico intellectus ejus; non quo judicat hoc esse 
+      <lb ed="#P" n="81"/>melius, aut hoc maxime impedire, sed quo judicat 
+      <lb ed="#P" n="82"/>hoc tanquam medium ad finem ordinabile, 
+      idem<lb ed="#P" n="83" break="no"/>que contingens &amp; indifferens, esse nunc actualiter 
+      <lb ed="#P" n="84"/>ad finem, id est, bonitatem suam ordinandum. De 
+      <lb ed="#P" n="85"/>qua re vide <name xml:id="bt67yj-p089813-Nd1e1111">Dom. Bannes</name> in parte 1. quaest. 19. 
+      arti<lb ed="#P" n="86" break="no"/>culo 10. Praeponit autem intellectus Dei practicus 
+      <lb ed="#P" n="87"/>hoc illi ex mera libertate sua intellectuali, eo quod 
+      <lb ed="#P" n="88"/>inter agibilia potentiae ejus subjecta nihil altero sit 
+      <lb ed="#P" n="89"/>melius, magisve expediens, in ordine ad Deum 
+      ve<lb ed="#P" n="90" break="no"/>lut actione vel opere aliquo perficiendum, quippe 
+      <lb ed="#P" n="91"/>qui in semet ipso perfectissimus bonorum nostrorum 
+      <lb ed="#P" n="92"/>non eget. Atque haec ratio est summae ac prorsus 
+      <lb ed="#P" n="93"/>absolutae in Deo libertatis. 
+    </p>
+            <p xml:id="bt67yj-p089813-d1e1132">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Possunt huc praeterea adferri argumenta, quae 
+      <lb ed="#P" n="95"/>contendunt voluntatem peccare posse stante recto 
+      <lb ed="#P" n="96"/>judicio rationis practicae. Sed ea jam soluta sunt 
+      <lb ed="#P" n="97"/>ad dist. 22. ubi disputabatur, an omnis peccans 
+      <lb ed="#P" n="98"/>erret. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

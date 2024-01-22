@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="370"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p143265"><!-- l2d33c4" -->
+            <head xml:id="bt67yj-p143265-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p143265-Hd1e103" type="question-title">Adae peccatum fueritne unum, an plura</head>
+            <p xml:id="bt67yj-p143265-d1e106">
+               <lb ed="#P" n="39"/>§. 4. Adae peccatum fueritne unum, an plura?
+    </p>
+            <p xml:id="bt67yj-p143265-d1e111">
+               <lb ed="#P" n="40"/>QUod dictum est unicum esse in singulis 
+      nascen<lb ed="#P" n="41" break="no"/>tibus peccatum originale, alio quoque 
+      argu<lb ed="#P" n="42" break="no"/>mento probare conantur quidam, quia videlicet 
+      pri<lb ed="#P" n="43" break="no"/>ma hominis transgressio ex qua peccatum originale 
+      <lb ed="#P" n="44"/>in omnes homines transiit, unicum fuit peccatum, 
+      <lb ed="#P" n="45"/>non plura. Sed hoc quatenus veritatem habeat, 
+      consi<lb ed="#P" n="46" break="no"/>derandum est. Nam primi hominis transgressionem 
+      <lb ed="#P" n="47"/>singulari numero peccatum vel delictum vocari in 
+      <lb ed="#P" n="48"/>sacris literis satis quidem constat; ut Rom. 6. Si enim 
+      <lb ed="#P" n="49"/>unius delicto multi mortui sunt. Et rursum. Nam 
+      judi<lb ed="#P" n="50" break="no"/>cium qui lem ex uno, intellige delicto, in condemnatio 
+      <lb ed="#P" n="51"/>nem. Quo loco nihil vetat ipsius Adae delictum 
+      intel<lb ed="#P" n="52" break="no"/>ligi, tametsi alii malint intelligere peccatum ex Adae 
+      <lb ed="#P" n="53"/>delicto originaliter contractum. Et iterum: Si enim 
+      <lb ed="#P" n="54"/>in unius delicto mors regnavit per unum. Et Sap. 10. a 
+      <lb ed="#P" n="55"/>delicto suo per sapientiam eductus dicitur primus 
+      ho<lb ed="#P" n="56" break="no"/>mo. Hoc modo passim &amp; Patres locutos legimus, ut 
+      <lb ed="#P" n="57"/>Augustinum Enchir. 45. &amp; 46. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-p143265-d1e153">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Caeterum si historiam Genesis, qua transgressio 
+      <lb ed="#P" n="59"/>primi hominis describitur, diligenter inspiciamus, 
+      <lb ed="#P" n="60"/>simul &amp; ea quae circa dist. 22. hujus libri dicta sunt 
+      <lb ed="#P" n="61"/>memoria repetamus, facile intelligetur, non 
+      simpli<lb ed="#P" n="62" break="no"/>citer unum fuisse peccatum in prima hominis 
+      trans<lb ed="#P" n="63" break="no"/>gressione, sed revera plura actualia peccata in ea 
+      <lb ed="#P" n="64"/>contineri. Primum enim fuit peccatum superbia, 
+      <lb ed="#P" n="65"/>concepta ex illis tentatoris verbis: Eritis sicut Dii, 
+      <lb ed="#P" n="66"/>scientes bonum &amp; malum. Alterum fuit infidelitas, qua 
+      <lb ed="#P" n="67"/>&amp; Deo non credidit mortem ex vetita fructus 
+      co<lb ed="#P" n="68" break="no"/>mestione comminanti, &amp; serpenti credidit 
+      promit<lb ed="#P" n="69" break="no"/>tenti, futurum ut ex eadem comestione &amp; Deo 
+      si<lb ed="#P" n="70" break="no"/>milis fieret, &amp; boni malique scientiam acciperet. 
+      <lb ed="#P" n="71"/>Tertium, esus ipse ligni vetiti, in, quo nihilominus 
+      <lb ed="#P" n="72"/>externo opere duo peccata, furtum &amp; gula, quae 
+      <!--0603.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>plerumque separatim committi solent; conjuncta 
+      <lb ed="#P" n="74"/>inveniuntur. Haec &amp; alia nonnulla peccata in una 
+      <lb ed="#P" n="75"/>illa primi hominis transgressione, praeter 
+      Augusti<lb ed="#P" n="76" break="no"/>num Enchir. 45. a Magistro citatum, considerarunt 
+      <lb ed="#P" n="77"/>&amp; alii Patres, ut Ambrosius in 4. Luc. tractans 
+      ten<lb ed="#P" n="78" break="no"/>tationem Christi &amp; Gregorius hom. 16. 
+    </p>
+            <p xml:id="bt67yj-p143265-d1e209">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Neque vero dicendum est, plura haec peccata ita 
+      <lb ed="#P" n="80"/>concurrere in unum, sicut de originali supra diximus. 
+      <lb ed="#P" n="81"/>Simpliciter enim originale peccatum unum est 
+      se<lb ed="#P" n="82" break="no"/>cundum formalem rationem, ut ex §. superiori 
+      pa<lb ed="#P" n="83" break="no"/>tet, actualis autem Adae transgressio plura actualia 
+      <lb ed="#P" n="84"/>peccata complexa est, tametsi omnia in unum finem 
+      <lb ed="#P" n="85"/>concurrentia; videlicet ambitionem, qua appetivit 
+      <lb ed="#P" n="86"/>aequalitatem Dei. Cujus quidem finis ratione nihil 
+      <lb ed="#P" n="87"/>vetat totam illam transgressionem quodam sensu 
+      <lb ed="#P" n="88"/>unum peccatum dici; sicut quimentitur aut pejerat 
+      <lb ed="#P" n="89"/>ut rem alienam occupet, unum quodammodo 
+      pec<lb ed="#P" n="90" break="no"/>catum committit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

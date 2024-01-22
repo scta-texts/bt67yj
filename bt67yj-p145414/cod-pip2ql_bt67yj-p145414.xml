@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="375"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p145414"><!-- l2d34c1" -->
+            <head xml:id="bt67yj-p145414-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p145414-Hd1e103" type="question-title">Qua sit prima peccati origo</head>
+            <p xml:id="bt67yj-p145414-d1e106">
+               <lb ed="#P" n="85"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="86"/>TRICESIMAMQUARTAM. 
+      <lb ed="#P" n="87"/>§. 1. Qua sit prima peccati origo.
+    </p>
+            <p xml:id="bt67yj-p145414-d1e115">
+               <lb ed="#P" n="88"/>INQUIRIT Magister hac distinct. mali, id est, 
+      <lb ed="#P" n="89"/>peccati originem. Cui inquisitioni jam ex 
+      par<lb ed="#P" n="90" break="no"/>te satisfactum est per ea quae diximus circa 
+      <lb ed="#P" n="91"/>distinct. 6. &amp; 22. hujus libri, quarum priore de 
+      <lb ed="#P" n="92"/>origine peccati in angelo, posteriore de ejusdem 
+      <lb ed="#P" n="93"/>origine in primo homine tractata est quaestio. Pro 
+      <lb ed="#P" n="94"/>majore autem dictae quaestionis explicatione 
+      notan<lb ed="#P" n="95" break="no"/>dum est, malum culpae, de quo hic sermo est, 
+      trifa<lb ed="#P" n="96" break="no"/>riam intelligi posse; vel ut tribuitur actui exteriori, 
+      <lb ed="#P" n="97"/>vel ut actui interiori, vel ut habitui. Peccatum 
+      igi<lb ed="#P" n="98" break="no"/>tur quod est in actu externo, sicut &amp; illud quod in 
+      <lb ed="#P" n="99"/>habitu consistit, facile in suam refertur originem. 
+      <lb ed="#P" n="100"/>Actus enim exterior ab interiore procedit, ut 
+      fur<lb ed="#P" n="101" break="no"/>tum vel mendacium a voluntate furandi, vel 
+      men<lb ed="#P" n="102" break="no"/>tiendi; &amp; habitus malus ab actu vel actibus malis 
+      <lb ed="#P" n="103"/>causatur. Quia enim mala facimus, mali sumus. 
+    </p>
+            <p xml:id="bt67yj-p145414-d1e152">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Sed de origine ejus peccati, quod est in actu 
+      inte<lb ed="#P" n="105" break="no"/>riore voluntatis, difficilior est quaestio. Ad quam 
+      ni<lb ed="#P" n="106" break="no"/>hilominus absque dubitatione respondendum est, 
+      <lb ed="#P" n="107"/>primam ejus originem neque Deum esse, qui est 
+      <lb ed="#P" n="108"/>summum, increatum, ac perfectissimum bonum 
+      <lb ed="#P" n="109"/>idemque omnium bonorum fons &amp; origo; neque 
+      <lb ed="#P" n="110"/>principium aliquod malum, velut omnium 
+      malo<lb ed="#P" n="111" break="no"/>rum fontem, cujusmodi commentus est Manichaeus. 
+      <lb ed="#P" n="112"/>Sed bonum creatum ac defectibile, voluntatem 
+      vi<lb ed="#P" n="113" break="no"/>delicet intellectualis creaturae. Ea enim quatenus ex 
+      <lb ed="#P" n="114"/>nihilo facta est, potest ab eo a quo facta est deficere 
+      <lb ed="#P" n="115"/>atque a regula justitiae divinae deviare, sicut in 
+      uni<lb ed="#P" n="116" break="no"/>versum omnis creatura quatenus ex nihilo est, 
+      po<lb ed="#P" n="117" break="no"/>test in nihilum redire. 
+    </p>
+            <p xml:id="bt67yj-p145414-d1e188">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Haec Aug. doctrina est variis locis, iis praesertim, 
+      <lb ed="#P" n="119"/>quibus contra Manichaeos disputat, ut toto libro de 
+      <lb ed="#P" n="120"/>duabus animabus: (Duas enim singulis hominibus 
+      <lb ed="#P" n="121"/>animas tribuebant Manichaei; alteram bonam a 
+      bo<lb ed="#P" n="122" break="no"/>no Deo datam; alteram malam a malo, ut opera 
+      ho<lb ed="#P" n="123" break="no"/>minis tam bona quam mala suis quaeque principiis 
+      <lb ed="#P" n="124"/>assignarent.) Item lib. 2. de nuptiis &amp; 
+      concupiscen<lb ed="#P" n="125" break="no"/>tia cap. 28. lib. 1. contra Julianum cap. 3. &amp; ult. &amp; 
+      <lb ed="#P" n="126"/>lib. 3. cap. 5. Rursum libro de haeresibus in haeresi 
+      <lb ed="#P" n="127"/>Manichaeorum. Enchir. 15. 23. &amp; 24. lib. 1. de libero 
+      <lb ed="#P" n="128"/>arbitrio, cap. 1. &amp; lib. 3. cap. 17: &amp; lib. 6. contra 
+      Ju<lb ed="#P" n="129" break="no"/>lianum cap. 21. Et lib. 12. de civit. Dei cap. 1. 6. &amp; 
+      <lb ed="#P" n="130"/>7. Et ante Augustinum Dionysius Areopag. libro 
+      <lb ed="#P" n="131"/>de divinis nominis capite 4. parte 4. de eadem re 
+      <lb ed="#P" n="132"/>late disputat.
+    </p>
+            <p xml:id="bt67yj-p145414-d1e225">
+               <lb ed="#P" n="133"/>Et quorum authorum testimoniis ostenditur 
+      im<lb ed="#P" n="134" break="no"/>primis peccati primam originem non esse rem 
+      ma<lb ed="#P" n="135" break="no"/>lam, sed bonam. Deinde peccati proprie non esse 
+      <lb ed="#P" n="136"/>causam effic ientem, sed deficientem, eo quod 
+      pecca<lb ed="#P" n="137" break="no"/>tum ipsum defectus sit &amp; privatio boni. Postremo 
+      <lb ed="#P" n="138"/>eam ipsam causam, nempe voluntatem, deficere 
+      pos<lb ed="#P" n="139" break="no"/>se, non quatenus est a Deo, sed quatenus ex nihilo
+    </p>
+            <p xml:id="bt67yj-p145414-d1e243">
+      <!--0609.xml-->
+               <pb ed="#P" n="376"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Ad id vero quod objici potest ex evangelio 
+      <lb ed="#P" n="2"/>Matth. 7. Non potest arbor bona malos fructus facere, 
+      <lb ed="#P" n="3"/>respondetur cum <ref xml:id="bt67yj-p145414-Rd1e258">Augustino Enchir. 15.</ref> arborem 
+      bo<lb ed="#P" n="4" break="no"/>nam intelligi, non naturam vel naturalem 
+      poten<lb ed="#P" n="5" break="no"/>tiam, quam voluntatem dicimus, sed bonum 
+      interio<lb ed="#P" n="6" break="no"/>rem voluntatis actum. Hunc enim Augustinus 
+      vo<lb ed="#P" n="7" break="no"/>luntatem bonam nominat. Quamvis ergo arbor bona 
+      <lb ed="#P" n="8"/>fructus malos facere non possit; sicut tamen ex bona 
+      <lb ed="#P" n="9"/>terra &amp; vites nascuntur &amp; spinae; ita, inquit, ex 
+      bo<lb ed="#P" n="10" break="no"/>na hominis natura oriri voluntas &amp; bona potest &amp; 
+      <lb ed="#P" n="11"/>mala. Nec fuit prorsus unde primitus oriretur 
+      vo<lb ed="#P" n="12" break="no"/>luntas mala, nisi ex angeli &amp; hominis natura bona. 
+      <lb ed="#P" n="13"/>Quod &amp; ipse Dominus eodem loco, ubi de arbore &amp; 
+      <lb ed="#P" n="14"/>fructibus loquebatur, apertissime ostendit. Ait enim: 
+      <lb ed="#P" n="15"/>Aut facite arborem bonam &amp; fructum ejus bonum, 
+      <lb ed="#P" n="16"/>aut facite arborem malam &amp; fructum ejus malum: 
+      <lb ed="#P" n="17"/>satis admonens ex arbore quidem bona malos, aut ex 
+      <lb ed="#P" n="18"/>mala bonos nasci fructus non posse: ex ipsa tamen 
+      ter<lb ed="#P" n="19" break="no"/>ra, cui loquebatur, utramque arborem oriri posse. Haec 
+      <lb ed="#P" n="20"/>Augustinus. 
+    </p>
+            <p xml:id="bt67yj-p145414-d1e298">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Jam si objicias, voluntatem tam angeli, quam 
+      ho<lb ed="#P" n="22" break="no"/>minis, etiam in significatione actus bonam, id est, 
+      <lb ed="#P" n="23"/>justam &amp; rectam fuisse ab initio, ut superioribus 
+      de<lb ed="#P" n="24" break="no"/>monstratum est, &amp; proinde ex ea non potuisse 
+      exori<lb ed="#P" n="25" break="no"/>ri malum; Respondemus cum Augustino, non ex 
+      <lb ed="#P" n="26"/>actu voluntatis bono, sed ex naturali facultate 
+      li<lb ed="#P" n="27" break="no"/>beri arbitrii, quae non nisi bona naturaliter est, 
+      pro<lb ed="#P" n="28" break="no"/>cessisse peccatum; quando videlicet relicto bono 
+      in<lb ed="#P" n="29" break="no"/>commutabili in cujus amore creata erat, convertit 
+      <lb ed="#P" n="30"/>se ad bonum commutabile, deficiens nimirum a 
+      re<lb ed="#P" n="31" break="no"/>ctitudine divinae atque aeternae legis. Nec enim aliud 
+      <lb ed="#P" n="32"/>est peccare, quam a lege Dei deficere. Quomodo 
+      <lb ed="#P" n="33"/>autem intelligere oporteat in voluntate hujus 
+      de<lb ed="#P" n="34" break="no"/>fectionis causam, explicat Augustinus libro 12. de 
+      <lb ed="#P" n="35"/>civitate capite 6. &amp; 7. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

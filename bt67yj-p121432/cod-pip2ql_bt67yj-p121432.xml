@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 32</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 32</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="313"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p121432"><!-- l2d26c32" -->
+            <head xml:id="bt67yj-p121432-Hd1e101">Capitulum 32</head>
+            <head xml:id="bt67yj-p121432-Hd1e103" type="question-title">Ejusdem sententiae probatio ex Patribus 
+      et Conciliis</head>
+            <p xml:id="bt67yj-p121432-d1e106">
+               <lb ed="#P" n="11"/>§. 32. Ejusdem sententiae probatio ex Patribus 
+      <lb ed="#P" n="12"/>&amp; Conciliis.
+    </p>
+            <p xml:id="bt67yj-p121432-d1e113">
+               <lb ed="#P" n="13"/>HAc tanta scripturarum authoritate adducti 
+      <lb ed="#P" n="14"/>Patres merito sententiam illam Pelagii, qua 
+      <lb ed="#P" n="15"/>Dei gratiam quadantenus agnoscens, dicebat eam 
+      <lb ed="#P" n="16"/>dari secundum merita nostra, inter 12. ejus articulos 
+      <lb ed="#P" n="17"/>haereticos octavo loco damnarunt anathemate, 
+      at<lb ed="#P" n="18" break="no"/>que illi sententiae contrarium dogma fide tenendum 
+      <lb ed="#P" n="19"/>decreverunt. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e131">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Factum id in syn. Palaestina Diospoli habita, ubi 
+      <lb ed="#P" n="21"/>&amp; Pelagius ipse praesens, ne damnaretur, illum 
+      ar<lb ed="#P" n="22" break="no"/>ticulum una cum caeteris, tametsi non ex animo, 
+      re<lb ed="#P" n="23" break="no"/>cantavit atque damnavit. Cujus definitionis 
+      memi<lb ed="#P" n="24" break="no"/>nit imprimis Augustinus epist. 106. ad Paulinum 
+      <lb ed="#P" n="25"/>&amp; 107. ad Vitalem, quibus locis articulos ipsos 12. 
+      <lb ed="#P" n="26"/>ordine recenset. Meminit praeterea idem August. in 
+      <lb ed="#P" n="27"/>epist. 105. ad Sixtum, lib. 1. contra duas epistolas 
+      <lb ed="#P" n="28"/>Pelagianorum cap. 19. &amp; lib. de praedestinatione 
+      <lb ed="#P" n="29"/>Sanctorum cap. 2. Item Prosper ad capita Gallorum 
+      <lb ed="#P" n="30"/>resp. 8. &amp; contra Coll. cap. 10. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e161">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Repetita est eadem definitio in concilio 
+      Arausica<lb ed="#P" n="32" break="no"/>no. Nam post canones ejus concilii complures, 
+      qui<lb ed="#P" n="33" break="no"/>bus docetur hominem ex se nihil quod ad pietatem 
+      <lb ed="#P" n="34"/>&amp; salutem vitae aeternae pertineat posse, sine gratia 
+      <lb ed="#P" n="35"/>Dei; tandem ultimo canon. sic ioquitur: ipsum 
+      <lb ed="#P" n="36"/>Deum nobis, nullis praecedentibus bonis meritis, &amp; 
+      <lb ed="#P" n="37"/>fidem &amp; amorem sui prius inspirare, ut &amp; baptism. 
+      <lb ed="#P" n="38"/>sacramenta fideliter requiramus, &amp; post baptismum 
+      <lb ed="#P" n="39"/>cum ipsius adjutorio, ea quae sibi sunt placita, 
+      imple<lb ed="#P" n="40" break="no"/>re possimus. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e187">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Probat &amp; confirmat eam Patrum sententiam 
+      sy<lb ed="#P" n="42" break="no"/>nodus Tridentina, cum sess. 6. cap. 5. declarat, 
+      <lb ed="#P" n="43"/>exordium justificationis in adultis a Dei per Christum 
+      <lb ed="#P" n="44"/>Jesum praeveniente gratia sumendum esse, hoc est, 
+      <lb ed="#P" n="45"/>ab ejus vocatione; qua nullis eorum existentibus 
+      <lb ed="#P" n="46"/>meritis vocantur, ut qui per peccata a Deo aversi 
+      <lb ed="#P" n="47"/>erant, per ejus gratiam ad convertendum se ad suam 
+      <lb ed="#P" n="48"/>ipsorum justificationem disponantur. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e209">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Praeter has conciliorum definitiones, etsi 
+      singulo<lb ed="#P" n="50" break="no"/>rum Patrum testimonia non sint exigenda; quo 
+      ta<lb ed="#P" n="51" break="no"/>men illustrior appareat ecclesiae doctrina, quasdam 
+      <lb ed="#P" n="52"/>paucorum, sed praecipuorum sententias 
+      annotabi<lb ed="#P" n="53" break="no"/>mus. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e225">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Hieronymus in comment. opistolae ad 
+      Philemo<lb ed="#P" n="55" break="no"/>nem: Gratia est, inquit, qua nullo merito nec opere 
+      <lb ed="#P" n="56"/>salvamur. Et super epist. ad Ephes. 2. Absque cruore 
+      <lb ed="#P" n="57"/>Domim Jesu nemo appropinquat Deo. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e238">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Augustinus tract. 86. m. Joan. Gratia non invenit, 
+      <lb ed="#P" n="59"/>sed efficit merita. Et iterum: In omnibus 
+      misericor<lb ed="#P" n="60" break="no"/>dia Dei praevenit nos, &amp; libro de peccato originali 
+      <lb ed="#P" n="61"/>cap. 24. Spiritus ubi vult spirat, non merita sequens, 
+      <lb ed="#P" n="62"/>sed etiam ipsa merita faciens. Et in expositione Psal. 
+      <lb ed="#P" n="63"/>51. Confitebor tibi quia fecisti non ex meritis meis, 
+      <lb ed="#P" n="64"/>sed ex misericordia tua, ut sperarem in misericordia 
+      <lb ed="#P" n="65"/>tua. Vide eundem libro 2. contra duas epistolas 
+      Pe<lb ed="#P" n="66" break="no"/>lagianorum cap. 8. de gratia &amp; libero arbitrio cap. 
+      <lb ed="#P" n="67"/>14. initio lib. de praedestinatione sanctorum, &amp; in 
+      <lb ed="#P" n="68"/>fine lib. 1. ad Simplicianum, qui locus inter alios, est 
+      <lb ed="#P" n="69"/>bene notandus. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e269">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Leo sermone 1. de jejunio 10. mensis. Causa 
+      repa<lb ed="#P" n="71" break="no"/>rationis nostrae nulla est, nisi misericordia Dei, quae 
+      <!--0546.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>nullis praecedentibus nostris meritis, &amp;c. Item serm. 
+      <lb ed="#P" n="73"/>13. de passione Domini: Miserendi nostri causam 
+      <lb ed="#P" n="74"/>Deus nisi in sua bonitate non habuit. Eundem vide 
+      <lb ed="#P" n="75"/>in epist. 86. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e292">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Prosper lib. 1. de vocatione gentium cap. 8. 
+      Om<lb ed="#P" n="77" break="no"/>nibus, inquit, hominibus causa praecipiendae gratio 
+      <lb ed="#P" n="78"/>voluntas Dei est, apud quam ratio electionis 
+      abscon<lb ed="#P" n="79" break="no"/>dita est, ab ea gratia incipientibus meritis, quam 
+      <lb ed="#P" n="80"/>accepere fine meritis. Idem author videatur in 
+      car<lb ed="#P" n="81" break="no"/>mine de ingratis, &amp; contra Collatorem cap. 6. 
+      <lb ed="#P" n="82"/>&amp; 16. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e312">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Fulgentius libro de incarnatione &amp; gratia Christi 
+      <lb ed="#P" n="84"/>cap. 18. Si nostrum est velle credere, priusquam Dei 
+      <lb ed="#P" n="85"/>gratia nos incipiat adjuvare, injuste gratia dicitur 
+      <lb ed="#P" n="86"/>qui a non gratis datur hominibus, sed bonae 
+      retribui<lb ed="#P" n="87" break="no"/>etur voluntati. Et epist. 6. cap. 7. ut desideremus 
+      ad<lb ed="#P" n="88" break="no"/>jutorium gratiae, hoc ipsum quoque opus est 
+      gra<lb ed="#P" n="89" break="no"/>tiae. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e332">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Gregorius homil. 19. in Ezech. Non virtutibus 
+      <lb ed="#P" n="91"/>venitur ad fidem, sed fide pertingitur ad virtutes? 
+      <lb ed="#P" n="92"/>Et lib. 1. dialog. cap. 4. Omne opus dona 
+      praeve<lb ed="#P" n="93" break="no"/>niunt, quamvis ex subsequenti opere ipsa etiam 
+      do<lb ed="#P" n="94" break="no"/>na succrescunt. Idem hom. 27. in evang. loquens de 
+      <lb ed="#P" n="95"/>donis Dei collatis homini, ait’: Nihil meritis suis 
+      <lb ed="#P" n="96"/>tribuat. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e352">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> His Patribus pulchre consonat Franco in libro de 
+      <lb ed="#P" n="98"/>gratia Dei. Dicit enim tomo 4. quod homo nulla 
+      <lb ed="#P" n="99"/>sapientia sua, nulla virtute sua, nullis meritis suis; 
+      <lb ed="#P" n="100"/>sed sola conditoris sui gratia recuperandi gratiam 
+      <lb ed="#P" n="101"/>additum invenit, citata ad hoc scriptura Deuter. 9. 
+      <lb ed="#P" n="102"/>Ne dicas in corde tuo, propter justitiam meam, &amp;c. 
+      <lb ed="#P" n="103"/>Et tomo 12. Tua, Christe, gratia, inquit, haec 
+      om<lb ed="#P" n="104" break="no"/>nia operatur, quae sic gratis omnibus datur, ut 
+      nul<lb ed="#P" n="105" break="no"/>lius unquam merito, nullius desiderio 
+      praeveia<lb ed="#P" n="106" break="no"/>tur, sed omnes ipsa praeveniat, omnibus ipsa 
+      sub<lb ed="#P" n="107" break="no"/>veniat, omnibus praestet, ut perveniant. Et quae 
+      se<lb ed="#P" n="108" break="no"/>quuntur. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e383">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Sanctorum Patrum sententiis operae pretium est 
+      <lb ed="#P" n="110"/>adjungere verba Philonis Judaei, non Christiani 
+      <lb ed="#P" n="111"/>quidem fortasse, verum in religione Mosaica, &amp; 
+      <lb ed="#P" n="112"/>scripturis antiquae legis haud vulgariter instituti. Ea 
+      <lb ed="#P" n="113"/>sunt in libro de sacrificiis Abel &amp; Can. Votum, 
+      <lb ed="#P" n="114"/>inquit, est petitio boni alicujus a Deo: Mandatum 
+      <lb ed="#P" n="115"/>autem, ut voti compos coronam offerat Deo, non 
+      <lb ed="#P" n="116"/>sibi, idque sine mora, si fieri potest. In hac re qui 
+      <lb ed="#P" n="117"/>peccant, alii per beneficiorum oblivionem gratiarum 
+      <lb ed="#P" n="118"/>actione se privant qua nihil pretiosius, alii vero 
+      <lb ed="#P" n="119"/>per nimiam arrogantiam seipsos authores bonorum 
+      <lb ed="#P" n="120"/>suorum existimant, non illum verum authorem 
+      re<lb ed="#P" n="121" break="no"/>rum onenium. Tertii levius peccant quam proximi, 
+      <lb ed="#P" n="122"/>gravius tamen quam primi. Hi sua bona referunt 
+      <lb ed="#P" n="123"/>quidem ad authorem Deum, sed aiunt se suo 
+      me<lb ed="#P" n="124" break="no"/>rito ea consequi. Esse enim se prudentes, fortes, 
+      <lb ed="#P" n="125"/>temperantes, justos; &amp; ideo dignos censendos divina 
+      <lb ed="#P" n="126"/>gratia. Horum singulis resistit sacra scriptura. Sic 
+      <lb ed="#P" n="127"/>ille, singula deinceps allatis scripturae testimoniis 
+      <lb ed="#P" n="128"/>comprobans. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e431">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Porro ne prolixiores hic simus, semel notandum, 
+      <lb ed="#P" n="130"/>quoties Patres docent omnia nostra merita esse Der 
+      <lb ed="#P" n="131"/>dona, manifeste eos ostendere, quod gratia Dei non 
+      <lb ed="#P" n="132"/>datur secundum merita nostra quae ex nobis sunt; 
+      <lb ed="#P" n="133"/>sic enim aliqua nostra merita non essent Dei dona. 
+      <lb ed="#P" n="134"/>Docent illud, &amp; diligenter inculcant ii maxime 
+      <lb ed="#P" n="135"/>qui contra Pelagianos scripserunt. Quod &amp; 
+      Caelesti<lb ed="#P" n="136" break="no"/>nus papa confirmat in epist. scripta ad Episcopos 
+      <lb ed="#P" n="137"/>Galliae cap. 12. dicens: Tantam erga nos esse Dei 
+      bo<lb ed="#P" n="138" break="no"/>nitatem, ut nostra velit esse merita quae sunt ipsius 
+      dona<lb ed="#P" n="139" break="no"/>Quam sententiam totidem verbis repecit Synodus 
+      <lb ed="#P" n="140"/>Trid. sess. 6. cap. 16. 
+    </p>
+            <p xml:id="bt67yj-p121432-d1e463">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Sciendum denique, huc pertinere omnia 
+      testimo<lb ed="#P" n="142" break="no"/>nia Patrum, quibus docent non ex ullo praeviso 
+      me<lb ed="#P" n="143" break="no"/>rito, sed gratuita Dei misericordia nos 
+      praedesti<lb ed="#P" n="144" break="no"/>nari.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

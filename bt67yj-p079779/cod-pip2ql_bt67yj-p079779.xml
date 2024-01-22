@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 15</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 15</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="206"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p079779"><!-- l2d22c15" -->
+            <head xml:id="bt67yj-p079779-Hd1e101">Capitulum 15</head>
+            <head xml:id="bt67yj-p079779-Hd1e103" type="question-title">Quae juris ignorantia excuset</head>
+            <p xml:id="bt67yj-p079779-d1e106">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> §. 15. Quae juris ignorantia excuset. 
+    </p>
+            <p xml:id="bt67yj-p079779-d1e113">
+               <lb ed="#P" n="76"/>EX superioribus constat, ignorantiam 
+      invinci<lb ed="#P" n="77" break="no"/>Libilem omnino excusare a peccato actum illum 
+      <lb ed="#P" n="78"/>qui ex hujusmodi ignorantia committitur. Quod 
+      qui<lb ed="#P" n="79" break="no"/>dem universaliter obtinet in ignorantia facti, nec non 
+      <lb ed="#P" n="80"/>juris positivi tam divini quam humani. Sed dubitatur 
+      <lb ed="#P" n="81"/>an sit idem sentiendum de ignorantia juris naturalis; 
+      <lb ed="#P" n="82"/>ut si quis exempli gratia, putet mendacium 
+      officio<lb ed="#P" n="83" break="no"/>sum, aut simplicem fornicationem, aut usuram non 
+      <lb ed="#P" n="84"/>esse peccatum, aut si quis sciat quidem v. g. usuram 
+      <lb ed="#P" n="85"/>aut simoniam peccatum esse, sed hunc illumve 
+      con<lb ed="#P" n="86" break="no"/>tractum invincibiliter ignoret esse usurarium aut 
+      si<lb ed="#P" n="87" break="no"/>moniacum. Quaeritur enim an talium ignorantia 
+      in<lb ed="#P" n="88" break="no"/>vincibilis in totum excuset. 
+    </p>
+            <p xml:id="bt67yj-p079779-d1e144">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Quibusdam videtur excusare. Quorum ratio est, 
+      <lb ed="#P" n="90"/>quia ignorantia antecedens &amp; invincibilis id 
+      ha<lb ed="#P" n="91" break="no"/>bet ex genere suo quod actum reddat 
+      involun<lb ed="#P" n="92" break="no"/>tarium. Unde sanctus Thomas I. 2. quaest. 76. art. 3. 
+      <lb ed="#P" n="93"/>generaliter dicit ignorantiam, si sit omnino 
+      invo<lb ed="#P" n="94" break="no"/>luntaria, sive quia invincibilis est, sive quia est ejus 
+      <lb ed="#P" n="95"/>quod quis scire non tenetur, omnino exculare a 
+      <lb ed="#P" n="96"/>peccato. 
+    </p>
+            <p xml:id="bt67yj-p079779-d1e167">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Aliis contra videtur, ignorantiam juris naturalis 
+      <lb ed="#P" n="98"/>neminem prorsus excusare. Censent enim longe 
+      di<lb ed="#P" n="99" break="no"/>versam esse rationem juris naturalis ab ea quae est 
+      <lb ed="#P" n="100"/>facti, vel etiam juris positivi, in ordine ad 
+      ignoran<lb ed="#P" n="101" break="no"/>tiam. Nam ignorantia facti si sit invincibilis, reddit 
+      <lb ed="#P" n="102"/>actum prorsus involuntarium. Qui enim interficit 
+      <lb ed="#P" n="103"/>amicum volens interficere bestiam, nullo modo 
+      <lb ed="#P" n="104"/>vult hunc actum, qui est interficere amicum. 
+      Simi<lb ed="#P" n="105" break="no"/>liter ignorantia juris positivi reddit actum 
+      involun<lb ed="#P" n="106" break="no"/>tarium quoad rationem peccati. Nam qui eum 
+      fa<lb ed="#P" n="107" break="no"/>cit, nescit esse prohibitum; non est autem 
+      hujusmo<lb ed="#P" n="108" break="no"/>di actus peccatum, nisi quatenus prohibitus 
+      est<lb ed="#P" n="109" break="no"/>Quare si ignorantia qua ignorat esse prohibitum, sit 
+      <lb ed="#P" n="110"/>prorsus involuntaria, erit &amp; actus ipse secundum 
+      <lb ed="#P" n="111"/>rationem peccati prorsus involuntarius. At 
+      igno<lb ed="#P" n="112" break="no"/>rantia juris naturalis nunquam facit actum prorsus 
+      <lb ed="#P" n="113"/>involuntarium, etiam qua ratione peccatum est, 
+      <lb ed="#P" n="114"/>quia non facit ut malum prorsus ignoretur, sed 
+      sem<lb ed="#P" n="115" break="no"/>per permittit ipsum aliquo modo sciri. Quamvis 
+      <lb ed="#P" n="116"/>enim qui hac ignorantia laborat, ignoret hoc 
+      ma<lb ed="#P" n="117" break="no"/>lum quod agit, sub ratione generis, id est, nesciat 
+      <lb ed="#P" n="118"/>esse peccatum, novit tamen sub ratione speciei, cui 
+      <lb ed="#P" n="119"/>naturaliter &amp; essentialiter tale genus competit: 
+      <lb ed="#P" n="120"/>exempli causa, qui mentitur officiose, putans tale 
+      <lb ed="#P" n="121"/>mendacium esse licitum, is quidem nescit tale 
+      men<lb ed="#P" n="122" break="no"/>dacium pertinere ad genus peccati, ideóque putat 
+      <lb ed="#P" n="123"/>non esse peccatum; scit tamen se mentiri, &amp; 
+      proiu<lb ed="#P" n="124" break="no"/>de actum qui essentialiter malus est, voluntarie 
+      com<lb ed="#P" n="125" break="no"/>mittit. Eadem ratio in fornicatione, usura, simonia, 
+      <lb ed="#P" n="126"/>ac caeteris per se malis, id est, quaecunque non ideo 
+      <lb ed="#P" n="127"/>mala sunt quia prohibita, sed ideo prohibita atque 
+      <lb ed="#P" n="128"/>illicita, quia mala sunt. 
+    </p>
+            <p xml:id="bt67yj-p079779-d1e241">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Haec videtur sententia Cajet. in 1. 2. q. 76. art. 4. 
+      <lb ed="#P" n="130"/>ubi dicit hujusmodi actus licet ex ignorantia fiant, 
+      <lb ed="#P" n="131"/>esse voluntarios in seipsis per se &amp; directe, non 
+      so<lb ed="#P" n="132" break="no"/>lum materialiter sed formaliter secundum 
+      conver<lb ed="#P" n="133" break="no"/>sionem ad objectum. Nam gentiles, inquit, 
+      nescien<lb ed="#P" n="134" break="no"/>tes scaplicem fornicationem esse peccatum voluntarie, 
+      <lb ed="#P" n="135"/>consentiebant in actum cognitionis mulieris non suae, 
+      <lb ed="#P" n="136"/>unde sumitur fornicationis species, quamvis forte 
+      ali<lb ed="#P" n="137" break="no"/>qui eorum si scivissent esse peccatum, non fecissent. 
+      <lb ed="#P" n="138"/>Haec ille. 
+    </p>
+            <p xml:id="bt67yj-p079779-d1e267">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Huc facit quod Innoc. 3. extra de Simonia cap. 
+      <lb ed="#P" n="140"/>Per tuas, pronunciat cum Simoniacum, qui 
+      nescie<lb ed="#P" n="141" break="no"/>bat id quod egerat, Simoniacum esse, non habita 
+      <lb ed="#P" n="142"/>ratione ignorantiae ejus. 
+      <!--0440.xml-->
+      <pb ed="#P" n="207"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="2"/>Probatur autem haec doctrina ex Aug. qui lib. 6. 
+      <lb ed="#P" n="3"/>contra Julianum cap. 5. dicit per ignorantiam post 
+      <lb ed="#P" n="4"/>baptismum relictam multa adhuc peccata ab 
+      homi<lb ed="#P" n="5" break="no"/>nibus perpetrari, &amp; lib. 1. contra duas epistolas 
+      Pela<lb ed="#P" n="6" break="no"/>gianorum c. 13. ea dicit peccata esse quae secundum 
+      <lb ed="#P" n="7"/>concupiscentiam vel ignorantiam illicite fiunt agens 
+      <lb ed="#P" n="8"/>de ignorantia ex peccato originali relicta, quam 
+      <lb ed="#P" n="9"/>constat non posse omnino in hac vita superari. Idem 
+      <lb ed="#P" n="10"/>lib. 1. retract. cap. 15. dicit eum qui nesciens 
+      pecca<lb ed="#P" n="11" break="no"/>vit, volens tamen fecit, nescire quidem id quod 
+      fe<lb ed="#P" n="12" break="no"/>cit esse peccatum; voluisse tamen id quod peccatum 
+      <lb ed="#P" n="13"/>est, scilicet natura sua. 
+    </p>
+            <p xml:id="bt67yj-p079779-d1e317">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> His porro conforme est quod docet Adrianus quod 
+      <lb ed="#P" n="15"/>lib. 4. eum peccare mortaliter, qui invincibiliter 
+      <lb ed="#P" n="16"/>ignorat actum quem facit esse mortaliter malum. 
+    </p>
+            <p xml:id="bt67yj-p079779-d1e328">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Quid autem dicendum sit ad rationem oppositam, 
+      <lb ed="#P" n="18"/>satis apparet ex dictis. Quatenus enim scitur aliquo 
+      <lb ed="#P" n="19"/>modo peccatum, scilicet in specie per se mala, ea 
+      ra<lb ed="#P" n="20" break="no"/>tione neque ignoratum est, neque involuntarium. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

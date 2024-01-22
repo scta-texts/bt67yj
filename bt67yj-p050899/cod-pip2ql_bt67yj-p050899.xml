@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="132"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p050899"><!-- l2d15c1" -->
+            <head xml:id="bt67yj-p050899-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p050899-Hd1e103" type="question-title">De opere quintae diei annotatio</head>
+            <p xml:id="bt67yj-p050899-d1e106">
+               <lb ed="#P" n="57"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="58"/>DECIMAMQUINTAM. 
+      <lb ed="#P" n="59"/>§. 1. De opere quintae diei annotatio.
+    </p>
+            <p xml:id="bt67yj-p050899-d1e115">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> CIRCA opus quintae dieiqua natatilia, &amp; 
+      vo<lb ed="#P" n="61" break="no"/>latilia facta referuntur. 
+    </p>
+            <p xml:id="bt67yj-p050899-d1e124">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Primo, notandum est in eo quod dicitur: 
+      <lb ed="#P" n="63"/>Producant aquae reptile animae viventis; reptilium 
+      <lb ed="#P" n="64"/>nomine phrasi Hebraea omne genus piscium 
+      com<lb ed="#P" n="65" break="no"/>prehendi; quemadmodum id satis sequentia 
+      scri<lb ed="#P" n="66" break="no"/>pturae verba declarant. Hebraeis namque reptilia 
+      di<lb ed="#P" n="67" break="no"/>cuntur, quaecumque animalia pedibus carent, aut 
+      <lb ed="#P" n="68"/>quibus breves adeo sunt pedes ut non gradiendi sed 
+      <lb ed="#P" n="69"/>reptandi tantummodo usum praebeant. Aquatilia 
+      <!--0365.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>autem pleraque pedibus carent, si qua vero pedes 
+      <lb ed="#P" n="71"/>habent, non ad incessum sed ad reptationem ac 
+      na<lb ed="#P" n="72" break="no"/>tationem dumtaxat iis utuntur. 
+    </p>
+            <p xml:id="bt67yj-p050899-d1e158">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Notandum deinde in genere piscium, cete 
+      pecu<lb ed="#P" n="74" break="no"/>liariter a Moyse nominari his verbis: Creavitque 
+      <lb ed="#P" n="75"/>Deus cete grandia, propterea quod illa ob 
+      immen<lb ed="#P" n="76" break="no"/>sam corporum molem, qua etiam montibus &amp; 
+      insu<lb ed="#P" n="77" break="no"/>lis quibusdam aequantur (ut scribit Basilius homilia 
+      <lb ed="#P" n="78"/>7. Hexameron, Theodoretus in Gen. nec non 
+      Pli<lb ed="#P" n="79" break="no"/>nius libro nono historiae naturalis capite tricesimo, 
+      <lb ed="#P" n="80"/>&amp; libro tricesimosecundo capite primo) maximam 
+      <lb ed="#P" n="81"/>admirationem habeant. Quippe Moysi propositum 
+      <lb ed="#P" n="82"/>fuit ea solum quae inter opera Dei praecipua sunt, 
+      <lb ed="#P" n="83"/>maximeque memorabilia, in hac Genesis mundi 
+      <lb ed="#P" n="84"/>descriptione speciatim exprimere. 
+      <lb ed="#P" n="85"/>Tertio, notandum per cete non unam aliquam 
+      <lb ed="#P" n="86"/>piscium speciem hoc loco intelligi; sed omnes 
+      prae<lb ed="#P" n="87" break="no"/>grandis magnitudinis pisces, cujuscumque sint 
+      spe<lb ed="#P" n="88" break="no"/>ciei. Nam vox Hebraea dracones significat; sed ita 
+      <lb ed="#P" n="89"/>ut eodem nomine pisces ingentis magnitudinis usu 
+      <lb ed="#P" n="90"/>linguae Hebraicae soleant appellari. Quod quidem 
+      <lb ed="#P" n="91"/>ex aliis scripturae locis patet. Dicitur enim psal. 73. 
+      <lb ed="#P" n="92"/>Contribulasti capita draconum in aquis, &amp; 148. 
+      Dra<lb ed="#P" n="93" break="no"/>cones &amp; omnes abyssi, &amp; Ezechiel. 32. Draconi qui 
+      <lb ed="#P" n="94"/>est in mari assimilatus es, &amp; cap. 29. &amp; Isa. 27. 
+    </p>
+            <p xml:id="bt67yj-p050899-d1e210">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Quod si quaeras, cur non ut in piscibus, ita 
+      quo<lb ed="#P" n="96" break="no"/>que in plantis &amp; terrestribus animalibus quaedam 
+      <lb ed="#P" n="97"/>mole corporum insigniora speciatim a Moyse 
+      fue<lb ed="#P" n="98" break="no"/>rint expressa; respondendum videtur eam esse 
+      cau<lb ed="#P" n="99" break="no"/>sam, quod non ita in aliis ut in aquatilibus 
+      inve<lb ed="#P" n="100" break="no"/>niantur quae tam ingentem vixque credibilem 
+      cor<lb ed="#P" n="101" break="no"/>poris molem habeant, quemadmodum ex iis quae de 
+      <lb ed="#P" n="102"/>prodigiosa quorundam piscium magnitudine paulo 
+      <lb ed="#P" n="103"/>ante diximus, satis potest intelligi 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

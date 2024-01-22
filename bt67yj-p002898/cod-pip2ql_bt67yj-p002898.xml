@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="8"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p002898"><!-- l2d1c10" -->
+            <head xml:id="bt67yj-p002898-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p002898-Hd1e103" type="question-title">Solvuntur ea quae pro mundi aeternitate 
+      objiciuntur</head>
+            <p xml:id="bt67yj-p002898-d1e106">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> §. 10. Solvuntur ea quae pro mundi aeternitate 
+      <lb ed="#P" n="103"/>objiciuntur.
+    </p>
+            <p xml:id="bt67yj-p002898-d1e115">
+               <lb ed="#P" n="104"/>MUndi aeternitatem non tam haeretici, quam? 
+      <lb ed="#P" n="105"/>philosophi maxime peripatetici, statuere 
+      co<lb ed="#P" n="106" break="no"/>nati sunt, quorum argumenta fere sunt ea quae 
+      prin<lb ed="#P" n="107" break="no"/>ceps eorum <ref xml:id="bt67yj-p002898-Rd1e125">
+                  <name xml:id="bt67yj-p002898-Nd1e127">Aristoteles</name> adducit lib. 8. phys. &amp; libr. 
+      <lb ed="#P" n="108"/>1. de caelo &amp; mundo.</ref> Nec ipsum tamen Aristotelem 
+      <lb ed="#P" n="109"/>eam sententiam tenuisse, tanquam ex 
+      demonstra<lb ed="#P" n="110" break="no"/>tione scientifica probat <ref xml:id="bt67yj-p002898-Rd1e137">S. Thomas 1. quaest. 46. art. 
+      <lb ed="#P" n="111"/>1.</ref> potissimum ex eo quod libr. 1. top. cap. 9. docens 
+      <lb ed="#P" n="112"/>quaedam esse problemata dialectica de quibus 
+      ra<lb ed="#P" n="113" break="no"/>tiones non habemus, affert pro exemplo 
+      quaestio<lb ed="#P" n="114" break="no"/>nem, utrum mundus sit aeternus. Unde apparet ex 
+      <lb ed="#P" n="115"/>ipsius philosophi sententia, rationes quae pro 
+      mun<lb ed="#P" n="116" break="no"/>di aeternitate proferri solent, non esse 
+      insolubi<lb ed="#P" n="117" break="no"/>les. Id autem de praecipuis rationibus modo 
+      osten<lb ed="#P" n="118" break="no"/>damus. 
+    </p>
+            <p xml:id="bt67yj-p002898-d1e158">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Prima: nullum ingenitum incepit esse; caelum 
+      <lb ed="#P" n="120"/>&amp; materia sunt ingenita; ergo mundus quoad 
+      cae<lb ed="#P" n="121" break="no"/>lum &amp; materiam non incepit esse, sed semper fuit. 
+      <lb ed="#P" n="122"/>Hoc argumentum philosophi est libr. 1. de coelo. 
+      <lb ed="#P" n="123"/>Sed facile respondetur coelum &amp; materiam, 
+      ip<lb ed="#P" n="124" break="no"/>sumque mundum incepisse, non per 
+      generatio<lb ed="#P" n="125" break="no"/>nem, sed per creationem, quae fuit philosopho 
+      in<lb ed="#P" n="126" break="no"/>cognita. 
+    </p>
+            <p xml:id="bt67yj-p002898-d1e181">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Secunda: caelum habet virtutem ut semper sit, est 
+      <lb ed="#P" n="128"/>enim incorruptibile; non ergo quandoque est, 
+      <lb ed="#P" n="129"/>quandoque non est, sed semper est; quia quousque 
+      <lb ed="#P" n="130"/>extenditur virtus rei, tamdiu res est; igitur &amp; 
+      mun<lb ed="#P" n="131" break="no"/>dus qua parte caelum complectitur, semper est, 
+      <lb ed="#P" n="132"/>fuit hoc quoque philosophi argumentum eodem 
+      li<lb ed="#P" n="133" break="no"/>bro. Respondetur autem, ea quae virtutem habent 
+      <lb ed="#P" n="134"/>ut semper sint, semper esse ex quo illam virtutem 
+      <lb ed="#P" n="135"/>habent, non autem absolute semper fuisse, quia 
+      si<lb ed="#P" n="136" break="no"/>cut per creationem acceperunt esse; ita &amp; virtutem 
+      <lb ed="#P" n="137"/>qua possint semper esse. Sciendum autem quod haec 
+      <lb ed="#P" n="138"/>responsio, quae sumitur ex creatione rerum e nihilo, 
+      <lb ed="#P" n="139"/>philosophis incognita, valet etiam ad solvendas eas 
+      <lb ed="#P" n="140"/>rationes quas ex motu &amp; tempore adducit 
+      Aristote<lb ed="#P" n="141" break="no"/>les libr. 8. phys. ut videre est apud S. Thomam ubi 
+      <lb ed="#P" n="142"/>supra ad 5. &amp; 7. argumenta. 
+    </p>
+            <p xml:id="bt67yj-p002898-d1e220">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Tertia: Deus antecessit mundum aut prius 
+      natu<lb ed="#P" n="144" break="no"/>ra tantum, aut etiam duratione: Non duratione; 
+      <lb ed="#P" n="145"/>quia ante mundum nulla fuit duratio, quia nullum 
+      <!--0242.xml-->
+      <pb ed="#P" n="9"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tempus; ergo tantum natura. Quare quod ad 
+      dura<lb ed="#P" n="2" break="no"/>tionem attinet, sicut Deus ita mundus fuit ab 
+      aeter<lb ed="#P" n="3" break="no"/>no. Respondetur Deum fuisse mundo priorem non 
+      <lb ed="#P" n="4"/>solum natura, sed etiam duratione, hoc nimirum 
+      <lb ed="#P" n="5"/>sensu, quia Deus erat in sua aetemitate, priusquam 
+      <lb ed="#P" n="6"/>mundus esset; aeternitas autem duratio est sine 
+      tem<lb ed="#P" n="7" break="no"/>pore, quia sine successione. 
+    </p>
+            <p xml:id="bt67yj-p002898-d1e253">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Quarta: posita causa sufficienti &amp; actuali, 
+      poni<lb ed="#P" n="9" break="no"/>tur effectus, sed hujusmodi causa respectu mundi 
+      <lb ed="#P" n="10"/>semper fuit posita; quia Deus semper fuit sufficiens 
+      <lb ed="#P" n="11"/>idemque nunquam fuit potentia sed lemper actus 
+      <lb ed="#P" n="12"/>purus non modo volens, modo non volens; sed ab 
+      <lb ed="#P" n="13"/>aeterno habens actualem creandi voluntatem &amp; 
+      ac<lb ed="#P" n="14" break="no"/>tionem quae est ipsa ejus essentia. Respondet S. 
+      Tho<lb ed="#P" n="15" break="no"/>mas, quod licet Deus ab aeterno fuerit sufficiens 
+      <lb ed="#P" n="16"/>causa mundi producendi, non tamen oportere 
+      <lb ed="#P" n="17"/>quod mundus ponatur abeo productus, nisi 
+      secun<lb ed="#P" n="18" break="no"/>dum quod est in praedefinitione voluntatis ejus, ut 
+      <lb ed="#P" n="19"/>scilicet habeat esse post non esse. De actu vero, 
+      res<lb ed="#P" n="20" break="no"/>pondet quod posita actione quae est aeterna, 
+      sequi<lb ed="#P" n="21" break="no"/>tur effectus secundum exigentiam formae, quae est 
+      <lb ed="#P" n="22"/>principium actionis. Cum igitur Deus agat per 
+      vo<lb ed="#P" n="23" break="no"/>luntatem, &amp; non per naturam, ex actione Dei 
+      aeter<lb ed="#P" n="24" break="no"/>na, non est consequens sequi effectum aeternum, 
+      <lb ed="#P" n="25"/>sed qualem Deus voluit, voluit autem talem 
+      sequi<lb ed="#P" n="26" break="no"/>effectum, qui haberet esse, post non esse; 
+      Simili<lb ed="#P" n="27" break="no"/>ter fere Bonaventura super hac distinct. quaest. 2. 
+      <lb ed="#P" n="28"/>Videtur autem plenius responderi posse, quod cum 
+      <lb ed="#P" n="29"/>in Deo non sit prius &amp; posterius, sed stabilis 
+      aeter<lb ed="#P" n="30" break="no"/>nitas, quascumque res seu rerum mutationes Deus 
+      <lb ed="#P" n="31"/>producat, non procedunt illae a voluntate aliqua 
+      <lb ed="#P" n="32"/>praeterita, sed omnes a volulitate aeternaliter 
+      prae<lb ed="#P" n="33" break="no"/>senti. Itaque omnia tanquam unum operatur ipse 
+      <lb ed="#P" n="34"/>eodem prorsus modo semper se habens; quia sicut 
+      <lb ed="#P" n="35"/>omnia conspicit oculo individuae &amp; immutabilis suae 
+      <lb ed="#P" n="36"/>aeternitatis, ita omnia operatur una aeterna &amp; 
+      im<lb ed="#P" n="37" break="no"/>mutabili voluntate. Qui autem quaerunt quid Deum 
+      <lb ed="#P" n="38"/>impulerit, ut post infinita saecula tandem mundum 
+      <lb ed="#P" n="39"/>crearet, ita loquuntur ac si extra mundum &amp; ante 
+      <lb ed="#P" n="40"/>mundum aliqua sit temporum successio, quod 
+      om<lb ed="#P" n="41" break="no"/>ni modo falsum est. Nam saecula quae nos ante 
+      mun<lb ed="#P" n="42" break="no"/>dum conditum imaginamur, non aliud sunt quam 
+      <lb ed="#P" n="43"/>constans &amp; immutabilis semperque tota praesens 
+      ae<lb ed="#P" n="44" break="no"/>ternitas Dei. 
+    </p>
+            <p xml:id="bt67yj-p002898-d1e338">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Quinta: Quicquid incipit agere, cum prius non 
+      <lb ed="#P" n="46"/>ageret, exit ab otio in actum, &amp; proinde mutatur: 
+      <lb ed="#P" n="47"/>Si ergo Deus aliquando incepit producere mundum 
+      <lb ed="#P" n="48"/>quem prius non produxerit, ab otio mutatus fuit ad 
+      <lb ed="#P" n="49"/>actum. Quod cum sit absurdum, sequitur mundum 
+      <lb ed="#P" n="50"/>semper ab eo processisse. Respondetur ex supra 
+      di<lb ed="#P" n="51" break="no"/>ctis, cum Deus sit agens voluntarium, idemque 
+      <lb ed="#P" n="52"/>omnium primum, ad ejus perfectionem pertinere, 
+      <lb ed="#P" n="53"/>ut aeterna voluntate &amp; actione producat aliqua, 
+      <lb ed="#P" n="54"/>quomodo ipse vult ea produci &amp; fieri. Quoniam ergo 
+      <lb ed="#P" n="55"/>voluit ea sic fieri, ut haberent esse, post non esse; 
+      <lb ed="#P" n="56"/>consequens fuit ut sic fierent, &amp; hoc absque ulla in 
+      <lb ed="#P" n="57"/>Deo mutatione ex otio in actum, quia actum in 
+      <lb ed="#P" n="58"/>Deo ponimus ab aeterno, effectum autem ab eo 
+      <lb ed="#P" n="59"/>procedentem in tempore. 
+    </p>
+            <p xml:id="bt67yj-p002898-d1e375">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Postremo potest ex scriptura objici illud 
+      Eccle<lb ed="#P" n="61" break="no"/>siastae 1. Nihil sub sole novum, nec valet quisquam 
+      <lb ed="#P" n="62"/>dicere, ecce hoc recens est. Haec enim verba videntur 
+      <lb ed="#P" n="63"/>significare res easdem per innumeras temporum 
+      re<lb ed="#P" n="64" break="no"/>volutiones &amp; proinde innumeris vicibus iterum 
+      ite<lb ed="#P" n="65" break="no"/>rumque in mundo extitisse, sicut opinatus fuit 
+      Epi<lb ed="#P" n="66" break="no"/>curus, teste Hieronymo super Ecclesiastae primum. 
+      <lb ed="#P" n="67"/>Quale quid etiam Plato, &amp; eum secutus Origenes 
+      <lb ed="#P" n="68"/>senserunt. Respondendum his verbis non aliud 
+      si<lb ed="#P" n="69" break="no"/>gnificari quam vel nunc, vel tempore Sapientis 
+      qui<lb ed="#P" n="70" break="no"/>ea scripsit, nihil novum esse in mundo, quod non 
+      <lb ed="#P" n="71"/>in specie, vel in simili jam ante, id est, prioribus 
+      <lb ed="#P" n="72"/>saeculis praecesserit, contigeritve, non tamen 
+      infi<lb ed="#P" n="73" break="no"/>nities, sed aliquoties. Hunc esse sensum patet ex eo 
+      <lb ed="#P" n="74"/>quod sequitur, jam enim praecessit in saeculis, quae fue¬ 
+      <!--0242.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>runt ante nos. Nam constat multa saecula a mundo 
+      <lb ed="#P" n="76"/>condito Salomonis aetatem praecessisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="139"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p053874"><!-- l2d16c4" -->
+            <head xml:id="bt67yj-p053874-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p053874-Hd1e103" type="question-title">Secundum quid homo ad imaginem Dei factus</head>
+            <p xml:id="bt67yj-p053874-d1e106">
+               <lb ed="#P" n="137"/>§. 4. Secundum quid homo ad imaginem Dei factus.
+    </p>
+            <p xml:id="bt67yj-p053874-d1e111">
+               <lb ed="#P" n="138"/>FActum esse hominem ad imaginem Dei non 
+      se<lb ed="#P" n="139" break="no"/>cundum corpus sed secundum animam, concors 
+      <!--0373.xml-->
+      <pb ed="#P" n="140"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>est omnium doctorum sententia. Nec mirum, 
+      quo<lb ed="#P" n="2" break="no"/>niam illud ipsum aperte significant scripturae verba 
+      <lb ed="#P" n="3"/>quae proxime sequuntur: Ut praesit piscibus maris, 
+      <lb ed="#P" n="4"/>&amp;c. Constat enim hominem non mole corporis, aut 
+      <lb ed="#P" n="5"/>robore, aut velocitate, sed viribus animae 
+      superio<lb ed="#P" n="6" break="no"/>rem esse bestiis, iisque praeesse ac dominari. Qua 
+      <lb ed="#P" n="7"/>probatione ad hanc remutitur Augustinus lib. I. de 
+      <lb ed="#P" n="8"/>Gen. contra Manichaeos cap. 17. 
+    </p>
+            <p xml:id="bt67yj-p053874-d1e142">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Adde quod apostolus Ephes. 4. &amp; Coloss. 3. 
+      reno<lb ed="#P" n="10" break="no"/>vationem ad imaginem Dei tribuit homini 
+      secun<lb ed="#P" n="11" break="no"/>dum mentem, non secundum corpus. Quare &amp; 
+      crea<lb ed="#P" n="12" break="no"/>tio ejus ad imaginem Dei similiter est accipienda. 
+      <lb ed="#P" n="13"/>Quo argumento idem Augustinus utitur lib. 12. de 
+      <lb ed="#P" n="14"/>Trinitate capit. 7. 
+    </p>
+            <p xml:id="bt67yj-p053874-d1e161">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Cum autem in confesso sit hominem secundum 
+      <lb ed="#P" n="16"/>animam qua homo est, ad imaginem Dei factum 
+      <lb ed="#P" n="17"/>esse, nec ad id probandum pluribus sit opus, 
+      diversi<lb ed="#P" n="18" break="no"/>tas tamen quaedam inter doctores reperitur, dum 
+      <lb ed="#P" n="19"/>explicare conantur in qua animae facultate haec 
+      ima<lb ed="#P" n="20" break="no"/>ginis divinae ratio posita sit. Augustinus enim locis 
+      <lb ed="#P" n="21"/>modo citatis in mente sive in intellectu hanc 
+      ima<lb ed="#P" n="22" break="no"/>ginis rationem constituere videtur, ut &amp; lib. 6. de 
+      <lb ed="#P" n="23"/>Genes. ad literam cap. 12. nec non lib. 24. contra 
+      <lb ed="#P" n="24"/>Faustum cap. 2. Quo loco cum dixisset non 
+      secun<lb ed="#P" n="25" break="no"/>dum id quod exterius est, sed quod interius, 
+      homi<lb ed="#P" n="26" break="no"/>nem factum esse ad imaginem Dei: Hoc est, inquit, 
+      <lb ed="#P" n="27"/>quatenus habet mentem rationalem qua cognoscat 
+      <lb ed="#P" n="28"/>Deum &amp; omnibus irrationalibus eadem rationis 
+      ex<lb ed="#P" n="29" break="no"/>cellentia praeponatur. Augustinum sequitur 
+      Pro<lb ed="#P" n="30" break="no"/>sper lib. 2. de vita contemplativa cap. 18. Alii 
+      ima<lb ed="#P" n="31" break="no"/>ginem referunt ad liberum arbitrium, ut Basilius 
+      <lb ed="#P" n="32"/>homil. 9. Hexameron, Ambrosius lib. 6. ejusdem 
+      ti<lb ed="#P" n="33" break="no"/>tuli cap. 8. Hieronymus in epist. ad Damasum de 
+      fi<lb ed="#P" n="34" break="no"/>lio prodigo, &amp; Bernardus serm. 1. de Annunc. 
+      do<lb ed="#P" n="35" break="no"/>minica. Alii vero eam constituunt in dominio quod 
+      <lb ed="#P" n="36"/>homo super alias creaturas accepit, ut Chrysostom. 
+      <lb ed="#P" n="37"/>homil. 8. &amp; 9. in Genes. &amp; homil. 7. ad populum 
+      <lb ed="#P" n="38"/>Atiochenum. 
+    </p>
+            <p xml:id="bt67yj-p053874-d1e218">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Verum hae quasi diversae declarationes minime 
+      <lb ed="#P" n="40"/>pugnant. Nam &amp; libertas arbitrii ab intellectu velut 
+      <lb ed="#P" n="41"/>radice dependet, &amp; dominium effectus quidam est 
+      <lb ed="#P" n="42"/>ejusdem intellectus ac voluntatis, &amp; velut propria 
+      <lb ed="#P" n="43"/>passio ex iis profluens. Unde primum quidem 
+      ima<lb ed="#P" n="44" break="no"/>go Dei invenitur ac relucet in potentia intellectiva, 
+      <lb ed="#P" n="45"/>deinde in arbitrii libertate, tertio in eo quod ex his 
+      <lb ed="#P" n="46"/>duabus emanat, id est, in potestate dominandi rebus 
+      <lb ed="#P" n="47"/>aliis easque gubernandi. 
+    </p>
+            <p xml:id="bt67yj-p053874-d1e242">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Hinc factum ut nonnulli patres vel duo priora, 
+      <lb ed="#P" n="49"/>vel omnia haec simul conjunxerint, dum rationem 
+      <lb ed="#P" n="50"/>imaginis Dei in homine explicare voluerunt, ut S. 
+      <lb ed="#P" n="51"/>Gregorius Nyssenus lib. de creatione hominis cap. 
+      <lb ed="#P" n="52"/>17. &amp; post eum Joannes Damascenus lib. 2. de fide 
+      <lb ed="#P" n="53"/>cap. 12. Imo &amp; ipse Augustinus lib. de 
+      catechizan<lb ed="#P" n="54" break="no"/>dis rudibus capit. 18. &amp; tractatu 8. super epistolam 
+      <lb ed="#P" n="55"/>1. Joannis. Atque haec fortasse ratio est cur dicat 
+      Epi<lb ed="#P" n="56" break="no"/>phanius definiri non posse secundum quid homo 
+      <lb ed="#P" n="57"/>ad imaginem &amp; similitudinem Dei factus sit. Habet 
+      <lb ed="#P" n="58"/>hoc in haeresi Audianorum, &amp; in Ancorato, &amp; in 
+      <lb ed="#P" n="59"/>epistola ad Joannem Hierosolymitanum. Ratio, 
+      in<lb ed="#P" n="60" break="no"/>quam, haec est; quia cum plura sint in homine, 
+      se<lb ed="#P" n="61" break="no"/>cundum quae recte potest intelligi factus ad 
+      imagi<lb ed="#P" n="62" break="no"/>nem Dei, ut jam ex patribus ostensum est, 
+      temera<lb ed="#P" n="63" break="no"/>rium videtur unum aliquod eorum caeteris exclusis, 
+      <lb ed="#P" n="64"/>definite accipere. Illud tamen non temere 
+      defini<lb ed="#P" n="65" break="no"/>tur, sed probabiliter asseritur, si quaeratur, quid 
+      po<lb ed="#P" n="66" break="no"/>tissimum ex tribus supra dictis scriptura specta verit 
+      <lb ed="#P" n="67"/>in eo quod Deum dixisse refert: Faciamus hominem 
+      <lb ed="#P" n="68"/>ad imaginem nostram; potissimum eam respexisse ad 
+      <lb ed="#P" n="69"/>tertium dictorum, id est dominium quod super res 
+      <lb ed="#P" n="70"/>alias homini datum est. Id enim continuo tanquam 
+      <lb ed="#P" n="71"/>pro ratione subjungitur: Et praesit piscibus maris, 
+      <lb ed="#P" n="72"/>&amp;c. non quidem ad significandum, quod ea sit 
+      potis<lb ed="#P" n="73" break="no"/>sima ratio imaginis divinae in homine, sed quod in 
+      <lb ed="#P" n="74"/>hujusmodi dominio tanquam in effectu secundum 
+      <!--0373.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>sensum noto, magis appareat hominem ad imaginem 
+      <lb ed="#P" n="76"/>Dei factum esse. Meminisse enim oportet Moysen 
+      <lb ed="#P" n="77"/>in historia creationis rerum, voluisse rudem 
+      He<lb ed="#P" n="78" break="no"/>braeorum populum a rebus sensibilibus &amp; vulgo 
+      no<lb ed="#P" n="79" break="no"/>tis ad invisibilia Dei velut manu ducere. Spectarunt 
+      <lb ed="#P" n="80"/>autem eandem rationem David Psal. 8. &amp; 
+      Ecclesia<lb ed="#P" n="81" break="no"/>sticus cap. 17. ut ex ipsis locis perspicuum est. Jam 
+      <lb ed="#P" n="82"/>quod nonnulli ut Gennadius libro de ecc esiasticis 
+      <lb ed="#P" n="83"/>dogmatibus cap. ult. imaginem statuunt in 
+      aeterni<lb ed="#P" n="84" break="no"/>tate, nequaquam veram &amp; propriam ejus rationem 
+      <lb ed="#P" n="85"/>explicant. Nam &amp; caelum, &amp; materia, &amp; corpus 
+      <lb ed="#P" n="86"/>hominis post resurrectionem aeternitatem 
+      partici<lb ed="#P" n="87" break="no"/>pant, in quibus tamen imaginem Dei nemo 
+      ortho<lb ed="#P" n="88" break="no"/>doxus agnoscit. 
+    </p>
+            <p xml:id="bt67yj-p053874-d1e340">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Ex dictis consequens est non solum hominem, 
+      ve<lb ed="#P" n="90" break="no"/>rum etiam angelum ad imaginem Dei conditum esse; 
+      <lb ed="#P" n="91"/>&amp; quidem eo magis hanc illi competere, quanto 
+      <lb ed="#P" n="92"/>perfectior est in eo intellectualis natura quam in 
+      ho<lb ed="#P" n="93" break="no"/>mine. Propter quam causam dicit Gregorius homil. 
+      <lb ed="#P" n="94"/>34. super Evangelia angelum apud Ezechielem 28. 
+      <lb ed="#P" n="95"/>cap. vocari signaculum similitudinis, quod 
+      nimi<lb ed="#P" n="96" break="no"/>rum quanto in eo subtilior est natura, tanto 
+      simi<lb ed="#P" n="97" break="no"/>lius in ipso imago Dei insinuetur expressa. 
+      Quan<lb ed="#P" n="98" break="no"/>quam secundaria quadam consideratione imaginem 
+      <lb ed="#P" n="99"/>Dei magis inveniri in homine quam in angelo bene 
+      <lb ed="#P" n="100"/>ostendit S. Thomas 1. quaest. 93. art. 3. 
+    </p>
+            <p xml:id="bt67yj-p053874-d1e371">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Porro quamvis ut dictum est; homo non sit 
+      se<lb ed="#P" n="102" break="no"/>cundum corpus ad imaginem Dei factus, quandam 
+      <lb ed="#P" n="103"/>tamen in corpore proprietatem gerit, quae significat 
+      <lb ed="#P" n="104"/>eum ad imaginem Dei factum esse, ut merito dici 
+      <lb ed="#P" n="105"/>possit in corpore humano nonnullam imaginis Dei 
+      <lb ed="#P" n="106"/>communicationem reperiri, quemadmodum recte 
+      <lb ed="#P" n="107"/>docet Augustinus lib. 6. de Genes. ad literam car 
+      <lb ed="#P" n="108"/>12. &amp; lib. 1. de Genes. contra Manichaeos cap. 17. 
+      <lb ed="#P" n="109"/>&amp; lib. 83. quaest. 51. Ea proprietas est erecta statura, 
+      <lb ed="#P" n="110"/>nulli caeterorum animantium a natura attributa, 
+      <lb ed="#P" n="111"/>juxta illud Poetae: 
+    </p>
+            <p xml:id="bt67yj-p053874-d1e400">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Pronaque cum spectent animalia caetera terram, 
+      <lb ed="#P" n="113"/>Os homini sublime dedit, caelumque tueri 
+      <lb ed="#P" n="114"/>Jussit, &amp; erectos ad sidera tollere vultus. 
+    </p>
+            <p xml:id="bt67yj-p053874-d1e412">
+               <lb ed="#P" n="115"/>Significat autem ea statura &amp; hominis supra 
+      be<lb ed="#P" n="116" break="no"/>stias potestatem, &amp; praeterea mentis humanae 
+      praeci<lb ed="#P" n="117" break="no"/>puum ad caelestia, id est divina contemplanda 
+      offi<lb ed="#P" n="118" break="no"/>cium. Nam etiam hac in re divinae imaginis in 
+      ho<lb ed="#P" n="119" break="no"/>mine rationem collocat interdum idem August. ut 
+      <lb ed="#P" n="120"/>lib. 4. de doctrina Christiana cap. 12. &amp; lib. 12. de 
+      <lb ed="#P" n="121"/>Trinitate cap. 7. &amp; lib. 13. cap. 3. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

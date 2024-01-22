@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="67"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p025803"><!-- l2d7c11" -->
+            <head xml:id="bt67yj-p025803-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p025803-Hd1e103" type="question-title">De scientia angelorum quadam notanda</head>
+            <p xml:id="bt67yj-p025803-d1e106">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> §. 11. De scientia angelorum quadam notanda. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e113">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> QUamvis angelicae scientiae modum ac terminos 
+      <lb ed="#P" n="42"/>exacte cognitos habere nobis longe infra 
+      su<lb ed="#P" n="43" break="no"/>blimitatem naturae angelorum positis sit naturaliter 
+      <lb ed="#P" n="44"/>impossibile; quaedam tamen de ea nosse, quantum vel 
+      <lb ed="#P" n="45"/>scriptura vel ratio commonstraverit, nihil prohibet 
+      <lb ed="#P" n="46"/>Quare breviter &amp; pauca eademque praecipua de 
+      co<lb ed="#P" n="47" break="no"/>gnitione angelorum hic a nobis annotabuntur. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e133">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Quorum primum sit idemque certissimum, ange 
+      <lb ed="#P" n="49"/>los etsi multa sciant, multa tamen etiam nescire. 
+      <lb ed="#P" n="50"/>Quod probatur multipliciter, sed efficacissime ex eo 
+      <lb ed="#P" n="51"/>quod secundum scripturas soli Deo competat 
+      om<lb ed="#P" n="52" break="no"/>nium maxime futurorum contingentium necnon 
+      oc<lb ed="#P" n="53" break="no"/>cultarum cogitationum scientia, ut ostensum est ad 
+      <lb ed="#P" n="54"/>distinctionem tricesimamquintam &amp; tricesimam 
+      <lb ed="#P" n="55"/>octavam libri primi. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e156">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Deinde patet ex eo, quia angeli sibi mutuo 
+      lo<lb ed="#P" n="57" break="no"/>quuntur, aliique alios illuminant Daniel. 8. Zachar. 
+      <lb ed="#P" n="58"/>2. Quod esse non potest nisi alii ab aliis accipiant 
+      <lb ed="#P" n="59"/>notitiam eorum quae nesciebant. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e169">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Et manifesta est Christi sententia Matth. 24. diem 
+      <lb ed="#P" n="61"/>&amp; horam judicii ne angelis quidem caelorum 
+      cogni<lb ed="#P" n="62" break="no"/>tam esse. Sed &amp; mysteria gratiae circa genus 
+      huma<lb ed="#P" n="63" break="no"/>num non statim cognoverunt teste Apostolo Ephes. 
+      <lb ed="#P" n="64"/>3. dicente, Ut innotescat principibus in caelestibus, &amp;c. 
+      <lb ed="#P" n="65"/>Unde &amp; vocat mysterium absconditum a saeculo. 
+      <lb ed="#P" n="66"/>Verum de hac mysteriorum cognitione quatenus 
+      ad<lb ed="#P" n="67" break="no"/>fuerit angelis, dicemus infra ad dictinct. 11. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e191">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Secundum est angelos cognoscere &amp; intelligere 
+      <lb ed="#P" n="69"/>seipsos, nimirum unumquemque seipsum per 
+      ellen<lb ed="#P" n="70" break="no"/>tiam suam; ita nimirum ut essentia angeli in hac 
+      co<lb ed="#P" n="71" break="no"/>gnitione suppleat rationem speciei intelligibilis, 
+      <!--0300.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>quemadmodum docet S. Thomas prima parte quaest. 
+      <lb ed="#P" n="73"/>56. art. 1. allegata etiam authoritate S. Aug. lib. 2. 
+      <lb ed="#P" n="74"/>de Genesi ad litteram cap. 8. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e215">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Tertium est unumquemque angelum cognoscere 
+      <lb ed="#P" n="76"/>alios, idque non per essentias illorum aut suas, sed 
+      <lb ed="#P" n="77"/>per inditas unicuique angelo rerum omniuma Deo 
+      <lb ed="#P" n="78"/>creatarum rationes, id est, species intelligibiles, 
+      <lb ed="#P" n="79"/>quemadmodum idem eodem loco docet S. 
+      Augu<lb ed="#P" n="80" break="no"/>stinus, &amp; ex eo sanctus Thomas dictae quaestionis 
+      <lb ed="#P" n="81"/>art. 2. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e235">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Quartum est angelos per sua naturalia Deum 
+      co<lb ed="#P" n="83" break="no"/>gnoscere. Si enim homines etiam post lapsum per 
+      <lb ed="#P" n="84"/>sua naturalia Deum cognoscere possunt, dicente 
+      <lb ed="#P" n="85"/>de illis apostolo Romanorum primo, Invisibilia 
+      <lb ed="#P" n="86"/>Dei per ea quae facta sunt intellecta conspiciuntur, &amp;c. 
+      <lb ed="#P" n="87"/>multo magis id possunt angeli, quorum est multo 
+      <lb ed="#P" n="88"/>subtilior vis intelligendi, praesertim si 
+      consideren<lb ed="#P" n="89" break="no"/>tur secundum statum naturae nullo peccato 
+      refor<lb ed="#P" n="90" break="no"/>matae. Sic docet sanctus Thomas ejusdem 
+      quaestio<lb ed="#P" n="91" break="no"/>nis a. 3. Cognoscunt autem angeli Deum perfectius 
+      <lb ed="#P" n="92"/>ex rebus immaterialibus quam materialibus, nec 
+      <lb ed="#P" n="93"/>non perfectius per suam ipsorum essentiam quam 
+      <lb ed="#P" n="94"/>per res quascumque inferiores. Item perfectius per 
+      <lb ed="#P" n="95"/>essentiam angeli superioris quam per suam. Denique 
+      <lb ed="#P" n="96"/>perfectius per omnia simul, quam per singula aut 
+      <lb ed="#P" n="97"/>plura separatim considerata. De his omnibus 
+      accu<lb ed="#P" n="98" break="no"/>rate disputant commentatores S. Thomae super 
+      arti<lb ed="#P" n="99" break="no"/>culos praedictos, aliique Scholastici super hanc 
+      di<lb ed="#P" n="100" break="no"/>stinctionem. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e281">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Quintum: Angeli res omnes materiales 
+      cogni<lb ed="#P" n="102" break="no"/>tione complectuntur. Probat hoc S. Thom. 1. parte 
+      <lb ed="#P" n="103"/>q. 57. art. 1. tali argumento, quia angeli sunt 
+      superio<lb ed="#P" n="104" break="no"/>res rebus materialibus &amp; corporalibus, superiora 
+      <lb ed="#P" n="105"/>vero perfectiora sunt inferioribus, &amp; proinde 
+      quid<lb ed="#P" n="106" break="no"/>quid in inferioribus continetur, hoc ipsum 
+      contine<lb ed="#P" n="107" break="no"/>tur in superioribus perfectiori modo, ut quod in 
+      <lb ed="#P" n="108"/>illis continetur deficienter, &amp; partialiter &amp; 
+      multipli<lb ed="#P" n="109" break="no"/>citer, in his contineatur eminenter, &amp; secundum 
+      <lb ed="#P" n="110"/>quandam totalitatem &amp; simplicitatem. Unde 
+      perfe<lb ed="#P" n="111" break="no"/>ctissimo quidem modo omnia sunt in Deo, sed quia 
+      <lb ed="#P" n="112"/>inter creaturas angeli Deo proximi sunt, proximus a 
+      <lb ed="#P" n="113"/>Deo gradus perfectionis quo inferiora sunt in 
+      su<lb ed="#P" n="114" break="no"/>perioribus, angelis debetur. Sicut ergo Deus 
+      mate<lb ed="#P" n="115" break="no"/>rialia cognoscit per suam essentiam, sic angeli ea 
+      co<lb ed="#P" n="116" break="no"/>gnoscunt per species intelligibiles. Et hinc collige in 
+      <lb ed="#P" n="117"/>intellectu angelico inveniri species rerum omnium 
+      <lb ed="#P" n="118"/>materialium. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e326">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Sextum: Angeli non tantum universalia 
+      cognos<lb ed="#P" n="120" break="no"/>cunt, verum etiam singularia. Quod quidem ex 
+      scri<lb ed="#P" n="121" break="no"/>pturis certum est secundum fidem. Docent enim 
+      <lb ed="#P" n="122"/>scripturae haec inferiora maxime humana 
+      administra<lb ed="#P" n="123" break="no"/>ri per angelos, ut psalmo nonagesimo: Angelis suis 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e342">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> mandavit de te, Hebraeorum primo: Omnes sunt 
+      <lb ed="#P" n="125"/>administratorii spiritus, &amp;c. Quod si singularium non 
+      <lb ed="#P" n="126"/>haberent notitiam, nullam eorum quae hie aguntur, 
+      <lb ed="#P" n="127"/>curam habere possent, cum actus sint 
+      singula<lb ed="#P" n="128" break="no"/>rium, ipsique homines illorum custodiae deputati 
+      <lb ed="#P" n="129"/>sint singulares, ut recte argumentatur S. Thomas 
+      <lb ed="#P" n="130"/>ejusdem q art. 2. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e362">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Septimum: Cognoscunt angeli singularia 
+      res<lb ed="#P" n="132" break="no"/>que materiales non per species ab ipsis rebus 
+      ac<lb ed="#P" n="133" break="no"/>ceptas, sed per species sibi cognitas seu 
+      connatu<lb ed="#P" n="134" break="no"/>rales. Atque omnino nulla est in angelis cognitio 
+      <lb ed="#P" n="135"/>per species a rebus acceptas. Ita docet sanctus 
+      <lb ed="#P" n="136"/>Thomas prima parte quaestione 
+      quinquagelima<lb ed="#P" n="137" break="no"/>quinta articulo secundo probatque authoritate 
+      <lb ed="#P" n="138"/>Dionysii libro de divinis nominibus capite 
+      septi<lb ed="#P" n="139" break="no"/>mo &amp; Augustini libro secundo de Genesi ad 
+      lite<lb ed="#P" n="140" break="no"/>ram capite octavo. Probatur item ratione, quia 
+      <lb ed="#P" n="141"/>angelus quoad rerum naturalium cognitionem 
+      crea<lb ed="#P" n="142" break="no"/>tus est perfecte sapiens, ut significatur Ezechielis 
+      <lb ed="#P" n="143"/>28. Item quia res materiales non possunt propria 
+      <lb ed="#P" n="144"/>virtute agere in spiritum, nec omnino qualitatem 
+      <lb ed="#P" n="145"/>aliquam spiritualem producere, &amp; proinde non 
+      <!--0301.xml-->
+      <pb ed="#P" n="68"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>possunt procreare speciem intelligibilem in 
+      intelle<lb ed="#P" n="2" break="no"/>ctu angelico; sed neque potest angelus sibi species 
+      <lb ed="#P" n="3"/>a rebus abstrahere, per quas intelligat ipsas res, 
+      quo<lb ed="#P" n="4" break="no"/>niam haec abstractio specierum per quas fiat rerum 
+      <lb ed="#P" n="5"/>cognitio, necessario praesupponit ipsarum rerum 
+      co<lb ed="#P" n="6" break="no"/>gnitionem. Non enim poterit angelus species 
+      abstra<lb ed="#P" n="7" break="no"/>here a rebus incognitis. Esset enim ea temerariae &amp; 
+      <lb ed="#P" n="8"/>coeca abstractio. Quod notandum est contra Scotum 
+      <lb ed="#P" n="9"/>ponentem hujusmodi abstractionem. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e425">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Octavum: Una eademque species intelligibilis 
+      <lb ed="#P" n="11"/>angelica repraesentat immediate naturam 
+      commu<lb ed="#P" n="12" break="no"/>nem, mediate vero omnia illius naturae individua, 
+      <lb ed="#P" n="13"/>cum omnibus ipsorum accidentibus. Quae doctrina 
+      <lb ed="#P" n="14"/>consentanea est iis quae tradit S. Thomas 1. p. q. 
+      <lb ed="#P" n="15"/>57. art. 2. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e443">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Nonum: Ad naturalem angeli cognitionem illa 
+      <lb ed="#P" n="17"/>tantum pertinent, quae sunt intra ordinem universi 
+      <lb ed="#P" n="18"/>vel in seipsis, vel in suis causis determinatis &amp; 
+      natu<lb ed="#P" n="19" break="no"/>ralibus. Haec doctrina colligitur ex verbis S. 
+      Tho<lb ed="#P" n="20" break="no"/>maeq. 56. art. 2. ad 4. ubi dicit quod Deus 
+      unam<lb ed="#P" n="21" break="no"/>quamque creaturam fecit proportionatam universo 
+      <lb ed="#P" n="22"/>quod facere disposuit. Et ideo, inquit, si Deus 
+      in<lb ed="#P" n="23" break="no"/>stituisset facere plures angelos vel plures naturas 
+      re<lb ed="#P" n="24" break="no"/>rum, plures species intelligibiles mentibus angelicis 
+      <lb ed="#P" n="25"/>impressisset, velut si aedificator voluisset facere 
+      majo<lb ed="#P" n="26" break="no"/>rem domum, fecisset majus fundamentum. Unde 
+      <lb ed="#P" n="27"/>ejusdem rationis est quod Deus adderet aliquam 
+      <lb ed="#P" n="28"/>creaturam universo, &amp; aliquam speciem 
+      intelligibi<lb ed="#P" n="29" break="no"/>lem angelo¬ 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e478">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Decimum: Futura quae ex causis suis proveniunt 
+      <lb ed="#P" n="31"/>ex necessitate, cognoscuntur ab angelis per certam 
+      <lb ed="#P" n="32"/>scientiam, ut solem cras oriri, ejusque certo 
+      tem<lb ed="#P" n="33" break="no"/>pore eclipsim fieri 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e492">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Undecimum: Futura quae ex causis suis 
+      prove<lb ed="#P" n="35" break="no"/>niunt non ex necessitate, sed ut pluribus, 
+      cognos<lb ed="#P" n="36" break="no"/>cuntur ab angelis, non per certitudinem, sed per 
+      <lb ed="#P" n="37"/>conjecturam, quomodo medicus praevidet 
+      sanita<lb ed="#P" n="38" break="no"/>tem aut mortem infirmi. Atque hic modus 
+      cognos<lb ed="#P" n="39" break="no"/>cendi futura tanto magis competit angelis quam 
+      <lb ed="#P" n="40"/>nobis, quanto illi prae nobis &amp; universalius, &amp; 
+      per<lb ed="#P" n="41" break="no"/>fectius causas rerum cognoscunt. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e514">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Duodecimum: Futura quae proveniunt ex causis 
+      <lb ed="#P" n="43"/>suis ut in paucioribus, ut sunt casualia &amp; fortuita, 
+      <lb ed="#P" n="44"/>penitus sunt angelis naturaliter ignota. Cujus ratio 
+      <lb ed="#P" n="45"/>est, quia sicut res habent esse in universo, sic 
+      cog<lb ed="#P" n="46" break="no"/>noscunt ab angelo; ergo quae habent esse prorsus 
+      <lb ed="#P" n="47"/>incertum in suis causis, non possunt ab illis 
+      cognos<lb ed="#P" n="48" break="no"/>ci. Haec de futurorum cognitione tradit S. Thomas 
+      <lb ed="#P" n="49"/>1. parte q. 57. art. 3. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e536">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Decimumtertium: Angeli naturali virtute non 
+      <lb ed="#P" n="51"/>possunt certo cognoscere futura contingentia, sed 
+      <lb ed="#P" n="52"/>hoc solius Dei est. Certa est haec sententia secundum 
+      <lb ed="#P" n="53"/>fidem catholicam. Nam hujusmodi futurorum 
+      cog<lb ed="#P" n="54" break="no"/>nitionem scriptura saepissime Deo propriam facit, ut 
+      <lb ed="#P" n="55"/>Isaiae 41. Annunciate quae ventura sunt in futurum, &amp; 
+      <lb ed="#P" n="56"/>sciemus quia dii estis vos, &amp; alibi. Cum autem 
+      fu<lb ed="#P" n="57" break="no"/>tura contingentia sint in duplici genere, alia 
+      depen<lb ed="#P" n="58" break="no"/>dentia ex libertate arbitrii causae secundae, alia ex 
+      <lb ed="#P" n="59"/>aliis causis procedentia, naturalibus quidem sed 
+      ta<lb ed="#P" n="60" break="no"/>libus ut quantum est ex ipsarum natura, impediri 
+      <lb ed="#P" n="61"/>possint; probabilius est ex mente scripturae sacrae &amp; 
+      <lb ed="#P" n="62"/>sanctorum Patrum cum ab angelis removent 
+      cer<lb ed="#P" n="63" break="no"/>tam notitiam futurorum contingentium, non sola 
+      <lb ed="#P" n="64"/>prioris generis, verum etiam posterioris 
+      contin<lb ed="#P" n="65" break="no"/>gentia intelligi. Nam &amp; revera si ea quae sunt 
+      <lb ed="#P" n="66"/>posterioris generis, possent certo ab angelis 
+      prae<lb ed="#P" n="67" break="no"/>videri, scilicet in causis suis naturalibus quas 
+      uni<lb ed="#P" n="68" break="no"/>versas angeli cognitas &amp; perspectas habeant; jam 
+      <lb ed="#P" n="69"/>non erunt illa respectu cognitionis angelicae 
+      futu<lb ed="#P" n="70" break="no"/>ra contingentia, sed ad alterutrum in causis suis ab 
+      <lb ed="#P" n="71"/>angelo cognitis determinata &amp; proinde ex 
+      necessi<lb ed="#P" n="72" break="no"/>tate provenientia, velut si ponatur angelus scire 
+      <lb ed="#P" n="73"/>quando futurum sit impedimentum causae naturalis, 
+      <lb ed="#P" n="74"/>&amp; quando non sit futurum, eo quod etiam ipsa im¬ 
+      <!--0301.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>pedimenta naturaliter eventura ponantur, id est, 
+      <lb ed="#P" n="76"/>ex dispositione &amp; occursu aliarum causarum 
+      natu<lb ed="#P" n="77" break="no"/>ralium. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e606">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Decimumquartum: Non est verisimile totum 
+      or<lb ed="#P" n="79" break="no"/>dinem universi ac dispositionem omnium 
+      natura<lb ed="#P" n="80" break="no"/>lium causarum ita perfecte cognitam esse angelis, 
+      <lb ed="#P" n="81"/>ut omnem varietatem futurorum motuum atque 
+      ef<lb ed="#P" n="82" break="no"/>fectuum naturalium in animalibus, plantis, 
+      elemen<lb ed="#P" n="83" break="no"/>tis caeterisque inanimatis secludendo ab his 
+      effecti<lb ed="#P" n="84" break="no"/>bus operationem eausarum liberarum, possint 
+      cog<lb ed="#P" n="85" break="no"/>noscere, verbi gratia, quot formicae vel muscae toto 
+      <lb ed="#P" n="86"/>mundo nasciturae sint intra proximos mille annos, 
+      <lb ed="#P" n="87"/>&amp; singulae quos motus ac mutationes habiturae, 
+      qui<lb ed="#P" n="88" break="no"/>busque modis periturae, quot pulvisculi quibus 
+      fi<lb ed="#P" n="89" break="no"/>guris &amp; motibus in aere concitandi, &amp; sic de 
+      caete<lb ed="#P" n="90" break="no"/>ris omnibus. Est quidem quorundam Theologorum 
+      <lb ed="#P" n="91"/>opinio posse haec omnia naturaliter ab angelis 
+      cog<lb ed="#P" n="92" break="no"/>nosci, eo quod existiment omnem motum horum 
+      <lb ed="#P" n="93"/>inferiorum supposita naturali dispositione 
+      uniuscu<lb ed="#P" n="94" break="no"/>jusque rei naturalis, efficaciter procedere ex 
+      influen<lb ed="#P" n="95" break="no"/>tiis corporum caelestium. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e650">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Verum probabilius sentiunt qui docent esse 
+      ali<lb ed="#P" n="97" break="no"/>quos motus in his inferioribus, qui non procedant 
+      <lb ed="#P" n="98"/>efficaciter ex caelestium influxu, sed ex apprehensio 
+      <lb ed="#P" n="99"/>ne, vel appetitu animalium, vel alia particulari 
+      cau<lb ed="#P" n="100" break="no"/>sa etiam praeter liberum arbitrium non dependente, 
+      <lb ed="#P" n="101"/>quantum ad sui determinationem, a causis 
+      caelesti<lb ed="#P" n="102" break="no"/>bus. Nam causae universales, excepta causa suprema 
+      <lb ed="#P" n="103"/>quae omnem perfectionem causalitatis includit, &amp; 
+      <lb ed="#P" n="104"/>efficaciter omnia movet, determinantur a 
+      partiali<lb ed="#P" n="105" break="no"/>bus &amp; inferioribus causis. Interim vero nequaquam 
+      <lb ed="#P" n="106"/>negandum est, quin multa respectu nostrae 
+      cogni<lb ed="#P" n="107" break="no"/>tionis sint futura contingentia, quae respectu 
+      cogni<lb ed="#P" n="108" break="no"/>tionis angelicae sunt certa &amp; determinata, ut verbi 
+      <lb ed="#P" n="109"/>gratia mors futura hujus hominis ex tali morbo jam 
+      <lb ed="#P" n="110"/>praesente, quem angelus scire potest esse laethalem 
+      <lb ed="#P" n="111"/>)nomine medico hoc ignorante, caritas aut vilitas 
+      <lb ed="#P" n="112"/>annonae ex certis causis astronomo ignotis, &amp; sic in 
+      <lb ed="#P" n="113"/>aliis multis. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e694">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Decimumquintum: Quod ad modum intelligendi 
+      <lb ed="#P" n="115"/>attinet, intellectus angelicus hoc habet commune 
+      <lb ed="#P" n="116"/>cum nostro, quod non semper sit in actu respectu 
+      <lb ed="#P" n="117"/>eorum quae naturaliter cognoscit, sed quandoque in 
+      <lb ed="#P" n="118"/>actu, quandoque in potentia. Non enim omnia quae 
+      <lb ed="#P" n="119"/>naturali cognitione cognoscit, semper actu 
+      conside<lb ed="#P" n="120" break="no"/>rat. Est autem hoc accipiendum de actu 
+      secundo<lb ed="#P" n="121" break="no"/>Nam si loquamur de actu primo, nunquam 
+      intelle<lb ed="#P" n="122" break="no"/>ctus angeli est in potentia, sed semper in actu 
+      respe<lb ed="#P" n="123" break="no"/>ctu eorum ad quae naturalis ejus cognitio se 
+      extende<lb ed="#P" n="124" break="no"/>re potest. Sicut enim corpora caelestia non habent 
+      <lb ed="#P" n="125"/>potentiam ad esse, quae non sit completa per actum, 
+      <lb ed="#P" n="126"/>sic &amp; intelligentiae caelestes non habent 
+      intellectua<lb ed="#P" n="127" break="no"/>lem potentiam quae non sit totaliter completa per 
+      <lb ed="#P" n="128"/>species intelligibiles eis connaturales, quae quidem 
+      <lb ed="#P" n="129"/>species sunt angelis instar habituum ac primorum 
+      <lb ed="#P" n="130"/>actuum. Ita docet S. Thomas q. 59. art. 1. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e737">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Nec tamen negamus intellectum angeli respectu 
+      <lb ed="#P" n="132"/>quorundam naturaliter cognitorum semper esse in 
+      <lb ed="#P" n="133"/>actu secundo, id est, in actuali contemplatione, ut 
+      <lb ed="#P" n="134"/>respectu sui ipsius &amp; respectu Dei tanquam authoris 
+      <lb ed="#P" n="135"/>angelicae naturae. Hoc enim probabiliter a plerisque 
+      <lb ed="#P" n="136"/>traditur, licet nonnulli dissentiant. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e755">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Decimum sextum: Hoc quoque commune habet 
+      <lb ed="#P" n="138"/>intellectus angelicus cum nostro, quod non possit 
+      <lb ed="#P" n="139"/>multa simul intelligere, nisi quae repraesentantur ei 
+      <lb ed="#P" n="140"/>per unam speciem, ac proinde per modum unius, 
+      <lb ed="#P" n="141"/>Nam quae repraesentantur per diversas species, non 
+      <lb ed="#P" n="142"/>contingit simul intelligere, sicut fieri non potest ut 
+      <lb ed="#P" n="143"/>idem corpus simul pluribus figuris sit terminatum. 
+      <lb ed="#P" n="144"/>S. Thomae doctrina est articulo secundo ejusdem 
+      <lb ed="#P" n="145"/>quaestionis. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e779">
+               <lb ed="#P" n="146"/>
+               <pc type="indent"/> Decimumseptimum: Intellectus angelicus in eo 
+      <lb ed="#P" n="147"/>excellit humanum, quod angeli non ut nos per 
+      <lb ed="#P" n="148"/>discursum rationis intelligunt, sed statim ac sine 
+      <!--0302.xml-->
+      <pb ed="#P" n="69"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>discursu in illis quae primo naturaliter cognoscunt, 
+      <lb ed="#P" n="2"/>intuentur omnia quaecumque in eis cognosci 
+      pos<lb ed="#P" n="3" break="no"/>sunt. Hoc enim pertinet ad perfectionem 
+      intelle<lb ed="#P" n="4" break="no"/>ctus angelici, cui nimirum competit plenitudo 
+      lu<lb ed="#P" n="5" break="no"/>minis intellectualis. Haec ejusdem sancti Thomae 
+      <lb ed="#P" n="6"/>doctrina est ibidem articulo tertio, vide Bannesium 
+      <lb ed="#P" n="7"/>Est autem istud intelligendum de discursu proprie 
+      <lb ed="#P" n="8"/>dicto, id est, de eo qui complectitur plures 
+      cogni<lb ed="#P" n="9" break="no"/>tiones re distinctas, quarum una sit causa alterius, ut 
+      <lb ed="#P" n="10"/>fit dum ratiocinando colligimus illud ex alio per 
+      <lb ed="#P" n="11"/>syllogismos, inductiones, enthymemata, &amp;c. Nam 
+      <lb ed="#P" n="12"/>discursum improprie dictum per quem aliud in alio 
+      <lb ed="#P" n="13"/>cognoscitur, una &amp; eadem cognitione angelis 
+      com<lb ed="#P" n="14" break="no"/>petere jam diximus. 
+    </p>
+            <p xml:id="bt67yj-p025803-d1e827">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Postremum: Angelicus intellectus etiam in eo 
+      ex<lb ed="#P" n="16" break="no"/>cellit humanum, quod non intelligat componendo 
+      <lb ed="#P" n="17"/>aut dividendo, dum quid judicat affirmanter aut 
+      <lb ed="#P" n="18"/>neganter, sed solum intelligendo quod quid est, id 
+      <lb ed="#P" n="19"/>est, rei ipsius quidditatem. Probat hoc sanctus 
+      <lb ed="#P" n="20"/>Thomas ibidem art. 4. ex eodem fundamento quo 
+      <lb ed="#P" n="21"/>doctrinam praecedentem. Cum enim in angelo sit 
+      <lb ed="#P" n="22"/>lumen intellectuale perfectum, quod a Dionysio 
+      <lb ed="#P" n="23"/>de divinis nominibus capite quarto parte quarta 
+      <lb ed="#P" n="24"/>comparatur puro &amp; clarissimo speculo, 
+      consequi<lb ed="#P" n="25" break="no"/>tur angelum, sicut non intelligit ratiocinando, ita 
+      <lb ed="#P" n="26"/>nec intelligere componendo vel dividendo, sed 
+      <lb ed="#P" n="27"/>statim in apprehensione quidditatis subjecti habere 
+      <lb ed="#P" n="28"/>notitiam de omnibus quae possunt ei attribui vel ab C 
+      <lb ed="#P" n="29"/>eo removeri. Nihilominus, inquit sanctus Thomas, 
+      <lb ed="#P" n="30"/>ipsarum enuntiationum compositionem &amp; 
+      divisio<lb ed="#P" n="31" break="no"/>nem intelligit, sicut &amp; syllogismorum rationem. 
+      <lb ed="#P" n="32"/>Intelligit enim composita simpliciter, &amp; mobilia 
+      im<lb ed="#P" n="33" break="no"/>mobiliter, &amp; materialia immaterialiter. Sic 
+      ille<lb ed="#P" n="34" break="no"/>Nec hinc sequitur non esse veritatem aut 
+      falsita<lb ed="#P" n="35" break="no"/>tem in intellectu angelico, quod veritas &amp; falsitas 
+      <lb ed="#P" n="36"/>sint in sola compositione &amp; divisione. Nam in 
+      in<lb ed="#P" n="37" break="no"/>tellectu angelico, licet non formaliter, est tamen 
+      <lb ed="#P" n="38"/>virtualiter &amp; eminenter compositio &amp; divisio, 
+      ve<lb ed="#P" n="39" break="no"/>ritas autem formaliter, sicut in eo est scientia 
+      for<lb ed="#P" n="40" break="no"/>maliter, discursus autem tantum virtualiter, seu 
+      po<lb ed="#P" n="41" break="no"/>tius eminenter. Quandoquidem &amp; in intellectu 
+      di<lb ed="#P" n="42" break="no"/>vino veritas &amp; scientia sunt formaliter &amp; proprie, 
+      <lb ed="#P" n="43"/>a quo tamen tam compositio &amp; divisio quam 
+      discur<lb ed="#P" n="44" break="no"/>sus longissime abest. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

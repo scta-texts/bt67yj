@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 30</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 30</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="311"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p120754"><!-- l2d26c30" -->
+            <head xml:id="bt67yj-p120754-Hd1e101">Capitulum 30</head>
+            <head xml:id="bt67yj-p120754-Hd1e103" type="question-title">Exponitur sententia: Gratiam non dari 
+      secundum merita nostra</head>
+            <p xml:id="bt67yj-p120754-d1e106">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> §. 30. Exponitur sententia: Gratiam non dari 
+      <lb ed="#P" n="46"/>secundum merita nostra.
+    </p>
+            <p xml:id="bt67yj-p120754-d1e115">
+               <lb ed="#P" n="47"/>INter ea dogmata quae contra Pelagianam 
+      haere<lb ed="#P" n="48" break="no"/>sim olim a Patribus definita sunt, etiam istud est: 
+      <lb ed="#P" n="49"/>Gratiam Dei non secundum merita nostra dari. 
+      Cu<lb ed="#P" n="50" break="no"/>jus sententiae veritas etsi satis abunde constet ex 
+      do<lb ed="#P" n="51" break="no"/>ctrina superiori, qua demonstravimus &amp; singulos 
+      <lb ed="#P" n="52"/>bonos actus, &amp; initium cujusque boni operis, &amp; 
+      to<lb ed="#P" n="53" break="no"/>tum bonum opus esse a gratia Dei; non inutile 
+      ta<lb ed="#P" n="54" break="no"/>men fuerit, etiam propriis argumentis &amp; testimoniis 
+      <lb ed="#P" n="55"/>eam comprobare. Quod priusquam faciamus, 
+      ex<lb ed="#P" n="56" break="no"/>ponendum breviter, quid in hac sententia nomine 
+      <lb ed="#P" n="57"/>gratiae, &amp; quid nomine meriti intelligatur, &amp; quae 
+      <lb ed="#P" n="58"/>nostra dicantur merita. 
+    </p>
+            <p xml:id="bt67yj-p120754-d1e144">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Gratiam Patres in suo decreto intellexerunt non 
+      <lb ed="#P" n="60"/>solum donum habitualis gratiae, sed generaliter 
+      gra<lb ed="#P" n="61" break="no"/>tiam Dei per Christum, ut comprehendit etiam 
+      gra<lb ed="#P" n="62" break="no"/>tiam adjutorii specialis, seu quemcunque hujus 
+      gra<lb ed="#P" n="63" break="no"/>tiae effectum, id est, omne bonum hominis pertinens 
+      <lb ed="#P" n="64"/>ad pietatem &amp; salutem vitae aeternae. Qui generalis 
+      <lb ed="#P" n="65"/>intellectus patebit ex sequentibus. Similiter nomine 
+      <lb ed="#P" n="66"/>meriti intellexerunt, non solum meritum quod 
+      vo<lb ed="#P" n="67" break="no"/>catur condignum, sed omnem praeparationem seu 
+      <lb ed="#P" n="68"/>pispositionem qua quid ab alio dandum obtineatur 
+      <lb ed="#P" n="69"/>aut impetretur; sive rationem habeat meriti 
+      condi<lb ed="#P" n="70" break="no"/>gni, sive congrui; sive sit aliquid utroque minus; &amp; 
+      <lb ed="#P" n="71"/>ut semel dicam, omne bonum alicujus retributionis 
+      <!--0544.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>aliquo modo provocativum. Quae generalis acceptio 
+      <lb ed="#P" n="73"/>meriti manifesta est ex scriptis Patrum, quibus hanc 
+      <lb ed="#P" n="74"/>sententiam explicant &amp; contra Pelagianos urgent 
+      <lb ed="#P" n="75"/>atque defendunt, ac nominatim ex Augustino: Apud 
+      <lb ed="#P" n="76"/>quem in epist. 105. 106. &amp; 107. Item lib. de 
+      praede<lb ed="#P" n="77" break="no"/>stinatione SS. cap. 2. libri 1. contra duas epistolas 
+      <lb ed="#P" n="78"/>Pelagianorum capit. 19. &amp; lib. 2. capit. 8. &amp; aliis 
+      <lb ed="#P" n="79"/>compluribus locis etiam fides, oratio, poenitentia 
+      <lb ed="#P" n="80"/>meritum est respectu remissionis peccatorum, &amp; 
+      <lb ed="#P" n="81"/>omne bonum praecedens respectu sequentis, quod 
+      <lb ed="#P" n="82"/>illius intuitu quocunque modo potest acquiri. De 
+      <lb ed="#P" n="83"/>qua re plura diximus ad dist. 41. lib. 1. ubi 
+      quae<lb ed="#P" n="84" break="no"/>stio versabatur, an praedestinatio sit ex nostris 
+      me<lb ed="#P" n="85" break="no"/>ritis. 
+    </p>
+            <p xml:id="bt67yj-p120754-d1e213">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Eodem recidit ea expositio qua dicitur meritum 
+      <lb ed="#P" n="87"/>intelligi respectu gratiae, quicquid ad gratiam 
+      con<lb ed="#P" n="88" break="no"/>sequendam per se ordinem quendam habet. 
+      Cujus<lb ed="#P" n="89" break="no"/>modi quidem non sunt opera infidelium moraliter 
+      <lb ed="#P" n="90"/>bona, vel quicquam aliud fidem praecedens. Ea 
+      <lb ed="#P" n="91"/>namque per se nullo modo dicunt hominem ad 
+      re<lb ed="#P" n="92" break="no"/>novationem, quae fit ad salutem aeternam; quia nec 
+      <lb ed="#P" n="93"/>eam noverunt qui fide carent, sed talia sunt, fides, 
+      <lb ed="#P" n="94"/>spes, oratio, poenitentia Christiana. Haec enim 
+      or<lb ed="#P" n="95" break="no"/>dinem habent ad justitiam &amp; salutem, ita ut per ea 
+      <lb ed="#P" n="96"/>Deus aliquo modo provocetur ad justificandum &amp; 
+      <lb ed="#P" n="97"/>salvandum hominem, uti ex scripturis facile potest 
+      <lb ed="#P" n="98"/>doceri. 
+    </p>
+            <p xml:id="bt67yj-p120754-d1e246">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Denique in eodem Patrum decreto ea dicuntur 
+      no<lb ed="#P" n="100" break="no"/>stra merita, quae ex nostris viribus habemus, &amp; non 
+      <lb ed="#P" n="101"/>ex gratia Dei. Nam si merita nostra generaliter 
+      intelli<lb ed="#P" n="102" break="no"/>gas, etiam illa quae nobis sunt ex Dei gratia, jam 
+      pror<lb ed="#P" n="103" break="no"/>sus fatendum esset aliquam gratiam dari secundum 
+      <lb ed="#P" n="104"/>merita nostra, nempe vitam aeternam, &amp; augmentum 
+      <lb ed="#P" n="105"/>gratiae, &amp; in universum omnem eam quae primam 
+      <lb ed="#P" n="106"/>gratiam sequitur. Omnis enim hujusmodi gratia 
+      da<lb ed="#P" n="107" break="no"/>tur ex merito primae gratiae generaliter accepto 
+      se<lb ed="#P" n="108" break="no"/>cundum praedicta. 
+    </p>
+            <p xml:id="bt67yj-p120754-d1e272">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Est igitur sensus sententiae Patrum, hominem ex 
+      <lb ed="#P" n="110"/>seipso &amp; ex propriis viribus nullam habere posse 
+      <lb ed="#P" n="111"/>praeparationem ad gratiam Dei: nec quicquam boni 
+      <lb ed="#P" n="112"/>facere posse, quo gratiam seu beneficentiam Dei, 
+      <lb ed="#P" n="113"/>in eo quod ad salutem aeternam pertineat, erga se 
+      <lb ed="#P" n="114"/>provocet aut invitet. In hunc modum exponit ac 
+      <lb ed="#P" n="115"/>declarat eam sententiam Augustinus lib. de gratia 
+      <lb ed="#P" n="116"/>&amp; libero arbitrio capite 6. &amp; 14. &amp; late probat 
+      epi<lb ed="#P" n="117" break="no"/>stola 105. ad Sixtum. Quo pertinet etiam illud 
+      ejus<lb ed="#P" n="118" break="no"/>dem Augustini ex lib. octoginta trium quaest. q. 68. 
+      <lb ed="#P" n="119"/>Ipsa gratia quae data est per fidem, nullis nostris 
+      me<lb ed="#P" n="120" break="no"/>ritis praecedentibus data est; nempe ideo, quia 
+      fi<lb ed="#P" n="121" break="no"/>des etsi meritum quoddam est respectu gratiae 
+      se<lb ed="#P" n="122" break="no"/>quentis, ut August. docet, non tamen meritum 
+      no<lb ed="#P" n="123" break="no"/>strum, id est, ex nobis comparatum, sed donatum 
+      <lb ed="#P" n="124"/>a Deo. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

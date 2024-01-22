@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="108"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p041722"><!-- l2d11c4" -->
+            <head xml:id="bt67yj-p041722-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p041722-Hd1e103" type="question-title">An unusquisque homo habeat angelum 
+      malum</head>
+            <p xml:id="bt67yj-p041722-d1e106">
+               <lb ed="#P" n="123"/>§. 4. An unusquisque homo habeat angelum 
+      <lb ed="#P" n="124"/>malum!
+    </p>
+            <p xml:id="bt67yj-p041722-d1e113">
+               <lb ed="#P" n="125"/>ESt quidem hominibus justis &amp; piis cum 
+      adversa<lb ed="#P" n="126" break="no"/>riis potestatibus perpetua colluctatio, ut Eph. 6. 
+      <lb ed="#P" n="127"/>&amp; multis aliis scripturae locis est manifestum. Sed a 
+      <lb ed="#P" n="128"/>utrum sicut unicuique homini suus datus est angelus 
+      <lb ed="#P" n="129"/>bonus ad custodiam, sic etiam unicuique suus 
+      depu<lb ed="#P" n="130" break="no"/>tetur a Deo angelus malus ad exercitium, quae 
+      quo<lb ed="#P" n="131" break="no"/>rundam opinio est, quam &amp; Magister §. B. &amp; C. 
+      te<lb ed="#P" n="132" break="no"/>nere videtur, incertum est, imo valde probabile 
+      <lb ed="#P" n="133"/>non ita esse. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e135">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Primum, quia multi sunt homines, in quibus 
+      exer<lb ed="#P" n="135" break="no"/>citium quod est ad probationem &amp; augmentum 
+      vir<lb ed="#P" n="136" break="no"/>tutis, nullum habeat locum, ut in iis qui diabolo 
+      <lb ed="#P" n="137"/>sponte serviunt, &amp; juxta apost. 2. Tim. 2. captivi 
+      <lb ed="#P" n="138"/>ab eo tenentur, nec ullius virtutis studium habent. 
+      <lb ed="#P" n="139"/>Quare probabilitatis aliquid habere videretur haec 
+      <lb ed="#P" n="140"/>sententia si de solis loqueretur electis, iisque ratione 
+      <lb ed="#P" n="141"/>utentibus. His enim solis ad virtutis aliquod 
+      exerci<lb ed="#P" n="142" break="no"/>tium &amp; ad salutem proficit diabolica tentatio.
+    </p>
+            <p xml:id="bt67yj-p041722-d1e160">
+      <!--0342.xml-->
+               <pb ed="#P" n="109"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Verum nec de iis hoc satis probabiliter dici posse 
+      <lb ed="#P" n="2"/>quidam his argumentis probant. Primo, quia frustra 
+      <lb ed="#P" n="3"/>divinitus deputarentur singulis hominibus singuli 
+      <lb ed="#P" n="4"/>tentatores daemones, cum daemones ipsi sua sponte 
+      <lb ed="#P" n="5"/>ad homines tentandos sint paratissimi. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e180">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Secundo, quia frequenter unum hominem non 
+      <lb ed="#P" n="7"/>unus daemon, sed multi oppugnant, ut constat 
+      exem<lb ed="#P" n="8" break="no"/>plo ejus qui assumens septem alios spiritus nequiores 
+      <lb ed="#P" n="9"/>se, domum unde fuerat ejectus repetivit. Luc II. 
+      <lb ed="#P" n="10"/>Nam &amp; S. Antonium ingens multitudo daemonum, 
+      <lb ed="#P" n="11"/>ut in ejus vita legitur, tam spiritualiter, quam 
+      corpo<lb ed="#P" n="12" break="no"/>raliter oppugnavit. Quod &amp; de aliis quibusdam 
+      le<lb ed="#P" n="13" break="no"/>gitur, &amp; exemplo atque similitudine corporalis 
+      ob<lb ed="#P" n="14" break="no"/>sessionis probatur, velut de Maria Magdalena a 
+      se<lb ed="#P" n="15" break="no"/>ptem daemonis obsessa atque liberata Luc 8. Marci 
+      <lb ed="#P" n="16"/>19. Item de eo quem legio daemonum occupaverat 
+      <lb ed="#P" n="17"/>Luc. 8. &amp; de aliis hujusmodi. Frustra autem 
+      videre<lb ed="#P" n="18" break="no"/>tur unus uni deputatus ad exercitium, si eo ordine 
+      <lb ed="#P" n="19"/>turbato plures unum aggrediuntur. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e215">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Tertio, quia cum Deus neminem tentet, neque 
+      <lb ed="#P" n="21"/>cuiquam peccati author esse possit, non est 
+      verisi<lb ed="#P" n="22" break="no"/>mile per ejus providentiam hoc agit ut unusquisque 
+      <lb ed="#P" n="23"/>homo daemonem habeat tentatorem &amp; impulsorem. 
+      <lb ed="#P" n="24"/>ad peccandum. Sicut enim Deus non est author 
+      pec<lb ed="#P" n="25" break="no"/>cati, etiam destinandi in bonum finem, ita ad ejus 
+      <lb ed="#P" n="26"/>bonitatem non pertinet homini providere 
+      tentato<lb ed="#P" n="27" break="no"/>rem &amp; sollicitatorem ad malum, licet id quibusdam 
+      <lb ed="#P" n="28"/>cedat in bonum. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e239">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Dicunt ergo quod Deus vel utitur tantum malitia 
+      <lb ed="#P" n="30"/>daemonum ad probationem electorum, vel quod 
+      <lb ed="#P" n="31"/>eos mittere ac destinare ad tentandum dicitur, 
+      qua<lb ed="#P" n="32" break="no"/>tenus ea tentatio rationem habet justae vindictae 
+      ob<lb ed="#P" n="33" break="no"/>peccata praecedentia eorum qui tentantur. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e255">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Sed haec argumenta ad id quod verum est in hac 
+      <lb ed="#P" n="35"/>quaestione inveniendum, non videntur sufficere, 
+      <lb ed="#P" n="36"/>Primum enim non convincit. Nam &amp; boni angeli 
+      <lb ed="#P" n="37"/>sua sponte sunt ad custodiendos homines 
+      paratissi<lb ed="#P" n="38" break="no"/>mi, nec ideo tamen frustra singuli singulis ex 
+      ordi<lb ed="#P" n="39" break="no"/>natione &amp; mandato Dei custodes adhibentur. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e273">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Si respondeas angelos bonos licet ad 
+      benefacien<lb ed="#P" n="41" break="no"/>dum hominibus paratissimos, nihil tamen facere nisi 
+      <lb ed="#P" n="42"/>quod Deus eis praecipit, malos autem non 
+      exspecta<lb ed="#P" n="43" break="no"/>re Dei praeceptum: Objici poterit quod mali 
+      daemo<lb ed="#P" n="44" break="no"/>nes expectant praeceptum sui principis. Est enim 
+      in<lb ed="#P" n="45" break="no"/>ter cos ordo actionum etiam in malo, &amp; ita a 
+      diabo<lb ed="#P" n="46" break="no"/>lo poterit ordinatum esse Deo permittente ut quisque 
+      <lb ed="#P" n="47"/>homo habeat unum angelum malum sibi 
+      assigna<lb ed="#P" n="48" break="no"/>tum, a quo tentetur ad peccata. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e298">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Secundum quoque non concludit simili ratione. 
+      <lb ed="#P" n="50"/>Saepe enim etiam multi boni angeli unum hominem 
+      <lb ed="#P" n="51"/>custodiunt &amp; protegunt, ut patet exemplo Elizaei. 
+      <lb ed="#P" n="52"/>Nec ob id turbatur ordo constitutus a Deo; quia &amp; 
+      <lb ed="#P" n="53"/>hoc a Deo ordinatur, ut interdum multi unum 
+      cu<lb ed="#P" n="54" break="no"/>stodiant. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e316">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Tertium vero argumentum bene probat angelos 
+      <lb ed="#P" n="56"/>malos non habere mandatum a Deo ut homines 
+      <lb ed="#P" n="57"/>tentent. Nam ut ait Ecclesiasticus capite 
+      decimo<lb ed="#P" n="58" break="no"/>quinto, Deus nemini mandavit impie agere. Bene 
+      <lb ed="#P" n="59"/>etiam probat per Dei providentiam non hoc agi ut 
+      <lb ed="#P" n="60"/>homines a daemonibus tententur; quia tentatio 
+      dia<lb ed="#P" n="61" break="no"/>bolica, cum sit ad malum, proprie non cadit sub 
+      <lb ed="#P" n="62"/>providentia Dei, quia non est nec esse potest ejus 
+      <lb ed="#P" n="63"/>effectus. Sed non probat daemones hominibus non 
+      <lb ed="#P" n="64"/>deputari a Deo ad ipsorum hominum exercitium. 
+      <lb ed="#P" n="65"/>Nam exercitium hoc bonum est &amp; nihil mali in sua 
+      <lb ed="#P" n="66"/>ratione includit, sicut tentatio, quod proinde ut 
+      <lb ed="#P" n="67"/>tale est, cadit sub ordine providentiae divinae. 
+      Quo<lb ed="#P" n="68" break="no"/>circa licet tentationem non intendat Deus sed 
+      dia<lb ed="#P" n="69" break="no"/>bolus, ipsum tamen exercitium a Deo intenditur, 
+      <lb ed="#P" n="70"/>quoties homines ad virtutem exercentur, sive id 
+      <lb ed="#P" n="71"/>fiat per tentationem diabolicam, sive per 
+      tentatio<lb ed="#P" n="72" break="no"/>nem carnis, sive alio modo quocumque Deus ad 
+      <lb ed="#P" n="73"/>exercendum homines uti voluerit. Unde legimus, 
+      <lb ed="#P" n="74"/>Deum per Satanam exercuisse patientiam S. Job. 
+      <!--0342.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Nec negandum videtur, quin pro illo tempore 
+      fue<lb ed="#P" n="76" break="no"/>rit ei satanas a Deo deputatus ad exercitium. Id 
+      au<lb ed="#P" n="77" break="no"/>tem manifestius apparet in Paulo qui 2. Corinth. 12. 
+      <lb ed="#P" n="78"/>testatur pro custodia humilitatis sibi datum fuisse 
+      sti<lb ed="#P" n="79" break="no"/>mulum carnis suae angelum satanae qui ipsum 
+      cola<lb ed="#P" n="80" break="no"/>phizaret. Adde quod cum omnis ordo sit a Deo, 
+      ne<lb ed="#P" n="81" break="no"/>cesse est &amp; illum ordinem in Deum authorem referri, 
+      <lb ed="#P" n="82"/>qui est in regno daemonum, dum alii ad alios 
+      ten<lb ed="#P" n="83" break="no"/>tandos mittuntur. Nam licet tentatio non sit a Deo, 
+      <lb ed="#P" n="84"/>tentationis tamen atque impugnationis ordo a Deo 
+      <lb ed="#P" n="85"/>est, qui ordinate novit uti malis, ad bona ea 
+      ordi<lb ed="#P" n="86" break="no"/>nando, ut ait S. Thomas 1. parte quaest. 114. art. 1. 
+      <lb ed="#P" n="87"/>Unde &amp; ordinationem daemonum consideratam ex 
+      <lb ed="#P" n="88"/>parte Dei ordinantis, sacram esse dicit idem doctor 
+      <lb ed="#P" n="89"/>quaest. 109. art. 1. &amp; 2. Ex quibus patet opinionem 
+      <lb ed="#P" n="90"/>eorum, qui dicunt unicuique homini malum 
+      ange<lb ed="#P" n="91" break="no"/>lum ad exercitium deputari, non esse rejiciendam, 
+      <lb ed="#P" n="92"/>ut impiam, aut sanae doctrinae contrariam. 
+      Quan<lb ed="#P" n="93" break="no"/>quam nec ut vera recipi posse videtur, non tantum 
+      <lb ed="#P" n="94"/>ob causam initio dictam (quia scilicet exercitium 
+      <lb ed="#P" n="95"/>virtutis in multis locum non habet, ut in reprobis 
+      <lb ed="#P" n="96"/>praesertim infidelibus;) sed etiamsi opinionem 
+      no<lb ed="#P" n="97" break="no"/>stram non restringamus ad electos. Nam infantes 
+      <lb ed="#P" n="98"/>priusquam ad usum rationis pertingant, exerceri ad 
+      <lb ed="#P" n="99"/>virtutem non possunt. Quare frustra eis a nativitate 
+      <lb ed="#P" n="100"/>(quod volunt isti opinatores quasi conformiter cum 
+      <lb ed="#P" n="101"/>bono angelo ad custodiam dato) malus angelus ad 
+      <lb ed="#P" n="102"/>exercitium daretur, idque eo magis si in infantia 
+      <lb ed="#P" n="103"/>sint decessuri. Cum quibus idem prorsus judicium 
+      <lb ed="#P" n="104"/>est de his qui perpetua laborant amentia. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e433">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Deinde cum plerique homines etiam electi sint 
+      <lb ed="#P" n="106"/>valde infirmi &amp; per seipsos ad lapsum proni, 
+      pro<lb ed="#P" n="107" break="no"/>pter legem peccati quae est in membris, non est 
+      ve<lb ed="#P" n="108" break="no"/>risimile Deum ordinare aut permittere ut semper 
+      <lb ed="#P" n="109"/>unicuique adsit daemon a quo impugnetur, sed 
+      sae<lb ed="#P" n="110" break="no"/>pe per bonum angelum daemonis impugnationem 
+      <lb ed="#P" n="111"/>avertere, sicut &amp; impedit interdum ne daemon sciat 
+      <lb ed="#P" n="112"/>quid circa hominem agatur, quomodo ex Ignatio 
+      <lb ed="#P" n="113"/>refert Hieronymus in Matth. 1. diabolo celatum 
+      <lb ed="#P" n="114"/>fuisse partum virginis, adeo ut putaverit Jesum non 
+      <lb ed="#P" n="115"/>de virgine sed ex viro conceptum. Hinc enim 
+      ap<lb ed="#P" n="116" break="no"/>paret daemonem non semper adesse homini cum 
+      fa<lb ed="#P" n="117" break="no"/>cultate tentandi, sicut semper adest angelus bonus 
+      <lb ed="#P" n="118"/>custodiens, uti recte docet S. Thomas quaest. 113. 
+      <lb ed="#P" n="119"/>art. 6. Atque hujus rei ad consolationem nostram 
+      <lb ed="#P" n="120"/>praecessit exemplum in Christo capite nostro, a quo 
+      <lb ed="#P" n="121"/>post trinam tentationem diabolus legitur ad tempus 
+      <lb ed="#P" n="122"/>recessisse Luc. 4. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e477">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Denique incertum est utrum semper ab uno 
+      eo<lb ed="#P" n="124" break="no"/>demque daemone, an vero subinde ab alio atque alio, 
+      <lb ed="#P" n="125"/>prout hoc sapientiae divinae permittere &amp; ordinare 
+      <lb ed="#P" n="126"/>visum fuerit, electus quisque tentetur atque 
+      exer<lb ed="#P" n="127" break="no"/>ceatur. Nam de bonis quidem angelis sic definite 
+      lo<lb ed="#P" n="128" break="no"/>quitur scriptura. Angelus ejus est, &amp;, Angeli eorum 
+      <lb ed="#P" n="129"/>semper vident, &amp;c. &amp;, Angelus qui eruit me de 
+      cun<lb ed="#P" n="130" break="no"/>ctis malis; Quasi semper unus &amp; idem deputatus 
+      ma<lb ed="#P" n="131" break="no"/>neat ad hominis cujusque custodiam, qui proinde 
+      <lb ed="#P" n="132"/>proprie illius angelus esse dicatur. At de malis nihil 
+      <lb ed="#P" n="133"/>tale legitur. Nec sane convenit ita fieri. Si enim id 
+      <lb ed="#P" n="134"/>haberet ordinatio divina, sicut habet de bonis, jam 
+      <lb ed="#P" n="135"/>certi essent daemones taliter deputati, sed durante 
+      vi<lb ed="#P" n="136" break="no"/>ta hominis, cui ad exercitium dati essent, non 
+      mit<lb ed="#P" n="137" break="no"/>tendos in abyssum inferni. Quae certitudo 
+      damnatio<lb ed="#P" n="138" break="no"/>ni eorum nequaquam convenit. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e516">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Porro authores quidam pro memorata opinione 
+      <lb ed="#P" n="140"/>adduci solent, sed quorum non magni ponderis sit 
+      <lb ed="#P" n="141"/>authoritas. Nam Origenes qui eam opinionem 
+      tra<lb ed="#P" n="142" break="no"/>dit homil. 12. &amp; 35. super Luc. multorum foit 
+      erro<lb ed="#P" n="143" break="no"/>rum parens, ac nominatim in eadem ipsa 35. homilia, 
+      <lb ed="#P" n="144"/>multa alia docet absurda. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e534">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Est item apud Cassianum haec opinio collatione 
+      <lb ed="#P" n="146"/>7. cap. 17. &amp; collatione 13. cap. 12. Sed hunc 
+      colla<lb ed="#P" n="147" break="no"/>torem ut in aliis ita &amp; in hoc dogmate reprehendit 
+      <lb ed="#P" n="148"/>Prosper lib. contra ipsum edito cap. 27. Allegat 
+      <!--0343.xml-->
+      <pb ed="#P" n="110"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quidem uterque, id est, Origenes loco posteriori, 
+      <lb ed="#P" n="2"/>&amp; Cassianus loco priori librum Pastoris, in quo 
+      <lb ed="#P" n="3"/>scriptum contineatur unicuique homini duos 
+      ange<lb ed="#P" n="4" break="no"/>los cohaerere, bonum &amp; malum. Sed eum libr. Hier. 
+      <lb ed="#P" n="5"/>in prologo galeato, &amp; Gelas. Pont. in conc. 70. 
+      <lb ed="#P" n="6"/>episc. (cujus decretum extat apud Grat. dist. 15. 
+      <lb ed="#P" n="7"/>cap. sancta Rom. ecclesia) inter apocrypha 
+      rejece<lb ed="#P" n="8" break="no"/>runt. Quin &amp; eodem decreto tam Origenis quam 
+      <lb ed="#P" n="9"/>Cassiani opuscula iisdem apocryphis annumerantur. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e574">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Reperitur insuper ea sententia in homilia 5. 
+      ope<lb ed="#P" n="11" break="no"/>ris imperfecti in Matth. Sed author ejus operis ut 
+      <lb ed="#P" n="12"/>incertus est, ita certo &amp; ὥειγνίζει &amp; ἀρειάνιζ multis 
+      <lb ed="#P" n="13"/>locis. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e587">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Quod autem in hanc partem Greg. 
+      authorita<lb ed="#P" n="15" break="no"/>tem producit Magister, apud Gregorium non 
+      inve<lb ed="#P" n="16" break="no"/>nitur, sed habetur in libro sententiarum Hugonis a 
+      <lb ed="#P" n="17"/>S. Victore. Cujus authoritas cum Greg. non est 
+      <lb ed="#P" n="18"/>comparanda. 
+    </p>
+            <p xml:id="bt67yj-p041722-d1e603">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Postremo videri non immerito potest ea opinio 
+      <lb ed="#P" n="20"/>manasse ex errore gentilium, qui singulis 
+      homini<lb ed="#P" n="21" break="no"/>bus in ipso ortu duos genios velut connaturales 
+      at<lb ed="#P" n="22" break="no"/>tribuerunt, bonum &amp; malum; ac bono quidem 
+      <lb ed="#P" n="23"/>bona omnia, quae homo vel faceret vel pateretur; 
+      <lb ed="#P" n="24"/>malo autem mala omnia ascribebant. Cui non 
+      admo<lb ed="#P" n="25" break="no"/>dum dissimile est illud Mahometanae superstitionis 
+      <lb ed="#P" n="26"/>commentum, quod in lib. cui titulus, doctrina 
+      <lb ed="#P" n="27"/>Mabometi, legitur, singulis hominibus binos 
+      assi<lb ed="#P" n="28" break="no"/>stere angelos, alterum a dextris, alterum a sinistris, 
+      <lb ed="#P" n="29"/>quorum ille benefacta hominis scribit, iste 
+      malefa<lb ed="#P" n="30" break="no"/>cta, &amp;c. Ex quibus omnibus apparet hoc quod 
+      di<lb ed="#P" n="31" break="no"/>citur de malo angelo singulis hominibus semper 
+      ad<lb ed="#P" n="32" break="no"/>haerente magis ad fabulas falsarum religionum 
+      per<lb ed="#P" n="33" break="no"/>tinere, quam in doctrina Christiana solidum 
+      habe<lb ed="#P" n="34" break="no"/>re fundamentum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

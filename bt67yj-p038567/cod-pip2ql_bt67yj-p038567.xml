@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="100"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p038567"><!-- l2d9c3" -->
+            <head xml:id="bt67yj-p038567-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p038567-Hd1e103" type="question-title">Ordines angelorum ab initio distinctos fuisse</head>
+            <p xml:id="bt67yj-p038567-d1e106">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> §. 3. Ordines angelorum ab initio distinctos fuisse. 
+    </p>
+            <p xml:id="bt67yj-p038567-d1e113">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> AD quaestionem utrum angeli in hicrarchias &amp; 
+      <lb ed="#P" n="107"/>ordines ab initio, quo creati sunt, fuerint 
+      di<lb ed="#P" n="108" break="no"/>stributi, eamque distinctionem a natura habeant, 
+      <lb ed="#P" n="109"/>affirmative respondendum juxta communem 
+      Theo<lb ed="#P" n="110" break="no"/>logorum doctrinam, quam &amp; S. Thomas tradit 
+      pri<lb ed="#P" n="111" break="no"/>ma parte quaest. 108. articulo quarto, &amp; in scripto 
+      <lb ed="#P" n="112"/>super hanc distinctionem articulo septimo. Cujus 
+      <lb ed="#P" n="113"/>doctrinae ratio est, quia juxta omnium sententiam 
+      <lb ed="#P" n="114"/>angeli in sua creatione differentes naturae dotes 
+      ac<lb ed="#P" n="115" break="no"/>ceperunt &amp; gratiam quoque sive in creatione 
+      da<lb ed="#P" n="116" break="no"/>tam, sive postea collatam, pro capacitate 
+      natura<lb ed="#P" n="117" break="no"/>lium, majorem vel minorem sortiti sunt, ut dictum 
+      <lb ed="#P" n="118"/>est ad distinctionem tertiam. Per has igitur tam 
+      na<lb ed="#P" n="119" break="no"/>turalium quam gratuitorum donorum differentias in 
+      <lb ed="#P" n="120"/>angelorum republica distinguuntur hierarchiae &amp; 
+      or<lb ed="#P" n="121" break="no"/>dines, sed ita ut constituti per naturam perfecti 
+      fue<lb ed="#P" n="122" break="no"/>rint per gratiam, eo quod gratia naturae sit 
+      perfe<lb ed="#P" n="123" break="no"/>ctiva. Unde quamvis daemones gratiam amiserint, 
+      <lb ed="#P" n="124"/>quia tamen, ut ait Sanct. Dionysius, naturalia in 
+      <lb ed="#P" n="125"/>eis manserunt integra, fit ut &amp; in illis adhuc 
+      ordi<lb ed="#P" n="126" break="no"/>nem praelationis &amp; subjectionis cognoscat scriptura, 
+      <lb ed="#P" n="127"/>prout declaratum est ad distinctionem sextam, ubi 
+      <lb ed="#P" n="128"/>de praelatura daemonum agebatur. Quae res certo 
+      <lb ed="#P" n="129"/>argumento est ordines angelicos per naturam &amp; 
+      pro<lb ed="#P" n="130" break="no"/>inde ab initio distinctos esse. Huc item faciunt ea 
+      <lb ed="#P" n="131"/>argumenta quibus ad eandem distinctionem 
+      osten<lb ed="#P" n="132" break="no"/>sum est e singulis ordinibus aliquos angelos cecidisse. 
+      <lb ed="#P" n="133"/>Hinc enim illud saltem consequens est, ante lapsum 
+      <lb ed="#P" n="134"/>malorum &amp; confirmationem bonorum extitisse hanc 
+      <lb ed="#P" n="135"/>ordinum distributionem. 
+    </p>
+            <p xml:id="bt67yj-p038567-d1e183">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Denique Bernardo tam certum fuit angelos ab 
+      <lb ed="#P" n="137"/>initio stetisse in ordine suo, ut hoc iis annumeret, 
+      <lb ed="#P" n="138"/>quae se de angelis fide tenere dicit lib. 5. de 
+      conside<lb ed="#P" n="139" break="no"/>ratione capite quarto. Quare non sine errore est, 
+      <lb ed="#P" n="140"/>quod <name xml:id="bt67yj-p038567-Nd1e198">Rupertus</name> lib. 3. de processione Spiritus sancti 
+      <lb ed="#P" n="141"/>cap. 17. negat ordines angelicos ab initio fuisse 
+      di<lb ed="#P" n="142" break="no"/>stinctos, dicitque quod eos boni angeli acceperunt 
+      <lb ed="#P" n="143"/>in remunerationem pro eo quod non peccarunt, sed 
+      <lb ed="#P" n="144"/>creatori suo subjici maluerunt. In qua 
+      opinio<lb ed="#P" n="145" break="no"/>ne reperitur etiam author altercationis Ecclesiae &amp; 
+      <!--0334.xml-->
+      <pb ed="#P" n="101"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>synagogae capite tertio, dum contendit non prius A 
+      <lb ed="#P" n="2"/>fuisse constitutos ordines angelorum, quam essent 
+      <lb ed="#P" n="3"/>confirmati. Quod &amp; probare conatur ex ipsis 
+      nomi<lb ed="#P" n="4" break="no"/>nibus Seraphim, Throni, &amp;c. Cui argumento 
+      satis<lb ed="#P" n="5" break="no"/>factum est a nobis loco proxime citato. In eadem 
+      opi<lb ed="#P" n="6" break="no"/>nione videri potest etiam Magister fuisse, dum §. E. 
+      <lb ed="#P" n="7"/>ad praesentem quaestionem respondet negative. Sed si 
+      <lb ed="#P" n="8"/>sententia ejus diligenter expendatur, invenietur 
+      re<lb ed="#P" n="9" break="no"/>ipsa cum nostra convenire. Non enim aliud vult, 
+      <lb ed="#P" n="10"/>quam distinctos fuisse angelos ab initio secundum 
+      <lb ed="#P" n="11"/>sola dona naturalia, quibus postea demum 
+      accesse<lb ed="#P" n="12" break="no"/>rit distinctio secundum dona gratuita. Quod quidem 
+      <lb ed="#P" n="13"/>a Magistro asseritur conformiter illi opinioni qua 
+      <lb ed="#P" n="14"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="15"/>putat angelos non fuisse creatos in gratia. Forsitan 
+      <lb ed="#P" n="16"/>autem hoc modo etiam <name xml:id="bt67yj-p038567-Nd1e254">Ruperti</name> atque alterius 
+      inno<lb ed="#P" n="17" break="no"/>minati authoris opinio jam dicta poterit excusari. 
+      <lb ed="#P" n="18"/>Nam &amp; scholastici quidam, inter quos etiam 
+      Bona<lb ed="#P" n="19" break="no"/>ventura, fere similiter loquuntur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

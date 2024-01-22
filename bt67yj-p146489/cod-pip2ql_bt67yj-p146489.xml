@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="378"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p146489"><!-- l2d35c3" -->
+            <head xml:id="bt67yj-p146489-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p146489-Hd1e103" type="question-title">An peccata sint, qua fiunt contra leges 
+      humanas</head>
+            <p xml:id="bt67yj-p146489-d1e106">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> §. 3. An peccata sint, qua fiunt contra leges 
+      <lb ed="#P" n="51"/>humanas. 
+    </p>
+            <p xml:id="bt67yj-p146489-d1e115">
+               <lb ed="#P" n="52"/>CUm peccatum ab Augustino definitum sit, 
+      <lb ed="#P" n="53"/>quod fit contra legem Dei; &amp; Ambrosio, legis 
+      <lb ed="#P" n="54"/>divinae praevaricatio; merito quaeritur, utrum etiam 
+      <lb ed="#P" n="55"/>ea quae non divinis, sed humanis tantum legibus 
+      pro<lb ed="#P" n="56" break="no"/>hibentur, peccata sint; &amp; si sic, quomodo dictis 
+      de<lb ed="#P" n="57" break="no"/>finitionibus contineantur. Pro cujus quaestionis 
+      ex<lb ed="#P" n="58" break="no"/>plicatione sciendum est, omnem legislativam 
+      pote<lb ed="#P" n="59" break="no"/>statem quae est in creaturis, descendere a potestate 
+      <lb ed="#P" n="60"/>suprema, id est, divina, &amp; per consequens omnem 
+      <lb ed="#P" n="61"/>legem ab humana potestate latam (dum tamen &amp; 
+      <lb ed="#P" n="62"/>potestas legitima sit, &amp; lex ipsa legitime feratur, 
+      <lb ed="#P" n="63"/>alioqui lex proprie non erit) ab aeterna &amp; 
+      incom<lb ed="#P" n="64" break="no"/>mutabili lege Dei velut a principio ac fonte suo 
+      de<lb ed="#P" n="65" break="no"/>rivari; atque inde omnem suam rectitudinem 
+      mu<lb ed="#P" n="66" break="no"/>tuari, juxta illud Augustini libro primo de libero 
+      ar<lb ed="#P" n="67" break="no"/>bitrio capite sexto. In temperali lege nihil justum 
+      <lb ed="#P" n="68"/>est, nihil legitimum, quod non ex aeterna sibi 
+      homi<lb ed="#P" n="69" break="no"/>nes derivaverunt. Quicquid ergo committitur con¬ 
+      <!--0611.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>tra legem humanam, idem etiam fit contra legem 
+      <lb ed="#P" n="71"/>Dei; qui eo ipso quo inter homines potestatem 
+      le<lb ed="#P" n="72" break="no"/>gislativam instituit, hoc etiam praecipit, ut illi 
+      po<lb ed="#P" n="73" break="no"/>testati obediatur, parendo videlicet legibus ab ea 
+      la<lb ed="#P" n="74" break="no"/>tis. Non enim fingi potest praecipiendi potestas sine 
+      <lb ed="#P" n="75"/>obligatione obediendi. Patet igitur fieri non posse, ut 
+      <lb ed="#P" n="76"/>quis transgrediatur legem humanam, ut non etiam 
+      <lb ed="#P" n="77"/>peccet contra legem Dei; eam nimirum, qua Deus 
+      <lb ed="#P" n="78"/>instituendo inter homines legum condendarum 
+      po<lb ed="#P" n="79" break="no"/>testatem, simul etiam instituit atque ordinavit, ut 
+      <lb ed="#P" n="80"/>legibus ab ea potestate profectis obediretur. 
+    </p>
+            <p xml:id="bt67yj-p146489-d1e185">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Esse autem hominibus talem communicatam 
+      po<lb ed="#P" n="82" break="no"/>testatem, &amp; proinde legum ab ea profectarum 
+      trans<lb ed="#P" n="83" break="no"/>justitiae Dei contraria essent, sicut foeditas munditiae, 
+      <lb ed="#P" n="84"/>gressiones vere peccata esse, ita ut vere coram Deo 
+      <lb ed="#P" n="85"/>&amp; in conscientia rerum constituant, aperte docet 
+      <lb ed="#P" n="86"/>Apostolus Rom. 13. Omnis anima, inquit, 
+      potestati<lb ed="#P" n="87" break="no"/>bus sublimioribus subdita sit. Non est enim potestas 
+      nis<lb ed="#P" n="88" break="no"/>a Deo: Quae autem sunt, a Deo ordinata sunt. Itaque 
+      <lb ed="#P" n="89"/>qui resistii potestati, Dei ordinationi resistit. Qui 
+      au<lb ed="#P" n="90" break="no"/>tem re si stunt, ipsi sibi damnationem acquirunt. Et infra: 
+      <lb ed="#P" n="91"/>Ideo necessitate subditi estote, non solum propter iram, 
+      <lb ed="#P" n="92"/>sed etiam propter conscientiam. De qua potestate etiam 
+      <lb ed="#P" n="93"/>Sap. 6. principibus terrae dicitur: Quoniam data est 
+      <lb ed="#P" n="94"/>a Domino potestas vobis.
+    </p>
+            <p xml:id="bt67yj-p146489-d1e221">
+               <lb ed="#P" n="96"/>
+               <!-- line coord order error here -->
+               <pc type="indent"/> Eodem pertinent omnes Scripturae quibus 
+      praeci<lb ed="#P" n="97" break="no"/>pitur obedientia superiorum, tam saecularium quam 
+      <lb ed="#P" n="98"/>Ecclesiasticorum; qualis imprimis &amp;t illa Rom. 13. 
+      <lb ed="#P" n="99"/>jam recitata; quales &amp; istae Heb. 13. Obedite praepositis 
+      <lb ed="#P" n="100"/>vestris &amp; subjacete eis. Et 1. Pet. 2. Subjecti estote 
+      om<lb ed="#P" n="101" break="no"/>ni humanae creaturae; sive regi, quasi praecellenti, sive 
+      <lb ed="#P" n="102"/>ducibus, tanquam ab eo missis, &amp;c. Et Tit. 3. 
+      Admo<lb ed="#P" n="103" break="no"/>ne illos princibus &amp; potestatibus subditos esse. Et Act. 15. 
+      <lb ed="#P" n="104"/>praecipiens custodiri praecepta Apostolorum &amp; seniorum. 
+      <lb ed="#P" n="105"/>Item ubicunque filii parentibus, servi dominis 
+      ju<lb ed="#P" n="106" break="no"/>bentur obedire. 
+    </p>
+            <p xml:id="bt67yj-p146489-d1e252">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Pertinent huc &amp; ea Scripturae loca, quae praecepta 
+      <lb ed="#P" n="108"/>hominum Deo ascribunt, ut Luc. 10. Qui vos audit 
+      <lb ed="#P" n="109"/>me audit. Act. 15. Visum est Spiritui sancto &amp; nobis 
+      <lb ed="#P" n="110"/>1. Cor 14. Quae vobis scribo, Domini sunt mandata. Et 
+      <lb ed="#P" n="111"/>illud Rom. 13. Qui potestati resistit, Dei ordinationi 
+      <lb ed="#P" n="112"/>resistit. Item 1. Thess. 4. Qui haec spernit, non 
+      homi<lb ed="#P" n="113" break="no"/>nem spernit, sed Deum. Quam sententiam iisdem 
+      <lb ed="#P" n="114"/>pene verbis repetivit Ignatius in epist. 3. quae est ad 
+      <lb ed="#P" n="115"/>Magnesianos. 
+    </p>
+            <p xml:id="bt67yj-p146489-d1e276">
+               <lb ed="#P" n="116"/>Nec dissimile illud Augustini concione 1. in Psalm. 
+      <lb ed="#P" n="117"/>70. Ubi hoc jubet pater quod contra Deum non sit, 
+      <lb ed="#P" n="118"/>sic audiendus est quomodo Deus, quia obedire patri 
+      <lb ed="#P" n="119"/>jussit Deus. Et illud Bernardi libro de praecepto &amp; 
+      <lb ed="#P" n="120"/>dispensatione capite 12. Quicquid vice Dei praelatus 
+      <lb ed="#P" n="121"/>praecipit, quod non sit certum displicere Deo, haud 
+      <lb ed="#P" n="122"/>secus omnino accipiendum est, quam si praecipiat ipse 
+      <lb ed="#P" n="123"/>Deus. Quid enim interest? &amp;c. Quo etiam in lib. 
+      in<lb ed="#P" n="124" break="no"/>ter alia quae docte disserit idem author de vi legum 
+      <lb ed="#P" n="125"/>seu constitutionum humanarum, sic ait: Licet ipsa 
+      <lb ed="#P" n="126"/>per se invicti operis qualitas innoxia sit, adjunctae 
+      ta<lb ed="#P" n="127" break="no"/>men auctoritatis pondus, obnoxium mandato 
+      manda<lb ed="#P" n="128" break="no"/>tumque peccato facit obnoxium: (intellige per 
+      trans<lb ed="#P" n="129" break="no"/>gressionem.) Et rursum eodem libr. Haec ergo, 
+      in<lb ed="#P" n="130" break="no"/>quit, generalis regula sit universorum quae per se aut 
+      <lb ed="#P" n="131"/>propter se nec bona nec mala sunt, aut divina 
+      institutio<lb ed="#P" n="132" break="no"/>ne aut propria cujusque professione fixa non sunt: ut non 
+      <lb ed="#P" n="133"/>jussa quidem licite utrumlibet vel admittantur vel 
+      <lb ed="#P" n="134"/>omittantur; jussa vero sine culpa non negligantur, sine 
+      <lb ed="#P" n="135"/>crimine non contemnantur. Haec ille. Perspicuum sit 
+      <lb ed="#P" n="136"/>ergo ex dictis, ea quae fiunt contra leges humanas, si 
+      <lb ed="#P" n="137"/>&amp; leges ipsae nihil injustum contineant, &amp; a 
+      potesta<lb ed="#P" n="138" break="no"/>te legitima procedant, id est, si verae leges sint, fieri 
+      <lb ed="#P" n="139"/>quoque contra legem Dei, &amp; proinde iis competere 
+      <lb ed="#P" n="140"/>veram peccati rationem, modo venialis, modo 
+      mor<lb ed="#P" n="141" break="no"/>talis, pro varietate praeceptorum &amp; 
+      transgressio<lb ed="#P" n="142" break="no"/>num.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

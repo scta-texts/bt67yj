@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="197"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p076215"><!-- l2d22c4" -->
+            <head xml:id="bt67yj-p076215-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p076215-Hd1e103" type="question-title">Utrum Adam crediderit verbis serpentis</head>
+            <p xml:id="bt67yj-p076215-d1e106">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> §. 4. Utrum Adam crediderit verbis serpentis?
+    </p>
+            <p xml:id="bt67yj-p076215-d1e113">
+               <lb ed="#P" n="112"/>SEntentia Magistri est hac dist. §. D. non virum 
+      <lb ed="#P" n="113"/>sed solam mulierem credidisse ea vera esse quae 
+      <lb ed="#P" n="114"/>per serpentem diabolus promittebat. Quae quidem 
+      <lb ed="#P" n="115"/>tria erant. Primum, eos quamvis de ligno vetito 
+      <lb ed="#P" n="116"/>ederent, non morituros: Secundum, si de ligno 
+      <lb ed="#P" n="117"/>ederent, futuros Deo similes: Tertium, boni 
+      mali<lb ed="#P" n="118" break="no"/>que notitiam accepturos. Nititur autem Magister 
+      <lb ed="#P" n="119"/>partim verbis Apostoli 1. Timoth. 2. aperte 
+      negan<lb ed="#P" n="120" break="no"/>tis Adam seductum fuisse; partim authoritate 
+      Augu<lb ed="#P" n="121" break="no"/>stini qui libro I1. de Genesi ad literam cap. 42. &amp; 
+      <lb ed="#P" n="122"/>libro 14. de civitate cap. 11. negat virum credidisse 
+      <lb ed="#P" n="123"/>i id verum esse quod serpens promittebat, credente 
+      <lb ed="#P" n="124"/>licet muliere. 
+    </p>
+            <p xml:id="bt67yj-p076215-d1e144">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Deinde arbitratur ac supponit Magister 
+      serpen<lb ed="#P" n="126" break="no"/>tem accusasse Deum tanquam invidentem homini 
+      <lb ed="#P" n="127"/>eam excellentiam quam per esum fructus vetiti 
+      fue<lb ed="#P" n="128" break="no"/>rat consecuturus. In quem sensum verba serpentis 
+      <lb ed="#P" n="129"/>ante Magistrum acceperunt Chrysostomus hom. 16. 
+      <lb ed="#P" n="130"/>in Genes. Augustinus lib. 2. de Genesi contra 
+      Mani<lb ed="#P" n="131" break="no"/>chaeos cap. 15. Cyrillus lib. 3. contra Julianum, 
+      Ra<lb ed="#P" n="132" break="no"/>banus, Rupertus, aliique non pauci commutantes in 
+      <lb ed="#P" n="133"/>Gen. 3. Hoc autem viro persuaderi potuisse, scilicet 
+      <lb ed="#P" n="134"/>Deum homini invidere, &amp; invidendo prohibuisse ab 
+      <lb ed="#P" n="135"/>esca illius ligni; Magister post Augustinum negat 
+      <lb ed="#P" n="136"/>esse verisimile. 
+    </p>
+            <p xml:id="bt67yj-p076215-d1e176">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Accedit argumentum ex eo quod mulier quidem 
+      <lb ed="#P" n="138"/>confessa est se esse seductam, Gen. 3. dicens: Serpens 
+      <lb ed="#P" n="139"/>decepit me: vir autem nihil tale agnoscit, quod tamen 
+      <lb ed="#P" n="140"/>libenter agniturus &amp; dicturus erat pro sui 
+      excusatio<lb ed="#P" n="141" break="no"/>ne, si vere inductus fuisset ad credendum verbis 
+      ser<lb ed="#P" n="142" break="no"/>pentis. Ac rursum ex illis Apostoli verbis 2. Corinth. 
+      <lb ed="#P" n="143"/>11. Timeo ne sicut serpens Evam seduxit astutia sua, 
+      <lb ed="#P" n="144"/>ita corrumpantur sensus vestri. Cur enim de viro 
+      ta<lb ed="#P" n="145" break="no"/>cuit, si &amp; ille seductus fuit?
+    </p>
+            <p xml:id="bt67yj-p076215-d1e200">
+      <!--0431.xml-->
+               <pb ed="#P" n="198"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Verum huic sententiae resistere videtur omnium 
+      <lb ed="#P" n="2"/>pene patrum authoritas, qui diserte docent Adam 
+      <lb ed="#P" n="3"/>verbis serpentis fidem habuisse, &amp; ab eo deceptum 
+      <lb ed="#P" n="4"/>ac seductum fuisse. Ignatius in epistola ad 
+      Trallia<lb ed="#P" n="5" break="no"/>nos: Diabolus, inquit, per mulierem seduxit patrem 
+      <lb ed="#P" n="6"/>generis nostri. Irenaeus libro 3. contra haereses cap. 35. 
+      <lb ed="#P" n="7"/>Adam seductus sub occasione immortalitatis, statim 
+      <lb ed="#P" n="8"/>timore corrigitur. Hilarius can. 3. in Matth. Serpens 
+      <lb ed="#P" n="9"/>Adam pellexerat, &amp; in errorem fallendo 
+      traduxe<lb ed="#P" n="10" break="no"/>rat. Epiphanius haeresi 38. quae est Cajanorum: 
+      diabo<lb ed="#P" n="11" break="no"/>lus per mendacium decepit Evam &amp; Adam. 
+      Ambro<lb ed="#P" n="12" break="no"/>fius libro de paradiso capite 4. Mulier prior decepta 
+      <lb ed="#P" n="13"/>est, &amp; virum ipsa decepit. Scribunt in eandem 
+      sen<lb ed="#P" n="14" break="no"/>tentiam Chrysostomus hom. 9. in 1. Tim. 2. Cyrillus 
+      <lb ed="#P" n="15"/>lib. 2. in Joannem cap. 3. &amp; libro 3. contra Julianum, 
+      <lb ed="#P" n="16"/>Leo sermone 2. 3. &amp; 4. de nativitate Domini. 
+      Pros<lb ed="#P" n="17" break="no"/>per libro 2. de vita contemplativa cap. 19. &amp; 
+      con<lb ed="#P" n="18" break="no"/>tra Collatorem cap. 19. &amp; 21. <name xml:id="bt67yj-p076215-Nd1e247">Fulgentius</name> libro de 
+      <lb ed="#P" n="19"/>incarnatione &amp; gratia Christi capite 22. <name xml:id="bt67yj-p076215-Nd1e252">Gregorius</name>
+               <lb ed="#P" n="20"/>libro 29. moralium capite 6. <name xml:id="bt67yj-p076215-Nd1e256">Prudentius</name> in 
+      Hamar<lb ed="#P" n="21" break="no"/>tigenia: Et iterum Ambrosius libro de Paradiso 
+      ca<lb ed="#P" n="22" break="no"/>pite 21. &amp; libro de Elia &amp; jejunio cap. 4. Et in 
+      com<lb ed="#P" n="23" break="no"/>mentario super Luc. ad illud cap. 10. Qui etiam 
+      de<lb ed="#P" n="24" break="no"/>spoliaverunt eum. 
+    </p>
+            <p xml:id="bt67yj-p076215-d1e268">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Quin &amp; Augustinus, quamvis in contrarium a 
+      <lb ed="#P" n="26"/>Magistro citatus, nihil a praedictis patribus 
+      diver<lb ed="#P" n="27" break="no"/>sum sentire videtur. Scribens enim in Psal. 68. ad 
+      <lb ed="#P" n="28"/>illud: Quae non rapui: Quis, inquit, rapuit 
+      divini<lb ed="#P" n="29" break="no"/>tutem? Adam. Quis primum rapuit: Ille ipse qui 
+      <lb ed="#P" n="30"/>seduxit Adam. Et Enchiridii cap. 45. in primo Adae 
+      <lb ed="#P" n="31"/>peccato sacrilegium fuisse dicit, quia Deo non 
+      cre<lb ed="#P" n="32" break="no"/>didit. Item libro 11. de Gen. ad literam cap. 21. &amp; 
+      <lb ed="#P" n="33"/>24. utrique parenti ascribit quod serpenti 
+      credide<lb ed="#P" n="34" break="no"/>rint. Et libro 14. de civitate cap. 17. in utroque 
+      no<lb ed="#P" n="35" break="no"/>tat infidelitatem, qua Deo non crediderint. Dicit 
+      <lb ed="#P" n="36"/>hoc idem concione 11. in Psalm. 118. &amp; tractatu de 
+      <lb ed="#P" n="37"/>Cantico novo capite 8. citatis verbis diaboli: Non 
+      <lb ed="#P" n="38"/>morte moriemini, sed eritis sicut Dii, subdit de Adam 
+      <lb ed="#P" n="39"/>Deum contempsit, serpenti credidit, &amp; quod 
+      accepe<lb ed="#P" n="40" break="no"/>rat perdidit. 
+    </p>
+            <p xml:id="bt67yj-p076215-d1e307">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Neque vero haec patrum sententia destituitur 
+      <lb ed="#P" n="42"/>scripturae testimonio. Nam Genes. 3. hujusmodi 
+      cre<lb ed="#P" n="43" break="no"/>dulitatem Deus Adamo improperat his verbis: 
+      Ec<lb ed="#P" n="44" break="no"/>ce Adam quasi unus ex nobis factus est, sciens bonum 
+      <lb ed="#P" n="45"/>&amp; malum. Significat enim hoc ironico loquendi 
+      <lb ed="#P" n="46"/>schemathe, quid Adam ex gustatofructu arboris 
+      spe<lb ed="#P" n="47" break="no"/>raverit, nec tamen sit consecutus; scilicet ut esset 
+      <lb ed="#P" n="48"/>sicut Deus, sciens bonum &amp; malum. Quomodo eam 
+      <lb ed="#P" n="49"/>sententiam intellexerunt Ambrosius libro de Elia 
+      <lb ed="#P" n="50"/>&amp; jejunio capite 4. &amp; Prosper contra Collatorem 
+      <lb ed="#P" n="51"/>capite 21. 
+    </p>
+            <p xml:id="bt67yj-p076215-d1e336">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Postremo: Si mulier quae &amp; ipsa recta &amp; integra, 
+      <lb ed="#P" n="53"/>&amp; spiritualis a Deo condita est, potuit per 
+      super<lb ed="#P" n="54" break="no"/>biam, ex suggestione serpentis conceptam, ita 
+      ex<lb ed="#P" n="55" break="no"/>caecari, ut promissioni ejusdem serpentis crederet: 
+      <lb ed="#P" n="56"/>non debet incredibile videri, si &amp; viri animus simili 
+      <lb ed="#P" n="57"/>superbia obcaecatus dicatur ad credendum iisdem 
+      <lb ed="#P" n="58"/>verbis serpentis induoi potuisse. 
+    </p>
+            <p xml:id="bt67yj-p076215-d1e356">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Igitur ex his prorsus apparet dicendum esse, quod 
+      <lb ed="#P" n="60"/>promissis serpentis supra memoratis (quoniam 
+      Pa<lb ed="#P" n="61" break="no"/>tres in nullo faciunt exceptionem) Adam perinde 
+      <lb ed="#P" n="62"/>ut Eva fidem habuerit. Fiet autem hoc planius ex 
+      <lb ed="#P" n="63"/>eo quod proxima distinctione docebitur, Adam 
+      <lb ed="#P" n="64"/>peccando fidem in Deum amisisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

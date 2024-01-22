@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="365"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p141332"><!-- l2d32c6" -->
+            <head xml:id="bt67yj-p141332-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p141332-Hd1e103" type="question-title">Solutio eorum quae ab haereticis objiciuntur</head>
+            <p xml:id="bt67yj-p141332-d1e106">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> §. 6. Solutio eorum quae ab haereticis objiciuntur. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e113">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> QUamvis ad nonnulla argumenta quibus 
+      Catho<lb ed="#P" n="40" break="no"/>Qlica haec doctrina impugnatur, responsum sit 
+      <lb ed="#P" n="41"/>circa dist. 21. ubi de triplici tentatione agebatur; quia 
+      <lb ed="#P" n="42"/>tamen huic loco magis propria est ista disputatio, ad 
+      <lb ed="#P" n="43"/>alia quaedam quibus potissimum ad versarii nituntur, 
+      <lb ed="#P" n="44"/>nunc est respondendum. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e131">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Primum igitur aperta Apostoli verba objiciunt, 
+      qui<lb ed="#P" n="46" break="no"/>bus malum in carne renatorum habitans semel &amp; 
+      <lb ed="#P" n="47"/>iterum peccatum vocat Rom. 7. De quo &amp; c. 6. sic ait: 
+      <lb ed="#P" n="48"/>Non ergo regnet peccatum in vestro mortali corpore, ut 
+      <lb ed="#P" n="49"/>obediatis concupiscentiis ejus. Et rursum: Peccatum 
+      <lb ed="#P" n="50"/>enim vobis non dominabitur. Huic objectioni 
+      respon<lb ed="#P" n="51" break="no"/>dent Patres Conc. Trid. sess. 5. can. 5. nunquam 
+      Eccle<lb ed="#P" n="52" break="no"/>siam Catholicam intellexisse concupiscentiam ab 
+      A<lb ed="#P" n="53" break="no"/>postolo dici peccatum, quod vere &amp; proprie in 
+      rena<lb ed="#P" n="54" break="no"/>tis peccatum sit, sed quia ex peccato est &amp; ad 
+      pecca<lb ed="#P" n="55" break="no"/>tum inclinat. Quae responsio sumpta est ex variis 
+      Au<lb ed="#P" n="56" break="no"/>gustini locis, ut libro 1. de nuptiis &amp; concupiscentia 
+      <lb ed="#P" n="57"/>cap. 13. lib. contra 2. epist. Pelag. cap. 19. &amp; lib. 2. 
+      con<lb ed="#P" n="58" break="no"/>tra Julianum capite 9. Quibus locis utramque 
+      ratio<lb ed="#P" n="59" break="no"/>nem dictam conjungit. Alibi vero priorem tantum 
+      <lb ed="#P" n="60"/>ponit, ut lib. I. retract. c. 15. &amp; lib. 3. de libero arbitrio 
+      <lb ed="#P" n="61"/>cap. 19. Alibi solam urget posteriorem, ut lib. 2. 
+      con<lb ed="#P" n="62" break="no"/>tra Julianum cap. 10. &amp; in fine libri de perfectione 
+      <lb ed="#P" n="63"/>justitiae. Notandum autem est, posteriorem 
+      ratio<lb ed="#P" n="64" break="no"/>nem magis propriam esse concupiscentiae, &amp; per 
+      <lb ed="#P" n="65"/>quam ad peccati rationem vicinius accedat. Nam 
+      <lb ed="#P" n="66"/>quod ad priorem rationem attinet, etiam mors, 
+      aliae<lb ed="#P" n="67" break="no"/>que poenalitates ex peccato factae sunt, quae tamen 
+      <lb ed="#P" n="68"/>peccata dici non solent, &amp; Apostoli contextus 
+      decla<lb ed="#P" n="69" break="no"/>rat eum magis ad posteriorem rationem respexisse. 
+      <lb ed="#P" n="70"/>Peccatum enim vocat concupiscentiam, quatenus 
+      <lb ed="#P" n="71"/>est fomes peccatorum; scilicet excitans in nobis pra¬ 
+      <!--0598.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>vos motus &amp; desideria ad omne genus peccati. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e202">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Iterum objiciunt, Apostolum eodem loco primam 
+      <lb ed="#P" n="74"/>peccati rationem agnoscere in concupiscentia 
+      rena<lb ed="#P" n="75" break="no"/>torum, cum dicit eam repugnare legi mentis, id est, 
+      <lb ed="#P" n="76"/>legi Dei, ut ipse paulo post explicat, dicens se 
+      men<lb ed="#P" n="77" break="no"/>te servire legi Dei, carne autem legi peccati. Eodem 
+      <lb ed="#P" n="78"/>pertinere volunt, quod Gal. 5. affirmat etiam in 
+      <lb ed="#P" n="79"/>renatis carnem concupiscere adversus spiritum. 
+      Res<lb ed="#P" n="80" break="no"/>pondemus concupiscentiam quae in renatis est, non 
+      <lb ed="#P" n="81"/>hoc sensu ab Apostolo dictam repugnare legi mentis, 
+      <lb ed="#P" n="82"/>aut legi Dei, aut contra spiritum concupiscere; quasi 
+      <lb ed="#P" n="83"/>vel ipsa vel ejus desideria, quibus ratio non consentit, 
+      <lb ed="#P" n="84"/>prohibita sint praecepto, Non concupisces, aut quod 
+      <lb ed="#P" n="85"/>sint vera legis inobedientia, sicut quidam male 
+      intel<lb ed="#P" n="86" break="no"/>lexerunt. Non enim praecepta dantur nisi voluntati, 
+      <lb ed="#P" n="87"/>sed hactenus tantum quia ut jam dictum est, inclinat 
+      <lb ed="#P" n="88"/>&amp; sollicitat ad transgressionem legis, id est, ad 
+      pec<lb ed="#P" n="89" break="no"/>catum proprie dictum, &amp; ita concupiscentia, 
+      quan<lb ed="#P" n="90" break="no"/>tum in ipsa est, nititur contra legem. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e246">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Aliud argumentum; Concupiscentia ante 
+      baptis<lb ed="#P" n="92" break="no"/>mum vere peccatum est, igitur &amp; post; non enim per 
+      <lb ed="#P" n="93"/>baptismum mutatur ejus natura, sed eadem 
+      perma<lb ed="#P" n="94" break="no"/>net. Respondetur, concupiscentiam non manere 
+      ean<lb ed="#P" n="95" break="no"/>dem secundum peccati rationem; quia ante 
+      baptis<lb ed="#P" n="96" break="no"/>mum dominatur menti, &amp; vel actu vel virtute 
+      volun<lb ed="#P" n="97" break="no"/>taria est, sed post baptismum superata est, &amp; 
+      peremp<lb ed="#P" n="98" break="no"/>ta, atque involuntaria, &amp; proinde in ea definit ratio 
+      <lb ed="#P" n="99"/>peccati. Sic docet Augustinus libro 2. de peccatorum 
+      <lb ed="#P" n="100"/>meritis cap. 27. &amp; 28. &amp; libro 2. contra Julianum 
+      <lb ed="#P" n="101"/>cap. 9. Qui &amp; libro 14. de Trinitate cap. 17. 
+      concu<lb ed="#P" n="102" break="no"/>piscentiam, quae est ante baptismum, comparat cum 
+      <lb ed="#P" n="103"/>febri &amp; telo corpori infixo; eam vero quae post 
+      bap<lb ed="#P" n="104" break="no"/>tismum remanet, cum langore ex febri reliquo, &amp; 
+      <lb ed="#P" n="105"/>cum vulnere quod exempto telo relinquitur. Esse 
+      au<lb ed="#P" n="106" break="no"/>tem a renatis ablatum concupiscentiae dominium, 
+      <lb ed="#P" n="107"/>supra satis ostensum est. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e288">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Quartum: in renatis &amp; sanctis manet iniquitas, 
+      <lb ed="#P" n="109"/>contra quam iis assidue pugnandum est, teste 
+      Am<lb ed="#P" n="110" break="no"/>brosio lib. de Isaac &amp; anima cap. 8. &amp; citatur ab 
+      Au<lb ed="#P" n="111" break="no"/>gustino lib. 2. contra Julianum cap. 5. Atqui 
+      iniqui<lb ed="#P" n="112" break="no"/>tas omnis peccatum est, 1. Joan. 5. Respondetur ex 
+      <lb ed="#P" n="113"/>eodem Augustini loco, ubi mentem Ambrosii 
+      expli<lb ed="#P" n="114" break="no"/>cans, dicit concupiscentiam cujus reatus in sacro 
+      <lb ed="#P" n="115"/>fonte remissus est, propterea dictam ab eo 
+      iniquita<lb ed="#P" n="116" break="no"/>tem; quia iniquum est ut caro concupiscat adversus 
+      <lb ed="#P" n="117"/>spiritum, etiamsi ei non consentiatur. Iniquum est 
+      <lb ed="#P" n="118"/>autem, non quia peccatum, sed quia malum, 
+      inordi<lb ed="#P" n="119" break="no"/>natum, vitiosum, Deoque displicens, &amp; cui ad 
+      pec<lb ed="#P" n="120" break="no"/>cati rationem solus deest voluntatis assensus. Hoc 
+      <lb ed="#P" n="121"/>sensu idem Augustinus lib. 6. contra Julianum 
+      cap<lb ed="#P" n="122" break="no"/>8. dicit, non esse nullam iniquitatem, cum inferiora 
+      <lb ed="#P" n="123"/>reluctantur superioribus, etiamsi vincere non 
+      sinan<lb ed="#P" n="124" break="no"/>tur. Et Hil. in Psal. 52. generaliter pronunciat, 
+      ini<lb ed="#P" n="125" break="no"/>quum esse quidquid extra legem est. Et quidem 
+      ini<lb ed="#P" n="126" break="no"/>quitatem latius patere quam peccatum, ipse 
+      Ambro<lb ed="#P" n="127" break="no"/>sius author est in apologia David cap. 13. dum dicit, in 
+      <lb ed="#P" n="128"/>baptismo tolli omne peccatum, iniquitatem autem 
+      <lb ed="#P" n="129"/>omnem non posse nisi in resurrectione auferri. 
+      Cae<lb ed="#P" n="130" break="no"/>terum Joannis sententia; Omnis iniquitas peccatum 
+      <lb ed="#P" n="131"/>est, ut patet ex contextu loci, de ea iniquitate 
+      intelli<lb ed="#P" n="132" break="no"/>gitur quam facit ipse homo, non de qua dicit Paulus: 
+      <lb ed="#P" n="133"/>Non ego operor illud. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e349">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Quintum: Hier. scribens in cap. 5. Matth. ad illud. 
+      <lb ed="#P" n="135"/>Qui viderit mulierem, &amp;c. dicit, προπαθείαν, id est, 
+      <lb ed="#P" n="136"/>propassionem, qua videlicet citra consensum animus 
+      <lb ed="#P" n="137"/>commovetur, licet vitii culpam habeat, non tamen 
+      <lb ed="#P" n="138"/>teneri in crimine. Sed prompta responsio, est nomine 
+      <lb ed="#P" n="139"/>culpae Hier. non isignificasse id quod proprie 
+      pecca<lb ed="#P" n="140" break="no"/>tum est, sed hoc tantum voluisse, propassionem, licet 
+      <lb ed="#P" n="141"/>consensum nondum eliciat, merito culpari seu 
+      repre<lb ed="#P" n="142" break="no"/>hendi tanquam vitium; eo quod hominem inclinet 
+      <lb ed="#P" n="143"/>&amp; sollicitet ad peccandum, quomodo &amp; a Gregorio 
+      <lb ed="#P" n="144"/>scriptum legimus, tentationem carnis sine culpa esse 
+      <lb ed="#P" n="145"/>non posse, ut declaratum est ad dist. 21. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e380">
+      <!--0599.xml-->
+               <pb ed="#P" n="366"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Sextum: Augustinus lib. 4. contra Julianum cap. 
+      <lb ed="#P" n="2"/>2. dicit concupiscentiam per seipsam rectissime suis 
+      <lb ed="#P" n="3"/>motibus accusari, quibus ne excedat obsistitur. Et 
+      <lb ed="#P" n="4"/>paulo ante affirmat, eam tantum quia inest, 
+      noce<lb ed="#P" n="5" break="no"/>re, etiamsi ei non consentiatur. Quod &amp; aliis locis 
+      <lb ed="#P" n="6"/>repetit, ut lib. 6. contra Julianum cap. 5. &amp; de 
+      pec<lb ed="#P" n="7" break="no"/>cato originali cap. 39. Respondetur, merito 
+      concu<lb ed="#P" n="8" break="no"/>piscentiam accusari, culpari ac reprehendi; non quia 
+      <lb ed="#P" n="9"/>peccatum est, sed quia inclinat ad peccatum. Nocet 
+      <lb ed="#P" n="10"/>autem, non quia poenae obnoxium aut omnino 
+      de<lb ed="#P" n="11" break="no"/>teriorem facit hominem, sed quia, ut ipse explicat 
+      <lb ed="#P" n="12"/>Augustinus, minuit spiritalem delectationem 
+      san<lb ed="#P" n="13" break="no"/>ctarum mentium, dum in ea oppugnanda occupata 
+      <lb ed="#P" n="14"/>impediuntur, ne libere ferantur in Deum. Et 
+      no<lb ed="#P" n="15" break="no"/>tandum, Augustinum per prosopopeiam quandam 
+      <lb ed="#P" n="16"/>de concupiscentia loqui, dum eam rectissime suis 
+      <lb ed="#P" n="17"/>motibus accusari dicit. Si enim concupiscentia 
+      per<lb ed="#P" n="18" break="no"/>sona esset, merito &amp; accusaretur &amp; convinceretur 
+      <lb ed="#P" n="19"/>peccati, quod hominem ad peccandum impellat, 
+      <lb ed="#P" n="20"/>ideóque &amp; merito punienda esset, sicut diabolus. 
+      <lb ed="#P" n="21"/>Quomodo etiam de ea loquitur lib. 3. cap. 24. 
+      di<lb ed="#P" n="22" break="no"/>cens, eam rem debere puniri, cujus causa alia 
+      tra<lb ed="#P" n="23" break="no"/>hunt reatum. Punitur autem juxta eundem tropum 
+      <lb ed="#P" n="24"/>in sanctis concupiscentia, dum paulatim minuitur 
+      <lb ed="#P" n="25"/>&amp; tandem in morte hominis extinguitur, ac velut 
+      <lb ed="#P" n="26"/>occiditur. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e445">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Septimum: Aug. lib. 5. contra Julianum cap. 3. 
+      <lb ed="#P" n="28"/>dicit concupiscentiam carnis, adversus quam bonus 
+      <lb ed="#P" n="29"/>concupiscit spiritus, &amp; peccatum esse, quiae inest 
+      <lb ed="#P" n="30"/>illi inobedientia contra dominatum mentis, &amp; 
+      poe<lb ed="#P" n="31" break="no"/>nam peccati, quia reddita est meritis inobedientis; 
+      <lb ed="#P" n="32"/>&amp; causam peccati, defectione consentientis, vel 
+      <lb ed="#P" n="33"/>contagione nascentis. Respondetur, loqui 
+      Augusti<lb ed="#P" n="34" break="no"/>num de concupiscentia, qualis est in non renatis. 
+      <lb ed="#P" n="35"/>Quod ex eo patet; quia verbis antecedentibus eam 
+      <lb ed="#P" n="36"/>comparat cum caecitate cordis, id est, 
+      infidelita<lb ed="#P" n="37" break="no"/>te, quae profecto grande peccatum est; &amp; in 
+      rena<lb ed="#P" n="38" break="no"/>tis esse non potest. Idem &amp; aliae loci circunstantiae 
+      <lb ed="#P" n="39"/>satis declarant. Neque obstat quod ait: Adversus 
+      <lb ed="#P" n="40"/>quam bonus concupiscit spiritus. Nam &amp; in malis 
+      <lb ed="#P" n="41"/>aliquousque spiritus contra carnem concupiscit, 
+      <lb ed="#P" n="42"/>quamvis a carne superetur. Possunt &amp; sic intelligi 
+      <lb ed="#P" n="43"/>hujus clausulae verba: Concupiscentia, adversus 
+      <lb ed="#P" n="44"/>quam bonus concupiscit spiritus in piis &amp; sanctis, 
+      <lb ed="#P" n="45"/>peccatum est in impiis. Videtur enim de 
+      concupis<lb ed="#P" n="46" break="no"/>centia loqui generaliter, quae in quibusdam 
+      pecca<lb ed="#P" n="47" break="no"/>tum est, in aliis non est. Sed urgent adversarii 
+      ratio<lb ed="#P" n="48" break="no"/>nem ab Aug. additam, quia inest illi inobedientia 
+      <lb ed="#P" n="49"/>contra dominatum mentis. Quae ratio, inquiunt, 
+      <lb ed="#P" n="50"/>etiam in concupiscentiam renatorum competit. 
+      Qui<lb ed="#P" n="51" break="no"/>bus respondemus, cum ex aliis pluribus locis supra 
+      <lb ed="#P" n="52"/>citatis constet, repugnantiam concupiscentiae 
+      adver<lb ed="#P" n="53" break="no"/>sus spiritum, Aug. non esse sufficientem rationem 
+      <lb ed="#P" n="54"/>peccati, intelligendam hoc loco inobedientiam ejus 
+      <lb ed="#P" n="55"/>contra dominatum mentis, non quamcunque, sed 
+      <lb ed="#P" n="56"/>perfectam; id est, tantam, quae statum &amp; 
+      domina<lb ed="#P" n="57" break="no"/>tum mentis subvertat. Sic enim &amp; alibi Aug. 
+      loqui<lb ed="#P" n="58" break="no"/>tur, ut tract. 5. in primam Joannis epistolam ad 
+      il<lb ed="#P" n="59" break="no"/>Iud: Qui natus est ex Deo, non peccat, ubi docet, eum 
+      <lb ed="#P" n="60"/>qui servat nativitatem Dei, non posse facere contra 
+      <lb ed="#P" n="61"/>dilectionis mandatum, sic nimirum ut fraterna 
+      di<lb ed="#P" n="62" break="no"/>lectio subvertatur &amp; pereat. 
+    </p>
+            <p xml:id="bt67yj-p141332-d1e529">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Octavum: Joannes Cassianus collatione 23. 
+      tra<lb ed="#P" n="64" break="no"/>ctans verba Apostoli Rom. 7. docet sanctos invitos &amp; 
+      <lb ed="#P" n="65"/>ignorantes traduci in legem peccati &amp; mortis, 
+      ad<lb ed="#P" n="66" break="no"/>dens, propter eandem illam concupiscentiae legem 
+      <lb ed="#P" n="67"/>omnia justorum opera esse peccata, aliaque 
+      nonnul<lb ed="#P" n="68" break="no"/>la dicit admodum consentientia doctrinae 
+      Luthera<lb ed="#P" n="69" break="no"/>nae. Sed respondetur, propter ejusmodi sententias, 
+      <lb ed="#P" n="70"/>sicut &amp; propter errores alios, ac potissimum de 
+      gra<lb ed="#P" n="71" break="no"/>tia, in quibus eum confutavit sanctus Prosper, huic 
+      <lb ed="#P" n="72"/>authori a Gelasio Pontifice detractam esse 
+      authori<lb ed="#P" n="73" break="no"/>tatem scriptoris orthodoxi, librosque ejus ab eodem 
+      <lb ed="#P" n="74"/>inter apocrypha relatos. 
+      <!--0599.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Quod postremo objiciunt, concupiscentiam etiam 
+      <lb ed="#P" n="76"/>renatorum esse matrem peccatorum, dicente 
+      Aposto<lb ed="#P" n="77" break="no"/>lo, Concupiscentia cum conceperit, parit peccatum: 
+      <lb ed="#P" n="78"/>ideóque fieri non posse, ut non &amp; ipsa peccatum sit, 
+      <lb ed="#P" n="79"/>cum mater &amp; filia nonnisi in eadem natura 
+      intelli<lb ed="#P" n="80" break="no"/>gantur; facile solvitur, si respondeamus 
+      concupis<lb ed="#P" n="81" break="no"/>centiam non effici peccati matrem, nisi accedente 
+      <lb ed="#P" n="82"/>consensu nostro tanquam patre. Nam 
+      concupiscen<lb ed="#P" n="83" break="no"/>tia, de qua nunc disputatur, id est; ea quae in 
+      rena<lb ed="#P" n="84" break="no"/>tis est, quamdiu talis permanet, privata nimirum 
+      <lb ed="#P" n="85"/>dominio quod ante regenerationem habebat, 
+      nun<lb ed="#P" n="86" break="no"/>quam peccatum parere potest. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

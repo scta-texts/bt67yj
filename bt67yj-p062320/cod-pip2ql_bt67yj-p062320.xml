@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="161"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p062320"><!-- l2d18c1" -->
+            <head xml:id="bt67yj-p062320-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p062320-Hd1e103" type="question-title">Formatio mulieris ex viro quomodo sit 
+      intelligenda</head>
+            <p xml:id="bt67yj-p062320-d1e106">
+      <!--0394.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="72"/>DECIMAMOCTAVAM. 
+      <lb ed="#P" n="73"/>§. 1. Formatio mulieris ex viro quomodo sit 
+      <lb ed="#P" n="74"/>intelligenda.
+    </p>
+            <p xml:id="bt67yj-p062320-d1e122">
+               <lb ed="#P" n="75"/>QUOD de paradiso superius ostendimus, id: 
+      <lb ed="#P" n="76"/>similiter de formatione mulieris ex viro1 
+      <lb ed="#P" n="77"/>tenendum nobis est, nempe eam non 
+      spiri<lb ed="#P" n="78" break="no"/>tualiter tantum &amp; in mysterio, veluti quondam 
+      <lb ed="#P" n="79"/>Origenes, &amp; inter recentiores Cajetanus in suis 
+      su<lb ed="#P" n="80" break="no"/>per Genes. commentariis, senserunt; sed ut verba 
+      <lb ed="#P" n="81"/>scripturae sonant, corporaliter &amp; secundum 
+      lite<lb ed="#P" n="82" break="no"/>ram ita factam esse, quemadmodum facta 
+      nar<lb ed="#P" n="83" break="no"/>ratur. 
+    </p>
+            <p xml:id="bt67yj-p062320-d1e144">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Cujus rei manifesta probatio est non solum ex 
+      <lb ed="#P" n="85"/>historica narratione, qua Moyses rerum genesim, 
+      <lb ed="#P" n="86"/>&amp; in iis formationem mulieris describit, additis 
+      e<lb ed="#P" n="87" break="no"/>tiam verbis quae Adam statim post locutus fuerit: 
+      <lb ed="#P" n="88"/>Hoc nunc os ex ossibus meis, &amp;c. Qua sola probatione 
+      <lb ed="#P" n="89"/>fere usi sunt patres adversus Origenem, verum 
+      <lb ed="#P" n="90"/>etiam ex aliis scripturae locis. Nam 
+      Ecclesiasti<lb ed="#P" n="91" break="no"/>cus capite decimoseptimo, historice 
+      commemo<lb ed="#P" n="92" break="no"/>rat utrumque, tam mulieris creationem ex viro, 
+      <lb ed="#P" n="93"/>quam viri ex terra. Et apostolus Act. 17. ad 
+      A<lb ed="#P" n="94" break="no"/>thenienses de Deo sic ait: Fecitque ex uno omne genui 
+      <lb ed="#P" n="95"/>hominum inhabitare super universam faciem terrae. 
+    </p>
+            <p xml:id="bt67yj-p062320-d1e176">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Idem apostolus 1. Corinth. 11. ex eo quod mulier 
+      <lb ed="#P" n="97"/>de viro facta sit, non contra, sumit argumentum 
+      <lb ed="#P" n="98"/>subjectionis mulieris sub viri potestate. Et 1. 
+      Ti<lb ed="#P" n="99" break="no"/>moth. 2. non alia ratione scribit Adam primum 
+      <lb ed="#P" n="100"/>fuisse formatum, deinde Evam, &amp; proinde hanc 
+      <lb ed="#P" n="101"/>illi subjectam esse oportere; quam quia secundum 
+      <lb ed="#P" n="102"/>scripturam Genes. haec ex illo facta est. 
+    </p>
+            <p xml:id="bt67yj-p062320-d1e196">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Quocirca sanctus Augustinus lib. 9. de Genes. 
+      <lb ed="#P" n="104"/>ad literam capit. decimotertio, scribit non esse 
+      du<lb ed="#P" n="105" break="no"/>bitandum, quin haec quae scriptura commemorat 
+      <lb ed="#P" n="106"/>de formatione mulieris, &amp; facta sint, &amp; stulta 
+      <lb ed="#P" n="107"/>esse non possint, quoniam ad aliquid 
+      significan<lb ed="#P" n="108" break="no"/>dum facta sunt, &amp; Joan. Chrysostomus super 
+      <lb ed="#P" n="109"/>Genes. tractans eum locum, vult nos, tametsi 
+      <lb ed="#P" n="110"/>modum quo haec facta sint nesciamus, credere 
+      <lb ed="#P" n="111"/>tamen quod voluntati Dei omnia paruerint. Item 
+      <lb ed="#P" n="112"/>sanctus Hieronymus scribens in Epistolam Pauli 
+      <lb ed="#P" n="113"/>ad Philaemonem inter alia multa quae omnibus 
+      <lb ed="#P" n="114"/>credenda esse dicit, istud etiam adfert, Evam ex 
+      <lb ed="#P" n="115"/>costa &amp; latere viri fabricatam esse. Nec sane 
+      quis<lb ed="#P" n="116" break="no"/>quam aliorum patrum aliter de hac re sensisse 
+      legi<lb ed="#P" n="117" break="no"/>tur. Unde &amp; Innocentius III. extra de 
+      divor<lb ed="#P" n="118" break="no"/>tiis, capit. gaudemus, ex eo quod initio una 
+      co<lb ed="#P" n="119" break="no"/>sta viri in unam foeminam conversa sit, 
+      argumen<lb ed="#P" n="120" break="no"/>tum sumit ad probandum divino jure 
+      prohibi<lb ed="#P" n="121" break="no"/>tam esse polygamiam, qua uni viro plures foeminae 
+      <lb ed="#P" n="122"/>copulantur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

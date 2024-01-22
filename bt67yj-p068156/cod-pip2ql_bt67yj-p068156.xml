@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="176"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p068156"><!-- l2d20c3" -->
+            <head xml:id="bt67yj-p068156-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p068156-Hd1e103" type="question-title">Conjugium continentia laudabilius 
+      in primo statu</head>
+            <p xml:id="bt67yj-p068156-d1e106">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> §. 3. Conjugium continentia laudabilius 
+      <lb ed="#P" n="114"/>in primo statu.
+    </p>
+            <p xml:id="bt67yj-p068156-d1e115">
+               <lb ed="#P" n="115"/>EX dictis colligitur, quod in statu innocentiae? 
+      <lb ed="#P" n="116"/>Econtinentia quae est ab actu conjugali, non 
+      fuis<lb ed="#P" n="117" break="no"/>set laudabilior conjugio, imo simpliciter ne 
+      lauda<lb ed="#P" n="118" break="no"/>bilis quidem, ut bene colligit Sanctus Thomas, 
+      <lb ed="#P" n="119"/>ubi supra ad tertium. Nam in actu conjugii nulla 
+      <lb ed="#P" n="120"/>fuisset turpitudo, nihilque inordinatum, 
+      perman<lb ed="#P" n="121" break="no"/>sisset etiam integritas carnis, nulla in ipso conjugio 
+      <lb ed="#P" n="122"/>molestia, quam Apostolus 1. Corinth. 7. 
+      tribulatio<lb ed="#P" n="123" break="no"/>nem carnis vocat, ac praeterea fuisset in co 
+      perpe<lb ed="#P" n="124" break="no"/>tuum bonum foecunditatis, &amp; ipsorum conjugum 
+      <lb ed="#P" n="125"/>inter se castissimus amor, &amp; fides intemerata. 
+      Qui<lb ed="#P" n="126" break="no"/>bus omnibus conjugalibus bonis caruisset 
+      continen<lb ed="#P" n="127" break="no"/>tia absque ullius alterius boni compensatione. Quin 
+      <lb ed="#P" n="128"/>&amp; laudabilius fuisset matrimonium continentia 
+      no<lb ed="#P" n="129" break="no"/>stri status. Nam omne bonum hujus continentiae 
+      <lb ed="#P" n="130"/>fuisset in illo matrimonio, &amp; insuper quiddam 
+      <lb ed="#P" n="131"/>amplius; scilicet foecunditas cum perfecta animi 
+      <lb ed="#P" n="132"/>castitate sine ulla tentatione libidinis. Hinc illud 
+      <lb ed="#P" n="133"/>etiam consequitur, nullos ibi futuros fuisse qui 
+      prae<lb ed="#P" n="134" break="no"/>dictam continentiam colerent, utpote quae ibi non 
+      <lb ed="#P" n="135"/>virtus, sed vitium esset, ideóque illicita, ut ait 
+      <lb ed="#P" n="136"/>Durandus. Unde &amp; pari numero fuissent in illo 
+      <lb ed="#P" n="137"/>statu mares &amp; foeminae, ut quemadmodum Deus ab 
+      <lb ed="#P" n="138"/>initio fecit unum marem &amp; unam foeminam ac duos 
+      <lb ed="#P" n="139"/>constituit esse in carnem unam, ita deinceps 
+      inno<lb ed="#P" n="140" break="no"/>centia durante, pari lege omnes homines conjugio 
+      <lb ed="#P" n="141"/>copularentur, quod fieri non posset, nisi par esset 
+      <lb ed="#P" n="142"/>in utroque sexu numerus. Ex quo nonnulli etiam 
+      <!--0410.xml-->
+      <pb ed="#P" n="177"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>opinati sunt tunc quolibet partu geminos, 
+      mascu<lb ed="#P" n="2" break="no"/>lum &amp; foeminam in lucem editum iri; sed hoc non 
+      <lb ed="#P" n="3"/>est necessario consequens, quia paritas illa numeri 
+      <lb ed="#P" n="4"/>utriusque sexus haberi posset ex diversis partubus 
+      <lb ed="#P" n="5"/>sive ejusdem mulieris, sive diversarum. Neque enim 
+      <lb ed="#P" n="6"/>ita ponenda est haec paritas ut semper quoties mas 
+      <lb ed="#P" n="7"/>nasceretur, simul tempore nasceretur &amp; foemina. 
+      <lb ed="#P" n="8"/>Nam neque Eva simul creata fuit cum Adam, sed 
+      <lb ed="#P" n="9"/>post ipsum facta est. At naturale est, ut plus aetatis 
+      <lb ed="#P" n="10"/>ad matrimonium requiratur in viro quam in 
+      foemi<lb ed="#P" n="11" break="no"/>na. Quare potius existimandum quod paritas illa 
+      <lb ed="#P" n="12"/>numeri foeminarum cum maribus Deo providente 
+      <lb ed="#P" n="13"/>futura esset tempore convenienti, juxta naturalem 
+      <lb ed="#P" n="14"/>aptitudinem utriusque sexus ad matrimonium. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

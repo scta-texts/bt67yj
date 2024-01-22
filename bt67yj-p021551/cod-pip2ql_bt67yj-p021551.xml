@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 17</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 17</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="56"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p021551"><!-- l2d6c17" -->
+            <head xml:id="bt67yj-p021551-Hd1e101">Capitulum 17</head>
+            <head xml:id="bt67yj-p021551-Hd1e103" type="question-title">An daemones semel victi a tentando 
+      desistant</head>
+            <p xml:id="bt67yj-p021551-d1e106">
+               <lb ed="#P" n="39"/>§. 17. An daemones semel victi a tentando 
+      <lb ed="#P" n="40"/>desistant? 
+    </p>
+            <p xml:id="bt67yj-p021551-d1e113">
+               <lb ed="#P" n="41"/>AD dogmata Origeni peculiaria, atque 
+      Eccle<lb ed="#P" n="42" break="no"/>siasticae doctrinae parum consentanea pertinet 
+      <lb ed="#P" n="43"/>etiam illud, quod in fine hujus distinctionis sibi non 
+      <lb ed="#P" n="44"/>displicere significat Magister, allegatis ex ipso 
+      Ori<lb ed="#P" n="45" break="no"/>gene verbis, quae sunt in homilia 15. super Josue; 
+      sci<lb ed="#P" n="46" break="no"/>licet daemonibus semel victis velut lege pugilum, 
+      <lb ed="#P" n="47"/>qui semel victi non admittuntur iterum ad pugnam, 
+      <lb ed="#P" n="48"/>adimi potestatem iterum tentandi hominem; sive 
+      <lb ed="#P" n="49"/>eundem, sive etiam diversum, atque hoc sive de 
+      eo<lb ed="#P" n="50" break="no"/>dem vitio, sive etiam diverso. 
+    </p>
+            <p xml:id="bt67yj-p021551-d1e137">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Adversatur enim haec doctrina scripturae sacrae 
+      <lb ed="#P" n="52"/>quae testatur diabolum a Christo semel &amp; iterum 
+      vi<lb ed="#P" n="53" break="no"/>ctum, tertio ad eum tentandum accessisse; ac tunc 
+      <lb ed="#P" n="54"/>quoque victum, ab eo recessisse tantum usque ad 
+      <lb ed="#P" n="55"/>tempus, ut habetur Luc. 4. 
+    </p>
+            <p xml:id="bt67yj-p021551-d1e154">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Ac ne id de Christo quasi extraordinarium 
+      existi<lb ed="#P" n="57" break="no"/>mes, Matth. 12. &amp; Luc. 11. Christo narrante dicit 
+      <lb ed="#P" n="58"/>immundus spiritus, Revertar in domum meam unde 
+      <lb ed="#P" n="59"/>exvi. Atque hujus reditum ad tentandum iterum 
+      <lb ed="#P" n="60"/>eum a quo fuerat ejectus, ita describit Dominus, 
+      <lb ed="#P" n="61"/>ut dicat fieri novissima hominis illius pejora 
+      prio<lb ed="#P" n="62" break="no"/>ribus.
+    </p>
+            <p xml:id="bt67yj-p021551-d1e174">
+               <lb ed="#P" n="63"/>Item S. Job a Satana tentatus post unam victoriam 
+      <lb ed="#P" n="64"/>iterum &amp; saepius ab eodem tentatur etiam per 
+      uxo<lb ed="#P" n="65" break="no"/>rem &amp; amicos. 
+    </p>
+            <p xml:id="bt67yj-p021551-d1e183">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Jam vero minus adhuc dubitale est, quin sancti 
+      <lb ed="#P" n="67"/>homines ad eadem peccata etiam post victoriam 
+      <lb ed="#P" n="68"/>unam aut plures iterum, iterumque tententur; sive 
+      <lb ed="#P" n="69"/>ea tentatio fiat ab eodem daemone, sive a diversis. 
+      <lb ed="#P" n="70"/>Imo viris sanctis magis quam aliis infestus est 
+      ple<lb ed="#P" n="71" break="no"/>rumque diabolus, ut eos vel tandem dejiciat ac 
+      <!--0289.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>prosternat. Malis enim quos jam captivos habet &amp; 
+      <lb ed="#P" n="73"/>sibi addictos, minis imminet, uti testis est 
+      Cypria<lb ed="#P" n="74" break="no"/>nus lib. 1. epist. 1. 
+    </p>
+            <p xml:id="bt67yj-p021551-d1e212">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Quamquam non est negandum, daemonum 
+      po<lb ed="#P" n="76" break="no"/>testatem saepe divinitus cohiberi, ne possint sanctos 
+      <lb ed="#P" n="77"/>tentare, quantum volunt; &amp; pro merito virtutis, &amp; 
+      <lb ed="#P" n="78"/>consolatione servorum Dei subinde fieri, ut non 
+      <lb ed="#P" n="79"/>permittantur daemones tam graviter eos iterum 
+      op<lb ed="#P" n="80" break="no"/>pugnare, praesertim in eodem peccati genere; atque 
+      <lb ed="#P" n="81"/>etiam jubeantur interdum ad tempus desistere ab 
+      <lb ed="#P" n="82"/>eorum impugnatione, a quibus fuerint superati, 
+      <lb ed="#P" n="83"/>quemadmodum ex historia Antonii Eremirae, &amp; 
+      <lb ed="#P" n="84"/>aliorum quorundam satis intelligi potest. Quod 
+      <lb ed="#P" n="85"/>etiam probabile fit exemplo Christi, de quo dicitur, 
+      <lb ed="#P" n="86"/>quod diabolus ab eo recesserit ad tempus; atque id 
+      <lb ed="#P" n="87"/>significatum videtur ab Apostolo Jacobo capit. 4. 
+      <lb ed="#P" n="88"/>Resistite diabolo, &amp; fugiet a vobis. Videatur sanctus 
+      <lb ed="#P" n="89"/>Thomas articulo ultimo in hanc distinctionem, &amp; 
+      <lb ed="#P" n="90"/>1. parte quaest. 114. art. 5. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

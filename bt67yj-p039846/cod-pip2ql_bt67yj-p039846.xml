@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="104"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p039846"><!-- l2d10c3" -->
+            <head xml:id="bt67yj-p039846-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p039846-Hd1e103" type="question-title">Utrum omnes angeli mittantur in ministerium</head>
+            <p xml:id="bt67yj-p039846-d1e106">
+               <lb ed="#P" n="15"/>§. 3. Utrum omnes angeli mittantur in ministerium. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e111">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> AD quaestionem huic distinctioni propriam, &amp; 
+      <lb ed="#P" n="17"/>a Magistro utrinque disputatam sed non 
+      de<lb ed="#P" n="18" break="no"/>cisam, scilicet an omnes angeli sancti mittantur 
+      ali<lb ed="#P" n="19" break="no"/>quando in ministerium; probabiliorem putamus 
+      af<lb ed="#P" n="20" break="no"/>firmativam responsionem, ut cui scriptura magis 
+      <lb ed="#P" n="21"/>suffragatur. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e129">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Primum, quia dicit apost. Heb. I. de angelis: 
+      Non<lb ed="#P" n="23" break="no"/>ne omnes sunt administratorii spiritus in ministerium 
+      <lb ed="#P" n="24"/>missi propter eos qui haereditatem capient salutis? Quod 
+      <lb ed="#P" n="25"/>testimonium adeo clarum est, ut nulla 
+      tergiversa<lb ed="#P" n="26" break="no"/>tione videatur rejici posse. Cum enim eo loco 
+      osten<lb ed="#P" n="27" break="no"/>dere velit apostolus Christum non quibusdam, sed 
+      <lb ed="#P" n="28"/>omnibus angelis majorem esse, non esset plena 
+      pro<lb ed="#P" n="29" break="no"/>batio, si ab hac apostolica sententia vel unum 
+      ange<lb ed="#P" n="30" break="no"/>sum exceptum faciamus. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e154">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Ad hoc argumentum Magister pro parte negativa 
+      <lb ed="#P" n="32"/>disputans S. F. duas adfert responsiones, sed neutram 
+      <lb ed="#P" n="33"/>sufficientem. Prior est, cum supremi angeli mediis, 
+      <lb ed="#P" n="34"/>&amp; medii imis, atque hi hominibus praeceptum Dei 
+      <lb ed="#P" n="35"/>nuntient, merito omnes angelos ab apostolo 
+      nomi<lb ed="#P" n="36" break="no"/>natos fuisse. Quae responsio refellitur, quia non 
+      cen<lb ed="#P" n="37" break="no"/>setur angelus cum effectu mitti in ministerium, per 
+      <lb ed="#P" n="38"/>hoc quod notificat alteri angelo opus faciendum, sed 
+      <lb ed="#P" n="39"/>per hoc quod facit opus injunctum. Posterior est, 
+      <lb ed="#P" n="40"/>per omnes angelos non singulos ordines, sed de 
+      in<lb ed="#P" n="41" break="no"/>ferioribus ordinibus singulos angelos apostolum 
+      in<lb ed="#P" n="42" break="no"/>tellexisse. Verum haec responsio jam refutata est ex 
+      <lb ed="#P" n="43"/>intentione &amp; scopo apostoli. Alius scripturae locus est 
+      <lb ed="#P" n="44"/>Isa. 6. ubi legitur unus de Seraphim qui supremus est 
+      <lb ed="#P" n="45"/>ordo, missus ad prophetam ut calculo labia ejus 
+      tan<lb ed="#P" n="46" break="no"/>geret &amp; eum a peccato mundaret. Quare &amp; caeteros 
+      <lb ed="#P" n="47"/>ejusdem ordinis angelos interdum mitti probabile 
+      <lb ed="#P" n="48"/>est, ac multo magis caeteros ordinum inferiorum. 
+      <lb ed="#P" n="49"/>Quid ad hoc argumentum respondere conentur alii, 
+      <lb ed="#P" n="50"/>dicetur infra. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e202">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Tertio? Michael qui omnium angelorum 
+      supre<lb ed="#P" n="52" break="no"/>mus est, ut paulo post probabitur, in ministerium 
+      mis<lb ed="#P" n="53" break="no"/>sus legitur Dan. 10. Quod &amp; satis convincit 
+      conten<lb ed="#P" n="54" break="no"/>tio ejus cum diabolo de Moysi corpore, cujus 
+      me<lb ed="#P" n="55" break="no"/>minit Judas in ep. Similiter Gabriel, quem &amp; ipsum 
+      <lb ed="#P" n="56"/>verisimile est ex supremis esse, nuntius fuit eorum 
+      <lb ed="#P" n="57"/>quae ad Christi adventum, nativitatem &amp; mortem 
+      <lb ed="#P" n="58"/>pertinent, ut videre est Dan. 9. &amp; Luc. 1. Ut ne de 
+      <lb ed="#P" n="59"/>Raphaele dicamus ad certa ministeria misso, cum 
+      <lb ed="#P" n="60"/>esset unus e septem qui astant ante Dominum Tob. 
+      <lb ed="#P" n="61"/>12. Quod argumentum non urgeo propter dubium 
+      <lb ed="#P" n="62"/>intellectum illius loci, de quo infra 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e233">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Quarto: Mat. 25. omnes angeli venturi dicuntur 
+      <lb ed="#P" n="64"/>cum filio hominis ad judicium, videlicet obsequii 
+      <lb ed="#P" n="65"/>causa. Unde &amp; Ecclesia canit: Ecce Dominus veniet 
+      <lb ed="#P" n="66"/>&amp; omnes sancti ejus cum eo. Sicut &amp; credibile est 
+      <lb ed="#P" n="67"/>Christo in caelum ascendenti omnes angelos honoris 
+      <lb ed="#P" n="68"/>causa occurrisse, atque obsequium exhibuisse. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e251">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> His accedit argumentum ex ratione quae est apud 
+      <lb ed="#P" n="70"/>Magistrum S. B. pro parte affirmativa disputantem, 
+      <lb ed="#P" n="71"/>scilicet non debere indignum videri, si etiam supe¬ 
+      <!--0337.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>riores angeli mittantur, cum &amp; ille qui creator est 
+      <lb ed="#P" n="73"/>omnium filius Dei a Patre missus ad haec inferiora 
+      <lb ed="#P" n="74"/>descenderit. Unde &amp; ipse vocatur magni consilii 
+      <lb ed="#P" n="75"/>angelus. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e275">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Est item argumentum ex nomine. Cum enim 
+      <lb ed="#P" n="77"/>omnes dicantur angeli, id est nuntii, consequens 
+      <lb ed="#P" n="78"/>videtur ut omnes hoc officii nomen aliquando reipsa, 
+      <lb ed="#P" n="79"/>id est, nuntiando &amp; ministrando impleant. Nam 
+      <lb ed="#P" n="80"/>quod peculiari nomine angeli dicuntur qui sunt 
+      infi<lb ed="#P" n="81" break="no"/>mi ordinis, non inde est quod ii soli mittantur in 
+      mi<lb ed="#P" n="82" break="no"/>nisterium, sed quia cum nihil habeant singulare, 
+      <lb ed="#P" n="83"/>quo caeteros excellant, commune omnibus nomen 
+      <lb ed="#P" n="84"/>illis quodammodo appropriatur. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e299">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Nec vero Patrum in hanc partem desunt 
+      testimo<lb ed="#P" n="86" break="no"/>nia. Nam Aug. scribens in psal. 56. ait: Omnes 
+      an<lb ed="#P" n="87" break="no"/>geli creatura serviens Christo est. Ad obsequium mitti 
+      <lb ed="#P" n="88"/>potuerunt angeli, ad servitium mitti potuerunt non ad 
+      <lb ed="#P" n="89"/>adjutorium, &amp;c. Bernardus quoque sermone 1. de 
+      <lb ed="#P" n="90"/>S. Michaele omnium ordinum angelos aliquando 
+      <lb ed="#P" n="91"/>mitti significat. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e320">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Praeterea Chrysost. &amp; Theophyl. illud Matth. 18. 
+      <lb ed="#P" n="93"/>Angeli eorum in caelis, &amp;c. dictum interpretantur de 
+      <lb ed="#P" n="94"/>primariis quibusdam ac superiorum ordinum 
+      ange<lb ed="#P" n="95" break="no"/>lis, tanquam Deo proximis &amp; singulari apud Deum 
+      <lb ed="#P" n="96"/>privilegio honoratis. 
+    </p>
+            <p xml:id="bt67yj-p039846-d1e336">
+               <lb ed="#P" n="97"/>Potest eadem doctrina colligi ex eorum verbis 
+      <lb ed="#P" n="98"/>qui in Heb. 1. commentati sunt, maxime Graecorum 
+      <lb ed="#P" n="99"/>qui nullam faciunt exceptionem, ut Chrys. 
+      Theo<lb ed="#P" n="100" break="no"/>doretus, Theophylactus, Occumenius. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

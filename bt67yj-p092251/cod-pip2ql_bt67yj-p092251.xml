@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="238"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p092251"><!-- l2d24c9" -->
+            <head xml:id="bt67yj-p092251-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p092251-Hd1e103" type="question-title">In homine etiam lapso esse liberum arbitrium 
+      docetur ex scriptura</head>
+            <p xml:id="bt67yj-p092251-d1e106">
+      <!--0471.xml-->
+               <pb ed="#P" n="238"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 9. In homine etiam lapso esse liberum arbitrium 
+      <lb ed="#P" n="2"/>docetur ex scriptura.
+    </p>
+            <p xml:id="bt67yj-p092251-d1e119">
+               <lb ed="#P" n="3"/>Libertatem arbitrii humani jam olim a multis 
+      <lb ed="#P" n="4"/>haereticis oppugnatam fuisse constat ex scriptis 
+      <lb ed="#P" n="5"/>patrum &amp; historiis ecclesiasticis. Simpliciter enim 
+      <lb ed="#P" n="6"/>sustulerunt liberum arbitrium, partim expresso 
+      dog<lb ed="#P" n="7" break="no"/>mate, partim assertione eorum dogmatum, ex 
+      qui<lb ed="#P" n="8" break="no"/>bus id manifeste sequeretur, <name xml:id="bt67yj-p092251-Nd1e134">Simon Magus</name>, <name xml:id="bt67yj-p092251-Nd1e136">
+      Barde<lb ed="#P" n="9" break="no"/>sanes</name>, <name xml:id="bt67yj-p092251-Nd1e141">Valentinus</name>, <name xml:id="bt67yj-p092251-Nd1e143">Manichaeus</name>, <name xml:id="bt67yj-p092251-Nd1e145">Priscillianus</name>, <name xml:id="bt67yj-p092251-Nd1e148">Petrus 
+      <lb ed="#P" n="10"/>Abailardus</name>, <name xml:id="bt67yj-p092251-Nd1e153">Joannes Vvicleff</name>. 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e156">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> Porro nostri temporis haereticis peculiare est, 
+      <lb ed="#P" n="12"/>quod licet fateantur in primo homine ante 
+      pecca<lb ed="#P" n="13" break="no"/>tum fuisse liberum arbitrium; negant tamen 
+      reli<lb ed="#P" n="14" break="no"/>ctum esse in homine lapso. Quanquam inter eos 
+      dif<lb ed="#P" n="15" break="no"/>ferentia quaedam est hujus doctrinae. Quidam enim 
+      <lb ed="#P" n="16"/>homini lapso simpliciter adimunt liberum arbitrium, 
+      <lb ed="#P" n="17"/>adeo ut ne in civilibus quidem &amp; indifferentibus 
+      <lb ed="#P" n="18"/>rebus homini libertatem hanc concedant; ut <name xml:id="bt67yj-p092251-Nd1e177">
+      Bu<lb ed="#P" n="19" break="no"/>cerus</name> &amp; <name xml:id="bt67yj-p092251-Nd1e182">Calvinus</name>, &amp; ante eos <ref xml:id="bt67yj-p092251-Rd1e185">
+                  <name xml:id="bt67yj-p092251-Nd1e187">Laurentius Valla</name>
+                  <lb ed="#P" n="20"/>in libro quem scripsit de libero arbitrio</ref>. Alii vero 
+      <lb ed="#P" n="21"/>tametsi in rebus externis &amp; civilibus hominem post 
+      <lb ed="#P" n="22"/>lapsum fateantur esse liberae voluntatis, in iis tamen 
+      <lb ed="#P" n="23"/>quae spectant pietatem &amp; observationem legis 
+      divi<lb ed="#P" n="24" break="no"/>nae, &amp; it loquuntur; in moralibus, negant liberum 
+      <lb ed="#P" n="25"/>arbitrium quiequam posse ac quicquam agere. Et 
+      <lb ed="#P" n="26"/>hommem quidem peccatore mita censent servituti 
+      <lb ed="#P" n="27"/>peccati esse addictum, ut liberam facultatem boni 
+      <lb ed="#P" n="28"/>eligendi non habeat: eundem vero post 
+      reparatio<lb ed="#P" n="29" break="no"/>nem ita dicunt ab operante in eo Dei gratia agi 
+      at<lb ed="#P" n="30" break="no"/>que impelli, ut malum eligere non possit. Atque 
+      <lb ed="#P" n="31"/>haec Lutheranorum sententia est. 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e217">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Igitur hoc loco tam contra istos, quam contra 
+      <lb ed="#P" n="33"/>superiores veteres ac novos haereticos ostendendum 
+      <lb ed="#P" n="34"/>est, in homine etiam post lapsum relictam esse 
+      fa<lb ed="#P" n="35" break="no"/>cultatem, qua non tantum ad diversa pro 
+      arbitrio<lb ed="#P" n="36" break="no"/>flectere se possit, qualis est in angelis beatis &amp; 
+      mi<lb ed="#P" n="37" break="no"/>seris: verum etiam malo relicto vel omisso bonum 
+      <lb ed="#P" n="38"/>agere; &amp; contra. 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e237">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Primum igitur, ut a scriptura sacra auspicemur, 
+      <lb ed="#P" n="40"/>hanc libertatem clarissime astruunt verba Dei ad 
+      <lb ed="#P" n="41"/>Ca in dicentis Gen. 4. Nonne si bene egeris, recipies, 
+      <lb ed="#P" n="42"/>sin autem male, statim in foribus peccatum tuum aderit? 
+      <lb ed="#P" n="43"/>sed sub te erit appetitus tuus &amp; tu dominaberis illius. 
+      <lb ed="#P" n="44"/>Quod dominium non aliud est, quam id in quo 
+      pro<lb ed="#P" n="45" break="no"/>pria libertatis arbitrii ratio consistit. 
+      <lb ed="#P" n="46"/>Eandem libertatem confirmant omnes scripturae, 
+      <lb ed="#P" n="47"/>quibus homini deliberatio &amp; consultatio 
+      ascribi<lb ed="#P" n="48" break="no"/>tur, atque e pluribus electio proponitur, velut 
+      <lb ed="#P" n="49"/>Deut. 30. Proposui in conspectu tuo vitam &amp; bonum, 
+      <lb ed="#P" n="50"/>&amp; e contrario, mortem &amp; malum. Et infra: Elige ergo 
+      <lb ed="#P" n="51"/>vitam, ut &amp; tu vivas, &amp;c. Item Ecclesiastici15. Deus 
+      <lb ed="#P" n="52"/>ab initio constituit hominem rectum, &amp; reliquit eum 
+      <lb ed="#P" n="53"/>in manu consilii sui, &amp; quae sequuntur. Quam 
+      scri<lb ed="#P" n="54" break="no"/>pturam non ad solum hominem integrum, ut 
+      ca<lb ed="#P" n="55" break="no"/>villantur adversarii, sed ad homines etiam peccato 
+      <lb ed="#P" n="56"/>vitiatos pertinere, partim ex ipsius loci contextu 
+      <lb ed="#P" n="57"/>doceri potest; partim manifestum est ex loco Deut. 
+      <lb ed="#P" n="58"/>ad quem omnino apparet in his verbis 
+      Ecclesiasti<lb ed="#P" n="59" break="no"/>cum respexisse. Similis est locus Isa. 1. Si volueritis 
+      <lb ed="#P" n="60"/>&amp; audieritis me, bona terrae comedetis: Quod si 
+      nolue<lb ed="#P" n="61" break="no"/>ritis, &amp;c. Tale est illud Zachariae 11. Si bonum est in 
+      <lb ed="#P" n="62"/>oculis vestris, afferte mercedem meam, &amp; si non, 
+      quies<lb ed="#P" n="63" break="no"/>cite. Et Matth. 12. Aut facite arborem bonam &amp; 
+      fru<lb ed="#P" n="64" break="no"/>ctum ejus bonum, Aut facite arborem malam &amp; 
+      fru<lb ed="#P" n="65" break="no"/>ctum ejus malum. Legimus quoque Davidi datam 
+      <lb ed="#P" n="66"/>optionem, ut ex tribus plagis quam vellet eligeret 2. 
+      <lb ed="#P" n="67"/>Reg. ult. &amp; 1. Paralip. 21. Sed &amp; Susannae in 
+      angu<lb ed="#P" n="68" break="no"/>stiis constitutae deliberatio atque electio, quae 
+      des<lb ed="#P" n="69" break="no"/>cribitur Danielis 13. palam arguit hanc arbitrii 
+      li<lb ed="#P" n="70" break="no"/>bertatem. Pertinet huc &amp; illud 1. Corinth. 7. Non 
+      <lb ed="#P" n="71"/>habens necessitatem, potestatem autem habens suae vo¬ 
+      <!--0471.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>luntatis. His enim verbis non tantum excludi 
+      neces<lb ed="#P" n="73" break="no"/>sitatem coactivam, ut quidam volunt, sed &amp; 
+      natu<lb ed="#P" n="74" break="no"/>ralem; patet ex eo quod praecedit: Quod vult faciat, 
+      <lb ed="#P" n="75"/>id est, utrumlibet eligat. 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e326">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Idem praeterea docent scripturae, quae testantur ita 
+      <lb ed="#P" n="77"/>aliquid ab homine fieri, ut possit hoc ipsum 
+      omit<lb ed="#P" n="78" break="no"/>tere &amp; non agere, vel contra. Quod praeter supra 
+      <lb ed="#P" n="79"/>dictas sententias apertissime significat illa 
+      Ecclesia<lb ed="#P" n="80" break="no"/>stici 31. Qui potuit transgredi, &amp; non est transgressus, 
+      <lb ed="#P" n="81"/>facere mala, &amp; non fecit. Cujusmodi libertas etiam 
+      <lb ed="#P" n="82"/>Pilati verbis a Christo approbatis significata est 
+      Joan<lb ed="#P" n="83" break="no"/>nis 19. Nescis, inquit, quia potestatem habeo 
+      cru<lb ed="#P" n="84" break="no"/>cifigere te, &amp; potestatem habeo dimittere te? 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e350">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> His adjungendae sunt &amp; illae scripturae, quae 
+      prae<lb ed="#P" n="86" break="no"/>cipiunt facere bonum &amp; declinare a malo, ut psal. 
+      <lb ed="#P" n="87"/>36. &amp; aliae pene innumerae. 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e361">
+               <lb ed="#P" n="88"/>Item illae quibus continentur promissiones &amp; 
+      com<lb ed="#P" n="89" break="no"/>minationes, quae similiter plurimae sunt. Nam 
+      prae<lb ed="#P" n="90" break="no"/>ceptis, exhortationibus, promissis, comminationibus 
+      <lb ed="#P" n="91"/>quis locus esse poterit, ubi nulla est humanarum 
+      <lb ed="#P" n="92"/>actionum ad utrumque libertas; sed naturalis &amp; 
+      <lb ed="#P" n="93"/>inevitabilis in alteram partem necessitas? 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e377">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Denique &amp; illae scripturae hanc libertatem 
+      a<lb ed="#P" n="95" break="no"/>struunt, quae docent unicuique reddendam esse 
+      mer<lb ed="#P" n="96" break="no"/>cedem juxta opera sua. Neque enim locus 
+      relinqui<lb ed="#P" n="97" break="no"/>tur meritis bonis aut malis, &amp; consequenter nec 
+      <lb ed="#P" n="98"/>praemiis aut suppliciis, ubi necessitas est operandi. 
+      <lb ed="#P" n="99"/>Nam, ut ait Damascenus lib. 2. de fide cap. 7. 
+      <lb ed="#P" n="100"/>quod ex necessitate fit, neque virtus est, neque 
+      <lb ed="#P" n="101"/>vitium est. 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e400">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Possent huc &amp; alia multa adferri ex scripturis, ut 
+      <lb ed="#P" n="103"/>quaecunque continent reprehensionem, 
+      correptio<lb ed="#P" n="104" break="no"/>nem, objurgationem, exprobrationem malorum. 
+      <lb ed="#P" n="105"/>Haec enim vane prorsus adhibentur &amp; stulte, ubi non 
+      <lb ed="#P" n="106"/>est liberum arbitrium, velut si bestiis haec eadem 
+      ad<lb ed="#P" n="107" break="no"/>hibeantur. Item ea quae continent laudes &amp; praemia 
+      <lb ed="#P" n="108"/>bonorum &amp; sanctorum hominum. Nam haec 
+      perspi<lb ed="#P" n="109" break="no"/>cue probant hominem esse liberi arbitrii, 
+      quemad<lb ed="#P" n="110" break="no"/>modum etiam Augustinus testatur lib. de gratia &amp; 
+      <lb ed="#P" n="111"/>libero arbitrio capite 2. Verum ex scripturis quae 
+      <lb ed="#P" n="112"/>dicta sunt, satis abunde sufficiunt. 
+    </p>
+            <p xml:id="bt67yj-p092251-d1e429">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Est autem notandum ex locis &amp; testimoniis 
+      pro<lb ed="#P" n="114" break="no"/>ductis liquere, quod non tantum in civilibus &amp; 
+      ex<lb ed="#P" n="115" break="no"/>ternis; verum etiam in moralibus &amp; iis quae 
+      perti<lb ed="#P" n="116" break="no"/>nent ad colendum Deum, homines sive peccatores 
+      <lb ed="#P" n="117"/>sive justi, liberum habeant arbitrium, quo seu bona 
+      <lb ed="#P" n="118"/>seu mala, &amp; facere possint, &amp; non facere¬ 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

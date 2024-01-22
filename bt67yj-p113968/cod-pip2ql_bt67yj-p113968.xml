@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 18</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 18</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="293"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p113968"><!-- l2d26c18" -->
+            <head xml:id="bt67yj-p113968-Hd1e101">Capitulum 18</head>
+            <head xml:id="bt67yj-p113968-Hd1e103" type="question-title">Gratiam dari ad singulos actus, contra 
+      Pelagium a patribus definitum</head>
+            <p xml:id="bt67yj-p113968-d1e106">
+               <lb ed="#P" n="81"/>§. 18. Gratiam dari ad singulos actus, contra 
+      <lb ed="#P" n="82"/>Pelagium a patribus definitum.
+    </p>
+            <p xml:id="bt67yj-p113968-d1e113">
+               <lb ed="#P" n="83"/>PRaemissis iis quae ad veritatem gratiae Christi 
+      <lb ed="#P" n="84"/>Peffectumque ejus cognoscendum pertinere visa 
+      <lb ed="#P" n="85"/>sunt, nunc ad ea tractanda venjamus, quae de eadem 
+      <lb ed="#P" n="86"/>Christi gratia jam olim ab ecclesia contra 
+      Pelagia<lb ed="#P" n="87" break="no"/>nos gratiae inimicos secundum scripturas tradita 
+      <lb ed="#P" n="88"/>sunt &amp; definita. Quale imprimis est illud, gratiam ad 
+      <lb ed="#P" n="89"/>singulos actus dari. Nam Pelagius cum gratiam Dei 
+      <lb ed="#P" n="90"/>manifestissime in scripturis commendatam ac 
+      prae<lb ed="#P" n="91" break="no"/>dicatam omnino negare non posset, perverso suc 
+      in<lb ed="#P" n="92" break="no"/>tellectu eam oppugnare aggressus est. Docebat enim 
+      <lb ed="#P" n="93"/>gratiam sitam esse in libero arbitrio, tanquam 
+      do<lb ed="#P" n="94" break="no"/>no divinitus nobis concesso. Deinde vero quo plus 
+      <lb ed="#P" n="95"/>aliquid gratiae Dei tribuere videretur, constituit eam 
+      <lb ed="#P" n="96"/>in lege atque doctrina; quibus demum adjungebat 
+      <lb ed="#P" n="97"/>Christi exemplum, teste Augustino lib. de gratia 
+      <lb ed="#P" n="98"/>Christi cap. 41. Alias quoque eam constituebat in 
+      <lb ed="#P" n="99"/>remissione peccatorum, ut liquet ex can. 3. 
+      Mile<lb ed="#P" n="100" break="no"/>vitani concilii. Caeterum Catholicos 
+      reprehende<lb ed="#P" n="101" break="no"/>bat velut imperitos, qui per singulas actiones 
+      gra<lb ed="#P" n="102" break="no"/>tiam homini necessariam dicerent. Cum enim 
+      se<lb ed="#P" n="103" break="no"/>mel a Deodatum sit cum natura liberum arbitrium; 
+      <lb ed="#P" n="104"/>cui deinde accesserit ab eodem data lex atque 
+      do<lb ed="#P" n="105" break="no"/>ctrina praesertim evangelica, quam Christus nobis 
+      <lb ed="#P" n="106"/>attulit &amp; exemplo suo firmavit; neque opus sit ut 
+      <lb ed="#P" n="107"/>haec iterum quotidie &amp; ad singula opera dentur; 
+      <lb ed="#P" n="108"/>existimabat haec Dei adjutoria semel concessa 
+      suffi<lb ed="#P" n="109" break="no"/>cere homini ad bene vivendum, &amp; salutem 
+      con<lb ed="#P" n="110" break="no"/>sequendam. Sub doctrina autem etiam 
+      exhortatio<lb ed="#P" n="111" break="no"/>nes, suasiones, correptiones, promissiones, 
+      commi<lb ed="#P" n="112" break="no"/>nationes, ac similia bene vivendi adminicula atque 
+      <lb ed="#P" n="113"/>incitamenta exterius adhiberi solita, sive a Deo, sive 
+      <lb ed="#P" n="114"/>ab Angelis, sive ab hominibus, tanquam doctrinae 
+      <lb ed="#P" n="115"/>partes comprehendebat. 
+    </p>
+            <p xml:id="bt67yj-p113968-d1e187">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Contra hanc impiam ejus haeresim patres 
+      docue<lb ed="#P" n="117" break="no"/>runt &amp; definierunt, gratiam Dei dari ad singulos 
+      <lb ed="#P" n="118"/>actus; nimirum significare volentes, non in libero 
+      <lb ed="#P" n="119"/>arbitrio, neque in lege &amp; doctrina, neque in 
+      exem<lb ed="#P" n="120" break="no"/>plis Christi &amp; sanctorum, gratiam Dei consistere; 
+      <lb ed="#P" n="121"/>sed in adjutorio quo ipsa divinae legis obedientia 
+      <lb ed="#P" n="122"/>nobis efficaciter praestatur. Valet autem ea 
+      defini<lb ed="#P" n="123" break="no"/>tio etiam contra id, quod postea idem Pelagius, 
+      quan<lb ed="#P" n="124" break="no"/>do vehementius a Catholicis premebatur, velut 
+      <lb ed="#P" n="125"/>sententiam corrigens &amp; amplius aliquid gratia Dei 
+      <lb ed="#P" n="126"/>tribuens dixit, per eam dari possibilitatem &amp; 
+      facili<lb ed="#P" n="127" break="no"/>tatem boni operis. Nam neque possibilitatem neque 
+      <lb ed="#P" n="128"/>facilitatem dari oportet ad singulos actus, cum 
+      se<lb ed="#P" n="129" break="no"/>mel data possit ad omnes, vel saltem ad multos 
+      <lb ed="#P" n="130"/>actus sufficere. 
+    </p>
+            <p xml:id="bt67yj-p113968-d1e225">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Est autem illud quod diximus, definitum in 
+      sy<lb ed="#P" n="132" break="no"/>nodo Palaestina, quam Hieronymus epistola 79. 
+      <lb ed="#P" n="133"/>Diospolitanam vocat; id est, Lyddae habitam. De 
+      <lb ed="#P" n="134"/>qua urbe idem Hieronymus in epitaphio Paulae: 
+      <lb ed="#P" n="135"/>Vidit Lyddam, inquit, versam in Diospolin, Dorcadis 
+      <lb ed="#P" n="136"/>atque Aeneae resurrectione ac sanitate inclytam. In 
+      <lb ed="#P" n="137"/>ea synodo ipse Pelagius vocatus adfuit. Quae etsi 
+      <lb ed="#P" n="138"/>hodie non exstet, verba tamen ejus definitionem 
+      <lb ed="#P" n="139"/>memorari dogmatis continentia sunt apud 
+      Augusti<lb ed="#P" n="140" break="no"/>num in epist. 106. ad Paulinum, ubi recenset 
+      arti<lb ed="#P" n="141" break="no"/>culos 12. quos Pelagius ne damnaretur, damnare &amp; 
+      <lb ed="#P" n="142"/>revocare coactus fuit. Quorum in numero iste 
+      se<lb ed="#P" n="143" break="no"/>ptimus est: Gratiam Dei atque adjutorium non ad 
+      <lb ed="#P" n="144"/>siggulos actus dari, sed in libero arbitrio esse, vel 
+      <lb ed="#P" n="145"/>in lege atque doctrina. Quae definitio cum adver¬ 
+      <!--0527.xml-->
+      <pb ed="#P" n="294"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sariorum condemnatione postmodum repetita est 
+      <lb ed="#P" n="2"/>in concilio 214. episcoporum, &amp; conscripta his 
+      ver<lb ed="#P" n="3" break="no"/>bis: Constituimus in Pelagium atque Caelestinum per 
+      <lb ed="#P" n="4"/>venerabilem episcopum Innocentium de beatissimi 
+      Apo<lb ed="#P" n="5" break="no"/>stoli Petri sede prolatam manere sententiam, donec 
+      <lb ed="#P" n="6"/>apertissima confessione fateantur, gratia Dei per 
+      <lb ed="#P" n="7"/>Jesum Christum Dominum nostrum, non solum ad 
+      <lb ed="#P" n="8"/>cognoscendam, verum etiam ad faciendam justitiam 
+      <lb ed="#P" n="9"/>nos per actus singulos adjuvari: ita ut sine illa nihil 
+      <lb ed="#P" n="10"/>verae sanctaeque pietatis habere, cogitare, dicere, agere 
+      <lb ed="#P" n="11"/>valeamus. Quae verba leguntur integre apud 
+      Pros<lb ed="#P" n="12" break="no"/>perum libro contra Collat. c. 10. rursumque ab 
+      eo<lb ed="#P" n="13" break="no"/>dem citantur in responsione 8. ad capitula 
+      Gallo<lb ed="#P" n="14" break="no"/>rum. Fuit autem concilium illud in Africa habitum, 
+      <lb ed="#P" n="15"/>&amp; a sede Apostolica approbatum, atque a toto orbe 
+      <lb ed="#P" n="16"/>terrarum receptum, ut scribit idem Prosper in 
+      Chro<lb ed="#P" n="17" break="no"/>nico, &amp; in dicta responsione octava. Meminit 
+      ejus<lb ed="#P" n="18" break="no"/>dem concilii Augustinus epistola 47. 
+    </p>
+            <p xml:id="bt67yj-p113968-d1e308">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Sane doctrina haec, qua traditur gratiam dari ad 
+      <lb ed="#P" n="20"/>singulos actus, adeo fuit apud Patres certa &amp; 
+      indu<lb ed="#P" n="21" break="no"/>bitata, ut Augustinus epistola 106. affirmet, semper 
+      <lb ed="#P" n="22"/>ita tenuisse ecclesiam Catholicam, &amp; in epist. 107. 
+      <lb ed="#P" n="23"/>cam ponat inter 12. sententias, quas firmissime se 
+      <lb ed="#P" n="24"/>scire dicit ad fidem rectam, veram &amp; Catholicam 
+      <lb ed="#P" n="25"/>pertinere. Quocirca Vincentius Lirinesis in libello 
+      <lb ed="#P" n="26"/>suo contra profanas novitates edito, sic ait: Quis 
+      <lb ed="#P" n="27"/>ante Pelagium tantam virtutem liberi praesumpsit 
+      ar<lb ed="#P" n="28" break="no"/>bitrii, ut ad hoc in bonis rebus per actus singulos 
+      ad<lb ed="#P" n="29" break="no"/>juvandum, neceßariam Dei gratiam non putaret? 
+      <lb ed="#P" n="30"/>Unde &amp; Ferandus diaconus in libro de officio 
+      mi<lb ed="#P" n="31" break="no"/>litis Christiani, inter regulas quas militi 
+      praescri<lb ed="#P" n="32" break="no"/>bit, hanc omnium primam ab eo exigit, ut credat 
+      <lb ed="#P" n="33"/>gratiam Dei ad singulos actus dari. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 17</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 17</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="251"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p097554"><!-- l2d24c17" -->
+            <head xml:id="bt67yj-p097554-Hd1e101">Capitulum 17</head>
+            <head xml:id="bt67yj-p097554-Hd1e103" type="question-title">Libertas ad bonum vel malum quomodo se 
+        habeat ad libertatem arbitrii</head>
+            <p xml:id="bt67yj-p097554-d1e106">
+               <lb ed="#P" n="35"/>§. 17. Libertas ad bonum vel malum quomodo se 
+      <lb ed="#P" n="36"/>habeat ad libertatem arbitrii.
+    </p>
+            <p xml:id="bt67yj-p097554-d1e113">
+               <lb ed="#P" n="37"/>FAcit ad explicationem dictorum quaestio quam 
+      <lb ed="#P" n="38"/>movet Magister dist. 25. §. L. utrum libertas ad 
+      <lb ed="#P" n="39"/>malum sit ipsa libertas arbitrii, ut &amp; ea quam 
+      pro<lb ed="#P" n="40" break="no"/>ximo, deinde 5. similiter movet de libertate ad 
+      bo<lb ed="#P" n="41" break="no"/>num. Ad utramque autem una est responsio, 
+      liber<lb ed="#P" n="42" break="no"/>tatem sive ad malum sive ad bonum esse ipsam 
+      li<lb ed="#P" n="43" break="no"/>bertatem arbitrii, ratione tamen differentem. 
+      Un<lb ed="#P" n="44" break="no"/>de sit, ut quemadmodum ait Magister, ex diversis 
+      <lb ed="#P" n="45"/>causis sortiatur diversa vocabula. Libertas enim 
+      ar<lb ed="#P" n="46" break="no"/>bitrii dicitur, quatenus per eam voluntas libera est 
+      <lb ed="#P" n="47"/>ad eligendum hoc vel illud, non addita 
+      determina<lb ed="#P" n="48" break="no"/>tione boni vel mali; eadem vocatur libertas ad 
+      bo<lb ed="#P" n="49" break="no"/>num, quatenus per eam voluntas ad bonum 
+      eli<lb ed="#P" n="50" break="no"/>gendum libera est, &amp; libertas ad malum, 
+      quate<lb ed="#P" n="51" break="no"/>nus per eam voluntas libera est ad eligendum 
+      ma<lb ed="#P" n="52" break="no"/>lum. 
+    </p>
+            <p xml:id="bt67yj-p097554-d1e150">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Veruntamen sciendum est, libertatem tam ad 
+      <lb ed="#P" n="54"/>bonum quam ad malum duobus modis intelligi 
+      <lb ed="#P" n="55"/>posse; Uno modo, eam intelligendo libertatem, 
+      <lb ed="#P" n="56"/>qua simpliciter quis potest bonum vel malum agere 
+      <lb ed="#P" n="57"/>aut eligere, sive in alterutrum horum propensus sit 
+      <lb ed="#P" n="58"/>eique addictus, sive non; qualis ad malum libertas 
+      <lb ed="#P" n="59"/>erat etiam in primo homine &amp; angelo ante lapsum; 
+      <lb ed="#P" n="60"/>qualis item libertas ad bonum est in homine lapso 
+      <lb ed="#P" n="61"/>ac nondum reparato, licet illic tantum ad bonum, 
+      <lb ed="#P" n="62"/>hic ad malum habeat inclinationem. Et juxta hunc 
+      <lb ed="#P" n="63"/>sensum definitur liberum arbitrium, facultas 
+      eli<lb ed="#P" n="64" break="no"/>gendi bonum vel malum. Quam definitionem supra 
+      <lb ed="#P" n="65"/>ostendimus convenire libero arbitrio secundum 
+      sta<lb ed="#P" n="66" break="no"/>tum viae: Altero modo, ut libertas ad bonum 
+      intel<lb ed="#P" n="67" break="no"/>ligatur, qua quis ita erga bonum affectus est, ut ad 
+      <lb ed="#P" n="68"/>illud cligendum libenter ac prompte moveatur; 
+      <lb ed="#P" n="69"/>qualis ad bonum libertas erat in homine integro, 
+      <lb ed="#P" n="70"/>qualis etiam, licet minus perfecte, in homine post 
+      <lb ed="#P" n="71"/>lapsum reparato. Ad malum vero libertas, qua quis 
+      <!--0484.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ad malum eligendum simili modo affectus est ac 
+      dis<lb ed="#P" n="73" break="no"/>positus, cujusmodi est in homine lapso nondumque 
+      <lb ed="#P" n="74"/>redempto. 
+    </p>
+            <p xml:id="bt67yj-p097554-d1e208">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Hoc posteriori modo acceptum nomen libertatis 
+      <lb ed="#P" n="76"/>in utramque partem, id est, bonam &amp; malam, 
+      pas<lb ed="#P" n="77" break="no"/>sim occurrit apud Augustinum disputantem contra 
+      <lb ed="#P" n="78"/>Pelagianos, ut Enchiridii capite 30. lib. de gratia 
+      <lb ed="#P" n="79"/>&amp; libero arbitrio capite 15. lib. 1. contra duas 
+      epi<lb ed="#P" n="80" break="no"/>stolas Pelagianorum cap. 2. &amp; 3. &amp; aliis locis 
+      supe<lb ed="#P" n="81" break="no"/>riori capite allegatis. Intelligit enim libertatem ad 
+      <lb ed="#P" n="82"/>bonum eam, qua quis a peccato liber, servus est 
+      <lb ed="#P" n="83"/>justitiae, &amp; libertatem ad malum, qua quis a justitia 
+      <lb ed="#P" n="84"/>liber, servus est peccati, juxta scripturae testimonia. 
+      <lb ed="#P" n="85"/>Rom. 6. Joan. 8. 2. Petri 2. Et quidem cum servitutis 
+      <lb ed="#P" n="86"/>vocabulum seorsim positum intelligi soleat in malo, 
+      <lb ed="#P" n="87"/>sicut libertas in bono, fit ut ea quae ad bonum &amp; a 
+      <lb ed="#P" n="88"/>peccato est libertas, hominem simpliciter liberum 
+      <lb ed="#P" n="89"/>constituat, servum autem non nisi secundum quid, 
+      <lb ed="#P" n="90"/>quomodo dicimus quod Deo servire, regnare est; 
+      <lb ed="#P" n="91"/>libertas autem a justitia &amp; ad malum constituat 
+      ser<lb ed="#P" n="92" break="no"/>vum simpliciter, liberum vero secundum quid 
+      tan<lb ed="#P" n="93" break="no"/>tummodo. 
+    </p>
+            <p xml:id="bt67yj-p097554-d1e254">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Jam quod dictum est, libertatem ad bonum &amp; ad 
+      <lb ed="#P" n="95"/>malum esse eandem reipsa cum libertate arbitrii, non 
+      <lb ed="#P" n="96"/>tantum de priori libertatis utriusque significatione, 
+      <lb ed="#P" n="97"/>verum etiam de posteriori recte accipitur, ut 
+      liber<lb ed="#P" n="98" break="no"/>tas arbitrii esse intelligatur libertas ad bonum, 
+      qua<lb ed="#P" n="99" break="no"/>tenus addicta est operibus bonis, ad malum autem, 
+      <lb ed="#P" n="100"/>quatenus addicta peccatis. 
+    </p>
+            <p xml:id="bt67yj-p097554-d1e274">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Quanquam &amp; alii qui non eandem esse volunt, non 
+      <lb ed="#P" n="102"/>tam sensu quam verbis a nobis dissident. Libertatem 
+      <lb ed="#P" n="103"/>enim ad bonum ipsam intelligitur gratiam qua a 
+      pec<lb ed="#P" n="104" break="no"/>cato liberata est voluntas, aut certe proclivitatem 
+      ip<lb ed="#P" n="105" break="no"/>lam ad bonum, libertatem vero ad malum, 
+      pronita<lb ed="#P" n="106" break="no"/>tem peccandi &amp; curvitatem quandam voluntatis ex 
+      <lb ed="#P" n="107"/>peccato contractam, uti Magister loquitur. Sic 
+      au<lb ed="#P" n="108" break="no"/>tem acceptam libertatem non dubium est a libertate 
+      <lb ed="#P" n="109"/>arbitrii diversam esse. 
+    </p>
+            <p xml:id="bt67yj-p097554-d1e298">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Non dissimile est quod quaeritur ultima dist. 
+      hu<lb ed="#P" n="111" break="no"/>jus libri, de potentia peccandi, utrum, eadem sit 
+      <lb ed="#P" n="112"/>cum voluntate ut est ad malum flexibilis. Cujus 
+      pro<lb ed="#P" n="113" break="no"/>inde quaestionis explicatio conferet etiam huic loco 
+      <lb ed="#P" n="114"/>illustrando. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

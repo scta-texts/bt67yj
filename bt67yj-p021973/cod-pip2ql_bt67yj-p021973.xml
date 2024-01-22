@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="57"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p021973"><!-- l2d7c2" -->
+            <head xml:id="bt67yj-p021973-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p021973-Hd1e103" type="question-title">Solvuntur objectiones</head>
+            <p xml:id="bt67yj-p021973-d1e106">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> §. 2. Solvuntur objectiones.
+    </p>
+            <p xml:id="bt67yj-p021973-d1e113">
+               <lb ed="#P" n="49"/>COntra haec primum objici potest generalis 
+      scri<lb ed="#P" n="50" break="no"/>ptura Joannis 1. &amp; 1. Joannis. 4. Deum nemo 
+      <lb ed="#P" n="51"/>vidit unquam. Et 1. Timoth. 6. Qui lucem habitat 
+      <lb ed="#P" n="52"/>inaccessibilem: Quem nullus hominum vidit, sed nec 
+      <lb ed="#P" n="53"/>videre potest. Hoc enim posterius &amp; si de solis 
+      homi<lb ed="#P" n="54" break="no"/>nibus dictum videatur, extendi tamen oportere 
+      <lb ed="#P" n="55"/>etiam ad angelos, apparet ex ratione illis verbis 
+      in<lb ed="#P" n="56" break="no"/>dicata: Quilucem habitat inaccessibilem. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e133">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Secundo objiciuntur scripturae quae videntur 
+      san<lb ed="#P" n="58" break="no"/>ctis angelis tristitiam asscribere, ut Isaiae 33. Angel. 
+      <lb ed="#P" n="59"/>pacis amare flebant, &amp; Matth. 18. Videntes conservi 
+      <lb ed="#P" n="60"/>ejus quae fiebant contristati sunt valde. Quos 
+      conser<lb ed="#P" n="61" break="no"/>vos Theophylactus angelos interpretatur, juxta id 
+      <lb ed="#P" n="62"/>quod sequitur: Et venerunt &amp; narraverunt Domino 
+      <lb ed="#P" n="63"/>suo omnia quae facta fuerant; Angelorum enim est 
+      <lb ed="#P" n="64"/>nunciare. Jam autem tristitia non consistit cum 
+      bea<lb ed="#P" n="65" break="no"/>titudine, ac Dei visione, utpote quam summum 
+      <lb ed="#P" n="66"/>gaudium necessario consequitur. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e160">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Tertio, scriptura testatur angelos non modo 
+      mul<lb ed="#P" n="68" break="no"/>ta ignorare, verum etiam quaedam discere a se 
+      mu<lb ed="#P" n="69" break="no"/>tuo, &amp; alios aliis agenda praecipere, ut Danicl. 12. &amp; 
+      <lb ed="#P" n="70"/>Zachariae 2. quod non esset si Deum viderent, cum 
+      <lb ed="#P" n="71"/>dicat S. Gregorius lib. 4. dialog. capit. 33. Quid 
+      <!--0290.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>est quod nesciant, qui videntem omnia vident? 
+      <lb ed="#P" n="73"/>cumque alioqui omnia agenda &amp; discenda 
+      vide<lb ed="#P" n="74" break="no"/>rent in Verbo, non autem alius ab alio 
+      acci<lb ed="#P" n="75" break="no"/>peret. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e189">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Quarto, Hieronymus super ultimum caput 
+      Za<lb ed="#P" n="77" break="no"/>chariae ita scribit: Joannes ausus est dicere, quod 
+      <lb ed="#P" n="78"/>angeli forsitan nesciebant, In principio erat 
+      Ver<lb ed="#P" n="79" break="no"/>bum, dubitat ergo Hieronymus, utrum Joanne hoc 
+      <lb ed="#P" n="80"/>scribente angeli Deum viderint per essentiam. Nam 
+      <lb ed="#P" n="81"/>si videbant utique, ignorare non poterant 
+      aeterni<lb ed="#P" n="82" break="no"/>tatem &amp; divinitatem Verbi; non enim videri 
+      po<lb ed="#P" n="83" break="no"/>test aut divina natura sine personis, aut una persona 
+      <lb ed="#P" n="84"/>sine alia. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e213">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Quinto, Patres potissimum Graeci passim negant, 
+      <lb ed="#P" n="86"/>Deum sicut est, videri posse a creatura etiam 
+      angeli<lb ed="#P" n="87" break="no"/>ca; dicit enim Cyrillus Hierosolymitanus catechesi 
+      <lb ed="#P" n="88"/>6. vident angeli Deum, at non ita ut est, sed 
+      secun<lb ed="#P" n="89" break="no"/>dum quod est &amp; ipsi capiunt. Ipse enim Jesus dicit 
+      <lb ed="#P" n="90"/>quod Patrem nemo vidit. Item Chrysostomus 
+      homi<lb ed="#P" n="91" break="no"/>lia 23. in Genesim, &amp; homilia 14. in Joannem dicit, 
+      <lb ed="#P" n="92"/>id quod est Deus, id est, essentiam divinam non 
+      <lb ed="#P" n="93"/>modo prophetas non vidisse, sed neque angelos, 
+      <lb ed="#P" n="94"/>neque archangelos: solus autem, inquit, ipsum 
+      vi<lb ed="#P" n="95" break="no"/>det Filius, &amp; Spiritus sanctus: Addit tamen filium 
+      <lb ed="#P" n="96"/>Dei ex quo carnem induit ab angelis visum fuisse. 
+      <lb ed="#P" n="97"/>Utitur autem scripturis iis quas primo loco 
+      posui<lb ed="#P" n="98" break="no"/>mus &amp; aliis quibusdam. His consentiunt 
+      Theodore<lb ed="#P" n="99" break="no"/>tus in dialogo Immutabilis, <name xml:id="bt67yj-p021973-Nd1e249">Theophylactus</name> &amp; 
+      <name xml:id="bt67yj-p021973-Nd1e252">Eu<lb ed="#P" n="100" break="no"/>thymius</name> in illud Joannis 1. Deum nemo vidit unquam. 
+      <lb ed="#P" n="101"/>Quibus authoribus S. Augustino referente in 
+      episto<lb ed="#P" n="102" break="no"/>la 111. ad Fortunatianum, addi possunt Athanasius, 
+      <lb ed="#P" n="103"/>&amp; <name xml:id="bt67yj-p021973-Nd1e263">Gregorius Nazianzenus</name> graeci, nec non 
+      Ambro<lb ed="#P" n="104" break="no"/>sius, &amp; Hieronymus latini, quorum verba citantur 
+      <lb ed="#P" n="105"/>in ipsa epistola. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e271">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Sexto, <name xml:id="bt67yj-p021973-Nd1e277">Bernardus</name> sermone 2. in Pentecoste, dicit 
+      <lb ed="#P" n="107"/>Christum ascendentem in caelum reddidisse angelis 
+      <lb ed="#P" n="108"/>faciem suam, quasi per hoc significans quod ante 
+      fa<lb ed="#P" n="109" break="no"/>ciem ejus non viderint. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e287">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Possent huc etiam adferri, quaecunque videntur 
+      <lb ed="#P" n="111"/>angelis peccatum, aut peccandi periculum 
+      ascribe<lb ed="#P" n="112" break="no"/>re: haec enim cum visione beatifica minime 
+      consi<lb ed="#P" n="113" break="no"/>stunt, sed de hoc argumento statim proprius erit 
+      <lb ed="#P" n="114"/>agendi locus. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e303">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Igitur ad objecta respondeamus. Et ad primum 
+      <lb ed="#P" n="116"/>quidem a nonnullis respondetur, Joannem loqui de 
+      <lb ed="#P" n="117"/>visione corporali. Sed hoc minus recte; quia nec 
+      uni<lb ed="#P" n="118" break="no"/>genitus ad cujus differentiam dictum est, Deum 
+      ne<lb ed="#P" n="119" break="no"/>mo vidit unquam, Deum viderat oculis corporeis. 
+      <lb ed="#P" n="120"/>Alii proinde rectius sensum hunc reddunt, nulla 
+      <lb ed="#P" n="121"/>creatura Deum potest comprehendere, hoc enim 
+      so<lb ed="#P" n="122" break="no"/>lius est Dei. Alii vero istum, nullus hominum in 
+      <lb ed="#P" n="123"/>hac vita degentium, Deum vidit per essentiam, hoc 
+      <lb ed="#P" n="124"/>enim justis post mortem servatur pro praemio. Cui 
+      <lb ed="#P" n="125"/>sensui favent verba Pauli sententiam suam 
+      restrin<lb ed="#P" n="126" break="no"/>gentis ad homines, cum ait: Quem nullus hominum 
+      <lb ed="#P" n="127"/>vidit nec videre potest, scilicet in hoc 
+      seculo<lb ed="#P" n="128" break="no"/>Denique <name xml:id="bt67yj-p021973-Nd1e337">Cajetanus</name> omnes hujusmodi scripturas 
+      <lb ed="#P" n="129"/>vult intelligi de visione Dei ex propriis naturae 
+      viri<lb ed="#P" n="130" break="no"/>bus accepta. Tres sensus probabiles sunt, tametsi 
+      <lb ed="#P" n="131"/>medius videtur maxime germanus. Secundum quem 
+      <lb ed="#P" n="132"/>etiam illud Apostoli, Qui lucem habitat 
+      inaccessibi<lb ed="#P" n="133" break="no"/>lem, sic intellige, nobis mortalibus inaccessam. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e352">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Ad secundum respondetur tristitiam proprie 
+      di<lb ed="#P" n="135" break="no"/>ctam in sanctis angelis nullam esse sed figurate 
+      <lb ed="#P" n="136"/>eam interdum illis tribui, dicuntur enim tristari 
+      <lb ed="#P" n="137"/>quando discunt aliquid factum quod eis displicet, 
+      <lb ed="#P" n="138"/>quodque tristitiam eis adferret, si perturbationum 
+      <lb ed="#P" n="139"/>hujusmodi capaces essent. Quanquam locus ex Isaia 
+      <lb ed="#P" n="140"/>depromptus ad literam non de angelis incorporeis, 
+      <lb ed="#P" n="141"/>sed de hominibus intelligendus est, id est, de 
+      nun<lb ed="#P" n="142" break="no"/>ciis seu legatis regis Ezechiae, quos pacis petendae 
+      <lb ed="#P" n="143"/>causa missos dicit propheta tristes infecto negocio 
+      <lb ed="#P" n="144"/>redituros. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e381">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Ad tertium responsio est, eos qui Deum vident, 
+      <!--0291.xml-->
+      <pb ed="#P" n="58"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non omnia prorsus alia videre, sed ea quae ad ipsos 
+      <lb ed="#P" n="2"/>pertinent, &amp; quae convenit eos scire; quomodo S. 
+      <lb ed="#P" n="3"/>Gregorius ipse se exponit libr. 2. moralium capit. 3. 
+      <lb ed="#P" n="4"/>Cum enim Verbum divinum sit speculum 
+      volunta<lb ed="#P" n="5" break="no"/>rium, vident in eo beati, non quaecumque in eo sunt 
+      <lb ed="#P" n="6"/>per notitiam, sed quaecumque ipsum Verbum sciri 
+      <lb ed="#P" n="7"/>ab eis vult. Neque necesse est, ut si quid illis a Deo 
+      <lb ed="#P" n="8"/>faciendum injungitur, id eis immediate in verbo 
+      re<lb ed="#P" n="9" break="no"/>velari. Potest enim Deus ordinis a se instituti 
+      servan<lb ed="#P" n="10" break="no"/>di causa, alios per alios etiam quibus essentiam suam 
+      <lb ed="#P" n="11"/>ostendit, de agendis ad extra instruere &amp; illuminare. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e418">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Ad quartum respondetur, S. Hieronymum videri 
+      <lb ed="#P" n="13"/>hyperbolice loquutum, &amp; interim ad mitigandam 
+      <lb ed="#P" n="14"/>hyperbolem addidisse, forsitan. Nam si urgeas 
+      Hie<lb ed="#P" n="15" break="no"/>ronymi verba, videbitur significare angelos ne 
+      qui<lb ed="#P" n="16" break="no"/>dem fide accepisse mysterium aeternitatis, ac 
+      divini<lb ed="#P" n="17" break="no"/>tatis Verbi, donec Joannes eructaret illud, In 
+      prin<lb ed="#P" n="18" break="no"/>cipio erat Verbum. Hoc autem sentire multis modis 
+      <lb ed="#P" n="19"/>absurdum est, ac simpliciter in ecclesia inauditum. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e440">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Ad quintum una responsio est ex S. Augustino in 
+      <lb ed="#P" n="21"/>epistola supra citata, scriptores illos loqui de 
+      visio<lb ed="#P" n="22" break="no"/>ne corporali; sic enim eorum quos adducit, 
+      senten<lb ed="#P" n="23" break="no"/>tias interpretatur. Verum haec solutio non videtur 
+      <lb ed="#P" n="24"/>satisfacere, primo, quia praedicti Patres, ut ex eorum 
+      <lb ed="#P" n="25"/>scriptis constat, sentiunt angelos esse incorporeos; a 
+      <lb ed="#P" n="26"/>quibus tamen Deum videri negant. Deinde quia 
+      <lb ed="#P" n="27"/>generalem hanc reddunt causam sui dicti; eo quod 
+      <lb ed="#P" n="28"/>creatura creatorem videre non possit; quae causa ut 
+      <lb ed="#P" n="29"/>locum habeat etiam in creatura intellectuali, ad 
+      vi<lb ed="#P" n="30" break="no"/>sionem intellectualem extendi debet. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e469">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Tertio, quia addunt Deum sibi soli Deo visibilem 
+      <lb ed="#P" n="32"/>esse; atqui Deus non videt se oculis corporeis. 
+      Alte<lb ed="#P" n="33" break="no"/>ra igitur est &amp; melior responsio, quam adfert. S. 
+      Tho<lb ed="#P" n="34" break="no"/>mas 1. parte qu. 12. art. 1. hos authores nomine 
+      vi<lb ed="#P" n="35" break="no"/>sionis intellexisse eam quam Theologi 
+      comprehen<lb ed="#P" n="36" break="no"/>sionem vocant, id est, cognitionem perfectissimam; 
+      <lb ed="#P" n="37"/>qua nimirum res cognita comprehendatur. Quo 
+      <lb ed="#P" n="38"/>sane videndi modo Deum non videt nisi Deus; quia 
+      <lb ed="#P" n="39"/>ipse solus seipsum comprehendit. Hanc solutionem 
+      <lb ed="#P" n="40"/>innuit Cyrillus quando dicit, angelos Deum. 
+      vide<lb ed="#P" n="41" break="no"/>re, non quidem ita ut est, id est, cognitione totius rei 
+      <lb ed="#P" n="42"/>comprehensiva; sed secundum quod est prout ipsi 
+      <lb ed="#P" n="43"/>capiunt, id est, cognitione quidem ipsius essentiae, 
+      <lb ed="#P" n="44"/>sed quatenus ejus cognitionis capax est creatura. 
+      <lb ed="#P" n="45"/>Rursus hanc intelligentiam plenius indicat verbis 
+      <lb ed="#P" n="46"/>subjunctis. Vident, inquit, ita ut capiunt, &amp; 
+      archan<lb ed="#P" n="47" break="no"/>geli ita ut possunt, throni vero &amp; dominationes 
+      plus<lb ed="#P" n="48" break="no"/>quam illi, sed minus tamen quam pro Dei 
+      benigni<lb ed="#P" n="49" break="no"/>tate. Solus autem Spiritus sanctus ita ut opportet 
+      <lb ed="#P" n="50"/>videt, &amp; Dei filius ita ut oportet cognoscit. Et 
+      ite<lb ed="#P" n="51" break="no"/>rum catechesi 7. Dei faciem., inquit, angeli perpetuo 
+      <lb ed="#P" n="52"/>vident in caelis; vident autem unusquisque secundum 
+      <lb ed="#P" n="53"/>ordinis proprii mensuram: splendorem autem purum 
+      <lb ed="#P" n="54"/>paternae visionis proprie tantum filio cum Spiritu 
+      <lb ed="#P" n="55"/>sancto intueri datum est, haec ille. Eandem 
+      so<lb ed="#P" n="56" break="no"/>lutionem accipere licet ex Joan. Chrysostomo in 
+      <lb ed="#P" n="57"/>homilia 14. super Joannem, ubi aperte visionem 
+      <lb ed="#P" n="58"/>Dei quam removet a creatura, comprehensionem 
+      <lb ed="#P" n="59"/>vocat. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e537">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Quod vero ibidem dicit filium Dei ex quo 
+      incar<lb ed="#P" n="61" break="no"/>natus est, coepisse ab angelis videri; intelligit de 
+      fi<lb ed="#P" n="62" break="no"/>lio Dei secundum naturam humanam, secundum 
+      <lb ed="#P" n="63"/>quam ita vident eum angeli ut etiam 
+      comprehen<lb ed="#P" n="64" break="no"/>dant. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e554">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Cur autem Cyrillus, Joann. Chrysostomus, &amp; 
+      <lb ed="#P" n="66"/>alii patres ejusdem saeculi, quos in modo 
+      loquen<lb ed="#P" n="67" break="no"/>di aemulati sunt posteriores, ita fuerint locuti, ut 
+      <lb ed="#P" n="68"/>absolute negarent, ab ulla creatura videri posse; 
+      <lb ed="#P" n="69"/>Haec ratio videtur: quia linguam &amp; stylum 
+      inten<lb ed="#P" n="70" break="no"/>debant contra Anomaeos sui temporis haereticos, 
+      <lb ed="#P" n="71"/>qui docuerunt Dei naturam ab homine 
+      compre<lb ed="#P" n="72" break="no"/>hendi posse, imo jactabant se eam comprehendisse. 
+      <lb ed="#P" n="73"/>Quoniam enim quod oculo corporis videmus, visu 
+      <lb ed="#P" n="74"/>comprehendere dicimur; ideo Patres comprehen¬ 
+      <!--0291.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>sionem divinae naturae nobis possibilem negare 
+      vo<lb ed="#P" n="76" break="no"/>lentes, dixerunt Deum a creatura videri non posse. 
+      <lb ed="#P" n="77"/>Nec aliud eos voluisse probant ipsius Joann. 
+      Chry<lb ed="#P" n="78" break="no"/>sostomi homil. 5. de incomprehensibili Dei natura 
+      <lb ed="#P" n="79"/>contra Anomaeos habitae. Quorum erroris etiam 
+      <lb ed="#P" n="80"/>Theophylactus meminit in Ephes. 3. Contra 
+      eun<lb ed="#P" n="81" break="no"/>dem errorem spectant quae scribit S. Augustinus 
+      <lb ed="#P" n="82"/>epistola 50. ad Elpidium, &amp; epistola 112. cap. 9. &amp; 
+      <lb ed="#P" n="83"/>libro quarto de Genesi ad litteram, capit. 6. 
+      osten<lb ed="#P" n="84" break="no"/>dens incomprehensibilem etiam angelis esse Dei 
+      <lb ed="#P" n="85"/>naturam. 
+    </p>
+            <p xml:id="bt67yj-p021973-d1e608">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Ad postremum respondetur, S. Bernardum 
+      im<lb ed="#P" n="87" break="no"/>proprie ac more humano loqui de angelis &amp; 
+      Deo<lb ed="#P" n="88" break="no"/>Nam filius Dei de caelo descendens in terram, quasi 
+      <lb ed="#P" n="89"/>reliquisse angelos, suamque iis faciem substraxisse 
+      <lb ed="#P" n="90"/>visus est, quam deinde quasi reddere iis videtur 
+      ite<lb ed="#P" n="91" break="no"/>rum ascendens in caelum; eo quod in rebus humanis, 
+      <lb ed="#P" n="92"/>&amp; corporalibus ita fieri soleat. Quo schemate 
+      sermo<lb ed="#P" n="93" break="no"/>nis interdum etiam dicunt patres, filium Dei de caelo 
+      <lb ed="#P" n="94"/>descendentem reliquisse patrem suum caelestem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

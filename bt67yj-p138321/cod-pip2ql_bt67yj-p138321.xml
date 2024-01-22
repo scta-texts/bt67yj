@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="357"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p138321"><!-- l2d30c11" -->
+            <head xml:id="bt67yj-p138321-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p138321-Hd1e103" type="question-title">Quibus nominibus originale peccatum vocetur</head>
+            <p xml:id="bt67yj-p138321-d1e106">
+               <lb ed="#P" n="47"/>§. 11. Quibus nominibus originale peccatum vocetur.
+    </p>
+            <p xml:id="bt67yj-p138321-d1e111">
+               <lb ed="#P" n="48"/>COlligit S. Bonaventura octo nomina quibus 
+      <lb ed="#P" n="49"/>originale vitium appellatum est, hoc ordine, 
+      <lb ed="#P" n="50"/>peccatum originale, lex carnis, concupiscibilitas, 
+      <lb ed="#P" n="51"/>fomes peccati, concupiscentia, lex membrorum, 
+      <lb ed="#P" n="52"/>languor naturae, tyrannus. Horum nominum 
+      ratio<lb ed="#P" n="53" break="no"/>nes partim ex his quae supra dicta sunt intelligi 
+      pos<lb ed="#P" n="54" break="no"/>sunt; partim ex Bonaventura, qui ea sigillatim 
+      ex<lb ed="#P" n="55" break="no"/>ponit. 
+    </p>
+            <p xml:id="bt67yj-p138321-d1e131">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Inveniuntur autem &amp; alia nomina, quibus tum 
+      <lb ed="#P" n="57"/>Scriptura sacra, tum Patres hoc ingenitum nobis 
+      <lb ed="#P" n="58"/>vitium significarunt. Nam Scriptura saepe carnem 
+      <lb ed="#P" n="59"/>appellat ut Gal. 5. Caro concupiscit, &amp;c. Quo pertinet 
+      <lb ed="#P" n="60"/>illud Joan. 3. Quod natum est ex carne, caro est, &amp;c. 
+      <lb ed="#P" n="61"/>Unde &amp; Augustinus lib. de natura &amp; gratia cap. 67. 
+      <lb ed="#P" n="62"/>dicit, nos omnes nasci carni subditos. Alibi hoc 
+      <lb ed="#P" n="63"/>peccatum iniquitas vocatur, ut Psal. 50. Ecce enim in 
+      <lb ed="#P" n="64"/>iniquitatibus conceptus sum. Alibi immunditia, ut 
+      <lb ed="#P" n="65"/>Job. 14. &amp; 25. Nonnunquam &amp; mors animae ut 2. 
+      <lb ed="#P" n="66"/>Cor. 5. Ergo omnes mortui sunt, &amp; Can. 2. Concilii 
+      <lb ed="#P" n="67"/>Araus. ubi expresse peccatum hoc mors animae 
+      vo<lb ed="#P" n="68" break="no"/>catur. Interdum quoque impietas vocatur. a 
+      Patri<lb ed="#P" n="69" break="no"/>bus, ut a Fulgent. lib. de fide ad Pet. c. 26. ubi fide 
+      <lb ed="#P" n="70"/>tenendum asserit, omnem hominem nasci 
+      impieta<lb ed="#P" n="71" break="no"/>ti subditum. Quod &amp; Augustinus indicat libro 3. de 
+      <!--0590.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>peccatorum meritis cap. 9. &amp; lib. 6. contra 
+      Julia<lb ed="#P" n="73" break="no"/>num cap. 5. &amp; lib. 1. contra adversarium legis cap. 
+      <lb ed="#P" n="74"/>22. dicens hominem nasci cum impia 
+      voluntate<lb ed="#P" n="75" break="no"/>Prosper autem praeter quam quod contra Collatorem 
+      <lb ed="#P" n="76"/>scribens, infidelitatem aliaque vitia ponit in uno 
+      o<lb ed="#P" n="77" break="no"/>riginali peccato, etiam in carmine de ingratis, modo 
+      <lb ed="#P" n="78"/>crimen, modo scelus illud appellat. Quae etsi non 
+      <lb ed="#P" n="79"/>omnia proprio sermone dicta sunt, ad hoc tamen 
+      <lb ed="#P" n="80"/>confert istorum commemoratio; ut intelligamus, 
+      <lb ed="#P" n="81"/>quantum sit malum, quod ita a Patribus 
+      exaggera<lb ed="#P" n="82" break="no"/>tum est, &amp; ex quo velut ex radice tantorum malorum 
+      <lb ed="#P" n="83"/>germina exoriuntur atque succrescunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

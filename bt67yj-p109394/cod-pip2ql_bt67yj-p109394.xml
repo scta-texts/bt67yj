@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="281"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p109394"><!-- l2d26c7" -->
+            <head xml:id="bt67yj-p109394-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p109394-Hd1e103" type="question-title">Explicatur divisio gratiae in operantem 
+      et cooperantem</head>
+            <p xml:id="bt67yj-p109394-d1e106">
+               <lb ed="#P" n="98"/>§. 7. Explicatur divisio gratiae in operantem 
+      <lb ed="#P" n="99"/>&amp; cooperantem.
+    </p>
+            <p xml:id="bt67yj-p109394-d1e113">
+               <lb ed="#P" n="100"/>PRiusquam ad ea explicanda veniamus, quae de 
+      <lb ed="#P" n="101"/>gratia Christi contra Pelagianos olim decreta 
+      <lb ed="#P" n="102"/>sunt, &amp; ad caetera, quae Catholici doctores de eadem 
+      <lb ed="#P" n="103"/>Christi gratia tradunt, quaedam adhuc ejus 
+      divisio<lb ed="#P" n="104" break="no"/>nes praeter duas illas initio adductas &amp; expositas 
+      <lb ed="#P" n="105"/>(quarum scilicet una gratiam partitur in creatam &amp; 
+      <lb ed="#P" n="106"/>increatam, altera in habitualem &amp; actualem) 
+      prae<lb ed="#P" n="107" break="no"/>mittendae &amp; declarandae sunt; utpote ad hujus 
+      to<lb ed="#P" n="108" break="no"/>tius doctrinae intelligentiam non parum 
+      conducen<lb ed="#P" n="109" break="no"/>tes. Imprimis autem celebris est gratiae divisio in 
+      <lb ed="#P" n="110"/>operantem &amp; cooperantem; sive, ut Prosper 
+      loqui<lb ed="#P" n="111" break="no"/>tur in epistola ad Augustinum, in praeoperantem &amp; 
+      <lb ed="#P" n="112"/>cooperantem. Quo quidem modo recte gratia 
+      divi<lb ed="#P" n="113" break="no"/>ditur, sive increatam intelligas gratiam, sive 
+      crea<lb ed="#P" n="114" break="no"/>tam. Deus enim qui est gratia increata, &amp; operando 
+      <lb ed="#P" n="115"/>facit, ut velimus; &amp; cooperando facit, ut quod jam 
+      <lb ed="#P" n="116"/>volumus, exequamur. 
+    </p>
+            <p xml:id="bt67yj-p109394-d1e152">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Porro creata gratia, aut habitualis intelligitur, 
+      <lb ed="#P" n="118"/>aut actualis; &amp; habitualis quidem gratia dici 
+      po<lb ed="#P" n="119" break="no"/>test modo operans, modo cooperans, eadem ratione 
+      <lb ed="#P" n="120"/>qua gratiam increatam his vocibus distingui 
+      dixi<lb ed="#P" n="121" break="no"/>mus. Operatur enim &amp; cooperatur Deus libero 
+      <lb ed="#P" n="122"/>nostro arbitrio, per habituale &amp; infusum gratiae 
+      <lb ed="#P" n="123"/>donum, in iis dumtaxat quibus donum illud jam 
+      <lb ed="#P" n="124"/>collatum est, id est, in justificatis. Actualis autem 
+      <lb ed="#P" n="125"/>gratia, quae est motus vel actio nostra, non perinde 
+      <lb ed="#P" n="126"/>proprie in operantem &amp; cooperantem dividi 
+      po<lb ed="#P" n="127" break="no"/>test; eo quod haec diuisio non actionibus nostris, 
+      <lb ed="#P" n="128"/>sed actionum principiis conveniat. Quare rectius 
+      <lb ed="#P" n="129"/>illa dividetur in priorem &amp; posteriorem, ut prior 
+      <lb ed="#P" n="130"/>sit qua per operantem Dei gratiam volumus quod 
+      <lb ed="#P" n="131"/>bonum est; posterior, qua per ejusdem 
+      cooperan<lb ed="#P" n="132" break="no"/>tem gratiam bonum quod volebamus, perficimus, 
+      <lb ed="#P" n="133"/>&amp; ut breviter dicam, prior gratia sit, velle; 
+      poste<lb ed="#P" n="134" break="no"/>rior, facere. 
+    </p>
+            <p xml:id="bt67yj-p109394-d1e197">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Jam vero ex dicta declaratione partitionis 
+      gra<lb ed="#P" n="136" break="no"/>tiae in operantem &amp; cooperantem, satis intelligitur, 
+      <lb ed="#P" n="137"/>reipsa eandem esse gratiam operantem &amp; 
+      coope<lb ed="#P" n="138" break="no"/>rantem, ac sola ratione diversam sive de increata, 
+      <lb ed="#P" n="139"/>sive etiam de creata gratia loquamur, 
+      quemadmo<lb ed="#P" n="140" break="no"/>dum &amp; Magister sentit §. I. in hac distinction. &amp; 
+      <lb ed="#P" n="141"/>explicatius docet sanctus Thomas 1. 2. quaest. I11. 
+      ar<lb ed="#P" n="142" break="no"/>tic. 2. ad 4. &amp; art. 3. ad 2. Gratiam vero actualem 
+      <!--0515.xml-->
+      <pb ed="#P" n="282"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>multiplicari certum est, prout actiones ipsae, 
+      qui<lb ed="#P" n="2" break="no"/>bus hoc gratiae nomen tribuitur, 
+      multiplican<lb ed="#P" n="3" break="no"/>tur. 
+    </p>
+            <p xml:id="bt67yj-p109394-d1e232">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Sumpta est autem haec gratiae divisio ex variis 
+      lo<lb ed="#P" n="5" break="no"/>cis Augustini disputantis de gratia contra 
+      Pelagia<lb ed="#P" n="6" break="no"/>nos, sed potissimum ex libro de gratia &amp; libero 
+      ar<lb ed="#P" n="7" break="no"/>bitrio cap. 17. ubieam divisionem Augustinus non 
+      <lb ed="#P" n="8"/>solum tradit, sed etiam probat ex scriptura sacra: 
+      <lb ed="#P" n="9"/>Deus, inquit, cooperando perficit quod operando 
+      in<lb ed="#P" n="10" break="no"/>cipit. Quoniam ipse ut velimus operatur incipiens, 
+      <lb ed="#P" n="11"/>qui volentibus cooperatur perficiens, propter quod ait 
+      <lb ed="#P" n="12"/>Apostolus. Certus sum quoniam qui operatur in 
+      vo<lb ed="#P" n="13" break="no"/>bis opus bonum, perficiet usque in diem Christi 
+      <lb ed="#P" n="14"/>Jesu, Philip. 1. Ut ergo velimus, sine nobis 
+      opera<lb ed="#P" n="15" break="no"/>tur; cum autem volumus, &amp; sic volumus ut 
+      facia<lb ed="#P" n="16" break="no"/>mus, nobiscum cooperatur. Tamen sine illo vel 
+      ope<lb ed="#P" n="17" break="no"/>rante ut velimus, vel cooperante cum volumus, ad 
+      <lb ed="#P" n="18"/>bona pietatis opera nihil valemus. De operante illo 
+      <lb ed="#P" n="19"/>ut velimus, dictum est. Deus est enim qui 
+      ope<lb ed="#P" n="20" break="no"/>ratur in vobis &amp; velle. De cooperante illo cum jam 
+      <lb ed="#P" n="21"/>volumus &amp; volendo facimus: Scimus, inquit, 
+      quo<lb ed="#P" n="22" break="no"/>niam diligentibus Deum omnia cooperantur ad 
+      bo<lb ed="#P" n="23" break="no"/>num. Haec ibi. Ex quibus etiam liquet, dictam 
+      di<lb ed="#P" n="24" break="no"/>visionem secundum Augustinum maxime 
+      compete<lb ed="#P" n="25" break="no"/>re in gratiam increatam. Neque arbitror locum 
+      a<lb ed="#P" n="26" break="no"/>pud Augustinum exstare, ubi eam assignet gratiae 
+      <lb ed="#P" n="27"/>creatae. 
+    </p>
+            <p xml:id="bt67yj-p109394-d1e289">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Caeterum qualis haec sit Dei cooperatio, qua 
+      li<lb ed="#P" n="29" break="no"/>bero nostro arbitrio cooperari dicitur, infra suo 
+      lo<lb ed="#P" n="30" break="no"/>co plenius explicandum est. Illud hic notandum, 
+      <lb ed="#P" n="31"/>gratiam quam ex Augustino diximus cooperantem, 
+      <lb ed="#P" n="32"/>interdum etiam simplici vocabulo operantem 
+      voca<lb ed="#P" n="33" break="no"/>ri, ut ab Apostolo Philip. 2. Deus est qui operatur in 
+      <lb ed="#P" n="34"/>nobis velle &amp; perficere. Et alibi. Qui operatur 
+      om<lb ed="#P" n="35" break="no"/>uia in omnibus. Et apud Isa. 26. Omnia opera nostra 
+      <lb ed="#P" n="36"/>operatus es nobis, Domine. Et in oratione. Ecclesiae, 
+      <lb ed="#P" n="37"/>Da ut quae te inspirante facienda cognovimus, te 
+      ope<lb ed="#P" n="38" break="no"/>rante impleamus. Sed &amp; vicissim gratia quae ad 
+      sen<lb ed="#P" n="39" break="no"/>sum hujus divisionis operans dicitur, cooperans 
+      vo<lb ed="#P" n="40" break="no"/>cari potest; videlicet propter cooperationem liberi 
+      <lb ed="#P" n="41"/>arbitrii; cujus actus est ipsum velle, cujus respectu 
+      <lb ed="#P" n="42"/>vocatur gratia operans. Si enim gratiae cooperatur 
+      <lb ed="#P" n="43"/>liberum arbitrium producendo in se volendi actum, 
+      <lb ed="#P" n="44"/>consequens est etiam libero arbitrio in eodem actu 
+      <lb ed="#P" n="45"/>cooperari gratiam; quia cooperans ad cooperantem 
+      <lb ed="#P" n="46"/>relative dicitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

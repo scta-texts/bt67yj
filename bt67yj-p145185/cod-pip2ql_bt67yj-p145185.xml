@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="375"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p145185"><!-- l2d33c11" -->
+            <head xml:id="bt67yj-p145185-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p145185-Hd1e103" type="question-title">An et quomodo peccata parentum puniantur 
+      in filis</head>
+            <p xml:id="bt67yj-p145185-d1e106">
+      <!--0608.xml-->
+               <pb ed="#P" n="375"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 11. An &amp; quomodo peccata parentum puniantur 
+      <lb ed="#P" n="2"/>in filis?
+    </p>
+            <p xml:id="bt67yj-p145185-d1e119">
+               <lb ed="#P" n="3"/>QUaestioni qua quaeritur, an peccata parentum 
+      <lb ed="#P" n="4"/>puniantur in filiis, &amp; qua id justitia fiat, 
+      occa<lb ed="#P" n="5" break="no"/>sionem dederunt duae scripturae in speciem 
+      pugnan<lb ed="#P" n="6" break="no"/>tes. Altera Exod. 20. Eco sum Deus zelotes, visitans 
+      <lb ed="#P" n="7"/>iniquitatem patrum in filios in tertiam &amp; quartam 
+      <lb ed="#P" n="8"/>generationem. Cui consonat illa Jer. querela 
+      Thren<lb ed="#P" n="9" break="no"/>ult. Patres nostri peccaverunt &amp; non sunt, &amp; nos 
+      ini<lb ed="#P" n="10" break="no"/>quitatem eorum portavimus. Altera Ezech. 18. ubi 
+      <lb ed="#P" n="11"/>reprehendit Dominus similem populi Judaici 
+      que<lb ed="#P" n="12" break="no"/>rimoniam dicentium: Patres nostri cemederunt 
+      <lb ed="#P" n="13"/>uvam acerbam, &amp; dentes filiorum obstupescunt. 
+      Eam<lb ed="#P" n="14" break="no"/>que corrigit hac sententia; Anima quae peccaverit, 
+      <lb ed="#P" n="15"/>ipsa morietur. Cui similis est locus Jerem. 31. 
+    </p>
+            <p xml:id="bt67yj-p145185-d1e150">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Hanc apparentem repugnantiam ita tollere 
+      cona<lb ed="#P" n="17" break="no"/>tur Augustinus libro 6. contra Julianum cap. 12. &amp; 
+      <lb ed="#P" n="18"/>13. ut verba Domini in Exodo referat ad homines 
+      <lb ed="#P" n="19"/>ex Adam genitos &amp; nondum renatos: qui propter 
+      <lb ed="#P" n="20"/>peccatum ex Adam contractum obnoxii sunt 
+      aeter<lb ed="#P" n="21" break="no"/>nae damnationi. Verba autem Domini apud Ezcch. 
+      <lb ed="#P" n="22"/>accipiat de renatis ac novi testamenti filiis, quibus 
+      <lb ed="#P" n="23"/>cum remissum sit originale peccatum, nulla jam ex 
+      <lb ed="#P" n="24"/>eo debetur futuri saeculi poena. 
+    </p>
+            <p xml:id="bt67yj-p145185-d1e175">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Verum haec responsio non videtur satisfacere. 
+      Pri<lb ed="#P" n="26" break="no"/>mum, quia locus Exodi tantum extendit vindictam 
+      <lb ed="#P" n="27"/>in tertiam &amp; quartam generationem. Deinde, quia 
+      <lb ed="#P" n="28"/>eodem loco non sola primi hominis iniquitas 
+      intel<lb ed="#P" n="29" break="no"/>ligitur, sed quorumcunque parentum. Tertio, quia 
+      <lb ed="#P" n="30"/>Jeremias vir justus omnino suam personam in verbis 
+      <lb ed="#P" n="31"/>supradictis comprehendisse videtur. Postremo, quia 
+      <lb ed="#P" n="32"/>Judaei apud Ezech. querebantur de miseriis hujus 
+      <lb ed="#P" n="33"/>vitae, quae sane illa Dei promissione a filiis novi 
+      te<lb ed="#P" n="34" break="no"/>stamenti non sunt ablatae. 
+    </p>
+            <p xml:id="bt67yj-p145185-d1e201">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Hieronymus scribens in eundem Exechielis 
+      lo<lb ed="#P" n="36" break="no"/>cum, sententiam Exodi intelligit de filiis qui patrum 
+      <lb ed="#P" n="37"/>suorum existunt aemulatores, &amp; quodam 
+      haeredita<lb ed="#P" n="38" break="no"/>rio malo a parentibus accepto Deum oderunt. 
+    </p>
+            <p xml:id="bt67yj-p145185-d1e214">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Quem sensum etiam apud Augustinum videre 
+      li<lb ed="#P" n="40" break="no"/>cet in Psal. 108. &amp; apud Greg. lib. 15. Moral. cap. 22. 
+      <lb ed="#P" n="41"/>Et confirmare videtur illa clausula adjecta, his qui 
+      <lb ed="#P" n="42"/>oderunt me, qua idem Patres urgent. 
+    </p>
+            <p xml:id="bt67yj-p145185-d1e227">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Aliis haec responsio vera quidem, sed non plena 
+      <lb ed="#P" n="44"/>videtur. Non enim in Exodo legimus: His qui 
+      ode<lb ed="#P" n="45" break="no"/>runt me; sed, Eorum qui oderunt me, videlicet patrum. 
+      <lb ed="#P" n="46"/>id enim praecesserat, tametsi 70. dativum verterunt. 
+      <lb ed="#P" n="47"/>Nam &amp; in sequenti parte quod dicitur; His qui 
+      dili<lb ed="#P" n="48" break="no"/>gunt me, non ad filios, sed ad patres refertur. Itaque 
+      <lb ed="#P" n="49"/>locum Exodi hoc pacto plenius intelligunt: Ego 
+      <lb ed="#P" n="50"/>Deus visitans iniquitatem patrum odientium me in 
+      <lb ed="#P" n="51"/>tertiam &amp; quartam generationem; quia licet 
+      mise<lb ed="#P" n="52" break="no"/>ricors sim &amp; differam vindictam temporalem, quam 
+      <lb ed="#P" n="53"/>parentes meruerant, expectans eos ad poenitentiam; 
+      <lb ed="#P" n="54"/>attamen si non convertantur, &amp; in peccatis filios ac 
+      <lb ed="#P" n="55"/>nepotes habeant imitatores, occasione iniquitatis 
+      <lb ed="#P" n="56"/>parentum, a qua posteri non recesserunt, gravior in 
+      <lb ed="#P" n="57"/>posteros incumbet vindicta, quam si parentum 
+      pec<lb ed="#P" n="58" break="no"/>cata non praecessissent. Atque hoc est quod queritur 
+      <lb ed="#P" n="59"/>in lamentationibus suis Jeremias: Patres nostri 
+      pec<lb ed="#P" n="60" break="no"/>caverunt, &amp; non sunt, &amp;c. non quidem negans sui 
+      <lb ed="#P" n="61"/>temporis populum peccasse, in cujus peccata saepe 
+      <lb ed="#P" n="62"/>alias graviter invehitur; sed significans occasione 
+      <lb ed="#P" n="63"/>idololatriae aliorumque scelerum a majoribus 
+      com<lb ed="#P" n="64" break="no"/>missorum quae temporaliter nondum punita erant, 
+      <lb ed="#P" n="65"/>graviorem posterorum esse punitionem, quam 
+      fu<lb ed="#P" n="66" break="no"/>tura erat si majores non ita peccassent. Porro hujus 
+      <lb ed="#P" n="67"/>rei exempla proferri possunt de posteris Jeroboam, 
+      <lb ed="#P" n="68"/>Salomonis, Manasse, &amp; aliis. At vero illi quorum 
+      <lb ed="#P" n="69"/>querelam Ezechiel introducit, se reputabant 
+      inno<lb ed="#P" n="70" break="no"/>xios, tantumque propter peccata patrum suorum 
+      <lb ed="#P" n="71"/>tam graviter affligi se existimabant, Deo non sine 
+      <!--0608.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>blasphemia injustitiam asscribentes. Filii autem 
+      no<lb ed="#P" n="73" break="no"/>vi testamenti (quorum tempora ibidem praesignat 
+      <lb ed="#P" n="74"/>Ezechiel, dicens, non ultra fore parabolam illam 
+      <lb ed="#P" n="75"/>in Israel) ita se affligi intelligunt propter peccata 
+      <lb ed="#P" n="76"/>majorem, ut tamen &amp; ipsi suam agnoscant 
+      ini<lb ed="#P" n="77" break="no"/>quitatem dicentes cum Tobia: Ne reminiscaris 
+      de<lb ed="#P" n="78" break="no"/>licta mea vel parentum meorum. Et cum Psalm. 
+      <lb ed="#P" n="79"/>105. Peccavimus cum patribus nostris. Indicant hanc 
+      <lb ed="#P" n="80"/>expositionem Leo serm. 7. de Epiphan. Confirmant 
+      <lb ed="#P" n="81"/>autem illa Moysi verba Exod. 34. Nullusque apud 
+      <lb ed="#P" n="82"/>te per se innocens est, post quae proxime subjungitur 
+      <lb ed="#P" n="83"/>sententia similis cum ea quam modo tractavimus ex 
+      <lb ed="#P" n="84"/>capite 20.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

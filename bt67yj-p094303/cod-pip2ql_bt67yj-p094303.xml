@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 13</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 13</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="243"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p094303"><!-- l2d24c13" -->
+            <head xml:id="bt67yj-p094303-Hd1e101">Capitulum 13</head>
+            <head xml:id="bt67yj-p094303-Hd1e103" type="question-title">Libertatem arbitrii per operationem gratiae 
+        non impediri</head>
+            <p xml:id="bt67yj-p094303-d1e106">
+               <lb ed="#P" n="4"/>§. 13. Libertatem arbitrii per operationem gratiae 
+      <lb ed="#P" n="5"/>non impediri. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e113">
+               <lb ed="#P" n="6"/>POstquam satis demonstratum est esse in 
+      homi<lb ed="#P" n="7" break="no"/>neliberum arbitrium, idemque etiam in bonis 
+      <lb ed="#P" n="8"/>operibus active se habere; veniendum nunc ad 
+      con<lb ed="#P" n="9" break="no"/>futationem argumentorum, quibus totam eam 
+      do<lb ed="#P" n="10" break="no"/>ctrinam opugnant adversarii, sive ea spectent ad 
+      <lb ed="#P" n="11"/>tollendum liberum hominis arbitrium simpliciter, 
+      <lb ed="#P" n="12"/>sive tantum in operibus bonis. Nam, ut ante 
+      com<lb ed="#P" n="13" break="no"/>memoravimus, fatentur quidem adversariorum 
+      <lb ed="#P" n="14"/>nonnulli in rebus politicis &amp; adiaphoris hominem 
+      <lb ed="#P" n="15"/>esse liberae voluntatis, ut agere possit &amp; non agere: 
+      <lb ed="#P" n="16"/>sed in operibus ad pietatem &amp; salutem aeternam 
+      per<lb ed="#P" n="17" break="no"/>tinentibus, contendunt eum vi divinae gratiae ita 
+      <lb ed="#P" n="18"/>impelli, ut in iis ad non agendum libertatem non 
+      <lb ed="#P" n="19"/>habeat; quod nimirum ea opera proficiscantur a 
+      <lb ed="#P" n="20"/>gratia Dei efficaciter in eis operante. Hoc enim 
+      <lb ed="#P" n="21"/>potissimum est eorum argumentum ad 
+      excluden<lb ed="#P" n="22" break="no"/>dam a bonis operibus arbitrii nostri libertatem. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e152">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Cujus etiam argumenti difficultatem agnoscit 
+      Au<lb ed="#P" n="24" break="no"/>gustinus lib. de gratia Christi cap. 47. cum dicit, 
+      <lb ed="#P" n="25"/>eam quaestionem qua de arbitrio voluntatis &amp; 
+      gra<lb ed="#P" n="26" break="no"/>tia Dei disputatur, ita esse ad discernendum 
+      diffici<lb ed="#P" n="27" break="no"/>lem; Ut quando defenditur liberum arbitrium, negari 
+      <lb ed="#P" n="28"/>Dei gratia videatur: quando autem asseritur Dei 
+      <lb ed="#P" n="29"/>gratia, liberum arbitrium putetur auferri. Et lib. 2. 
+      <lb ed="#P" n="30"/>contra literas Petiliani cap. 84. dicens, quod pauci 
+      <lb ed="#P" n="31"/>valent intellectu penetrare quomodo Deus per 
+      gra<lb ed="#P" n="32" break="no"/>tiam homines attrahat, &amp; tamen eos dimittat libero 
+      <lb ed="#P" n="33"/>suo arbitrio. Unde &amp; e contrario Pelagiani gratiam 
+      <lb ed="#P" n="34"/>oppugnabant argumento sumpto ex libero arbitrio: 
+      <lb ed="#P" n="35"/>cum quo negabant auxilium gratiae Dei ad opera 
+      <lb ed="#P" n="36"/>bona necessarium posse consistere; &amp; hoc 
+      argumen<lb ed="#P" n="37" break="no"/>tum sursum deorsum jactabant, ut refert 
+      Hierony<lb ed="#P" n="38" break="no"/>mus in epistola ad Ctesiphontem. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e192">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Nobis igitur pro solutione hujus argumenti 
+      pri<lb ed="#P" n="40" break="no"/>mum ostendendum est, quantum praesens locus 
+      po<lb ed="#P" n="41" break="no"/>stulat, quam falsum sit quod haeretici hoc 
+      argu<lb ed="#P" n="42" break="no"/>mento concludunt; nempe libertatem arbitrii in 
+      <lb ed="#P" n="43"/>bonis operibus tolli per gratiam Dei. Deinde 
+      adhi<lb ed="#P" n="44" break="no"/>benda solutio argumenti, qua doceatur, quam male 
+      <lb ed="#P" n="45"/>colligant ejusmodi conclusionem. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e212">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Quanquam autem ex iis quae hactenus pro libero 
+      <lb ed="#P" n="47"/>arbitrio dicta sunt manifeste pateat etiam in bonis 
+      <lb ed="#P" n="48"/>operibus, quae utique sine gratia Dei fieri non 
+      pos<lb ed="#P" n="49" break="no"/>sunt, hominem esse liberum; peculiariter tamen &amp; 
+      <lb ed="#P" n="50"/>propriis quibusdam argumentis idipsum nunc 
+      bre<lb ed="#P" n="51" break="no"/>viter astruemus. Qualia sunt in primis testimonia 
+      <lb ed="#P" n="52"/>scripturae, quaecunque significant opera bona sic ab 
+      <lb ed="#P" n="53"/>homine fieri, ut possit ea non facere. Non enim sine 
+      <lb ed="#P" n="54"/>gratia Dei justitiam faciebat &amp; a peccatis abstinebat 
+      <lb ed="#P" n="55"/>ille de quo dicit Ecclesiasticus cap. 31. Petrus 
+      trans<lb ed="#P" n="56" break="no"/>gredi, &amp; non est transgressus. Quod tamen falsum 
+      es<lb ed="#P" n="57" break="no"/>set, si gratia Dei sic hominem impellit ad bonum, 
+      <lb ed="#P" n="58"/>ut malum eligere non possit. Nec sine gratia Dei 
+      per<lb ed="#P" n="59" break="no"/>severare poterant, quibus dicebat Dominus: Manete 
+      <lb ed="#P" n="60"/>in dilectione mea. Joannis 15. Quod tamen frustra 
+      di<lb ed="#P" n="61" break="no"/>ctum est, si non libere, sed necessario permansuri 
+      <lb ed="#P" n="62"/>erant. Idem judicium de caeteris praeceptis, monitis, 
+      <lb ed="#P" n="63"/>adhortationibus ad quaecunque virtutum opera, 
+      <lb ed="#P" n="64"/>quibus ad salutem adducamur, ut quorum nullum 
+      <lb ed="#P" n="65"/>sit quod sine gratia Dei praestari ab homine queat. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e260">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Clarius autem id docent scripturae quae gratiam 
+      <lb ed="#P" n="67"/>Dei conjungunt cum libera nostra voluntate. Quod 
+      <lb ed="#P" n="68"/>quidem facit apostolus in omnibus suis epistolis, 
+      <lb ed="#P" n="69"/>cum &amp; hortatur &amp; praecipit, &amp; promissis invitat ad 
+      <lb ed="#P" n="70"/>omne genus bonorum operum; ac nihilominus 
+      ubi<lb ed="#P" n="71" break="no"/>que sollicite inculcat necessitatem gratiae divinae ad 
+      <!--0476.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ea opera facienda, ut Philip. 2. Cum meta, inquit, 
+      <lb ed="#P" n="73"/>&amp; tremore salutem vestram operamini. Ac mox 
+      sub<lb ed="#P" n="74" break="no"/>jungit: Deus est enim qui operatur in nobis velle &amp; 
+      <lb ed="#P" n="75"/>perficere. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e291">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Huc pertinent sententiae patrum quibus diserte 
+      <lb ed="#P" n="77"/>testantur, etiam in bonis operibus hominem sic esse 
+      <lb ed="#P" n="78"/>liberum, ut ea possit non facere. Augustinus tract. 
+      <lb ed="#P" n="79"/>81. in Joannem affirmat ita sine gratia vivere 
+      homi<lb ed="#P" n="80" break="no"/>nem non posse; utique vita spirituali, ut &amp; mors, 
+      <lb ed="#P" n="81"/>id est peccatum; in potestate sit liberi arbitrii. Et 
+      <lb ed="#P" n="82"/>lib. de correptione &amp; gratia cap. 11. dicit electis dari 
+      <lb ed="#P" n="83"/>per gratiam ut bene agant, non autem ut male agere 
+      <lb ed="#P" n="84"/>non possint. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e315">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Prosper libro 1. de vocatione gentium capite 8. 
+      <lb ed="#P" n="86"/>admonet, non ideo quia spiritu Dei agitur homo, 
+      <lb ed="#P" n="87"/>putandum esse, quod liberum arbitrium ad bona 
+      <lb ed="#P" n="88"/>opera non habeat. Et lib. 2. cap. 28. dicit Deum sic 
+      <lb ed="#P" n="89"/>donare ipsum velle, ut etiam a perseveraturis illam 
+      <lb ed="#P" n="90"/>mutabilitatem qua possint nolle, non auferat. Ubi 
+      <lb ed="#P" n="91"/>&amp; late docet, posse eos qui gratia Dei in Christum 
+      <lb ed="#P" n="92"/>credunt, non credere &amp; posse eos qui perseverant, 
+      <lb ed="#P" n="93"/>recedere. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e339">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Hieronymus libro 4. super Jerem. 18. vult non 
+      <lb ed="#P" n="95"/>obstante libertate arbitrii nostri omnia bona 
+      no<lb ed="#P" n="96" break="no"/>stra referenda esse ad gratiam Dei. Chrysostomus 
+      <lb ed="#P" n="97"/>homil. 22. in Genes. loquens de bonis operibus: 
+      <lb ed="#P" n="98"/>Quoniam, inquit, in nostra voluntate totum post 
+      <lb ed="#P" n="99"/>gratiam Dei relictum est, ideo &amp; peccantibus 
+      sup<lb ed="#P" n="100" break="no"/>plicia proposita sunt, &amp; bene operantibus 
+      retribu<lb ed="#P" n="101" break="no"/>tiones. Sunt &amp; aliae quam plurimae in hanc rem 
+      <lb ed="#P" n="102"/>sententiae patrum, quibus ita nobis commendant 
+      <lb ed="#P" n="103"/>gratiam Dei, ut nihil detractum velint libero 
+      ar<lb ed="#P" n="104" break="no"/>bitrio. Quarum nonnullas supra pro liberi arbitrii 
+      <lb ed="#P" n="105"/>assertione adduximus. Quin etiam diligenter ab eis 
+      <lb ed="#P" n="106"/>ac praecipue ab Augustino, Anselmo, Bernardo 
+      <lb ed="#P" n="107"/>disputatum est de concordia gratiae &amp; liberi 
+      arbi<lb ed="#P" n="108" break="no"/>trii; &amp; tamo authoritate quam ratione ostensum, 
+      <lb ed="#P" n="109"/>bona opera nostra ab utroque proficisci, tametsi 
+      <lb ed="#P" n="110"/>modum, quo id fiat, fateantur intellectu &amp; 
+      expli<lb ed="#P" n="111" break="no"/>catu esse difficilem. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e384">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Denique regulam hanc generalem statuit 
+      Augu<lb ed="#P" n="113" break="no"/>stinus, ut quoties bona opera vel exiguntur ab 
+      ho<lb ed="#P" n="114" break="no"/>mine, vel ei tribuuntur tacita Dei gratia, non 
+      ta<lb ed="#P" n="115" break="no"/>men illa propter hoc intelligatur exclusa; &amp; contra, 
+      <lb ed="#P" n="116"/>quoties bona nostra opera gratiae tribuuntur, non 
+      in<lb ed="#P" n="117" break="no"/>telligatur exclusum liberum arbitrium, sed potius 
+      u<lb ed="#P" n="118" break="no"/>trumque alteri in omni bono opere intelligatur 
+      ad<lb ed="#P" n="119" break="no"/>junctum. Ita docet epist. 46. ad Valentinum, &amp; 
+      li<lb ed="#P" n="120" break="no"/>bro 1. retractationum cap. 9. &amp; 10. Sciendum enim 
+      <lb ed="#P" n="121"/>quod sicuti hodierni haeretici per gratiam 
+      oppu<lb ed="#P" n="122" break="no"/>gnant liberum arbitrium, ita quondam Pelagiani 
+      <lb ed="#P" n="123"/>per liberum arbitrium oppugnarunt gratiam 
+      Dei<lb ed="#P" n="124" break="no"/>Quare sictit Pelagianis restitit ecclesia, docens per 
+      <lb ed="#P" n="125"/>liberum arbitrium nihil derogari gratiae Christi, ita 
+      <lb ed="#P" n="126"/>&amp; istis merito resistit, docens per gratiam nec 
+      aufer<lb ed="#P" n="127" break="no"/>ri nec laedi liberum arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e423">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Quae doctrina etiam ratione confirmatur 
+      multi<lb ed="#P" n="129" break="no"/>plici. Primo, nam gratia non tollit naturam, sed 
+      in<lb ed="#P" n="130" break="no"/>staurat eam &amp; perfecit; ergo opus bonum per 
+      gra<lb ed="#P" n="131" break="no"/>tiam Dei factum, non minus est opus liberi arbitrii, 
+      <lb ed="#P" n="132"/>quam si idem illud opus sine gratia Christi a libera 
+      <lb ed="#P" n="133"/>voluntate hominis procederet. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e441">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Secundo, declaratur id per alia naturae opera. 
+      <lb ed="#P" n="135"/>Non aliter enim peperit Sara quam Hagar, licet 
+      <lb ed="#P" n="136"/>illa per gratiam, id est, operationem Dei 
+      superna<lb ed="#P" n="137" break="no"/>turalem, haec per naturam ut pareret, accepisset 
+      <lb ed="#P" n="138"/>Neque aliter videt qui ex coeco videns factus est 
+      <lb ed="#P" n="139"/>per miraculum, quam qui visum habet a natura, &amp; 
+      <lb ed="#P" n="140"/>ita in aliis. Quare non minus libere operatur, qui 
+      <lb ed="#P" n="141"/>operatur per gratiam, quod est instar miraculi, 
+      <lb ed="#P" n="142"/>quam quisine gratia quodcunque opus facit per 
+      na<lb ed="#P" n="143" break="no"/>turam. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e467">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Nec refert quod in exemplis jam allatis 
+      tantum<lb ed="#P" n="145" break="no"/>modo facultas operandi, ut pariendi &amp; vivendi, 
+      <!--0477.xml-->
+      <pb ed="#P" n="244"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>data sit super miraculum; actiones vero subsecutae, 
+      <lb ed="#P" n="2"/>ut parere &amp; videre, non fuerint miraculosae, sed 
+      natu<lb ed="#P" n="3" break="no"/>rales, utpote naturaliter a sua facultate procedentes. 
+      <lb ed="#P" n="4"/>Nam etsi miraculos e facultas hujusmodi fuisset 
+      con<lb ed="#P" n="5" break="no"/>servata &amp; actus ex ea miraculose producti, non 
+      ali<lb ed="#P" n="6" break="no"/>ter tamen actus illi fierent, quam si tantum 
+      proce<lb ed="#P" n="7" break="no"/>derent a natura. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e498">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Tertio: Primus angelus &amp; primus homo ita 
+      ceci<lb ed="#P" n="9" break="no"/>derunt ut stare possent; boni vero angeli ita 
+      stete<lb ed="#P" n="10" break="no"/>runt ut cadere possent, ut fatentur adversarii, qui 
+      <lb ed="#P" n="11"/>per peccatum dicunt amissum esse liberum 
+      arbi<lb ed="#P" n="12" break="no"/>trium; ergo &amp; nunc post lapsum homines ita agunt 
+      <lb ed="#P" n="13"/>bene vel male, ut possint non agere, &amp; proinde 
+      re<lb ed="#P" n="14" break="no"/>tinent liberum arbitrium non obstante eo, quod 
+      <lb ed="#P" n="15"/>nihil agant bene sine gratia Dei; quando quidem nec 
+      <lb ed="#P" n="16"/>angelus nec primus homo perseverare, aut omnino 
+      <lb ed="#P" n="17"/>bene agere quicquam potuit sine gratia Del. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e524">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Quarto: Bonum opus non procedit partim a 
+      gra<lb ed="#P" n="19" break="no"/>tia, partim a libero arbitrio, sed simul fit ab 
+      u<lb ed="#P" n="20" break="no"/>troque, adeóque totum a singulis opere 
+      indivi<lb ed="#P" n="21" break="no"/>duo, ut loquitur Bernardus in libro de gratia &amp; 
+      <lb ed="#P" n="22"/>libero arbitrio. Idemque docet sanctus Thomas 1. 
+      <lb ed="#P" n="23"/>p. quaest. 23. artic. 5. rejiciens eorum sententiam qui 
+      <lb ed="#P" n="24"/>distinguunt inter id quod est ex gratia, &amp; id quod ex 
+      <lb ed="#P" n="25"/>libero arbitrio. Similiter &amp; Bonaventura in dist. 
+      <lb ed="#P" n="26"/>37. hujus libri quaest. 1. responsione ad penultimum 
+      <lb ed="#P" n="27"/>argumentum. Quae doctrina plenius infra a nobis 
+      <lb ed="#P" n="28"/>probabitur. Manet igitur salva in bono opere 
+      per<lb ed="#P" n="29" break="no"/>ficiendo tota liberi arbitrii ratio, perinde ut ipsa 
+      <lb ed="#P" n="30"/>gratia. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e558">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Quinto: Cooperatio primae causae in operibus 
+      <lb ed="#P" n="32"/>civilibus &amp; externis non tollit arbitrii libertatem; 
+      <lb ed="#P" n="33"/>ergo nec gratia Christi in moralibus. Probatur 
+      se<lb ed="#P" n="34" break="no"/>quela. Nam gratia Christi revera est hujusmodi 
+      di<lb ed="#P" n="35" break="no"/>vina cooperatio in iis quae pertinent ad pietatem. 
+      <lb ed="#P" n="36"/>Voco enim gratiam ipsum speciale auxilium, quo 
+      <lb ed="#P" n="37"/>nimirum Deus hominem movet ad opus pietatis. 
+      <lb ed="#P" n="38"/>Ac sane si cooperatio Dei repugnaret libertati 
+      actio<lb ed="#P" n="39" break="no"/>nis vel electionis nostrae, sequeretur nullam esse 
+      <lb ed="#P" n="40"/>posse actionem liberam cujuscunque intellectualis 
+      <lb ed="#P" n="41"/>creaturae; quia fieri non potest, ut Dei tanquam 
+      <lb ed="#P" n="42"/>primae ac supremae causae efficax operatio a rebus 
+      <lb ed="#P" n="43"/>excludatur. Sed de hoc argumento plura proximo 
+      <lb ed="#P" n="44"/>capite. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e593">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Jam Vero ex iis omnibus facile potest accipi 
+      so<lb ed="#P" n="46" break="no"/>lutio argumenti haereticorum, quod contra 
+      libe<lb ed="#P" n="47" break="no"/>rum arbitrium faciunt ex efficacia gratiae Dei 
+      ope<lb ed="#P" n="48" break="no"/>rantis in nobis opera bona. Nam Deus per 
+      gra<lb ed="#P" n="49" break="no"/>tiam suam non tantum facit ut faciamus bona 
+      <lb ed="#P" n="50"/>opera, verum etiam facit ut ea faciamus 
+      secun<lb ed="#P" n="51" break="no"/>dum modum humanae naturae convenientem, id est, 
+      <lb ed="#P" n="52"/>ut ea libere faciamus. Et sic per gratiam Dei non 
+      <lb ed="#P" n="53"/>tollitur liberum arbitrium, sed statuitur, &amp;t ait 
+      Au<lb ed="#P" n="54" break="no"/>gustinus libro de spiritu &amp; litera capite 30. &amp; alibi. 
+      <lb ed="#P" n="55"/>Unde sanctus Thomas loco paulo ante citato; Non 
+      <lb ed="#P" n="56"/>est distinctum, inquit, quod est ex libero arbitrio, &amp; 
+      <lb ed="#P" n="57"/>ex praedestinatione, sicut nec est distinctum quod 
+      <lb ed="#P" n="58"/>est ex causa secunda, &amp; causa prima. Divina enim 
+      <lb ed="#P" n="59"/>providentia producit effectus per operationes 
+      cau<lb ed="#P" n="60" break="no"/>sarum secundarum; unde &amp; id quod est per 
+      libe<lb ed="#P" n="61" break="no"/>rum arbitrium, est ex praedestinatione. Et ejusdem 
+      <lb ed="#P" n="62"/>quaest. art. 3. ad tertium argumentum quod tale erat: 
+      <lb ed="#P" n="63"/>Nulli debet imputari quod vitare non potest; sed si 
+      <lb ed="#P" n="64"/>Deus aliquem reprobat, non potest vitare quin 
+      ip<lb ed="#P" n="65" break="no"/>se pereat, &amp;c. Respondet dicendum, quod 
+      repro<lb ed="#P" n="66" break="no"/>batio Dei non subtrahit aliquid de potentia 
+      repro<lb ed="#P" n="67" break="no"/>bati; scilicet in oppositum, qua nimirum is qui 
+      re<lb ed="#P" n="68" break="no"/>probatus est, possit non peccare &amp; non perire. Quae 
+      <lb ed="#P" n="69"/>responsiones plane quadrant huic loco, 
+      quando<lb ed="#P" n="70" break="no"/>quidem praedestinationis effectus est gratia, &amp; 
+      re<lb ed="#P" n="71" break="no"/>probationis effectus gratiae privatio. Ac proinde 
+      <lb ed="#P" n="72"/>eadem est ratio conciliandi liberum arbitrium cum 
+      <lb ed="#P" n="73"/>praedestinatione seu reprobatione, &amp; cum gratia 
+      <lb ed="#P" n="74"/>Dei data vel non data. Propter quod etiam videnda 
+      <!--0477.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>sunt ea quae diximus ad dist. 40. libro 1. eo 
+      doco<lb ed="#P" n="76" break="no"/>ubi ostendimus divina praedestinatione, ac 
+      reproba<lb ed="#P" n="77" break="no"/>tione non tolli libertatem arbitrii. 
+    </p>
+            <p xml:id="bt67yj-p094303-d1e674">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Idem sanctus Thomas 1. 2. quaest. 108. articulo 
+      <lb ed="#P" n="79"/>I1. ad 2. hanc gratiae Dei &amp; libertatis nostrae 
+      concor<lb ed="#P" n="80" break="no"/>diam ad eundem plane modum explicat hujusmodi 
+      <lb ed="#P" n="81"/>verbis: Quoniam, inquit, gratia spiritus sancti est 
+      <lb ed="#P" n="82"/>sicut interior habitus nobis infusus, inclinans nos 
+      <lb ed="#P" n="83"/>ad recte operandum, facit nos libere operari ea quae 
+      <lb ed="#P" n="84"/>conveniunt gratiae, &amp; vitare ea quae gratiae repugnant. 
+      <lb ed="#P" n="85"/>Et addit, legem novam vocari l. gem libertatis; 
+      <lb ed="#P" n="86"/>quia praecepta &amp; prohibitiones legis facit nos 
+      <lb ed="#P" n="87"/>libere implere, in quantum ex interiori instinctu 
+      <lb ed="#P" n="88"/>gratiae ea implemus. Nonnulla quoque de hac re 
+      <lb ed="#P" n="89"/>dicenda erunt infra, ubi de gratia efficace 
+      a<lb ed="#P" n="90" break="no"/>getur. Denique plenius enodabitur haec 
+      difficul<lb ed="#P" n="91" break="no"/>tas capite proximo. Est enim utriusque argumenti 
+      <lb ed="#P" n="92"/>eadem ratio.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

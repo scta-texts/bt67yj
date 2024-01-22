@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="117"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p045048"><!-- l2d13c2" -->
+            <head xml:id="bt67yj-p045048-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p045048-Hd1e103" type="question-title">Cur Deus ab imperfecto ad perfectum processerit</head>
+            <p xml:id="bt67yj-p045048-d1e106">
+               <lb ed="#P" n="65"/>§. 2. Cur Deus ab imperfecto ad perfectum processerit? 
+    </p>
+            <p xml:id="bt67yj-p045048-d1e111">
+               <lb ed="#P" n="66"/>QUare Deus hunc ordinem institutionis rerum 
+      <lb ed="#P" n="67"/>servare voluerit, ut primo rude aliquid &amp; 
+      con<lb ed="#P" n="68" break="no"/>fusum produceret; deinde vero idem distingueret 
+      <lb ed="#P" n="69"/>atque exornaret, cum potuerit haud dubie lucem &amp; 
+      <lb ed="#P" n="70"/>terram, ut &amp; caetera, ita distincta &amp; perfecta ab 
+      <lb ed="#P" n="71"/>initio facere, sicut ea tandem perfecit; sola quidem 
+      <!--0350.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>creatoris voluntas in scripturis nobis declarata, etsi 
+      <lb ed="#P" n="73"/>nulla addita ratione, sufficere merito omnibus 
+      de<lb ed="#P" n="74" break="no"/>bet; sed quia rationabilis est Dei voluntas, nihil 
+      pro<lb ed="#P" n="75" break="no"/>hibet facti ejus aliquam rationem a nobis assignari 
+      <lb ed="#P" n="76"/>pertinentem ad nostram instructionem. 
+    </p>
+            <p xml:id="bt67yj-p045048-d1e142">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Una igitur ratio est ut discamus res omnes a Deo 
+      <lb ed="#P" n="78"/>pendere, Deumque authorem habere tam quoad 
+      <lb ed="#P" n="79"/>inchoationem, quam quoad provectum &amp; 
+      perfe<lb ed="#P" n="80" break="no"/>ctionem, nihilque in rebus esse tam imperfectum, 
+      <lb ed="#P" n="81"/>quod modo res aliqua sit, cujus non sit author Deus. 
+    </p>
+            <p xml:id="bt67yj-p045048-d1e159">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Alia ratio est apud Ambrosium lib. 1. Hexameron 
+      <lb ed="#P" n="83"/>cap. 7. ne si omnia a principio perfecta legerentur, 
+      <lb ed="#P" n="84"/>increata putarentur. Rursum alia ibidem; ut nos ad 
+      <lb ed="#P" n="85"/>imitationem divinioperis, eundem in operando 
+      or<lb ed="#P" n="86" break="no"/>dinem servaremus, ab imperfecto ad perfectum 
+      <lb ed="#P" n="87"/>tendentes. Simile quid indicat August. lib. de 
+      cate<lb ed="#P" n="88" break="no"/>chizandis rudibus cap. 17. 
+    </p>
+            <p xml:id="bt67yj-p045048-d1e179">
+               <lb ed="#P" n="89"/>Idem vero August. lib. 1. contra adversarium 
+      le<lb ed="#P" n="90" break="no"/>gis &amp; prophetarum cap. 8. per hoc quod tenebris 
+      <lb ed="#P" n="91"/>lux successit, quid in homine spiritualiter fiat 
+      mysti<lb ed="#P" n="92" break="no"/>ce significatum docet. Quae significatio fundata est 
+      <lb ed="#P" n="93"/>in Apostolo 2. Cor. 4. ita scribente: Deus qui dixit 
+      <lb ed="#P" n="94"/>de tenebris lucem splendescere, ipse illuxit in cordibus 
+      <lb ed="#P" n="95"/>nostris, pellens scilicet tenebras erroris &amp; peccati in 
+      <lb ed="#P" n="96"/>quibus ante eramus. Unde &amp; illud ejusdem Apost. 
+      <lb ed="#P" n="97"/>Rom. 13. Nox praecessit, dies appropinquavit; 
+      abjicia<lb ed="#P" n="98" break="no"/>mus ergo opera tenebrarum, &amp; induamus arma lucis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

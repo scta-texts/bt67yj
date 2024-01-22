@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="151"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p058533"><!-- l2d17c12" -->
+            <head xml:id="bt67yj-p058533-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-p058533-Hd1e103" type="question-title">Eadem doctrina confirmatur ex patribus</head>
+            <p xml:id="bt67yj-p058533-d1e106">
+               <lb ed="#P" n="132"/>§. 12. Eadem doctrina confirmatur ex patribus.
+    </p>
+            <p xml:id="bt67yj-p058533-d1e111">
+               <lb ed="#P" n="133"/>SEd jam ad Patres veniamus, inter quox praecipuus 
+      <lb ed="#P" n="134"/>assertor hujus sententiae fuit Hieronymus, ut 
+      ma<lb ed="#P" n="135" break="no"/>xime videre est in epist. ejus ad Pammachium 
+      con<lb ed="#P" n="136" break="no"/>tra errores Joannis Hierosolymitani, ubi doctrinam 
+      <lb ed="#P" n="137"/>hanc vocat ecclesiasticam, id est traditam &amp; 
+      recep<lb ed="#P" n="138" break="no"/>tam ab iis qui in Ecclesia celebres fuerunt, sicut 
+      di<lb ed="#P" n="139" break="no"/>versa sententia ab iis recepta legitur, qui a doctrina 
+      <!--0385.xml-->
+      <pb ed="#P" n="152"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>male audierunt, ut postea ostendemus. Idem 
+      Hiero<lb ed="#P" n="2" break="no"/>nymus eandem sententiam astruit in epistola ad 
+      <lb ed="#P" n="3"/>Marcellinum, numero 82. tomo secundo &amp; in 
+      com<lb ed="#P" n="4" break="no"/>mentario super ultimum caput Ecclesiastae, nec non 
+      <lb ed="#P" n="5"/>lib. 3. apologiae contra <name xml:id="bt67yj-p058533-Nd1e145">Ruffinum</name>, &amp; in epist. ad 
+      <lb ed="#P" n="6"/>August. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-p058533-d1e150">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Ante Hieronymum idem sentit Hilarius lib. 10. 
+      <lb ed="#P" n="8"/>de trinitate non longe a principio, in eo quod dixit 
+      <lb ed="#P" n="9"/>animam hominis esse opus Dei, carnem vero esse ex 
+      <lb ed="#P" n="10"/>carne. Haec enim antithesis non consistit, si etiam 
+      <lb ed="#P" n="11"/>anima sit ex anima &amp; non immediate a Deo in 
+      uno<lb ed="#P" n="12" break="no"/>quoque. Nam alioqui &amp; carnem Dei opus esse 
+      con<lb ed="#P" n="13" break="no"/>stat. Eundem vide super psal. 63. 
+    </p>
+            <p xml:id="bt67yj-p058533-d1e171">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Sic quoque sensit Ambrosius non uno loco. Nam 
+      <lb ed="#P" n="15"/>libro de paradiso cap. 11. dicit non animam ab 
+      ani<lb ed="#P" n="16" break="no"/>ma sumptam esse, quando formata est Eva, sed os 
+      <lb ed="#P" n="17"/>ex osse &amp; carnem ex carne, juxta id quod Adam 
+      <lb ed="#P" n="18"/>impulsione spiritus divini dixisse legitur Genes. 2. 
+      <lb ed="#P" n="19"/>Hoc nunc os, &amp;c. Quae proinde scriptura etiam huc 
+      <lb ed="#P" n="20"/>non incommode adduci potest. Item lib. de Noe &amp; 
+      <lb ed="#P" n="21"/>arca cap. 4. &amp; 25. testatur modum quo anima in 
+      pri<lb ed="#P" n="22" break="no"/>mo homine fuit, communem esse omnium 
+      homi<lb ed="#P" n="23" break="no"/>num animabus, neque fieri omnino posse ut homo 
+      <lb ed="#P" n="24"/>animam generet. Videatur ejusdem liber de bono 
+      <lb ed="#P" n="25"/>mortis cap. 9. &amp; epist. 21. 
+    </p>
+            <p xml:id="bt67yj-p058533-d1e202">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Consentit &amp; Cyrillus Alexandrinus libro primo 
+      <lb ed="#P" n="27"/>in Joannem cap. 9. ubi exponens illud Joannis 1. 
+      <lb ed="#P" n="28"/>Illuminat omnem hominem, &amp;c. affirmat omnem 
+      <lb ed="#P" n="29"/>hominem secundum animam fieri ex nihilo. Qui 
+      <lb ed="#P" n="30"/>etiam epistola 1. docet non propterea B. Virginem 
+      <lb ed="#P" n="31"/>negandam esse Dei matrem, quod non pepererit 
+      <lb ed="#P" n="32"/>Deitatem, cum aliae mulieres suorum filiorum 
+      ma<lb ed="#P" n="33" break="no"/>tres vere dicantur, licet eorum animas non 
+      genue<lb ed="#P" n="34" break="no"/>rint. Quae duo loca ostendunt Cyrillum a Gennadio 
+      <lb ed="#P" n="35"/>libro de ecclesiasticis dogmatibus capite 
+      decimo<lb ed="#P" n="36" break="no"/>quarto, falso reponi inter eos qui animarum 
+      trans<lb ed="#P" n="37" break="no"/>fusionem docent, si tamen hunc Alexandrinum 
+      Cy<lb ed="#P" n="38" break="no"/>rillum intellexit. 
+    </p>
+            <p xml:id="bt67yj-p058533-d1e235">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Superioribus adjungendi sunt Athanasius libro 1. 
+      <lb ed="#P" n="40"/>contra gentiles, Gregorius Nyssenus lib. de anima 
+      <lb ed="#P" n="41"/>cap. 6. Chrysostomus homilia 23. inter homilias 
+      <lb ed="#P" n="42"/>collectaneas in Matth. Gennadius loco proxime 
+      cita<lb ed="#P" n="43" break="no"/>to, &amp; author quaestionum veteris &amp; novi testamenti 
+      <lb ed="#P" n="44"/>quaest. 23. 
+    </p>
+            <p xml:id="bt67yj-p058533-d1e253">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Nec diversum ab his sensisse Lactantium 
+      perspi<lb ed="#P" n="46" break="no"/>cuum est ex lib. ejus de opificio Dei cap. 9. ut 
+      meri<lb ed="#P" n="47" break="no"/>to Hieronymus in apolog. 3. Ruffinum mendacii 
+      no<lb ed="#P" n="48" break="no"/>taverit, quod in professione quadam suae fidei ad 
+      <lb ed="#P" n="49"/>Anastasium papam missa, Lactantium iis 
+      annume<lb ed="#P" n="50" break="no"/>raverit qui traducem animarum ponunt. 
+    </p>
+            <p xml:id="bt67yj-p058533-d1e271">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Eandem sententiam in carmine de natura animae 
+      <lb ed="#P" n="52"/>expressit Prudentius sic inquiens: Non animas 
+      ani<lb ed="#P" n="53" break="no"/>mae pariunt, &amp; quae sequuntur. Item eam indicat in 
+      <lb ed="#P" n="54"/>hymno Epiphaniae, &amp; in hymno ante somnum. 
+    </p>
+            <p xml:id="bt67yj-p058533-d1e284">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Et ut ad posteriores descendamus, tradunt hanc 
+      <lb ed="#P" n="56"/>sententiam Damascenus lib. 2. de fide cap 12. 
+      Hai<lb ed="#P" n="57" break="no"/>mo scribens super illud Heb. 12. Patres quidem 
+      car<lb ed="#P" n="58" break="no"/>nis nostrae, &amp;c. Bern. serm. 2. de nativitate Domini, 
+      <lb ed="#P" n="59"/>Petrus Lombardus hac dist. Hugo Victorinus qu. 
+      <lb ed="#P" n="60"/>105. in epist. ad Heb. ubi ex memoratis apostoli 
+      ver<lb ed="#P" n="61" break="no"/>bis asserit manifeste probari animas non esse ex 
+      tra<lb ed="#P" n="62" break="no"/>duce, &amp; libro 1. de sacramentis parte 7. cap. 30. 
+      <lb ed="#P" n="63"/>magistros tota posteriorum schola magno consensu 
+      <lb ed="#P" n="64"/>secuta est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

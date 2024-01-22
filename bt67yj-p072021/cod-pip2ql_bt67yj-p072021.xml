@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="187"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p072021"><!-- l2d21c9" -->
+            <head xml:id="bt67yj-p072021-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p072021-Hd1e103" type="question-title">Christus et primi parentes quatenus tentati</head>
+            <p xml:id="bt67yj-p072021-d1e106">
+               <lb ed="#P" n="15"/>§. 9. Christus &amp; primi parentes quatenus tentati. 
+    </p>
+            <p xml:id="bt67yj-p072021-d1e111">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> COntra praedictos tentationis gradus notandum 
+      <lb ed="#P" n="17"/>nec Christum, nec primos homines in 
+      innocen<lb ed="#P" n="18" break="no"/>tiae statu potuisse tentari interna tentatione, neque 
+      <lb ed="#P" n="19"/>per carnem, ut quae perfecte subjecta esset rationi, 
+      <lb ed="#P" n="20"/>neque per suggestionem diaboli interius phantasiam 
+      <lb ed="#P" n="21"/>commoventis; quippe cum imaginandi facultas nulla 
+      <lb ed="#P" n="22"/>in se rerum phantasmata reciperet, nisi ex 
+      delibe<lb ed="#P" n="23" break="no"/>rato judicio rationis. Neque enim in illo 
+      rectitu<lb ed="#P" n="24" break="no"/>dinis statu, in quo ratio perfecte subjiciebatur Deo, 
+      <lb ed="#P" n="25"/>multoque minus in Christo fieri poterat, ut motus 
+      <lb ed="#P" n="26"/>vel operatio facultatis cujuspiam inferioris nutum 
+      <lb ed="#P" n="27"/>dominantis rationis praeveniret. Phantasiae autem 
+      <lb ed="#P" n="28"/>per phantasmata immutatio non fit sine ipsius 
+      phan<lb ed="#P" n="29" break="no"/>tasiae operatione. Nec obstat quod homini etiam 
+      <lb ed="#P" n="30"/>somnia accidebant in statu integro. Nam ad ea 
+      sem<lb ed="#P" n="31" break="no"/>per erat saltem habitualis consensus rationis, quia 
+      <lb ed="#P" n="32"/>somnia erant semper bona, erantque velut 
+      ecsta<lb ed="#P" n="33" break="no"/>ses divinitus immissae, ac forte numquam sine 
+      prae<lb ed="#P" n="34" break="no"/>senti rationis usu, qui utique somnio non repugnat, 
+      <lb ed="#P" n="35"/>ut ad superiorem dist. diximus. 
+    </p>
+            <p xml:id="bt67yj-p072021-d1e159">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Probat eandem doctrinam S. Thom. 2. 2. q. 165. 
+      <lb ed="#P" n="37"/>art. 2. ad 2. hac ratione, quia diabolus minimum 
+      <lb ed="#P" n="38"/>potestatis habebat in homine ante peccatum. At per 
+      <lb ed="#P" n="39"/>suggestionem interiorem immutatur a diabolo 
+      sal<lb ed="#P" n="40" break="no"/>tem hominis phantasia; per exteriorem vero 
+      im<lb ed="#P" n="41" break="no"/>mutatur sola exterior creatura. Quare non potuit 
+      <lb ed="#P" n="42"/>eum diabolus interiori suggestione, sed solum 
+      ex<lb ed="#P" n="43" break="no"/>teriori, tentare. 
+    </p>
+            <p xml:id="bt67yj-p072021-d1e182">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Denique ita diserte docet Ambr. tit. comment. 
+      <lb ed="#P" n="45"/>in ep. ad Rom. 1. his verbis: Ante praevaricationem 
+      <lb ed="#P" n="46"/>&amp; priusquam homo se manciparet morti, non erat 
+      dae<lb ed="#P" n="47" break="no"/>moni potestas ad interiora hominis accedere, &amp; 
+      cogi<lb ed="#P" n="48" break="no"/>tationes adversas inferre. Postquam autem 
+      circumve<lb ed="#P" n="49" break="no"/>nit eum, potestatem in eum accepit, ut interiorem 
+      ho<lb ed="#P" n="50" break="no"/>minem pulsaret, copulans se menti ejus, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p072021-d1e202">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Patet igitur solam exteriorem tentationem locum 
+      <lb ed="#P" n="52"/>habuisse non tantum in Christo, verum etiam in 
+      ho<lb ed="#P" n="53" break="no"/>minibus integris. In nobis vero, in quibus ex 
+      con<lb ed="#P" n="54" break="no"/>tagione primi peccati caro concupiscit ad versus 
+      spi<lb ed="#P" n="55" break="no"/>ritum, &amp; rationis imperium super facultates 
+      infe<lb ed="#P" n="56" break="no"/>riores, magna ex parte subversum est; quando etiam 
+      <lb ed="#P" n="57"/>merito primae transgressionis diabolus in nos 
+      pote<lb ed="#P" n="58" break="no"/>statem accepit, uterque modus interioris 
+      tenta<lb ed="#P" n="59" break="no"/>tionis supra dictus saepe suboritur, ut modo a 
+      dae<lb ed="#P" n="60" break="no"/>mone, modo a carne tentemur, modo ab utroque 
+      <lb ed="#P" n="61"/>simul. Quarum tentationum sicut ea gravior est, 
+      <lb ed="#P" n="62"/>quae fit a carne, quam quae a daemone; quia ut ex 
+      <lb ed="#P" n="63"/>Greg. ait Magister, hostis interius oppugnans de 
+      <lb ed="#P" n="64"/>nostro contra nos roboratur, ita ea gravissima quae 
+      <lb ed="#P" n="65"/>fit ab utroque. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

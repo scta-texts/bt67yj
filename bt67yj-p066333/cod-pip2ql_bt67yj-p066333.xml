@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="172"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p066333"><!-- l2d19c9" -->
+            <head xml:id="bt67yj-p066333-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p066333-Hd1e103" type="question-title">Utrum immortalitas primi status fuerit 
+      homini naturalis</head>
+            <p xml:id="bt67yj-p066333-d1e106">
+               <lb ed="#P" n="18"/>§. 9. Utrum immortalitas primi status fuerit 
+      <lb ed="#P" n="19"/>homini naturalis. 
+    </p>
+            <p xml:id="bt67yj-p066333-d1e113">
+               <lb ed="#P" n="20"/>CUm naturale &amp; supernaturale non uno modo, 
+      <lb ed="#P" n="21"/>sed varie dicantur, melius ac plenius 
+      distin<lb ed="#P" n="22" break="no"/>guendo respondebitur ad quaestionem; utrum 
+      na<lb ed="#P" n="23" break="no"/>turalis an supernaturalis fuerit primo homini 
+      cor<lb ed="#P" n="24" break="no"/>4 poris immortalitas: Erat enim illi quadam ratione 
+      <lb ed="#P" n="25"/>naturalis, quadam ratione supra naturam; sicut &amp; 
+      <lb ed="#P" n="26"/>mors homini lapso quadam ratione naturalis est, 
+      <lb ed="#P" n="27"/>quadam ratione contra naturam. Si enim 
+      natura<lb ed="#P" n="28" break="no"/>le id intelligatur, quod inest a prima institutione 
+      <lb ed="#P" n="29"/>naturae, quomodo dictum est a Cyril. libro tertio 
+      <lb ed="#P" n="30"/>contra Julian. id esse singulis rebus naturam, quod 
+      <lb ed="#P" n="31"/>Deus instituerit: Hac ratione immortalitas erat 
+      pri<lb ed="#P" n="32" break="no"/>mo homini naturalis; mors vero &amp; integro &amp; lapso 
+      <lb ed="#P" n="33"/>homini contra naturam, ut ex supra dictis est 
+      mani<lb ed="#P" n="34" break="no"/>festum. Ostensum est enim hominem initio 
+      institu<lb ed="#P" n="35" break="no"/>tum esse immortalem, id est, a necessitate moriendi 
+      <lb ed="#P" n="36"/>liberum. 
+    </p>
+            <p xml:id="bt67yj-p066333-d1e152">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Item, si naturale dicatur id in quod naturaliter 
+      fer<lb ed="#P" n="38" break="no"/>tur cujusque appetitus; etiam sic immortalitas 
+      ho<lb ed="#P" n="39" break="no"/>mini naturalis est, &amp; mors contra naturam. 
+      Immor<lb ed="#P" n="40" break="no"/>talitatem enim omnes homines natura appetunt. 
+      <lb ed="#P" n="41"/>mortem vero refugiunt; adeo ut etiam Christus 
+      as<lb ed="#P" n="42" break="no"/>sumptae naturae veritatem per hujusmodi naturale 
+      de<lb ed="#P" n="43" break="no"/>siderium voluerit in se declarare, quando ob 
+      mor<lb ed="#P" n="44" break="no"/>tem imminentem tristatus fuit. 
+    </p>
+            <p xml:id="bt67yj-p066333-d1e175">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Quod si naturale intelligas, quod cuique inest a 
+      <lb ed="#P" n="46"/>nativitate, sive sit naturae bonum atque conveniens 
+      <lb ed="#P" n="47"/>&amp; naturali appetitui consentaneum, sive non; ita 
+      <lb ed="#P" n="48"/>primo homini immortalitas, nobis autem mortalitas 
+      <lb ed="#P" n="49"/>naturalis est. Ille immortalis conditus fuit; nos 
+      au<lb ed="#P" n="50" break="no"/>tem nascimur morti obnoxii. Juxta quem modum 
+      <lb ed="#P" n="51"/>Sap. 12. quorundam naturalis malitia notatur, &amp; 
+      <lb ed="#P" n="52"/>Ephes. 2. omnes dicimur natura filii irae. Sic igitur &amp; 
+      <lb ed="#P" n="53"/>ipsum originale peccatum omnibus Adae posteris 
+      na<lb ed="#P" n="54" break="no"/>turale est, unde &amp; peccatum naturae vocatur a 
+      docto<lb ed="#P" n="55" break="no"/>ribus. Hoc modo Ambr. libro de fide resurrectionis 
+      <lb ed="#P" n="56"/>cap. 9. interpretatur mortem nobis esse naturalem: 
+      <lb ed="#P" n="57"/>Mors, inquit, in natura non fuit, sed conversa in 
+      <lb ed="#P" n="58"/>naturam est. 
+    </p>
+            <p xml:id="bt67yj-p066333-d1e210">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Rursum si naturale dicatur, quod in ipsa natura 
+      <lb ed="#P" n="60"/>causam habet, etiam hoc pacto immortalitas fuit 
+      <lb ed="#P" n="61"/>primo homini quodammodo naturalis. Nam in 
+      opti<lb ed="#P" n="62" break="no"/>ma humani corporis temperie tanquam interna 
+      <lb ed="#P" n="63"/>causa, &amp; in ligno vitae tanquam externa causa (
+      qua<lb ed="#P" n="64" break="no"/>rum utraque ad illum effectum naturalis erat) 
+      im<lb ed="#P" n="65" break="no"/>mortalitas hominis consistebat. Et ad hunc modum 
+      <lb ed="#P" n="66"/>de immortalitate loquitur Cyrillus lib. 3. contra 
+      Ju<lb ed="#P" n="67" break="no"/>lian. &amp; <ref xml:id="bt67yj-p066333-Rd1e233">
+                  <name xml:id="bt67yj-p066333-Nd1e235">Magister</name> §. ult. hujus distinctionis.</ref>
+            </p>
+            <p xml:id="bt67yj-p066333-d1e239">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Caeterum alia ratione erat eadem immortalitas 
+      <lb ed="#P" n="69"/>homini supernaturalis; partim quidem ratione 
+      <lb ed="#P" n="70"/>justitiae, a quo bona illa corporis constitutio, &amp; ex 
+      <lb ed="#P" n="71"/>consequenti immortalitas ipsa dependebat. Erat 
+      <!--0405.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>enim in illo justitia supernaturalis, quatenus per 
+      <lb ed="#P" n="73"/>eam anima Deo subjiciebatur &amp; adhaerebat ut 
+      bo<lb ed="#P" n="74" break="no"/>no ac fini suo supernaturali. Qua subjectione 
+      du<lb ed="#P" n="75" break="no"/>rante inerat animae vis quaedam supernaturalis, per 
+      <lb ed="#P" n="76"/>quam poterat corpus ab omni corruptione 
+      praeser<lb ed="#P" n="77" break="no"/>vare, ait sanctus Thomas prima parte quaestione 97. 
+      <lb ed="#P" n="78"/>articulo primo; partim ratione corporis sive 
+      mate<lb ed="#P" n="79" break="no"/>riae, ex qua homo factus est, quae cum terrena fuerit, 
+      <lb ed="#P" n="80"/>causam in se immortalitatis non habebat, sed potius 
+      <lb ed="#P" n="81"/>mortalitatis. Unde homo post peccatum audivit, 
+      <lb ed="#P" n="82"/>Donec revertaris in terram de qua sumptus es; quia 
+      <lb ed="#P" n="83"/>pulvis es, &amp; in pulverem reverteris. Genes. 3. Quae 
+      <lb ed="#P" n="84"/>utique verba significant eum ratione materiae 
+      ter<lb ed="#P" n="85" break="no"/>renae &amp; elementaris ex qua conditus fuerat, 
+      detra<lb ed="#P" n="86" break="no"/>cto jam dono supernaturali immortalitatis, 
+      subje<lb ed="#P" n="87" break="no"/>ctum esse corruptioni &amp; morti. Quod &amp; significat 
+      <lb ed="#P" n="88"/>illa generalis sententia Ecclesiastici 4. Omnia qua 
+      <lb ed="#P" n="89"/>de terra sunt, in terram convertentur. Quamvis 
+      igi<lb ed="#P" n="90" break="no"/>tur primus homo in ipsa natura causam quandam 
+      <lb ed="#P" n="91"/>habuerit immortalitatis, non tamen plenam ac 
+      to<lb ed="#P" n="92" break="no"/>talem. Quin potius si dona supernaturalia 
+      cogita<lb ed="#P" n="93" break="no"/>tione ab eo separemus, &amp; sola in eo consideremus 
+      <lb ed="#P" n="94"/>naturalia; mortalis erat, ita ut necesse esset eum 
+      <lb ed="#P" n="95"/>mori. Erat enim compositus ex contrariis, quorum 
+      <lb ed="#P" n="96"/>pugnam necessario tandem consequitur ipsius 
+      com<lb ed="#P" n="97" break="no"/>positi corruptio. Juxta hunc igitur modum 
+      immor<lb ed="#P" n="98" break="no"/>talitas erat primo homini supernaturalis. Et hoc 
+      <lb ed="#P" n="99"/>modo loquitur Cyrillus libro primo in Joann. 
+      capi<lb ed="#P" n="100" break="no"/>te decimoquinto, cum dicit hominem supra 
+      natu<lb ed="#P" n="101" break="no"/>ram immortalitatem fuisse consecutum, &amp; libro 4. 
+      <lb ed="#P" n="102"/>contra Julianum, ubi dicit hominem 
+      corruptibi<lb ed="#P" n="103" break="no"/>li natura progenitum, Deo volente fuisse 
+      immor<lb ed="#P" n="104" break="no"/>talem. 
+    </p>
+            <p xml:id="bt67yj-p066333-d1e328">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Quoniam autem supernaturale proprie non 
+      op<lb ed="#P" n="106" break="no"/>ponitur ei quod primo, secundo, vel tertio modo 
+      <lb ed="#P" n="107"/>naturale dicitur, ex modis jam enumeratis, sed ei 
+      <lb ed="#P" n="108"/>tantum quod quarto modo; secundum quem tamen 
+      <lb ed="#P" n="109"/>non potest immortalitas primo homini dici 
+      simpli<lb ed="#P" n="110" break="no"/>citer naturalis, quia ad eam homini praestandam 
+      so<lb ed="#P" n="111" break="no"/>lae causae naturales, uti diximus, non sufficiebant, 
+      <lb ed="#P" n="112"/>idcirco potius absolute supernaturalis dici debet 
+      <lb ed="#P" n="113"/>immortalitas homini integro quam naturalis. Unde 
+      <lb ed="#P" n="114"/>propositio illa qua dicitur, immortalitatem primi 
+      <lb ed="#P" n="115"/>hominis non fuisse gratiae beneficium, sed 
+      natura<lb ed="#P" n="116" break="no"/>lem conditionem, merito a sede apostolica 
+      impro<lb ed="#P" n="117" break="no"/>bata est, maxime si sensus ejus sit, immortalitatem 
+      <lb ed="#P" n="118"/>ita esse debitam naturae humanae, ut Deus non 
+      po<lb ed="#P" n="119" break="no"/>tuerit eam creare mortalem. Hoc enim constat esse 
+      <lb ed="#P" n="120"/>falsissimum. 
+    </p>
+            <p xml:id="bt67yj-p066333-d1e367">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Quod autem supernaturalis fuerit homini 
+      immor<lb ed="#P" n="122" break="no"/>talitas, praeter argumenta jam indicata videtur 
+      <lb ed="#P" n="123"/>etiam hac ratione concludi. Si immortalitas esset 
+      ho<lb ed="#P" n="124" break="no"/>mini naturalis; igitur homines in puris naturalibus 
+      <lb ed="#P" n="125"/>constituti nunquam essent morituri, praesertim si 
+      per<lb ed="#P" n="126" break="no"/>manerent in justitia naturali, quam vel in creatione 
+      <lb ed="#P" n="127"/>accepissent, vel per actus bonos sibi comparassent. 
+      <lb ed="#P" n="128"/>Cum igitur in illo statu nunquam cessasset hominum 
+      <lb ed="#P" n="129"/>propago, ne aliquando frustra esset nhumano 
+      ge<lb ed="#P" n="130" break="no"/>nere naturalis facultas generandi, necessario 
+      futu<lb ed="#P" n="131" break="no"/>rum erat ut homines semper magis ac magis 
+      multi<lb ed="#P" n="132" break="no"/>plicarentur, quibus proinde tandem orbis terrarum 
+      <lb ed="#P" n="133"/>pro habitatione non sufficeret. Quare ut hoc 
+      ab<lb ed="#P" n="134" break="no"/>surdum removeatur ab illo pure naturali statu 
+      homi<lb ed="#P" n="135" break="no"/>num, necesse est in eo locum facere morti, per quam 
+      <lb ed="#P" n="136"/>fiat ut alii aliis succedentibus cedant. Neque enim 
+      <lb ed="#P" n="137"/>vitari potest hoc incommodum per translationem 
+      <lb ed="#P" n="138"/>hominum ad statum alium foeliciorem. Illa enim 
+      <lb ed="#P" n="139"/>translatio &amp; ille status foelicior fuisset praeter &amp; supra 
+      <lb ed="#P" n="140"/>ordinem naturae. Nunc autem de solo ordine 
+      na<lb ed="#P" n="141" break="no"/>turae nobis sermo est. 
+    </p>
+            <p xml:id="bt67yj-p066333-d1e417">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Hanc doctrinam cum magistro hac distinctione 
+      <lb ed="#P" n="143"/>tradunt plerique scolastici doctores, ac nominatim 
+      <lb ed="#P" n="144"/>Sanctus Thomas 1. p. quaestione 76. articulo 5. in 
+      <lb ed="#P" n="145"/>responsione ad 1. argumentum, quod tale erat: 
+      <!--0406.xml-->
+      <pb ed="#P" n="173"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Materia debet esse proportionata formae; sed anima 
+      <lb ed="#P" n="2"/>intellectiva est forma incorruptibilis; non ergo 
+      con<lb ed="#P" n="3" break="no"/>venienter unitur corpori corruptibili, ubi rejicit 
+      <lb ed="#P" n="4"/>hanc solutionem tanquam insufficientem, quod 
+      cor<lb ed="#P" n="5" break="no"/>pus hominis ante peccatum fuerit 
+      incorruptibile<lb ed="#P" n="6" break="no"/>Quia, inquit, corpus hominis ante peccatum 
+      immor<lb ed="#P" n="7" break="no"/>tale fuit non per naturam, sed per gratiae divinae 
+      do<lb ed="#P" n="8" break="no"/>num. Alioquin immortalitas ejus per peccatum 
+      sub<lb ed="#P" n="9" break="no"/>lata non esset, sicut nec immortalitas daemonis. 
+      Quo<lb ed="#P" n="10" break="no"/>circa subjungit aliam argumenti solutionem, quam 
+      <lb ed="#P" n="11"/>ibi videat studiosus. Idem sic docet 1. 2. quaest. 85. 
+      <lb ed="#P" n="12"/>articulus 6. ubi disputat utrum mors aliique 
+      defe<lb ed="#P" n="13" break="no"/>ctus sint homini naturales, &amp; 2. 2. quaest. 164. art. 
+      <lb ed="#P" n="14"/>1. ubi disputat an mors sit poena peccati; &amp; in 
+      com<lb ed="#P" n="15" break="no"/>mentario super Rom. 5. Ac rursum 1. quaest. 97. 
+      <lb ed="#P" n="16"/>art. 1. in corpore &amp; ad 3. ubi virtutem illaro quam 
+      <lb ed="#P" n="17"/>tribuit animae hominis integri ad conservandum 
+      cor<lb ed="#P" n="18" break="no"/>pus ab omni corruptione, dicit ei non naturalem 
+      <lb ed="#P" n="19"/>fuisse, sed supernaturaliter divinitus datam. Quod 
+      <lb ed="#P" n="20"/>&amp; rationabiliter factum esse docet. Quia enim, 
+      <lb ed="#P" n="21"/>inquit, anima rationalis excedit proportionem 
+      corpo<lb ed="#P" n="22" break="no"/>ralis materiae, conveniens fuit ut in principio ei 
+      vir<lb ed="#P" n="23" break="no"/>tus daretur, per quam corpus conservare posset supra 
+      <lb ed="#P" n="24"/>naturam corporalis materiae. Nec vero aliter 
+      sen<lb ed="#P" n="25" break="no"/>sisse videtur Augustinus. Nam libro 6. de Genes. 
+      <lb ed="#P" n="26"/>ad literam capite 25. cum dixisset immortalitatem 
+      <lb ed="#P" n="27"/>homini fuisse de ligno vitae, non de constitutione 
+      <lb ed="#P" n="28"/>naturae, paulo post ita subjungit: Mortalis ergo 
+      <lb ed="#P" n="29"/>erat conditione corporis animalis, immortalis autem 
+      <lb ed="#P" n="30"/>beneficio conditoris. Et libro 14. de Civitate cap. 
+      <lb ed="#P" n="31"/>20. loquens de immortalitate primorum 
+      homi<lb ed="#P" n="32" break="no"/>num: Qui status, inquit, eis de ligno vitae, quod 
+      <lb ed="#P" n="33"/>erat in medio paradisi, mirabili Dei gratia 
+      praesta<lb ed="#P" n="34" break="no"/>batur. Idem libro 1. de peccatorum meritis cap. 3. 
+      <lb ed="#P" n="35"/>comparationes adhibet ad declarandam primorum 
+      <lb ed="#P" n="36"/>hominum immortalitatem, ab iis rebus quae non 
+      na<lb ed="#P" n="37" break="no"/>tura sua, sed divino miraculo, permanserunt ad 
+      <lb ed="#P" n="38"/>tempus, incorruptae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

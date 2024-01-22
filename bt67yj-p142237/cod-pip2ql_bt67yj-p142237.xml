@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="367"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p142237"><!-- l2d32c10" -->
+            <head xml:id="bt67yj-p142237-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p142237-Hd1e103" type="question-title">An animae nascentium tales sint, quales 
+      creantur a Deo</head>
+            <p xml:id="bt67yj-p142237-d1e106">
+               <lb ed="#P" n="94"/>§. 10. An animae nascentium tales sint, quales 
+      <lb ed="#P" n="95"/>creantur a Deo. 
+    </p>
+            <p xml:id="bt67yj-p142237-d1e113">
+               <lb ed="#P" n="96"/>DOcere videtur Magister, animam cujusque 
+      nas<lb ed="#P" n="97" break="no"/>centis a Deo creari bonam, mundam, 
+      inno<lb ed="#P" n="98" break="no"/>centem &amp; immaculatam, ut apparet ex §. E. G. H. 
+      <lb ed="#P" n="99"/>quam suam doctrinam accepit ab Hugone 
+      Victori<lb ed="#P" n="100" break="no"/>no, qui similia tradit tract. 3. sententiarum cap. 11. 
+      <lb ed="#P" n="101"/>&amp; 12. Quae doctrina non tam refutanda quam 
+      decla<lb ed="#P" n="102" break="no"/>randa est &amp; explicanda. Sentiunt enim illi mundam, 
+      <lb ed="#P" n="103"/>bonam, rectam a Deo creari animam, quia 
+      immun<lb ed="#P" n="104" break="no"/>ditia, malitia, injustitia, quam anima in ortu suo 
+      <lb ed="#P" n="105"/>contrahit, non illi a Deo est, sed aliunde; &amp; si 
+      so<lb ed="#P" n="106" break="no"/>lum hoc haberet, quod a Deo accipit, bona &amp; 
+      mun<lb ed="#P" n="107" break="no"/>da &amp; recta esset, quatenus hae voces tantum 
+      signifi<lb ed="#P" n="108" break="no"/>cant privationem suorum oppositorum. Alio 
+      quo<lb ed="#P" n="109" break="no"/>que sensu haec vere dicuntur, quatenus anima 
+      cujus<lb ed="#P" n="110" break="no"/>que in primo parente munda &amp; justa condita est; 
+      <lb ed="#P" n="111"/>quomodo dicimur omnes recti creati in Adam. Sed 
+      <lb ed="#P" n="112"/>hae tropicae sunt locutiones. 
+    </p>
+            <p xml:id="bt67yj-p142237-d1e152">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Caeterum juxta proprietatem sermonis aliter 
+      lo<lb ed="#P" n="114" break="no"/>quendum. Proprie enim non fecit Deus animam 
+      <lb ed="#P" n="115"/>mundam aut rectam, quae nunquam munda aut 
+      re<lb ed="#P" n="116" break="no"/>cta fuit; neque fecit immundam aut pravam, qui 
+      <lb ed="#P" n="117"/>immunditiam aut pravitatem in ea non fecit. 
+      Prom<lb ed="#P" n="118" break="no"/>de dicendum, quod eam in singulis nascentibus 
+      fa<lb ed="#P" n="119" break="no"/>ciat neque mundam neque immundam, item neque 
+      <lb ed="#P" n="120"/>justam neque injustam. Alterum enim anima non 
+      ha<lb ed="#P" n="121" break="no"/>bet dum nascitur, alterum habet quidem, sed non ex 
+      <lb ed="#P" n="122"/>Deo. Erst ergo haec responsio plana ad Magistri 
+      quae<lb ed="#P" n="123" break="no"/>stionem §. H. propositam; videlicet animam 
+      nascita<lb ed="#P" n="124" break="no"/>lem qualis a Deo creatur, quia quicquid a creante 
+      ac<lb ed="#P" n="125" break="no"/>cipit, habet dum nascitur; non tamen eam talem a 
+      <lb ed="#P" n="126"/>Deo creari, qualis nascitur, quia non quicquid in 
+      <lb ed="#P" n="127"/>ortu suo accipit, id habet a creatore. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

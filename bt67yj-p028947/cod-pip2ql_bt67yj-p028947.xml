@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 15</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 15</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="75"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p028947"><!-- l2d7c15" -->
+            <head xml:id="bt67yj-p028947-Hd1e101">Capitulum 15</head>
+            <head xml:id="bt67yj-p028947-Hd1e103" type="question-title">Quatenus a daemonibus futura aut hominum 
+      cogitationes cognosci queant</head>
+            <p xml:id="bt67yj-p028947-d1e106">
+               <lb ed="#P" n="51"/>§. 15. Quatenus a daemonibus futura aut hominum 
+      <lb ed="#P" n="52"/>cogitationes cognosci queant. 
+    </p>
+            <p xml:id="bt67yj-p028947-d1e113">
+               <lb ed="#P" n="53"/>FUturorum contingentium praenotionem, &amp; 
+      oc<lb ed="#P" n="54" break="no"/>cultarum cogitationum inspectionem Deo 
+      pro<lb ed="#P" n="55" break="no"/>priam esse, satis ex superioribus, nec non iis quae ad 
+      <lb ed="#P" n="56"/>distinctionem 38. lib. 1. dicta sunt, est manifestum. 
+      <lb ed="#P" n="57"/>Quocirca vanissime sibi daemones horum scientiam 
+      <lb ed="#P" n="58"/>arrogant, cum nec bonis angelis ea cognoscere nisi 
+      <lb ed="#P" n="59"/>quantum Deus revelat, sit concessum. 
+    </p>
+            <p xml:id="bt67yj-p028947-d1e131">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Esse autem daemones futurorum eventuum 
+      igna<lb ed="#P" n="61" break="no"/>ros, satis arguit oraculorum quorumdam in 
+      gentili<lb ed="#P" n="62" break="no"/>tate per eos editorum obscuritas, atque perplexitas, 
+      <lb ed="#P" n="63"/>ut vel non intelligi, vel in diversos &amp; contrarios 
+      <lb ed="#P" n="64"/>sensus verti possent. Unde Sanctus Augustinus lib. 
+      <lb ed="#P" n="65"/>3. de Civitate Dei, capite 17. scribit daemones 
+      soli<lb ed="#P" n="66" break="no"/>tos ea arte sua oracula contexere, ut 
+      quomodocum<lb ed="#P" n="67" break="no"/>que res caderet, verum dixisse viderentur. Et 
+      La<lb ed="#P" n="68" break="no"/>ctantius lib. 2. divinarum institutionum capite 14 
+      <lb ed="#P" n="69"/>dicit eos ut consiliorum Dei penitus ignaros solere 
+      <lb ed="#P" n="70"/>responsa in ambiguos exitus temperare. Cujus rei 
+      <lb ed="#P" n="71"/>exempla passim suppeditant historiae, etiam ab 
+      <!--0308.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ethnicis conscriptae, ut ab <name xml:id="bt67yj-p028947-Nd1e167">Herodoto</name>, <name xml:id="bt67yj-p028947-Nd1e170">Thucydide</name>
+               <lb ed="#P" n="73"/>
+               <name xml:id="bt67yj-p028947-Nd1e174">Livio</name> &amp; aliis; quod &amp; Cicero diserte libro 
+      secun<lb ed="#P" n="74" break="no"/>do de divinatione ubi fidem omnem prorsus 
+      abro<lb ed="#P" n="75" break="no"/>gat Deorum, id est, daemonum responsis quibus 
+      <lb ed="#P" n="76"/>futura praedicunt, affirmans ea partim falsa esse, 
+      par<lb ed="#P" n="77" break="no"/>tim casu vera, partim flexiloqua &amp; obscura, ut 
+      in<lb ed="#P" n="78" break="no"/>terpres egeat interprete, &amp; sors ipsa referenda sit ad 
+      <lb ed="#P" n="79"/>sortes; partim ambigua &amp; quae ad dialecticam 
+      refe<lb ed="#P" n="80" break="no"/>renda sint, quale illud est: Aio te Aacida Remanos 
+      <lb ed="#P" n="81"/>vincere posse. 
+    </p>
+            <p xml:id="bt67yj-p028947-d1e195">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Rursus hanc ignorantiam manifeste arguit quod 
+      <lb ed="#P" n="83"/>tentationes diabolicae saepissime frustrantur. Si enim 
+      <lb ed="#P" n="84"/>diabolus futurum eventum tentationum suarum 
+      <lb ed="#P" n="85"/>praescivisset, ut est superbissimus, neque Christum 
+      <lb ed="#P" n="86"/>Dominum, neque Sanctum Job, neque alios 
+      mul<lb ed="#P" n="87" break="no"/>tos a quibus turpiter victus &amp; confusus abscessit, 
+      <lb ed="#P" n="88"/>aggredi voluisset. Unde &amp; falsam sibi victoriam 
+      <lb ed="#P" n="89"/>de Sancto Job promittens, ait: Tange cuncta 
+      <lb ed="#P" n="90"/>quae possidet nisi in faciem benedixerit tibi, &amp; iterum: 
+      <lb ed="#P" n="91"/>Tange os ejus &amp; carnem, &amp; tunc videbis quod in 
+      <lb ed="#P" n="92"/>facie tua benedicat tibi. Hoc modo ratiocinatur S. 
+      <lb ed="#P" n="93"/>Ambrosius libro 2. in Luc. 3. agens de tentatione 
+      <lb ed="#P" n="94"/>Christi. 
+    </p>
+            <p xml:id="bt67yj-p028947-d1e228">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Praeterea nesciebat diabolus se ex hominibus 
+      <lb ed="#P" n="96"/>expellendum, &amp; tyrannidem quam in homines 
+      <lb ed="#P" n="97"/>exercebat, amissurum per Christum ejusque 
+      mor<lb ed="#P" n="98" break="no"/>tem. Unde clamant in evangelio daemones, 
+      Ve<lb ed="#P" n="99" break="no"/>nisti ante tempus torquere nos. Et Paulus 1. 
+      Co<lb ed="#P" n="100" break="no"/>rinth. 2. de sapientia Dei in mysterio abscondita. 
+      <lb ed="#P" n="101"/>Quam, inquit, nemo principum hujus saeculi 
+      co<lb ed="#P" n="102" break="no"/>gnovit. Si enim cognovissent, nunquam Dominum 
+      <lb ed="#P" n="103"/>gloriae crucifixissent. Nam ut Leo scribit sermone 
+      <lb ed="#P" n="104"/>9. de Passione Domini, nec ipse diabolus 
+      intel<lb ed="#P" n="105" break="no"/>lexit, quod saeviendo in Christum suum 
+      destrue<lb ed="#P" n="106" break="no"/>ret principatum. Et sermone undecimo, si, 
+      in<lb ed="#P" n="107" break="no"/>quit, crudelis &amp; superbus inimicus consilium 
+      mise<lb ed="#P" n="108" break="no"/>ricordiae Dei nosse potuisset, Judaeorum animos 
+      man<lb ed="#P" n="109" break="no"/>suetudine potius temperare, quam injustis odiis 
+      stu<lb ed="#P" n="110" break="no"/>duisset accendere, ne omnium captivorum amit 
+      <lb ed="#P" n="111"/>teret servitutem, dum nihil sibi debentis 
+      perse<lb ed="#P" n="112" break="no"/>quitur libertatem. Fefellit ergo illum malignitas 
+      <lb ed="#P" n="113"/>sua, &amp; Et Sanctus Augustinus in Psalm. 130. Si 
+      <lb ed="#P" n="114"/>sciret tantum damnum se passurum, non funderet 
+      <lb ed="#P" n="115"/>in terram pretium quo redemptum est genus 
+      huma<lb ed="#P" n="116" break="no"/>num.
+    </p>
+            <p xml:id="bt67yj-p028947-d1e280">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Postremo: Si angeli non fuerunt praescii sui casus 
+      <lb ed="#P" n="118"/>quando adhuc boni &amp; sancti erant, quanto minus 
+      <lb ed="#P" n="119"/>post lapsum peccato obtenebrati futuros eventus 
+      <lb ed="#P" n="120"/>praescire putandi sunt? 
+    </p>
+            <p xml:id="bt67yj-p028947-d1e293">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Quae argumenta non solum ostendunt 
+      daemo<lb ed="#P" n="122" break="no"/>nes non habere certam praecognitionem futurorum 
+      <lb ed="#P" n="123"/>eventuum, sed multorum ne probabilem quidem, 
+      <lb ed="#P" n="124"/>propterea quod Dei consilia, &amp; cordium 
+      humano<lb ed="#P" n="125" break="no"/>rum cogitationes etiam praesentes, ex quibus 
+      futu<lb ed="#P" n="126" break="no"/>rorum eventus saepe dependent, plerumque prorsus 
+      <lb ed="#P" n="127"/>eos lateant. 
+    </p>
+            <p xml:id="bt67yj-p028947-d1e313">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Verumtamen sciendum, sicut sanctis angelis 
+      fre<lb ed="#P" n="129" break="no"/>quenter innotescunt utriusque generis secreta per 
+      <lb ed="#P" n="130"/>Dei revelationem, ita per angelos ea interdum 
+      in<lb ed="#P" n="131" break="no"/>notescere daemonibus, ut testatur Augustinus lib. 2. 
+      <lb ed="#P" n="132"/>quaestione 2. ad Simplicianum, &amp; alibi, ut supra 
+      an<lb ed="#P" n="133" break="no"/>notavimus. Quod adeo mirum videri non debet, 
+      <lb ed="#P" n="134"/>cum etiam donum Prophetiae communicetur 
+      ali<lb ed="#P" n="135" break="no"/>quando malis hominibus, qui sunt diaboli 
+      mem<lb ed="#P" n="136" break="no"/>bra, qualis fuit Balaam. 
+    </p>
+            <p xml:id="bt67yj-p028947-d1e337">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> An autem ad hoc genus pertineant oracula 
+      Sibyl<lb ed="#P" n="138" break="no"/>larum &amp; quaedam Apollinis &amp; Mercurii Trismegisti 
+      <lb ed="#P" n="139"/>etiam de Christi futuro ad ventu &amp; passione &amp; 
+      judi<lb ed="#P" n="140" break="no"/>cio, &amp; aliis religionis nostrae mysteriis, qualia 
+      legun<lb ed="#P" n="141" break="no"/>tur apud Eusebium, Lactantium, S. Augustinum, 
+      <lb ed="#P" n="142"/>Metaphrasten &amp; alios; An vero a Deo vel bonis 
+      an<lb ed="#P" n="143" break="no"/>gelis immediate fuerint hujusmodi omnia? vel 
+      eo<lb ed="#P" n="144" break="no"/>rum nonnulla inspirata; non est omnino certum; 
+      <lb ed="#P" n="145"/>tametsi hoc posterius satis sit probabile.
+    </p>
+            <p xml:id="bt67yj-p028947-d1e362">
+      <!--0309.xml-->
+               <pb ed="#P" n="76"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Praeterea cum daemones habeant totius naturae A 
+      <lb ed="#P" n="2"/>scientiam ab initio sibi insitam, &amp; insuper 
+      singu<lb ed="#P" n="3" break="no"/>larium magnam experientiam, cumque ea quae 
+      <lb ed="#P" n="4"/>in remotissimis locis geruntur, vi naturae suae 
+      spiri<lb ed="#P" n="5" break="no"/>tualis, videre &amp; cognoscere queant, facile possunt 
+      <lb ed="#P" n="6"/>ex causis praesentibus sibi cognitis, licet nobis 
+      oc<lb ed="#P" n="7" break="no"/>cultis, futura quaedam vel certo praedicare, vel 
+      pro<lb ed="#P" n="8" break="no"/>babiliter conjicere; vel etiam quae ipsimet adhibitis 
+      <lb ed="#P" n="9"/>naturalibus causis facturi sunt, praenunciare, 
+      quo<lb ed="#P" n="10" break="no"/>rum nihil ad illam Deo propriam futurorum 
+      noti<lb ed="#P" n="11" break="no"/>tiam pertinet. Nihil enim horum, nisi secundum 
+      <lb ed="#P" n="12"/>causas praesentes noverunt, quae quia non semper 
+      <lb ed="#P" n="13"/>necessariae sunt, fit ut ipsi saepenumero circa rerum 
+      <lb ed="#P" n="14"/>futurarum aestimationes fallantur, quemadmodum 
+      <lb ed="#P" n="15"/>S. Augustinus testatur lib. 9. de Civitate Dei, cap. 
+      <lb ed="#P" n="16"/>22. Et his modis Antonius apud sanctum 
+      Athana<lb ed="#P" n="17" break="no"/>sium ostendit daemones quaedam futura praedicere, 
+      <lb ed="#P" n="18"/>ut pluvias, tempestates, incrementa Nili, &amp;c. 
+      scili<lb ed="#P" n="19" break="no"/>cet ex causis naturalibus quas non ignorat, 
+      proven<lb ed="#P" n="20" break="no"/>tura: Item adventum amici quem videt jam 
+      venien<lb ed="#P" n="21" break="no"/>tem, aut accinctum ad iter. 
+    </p>
+            <p xml:id="bt67yj-p028947-d1e417">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Porro similiter possunt ex indiciis quibusdam 
+      ex<lb ed="#P" n="23" break="no"/>ternis vel aliis occultioribus signis, ut supra de 
+      an<lb ed="#P" n="24" break="no"/>gelis in genere diximus, notitia quadam 
+      conjectu<lb ed="#P" n="25" break="no"/>rali cognoscere cogitationes &amp; affectiones 
+      homi<lb ed="#P" n="26" break="no"/>num. Cum enim id faciant interdum homines, 
+      teste<lb ed="#P" n="27" break="no"/>Sapiente Proverb. 27. multo magis id poterunt 
+      dae<lb ed="#P" n="28" break="no"/>mones, quorum est &amp; natura subtilior, &amp; 
+      expe<lb ed="#P" n="29" break="no"/>rientia major. De hac re videatur sanctus 
+      Augusti<lb ed="#P" n="30" break="no"/>nus libro de divinatione daemonum, &amp; libro 1. 
+      con<lb ed="#P" n="31" break="no"/>tra Academicos capite 6. &amp; 7. Item sanctus 
+      Hiero<lb ed="#P" n="32" break="no"/>nymus super illud Matth. 15. De corde exeunt pravae 
+      <lb ed="#P" n="33"/>cogitationes, &amp; <ref xml:id="bt67yj-p028947-Rd1e447">
+                  <name xml:id="bt67yj-p028947-Nd1e449">Gennadius</name> de ecclesiasticis 
+      dogmati<lb ed="#P" n="34" break="no"/>bus capite 81.</ref>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

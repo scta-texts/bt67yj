@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="356"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p138136"><!-- l2d30c10" -->
+            <head xml:id="bt67yj-p138136-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p138136-Hd1e103" type="question-title">Quid nomine concupiscentiae intelligendum sit</head>
+            <p xml:id="bt67yj-p138136-d1e106">
+               <lb ed="#P" n="119"/>§. <sic>18</sic>. Quid nomine concupiscentiae intelligendum sit? 
+    </p>
+            <p xml:id="bt67yj-p138136-d1e113">
+               <lb ed="#P" n="120"/>COncupiscentia, quam diximus esse ipsum 
+      ori<lb ed="#P" n="121" break="no"/>ginale peccatum, &amp; quam Scriptura pluribus 
+      <lb ed="#P" n="122"/>locis ut malam &amp; vitiosam insectatur; neque est 
+      ap<lb ed="#P" n="123" break="no"/>petitus in genere, ut rationalem simul &amp; sensitivum 
+      <lb ed="#P" n="124"/>appetitum complectitur, neque sensitivus 
+      appeti<lb ed="#P" n="125" break="no"/>tus, neque is qui peculiariter concupiscibilis 
+      voca<lb ed="#P" n="126" break="no"/>tur, neque omnino naturalis aliqua facultas, aut 
+      <lb ed="#P" n="127"/>conditio humanae naturae. Haec enim &amp; in Adam 
+      <lb ed="#P" n="128"/>fuerunt ab initio creationis, &amp; a Christo una cum 
+      <lb ed="#P" n="129"/>veritate humanae naturae assumpta sunt. Sed est 
+      vi<lb ed="#P" n="130" break="no"/>tium naturae, quod per peccatum in natuiam 
+      subin<lb ed="#P" n="131" break="no"/>travit, eamque culpabiliter infecit. 
+    </p>
+            <p xml:id="bt67yj-p138136-d1e142">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Versatur autem circa omnia ea, quae male &amp; 
+      inor<lb ed="#P" n="133" break="no"/>dinate ab homine expeti possunt. Unde cum 
+      dixis<lb ed="#P" n="134" break="no"/>set Apostolus Gal. 5. carnem concupiscere adversus 
+      <lb ed="#P" n="135"/>spiritum, ut ostenderet quam late pateat carnis 
+      con<lb ed="#P" n="136" break="no"/>tra spiritum concupiscentia, subjecit catalogum 
+      <lb ed="#P" n="137"/>aliquod operum carnis, inquiens: Manifesta sunt 
+      <lb ed="#P" n="138"/>opera carnis, &amp;c. Inter quae non tantum 
+      fornicatio<lb ed="#P" n="139" break="no"/>nem, immunditiam, ebrietates, comestationes 
+      enu<lb ed="#P" n="140" break="no"/>merat, quae per appetitum sensitivum committuntur, 
+      <lb ed="#P" n="141"/>&amp; peculiariter carnalia peccata vocantur; verum 
+      <lb ed="#P" n="142"/>etiam veneficia, inimicitias, contentiones, homi¬ 
+      <!--0590.xml-->
+      <pb ed="#P" n="357"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cidia, sectas, seu haereses &amp; ejusmodi, quae solent A 
+      <lb ed="#P" n="2"/>spiritualia peccata appellari. Patet ergo, carnis &amp; 
+      <lb ed="#P" n="3"/>concupiscentiae nomine Apostolum significasse 
+      vi<lb ed="#P" n="4" break="no"/>tium incitans ad omne genus peccatorum. Nam &amp; 
+      <lb ed="#P" n="5"/>Corinthios non a carnalibus, sed spiritualibus 
+      vi<lb ed="#P" n="6" break="no"/>tiis carnales appellabat, quando iis dicebat 1. Cor. 3. 
+      <lb ed="#P" n="7"/>Cum enim sit inter vos zelus &amp; contentio, nonne 
+      carna<lb ed="#P" n="8" break="no"/>les estis? Omne autem genus peccati a 
+      concupiscen<lb ed="#P" n="9" break="no"/>tia procedere, manifestius idem Apostolus 
+      significa<lb ed="#P" n="10" break="no"/>vit, cum de concupiscentia loquens Rom. 7. ait: 
+      Pec<lb ed="#P" n="11" break="no"/>catum per mandatum operatum est in me omnem 
+      concu<lb ed="#P" n="12" break="no"/>piscentiam. Quam late igitur mandatum patet in 
+      pro<lb ed="#P" n="13" break="no"/>hibendo, tam late patet &amp; concupiscentia in 
+      appe<lb ed="#P" n="14" break="no"/>tendo. Unde D. Thomas docet, omnes defectus 
+      vir<lb ed="#P" n="15" break="no"/>tutum reduei ad peccatum originale, 2. 2. q. 13. art. 
+      <lb ed="#P" n="16"/>1. ad 2. 
+    </p>
+            <p xml:id="bt67yj-p138136-d1e213">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Hanc generalem concupiscentiae significationem 
+      <lb ed="#P" n="18"/>annotavit Aug. lib. 14. de civitate Dei cap. 2. 3. &amp; 
+      <lb ed="#P" n="19"/>4. &amp; lib. 15. cap. 7. Idem lib. 2. contra Julianum cap. 
+      <lb ed="#P" n="20"/>8. citatis Cypriani, Hilarii &amp; Ambrosi: verbis, 
+      va<lb ed="#P" n="21" break="no"/>ria peccatorum genera tribuit concupiscentiae. Et 
+      <lb ed="#P" n="22"/>lib. 4. cap. 14. ad omnia sensibilia eam extendit. Ac 
+      <lb ed="#P" n="23"/>rursum libro 6. capite 7. dicit concupiscentiam, 
+      <lb ed="#P" n="24"/>quae circa Venerea versatur, tantum esse partem 
+      <lb ed="#P" n="25"/>quandam ejus concupiscentiae, ad quam 
+      mortifican<lb ed="#P" n="26" break="no"/>dam fideles hortatur Apostolus. Nec ab his 
+      diver<lb ed="#P" n="27" break="no"/>sum sentit Hieron. Nam q. 8. ad Algasiam tractans 
+      <lb ed="#P" n="28"/>Apostoli locum Rom. 7. ubi dicitur: Concupiscentiam 
+      <lb ed="#P" n="29"/>nesciebam, nisi lex diceret; non concupisces, per 
+      concu<lb ed="#P" n="30" break="no"/>piscentiam intelligere se dicit omnes perturbationes 
+      <lb ed="#P" n="31"/>animae, quibus moeremus &amp; gaudemus, timemus &amp; 
+      <lb ed="#P" n="32"/>concupiscimus. Loquitur enim de hujusmodi 
+      affe<lb ed="#P" n="33" break="no"/>ctionibus inordinatis prorsus generaliter, &amp; non de 
+      <lb ed="#P" n="34"/>iis solum quae sunt partis sensitivae, sicut declarant 
+      <lb ed="#P" n="35"/>ea quae ibidem consequenter disserit. Atqui hae 
+      per<lb ed="#P" n="36" break="no"/>turbationes ab isto vitio habituali, de quo nunc 
+      <lb ed="#P" n="37"/>agimus, omnes procedunt. Ex his ergo patet, eos 
+      <lb ed="#P" n="38"/>qui concupiscentiam ad inferiorem animae partem 
+      <lb ed="#P" n="39"/>restringunt, ac potissimum ad Venereas 
+      delecta<lb ed="#P" n="40" break="no"/>tiones, ex parte tantum, &amp; non ex toto genere 
+      con<lb ed="#P" n="41" break="no"/>cupiscentiam nobis innatam designare. Recte igitur 
+      <lb ed="#P" n="42"/>S. Thom. 1. 2. q. 82. art. 3. eam ex toto suo genere 
+      <lb ed="#P" n="43"/>describens, dicit inordinationem virium animae, 
+      <lb ed="#P" n="44"/>quae in hoc praecipue consistit, quod vires omnes 
+      in<lb ed="#P" n="45" break="no"/>ordinate convertuntur ad bonum commutabile, 
+      <lb ed="#P" n="46"/>communi nomine vocari concupiscentiam.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

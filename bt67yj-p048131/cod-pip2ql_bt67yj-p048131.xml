@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="125"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p048131"><!-- l2d14c5" -->
+            <head xml:id="bt67yj-p048131-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p048131-Hd1e103" type="question-title">De opere quartae diei annotatio</head>
+            <p xml:id="bt67yj-p048131-d1e106">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> §. 5. De opere quartae diei annotatio.
+    </p>
+            <p xml:id="bt67yj-p048131-d1e113">
+               <lb ed="#P" n="69"/>Uartodie caelo additus est suus ornatus, 
+      quan<lb ed="#P" n="70" break="no"/>do creata sunt sol, luna, &amp; stellae. Est autem 
+      <lb ed="#P" n="71"/>quam maxime probabile caelum in quo tam planeta 
+      <lb ed="#P" n="72"/>quam reliqua stellarum multitudo condita seu po¬ 
+      <!--0358.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>sita narrantur idem esse cum eo quod in 
+      princi<lb ed="#P" n="74" break="no"/>pio creatum legitur. Nam, ut supra monuimus, 
+      <lb ed="#P" n="75"/>quod secundo die dictum est: Fiat firmamentum, 
+      <lb ed="#P" n="76"/>&amp;c. non novam alicujus caeli creationem significat, 
+      <lb ed="#P" n="77"/>ut quidam opinantur, sed usum indicat quem ex 
+      <lb ed="#P" n="78"/>tunc habere coepit calum certa sui parte, scilicet 
+      <lb ed="#P" n="79"/>ut interstitium esset quo aquae ab aquis dividerentur. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e144">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Dicuntur autem tam sol &amp; luna quam stellae factae 
+      <lb ed="#P" n="81"/>&amp; positae in firmamento caeli, non quod omnia astra 
+      <lb ed="#P" n="82"/>sint in uno illo caelo, quod firmamentum vulgus 
+      ap<lb ed="#P" n="83" break="no"/>pellat (constat enim planetas omnes eo inferiores 
+      <lb ed="#P" n="84"/>esse, singulosque suis propriis motibus moveri) sed 
+      <lb ed="#P" n="85"/>vel ob hoc, quia in caelo sunt, quod totum recte 
+      <lb ed="#P" n="86"/>firmamentum, id est expansio vocatur; vel quia 
+      <lb ed="#P" n="87"/>in caelum hoc nobis proximum, quod paulo ante 
+      <lb ed="#P" n="88"/>firmamentum dictum fuerat, atque inde in terras 
+      <lb ed="#P" n="89"/>lumen suum diffundunt. Hujus enim rei 
+      significan<lb ed="#P" n="90" break="no"/>dae causa additum apparet; Ut luceant in firmamento 
+      <lb ed="#P" n="91"/>caeli &amp; illuminent terram, uti supra plenus 
+      explica<lb ed="#P" n="92" break="no"/>vimus, cum de aquis supercaelestibus ageremus. 
+      <lb ed="#P" n="93"/>Neque vero sollicitus fuit Moyses ut caelos in suos 
+      <lb ed="#P" n="94"/>orbes nobis distribueret, &amp; quae stella, cui, 
+      quo<lb ed="#P" n="95" break="no"/>tove orbi caelesti infixa esset, doceret, quod nostri 
+      <lb ed="#P" n="96"/>ex professo tradunt philosophi naturales; sed satis 
+      <lb ed="#P" n="97"/>ei fuit rudi stylo notissimarum mundi partium, 
+      <lb ed="#P" n="98"/>prout in sensus hominum incurrunt, creationem 
+      <lb ed="#P" n="99"/>describere. Quo fit, ut nec in universa scriptura, 
+      <lb ed="#P" n="100"/>praeter solem, lunam, &amp; Luciferum, quam 
+      profa<lb ed="#P" n="101" break="no"/>ni scriptores Venerem vocant, quisquam alius 
+      pla<lb ed="#P" n="102" break="no"/>neta nominatus legatur; quoniam nec vulgus alios, 
+      <lb ed="#P" n="103"/>utpote minus illustres, suis nominibus signare solet. 
+      <lb ed="#P" n="104"/>Fit etiam hac ipsa ratione, ut neque Moyses, 
+      ne<lb ed="#P" n="105" break="no"/>que usquam alibi scriptura solem, lunam &amp; stellas 
+      <lb ed="#P" n="106"/>significet caelis aut orbibus suis infixas esse, nec 
+      ali<lb ed="#P" n="107" break="no"/>ter quam ut partes in suis totis moveri; quia nec 
+      <lb ed="#P" n="108"/>quicquam tale sensibus apparet, magisque vulgo 
+      <lb ed="#P" n="109"/>persuasum est stellas per se moveri in caelo, 
+      quomo<lb ed="#P" n="110" break="no"/>do per se moventur aves in caelo, id est aere, &amp; pisces 
+      <lb ed="#P" n="111"/>D in aquis. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e219">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Itaque illam exactiorem &amp; subtiliorem corporum 
+      <lb ed="#P" n="113"/>ac luminum caelestium cognitionem ab iis petendam 
+      <lb ed="#P" n="114"/>scriptura reliquit, qui his penitius cognoscendis 
+      in<lb ed="#P" n="115" break="no"/>genium applicuerunt. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e232">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Porro cuncta caeli lumina facta esse ex ea caeli 
+      <lb ed="#P" n="117"/>parte, quam lux primo die facta occupabat, cujus 
+      <lb ed="#P" n="118"/>orbiculari motu ante solis creationem vicissitudo 
+      <lb ed="#P" n="119"/>dierum ac noctium agebatur; jam superius ubi de 
+      <lb ed="#P" n="120"/>luce illa tractabamus probabile esse diximus. Atque 
+      <lb ed="#P" n="121"/>hujus sententiae meminit Augustinus libro 
+      undeci<lb ed="#P" n="122" break="no"/>mo de civitate capite septimo, quamvis alibi etiam 
+      <lb ed="#P" n="123"/>meminerit diversae opinionis, quae luci permanenti 
+      <lb ed="#P" n="124"/>solem additum esse dicit, ut libro primo de 
+      Gene<lb ed="#P" n="125" break="no"/>si ad literam capite undecimo. Quae quidem opinio 
+      <lb ed="#P" n="126"/>Ambrosio libro primo Hexameron capite nono, &amp; 
+      <lb ed="#P" n="127"/>Chrysostomo homilia sexta in Genesim placuisse 
+      <lb ed="#P" n="128"/>videtur. Sed refellitur hoc argumento quod 
+      prae<lb ed="#P" n="129" break="no"/>ter solis &amp; astrorum lumen nulla sit alia lux toto 
+      cae<lb ed="#P" n="130" break="no"/>Io. Nam luna &amp; via lactea, quae luminosae sunt, 
+      <lb ed="#P" n="131"/>omnium consensu lumen hauriunt a sole vel etiam 
+      <lb ed="#P" n="132"/>ab aliis astris. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e274">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Sunt autem qui eam sententiam quam nos ut 
+      ve<lb ed="#P" n="134" break="no"/>riorem ponimus, hac ratione oppugnant; quia si 
+      <lb ed="#P" n="135"/>quarto die facta sunt luminaria ex ea caeli parte 
+      <lb ed="#P" n="136"/>quae lucida facta fuerat primo die, consequens erit 
+      <lb ed="#P" n="137"/>eam partem ut in astra formaretur, 
+      condensaride<lb ed="#P" n="138" break="no"/>buisse. Est enim astrum pars densior sui orbis; 
+      cae<lb ed="#P" n="139" break="no"/>lum autem ab initio factum incorruptibile, &amp; 
+      pro<lb ed="#P" n="140" break="no"/>inde talium mutationum nequaquam capax. 
+      De<lb ed="#P" n="141" break="no"/>inde condensatione posita ne vacuum 
+      relinquere<lb ed="#P" n="142" break="no"/>tur ulterius consequi ut minus fieret caelum totum 
+      <lb ed="#P" n="143"/>quam initio factum fuerat, quomodo secundum 
+      <lb ed="#P" n="144"/>extensionem minor fit aqua dum ipsa, vel pars ejus 
+      <lb ed="#P" n="145"/>aliqua condensatur. Quibus respondetur eam 
+      con<lb ed="#P" n="146" break="no"/>densationem partium quarundam caeli non absurde 
+      <!--0359.xml-->
+      <pb ed="#P" n="126"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>poni in creatione astrorum, imo nec illud secundum 
+      <lb ed="#P" n="2"/>simplicem scripturae textum probabiliter dici posse. 
+      <lb ed="#P" n="3"/>Qui enim censent astra secundum figuram, 
+      magni<lb ed="#P" n="4" break="no"/>tudinem &amp; densitatem suam a principio esse facta, 
+      <lb ed="#P" n="5"/>sed quarto demum die lucem illis accessisse, dividunt 
+      <lb ed="#P" n="6"/>astrorum creationem in duos dies; quod videtur esse 
+      <lb ed="#P" n="7"/>contra scripturam, quae non alio die quam quarto 
+      <lb ed="#P" n="8"/>tradit ea facta esse. Deinde si primo die jam erant 
+      <lb ed="#P" n="9"/>astra secundum figuram, magnitudinem &amp; 
+      densita<lb ed="#P" n="10" break="no"/>tem, eodemque die facta est lux, cujus motus dierum 
+      <lb ed="#P" n="11"/>noctiumque vicissitudinem primo triduo faceret; 
+      <lb ed="#P" n="12"/>cur non illa tunc indita fuit astris, id est, partibus cae 
+      <lb ed="#P" n="13"/>li ad eam recipiendam jam aptatis? aut cur potius in 
+      <lb ed="#P" n="14"/>aliam caeli partem ubi mansura non erat, infusa est? 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e346">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Quod autem objiciunt caelum condensatione 
+      par<lb ed="#P" n="16" break="no"/>tium necessario minus effici, recte diceretur si non 
+      <lb ed="#P" n="17"/>vicissim poneretur alias caeli partes simul tantumdem 
+      <lb ed="#P" n="18"/>fuisse rarefactas, quantum aliae densarentur. Hoc 
+      au<lb ed="#P" n="19" break="no"/>tem per omnipotentiam Dei ponere in caelo tametsi 
+      <lb ed="#P" n="20"/>corpore incorruptibili pro eo tempore quo nondum 
+      <lb ed="#P" n="21"/>expletus erat ejus ornatus, nullum est incommodum; 
+      <lb ed="#P" n="22"/>praesertim cum etiam nunc argumento viae lacteae 
+      <lb ed="#P" n="23"/>doceatur, non omnes caeli partes etiam astris exceptis 
+      <lb ed="#P" n="24"/>raritate esse aequales. Quae diversitas etiam in ipsa 
+      <lb ed="#P" n="25"/>luna ad sensum apparet. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e375">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Jam quod de luminaribus scriptura subjungit: Et 
+      <lb ed="#P" n="27"/>dividant diem ac noctem; non ita esse accipiendum, 
+      <lb ed="#P" n="28"/>quasi tunc primum distinctio diei a nocte facta 
+      fue<lb ed="#P" n="29" break="no"/>rit, patet ex superioribus. Nam primo die dictum 
+      <lb ed="#P" n="30"/>erat: Et divisit lucem a tenebris, appellavitque lucem 
+      <lb ed="#P" n="31"/>diem &amp; tenebras noctem. Et quidem eadem scriptura 
+      <lb ed="#P" n="32"/>testante jam tres noctes &amp; tres dies cum quarta 
+      no<lb ed="#P" n="33" break="no"/>cte ante opus hujus quartae diei fluxerant; Sed sic 
+      in<lb ed="#P" n="34" break="no"/>telligatur, ut quam divisionem lux primo die 
+      con<lb ed="#P" n="35" break="no"/>dita motu suo faciebat, eandem quarto die perfectius 
+      <lb ed="#P" n="36"/>atque distinctius efficere coeperint caeli luminaria, &amp; 
+      <lb ed="#P" n="37"/>deinceps semper effectura sint. Haec enim ita diem 
+      <lb ed="#P" n="38"/>ac noctem inter se partiuntur, ut sol per diem luceat 
+      <lb ed="#P" n="39"/>(idque lumine multo auctiori quam luxerit prima 
+      <lb ed="#P" n="40"/>lux illa primo triduo; nam ea lux in sole per 
+      con<lb ed="#P" n="41" break="no"/>densationem collecta fuit atque unita) luna vero &amp; 
+      <lb ed="#P" n="42"/>stellae luceant per noctem. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e417">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Quae res amplius declaratur per id quod paulo post 
+      <lb ed="#P" n="44"/>dicitur Deus fecisse luminare majus ut praeesset diei, 
+      <lb ed="#P" n="45"/>&amp; luminare minus ac praeterea stellas ut praeessent 
+      <lb ed="#P" n="46"/>nocti. Quod ipsum Psalmista expressit his verbis, 
+      <lb ed="#P" n="47"/>Psalmo 135. Qui facit solem in potestatem diei, lunam 
+      <lb ed="#P" n="48"/>&amp; stellas in potestatem noctis. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e436">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Sed haec praefectura seu potestas non similiter in 
+      <lb ed="#P" n="50"/>utrisque intelligenda est. Nam sol quidem semper 
+      <lb ed="#P" n="51"/>diei praeest, quoniam ejus praesentia diem efficit 
+      si<lb ed="#P" n="52" break="no"/>cut &amp; praesentia noctem; luna vero nocti tunc praeest 
+      <lb ed="#P" n="53"/>maxime, quando plena est. Tunc enim noctem &amp; 
+      <lb ed="#P" n="54"/>magis illustrat &amp; majori tempore. Quanto autem a 
+      <lb ed="#P" n="55"/>plenitudine longius abest, tanto minus minorique 
+      <lb ed="#P" n="56"/>tempore noctem illustrare potest. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e458">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Quamvis autem &amp; de die lunam videri contingat, 
+      <lb ed="#P" n="58"/>quia tamen diei lumen non addit, sed ipsa potius 
+      <lb ed="#P" n="59"/>contra a lumine diei obfuscatur, hinc diei praeesse 
+      <lb ed="#P" n="60"/>non dicitur, quemadmodum nec stellae, licet &amp; ipsae 
+      <lb ed="#P" n="61"/>interdum de die conspiciantur. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e474">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Veruntamen stellae semper praesunt nocti; quatenus 
+      <lb ed="#P" n="63"/>omni ac tota nocte lucent, eamque aliquatenus 
+      illu<lb ed="#P" n="64" break="no"/>strant, etsi non semper eaedem numero stellae id 
+      fa<lb ed="#P" n="65" break="no"/>ciant. 
+    </p>
+            <p xml:id="bt67yj-p048131-d1e487">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Postremo notandum est solem &amp; lunam a Moyse 
+      <lb ed="#P" n="67"/>vocari magna luminaria, alterum majus, alterum 
+      <lb ed="#P" n="68"/>minus; non quod mole &amp; quantitate sint revera 
+      cae<lb ed="#P" n="69" break="no"/>teris stellis majora. Nam etsi de sole id verum sit 
+      om<lb ed="#P" n="70" break="no"/>nium astronomorum consensu; de luna tamen id 
+      ve<lb ed="#P" n="71" break="no"/>ritatem non habere secundum eosdem adeo certum 
+      <lb ed="#P" n="72"/>habetur, ut eam, solo Mercurio excepto, omnium 
+      <lb ed="#P" n="73"/>stellarum minimam esse certa demonstratione 
+      doce<lb ed="#P" n="74" break="no"/>re se credant.
+    </p>
+            <p xml:id="bt67yj-p048131-d1e511">
+      <!--0359.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>At neque propterea quod nobis ea intuentibus 
+      <lb ed="#P" n="76"/>majora caeteris stellis appareant; hoc enim pacto 
+      <lb ed="#P" n="77"/>luna non esset luminare minus sole, quia judicio 
+      ocu<lb ed="#P" n="78" break="no"/>lorum non apparet luna sole minor; sed propter 
+      ma<lb ed="#P" n="79" break="no"/>jorem luminis super terram effusi abundantiam. Hac 
+      <lb ed="#P" n="80"/>enim in re sicut sol lunam, ita luna superat alias 
+      <lb ed="#P" n="81"/>stellas. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

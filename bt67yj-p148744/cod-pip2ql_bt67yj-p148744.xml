@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="384"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p148744"><!-- l2d41c2" -->
+            <head xml:id="bt67yj-p148744-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p148744-Hd1e103" type="question-title">Argumenta in partem contrariam</head>
+            <p xml:id="bt67yj-p148744-d1e106">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> §. 2. Argumenta in partem contrariam.
+    </p>
+            <p xml:id="bt67yj-p148744-d1e113">
+               <lb ed="#P" n="56"/>NUnc ea proferenda sunt argumenta, quae pro 
+      <lb ed="#P" n="57"/>negante parte faciunt. Sunt autem &amp; haec 
+      per<lb ed="#P" n="58" break="no"/>inde ut illa, in triplici genere. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e122">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Primum ex Scripturis, in quibus interdum 
+      lauda<lb ed="#P" n="60" break="no"/>tos legimus homines infideles propter quaedam 
+      ope<lb ed="#P" n="61" break="no"/>ra bona, ut Cyrum &amp; Darium reges, quod 
+      manda<lb ed="#P" n="62" break="no"/>verint instaurari templum Hierosolymitanum, &amp; 
+      <lb ed="#P" n="63"/>laxaverint captivitatem populi Judaici. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e139">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Item Assuerum regem, qui &amp; Mardochaeum 
+      exal<lb ed="#P" n="65" break="no"/>tavit, &amp; Haman justo supplicio affecit, &amp; Judaeos ab 
+      <lb ed="#P" n="66"/>injusta internecione liberavit. Sed &amp; 
+      Nabuchodono<lb ed="#P" n="67" break="no"/>sor cum Sedechia perfido &amp; perjuro locutus est 
+      judi<lb ed="#P" n="68" break="no"/>cium, 4. Reg. ust. Et Ninivitae temporalem 
+      vindi<lb ed="#P" n="69" break="no"/>ctam quibusdam poenitentiae operibus averterunt, 
+      <lb ed="#P" n="70"/>nondum, ut apparet, unius Dei fide imbuti. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e159">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Praeterea Luc 6. dicit Dominus: Si benefeceritis 
+      <!--0617.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>his qui vobis benefaciunt, quae vobis est gratia? 
+      siqui<lb ed="#P" n="73" break="no"/>dem &amp; peccatores hoc faciunt. Peccatores autem 
+      in<lb ed="#P" n="74" break="no"/>telligere videtur quos Matthaeus ethnicos vocat 
+      ca<lb ed="#P" n="75" break="no"/>pit. 5. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e179">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Idem Act. 13. Sergius Paulus proconsul nondum 
+      <lb ed="#P" n="77"/>fidelis, ut circunstantiae probant, desiderabat audire 
+      <lb ed="#P" n="78"/>verbum Dei, quod ejus desiderium nemo recte 
+      pec<lb ed="#P" n="79" break="no"/>catum dixerit. Nec illud factum barbarorum, de 
+      <lb ed="#P" n="80"/>quibus dicitur Act. ult. quod Apostolo &amp; sociis ejus 
+      <lb ed="#P" n="81"/>naufragis praestabant non modicam humanitatem, 
+      <lb ed="#P" n="82"/>merito reprehendendum videtur. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e199">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Ex Patribus autem haec sunt in eandem sententiam 
+      <lb ed="#P" n="84"/>praecipua loca. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e208">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Augustinus libro de spiritu &amp; litera capite 27. Si, 
+      <lb ed="#P" n="86"/>inquit, hi naturaliter ea quae legis sunt faciunt, 
+      non<lb ed="#P" n="87" break="no"/>dum sunt hujusmodi in numero eorum quos Christo 
+      <lb ed="#P" n="88"/>justificat gratia, sed in eorum potius, quorum etiam 
+      <lb ed="#P" n="89"/>impiorum, nec Deum verum veraciter justeque 
+      co<lb ed="#P" n="90" break="no"/>lentium, quadam tamen facta, vel legimus, vel 
+      <lb ed="#P" n="91"/>novimus, vel audivimus, quae secundum justitiae 
+      re<lb ed="#P" n="92" break="no"/>gulam non solum vituperare non possumus, verum 
+      <lb ed="#P" n="93"/>etiam merito recteque laudamus. Quanquam si 
+      dis<lb ed="#P" n="94" break="no"/>cutiatur quo fine fiant, vix inveniuntur, quae 
+      justi<lb ed="#P" n="95" break="no"/>tiae debitam laudem defensionemve mereantur. Et 
+      <lb ed="#P" n="96"/>initio capitis proximi fatetur, non usque adeo in 
+      <lb ed="#P" n="97"/>anima humana imaginem Dei terrenorum 
+      affe<lb ed="#P" n="98" break="no"/>ctuum labe detritam esse, ut nulla in ea velut 
+      linea<lb ed="#P" n="99" break="no"/>menta extrema manserint, unde merito dici possit, 
+      <lb ed="#P" n="100"/>etiam in ipsa impietate vitae suae facere aliqua legis 
+      <lb ed="#P" n="101"/>vel sapere. Et post pauca: Sicut non impediunt a 
+      vi<lb ed="#P" n="102" break="no"/>ta aeterna justum quadam peccata venialia, sine 
+      qui<lb ed="#P" n="103" break="no"/>bus haec vita non ducitur: sic ad salutem aeternam 
+      <lb ed="#P" n="104"/>nihil prosunt impio aliqua bona opera, sine quibus 
+      <lb ed="#P" n="105"/>difficillime vita cujustibet pessimi hominis invenitur. 
+      <lb ed="#P" n="106"/>Et alia nonnulla quae sequuntur. Idem lib. 1. de 
+      ci<lb ed="#P" n="107" break="no"/>vit cap. 15. merito laudandam dicit virtutem Reguli, 
+      <lb ed="#P" n="108"/>pactam hostibus fidem etiam cum certo suo periculo 
+      <lb ed="#P" n="109"/>illibate servantis. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e267">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Sed &amp; Prosper Augustinum secutus sententia 46. 
+      <lb ed="#P" n="111"/>asserit, sine aliquibus bonis operibus difficillime 
+      vi<lb ed="#P" n="112" break="no"/>tam cujuslibet pessimi hominis inveniri. Huc 
+      perti<lb ed="#P" n="113" break="no"/>nere videtur, quod author operis hypog. apud 
+      Au<lb ed="#P" n="114" break="no"/>gustinum lib. 3. quaedam bona, sed ad salutem non 
+      <lb ed="#P" n="115"/>promoventia agnoscit in homine infideli, ut agros 
+      <lb ed="#P" n="116"/>colere, domos aedificare. Quod &amp; Prosper fatetur 
+      <lb ed="#P" n="117"/>tum in carmine de ingratis, tum in disputatione 
+      con<lb ed="#P" n="118" break="no"/>tra Collatorem. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e292">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Item Greg. hom. 27. in evangelia dicit quosdam 
+      <lb ed="#P" n="120"/>diligere proximos per affectum cognationis &amp; 
+      car<lb ed="#P" n="121" break="no"/>nis, quibus tamen in hac dilectione sacra eloquia non 
+      <lb ed="#P" n="122"/>contradicunt. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e305">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> His consentanea videre licet apud Hieronymum 
+      <lb ed="#P" n="124"/>scribentem cap. 29. Ezechielis, &amp; Leonem serm. 
+      <lb ed="#P" n="125"/>7. de Quadragesima, quorum ille ex eo quod 
+      Nabu<lb ed="#P" n="126" break="no"/>chodonosor mercedem accepit boni operis, docet 
+      <lb ed="#P" n="127"/>ethnichos si quid boni fecerint, non absque mercede 
+      <lb ed="#P" n="128"/>Dei judicio praeteriri; &amp; nos condemnari 
+      compa<lb ed="#P" n="129" break="no"/>ratione gentilium, si illi lege faciant naturali, quae 
+      <lb ed="#P" n="130"/>nos etiam scripta negligimus. Hic vero opera 
+      mi<lb ed="#P" n="131" break="no"/>sericordiae a Domino enumerata Matth. 25. laude 
+      <lb ed="#P" n="132"/>sua fraudanda non esse dicit, si propter ipsam 
+      na<lb ed="#P" n="133" break="no"/>turae communionem juvando homini ab homine 
+      <lb ed="#P" n="134"/>praeberetur. Sed quia, inquit, quod non ex fidei 
+      <lb ed="#P" n="135"/>procedit fonte, ad praemia aeterna non pervenit, 
+      a<lb ed="#P" n="136" break="no"/>lia conditio operum caelestium, alia terrenorum. 
+      <lb ed="#P" n="137"/>Mundana benevolentia in iis quod adjuvat, habet 
+      <lb ed="#P" n="138"/>finem: Christiana pietas in suum transit authorem, 
+      <lb ed="#P" n="139"/>dum in ipsum dicamur benigni, quem in nobis 
+      fate<lb ed="#P" n="140" break="no"/>mur operari, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e349">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Denique Patres Concilii Constantiensis inter 
+      <lb ed="#P" n="142"/>damnatos articulos Joannis Hus, &amp; huc retulerunt 
+      <lb ed="#P" n="143"/>numero 16. Quod nulla sint opera indifferentia, 
+      <lb ed="#P" n="144"/>sed haec sit divisio immediata humanorum operum, 
+      <lb ed="#P" n="145"/>quod sint vel virtuosa vel vitiosa, &amp;c. Quod recte 
+      <!--0618.xml-->
+      <pb ed="#P" n="385"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>si damnatum est, nihil prohibet infidelium quaedam 
+      <lb ed="#P" n="2"/>opera esse indifferentia, quae ut bona dici non 
+      me<lb ed="#P" n="3" break="no"/>reantur, non tamen peccata dicenda erunt. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e378">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Huic denique sententiae pars maxima 
+      Scholasti<lb ed="#P" n="5" break="no"/>corum, ut probabiliori subscribit. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e387">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Confirmatur &amp; rationibus haec doctrina, quarum 
+      <lb ed="#P" n="7"/>haec una est: Si quis gentilis naturali pietate ductus 
+      <lb ed="#P" n="8"/>honoret parentes, aut naturali commiseratione 
+      mo<lb ed="#P" n="9" break="no"/>tus inopi porrigat manus, is pro tali opere non 
+      me<lb ed="#P" n="10" break="no"/>retur puniri; non ergo in tali opere peccat. Omni 
+      <lb ed="#P" n="11"/>enim peccato poena respondet. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e405">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Alia: Omni peccato fit homo deterior. Atqui 
+      gen<lb ed="#P" n="13" break="no"/>tilis ex naturali compassione dans egenti 
+      eleemosy<lb ed="#P" n="14" break="no"/>nam, aut lapsum erigens, aut coeco monstrans viam, 
+      <lb ed="#P" n="15"/>eo opere non fit deterior; ergo non peccat. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e419">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Tertia: Gentilis ignorans summum bonum, 
+      op<lb ed="#P" n="17" break="no"/>tare potest ut illud cognoscat, &amp; ad illud 
+      perve<lb ed="#P" n="18" break="no"/>niat, imo &amp; ad eum finem studia sua dirigere 
+      po<lb ed="#P" n="19" break="no"/>test: Id autem faciendo non peccat. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e432">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Quarta: Multae sunt actiones infidelium, quae 
+      <lb ed="#P" n="21"/>nec fidei nec bonis moribus repugnant; igitur in 
+      il<lb ed="#P" n="22" break="no"/>lis nullum est peccatum. 
+    </p>
+            <p xml:id="bt67yj-p148744-d1e443">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Quinta: Fidelis potest aliquid facere quod non 
+      re<lb ed="#P" n="24" break="no"/>ferat ad finem ultimum, quem fides monstrat; dum 
+      <lb ed="#P" n="25"/>videlicet peccat venialiter vel mortaliter, fide 
+      nihi<lb ed="#P" n="26" break="no"/>lominus integra; ergo &amp; infidelis potest aliquid 
+      fa<lb ed="#P" n="27" break="no"/>cere quod non referat ad finem quem sibi per 
+      infide<lb ed="#P" n="28" break="no"/>litatem tanquam ultimum constituit; &amp; proinde 
+      <lb ed="#P" n="29"/>poterit non peccare. Haec postrema ratio est Sancti 
+      <lb ed="#P" n="30"/>Thomae in 2. 2. quaest. 10. art. 4. Duae proximae. 
+      <lb ed="#P" n="31"/>praecedentes sunt B. Bonaventurae scribentis in hanc 
+      <lb ed="#P" n="32"/>distinctionem 32. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

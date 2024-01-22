@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="392"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p151864"><!-- l2d42c6" -->
+            <head xml:id="bt67yj-p151864-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p151864-Hd1e103" type="question-title">Ad argumenta diversae opinionis responsio</head>
+            <p xml:id="bt67yj-p151864-d1e106">
+      <!--0625.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>§. 6. Ad argumenta diversae opinionis responsio. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e115">
+               <lb ed="#P" n="72"/>PRO diversa opinione haec fere proferri solent 
+      ar<lb ed="#P" n="73" break="no"/>gumenta Primum ex scriptura. Ait enim 
+      Psalmi<lb ed="#P" n="74" break="no"/>sta: Si iniquitates observaveris Domine, Domine quis 
+      <lb ed="#P" n="75"/>sustinebit? Et Dominus in Evangelio, Matth. 5. Qu. 
+      <lb ed="#P" n="76"/>solverit unum de mandatis istis minimis, minimus 
+      vo<lb ed="#P" n="77" break="no"/>cabitur, id est, contemptus &amp; nullus erit, in regno 
+      <lb ed="#P" n="78"/>caelorum. Et Joan. 13. Si non lavero te, non habebis 
+      par<lb ed="#P" n="79" break="no"/>tem mecum. Et Jacobi 2. Qui in uno offendit, factus est 
+      <lb ed="#P" n="80"/>omnium reus. Et Deuter. 27. Maledictus omnis qui non 
+      <lb ed="#P" n="81"/>permanserit in omnibus, quae scripta sunt in libro legis, 
+      <lb ed="#P" n="82"/>ut faciat ea. Quod ab Apostolo repetitum est Galat. 
+      <lb ed="#P" n="83"/>3. Ex quibus testimoniis apparet peccata venialia, de 
+      <lb ed="#P" n="84"/>quibus illae scripturae videntur intelligendae, aut ad 
+      <lb ed="#P" n="85"/>quae saltem illae extenduntur, sua natura esse talia, 
+      <lb ed="#P" n="86"/>quae a regno Dei hominem excludant, &amp; aeternae 
+      <lb ed="#P" n="87"/>maledictioni obnoxium faciant. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e152">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> His suffragari videntur aliquot loca apud 
+      Augusti<lb ed="#P" n="89" break="no"/>num. Nam lib. 2. de peccatorum meritis cap. 3. 
+      lo<lb ed="#P" n="90" break="no"/>cum Jacobi 2. de venialibus interpretatur. Quis enim, 
+      <lb ed="#P" n="91"/>inquit, cum aliqua spe adipiscendae salutis aternae de 
+      <lb ed="#P" n="92"/>hac vita emigraret, magente illa sententia, quod 
+      qui<lb ed="#P" n="93" break="no"/>cumque totam legem servaverit, offendat autem in 
+      <lb ed="#P" n="94"/>uno, factus est omnium teus, nisi post paululum 
+      se<lb ed="#P" n="95" break="no"/>queretur: Superexultat autem misericordiae 
+      judi<lb ed="#P" n="96" break="no"/>cium? Quamitem sententiam citans lib. de 
+      perfectio<lb ed="#P" n="97" break="no"/>ne justitiae cap. 15. subjicit: Quod si non esset, quae spes 
+      <lb ed="#P" n="98"/>esset? Item in expositione Psal. 129. loquens de 
+      pecca<lb ed="#P" n="99" break="no"/>tis minutis quae vitari a nobis non possunt: Quis 
+      susti<lb ed="#P" n="100" break="no"/>nebit, inquit, si iniquitates observaveris? Si 
+      nobis<lb ed="#P" n="101" break="no"/>cum severus judex agere volueris, non misericors 
+      pa<lb ed="#P" n="102" break="no"/>ter; quis stabit ante oculos tuos? &amp; ibidem vocat 
+      mi<lb ed="#P" n="103" break="no"/>nutum peccatum linguae, dicere fratri fatue, quod 
+      <lb ed="#P" n="104"/>tamen dicit nos facere reos gehennae, secundum 
+      <lb ed="#P" n="105"/>evangelium. Alius est locus lib. 9. Confess. cap. 13. 
+      <lb ed="#P" n="106"/>ubi sic ait: Vae etiam laudabili vitae hominum, si 
+      remo<lb ed="#P" n="107" break="no"/>ta misericordia discutias eam. Praeterea lib. 21. de 
+      ci<lb ed="#P" n="108" break="no"/>vit. cap. 24. testatur quibusdam post poenas 
+      purga<lb ed="#P" n="109" break="no"/>torias dandam adhuc misericordiam, ut in ignem 
+      <lb ed="#P" n="110"/>aeternum non mittantur. Et cap. ult. quibusdam sua 
+      <lb ed="#P" n="111"/>non sufficere merita ut in aeterna tabernacula 
+      reci<lb ed="#P" n="112" break="no"/>piantur, sed ad hoc aliorum meritis adjuvari. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e212">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Hilarius quoque scribens in Pfal. 51. dicit 
+      justi<lb ed="#P" n="114" break="no"/>tiae opera non sufficere ad perfectae beatitudinis 
+      <lb ed="#P" n="115"/>meritum, nisi misericordia Dei etiam in hac 
+      justi<lb ed="#P" n="116" break="no"/>tiae voluntate, humanarum demutationum &amp; 
+      mo<lb ed="#P" n="117" break="no"/>tuum vitia non reputet. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e228">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> His accedunt orationes Ecclesiae pro defunctis: 
+      <lb ed="#P" n="119"/>Orat enim Deum, ut liberet animas eorum de 
+      mor<lb ed="#P" n="120" break="no"/>te aeterna, &amp; ne absorbeat eas tartarus, aliaque 
+      ejus<lb ed="#P" n="121" break="no"/>modi. Agnoscit ergo eis justo Dei judicio pro culpis 
+      <lb ed="#P" n="122"/>venialibus, quibus solis defuncti tales obnoxii sunt, 
+      <lb ed="#P" n="123"/>inferri posse supplicium mortis aeternae. 
+      <lb ed="#P" n="124"/>Objiciuntur &amp; rationes aliquot, quarum haec una 
+      <lb ed="#P" n="125"/>est. Omnis remissio peccati ad misericordiam 
+      perti<lb ed="#P" n="126" break="no"/>net; ergo consistendo in sola justitia, venialia 
+      nun<lb ed="#P" n="127" break="no"/>quam remittentur; sed punientur in aeternum. 
+      <lb ed="#P" n="128"/>Altera: Omne bonum opus etiam minimum 
+      me<lb ed="#P" n="129" break="no"/>retur vitam aeternam; ergo omne peccatum etiam 
+      <lb ed="#P" n="130"/>minimum meretur mortem aeternam. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e261">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Tertia: Venialia eorum qui a Christi 
+      redemptio<lb ed="#P" n="132" break="no"/>ne sunt alieni, nunquam remittuntur; puniuntur 
+      <lb ed="#P" n="133"/>ergo in aeternum. Quare cum Deus non sit injustus, 
+      <lb ed="#P" n="134"/>aeternam poenam merentur. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e274">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Quarta: Mortale peccatum ideo meretur poenam 
+      <lb ed="#P" n="136"/>aeternam; quia contra Deum, qui est infinitum 
+      bo<lb ed="#P" n="137" break="no"/>num committitur: Atqui id etiam vere dicitur de 
+      <lb ed="#P" n="138"/>veniali, quemadmodum ad distinct 35. 
+      ostendeba<lb ed="#P" n="139" break="no"/>mus; igitur &amp; veniale peccatum aeternam poenam 
+      <lb ed="#P" n="140"/>meretur. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e292">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Ad hec &amp; alia que in hanc partem proferri possunt 
+      <!--0626.xml-->
+      <pb ed="#P" n="393"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>argumenta probabiliter respondentes dicimus 
+      im<lb ed="#P" n="2" break="no"/>primis scripturae testimonia &amp; authoritates patrum 
+      <lb ed="#P" n="3"/>commemoratas, non hoc significare, quod veniale 
+      <lb ed="#P" n="4"/>peccatum, si solum sit &amp; a mortali sejunctum, ut est 
+      <lb ed="#P" n="5"/>in homine justo, natura sua tale sit, ut dignum 
+      quem<lb ed="#P" n="6" break="no"/>quam faciat morte aeterna, &amp; indignum regno 
+      Dei<lb ed="#P" n="7" break="no"/>sed quia nemo quantumcunque justus, nisi sanguine 
+      <lb ed="#P" n="8"/>Christi redemptoris etiam a veniali emundatus 
+      fue<lb ed="#P" n="9" break="no"/>rit, in regnum admitti potest. Quae remissio 
+      quam<lb ed="#P" n="10" break="no"/>quam misericordiae Dei ascribi debeat, 
+      quemadmo<lb ed="#P" n="11" break="no"/>dum ipsum remissionis nomen, &amp; ratio satis 
+      osten<lb ed="#P" n="12" break="no"/>dit, eam tamen misericordiam, justi in hac vita 
+      pieta<lb ed="#P" n="13" break="no"/>tis &amp; misericordiae operibus atque omnino justitiae 
+      <lb ed="#P" n="14"/>merito, sibi debitam faciunt. Justo enim, etiam si 
+      le<lb ed="#P" n="15" break="no"/>vioribus peccatis non careat, ob pietatem tamen &amp; 
+      <lb ed="#P" n="16"/>dominantem in eo justitiam debetur aeternae vitae 
+      <lb ed="#P" n="17"/>proemium, quo &amp; dignus est. Cum sit igitur injustum 
+      <lb ed="#P" n="18"/>quemquam ab eo excludi in aeternum, quod ei jure 
+      <lb ed="#P" n="19"/>debetur, consequens est justo deberi etiam illam 
+      mi<lb ed="#P" n="20" break="no"/>sericordiam, sine qua ad aeternae vitae possessionem 
+      <lb ed="#P" n="21"/>admitti non potest. Quare etsi peccatum veniale 
+      ju<lb ed="#P" n="22" break="no"/>stos ad tempus ab aeterna vita remoratur, solum 
+      ta<lb ed="#P" n="23" break="no"/>men mortale peccatum est, quod sua natura prorsus 
+      <lb ed="#P" n="24"/>hominem ab ea excludat, eaque indignum efficiat. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e357">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Hinc ergo potest accipi solutio ad ea quae ex 
+      scri<lb ed="#P" n="26" break="no"/>pturis &amp; patribus objiciebantur, nisi quod locus 
+      Ja<lb ed="#P" n="27" break="no"/>cob. 2. melius de solis mortalibus peccatis 
+      intelligi<lb ed="#P" n="28" break="no"/>tur, ut sequentia aperte declarant. Quod &amp; de 
+      <lb ed="#P" n="29"/>aliis duobus locis Matth. 5. &amp; Deuter 27. 
+      dicen<lb ed="#P" n="30" break="no"/>dum videtur, &amp; Jacobi sententia est explicatio loci 
+      <lb ed="#P" n="31"/>Deuter. Nam eo loco enumerantur mortalia sola, 
+      <lb ed="#P" n="32"/>ut patet locum inspicienti. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e380">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Orationes quoque Ecclesiae, eidem gratiae ac 
+      mise<lb ed="#P" n="34" break="no"/>ricordiae divinae testimonium perhibent. Quae tamen 
+      <lb ed="#P" n="35"/>misericordia omnibus in Christi corpore usque ad 
+      <lb ed="#P" n="36"/>finem vitae permanentibus, ratione illius societatis 
+      <lb ed="#P" n="37"/>sen conjunctionis, qua perseveranter Christo capiti 
+      <lb ed="#P" n="38"/>tanquam viva membra adhaeserunt, &amp; tanquam 
+      fru<lb ed="#P" n="39" break="no"/>ctiferi palmites in vita permanserunt, debita est. 
+      <lb ed="#P" n="40"/>Neque absurdum est oratione petere aliquid ex 
+      mi<lb ed="#P" n="41" break="no"/>sericordia vel promissione debitum. Ita enim David 
+      <lb ed="#P" n="42"/>orat Dominum, ut promissionem impleat, 2. Reg. 7. 
+      <lb ed="#P" n="43"/>dicens: Nunc ergo Domine Deus, verbum quod 
+      locu<lb ed="#P" n="44" break="no"/>tus es suscita in sempiternum, &amp; fac sicut promisisti. 
+      <lb ed="#P" n="45"/>Quae oratio non significat fieri posse, ut Dominus 
+      <lb ed="#P" n="46"/>promissionem suam non impleat; sed gratiam &amp; 
+      <lb ed="#P" n="47"/>misericordiam agnoscit in promissione. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e417">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> In hunc igitur quem diximus sensum recte etiam 
+      <lb ed="#P" n="49"/>accipiuntur verba Joannis Roffensis contra 
+      Luthe<lb ed="#P" n="50" break="no"/>rum disputantis. Veniale enim in justis ex misericor 
+      <lb ed="#P" n="51"/>dia Dei veniale est; sed quam misericordiam ex 
+      de<lb ed="#P" n="52" break="no"/>bito quodam secum trahit, propter justitiae 
+      perse<lb ed="#P" n="53" break="no"/>verantiam ejus in quo reperitur. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e435">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Eadem responsio est ad primam rationem. 
+      <lb ed="#P" n="55"/>Ad secundam respondetur; omne opus bonum 
+      <lb ed="#P" n="56"/>ex charitate profectum mereri vitam aeternam. 
+      <lb ed="#P" n="57"/>propter finem ultimum ad quem refertur; quem 
+      fi<lb ed="#P" n="58" break="no"/>nem quia non omne peccatum tollit, ideo non 
+      <lb ed="#P" n="59"/>omne meretur aeternam mortem. 
+    </p>
+            <p xml:id="bt67yj-p151864-d1e453">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Ad tertiam dicendum; id prorsus evenire per 
+      acci<lb ed="#P" n="61" break="no"/>dens, quod damnatis venialia nunquam remittantur, 
+      <lb ed="#P" n="62"/>eo quod in illis inveniantur conjuncta mortalibus. 
+      <lb ed="#P" n="63"/>Deinde nec mirum, eos venialium remissionem 
+      <lb ed="#P" n="64"/>nunquam consequi, quando omnis peccati remissio 
+      <lb ed="#P" n="65"/>poenitentiam praesupponit, quae in illis vera non est, 
+      <lb ed="#P" n="66"/>nec esse potest. Unde Gregor. lib. 4. dialog. cap. 39. 
+      <lb ed="#P" n="67"/>Hoc sciendum, inquit, quia in futuro saeculo saltem 
+      <lb ed="#P" n="68"/>de minimis peccatis nihil quisque purgationis 
+      obti<lb ed="#P" n="69" break="no"/>nebit, nisi bonis hoc actibus in hac adhuc vita 
+      posi<lb ed="#P" n="70" break="no"/>tus, ut illic obtineat, promereatur. Quae verba 
+      Gre<lb ed="#P" n="71" break="no"/>gor. notanda sunt pro hac sententia, quae poenam 
+      <lb ed="#P" n="72"/>venialium in damnatis ponit aeternam. Quod idem 
+      <lb ed="#P" n="73"/>confirmant Dionys. &amp; August. &amp; quotquot dicunt, 
+      <lb ed="#P" n="74"/>ideo prodesse defunctis ad poenarum relaxationem 
+      <!--0626.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>opera fidelium viventium quia ut haec illis 
+      pro<lb ed="#P" n="76" break="no"/>dessent, bonis operibus meruerunt. Hoc enim 
+      vo<lb ed="#P" n="77" break="no"/>lunt isti authores, quod remoto tali merito 
+      pro<lb ed="#P" n="78" break="no"/>priorum operum in hac vita, defuncti nullam 
+      pos<lb ed="#P" n="79" break="no"/>sint consequi suarum poenarum 
+      diminutionem<lb ed="#P" n="80" break="no"/>Unde manifeste consequens est, eos etiam pro 
+      ve<lb ed="#P" n="81" break="no"/>nialibus semper puniri.
+    </p>
+            <p xml:id="bt67yj-p151864-d1e510">
+               <lb ed="#P" n="82"/>Ad quartam; non ideo mortale peccatum mereri 
+      <lb ed="#P" n="83"/>mortem aeternam, quia fit contra Deum; sed quia 
+      <lb ed="#P" n="84"/>sic contra Deum fit, ut Deo, qui est bonum infinitum, 
+      <lb ed="#P" n="85"/>privet, id est, ab ejus gratia &amp; amicitia hominem 
+      <lb ed="#P" n="86"/>excludat, quod venialia non faciunt. Ratio 
+      diversi<lb ed="#P" n="87" break="no"/>tatis hujus est; quia peccata mortalia tollunt 
+      ordi<lb ed="#P" n="88" break="no"/>nem ad finem, id est, Deum, non autem venialia. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

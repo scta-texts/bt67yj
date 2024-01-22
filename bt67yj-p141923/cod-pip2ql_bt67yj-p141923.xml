@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="366"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p141923"><!-- l2d32c8" -->
+            <head xml:id="bt67yj-p141923-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-p141923-Hd1e103" type="question-title">In quo malorum genere concupiscentia renatorum 
+      collocanda sit</head>
+            <p xml:id="bt67yj-p141923-d1e106">
+               <lb ed="#P" n="122"/>§. 8. In quo malorum genere concupiscentia renatorum 
+      <lb ed="#P" n="123"/>collocanda sit. 
+    </p>
+            <p xml:id="bt67yj-p141923-d1e113">
+               <lb ed="#P" n="124"/>REnatorum concupiscentiam non esse Deo 
+      au<lb ed="#P" n="125" break="no"/>thori tribuendam, satis ex doctrina dist. 30. 
+      per<lb ed="#P" n="126" break="no"/>spicuum est, ubi generaliter de concupiscentia 
+      osten<lb ed="#P" n="127" break="no"/>sum est, eam non esse opus Dei, ut quae semper 
+      ma<lb ed="#P" n="128" break="no"/>la sit, &amp; oppugnanda etiam post baptismum, 
+      tan<lb ed="#P" n="129" break="no"/>quam incitatrix ad transgressionem legis divinae. 
+      <lb ed="#P" n="130"/>Quaeritur ergo, in quo malorum genere collocanda 
+      <lb ed="#P" n="131"/>sit concupiscentia renatorum. Cum enim mala alia 
+      <lb ed="#P" n="132"/>sint poenae, alia culpae, &amp; concupiscentia post 
+      bap<lb ed="#P" n="133" break="no"/>tismum culpa non sit (diluitur enim omnis culpa 
+      <lb ed="#P" n="134"/>per baptismum) consequens videtur, ut iis 
+      annu<lb ed="#P" n="135" break="no"/>meranda sit malis, quae tantum sint poenae. Talia 
+      <lb ed="#P" n="136"/>autem Deum habent authorem, ut mors, morbi, 
+      <lb ed="#P" n="137"/>fames, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p141923-d1e146">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Ad quod respondetur, dictae divisioni qua malum 
+      <lb ed="#P" n="139"/>dividitur in malum poenae, quod Deum habet 
+      autho<lb ed="#P" n="140" break="no"/>rem, &amp; malum culpae, quod Deum non habet 
+      autho<lb ed="#P" n="141" break="no"/>rem; tertium membrum addendum esse, quo 
+      mix<lb ed="#P" n="142" break="no"/>tum quodammodo ex utroque malo contineatur, 
+      <!--0600.xml-->
+      <pb ed="#P" n="367"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quale est concupiscentia post baptismum. 
+      Quatenus<lb ed="#P" n="2" break="no"/>enim repugnat legi mentis, &amp; mala desideria in 
+      ho<lb ed="#P" n="3" break="no"/>mine operatur, Rom. 7. participat aliquousque cum 
+      <lb ed="#P" n="4"/>malo culpae, &amp; a Deo non est; quatenus vero per 
+      <lb ed="#P" n="5"/>eam primi hominis peccatum juste vindicatum est, 
+      <lb ed="#P" n="6"/>ipsisque renatis molestiam, taedium &amp; difficultatem 
+      <lb ed="#P" n="7"/>adfert boni operis, juxta illud, Job. 7. Quare me 
+      <lb ed="#P" n="8"/>posuisti contrarium tibi &amp; factus sum mihimetipsi 
+      gra<lb ed="#P" n="9" break="no"/>vis? a Deo est, ut justo judice, &amp; participat cum 
+      ma<lb ed="#P" n="10" break="no"/>lo poenae. Quanquam in renatis simpliciter poena, 
+      <lb ed="#P" n="11"/>non culpa vocanda est. Simpliciter quidem poena; 
+      <lb ed="#P" n="12"/>quia tota ratio poenae in ea invenitur, est enim malum 
+      <lb ed="#P" n="13"/>involuntarium; at non simpliciter culpa, quia non 
+      <lb ed="#P" n="14"/>est voluntarium, sine quo plena ratio culpae non 
+      <lb ed="#P" n="15"/>consistit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

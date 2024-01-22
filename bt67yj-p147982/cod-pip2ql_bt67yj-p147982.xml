@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="382"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p147982"><!-- l2d39c2" -->
+            <head xml:id="bt67yj-p147982-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p147982-Hd1e103" type="question-title">Quo sensu homo peccator naturaliter dicatur 
+      velle bonum</head>
+            <p xml:id="bt67yj-p147982-d1e106">
+               <lb ed="#P" n="59"/>§. 2. Quo sensu homo peccator naturaliter dicatur 
+      <lb ed="#P" n="60"/>velle bonum.
+    </p>
+            <p xml:id="bt67yj-p147982-d1e113">
+               <lb ed="#P" n="61"/>QUatuor modis intelligi potest, quod ex 
+      com<lb ed="#P" n="62" break="no"/>mentario Ambrosiano in epist. ad Rom. dicit 
+      <lb ed="#P" n="63"/>Magister, hominem subjectum peccato naturaliter 
+      <lb ed="#P" n="64"/>velle bonum. Primo, propter substantiam actus, 
+      <lb ed="#P" n="65"/>quae in omni peccato semper bona  est. Secundo, 
+      <lb ed="#P" n="66"/>plopter generale objectum voluntatis, quod est 
+      bo<lb ed="#P" n="67" break="no"/>num ut tale; licet non semper bonum simpliciter, 
+      <lb ed="#P" n="68"/>sed saepenumero apparens tantum. Nemo enim 
+      res<lb ed="#P" n="69" break="no"/>piciuns ad malum operatur, ut ait Dionysius lib. de 
+      <lb ed="#P" n="70"/>divinis nominibus. Tertio, quia homo in bona &amp; 
+      <lb ed="#P" n="71"/>recta voluntate conditus est, ideóque non inepte 
+      <!--0615.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>dicitur naturaliter bonum velle, juxta eum 
+      mo<lb ed="#P" n="73" break="no"/>dum quo id naturale dicitur, quod cuique in sua 
+      <lb ed="#P" n="74"/>creatione attributum est. Quartus modus est, quo 
+      <lb ed="#P" n="75"/>quis velle dicitur bonum propter inclinationes seu 
+      <lb ed="#P" n="76"/>impulsus quosdam voluntatis ad bonum, qui 
+      sequun<lb ed="#P" n="77" break="no"/>tur generalem illam eamque imperfectam &amp; 
+      confu<lb ed="#P" n="78" break="no"/>sam boni cognitionem homini naturaliter insitam, 
+      <lb ed="#P" n="79"/>atque in eo relictam post peccatum; quae ex se nata 
+      <lb ed="#P" n="80"/>est voluntatem aliquo usque movere &amp; impellere ad 
+      <lb ed="#P" n="81"/>illud bonum, quod ita cognoscitur. Hujusmodi sunt, 
+      <lb ed="#P" n="82"/>beatitudinem amandam esse, miseriam fugiendam, 
+      <lb ed="#P" n="83"/>veritati assentiendum., honestum amplectendum, 
+      <lb ed="#P" n="84"/>imo &amp; quaedam magis particularia, ut Deum 
+      colen<lb ed="#P" n="85" break="no"/>dum, parentibus obediendum, benefactores 
+      dili<lb ed="#P" n="86" break="no"/>gendos, &amp; similia, 
+    </p>
+            <p xml:id="bt67yj-p147982-d1e176">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Haec porro habitualis cognitio menti impressa, 
+      <lb ed="#P" n="88"/>varie ab authoribus nuncupatur, ut conscientia, 
+      <lb ed="#P" n="89"/>conscientiae dictamen, lex naturalis, scintilla 
+      ra<lb ed="#P" n="90" break="no"/>tionis, συυτήρησης, tametsi conscientiam a synderesi 
+      <lb ed="#P" n="91"/>quidam subtiliter magis quam ex certa ratione 
+      di<lb ed="#P" n="92" break="no"/>stinguant. Generaliter enim per utramque 
+      significa<lb ed="#P" n="93" break="no"/>ta est apud authores vetustos ea pars animae, quae 
+      bo<lb ed="#P" n="94" break="no"/>ni cognitionem retinens ad ipsum sequendum 
+      im<lb ed="#P" n="95" break="no"/>pellit, vitiisque &amp; corruptioni rationalis naturae 
+      re<lb ed="#P" n="96" break="no"/>sistit. Quae quidem notitia nec in damnatis 
+      extin<lb ed="#P" n="97" break="no"/>guitur, de quibus propter perpetuum conscientiae 
+      <lb ed="#P" n="98"/>remorsum dictum est, quod vermis eorum non 
+      mo<lb ed="#P" n="99" break="no"/>ritur. Unde Hieronymus scribens in Ezechielis 1. 
+      <lb ed="#P" n="100"/>ad illud: Et scintillae quasi aspectus aeris candentis. Ea, 
+      <lb ed="#P" n="101"/>inquit, quam Graeci vocant συντήρησιν, scintilla 
+      con<lb ed="#P" n="102" break="no"/>scientiae, in Cain quoque pectore postquam ejectus 
+      <lb ed="#P" n="103"/>est de paradiso, non extinguitur; &amp; qua victi 
+      volupta<lb ed="#P" n="104" break="no"/>tibus, vel furore, ipsaque interdum rationiselecepti 
+      <lb ed="#P" n="105"/>similitudine, nos peccare sentimus. Hanc &amp; ille in 
+      <lb ed="#P" n="106"/>se agnovit, quae dixit: 
+    </p>
+            <p xml:id="bt67yj-p147982-d1e225">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Video meliora proboque, deteriora sequor. 
+      <lb ed="#P" n="108"/>Quo versu &amp; intellectus id quod bonum est 
+      cogno<lb ed="#P" n="109" break="no"/>scens, &amp; voluntas eidem bono aliquosque affecta, 
+      <lb ed="#P" n="110"/>&amp; eadem voluntas malum oppositum deliberate 
+      se<lb ed="#P" n="111" break="no"/>quens, breviter simul &amp; argute significata est. 
+    </p>
+            <p xml:id="bt67yj-p147982-d1e241">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Quod autem Hieronymus loco jam citato paulo 
+      <lb ed="#P" n="113"/>infra dicit; hanc quoque ipsam conscientiam juxta 
+      <lb ed="#P" n="114"/>id quod in Proverbiis cap. 18. scriptum est, Impius 
+      <lb ed="#P" n="115"/>cum venerit in profundum peccatorum contemnit, 
+      prae<lb ed="#P" n="116" break="no"/>cipitari apud quosdam &amp; suum locum amittere; 
+      <lb ed="#P" n="117"/>non propterea dictum, quod aliquando extinguatur 
+      <lb ed="#P" n="118"/>penitus haec rationis scintilla in homine, sed quod 
+      <lb ed="#P" n="119"/>ab actu suo, qui est incitare ad bonum, interdum 
+      <lb ed="#P" n="120"/>propter magnam malitiam vel caecitatem hominis 
+      <lb ed="#P" n="121"/>impeditur; idque vel ad tempus, ut contingit in 
+      <lb ed="#P" n="122"/>hac vita; vel in perpetuum, ut fit in damnatis, 
+      <lb ed="#P" n="123"/>in quibus conscientia seu synderesis non alium 
+      ha<lb ed="#P" n="124" break="no"/>bet usum, quam quod assidue obmurmuret contra 
+      <lb ed="#P" n="125"/>malum, atque hoc pacto animum velut pungat &amp; 
+      <lb ed="#P" n="126"/>mordeat, unde &amp; actus ejus remorsus conscientiae 
+      <lb ed="#P" n="127"/>vocatur. Haec autem obmurmuratio tantum poenae 
+      <lb ed="#P" n="128"/>rationem in illis habet, non etiam justitiae, bonive 
+      <lb ed="#P" n="129"/>moralis. Porro nonnulla huc pertinentia supra 
+      quo<lb ed="#P" n="130" break="no"/>que a nobis dicta sunt ad dist. 24. hujus libri, ubi 
+      <lb ed="#P" n="131"/>quaerebatur, an peccatis actualibus laedatur bonum 
+      <lb ed="#P" n="132"/>naturae.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

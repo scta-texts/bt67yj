@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="116"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p044836"><!-- l2d13c1" -->
+            <head xml:id="bt67yj-p044836-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p044836-Hd1e103" type="question-title">Lux primo die facta cujusmodi fuerit</head>
+            <p xml:id="bt67yj-p044836-d1e106">
+               <lb ed="#P" n="125"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="126"/>DECIMAMTERTIAM. 
+      <lb ed="#P" n="127"/>§. 1. Lux primo die facta cujusmodi fuerit.
+    </p>
+            <p xml:id="bt67yj-p044836-d1e115">
+               <lb ed="#P" n="128"/>CAELUM &amp; terram ad opus primi diei 
+      pertine<lb ed="#P" n="129" break="no"/>re non autem facta esse ante primum diem, 
+      <lb ed="#P" n="130"/>ut quidam opinantur, hoc loco supponimus: 
+      <lb ed="#P" n="131"/>inferius id ostensuri ubi de ordine diei &amp; noctis 
+      <lb ed="#P" n="132"/>agemus. Secuta est autem die operatio quaedam 
+      di<lb ed="#P" n="133" break="no"/>stinctionis, id est, qua distingui, formari, &amp; 
+      exorna<lb ed="#P" n="134" break="no"/>ri coepit, quod initio informe factum fuerat. Fecit 
+      <lb ed="#P" n="135"/>enim Deus lucem, eamque a tenebris discrevit &amp; 
+      <lb ed="#P" n="136"/>diem appellavit. 
+    </p>
+            <p xml:id="bt67yj-p044836-d1e137">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> De hac luce statim quaestio occurrit; quomodo 
+      pri<lb ed="#P" n="138" break="no"/>mo die facta referatur, cum eadem scriptura 
+      teste<lb ed="#P" n="139" break="no"/>tur, quarto demum die facta esse luminaria, solem, 
+      <lb ed="#P" n="140"/>lunam, &amp; stellas; quae si a luce illa diversa sint, 
+      <!--0350.xml-->
+      <pb ed="#P" n="117"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>explicandum qualis ea lux fuerit, &amp; quo tandem 
+      <lb ed="#P" n="2"/>abscesserit. Respondent Hebraei quidam solem &amp; 
+      <lb ed="#P" n="3"/>lunam creata fuisse primo die, idque satis intelligi 
+      <lb ed="#P" n="4"/>per distinctionem diei &amp; noctis eo die factam. 
+      <lb ed="#P" n="5"/>Quod autem in quarto die scribantur sol &amp; luna, 
+      <lb ed="#P" n="6"/>quadam repetitione factum volunt. Quoniam enim, 
+      <lb ed="#P" n="7"/>ut aiunt, quarto die stellae fuerunt conditae, 
+      mentio<lb ed="#P" n="8" break="no"/>nem adjecit Moyses &amp; majorum astrorum, ut 
+      uni<lb ed="#P" n="9" break="no"/>versum ornatum caelestem eo die absolutum 
+      osten<lb ed="#P" n="10" break="no"/>deret, dum stellae adduntur ad solem &amp; lunam jam 
+      <lb ed="#P" n="11"/>ante creata. Sed haec expositio violenta est. Nam 
+      o<lb ed="#P" n="12" break="no"/>pus quarti diei significatum fuisse illis verbis: Dixit 
+      <lb ed="#P" n="13"/>Deus, fiant luminaria in firmamento caeli, &amp;c. certum 
+      <lb ed="#P" n="14"/>&amp; indubitatum est: Atqui scriptura seipsam 
+      expo<lb ed="#P" n="15" break="no"/>nens dicit Deum cum hoc verbo fecisse luminaria 
+      <lb ed="#P" n="16"/>magna &amp; stellas, adeo ut manifestius creationem 
+      <lb ed="#P" n="17"/>solis &amp; lunae asscribat quarto diei (haec enim diserte 
+      <lb ed="#P" n="18"/>interpretatur luminaria (quam creationem 
+      stella<lb ed="#P" n="19" break="no"/>rum, quas expresse eo nomine non vocat, licet 
+      sub<lb ed="#P" n="20" break="no"/>audiendum relinquat stellas esse luminaria, 
+      eadem<lb ed="#P" n="21" break="no"/>que minora ex eo quod solem &amp; lunam vocaverat 
+      <lb ed="#P" n="22"/>magna luminaria. 
+    </p>
+            <p xml:id="bt67yj-p044836-d1e205">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Graecorum quorumdam opinio est lucem primo 
+      <lb ed="#P" n="24"/>die creatam extitisse sine subjecto usque ad 
+      quar<lb ed="#P" n="25" break="no"/>tum diem, quo facta sunt ea corpora quae luminaria 
+      <lb ed="#P" n="26"/>dicuntur, scilicet primigenia luce in ipsis recepta. 
+      <lb ed="#P" n="27"/>Legitur id apud Basilium homilia 6. Hexameron, 
+      <lb ed="#P" n="28"/>&amp; Damascenum, lib. 2. de fide cap. 7. Sed &amp; hoc 
+      im<lb ed="#P" n="29" break="no"/>probabile est. Neque enim credibile est in ipsa 
+      na<lb ed="#P" n="30" break="no"/>turae institutione Deum aliquid fecisse contra 
+      natu<lb ed="#P" n="31" break="no"/>ram quam instituebat, quale est, ut sit accidens sine 
+      <lb ed="#P" n="32"/>subjecto. Verumtamen (ut hoc saltem obiter 
+      an<lb ed="#P" n="33" break="no"/>notemus) vel hinc intelligitur, quam non fuerit 
+      <lb ed="#P" n="34"/>illis patribus absurdum, quod hodierni sectarii 
+      ve<lb ed="#P" n="35" break="no"/>lut absurdum &amp; impossibile rejiciunt divina virtuto 
+      <lb ed="#P" n="36"/>accidens existere sine subjecto, prout ecclesia fieri 
+      <lb ed="#P" n="37"/>docet in sacramento Eucharistiae. 
+    </p>
+            <p xml:id="bt67yj-p044836-d1e242">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Est autem multo probabilius per illam lucem 
+      in<lb ed="#P" n="39" break="no"/>telligi vel corpus aliquod lucidum, vel potius 
+      ip<lb ed="#P" n="40" break="no"/>sam qualitatem, a qua quid lucidum vocatur, 
+      ma<lb ed="#P" n="41" break="no"/>gni caeli parte diffusam. Quae quidem lucida caeli 
+      <lb ed="#P" n="42"/>pars tunc fuerit instar materiae ex qua postmodum 
+      <lb ed="#P" n="43"/>in partes distributa, ac veluti in igneos globos 
+      con<lb ed="#P" n="44" break="no"/>densata sol, luna, caeteraeque stellae factae fucrint. 
+      <lb ed="#P" n="45"/>Huic sententiae congruentia leguntur apud 
+      Diony<lb ed="#P" n="46" break="no"/>sium lib. de divinis nominibus parte I. cap. 4. quem 
+      <lb ed="#P" n="47"/>sequuntur S. Thomas &amp; Bonaventura cum 
+      pleris<lb ed="#P" n="48" break="no"/>que aliis. Disputat de eadem re Aug. lib. 1. de Gen. 
+      <lb ed="#P" n="49"/>ad lit. cap. 10. &amp; 11. sed ita ut nihil definiat. 
+    </p>
+            <p xml:id="bt67yj-p044836-d1e273">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Confirmatur autem dicta expositio per hoc, quod 
+      <lb ed="#P" n="51"/>in aliis quoque operibus a confusis ad distincta, &amp; 
+      <lb ed="#P" n="52"/>omnino ab imperfectis ad perfecta Deus 
+      processe<lb ed="#P" n="53" break="no"/>rit. Unde sicut terra primum confusa, deinde ab 
+      <lb ed="#P" n="54"/>aquis separata, tertio ornatum accepit rerum ex ea 
+      <lb ed="#P" n="55"/>germinantium; ita primo res fuere in tenebris, 
+      dein<lb ed="#P" n="56" break="no"/>de luce creata divisit Deus inter noctem &amp; diem, ac 
+      <lb ed="#P" n="57"/>postremo mundum luminaribus exornavit. Nam 
+      <lb ed="#P" n="58"/>ut bene tradunt quidam, lux primo die creata 
+      at<lb ed="#P" n="59" break="no"/>que per caelum diffusa, non fuit tantae claritatis, 
+      <lb ed="#P" n="60"/>quanta est claritas solis, sed multo remissior; ut 
+      qua<lb ed="#P" n="61" break="no"/>lis est in aurora vel crepusculo diei. Nam lucem 
+      uni<lb ed="#P" n="62" break="no"/>tam &amp; collectam clariorem effici, luminis exemplo 
+      <lb ed="#P" n="63"/>quod intensius redditur, quoties radiis repercussis in 
+      <lb ed="#P" n="64"/>se reflectitur, facile est probare.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

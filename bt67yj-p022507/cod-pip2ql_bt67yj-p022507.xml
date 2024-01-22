@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="58"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p022507"><!-- l2d7c3" -->
+            <head xml:id="bt67yj-p022507-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p022507-Hd1e103" type="question-title">Angelos bonos esse in bono confirmatos</head>
+            <p xml:id="bt67yj-p022507-d1e106">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> §. 3. Angelos bonos esse in bono confirmatos.
+    </p>
+            <p xml:id="bt67yj-p022507-d1e113">
+               <lb ed="#P" n="96"/>SAncti angeli ex quo praemium perseverantiae 
+      ac<lb ed="#P" n="97" break="no"/>ceperunt aeternam beatitudinem, id est, 
+      visio<lb ed="#P" n="98" break="no"/>nem Dei perpetuo duraturam juxta illud: Angeli 
+      <lb ed="#P" n="99"/>eorum semper vident faciem patris, etiam hoc 
+      conse<lb ed="#P" n="100" break="no"/>cuti sunt quod in bona voluntate sint confirmati, sic 
+      <lb ed="#P" n="101"/>ut peccare jam omnino non possint; quod quidem 
+      <lb ed="#P" n="102"/>ex illo priori consequitur necessario. Qui enim 
+      sum<lb ed="#P" n="103" break="no"/>mum &amp; incommutabile bonum, sicut est, intuetur, 
+      <lb ed="#P" n="104"/>non potest quamdiu boni illius contemplatione 
+      <lb ed="#P" n="105"/>fruitur, aliquid velle quod illo bono repugnet, uti 
+      <lb ed="#P" n="106"/>nec in errorem labi potest, qui oculos mentis ab 
+      ea<lb ed="#P" n="107" break="no"/>dem summa veritate nusquam avertit. Quod ut 
+      in<lb ed="#P" n="108" break="no"/>telligatur, sciendum est eum qui videt-Deum per 
+      <lb ed="#P" n="109"/>essentiam, ita affectum esse ad Deum, sicut 
+      quicum<lb ed="#P" n="110" break="no"/>que alius non videns Deum se habet ad communem 
+      <lb ed="#P" n="111"/>rationem boni. Nam essentia Dei quam videt, est 
+      <lb ed="#P" n="112"/>ipsa essentia bonitatis, atqui impossibile est ut 
+      quis<lb ed="#P" n="113" break="no"/>quam velit aliquid aut operetur nisi respiciens ad 
+      <lb ed="#P" n="114"/>bonum, authore Dionys. libr. de divinis nominibus 
+      <lb ed="#P" n="115"/>cap. 4. parte 4. quare nec is qui Deum videt, velle 
+      <lb ed="#P" n="116"/>aut agere quicquam potest, nisi intendens in Deum, 
+      <lb ed="#P" n="117"/>&amp; proinde quamdiu Deum videt, non potest 
+      pec<lb ed="#P" n="118" break="no"/>care. Utitur hac probatione S. Thomas 1. parte qui 
+      <lb ed="#P" n="119"/>62. art. 8. 1. secundae quaest. 4. art. 4. Sed notandum 
+      <lb ed="#P" n="120"/>quod haec ratio tantum probat angelos esse 
+      confir<lb ed="#P" n="121" break="no"/>matos in bono quamdiu vident Deum per 
+      essen<lb ed="#P" n="122" break="no"/>tiam, non autem probat quod in aeternum cadere 
+      <lb ed="#P" n="123"/>non possint, nisi dato &amp; praesupposito quod semper 
+      <lb ed="#P" n="124"/>Deum videbunt. Nam alioqui potest Deus se alicui 
+      <lb ed="#P" n="125"/>ad tempus praebere videndum, &amp; talis per hoc non 
+      <lb ed="#P" n="126"/>habebit securitatem non amplius cadendi, nec est 
+      <lb ed="#P" n="127"/>perfecte beatus; quia potest ab eo auferri lumen 
+      <lb ed="#P" n="128"/>gloriae, &amp; ideo non habet securitatem, durante 
+      ta<lb ed="#P" n="129" break="no"/>men visione peccare non potest. Est igitur alia 
+      ple<lb ed="#P" n="130" break="no"/>nior probatio quam idem doctor 1. 2. quaest. 5. art. 
+      <lb ed="#P" n="131"/>4. adfert ex commini ratione beatitudinis. Cum 
+      <lb ed="#P" n="132"/>enim beatitudo sit bonum perfectum &amp; sufficiens, 
+      <lb ed="#P" n="133"/>oportet ut tale sit, quod desiderium habentis 
+      quie<lb ed="#P" n="134" break="no"/>tet, &amp; ab eo omne malum excludat: Est autem 
+      na<lb ed="#P" n="135" break="no"/>turale cuique ut retinere velit bonum quod habet, 
+      <lb ed="#P" n="136"/>utque ejus perpetuo retinendi securitatem habere 
+      <lb ed="#P" n="137"/>cupiat. Nam alioqui malum timoris &amp; tristitiae non 
+      <lb ed="#P" n="138"/>excludetur. Quare ad veram beatitudinem 
+      requiri<lb ed="#P" n="139" break="no"/>tur ut quis certam animo complectatur 
+      persuasio<lb ed="#P" n="140" break="no"/>nem boni numquam amittendi, quae quidem 
+      persua<lb ed="#P" n="141" break="no"/>sio si vera est, consequitur eum nunquam 
+      amissu<lb ed="#P" n="142" break="no"/>rum beatitudinem, &amp; proinde nunquam aliquid 
+      ma<lb ed="#P" n="143" break="no"/>li commissurum, quia beatitudo omne malum 
+      exclu<lb ed="#P" n="144" break="no"/>dit; si falsa, jam eo ipso malum quoddam habet, id 
+      <lb ed="#P" n="145"/>est, falsam persuasionem, ideóque beatus non est.
+    </p>
+            <p xml:id="bt67yj-p022507-d1e224">
+      <!--0292.xml-->
+               <pb ed="#P" n="59"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Alia ratio ex Durando scribenti in hanc 
+      distinctio<lb ed="#P" n="2" break="no"/>nem: Beati, inquit, videntes Deum plene cognoscunt 
+      <lb ed="#P" n="3"/>omnia quae ad se spectant, &amp; quaecumque a se agenda 
+      <lb ed="#P" n="4"/>sunt. Cum ergo non existente errore in intellectu 
+      <lb ed="#P" n="5"/>non possit esse perversitas neque peccatum in 
+      volun<lb ed="#P" n="6" break="no"/>tate, consequens est, beatos Deum videntes 
+      pecca<lb ed="#P" n="7" break="no"/>re non posse. 
+    </p>
+            <p xml:id="bt67yj-p022507-d1e249">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Alia ratio: Beatus non potest nolle 
+      beatitudi<lb ed="#P" n="9" break="no"/>nem, uti nec potest velle miseriam; atqui 
+      certissi<lb ed="#P" n="10" break="no"/>me novit se statim simul atque peccaverit, imo eo 
+      <lb ed="#P" n="11"/>ipso quo peccat, amissurum beatitudinem; ergo non 
+      <lb ed="#P" n="12"/>potest velle peccare. 
+    </p>
+            <p xml:id="bt67yj-p022507-d1e265">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Rursum alia: Beatus vult in omnibus Deo 
+      place<lb ed="#P" n="14" break="no"/>re, &amp; in vita beata perseverare. Novit autem optime 
+      <lb ed="#P" n="15"/>ad utrumque illorum necessarium esse ut non peccet, 
+      <lb ed="#P" n="16"/>nunquam ergo vult peccare. Quae sequela sicut &amp; 
+      <lb ed="#P" n="17"/>argumenti proxime praecedentis probatur; quia 
+      qui<lb ed="#P" n="18" break="no"/>cunque efficaciter vult finem, vult etiam efficaciter 
+      <lb ed="#P" n="19"/>media quae novit ad finem esse necessaria, nec non 
+      <lb ed="#P" n="20"/>efficaciter refugit ea omnia quae a fine abducunt. 
+    </p>
+            <p xml:id="bt67yj-p022507-d1e287">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Hae rationes ostendunt sanctos angelos &amp; 
+      quos<lb ed="#P" n="22" break="no"/>cumque beatos impeccabiles esse, idque ex natura 
+      <lb ed="#P" n="23"/>&amp; statu ipsius beatitudinis, &amp; non tantum ex dono 
+      <lb ed="#P" n="24"/>seu privilegio gratiae eos in bono confirmantis, quasi 
+      <lb ed="#P" n="25"/>visio beatifica per se ad hoc non sufficeret, sicut 
+      opi<lb ed="#P" n="26" break="no"/>nati sunt Scotus &amp; Gabriel ac nonnulli alii. 
+      Quam<lb ed="#P" n="27" break="no"/>quam non est negandum gratiam in bono 
+      confir<lb ed="#P" n="28" break="no"/>mantem quibusdam dari nondum beatis, quibus 
+      <lb ed="#P" n="29"/>proinde non competit peccabilitas ex statu 
+      beatitudi<lb ed="#P" n="30" break="no"/>nis. Nam antiqui patres in lymbo peccare non 
+      <lb ed="#P" n="31"/>poterant, non ratione beatificae visionis, qua 
+      non<lb ed="#P" n="32" break="no"/>dum potiebantur, sed quia donum gratiae 
+      confir<lb ed="#P" n="33" break="no"/>mantis excludebat ab eis omne peccatum, &amp; idem 
+      <lb ed="#P" n="34"/>est judicium de animabus quae sunt in purgatorio. 
+      <lb ed="#P" n="35"/>Unde apparet in beatis duplicem esse rationem 
+      im<lb ed="#P" n="36" break="no"/>peccabilitatis, unam ac praecipuam ex statu 
+      beati<lb ed="#P" n="37" break="no"/>tudinis, alteram ex beneficio gratiae confirmantis, 
+      <lb ed="#P" n="38"/>&amp; utramque per se sufficientem, adeo ut si ponamus 
+      <lb ed="#P" n="39"/>beatis ad tempus subtrahi beatificum aspectum Dei, 
+      <lb ed="#P" n="40"/>tamen adhuc eis impeccabilitas competeret ex eo 
+      <lb ed="#P" n="41"/>dono, quo sunt in gratia confirmati, sicut 
+      compete<lb ed="#P" n="42" break="no"/>bat iisdem in lymbo vel purgatorio existentibus 
+      an<lb ed="#P" n="43" break="no"/>tequam Deum viderent. 
+    </p>
+            <p xml:id="bt67yj-p022507-d1e342">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Porro ad praesentis doctrinae confirmationem 
+      il<lb ed="#P" n="45" break="no"/>lud imprimis valet, quod in Origene jam olim 
+      om<lb ed="#P" n="46" break="no"/>nium catholicorum consensu damnatum fuerit 
+      dog<lb ed="#P" n="47" break="no"/>ma, quo docuit post certas annorum revolutiones 
+      <lb ed="#P" n="48"/>futurum, ut &amp; angeli boni, omnesque justae animae 
+      <lb ed="#P" n="49"/>peccarent ac peccati merito in gchennam 
+      mitteren<lb ed="#P" n="50" break="no"/>tur, atque e diverso daemones animaeque damnatae 
+      <lb ed="#P" n="51"/>poenitentiam agerent, veniamque consequerentur. 
+      <lb ed="#P" n="52"/>&amp; ad foelicitatem pervenirent. Addebat autem hanc 
+      <lb ed="#P" n="53"/>commutationem infinities factam, &amp; adhuc 
+      infini<lb ed="#P" n="54" break="no"/>ties futuram esse, scilicet infinitis seculis, quae ille 
+      <lb ed="#P" n="55"/>tam praeterita quam futura ponebat ex errore 
+      Pla<lb ed="#P" n="56" break="no"/>tonicorum, qui reditum rerum omnium simul cum 
+      <lb ed="#P" n="57"/>tempore post magnum annum evolutum finxerunt. 
+      <lb ed="#P" n="58"/>Contra quos docte disputat S. Augustinus lib. II. de 
+      <lb ed="#P" n="59"/>civit. Dei, cap. 4. &amp; 5. &amp; lib. 12. cap. 13. &amp; aliquot 
+      <lb ed="#P" n="60"/>sequentibus. Et haec vel sola sufficiens causa fuit, ob 
+      <lb ed="#P" n="61"/>quam Origenes in Synodis Oecumenicis quinta, &amp; 
+      <lb ed="#P" n="62"/>sexta nominatim haerescos condemnetur. Contra 
+      <lb ed="#P" n="63"/>quem errorem agens Epihanius in epistola ad 
+      Joan<lb ed="#P" n="64" break="no"/>nem Hierosolymitanum, inserta epistolis 
+      Hierony<lb ed="#P" n="65" break="no"/>mi: Ergo, inquit, inter alia Petrus, &amp; Paulus erunt 
+      <lb ed="#P" n="66"/>cohaeredes diaboli; quia sola illatione putavit abunde 
+      <lb ed="#P" n="67"/>satis apparere dogmatis illius absurditatem. Vide 
+      <lb ed="#P" n="68"/>eundem Epiphanium in haeresi Origenistarum 
+      num<lb ed="#P" n="69" break="no"/>64. ac de eadem Philastrium, nec non S. 
+      Augusti<lb ed="#P" n="70" break="no"/>num haeresi 43. Quod autem peccare nequeant 
+      an<lb ed="#P" n="71" break="no"/>geli sancti, docet idem S. Augustinus multis locis, 
+      <lb ed="#P" n="72"/>ut Enchiridii cap. 57. &amp; 105. lib. 11. de Genesi ad 
+      <lb ed="#P" n="73"/>literam cap. 7. lib. 11. de civitate Dei, cap. 11. &amp; 13. 
+      <lb ed="#P" n="74"/>&amp; lib. 12. cap. 9. lib. de correptione &amp; gratia, cap. 
+      <!--0292.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>10. &amp; 11. In expositione psal. 56. &amp; homilia 32. cap. 
+      <lb ed="#P" n="76"/>5. Idem docet sanctus Basilius lib. de Spiritu sancto, 
+      <lb ed="#P" n="77"/>cap. 16. Joan. Chrysostomus, vel quisquis author, 
+      <lb ed="#P" n="78"/>homilia in Eliam, ubi angelos impeccabiles 
+      vocat<lb ed="#P" n="79" break="no"/>Prosper lib. 1. de vita contemplativa cap. 3. ubi in 
+      <lb ed="#P" n="80"/>angelis esse dicit voluntariam ac foelicem in justitia 
+      <lb ed="#P" n="81"/>permanendi necessitatem. Vincentius Lirinensis in 
+      <lb ed="#P" n="82"/>libello contra haereticas novitates, Fulgentius libr. 
+      <lb ed="#P" n="83"/>de fide ad Petrum capit. 3. &amp; 23. Sanctus Gregorius 
+      <lb ed="#P" n="84"/>homilia 8. super Ezechielem tribuens eis 
+      immuta<lb ed="#P" n="85" break="no"/>bilitatem, Bernardus libr. de gratia &amp; libero 
+      arbi<lb ed="#P" n="86" break="no"/>trio, Rupertus lib. de victoria verbi Dei, cap. 27. 
+      <lb ed="#P" n="87"/>&amp; alibi. Denique idem omnes catholici scriptores 
+      <lb ed="#P" n="88"/>senserunt. Idem &amp; Magister tradit hac distinctione 
+      <lb ed="#P" n="89"/>conspirantibus in eandem sententiam omnibus 
+      scho<lb ed="#P" n="90" break="no"/>lasticis. 
+    </p>
+            <p xml:id="bt67yj-p022507-d1e453">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Quod autem haec doctrina sit fide tenenda, probat 
+      <lb ed="#P" n="92"/>imprimis scriptura quae Christi regnum, cujus 
+      con<lb ed="#P" n="93" break="no"/>cives sunt angeli, docet sine fine duraturum, quaeque 
+      <lb ed="#P" n="94"/>nobis promittit aeternam vitam cum angelis. 
+      Consi<lb ed="#P" n="95" break="no"/>stit autem regnum Dei, &amp; vita aeterna in pace &amp; 
+      justi<lb ed="#P" n="96" break="no"/>tia &amp; gaudio sancto, Rom. 14. 
+    </p>
+            <p xml:id="bt67yj-p022507-d1e471">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Probat deinde perpetuus ecclesiae consensus, quo 
+      <lb ed="#P" n="98"/>non tantum traditum est, angelos sanctos esse 
+      bea<lb ed="#P" n="99" break="no"/>tos &amp; in bono confirmatos, verum etiam contraria 
+      <lb ed="#P" n="100"/>doctrina tanquam haeretica semper fuit explosa, &amp; 
+      <lb ed="#P" n="101"/>a patribus Sancto Augustino, Philastrio, &amp; aliis 
+      <lb ed="#P" n="102"/>inter haereses annotata. Unde &amp; sanctus 
+      Augusti<lb ed="#P" n="103" break="no"/>nus de hac re agens lib. I1. de Civitate Dei, cap. 13. 
+      <lb ed="#P" n="104"/>dicit neminem catholicum ignorare, quod angeli 
+      <lb ed="#P" n="105"/>boni deinceps peccare &amp; mali fieri non possint. Et 
+      <lb ed="#P" n="106"/>Fulgentius loco citato firmissime tenendum esse 
+      <lb ed="#P" n="107"/>dicit, quod beati angeli quamvis sua natura 
+      mu<lb ed="#P" n="108" break="no"/>tabiles, tamen post adeptam beatitudinem neque 
+      <lb ed="#P" n="109"/>in deterius mutari possunt, neque a beatitudine 
+      ex<lb ed="#P" n="110" break="no"/>cidere. 
+    </p>
+            <p xml:id="bt67yj-p022507-d1e507">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Probat ad extremum condemnatio Origenis in 
+      <lb ed="#P" n="112"/>duabus synodis oecumenicis facta. Ex quibus etiam 
+      <lb ed="#P" n="113"/>illud liquet, eos in vanum laborare qui Origenem 
+      <lb ed="#P" n="114"/>de hoc errore &amp; similibus exculare conantes, in 
+      <lb ed="#P" n="115"/>quosdam librorum ejus corruptores culpam omnem 
+      <lb ed="#P" n="116"/>rejiciunt. Quod merum esse commentum convincit 
+      <lb ed="#P" n="117"/>Hieronymus contra Ruffinum scribens in apologia, 
+      <lb ed="#P" n="118"/>&amp; alibi. Neque profecto in ipsum Origenem toties 
+      <lb ed="#P" n="119"/>strixissent patres anathematis censuram, si non 
+      <lb ed="#P" n="120"/>satis eis exploratum fuisset Origenem vere talia 
+      <lb ed="#P" n="121"/>scripsisse. 
+    </p>
+            <p xml:id="bt67yj-p022507-d1e536">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Ex his patet denique quo loco sint habendae 
+      quo<lb ed="#P" n="123" break="no"/>rundam obscuri nominis authorum opiniones, ut 
+      <lb ed="#P" n="124"/>Nicetae Graeci qui in scholiis ad Nazianzenum 
+      scri<lb ed="#P" n="125" break="no"/>psit angelos peccare potuisse usque ad Christum, &amp; 
+      <lb ed="#P" n="126"/>Jacobi Fabri, nec non Georgii Veneti, quibus 
+      abso<lb ed="#P" n="127" break="no"/>lute placuit (illi quidem in libello de tribus 
+      Magda<lb ed="#P" n="128" break="no"/>lenis, huic autem in problematis sacris) angelos 
+      <lb ed="#P" n="129"/>peccare posse. Pugnant enim haec cum fide 
+      catholi<lb ed="#P" n="130" break="no"/>ca, ut jam ostensum est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

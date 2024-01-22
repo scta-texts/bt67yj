@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="389"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p150727"><!-- l2d42c2" -->
+            <head xml:id="bt67yj-p150727-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p150727-Hd1e103" type="question-title">Vtrum per opus externum accedat aliquid 
+      ad malitiam voluntatis</head>
+            <p xml:id="bt67yj-p150727-d1e106">
+      <!--0622.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>§. 2. Vtrum per opus externum accedat aliquid 
+      <lb ed="#P" n="71"/>ad malitiam voluntatis.
+    </p>
+            <p xml:id="bt67yj-p150727-d1e117">
+               <lb ed="#P" n="72"/>PRoxima superiori quaestio est, an opus externum, 
+      <lb ed="#P" n="73"/>T addat aliquid ad malitiam solius voluntatis; id 
+      <lb ed="#P" n="74"/>est, an gravius peccet, graviusque puniri mereatur, 
+      <lb ed="#P" n="75"/>is, qui peccatum opere perpetravit, quam qui sola 
+      <lb ed="#P" n="76"/>voluntate peccavit. Cui quaestioni occasionem 
+      de<lb ed="#P" n="77" break="no"/>derunt verba magistri §. A. ubi dicit, unum esse in 
+      <lb ed="#P" n="78"/>voluntate &amp; opere contemptum, sed minorem, 
+      <lb ed="#P" n="79"/>cum in voluntate peccatum continetur; majorem 
+      <lb ed="#P" n="80"/>vero, cum voluntati etiam operatio additur; 
+      <lb ed="#P" n="81"/>ideóque majus fieri peccatum, etsi non plura, cum 
+      <lb ed="#P" n="82"/>voluntas operi mancipatur. 
+    </p>
+            <p xml:id="bt67yj-p150727-d1e143">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Huic quaestioni per distinctionem 
+      responden<lb ed="#P" n="84" break="no"/>dum est. Nam si quaestio est de voluntate, quae 
+      po<lb ed="#P" n="85" break="no"/>test in opus procedere, non tamen procedit 
+      pro<lb ed="#P" n="86" break="no"/>pterea quod nondum sit plena voluntas operis 
+      per<lb ed="#P" n="87" break="no"/>petrandi eo casu malitiae voluntatis aliquid 
+      acce<lb ed="#P" n="88" break="no"/>dit ipsa perpetratione operis. Plenior enim 
+      consen<lb ed="#P" n="89" break="no"/>sus est voluntatis in peccatum, quando ipso opere 
+      <lb ed="#P" n="90"/>consummatur, quam dum adhuc intra voluntariae 
+      <lb ed="#P" n="91"/>cogitationis fines cohibetur. At si intelligatur 
+      quae<lb ed="#P" n="92" break="no"/>stio de voluntate quae propturea solum non 
+      proce<lb ed="#P" n="93" break="no"/>dit in opus, quia facultatem vel occasionem operis 
+      <lb ed="#P" n="94"/>non habet, alias parata peccatum ipso opere 
+      perpe<lb ed="#P" n="95" break="no"/>trare; distinguendum adhuc erit. Aut enim 
+      contin<lb ed="#P" n="96" break="no"/>git voluntatem aequali amoris affectu converti ad 
+      <lb ed="#P" n="97"/>rem illicitam, sive actu eam assequatur, sive non: 
+      <lb ed="#P" n="98"/>Et hoc pacto per opus externum nihil accedit ad 
+      <lb ed="#P" n="99"/>malitiam voluntatis, neque gravius peccat opere 
+      si<lb ed="#P" n="100" break="no"/>mul &amp; voluntate perpetrans malum, quam 
+      volun<lb ed="#P" n="101" break="no"/>tate sola: Aut eandem voluntatem contingit, ipsa 
+      <lb ed="#P" n="102"/>perpetratione operis, magis affici ad eam rem quam 
+      <lb ed="#P" n="103"/>illicite concupiscit, quam si intra solum 
+      volun<lb ed="#P" n="104" break="no"/>tatis consensum ejus rei concupiscentia 
+      conclude<lb ed="#P" n="105" break="no"/>retur. Quo quidem modo certum est per opus 
+      ex<lb ed="#P" n="106" break="no"/>ternum addi aliquid ad malitiam voluntatis; non 
+      <lb ed="#P" n="107"/>quin tota malitia in voluntate sit, ut in proprio 
+      <lb ed="#P" n="108"/>subjecto; sed quia malitia voluntatis augetur, &amp; 
+      <lb ed="#P" n="109"/>peccatum fit gravius accessione operis externi. 
+      Ple<lb ed="#P" n="110" break="no"/>rumque enim fit ut habitus exercitio actuum 
+      ctes<lb ed="#P" n="111" break="no"/>cat, magisque confirmetur, etiamsi non quovis 
+      <lb ed="#P" n="112"/>actu id semper fieri soleat. Quod &amp; de malitia 
+      vo<lb ed="#P" n="113" break="no"/>luntatis similiter intelligendum est. 
+    </p>
+            <p xml:id="bt67yj-p150727-d1e216">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Prior itaque modus ponit voluntatem aequalem 
+      <lb ed="#P" n="115"/>operi conjunctam &amp; ab opere impeditam; 
+      poste<lb ed="#P" n="116" break="no"/>rior ponit voluntatis quandam intensionem ex ipsa 
+      <lb ed="#P" n="117"/>operis executione. Priorem modum respexit 
+      Augu<lb ed="#P" n="118" break="no"/>stinus lib. 1. de libero arbitrio cap. 3. ubi testatur, 
+      <lb ed="#P" n="119"/>eum qui uxorem concupiscit alienam, neque tamen 
+      <lb ed="#P" n="120"/>exequendi adulterii facultatem habet, non minus 
+      <lb ed="#P" n="121"/>reum esse, quam si in ipso facto deprehenderetur. 
+      Si<lb ed="#P" n="122" break="no"/>milis est locus apud eundem serm. 250. de tempore. 
+      <lb ed="#P" n="123"/>Quod &amp; de virturum merito ac bonorum operum 
+      <lb ed="#P" n="124"/>idem Augustinus similiter accipiendum docuit. Sic 
+      <lb ed="#P" n="125"/>enim ait lib. de bono conjugali capite 21. Sicut non 
+      <lb ed="#P" n="126"/>est impar meritum patientiae in Petro, qui passus est, 
+      <lb ed="#P" n="127"/>&amp; in Joanne qui passus non est; sic non est impar 
+      <lb ed="#P" n="128"/>meritum continentiae in Joanne, qui nullas experius 
+      <lb ed="#P" n="129"/>est nuptias, &amp; in Abraham qui filios generavit. 
+      Si<lb ed="#P" n="130" break="no"/>mile quid apud Hieronymum legitur libko 2. 
+      con<lb ed="#P" n="131" break="no"/>tra Jovinianum paulo post principium. Unde &amp; ge 
+      <lb ed="#P" n="132"/>neraliter Augustinus pronunciat scribens in Ps. 57. 
+      <lb ed="#P" n="133"/>Quicquid vis &amp; non potes, factum Deus computat, 
+      <lb ed="#P" n="134"/>Quae verba &amp; in glossam ordinariam illius loci 
+      rela<lb ed="#P" n="135" break="no"/>ta sunt. Eodemque sensu dictum est a Bernardo 
+      <lb ed="#P" n="136"/>in lib. de praecepto &amp; dispensatione: Voluntas quia 
+      <lb ed="#P" n="137"/>sola meretur retributionem, etiam sola non immerito 
+      <lb ed="#P" n="138"/>gradum altiorem usurpat. 
+    </p>
+            <p xml:id="bt67yj-p150727-d1e275">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Posteriorem vero modum in virtutibus 
+      considera<lb ed="#P" n="140" break="no"/>vit Augustinus tract. 58. in Joannem, ubi de lotione 
+      <!--0623.xml-->
+      <pb ed="#P" n="390"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>pedum verba faciens, sic loquitur: Quod manu non 
+      <lb ed="#P" n="2"/>faciunt, corde faciunt; multo autem est melius, &amp; sim 
+      <lb ed="#P" n="3"/>controversia verius, ut etiam manibus fiat. Et post 
+      <lb ed="#P" n="4"/>pauca: Cum enim ad pedes fratris inclinatur corpus, 
+      <lb ed="#P" n="5"/>etiam in corde ipso vel excitatur, vel si jam inerat, 
+      <lb ed="#P" n="6"/>confirmatur ipsius humilitatis affectus. Idem libro de 
+      <lb ed="#P" n="7"/>cura pro mortuis capites. cum dixisset, exteriori 
+      cor<lb ed="#P" n="8" break="no"/>poris humilitate orandum gemendumque humilius 
+      <lb ed="#P" n="9"/>atque ferventius, subjunxit; Et nescio quomodo, cum 
+      <lb ed="#P" n="10"/>hi motus corporis fieri nisi motu animi praecedente non 
+      <lb ed="#P" n="11"/>possint, eisdem rursus exterius visibiliter factis, ille 
+      in<lb ed="#P" n="12" break="no"/>terior invisibilis qui eos fecit, augetur; ac per hoc 
+      cor<lb ed="#P" n="13" break="no"/>dis affectus qui ut fierent ista praecessit, quia facta sunt, 
+      <lb ed="#P" n="14"/>crescit. Haec ibi. Quibus simile est quod Hieronymus 
+      <lb ed="#P" n="15"/>super illud Ephes. 3. Flecto genua mea, dicit quod 
+      <lb ed="#P" n="16"/>quando Deum genu posito suppliciter adoramus, 
+      <lb ed="#P" n="17"/>&amp; fixo in terram poplite, magis quod ab eo 
+      pos<lb ed="#P" n="18" break="no"/>cimus, impetramus. Quod autem de virtutis opere 
+      <lb ed="#P" n="19"/>asserit August. haud dubie de peccatis similiter 
+      in<lb ed="#P" n="20" break="no"/>telligendum est. Quomodo in textu loquitur 
+      Ma<lb ed="#P" n="21" break="no"/>gister verbis initio a nobis citatis. 
+    </p>
+            <p xml:id="bt67yj-p150727-d1e336">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Caeterum; quoniam externum opus revera 
+      pecca<lb ed="#P" n="23" break="no"/>rum est, hinc fit ut sive per ipsum crescat malitia 
+      vo<lb ed="#P" n="24" break="no"/>luntatis, sive non, semper dicendum sit plus 
+      mali<lb ed="#P" n="25" break="no"/>eum fecisse, qui peccatum opere perpetravit, quam 
+      <lb ed="#P" n="26"/>qui ipsum in sola voluntate continuit; non quia 
+      plu<lb ed="#P" n="27" break="no"/>ra commisit peccata, sed quia peccatum, voluntate 
+      <lb ed="#P" n="28"/>conceptum, opere complevit. Unde &amp; gratiae Deo 
+      <lb ed="#P" n="29"/>agendae, si quando homini peccandi voluntatem 
+      ha<lb ed="#P" n="30" break="no"/>benti, occasionem exequendi peccati subtraxit, ut 
+      <lb ed="#P" n="31"/>admonet Canon Concilii Neocaesariensis. Quod 
+      <lb ed="#P" n="32"/>etiam exemplo Davidis ostenditur, qui gratias 
+      Deo<lb ed="#P" n="33" break="no"/>egit, cujus providentia ac dispositione prohibitus 
+      <lb ed="#P" n="34"/>fuerat, ne malum propositum de interficiendo 
+      Na<lb ed="#P" n="35" break="no"/>bal exequeretur, 1. Reg. 25. Benedictus, inquit, 
+      <lb ed="#P" n="36"/>Dominus, qui servum suum custodivit a malo. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

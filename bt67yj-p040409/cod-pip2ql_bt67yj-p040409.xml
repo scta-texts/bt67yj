@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="105"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p040409"><!-- l2d10c5" -->
+            <head xml:id="bt67yj-p040409-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p040409-Hd1e103" type="question-title">Michaelem esse omnium angelorum supremum, 
+      et Ecclesiasticae custodiae principem</head>
+            <p xml:id="bt67yj-p040409-d1e106">
+               <lb ed="#P" n="84"/>§. 5. Michaelem esse omnium angelorum supremum, 
+      <lb ed="#P" n="85"/>&amp; Ecclesiasticae custodiae principem. 
+    </p>
+            <p xml:id="bt67yj-p040409-d1e113">
+               <lb ed="#P" n="86"/>QUod supra diximus Michaelem esse omnium 
+      <lb ed="#P" n="87"/>angelorum supremum, etsi non sit certissimum; 
+      <lb ed="#P" n="88"/>permagnam tamen habet e scriptura sacra 
+      probabi<lb ed="#P" n="89" break="no"/>litatem. Nam Apoc. 12. sic legimus. Michael &amp; 
+      an<lb ed="#P" n="90" break="no"/>geli ejus praeliabantur cum dracone, &amp; draco 
+      pugna<lb ed="#P" n="91" break="no"/>bat &amp; angeli ejus, &amp; non valuerunt, neque locus 
+      inven<lb ed="#P" n="92" break="no"/>tus est eorum amplius in caelo. Draconem autem 
+      intel<lb ed="#P" n="93" break="no"/>ligi eum qui supremus sit inter daemones, 
+      manife<lb ed="#P" n="94" break="no"/>stum est. Sequitur enim; Et projectus est draco ille 
+      <lb ed="#P" n="95"/>magnus, serpens antiquus, qui vocatur diabolus &amp; 
+      <lb ed="#P" n="96"/>Satanas, qui seducit universum orbem, &amp; angeli ejus 
+      <lb ed="#P" n="97"/>cum illomissi sunt. De quo etiam Dominus simili 
+      mo<lb ed="#P" n="98" break="no"/>do loquitur Matthaei 25. cum dicit ignem paratum 
+      <lb ed="#P" n="99"/>diabolo &amp; angelis ejus. 
+    </p>
+            <p xml:id="bt67yj-p040409-d1e146">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Quare consequens est &amp; Michaelem inter sanctos 
+      <lb ed="#P" n="101"/>angelos supremum ac principem esse, quoniam hi 
+      si<lb ed="#P" n="102" break="no"/>militer angeli ejus dicuntur. Quod si ab horum 
+      an<lb ed="#P" n="103" break="no"/>gelorum numero eximere velimus summae hierarchiae 
+      <lb ed="#P" n="104"/>ordines, absurdum sane videbitur inferiores ordines 
+      <lb ed="#P" n="105"/>cum dracone &amp; angelis ejus pugnare pro gloria Dei, 
+      <lb ed="#P" n="106"/>supremos autem hujus gloriosissimae pugnae simul &amp; 
+      <lb ed="#P" n="107"/>victoriae expertes esse¬ 
+    </p>
+            <p xml:id="bt67yj-p040409-d1e169">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Huc accedit quod in epistol. Judae diabolo qui 
+      dae<lb ed="#P" n="109" break="no"/>monum supremus est, Michael archangelus 
+      tan<lb ed="#P" n="110" break="no"/>quam angelorum omnium princeps opponitur &amp; 
+      <lb ed="#P" n="111"/>cum eo altercari dicitur. Non enim archangelus 
+      di<lb ed="#P" n="112" break="no"/>ctus est velut unus ex archangelorum ordine, sed 
+      <lb ed="#P" n="113"/>quia supra omnes omnium ordinum angelos 
+      princi<lb ed="#P" n="114" break="no"/>patum habet. Quod expressius significare voluit 
+      Di<lb ed="#P" n="115" break="no"/>dymus scribens in eam epistolam, cum Michaelem 
+      <lb ed="#P" n="116"/>vocat maximum archangelum. 
+    </p>
+            <p xml:id="bt67yj-p040409-d1e193">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Pro eadem sententia facit quod Daniel. 10. 
+      Mi<lb ed="#P" n="118" break="no"/>chael dicitur princeps populi Dei, &amp; cap. 12. 
+      voca<lb ed="#P" n="119" break="no"/>tur princeps magnus qui stat pro filiis populi 
+      Israe<lb ed="#P" n="120" break="no"/>litici. Recte enim &amp; convenienter supremo angelo 
+      <lb ed="#P" n="121"/>committitur custodia &amp; principatus ejus populi, qui 
+      <lb ed="#P" n="122"/>prae caeteris a Deo electus est, qualis quidem tunc 
+      <lb ed="#P" n="123"/>erat populus Israeliticus, nunc autem Ecclesia 
+      Chri<lb ed="#P" n="124" break="no"/>sti. Cui proinde eundem nunc praepositum esse 
+      plus<lb ed="#P" n="125" break="no"/>quam probabiliter creditur. Hinc etiam omnium 
+      an<lb ed="#P" n="126" break="no"/>gelorum festum diem S. Michaelis nomine tanquam 
+      <lb ed="#P" n="127"/>omnium principis Ecclesia celebrat, atque in divino 
+      <lb ed="#P" n="128"/>officio primatem caelestis exercitus, &amp; principem 
+      <lb ed="#P" n="129"/>militiae angelorum &amp; praepositum paradisi 
+      Michae<lb ed="#P" n="130" break="no"/>lem vocat. De quo etiam in festo apparitionis ejus 
+      <lb ed="#P" n="131"/>legitur, quod eum ut olim Synagoga Judaeorum, 
+      <lb ed="#P" n="132"/>sic nunc custodem &amp; patronum Dei veneratur 
+      Ec<lb ed="#P" n="133" break="no"/>clesia. 
+    </p>
+            <p xml:id="bt67yj-p040409-d1e235">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Congruit &amp; nomen ipsum Michaelis, quod 
+      inter<lb ed="#P" n="135" break="no"/>pretatur, Quis ut Deus? Hoc enim nomen ei 
+      potis<lb ed="#P" n="136" break="no"/>simum debebatur, qui prae caeteris contra superbiam 
+      <lb ed="#P" n="137"/>Luciferi zelatus fuit pro gloria Dei. 
+    </p>
+            <p xml:id="bt67yj-p040409-d1e248">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Denique sic de primatu Michaelis sentiunt 
+      Hie<lb ed="#P" n="139" break="no"/>ronymus &amp; Theodoretus scribentes in cap. 12. 
+      Da<lb ed="#P" n="140" break="no"/>nielis. Estque ea hodie communis &amp; ut ita dicam, 
+      ec<lb ed="#P" n="141" break="no"/>clesiastica sententia. 
+    </p>
+            <p xml:id="bt67yj-p040409-d1e261">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Porro <ref xml:id="bt67yj-p040409-Rd1e267">
+                  <name xml:id="bt67yj-p040409-Nd1e269">Rupertus</name> lib. 1. de victoria verbi Dei 
+      <lb ed="#P" n="143"/>capit. 18.</ref> dicit Michaelem eo praelio, quod cum 
+      <lb ed="#P" n="144"/>diabolo commisit, meruisse principatum 
+      angelo<lb ed="#P" n="145" break="no"/>rum &amp; hominum. Simile quid in ordine commen¬ 
+      <!--0339.xml-->
+      <pb ed="#P" n="106"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dationis animae juxta usum Romanum legitur, 
+      sci<lb ed="#P" n="2" break="no"/>licet Michaelem archangelum Dei caelestis militiae 
+      <lb ed="#P" n="3"/>meruisse principatum. Hoc autem intelligendum 
+      <lb ed="#P" n="4"/>de principatu quem habet, non quoad naturalia 
+      qui<lb ed="#P" n="5" break="no"/>bus excellit caeteros angelos beatos, neque quoad 
+      <lb ed="#P" n="6"/>gratuita in creatione accepta. Constat enim horum 
+      <lb ed="#P" n="7"/>donorum respectu non posse poni aliquod meritum 
+      <lb ed="#P" n="8"/>in primo angelo ut nec in aliis; sed quoad 
+      gra<lb ed="#P" n="9" break="no"/>tuita accepta vel aucta in confirmatione. Sicut 
+      <lb ed="#P" n="10"/>enim gratia data fuit angelis secundum quantitatem 
+      <lb ed="#P" n="11"/>naturalium, sic &amp; ipsis perseverantibus aucta fuit 
+      <lb ed="#P" n="12"/>eadem proportione, idque pro merito ejusdem 
+      per<lb ed="#P" n="13" break="no"/>severantiae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

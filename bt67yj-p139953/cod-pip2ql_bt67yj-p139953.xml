@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="361"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p139953"><!-- l2d31c3" -->
+            <head xml:id="bt67yj-p139953-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p139953-Hd1e103" type="question-title">Responsio ad objectiones haereticorum</head>
+            <p xml:id="bt67yj-p139953-d1e106">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> §. 3. Responsio ad objectiones haereticorum.
+    </p>
+            <p xml:id="bt67yj-p139953-d1e113">
+               <lb ed="#P" n="80"/>COntra Catholicam hanc fidem objiciebat olim 
+      <lb ed="#P" n="81"/>Pelagius, referente Aug. lib. 3. de peccatorum. 
+      <lb ed="#P" n="82"/>meritis cap. 8. Si baptismus mundat antiquum illud 
+      <lb ed="#P" n="83"/>delictum, qui de duobus baptizatis nati fuerint, 
+      <lb ed="#P" n="84"/>debent hoc carere peccato. Non enim transmittere 
+      <lb ed="#P" n="85"/>possunt parentes in filios, quod non habent. Cui 
+      <lb ed="#P" n="86"/>respondendum est cum Augustino, tum eodem loco, 
+      <lb ed="#P" n="87"/>tum exactius hanc difficultatem excutiente lib. 2. 
+      <lb ed="#P" n="88"/>cap. 9. 28. &amp; 29. concupiscentiam, quae est ipsum 
+      <lb ed="#P" n="89"/>originis peccatum, in baptizatis transire reatu, 
+      rema<lb ed="#P" n="90" break="no"/>nere actu. Manet enim in baptizatis concupiscentia 
+      <lb ed="#P" n="91"/>seu fomes peccati, quemadmodum docent Trident. 
+      <lb ed="#P" n="92"/>Concilii Patres sess. 5. can. 5. sed amissa vera peccati 
+      <lb ed="#P" n="93"/>ratione, ut plenius explicandum circa dist. proximam. 
+      <lb ed="#P" n="94"/>Ex illa igitur manente concupiscentiae vetustate, inquit 
+      <lb ed="#P" n="95"/>August. quod nascitur, renasci indiget ut sanetur; 
+      <lb ed="#P" n="96"/>quia parentes fideles &amp; nati carnaliter &amp; renati 
+      spi<lb ed="#P" n="97" break="no"/>ritualiter, filios carnaliter genuerunt; filii vero 
+      ante<lb ed="#P" n="98" break="no"/>quam nascerentur, renasci non potuerunt. Quoniam 
+      <lb ed="#P" n="99"/>igitur parentes baptizati &amp; justi non mente gignunt, 
+      <lb ed="#P" n="100"/>qua renati sunt, sed carne qua sunt adhuc vetusti, 
+      <lb ed="#P" n="101"/>ideo filios tam mente quam carne vetustos gignunt, 
+      <lb ed="#P" n="102"/>quia ut ait Scriptura: Quod nascitur ex carne, care 
+      <lb ed="#P" n="103"/>est. Utitur idem August. ad hujus rei declarationem 
+      <lb ed="#P" n="104"/>familiaribus quibusdam exemplis; ut quemadmodum 
+      <lb ed="#P" n="105"/>ex semine oleae nascitur oleaster, ex purgato tritici 
+      <lb ed="#P" n="106"/>grano triticum paleatum, ex semine vitis labrusca. 
+      <lb ed="#P" n="107"/>denique quod ad rem praesentem magis accedit, 
+      <lb ed="#P" n="108"/>patre circumciso filius praeputiatus; ita non 
+      absur<lb ed="#P" n="109" break="no"/>dum videatur, ex baptizatis &amp; justis parentibus nasci 
+      <lb ed="#P" n="110"/>prolem originali peccato infectam. Loca August. 
+      <lb ed="#P" n="111"/>sunt, lib. 6. contra Julianum cap. 3. de nuptiis &amp; 
+      <lb ed="#P" n="112"/>concupiscentia cap. 32. &amp; 33. &amp; de peccatorum 
+      me<lb ed="#P" n="113" break="no"/>ritis lib. 3. cap. 8. &amp; 9. 
+    </p>
+            <p xml:id="bt67yj-p139953-d1e189">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Aliud argumentum proferebant Pelagiani ex 
+      A<lb ed="#P" n="115" break="no"/>postolo 1. Cor. 7. quod ab August. lib. 2. de 
+      pecca<lb ed="#P" n="116" break="no"/>torum meritis cap. 25. recitatur his verbis. Ait 
+      Apo<lb ed="#P" n="117" break="no"/>stolus: Filii vestri immundi essent; nunc autem mundi 
+      <lb ed="#P" n="118"/>sunt, &amp; ideo fidelium filii jam baptizari minime 
+      de<lb ed="#P" n="119" break="no"/>buerunt. Ad quod recte proximo cap. respondet 
+      <lb ed="#P" n="120"/>Augustinus, multiplicem esse sanctificationem non 
+      <lb ed="#P" n="121"/>tantum rerum, sed &amp; hominum, quae tamen non 
+      om<lb ed="#P" n="122" break="no"/>nis necessario secum adferat remissionem 
+      peccato<lb ed="#P" n="123" break="no"/>rum. Nam &amp; catechumeni priusquam baptizentur. 
+      <lb ed="#P" n="124"/>secundum quendam modum sanctificantur per 
+      si<lb ed="#P" n="125" break="no"/>gnum Christi &amp; orationem manus impositionis, 
+      <lb ed="#P" n="126"/>quae tamen sanctificatio non eis valet ad 
+      remissio<lb ed="#P" n="127" break="no"/>nem peccatorum. Et secundum Apostolum eodem 
+      <lb ed="#P" n="128"/>loco, sanctificatur conjux infidelis per conjugem 
+      fi<lb ed="#P" n="129" break="no"/>delem. Quod tamen nemo sic intellexerit, ut putet 
+      <lb ed="#P" n="130"/>conjugi infideli tanquam jam sanctificato, non opus 
+      <lb ed="#P" n="131"/>esse vel conversione ad fidem, vel fidei sacramento 
+      <lb ed="#P" n="132"/>ad consequendam salutem; quod ergo dicit 
+      Aposto<lb ed="#P" n="133" break="no"/>lus tum filios in parentibus, tum conjugem 
+      infide<lb ed="#P" n="134" break="no"/>lem in conjuge fideli sanctificari, recte intelligitur, 
+      <lb ed="#P" n="135"/>juxta morem Scripturae sacrae, de praeparatione 
+      qua<lb ed="#P" n="136" break="no"/>dam ad veram sanctitatem &amp; justitiam. 
+      Consen<lb ed="#P" n="137" break="no"/>sus enim conjugis infidelis non recusantis 
+      cohabi<lb ed="#P" n="138" break="no"/>tare citra Christi injuriam cum conjuge fideli, 
+      quae<lb ed="#P" n="139" break="no"/>dam est praeparatio tam ipsius infidelis conjugis, 
+      <lb ed="#P" n="140"/>quam omnium liberorum ad suscipiendam 
+      Chri<lb ed="#P" n="141" break="no"/>stianam religionem, simulque efficit, ut exemplo 
+      <lb ed="#P" n="142"/>vel conjugis vel alterius parentis Christiani hone¬ 
+      <!--0595.xml-->
+      <pb ed="#P" n="362"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>statem colant, &amp; ab iis immunditiis quibus contra A 
+      <lb ed="#P" n="2"/>naturam contaminari solent gentiles, sese 
+      absti<lb ed="#P" n="3" break="no"/>heant. 
+    </p>
+            <p xml:id="bt67yj-p139953-d1e271">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Tertium argumentum <name xml:id="bt67yj-p139953-Nd1e277">Calvini</name> est sumptum ex 
+      <lb ed="#P" n="5"/>benedictione Abrehae facta semini ejus, Gen. 17. ubi 
+      <lb ed="#P" n="6"/>promittit illi Deus se futurum Deum ipsius &amp; 
+      semi<lb ed="#P" n="7" break="no"/>nis ipsius foedere sempiterno. Unde colligit 
+      Calvi<lb ed="#P" n="8" break="no"/>nus, eo ipso, quo quis semen est Abrahae, ad eum 
+      <lb ed="#P" n="9"/>pertinere promissionem Abrahae factam. Sed 
+      respon<lb ed="#P" n="10" break="no"/>sio manifesta est, promissionem illam de 
+      benedictio<lb ed="#P" n="11" break="no"/>ne spirituali intellectam, non ad carnale semen 
+      <lb ed="#P" n="12"/>Abrahae pertinere, sed ad spirituale, quemadmodum 
+      <lb ed="#P" n="13"/>eam ipse Apostolus interpretatus est Rom. 4. &amp; 9. 
+      <lb ed="#P" n="14"/>Si enim carnale semen intelligas, jam ad neminem 
+      <lb ed="#P" n="15"/>ex gentibus illa promissio pertinebit, sed ad solos ex 
+      <lb ed="#P" n="16"/>Abraham &amp; Isaac secundum carnem genitos. Si 
+      <lb ed="#P" n="17"/>autem de spirituali semine intelligatur, sicut vere 
+      <lb ed="#P" n="18"/>intelligendum est, nihil haec ratio facit pro parvulis 
+      <lb ed="#P" n="19"/>non baptizatis; non enim nisi per baptismum 
+      Abra<lb ed="#P" n="20" break="no"/>hae filii efficiuntur. 
+    </p>
+            <p xml:id="bt67yj-p139953-d1e315">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Profertur &amp; illud Rom. 11. Quod si delibatio sancta 
+      <lb ed="#P" n="22"/>est, &amp; massa, &amp; si radix sancta est, &amp; rami; igitur si 
+      <lb ed="#P" n="23"/>parens sanctus, &amp; filii; praesertim cum hoc de 
+      Judai<lb ed="#P" n="24" break="no"/>co populo ex sanctis Patribus orto intelligi velit 
+      A<lb ed="#P" n="25" break="no"/>postolus. Sed re spondetur, Apost. hac comparatione 
+      <lb ed="#P" n="26"/>uti non ob aliud, quam ut ea tanquam argumento 
+      <lb ed="#P" n="27"/>probabili doceat Judaeos potiori ratione participes 
+      <lb ed="#P" n="28"/>esse gratiae Dei quam gentues, eo quod patres eorum 
+      <lb ed="#P" n="29"/>sancti fuerint, &amp; promissiones acceperint. Quare 
+      <lb ed="#P" n="30"/>cum per educationem &amp; institutionem plerumque 
+      <lb ed="#P" n="31"/>fiat, ut posteri eandem cum suis majoribus 
+      religio<lb ed="#P" n="32" break="no"/>nem colant &amp; pietatem, consentaneum esse ut 
+      po<lb ed="#P" n="33" break="no"/>pulus Judaicus e sanctis Patribus ortus eorum 
+      san<lb ed="#P" n="34" break="no"/>ctitatem velut hereditario jure retineat. Quod tamen 
+      <lb ed="#P" n="35"/>factum non est propter propriam posterorum 
+      mali<lb ed="#P" n="36" break="no"/>tiam, qua multi eorum tanquam rami ab arbore cui 
+      <lb ed="#P" n="37"/>naturaliter adhaerebant, violente defracti, ab 
+      majo<lb ed="#P" n="38" break="no"/>rum sanctitate defecerunt. Potest &amp; breviter cum 
+      <lb ed="#P" n="39"/>Augustino epist. 106. ad Sixtum responderi 
+      deliba<lb ed="#P" n="40" break="no"/>tionem illam intelligi ex communione sacramenti &amp; 
+      <lb ed="#P" n="41"/>similitudine fidei, non ex propagine mortali. 
+    </p>
+            <p xml:id="bt67yj-p139953-d1e365">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Rursum objiciunt; Isaac secundum spiritum 
+      na<lb ed="#P" n="43" break="no"/>tum, non secundum carnem. Gal. 4. ideóque in 
+      ty<lb ed="#P" n="44" break="no"/>po Isaac omnes promissionis filios nasci secundum 
+      <lb ed="#P" n="45"/>spiritum. Respondeo, Isaac dici natum secundum 
+      <lb ed="#P" n="46"/>ipiritum; non quin natus fuerit carni &amp; peccato 
+      ob<lb ed="#P" n="47" break="no"/>noxius, juxta illud Joan. 3. Quod natum est ex carne, 
+      <lb ed="#P" n="48"/>caro est; sed quia supra virtutem naturalem carnis, 
+      <lb ed="#P" n="49"/>ex patre sene &amp; matre sterili juxta promissionem 
+      <lb ed="#P" n="50"/>cunceptus &amp; natus est. 
+    </p>
+            <p xml:id="bt67yj-p139953-d1e389">
+               <lb ed="#P" n="51"/>Postremo &amp; illud objicitur, Sap. 8. ubi Sapiens de 
+      <lb ed="#P" n="52"/>suo ortu verba faciens dicit, se sortitum animam 
+      bo<lb ed="#P" n="53" break="no"/>nam, &amp; venisse ad corpus incoinquinatum. 
+      Respon<lb ed="#P" n="54" break="no"/>det Aug. lib. I0. de Gen. ad literam cap. 18. de 
+      Chri<lb ed="#P" n="55" break="no"/>sto eam Scripturam intelligi posse. Ille enim solus 
+      <lb ed="#P" n="56"/>sortitus est animam omni modo bonam, &amp; solus 
+      ve<lb ed="#P" n="57" break="no"/>nit ad corpus omni modo incoinquinatum. Sed 
+      <lb ed="#P" n="58"/>quia, ut idem Augustinus admonet, non omnia quae 
+      <lb ed="#P" n="59"/>ibi dicuntur, ad Christum accommodari possunt, 
+      at<lb ed="#P" n="60" break="no"/>que illud maxime quod Sapiens de semine viri se 
+      <lb ed="#P" n="61"/>conceptum dicit, verior responsio est, animam 
+      ho<lb ed="#P" n="62" break="no"/>nam eo loco intelligi, non bonitate moris aut 
+      gra<lb ed="#P" n="63" break="no"/>tiae justificantis, sed bonitate indolis; quae nimirum 
+      <lb ed="#P" n="64"/>fit dispositio quaedam &amp; propensio ad mala virtutum 
+      <lb ed="#P" n="65"/>officia. Quo etiam modo intelligendum videtur, 
+      <lb ed="#P" n="66"/>quod Ecclesiastici 1. timor Domini dicitur cum 
+      fi<lb ed="#P" n="67" break="no"/>delibus in vulva esse concreatus; &amp; quod sanctus 
+      <lb ed="#P" n="68"/>Job cap. 31. dicit misericordiam secum de utero 
+      ma<lb ed="#P" n="69" break="no"/>tris egressam, nisi forte quis hyperbolem in 
+      hujus<lb ed="#P" n="70" break="no"/>modi sententiis agnoscere malit, aut divinam 
+      prae<lb ed="#P" n="71" break="no"/>destinationem, sicut Jerem. 1. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

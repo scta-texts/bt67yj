@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 17</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 17</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="158"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p061077"><!-- l2d17c17" --> <!-- says 4 here, but seems like it should be 17 -->
+            <head xml:id="bt67yj-p061077-Hd1e103">Capitulum 17</head>
+            <head xml:id="bt67yj-p061077-Hd1e105" type="question-title">Ubi sit aut fuerit paradisus</head>
+            <p xml:id="bt67yj-p061077-d1e108">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> §. <sic>4.</sic> Ubi sit aut fuerit paradisus. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e117">
+               <lb ed="#P" n="36"/>EO constituto quod paradisum quendam 
+      corpo<lb ed="#P" n="37" break="no"/>reum Moyses nobis descripserit, magna apud 
+      <lb ed="#P" n="38"/>scripturae interpretes quaestio versatur; ubi terrarum 
+      <lb ed="#P" n="39"/>sit aut olim fuerit ille paradisus. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e129">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Est autem hujus quaestionis praecipua difficultas 
+      <lb ed="#P" n="41"/>in eo posita quod videatur inveniri ac designari non 
+      <lb ed="#P" n="42"/>posse, qui sint fluvii quos ab uno fluvio in quatuor 
+      <lb ed="#P" n="43"/>capita diviso e paradiso egredi Moyses 
+      commemo<lb ed="#P" n="44" break="no"/>rat. Horum enim quatuor fluviorum duo quidem 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e145">
+               <lb ed="#P" n="45"/>satis noti celebresque sunt. Tigris &amp; Euphrates 
+      <lb ed="#P" n="46"/>At reliqui duo Phison &amp; Gehon, ignoti videntur 
+      <lb ed="#P" n="47"/>tam sacris quam prophanis authoribus. Josephus 
+      <lb ed="#P" n="48"/>quidem lib. 1. antiquitatum cap. 2. ubi paradisum 
+      <lb ed="#P" n="49"/>ex Moyse suis verbis describit, Phison 
+      interpreta<lb ed="#P" n="50" break="no"/>tur Gangem Indorum fluvium a prophanis 
+      scripto<lb ed="#P" n="51" break="no"/>ribus celebratum: Gehon vero Nilum Aegyptium 
+      <lb ed="#P" n="52"/>omnium fluviorum notissimum. Neque ab hac 
+      sen<lb ed="#P" n="53" break="no"/>tentia dissidet sanctus Hieronymus in libro 
+      tradi<lb ed="#P" n="54" break="no"/>tionum Hebraicarum. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e169">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Sed huic interpretationi vehementer repugnat 
+      <lb ed="#P" n="56"/>quod horum fluviorum fontes &amp; origines sunt 
+      di<lb ed="#P" n="57" break="no"/>versissimae, ac regionibus, locisque distantissimae, 
+      <lb ed="#P" n="58"/>fieri ut nequeat, quod ex eodem aliquo fluvio 
+      pro<lb ed="#P" n="59" break="no"/>cedant. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e185">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Quod si respondeant quibus haec forte sententia 
+      <lb ed="#P" n="61"/>placet, temporum diuturnitate, maximeque ea 
+      mun<lb ed="#P" n="62" break="no"/>di mutatione quae per cataclysmum facta est, 
+      fluvio<lb ed="#P" n="63" break="no"/>rum origines esse mutatas. Rursum eis objicitur, 
+      <lb ed="#P" n="64"/>haec a Moyse multo post diluvium ita describi, 
+      <lb ed="#P" n="65"/>quasi ipsius adhuc tempore quatuor hi fluvii 
+      ean<lb ed="#P" n="66" break="no"/>dem quam olim habuissent, originem retinerent. 
+      <lb ed="#P" n="67"/>Ac profecto si origo fluvii alicujus usque adeo 
+      mu<lb ed="#P" n="68" break="no"/>tata diceretur, ut diversissima nunc nasceretur 
+      <lb ed="#P" n="69"/>regione ab ea qua olim nascebatur; non eundem 
+      <lb ed="#P" n="70"/>sed simpliciter diversum esse hunc fluvium ab illo 
+      <lb ed="#P" n="71"/>ratio manifesta probaret, nihilo certe minus quam di 
+      <!--0391.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>versi sunt duo fluvii, quorum eodem tempore diversae 
+      <lb ed="#P" n="73"/>monstrantur origines. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e224">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Ut igitur ad praesentis quaestionis tractationem 
+      <lb ed="#P" n="75"/>veniamus, illud primo notandum est eam non esse de 
+      <lb ed="#P" n="76"/>earum numero quae ad fidem pertinent, 
+      quemadmo<lb ed="#P" n="77" break="no"/>dum S. Augustinus aperte testatur lib. de peccato 
+      <lb ed="#P" n="78"/>originali cap. 23. Quo fit ut de loco paradisi varie 
+      <lb ed="#P" n="79"/>fenserint etiam Catholici tractatores. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e242">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Quorundam Neotericorum sententia fuit, 
+      para<lb ed="#P" n="81" break="no"/>disum fuisse non unam aliquam mundi regionem, 
+      <lb ed="#P" n="82"/>sed universam terram, ut quae initio ex quo 
+      germi<lb ed="#P" n="83" break="no"/>nare coepit ac producere ea quae terrae nascentia 
+      vo<lb ed="#P" n="84" break="no"/>cantur, tota fuerit velut unus hortus pulcherrimus &amp; 
+      <lb ed="#P" n="85"/>amoenissimus. Hujus sententiae meminit etiam Hugo 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e261">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p061077-Rd1e267">
+                  <name xml:id="bt67yj-p061077-Nd1e269">Victorinus</name> in annotationibus super Genesim.</ref> Qui ita 
+      <lb ed="#P" n="87"/>sentiunt, nituntur hoc argumento, quia ante 
+      pec<lb ed="#P" n="88" break="no"/>catum primis hominibus dictum est: Replete terram. 
+      <lb ed="#P" n="89"/>At vero si quod jam ante contra Origenem praefati 
+      <lb ed="#P" n="90"/>sumus, persistendum nobis est in simplici narratione 
+      <lb ed="#P" n="91"/>scripturae, facile ac multipliciter refellitur haec 
+      o<lb ed="#P" n="92" break="no"/>pinio. Primum, quia tota terra non quatuor tantum 
+      <lb ed="#P" n="93"/>sed multos alios fluvios habet maximos &amp; 
+      cele<lb ed="#P" n="94" break="no"/>berrimos. Deinde quia. quatuor fluvii 
+      describun<lb ed="#P" n="95" break="no"/>tur egredientes paradisum: Atqui nullus fluvius 
+      e<lb ed="#P" n="96" break="no"/>greditur orbem terrae. Tertio, quia homo extra 
+      pa<lb ed="#P" n="97" break="no"/>radisum creatus est, deinde in paradiso positus, post 
+      <lb ed="#P" n="98"/>peccatum vero rursum inde ejectus; haec autem de 
+      <lb ed="#P" n="99"/>tota terra dici nulla ratione possunt. Ad haec diserte 
+      <lb ed="#P" n="100"/>Moyses particularem locum designat, quando 
+      di<lb ed="#P" n="101" break="no"/>cit paradisum fuisse in regione Eden ad plagam 
+      o<lb ed="#P" n="102" break="no"/>rientalem. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e308">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Ad argumentum autem respondetur ideo primis 
+      <lb ed="#P" n="104"/>hominibus dictum esse: Replete terram, quia 
+      po<lb ed="#P" n="105" break="no"/>steritas illorum, id est, genus humanum etiamsi non 
+      <lb ed="#P" n="106"/>peccasset, non intra paradisi angustias conclusum 
+      <lb ed="#P" n="107"/>fuisset, sed per universam terram diffundendum 
+      <lb ed="#P" n="108"/>erat &amp; multiplicandum. Quae quidem terra 
+      quam<lb ed="#P" n="109" break="no"/>vis non omnno parem cum paradiso foecunditatem 
+      <lb ed="#P" n="110"/>&amp; amoenitatem habuisset, nulli tamen maledicto 
+      <lb ed="#P" n="111"/>fuisset obnoxia, sed ad commodam humani generis 
+      <lb ed="#P" n="112"/>habitationem tota fuisset a Deo benedicta, licet non 
+      <lb ed="#P" n="113"/>in omnibus partibus aequaliter. Sicut enim diversi 
+      <lb ed="#P" n="114"/>sunt gradus supernae beatitudinis; ita fuissent &amp; 
+      ter<lb ed="#P" n="115" break="no"/>renae felicitatis. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e341">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Porro multorum ac fere omnium opinio est 
+      pa<lb ed="#P" n="117" break="no"/>radisum esse locum quemdam longissime dissitum 
+      <lb ed="#P" n="118"/>atque semotum a regionibus quas incolunt 
+      homi<lb ed="#P" n="119" break="no"/>nes, &amp; ad quem hominibus non sit accessus: locum, 
+      <lb ed="#P" n="120"/>inquam, ob perpetuam &amp; summam aurae 
+      tempe<lb ed="#P" n="121" break="no"/>riem mire foecundum atque amoenum. Sed haec 
+      o<lb ed="#P" n="122" break="no"/>pinio cum generalis sit, in multas secatur. 
+      Qui<lb ed="#P" n="123" break="no"/>dam enim terras quasdam inaccessas inter 
+      paradi<lb ed="#P" n="124" break="no"/>sum &amp; regiones a nobis habitatas interjacere 
+      exi<lb ed="#P" n="125" break="no"/>stimant, ut Tertullianus in apologetico adversus 
+      <lb ed="#P" n="126"/>gentes, ubi dicit paradisum maceria quadam igneae 
+      <lb ed="#P" n="127"/>zonae a notitia orbis communis segregatum esse. 
+      <lb ed="#P" n="128"/>Alii vastissimum oceanum mare inter paradisum &amp; 
+      <lb ed="#P" n="129"/>terram nostram interfusum esse dicunt, &amp; hac 
+      ra<lb ed="#P" n="130" break="no"/>tione accessum nobis ad paradisum prohiberi. Sic 
+      <lb ed="#P" n="131"/>docet Moses Barcepha in libro suo de paradiso, 
+      id<lb ed="#P" n="132" break="no"/>que ex authoritate Ephreem diaconi, cujus ad eam 
+      <lb ed="#P" n="133"/>rem allegat commentarios super Genes. qui hodie 
+      <lb ed="#P" n="134"/>non extant. In hanc sententiam citantur a 
+      nonnul<lb ed="#P" n="135" break="no"/>lis quaedam verba titulo sancti Augustini ad 
+      Oro<lb ed="#P" n="136" break="no"/>sium, ab aliis titulo Bedae, cum apud neutrum 
+      re<lb ed="#P" n="137" break="no"/>periantur. Verum Glossa ordinaria super Genes. 2. 
+      <lb ed="#P" n="138"/>quaedam hujusmodi verba Bedae ascribit, ac rursus 
+      <lb ed="#P" n="139"/>alia quaedam ejusdem sententiae ascribit Strabo, 
+      <lb ed="#P" n="140"/>qui &amp; collector ordinariae glessae putatur. Ad quae 
+      <lb ed="#P" n="141"/>loca Magistrum respexisse verisimile est, quoniam 
+      <lb ed="#P" n="142"/>in fine §. E. dicit: Unde volunt in orientali parti 
+      <lb ed="#P" n="143"/>esse paradisum, longo interjacente spatio vel maris 
+      <lb ed="#P" n="144"/>vel terrae, &amp;c. Alii paradisum sub Aequinoctiali 
+      <lb ed="#P" n="145"/>colloeant aut non procul inde, ob eam causam 
+      <!--0392.xml-->
+      <pb ed="#P" n="159"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod existiment in illo climate propter dierum ac 
+      <lb ed="#P" n="2"/>noctium perpetuam aequalitatem summam esse caeli 
+      <lb ed="#P" n="3"/>temperiem. Ita sentiunt super hanc distinctionem 
+      <lb ed="#P" n="4"/>scribentes S. Bonaventura &amp; Durandus. Dissentiunt 
+      <lb ed="#P" n="5"/>autem S. Thomas &amp; Scotus, licet argumentis non 
+      <lb ed="#P" n="6"/>adeo solidis innixi, cum sit hodie compertum terram 
+      <lb ed="#P" n="7"/>sub aequinoctiali sitam non obstante maxima 
+      vicini<lb ed="#P" n="8" break="no"/>tate solis, multis locis temperatam esse. Scribit enim 
+      <lb ed="#P" n="9"/>S. Thomas prima parte quaest. 102. art. 1. ad 3. 
+      lo<lb ed="#P" n="10" break="no"/>cum paradisi a nostra habitatione secluium esse 
+      qui<lb ed="#P" n="11" break="no"/>busdam impedimentis aut montium aut marium aut 
+      <lb ed="#P" n="12"/>alicujus aestuosae regionis quae pertransiri nequeat. 
+      <lb ed="#P" n="13"/>Et hanc postremam rationem prae caeteris probat 
+      se<lb ed="#P" n="14" break="no"/>cunda secundae quaestione 164. art. 2. ad 5. dicens 
+      <lb ed="#P" n="15"/>locum illum videri inaccessibilem propter 
+      vehemen<lb ed="#P" n="16" break="no"/>tiam aestus qui est in locis intermediis ex 
+      propinqui<lb ed="#P" n="17" break="no"/>tate solis, &amp; hoc significatum esse per flammeum ac 
+      <lb ed="#P" n="18"/>versatilem gladium, qui positus dicitur ante 
+      para<lb ed="#P" n="19" break="no"/>disum. Qua parte convenit S. Thomas cum 
+      senten<lb ed="#P" n="20" break="no"/>tentia Tertulliani paulo ante recitata. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e461">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Jam quod ad altitudinem paradisi attinet, 
+      qui<lb ed="#P" n="22" break="no"/>dam ei tantam tribuunt, ut nulla sui parte tenebras 
+      <lb ed="#P" n="23"/>admittat, sed ex orientium syderum splendore 
+      sem<lb ed="#P" n="24" break="no"/>per illustretur. Sunt enim haec ipsa sancti Basilii 
+      ver<lb ed="#P" n="25" break="no"/>ba in homil. de paradiso. Quem secutus Joan. 
+      Da<lb ed="#P" n="26" break="no"/>mascenus lib. 2. de fide cap. 11. dicit paradisum 
+      om<lb ed="#P" n="27" break="no"/>ni terra excelsio em esse. Rupertus libro 1. in Genes. 
+      <lb ed="#P" n="28"/>cap. 37. facit paradisum caelo proximum. Legitur 
+      <lb ed="#P" n="29"/>quoque apud Abdiam in vita Matthaei Apostoli 
+      pa<lb ed="#P" n="30" break="no"/>radisum eminere omnibus montibus, &amp; esse caelo 
+      <lb ed="#P" n="31"/>vicinum. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e490">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Porro Magister quorundam opinionem referens 
+      <lb ed="#P" n="33"/>ubi supra: Volunt, inquit, paradisum in alto situm 
+      <lb ed="#P" n="34"/>esse usque ad lunarem circulum pertingentem. Unde 
+      <lb ed="#P" n="35"/>nec aquae diluvii illuc pervenerunt. Quae verba sub 
+      <lb ed="#P" n="36"/>nomine Strabi leguntur affirmate in Glossa ordinaria. 
+      <lb ed="#P" n="37"/>Dicit enim, Scimus, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e508">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Verum ista opinio fidem rerum excedit. Neque 
+      <lb ed="#P" n="39"/>enim possibile est terrae partem aliquam ad tantam 
+      <lb ed="#P" n="40"/>altitudinem consurgere. Deinde adversatur 
+      scriptu<lb ed="#P" n="41" break="no"/>rae sacrae quae testatur universam terram &amp; omnes 
+      <lb ed="#P" n="42"/>montes aquis diluvii fuisse coopertos. Quod 
+      ve<lb ed="#P" n="43" break="no"/>rum non esset si terrae pars aliqua usque ad globum 
+      <lb ed="#P" n="44"/>lunae pertingeret. Certe si tanta paradisi esset 
+      alti<lb ed="#P" n="45" break="no"/>tudo, non inde expulsi sed ex alto praecipitati 
+      A<lb ed="#P" n="46" break="no"/>dam &amp; Eva dicerentur; neque opus esset custodia 
+      <lb ed="#P" n="47"/>Cherubim &amp; gladio flammeo ad prohibendum 
+      ac<lb ed="#P" n="48" break="no"/>cessum, quoniam illa immensa &amp; praeceps altitudo 
+      <lb ed="#P" n="49"/>satis per se locum faceret hominibus inaccessum. 
+      <lb ed="#P" n="50"/>Denique mons adeo sublimis aliqua mundi parte 
+      <lb ed="#P" n="51"/>vel a longe ab hominibus conspiceretur, &amp; 
+      um<lb ed="#P" n="52" break="no"/>bram faceret ingentem opposito sole. Et quid 
+      mul<lb ed="#P" n="53" break="no"/>ta? cum locus hujusmodi non jam in aere sed in 
+      <lb ed="#P" n="54"/>ignis elemento esset, quod haudquaquam 
+      habita<lb ed="#P" n="55" break="no"/>tioni humanae est accommodatum, ut ne illud 
+      ad<lb ed="#P" n="56" break="no"/>dam quod elementum ignis maxime ea parte qua 
+      <lb ed="#P" n="57"/>caelo vicinum est, una cum proximo caelo tanta 
+      ce<lb ed="#P" n="58" break="no"/>leritate perpetuo moveatur, ut spatio 24. aut 25. 
+      <lb ed="#P" n="59"/>horarum totum terrae orbem circumeat. Quomodo 
+      <lb ed="#P" n="60"/>ergo ibi consistere posset in tanta agitatione 
+      paradi<lb ed="#P" n="61" break="no"/>sus, locus, inquam, totius terrae amoenissimus? 
+      <lb ed="#P" n="62"/>aut quomodo Adam &amp; Eva vel momento temporis 
+      <lb ed="#P" n="63"/>illic in tam celeri raptu elementi potuissent 
+      perma<lb ed="#P" n="64" break="no"/>nere? Merito igitur haec tam absurda, ne dicam 
+      ri<lb ed="#P" n="65" break="no"/>dicula opinio a doctis omnibus exploditur. Unde 
+      <lb ed="#P" n="66"/>nec Sanctus Thomas eam probat, sed commode 
+      <lb ed="#P" n="67"/>interpretatur prima parte quaest. 102. art. 1. ad 
+      pri<lb ed="#P" n="68" break="no"/>mum. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e581">
+               <lb ed="#P" n="69"/>
+               <pc type="indent"/> Nonnulli vero ab illius sententiae absurditate 
+      re<lb ed="#P" n="70" break="no"/>cedentes paradisum constituerunt proxime supra 
+      <lb ed="#P" n="71"/>mediam aeris regionem, id est, eo loco ubi terminus 
+      <lb ed="#P" n="72"/>est exhalationum &amp; vaporum quibus aer hic noster 
+      <lb ed="#P" n="73"/>perpetuo commiscetur &amp; conturbatur. Ita enim 
+      sen<lb ed="#P" n="74" break="no"/>tiunt Alex. Alensis &amp; Tostatus. Sed &amp; hanc opi¬ 
+      <!--0392.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>nionem duo praecipue destruunt. Alterum, quod 
+      <lb ed="#P" n="76"/>nec locus ille propter nimiam aeris subtilitatem 
+      ap<lb ed="#P" n="77" break="no"/>tus sit vitae &amp; habitationi hominum. Alterum, quod 
+      <lb ed="#P" n="78"/>scriptura testatur aquas diluvii contexisse totam 
+      ter<lb ed="#P" n="79" break="no"/>ram, quod non ita esset, si supra mediam aeris 
+      re<lb ed="#P" n="80" break="no"/>gionem, ad quam nullae aquae possunt attingere, 
+      <lb ed="#P" n="81"/>locus esset paradisi. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e618">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Praeter opiniones hactenus commemoratas, est 
+      <lb ed="#P" n="83"/>quorundam doctorum sententia, non ea sane 
+      im<lb ed="#P" n="84" break="no"/>probanda, qui paradisum nobis a Moyse descriptum 
+      <lb ed="#P" n="85"/>ponunt in orientali regione circa partes 
+      Mesopota<lb ed="#P" n="86" break="no"/>miae &amp; Babylonis, eumque non in monte sed in 
+      pla<lb ed="#P" n="87" break="no"/>no loco situm. Idque probant ex nominibus 
+      fluvio<lb ed="#P" n="88" break="no"/>rum quorum in describendo paradiso Moyses 
+      me<lb ed="#P" n="89" break="no"/>minit. Euphrates enim Babyloniae fluvius est, 
+      in<lb ed="#P" n="90" break="no"/>ter quem &amp; Tigrim alterum fluvium intercepta 
+      re<lb ed="#P" n="91" break="no"/>gio Mesopotamia Graeco nomine vocatur, tanquam 
+      <lb ed="#P" n="92"/>media inter fluvios comprehensa. Estque haec 
+      re<lb ed="#P" n="93" break="no"/>gio respectu terrae sanctae, nec non deserti Arabiae, 
+      <lb ed="#P" n="94"/>in quo Moyses haec scribebat, ad Orientem sita. 
+      Un<lb ed="#P" n="95" break="no"/>de quod in nostra versione habemus a principio 
+      <lb ed="#P" n="96"/>plantatum fuisse paradisum, 70. interpretes 
+      verte<lb ed="#P" n="97" break="no"/>runt, ad Orientem, quod etiam a Magistro est 
+      ob<lb ed="#P" n="98" break="no"/>servatum. Eadem in regione est Eden. Quam 
+      vo<lb ed="#P" n="99" break="no"/>cem Hebraicam etsi Hieronymus verterit, 
+      volupta<lb ed="#P" n="100" break="no"/>tem, rectius tamen ni fallor, 70. retinuerunt ut 
+      no<lb ed="#P" n="101" break="no"/>men proprium loci. Quod ex aliis scripturae locis 
+      <lb ed="#P" n="102"/>ostendi potest. Nam cap. 4. Genes. Cain habitasse 
+      <lb ed="#P" n="103"/>dicitur ad plagam orientalem Eden, &amp; 4. Reg. 19. 
+      <lb ed="#P" n="104"/>filii Eden orientalibus annumerantur. Sed &amp; alibi 
+      <lb ed="#P" n="105"/>ejusdem regionis in scripturis mentio fit, tanquam ad 
+      <lb ed="#P" n="106"/>orientem sitae, ut Isa. 37. &amp; Ezechiel. 27. Est autem 
+      <lb ed="#P" n="107"/>in genere notandum Orientis, id est, terrae 
+      orien<lb ed="#P" n="108" break="no"/>talis nomine in sacris literis, fere semper intelligi 
+      <lb ed="#P" n="109"/>regiones quae sunt citra sinum Persicum, ut 
+      Persi<lb ed="#P" n="110" break="no"/>dem, Armeniam, Arabiam &amp; Mesopotamiam. Item 
+      <lb ed="#P" n="111"/>mare rubrum &amp; mare salsum, horumque locorum 
+      in<lb ed="#P" n="112" break="no"/>colas vel accolas vocari orientales, quia tales erant 
+      <lb ed="#P" n="113"/>respectu Judaeae. Quare &amp; Job qui in terra Hus 
+      ha<lb ed="#P" n="114" break="no"/>bitabat in finibus Idumaeae, vel ut aliis placet in ipsa 
+      <lb ed="#P" n="115"/>Idumaea, numeratur inter orientales Job 1. Et tres 
+      <lb ed="#P" n="116"/>Magi quiex Perside vel Chaldaea vel Arabia 
+      vene<lb ed="#P" n="117" break="no"/>runt in Judaeam ut natum Regem adorarent, ex 
+      <lb ed="#P" n="118"/>Oriente venisse narrantur. Denique ipsam 
+      Mesopo<lb ed="#P" n="119" break="no"/>tamiam interdum scriptura simpliciter vocat terram 
+      <lb ed="#P" n="120"/>orientalem, ut Genes. 29. &amp; Numer. 23. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e707">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Cum igitur paradisus secundum Hebraicam 
+      ve<lb ed="#P" n="122" break="no"/>ritatem, consentiente etiam 70. interpretum 
+      versio<lb ed="#P" n="123" break="no"/>ne, situs fuerit in Eden ad Orientem, atque ex aliis 
+      <lb ed="#P" n="124"/>scripturae locis constet Eden esse regionem in 
+      Orien<lb ed="#P" n="125" break="no"/>te sitam, id est, in partibus Mesopotamiae, &amp; 
+      qui<lb ed="#P" n="126" break="no"/>dem ut Geographis quibusdam visum est, inter 
+      Ba<lb ed="#P" n="127" break="no"/>bylonem &amp; mare Persicum; cumque Tigris &amp; 
+      Eu<lb ed="#P" n="128" break="no"/>phrates Mesopotamiam utrimque alluant, nihil 
+      <lb ed="#P" n="129"/>profecto probabilius apparet quod dicatur, quam 
+      <lb ed="#P" n="130"/>paradisum in iisdem Mesopotamiae partibus situm 
+      <lb ed="#P" n="131"/>esse. Cui rei id argumento esse volunt quod ut 
+      re<lb ed="#P" n="132" break="no"/>fert Quintus Curtius lib. 5. de rebus gestis 
+      Alexan<lb ed="#P" n="133" break="no"/>dri, tota Mesopotamia tam uberi &amp; pingui solo 
+      <lb ed="#P" n="134"/>sit, ut a pastu repelli pecora dicantur, ne satietas 
+      <lb ed="#P" n="135"/>perimat. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e744">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Quod vero ad fluvios attinet a quibus paradisum 
+      <lb ed="#P" n="137"/>adeo studiose describendum Moyses putavit; 
+      obser<lb ed="#P" n="138" break="no"/>vanda sunt imprimis scripturae verba quae in 
+      He<lb ed="#P" n="139" break="no"/>braeo sic habent: Et fluvius egrediebatur ex Eden ad 
+      <lb ed="#P" n="140"/>irrigandum paradisum, &amp; inde dividitur, &amp; est in 
+      <lb ed="#P" n="141"/>quatuor capita, &amp;c. Non ergo significatur fluvium 
+      <lb ed="#P" n="142"/>egredi ex paradiso, quasi ut quidam opinatisunt, in 
+      <lb ed="#P" n="143"/>paradiso sit fons &amp; scaturigo fluvii inde egredientis 
+      <lb ed="#P" n="144"/>&amp; postea divisi in quatuor flumina: Sed fluvium ex 
+      <lb ed="#P" n="145"/>regione Eden in paradisum influere, qui inde 
+      e<lb ed="#P" n="146" break="no"/>gressus postea in plures fluvios dividatur. Videtur 
+      <lb ed="#P" n="147"/>autem per unum illud flumen significari confluxus 
+      <lb ed="#P" n="148"/>Tigris &amp; Euphratis in unum alveum, ubi (quamvis 
+      <!--0393.xml-->
+      <pb ed="#P" n="160"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ex diversis fontibus orti) sunt instar unius fluminis, 
+      <lb ed="#P" n="2"/>donec iterum facto aquarum divortio separentur 
+      at<lb ed="#P" n="3" break="no"/>que abeant in proprios alveos, a quibus deinde alia 
+      <lb ed="#P" n="4"/>duo flumina Phison &amp; Gehon derivantur. Alter 
+      e<lb ed="#P" n="5" break="no"/>nim Armeniam permeans Phison vocatur, cujus &amp; 
+      <lb ed="#P" n="6"/>meminit Ecclesiasticus cap. 24. Quod nomen etsi 
+      <lb ed="#P" n="7"/>apud profanos scriptores ita expressum non 
+      reperia<lb ed="#P" n="8" break="no"/>tur, extare tamen apud illos videtur nonnihil 
+      muta<lb ed="#P" n="9" break="no"/>tum. Nam Q. Curtius lib. 5. testatur Euphratem &amp; 
+      <lb ed="#P" n="10"/>Tigrim quodam loco ab accolis vocari Phasin, &amp; 
+      Pli<lb ed="#P" n="11" break="no"/>nius lib. 6. cap. 21. tradit Tigrim findi in duos alveos, 
+      <lb ed="#P" n="12"/>atque ubi remeavere, Pasitigrim appellari. Habent 
+      <lb ed="#P" n="13"/>autem affinitatem quandam haec nomina Phison &amp; 
+      <lb ed="#P" n="14"/>Phasis. Quin &amp; hoc saeculo fluvium quendam esse 
+      <lb ed="#P" n="15"/>Armeniae vocabulo Phison, &amp; proinde 
+      vetustissi<lb ed="#P" n="16" break="no"/>mum illud a Moyse proditum nomen retinentem, 
+      <lb ed="#P" n="17"/>author est Guilielmus Episcop. Tornacensis in libr. 
+      <lb ed="#P" n="18"/>quem Gallice ante 100. annos scripsit de vellere 
+      au<lb ed="#P" n="19" break="no"/>reo. Quae autem sit terra Hevilath, quam circuire 
+      di<lb ed="#P" n="20" break="no"/>citur Phison, colligi potest ex Genes. 25. &amp; 1. Reg. 15. 
+      <lb ed="#P" n="21"/>Certe Strabo Geographus eam regionem collocat in 
+      <lb ed="#P" n="22"/>confinibus Arabiae &amp; Mesopotamiae. Unde 
+      perspi<lb ed="#P" n="23" break="no"/>cue refelluntur qui Phison eundem faciunt cum 
+      <lb ed="#P" n="24"/>Gange Indorum fluvio ab illis locis remotissimo. 
+      <lb ed="#P" n="25"/>Alter vero fluvius Arabiam desertam petens Gehon 
+      <lb ed="#P" n="26"/>vocatur, de quo item meminit Ecclesiasticus loco 
+      <lb ed="#P" n="27"/>memorato. Dicitur autem circuire terram 
+      Aethio<lb ed="#P" n="28" break="no"/>piae, non illius meridionalis seu occidentalis quam 
+      <lb ed="#P" n="29"/>perluit Nilus, sed orientalis quae vicina est Arabiae 
+      <lb ed="#P" n="30"/>&amp; Mesopotamiae. Esse enim Aethiopiam quandam 
+      <lb ed="#P" n="31"/>Syriae &amp; Palestinae vicinam, facile est ex sacris literis 
+      <lb ed="#P" n="32"/>ostendere. Madianitae enim vocabantur Aethiopes 
+      <lb ed="#P" n="33"/>Numer. 12. Unde &amp; in Cantico Abacuc legitur: 
+      <lb ed="#P" n="34"/>Vidi tentoria Aethiopiae, turbabuntur pelles terra 
+      <lb ed="#P" n="35"/>Madian. Quibus adde loca 2. Paralip. 14. &amp; 21. &amp; 
+      <lb ed="#P" n="36"/>Psalm. 71. &amp; 86. Non autem nomine Gehon Nilum 
+      <lb ed="#P" n="37"/>intelligi, planum est, quod Nilus cum Tigri &amp; 
+      Eu<lb ed="#P" n="38" break="no"/>phrate nullam prorsus habeat conjunctionem, uti 
+      <lb ed="#P" n="39"/>nec Ganges, quae res Geographis est notissima. 
+    </p>
+            <p xml:id="bt67yj-p061077-d1e868">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Denique tota haec de paradiso sententia eo 
+      argu<lb ed="#P" n="41" break="no"/>mento quam maxime probabili confirmatur; quod 
+      <lb ed="#P" n="42"/>existimandum sit Moysen describere voluisse 
+      para<lb ed="#P" n="43" break="no"/>disum a circunstantiis locorum &amp; fluviorum quae 
+      <lb ed="#P" n="44"/>nota essent Hebraeis quibus haec scribebat. 
+      Ejus<lb ed="#P" n="45" break="no"/>modi autem maxime sunt &amp; regiones &amp; fluvii 
+      me<lb ed="#P" n="46" break="no"/>morati secundum eam declarationem quam 
+      dedi<lb ed="#P" n="47" break="no"/>mus. Unde nec ignorabatur tempore Moysi qua 
+      <lb ed="#P" n="48"/>orbis regione paradisus fuisset situs; Atque adeo 
+      <lb ed="#P" n="49"/>credibile est ac veritati valde consentaneum 
+      pris<lb ed="#P" n="50" break="no"/>cos homines ante diluvium, ac deinde post 
+      dilu<lb ed="#P" n="51" break="no"/>vium Noe &amp; filios ejus inhabitasse loca paradiso 
+      <lb ed="#P" n="52"/>vicina, tum amore soli natalis sui generis, id est, 
+      <lb ed="#P" n="53"/>humani. Fuit enim Adam non procul a paradiso 
+      <lb ed="#P" n="54"/>creatus, ut statim in paradisum introduceretur; 
+      <lb ed="#P" n="55"/>tum propter eximiam ejus terrae bonitatem, de qua 
+      <lb ed="#P" n="56"/>supra diximus ex Quinto Curtio. Atque id ipsum 
+      <lb ed="#P" n="57"/>de Noe &amp; filiis satis evidenter ostenditur ex eo 
+      <lb ed="#P" n="58"/>quod arca dicitur requievisse super montibus 
+      Ar<lb ed="#P" n="59" break="no"/>meniae. Inde porro multiplicato genere, atque 
+      e<lb ed="#P" n="60" break="no"/>tiam occasione Babylonicae linguarum confusionis, 
+      <lb ed="#P" n="61"/>homines ex illa terra in alias quascunque regiones 
+      <lb ed="#P" n="62"/>fuisse dispersos. Quod totum satis colligitur ex 
+      <lb ed="#P" n="63"/>Gen. 10. &amp; 11. Hanc memoratam de loco paradisi 
+      <lb ed="#P" n="64"/>sententiam tradunt S. Augustin. Stenchus in 
+      Cos<lb ed="#P" n="65" break="no"/>mopoeia, &amp; in annotationibus super Genes. 2. Fr. 
+      <lb ed="#P" n="66"/>Vatablus in scholiis ad eundem locum. Joan. 
+      Hes<lb ed="#P" n="67" break="no"/>selius in hanc distinctionem &amp; B. Pererius in 
+      com<lb ed="#P" n="68" break="no"/>mentario super Genesim. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 18</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 18</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="207"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p080341"><!-- l2d22c18" -->
+            <head xml:id="bt67yj-p080341-Hd1e101">Capitulum 18</head>
+            <head xml:id="bt67yj-p080341-Hd1e103" type="question-title">Qui peccare dicantur ex malitia</head>
+            <p xml:id="bt67yj-p080341-d1e106">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> §. 18. Qui peccare dicantur ex malitia.
+    </p>
+            <p xml:id="bt67yj-p080341-d1e113">
+               <lb ed="#P" n="138"/>TErtium membrum erat eorum qui peccant ex, 
+      <lb ed="#P" n="139"/>industria, sive ut fere scholastici loquuntur, ex 
+      <lb ed="#P" n="140"/>malitia; sive ut alii, ex certa malitia. Hoc modo pec¬ 
+      <!--0441.xml-->
+      <pb ed="#P" n="208"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>care dicuntur illi quibus neque ignorantia neque 
+      <lb ed="#P" n="2"/>passio peccandi causa est, sed vel consuetudine, vel 
+      <lb ed="#P" n="3"/>odio, vel superbia, vel invidia, vel alio simili 
+      habi<lb ed="#P" n="4" break="no"/>tu depravata voluntate; &amp; in universum qui ex certa 
+      <lb ed="#P" n="5"/>scientia peccant. Unde &amp; Heb. 10. vocantur 
+      volun<lb ed="#P" n="6" break="no"/>tarie peccantes, quia nimirum in eis neque 
+      ignoran<lb ed="#P" n="7" break="no"/>tia, neque passio voluntarium minuit, ut fit in 
+      pec<lb ed="#P" n="8" break="no"/>catis quae ex ignorantia vel ex infirmitate 
+      commit<lb ed="#P" n="9" break="no"/>tuntur. In hoc genere sunt imprimis omnia 
+      daemo<lb ed="#P" n="10" break="no"/>num peccata. Deinde primum hominis peccatum 
+      <lb ed="#P" n="11"/>tam mulieris quam viri, tum peccata eorum qui in 
+      <lb ed="#P" n="12"/>malo affectu alicujus peccati diu perseverant, cum 
+      <lb ed="#P" n="13"/>passio sit affectus transitorius. 
+    </p>
+            <p xml:id="bt67yj-p080341-d1e157">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Et quidem constat primum peccatum vel 
+      homi<lb ed="#P" n="15" break="no"/>nis vel angeli non potuisse procedere ex passione 
+      <lb ed="#P" n="16"/>vel ignorantia. Quare non dubium, si plena est haec 
+      <lb ed="#P" n="17"/>trimembris peccatorum divisio, quin referri 
+      de<lb ed="#P" n="18" break="no"/>beat ad peccata hujus generis, id est, ea quae ex 
+      in<lb ed="#P" n="19" break="no"/>dustria vel certa scientia committi dicuntur, licet 
+      <lb ed="#P" n="20"/>non ex habitu processerit. Quamvis enim, ut recte 
+      <lb ed="#P" n="21"/>docet sanctus Thomas articulo secundo quaestione 
+      <lb ed="#P" n="22"/>78. in 1. 2. quicunque ex habitu peccant, etiam 
+      pec<lb ed="#P" n="23" break="no"/>cent ex certa malitia; non tamen e contra, 
+      quicun<lb ed="#P" n="24" break="no"/>que peccant ex certa malitia, etiam ex habitu 
+      pec<lb ed="#P" n="25" break="no"/>care dicendi sunt, quemadmodum ibidem artic. 3. 
+      <lb ed="#P" n="26"/>docetur. 
+    </p>
+            <p xml:id="bt67yj-p080341-d1e191">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Porro hujus generis peccati frequentia sunt 
+      <lb ed="#P" n="28"/>exempla in scripturis &amp; extra, ut in Pharaone, 
+      <lb ed="#P" n="29"/>Pharisaeis ac Scribis Christum persequentibus, 
+      <lb ed="#P" n="30"/>haereticis, schismaticis, Judaeis, usurariis, 
+      concu<lb ed="#P" n="31" break="no"/>binariis. 
+    </p>
+            <p xml:id="bt67yj-p080341-d1e207">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Et quanquam qui hoc modo peccant, 
+      plerum<lb ed="#P" n="33" break="no"/>que scientes ac prudentes peccent, qua ratione ex 
+      <lb ed="#P" n="34"/>industria &amp; scientia peccare dicuntur; contingit 
+      <lb ed="#P" n="35"/>tamen etiam eos qui bene se facere, &amp; Deo 
+      obse<lb ed="#P" n="36" break="no"/>quium praestare arbitrantur, ex malitia peccare, 
+      <lb ed="#P" n="37"/>quomodo peccabant Judaei, de quibus saepe in 
+      evan<lb ed="#P" n="38" break="no"/>gelio, &amp; multi omnibus saeculis haeretici, aliique 
+      <lb ed="#P" n="39"/>ecclesiae persecutores, in quibus malitia voluntatis 
+      <lb ed="#P" n="40"/>mentem excaecavit. De quo genere Sap. 2. dicitur: 
+      <lb ed="#P" n="41"/>Haec cogitaverunt &amp; erraverunt. Excoecavit enim eos 
+      <lb ed="#P" n="42"/>malitia eorum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

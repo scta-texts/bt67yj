@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 42</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 42</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="333"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p129160"><!-- l2d26c42" -->
+            <head xml:id="bt67yj-p129160-Hd1e101">Capitulum 42</head>
+            <head xml:id="bt67yj-p129160-Hd1e103" type="question-title">Quid nomine perseverantiae significetur</head>
+            <p xml:id="bt67yj-p129160-d1e106">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> §. 42. Quid nomine perseverantiae significetur.
+    </p>
+            <p xml:id="bt67yj-p129160-d1e113">
+               <lb ed="#P" n="56"/>SAtis quidem ex iis quae dudum disputata sunt de 
+      <lb ed="#P" n="57"/>necessitate gratiae Dei ad omnia &amp; singula bona 
+      <lb ed="#P" n="58"/>opera, &amp; ad cujusque operis initium, progressum, 
+      <lb ed="#P" n="59"/>&amp; consummationem, nec non quae proxime dicta 
+      <lb ed="#P" n="60"/>de ejusdem gratiae necessitate ad implenda mandata 
+      <lb ed="#P" n="61"/>legis, intelligi potest, neminem sine gratia Dei in 
+      <lb ed="#P" n="62"/>bono perseverare posse usque ad finem vitae. Verum 
+      <lb ed="#P" n="63"/>quia perseverantia in se plura quaedam complectitur, 
+      <lb ed="#P" n="64"/>quae explicanda &amp; distinguenda sunt; &amp; quia 
+      singu<lb ed="#P" n="65" break="no"/>lare est perseverantiae donum, utpote solis electis 
+      <lb ed="#P" n="66"/>proprium, quod proinde singulariter nobis in facris 
+      <lb ed="#P" n="67"/>literis commendatur, &amp; de quo Patres &amp; maxime 
+      <lb ed="#P" n="68"/>Augustinus etiam speciatim contra Pelagianos 
+      disse<lb ed="#P" n="69" break="no"/>ruerunt, idcirco propriam ea res tractationem a 
+      no<lb ed="#P" n="70" break="no"/>bis quoque exigere visa est.
+    </p>
+            <p xml:id="bt67yj-p129160-d1e148">
+      <!--0566.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>Primum itaque sciendum est, donum perseverantiae 
+      <lb ed="#P" n="72"/>non intelligi debere unam &amp; certam ariquam 
+      quali<lb ed="#P" n="73" break="no"/>tatem in anima residentem, qua fiat ut homo 
+      per<lb ed="#P" n="74" break="no"/>severet aut perseverare possit. Nam hujusmodi 
+      qua<lb ed="#P" n="75" break="no"/>litas praeter gratiam habitualem nulla statui potest, 
+      <lb ed="#P" n="76"/>ut nec statuitur a Theologis. Constat autem gratiam 
+      <lb ed="#P" n="77"/>habitualem non esse eandem cum dono 
+      perseveran<lb ed="#P" n="78" break="no"/>tiae. Multi enim gratiam habent, qui non 
+      perseve<lb ed="#P" n="79" break="no"/>rant. Igitur perseverantiae donum intelligendum est 
+      <lb ed="#P" n="80"/>in actuali gratia, id est, gratuita operatione Dei, qua 
+      <lb ed="#P" n="81"/>facit &amp; praestat, ut homo in bona &amp; justa 
+      conversa<lb ed="#P" n="82" break="no"/>tione permaneat ac perderet usque ad finem vitae, 
+      <lb ed="#P" n="83"/>superetque omnes tentationes interim occurrentes, 
+      <lb ed="#P" n="84"/>quibus a cursu bonae vitae retrahi poterat; sive, quod 
+      <lb ed="#P" n="85"/>eodem recidit, in ipso effectu hujusce divinae 
+      opera<lb ed="#P" n="86" break="no"/>tionis; scilicet in eo quod est actu in bono usque in 
+      <lb ed="#P" n="87"/>finem perseverare. Unde relinquitur, quod etsi 
+      mul<lb ed="#P" n="88" break="no"/>ti possunt perseverare qui non perseverant, multi 
+      <lb ed="#P" n="89"/>quoque perseverant ad tempus etiam diuturnum ac 
+      <lb ed="#P" n="90"/>tandem excidunt, simpliciter tamen donum 
+      perse<lb ed="#P" n="91" break="no"/>verantiae quod nobis scriptura commendat, illi soli 
+      <lb ed="#P" n="92"/>&amp; omnes habent, qui actu usque in finem juste 
+      vi<lb ed="#P" n="93" break="no"/>vendo perseverant, quemadmodum luculente 
+      do<lb ed="#P" n="94" break="no"/>cet Augustinus lib. de dono perseverantiae. c. 1. 
+    </p>
+            <p xml:id="bt67yj-p129160-d1e208">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Hinc notandum est, perseverantiae cursum non 
+      <lb ed="#P" n="96"/>semper initium habere a prima hominis 
+      justificatio<lb ed="#P" n="97" break="no"/>ne, qua nimirum justificatur in baptismo. Nam justi 
+      <lb ed="#P" n="98"/>tiam in baptismo perceptam multi amittunt postea 
+      <lb ed="#P" n="99"/>recuperaturi, sed ab ea justificatione duntaxat 
+      ini<lb ed="#P" n="100" break="no"/>tium sumit, a qua deinceps homo non excidit. 
+      Qui<lb ed="#P" n="101" break="no"/>cunque enim justitiam amittit, in ea utique tunc 
+      <lb ed="#P" n="102"/>non perseverat, &amp; proinde donum perseverantiae 
+      <lb ed="#P" n="103"/>nondum habet. Ex quo consequens est, multos esse 
+      <lb ed="#P" n="104"/>justos, qui non habent perseverantiae donum, id est, 
+      <lb ed="#P" n="105"/>omnes eos qui justitiam praesentem amissuri sunt 
+      <lb ed="#P" n="106"/>peccando. Item consequens est multos esse justos, 
+      <lb ed="#P" n="107"/>qui non habent perseverantiae donum, sed habituri 
+      <lb ed="#P" n="108"/>sunt, id est, omnes eos qui justi quidem sunt &amp; electi, 
+      <lb ed="#P" n="109"/>sed adhuc moraliter peccaturi, &amp; per hoc justitiam 
+      <lb ed="#P" n="110"/>amissuri. Qui tamen quoniam electi sunt, certissime 
+      <lb ed="#P" n="111"/>post lapsum aliquando recuperaturi sunt justitiam, 
+      <lb ed="#P" n="112"/>&amp; in ea usque in finem perseveraturi. 
+      <lb ed="#P" n="113"/>Insuper notandum est, hominem justum &amp; in 
+      ju<lb ed="#P" n="114" break="no"/>stitia quam habet, permansurum, quandiu vivit &amp; 
+      <lb ed="#P" n="115"/>currit &amp; certat, esse jam quidem perseverantem &amp; 
+      <lb ed="#P" n="116"/>habere donum perseverantiae, sed in actu 
+      imperfe<lb ed="#P" n="117" break="no"/>cto. Caeterum in termino vitae, quando jam dicere 
+      <lb ed="#P" n="118"/>potest: Bonum certamen certavi, cursum consummavi, 
+      <lb ed="#P" n="119"/>perseverantem esse, donumque perseverantiae 
+      habe<lb ed="#P" n="120" break="no"/>re in actu perfecto &amp; consummato. Neque enim 
+      <lb ed="#P" n="121"/>perseverantia, qua perseveratur usque in finem, 
+      <lb ed="#P" n="122"/>completa &amp; consummata dici potest, priusquam 
+      per<lb ed="#P" n="123" break="no"/>veniatur ad finem. Unde Augustinus lib. de dono 
+      <lb ed="#P" n="124"/>persevetantiae cap. 6. Hoc Dei donum, inquit, cum 
+      <lb ed="#P" n="125"/>datum fuerit, amitti contumaciter non potest. Cum 
+      <lb ed="#P" n="126"/>enim perseveraverit quisque usque in finem, neque 
+      <lb ed="#P" n="127"/>hoc donum potest amittere, neque alia quae poterat 
+      <lb ed="#P" n="128"/>ante finem. Ex quibus verbis intellige, dari quidem 
+      <lb ed="#P" n="129"/>perseverantiae donum, ac proinde actu imperfecto 
+      <lb ed="#P" n="130"/>haberi, dum adhuc homo cursum agit hujus vitae, 
+      <lb ed="#P" n="131"/>sed datum non esse, neque actu perfecto haberi ab 
+      <lb ed="#P" n="132"/>homine, nisi cum persevera verit usque in finem. 
+    </p>
+            <p xml:id="bt67yj-p129160-d1e295">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Videtur autem perseverantia complecti praecipue 
+      <lb ed="#P" n="134"/>haec tria aut quatuor usque in finem continuata; 
+      <lb ed="#P" n="135"/>observationem legis divinae, justitiae, gratiaeque 
+      con<lb ed="#P" n="136" break="no"/>servationem, &amp; a contrariis tentationibus non 
+      su<lb ed="#P" n="137" break="no"/>perari, sed potius eas superare &amp; vincere, praesertim 
+      <lb ed="#P" n="138"/>eo modo quem scriptura praedicat, hoc est, per fidem 
+      <lb ed="#P" n="139"/>&amp; spem promissionis vitae aeternae. Haec omnia 
+      in<lb ed="#P" n="140" break="no"/>ter se diversa sunt, &amp; propriis rationibus distingui 
+      <lb ed="#P" n="141"/>possunt, ut patet singula diligenter ac pressius 
+      con<lb ed="#P" n="142" break="no"/>sideranti. Et quidem perseverantiam non in eo solo 
+      <lb ed="#P" n="143"/>consistere quod est, nullis tentationibus a cursu 
+      re<lb ed="#P" n="144" break="no"/>ctae vitae revocari, verum etiam proprie sitam esse in 
+      <!--0567.xml-->
+      <pb ed="#P" n="334"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>continuatione bonorum operum ac sanctae 
+      conver<lb ed="#P" n="2" break="no"/>sationis, etiamsi nulla in diversum urgeret tentatio; 
+      <lb ed="#P" n="3"/>manifestum est ex eo, quia durante hac vita semper 
+      <lb ed="#P" n="4"/>potest homo justus cadere &amp; a justitia deficere, 
+      <lb ed="#P" n="5"/>etiamsi nulla occurrat tentatio ad defectum 
+      sollici<lb ed="#P" n="6" break="no"/>tans. Quod manifeste patet exemplo angelorum 
+      <lb ed="#P" n="7"/>apostatarum, ac praesertim supremi angeli, qui 
+      nul<lb ed="#P" n="8" break="no"/>la impulsus tentatione cecidit, justitiamque 
+      spon<lb ed="#P" n="9" break="no"/>te deseruit, ac per hoc in bono non perseveravit, 
+      <lb ed="#P" n="10"/>quemadmodum &amp; contra electi angeli vere &amp; 
+      pro<lb ed="#P" n="11" break="no"/>prie perseverasse dicuntur in bono, quia ab eo non 
+      <lb ed="#P" n="12"/>recesserunt, licet ad recedendum nulla tentatione 
+      <lb ed="#P" n="13"/>sollicitati. 
+    </p>
+            <p xml:id="bt67yj-p129160-d1e360">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Prius igitur nobis dicendum erit de dono 
+      perseve<lb ed="#P" n="15" break="no"/>rantiae in genere, ac deinde speciatim de ea 
+      perseve<lb ed="#P" n="16" break="no"/>rantiae parte quae consistit in victoria adversus 
+      tenta<lb ed="#P" n="17" break="no"/>tiones occurrentes, qui est perfectior perseverandi 
+      <lb ed="#P" n="18"/>modus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

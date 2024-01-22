@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="285"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p110677"><!-- l2d26c11" -->
+            <head xml:id="bt67yj-p110677-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p110677-Hd1e103" type="question-title">Explicatur divisio gratiae in excitantem 
+      et adjuvantem</head>
+            <p xml:id="bt67yj-p110677-d1e106">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> §. 11. Explicatur divisio gratiae in excitantem 
+      <lb ed="#P" n="9"/>&amp; adjuvantem. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e115">
+               <lb ed="#P" n="10"/>ESt praeterea quaedam gratiae divisio, qua in 
+      ex<lb ed="#P" n="11" break="no"/>citantem &amp; adjuvantem dividitur. Eam 
+      signifi<lb ed="#P" n="12" break="no"/>cavit Augustinus lib. 2. de peccatorum meritis cap. 
+      <lb ed="#P" n="13"/>18. dum ait: Quod ad Deum nos convertimus, nisi 
+      <lb ed="#P" n="14"/>ipso excitante &amp; adjuvante non possumus. Et 
+      Ber<lb ed="#P" n="15" break="no"/>nardus lib. de gratia &amp; libero arbitrio: Conatus, 
+      <lb ed="#P" n="16"/>inquit, nostri &amp; cassi sunt, si non adjuventur; &amp; 
+      nul<lb ed="#P" n="17" break="no"/>li, si non excitentur. Utramque hanc gratiam 
+      agno<lb ed="#P" n="18" break="no"/>scit Ecclesia, dum modo Deum orat, ut excitet 
+      fide<lb ed="#P" n="19" break="no"/>lium suorum voluntates &amp; corda, modo precatur, ut 
+      <lb ed="#P" n="20"/>actiones eorum quas aspirando praevenit, etiam 
+      ad<lb ed="#P" n="21" break="no"/>juvando prosequatur. Denique Tridentinum 
+      con<lb ed="#P" n="22" break="no"/>cilium luculente utriusque gratiae meminit sess. 6. 
+      <lb ed="#P" n="23"/>cap. 5. ubi dicit, eos qui per pecata aversi erant, 
+      <lb ed="#P" n="24"/>per ejus excitantem atque adjuvantem gratiam ad 
+      <lb ed="#P" n="25"/>convertendum se ad suam ipsorum justificationem 
+      <lb ed="#P" n="26"/>disponi. Quibus in verbis plane videtur ad 
+      memo<lb ed="#P" n="27" break="no"/>ratam Augustini sententiam respexisse. Et cap. 6. 
+      <lb ed="#P" n="28"/>Disponuntur, inquit, ad justitiam, dum excitati 
+      di<lb ed="#P" n="29" break="no"/>vina gratia &amp; adjuti fidem ex auditu concipientes 
+      <lb ed="#P" n="30"/>libere moventur in Deum, &amp;c. Meminit &amp; can. 4. 
+      <lb ed="#P" n="31"/>excitationis qua liberum arbitrium a Deo 
+      exci<lb ed="#P" n="32" break="no"/>tetur. Quae excitatio non aliud est quam gratia 
+      <lb ed="#P" n="33"/>excitans. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e170">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Quaeritur autem quae dicatur gratia excitans, &amp; 
+      <lb ed="#P" n="35"/>quae adjuvans. Quidam gratiam excitantem 
+      consti<lb ed="#P" n="36" break="no"/>tuunt in divinis quibusdam illustrationibus atque 
+      <lb ed="#P" n="37"/>inspirationibus, quibus Deus cor hominis pulsat, ut 
+      <lb ed="#P" n="38"/>a somno peccati vel negligentiae bonorum operum 
+      <lb ed="#P" n="39"/>excitetur. Adjuvantem vero gratiam esse dicunt 
+      di<lb ed="#P" n="40" break="no"/>vinam cooperationem, directionem ac 
+      protectio<lb ed="#P" n="41" break="no"/>nem, quibus homo juvatur, &amp; eligit bonum ad quod 
+      <lb ed="#P" n="42"/>excitatus fuerat &amp; idipsum faciat; juxta hos ergo 
+      <lb ed="#P" n="43"/>gratia excitans est, qua homo excitatur ad bonum, 
+      <lb ed="#P" n="44"/>licet illud nondum velit, adjuvans autem, qua 
+      adju<lb ed="#P" n="45" break="no"/>vatur ut velit, ac deinde faciat. Huc adducunt 
+      scri<lb ed="#P" n="46" break="no"/>pturam Apo. 3. Ecce sto ad ostium &amp; pulso: Si quis 
+      <lb ed="#P" n="47"/>audierit vocem meam &amp; aperuerit januam, intrabo ad 
+      <lb ed="#P" n="48"/>illum, &amp;c. Verum haec scriptura profecto parum 
+      ido<lb ed="#P" n="49" break="no"/>nea est ad id quod volunt ostendendum. Non enim 
+      <lb ed="#P" n="50"/>idem est pulsare &amp; excitare. Multis enim adhibetur 
+      <lb ed="#P" n="51"/>pulsatio, tum per externum ministerium 
+      praedicatio<lb ed="#P" n="52" break="no"/>nis, exhortationis, increpationis, tum per internas 
+      <lb ed="#P" n="53"/>illustrationes atque inspirationes, qui tamen a 
+      som<lb ed="#P" n="54" break="no"/>no peccati vel negligentiae non excitantur, neque 
+      <lb ed="#P" n="55"/>evigilant, sed consopiti manent; qui proinde 
+      non<lb ed="#P" n="56" break="no"/>dum dici possunt excitantem gratiam habere, 
+      quem<lb ed="#P" n="57" break="no"/>admodum &amp; iis accidit qui corporis somno 
+      detinen<lb ed="#P" n="58" break="no"/>tur, ut pulsatione adhibita non tamen statim 
+      exper<lb ed="#P" n="59" break="no"/>giscantur. Itaque juxta dictam expositionem, &amp; 
+      al<lb ed="#P" n="60" break="no"/>latum pro ea testimonium scripturae, deberet illa 
+      gra<lb ed="#P" n="61" break="no"/>tia non tam excitans quam pulsans vocari. Quo 
+      ta<lb ed="#P" n="62" break="no"/>men vocabulo nullus Ecclesiasticus scriptor eam 
+      vo<lb ed="#P" n="63" break="no"/>candam censuit. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e241">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Quocirca multo rectius alii, qui gratiam 
+      excitan<lb ed="#P" n="65" break="no"/>tem interpretantur eam, qua homini peccatori aut 
+      <lb ed="#P" n="66"/>a bono opere cessanti, tanquam sopore quodam 
+      de<lb ed="#P" n="67" break="no"/>presso immittitur cogitatio, desiderium, voluntas 
+      <lb ed="#P" n="68"/>boni operis, ut jam vere excitatus a somno peccati 
+      <lb ed="#P" n="69"/>aut negligentiae bonorum operum dici possit. 
+      Adju<lb ed="#P" n="70" break="no"/>vantem vero gratiam, qua jam excitatus adjuvatur, 
+      <lb ed="#P" n="71"/>ut perfectius velit quod velle incepit, utque perfi¬ 
+      <!--0518.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ciat quod jam voluit. Excitat enim gratia ut 
+      veli<lb ed="#P" n="73" break="no"/>mus, adjuvat ut faciamus. Excitantis itaque gratiae 
+      <lb ed="#P" n="74"/>effectus est velle; adjuvantis, facere atque perficere. 
+      <lb ed="#P" n="75"/>Neque tamen negandum est, secundum ea quae 
+      supe<lb ed="#P" n="76" break="no"/>rius de operante &amp; cooperante gratia dicta sunt, 
+      <lb ed="#P" n="77"/>quin &amp; adjuvantem gratiam eam appellare liceat; 
+      <lb ed="#P" n="78"/>qua gignitur in homine primus bonae voluntatis 
+      mo<lb ed="#P" n="79" break="no"/>tus; qui cum a libera voluntate procedat, ad eum 
+      <lb ed="#P" n="80"/>tamen producendum uti cooperatur, sic &amp; adjuvat 
+      <lb ed="#P" n="81"/>gratia Dei. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e289">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Quod autem gratia excitans eo quo diximus 
+      mo<lb ed="#P" n="83" break="no"/>do, sit interpretanda, praeter argumentum ex ipso 
+      <lb ed="#P" n="84"/>excitandi vocabulo sumptum, quod paulo ante 
+      ur<lb ed="#P" n="85" break="no"/>gebamus, facile doceri potest ex iis testimoniis, quae 
+      <lb ed="#P" n="86"/>initio pro statuenda hac divisione gratiae in 
+      excitan<lb ed="#P" n="87" break="no"/>tem &amp; adjuvantem adduximus. Nam Augustinus 
+      <lb ed="#P" n="88"/>gratiae excitanti &amp; adjuvanti tribuit hominis 
+      con<lb ed="#P" n="89" break="no"/>versionem; excitanti quidem, ut constet discrimen, 
+      <lb ed="#P" n="90"/>quoad conversionis initium; adjuvanti vero quoad 
+      <lb ed="#P" n="91"/>ejus progressum &amp; perfectionem. At si gratia 
+      exci<lb ed="#P" n="92" break="no"/>tans esset tantum gratia pulsans, saepe consisteret 
+      si<lb ed="#P" n="93" break="no"/>ne conversione voluntatis, imo nunquam eam 
+      effi<lb ed="#P" n="94" break="no"/>ceret, nisi accedente nova &amp; efficaci gratia, quae 
+      <lb ed="#P" n="95"/>voluntatem converteret. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e324">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/>
+               <name xml:id="bt67yj-p110677-Nd1e330">Bernardus</name> excitanti gratiae tribuit eum effectum, 
+      <lb ed="#P" n="97"/>ut sit conatus voluntatis; sicut adjuvanti, ut idem 
+      <lb ed="#P" n="98"/>conatus non sit cassus, sed ad opus proficiat. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e337">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Ecclesia divinam excitationem refert ad 
+      volun<lb ed="#P" n="100" break="no"/>tates &amp; corda fidelium, non ad nudas illustrationes 
+      <lb ed="#P" n="101"/>&amp; inspirationes, quae sunt solius intellectus. 
+      Ne<lb ed="#P" n="102" break="no"/>cesse est igitur, ut excitans gratia aliquid in ipsis 
+      <lb ed="#P" n="103"/>cordibus seu voluntatibus operetur. Tridentinum 
+      <lb ed="#P" n="104"/>concilium perinde ut Augustinus, excitanti &amp; 
+      adju<lb ed="#P" n="105" break="no"/>vanti gratiae conversionem hominis, &amp; liberum 
+      vo<lb ed="#P" n="106" break="no"/>luntatis motum in Deum ascribit: Quodque 
+      am<lb ed="#P" n="107" break="no"/>plius est, can. 4. motionem liberi arbitrii a Deo, 
+      <lb ed="#P" n="108"/>cum ejusdem excitatione ita conjungit, ut 
+      motio<lb ed="#P" n="109" break="no"/>nem priori loco nominet. Si quis dixerit, inquit, 
+      <lb ed="#P" n="110"/>liberum hominis arbitrium a Deo motum &amp; 
+      excita<lb ed="#P" n="111" break="no"/>tum nihil cooperari, assentiendo Deo excitanti atque 
+      <lb ed="#P" n="112"/>vocanti, &amp;c. anathema sit. Unde manifestum 
+      ap<lb ed="#P" n="113" break="no"/>paret ex sententia Tridentini concilii, gratiam 
+      <lb ed="#P" n="114"/>excitantem non consistere sine motione aliqua 
+      li<lb ed="#P" n="115" break="no"/>beri arbitrii ad bonum; &amp; tamen sine ea consistunt 
+      <lb ed="#P" n="116"/>illustrationes &amp; inspirationes. Quare non in his 
+      so<lb ed="#P" n="117" break="no"/>lis excitans gratia juxta mentem dicti concilii 
+      con<lb ed="#P" n="118" break="no"/>stitui potest. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e385">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Praeterea, si gratia excitans, ut talis, voluntatem 
+      <lb ed="#P" n="120"/>non movet; sed tantum admonet &amp; alloquitur per 
+      <lb ed="#P" n="121"/>quasdam illustrationes, nihil prohibebit quo minus 
+      <lb ed="#P" n="122"/>etiam exterior praedicatio, admonitio, allocutio, 
+      <lb ed="#P" n="123"/>dum saltem intelligit is cui adhibetur, ad 
+      excitan<lb ed="#P" n="124" break="no"/>tem gratiam pertinere dicatur. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e403">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Denique si gratiae excitantis officium est 
+      tantum<lb ed="#P" n="126" break="no"/>modo illustrare, admonere, suadere, vel 
+      quomodo<lb ed="#P" n="127" break="no"/>libet aliter animum pulsare, sic tamen ut cum 
+      om<lb ed="#P" n="128" break="no"/>nibus iis consistere queat animus immotus, quod ad 
+      <lb ed="#P" n="129"/>voluntatis effectum attinet; consequens erit 
+      excitan<lb ed="#P" n="130" break="no"/>tem gratiam, sicut &amp; peccati cognitionem, 
+      perti<lb ed="#P" n="131" break="no"/>nere ad legem, non ad gratiam Christi; saltem 
+      quo<lb ed="#P" n="132" break="no"/>ties ex ea nulla sequitur motio voluntatis, quae 
+      uti<lb ed="#P" n="133" break="no"/>que non est nisi per gratiam efficacem. 
+    </p>
+            <p xml:id="bt67yj-p110677-d1e428">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Ex quibus omnibus etiam intelligi potest, hanc 
+      <lb ed="#P" n="135"/>de qua nunc agimus gratiae divisionem, eandem aut 
+      <lb ed="#P" n="136"/>fere eandem esse cum tribus superioribus. Quae 
+      for<lb ed="#P" n="137" break="no"/>tasse causa est cur S. Thomas de hac divisione post 
+      <lb ed="#P" n="138"/>alias duas explicatas non putaverit sibi peculiariter 
+      <lb ed="#P" n="139"/>esse agendum, atque adeo hujus divisionis ne 
+      me<lb ed="#P" n="140" break="no"/>minerit quidem; alioqui certe eam non omnino 
+      <lb ed="#P" n="141"/>praetermissurus, si gratiam excitantem ab operante 
+      <lb ed="#P" n="142"/>&amp; praeveniente gratia diversam esse existimasset; 
+      <lb ed="#P" n="143"/>praesertim cum idem doctor nusquam legatur 
+      ali<lb ed="#P" n="144" break="no"/>quam Christi gratiam agnoscere, quae posita sit in 
+      <lb ed="#P" n="145"/>nuda illustratione partis intellectivae.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="113"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p043383"><!-- l2d12c2" -->
+            <head xml:id="bt67yj-p043383-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p043383-Hd1e103" type="question-title">Utrum omnia simul an distinctis diebus 
+      creata sint</head>
+            <p xml:id="bt67yj-p043383-d1e106">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> §. 2. Utrum omnia simul an distinctis diebus 
+      <lb ed="#P" n="19"/>creata sint?
+    </p>
+            <p xml:id="bt67yj-p043383-d1e115">
+               <lb ed="#P" n="20"/>NOn parum a simplici &amp; plana narratione 
+      scri<lb ed="#P" n="21" break="no"/>pturae sacrae recedere videtur opinio 
+      quorun<lb ed="#P" n="22" break="no"/>dam, qui ea quae Genes. 1. facta describuntur, non 
+      <lb ed="#P" n="23"/>per intervalla sex dierum, sed simul omnia a 
+      prin<lb ed="#P" n="24" break="no"/>cipio temporis facta esse dicunt. Ita Philonem 
+      Ju<lb ed="#P" n="25" break="no"/>daeum sensisse manifestum est. Nam initio lib. 1. 
+      al<lb ed="#P" n="26" break="no"/>legoriarum Legis sic ait: Rusticanae simplicitatis est 
+      <lb ed="#P" n="27"/>putare sex diebus mundum esse conditum, &amp;c. ubi 
+      <lb ed="#P" n="28"/>deinde sex dies allegorice exponit de senario 
+      perfe<lb ed="#P" n="29" break="no"/>cto numero. Sed Philonem in multis platonizasse 
+      <lb ed="#P" n="30"/>testantur qui de libr. &amp; vita ejus scripserunt, 
+      Hie<lb ed="#P" n="31" break="no"/>ronymus &amp; alii. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e144">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> In eadem sententia Augustinum quoque fuisse 
+      <lb ed="#P" n="33"/>satis apparet ex quibusdam ejus scriptis, nimirum 
+      <lb ed="#P" n="34"/>ex lib. I. de Genes. ad literam cap. 15. &amp; lib. 4. cap. 
+      <lb ed="#P" n="35"/>8. 22. 32. 33. 34. &amp; sequentibus, &amp; lib. 5. cap. 4. 
+      <lb ed="#P" n="36"/>5. &amp; 23. &amp; lib. 6. Item &amp; lib. 12. de Civitate Dei, 
+      <lb ed="#P" n="37"/>cap. 7. 9. 30. &amp; 31. Quibus adde quaestionem 26. 
+      <lb ed="#P" n="38"/>lib. 65. quaestionum titulo dialogi inter S. 
+      Augusti<lb ed="#P" n="39" break="no"/>num &amp; Orosium; tametsi constat neutrius esse. 
+      Col<lb ed="#P" n="40" break="no"/>ligitur autem ex memoratis locis haec S. Augustini 
+      <lb ed="#P" n="41"/>sententia: Simul initio facta esse caelum, terram, 
+      lu<lb ed="#P" n="42" break="no"/>cem, firmamentum dividens aquas ab aquis, 
+      ari<lb ed="#P" n="43" break="no"/>dam, maria, luminaria caeli. Caeterum sex dies in 
+      <lb ed="#P" n="44"/>principio Gen. descriptos ac suis numeris distinctos. 
+      <lb ed="#P" n="45"/>non designare usitata temporum spatia, sed 
+      cogni<lb ed="#P" n="46" break="no"/>tionem angelicorum spirituum, qua rerum 
+      condi<lb ed="#P" n="47" break="no"/>tarum gradus &amp; perfectionem cognoscunt, 
+      candem<lb ed="#P" n="48" break="no"/>que modo vesperam, modo mane appellari diversa 
+      <lb ed="#P" n="49"/>ratione. Nam scientia creaturae (inquit lib. 11. de 
+      <lb ed="#P" n="50"/>Civitate Dei, cap. 7.) in comparatione scientiae 
+      crea<lb ed="#P" n="51" break="no"/>toris quodammodo vesperascit, lucescit vero &amp; 
+      ma<lb ed="#P" n="52" break="no"/>ne fit, cum ad laudem &amp; dilectionem creatoris ipsa 
+      <lb ed="#P" n="53"/>refertur; &amp; alia quae sequuntur. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e197">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> At vero alii patres simplici narrationi scriptura 
+      <lb ed="#P" n="55"/>inhaerentes, non simul uno die aut momento, sed 
+      <lb ed="#P" n="56"/>sex distinctis diebus, ut verba scripturae sonant, 
+      di<lb ed="#P" n="57" break="no"/>versa rerum genera &amp; species quas eadem 
+      scriptu<lb ed="#P" n="58" break="no"/>ra commemorat, productas fuisse existimant, ut 
+      Ba<lb ed="#P" n="59" break="no"/>silius homilia 2. Hexameron, Epiphanius in epistola 
+      <lb ed="#P" n="60"/>a S. Hieronymo versa &amp; contra Origenis errores 
+      <lb ed="#P" n="61"/>scripta. S. Ambrosius lib. 1. Hexamcron cap. 7. &amp; 
+      <lb ed="#P" n="62"/>lib. 6. cap. 2. Joan. Chrysostomus homilia tertia 
+      su<lb ed="#P" n="63" break="no"/>per Genes. S. Gregorius lib. 32. moralium cap. 10. 
+      <lb ed="#P" n="64"/>&amp; Joan. Damascenus lib. 2. de fide. Item Beda, 
+      Ra<lb ed="#P" n="65" break="no"/>banus, Strabo, quos recenset Glossa ordinaria 
+      su<lb ed="#P" n="66" break="no"/>per Genes. 1. &amp; alii plerique omnes tam recentiores 
+      <lb ed="#P" n="67"/>quam veteres. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e232">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Porro sanctus Thomas prima parte quaestione 
+      <lb ed="#P" n="69"/>74. articulo secundo, suam sententiam suspendit ac 
+      <lb ed="#P" n="70"/>praefatus neutri parti se velle praejudicare, solvit 
+      ar<lb ed="#P" n="71" break="no"/>gumenta utriusque. Quanquam alibi ut in opuscu¬ 
+      <!--0346.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Io15. &amp; 17. magis propensus videtur in partem 
+      Au<lb ed="#P" n="73" break="no"/>gustini. Dicit enim sententiam quae ponit angelos 
+      <lb ed="#P" n="74"/>simul cum mundo corporeo creatos, satis quadrare 
+      <lb ed="#P" n="75"/>cum ea quae ponit in rerum creatione non fuisse 
+      <lb ed="#P" n="76"/>temporis ordinem. Sentit autem ac docet angelos 
+      <lb ed="#P" n="77"/>simul creatos cum mundo corporeo. Quare 
+      proba<lb ed="#P" n="78" break="no"/>bile habet &amp; istud quod cum illo satis quadrare 
+      <lb ed="#P" n="79"/>asserit. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e267">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Certe <name xml:id="bt67yj-p043383-Nd1e273">Cajetanus</name> sancti Thomae sectator, 
+      quam<lb ed="#P" n="81" break="no"/>vis in commentario super summam, opinionem 
+      <lb ed="#P" n="82"/>suam non declaret, aperte tamen cum S. Augustino 
+      <lb ed="#P" n="83"/>sentit in expositione Gen. 1. Cui sententiae Canus 
+      <lb ed="#P" n="84"/>quoque subscribit. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e285">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Veruntamen communis sententia quae dierum &amp; 
+      <lb ed="#P" n="86"/>operum creationis distinctionem atque 
+      successio<lb ed="#P" n="87" break="no"/>nem agnoscit, quam maxime est probabilis. Quod 
+      <lb ed="#P" n="88"/>imprimis ostenditur ex plana &amp; simplici narratione 
+      <lb ed="#P" n="89"/>scripturae, qua dies creationis rerum suis 
+      nume<lb ed="#P" n="90" break="no"/>ris distinguuntur, &amp; quid quoque die factum sit 
+      <lb ed="#P" n="91"/>memoratur. Sicut autem in ea narratione per 
+      cae<lb ed="#P" n="92" break="no"/>lum caelum, per terram terram, per aquam aquam 
+      <lb ed="#P" n="93"/>intelligimus, &amp; ita de aliis quae ibi facta 
+      narran<lb ed="#P" n="94" break="no"/>tur; ita per diem, diem intelligere debemus, &amp; per 
+      <lb ed="#P" n="95"/>sex dies non aliud quam sex dies sibi invicem 
+      ordi<lb ed="#P" n="96" break="no"/>ne succedentes. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e316">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Probat hoc etiam lex de sabbatho; cujus 
+      nimi<lb ed="#P" n="98" break="no"/>rum hanc rationem reddit ipse legislator Dominus 
+      <lb ed="#P" n="99"/>Exod. 20. Sex enim diebus fecit Dominus caelum &amp; 
+      <lb ed="#P" n="100"/>terram, &amp; mare &amp; omnia quae in eis sunt, &amp; 
+      requie<lb ed="#P" n="101" break="no"/>vit in die septimo, idcirco benedixit Dominus diei 
+      sab<lb ed="#P" n="102" break="no"/>bathi &amp; sanctificavit eum. Quae ratio non magni 
+      mo<lb ed="#P" n="103" break="no"/>menti videbitur, sit non revera sex distinctis 
+      die<lb ed="#P" n="104" break="no"/>bus opus creationis mundi a Deo perfectum 
+      <lb ed="#P" n="105"/>fuit, iisque dies septimus cessationis dominicae 
+      suc<lb ed="#P" n="106" break="no"/>cessit. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e342">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> His adde quod nulla rationis necessitas cogit eas 
+      <lb ed="#P" n="108"/>scripturas, quae de sex distinctis diebus loquuntur, 
+      <lb ed="#P" n="109"/>&amp; per se clarae sunt, in alium sensum detorqueri: 
+      <lb ed="#P" n="110"/>cum sit non minus Deo possibile, imo nec minus 
+      <lb ed="#P" n="111"/>congruum, si causae facti perpendantur, distinctis 
+      <lb ed="#P" n="112"/>temporum spatiis rerum naturas producere, quam 
+      <lb ed="#P" n="113"/>facere omnia simul. Nam &amp; miracula Christus 
+      in<lb ed="#P" n="114" break="no"/>terdum non momento, sed successive perfecit, ut 
+      <lb ed="#P" n="115"/>Marci 8. quando caecum prius imperfecte, deinde 
+      <lb ed="#P" n="116"/>perfecte illuminavit. Congruum autem fuisse, ut in 
+      <lb ed="#P" n="117"/>rerum creatione Deus ab imperfecto ad perfectum 
+      <lb ed="#P" n="118"/>procederet, ad distinct. proxime sequentem 
+      mon<lb ed="#P" n="119" break="no"/>strabimus. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e376">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Sunt &amp; alia argumenta quae contrariae opinioni 
+      <lb ed="#P" n="121"/>possunt opponi, maxime qua parte tradit uno 
+      eo<lb ed="#P" n="122" break="no"/>demque instanti facta fuisse quaecumque Genes. 1. 
+      <lb ed="#P" n="123"/>scribuntur facta sex diebus. Neque enim simul 
+      fue<lb ed="#P" n="124" break="no"/>runt, aut esse potuerunt tenebrae &amp; lux; sed 
+      te<lb ed="#P" n="125" break="no"/>stante scriptura prius erant tenebrae super faciem 
+      <lb ed="#P" n="126"/>abyssi; deinde jubente Domino facta est lux, 
+      videli<lb ed="#P" n="127" break="no"/>cet tenebris in eodem diaphano succedens. Unde 
+      <lb ed="#P" n="128"/>Apostolus 2. Corinth. 4. Deus qui dixit de tenebri. 
+      <lb ed="#P" n="129"/>lucem splendescere, &amp;c. Quod si lux creata fuisset 
+      <lb ed="#P" n="130"/>primo instanti cum caelo &amp; terra, nullae tenebrae 
+      <lb ed="#P" n="131"/>eam praecessissent, sed pura negatio. Respondet 
+      qui<lb ed="#P" n="132" break="no"/>dem ad hoc argumentum S. Augustinus, tenebras 
+      <lb ed="#P" n="133"/>luce priores esse non ordine temporis, sed ordine 
+      <lb ed="#P" n="134"/>naturae seu potius intelligentiae nostrae, quia nos 
+      <lb ed="#P" n="135"/>prius concipimus rem informem quam formatam, 
+      <lb ed="#P" n="136"/>etiamsi forma nunquam caruerit. At non videtur 
+      <lb ed="#P" n="137"/>ea responsione satisfieri scripturae, quae tenebras 
+      <lb ed="#P" n="138"/>ponit vere fuisse. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e422">
+               <lb ed="#P" n="139"/>Simile argumentum est de aquis confusis &amp; 
+      po<lb ed="#P" n="140" break="no"/>stea divisis interposito firmamento; de terra 
+      cooper<lb ed="#P" n="141" break="no"/>ta aquis, &amp; postea discooperta; de partibus diei 
+      <lb ed="#P" n="142"/>vespera &amp; mane. Quae omnia temporis ordinem 
+      ne<lb ed="#P" n="143" break="no"/>cessario requirunt, sicut &amp; plures dies quos sex 
+      or<lb ed="#P" n="144" break="no"/>dine scriptura numerat. Neque enim plura tempora 
+      <lb ed="#P" n="145"/>simul currere possunt. Nam quod Augustinus sex 
+      <!--0347.xml-->
+      <pb ed="#P" n="114"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dies creationis interpretatur cognitionem 
+      angeli<lb ed="#P" n="2" break="no"/>cam secundum varios gradus rerum creatarum, 
+      <lb ed="#P" n="3"/>recipi quidem id potest pro sensu allegorico, non sic 
+      <lb ed="#P" n="4"/>autem pro sensu iiterali, ut per hoc realis rerum 
+      di<lb ed="#P" n="5" break="no"/>stinctio, atque operum distincta per dies creatio 
+      <lb ed="#P" n="6"/>tollatur. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e459">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Rursus Augustino quis objiciat, quod ipso etiam 
+      <lb ed="#P" n="8"/>fatente ac docente angelus non statim initio 
+      pecca<lb ed="#P" n="9" break="no"/>vit, sed aliquandiu bonus fuit, ut videre est ad 
+      di<lb ed="#P" n="10" break="no"/>stinctionem tertiam. Atqui ex ejusdem Augustini 
+      <lb ed="#P" n="11"/>sententia diabolus peccavit ante hominem 
+      condi<lb ed="#P" n="12" break="no"/>tum, vel certe tunc quando homo conditus fuit. 
+      <lb ed="#P" n="13"/>Nam quod de diabolo scriptum est. Ille erat 
+      homi<lb ed="#P" n="14" break="no"/>cida ab initio, exponit de initio hominis conditi: 
+      er<lb ed="#P" n="15" break="no"/>go ne quidem secundum ipsum August. stare potest, 
+      <lb ed="#P" n="16"/>ut angelus &amp; homo sint in eodem instanti creati. 
+      <lb ed="#P" n="17"/>Accedit aperta scriptura significans hominem non 
+      <lb ed="#P" n="18"/>fuisse ab initio, ac ne tunc quidem quando creatae 
+      <lb ed="#P" n="19"/>sunt plantae. Dicitur enim Genes. 2. quod quo die 
+      <lb ed="#P" n="20"/>fecit Deus caelum &amp; terram, &amp; virgultum agri &amp; 
+      <lb ed="#P" n="21"/>herbam regionis, homo nondum erat qui 
+      operare<lb ed="#P" n="22" break="no"/>tur terram. Sed haec objectio S. August. non premit, 
+      <lb ed="#P" n="23"/>ut quilib. 5. de Genes. ad litteram cap. 4. &amp; 5. suam 
+      <lb ed="#P" n="24"/>explicans sententiam (quod &amp; S. Thomas 
+      annota<lb ed="#P" n="25" break="no"/>vit (productionem plantarum &amp; animalium, in 
+      qui<lb ed="#P" n="26" break="no"/>bus est homo, non ponat in opere sex dierum 
+      secun<lb ed="#P" n="27" break="no"/>dum actum, sed tantum secundum potentiam. 
+      Cau<lb ed="#P" n="28" break="no"/>saliter enim &amp; potentialiter, ut ipse loquitur, 
+      ter<lb ed="#P" n="29" break="no"/>ra &amp; aqua tertio, quinto &amp; sexto die ista rerum 
+      <lb ed="#P" n="30"/>genera produxerunt; quia producendi virtutem 
+      <lb ed="#P" n="31"/>acceperunt, idque significatum putat illis verbis 
+      <lb ed="#P" n="32"/>Genes. 2. quibus dicitur, in die quo fecit Dominus 
+      <lb ed="#P" n="33"/>caelum &amp; terram, etiam fecisse omne virgultum agri, 
+      <lb ed="#P" n="34"/>antequam oriretur in terra, omnemque herbam 
+      re<lb ed="#P" n="35" break="no"/>gionis priusquam germinaret; quasi diceretur, 
+      prius<lb ed="#P" n="36" break="no"/>quam actu essent, jam erant virtute in terra. Et sic 
+      <lb ed="#P" n="37"/>quidem S. August. Alii vero qui etiam haec quae 
+      <lb ed="#P" n="38"/>S. Aug. excipit, actu simul producta cum angelis 
+      <lb ed="#P" n="39"/>&amp; mundo sentiunt; forte responderent non esse 
+      ab<lb ed="#P" n="40" break="no"/>surdum si dicatur angelus post creationem hominis 
+      <lb ed="#P" n="41"/>peccasse. Neque enim id certa ratione, aut scripturae 
+      <lb ed="#P" n="42"/>testimonio refelli posse videtur. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e542">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Potest nihilominus contra dictam S. Augustini 
+      <lb ed="#P" n="44"/>explicationem adhuc objici, quod etsi multae 
+      plan<lb ed="#P" n="45" break="no"/>tae &amp; animalia sint in terra &amp; aqua potentialiter, 
+      <lb ed="#P" n="46"/>non tamen omnia. Neque enim terra &amp; aqua 
+      virtu<lb ed="#P" n="47" break="no"/>tem acceperunt producendi animalia perfectiora, 
+      <lb ed="#P" n="48"/>quae natura nunquam aliter producit quam per 
+      ge<lb ed="#P" n="49" break="no"/>nerationem ex mare &amp; foemina, ut equos, leones, 
+      <lb ed="#P" n="50"/>elephantes. De homine autem id certissimum est 
+      <lb ed="#P" n="51"/>etiam secundum scripturam dicente Apostolo Actor. 
+      <lb ed="#P" n="52"/>17. quod Deus ex uno homine fecit omne genus 
+      ho<lb ed="#P" n="53" break="no"/>minum. Quin neque de homine dictum est: Produ 
+      <lb ed="#P" n="54"/>cat terra hominem, sicut de bestiis &amp; plantis; sed 
+      <lb ed="#P" n="55"/>corpori ejus ex limo terrae composito Deus animam 
+      <lb ed="#P" n="56"/>inspiravit. Itaque saltem ad hominem pertinere 
+      <lb ed="#P" n="57"/>non potest, quod Augustinus interpretatur animalia 
+      <lb ed="#P" n="58"/>potentialiter fuisse in opere sex dierum. Habet 
+      igi<lb ed="#P" n="59" break="no"/>tur Augustini responsio de potentiali productione 
+      <lb ed="#P" n="60"/>non parvam difficultatem. 
+    </p>
+            <p xml:id="bt67yj-p043383-d1e586">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Quocirca etiam huc referre possumus illam 
+      gene<lb ed="#P" n="62" break="no"/>ralem ejus retractationem, quam de libris quibus 
+      <lb ed="#P" n="63"/>titulus est de Genes. ad literam, facit l. 2. 
+      retracta<lb ed="#P" n="64" break="no"/>tionum cap. 24. scilicet in eo opera plura quaesita esse 
+      <lb ed="#P" n="65"/>quam inventa, &amp; multa ita posita quasi adhuc 
+      re<lb ed="#P" n="66" break="no"/>quirenda. Alibi sane communem sententiam 
+      simpli<lb ed="#P" n="67" break="no"/>citer sequi videtur. Nam lib. de catech. rudibus cap. 
+      <lb ed="#P" n="68"/>17. cum dixisset Deum sex diebus operatum septimo 
+      <lb ed="#P" n="69"/>die requievisse, subjunxit: Poterat enim 
+      omnipo<lb ed="#P" n="70" break="no"/>tens &amp; uno momento temporis omnia facere; quasi 
+      <lb ed="#P" n="71"/>dicat: ob certam rationem non fecit, quamvis 
+      <lb ed="#P" n="72"/>posset.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

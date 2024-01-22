@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="381"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p147794"><!-- l2d39c1" -->
+            <head xml:id="bt67yj-p147794-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p147794-Hd1e103" type="question-title">Cur a sola voluntate dicatur homo bonus 
+      vel malus</head>
+            <p xml:id="bt67yj-p147794-d1e106">
+               <lb ed="#P" n="124"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="125"/>TRICESIMAMNONAM. 
+      <lb ed="#P" n="126"/>§. 1. Cur a sola voluntate dicatur homo bonus 
+      <lb ed="#P" n="127"/>vel malus.
+    </p>
+            <p xml:id="bt67yj-p147794-d1e117">
+               <lb ed="#P" n="128"/>QUAERIT hac dist. Magister cur potius 
+      vo<lb ed="#P" n="129" break="no"/>luntatis actus inordinatus peccatum sit, 
+      <lb ed="#P" n="130"/>quam actus aliarum potentiarum animae, 
+      <lb ed="#P" n="131"/>ut intellectus memoriae; item, sensus, 
+      appeti<lb ed="#P" n="132" break="no"/>tus, &amp; facultatis motivae, si nimirum &amp; harum 
+      <lb ed="#P" n="133"/>actus sint inordinati. Cum qua quaestione 
+      cohae<lb ed="#P" n="134" break="no"/>ret ista: Cur ab actu voluntatis potius dicatur 
+      ho<lb ed="#P" n="135" break="no"/>mo simpliciter bonus vel malus, quam ab actibus 
+      <lb ed="#P" n="136"/>aliarum potentiarum. Respondet Magister, hujus 
+      <!--0615.xml-->
+      <pb ed="#P" n="382"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>causam esse quia voluntatis actus est ad aliquid ! 
+      <lb ed="#P" n="2"/>adipiscendum, vel non amittendum; qui non potest 
+      <lb ed="#P" n="3"/>esse de malis quin sit malus, neque contra de bonis 
+      <lb ed="#P" n="4"/>quin sit bonus. Velle enim mala malum est, sicut 
+      vel<lb ed="#P" n="5" break="no"/>le bona bonum est. Non autem ita se res habet 
+      ne<lb ed="#P" n="6" break="no"/>cessario in aliis potentiis. Non enim continuo 
+      ma<lb ed="#P" n="7" break="no"/>lum est, ea quae mala sunt intelligere, aut meminisse 
+      <lb ed="#P" n="8"/>aut sensu percipere. 
+    </p>
+            <p xml:id="bt67yj-p147794-d1e163">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Ratio diversitatis duplex assignari potest. Prior, 
+      <lb ed="#P" n="10"/>quia voluntatis actus proprius est amor, cujus ea vis 
+      <lb ed="#P" n="11"/>est &amp; proprietatis ut transformet amantem in 
+      ama<lb ed="#P" n="12" break="no"/>tum. Quo fit, ut qui justitiam diligit, justus sit, &amp; 
+      <lb ed="#P" n="13"/>qui amat mendacium, mendax sit. Unde legitur 
+      <lb ed="#P" n="14"/>Oseae 9. Facti sunt abominabiles sicut ea quae 
+      dilexe<lb ed="#P" n="15" break="no"/>runt. Et 1. Corinth. 6. Qui adharet Domino, unus 
+      <lb ed="#P" n="16"/>spiritus est. Id autem non facit actus intelligendi, qui 
+      <lb ed="#P" n="17"/>etsi conformet aliquo modo intellectum rei 
+      intelle<lb ed="#P" n="18" break="no"/>ctae per susceptam speciem, non tamen transformat, 
+      <lb ed="#P" n="19"/>ut simpliciter talis dicatur; non enim injustus est, 
+      <lb ed="#P" n="20"/>qui injustitiam cognoscit &amp; judicat; sicut nec 
+      con<lb ed="#P" n="21" break="no"/>tinuo justus, qui novit quid justum sit. Posterior 
+      ra<lb ed="#P" n="22" break="no"/>tio, quia objectum voluntatis est bonum ut 
+      tale<lb ed="#P" n="23" break="no"/>Unde si voluntas feratur in id quod vere bonum est, 
+      <lb ed="#P" n="24"/>bona dicitur; si autem in malum oppositum, quod 
+      <lb ed="#P" n="25"/>tantum est apparens bonum, mala dicitur. 
+      Obje<lb ed="#P" n="26" break="no"/>ctum autem intellectus est verum, ut tale. Unde 
+      <lb ed="#P" n="27"/>intellectus assentiens ei quod reipsa verum est, 
+      ve<lb ed="#P" n="28" break="no"/>rus dicitur; assentiens autem falso, quod tantum est e 
+      <lb ed="#P" n="29"/>verum apparens, falsus dicitur. 
+    </p>
+            <p xml:id="bt67yj-p147794-d1e214">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Caeterum cum intellectus falsus, ut talis, sit 
+      ma<lb ed="#P" n="31" break="no"/>lus; sicut intellectus verus, ut talis, sit bonus, &amp; 
+      si<lb ed="#P" n="32" break="no"/>militer aliarum potentiarum actus prout circa 
+      conve<lb ed="#P" n="33" break="no"/>niens vel inconveniens objectum versantur, eatenus 
+      <lb ed="#P" n="34"/>boni vel mali dici possint; restat quaestio, cur 
+      pro<lb ed="#P" n="35" break="no"/>prie ab actu voluntatis homo simpliciter bonus vel 
+      <lb ed="#P" n="36"/>malus denominetur. Respondemus hanc esse causam; 
+      <lb ed="#P" n="37"/>quia per voluntatem homo suarum operationum 
+      do<lb ed="#P" n="38" break="no"/>minus est, earumque liberam habet potestatem, 
+      ut<lb ed="#P" n="39" break="no"/>pote cui aliae facultates animae subjectae sint, ejusque 
+      <lb ed="#P" n="40"/>imperio regantur. Quin &amp; ratio est, cur sola 
+      volun<lb ed="#P" n="41" break="no"/>tas sit capax legis, cui quidem legi sit conformis, 
+      bo<lb ed="#P" n="42" break="no"/>na est, &amp; bonum facit hominem, sin difformis, 
+      ma<lb ed="#P" n="43" break="no"/>la est, &amp; hominem malum constituit. 
+    </p>
+            <p xml:id="bt67yj-p147794-d1e249">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Neque vero tamen ita solus actus voluntatis 
+      pecca<lb ed="#P" n="45" break="no"/>tum est, ut non etiam aliarum potentiarum actus 
+      <lb ed="#P" n="46"/>aliquando sint peccata. Nam &amp; cogitare quod non 
+      <lb ed="#P" n="47"/>oportet, &amp; falsa credere &amp; noxia reminisci, &amp; videre 
+      <lb ed="#P" n="48"/>quod non licet, &amp; carnali voluptate delectari, &amp; 
+      quae<lb ed="#P" n="49" break="no"/>cunque contra legem per membra corporis fiunt, 
+      pec<lb ed="#P" n="50" break="no"/>cata sunt; quae tamen omnia aliarum potentiarum 
+      <lb ed="#P" n="51"/>sunt actus. Sed quatenus illae potentiae subsunt impe 
+      <lb ed="#P" n="52"/>rio voluntatis, hactenus etiam earum actus 
+      volunta<lb ed="#P" n="53" break="no"/>rii dicuntur, non ut eliciti a voluntate, sed ut 
+      impe<lb ed="#P" n="54" break="no"/>rati, idque vel expresse vel interpretative. Quo in 
+      <lb ed="#P" n="55"/>genere etiam sunt debitorum actuum omissiones 
+      vo<lb ed="#P" n="56" break="no"/>luntariae, quales notat Scriptura Job. 21. Qui 
+      dixe<lb ed="#P" n="57" break="no"/>runt Deo: Recede a nobis, scientiam viarum tuarum 
+      no<lb ed="#P" n="58" break="no"/>lumus. Et Psal. 35. Noluit intelligere ut bene ageret. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

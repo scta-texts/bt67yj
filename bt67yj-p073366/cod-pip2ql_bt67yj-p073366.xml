@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 13</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 13</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="190"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p073366"><!-- l2d21c13" -->
+            <head xml:id="bt67yj-p073366-Hd1e101">Capitulum 13</head>
+            <head xml:id="bt67yj-p073366-Hd1e103" type="question-title">Ad quasdam in contrarium authoritates 
+      responsio</head>
+            <p xml:id="bt67yj-p073366-d1e106">
+               <lb ed="#P" n="62"/>§. 13. Ad quasdam in contrarium authoritates 
+      <lb ed="#P" n="63"/>responsio
+    </p>
+            <p xml:id="bt67yj-p073366-d1e113">
+               <lb ed="#P" n="64"/>CUm superiori doctrina pugnare imprimis 
+      vi<lb ed="#P" n="65" break="no"/>dentur expressa Magistri verba in §. E. 
+      affir<lb ed="#P" n="66" break="no"/>mantis, eam tentationem quae ex carne est, non fieri 
+      <lb ed="#P" n="67"/>sine peccato; eam vero quae fit ab hoste, nisi ei 
+      con<lb ed="#P" n="68" break="no"/>sentiatur, non habere peccatum, sed esse materiam 
+      <lb ed="#P" n="69"/>exercendae virtutis. Apparet autem Magistrum hoc 
+      <lb ed="#P" n="70"/>accepisse ex Greg. qui in ult. ep. quae est ad 
+      Augusti<lb ed="#P" n="71" break="no"/>num Anglorum episcopum, scribit voluptatem car¬ 
+      <!--0423.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>nis etiam in opere conjugali, sine culpa nullatenus 
+      <lb ed="#P" n="73"/>esse posse. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e142">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Deinde allegantur quaedam loca Aug. Nam libro 
+      <lb ed="#P" n="75"/>14. de civit. capite 10. dicit: Neque enim 
+      nullum<lb ed="#P" n="76" break="no"/>peccatum est, ea quae lex Dei prohibet, 
+      concupisce<lb ed="#P" n="77" break="no"/>re; &amp; libro 19. cap. 4. Neque enim nullum est 
+      vi<lb ed="#P" n="78" break="no"/>tium, cum, sicut dicit Apost. Caro concupiscit 
+      adver<lb ed="#P" n="79" break="no"/>sus spiritum. Cui vitio contraria virtus est, cum sicut 
+      <lb ed="#P" n="80"/>idem dicit: Spiritus concupiscit adversus carnem. 
+      <lb ed="#P" n="81"/>Idem lib. I. de nuptiis &amp; concupisc. c. 23. dicit illud 
+      <lb ed="#P" n="82"/>Non concupisces, a nobis non fieri, propter motus 
+      <lb ed="#P" n="83"/>concupiscentiae, licet illud fiat: Post concupiscentias 
+      <lb ed="#P" n="84"/>tuas non eas. Et c. 27. significat motus involuntarios 
+      <lb ed="#P" n="85"/>prohibitos esse lege Dei, citans enim illud Apost. Si 
+      <lb ed="#P" n="86"/>quod nolo malum, hoc facio, consentio legi quoniam 
+      <lb ed="#P" n="87"/>bona est, addit, quia hoc &amp; illa non vult quod &amp; ego 
+      <lb ed="#P" n="88"/>nolo. Non vult enim ut concupiscam, quae dicit, Nor 
+      <lb ed="#P" n="89"/>concupisces, &amp; ego nolo concupiscere. In hoc itaque 
+      <lb ed="#P" n="90"/>consentiunt voluntas legis &amp; mea. Verum quia 
+      concu<lb ed="#P" n="91" break="no"/>piscere nolebat, &amp; tamen concupiscebat, sed eidem 
+      <lb ed="#P" n="92"/>concupiscentiae nequaquam consentiendo serviebat, 
+      <lb ed="#P" n="93"/>adjunxit atque ait: Nunc antem jam non ego operos 
+      <lb ed="#P" n="94"/>illud, sed quod habitat in me peccatum. Haec illae. 
+      <lb ed="#P" n="95"/>Voluntas autem legis praeceptum vel prohibitio 
+      le<lb ed="#P" n="96" break="no"/>gis est. Quare si motus involuntarii lege Dei 
+      pro<lb ed="#P" n="97" break="no"/>hibentur, consequens fit eos esse peccata. Nam 
+      quic<lb ed="#P" n="98" break="no"/>quid lege Dei prohibetur, peccatum est, vel eo ipso 
+      <lb ed="#P" n="99"/>quo prohibetur. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e204">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Quin &amp; S. Th. huc adducitur; scribens enim in 
+      <lb ed="#P" n="101"/>hanc dist. q. 1. a. 2. dicit tentationem diaboli ideo 
+      <lb ed="#P" n="102"/>in nobis non esse peccatum; quia peccatum unius 
+      <lb ed="#P" n="103"/>non consistit in actu alterius, sed in actu proprio, 
+      <lb ed="#P" n="104"/>juxta illud: Anima quae peccaverit, ipsa morietur. In 
+      <lb ed="#P" n="105"/>tentatione autem carnis ipsum appetitum illicitum 
+      <lb ed="#P" n="106"/>secundum quem aliquis tentari dicitur, esse actum 
+      <lb ed="#P" n="107"/>ejus qui tentatur. Non enim, inquit, sola caro 
+      con<lb ed="#P" n="108" break="no"/>cupiscit, sed conjunctim. Et ideo talis tentatio est 
+      <lb ed="#P" n="109"/>peccatum in eo qui tentatur, quod &amp; repetit in resp. 
+      <lb ed="#P" n="110"/>ad 2. Idem p. 3. suae summae q. 41. art. 1. ex eo 
+      do<lb ed="#P" n="111" break="no"/>cet Christum non potuisse tentari a carne, quod 
+      ten<lb ed="#P" n="112" break="no"/>tatio carnis non sit sine peccato. Et in 1. 2. q. 74. art. 
+      <lb ed="#P" n="113"/>3. ad 2. docet quomodo hujusmodi motus subsint 
+      <lb ed="#P" n="114"/>rationabili voluntati &amp; proinde sint voluntarii; &amp; 
+      <lb ed="#P" n="115"/>ad 3. quod motus sensualitatis rationem praeveniens 
+      <lb ed="#P" n="116"/>est peccatum veniale. Et hoc idem velle videtur 
+      <lb ed="#P" n="117"/>art. 4. ejusdem que docens in sensualitate posse esse 
+      <lb ed="#P" n="118"/>peccatum veniale, non autem mortale. Nam &amp; 
+      ra<lb ed="#P" n="119" break="no"/>tiones ejus eo tendunt, quod sine consensu sit in 
+      sen<lb ed="#P" n="120" break="no"/>sualitate peccatum. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e254">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Item objicitur expressa sententia Bonaven. qui ad 
+      <lb ed="#P" n="122"/>textum Magistri quaestionem a se motam, cur potius 
+      <lb ed="#P" n="123"/>tentatio ab hoste possit esse sine peccato, quam 
+      ten<lb ed="#P" n="124" break="no"/>tatio a carne, solvit eodem fere modo quo S. 
+      Tho<lb ed="#P" n="125" break="no"/>concluditque tentationem carnis nunquam esse in 
+      <lb ed="#P" n="126"/>nobis sine aliqua saltem veniali culpa. Quin &amp; 
+      su<lb ed="#P" n="127" break="no"/>per dist. 24. art. 2. q. 2. dicit delectationem 
+      sensua<lb ed="#P" n="128" break="no"/>litatis consequentem apprehensionem delectabilis. 
+      <lb ed="#P" n="129"/>antequam ratio eam advertat, esse absque dubio 
+      <lb ed="#P" n="130"/>veniale peccatum. Et paulo post ait: Dum tentatio 
+      <lb ed="#P" n="131"/>inchoatur a sensualitate, planum est esse veiale, &amp; 
+      <lb ed="#P" n="132"/>iterum: Cum percipitur delectatio, si statim 
+      repelli<lb ed="#P" n="133" break="no"/>tur, tunc leve est peccatum. Denique art. 3. q. 1. docet 
+      <lb ed="#P" n="134"/>ex professo in primis motibus sensualitatis esse 
+      ve<lb ed="#P" n="135" break="no"/>niale peccatum. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e291">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Porro <ref xml:id="bt67yj-p073366-Rd1e297">
+                  <name xml:id="bt67yj-p073366-Nd1e299">Durand.</name> quaest. 1. super hanc dist.</ref> aperte 
+      re<lb ed="#P" n="137" break="no"/>solvit tentationem carnis semper esse peccatum; non 
+      <lb ed="#P" n="138"/>item tentationem daemonis aut mundi, nisi 
+      acceden<lb ed="#P" n="139" break="no"/>te consensu vel delectatione. Et probat, quia 
+      tenta<lb ed="#P" n="140" break="no"/>tio carnis nunquam est sine consensu &amp; 
+      coopera<lb ed="#P" n="141" break="no"/>tione nostra: Quia, inquit, mens non prohibet sicut 
+      <lb ed="#P" n="142"/>prohibere potest. Eandem doctrinam repetit 
+      su<lb ed="#P" n="143" break="no"/>per dist. 24. quaestione 5. Idem prorsus docet 
+      Alti<lb ed="#P" n="144" break="no"/>siodorensis libro 2. summae, tractatu 28. 
+      quaestio<lb ed="#P" n="145" break="no"/>1. &amp; 2. 
+      <!--0424.xml-->
+      <pb ed="#P" n="191"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Cum his sentit <ref xml:id="bt67yj-p073366-Rd1e330">
+                  <name xml:id="bt67yj-p073366-Nd1e332">Cajet.</name> scribens in 1. 2. quaest. 74. 
+      <lb ed="#P" n="2"/>art. 3. &amp; 4.</ref> Docet enim omnem motum 
+      sensualita<lb ed="#P" n="3" break="no"/>tis quo tentatur homo ad illicitum, habere 
+      ratio<lb ed="#P" n="4" break="no"/>nem peccati imperfecti, id est, venialis. Quod 
+      pro<lb ed="#P" n="5" break="no"/>bat hoc modo, quia omnes motus mali, quos 
+      vo<lb ed="#P" n="6" break="no"/>luntas potest &amp; debet praevenire, si non praevenit, 
+      <lb ed="#P" n="7"/>sunt peccata. Potest autem voluntas &amp; debet 
+      sin<lb ed="#P" n="8" break="no"/>gulos motus hujusmodi praevenire, loquendo de 
+      <lb ed="#P" n="9"/>imperfecta ratione potentiae &amp; debiti, quae nimirum 
+      <lb ed="#P" n="10"/>sufficiat ad commissionem imperfecti, id est, 
+      venia<lb ed="#P" n="11" break="no"/>lis peccati. Eam autem imperfectam potentiam 
+      po<lb ed="#P" n="12" break="no"/>nit in eo quod homo potest reprimere &amp; obviare 
+      <lb ed="#P" n="13"/>singulis motibus malis, licet non omnibus, quia 
+      <lb ed="#P" n="14"/>dum attendit uni reprimendo, resurgit alius. Quam 
+      <lb ed="#P" n="15"/>declarationem vldere etiam est apud Durandum &amp; 
+      <lb ed="#P" n="16"/>Altisiod. locis praedictis. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e369">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Sed ad haec objecta respondeamus. 
+      <lb ed="#P" n="18"/>Authoritatem Magistri flac in parte quidam 
+      re<lb ed="#P" n="19" break="no"/>pellunt, annumerantes hanc ejus sententiam illis 
+      <lb ed="#P" n="20"/>in quibus non tenetur ejus doctrina. Sed quia 
+      Ma<lb ed="#P" n="21" break="no"/>gister similiter cum Greg. loquitur, consentaneum 
+      <lb ed="#P" n="22"/>est ut utriusque sententiam eodem modo 
+      explice<lb ed="#P" n="23" break="no"/>mus. Dicunt igitur tentationem ac delectationem 
+      <lb ed="#P" n="24"/>carnis non posse esse sine peccato seu culpa, non 
+      <lb ed="#P" n="25"/>quod talis motus proprie peccatum sit, sed quia ad 
+      <lb ed="#P" n="26"/>peccatum inclinat &amp; sollicitat suapte natura, nec 
+      <lb ed="#P" n="27"/>quicquam ei deest ad propriam rationem peccati, 
+      <lb ed="#P" n="28"/>nisi consensus voluntatis. Hoc enim sensu motus 
+      <lb ed="#P" n="29"/>concupiscentiae peccata dici interpretatur 
+      Augusti<lb ed="#P" n="30" break="no"/>nus libro 4. contra Julianum capite 2. &amp; libro 6. 
+      <lb ed="#P" n="31"/>capite 5. &amp; 8. &amp; sermone 5. de verbis Apost. Quam 
+      <lb ed="#P" n="32"/>interpretationem approbavit synodus Trid. sess. 5. 
+      <lb ed="#P" n="33"/>can. 5. exponens quomodo concupiscentia post 
+      ba<lb ed="#P" n="34" break="no"/>ptismum remanens ab Apostolo peccatum vocetur, 
+      <lb ed="#P" n="35"/>Roman. 7. Ac sane Gregorii locus diligenter 
+      inspe<lb ed="#P" n="36" break="no"/>ctus hunc intellectum sententiae ejus omnino 
+      postu<lb ed="#P" n="37" break="no"/>lare videtur. Ad primum locum ex Aug. 
+      deprom<lb ed="#P" n="38" break="no"/>ptum facilis est responsio: nam post verba citata 
+      <lb ed="#P" n="39"/>continuo subjungit. Atque ab his abstinere timore 
+      <lb ed="#P" n="40"/>poenae, non amore justitiae. Unde patet eum loqui de 
+      <lb ed="#P" n="41"/>concupiscentia voluntaria, quaeque ab opere solo 
+      <lb ed="#P" n="42"/>supplicii metu prohibetur. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e430">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Ad secundum locum Augustini respondent, aliud 
+      <lb ed="#P" n="44"/>esse vitium, aliud peccatum. Nam concupiscentia 
+      <lb ed="#P" n="45"/>post baptismum remanens, licet non sit peccatum, 
+      <lb ed="#P" n="46"/>sine dubio tamen vitiosa est, ut latius docebimus 
+      in<lb ed="#P" n="47" break="no"/>fra ad dist. 30. &amp; idem judicium de moribus ejus 
+      in<lb ed="#P" n="48" break="no"/>voluntariis. S. Thom. 1. 2. qu. 80. art. 3. aliter solvit, 
+      <lb ed="#P" n="49"/>quia pro vitio legit peccatum, forte lapsus memoria, 
+      <lb ed="#P" n="50"/>aut priorem locum cum posteriori confundens. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e452">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Ad tertium locum respondeo, propter motus 
+      con<lb ed="#P" n="52" break="no"/>cupiscentiae illud, Non concupisces, a nobis non fieri, 
+      <lb ed="#P" n="53"/>ex mente Augustini, quia non perficitur. Nam 
+      gene<lb ed="#P" n="54" break="no"/>rali hac prohibitione continetur etiam praeceptum, 
+      <lb ed="#P" n="55"/>quo jubemur illuc anniti &amp; ad eam perfectionem 
+      ten<lb ed="#P" n="56" break="no"/>dere, ut omni motu concupiscentiae careamus. Quod 
+      <lb ed="#P" n="57"/>tamen in hac vita non impletur. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e473">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Ad quartum similis est responsio. Lex enim velle 
+      <lb ed="#P" n="59"/>dicitur, ne omnino vel sola carne concupiscamus, 
+      <lb ed="#P" n="60"/>quia non tantum prohibet consensum, sed etiam 
+      <lb ed="#P" n="61"/>praecipit ut in nobis concupiscentiae motus 
+      oppri<lb ed="#P" n="62" break="no"/>mamus &amp; mortificemus, &amp; ipsam concupiscentiam 
+      <lb ed="#P" n="63"/>persequamur, eamque conemur extinguere &amp; ab 
+      <lb ed="#P" n="64"/>ea tandem liberari. Quod totum non perficitur nisi 
+      <lb ed="#P" n="65"/>post hanc vitam. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e495">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Ad ea quae ex S. Thoma objiciuntur, dicendum 
+      <lb ed="#P" n="67"/>vel eum tacite retractasse in summa quod dixerat in 
+      <lb ed="#P" n="68"/>scripto super Magistrum, ac sententiam mutasse, 
+      <lb ed="#P" n="69"/>quomodo respondet Medina in 1. 2. qu. 74. art. 3. 
+      <lb ed="#P" n="70"/>vel de peccato locutum fuisse generalius, eo modo 
+      <lb ed="#P" n="71"/>quo Gregorium &amp; Magistrum locutos fuisse 
+      dixi<lb ed="#P" n="72" break="no"/>mus. Quae posterior responsio verior apparet ex eo, 
+      <lb ed="#P" n="73"/>quod etiam in summa similiter locutus inveniatur. 
+      <lb ed="#P" n="74"/>Illud tamen quod ex tertia parte allatum est, potest 
+      <!--0424.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>etiam ad hunc modum intelligi: Tentationem 
+      car<lb ed="#P" n="76" break="no"/>nis non esse sine peccato, non quod ipse motus 
+      car<lb ed="#P" n="77" break="no"/>nis semper peccatum sit, sed quia in quocunque est 
+      <lb ed="#P" n="78"/>illa tentatio, aliquando peccatum excitat, &amp; quia 
+      <lb ed="#P" n="79"/>propter eam sine peccato non vivimus. Si ergo 
+      <lb ed="#P" n="80"/>Christus eam habuisset, non vixisset sine peccato. 
+      <lb ed="#P" n="81"/>Aliter Medina, quia, inquit, motus carnis in 
+      <lb ed="#P" n="82"/>Christo non poterat praevenire rationem, &amp; ita 
+      sem<lb ed="#P" n="83" break="no"/>per fuisset in eo cum consensu voluntatis, &amp; 
+      proin<lb ed="#P" n="84" break="no"/>de peccatum. Sed haec solutio non videtur vera, quia 
+      <lb ed="#P" n="85"/>S. Thomas dat rationem generalem cur Christus 
+      <lb ed="#P" n="86"/>non fuerit tentatus a carne, quod scilicet illa 
+      tenta<lb ed="#P" n="87" break="no"/>tio non sit sine peccato, id est, non contingat in 
+      ho<lb ed="#P" n="88" break="no"/>mine sine peccato. Nam dicere alioqui debuisset, 
+      <lb ed="#P" n="89"/>ideo Christum non fuisse tentatum a carne; quia in 
+      <lb ed="#P" n="90"/>ipso peculiariter esse non poterat hujusmodi 
+      tenta<lb ed="#P" n="91" break="no"/>tio sine peccato, propter perfectum rationis ejus 
+      <lb ed="#P" n="92"/>dominium super vires inferiores. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e563">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Jam nec concedendum, ut quidam concedunt, 
+      <lb ed="#P" n="94"/>Bonaventuram in diversa fuisse sententia. Nam 
+      pri<lb ed="#P" n="95" break="no"/>mo quidem loco, ideo dicit tentationem carnis non 
+      <lb ed="#P" n="96"/>esse sine peccato; quia non est sine aliqua 
+      inordina<lb ed="#P" n="97" break="no"/>tione, eo quod per illam sensualitas moveatur 
+      inor<lb ed="#P" n="98" break="no"/>dinate, id est, praeter rationis ordinem, ut ipse 
+      ex<lb ed="#P" n="99" break="no"/>ponit. Hoc autem non est peccatum nisi generali 
+      <lb ed="#P" n="100"/>ratione supra dicta. Remittit autem lectorem ad dist. 
+      <lb ed="#P" n="101"/>24. velut ibi magis expresse de ea re acturus. Quo 
+      <lb ed="#P" n="102"/>quidem loco articulo 3. qu. 1. tandem in fine 
+      senten<lb ed="#P" n="103" break="no"/>tiam suam clare aperit, dicens, tentationem carnis 
+      <lb ed="#P" n="104"/>non esse sine peecato, quatenus peccatum 
+      considera<lb ed="#P" n="105" break="no"/>tur ut habet rationem vitii, non autem ut habet 
+      ra<lb ed="#P" n="106" break="no"/>tionem culpae. Nam ut vitium sonat, inquit, sic dicit 
+      <lb ed="#P" n="107"/>inordinationem alicujus potentiae respectu actus sibi 
+      de<lb ed="#P" n="108" break="no"/>biti secundum suam naturalem institntionem; &amp; quia 
+      <lb ed="#P" n="109"/>talis deordinatio habet esse in sensualitate, ita quod 
+      <lb ed="#P" n="110"/>illa deordinatio est via ad opus vituperio dignum, sic 
+      <lb ed="#P" n="111"/>ponitur in sensualitate esse peccatum. Haec ille. Quae 
+      <lb ed="#P" n="112"/>responsio plane convenit cum solutione, quam ad 
+      <lb ed="#P" n="113"/>verba aliorum doctorum jam dedimus. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e613">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Quoniam vero <name xml:id="bt67yj-p073366-Nd1e619">Durandus</name>, <name xml:id="bt67yj-p073366-Nd1e621">Altisiodorensis</name> &amp; <name xml:id="bt67yj-p073366-Nd1e623">
+      Ca<lb ed="#P" n="115" break="no"/>jetanus</name> manifeste diversam opinionem profitentur; 
+      <lb ed="#P" n="116"/>solvenda est eorum ratio sumpta ex eo, quod dicunt 
+      <lb ed="#P" n="117"/>primos motus sensualitatis esse in nostra potestate, 
+      <lb ed="#P" n="118"/>saltem eatenus ut ratio si vigilanter attendat, 
+      pos<lb ed="#P" n="119" break="no"/>sit singulos etsi non montes impedire. Solvitur 
+      au<lb ed="#P" n="120" break="no"/>tem negatione ejus quod sumitur; quia 
+      quantum<lb ed="#P" n="121" break="no"/>vis advigilet homo pius, saepe tamen surgunt in eo 
+      <lb ed="#P" n="122"/>motus hujusmodi, quos ne singulos quidem 
+      impe<lb ed="#P" n="123" break="no"/>dire &amp; avertere potest, licet exortos possit statim 
+      <lb ed="#P" n="124"/>reprimere. Nam aliud est statim reprimere 
+      tenta<lb ed="#P" n="125" break="no"/>tionem carnis exortam, quod de singulis fatemur 
+      <lb ed="#P" n="126"/>possibile, aliud impedire ac prohibere ne oriatur, 
+      <lb ed="#P" n="127"/>quod possibile negamus. Quam rem bene declarat 
+      <lb ed="#P" n="128"/>
+               <ref xml:id="bt67yj-p073366-Rd1e657">
+                  <name xml:id="bt67yj-p073366-Nd1e659">Medina</name> in 1. 2. q. 74. art. 3. in fine sui ad eum locum 
+      <lb ed="#P" n="129"/>commentarii</ref>, explicans quo sensu dictum sit a S. 
+      <lb ed="#P" n="130"/>Thoma posse hominem rationali voluntate 
+      repri<lb ed="#P" n="131" break="no"/>mere singulos motus inordinatos sensualitatis, si 
+      <lb ed="#P" n="132"/>praesentiat, licet non omnes, atque id solum 
+      suf<lb ed="#P" n="133" break="no"/>ficere ad rationem peccati voluntarii. Porro 
+      im<lb ed="#P" n="134" break="no"/>possibile esse ut impediantur singuli motus, 
+      pro<lb ed="#P" n="135" break="no"/>batur; quia efficere non potest homo quin ex 
+      repen<lb ed="#P" n="136" break="no"/>tino aspectu, vel auditu, vel tactu rei 
+      delectabi<lb ed="#P" n="137" break="no"/>lis, vel etiam interna corporis immutatione 
+      con<lb ed="#P" n="138" break="no"/>surgat in sensualitate motus inordinatus statim 
+      qui<lb ed="#P" n="139" break="no"/>dem ut percipitur reprimendus per rationem, sed 
+      <lb ed="#P" n="140"/>cujus prima perceptio, simulque inde commota 
+      ten<lb ed="#P" n="141" break="no"/>tatio, non sit in hominis potestate. Quod 
+      manife<lb ed="#P" n="142" break="no"/>stum est in iis qui sensualitate per somnium 
+      commo<lb ed="#P" n="143" break="no"/>ta subito evigilant, quo momento utique in 
+      pote<lb ed="#P" n="144" break="no"/>state non habent hujusmodi motum ne sit, sed 
+      tan<lb ed="#P" n="145" break="no"/>tum ne illi consentiant. Deinde etsi detur possibile 
+      <lb ed="#P" n="146"/>quod dicti authores volunt, scilicet singulos 
+      con<lb ed="#P" n="147" break="no"/>cupiscentiae motus anteverti posse per rationem, ne 
+      <lb ed="#P" n="148"/>insurgant; nondum tamen consequens erit omnem 
+      <!--0425.xml-->
+      <pb ed="#P" n="192"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ejusmodi voluntarium esse, quia nec hominum 
+      pec<lb ed="#P" n="2" break="no"/>cata sunt Deo voluntaria, quamvis ea possit impedire, 
+      <lb ed="#P" n="3"/>sed voluntaria est eorum permissio. Sic igitur potest 
+      <lb ed="#P" n="4"/>subesse justa ratio, velut in conjugatis &amp; iis qui 
+      con<lb ed="#P" n="5" break="no"/>fessionibus audiendis occupantur, vel qui pro salute 
+      <lb ed="#P" n="6"/>proximorum de hujusmodi materia docere aut 
+      prae<lb ed="#P" n="7" break="no"/>dicare aut consulti respondere debent, cur tales 
+      mo<lb ed="#P" n="8" break="no"/>tus in se oriri permittant; dum tamen eosdem 
+      repri<lb ed="#P" n="9" break="no"/>mere, &amp; opprimere studeant, priusquam trahant ad 
+      <lb ed="#P" n="10"/>consensum. Hoc enim si illicitum esset &amp; peccatum, 
+      <lb ed="#P" n="11"/>sequeretur inter alia conjugalem concubitum sine 
+      <lb ed="#P" n="12"/>peccato exerceri non posse, contra Augustini &amp; alio 
+      <lb ed="#P" n="13"/>rum patrum doctrinam. De qua re in 4. dist. 31. 
+    </p>
+            <p xml:id="bt67yj-p073366-d1e741">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Quaeret aliquis quomodo <name xml:id="bt67yj-p073366-Nd1e747">Cajetani</name> opinio differat 
+      <lb ed="#P" n="15"/>a doctrina in <ref xml:id="bt67yj-p073366-Rd1e751">Concilio Trid. condemnata sess. 5. can. 
+      <lb ed="#P" n="16"/>5.</ref> Respondeo eatenus differre, quia non dicit 
+      con<lb ed="#P" n="17" break="no"/>cupiscentiam seu fomitem qui relinquitur post 
+      ba<lb ed="#P" n="18" break="no"/>ptismum, esse peccatum, nec motus ejus si sint 
+      in<lb ed="#P" n="19" break="no"/>voluntarii, esse peccata; sed putat omnes motus 
+      con<lb ed="#P" n="20" break="no"/>cupiscentiae esse aliquo modo voluntarios, &amp; 
+      proin<lb ed="#P" n="21" break="no"/>de peccata. Quia in re ab errore a patribus condem 
+      <lb ed="#P" n="22"/>nato non omnino recedit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

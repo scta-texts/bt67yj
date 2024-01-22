@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="357"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p138424"><!-- l2d30c12" -->
+            <head xml:id="bt67yj-p138424-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-p138424-Hd1e103" type="question-title">Concupiscentiam non esse opus Dei</head>
+            <p xml:id="bt67yj-p138424-d1e106">
+               <lb ed="#P" n="84"/>§. 12. Concupiscentiam non esse opus Dei.
+    </p>
+            <p xml:id="bt67yj-p138424-d1e111">
+               <lb ed="#P" n="85"/>PElagiani cum dicerent nihil esse in parvulo 
+      re<lb ed="#P" n="86" break="no"/>cens nato, quod non in eo condiderit Deus, ut 
+      <lb ed="#P" n="87"/>supra ostendimus ex Augustino lib. de peccato 
+      ori<lb ed="#P" n="88" break="no"/>ginali cap. 13. nec tamen negare possent in 
+      homi<lb ed="#P" n="89" break="no"/>ne quolibet etiam justo &amp; renato, inesse 
+      concupis<lb ed="#P" n="90" break="no"/>centiam sollicitantem ad ea sectanda quae Dei lege 
+      <lb ed="#P" n="91"/>prohibentur, fateri cogebantur, ipsam quoque 
+      con<lb ed="#P" n="92" break="no"/>cupiscentiam nobis a Deo insitam esse, tanquam 
+      <lb ed="#P" n="93"/>bonum quoddam naturale, quo ut iliter exerceremur 
+      <lb ed="#P" n="94"/>ad virtutes. 
+    </p>
+            <p xml:id="bt67yj-p138424-d1e135">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Sed hic error apertis Scripturae testimoniis 
+      redar<lb ed="#P" n="96" break="no"/>guitur. Ait enim Apostolus Gal. 5. Caro concupiscit 
+      ad<lb ed="#P" n="97" break="no"/>versus spiritum, &amp; spiritus adversus carnem: Haec enim 
+      <lb ed="#P" n="98"/>sibi invicem adversantur. Quam Scripturam exponens 
+      <lb ed="#P" n="99"/>Aug. serm. 43. de verb. Dom. per spiritum intelligit 
+      <lb ed="#P" n="100"/>Spiritum sanctum, id est, Deum ipsum. Cum ergo nec 
+      <lb ed="#P" n="101"/>Deus operi suo, nec Deo opus suum contrarium sit, 
+      <lb ed="#P" n="102"/>nisi vitio aliunde contracto, consequens est, 
+      concu<lb ed="#P" n="103" break="no"/>piscentiam non esse Dei opus. Hanc concupiscentiae 
+      <lb ed="#P" n="104"/>ad versus Deum repugnantiam &amp; alibi expressit 
+      Apo<lb ed="#P" n="105" break="no"/>stolus Rom. 7. Video aliam lecem in membris meis 
+      re<lb ed="#P" n="106" break="no"/>pugnantem legi mentis meae. Ubi legem mentis suae 
+      <lb ed="#P" n="107"/>intelligit eam, quam superioribus verbis voca verat 
+      <lb ed="#P" n="108"/>legem Dei, dicens: Condelector enim legi Dei 
+      secun<lb ed="#P" n="109" break="no"/>dum interiorem hominem. &amp; verbis sequentibus: 
+      Igi<lb ed="#P" n="110" break="no"/>tur ego ipse mente servio legi Dei. 
+    </p>
+            <p xml:id="bt67yj-p138424-d1e175">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Manifesta quoque Jacobi sententia est, id 
+      remo<lb ed="#P" n="112" break="no"/>ventis a Deo, quod concupiscentiae tribuit: Deus, 
+      <lb ed="#P" n="113"/>inquit, neminem tentat, Unusquisque vero tentatur a 
+      <lb ed="#P" n="114"/>concupiscentia sua abstractus &amp; illectus. Deinde 
+      concu<lb ed="#P" n="115" break="no"/>piscentia cum conceperit parit peccatum. 
+      Apertissi<lb ed="#P" n="116" break="no"/>mum vero illud I. Joan. 2. ubi cum admonuisset 
+      fi<lb ed="#P" n="117" break="no"/>deles, ne diligerent ea quae in mundo sunt; omne 
+      au<lb ed="#P" n="118" break="no"/>tem quod est in mundo, dixisset esse concupiscentiam 
+      <lb ed="#P" n="119"/>carnis &amp; concupiscentiam oculorum &amp; superbiam 
+      <lb ed="#P" n="120"/>vitae, quae &amp; ipsa est concupiscentia honoris; ad 
+      je<lb ed="#P" n="121" break="no"/>cit, triplicem hanc concupiscentiam non esse ex 
+      <lb ed="#P" n="122"/>patre, sed ex mundo; mundi nomine intelligens 
+      <lb ed="#P" n="123"/>humanum genus quatenus primi parentis vitio 
+      de<lb ed="#P" n="124" break="no"/>pravatum est. Patet ergo concupiscentiam opus Dei 
+      <lb ed="#P" n="125"/>non esse. Atque id voluit B. Ambrosius in epist. 82. 
+      <lb ed="#P" n="126"/>ad Ecclesiam Vercellensem, docens a vero alienum 
+      <lb ed="#P" n="127"/>esse, quod docebat Epicurus, voluptatem in 
+      homi<lb ed="#P" n="128" break="no"/>ne Deo authore creatam (principaliter.) Hoc, 
+      in<lb ed="#P" n="129" break="no"/>quit, divina Scriptura redarguit, quae serpentis 
+      insi<lb ed="#P" n="130" break="no"/>diis atque illecebris infusam Adae atquae Evae 
+      vo<lb ed="#P" n="131" break="no"/>luptatem docet. Intelligit enim voluptatis nomine 
+      <lb ed="#P" n="132"/>libidinem carnis, qua nimirum inordinate &amp; contra 
+      <lb ed="#P" n="133"/>rationem caro movetur. Quae quidem libido pars 
+      <lb ed="#P" n="134"/>quaedam est ejus concupiscentiae, de qua nunc 
+      disse<lb ed="#P" n="135" break="no"/>rimus. 
+    </p>
+            <p xml:id="bt67yj-p138424-d1e234">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Ratio autem hujus doctrinae est, quia 
+      concupis<lb ed="#P" n="137" break="no"/>centia sollicitat ad peccatum, non tantum 
+      sugge<lb ed="#P" n="138" break="no"/>rendo, quod malum est, quomodo diabolus ad 
+      pec<lb ed="#P" n="139" break="no"/>catum sollicitare dicitur; nec per accidens &amp; 
+      occa<lb ed="#P" n="140" break="no"/>sionaliter tantum, suscitando mala desideria in 
+      <lb ed="#P" n="141"/>homine quomodo vinum &amp; forma mulieris ad 
+      libi<lb ed="#P" n="142" break="no"/>dinem, aurum conspectum ad furtum solicitat; sed 
+      <!--0591.xml-->
+      <pb ed="#P" n="358"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>per se ac suapte natura, &amp; propria suo actu interius A 
+      <lb ed="#P" n="2"/>commovendo ac perturbando; ita ut 
+      concupiscen<lb ed="#P" n="3" break="no"/>tia mota, cu sit aliquid hominis, impossibile sit 
+      <lb ed="#P" n="4"/>hominem non moveri; tametsi ille motus sine 
+      con<lb ed="#P" n="5" break="no"/>sensu peccatum esse non possit. Ejusdem veritatis 
+      <lb ed="#P" n="6"/>signum est, quia de concupiscentia merito quis 
+      eru<lb ed="#P" n="7" break="no"/>bescit; non ergo opus Dei est. Nam, ut est Tob. 12. 
+      <lb ed="#P" n="8"/>Opera Dei revelare &amp; confiteri, honorificum est. Quae 
+      <lb ed="#P" n="9"/>probationes, sicut &amp; Scriptura supra citatae etiam ad 
+      <lb ed="#P" n="10"/>concupiscentiam renatorum extenduntur. 
+    </p>
+            <p xml:id="bt67yj-p138424-d1e282">
+               <lb ed="#P" n="11"/>Eandem porro doctrinam confirmat Augustinus 
+      <lb ed="#P" n="12"/>lib. 1. contra duas epistolas Pelagianorum capite 15. 
+      <lb ed="#P" n="13"/>16. &amp; sequentibus, &amp; lib. 4. contra Julianum cap. 13. 
+      <lb ed="#P" n="14"/>&amp; 14. ubi late docet, concupiscentiam ex Deo non 
+      <lb ed="#P" n="15"/>esse. Idque quod a Joanne dictum est, 
+      concupiscen<lb ed="#P" n="16" break="no"/>tiam non esse a patre, etiam de concupiscentia 
+      rena<lb ed="#P" n="17" break="no"/>torum intelligendum docet. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="130"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p050038"><!-- l2d14c9" -->
+            <head xml:id="bt67yj-p050038-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p050038-Hd1e103" type="question-title">Respondetur ad argumenta partis affirmantis</head>
+            <p xml:id="bt67yj-p050038-d1e106">
+               <lb ed="#P" n="49"/>§. 9. Respondetur ad argumenta partis affirmantis. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e111">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> CAelos &amp; astra animata esse suaderi posse videtur 
+      <lb ed="#P" n="51"/>his argumentis. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e120">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Primo: scriptura dicit in persona Dei Job 38. 
+      <lb ed="#P" n="53"/>Cum me laudarent simul astra matutina, &amp; 
+      jubila<lb ed="#P" n="54" break="no"/>rent omnes filii Dei. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e132">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Secundo: Job. 15. Caeli non sunt mundi in conspectu 
+      <lb ed="#P" n="56"/>Dei. Quod non videtur recte intelligi posse nisi de 
+      <lb ed="#P" n="57"/>immunditia peccati, cum alioqui teste apost. omnis 
+      <lb ed="#P" n="58"/>creatura Dei munda sit 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e145">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Tertio: Nehemiae 9. Et exercitus caeli te adorat. 
+      <lb ed="#P" n="60"/>Ubi per exercitum caeli videntur intelligi sol, luna, 
+      <lb ed="#P" n="61"/>stellae. Haec enim in scripturis frequentissime 
+      vocan<lb ed="#P" n="62" break="no"/>tur exercitus caeli. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e158">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Quarto: Isaiae vicesimoquarto. Visitabit Dominus 
+      <lb ed="#P" n="64"/>super militiam caeli in excelso. Quod Hieronymus de 
+      <lb ed="#P" n="65"/>astris interpretatur, eaque dicit sic visitanda 
+      quomo<lb ed="#P" n="66" break="no"/>do medicus visitat aegrotum. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e171">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Quinto: Ecclesiastici quadragesimotertio de 
+      iis<lb ed="#P" n="68" break="no"/>dem dicitur: In verbis sancti stabant ad judicium, 
+      <lb ed="#P" n="69"/>scilicet ut judicandi 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e182">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Sexto: Baruch tertio, Stellae laetatae sunt &amp; vocatae 
+      <lb ed="#P" n="71"/>dixerut: Adsumus, &amp; luxerunt ei cum jucunditate 
+      <lb ed="#P" n="72"/>qui fecit eas. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e193">
+      <!--0363.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Septimo: 2. Machab. ult. Omnes caeli 
+      benedixe<lb ed="#P" n="74" break="no"/>runt Dominum. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e205">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Octavo: In praefatione canonis missae, &amp; in 
+      hym<lb ed="#P" n="76" break="no"/>no, Te Deum Laudamus, caeli eo modo inducuntur 
+      <lb ed="#P" n="77"/>Deum laudare &amp; concelebrare quo cherubim &amp; 
+      se<lb ed="#P" n="78" break="no"/>raphim, throni ac dominationes, caeterique 
+      angelo<lb ed="#P" n="79" break="no"/>rum ordines Deum laudare dicuntur. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e221">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Nono: In officio Ecclesiastico S. Agnetis dicitur: 
+      <lb ed="#P" n="81"/>Cujus pulchritudinem sol &amp; luna mirantur. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e230">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Decimo: Rursum Hieronymus super Ecclesiastae 
+      <lb ed="#P" n="83"/>primo, ad illa verba: Pergens in circuits vadit 
+      spi<lb ed="#P" n="84" break="no"/>ritus; solem dicit vocari spiritum, sive eo quod 
+      ani<lb ed="#P" n="85" break="no"/>met, inspiret &amp; vegetet, vel quod ipse spiritu alatur 
+      <lb ed="#P" n="86"/>sicut poeta dixit: Lucentemque globum lunae, 
+      Titania<lb ed="#P" n="87" break="no"/>que astra spiritus intus alit, totamque infusa per artus 
+      <lb ed="#P" n="88"/>mens agitat molem, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e250">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Undecimo: Augustinus in praefatione super psal. 
+      <lb ed="#P" n="90"/>93. assertive in hanc partem loqui videtur. 
+      Exhorta<lb ed="#P" n="91" break="no"/>tur enim homines pios ad tolerantiam malorum 
+      <lb ed="#P" n="92"/>exemplo luminarium caelestium; atque inter alia 
+      di<lb ed="#P" n="93" break="no"/>cit: Non curant luminaria caeli nisi quomodo 
+      exer<lb ed="#P" n="94" break="no"/>ceant dies ac noctes, quamvis tanta mala videant fieri 
+      <lb ed="#P" n="95"/>super terram. Et paucis interpositis: Quanta &amp; de 
+      <lb ed="#P" n="96"/>ipsis luminaribus fingunt homines &amp; patienter ferunt. 
+      <lb ed="#P" n="97"/>Et statim post: Quid stellae cum audiunt tanta 
+      convi<lb ed="#P" n="98" break="no"/>tia. Nunquid moventur, aut non exercent cursus suos? 
+      <lb ed="#P" n="99"/>Et iterum: Novit sol Dominum suum esse Christum &amp; 
+      <lb ed="#P" n="100"/>creatorem suum. Quibus simile aliquid subjicit etiam 
+      <lb ed="#P" n="101"/>in ipsius psalmi expositione. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e283">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Duodecimo: Cyprianus ait in libro de bono 
+      pa<lb ed="#P" n="103" break="no"/>tientiae, Sol ne Judaeorum facinus aspicere cogatur, 
+      <lb ed="#P" n="104"/>&amp; radios &amp; oculos suos subtrahit. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e294">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Decimotertio: Philo in variis tractationibus, ut 
+      <lb ed="#P" n="106"/>de opificio mundi, de somniis, de gigantibus, vitam 
+      <lb ed="#P" n="107"/>&amp; mentem stellis ascribit, dicitque eas esse naturas 
+      <lb ed="#P" n="108"/>rationales corporibus praeditas. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e308">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Postremo sententia haec est Aristotelis summi 
+      Phi<lb ed="#P" n="110" break="no"/>losophi. Nam lib. 2. de caelo cap. 2. plane affirmat 
+      cae<lb ed="#P" n="111" break="no"/>lum animatum esse, eoque argumento tanquam 
+      no<lb ed="#P" n="112" break="no"/>tiori probat in illo reperiri positionum differentias, 
+      <lb ed="#P" n="113"/>ut quas constet in solis esse corporibus animatis. 
+      <lb ed="#P" n="114"/>Nam caelo positionum differentias competere non 
+      <lb ed="#P" n="115"/>solum juxta analogiam quandam, ut multi 
+      Aristo<lb ed="#P" n="116" break="no"/>telem interpretantur: sed proprie &amp; ex natura rei, 
+      <lb ed="#P" n="117"/>non eo tantum loco Philosophus significat, verum 
+      <lb ed="#P" n="118"/>clarius idipsum asserit libro 3. Physicorum cap. 5. 
+      <lb ed="#P" n="119"/>&amp; libro 4. capit. 1. Idem porro libro 2. de caelo cap. 
+      <lb ed="#P" n="120"/>3. caelum Deum appellat, id est corpus quoddam 
+      divi<lb ed="#P" n="121" break="no"/>num cujus operatio sit immortalitas, id est vita 
+      per<lb ed="#P" n="122" break="no"/>petua. Rursus ejusdem libri cap. 12. de stellis non 
+      <lb ed="#P" n="123"/>ut de inimitatis, sed ut de viventibus loquendum 
+      <lb ed="#P" n="124"/>&amp; cogitandum esse dicit. Denique libro 12. 
+      Metaphy<lb ed="#P" n="125" break="no"/>sicae cap. 12. caelo tribuit animam intelligentem. Ac 
+      <lb ed="#P" n="126"/>ne ista propter assistentem intelligentiam dicta 
+      vi<lb ed="#P" n="127" break="no"/>deantur, alibi aperte significat caelum moveri ab 
+      <lb ed="#P" n="128"/>interno principio, ut libro secundo Physicorum 
+      <lb ed="#P" n="129"/>cap. 1. &amp; libro octa vo cap. 4. necnon libro 1. de caelo 
+      <lb ed="#P" n="130"/>cap. 2. &amp; libro 2. cap. 2. Relinquitur ergo ut 
+      in<lb ed="#P" n="131" break="no"/>ternum illud principium movens sit anima. Atque 
+      <lb ed="#P" n="132"/>haec testimonia &amp; argumenta philosophi tantum 
+      <lb ed="#P" n="133"/>ponderis habuerunt apud S. Thomam, ut per ea 
+      pu<lb ed="#P" n="134" break="no"/>tetur aliquando inductus in eam opinionem. Adfert 
+      <lb ed="#P" n="135"/>autem idem sanctus Thomas in summa quinque 
+      ra<lb ed="#P" n="136" break="no"/>tiones pro hac opinione, quas ibidem ordine solvit, 
+      <lb ed="#P" n="137"/>ut non sit necesse eas hic a nobis attingi. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e376">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Quare ad argumenta jam proposita 
+      respondea<lb ed="#P" n="139" break="no"/>mus. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e385">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Ad primum respondetur prosopopoeiam esse in 
+      <lb ed="#P" n="141"/>eo quod Deum astra laudasse dicuntur. Qua 
+      figu<lb ed="#P" n="142" break="no"/>ra etiam alibi non raro usa est scriptura de caelo &amp; 
+      <lb ed="#P" n="143"/>sideribus loquens, ut psalmo decimooctavo, 103. 
+      <lb ed="#P" n="144"/>&amp; 148. Item Danielis 2. in hymno trium puerorum. 
+      <lb ed="#P" n="145"/>Nam figuram agnoscendam esse patet, quia 
+      prae<lb ed="#P" n="146" break="no"/>dictis locis non tantum caeli &amp; sidera, sed &amp; alia 
+      <!--0364.xml-->
+      <pb ed="#P" n="131"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quaedam ad laudandum &amp; benedicendum Deum 
+      in<lb ed="#P" n="2" break="no"/>vitantur, quae citra omnem dubitationem mentis 
+      <lb ed="#P" n="3"/>atque etiam sensus expertia sunt, ut ignis, grando, 
+      <lb ed="#P" n="4"/>montes, colles, &amp;c. Dicuntur ergo haec omnia Deum 
+      <lb ed="#P" n="5"/>laudare &amp; benedicere, quatenus creaturis 
+      intelle<lb ed="#P" n="6" break="no"/>ctualibus ea contemplantibus materiam praebent 
+      <lb ed="#P" n="7"/>amplissimam laudis divinae. Nec obstat apud Job 
+      <lb ed="#P" n="8"/>alterum sententiae membrum, quo proprie Deum 
+      <lb ed="#P" n="9"/>laudare significantur filii Dei, id est angeli. Debent 
+      <lb ed="#P" n="10"/>enim singula exponi secundum subjectam materiam. 
+      <lb ed="#P" n="11"/>Nam &amp; psal. 148. &amp; in hymno trium puerorum 
+      <lb ed="#P" n="12"/>annumerantur etiam ea quibus proprie convenit 
+      <lb ed="#P" n="13"/>Deum laudare, ut angeli &amp; homines. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e440">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Quod secundo loco objicitur, non habet 
+      autho<lb ed="#P" n="15" break="no"/>amici Job, quorum veritatem non est necesse a 
+      no<lb ed="#P" n="16" break="no"/>bis defendi. Veruntamen dici potest per caelos 
+      signi<lb ed="#P" n="17" break="no"/>ficare spiritus caelestes. Nam de iis proxime dixerat: 
+      <lb ed="#P" n="18"/>Ecce inter sanctos ejus nemo immutabilis. Et ita sensus 
+      <lb ed="#P" n="19"/>erit, angelicam naturam non esse liberam ab 
+      immun<lb ed="#P" n="20" break="no"/>ditia peccati, quod patet in angelis malis. Potest 
+      ni<lb ed="#P" n="21" break="no"/>hilominus etiam de caelis corporeis intelligi hoc 
+      sen<lb ed="#P" n="22" break="no"/>su, quia caeli non sunt omnino perfecti coram Deo; 
+      <lb ed="#P" n="23"/>omnis enim creatura defectibilis est. Quod si caeli 
+      <lb ed="#P" n="24"/>nomine etiam aerem hunc more scripturae 
+      compre<lb ed="#P" n="25" break="no"/>hendas, jam facilior erit responsio. Nam aerem si sit 
+      <lb ed="#P" n="26"/>noxiis qualitatibus infectus, immundum &amp; 
+      impu<lb ed="#P" n="27" break="no"/>rum dicere etiam vulgo solemus. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e475">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Ad tertium responsio patet ex eo quod ibidem 
+      <lb ed="#P" n="29"/>immediate praecedit: Et tu vivificas haec omnia. Hoc 
+      <lb ed="#P" n="30"/>enim dicitur de caelo, terra, mari, &amp; omnibus quae 
+      <lb ed="#P" n="31"/>in eis sunt. Nam haec fuerant proxime enumerata 
+      <lb ed="#P" n="32"/>Sicut ergo haec vivificantur improprie, quatenus 
+      <lb ed="#P" n="33"/>habent in se alicujus motionis principium, aut 
+      qua<lb ed="#P" n="34" break="no"/>tenus in esse conservantur; ita exercitus caeli adorat 
+      <lb ed="#P" n="35"/>Deum, ut in Hebraeo est, incurvatur Deo, 
+      quate<lb ed="#P" n="36" break="no"/>nus ei servit ad nutum, perinde ac si imperium ejus 
+      <lb ed="#P" n="37"/>agnosceret, &amp; cum veneratione susciperet, ut solent 
+      <lb ed="#P" n="38"/>servi obsequentes. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e504">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Ad quartum respondeo verborum Isaiae hunc esse 
+      <lb ed="#P" n="40"/>sensum: Visitabit Dominus super militiam caeli 
+      di<lb ed="#P" n="41" break="no"/>sperdendo de terra idola, &amp; cultum eorum. Sequitur 
+      <lb ed="#P" n="42"/>enim: Et erubescet luna &amp; confundetur sol; quod haud 
+      <lb ed="#P" n="43"/>dubie figuratum est, quo significatur futurum ut 
+      cul<lb ed="#P" n="44" break="no"/>tores siderum, intellecta vanitate hujusmodi cultus: 
+      <lb ed="#P" n="45"/>maximo pudore afficiantur. Hieronymus autem 
+      in<lb ed="#P" n="46" break="no"/>ter commentandum alienam, id est Origenis 
+      senten<lb ed="#P" n="47" break="no"/>tiam interposuit; ipse vero quid sentiat in eodem 
+      <lb ed="#P" n="48"/>commentario expressit, ad caput 45. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e531">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Quod quinto loco objiciebatur, hunc habet 
+      sen<lb ed="#P" n="50" break="no"/>sum: luminaria caeli in verbis sancti, id est ad 
+      impe<lb ed="#P" n="51" break="no"/>rium Deistabunt secundum judicium, (sic enim est 
+      <lb ed="#P" n="52"/>in Graeco) id est ordine suo consistent quem certo 
+      ju<lb ed="#P" n="53" break="no"/>dicio ac ratione Deus illis praescripsit. Est enim 
+      meta<lb ed="#P" n="54" break="no"/>phora sumpta ab ordine &amp; disciplina militari. Unde 
+      <lb ed="#P" n="55"/>&amp; sequitur: Et non deficient in vigiliis sive excubiis 
+      <lb ed="#P" n="56"/>suis, id est stationes suas perpetua lege servabunt. 
+      Si<lb ed="#P" n="57" break="no"/>mile est Habacuc secundo, Sol &amp; luna steterunt in 
+      <lb ed="#P" n="58"/>habitaculo suo. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e557">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Ad sextum respondetur figuratum esse sermonem, 
+      <lb ed="#P" n="60"/>qualis cum dicitur: Vocavit famem superterram, psal. 
+      <lb ed="#P" n="61"/>14. Venti &amp; mare obediunt ei, Matth, octa vo¬ 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e568">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Ad septimum responderi posset ut ad primum; sed 
+      <lb ed="#P" n="63"/>melior solutio est ex Graeco, ubi sic legitur: Omnes in 
+      <lb ed="#P" n="64"/>caelo benedixerunt Dominum. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e579">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Ad octavum: Quamvis D. Tho. in quodlib. 
+      di<lb ed="#P" n="66" break="no"/>cat authorem praefationis videri sensisse quod caehi 
+      <lb ed="#P" n="67"/>sint animati: quia tamen universa ecclesia verbis 
+      <lb ed="#P" n="68"/>illis solemniter utitur; potius dicendum per caelos 
+      <lb ed="#P" n="69"/>significari spiritus sive intelligentias caelestes eo 
+      ser<lb ed="#P" n="70" break="no"/>monis tropo quo continens accipitur pro contento, 
+      <lb ed="#P" n="71"/>quemadmodum saepe terra ponitur pro hominibus 
+      <lb ed="#P" n="72"/>qui sunt in terra. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e601">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Si dicas manifeste distingui utrobique caelos ab 
+      <!--0364.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>angelis &amp; virtutibus caelestibus, maxime in eo quod 
+      <lb ed="#P" n="75"/>dicitur: Caeli caelorumque virtutes. Respondeo hoc 
+      <lb ed="#P" n="76"/>ita exponi posse, caeli, id est caelorum virtutes. Unde 
+      <lb ed="#P" n="77"/>loco ejus dicitur in alia praefatione: Cumque ommi 
+      <lb ed="#P" n="78"/>militia caelestis exercitus. Quod haud dubie de angelis 
+      <lb ed="#P" n="79"/>intelligit ecclesia, juxta id quod Luc. 2. dicitur 
+      mul<lb ed="#P" n="80" break="no"/>titudo militiae caelestis Christo nato cecinisse: Gloria 
+      <lb ed="#P" n="81"/>in excelsis Deo. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e630">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Ad nonum respondetur item impropriam esse 
+      lo<lb ed="#P" n="83" break="no"/>cutionem: Sensus enim est, Christum sponsum adeo 
+      <lb ed="#P" n="84"/>pulchrum esse ut ea quae pulcherrima sunt in 
+      creatu<lb ed="#P" n="85" break="no"/>ris ei cedant, etsi mentem haberent, ejus 
+      pulchritu<lb ed="#P" n="86" break="no"/>dinem tanquam sua longe excellentiorem suspicerent 
+      <lb ed="#P" n="87"/>&amp; admirarentur. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e649">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Ad decimum respondeo Hieron. eo loco duas 
+      ad<lb ed="#P" n="89" break="no"/>ferre rationes ob quas intelligi possit solem dici 
+      spiri<lb ed="#P" n="90" break="no"/>tum, quarum si vel altera vera sit, sufficit 
+      commenta<lb ed="#P" n="91" break="no"/>tori: Vera est autem ea quam posuit priori loco. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e662">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Ad undecimum videtur respondendum ut ad 
+      pri<lb ed="#P" n="93" break="no"/>mum; nempe prosopopoeiam esse in verbis 
+      Augusti<lb ed="#P" n="94" break="no"/>ni, quod ipse satis indicat quando post illa verba 
+      <lb ed="#P" n="95"/>novit sol dominum suum esse Christum &amp; 
+      creato<lb ed="#P" n="96" break="no"/>rem suum, statim subjungit: etsi indignari potest, 
+      <lb ed="#P" n="97"/>acerbius indignatur contra falso honorantem quam 
+      <lb ed="#P" n="98"/>contra contumeliosum. Dum enim dubitat an 
+      lumi<lb ed="#P" n="99" break="no"/>naria caeli possint indignari contra homines in Deum 
+      <lb ed="#P" n="100"/>peccantes, consequenter dubitat; an sint intellectu 
+      <lb ed="#P" n="101"/>praedita &amp; proinde verba praemissa figurate nobis 
+      in<lb ed="#P" n="102" break="no"/>telligenda relinquit. Qua tamen figura eo libentius 
+      <lb ed="#P" n="103"/>usus est, quod saltem utrum proprie talia de illis dici 
+      <lb ed="#P" n="104"/>possent, dubitaret. Adde quod etiamsi tunc ita 
+      sen<lb ed="#P" n="105" break="no"/>sisset, subjicienda esset ea sententia ipsius 
+      retracta<lb ed="#P" n="106" break="no"/>tioni de qua supra. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e699">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Ad duodecimum respondetur in Cypriani quoque 
+      <lb ed="#P" n="108"/>verbis esse rhetoricam personae fictionem. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e708">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Ad decimumtertium respondeo Philonem ita 
+      <lb ed="#P" n="110"/>scribere, non ut Judaeum, sed ut Platonicum; 
+      Plato<lb ed="#P" n="111" break="no"/>nis enim hoc dogma fuisse supra ex Augustino &amp; 
+      <lb ed="#P" n="112"/>Sanct. Thoma dictum est. Quare nihilo magis 
+      Phi<lb ed="#P" n="113" break="no"/>lonis in hac parte sententia recipienda est quam 
+      Ori<lb ed="#P" n="114" break="no"/>genis, qui ex eodem fonte suam doctrinam hausit. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e726">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Porro de mente Aristotelis, cujus authoritas 
+      po<lb ed="#P" n="116" break="no"/>stremo loco opponebatur, variae sunt interpretum 
+      <lb ed="#P" n="117"/>ejus sententiae. Quidam dicunt formam caeli ab eo 
+      <lb ed="#P" n="118"/>vocari animam similitudine quadam; quia sicut 
+      a<lb ed="#P" n="119" break="no"/>nima diversas animati corporis partes movet 
+      diver<lb ed="#P" n="120" break="no"/>simodo, prout ab ea diversas accipiunt virtutes &amp; 
+      <lb ed="#P" n="121"/>inclinationes; ita &amp; forma caeli diversas caeli partes 
+      <lb ed="#P" n="122"/>movet non uno modo; sed alias celerius, alias 
+      tar<lb ed="#P" n="123" break="no"/>dius, prout longius aut minus longe distant a 
+      po<lb ed="#P" n="124" break="no"/>lis. Tale quid autem in nullis aliis corporibus 
+      repe<lb ed="#P" n="125" break="no"/>ritur. Sed haec responsio refelli videtur ex solis 
+      lo<lb ed="#P" n="126" break="no"/>cis allegatis: in quibus de anima &amp; animato 
+      corpo<lb ed="#P" n="127" break="no"/>re proprie se loqui Philosophus significat; maxime 
+      <lb ed="#P" n="128"/>vero ex eo loco ubi animam intellectivam caelo 
+      tri<lb ed="#P" n="129" break="no"/>buit. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e763">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Alii dicta ejus interpretantur de intelligentia 
+      mo<lb ed="#P" n="131" break="no"/>trice assistente. Verum contra hoc non solum sunt 
+      <lb ed="#P" n="132"/>ipsius philosophi loca in argumento indicata quae 
+      <lb ed="#P" n="133"/>motum caesi tribuunt interno principio, verum etiam 
+      <lb ed="#P" n="134"/>illud facit quod caelum ἔμψυχον vocat, quasi in se 
+      <lb ed="#P" n="135"/>animam habens libro secundo de caelo campite 
+      secun<lb ed="#P" n="136" break="no"/>do, quod non de externo movente principio, sed de 
+      <lb ed="#P" n="137"/>interno videtur accipi oportere. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e786">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Alii proinde fatentur Philosophum vere ita 
+      sen<lb ed="#P" n="139" break="no"/>sisse quod forma caeli sit anima quaedam motiva 
+      <lb ed="#P" n="140"/>simul &amp; intellectiva. Sed nec hoc ita esse 
+      pro<lb ed="#P" n="141" break="no"/>bant ea quae tradit libro octavo Physicorum, &amp; 
+      <lb ed="#P" n="142"/>libro secundo Metaphysicae. His enim locis docet 
+      <lb ed="#P" n="143"/>intelligentias caelorum motrices esse substantias 
+      <lb ed="#P" n="144"/>perfectas, quae ita caelos moveant, ut ipsae tamen 
+      <lb ed="#P" n="145"/>nec per se nec per accidens moveant, &amp; quarum 
+      <lb ed="#P" n="146"/>doctrina propria sit Metaphysicae, quae res 
+      consi<lb ed="#P" n="147" break="no"/>derat a materia prorsus sejunctas. Haec autem de 
+      <!--0365.xml-->
+      <pb ed="#P" n="132"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>intelligentiis illis dici non possent si caelorum for¬ A 
+      <lb ed="#P" n="2"/>mae essent. Nam formae corporum naturalium 
+      ne<lb ed="#P" n="3" break="no"/>que perfectae substantiae sunt, sed perfectarum 
+      par<lb ed="#P" n="4" break="no"/>tes, neque metaphysicae, sed physicae sunt 
+      conside<lb ed="#P" n="5" break="no"/>rationis, &amp; per accidens moventur ad motum 
+      com<lb ed="#P" n="6" break="no"/>positorum. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e832">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Nonnulli existimant animam sive intelligentiam 
+      <lb ed="#P" n="8"/>assistentem philosopho dici inesse caelo, &amp; 
+      quan<lb ed="#P" n="9" break="no"/>dam habere rationem interni principii, quia non 
+      <lb ed="#P" n="10"/>assistit forinsecus quasi extra caelum sit, sed quia 
+      <lb ed="#P" n="11"/>revera in ipso est, non eo quidem modo quo forma 
+      <lb ed="#P" n="12"/>est in materia, sed quomodo simul esse necesse est id 
+      <lb ed="#P" n="13"/>quod movet &amp; quod movetur. Quae res maxime 
+      <lb ed="#P" n="14"/>veritatem habet in movente incorporeo. Unde de 
+      <lb ed="#P" n="15"/>angelis verissime dicitur quod ibi sunt, ubi 
+      operan<lb ed="#P" n="16" break="no"/>tur; qui proinde non tam caelis quos movent, 
+      assi<lb ed="#P" n="17" break="no"/>stunt quam inexistunt, ut hac ratione sint interna 
+      <lb ed="#P" n="18"/>quodammodo principia. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e863">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Quin hoc etiam modo quidam non temere 
+      arbi<lb ed="#P" n="20" break="no"/>trantur ex mente philosophi animam 
+      intellecti<lb ed="#P" n="21" break="no"/>vam homini inesse. Nam lib. secundo de anima 
+      <lb ed="#P" n="22"/>capit. primo, dicit nondum liquere utrum anima 
+      <lb ed="#P" n="23"/>ita sit actus corporis sicut gubernator est actus 
+      <lb ed="#P" n="24"/>navis, id est, tanquam principium assistens &amp; 
+      diri<lb ed="#P" n="25" break="no"/>gens imo inexistens, non autem informans. Quo 
+      <lb ed="#P" n="26"/>etiam facit quod idem alibi facit mentem 
+      extrin<lb ed="#P" n="27" break="no"/>secus advenientem utpote divinam, perpetuam &amp; 
+      <lb ed="#P" n="28"/>immortalem. Hoc enim secundum illum de 
+      in<lb ed="#P" n="29" break="no"/>formante principio non videtur dici posse. Nam 
+      <lb ed="#P" n="30"/>informans principium videtur illi esse inseparabile 
+      <lb ed="#P" n="31"/>&amp; mortale, quia alicujus corporis est actus, primo 
+      <lb ed="#P" n="32"/>de anima. 
+    </p>
+            <p xml:id="bt67yj-p050038-d1e898">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Huc accedit quod mentem seu animam 
+      intelle<lb ed="#P" n="34" break="no"/>ctivam philosophus non in toto sed in certa parte 
+      <lb ed="#P" n="35"/>collocavit scilicet in corde, sicut Plato in 
+      cere<lb ed="#P" n="36" break="no"/>bro; quod de actu informante dici non potest. 
+      <lb ed="#P" n="37"/>Atque isto modo quem diximus, philosophi 
+      do<lb ed="#P" n="38" break="no"/>ctrinam de anima caeli, satis quidem probabiliter 
+      <lb ed="#P" n="39"/>explicuit Sanctus Thomas in summa. Nam in 
+      res<lb ed="#P" n="40" break="no"/>ponsione ad 5. 1. p. q. 70. art. 3. Dicendum est, 
+      in<lb ed="#P" n="41" break="no"/>quit, quod caelum dicitur movere seipsum in 
+      quan<lb ed="#P" n="42" break="no"/>tum componitur ex motore &amp; mobili, non sicut ex 
+      <lb ed="#P" n="43"/>forma &amp; materia, sed secundum contactum virtutis; 
+      <lb ed="#P" n="44"/>&amp; hoc etiam modo potest dici, quod ejus motor est 
+      <lb ed="#P" n="45"/>principium intrinsecum, ut sic etiam motus caeli 
+      pos<lb ed="#P" n="46" break="no"/>sit dici naturalis ex parte principii activi, sicut 
+      mo<lb ed="#P" n="47" break="no"/>tus voluntarius dicitur esse naturalis animali, in 
+      <lb ed="#P" n="48"/>quantum est animal, ut dicitur in <ref xml:id="bt67yj-p050038-Rd1e937">8. Physicorum</ref>. Circa 
+      <lb ed="#P" n="49"/>quae verba movet <name xml:id="bt67yj-p050038-Nd1e941">Cajetanus</name> dubium, quomodo 
+      <lb ed="#P" n="50"/>possit dici moveri ab intrinseco, id cui motor 
+      so<lb ed="#P" n="51" break="no"/>lum unitur ut motor, nec quicquam respondet. 
+      <lb ed="#P" n="52"/>Sed respondendum videtur uti jam dictum est, &amp; 
+      <lb ed="#P" n="53"/>notanda sunt doctoris verba; in quantum 
+      compo<lb ed="#P" n="54" break="no"/>nitur ex motore &amp; mobili. Huic enim composito 
+      in<lb ed="#P" n="55" break="no"/>ternus est motor, ac proinde movet ut principium 
+      in<lb ed="#P" n="56" break="no"/>ternum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="202"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p078085"><!-- l2d22c10" -->
+            <head xml:id="bt67yj-p078085-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p078085-Hd1e103" type="question-title">Quae ignorantia sit peccatum</head>
+            <p xml:id="bt67yj-p078085-d1e106">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> §. 10. Quae ignorantia sit peccatum.
+    </p>
+            <p xml:id="bt67yj-p078085-d1e113">
+               <lb ed="#P" n="62"/>DOcet Magister §. H. tribus modis committi 
+      <lb ed="#P" n="63"/>peccatum, scilicet ignorantia, infirmitate, 
+      in<lb ed="#P" n="64" break="no"/>dustria; &amp; gravius esse dum peccatur infirmitate 
+      <lb ed="#P" n="65"/>quam ignorantia, graviusque dum industria, quam 
+      <lb ed="#P" n="66"/>infirmitate. Cujus doctrinae authorem allegat 
+      Isido<lb ed="#P" n="67" break="no"/>rum, qui id habet libro 2. de summo bono cap. 17. 
+      <lb ed="#P" n="68"/>tametsi &amp; ante hunc idem docuit Gregor. 25. moral. 
+      <!--0435.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>capite 16. Qua occasione circa hanc distinct. paulo 
+      <lb ed="#P" n="70"/>plenius disputari solet non solum de ignorantia &amp; 
+      <lb ed="#P" n="71"/>ignorantiae peccatis (de qua re Magister ipse 
+      non<lb ed="#P" n="72" break="no"/>nulla subjicit) verum etiam de peccatis quae per 
+      <lb ed="#P" n="73"/>infirmitatem, &amp; de iis quae ex industria 
+      commit<lb ed="#P" n="74" break="no"/>tuntur. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e148">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Quod ad ignorantiam attinet, quae nihil aliud est 
+      <lb ed="#P" n="76"/>quam scientiae privatio, dum scilicet alicui deest 
+      <lb ed="#P" n="77"/>scientia eorum quae aptus natus est scire, ut ait 
+      san<lb ed="#P" n="78" break="no"/>ctus Thomas 1. 2. qu. 76. art. 2. Primo loco 
+      osten<lb ed="#P" n="79" break="no"/>dendum, non solum ex ignorantia quaedam peccata 
+      <lb ed="#P" n="80"/>committi, verum ipsam interdum ignorantiam 
+      pec<lb ed="#P" n="81" break="no"/>catum esse. Quod quidem ex scripuris late docet 
+      <lb ed="#P" n="82"/>Hier. lib. 1. dialog. contra Pelagianos ab initio 
+      ca<lb ed="#P" n="83" break="no"/>pitis 10. usque ad finem libri 1. ita praefatus in fine 
+      <lb ed="#P" n="84"/>cap. 9. Nunc mihi latissima scripturarum spatia 
+      per<lb ed="#P" n="85" break="no"/>agranda sunt, ut doceam errorem &amp; ignorantiam esse 
+      <lb ed="#P" n="86"/>peccatum. Sic ille. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e180">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Prius tamen ad totius hujus materiae intellectum 
+      <lb ed="#P" n="88"/>praemittenda nobis est multiplex ignorantiae 
+      divi<lb ed="#P" n="89" break="no"/>sio. Ignorantia namque alia voluntaria est, alia 
+      in<lb ed="#P" n="90" break="no"/>voluntaria; alia vincibilis, alia invincibilis. Item 
+      <lb ed="#P" n="91"/>alia juris, alia facti; &amp; ea quae juris, alia divini 
+      <lb ed="#P" n="92"/>juris, alia humani. Rursum quae juris divini, alia 
+      <lb ed="#P" n="93"/>est juris divini positivi, alia naturalis. Denique 
+      <lb ed="#P" n="94"/>ignorantia alia privativa, ut quae solam importet 
+      <lb ed="#P" n="95"/>privationem; alia positiva quam vocant pravae 
+      dis<lb ed="#P" n="96" break="no"/>positionis, quae proprio nomine error vocatur. 
+      Ho<lb ed="#P" n="97" break="no"/>rum autem singulorum membrorum explicatio 
+      pa<lb ed="#P" n="98" break="no"/>tebit ex sequentibus. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e211">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> His igitur praemissis, dicimus omnem &amp; solam 
+      <lb ed="#P" n="100"/>eam ignorantiam peccatum esse, qua quis ignorat 
+      <lb ed="#P" n="101"/>quod scire tenetur. Quandocunque enim scientia 
+      <lb ed="#P" n="102"/>in praecepto est, consequenter opposita ei 
+      ignoran<lb ed="#P" n="103" break="no"/>tia prohibita censetur, &amp; non alias. Sicut enim 
+      omit<lb ed="#P" n="104" break="no"/>tere quod quis tenetur facere, peccatum est 
+      omis<lb ed="#P" n="105" break="no"/>sionis, ita nescire quod quis scire tenetur, 
+      pecca<lb ed="#P" n="106" break="no"/>tum est ignorantiae. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e233">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Multa autem sunt scripturae testimonia quae 
+      do<lb ed="#P" n="108" break="no"/>cent scientiam esse in praecepto. Quorum aliquot 
+      <lb ed="#P" n="109"/>enumerat August. epist. 95. libro 2. de peccatorum 
+      <lb ed="#P" n="110"/>meritis cap. 5. &amp; libro de gratia &amp; libero arbitrio 
+      <lb ed="#P" n="111"/>cap. 2. &amp; 3. cujusmodi est illud Deut. 32. Intelligite 
+      <lb ed="#P" n="112"/>insipientes, &amp; stulti aliquando sapite. Oseae 4. Non 
+      <lb ed="#P" n="113"/>est scientia Dei in terra. Et ubicunque in scriptura 
+      <lb ed="#P" n="114"/>nobis praecipitur ut Deum cognoscamus &amp; 
+      volunta<lb ed="#P" n="115" break="no"/>tem ejus, &amp; ut verbo Dei credamus, sive per 
+      se<lb ed="#P" n="116" break="no"/>ipsum, sive per prophetas &amp; apostolos, &amp; omnino 
+      <lb ed="#P" n="117"/>per ecclesiam suam nobis loquatur. Quae omnia sunt 
+      <lb ed="#P" n="118"/>scientiae praecepta. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e264">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Consequens igitur est earumdem rerum 
+      ignoran<lb ed="#P" n="120" break="no"/>tiam, utpote praeceptis Dei contrariam, peccatum 
+      <lb ed="#P" n="121"/>esse. Quod quidem non minus apertis scripturae 
+      te<lb ed="#P" n="122" break="no"/>stimoniis ostenditur, ut 1. Corinth. 14. Si quis 
+      igno<lb ed="#P" n="123" break="no"/>rat, ignorabitur. Psalm. 24. Delicta juventutis meae, 
+      <lb ed="#P" n="124"/>&amp; ignorantias meas ne memineris. Psalm. 78. Jerem. 
+      <lb ed="#P" n="125"/>10. Effunde iram tuam in gentes, quae te non 
+      nove<lb ed="#P" n="126" break="no"/>runt. 2. Thess. 1. Dare vindictam in eos qui ignorant 
+      <lb ed="#P" n="127"/>Deum. Sic Jerem. 5. reprehenduntur ignorantes 
+      <lb ed="#P" n="128"/>viam Dei sui. Similia sunt, Roman. 1. Ephes. 4. 
+      <lb ed="#P" n="129"/>Sapient. 13. &amp; passim alibi. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e293">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Verum scire oportet, sicut ad rationem peccati 
+      <lb ed="#P" n="131"/>requiritur ut sit voluntarium; ita nullum 
+      ignoran<lb ed="#P" n="132" break="no"/>tiam nisi aliquo modo voluntaria sit, peccatum esse. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e304">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Verissime enim ab Augustino dictum est lib. 3. de li 
+      <lb ed="#P" n="134"/>bero arbitrio cap. 19. &amp; lib. de duabus animabus 
+      ca<lb ed="#P" n="135" break="no"/>pite 12. non imputari ad culpam, quod quis invitus 
+      <lb ed="#P" n="136"/>ignorat. De eadem re vide Gregorium &amp; Isidorum 
+      <lb ed="#P" n="137"/>locis supra citatis. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e321">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Est autem ignorantia voluntaria vel directe, vel 
+      <lb ed="#P" n="139"/>indirecte. Directe voluntaria, quae &amp; affectata 
+      di<lb ed="#P" n="140" break="no"/>citur, ea est in quam voluntas directe fertur, eligens 
+      <lb ed="#P" n="141"/>ignorare, sive ad hoc ut magis libere &amp; sine 
+      remor<lb ed="#P" n="142" break="no"/>su peccet, sive ob alium quemcumque finem. De 
+      <!--0436.xml-->
+      <pb ed="#P" n="203"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>hac dictum est, Psal. 35. Noluit intelligere ut bene 
+      <lb ed="#P" n="2"/>ageret, &amp; Job. 21. Qui dixerunt Deo, recede a nobis, 
+      <lb ed="#P" n="3"/>&amp; scientiam viarum tuarum nolumus. Et Proverb. 1. 
+      <lb ed="#P" n="4"/>Imprudentes odibunt scientiam. Sic ignorant qui 
+      di<lb ed="#P" n="5" break="no"/>cunt doctis bene consulere volentibus: Nolo facias 
+      <lb ed="#P" n="6"/>mihi scrupulum. Indirecte voluntaria eorum est qui 
+      <lb ed="#P" n="7"/>vel laborem fugientes vel certe aliud agentes, 
+      ne<lb ed="#P" n="8" break="no"/>gligunt discere ea quae scire tenentur. Hujus 
+      igno<lb ed="#P" n="9" break="no"/>rantiae non raro meminit scriptura, ut locis jam 
+      ci<lb ed="#P" n="10" break="no"/>tatis, Psal. 24. &amp; 78. &amp; 1. Corinth. 14. De hac 
+      <lb ed="#P" n="11"/>ignorantia locus est apud sanctum Augustinum 
+      <lb ed="#P" n="12"/>libro de natura &amp; gratia, capite 17. &amp; libro 3. de 
+      <lb ed="#P" n="13"/>libero arbitrio capite 22. ubi dicit merito animae 
+      <lb ed="#P" n="14"/>deputari in reatum quod scire non studuit, &amp; quod 
+      <lb ed="#P" n="15"/>dignam facultati comparandae ad recte faciendum 
+      <lb ed="#P" n="16"/>operam non dedit. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e378">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Jam ut quae sint ea, quorum scientia in praecepto 
+      <lb ed="#P" n="18"/>est, intelligamus; advertendum in duplici genere 
+      <lb ed="#P" n="19"/>esse ea quae praecipiuntur. Quaedam enim 
+      praecipiun<lb ed="#P" n="20" break="no"/>tur lege naturae, quale est istud: Quod tibi non vis 
+      <lb ed="#P" n="21"/>fieri, alteri ne feceris. Et in universum praecepta 
+      de<lb ed="#P" n="22" break="no"/>calogo comprehensa. Quaedam lege dumtaxat 
+      po<lb ed="#P" n="23" break="no"/>sitiva, sive divina, sive humana, cujusmodi sunt: 
+      <lb ed="#P" n="24"/>Quod oportet baptizari, credere in Christum 
+      me<lb ed="#P" n="25" break="no"/>diatorem, diem dominicum sanctificare, 
+      praescri<lb ed="#P" n="26" break="no"/>ptos jejuniorum dies observare, vectigal solvere &amp; 
+      <lb ed="#P" n="27"/>alia innumera. 
+    </p>
+            <p xml:id="bt67yj-p078085-d1e407">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Porro inter jus naturale &amp; positivum, hoc est 
+      dis<lb ed="#P" n="29" break="no"/>criminis, quod jus naturale obligat omnem 
+      homi<lb ed="#P" n="30" break="no"/>nem, quatenus rationis usum participat, absque alia 
+      <lb ed="#P" n="31"/>ulteriori obligatione. Positivum vero, sive illud 
+      <lb ed="#P" n="32"/>divinum sit, sive humanum, non obligat nisi 
+      posi<lb ed="#P" n="33" break="no"/>tive promulgatum; quia nec legis rationem obtinet 
+      <lb ed="#P" n="34"/>absque promulgatione. Ex quibus patet 
+      ignoran<lb ed="#P" n="35" break="no"/>tiam legis naturalis semper peccatum esse, sive 
+      ex<lb ed="#P" n="36" break="no"/>terna accesserit doctrina &amp; instructio, sive non; ut 
+      <lb ed="#P" n="37"/>v. g. ignorantiam qua nescitur unum Deum 
+      colen<lb ed="#P" n="38" break="no"/>dum esse, fornicationem, ebrietatem, mendacium 
+      <lb ed="#P" n="39"/>omne vitandum esse. Ignorantiam vero positivae le- P 
+      <lb ed="#P" n="40"/>gis, etiam divinae, non esse peccatum iis quibus non 
+      <lb ed="#P" n="41"/>fuerit promulgata. Quocirca ea infidelitas qua in 
+      <lb ed="#P" n="42"/>Christum non credunt, quibus Christus non est 
+      an<lb ed="#P" n="43" break="no"/>nuntiatus, sive ut scriptura loquitur, quibus nihil 
+      <lb ed="#P" n="44"/>est annunciatum de eo, non est peccatum. Quod &amp; 
+      <lb ed="#P" n="45"/>Domini verba significant Joan. 15. Si non venissem, 
+      <lb ed="#P" n="46"/>&amp; locutus eis non fuissem, peccatum non haberent, 
+      vide<lb ed="#P" n="47" break="no"/>licet infidelitas qua in me non credunt, hoc est, non 
+      <lb ed="#P" n="48"/>credere in me non esset eis peccatum. Unde Aug. 
+      <lb ed="#P" n="49"/>eum locum exponens tract. 86. in Joan. testatur eos 
+      <lb ed="#P" n="50"/>ad quos evangelii praedicatio non pervenit, excusari 
+      <lb ed="#P" n="51"/>a peccato, quod in Christum non crediderint; 
+      dam<lb ed="#P" n="52" break="no"/>nandos autem propter alia peccata quorum 
+      excusa<lb ed="#P" n="53" break="no"/>tionem non habent, utpote in legem naturae 
+      com<lb ed="#P" n="54" break="no"/>missa. Similia suntapud eundem Aug. lib. 3. contra 
+      <lb ed="#P" n="55"/>duas ep. Pelagianorum capite 3. Late autem &amp; ex 
+      <lb ed="#P" n="56"/>ipsis fundamentis hanc rem tractat Bern. epist. 77. 
+      <lb ed="#P" n="57"/>Item videatur Hieron. libro 1. dialog. contra 
+      Pela<lb ed="#P" n="58" break="no"/>gianos a capite 10. usque ad finem, ubi late docet 
+      <lb ed="#P" n="59"/>ex scripturis ignorantiam peccatum esse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

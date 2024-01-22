@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 16</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 16</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="359"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p139221"><!-- l2d30c16" -->
+            <head xml:id="bt67yj-p139221-Hd1e101">Capitulum 16</head>
+            <head xml:id="bt67yj-p139221-Hd1e103" type="question-title">Responsio ad ea quae objiciuntur</head>
+            <p xml:id="bt67yj-p139221-d1e106">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> §. 16. Responsio ad ea quae objiciuntur.
+    </p>
+            <p xml:id="bt67yj-p139221-d1e113">
+               <lb ed="#P" n="99"/>PRo diversa sententia partim a Magistro, partim 
+      <lb ed="#P" n="100"/>ab aliis argumenta quaedam proferuntur hic a 
+      <lb ed="#P" n="101"/>nobis solvenda, quorum haec sunt praecipua. 
+    </p>
+            <p xml:id="bt67yj-p139221-d1e122">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Primum: Dominus in evangelio Matth. 15. ait: 
+      <lb ed="#P" n="103"/>Omne quod in os intrat, in ventrem vadit, &amp; in 
+      seces<lb ed="#P" n="104" break="no"/>sum emittitur, nihil ergo ejus in substantiam humani 
+      <lb ed="#P" n="105"/>corporis convertitur. 
+    </p>
+            <p xml:id="bt67yj-p139221-d1e136">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Secundum: Augustinus lib. 22. de civitate Dei 
+      ca<lb ed="#P" n="107" break="no"/>pite 14. dicit omnes homines perfectionis virilis 
+      mo<lb ed="#P" n="108" break="no"/>dum sic habere, ut cum eo concipiantur atque 
+      nas<lb ed="#P" n="109" break="no"/>cantur. Sed habent, inquit, in ratione, non in mole: 
+      <lb ed="#P" n="110"/>sicut ipsa jam membra omnia sunt latenter in semine, 
+      <lb ed="#P" n="111"/>cum &amp; natis nonnulla adhuc desint, velut dentes, ac 
+      <lb ed="#P" n="112"/>si quid ejusmodi. 
+    </p>
+            <p xml:id="bt67yj-p139221-d1e156">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Tertium: Infantes mortui in ea statura resurgent, 
+      <lb ed="#P" n="114"/>quam habituri erant si usque ad perfectam aetatem 
+      <lb ed="#P" n="115"/>vixissent: Atqui ea statura non illis erit ex alimento, 
+      <lb ed="#P" n="116"/>sed prioris materiae in seipsa multiplicatione, igitur 
+      <lb ed="#P" n="117"/>neque si ad plenam usque aetatem vixissent, aliunde, 
+      <lb ed="#P" n="118"/>sed in seipsa fuisset aucta eorum substantia. 
+    </p>
+            <p xml:id="bt67yj-p139221-d1e174">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Ad haec ita respondetur. Imprimis verba Christi 
+      <lb ed="#P" n="120"/>sic generaliter intellecta non tantum probatae a 
+      no<lb ed="#P" n="121" break="no"/>bis sententiae, verum etiam ipsius Magistri opinioni 
+      <lb ed="#P" n="122"/>adversari, qui in fine dist. dicit se non inficiari, quin 
+      <lb ed="#P" n="123"/>cibi &amp; humores in carnem &amp; sangninem transeant, 
+      <lb ed="#P" n="124"/>licet non in veritatem humanae naturae, quam solam 
+      <lb ed="#P" n="125"/>in resurrectione restituendam asserit, aliquam vero 
+      <lb ed="#P" n="126"/>carnem, in quam cibi transierunt, tanquam 
+      super<lb ed="#P" n="127" break="no"/>fluam abjiciendam. Dicendum igitur, non aliud 
+      <lb ed="#P" n="128"/>significari verbis Christi, quam omnem cibum, non 
+      <lb ed="#P" n="129"/>tamen secundum omnem sui partem, sed tantum 
+      <lb ed="#P" n="130"/>secundum partes impuriores, quae non sunt idoneum 
+      <lb ed="#P" n="131"/>humani corporis nutrimentum, expelli e corpore. 
+      <lb ed="#P" n="132"/>Unde apud Marcum additur; Purgans omnes escas, 
+      <lb ed="#P" n="133"/>id est, eas puras relinquens puro, videlicet ab 
+      im<lb ed="#P" n="134" break="no"/>puriori secreto. 
+    </p>
+            <p xml:id="bt67yj-p139221-d1e213">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Quod ex Augustino objicitur, non convincit 
+      nul<lb ed="#P" n="136" break="no"/>lam externam materiam accessuram corporibus 
+      in<lb ed="#P" n="137" break="no"/>fantium, dum ad justam magnitudinem provehuntur; 
+      <lb ed="#P" n="138"/>sed tantum eum perfectionis modum quem in virili 
+      <lb ed="#P" n="139"/>aetate sunt habituri, eos jam in ipso ortu suo habere 
+      <lb ed="#P" n="140"/>secundum rationes seminales; quas quidem 
+      manife<lb ed="#P" n="141" break="no"/>stum est accessionem externae materiae non 
+      exclude<lb ed="#P" n="142" break="no"/>re. Quod autem aliquid externum augendis eorum 
+      <!--0593.xml-->
+      <pb ed="#P" n="360"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>corporibus sit accessurum, etiam ad veritatem 
+      natu<lb ed="#P" n="2" break="no"/>rae pertinens, ex eodem Augustini loco perspicuum 
+      <lb ed="#P" n="3"/>est. Disputans enim de resurrectione eorum qui in 
+      <lb ed="#P" n="4"/>tenera aetate mortui sunt, dicit, id quod eis, si 
+      vixis<lb ed="#P" n="5" break="no"/>sent usque ad aetatem virilem, tardius accessurum 
+      <lb ed="#P" n="6"/>erat, tempore hoc in resurrectione miro atque 
+      ce<lb ed="#P" n="7" break="no"/>lerrimo Dei opere recepturos. 
+    </p>
+            <p xml:id="bt67yj-p139221-d1e257">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Unde etiam responsio patet ad rationem tertio 
+      lo<lb ed="#P" n="9" break="no"/>co allatam. Non enim multiplicatione corporum in 
+      <lb ed="#P" n="10"/>semetipsis justam magnitudinem accipient parvuli 
+      <lb ed="#P" n="11"/>resurgentes, quemadmodum supponit Magister, 
+      <lb ed="#P" n="12"/>sed Deo inde mirabiliter supplente, unde si vixissent, 
+      <lb ed="#P" n="13"/>eam naturaliter accepturi erant; aut certe ex simili 
+      <lb ed="#P" n="14"/>additamento. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

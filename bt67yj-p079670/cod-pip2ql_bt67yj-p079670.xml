@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="206"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p079670"><!-- l2d22c14" -->
+            <head xml:id="bt67yj-p079670-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-p079670-Hd1e103" type="question-title">Quae ignorantia ex parte peccatum excusen</head>
+            <p xml:id="bt67yj-p079670-d1e106">
+               <lb ed="#P" n="36"/>§. 14. Quae ignorantia ex parte peccatum excusen
+    </p>
+            <p xml:id="bt67yj-p079670-d1e111">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> EAm ignorantiam quae indirecte voluntaria est 
+      <lb ed="#P" n="38"/>Llicet non omnino, attamen ex parte peccatum 
+      <lb ed="#P" n="39"/>excusare diximus. Cujus ratio est, quia talis 
+      igno<lb ed="#P" n="40" break="no"/>rantia minuit aliquid ex voluntario, quatenus 
+      scili<lb ed="#P" n="41" break="no"/>cet ipsa tantum indirecte voluntaria existens, 
+      pec<lb ed="#P" n="42" break="no"/>catum similiter non nisi indirecte voluntarium esse 
+      <lb ed="#P" n="43"/>facit. Cum enim in his quae ex ignorantia fiunt, 
+      <lb ed="#P" n="44"/>actus non sit voluntarius, nisi quatenus ignorantia, 
+      <lb ed="#P" n="45"/>quae causa ejus est, fuerit voluntaria; non poterit 
+      <lb ed="#P" n="46"/>plus de ratione voluntarii in ipso actu reperiri, 
+      <lb ed="#P" n="47"/>quam fuerit in ignorantia ejus causa. Quin &amp; 
+      igno<lb ed="#P" n="48" break="no"/>rantia affectata, licet directe &amp; per se voluntaria sit, 
+      <lb ed="#P" n="49"/>utpote ad hoc a voluntate assumpta, ut liberius 
+      pec<lb ed="#P" n="50" break="no"/>cetur, ideóque absolute peccatum augeat, aliqua 
+      <lb ed="#P" n="51"/>tamen ex parte illud minuit &amp; excusat; quia 
+      ni<lb ed="#P" n="52" break="no"/>mirum efficit ut peccatum quod ex ea 
+      committi<lb ed="#P" n="53" break="no"/>tur, non sit actu voluntarium, eo quod non sit actu 
+      <lb ed="#P" n="54"/>cognitum, sive ut est actus, sive ut peccatum. Et 
+      <lb ed="#P" n="55"/>in universum omnis ignorantia, quatenus 
+      removen<lb ed="#P" n="56" break="no"/>do scientiam tollit aliquid de ratione voluntarii, 
+      <lb ed="#P" n="57"/>quadam parte peccatum minuit, quod ex ea sive per 
+      <lb ed="#P" n="58"/>eam committitur; licet contingat ut aliunde ipsum 
+      <lb ed="#P" n="59"/>augeat, quemadmodum de ignorantia affectata jam 
+      <lb ed="#P" n="60"/>dictum est. 
+    </p>
+            <p xml:id="bt67yj-p079670-d1e168">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Hoc quoque annotandum, accidere interdum, 
+      <lb ed="#P" n="62"/>ut in eodem facto aliud sciatur, aliud ignoretur, 
+      si<lb ed="#P" n="63" break="no"/>ve vincibili ignorantia, sive invincibili, quorum 
+      <lb ed="#P" n="64"/>utumque tamen ad peccati rationem pertineat. 
+      <lb ed="#P" n="65"/>Quo casu ex parte tantum excusabitur ejusmodi 
+      fa<lb ed="#P" n="66" break="no"/>ctum, scilicet ea parte qua ignoratur, ut si quis 
+      in<lb ed="#P" n="67" break="no"/>juste percutiat aliquem quem scit esse hominem, 
+      <lb ed="#P" n="68"/>sed ignorat esse patrem suum, non percussurus si 
+      <lb ed="#P" n="69"/>sciret; excusatur is quidem a peccato parricidii, sed 
+      <lb ed="#P" n="70"/>non homicidii. Ita Judas Genes. 38. congrediens 
+      <lb ed="#P" n="71"/>cum muliere non sua, quam nesciebat esse Thamar 
+      <!--0439.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>nurum suam, reus erat fornicationis; at non 
+      ince<lb ed="#P" n="73" break="no"/>stus, si tamen ut supponitur, debitam diligentiam 
+      <lb ed="#P" n="74"/>adhibuit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

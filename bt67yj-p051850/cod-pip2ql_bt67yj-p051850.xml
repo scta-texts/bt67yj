@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="134"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p051850"><!-- l2d15c5" -->
+            <head xml:id="bt67yj-p051850-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p051850-Hd1e103" type="question-title">Utrum bestiae bestiis ab initio noxiae? 
+      fuerint</head>
+            <p xml:id="bt67yj-p051850-d1e106">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> §. 5. Utrum bestiae bestiis ab initio noxiae? 
+      <lb ed="#P" n="117"/>fuerint? 
+    </p>
+            <p xml:id="bt67yj-p051850-d1e115">
+               <lb ed="#P" n="118"/>QUod ulterius quaeritur utrum homine non 
+      <lb ed="#P" n="119"/>peccante bestiae aliae aliis noxiae fuissent, sive 
+      <lb ed="#P" n="120"/>naturali inimicitia sive ex necessitate quaerendi 
+      ali<lb ed="#P" n="121" break="no"/>menti; neque perinde clarum est, neque Augustino 
+      <lb ed="#P" n="122"/>satis fuit exploratum. Nam libr. 3. de Genes. ad 
+      li<lb ed="#P" n="123" break="no"/>teram capit. 16. censet etsi non peccasset homo, 
+      be<lb ed="#P" n="124" break="no"/>stias invicem noxias &amp; infestas futuras fuisse, ut 
+      lu<lb ed="#P" n="125" break="no"/>pos ovibus, accipitres columbis, sic ut aliae aliis in 
+      <lb ed="#P" n="126"/>cibum cederent. Ac simile quid habet lib. 1. de 
+      <lb ed="#P" n="127"/>Genes. contra Manichaeos capit. 20. Quae sententia 
+      <lb ed="#P" n="128"/>etiam sanct. Thomae placuit in prima quaestion. 96. 
+      <lb ed="#P" n="129"/>articul. 1. ad secundum; eademque rationi 
+      conso<lb ed="#P" n="130" break="no"/>na videtur. Sicut enim mortalitas bestiarum, non 
+      <lb ed="#P" n="131"/>ex hominis pecato, sed ex prima naturae 
+      institutio<lb ed="#P" n="132" break="no"/>ne originem habet; sic &amp; ea inimicitia qua aliae 
+      <lb ed="#P" n="133"/>aliis mortem adferunt, in eandem naturam 
+      refe<lb ed="#P" n="134" break="no"/>renda est. Nam ut ibi sanctus Thomas ait, per 
+      pec<lb ed="#P" n="135" break="no"/>catum hominis natura animalium non est 
+      immuta<lb ed="#P" n="136" break="no"/>ta, ut quibus nunc naturale est comedere aliorum 
+      <lb ed="#P" n="137"/>animalium carnes, tunc vixissent de herbis, ut 
+      leo<lb ed="#P" n="138" break="no"/>nes &amp; falcones, fuisset ergo, inquit, naturalis 
+      dis<lb ed="#P" n="139" break="no"/>cordia inter quadam animalia. Cum sancto 
+      Tho<lb ed="#P" n="140" break="no"/>ma sentit Cajetanus super Genesim. Potest autem 
+      <lb ed="#P" n="141"/>hoc etiam inde probari, quia herbae licet omnes 
+      <lb ed="#P" n="142"/>innoxiae fuissent hominibus, non tamen bestiis, 
+      <lb ed="#P" n="143"/>sed quaedam illis fuissent mortiferae, perinde ut 
+      <lb ed="#P" n="144"/>nunc sunt; nihil ergo vetat quo minus etiam 
+      be<lb ed="#P" n="145" break="no"/>stiae bestiis noxam attulissent. Nam ex quo bestiae 
+      <!--0368.xml-->
+      <pb ed="#P" n="135"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>&amp; herbae coeperunt hominibus esse noxiae, etiam 
+      ho<lb ed="#P" n="2" break="no"/>mines coeperunt in homines insurgere, ut statim 
+      pa<lb ed="#P" n="3" break="no"/>tuit exemplo Cain qui occidit Abel fratrem suum. 
+    </p>
+            <p xml:id="bt67yj-p051850-d1e191">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> At vero idem sanctus Augustinus lib. 1. 
+      retracta<lb ed="#P" n="5" break="no"/>tionum cap. decimo retractans id quod in opere de 
+      <lb ed="#P" n="6"/>Genesi contra Manichaeos in priorem sententiam 
+      <lb ed="#P" n="7"/>dixerat, affirmat ad primam naturae institutionem 
+      <lb ed="#P" n="8"/>pertinuisse, ut herbis &amp; fructibus qui a terra 
+      nas<lb ed="#P" n="9" break="no"/>cuntur, omnes bestiae vescerentur, juxta id quod 
+      <lb ed="#P" n="10"/>Genes. 1. dicitur ad hominem: Ecce dedi vobis 
+      om<lb ed="#P" n="11" break="no"/>nem herbam &amp; universa ligna ut sint vobis in escam 
+      <lb ed="#P" n="12"/>&amp; cunctis animantibus terrae, omnique volucri caeli, &amp; 
+      <lb ed="#P" n="13"/>universis qua moventur in terra, ut habeant ad 
+      vescen<lb ed="#P" n="14" break="no"/>dum. Dicit autem ex hominis inobedientia factum 
+      <lb ed="#P" n="15"/>esse postea ut aliae aliis essent in cibum. Quam 
+      ean<lb ed="#P" n="16" break="no"/>dem sententiam indicaverat jam ante in quaest. 7. 
+      <lb ed="#P" n="17"/>super Genes. 
+    </p>
+            <p xml:id="bt67yj-p051850-d1e227">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Sancto Augustino subscribit Beda in Hexameron, 
+      <lb ed="#P" n="19"/>dicit enim quod omnia sine exceptione animalia 
+      vi<lb ed="#P" n="20" break="no"/>rentibus herbis &amp; fructibus arborum vescebantur, 
+      <lb ed="#P" n="21"/>idque statuit ex authoritate scripturae Genes. 1. illud 
+      <lb ed="#P" n="22"/>ipsum aperte asserentis. Ex quo loco Bedae, in 
+      glos<lb ed="#P" n="23" break="no"/>sam ordinariam verba quae hoc idem significant, 
+      re<lb ed="#P" n="24" break="no"/>lata sunt; ut mirum sit unde sanctus Thomas loco 
+      <lb ed="#P" n="25"/>paulo ante citato dicat glossam Bedae non loqui de 
+      <lb ed="#P" n="26"/>omnibus animalibus, sed de quibusdam tantum. 
+    </p>
+            <p xml:id="bt67yj-p051850-d1e251">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Accedit argumentum non contemnendum ex eo 
+      <lb ed="#P" n="28"/>quod in arca Noe per annum integrum fuere omnia 
+      <lb ed="#P" n="29"/>animalia, quo tamen tempore nullum eorum 
+      carni<lb ed="#P" n="30" break="no"/>bus vescebatur, quemadmodum patet ex iis quae 
+      ca<lb ed="#P" n="31" break="no"/>pite sexto Genes. scribuntur tum de escis animalium 
+      <lb ed="#P" n="32"/>in arcam illatis; tum de eorum numero, quia scilicet 
+      <lb ed="#P" n="33"/>non plura quam bina ex immundis, nec plura quam 
+      <lb ed="#P" n="34"/>septena ex mundis in arcam introducta fuerunt. Et 
+      <lb ed="#P" n="35"/>haec quidem tanto numero prae illis non in usum 
+      ali<lb ed="#P" n="36" break="no"/>menti sed sacrificii. 
+    </p>
+            <p xml:id="bt67yj-p051850-d1e277">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Verum ad hoc respondent alii factum id fuisse 
+      di<lb ed="#P" n="38" break="no"/>vino miraculo praeter naturam, sicut &amp; illud, quod 
+      <lb ed="#P" n="39"/>tam obedienter omnia etiam ferocia &amp; homini 
+      ini<lb ed="#P" n="40" break="no"/>mica animalia, Noe praeeunte aut viam monstrante 
+      <lb ed="#P" n="41"/>in arcam fuerint ingressa. Sed contra hanc 
+      respon<lb ed="#P" n="42" break="no"/>sionem vicissim objici potest, sicut haec obedientia 
+      <lb ed="#P" n="43"/>pertinuit ad primam naturae institutionem, ex qua 
+      <lb ed="#P" n="44"/>perfectum in caetera animalia dominium homini 
+      <lb ed="#P" n="45"/>competebat; ita &amp; ad eandem pertinuisse ut herbis 
+      <lb ed="#P" n="46"/>animalia vescerentur, utrumque vero cessasse post 
+      <lb ed="#P" n="47"/>peccatum. Verumtamen satis apparet non esse 
+      utri<lb ed="#P" n="48" break="no"/>usque eandem rationem. Non enim ad poenam 
+      ho<lb ed="#P" n="49" break="no"/>minis pertinet quod bestiae inter se inimicitias 
+      ge<lb ed="#P" n="50" break="no"/>rant, atque invicem noceant; pertinet autem quod 
+      <lb ed="#P" n="51"/>homini noceant, &amp; jura naturalis dominii quod in 
+      <lb ed="#P" n="52"/>ea homo acceperat, violent. Imo vero dominium 
+      <lb ed="#P" n="53"/>istud atque imperium in eo quoque inter alia fuisset 
+      <lb ed="#P" n="54"/>declaratum, quod interdum lupi ovibus, leones 
+      <lb ed="#P" n="55"/>armentis, accipitres columbis contra naturalem 
+      <lb ed="#P" n="56"/>suam inclinationem homine jubente pepercissent, 
+      <lb ed="#P" n="57"/>sicut aliquando factum legimus ad imperium 
+      quo<lb ed="#P" n="58" break="no"/>rumdam sanctorum hominum. 
+    </p>
+            <p xml:id="bt67yj-p051850-d1e329">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Quod autem objicitur ex 1. capit. Genes. ab illis 
+      <lb ed="#P" n="60"/>quibus haec sententia placet, ita folvitur, ut dicant 
+      <lb ed="#P" n="61"/>orationem universalem accommodate intelligendam 
+      <lb ed="#P" n="62"/>esse, scilicet de cunctis animantibus quibus naturale 
+      <lb ed="#P" n="63"/>est vesci iis quae e terra nascuntur. Quoniam &amp; 
+      il<lb ed="#P" n="64" break="no"/>lud quod praecedit: Ecce dedi vobis omnem herbam 
+      <lb ed="#P" n="65"/>&amp; universa ligna, ut sint vobis in escam, &amp;c. 
+      simi<lb ed="#P" n="66" break="no"/>lem postulat interpretationem. Non enim omnis 
+      <lb ed="#P" n="67"/>herba, nec omnis arbor ad cibum utilis est; sed 
+      ex<lb ed="#P" n="68" break="no"/>ponendum est accommodate sic; dedi vobis ad 
+      ve<lb ed="#P" n="69" break="no"/>scendum omnem herbam, &amp; omnem arborem 
+      vi<lb ed="#P" n="70" break="no"/>ctui convenientem.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

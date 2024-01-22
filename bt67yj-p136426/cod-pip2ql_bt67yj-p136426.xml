@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="352"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p136426"><!-- l2d30c2" -->
+            <head xml:id="bt67yj-p136426-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p136426-Hd1e103" type="question-title">Quare hoc peccatum vocetur originale</head>
+            <p xml:id="bt67yj-p136426-d1e106">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> §. 2. Quare hoc peccatum vocetur originale.
+    </p>
+            <p xml:id="bt67yj-p136426-d1e113">
+               <lb ed="#P" n="59"/>TRes inveniuntur rationes redditae quare 
+      pecca<lb ed="#P" n="60" break="no"/>tum hoc originale dicatur; aut quia inest 
+      uni<lb ed="#P" n="61" break="no"/>cuique ab ortu suo, id est, ab ipso conceptionis 
+      mo<lb ed="#P" n="62" break="no"/>mento; aut quia contrahitur a prima origine, id est, 
+      <lb ed="#P" n="63"/>a primo parente; aut quia omnes jam inde ab initio 
+      <lb ed="#P" n="64"/>in Adam peccaverunt. Prima ratio redditur ab 
+      Hu<lb ed="#P" n="65" break="no"/>gone Victorino libro primo de Sacramentis parte 7. 
+      <lb ed="#P" n="66"/>cap. 28. &amp; in summa sententiarum tract. 3. cap. 10. 
+      <lb ed="#P" n="67"/>Quem Magister sequitur dist. proxima §. H. Eandem 
+      <lb ed="#P" n="68"/>rationem agnoscere est in verbis Gregorii nomine 
+      <lb ed="#P" n="69"/>citatis a Magistro §. F. hujus dist. tametsi apud 
+      Gre<lb ed="#P" n="70" break="no"/>gorium non reperiantur. Et similiter sonant 
+      Am<lb ed="#P" n="71" break="no"/>brosii verba contra Novatianos citata ab Augustino 
+      <!--0585.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>libro de peccato originali cap. 40. &amp; alia nonnulla 
+      <lb ed="#P" n="73"/>Patrum ab eodem citata libro primo contra 
+      Julia<lb ed="#P" n="74" break="no"/>num cap. 3. Unde &amp; Pelagiani Catholicorum dog 
+      <lb ed="#P" n="75"/>mati contradicere volentes, negabant ullum 
+      pecca<lb ed="#P" n="76" break="no"/>tum cum homine nasci, sed id solum in homine cum 
+      <lb ed="#P" n="77"/>nascitur, inveniri, quod in eo Deus condidit, ut 
+      pa<lb ed="#P" n="78" break="no"/>tet ex Augustino libro de peccato originali capito 
+      <lb ed="#P" n="79"/>6. &amp; 13. quorum priore Caelestio, posteriore Pelagio 
+      <lb ed="#P" n="80"/>respondet. Consentiunt &amp; ea quae scribit lib. tertio de 
+      <lb ed="#P" n="81"/>peccatorum meritis capite 12. libro 2. de nuptiis &amp; 
+      <lb ed="#P" n="82"/>concup. cap. 22. &amp; de natura &amp; gratia cap. 63. 
+      qui<lb ed="#P" n="83" break="no"/>bus locis docet, unicuique homini a sua origine, id 
+      <lb ed="#P" n="84"/>est, a suae generationis initio peccatum inesse. 
+      Ean<lb ed="#P" n="85" break="no"/>dem appellationis hujus rationem aliquot supra 
+      me<lb ed="#P" n="86" break="no"/>moratae Scripturae confirmant, ut Psal. 50. Ephes. 2. 
+      <lb ed="#P" n="87"/>Job 14. Gen. 8. 
+    </p>
+            <p xml:id="bt67yj-p136426-d1e183">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Nec huic rationi repugnat, quod in ipso Adam 
+      <lb ed="#P" n="89"/>fuerit peccatum originale, ut est communis &amp; vera 
+      <lb ed="#P" n="90"/>sententia, cui utique non infuit a nativitate. Nam 
+      <lb ed="#P" n="91"/>eo sensu id dicitur: quia vitium illud &amp; peccatum, 
+      <lb ed="#P" n="92"/>quod in nobis originale est, sive intelligatur 
+      priva<lb ed="#P" n="93" break="no"/>tio justitiae originalis, sive concupiscentia, erat in 
+      <lb ed="#P" n="94"/>illo, eratque in eo peccatum, quamvis ei non ab 
+      ori<lb ed="#P" n="95" break="no"/>gine; sed ex quo peccare coepit, accesserit. 
+    </p>
+            <p xml:id="bt67yj-p136426-d1e206">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Secundam rationem probabilem facit Scriptura, 
+      <lb ed="#P" n="97"/>Rom. 5. Perunum hominem. Ex qua etiam tertia 
+      ra<lb ed="#P" n="98" break="no"/>tio probabilis efficitur, sicut &amp; ex eo quod Trident. 
+      <lb ed="#P" n="99"/>Concil. sess. 5. can. 3. dicit, peccatum esse unicuique 
+      <lb ed="#P" n="100"/>proprium, quamvis sit origine unum; quia nimirum 
+      <lb ed="#P" n="101"/>unam habet causam, primum videlicet primi 
+      homi<lb ed="#P" n="102" break="no"/>nis actuale peccatum. Juxta primam rationem, 
+      ori<lb ed="#P" n="103" break="no"/>go a qua peccatum originale dicitur, est ortus 
+      cujus<lb ed="#P" n="104" break="no"/>que hominis; juxta secundam, primus parens; juxta 
+      <lb ed="#P" n="105"/>tertiam, primum hominis peccatum. Quanquam &amp; 
+      <lb ed="#P" n="106"/>proximi parentes originis nomine, a quo dictum sit 
+      <lb ed="#P" n="107"/>originale peccatum, non absurde intelliguntur, quia 
+      <lb ed="#P" n="108"/>ab illis tanquam a principio quodam intermedio, 
+      <lb ed="#P" n="109"/>peccatum istud contrahitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="368"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p142640"><!-- l2d33c1" -->
+            <head xml:id="bt67yj-p142640-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p142640-Hd1e103" type="question-title">An posteriorum parentum peccata transeant 
+      in filios</head>
+            <p xml:id="bt67yj-p142640-d1e106">
+               <lb ed="#P" n="99"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="100"/>TRICESIMAMTERTIAM.
+      <lb ed="#P" n="101"/>§. 1. An posteriorum parentum peccata transeant 
+      <lb ed="#P" n="102"/>in filios.
+    </p>
+            <p xml:id="bt67yj-p142640-d1e117">
+               <lb ed="#P" n="103"/>CUM supra satis ostensum sit, primum primis 
+      <lb ed="#P" n="104"/>hominis peccatum propagatione quadam in 
+      <lb ed="#P" n="105"/>Comnes ejus posteros transiisse, merito 
+      quaeri<lb ed="#P" n="106" break="no"/>tur, utrum idem sentiendum sit de posteriorum 
+      pa<lb ed="#P" n="107" break="no"/>rentum vel omnium vel aliquorum peccatis, ut 
+      vide<lb ed="#P" n="108" break="no"/>licet &amp; ea simili propagationis lege ad posteros 
+      tran<lb ed="#P" n="109" break="no"/>seant. Quod quidem etsi nonnulli asserere conati 
+      fue<lb ed="#P" n="110" break="no"/>rint, longe tamen est probabilius, id in uno primi 
+      ho<lb ed="#P" n="111" break="no"/>minis peccato veritatem obtinere. Hoc enim ut 
+      ra<lb ed="#P" n="112" break="no"/>tioni, ita Scripturae &amp; Patrum testimoniis magis 
+      <lb ed="#P" n="113"/>consentaneum invenitur. Nam Scriptura Roman. 5. 
+      <lb ed="#P" n="114"/>comparans beneficium Christi cum noxa contracta 
+      <lb ed="#P" n="115"/>ex Adam, docet judicium quidem ex uno esse in 
+      <lb ed="#P" n="116"/>condemnationem, gratiam autem ex multis delictis 
+      <lb ed="#P" n="117"/>in justificationem. Quae antithesis non constabit, si 
+      <lb ed="#P" n="118"/>generatione carnali non unum, sed plura delicta 
+      con<lb ed="#P" n="119" break="no"/>trahantur.
+    </p>
+            <p xml:id="bt67yj-p142640-d1e156">
+               <lb ed="#P" n="120"/>Deinde quod eodem cap. dicitur de Adam Qui 
+      <lb ed="#P" n="121"/>est forma futuri, non ad eum solum pertinebit, sed 
+      <lb ed="#P" n="122"/>ad alios etiam parentes, si horum quoque peccata 
+      <lb ed="#P" n="123"/>originaliter contrahantur. Quod si concesserimus, 
+      <lb ed="#P" n="124"/>habebit ergo Adam socios ad contagionem humani 
+      <lb ed="#P" n="125"/>generis. Quare nec absurdum videbitur Christo 
+      tri<lb ed="#P" n="126" break="no"/>buere adjutores ad ejusdem generis humani 
+      redem<lb ed="#P" n="127" break="no"/>ptionem. Quod quoniam absurdum esse constat, nec 
+      <lb ed="#P" n="128"/>prius concedendum erat. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e179">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Non parum quoque huic sententiae suffragatur 
+      il<lb ed="#P" n="130" break="no"/>lustris illa comparatio Adae cum Christo, non tantum 
+      <lb ed="#P" n="131"/>hoc cap. 5. ad Rom. sed &amp; alibi, ac potissimum 1. 
+      <lb ed="#P" n="132"/>Cor. 15. ubi sic omnes in Christo vivificari testatur 
+      <lb ed="#P" n="133"/>Apostolus, sicut in Adam omnes moriuntur. Quae 
+      <lb ed="#P" n="134"/>comparatio singularis non erit, si id quod de Adam 
+      <lb ed="#P" n="135"/>dicitur, similiter de quocumque alio parente respectu 
+      <lb ed="#P" n="136"/>suorum posterorum dici posset. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e201">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Porro inter Patres diserte satis hanc sententiam 
+      <lb ed="#P" n="138"/>Cyprianus expressit libro 3. epist. 8. quae est ad 
+      Fi<lb ed="#P" n="139" break="no"/>dum: Infans, inquit, recens natus nihil peccavit, nis 
+      <!--0602.xml-->
+      <pb ed="#P" n="369"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod secundum Adam carnaliter natus, contagium 
+      <lb ed="#P" n="2"/>mortis antiquae prima nativitate contraxit. Quae 
+      ver<lb ed="#P" n="3" break="no"/>ba recitantur tum ab Augustino lib. 1. contra 
+      Ju<lb ed="#P" n="4" break="no"/>lianum cap. 3. &amp; lib. 1. contra duas epist. 
+      Pelagia<lb ed="#P" n="5" break="no"/>norum cap. 8. tum in Hieronymo sub finem tertii 
+      <lb ed="#P" n="6"/>dialogi contra Pelag. Unde intelligimus &amp; hos 
+      Pa<lb ed="#P" n="7" break="no"/>tres eandem tenere sententiam, videlicet parvulos 
+      <lb ed="#P" n="8"/>non alio quam Adae peccato teneri. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e236">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Eodem pertinet quod idem Augustinus lib. 1. de 
+      <lb ed="#P" n="10"/>peccatorum meritis, cap. 10. docet solum Adae 
+      pec<lb ed="#P" n="11" break="no"/>catum esse commune peccatum; in quo nimirum 
+      <lb ed="#P" n="12"/>omnes peccaverunt, caetera vero omnia peccata 
+      <lb ed="#P" n="13"/>esse cuique propria. Tradit hanc ex professo 
+      doctri<lb ed="#P" n="14" break="no"/>nam Anselmus libro de conceptu virginali capit. 23. 
+      <lb ed="#P" n="15"/>quam &amp; rationibus probat. Idem sentit hoc loco 
+      Ma<lb ed="#P" n="16" break="no"/>gister, quem &amp; Scholastici concorditer sequuntur. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e258">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Rationes autem pro hac sententia sunt istae. 
+      Pri<lb ed="#P" n="18" break="no"/>ma: Primus homo justitiam acceperat non sibi 
+      tan<lb ed="#P" n="19" break="no"/>tum, sed toti posteritati; ut si in justitia permaneret, 
+      <lb ed="#P" n="20"/>eam simul cum natura in posteros transmitteret; sin 
+      <lb ed="#P" n="21"/>eam peccando desereret, cum eadem natura 
+      pecca<lb ed="#P" n="22" break="no"/>tum quoque in omnem posteritatem transfunderet. 
+      <lb ed="#P" n="23"/>Cum igitur nemo posteriorum parentum simili lege 
+      <lb ed="#P" n="24"/>sit institutus, patet istorum peccata non potius quam 
+      <lb ed="#P" n="25"/>justitiam propagari in posteros, sed singularia, &amp; ut 
+      <lb ed="#P" n="26"/>loquuntur, personalia tantum esse. Non enim 
+      quis<lb ed="#P" n="27" break="no"/>quam posterorum habet justitiam originalem: Erat 
+      <lb ed="#P" n="28"/>quidem in eodem pacto, ut quicunque justitiam 
+      ori<lb ed="#P" n="29" break="no"/>ginalem amitteret, sive Adam, sive aliquis 
+      postero<lb ed="#P" n="30" break="no"/>rum ejus, eam amitteret pro se &amp; pro tota 
+      posterita<lb ed="#P" n="31" break="no"/>te. Ita Bonaventura &amp; Scotus: Sed ea semel amissa, 
+      <lb ed="#P" n="32"/>non restabat ulterior infectio. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e297">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Secunda ratio: In statu innocentiae. non fuisset 
+      <lb ed="#P" n="34"/>transfusa in posteros justitia parentum posteriorum; 
+      <lb ed="#P" n="35"/>nam alioqui posteri nati fuissent justiores suis 
+      majo<lb ed="#P" n="36" break="no"/>ribus, utpote plus justitiae contrahentes. Quare nec 
+      <lb ed="#P" n="37"/>malitia posteriorum parentum in filios 
+      transfundi<lb ed="#P" n="38" break="no"/>tur, tanquam majori injustitiae pondere gravandos. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e315">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Tertia: Totum justitiae bonum perditum est 
+      pri<lb ed="#P" n="40" break="no"/>mo Adae peccato; non ergo plus justitiae auferre 
+      po<lb ed="#P" n="41" break="no"/>test malitia posteriorum parentum. Valet haec ratio 
+      <lb ed="#P" n="42"/>secundum eos, qui peccatum originale consistere 
+      vo<lb ed="#P" n="43" break="no"/>lunt in nuda privatione justitiae originalis. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e332">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Quarta: Parentes posteriores non possunt 
+      trans<lb ed="#P" n="45" break="no"/>fundere bonos habitus; ergo nec malos. Sicut enim 
+      <lb ed="#P" n="46"/>personale est beneficium gratiae Christi datum 
+      pa<lb ed="#P" n="47" break="no"/>renti, sic ut illud filio per generationem 
+      communica<lb ed="#P" n="48" break="no"/>re non possit; ita &amp; peccatum ab eodem parente 
+      com<lb ed="#P" n="49" break="no"/>missum personale tantum sit oportet. Hanc rationem 
+      <lb ed="#P" n="50"/>cum proxime praecedenti, videre est apud Anselmum 
+      <lb ed="#P" n="51"/>loco supra citato. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e354">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Quinta: Si contraheretur peccatum parentis 
+      pro<lb ed="#P" n="53" break="no"/>ximi, pari ratione contraherentur peccata omnium 
+      <lb ed="#P" n="54"/>superiorum parentum usque ad Adamum. Neque 
+      <lb ed="#P" n="55"/>obstare poterit magna distantia quo minus id 
+      conse<lb ed="#P" n="56" break="no"/>quens fateamur; cum peccatum Adae sit ab iis qui 
+      <lb ed="#P" n="57"/>nascuntur distantissimum, ut pote omnium primum. 
+      <lb ed="#P" n="58"/>Hoc autem si concesserimus, plane in immensum 
+      <lb ed="#P" n="59"/>gravari tandem continget nascentes. 
+    </p>
+            <p xml:id="bt67yj-p142640-d1e376">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Postrema: Docet experientia ex parentibus 
+      pessi<lb ed="#P" n="61" break="no"/>mis quandoque nasci filios minus malos, etiamsi per 
+      <lb ed="#P" n="62"/>baptismum non regeneretur. Non ergo contrahunt 
+      <lb ed="#P" n="63"/>tales filii corruptelam parentum suorum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

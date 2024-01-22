@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="198"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p076491"><!-- l2d22c5" -->
+            <head xml:id="bt67yj-p076491-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p076491-Hd1e103" type="question-title">Quomodo dicat Apostolus Adamum non esse 
+      seductum</head>
+            <p xml:id="bt67yj-p076491-d1e106">
+               <lb ed="#P" n="65"/>§. 5. Quomodo dicat Apostolus Adamum non esse 
+      <lb ed="#P" n="66"/>seductum.
+    </p>
+            <p xml:id="bt67yj-p076491-d1e113">
+               <lb ed="#P" n="67"/>DOctrinae superiori contrarium illud imprimis 
+      <lb ed="#P" n="68"/>videri potest quod ex Apostolo allegabatur 
+      di<lb ed="#P" n="69" break="no"/>cente i. Tim. 2. Adam non est seductus, mulier 
+      au<lb ed="#P" n="70" break="no"/>d tem seducta in praevaricatione fuit. Verum haec 
+      Apo<lb ed="#P" n="71" break="no"/>stoli verba apud patres varias recipiunt interpreta¬ 
+      <!--0431.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>tiones. Quidam sic intelligunt: Adam non est prior 
+      <lb ed="#P" n="73"/>seductus, sed mulier. Hoc enim exprimebatur in 
+      <lb ed="#P" n="74"/>sententia praecedenti; Adam primus formatus est, 
+      <lb ed="#P" n="75"/>deinde Eva. Sic Ambros. lib. de paradiso cap. 4. 
+    </p>
+            <p xml:id="bt67yj-p076491-d1e139">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Quidam hoc modo PAdam non est seductus a 
+      ser<lb ed="#P" n="77" break="no"/>pente secum loquente, sicut Eva. Alii hunc reddunt 
+      <lb ed="#P" n="78"/>sensum: Scriptura non commemorat Adam seductum 
+      <lb ed="#P" n="79"/>esse. Quo nimirum sensu Hebr. 7. Melchisedech 
+      di<lb ed="#P" n="80" break="no"/>citur sine patre, sine matre, &amp;c. Author 
+      commenta<lb ed="#P" n="81" break="no"/>rii Ambrosio inscripti in Paulum, interpretatur 
+      <lb ed="#P" n="82"/>Adam non fuisse seductum in praevaricationem, id 
+      <lb ed="#P" n="83"/>est, sic ut mulieri praevaricationis author esset, 
+      quo<lb ed="#P" n="84" break="no"/>modo mulier seducta viro fuit author praevaricandi: 
+      <lb ed="#P" n="85"/>In eo enim commentario verba Apostoli expressius e 
+      <lb ed="#P" n="86"/>Graeco sic leguntur: Mulier autem seducta facta est 
+      <lb ed="#P" n="87"/>in praevaricationem. 
+    </p>
+            <p xml:id="bt67yj-p076491-d1e171">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Porro nonnulli sic exponunt: Adam non peccavit 
+      <lb ed="#P" n="89"/>seductus, mulier autem peccavit seducta; id est 
+      vi<lb ed="#P" n="90" break="no"/>ro non fuit persuasum Deum non praecepisse ne 
+      co<lb ed="#P" n="91" break="no"/>mederet de ligno, sed sciens &amp; prudens transgressus 
+      <lb ed="#P" n="92"/>est praeceptum Dei; mulicri autem hoc a serpente 
+      <lb ed="#P" n="93"/>persuasum fuit, ut ad quam notitia praecepti non 
+      im<lb ed="#P" n="94" break="no"/>mediate a Deo, sed per virum venerat. Unde 
+      fa<lb ed="#P" n="95" break="no"/>ctum ut facilius crederet serpenti suggerenti non esse 
+      <lb ed="#P" n="96"/>putandum quod Deus eos prohiberet ab esu illius 
+      <lb ed="#P" n="97"/>ligni. Cum hoc autem consistit virum credidisse 
+      ser<lb ed="#P" n="98" break="no"/>penti, eo quod dixit, Non moriemini, &amp; eritis sicut 
+      <lb ed="#P" n="99"/>Dii, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p076491-d1e202">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Alii denique sentiunt Apostoli verba proprie &amp; 
+      <lb ed="#P" n="101"/>formaliter accepta veritatem habere; nec tamen 
+      <lb ed="#P" n="102"/>inde consequi virum non credidisse vera esse quae 
+      <lb ed="#P" n="103"/>serpens dixerat. Multa enim falsa credimus non 
+      pro<lb ed="#P" n="104" break="no"/>prie seducti ac decepti ab aliquo, sed alio quocunque 
+      <lb ed="#P" n="105"/>modo ad credendum inducti. Nam is proprie 
+      deci<lb ed="#P" n="106" break="no"/>pere aliquem dicitur, qui fallendi animo falsum ei 
+      <lb ed="#P" n="107"/>persuadet. Hoc modo serpens decepit mulierem, non 
+      <lb ed="#P" n="108"/>mulier virum. Serpens enim fallere voluit; mulici 
+      <lb ed="#P" n="109"/>autem etsi falsum viro persuasit, hoc fecit decepta 
+      <lb ed="#P" n="110"/>non decipiens, seducta non seducens, quia non 
+      fe<lb ed="#P" n="111" break="no"/>cit animo fallendi. Putabat enim verum esse quod 
+      <lb ed="#P" n="112"/>suadebat. At neque serpens proprie seduxit virum, 
+      <lb ed="#P" n="113"/>quia sermo ejus non fuit cum viro, sed cum muliere. 
+      <lb ed="#P" n="114"/>Quare nec suasione vel adhortatione aliqua 
+      serpen<lb ed="#P" n="115" break="no"/>tis dicendum videtur virum inductum fuisse ut 
+      ver<lb ed="#P" n="116" break="no"/>bis illius ad se relatis crederet, sed amore propriae 
+      <lb ed="#P" n="117"/>potestatis, quo peccato primum peccaverat. 
+      Liben<lb ed="#P" n="118" break="no"/>ter enim credit quisque quod amat. Itaque proprie 
+      <lb ed="#P" n="119"/>mulicr virum non seduxit, quia fallere noluit; 
+      ser<lb ed="#P" n="120" break="no"/>pens quoque virum non seduxit, quia nullam viro 
+      <lb ed="#P" n="121"/>suasionem adhibuit. Unde concluditur virum non 
+      <lb ed="#P" n="122"/>fuisse seductum. 
+    </p>
+            <p xml:id="bt67yj-p076491-d1e257">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Harum sex expositionum nulla cogit intelligere 
+      <lb ed="#P" n="124"/>Adamum non credidisse vera esse quae serpens 
+      pro<lb ed="#P" n="125" break="no"/>miserat. 
+    </p>
+            <p xml:id="bt67yj-p076491-d1e268">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Si quaeras, quae sit harum expositionum optima? 
+      <lb ed="#P" n="127"/>videtur id dijudicandum ex scopo Apostoli. Cui 
+      <lb ed="#P" n="128"/>propositum erat ostendere quod mulier neque 
+      do<lb ed="#P" n="129" break="no"/>cere debeat, neque dominari in virum. Quod enim 
+      <lb ed="#P" n="130"/>dominari viro non debeat, sed ei subjecta esse, 
+      pro<lb ed="#P" n="131" break="no"/>bat, quia prior Adam formatus est, deinde Eva: Quod 
+      <lb ed="#P" n="132"/>autem docere non debeat, sed potius discere, hinc 
+      <lb ed="#P" n="133"/>probat, quia Adam non est seductus, mulier autem 
+      se<lb ed="#P" n="134" break="no"/>ducta in praevaricatione fuit. Quae quidem ratio eo 
+      <lb ed="#P" n="135"/>spectat ut ostendatur mulierem non ita pollere 
+      judi<lb ed="#P" n="136" break="no"/>cio ac vigore mentis, ut virum, sed simplicioris esse 
+      <lb ed="#P" n="137"/>ingenii, minorisque prudentiae, qua occasione 
+      faci<lb ed="#P" n="138" break="no"/>lius seduci ac decipi queat, ac propterea diabolum, 
+      <lb ed="#P" n="139"/>non ad virum, sed ad mulierem decipiendam 
+      acces<lb ed="#P" n="140" break="no"/>sisse. Huic intentioni Apostoli sola postrema 
+      expo<lb ed="#P" n="141" break="no"/>sitio videtur apte congruere. Secundum hanc enim 
+      <lb ed="#P" n="142"/>ostenditur virum proprie non fuisse seductum saltem 
+      <lb ed="#P" n="143"/>immediate, sed solam mulierem. Caeterae autem 
+      ex<lb ed="#P" n="144" break="no"/>positiones etiam in viro seductionem agnoscunt, 
+      <lb ed="#P" n="145"/>quia de seductione non ita proprie loquuntur. Nam 
+      <!--0432.xml-->
+      <pb ed="#P" n="199"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>patres apud quos illae expositiones leguntur; ut &amp; 
+      <lb ed="#P" n="2"/>alii superiori capite citati, cum diserte dicunt Adam 
+      <lb ed="#P" n="3"/>deceptum ac seductum fuisse vel a muliere vel a 
+      ser<lb ed="#P" n="4" break="no"/>pente; seductionem intellexerunt materialiter, qua 
+      <lb ed="#P" n="5"/>nimirum fit ut quis ad falsum credendum inducatur, 
+      <lb ed="#P" n="6"/>sive hoc ab eo qui falsum dicit, fiat animo fallendi 
+      <lb ed="#P" n="7"/>&amp; vi suasionis ejus, sive simpliciter &amp; per 
+      occasio<lb ed="#P" n="8" break="no"/>nem tantum, &amp; sive mediate sive immediate. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

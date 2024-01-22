@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="170"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p065602"><!-- l2d19c6" -->
+            <head xml:id="bt67yj-p065602-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p065602-Hd1e103" type="question-title">Unde homini immortalitas in primo statu.</head>
+            <p xml:id="bt67yj-p065602-d1e106">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> §. 6. Unde homini immortalitas in primo statu.
+    </p>
+            <p xml:id="bt67yj-p065602-d1e113">
+               <lb ed="#P" n="38"/>DE immortalitate primi status adhuc quaeritur, 
+      <lb ed="#P" n="39"/>unde ea homini fuerit, utrum ex sola causa 
+      in<lb ed="#P" n="40" break="no"/>terna, an ex sola externa, scilicet ex ligno vitae; an 
+      <lb ed="#P" n="41"/>vero ex utroque simul. Sunt enim de hac re diversae 
+      <lb ed="#P" n="42"/>opiniones. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e126">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Quidam, quorum sententiam refert Magister S. 
+      <lb ed="#P" n="44"/>B. &amp; C. putaverunt ita hominem factum 
+      immorta<lb ed="#P" n="45" break="no"/>lem, ut etiam sine usu ligni vitae semper vivere posset, 
+      <lb ed="#P" n="46"/>si non ei fuisset praeceptum ut de eo comederet. 
+      Pec<lb ed="#P" n="47" break="no"/>caret enim, inquiunt, si non comederet, &amp; 
+      pec<lb ed="#P" n="48" break="no"/>cando immortalitatem amisisset. Praeceptum autem 
+      <lb ed="#P" n="49"/>fuisse probant, quia dictum est homini, ex omni 
+      li<lb ed="#P" n="50" break="no"/>gno paradisi comede. Sed haec probatio inefficax est; 
+      <lb ed="#P" n="51"/>tum quia verba illa non tam sunt praecipientis, quam 
+      <lb ed="#P" n="52"/>concedentis usum omnium arborum, una excepta; 
+      <lb ed="#P" n="53"/>tum quia nec opus erat ut aliquid primo homini 
+      po<lb ed="#P" n="54" break="no"/>sitiva lege praeciperetur, quemadmodum nec nobis 
+      <lb ed="#P" n="55"/>opus est praecepto positivo, ut cibum capiamus. 
+      Qua<lb ed="#P" n="56" break="no"/>re si nobis sufficit lex naturae cum naturali appetitus 
+      <lb ed="#P" n="57"/>instinctu, ad hoc ut alimenta sumamus, sine 
+      qui<lb ed="#P" n="58" break="no"/>bus vivere non possumus; multo magis ex eadem 
+      <lb ed="#P" n="59"/>lege atque instinctu satis intelligebat homo integer 
+      <lb ed="#P" n="60"/>ad hoc se teneri, ut aliquando de eo ligno 
+      comede<lb ed="#P" n="61" break="no"/>ret, sine quo vitam suam perpetuo conservari non 
+      <lb ed="#P" n="62"/>posse sciebat, ut ad eam rem lege positiva opus non 
+      <lb ed="#P" n="63"/>fuerit. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e177">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Alii immortalitatis causam posuerunt in solo 
+      li<lb ed="#P" n="65" break="no"/>gno vitae; adeo ut etiamsi peccasset homo, semper 
+      <lb ed="#P" n="66"/>tamen victurum fuisse existiment, si paratum 
+      sem<lb ed="#P" n="67" break="no"/>per haberet illius arboris usum. Idcirco enim 
+      di<lb ed="#P" n="68" break="no"/>cunt hominem per ejectionem e paradiso semotum 
+      <lb ed="#P" n="69"/>fuisse ab illo ligno, ne de fructu ejus comedens 
+      <lb ed="#P" n="70"/>semper viveret. Cui sententiae favere videntur 
+      ver<lb ed="#P" n="71" break="no"/>ba Domini ejicientis Adam e paradiso, Genes. 3. 
+      <!--0403.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Nunc autem, inquit ne forte mittat manum suam 
+      <lb ed="#P" n="73"/>&amp; sumat etiam de ligno vitae, &amp; comedat &amp; vivat in 
+      <lb ed="#P" n="74"/>aternum. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e210">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Ita plerique veterum sensisse putantur, ut 
+      Ire<lb ed="#P" n="76" break="no"/>naeus libro 3. contra haereses cap. 37. Hilarius in 
+      ex<lb ed="#P" n="77" break="no"/>positione Psalmi 68. Methodius apud Epiphanium 
+      <lb ed="#P" n="78"/>in haeresi Origenis, Chrysostomus homilia 18. in 
+      <lb ed="#P" n="79"/>Genes. Augustinus libro 6. de Gen. ad literam cap. 
+      <lb ed="#P" n="80"/>25. libro 13. de civitate cap. 23. &amp; lib. 1. contra 
+      ad<lb ed="#P" n="81" break="no"/>versarium legis &amp; Prophetarum cap. 15. Cyrillus 
+      <lb ed="#P" n="82"/>libro 3. contra Julianum; &amp; author quaestionum 
+      ve<lb ed="#P" n="83" break="no"/>teris &amp; novi testamenti quaest. 19. Quibus accedit 
+      <lb ed="#P" n="84"/>etiam illa Augustini sententia loco jam allegato de 
+      <lb ed="#P" n="85"/>Gen. ad literam, qua dicit immortalitatem status 
+      il<lb ed="#P" n="86" break="no"/>lius de ligno vitae extitisse, non de conditione 
+      natu<lb ed="#P" n="87" break="no"/>rae. Hanc porro sententiam inter Scholasticos 
+      ample<lb ed="#P" n="88" break="no"/>ctitur <name xml:id="bt67yj-p065602-Nd1e244">Durandus</name>. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e247">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> At vero alii docent immortalitatem fuisse 
+      pri<lb ed="#P" n="90" break="no"/>mo homini ex utroque simul; scilicet ex interna 
+      <lb ed="#P" n="91"/>bona qualitate, &amp; ex ligno vitae, quemadmodum 
+      <lb ed="#P" n="92"/>&amp; nunc temporalis conservatio vitae hominis 
+      par<lb ed="#P" n="93" break="no"/>tim dependet ex interna corporis temperie, 
+      par<lb ed="#P" n="94" break="no"/>tim ex alimento. Quanquam hoc interest, quod 
+      <lb ed="#P" n="95"/>bona illa constitutio corporis primo homini 
+      ine<lb ed="#P" n="96" break="no"/>rat ex bona animi constitutione, id est justitia, non 
+      <lb ed="#P" n="97"/>item homini lapso. Hac igitur bona corporis 
+      qua<lb ed="#P" n="98" break="no"/>litate per peccatum deperdita, negant solum vitae 
+      <lb ed="#P" n="99"/>lignum mortem ab homine prohibere potuisse, 
+      <lb ed="#P" n="100"/>quemadmodum nunc nec cibus quamvis optimus 
+      <lb ed="#P" n="101"/>hominem lethali morbo laborantem potest eripere 
+      <lb ed="#P" n="102"/>mortis periculo, sic ut non ex hujusmodi morbo 
+      <lb ed="#P" n="103"/>moriatur. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e284">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Hanc sententiam probabilem facit illud imprimis 
+      <lb ed="#P" n="105"/>quod dicit Apostolus Rom. 8. corpus mortuum esse 
+      <lb ed="#P" n="106"/>propter peccatum. Per hoc enim significatur in ipso 
+      <lb ed="#P" n="107"/>corpore nunc inesse corruptionis &amp; mortis causam, 
+      <lb ed="#P" n="108"/>quae non inerat ante peccatum; scilicet aut 
+      morbi<lb ed="#P" n="109" break="no"/>dam quandam ac mortiferam qualitatem, aut potius 
+      <lb ed="#P" n="110"/>privationem bonae illius constitutionis ac 
+      temperatu<lb ed="#P" n="111" break="no"/>rae, quae ante peccatum inerat, cujus nimirum 
+      defe<lb ed="#P" n="112" break="no"/>ctu nunc corpus mortuum dicatur. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e308">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Accedit manifesta probatio ex Concilii 
+      Arausi<lb ed="#P" n="114" break="no"/>cani can. 1. &amp; Concilii Tridentini sess. 5. canone 
+      <lb ed="#P" n="115"/>1. in quibus definitur totum hominem secundum 
+      <lb ed="#P" n="116"/>corpus &amp; animam per peccatum in deterius 
+      muta<lb ed="#P" n="117" break="no"/>tum fuisse. Inde enim sequitur in ipso corpore 
+      an<lb ed="#P" n="118" break="no"/>te peccatum fuisse qualitatem quandam, qua ita 
+      <lb ed="#P" n="119"/>bene sese haberet, ut posset non mori. Estque haec 
+      <lb ed="#P" n="120"/>compluribus locis doctrina Augustini, ut libro 
+      <lb ed="#P" n="121"/>primo de peccatorum meritis capite 16. libro nono 
+      <lb ed="#P" n="122"/>de Genes. ad literam capite 10. &amp; libro 1I. capite 
+      <lb ed="#P" n="123"/>32. &amp; libro 13. de civitate capite 3. &amp; 23. Hoc etiam 
+      <lb ed="#P" n="124"/>Leo Papa voluisse videtur, quando dixit 
+      homi<lb ed="#P" n="125" break="no"/>nem immortalitatis dote nudatum duram 
+      mor<lb ed="#P" n="126" break="no"/>tis subiisse sententiam. Dos enim immortalitatis 
+      <lb ed="#P" n="127"/>hominis secundum corpus non in aliquo externo, 
+      <lb ed="#P" n="128"/>sed in ipso corpore hominis constituenda est. 
+      At<lb ed="#P" n="129" break="no"/>que huic sententiae subscribunt plerique doctores 
+      <lb ed="#P" n="130"/>scholastici. Quam &amp; nos ut probabiliorem 
+      ample<lb ed="#P" n="131" break="no"/>ctimur. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e354">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Ad id vero quod ex Genesi objicitur, facilis est 
+      <lb ed="#P" n="133"/>responsio; Verba illa Dei, sicut &amp; alia proxime 
+      <lb ed="#P" n="134"/>praecedentia, quibus ait: Ecce Adam quaesi unus ex 
+      <lb ed="#P" n="135"/>nobis, &amp;c. ironice dicta esse. Non enim vere Adam 
+      <lb ed="#P" n="136"/>similis Deo factus erat, sciens bonum &amp; malum, 
+      <lb ed="#P" n="137"/>sed per peccatum &amp; ignorantiam ex peccato 
+      con<lb ed="#P" n="138" break="no"/>tractam longissime ab eo recesserat. Ad eundem 
+      <lb ed="#P" n="139"/>modum nec vere futurum erat, ut habita copia 
+      li<lb ed="#P" n="140" break="no"/>gni vitae viveret in aeternum. Sed inde amotus est, 
+      <lb ed="#P" n="141"/>etiam apposito gladio flammeo atque versatili, ne 
+      <lb ed="#P" n="142"/>stulte sibi ex ejus ligni usu promitteret 
+      immortalita<lb ed="#P" n="143" break="no"/>tem. Hic sensus est apud Cyrillum libro contra 
+      Ju<lb ed="#P" n="144" break="no"/>lianum, &amp; subindicatur a Chrysostomo hom. 18. in 
+      <lb ed="#P" n="145"/>Genes.
+    </p>
+            <p xml:id="bt67yj-p065602-d1e390">
+      <!--0404.xml-->
+               <pb ed="#P" n="171"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Alii vero, ut S. Thomas &amp; Bonaventura super hanc 
+      <lb ed="#P" n="2"/>distinct. &amp; Lyranus super Genes. non quidem 
+      iro<lb ed="#P" n="3" break="no"/>nice dictum interpretantur, sed hoc sensu; quia in 
+      <lb ed="#P" n="4"/>aeternum, id est, valde diu vivere potuisset homo, si 
+      <lb ed="#P" n="5"/>a ligno vitae non fuisset prohibitus, quomodo &amp; 
+      <lb ed="#P" n="6"/>nunc certa ratione victus in plures annos produci 
+      <lb ed="#P" n="7"/>potest hominis vita, non tamen perpetuari. 
+      Verum<lb ed="#P" n="8" break="no"/>tamen ut ita res se habeat de ligno vitae, non est 
+      <lb ed="#P" n="9"/>necesse; quoniam &amp; nunc, qui cibus homini sano 
+      <lb ed="#P" n="10"/>saluberrimus est, aegrotis plerumque noxius est &amp; 
+      <lb ed="#P" n="11"/>exitialis. Sic enim &amp; lignum vitae quod homini 
+      <lb ed="#P" n="12"/>integro praestabat immortalitatem, eidem corrupto 
+      <lb ed="#P" n="13"/>mortem accelerare potuisset, nimirum propter 
+      sub<lb ed="#P" n="14" break="no"/>jecti diversitatem. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e429">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Quod attinet ad loca e patribus citata, uno 
+      exce<lb ed="#P" n="16" break="no"/>pto Methodio, cujus in diversum aperta est 
+      senten<lb ed="#P" n="17" break="no"/>tia, possunt omnes intelligi locuti fuisse eo sensu, 
+      <lb ed="#P" n="18"/>quo juxta alterutram expositionem jam datam 
+      lo<lb ed="#P" n="19" break="no"/>quitur ipsa scriptura. 
+    </p>
+            <p xml:id="bt67yj-p065602-d1e445">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Quod autem postremo ex August. adferebatur, id 
+      <lb ed="#P" n="21"/>exponendum videtur hoc modo, primi status 
+      im<lb ed="#P" n="22" break="no"/>mortalitatem non fuisse de sola conditione naturae, 
+      <lb ed="#P" n="23"/>sed etiam de ligno vitae. Nam, ut jam ex ipso etiam 
+      <lb ed="#P" n="24"/>Augustino ostendimus, ad eam conditio naturae 
+      <lb ed="#P" n="25"/>sine ligno vitae non sufficiebat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

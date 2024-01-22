@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="116"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p044662"><!-- l2d12c5" -->
+            <head xml:id="bt67yj-p044662-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p044662-Hd1e103" type="question-title">Expositio principii Geneseos</head>
+            <p xml:id="bt67yj-p044662-d1e106">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> §. 5. Expositio principii Geneseos. 
+    </p>
+            <p xml:id="bt67yj-p044662-d1e113">
+               <lb ed="#P" n="65"/>VT quae dicta sunt, planiora fiant, adjiciemus 
+      <lb ed="#P" n="66"/>Obrevem explicationem initii Geneseos. 
+    </p>
+            <p xml:id="bt67yj-p044662-d1e120">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> In principio, at Moyses, creavit Deus caelum &amp; 
+      <lb ed="#P" n="68"/>terram, Hoc est, primo omnium, ac ne materia 
+      <lb ed="#P" n="69"/>quidem prius creata fecit Deus quicquid supra nos 
+      <lb ed="#P" n="70"/>est (quod totum more scripturae sacrae caelum vocar: 
+      <lb ed="#P" n="71"/>diximus) &amp; quicquid infra nos est, id est, terram 
+      <!--0349.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>cum aquis, a quibus nondum erat separata. Totum 
+      <lb ed="#P" n="73"/>hoc, inquam, excluso dumtaxat ornatu caeli &amp; terrae 
+      <lb ed="#P" n="74"/>quem postea acceperunt. Sequitur: 
+    </p>
+            <p xml:id="bt67yj-p044662-d1e147">
+               <lb ed="#P" n="75"/>
+               <pc type="indent"/> Terra autem erat inanis &amp; vacua: Hoc est, 
+      non<lb ed="#P" n="76" break="no"/>dum ea rerum ex ipsa nascentium vel in ipsa 
+      degen<lb ed="#P" n="77" break="no"/>tium varietate ac pulchritudine exornata qua nunc 
+      <lb ed="#P" n="78"/>est. Sequitur: 
+    </p>
+            <p xml:id="bt67yj-p044662-d1e160">
+               <lb ed="#P" n="79"/>Et tenebrae erant super faciem abyssi. Tenebrae 
+      lu<lb ed="#P" n="80" break="no"/>minis absentiam significant in corpore diaphano, 
+      cu<lb ed="#P" n="81" break="no"/>jusmodi est aer &amp; aqua. Recte proinde Magister ex 
+      <lb ed="#P" n="82"/>August. lib. I. de Genesi contra Manichaeos cap. 4. 
+      <lb ed="#P" n="83"/>(cui similis est locus lib. contra epistolam 
+      Funda<lb ed="#P" n="84" break="no"/>menti cap. 30. docet tenebras hic nominari, non ut 
+      <lb ed="#P" n="85"/>creaturam aliquam ab initio factam (non enim 
+      di<lb ed="#P" n="86" break="no"/>ctum est fiat lux) sed ut privationem ejus 
+      perfectio<lb ed="#P" n="87" break="no"/>nis, qua corpus creatum carebat, quaeque paulo post 
+      <lb ed="#P" n="88"/>producenda erat; eatenus tamen dici potest Deum 
+      <lb ed="#P" n="89"/>creasse tenebras, quia fecit diaphanum corpus sine 
+      <lb ed="#P" n="90"/>lumine. Qua ratione tam de nocte quam de tenebris 
+      <lb ed="#P" n="91"/>dicitur in Cantico trium puerorum: Benedicite noctes 
+      <lb ed="#P" n="92"/>&amp; dies Domino: Benedicite lux &amp; tenebrae Domino, &amp; 
+      <lb ed="#P" n="93"/>Ps. 73. Tuus est dies &amp; tua nox, id est, creaturae tuae. 
+      <lb ed="#P" n="94"/>Unde sequitur: Tu fabricatus es auroram &amp; solem, 
+      <lb ed="#P" n="95"/>Et Isa. 45. in Dei persona: Ego formans lucem &amp; 
+      <lb ed="#P" n="96"/>creans tenebras. Abyssus autem intelligi potest 
+      im<lb ed="#P" n="97" break="no"/>mensa profunditas aquarum; vel ut aliis placet, 
+      im<lb ed="#P" n="98" break="no"/>mensa ac profundissima illa moles ex terra simul &amp; 
+      <lb ed="#P" n="99"/>aqua constans, cujus superficiem, quia lux nulla 
+      ad<lb ed="#P" n="100" break="no"/>huc creata erat, tegebant densissimae tenebrae, vi 
+      <lb ed="#P" n="101"/>delicet aerem universum occupantes. Sequitur: 
+    </p>
+            <p xml:id="bt67yj-p044662-d1e212">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Et spiritus Domini ferebatur super aquas. Per 
+      spi<lb ed="#P" n="103" break="no"/>ritum Domini Hebraeorum quidam intelligunt 
+      ven<lb ed="#P" n="104" break="no"/>tum a Domino excitatum, ut in Psal. 147. Flabit 
+      spi<lb ed="#P" n="105" break="no"/>ritus ejus &amp; fluent aquae. Alii ventum magnum, phrasi 
+      <lb ed="#P" n="106"/>Hebraea; quomodo alibi montes Dei &amp; cedros Dei 
+      <lb ed="#P" n="107"/>vocat scriptura. Verum scriptoribus ecclesiasticis 
+      <lb ed="#P" n="108"/>magis placet, ut intelligatur Spiritus sanctus, tertia 
+      <lb ed="#P" n="109"/>in Trinitate persona, tametsi cum allusione ad flatum 
+      <lb ed="#P" n="110"/>corporeum, ut sensus sit: Spiritus Dei 
+      superfereba<lb ed="#P" n="111" break="no"/>tur; sive, ut ex Hebraeo verti posse monet 
+      Hierony<lb ed="#P" n="112" break="no"/>mus in traditionibus Hebraicis, incubabat aquis, 
+      <lb ed="#P" n="113"/>easque confovebat una cum terra subjecta; fovebat, 
+      <lb ed="#P" n="114"/>inquam, ad futuram rerum germinationem, scilicet 
+      <lb ed="#P" n="115"/>eam quae tertio die facta est, quaeque fieri solet ex 
+      <lb ed="#P" n="116"/>permixtione humoris cum materia terrestri. 
+    </p>
+            <p xml:id="bt67yj-p044662-d1e249">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Porro secundum Aug. lib. I. de Genesi contra 
+      Ma<lb ed="#P" n="118" break="no"/>nichaeos cap. 5. &amp; 7. ita ferebatur spiritus Domini 
+      <lb ed="#P" n="119"/>super aquas, sicut superfertur fabricandis rebus 
+      vo<lb ed="#P" n="120" break="no"/>luntas artificis. Et secundum eundem lib. 1. de 
+      Ge<lb ed="#P" n="121" break="no"/>nesi ad literam cap. 7. superferebatur non loco, sed 
+      <lb ed="#P" n="122"/>omnia superante ac praecellente potentia. Quae 
+      se<lb ed="#P" n="123" break="no"/>quuntur in Genes. ad subsequentes distinctiones 
+      ex<lb ed="#P" n="124" break="no"/>ponentur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

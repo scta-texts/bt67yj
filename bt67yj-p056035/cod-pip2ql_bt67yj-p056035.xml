@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="145"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p056035"><!-- l2d17c4" -->
+            <head xml:id="bt67yj-p056035-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p056035-Hd1e103" type="question-title">Animam rationalem esse incorpoream</head>
+            <p xml:id="bt67yj-p056035-d1e106">
+               <lb ed="#P" n="107"/>§. 4. Animam rationalem esse incorpoream.
+    </p>
+            <p xml:id="bt67yj-p056035-d1e111">
+               <lb ed="#P" n="108"/>DE anima quae nobilior est pars hominis plenius, 
+      <lb ed="#P" n="109"/>nunc agendum. De qua illud imprimis ac pro 
+      <lb ed="#P" n="110"/>certo tenendum est, eam incorpoream esse &amp; 
+      imma<lb ed="#P" n="111" break="no"/>terialem, id est talem quae neque per se ut corpora, 
+      <lb ed="#P" n="112"/>neque per accidens, ut corporum accidentia 
+      exten<lb ed="#P" n="113" break="no"/>sionem subeat, neque omnino secundum suam 
+      sub<lb ed="#P" n="114" break="no"/>stantiam a materia dependeat. Qua ratione 
+      distin<lb ed="#P" n="115" break="no"/>guitur anima rationalis etiam a caeteris omnibus 
+      for<lb ed="#P" n="116" break="no"/>mis substantialibus, adeóque ab anima sensitiva &amp; 
+      <lb ed="#P" n="117"/>vegetativa. Quae omnes quod per materiam 
+      exten<lb ed="#P" n="118" break="no"/>dantur, in eaque necessario haereant, corporeae sunt 
+      <lb ed="#P" n="119"/>&amp; materiales. Quamvis igitur cum caeteris formis 
+      <lb ed="#P" n="120"/>corporum id habeat commune anima rationalis, 
+      <lb ed="#P" n="121"/>quod non sit corpus. Nulla enim forma corpus est, 
+      <lb ed="#P" n="122"/>alioqui essent duo corpora simul. Quo argumento 
+      <lb ed="#P" n="123"/>Phil. lib. 2. de anima probat nullam animam esse 
+      <lb ed="#P" n="124"/>corpus, quae probatio communis est omni formae 
+      exi<lb ed="#P" n="125" break="no"/>stenti in corpore) hoc tamen inter omnes rerum 
+      cor<lb ed="#P" n="126" break="no"/>porearum formas animae rationali proprium est ac 
+      <lb ed="#P" n="127"/>peculiare quod sit incorporea &amp; immaterialis. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e157">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Hujus autem doctrinae prima probatio est ex 
+      sa<lb ed="#P" n="129" break="no"/>cris literis, in quibus saepenumero anima humana 
+      <lb ed="#P" n="130"/>spiritus vocatur, ut psal. 30. &amp; 145. Ecclesiastae ult. 
+      <lb ed="#P" n="131"/>Daniclis 3. 2. Mach. 7. item Luc. 23. &amp; 24. Act. 
+      <lb ed="#P" n="132"/>23. 1. Corint. 2. 1. Thess. 5. Heb. 4. &amp; 12. &amp; alibi. 
+      <lb ed="#P" n="133"/>Nec ideo putandum est infirmam hanc esse 
+      probatio<lb ed="#P" n="134" break="no"/>nem quod in scripturis etiam animae jumentorum 
+      in<lb ed="#P" n="135" break="no"/>terdum spiritus vocentur, ut Ecclesiasticae 3. in his 
+      ver<lb ed="#P" n="136" break="no"/>bis: Quis novit si spiritus filiorum Adam ascendit 
+      sur<lb ed="#P" n="137" break="no"/>sum &amp; spiritus jumentorum descendat deorsum. Quippe 
+      <lb ed="#P" n="138"/>rarissimum est ut hoc nomen animabus jumentorum 
+      <lb ed="#P" n="139"/>tribuatur. Unde &amp; intelligitur non ita proprie sumi 
+      <lb ed="#P" n="140"/>istis attributum sicut animabus humanis: Et ad hoc 
+      <lb ed="#P" n="141"/>significandum scriptura interdum distinguit inter 
+      <lb ed="#P" n="142"/>animam hominis &amp; spiritum hominis, ut in Cantico 
+      <!--0379.xml-->
+      <pb ed="#P" n="146"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>trium puerorum, &amp; 1. Thessal. 5. &amp; Hebr. 4. quod 
+      <lb ed="#P" n="2"/>nunquam facit in bestiis. Ex quo colligitur aliquid 
+      <lb ed="#P" n="3"/>esse proprium animae hominis propter quod prae 
+      <lb ed="#P" n="4"/>animabus brutorum possit &amp; debeat spiritus 
+      appel<lb ed="#P" n="5" break="no"/>lari, &amp; animam hominis ita esse animam, ut etiam 
+      <lb ed="#P" n="6"/>sit spiritus, id est, forma spiritualis &amp; incorporea, 
+      <lb ed="#P" n="7"/>non autem animam bruti. Rursum Paulus 1. Corint. 
+      <lb ed="#P" n="8"/>2. satis ostendit peculiari ratione animam hominis 
+      <lb ed="#P" n="9"/>esse spiritum, quando de spiritu hominis &amp; spiritu 
+      <lb ed="#P" n="10"/>Dei loquitur consimili modo: Quis enim, inquit, 
+      <lb ed="#P" n="11"/>hominum scit quae sunt hominis nisi spiritus hominis qui 
+      <lb ed="#P" n="12"/>in ipso est? Ita &amp; quae Dei sunt nemo cognovit, 
+      nis<lb ed="#P" n="13" break="no"/>spiritus Dei. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e230">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Si dicas similiter conjungi spiritum hominis cum 
+      <lb ed="#P" n="15"/>spiritu jumentorum in scriptura superius allegata: 
+      <lb ed="#P" n="16"/>Respondeo conjungi quidem, sed non similiter? 
+      <lb ed="#P" n="17"/>imo non tam conjungi quam disjungi. Nam apud 
+      <lb ed="#P" n="18"/>Apostolum quaedam comparatio fit spiritus Dei &amp; 
+      <lb ed="#P" n="19"/>spiritus hominis in eo quod est nosse quae in ipso 
+      <lb ed="#P" n="20"/>sunt; apud Ecclesiasten vero manifesta diversitas 
+      si<lb ed="#P" n="21" break="no"/>gnificatur inter spiritum hominis &amp; spiritum 
+      ju<lb ed="#P" n="22" break="no"/>mentorum, dum illi tribuitur ascendere sursum; 
+      <lb ed="#P" n="23"/>id est immortalem esse, huic descendere deorsum, 
+      <lb ed="#P" n="24"/>id est, interire una cum corpore, licet hoc 
+      discri<lb ed="#P" n="25" break="no"/>men paucis mortalium cognitum esse illa sua 
+      inter<lb ed="#P" n="26" break="no"/>rogatione Ecclesiastes significare voluerit. Quod si, 
+      <lb ed="#P" n="27"/>ut quidam volunt, propterea parum certa sit hujus 
+      <lb ed="#P" n="28"/>doctrinae probatio ex iis scripturis, quae animam 
+      <lb ed="#P" n="29"/>hominis spiritum vocant, quod illud nomen etiam 
+      <lb ed="#P" n="30"/>rebus corporeis attributum legatur; jam nec de Deo 
+      <lb ed="#P" n="31"/>certa erit probatio, quod sit incorporeus ex iis 
+      scri<lb ed="#P" n="32" break="no"/>pturis quae profitentur Deum spiritum esse. Quod 
+      <lb ed="#P" n="33"/>quidem nemo dixerit, cum ea probatione tanquam 
+      <lb ed="#P" n="34"/>firmissima passim Patres utantur. Denique hoc 
+      pa<lb ed="#P" n="35" break="no"/>cto semper incerta esset probatio ex vocabulo quod 
+      <lb ed="#P" n="36"/>eandem perpetuo in scripturis habet 
+      significatio<lb ed="#P" n="37" break="no"/>nem. Hoc autem dicero perabsurdum est. 
+      Quocir<lb ed="#P" n="38" break="no"/>ca dicimus bonam ac validam esse hujusmodi 
+      pro<lb ed="#P" n="39" break="no"/>bationem, dummodo vel ex modo loquendi 
+      scriptu<lb ed="#P" n="40" break="no"/>rae, vel ex locorum circunstantiis, vel alia 
+      ratio<lb ed="#P" n="41" break="no"/>ne pateat in qua significatione vocabulum ex quo 
+      <lb ed="#P" n="42"/>ducitur argumentum, accipiatur. Unde &amp; de 
+      an<lb ed="#P" n="43" break="no"/>gelis quod sint incorporei, solidam haberi 
+      proba<lb ed="#P" n="44" break="no"/>tionem ex eo quod in scripturis spiritus vocantur, 
+      <lb ed="#P" n="45"/>ostendimus ad dist. 8. Fatendum tamen non 
+      perin<lb ed="#P" n="46" break="no"/>de solidum esse de anima hominis argumentum ex 
+      <lb ed="#P" n="47"/>eo quod Genes. 2. vocatur spiraculum vitae. Nam 
+      <lb ed="#P" n="48"/>ibi tam in Haebreo quam Graeco diversum est 
+      voca<lb ed="#P" n="49" break="no"/>bulum ab eo quod spiritum significat ea acceptione 
+      <lb ed="#P" n="50"/>qua Deo &amp; angelis in scriptura tribui solet. Unde 
+      <lb ed="#P" n="51"/>nec interpres noster spiritum vertit, sed spiraculum, 
+      <lb ed="#P" n="52"/>id est, flatum. Quod ipsum &amp; Augustinus 
+      dumta<lb ed="#P" n="53" break="no"/>xat quoad Graecum vocabulum, observavit lib. 13. 
+      <lb ed="#P" n="54"/>de Civitate cap. 84. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e324">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Secunda probatio eaque multo evident ior cex 
+      <lb ed="#P" n="56"/>doctrina Patrum atque adeo ipsius Ecclesiae, cujus 
+      <lb ed="#P" n="57"/>perpetua quaedam traditio est eam qua homines 
+      <lb ed="#P" n="58"/>sumus, id est intellectivam seu rationalem animam 
+      <lb ed="#P" n="59"/>incorpoream esse. De quo ne illi quidam 
+      dubita<lb ed="#P" n="60" break="no"/>runt qui de angelis, utrum corporei sint an 
+      incor<lb ed="#P" n="61" break="no"/>porei, suspenderunt sententiam, ut Augustinus &amp; 
+      <lb ed="#P" n="62"/>Bernardus. Siquidem Augustinus in haeresi 86. 
+      Ter<lb ed="#P" n="63" break="no"/>tulliano ascribit hunc errorem, quod animam 
+      cor<lb ed="#P" n="64" break="no"/>poream esse diceret. Et quamvis neget eum propter 
+      <lb ed="#P" n="65"/>hoc factum haereticum, opinionem tamen damnat 
+      <lb ed="#P" n="66"/>tum eo loco, tum apertius lib. 2. de anima &amp; 
+      origi<lb ed="#P" n="67" break="no"/>ne c. 5. ubi opinionem hanc ad deliramenta 
+      Ter<lb ed="#P" n="68" break="no"/>tulliani pertinere dicit. Et contra eam pluribus 
+      a<lb ed="#P" n="69" break="no"/>git lib. 4. ejusdem operis cap. 12. &amp; sequentibus. 
+      <lb ed="#P" n="70"/>idem epist. 100. ad Evodium: Nallo modo arbitror. 
+      <lb ed="#P" n="71"/>inquit, animam de corpore exire cum corpore. 
+      Eun<lb ed="#P" n="72" break="no"/>dem vide epistola 28. ad Hieronymum, &amp; 157. 
+      <lb ed="#P" n="73"/>ad Optatum in qua istud se credere affirmat. Item 
+      <lb ed="#P" n="74"/>in expositione plalmi 118. &amp; libro contra epistolam 
+      <!--0379.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Fundamenti cap. 16. ubi id ratione probat. 
+      Bernar<lb ed="#P" n="76" break="no"/>dus autem sermone 40. super Cantica tribuit animae 
+      <lb ed="#P" n="77"/>incorpoream substantiam &amp; spiritualem essentiam: 
+      <lb ed="#P" n="78"/>Item lib. de interiori dono cap. 67. animam Deo 
+      <lb ed="#P" n="79"/>comparat, quod sicut Deus ubique totus, ita anima 
+      <lb ed="#P" n="80"/>in suo corpore ubique tota. Et sermone 51. in variis 
+      <lb ed="#P" n="81"/>dicit animam quia incorporea est, in loco corporeo 
+      <lb ed="#P" n="82"/>esse non posse; tametsi ipsa anima sic erret, ut seipsam 
+      <lb ed="#P" n="83"/>nesciat nisi corpoream cogitare. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e396">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Porro caeterorum patrum testimonia quae plurima 
+      <lb ed="#P" n="85"/>sunt, nihil attinet commemorare, cum de iis minor 
+      <lb ed="#P" n="86"/>sit dubitandi ratio; minima vero de scholasticis, ut 
+      <lb ed="#P" n="87"/>quorum omnium concors est sententia, animam 
+      ra<lb ed="#P" n="88" break="no"/>tionalem perinde ut naturam angelicam, 
+      incorpo<lb ed="#P" n="89" break="no"/>ream atque immaterialem esse. Nec id mirum, cum 
+      <lb ed="#P" n="90"/>tempore nascentis scholasticae Theologiae sub 
+      Inno<lb ed="#P" n="91" break="no"/>centio 3. in magno concilio Lateranensi can. 1. 
+      edi<lb ed="#P" n="92" break="no"/>tum fuerit hujusmodi decretum, Deum utramque 
+      <lb ed="#P" n="93"/>de nihilo condidisse creaturam, spiritualem &amp; 
+      cor<lb ed="#P" n="94" break="no"/>poralem, angelicam scilicet &amp; mundanam ac 
+      dein<lb ed="#P" n="95" break="no"/>de humanam quasi communem, ex spiritu &amp; 
+      corpo<lb ed="#P" n="96" break="no"/>re constitutam. Quibus verbis planissime 
+      signifi<lb ed="#P" n="97" break="no"/>catur spiritum ex quo &amp; corpore nomo componitur, 
+      <lb ed="#P" n="98"/>ita proprie spiritum esse, ut ad genus creaturae 
+      spi<lb ed="#P" n="99" break="no"/>ritualis, non corporalis pertineat. De qua re plura 
+      <lb ed="#P" n="100"/>ad dist. 8. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e438">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Tertia probatio continet argumenta ex ratione 
+      <lb ed="#P" n="102"/>eaque multiplici. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e447">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Primum: Rationalis anima res immateriales, ut 
+      <lb ed="#P" n="104"/>Deum &amp; spiritus angelicos, cognoscere &amp; 
+      intelli<lb ed="#P" n="105" break="no"/>gere potest, tam separata quam conjuncta: quare &amp; 
+      <lb ed="#P" n="106"/>ipsius naturam immaterialem esse opportet. Haec 
+      <lb ed="#P" n="107"/>ratio non tantum Philosophi est &amp; scholasticorum 
+      <lb ed="#P" n="108"/>Theologorum, verum etiam ipsius Aug. lib. de 
+      quan<lb ed="#P" n="109" break="no"/>titate animae cap. 14. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e467">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Secundum: Anima tota est in toto corpore, nec 
+      <lb ed="#P" n="111"/>minus tota in qualibet corporis parte, 
+      quemadmo<lb ed="#P" n="112" break="no"/>dum docent Patres nominatim August. lib. 6. de 
+      <lb ed="#P" n="113"/>trinitate cap. 6. &amp; Bernardus supra allegatus. Unde 
+      <lb ed="#P" n="114"/>ne per accidens quidem ad divisionem corporis 
+      divi<lb ed="#P" n="115" break="no"/>di potest; hoc autem nulli formae corporeae 
+      compe<lb ed="#P" n="116" break="no"/>rit, at neque competere potest. Est enim contra 
+      ra<lb ed="#P" n="117" break="no"/>tionem formae extensae. Haec Augustini ratiocinatio 
+      <lb ed="#P" n="118"/>est lib. contra epist. Fundamenti cap. 16. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e492">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Tertium: Intellectus qui est propria animae 
+      ratio<lb ed="#P" n="120" break="no"/>nali potentia, prorsus incorporeus est &amp; 
+      immateria<lb ed="#P" n="121" break="no"/>lis; propter quod etiam nullum habet organum seu 
+      <lb ed="#P" n="122"/>instrumentum corporeum; igitur ipsa anima 
+      incor<lb ed="#P" n="123" break="no"/>porea est &amp; immaterialis. Neque enim potentia 
+      im<lb ed="#P" n="124" break="no"/>materialis haerere potest in essentia formae materialis 
+      <lb ed="#P" n="125"/>&amp; corporeae. Nullum autem ipsius intellectus esse 
+      in<lb ed="#P" n="126" break="no"/>strumentum Aristotelis est doctrina lib. 3. de anima 
+      <lb ed="#P" n="127"/>cap. 4. ab omnibus tam theologis quam probatis 
+      phi<lb ed="#P" n="128" break="no"/>losophis recepta. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e518">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Quartum: Anima rationalis secundum fidem 
+      <lb ed="#P" n="130"/>Catholicam separabilis est a corpore &amp; quidem 
+      <lb ed="#P" n="131"/>suapte natura, praesupposita mortalitate corporis: 
+      <lb ed="#P" n="132"/>Unde &amp; probatur ejus immortalitas. Qua de re 
+      age<lb ed="#P" n="133" break="no"/>tur ex professo ad distinct. 43. lib. 4. At nulla corporea 
+      <lb ed="#P" n="134"/>forma separabilis est. Quod enim extensionem habet, 
+      <lb ed="#P" n="135"/>id extra materiam sine miraculo subsistere nullo modo 
+      <lb ed="#P" n="136"/>potest; ergo anima rationalis non est corporea. 
+    </p>
+            <p xml:id="bt67yj-p056035-d1e540">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Quintum: Anima rationalis non est ex traduce, ut 
+      <lb ed="#P" n="138"/>habet vetus Ecclesiae doctrina; est igitur incorporea. 
+      <lb ed="#P" n="139"/>Nam si corporea esset, nihil prohiberet eam ex 
+      tra<lb ed="#P" n="140" break="no"/>duce esse, more animarum irrationalium. Unde 
+      quae<lb ed="#P" n="141" break="no"/>cunque argumenta probant animam hominis non 
+      <lb ed="#P" n="142"/>esse ex traduce (quae res infra suo loco tractabitur. 
+      <lb ed="#P" n="143"/>eadem consequenter valent ad probandum eam esse 
+      <lb ed="#P" n="144"/>incorpoream; imo patres ad refellendum traducem 
+      <lb ed="#P" n="145"/>animarum hoc potissimum argumento usi sunt, quod 
+      <lb ed="#P" n="146"/>anima sit incorporea. Hoc enim tanquam certum &amp; 
+      <lb ed="#P" n="147"/>indubitatum habebatur etiam ab iis qui de traduce 
+      <lb ed="#P" n="148"/>dubitabant, uti supra de Augustino monstravimus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

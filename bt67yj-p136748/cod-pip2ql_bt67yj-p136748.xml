@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="353"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p136748"><!-- l2d30c4" -->
+            <head xml:id="bt67yj-p136748-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p136748-Hd1e103" type="question-title">Quadruplex error circa peccatum originale</head>
+            <p xml:id="bt67yj-p136748-d1e106">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> §. 4. Quadruplex error circa peccatum originale.
+    </p>
+            <p xml:id="bt67yj-p136748-d1e113">
+               <lb ed="#P" n="34"/>POssunt in genere quatuor errores notari circa 
+      <lb ed="#P" n="35"/>A peccatum originale, quorum duo priores 
+      asser<lb ed="#P" n="36" break="no"/>ti fuerunt a Pelagianis originale peccatum aperte 
+      ne<lb ed="#P" n="37" break="no"/>gantibus; duo posteriores ab aliis, qui nomine 
+      qui<lb ed="#P" n="38" break="no"/>dem tenus peccatum originale confitentur, re autem 
+      <lb ed="#P" n="39"/>ipsa negare videntur. 
+    </p>
+            <p xml:id="bt67yj-p136748-d1e129">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Primus est Pelagii, docentis Adae peccatum ipsi 
+      <lb ed="#P" n="41"/>soli nocuisse, posteros autem ejus neque peccatum 
+      <lb ed="#P" n="42"/>neque mortem ex eo nascendo contraxisse; sed tales 
+      <lb ed="#P" n="43"/>nasci, qualem &amp; illum a Deo creatum dicunt; 
+      ni<lb ed="#P" n="44" break="no"/>mirum peccati quidem expertes, morituros autem 
+      <lb ed="#P" n="45"/>omnes, non peccati merito, sed necessitate naturae 
+      <lb ed="#P" n="46"/>Hunc bipertitum errorem refellunt imprimis omnia 
+      <lb ed="#P" n="47"/>quae supra producta sunt ad probandum, nasci 
+      <lb ed="#P" n="48"/>unumquemque cum peccato. Deinde &amp; ea quae 
+      di<lb ed="#P" n="49" break="no"/>cta sunt circa distinct. 19. ad probandum, mortem 
+      <lb ed="#P" n="50"/>esse peccati poenam, &amp; non ad naturae 
+      constitutio<lb ed="#P" n="51" break="no"/>nem pertinere; quale est illud ex cap. 1. Conc. 
+      Mile<lb ed="#P" n="52" break="no"/>vitani, ubi anathema ei dicitur, qui dixerit, primum 
+      <lb ed="#P" n="53"/>hominem mortalem factum, ita ut sive peccaret, 
+      si<lb ed="#P" n="54" break="no"/>ve non peccaret, moreretur in corpore, non 
+      pecca<lb ed="#P" n="55" break="no"/>ti merito, sed necessitate naturae. 
+    </p>
+            <p xml:id="bt67yj-p136748-d1e169">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Ab hoc errore, tanquam Scripturis sacris 
+      eyiden<lb ed="#P" n="57" break="no"/>ter adversante, sectatores quidam Pelagii nonnihil 
+      <lb ed="#P" n="58"/>recedentes, alium errorem huic proximum 
+      commen<lb ed="#P" n="59" break="no"/>ti sunt, docentes mortem quidem cum aliis 
+      poenali<lb ed="#P" n="60" break="no"/>tatibus per unius hominis praevaricationem transisse 
+      <lb ed="#P" n="61"/>in universum genus humanum, non autem peccatum 
+      <lb ed="#P" n="62"/>ipsum. Sed &amp; hunc errorem evertunt, quae supra de 
+      <lb ed="#P" n="63"/>peccato originali diximus; &amp; illud imprimis, quod 
+      <lb ed="#P" n="64"/>Apostolus Rom. 5. inter peccatum &amp; mortem 
+      distin<lb ed="#P" n="65" break="no"/>guens, utrumque dicit per unum hominem in 
+      mun<lb ed="#P" n="66" break="no"/>dum intrasse. Proprie autem damnatus est hic error 
+      <lb ed="#P" n="67"/>a Patribus Arausicani Concilii can. 2. his verbis: Si 
+      <lb ed="#P" n="68"/>quis soli Adae praevaricationem suam, &amp; non ejus 
+      <lb ed="#P" n="69"/>propagini asserit nocuisse, aut certe martem 
+      tan<lb ed="#P" n="70" break="no"/>tum corporis, quae poena peccati est, non autem &amp; 
+      <lb ed="#P" n="71"/>peccatum, quod mors est animae, per unum hominem 
+      <!--0586.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>in omne genus humanum transisse testatur; 
+      injusti<lb ed="#P" n="73" break="no"/>tiam Deo dabit, contradicens Apostolo dicenti; 
+      <lb ed="#P" n="74"/>Per unum hominem, &amp;c. Eundem errorem etiam 
+      <lb ed="#P" n="75"/>ante illius Concilii tempora refutavit Augustinus, 
+      <lb ed="#P" n="76"/>ut patet ex lib. 4. contra 2. epist. Pelagianorum cap. 
+      <lb ed="#P" n="77"/>4. &amp; post eum Prosper libro contra Collatorem 
+      ca<lb ed="#P" n="78" break="no"/>pite 20. &amp; Fulgentius libro de incarnatione Christi 
+      <lb ed="#P" n="79"/>capite decimoquarto. Atque hi authores, praeter 
+      <lb ed="#P" n="80"/>Scripturae authoritatem, urgent eandem cum 
+      Arau<lb ed="#P" n="81" break="no"/>sicano Concilio rationem; quod videlicet injustum 
+      <lb ed="#P" n="82"/>sit, ut in parvulos mors aliaeque poenae transeant sine 
+      <lb ed="#P" n="83"/>peccato. 
+    </p>
+            <p xml:id="bt67yj-p136748-d1e239">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Tertius error est eorum, qui ita se existimant tueri 
+      <lb ed="#P" n="85"/>posse peccati originalis veritatem, si ex primi 
+      paren<lb ed="#P" n="86" break="no"/>tis transgressione non culpam aliquam dicant in 
+      po<lb ed="#P" n="87" break="no"/>steros transire, sed reatum duntaxat poenae, quem 
+      <lb ed="#P" n="88"/>peccati originalis nomine significatum volunt, 
+      id<lb ed="#P" n="89" break="no"/>que tropico sermone, quo effectus sibi sumit nomen 
+      <lb ed="#P" n="90"/>causae. Hic error a praecedenti solis verbis diversus 
+      <lb ed="#P" n="91"/>est. Proprio enim sermone revera tollit originale 
+      <lb ed="#P" n="92"/>peccatum. 
+    </p>
+            <p xml:id="bt67yj-p136748-d1e263">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Quartus est eorum, qui agnoscunt quidem 
+      pecca<lb ed="#P" n="94" break="no"/>tum originale &amp; fatentur esse proprii nominis 
+      pec<lb ed="#P" n="95" break="no"/>catum, sed negant parvulis esse internum; utpote 
+      <lb ed="#P" n="96"/>quod reipsa non aliud esse doceant, quam primi 
+      ho<lb ed="#P" n="97" break="no"/>minis actuale peccatum. Sed &amp; haec opinio a tota 
+      <lb ed="#P" n="98"/>posteritate Adae non obscure aufert peccatum, sicut 
+      <lb ed="#P" n="99"/>sanctis revera justitiam adimunt, qui eam docent 
+      <lb ed="#P" n="100"/>duntaxat externam esse. 
+    </p>
+            <p xml:id="bt67yj-p136748-d1e285">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Verum de duobus his postremis erroribus seorsim 
+      <lb ed="#P" n="102"/>paulo latius disserendum erit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

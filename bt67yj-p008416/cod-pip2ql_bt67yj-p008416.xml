@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="22"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p008416"><!-- l2d3c1" -->
+            <head xml:id="bt67yj-p008416-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p008416-Hd1e103" type="question-title">De numero angelorum quid sentiendum</head>
+            <p xml:id="bt67yj-p008416-d1e106">
+               <lb ed="#P" n="80"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="81"/>TERTIAM. 
+      <lb ed="#P" n="82"/>§. 1. De numero angelorum quid sentiendum.
+    </p>
+            <p xml:id="bt67yj-p008416-d1e115">
+               <lb ed="#P" n="83"/>VARIAE fuerunt apud Etnicos de numero 
+      <lb ed="#P" n="84"/>substantiarum separatarum opiniones. Nam 
+      <lb ed="#P" n="85"/>Platonici quidem referente sancto Thoma 
+      <lb ed="#P" n="86"/>opusc. 15. de angelis cap. 1. inter nos &amp; summum 
+      <lb ed="#P" n="87"/>Deum, quatuor ponebant ordines, scilicet Deorum 
+      <lb ed="#P" n="88"/>secundorum, intellectuum separatorum, animarum 
+      <lb ed="#P" n="89"/>caelestium, &amp; daemonum bonorum atque malorum; 
+      <lb ed="#P" n="90"/>tametsi postremum hunc ordinem non separabant 
+      <lb ed="#P" n="91"/>a materia. In singulis autem ordinibus praeterquam 
+      <lb ed="#P" n="92"/>tertio qui caelestium erat animarum, juxta numerum 
+      <lb ed="#P" n="93"/>caelestium corporum, numerum ponebant 
+      indeter<lb ed="#P" n="94" break="no"/>minatum: Peripatetici vero universum numerum 
+      <lb ed="#P" n="95"/>intelligentiarum (hoc enim nomine separatas 
+      sub<lb ed="#P" n="96" break="no"/>stantias vocabant) contraxerunt ad numerum 
+      or<lb ed="#P" n="97" break="no"/>bium, seu potius motuum caelestium, nimirum 
+      sin<lb ed="#P" n="98" break="no"/>gulis motibus singulas intelligentias attribuentes. 
+      <lb ed="#P" n="99"/>Sic enim princeps eorum Aristoteles tradit lib. 12. 
+      <lb ed="#P" n="100"/>metaph. Qui tamen alibi ut lib. 1. de caelo cap. 9. 
+      <lb ed="#P" n="101"/>satis insinuat alias praeterea quasdam extra caelum 
+      <lb ed="#P" n="102"/>beatas mentes se agnoscere. Vulgus autem 
+      genti<lb ed="#P" n="103" break="no"/>lium genios maximo esse numero creddit. Nam ut 
+      <lb ed="#P" n="104"/>refert Prudentius lib. 2. cont. Symmachum 
+      affinge<lb ed="#P" n="105" break="no"/>bant illi genios singulos singulis, non modo regnis, 
+      <lb ed="#P" n="106"/>regionibus, civitatibus, &amp; hominibus, verum etiam 
+      <lb ed="#P" n="107"/>domibus, portis, thermis, stabulis, &amp;c. Fuerunt &amp; 
+      <lb ed="#P" n="108"/>haeretici quidam ut super hac dist. refert S. Thomas 
+      <lb ed="#P" n="109"/>qui unum tantum angelum posuerunt diversa 
+      sor<lb ed="#P" n="110" break="no"/>tientem vocabula secundum diversos actus. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e178">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Caeterum philosophia Christiana fidesque 
+      Ca<lb ed="#P" n="112" break="no"/>tholica illud quidem quod de caelestium orbium 
+      <lb ed="#P" n="113"/>motoribus angelis dicitur non rejiciens, ut nec pro 
+      <lb ed="#P" n="114"/>certo recipiens, reliquas autem dictas opiniones 
+      <lb ed="#P" n="115"/>ut a sana doctrina alienas condemnans, juxta 
+      scri<lb ed="#P" n="116" break="no"/>pturam sacram tradit angelos esse numero valde 
+      ma<lb ed="#P" n="117" break="no"/>gno, &amp; ut ita dicamus, infinito. Sic enim dicitur 
+      <lb ed="#P" n="118"/>Job 25. de Deo, nunquid est numerus militum ejus? 
+      <lb ed="#P" n="119"/>quasi diceretur, tam multos esse ut eorum 
+      nume<lb ed="#P" n="120" break="no"/>rus a nobis percenseri nequeat. Quomodo locum 
+      <lb ed="#P" n="121"/>illum exponit Gregor. lib. 17. moral. cap. 9. licet 
+      <lb ed="#P" n="122"/>alioqui ad literam videatur ibi sermo esse, non de 
+      <lb ed="#P" n="123"/>angelis, sed de stellis tanquam Dei militibus, eo 
+      mo<lb ed="#P" n="124" break="no"/>do quo tota illa caelestium luminum multitudo 
+      vo<lb ed="#P" n="125" break="no"/>cari solet in scripturis exercitus caeli. Certius 
+      il<lb ed="#P" n="126" break="no"/>lud Danielis capit. 7. Millia millium ministrabant 
+      <lb ed="#P" n="127"/>ei, &amp; decies millies centena millia assistebant ei. Ubi 
+      <lb ed="#P" n="128"/>non definitum aliquem numerum significare voluit 
+      <lb ed="#P" n="129"/>propheta, sed ut annotavit ad eum locum 
+      Hie<lb ed="#P" n="130" break="no"/>ronym. hunc numerum posuit, quia majorem 
+      <lb ed="#P" n="131"/>multitudinem humanus sermo explicare non 
+      po<lb ed="#P" n="132" break="no"/>tuit. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e231">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Hoc quoque significatum est 4. Reg. 6. ubi 
+      le<lb ed="#P" n="134" break="no"/>gimus puero Elizei montem apparuisse plenum 
+      <lb ed="#P" n="135"/>equorum &amp; curruum igneorum per quos 
+      innumera<lb ed="#P" n="136" break="no"/>bilis exercitus angelorum significabatur de quibus 
+      <lb ed="#P" n="137"/>dixerat Elisaeus: Plures nobiscum sunt quam cum illis. 
+      <lb ed="#P" n="138"/>Manifestius autem hoc suis verbis ostendit Christus 
+      <lb ed="#P" n="139"/>Matth. 26. affirmans patrem sibi posse confestim 
+      <lb ed="#P" n="140"/>exhibere plusquam 12. legiones angelorum. Item 
+      <lb ed="#P" n="141"/>apostolus Judas in sua epistola dicens: Ecce venit 
+      <lb ed="#P" n="142"/>Dominus cum sanctis millibus suis, Graece myriadi¬ 
+      <!--0256.xml-->
+      <pb ed="#P" n="23"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bus. Idem significavit apostolus Heb. 12. nos 
+      ascri<lb ed="#P" n="2" break="no"/>bens ecclesiae in qua est multorum millium 
+      angelo<lb ed="#P" n="3" break="no"/>rum frequentia. Quo loco pro multis millibus 
+      Grae<lb ed="#P" n="4" break="no"/>ca habent myriades, continet autem myrias decem 
+      <lb ed="#P" n="5"/>millia, sed frequenter usurpatur pro multitudine 
+      <lb ed="#P" n="6"/>innumerabili. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e277">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Huc denique pertinet quod multis scripturae locis 
+      <lb ed="#P" n="8"/>Deus vocatur Deus Sabaoth, id est, Deus 
+      exerci<lb ed="#P" n="9" break="no"/>tuum, scilicet ob assistentium sibi militum caelestium, 
+      <lb ed="#P" n="10"/>id est, angelorum immensam numerositatem. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e290">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> Notandum autem scripturam fere loqui de bonis 
+      <lb ed="#P" n="12"/>angelis, quoties numerum eorum praedicat, ut patet 
+      <lb ed="#P" n="13"/>ex testimoniis allatis. Et tamen etiam daemonum 
+      val<lb ed="#P" n="14" break="no"/>de magnam esse multitudinem argumento est, quod 
+      <lb ed="#P" n="15"/>in Evangelio unum hominem legio daemonum 
+      posse<lb ed="#P" n="16" break="no"/>disse legitur. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e308">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Est autem haec de numerositate angelorum 
+      con<lb ed="#P" n="18" break="no"/>cors omnium patrum doctrina, ut Dionysiii lib. de 
+      <lb ed="#P" n="19"/>caelesti Hier. cap. 9. &amp; 14. Hier. &amp; Gregorii locis 
+      <lb ed="#P" n="20"/>jam allegatis. Hugonis Vict. commentantis cap. 14. 
+      <lb ed="#P" n="21"/>lib. cel. Hier. &amp; aliorum. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e324">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Probatur item hoc argumento, quia communis 
+      <lb ed="#P" n="23"/>est Theologorum sententia in scripturis fundata, 
+      <lb ed="#P" n="24"/>non modo provinciis &amp; regnis, verum etiam 
+      ho<lb ed="#P" n="25" break="no"/>minibus singulis singulos esse deputatos angelos ad 
+      <lb ed="#P" n="26"/>custodiam, ut infra docebitur ad dist. 11. Unde 
+      con<lb ed="#P" n="27" break="no"/>sequens est numerum angelorum superare 
+      nume<lb ed="#P" n="28" break="no"/>rum hominum. Siquidem constat praeter angelos 
+      <lb ed="#P" n="29"/>hominum custodes plurimos adhuc alios esse qui 
+      <lb ed="#P" n="30"/>Deo assistunt. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e348">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Probat autem S. Thomas angelos esse numero 
+      <lb ed="#P" n="32"/>valde magno 1. q. 50. a. 3. hac ratione, quano 
+      ali<lb ed="#P" n="33" break="no"/>qua sunt secundum naturam suam perfectiora, 
+      tan<lb ed="#P" n="34" break="no"/>to in majori excessu creata sunt; vel magnitudinis, 
+      <lb ed="#P" n="35"/>si sint corporea; vel multitudinis, si sint incorporea. 
+      <lb ed="#P" n="36"/>Patet hoc de corporibus caelestibus quae caetera 
+      cor<lb ed="#P" n="37" break="no"/>pora magnitudine quasi in immensum excedunt. 
+      <lb ed="#P" n="38"/>Cum igitur angeli in creatura perfectissimi sint, &amp; 
+      <lb ed="#P" n="39"/>magnitudinis incapaces, maxima eorum esse debuit 
+      <lb ed="#P" n="40"/>multitudo, quae ratio nititur huic propositioni, 
+      <lb ed="#P" n="41"/>quia quae sunt in natura perfectiora, sunt magis per 
+      <lb ed="#P" n="42"/>se intenta. Hinc colligit S. Thomas rationabiliter 
+      <lb ed="#P" n="43"/>poni, quod substantiae immateriales, id est, angeli 
+      <lb ed="#P" n="44"/>excedant secundum multitudinem quasi 
+      incompa<lb ed="#P" n="45" break="no"/>rabiliter substantias materiales, praesertim cum id 
+      <lb ed="#P" n="46"/>etiam confirmetur authoritate Dion. cap. 14. cel. 
+      <lb ed="#P" n="47"/>Hier. dicentis ita multos esse caelestium mentium 
+      <lb ed="#P" n="48"/>exercitus, ut infirmam &amp; constrictam nostrorum 
+      <lb ed="#P" n="49"/>materialium numerorum commensurationem 
+      exce<lb ed="#P" n="50" break="no"/>dant. Verum haec doctrina non videtur accipienda 
+      <lb ed="#P" n="51"/>de multitudine rerum materialium secundum 
+      nu<lb ed="#P" n="52" break="no"/>merum, sed tantum secundum speciem; quomodo 
+      <lb ed="#P" n="53"/>etiam ipse S. Thomas suam sententiam exponit 1. 
+      <lb ed="#P" n="54"/>q. 112. art. 6. ad 2. &amp; expressius in quaestionibus de 
+      <lb ed="#P" n="55"/>potentia q. 6. art. 4. in corpore. Unde secundum 
+      <lb ed="#P" n="56"/>hanc doctrinam non est necesse fateri numerum 
+      an<lb ed="#P" n="57" break="no"/>gelorum superare numerum pulveris terrae, &amp; 
+      are<lb ed="#P" n="58" break="no"/>nae maris, &amp; guttarum pluviae, item muscarum, 
+      <lb ed="#P" n="59"/>vermium &amp; hujusmodi, sed rerum omnium species, 
+      <lb ed="#P" n="60"/>non incorruptibilium modo, sed etiam 
+      corruptibi<lb ed="#P" n="61" break="no"/>lium, ut bene declarat <ref xml:id="bt67yj-p008416-Rd1e419">
+                  <name xml:id="bt67yj-p008416-Nd1e421">Cajetanus</name> scribens sup. 1. q. 
+      <lb ed="#P" n="62"/>50. art. 3.</ref>
+            </p>
+            <p xml:id="bt67yj-p008416-d1e428">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Est etiam valde consentaneum ut fateamur 
+      nume<lb ed="#P" n="64" break="no"/>rum angelorum longe excedere numerum 
+      anima<lb ed="#P" n="65" break="no"/>rum rationabilium. Non enim de numero 
+      homi<lb ed="#P" n="66" break="no"/>num cum tanta exaggeratione loquitur scriptura 
+      si<lb ed="#P" n="67" break="no"/>cut de numero angelorum. Quamquam istud statui 
+      <lb ed="#P" n="68"/>non potest ex eo solo, quod singulis hominibus 
+      sin<lb ed="#P" n="69" break="no"/>guli deputati sunt angeli custodes. Posset enim 
+      res<lb ed="#P" n="70" break="no"/>ponderi diversos homines saltem diversis 
+      tempori<lb ed="#P" n="71" break="no"/>bus, &amp; seculis unum eundemque angelum 
+      custo<lb ed="#P" n="72" break="no"/>dem a Deo accipere. Quare potius ad scripturam 
+      <lb ed="#P" n="73"/>&amp; ad rationem modo dictam recurrendum est. Cui 
+      <lb ed="#P" n="74"/>praeterea accedit haec ratio a causa finali desumpta, 
+      <!--0256.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>scilicet angelos ob id tanto numero factos esse ut 
+      <lb ed="#P" n="76"/>magnitudini regis, cujus angeli, id est, nuncii &amp; 
+      <lb ed="#P" n="77"/>ministri sunt, aliquo pacto multitudo eorum 
+      respon<lb ed="#P" n="78" break="no"/>deat. Alludunt ad hanc rationem scripturae quae 
+      <lb ed="#P" n="79"/>Deum vocant Deum exercituum, eumque 
+      descri<lb ed="#P" n="80" break="no"/>bunt ut regem cujus imperio pareat ingens 
+      multitu<lb ed="#P" n="81" break="no"/>do militum ac ministrorum 3. Reg. ult. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e478">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Utrum vero plures sint angeli ministrantes quam 
+      <lb ed="#P" n="83"/>assistentes, ut vult Greg. lib. 17. mor. c. 9. an vero 
+      <lb ed="#P" n="84"/>aequales, aut certe pauciores, quomodo conformiter 
+      <lb ed="#P" n="85"/>cum doctrina Dionysii sentire videtur S. Thom. sup. 
+      <lb ed="#P" n="86"/>hanc d. q. 1. a. 3. dubium relinquitur propter aliam 
+      <lb ed="#P" n="87"/>quaestionem qua quaeritur, utrum omnes mittantur 
+      <lb ed="#P" n="88"/>in ministerium, &amp; aliam illi cohaerentem, quomodo 
+      <lb ed="#P" n="89"/>differant ministrantes ab assistentibus. Quae 
+      tracta<lb ed="#P" n="90" break="no"/>buntur ad dist. 10. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e502">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Gregorii argumentum est, quia indefinite dicitur 
+      <lb ed="#P" n="92"/>apud Dan. Millia millium ministrabant ei, id est, 
+      mil<lb ed="#P" n="93" break="no"/>lia de millibus; sic enim haec verba Gregorius 
+      intel<lb ed="#P" n="94" break="no"/>lexit. Definite autem sequitur; &amp; decies millies 
+      cen<lb ed="#P" n="95" break="no"/>tena millia assistebant ei. Numerus autem indesmitus 
+      <lb ed="#P" n="96"/>significari solet ut major numero definito, quia 
+      poni<lb ed="#P" n="97" break="no"/>tur tanquam innumerabilis. Sed hoc argumentum 
+      <lb ed="#P" n="98"/>nullum videtur, cum sit longe probabilius 
+      utrobi<lb ed="#P" n="99" break="no"/>que poni numerum definitum, priori quidem loco 
+      <lb ed="#P" n="100"/>millia millium, id est, millies mille; posteriori autem 
+      <lb ed="#P" n="101"/>secundum quandam ex Graeco versionem, decies 
+      cen<lb ed="#P" n="102" break="no"/>tena millia, quod idem est, cum priori. Atque ita 
+      <lb ed="#P" n="103"/>significari videbitur numerus utrorumque aequalis. 
+      <lb ed="#P" n="104"/>Secundum nostram vero ex Hebraeo versionem, 
+      de<lb ed="#P" n="105" break="no"/>cies millies centena millia, &amp; secundum 70. Myria 
+      <lb ed="#P" n="106"/>myriadum, id est, decies millies decem millia, quae 
+      <lb ed="#P" n="107"/>duae lectiones etsi inter se diversae majorem 
+      expri<lb ed="#P" n="108" break="no"/>munt numerum assistentium, quam ministrantium; 
+      <lb ed="#P" n="109"/>licet ut supra diximus tam in ministrantibus quam in 
+      <lb ed="#P" n="110"/>assistentibus, intelligi debeat numerus definitus pro 
+      <lb ed="#P" n="111"/>indefinito. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e552">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Illud sane probabiliter hoc loco dici potest juxta 
+      <lb ed="#P" n="113"/>rationem numerositatis angelorum ex S. Thoma 
+      al<lb ed="#P" n="114" break="no"/>latam, quanto quisque ordo angelorum superior est 
+      <lb ed="#P" n="115"/>&amp; perfectior, tanto eum esse numerosiorem, 
+      quan<lb ed="#P" n="116" break="no"/>doquidem &amp; in corporibus mundi principalibus 
+      <lb ed="#P" n="117"/>quanto unumquodque perfectius est, eo &amp; sublimius 
+      <lb ed="#P" n="118"/>est loco, &amp; amplitudine majus. 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e572">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Conducit autem haec doctrina ad hoc ut sicut ex 
+      <lb ed="#P" n="120"/>magnitudine caelestium corporum, ita etiam ac 
+      <lb ed="#P" n="121"/>multo magis ex multitudine caelestium spirituum 
+      <lb ed="#P" n="122"/>excitemur in admirationem &amp; laudem potentiae &amp; 
+      <lb ed="#P" n="123"/>magnificentiae Dei, maxime si cogitemus unum 
+      an<lb ed="#P" n="124" break="no"/>gelum naturae dignitate praestare toto mundo 
+      cor<lb ed="#P" n="125" break="no"/>poreo. 
+      <lb ed="#P" n="126"/>E 
+    </p>
+            <p xml:id="bt67yj-p008416-d1e594">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Restat unica solvenda objectio ex Deut. 32. ubi 
+      se<lb ed="#P" n="128" break="no"/>cundum 70. legitur haec de Deo sententia; Constituis 
+      <lb ed="#P" n="129"/>terminos gentium juxta numerum angelorum Dei. 
+      Un<lb ed="#P" n="130" break="no"/>de apparet numerum angelorum respondere numero 
+      <lb ed="#P" n="131"/>gentium, seu populorum totius mundi, &amp; proinde 
+      <lb ed="#P" n="132"/>eum multo minorem esse numero hominum. 
+      Res<lb ed="#P" n="133" break="no"/>ponderi posset, sententiam esse intelligendam non 
+      <lb ed="#P" n="134"/>de omnibus angelis, sed de iis solis quos Deus esse 
+      <lb ed="#P" n="135"/>voluit principes populorum. Verum juxta literam 
+      <lb ed="#P" n="136"/>Hebraicae versionis quae pro angelis Dei habet filios 
+      <lb ed="#P" n="137"/>Israel, longe alius est sensus, scilicet Deum quando 
+      <lb ed="#P" n="138"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="139"/>regiones mundi gentibus distribuit, ita terminos 
+      ea<lb ed="#P" n="140" break="no"/>rum constituisse, ut servaret optimam quandam 
+      ter<lb ed="#P" n="141" break="no"/>rae portionem, quae abunde sufficeret pro numero, 
+      <lb ed="#P" n="142"/>id est, multitudine filiorum Israel. Nec dissentiunt 
+      <lb ed="#P" n="143"/>70. interpretes, siquidem per angelos Dei, filios 
+      <lb ed="#P" n="144"/>Israel possumus intelligere. Hinc autem etiam eorum 
+      <lb ed="#P" n="145"/>subvertitur fundamentum, qui ex eadem scriptura 
+      <lb ed="#P" n="146"/>collegerunt tot ex hominibus ad societatem 
+      angelo<lb ed="#P" n="147" break="no"/>rum assumendos esse, quot in caelo angeli 
+      remanse<lb ed="#P" n="148" break="no"/>runt; quasi per terminos gentium significatus sit 
+      nu<lb ed="#P" n="149" break="no"/>merus hominum electorum. Quae opinio quo loco 
+      <lb ed="#P" n="150"/>habenda sit, dicemus <ref xml:id="bt67yj-p008416-Rd1e652">infra ad dist. 6.</ref>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="99"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p038194"><!-- l2d9c2" -->
+            <head xml:id="bt67yj-p038194-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p038194-Hd1e103" type="question-title">Quae singulorum ordinum proprietates</head>
+            <p xml:id="bt67yj-p038194-d1e106">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> §. 2. Quae singulorum ordinum proprietates?
+    </p>
+            <p xml:id="bt67yj-p038194-d1e113">
+               <lb ed="#P" n="99"/>PRoprietates quibus inter se ordines angelici 
+      di<lb ed="#P" n="100" break="no"/>stinguuntur, probabiliter petuntur ab ipsis 
+      eo<lb ed="#P" n="101" break="no"/>rum nominibus. Nomina enim rebus a 
+      proprietati<lb ed="#P" n="102" break="no"/>bus imponi solent, quod praesertim locum habere 
+      <lb ed="#P" n="103"/>debet in angelis, quorum nomina non ad aliud 
+      ser<lb ed="#P" n="104" break="no"/>viunt quam ut ipsi per ea nobis innotescant. Qua 
+      <lb ed="#P" n="105"/>autem proprietates nominibus ordinum significatae 
+      <lb ed="#P" n="106"/>sint, docte expositum est a Dionysio libr. caelestis 
+      <lb ed="#P" n="107"/>hicrarchiae capite 7. 8. &amp; 9. &amp; a Gregorio homilia 
+      <lb ed="#P" n="108"/>34. super evangelia, &amp; a <name xml:id="bt67yj-p038194-Nd1e136">Bernardo</name> loco proxime 
+      ci<lb ed="#P" n="109" break="no"/>tato de consideratione. Quorum duos priores 
+      inse<lb ed="#P" n="110" break="no"/>cutus S. Thomas prima parte quaest. 108. art. 5. &amp; 
+      <lb ed="#P" n="111"/>6. luculente satis nominum &amp; graduum 
+      angelico<lb ed="#P" n="112" break="no"/>tum rationem declarat. Est autem secundum 
+      Dio<lb ed="#P" n="113" break="no"/>nysium, Nazianzenum &amp; Damascenum Graecos 
+      <lb ed="#P" n="114"/>authores haec collocatio caelestium agminum per 
+      <lb ed="#P" n="115"/>tres hierarchias &amp; novem ordines, ut prima, id est, 
+      <lb ed="#P" n="116"/>summa hicrarchia complectatur Seraphim, 
+      Cheru<lb ed="#P" n="117" break="no"/>bim, Thronos: Secunda, dominationes, virtutes, 
+      <lb ed="#P" n="118"/>potestates; Tertia, principatus, archangelos, 
+      an<lb ed="#P" n="119" break="no"/>gelos. At secundum Latinos Gregorium, 
+      Bernar<lb ed="#P" n="120" break="no"/>dum, Magistrum, &amp; Scholasticos, prima quidem 
+      <lb ed="#P" n="121"/>hierarchia similiter se habet: media vero continet 
+      <lb ed="#P" n="122"/>dominationes, principatus, potestates, &amp; infima, 
+      <lb ed="#P" n="123"/>virtutes, archangelos, angelos. Priorem 
+      enume<lb ed="#P" n="124" break="no"/>rationis ordinem diximus fundatum videri in 
+      epi<lb ed="#P" n="125" break="no"/>stola Pauli Ephes. 1. Posteriorem in ejusdem 
+      episto<lb ed="#P" n="126" break="no"/>la Colos. 1. Atque hunc ordinem a Latinis receptum 
+      <lb ed="#P" n="127"/>nos etiam sequentes, hanc singulorum nominum 
+      <lb ed="#P" n="128"/>rationem ex supra dictis authoribus rationabiliter 
+      <lb ed="#P" n="129"/>reddere possumus. Angeli dicuntur, vel qui 
+      mino<lb ed="#P" n="130" break="no"/>ra nunciant, ut Gregorius exponit; vel qui 
+      singu<lb ed="#P" n="131" break="no"/>lis hominibus dati sunt in custodiam, ut vult 
+      Ber<lb ed="#P" n="132" break="no"/>nardus. Archangeli secundum utrumque qui 
+      ma<lb ed="#P" n="133" break="no"/>jora nunciant; secundum alios qui praefecturas 
+      ha<lb ed="#P" n="134" break="no"/>bent non in singulos homines, sed in multitudinem, 
+      <lb ed="#P" n="135"/>quales sunt qui apud Daniel. cap. 10. principes 
+      re<lb ed="#P" n="136" break="no"/>gnorum dicuntur. Virtutes secundum utrumque 
+      vo<lb ed="#P" n="137" break="no"/>cantur illi, per quos signa &amp; miracula fiunt. 
+      No<lb ed="#P" n="138" break="no"/>tandum autem quod Ecclesia hunc ordinem in 
+      of<lb ed="#P" n="139" break="no"/>ficio divino vocat virtutes caelorum; nimirum 
+      res<lb ed="#P" n="140" break="no"/>piciens ad locum evangelii Matth. 24. &amp; Luc. 21. 
+      <lb ed="#P" n="141"/>ubi dicitur quod Christo ad judicium venturo 
+      vir<lb ed="#P" n="142" break="no"/>tutes calorum commovebuntur. Quo etiam 
+      Bernar<lb ed="#P" n="143" break="no"/>dus respexit. Unde videri posset ad hunc 
+      ordi<lb ed="#P" n="144" break="no"/>nem pertinere solas intelligentias caelorum 
+      mo<lb ed="#P" n="145" break="no"/>trices. Quod si ita sit, perexiguus erit numerus 
+      <!--0333.xml-->
+      <pb ed="#P" n="100"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>angelorum hoc ordine comprehensorum, scilicet A 
+      <lb ed="#P" n="2"/>pro numero caelorum quos movent. Quare potius 
+      <lb ed="#P" n="3"/>dicendum virtutes caelorum non dici quod caelos 
+      <lb ed="#P" n="4"/>moveant, sed quia sunt in caelis tanquam 
+      habitacu<lb ed="#P" n="5" break="no"/>lo, quasi dicas exercitus caelestes. Hoc enim nomen 
+      <lb ed="#P" n="6"/>angelis attributum habemus 3. Reg. ultim. &amp; 2. 
+      <lb ed="#P" n="7"/>Paralip. 18. sicut &amp; Luc. 2. vocantur militia caelestis. 
+      <lb ed="#P" n="8"/>Exercitus autem vocari virtutes inde ostenditur, 
+      <lb ed="#P" n="9"/>quod in scripturis indifferenter modo Deum 
+      virtu<lb ed="#P" n="10" break="no"/>tum, modo Deum exercituum nominatum legimus. 
+      <lb ed="#P" n="11"/>Nec male tamen virtutibus ut nomen est tertii 
+      or<lb ed="#P" n="12" break="no"/>dinis, operatio miraculorum ascribitur, quia de 
+      si<lb ed="#P" n="13" break="no"/>gnis &amp; prodigiis in caelo &amp; in terra apparituris 
+      lo<lb ed="#P" n="14" break="no"/>quebatur Dominus, quando dixit virtutes caelorum 
+      <lb ed="#P" n="15"/>commovendas. Id quod etiam a Bernardo 
+      observa<lb ed="#P" n="16" break="no"/>tum est. Potestates secundum utrumque praedictum 
+      <lb ed="#P" n="17"/>authorem sunt, quorum ministerio potestas 
+      princi<lb ed="#P" n="18" break="no"/>pis tenebrarum cohibetur, ne quantum vult, 
+      no<lb ed="#P" n="19" break="no"/>ceat. Principatus sunt, qui subjectis angelis ad 
+      ex<lb ed="#P" n="20" break="no"/>plendum divina ministeria principantur, 
+      disponen<lb ed="#P" n="21" break="no"/>do quae singulis agersda sunt, ut interpretatur 
+      Gre<lb ed="#P" n="22" break="no"/>gorius; vel ut Bernardus, quorum moderamine 
+      om<lb ed="#P" n="23" break="no"/>nis in terris principatus constituitur, regitur ac 
+      mu<lb ed="#P" n="24" break="no"/>tatur. Dominationes, secundum eosdem aubores, 
+      <lb ed="#P" n="25"/>dicuntur, qui praedictis ordinibus sic supereminent, 
+      <lb ed="#P" n="26"/>ut eorum respectu caeteri videantur omnes 
+      admini<lb ed="#P" n="27" break="no"/>stratorii spiritus, &amp; ad istos tanquam ad dominos 
+      <lb ed="#P" n="28"/>omne eorum officium referatur Throni, id est, 
+      se<lb ed="#P" n="29" break="no"/>des in quibus Deus sedere ideo dicitur secundum 
+      Gre<lb ed="#P" n="30" break="no"/>gorium quia per eos judicia decernit, &amp; ut ait 
+      Ber<lb ed="#P" n="31" break="no"/>nardus, omnia cum tranquillitate judicat; vel 
+      se<lb ed="#P" n="32" break="no"/>cundum S. Thom. qui prae subjectis ordinibus eam 
+      <lb ed="#P" n="33"/>habent excellentiam, quod immediate in Deo 
+      ra<lb ed="#P" n="34" break="no"/>tiones divinorum operum cognoscant Cherubim a 
+      <lb ed="#P" n="35"/>scientia dicti, quod tantam habeant scientiae ac 
+      sa<lb ed="#P" n="36" break="no"/>pientiae plenitudinem, ut eam velut refundant in 
+      or<lb ed="#P" n="37" break="no"/>dines subjectos. Seraphim ab ardore quod toti 
+      divi<lb ed="#P" n="38" break="no"/>no amore succensi succendant &amp; alios ad Deum 
+      ar<lb ed="#P" n="39" break="no"/>denter amandum. 
+    </p>
+            <p xml:id="bt67yj-p038194-d1e311">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> In his porro angelicis ordinibus observandum est 
+      <lb ed="#P" n="41"/>omnem excellentiam cujuscumque inferioris 
+      ordi<lb ed="#P" n="42" break="no"/>nis contineri in excellentia cujuscumque superioris, 
+      <lb ed="#P" n="43"/>non contra. Quamvis enim omnes spirituales 
+      per<lb ed="#P" n="44" break="no"/>fectiones sint omnibus angelis communes, non 
+      ta<lb ed="#P" n="45" break="no"/>men aequaliter. Nam superiores ordines ut naturae 
+      <lb ed="#P" n="46"/>conditione caeteris capaciores sunt, ita plenius &amp; 
+      <lb ed="#P" n="47"/>perfectius Dei dona participant; cumque in ipsis 
+      <lb ed="#P" n="48"/>etiam perfectionibus sit quidam gradus, perfectio 
+      <lb ed="#P" n="49"/>superior attribuitur superiori ordini per 
+      proprieta<lb ed="#P" n="50" break="no"/>tem, inferiori vero per participationem. At e 
+      con<lb ed="#P" n="51" break="no"/>verso perfectio inferior attribuitur inferiori per 
+      pro<lb ed="#P" n="52" break="no"/>prietatem, superiori vero per excessum. Atque ita fit 
+      <lb ed="#P" n="53"/>ut superior ordo a superiori perfectione nomen 
+      sor<lb ed="#P" n="54" break="no"/>tiatur, ut docet S. Thomas art. 5. supra dictae 
+      quae<lb ed="#P" n="55" break="no"/>stionis in corpore. 
+    </p>
+            <p xml:id="bt67yj-p038194-d1e351">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Etsi vero maximum Dei donum &amp; proinde 
+      maxi<lb ed="#P" n="57" break="no"/>ma perfectio sit Deum videre sicuti est, utpote in 
+      <lb ed="#P" n="58"/>quo sita sit intellectualis creaturae summa felicitas: 
+      <lb ed="#P" n="59"/>idcirco tamen non Cherubim, quod a scientia 
+      dici<lb ed="#P" n="60" break="no"/>tur, sed Seraphim quod ab ardore, id est, amore, 
+      <lb ed="#P" n="61"/>primi ordinis nomen est, quia ut recte docet 
+      Magi<lb ed="#P" n="62" break="no"/>ster majus donum est charitas quam scientia. Quod 
+      <lb ed="#P" n="63"/>intellige pro statu hujus vitae. Nam in statu 
+      beati<lb ed="#P" n="64" break="no"/>fico visio Dei praecellit caetera dona. Sunt autem 
+      an<lb ed="#P" n="65" break="no"/>gelis &amp; angelorum ordinibus indita nomina non 
+      pro<lb ed="#P" n="66" break="no"/>pter ipsos sed nostri causa, quibus charitas tanquam 
+      <lb ed="#P" n="67"/>excellentissimum Dei donum inter ea quae in hac 
+      vi<lb ed="#P" n="68" break="no"/>ta consequi possumus, ab Apostolo commendatur 
+      <lb ed="#P" n="69"/>1. Corinth. 13. 
+    </p>
+            <p xml:id="bt67yj-p038194-d1e386">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Denique sciendum non omnem distinctionem 
+      gra<lb ed="#P" n="71" break="no"/>duum &amp; officiorum angelicorum a nobis 
+      cogno<lb ed="#P" n="72" break="no"/>sci. Cum enim valde imperfectam de angelis 
+      noti<lb ed="#P" n="73" break="no"/>tiam acceperimus, ut testatur Dionysius libro 
+      caele<lb ed="#P" n="74" break="no"/>stis hierarchiae capite sexto, non nisi in communi 
+      <!--0333.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ordines eorum &amp; officia distinguere possumus, 
+      se<lb ed="#P" n="76" break="no"/>cundum quem modum multi angeli sub uno ordine 
+      <lb ed="#P" n="77"/>continentur, cum alioqui &amp; in uno eodemque 
+      or<lb ed="#P" n="78" break="no"/>dine sit accipere primos, medios &amp; ultimos, scilicet 
+      <lb ed="#P" n="79"/>secundum accessum vel recessum ab ordine 
+      superio<lb ed="#P" n="80" break="no"/>ri, quemadmodum docet idem S. Dionysius 
+      ejus<lb ed="#P" n="81" break="no"/>dem libri capit. quarto &amp; decimo. Quo pertinet 
+      <lb ed="#P" n="82"/>etiam illud quod Magister in textu docet, &amp; 
+      con<lb ed="#P" n="83" break="no"/>venienter probat nec ejusdem ordinis omnes 
+      ange<lb ed="#P" n="84" break="no"/>los inter se esse aut fuisse ab initio aequales, 
+      quan<lb ed="#P" n="85" break="no"/>doquidem Lucifer quamvis esset in primo ordine, 
+      <lb ed="#P" n="86"/>caeteros tamen ejusdem ordinis omnes antecelluit. 
+      <lb ed="#P" n="87"/>Quod si perfecte officia &amp; differentias angelorum 
+      <lb ed="#P" n="88"/>cognosceremus, perfecte etiam sciremus 
+      unum<lb ed="#P" n="89" break="no"/>quemque angelum habere suum proprium 
+      offi<lb ed="#P" n="90" break="no"/>cium, &amp; suum proprium ordinem in rebus, sicut 
+      <lb ed="#P" n="91"/>habet unaquaeque stella, ut ait S. Thomas articulo 
+      <lb ed="#P" n="92"/>tertio quaestionis supra citatae. Quare licet omnes 
+      <lb ed="#P" n="93"/>angeli ejusdem ordinis in communi quodam &amp; illi 
+      <lb ed="#P" n="94"/>ordini proprio officio conveniant, minime tamen 
+      <lb ed="#P" n="95"/>existimandum est eos omnes simpliciter natura pares 
+      <lb ed="#P" n="96"/>esse. Quin potius admodum congruit ordini totius 
+      <lb ed="#P" n="97"/>universi in tota universitate angelorum ne duos 
+      qui<lb ed="#P" n="98" break="no"/>dem reperiri ita pares aut similes, ut non alter 
+      al<lb ed="#P" n="99" break="no"/>terum naturae simul &amp; gratiae dotibus antecellat, 
+      <lb ed="#P" n="100"/>ut &amp; alibi diximus. Idque omnino fatendum 
+      secun<lb ed="#P" n="101" break="no"/>dum eam opinionem, quae ponit omnes angelos 
+      in<lb ed="#P" n="102" break="no"/>ter se specie differre, quae diversae species sunt ut 
+      di<lb ed="#P" n="103" break="no"/>versi numeri, quorum alius semper alium unitate aut 
+      <lb ed="#P" n="104"/>unitatibus excedit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="66"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p025328"><!-- l2d7c9" -->
+            <head xml:id="bt67yj-p025328-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p025328-Hd1e103" type="question-title">Nullam creaturam natura impeccabilem esse</head>
+            <p xml:id="bt67yj-p025328-d1e106">
+               <lb ed="#P" n="4"/>§. 9. Nullam creaturam natura impeccabilem esse. 
+    </p>
+            <p xml:id="bt67yj-p025328-d1e111">
+               <lb ed="#P" n="5"/>QUamvis ita confirmati sint in bono sancti 
+      an<lb ed="#P" n="6" break="no"/>geli, ut peccare jam non possint adeo, ut illis 
+      <lb ed="#P" n="7"/>felix illa peccandi impotentia quasi versa sit in 
+      natu<lb ed="#P" n="8" break="no"/>ram, simpliciter tamen non est dicendum 
+      angeli<lb ed="#P" n="9" break="no"/>cam vel ullam aliam creaturam intellectualem quam 
+      <lb ed="#P" n="10"/>vel fecit vel facere possit Deus, ex sua natura 
+      impec<lb ed="#P" n="11" break="no"/>cabilem esse, sed cuicumque creaturae hoc convenit, 
+      <lb ed="#P" n="12"/>quod peccare non possit, hoc habet ex dono gratiae, 
+      <lb ed="#P" n="13"/>non ex conditione naturae, ut ait S. Thomas prima 
+      <lb ed="#P" n="14"/>parte quaestione sexagesimatertia articulo primo, ubi 
+      <lb ed="#P" n="15"/>&amp; hanc addit rationem; quia peccare nihil est aliud 
+      <lb ed="#P" n="16"/>quam declinare a rectitudine actus quam debet 
+      ha<lb ed="#P" n="17" break="no"/>bere, sive peccatum accipiatur in naturalibus, sive 
+      <lb ed="#P" n="18"/>in artificialibus, sive in moralibus. Solum autem 
+      <lb ed="#P" n="19"/>illum actum a rectitudine declinare non contingit, 
+      <lb ed="#P" n="20"/>cujus regula est ipsa virtus agentis. Si enim, inquit, 
+      <lb ed="#P" n="21"/>manus artificis esset ipsa regula incisionis, nunquam 
+      <lb ed="#P" n="22"/>posset artifex nisi recte lignum incidere. Cum ergo 
+      <lb ed="#P" n="23"/>sola divina voluntas sit regula sui actus, quia non ad 
+      <lb ed="#P" n="24"/>superiorem finem ordinatur, cujustibet autem 
+      crea<lb ed="#P" n="25" break="no"/>turae voluntas rectitudinem sui actus accipere debeas 
+      <lb ed="#P" n="26"/>a regula voluntatis divinae, ad quam pertinet 
+      ulti<lb ed="#P" n="27" break="no"/>mus finis; perspicuum est in sola voluntate divina 
+      <lb ed="#P" n="28"/>non posse esse peccatum, in qualibet autem 
+      volun<lb ed="#P" n="29" break="no"/>tate creaturae posse esse secundum conditionem sua 
+      <lb ed="#P" n="30"/>naturae. 
+    </p>
+            <p xml:id="bt67yj-p025328-d1e170">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Breviter idem hac ratione probatur, quia omnis 
+      <lb ed="#P" n="32"/>creatura facta est ex nihilo, &amp; proinde sicut in nihi 
+      <lb ed="#P" n="33"/>lum redigi potest, ita &amp; in actu suo deficere. 
+    </p>
+            <p xml:id="bt67yj-p025328-d1e182">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Et quidem in angelis id manifestum est ex eo, quia 
+      <lb ed="#P" n="35"/>ante confirmationem peccare potuerunt, sicut &amp; alii 
+      <lb ed="#P" n="36"/>ejusdem naturae peccaverunt. Quare cum per 
+      confir<lb ed="#P" n="37" break="no"/>mationem non sit eorum mutata natura, patet non 
+      <lb ed="#P" n="38"/>natura sed Dei gratia eos impeccabiles esse. Quin 
+      <lb ed="#P" n="39"/>etiamsi ab initio tales conditi fuissent, quales nunc 
+      <lb ed="#P" n="40"/>per gratiam confirmationis facti sunt, nec sic 
+      ta<lb ed="#P" n="41" break="no"/>men ex conditione naturae impeccabiles essent, sed 
+      <lb ed="#P" n="42"/>ex dono gratiae, quod etsi hactenus naturale dici 
+      <lb ed="#P" n="43"/>posset, quia cum ipsa natura datum esset &amp; in 
+      natu<lb ed="#P" n="44" break="no"/>ra insitum, eadem tamen natura atque essentia salva 
+      <lb ed="#P" n="45"/>posset auferri. 
+    </p>
+            <p xml:id="bt67yj-p025328-d1e213">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Facile est autem hujus doctrinae probationem ex 
+      <lb ed="#P" n="47"/>patribus accipere. Nam Augustinus libro tertio 
+      con<lb ed="#P" n="48" break="no"/>tra Maximinum capite duodecimo diserte ait: 
+      Cui<lb ed="#P" n="49" break="no"/>cumque creaturae rationali praestatur ut peccare non 
+      <lb ed="#P" n="50"/>possit, non est hoc natura propriae, sed Dei gratiae; 
+      <lb ed="#P" n="51"/>ideóque solus Deus est qui non gratia cujuspiam, 
+      <lb ed="#P" n="52"/>sed natura sua non potuit nec potest, nec poterit 
+      pecca<lb ed="#P" n="53" break="no"/>re. Verba recitantur etiam a Magistro §. C. 
+      Ful<lb ed="#P" n="54" break="no"/>gentius autem libro de fide ad Petrum capite 
+      vicesi<lb ed="#P" n="55" break="no"/>motertio adeo certum hoc habuit, ut retulerit 
+      in<lb ed="#P" n="56" break="no"/>ter dogmata fidei. 
+    </p>
+            <p xml:id="bt67yj-p025328-d1e242">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Videtur quoque Hieronymus hoc significare 
+      vo<lb ed="#P" n="58" break="no"/>luisse quando in epistola ad Damasum de filio 
+      pro<lb ed="#P" n="59" break="no"/>digo affirmat solum Deum esse in quem peccatum 
+      <lb ed="#P" n="60"/>non cadat, caetera quae liberi sunt arbitrii, flecti 
+      pos<lb ed="#P" n="61" break="no"/>se in utramque partem, id est, ad bonum &amp; malum. 
+      <lb ed="#P" n="62"/>Quo loco etiam ad angelos extendit illud psalmi 
+      <lb ed="#P" n="63"/>.142. Non justificabitur in conspectu tuo omnis vivens, 
+      <lb ed="#P" n="64"/>non quod peccatum in iis sit aut fuerit, sed quod in 
+      <lb ed="#P" n="65"/>iis non reperiatur illa omnibus numeris absoluta &amp; 
+      <lb ed="#P" n="66"/>inflectibilis justitia, qualis est justitia Dei. Unde 
+      <lb ed="#P" n="67"/>&amp; libro secundo contra Jovinianum capite tertio sic 
+      <lb ed="#P" n="68"/>de angelis loquitur: Qui cum creaturae sint, possunt 
+      <lb ed="#P" n="69"/>utique recipere poccatum, nimirum illius 
+      possibilita<lb ed="#P" n="70" break="no"/>tis causam ex eo reddens quod sunt creaturae. Et 
+      ibi<lb ed="#P" n="71" break="no"/>dem. Omnis creatura in vitio est: quia licet non pec¬ 
+      <!--0299.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>caverit, tamen potuit peccare. Similiter Prudentius in 
+      <lb ed="#P" n="73"/>apotheosi cap. de natura animae, sic canit de angelo: 
+      <lb ed="#P" n="74"/>peccat quia factus &amp; ipse est, non genitus, &amp;c. unde 
+      <lb ed="#P" n="75"/>&amp; subdit de Deo. Solus labe caret peccati conditor 
+      or<lb ed="#P" n="76" break="no"/>bis, &amp;c. Et infra: Suspice quapropter solum 
+      inculpa<lb ed="#P" n="77" break="no"/>bile numen. 
+    </p>
+            <p xml:id="bt67yj-p025328-d1e297">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Nec profecto aliud velle videntur patres, quando 
+      <lb ed="#P" n="79"/>dicunt interdum solum Deum peccato carere, quam 
+      <lb ed="#P" n="80"/>quod sola divina natura sit expers &amp; incapax 
+      pecca<lb ed="#P" n="81" break="no"/>ti, ut Ambrosius epistola tertia ad Simplicianum: 
+      <lb ed="#P" n="82"/>Nihil peccare, inquit, solius Dei est, &amp; super illud 
+      <lb ed="#P" n="83"/>psalmiI18. Erravi sicut ovis, Solus Deus sine 
+      pecca<lb ed="#P" n="84" break="no"/>to, &amp; libro tertio de spiritu sancto capite 
+      decimono<lb ed="#P" n="85" break="no"/>no; Nemo sine peccato, nisi unus Deus, quod postea 
+      <lb ed="#P" n="86"/>sic exponit: Omnis creatura peccatorum capacitati 
+      <lb ed="#P" n="87"/>obnoxia est, sola divinitas a peccato immunis. Idem 
+      <lb ed="#P" n="88"/>libro tertio de fide capite secundo, eandem rem his 
+      <lb ed="#P" n="89"/>verbis aperte declarat: Omnis rationalis creatura 
+      <lb ed="#P" n="90"/>accidentia recipit, &amp; subjecta judicio est. In 
+      acci<lb ed="#P" n="91" break="no"/>dentibus autem &amp; poena judicii &amp; corruptela est &amp; 
+      <lb ed="#P" n="92"/>profectus. Unde &amp; Ecclesiastes ait: Quoniam omne 
+      <lb ed="#P" n="93"/>opus suum Deus adducet in judicium; ergo 
+      corrupte<lb ed="#P" n="94" break="no"/>lae &amp; mortis etiamsi non moriatur aut peccet, capax 
+      <lb ed="#P" n="95"/>tamen est omnis creatura, nec ex immortali naturae 
+      <lb ed="#P" n="96"/>habet, sed ex disciplina vel gratia, si se in aliquibus 
+      <lb ed="#P" n="97"/>ad vitia non mutat. Alia ergo immortalitas quae 
+      dona<lb ed="#P" n="98" break="no"/>tur, alia quae sine capacital emutabilitatis est semper. 
+      <lb ed="#P" n="99"/>Haec Ambros. Et hoc forte voluit ille qui dixit Job 
+      <lb ed="#P" n="100"/>4. Ecce qui serviunt ei non sunt stabiles, quasi dicat, 
+      <lb ed="#P" n="101"/>quantum est ex ipsorum natura deficere &amp; cadere 
+      <lb ed="#P" n="102"/>possunt. Eodem sensu procul dubio intelligendum 
+      <lb ed="#P" n="103"/>quod Aug. dicit lib. de unitate ecclesiae c. 16. solum 
+      <lb ed="#P" n="104"/>Deum sine peccato esse. Nam alioqui non est 
+      du<lb ed="#P" n="105" break="no"/>bium quin ex Augustini sententia boni angeli adeo 
+      <lb ed="#P" n="106"/>sine peccato sint ut peccare non possint, 
+      quemadmo<lb ed="#P" n="107" break="no"/>dum suo loco probatum est. Verum id eis ex gratia 
+      <lb ed="#P" n="108"/>competit non ex natura. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="73"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p028236"><!-- l2d7c14" -->
+            <head xml:id="bt67yj-p028236-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-p028236-Hd1e103" type="question-title">Scientia daemonum quam late pateat</head>
+            <p xml:id="bt67yj-p028236-d1e106">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> §. 14. Scientia daemonum quam late pateat.
+    </p>
+            <p xml:id="bt67yj-p028236-d1e113">
+               <lb ed="#P" n="67"/>QUae superius de scientia angelorum dicta sunt, 
+      <lb ed="#P" n="68"/>utrum etiam ad daemones quorum spiritualis 
+      <lb ed="#P" n="69"/>natura infecta est peccato, extendi debeant; quaeri 
+      <lb ed="#P" n="70"/>potest. Nam intellectum eorum peccato 
+      obtene<lb ed="#P" n="71" break="no"/>bratum esse non est dubium. Consistit autem ea 
+      <!--0306.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>obtenebratio in ignorantia rerum quas scire 
+      opor<lb ed="#P" n="73" break="no"/>tet aut convenit. Quare quantum ignorantiae 
+      dae<lb ed="#P" n="74" break="no"/>monibus per peccatum accessit, tantum decessit 
+      <lb ed="#P" n="75"/>scientiae, quam tamen non omnem ab iis 
+      abla<lb ed="#P" n="76" break="no"/>tam esse certissime constat, maxime si nómine 
+      <lb ed="#P" n="77"/>scientiae generaliter intelligamus notitiam 
+      cujus<lb ed="#P" n="78" break="no"/>cumque veritatis. Hac enim ab iis sublata nec 
+      <lb ed="#P" n="79"/>scirent se esse, nec miseros esse, nec aeternis 
+      poe<lb ed="#P" n="80" break="no"/>nis addictos. Unde &amp; poena damnationis eorum 
+      <lb ed="#P" n="81"/>vel nulla esset, vel multo minor esset quam 
+      se<lb ed="#P" n="82" break="no"/>cundum scripturas credi debet, cum ea 
+      potissi<lb ed="#P" n="83" break="no"/>mum in hoc consistat, quod damnatus certo 
+      <lb ed="#P" n="84"/>sciat damnationis suae poenam nunquam 
+      termi<lb ed="#P" n="85" break="no"/>nandam. Quod autem multarum rerum 
+      cogni<lb ed="#P" n="86" break="no"/>tione praediti sint daemones, multis argumentis 
+      <lb ed="#P" n="87"/>ostenditur. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e165">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Atque imprimis id arguit ipsum nomen 
+      daemo<lb ed="#P" n="89" break="no"/>num, quod malignis spiritibus tam sacrae literae 
+      <lb ed="#P" n="90"/>quam profanae passim attribuunt. Daemones enim 
+      <lb ed="#P" n="91"/>a Graecis tanquam scientes &amp; gnaros multarum 
+      <lb ed="#P" n="92"/>rerum dictos esse tradunt Lactantius libro secundo 
+      <lb ed="#P" n="93"/>divinarum institutionum capite decimo quarto, &amp; 
+      <lb ed="#P" n="94"/>Sanctus Augustinus libro nono de Civitate Dei, 
+      ca<lb ed="#P" n="95" break="no"/>pite vigesimo, &amp; ante eos Plato in Cratylo: Idem 
+      <lb ed="#P" n="96"/>vero Sanctus Augustinus ejusdem libri capite 19. 
+      <lb ed="#P" n="97"/>affirmat non modo in literis sacris daemonis 
+      voca<lb ed="#P" n="98" break="no"/>bulum semper in malam partem accipi, verum 
+      <lb ed="#P" n="99"/>etiam apud authores seculares vix unquam in 
+      bo<lb ed="#P" n="100" break="no"/>nam partem acceptum reperiri. Quamobrem apud 
+      <lb ed="#P" n="101"/>Socratem libro tertio historiae capite decimonono, 
+      <lb ed="#P" n="102"/>&amp; Nicephorum libro decimo, capite tricesimosexto, 
+      <lb ed="#P" n="103"/>taxatur imprudentia Libanii sophistae qui Julianum 
+      <lb ed="#P" n="104"/>apostatam laudare volens dixerit: O daemonum 
+      <lb ed="#P" n="105"/>alumne, daemonum sectator, daemonum assessor; cum 
+      <lb ed="#P" n="106"/>vocabulum daemonis etsi medium, proclivius 
+      ta<lb ed="#P" n="107" break="no"/>men intelligeretur in malam partem. Adde quod 
+      <lb ed="#P" n="108"/>scriptura Genes. 3. 2. Corinth. 2. &amp; 11. atque alibi 
+      <lb ed="#P" n="109"/>diabolo ac caeteris daemonibus tribuit calliditatem 
+      <lb ed="#P" n="110"/>&amp; versutiam, quae quidem sine multa rerum 
+      cogni<lb ed="#P" n="111" break="no"/>tione esse non solet. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e223">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Insuper id arguunt multiplices eorum 
+      operatio<lb ed="#P" n="113" break="no"/>nes mirabiles ac specie tenus miraculosae, quibus 
+      <lb ed="#P" n="114"/>vel seducere vel aperte nocere conantur 
+      homini<lb ed="#P" n="115" break="no"/>bus. Eas enim efficiunt applicando activa passivis, 
+      <lb ed="#P" n="116"/>&amp; varie contemperando causas naturales. Quod 
+      <lb ed="#P" n="117"/>certe non possent, nisi rerum naturas bene cognitas 
+      <lb ed="#P" n="118"/>haberent. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e243">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> His accedunt tres modi quibus patres docent 
+      dae<lb ed="#P" n="120" break="no"/>mones rerum cognitionem accipere. Primus est per 
+      <lb ed="#P" n="121"/>naturae subtilitatem. Licet enim privati sint lumine 
+      <lb ed="#P" n="122"/>gratiae, remanent tamen lucidi lumine intellectualis 
+      <lb ed="#P" n="123"/>naturae. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e259">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> Secundus, per revelationem sanctorum 
+      angelo<lb ed="#P" n="125" break="no"/>rum, qui secundum Dei voluntatem sicut 
+      homini<lb ed="#P" n="126" break="no"/>bus, ita &amp; daemonibus interdum secreta quaedam 
+      <lb ed="#P" n="127"/>manifestant. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e272">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Tertius, per experientiam longi temporis, id est, 
+      <lb ed="#P" n="129"/>tot millium annorum quot ab initio mundi 
+      fluxe<lb ed="#P" n="130" break="no"/>runt. Quam quidem experientiam adjuvant haec 
+      <lb ed="#P" n="131"/>duo, quod nunquam vel momento cessant a 
+      cogni<lb ed="#P" n="132" break="no"/>tione rerum percipienda. Non enim aliquando 
+      fa<lb ed="#P" n="133" break="no"/>tigantur ut somnum aut requiem actionibus suis 
+      in<lb ed="#P" n="134" break="no"/>terponere debeant sicut homines. Et quod 
+      discur<lb ed="#P" n="135" break="no"/>rere possunt per universum orbem, nec ullis 
+      corpo<lb ed="#P" n="136" break="no"/>reis obstaculis impediuntur. Ex his tribus 
+      cognos<lb ed="#P" n="137" break="no"/>cendi viis seu modis, potissimum primo &amp; 
+      ter<lb ed="#P" n="138" break="no"/>tio colligunt Patres multa rerum cognitione 
+      prae<lb ed="#P" n="139" break="no"/>ditos esse daemones, ut S. Augustinus lib. 2. de 
+      Ge<lb ed="#P" n="140" break="no"/>nesi ad litteram cap. 17. &amp; lib. de divinatione 
+      daemo<lb ed="#P" n="141" break="no"/>num cap. 3. 4. 5. &amp; 6. Isidorus libro 1. de summo 
+      <lb ed="#P" n="142"/>bono cap. 12. Rupertus lib. 1. de victoria verbi Dei, 
+      <lb ed="#P" n="143"/>cap. 26. &amp; post eos S. Thomas prima parte quaest. 
+      <lb ed="#P" n="144"/>64. articulo primo ad quintum, ubi etiam 
+      expli<lb ed="#P" n="145" break="no"/>cat quomodo hoc quod de experientia daemonum 
+      <!--0307.xml-->
+      <pb ed="#P" n="74"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dicitur, accipiendum sit, cum experientia soleat P 
+      <lb ed="#P" n="2"/>oriri a sensu, sensus autem non sit in daemonibus. 
+      <lb ed="#P" n="3"/>Cognoscunt, inquit, per experientiam, non quasi 
+      <lb ed="#P" n="4"/>a sensu eam accipientes, sed dum in rebus 
+      singula<lb ed="#P" n="5" break="no"/>ribus completur similitudo ejus speciei 
+      intelligibi<lb ed="#P" n="6" break="no"/>lis quam sibi naturaliter habent inditam, aliqua 
+      <lb ed="#P" n="7"/>cognoscunt praesentia, quae. non praecognoverunt 
+      fu<lb ed="#P" n="8" break="no"/>tura. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e340">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Caeterum e diverso fatendum est, daemones non 
+      <lb ed="#P" n="10"/>modo multa nescire, ut futura contingentiae, 
+      co<lb ed="#P" n="11" break="no"/>gitationes cordium, numerum electorum ac 
+      re<lb ed="#P" n="12" break="no"/>proborum, ac multa possibilia (quae nec boni 
+      an<lb ed="#P" n="13" break="no"/>geli noverunt nisi quatenus eis talia quaedam a Deo 
+      <lb ed="#P" n="14"/>revelantur) verum etiam multarum rerum quae 
+      <lb ed="#P" n="15"/>sciendae sunt, ignorantia ac multiplici errore 
+      te<lb ed="#P" n="16" break="no"/>neri, maxime circa ea quae agenda sunt. Nesciunt 
+      <lb ed="#P" n="17"/>enim neque intelligunt se uni Deo servire &amp; subjici 
+      <lb ed="#P" n="18"/>debere, quem justum &amp; summe bonum esse negant, 
+      <lb ed="#P" n="19"/>ideóque nec super omnia diligendum, colendum, 
+      <lb ed="#P" n="20"/>honorandum credunt, sed magis putant his 
+      contra<lb ed="#P" n="21" break="no"/>ria, scilicet Deum tanquam injuste ipsos 
+      punien<lb ed="#P" n="22" break="no"/>tem odientes &amp; blasphemantes, &amp; quantum in 
+      <lb ed="#P" n="23"/>ipsis est, ejus imperio &amp; potentiae resistentes, &amp; 
+      <lb ed="#P" n="24"/>in his omnibus recte se facere arbitrantes. Unde 
+      <lb ed="#P" n="25"/>est quod in scripturis interdum tenebrarum 
+      no<lb ed="#P" n="26" break="no"/>mine designantur; ut Colos. 1. Qui eripuit nos de 
+      <lb ed="#P" n="27"/>potestate tenebrarum. Lucae 22. Haec est hora vestra 
+      <lb ed="#P" n="28"/>&amp; potestas tenebrarum, id est, daemonum, quos ita 
+      <lb ed="#P" n="29"/>scriptura appellat, quod in his quae pertinent ad 
+      <lb ed="#P" n="30"/>Deum colendum, sint ob ignorantiam quasi merae 
+      <lb ed="#P" n="31"/>tenebrae. Tales autem facti sunt merito primi 
+      pec<lb ed="#P" n="32" break="no"/>cati; tametsi nec hoc ipsum scire aut intelligere 
+      <lb ed="#P" n="33"/>velint se peccasse aliquando, &amp; per peccatum in 
+      <lb ed="#P" n="34"/>has tenebras incidisse, aut omnino in tenebris esse, 
+      <lb ed="#P" n="35"/>quemadmodum testatur Sanctus Dionysius libro 
+      <lb ed="#P" n="36"/>de divinis nominibus c. 4. part. 4. dicens daemones 
+      <lb ed="#P" n="37"/>non videre, quod facultates suas cernendi causa 
+      <lb ed="#P" n="38"/>benigne concessas obstruxerint. Hujus autem rei 
+      <lb ed="#P" n="39"/>potest argumentum sumi ex statu hominis. Si enim 
+      <lb ed="#P" n="40"/>homo per peccatum non tantum malus, sed etiam 
+      <lb ed="#P" n="41"/>coecus atque ignorans factus est, maxime in his 
+      <lb ed="#P" n="42"/>quae sunt pietatis &amp; verae sapientiae, magis id 
+      pro<lb ed="#P" n="43" break="no"/>fecto sentiendum de daemonibus qui magis 
+      pec<lb ed="#P" n="44" break="no"/>caverunt. Unde sicut de homine scriptum est, quod 
+      <lb ed="#P" n="45"/>cum in honore esset non intellexit; sed jumentis 
+      insi<lb ed="#P" n="46" break="no"/>pientibus similis factus est. Psalm. 48. &amp; de mundi 
+      <lb ed="#P" n="47"/>sapientibus; obscuratum est insipiens cor eorum. 
+      Ro<lb ed="#P" n="48" break="no"/>man. 1. Ita dicitur diabolo Ezechielis 28. Perdidisti 
+      <lb ed="#P" n="49"/>sapientiam tuam in decore tuo. Atque in eum sensum 
+      <lb ed="#P" n="50"/>sanctus Hieronymus hunc prophetae locum 
+      inter<lb ed="#P" n="51" break="no"/>pretatus est. Inde est quod sanctus Augustinus libro 
+      <lb ed="#P" n="52"/>20. de Civitate Dei, capite primo, affirmat 
+      daemo<lb ed="#P" n="53" break="no"/>num &amp; hominum vitam erroribus aerumnisque 
+      ple<lb ed="#P" n="54" break="no"/>nissimam esse. Quodque Enchiridii 24. &amp; 25. 
+      in<lb ed="#P" n="55" break="no"/>ter ea mala quae daemonibus cum homine communia 
+      <lb ed="#P" n="56"/>facit, errorem enumerat. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e449">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Exstat etiam inter epistolas Ignatii una ad 
+      Philip<lb ed="#P" n="58" break="no"/>penses in qua scribitur diabolum, quod bonum est, 
+      <lb ed="#P" n="59"/>nescire, cum sit ignorantia repletus per 
+      inobedien<lb ed="#P" n="60" break="no"/>tiam, eumque licet omnia scire se fingat, multa 
+      nes<lb ed="#P" n="61" break="no"/>cire, &amp; alia quaedam hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e466">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> His adde quod multa contingunt in rebus, ad 
+      <lb ed="#P" n="63"/>quae cognoscenda pertingit quidem naturalis 
+      facul<lb ed="#P" n="64" break="no"/>tas daemonum etiam post peccatum, sed quo 
+      mi<lb ed="#P" n="65" break="no"/>nus ea cognoscant &amp; videant, saepe illos a Deo vel 
+      <lb ed="#P" n="66"/>sanctis angelis impediri, quale est quod ex eodem 
+      <lb ed="#P" n="67"/>sancto Ignatio, sanctus Hieronymus adfert 
+      scri<lb ed="#P" n="68" break="no"/>bens in Matth. 1. Christum ideo a desponsata 
+      con<lb ed="#P" n="69" break="no"/>ceptum fuisse, ut partus ejus celaretur diabolo, 
+      <lb ed="#P" n="70"/>dum eum putat non de virgine, sed de uxore 
+      ge<lb ed="#P" n="71" break="no"/>neratum. Quod &amp; ab Origene in Matth. 
+      scriben<lb ed="#P" n="72" break="no"/>te annotatum est. Quin etiam in eo magna 
+      diabo<lb ed="#P" n="73" break="no"/>li ignorantia deprehenditur, quod scripturas 
+      le<lb ed="#P" n="74" break="no"/>git &amp; non intelligit, sicut haeretici quorum est pa¬ 
+      <!--0307.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>rens. Unde &amp; Christum scripturas impertinenter 
+      <lb ed="#P" n="76"/>allegando tentavit, sicut haeretici tentant filios 
+      ec<lb ed="#P" n="77" break="no"/>clesiae. Denique conjecturis suis saepe fallitur, dum 
+      <lb ed="#P" n="78"/>ex malitia &amp; odio, &amp; calumniandi studio pronior 
+      <lb ed="#P" n="79"/>est ad facta hominum, &amp; externa signa male 
+      in<lb ed="#P" n="80" break="no"/>terpretanda quam bene. Hinc accusator fratrum 
+      <lb ed="#P" n="81"/>dicitur etiam injustus &amp; mendax, cujus exemplum 
+      <lb ed="#P" n="82"/>habemus in accusatione sanctus Job, quem 
+      calum<lb ed="#P" n="83" break="no"/>niatus est apud Deum, quod non sincere, sed 
+      pro<lb ed="#P" n="84" break="no"/>pter bona temporalia Deum coleret. Quod 
+      qui<lb ed="#P" n="85" break="no"/>dem eum vere putasse &amp; suspicatum fuisse testatur 
+      <lb ed="#P" n="86"/>sanctus Augustinus concione undecima &amp; 
+      duode<lb ed="#P" n="87" break="no"/>cima super Psalmum 118. Unde sequitur 
+      diabo<lb ed="#P" n="88" break="no"/>lum nescire quinam inter eos qui Deum colere 
+      vi<lb ed="#P" n="89" break="no"/>dentur, sincera intentione eum colant, qui 
+      se<lb ed="#P" n="90" break="no"/>cus, nec modo nescire, sed etiam opinione falli 
+      <lb ed="#P" n="91"/>ac decipi. Ex his &amp; illud consequens est, 
+      daemo<lb ed="#P" n="92" break="no"/>nes ignorare quid de se boni agatur per divinam 
+      <lb ed="#P" n="93"/>providentiam, dum permittuntur humanum genus 
+      <lb ed="#P" n="94"/>varie tentare, seducere, affligere, quemadmodum 
+      <lb ed="#P" n="95"/>docet sanctus Augustinus libro de vera religione 
+      <lb ed="#P" n="96"/>capite 40. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e551">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Quae cum ita sint, constetque daemones &amp; multa 
+      <lb ed="#P" n="98"/>scire &amp; multa nescire, ut cognitionis ejus terminos 
+      <lb ed="#P" n="99"/>aliquousque probabiliter designemus, ex doctrina 
+      <lb ed="#P" n="100"/>S. Thomae quaest. 64. art. 1. quem multi sequuntur, 
+      <lb ed="#P" n="101"/>haec tria notanda sunt. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e567">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Primum: Cognitio daemonum quam 
+      habue<lb ed="#P" n="103" break="no"/>runt per naturam sive de Deo sive de creaturis, 
+      <lb ed="#P" n="104"/>nec aplata est ab iis nec diminuta. Probatur id 
+      <lb ed="#P" n="105"/>authoritate Sancti Dionysii, ubi supra dicentis 
+      col<lb ed="#P" n="106" break="no"/>lata eis angelica munera non esse immutata, sed 
+      re<lb ed="#P" n="107" break="no"/>mansisse &amp; integra, &amp; nitidissima. Ex quo 
+      vide<lb ed="#P" n="108" break="no"/>tur consequens, non solum potentias naturales 
+      in<lb ed="#P" n="109" break="no"/>tegras daemonibus mansisse, quomodo quidam 
+      di<lb ed="#P" n="110" break="no"/>versam sustinentes opinionem Sancti Dionysii 
+      ver<lb ed="#P" n="111" break="no"/>ba haud satis plene exponunt, sed omnem 
+      cogni<lb ed="#P" n="112" break="no"/>tionem naturalem, videlicet remanentibus in 
+      eo<lb ed="#P" n="113" break="no"/>rum intellectu omnibus rerum naturalium 
+      specie<lb ed="#P" n="114" break="no"/>bus ab initio impressis. Quod &amp; sanctus 
+      Augusti<lb ed="#P" n="115" break="no"/>nus sentire videtur, dum libro 9. de Civitate Dei, 
+      <lb ed="#P" n="116"/>capite vicesimosecundo, dicit bonis angelis 
+      om<lb ed="#P" n="117" break="no"/>nem corporalium temporaliumque rerum 
+      scien<lb ed="#P" n="118" break="no"/>tiam qua inflantur daemones, vilem esse. Et libro 
+      <lb ed="#P" n="119"/>tertio de Trinitate capite 9. dum dicit non 
+      occur<lb ed="#P" n="120" break="no"/>rere aliam rationem cur daemones non potuerint 
+      <lb ed="#P" n="121"/>facere minutissimas muscas, qui ranas, serpentesque 
+      <lb ed="#P" n="122"/>fecerant, nisi quia manus. aderat Domini 
+      prohi<lb ed="#P" n="123" break="no"/>bentis, &amp;c. per quod significat etiam illorum 
+      mi<lb ed="#P" n="124" break="no"/>nutissimorum animalculorum naturam, &amp; 
+      pro<lb ed="#P" n="125" break="no"/>creandi ex occultis seminibus rationem daemonibus 
+      <lb ed="#P" n="126"/>fuisse perspectam, sed ea scientia uti prohibitos a 
+      <lb ed="#P" n="127"/>Deo fuisse. Quae res etiam videtur inductione 
+      pro<lb ed="#P" n="128" break="no"/>bari. Sicut enim daemones ab initio habuerunt &amp; 
+      <lb ed="#P" n="129"/>adhuc habent notitiam naturae serpentum &amp; 
+      rana<lb ed="#P" n="130" break="no"/>rum &amp; generationis eorum, scilicet quibus ex causis 
+      <lb ed="#P" n="131"/>naturalibus etiam repente gigni possint, sic &amp; 
+      mus<lb ed="#P" n="132" break="no"/>carum &amp; formicarum, &amp; ita de aliis. Est enim 
+      par<lb ed="#P" n="133" break="no"/>ratio. Cur enim unius notitiam amisissent, alterius 
+      <lb ed="#P" n="134"/>retinuissent? Ex hac igitur notitia secretorum 
+      natu<lb ed="#P" n="135" break="no"/>rae plurima operantur quae nobis eadem 
+      ignoranti<lb ed="#P" n="136" break="no"/>bus apparent mirabilia. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e648">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Porro sanctus Thomas sententiam ita probat, 
+      <lb ed="#P" n="138"/>quia, inquit, illa cognitio consequitur ipsam 
+      natu<lb ed="#P" n="139" break="no"/>ram angeli, utpote qui secundum naturam suam est 
+      <lb ed="#P" n="140"/>quidam intellectus, a cujus proinde natura propter 
+      <lb ed="#P" n="141"/>substantiae ejus simplicitatem nihil subtrahi potest, 
+      <lb ed="#P" n="142"/>quo subtracto puniatur, sicut homines puniuntur 
+      <lb ed="#P" n="143"/>amputatione membrorum, quia ex materia 
+      con<lb ed="#P" n="144" break="no"/>stant. Quae probatio non sic accipienda est quasi 
+      ne<lb ed="#P" n="145" break="no"/>get per absolutam Dei potentiam auferri potuisse 
+      <lb ed="#P" n="146"/>a daemonibus omnem cognitionem naturalem, sed 
+      <lb ed="#P" n="147"/>significat hujusmodi punitionem non esse 
+      conve<lb ed="#P" n="148" break="no"/>nientem naturae ipsorum, quia non fieret servata 
+      <!--0308.xml-->
+      <pb ed="#P" n="75"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>integritate naturae. Siquidem tam lumen quam 
+      spe<lb ed="#P" n="2" break="no"/>cies intelligibiles pertinent ad naturam 
+      angelo<lb ed="#P" n="3" break="no"/>rum tanquam principia quaedam naturalis 
+      cogni<lb ed="#P" n="4" break="no"/>tionis. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e694">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Secundum: Cognitio quae est per gratiam, in 
+      nu<lb ed="#P" n="6" break="no"/>da speculatione consistens, non est totaliter ablata 
+      <lb ed="#P" n="7"/>daemonibus, sed magna ex parte diminuta atque 
+      de<lb ed="#P" n="8" break="no"/>ficiens. Quod probatur, quia de secretis divinis 
+      pau<lb ed="#P" n="9" break="no"/>ca revelantur &amp; innotescunt daemonibus, sive per 
+      <lb ed="#P" n="10"/>angelos, sive per effectus, ut testatur sanctus 
+      Au<lb ed="#P" n="11" break="no"/>gustinus lib. 9. de Civitate Dei, cap. 21. &amp; 22. &amp; lib. 
+      <lb ed="#P" n="12"/>2. de Genesi ad literam, cap. 17. &amp; lib. 1. de 
+      consen<lb ed="#P" n="13" break="no"/>su evangelistarum cap. 20. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e718">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Tertium: Cognitio quae habetur per gratiam 
+      ef<lb ed="#P" n="15" break="no"/>fectiva &amp; productiva divini amoris, nulla prorsus 
+      <lb ed="#P" n="16"/>est in daemonibus, sicut nec ipsa charitas quam haec 
+      <lb ed="#P" n="17"/>cognitio includit. Pertinet enim proprie ad donum 
+      <lb ed="#P" n="18"/>sapientiae quam juxta Ezechielem perdidit angelus 
+      <lb ed="#P" n="19"/>praevaricator in decore suo. De hoc genere seu 
+      mo<lb ed="#P" n="20" break="no"/>do cognitionis Dei multae sunt sententiae in prima 
+      <lb ed="#P" n="21"/>epistola Joannis, &amp; multa disseruntur a sancto 
+      Au<lb ed="#P" n="22" break="no"/>gustino epistola 112. capite undecimo, &amp; aliquot 
+      se<lb ed="#P" n="23" break="no"/>quentibus. Ad hanc autem cognitionem etiam ea 
+      <lb ed="#P" n="24"/>referenda est qua inclinatur voluntas ad 
+      imperfe<lb ed="#P" n="25" break="no"/>ctum Dei amorem, &amp; aliqualem peccati 
+      detestatio<lb ed="#P" n="26" break="no"/>nem, qualis saepe est in fidelibus manentibus in 
+      sta<lb ed="#P" n="27" break="no"/>tu peccati mortalis. Satis enim constat ex aliis ante 
+      <lb ed="#P" n="28"/>dictis ne quidem hujusmodi cognitionem Dei 
+      con<lb ed="#P" n="29" break="no"/>sistere posse in daemonibus cum obstinata malitia 
+      <lb ed="#P" n="30"/>voluntatis ipsorum, uti nec omnino cognitionem 
+      <lb ed="#P" n="31"/>practicam rerum agibilium, quandoquidem 
+      pec<lb ed="#P" n="32" break="no"/>cando non solum perdiderunt omnem bonitatem 
+      <lb ed="#P" n="33"/>supernaturalem, verum consequenter etiam omnem 
+      <lb ed="#P" n="34"/>rectitudinem moralem solis iis bonis quae pure ad 
+      <lb ed="#P" n="35"/>ordinem naturae pertinent, integris remanentibus. 
+      <lb ed="#P" n="36"/>Cum enim totus ordo moralis ex intentione finis 
+      <lb ed="#P" n="37"/>pendeat, quae in daemonibus penitus est 
+      deprava<lb ed="#P" n="38" break="no"/>ta; nihil moralis boni existimandum est in eis 
+      resi<lb ed="#P" n="39" break="no"/>duum mansisse. Naturalem vero Dei cognitionem 
+      <lb ed="#P" n="40"/>&amp; amorem, quo scilicet pure naturaliter in eum 
+      <lb ed="#P" n="41"/>feruntur ut authorem naturae, cum caeteris 
+      natura<lb ed="#P" n="42" break="no"/>libus bonis quo minus retinuerint, nihil obstat. Haec 
+      <lb ed="#P" n="43"/>enim omnia bona sunt non morali sed naturali 
+      dun<lb ed="#P" n="44" break="no"/>taxat bbnitate. 
+    </p>
+            <p xml:id="bt67yj-p028236-d1e791">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Porro quae adversus hanc doctrinam, maxime ea 
+      <lb ed="#P" n="46"/>parte qua daemonibus totius naturae cognitionem 
+      <lb ed="#P" n="47"/>tribuit, objiciuntur ab iis qui diversum sentiunt; 
+      <lb ed="#P" n="48"/>non tanti sunt ponderis, quin ex iis quae tum hoc 
+      ca<lb ed="#P" n="49" break="no"/>pite, tum superius de scientia angelorum dicta sunt, 
+      <lb ed="#P" n="50"/>probabiliter refelli possint.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

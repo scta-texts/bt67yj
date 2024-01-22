@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="236"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p091474"><!-- l2d24c7" -->
+            <head xml:id="bt67yj-p091474-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p091474-Hd1e103" type="question-title">Utrum voluntas semper appetat bonum</head>
+            <p xml:id="bt67yj-p091474-d1e106">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> §. 7. Utrum voluntas semper appetat bonum? 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e113">
+               <lb ed="#P" n="32"/>DUm quaeritur, utrum voluntas semper ac 
+      ne<lb ed="#P" n="33" break="no"/>cessario bonum appetat; non ponitur in 
+      quae<lb ed="#P" n="34" break="no"/>stione, utrum omnis actus &amp; electio voluntatis sit 
+      <lb ed="#P" n="35"/>bona, recta &amp; sine peccato. Hoc enim non est 
+      du<lb ed="#P" n="36" break="no"/>bitabile. Sed quaestio est, utrum voluntatis objectum 
+      <lb ed="#P" n="37"/>non sit nisi bonum, verum vel apparens, id est, 
+      ali<lb ed="#P" n="38" break="no"/>quid apprehensum sub ratione boni; an vero etiam 
+      <lb ed="#P" n="39"/>malum sub objecto voluntatis comprehendatur. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e133">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Hanc etiam posteriorem partem docet Scotus 
+      <lb ed="#P" n="41"/>scribens in dist. 43. hujus libri qu. 2. ubi reprobata 
+      <lb ed="#P" n="42"/>opinione, quae tenet voluntatem nihil posse velle 
+      <lb ed="#P" n="43"/>nisi sub ratione boni veri vel apparentis, affirmat. 
+      <lb ed="#P" n="44"/>eam ferri posse in malum apprehensum sub ratione 
+      <lb ed="#P" n="45"/>mali; quia potest, inquit, velle odium Dei 
+      ante<lb ed="#P" n="46" break="no"/>quam ratio sit excaecata. Verum idem Doctor in 4. 
+      <lb ed="#P" n="47"/>dist. 49. qu. 4. agnoscit rem dubiam esse, an 
+      volun<lb ed="#P" n="48" break="no"/>tatis objectum per se sit bonum. At indubitanter id 
+      <lb ed="#P" n="49"/>negat Guilielmus Ocham scribens in 3. sent. quaest. 
+      <lb ed="#P" n="50"/>13. dubio 3. Sentit enim voluntatis objectum esse 
+      <lb ed="#P" n="51"/>ens, ut bonum &amp; malum comprehendit. Ex quo 
+      <lb ed="#P" n="52"/>sequitur, malum sub ratione mali posse appeti a 
+      vo<lb ed="#P" n="53" break="no"/>luntate. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e169">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Hujus opinionis argumenta sunt: Primum, quod 
+      <lb ed="#P" n="55"/>jam diximus Scotum adferre de odio Dei ratione 
+      <lb ed="#P" n="56"/>non excaecata. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e180">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Secundum: Quaedam ab hominibus peccantur 
+      <lb ed="#P" n="58"/>non ex ignorantia, sed ex industria, &amp; destinata 
+      <lb ed="#P" n="59"/>malitia, in quibus proinde apparet malum ut malum 
+      <lb ed="#P" n="60"/>a voluntate eligi. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e193">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Tertium: Intellectus per se versatur circa verum 
+      <lb ed="#P" n="62"/>&amp; falsum; ergo similiter voluntas circa bonum &amp; 
+      <lb ed="#P" n="63"/>malum. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e204">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Quartum: Scriptura bonum &amp; malum claudit 
+      <lb ed="#P" n="65"/>in objecto voluntatis ac liberi arbitrii, dicens 
+      Ec<lb ed="#P" n="66" break="no"/>clesiastici 15. Ante hominem vita &amp; mors, bonum &amp; 
+      <lb ed="#P" n="67"/>malum, quod placuerit ei, dabitur illi. Similis locus 
+      <lb ed="#P" n="68"/>est Deut. 30. &amp; ad eum videtur Ecclesiasticus 
+      re<lb ed="#P" n="69" break="no"/>spexisse. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e222">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Quintum: Augustinus lib. 2. confess. capite 4. &amp; 
+      <lb ed="#P" n="71"/>9. commemorans quoddam furtum suum, dicit se 
+      <!--0469.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>in eo non amasse nisi peccatum, &amp; defectum, &amp; 
+      <lb ed="#P" n="73"/>malitiam. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e240">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Sextum: Bernaruus sermone 35. in parvis, dicit 
+      <lb ed="#P" n="75"/>diabolum &amp; quosdam homines diligere malum, 
+      <lb ed="#P" n="76"/>quia malum est. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e252">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Porro communis sententia est, eademque 
+      veris<lb ed="#P" n="78" break="no"/>sima, voluntatem ac liberum arbitrium per se non 
+      <lb ed="#P" n="79"/>appetere nisi bonum, id est, aliquid apprehensum 
+      <lb ed="#P" n="80"/>ac propositum sub ratione boni, hoc enim proprium 
+      <lb ed="#P" n="81"/>est voluntatis objectum. Nam malum, ut malum, 
+      <lb ed="#P" n="82"/>sub objecto voluntatis non continetur, nisi per 
+      op<lb ed="#P" n="83" break="no"/>positionem ad proprium actum voluntatis, qui est 
+      <lb ed="#P" n="84"/>velle. Sicut enim per se volumus bonum, ita per 
+      <lb ed="#P" n="85"/>se nolumus ac refugimus malum illi bono 
+      contra<lb ed="#P" n="86" break="no"/>rium. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e278">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Pro hac doctrina sunt evidentes rationes. Prima: 
+      <lb ed="#P" n="88"/>Voluntas est appetitus; ergo objectum ejus esse non 
+      <lb ed="#P" n="89"/>potest nisi appetibile: At secundum philosophum 
+      <lb ed="#P" n="90"/>lib. 1. Ethic. cap. 1. bonum est quod omnia 
+      appe<lb ed="#P" n="91" break="no"/>tunt; ergo voluntatis objectum per se non est nisi 
+      <lb ed="#P" n="92"/>bonum. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e296">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Secunda: Si voluntas posset appetere malum sub 
+      <lb ed="#P" n="94"/>ratione mali, naturalis ejus inclinatio esset mala; &amp; 
+      <lb ed="#P" n="95"/>proinde Deus qui est author naturae, idem esset 
+      au<lb ed="#P" n="96" break="no"/>thor mali. Nam quod naturalis esset circa ea 
+      incli<lb ed="#P" n="97" break="no"/>natio, patet quoniam esset inclinatio in proprium 
+      <lb ed="#P" n="98"/>objectum. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e314">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Tertia: Malum ut malum, est boni privativum ac 
+      <lb ed="#P" n="100"/>naturae corruptivum; ergo si malum ut malum, 
+      per<lb ed="#P" n="101" break="no"/>tineret ad proprium objectum voluntatis, 
+      seque<lb ed="#P" n="102" break="no"/>retur naturam inclinare in suam ipsius 
+      corruptio<lb ed="#P" n="103" break="no"/>nem, quod est absurdum. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e330">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Quarta: Proprium objectum intellectus est ens 
+      <lb ed="#P" n="105"/>latissime acceptum; ergo non est hoc objectum 
+      vo<lb ed="#P" n="106" break="no"/>luntatis. Oportet enim potentias inter se propriis 
+      <lb ed="#P" n="107"/>objectis esse distinctas. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e343">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Quinta: Voluntate id magis appetit quisque, 
+      <lb ed="#P" n="109"/>quod sibi convenientius est, quam quod natura sua 
+      <lb ed="#P" n="110"/>praestantius, ut aureum nummum potius quam 
+      mus<lb ed="#P" n="111" break="no"/>cam; non igitur proprium voluntatis objectum est 
+      <lb ed="#P" n="112"/>ens, sed bonum, id est, conveniens. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e360">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Postrema: Objectum appetitus sensitivi non est 
+      <lb ed="#P" n="114"/>nisi sensibile conveniens, hoc enim solum 
+      appeti<lb ed="#P" n="115" break="no"/>tur illo appetitu; ergo objectum appetitus 
+      intelle<lb ed="#P" n="116" break="no"/>ctivi, id est, voluntatis, non est nisi intelligibile 
+      <lb ed="#P" n="117"/>conveniens; id autem est bonum. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e376">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> His accedit Doctorum authoritas. Nota est 
+      Dio<lb ed="#P" n="119" break="no"/>nysii sententia libro de divinis nominibus capite 
+      <lb ed="#P" n="120"/>4. quod nemo operatur respiciens ad malum. 
+      Simi<lb ed="#P" n="121" break="no"/>liter docent Clemens Alexandrinus libr. 1. 
+      stroma<lb ed="#P" n="122" break="no"/>tum, Augustinus libro 2. confess. cap. 6. Boetius 
+      <lb ed="#P" n="123"/>libro 4. de consolatione philosophiae, Aristoteles 
+      <lb ed="#P" n="124"/>loco supra citato, Seneca lib. 4. de beneficiis cap. 
+      <lb ed="#P" n="125"/>9. Sed caeteris praeclarius eam sententiam tradit S. 
+      <lb ed="#P" n="126"/>Thomas 1. p. quaest. 20. art. 1. &amp; 1. 2. qu. 8. artic. 
+      <lb ed="#P" n="127"/>1. &amp; libr. 3. contra gentes cap. 16. &amp; 17. Quem 
+      au<lb ed="#P" n="128" break="no"/>thorem merito plerique alii sequuntur. Illud etiam 
+      <lb ed="#P" n="129"/>notandum quod scribit Bonavent? qu 1. super dist. 
+      <lb ed="#P" n="130"/>sequentem, liberum arbitrium non tendere in 
+      ma<lb ed="#P" n="131" break="no"/>lum in quantum liberum, sed in quantum deficiens. 
+      <lb ed="#P" n="132"/>Quod verum non esset, si sub proprio ejus objecto 
+      <lb ed="#P" n="133"/>malum contineretur. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e415">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Argumenta vero contrariae opinionis facile 
+      di<lb ed="#P" n="135" break="no"/>luuntur. Ad primum enim &amp; secundum respondeo, 
+      <lb ed="#P" n="136"/>non posse quemquam odisse Deum, neque ex malitia 
+      <lb ed="#P" n="137"/>peccare, nisi posito errore aliquo judicii rationis; 
+      <lb ed="#P" n="138"/>quemadmodum satis in superioribus est 
+      declara<lb ed="#P" n="139" break="no"/>tum j-praecipue ad dist. 22. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e433">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Ad tertium respondetur, falsum ut tale, non esse 
+      <lb ed="#P" n="141"/>objectum intellectus, nisi per oppositionem ad 
+      pro<lb ed="#P" n="142" break="no"/>prium illius actum, qui est agnoscere. Nam 
+      intel<lb ed="#P" n="143" break="no"/>lectus ab eo quod falsum est, dissentiendo avertitur. 
+      <lb ed="#P" n="144"/>Qua ratione diximus etiam malum sub objecto 
+      vo<lb ed="#P" n="145" break="no"/>luntatis contineri.
+    </p>
+            <p xml:id="bt67yj-p091474-d1e451">
+      <!--0470.xml-->
+               <pb ed="#P" n="237"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Ad quartum, quod erat ex Ecclesiastico 
+      respon<lb ed="#P" n="2" break="no"/>detur, bonum &amp; malum, id est, quae secundum rem 
+      <lb ed="#P" n="3"/>talia sunt, sub objecto voluntatis contineri 
+      mate<lb ed="#P" n="4" break="no"/>rialiter, seu quatenus sub ratione boni 
+      apprehendun<lb ed="#P" n="5" break="no"/>tur. Quod nisi esset, non possent homines peccare, 
+      <lb ed="#P" n="6"/>quia non possent malum eligere. Unde &amp; ibidem 
+      <lb ed="#P" n="7"/>dicitur: Quod placuerit, id est, bonum visum 
+      fue<lb ed="#P" n="8" break="no"/>rit. Quamvis sententia Ecclesiastici non de bono 
+      <lb ed="#P" n="9"/>&amp; malo morali accipienda est proprie; sed de 
+      prae<lb ed="#P" n="10" break="no"/>miis &amp; suppliciis homini bene vel male agenti 
+      pro<lb ed="#P" n="11" break="no"/>positis. Haec enim ibi significatur per aquam &amp; 
+      <lb ed="#P" n="12"/>ignem, vitam &amp; mortem, &amp; omnino per bonum &amp; 
+      <lb ed="#P" n="13"/>malum. Neque vero de malo culpae diceret 
+      Eccle<lb ed="#P" n="14" break="no"/>siasticus, dabitur illi, scilicet a Deo. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e490">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> Ad quintum, responsio patet ex ipso Augustino. 
+      <lb ed="#P" n="16"/>Nam ejusdem libri capite 6. 8. &amp; 9. declarat, 
+      hacte<lb ed="#P" n="17" break="no"/>nus se in illo furto amasse ipsum peccatum, quod 
+      <lb ed="#P" n="18"/>nullam utilitatem sibi inde quaesivisset, ut qui domi 
+      <lb ed="#P" n="19"/>melioribus abundaret, sed solam spectasse in eo 
+      fa<lb ed="#P" n="20" break="no"/>cto delectationem fallendi &amp; libertatem, &amp; aliorum 
+      <lb ed="#P" n="21"/>consortium, seu amicitiam qua invitabatur ad 
+      pec<lb ed="#P" n="22" break="no"/>candum. Haec autem habent rationem boni. 
+    </p>
+            <p xml:id="bt67yj-p091474-d1e513">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Ad postremum, Diabolus &amp; multi homines 
+      dili<lb ed="#P" n="24" break="no"/>gunt malum, quia malum est, non simpliciter, sed 
+      <lb ed="#P" n="25"/>aliis, quibus quam maxime cupiunt nocere. Quod 
+      <lb ed="#P" n="26"/>nocumentum ex invidia vel alia prava affectione 
+      <lb ed="#P" n="27"/>reputant suum bonum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

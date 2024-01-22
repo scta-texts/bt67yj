@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="369"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p143119"><!-- l2d33c3" -->
+            <head xml:id="bt67yj-p143119-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p143119-Hd1e103" type="question-title">Unicum in singulis esse peccatum originale</head>
+            <p xml:id="bt67yj-p143119-d1e106">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> §. 3. Unicum in singulis esse peccatum originale.
+    </p>
+            <p xml:id="bt67yj-p143119-d1e113">
+               <lb ed="#P" n="135"/>PEccatum originale unicum esse in unoquoque 
+      <lb ed="#P" n="136"/>homine significat Apostolus Rom. 5. cum dicit 
+      <lb ed="#P" n="137"/>judicium esse ex uno, scilicet delicto, in 
+      condemna<lb ed="#P" n="138" break="no"/>tionem, gratiam vero ex multis delictis in 
+      justifica<lb ed="#P" n="139" break="no"/>tionem. Quem locum tractans &amp; verba urgens 
+      Au<lb ed="#P" n="140" break="no"/>gustinus libro 1. contra Julianum capit. 6. ait; Ibi 
+      <lb ed="#P" n="141"/>quippe unum non nisi unum delictum vult 
+      intelligi<lb ed="#P" n="142" break="no"/>Quod &amp; ratione probabili ostenditur, nam justitia 
+      <!--0603.xml-->
+      <pb ed="#P" n="370"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>originalis in qua conditus erat primus homo, unica 
+      <lb ed="#P" n="2"/>erat; quare peccatum originale illi justitiae 
+      opposi<lb ed="#P" n="3" break="no"/>tum unicum est. Sicut enim justitia originalis erat 
+      <lb ed="#P" n="4"/>charitas, sive rectus &amp; ordinatus amor; ita peccatum 
+      <lb ed="#P" n="5"/>originale est amor perversus atque inordinatus; qui 
+      <lb ed="#P" n="6"/>licet in diversissima objecta ferri possit, haec tamen 
+      <lb ed="#P" n="7"/>omnia una formali ratione complectitur, quatenus 
+      <lb ed="#P" n="8"/>scilicet vel concupiscentiae vel aversionis a Deo 
+      no<lb ed="#P" n="9" break="no"/>mine significatur. 
+    </p>
+            <p xml:id="bt67yj-p143119-d1e159">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Quod vero parvuli dicuntur baptizari in 
+      remissio<lb ed="#P" n="11" break="no"/>nem peccatorum, secundum generalem baptismi 
+      <lb ed="#P" n="12"/>virtutem dictum est, quia videlicet non originale 
+      <lb ed="#P" n="13"/>solum, sed actualia, omnia, si quae sunt in 
+      baptizan<lb ed="#P" n="14" break="no"/>do, peccata remittit. Baptismus enim toti aetati 
+      com<lb ed="#P" n="15" break="no"/>munis est. Quamquam &amp; simpliciter responderi 
+      po<lb ed="#P" n="16" break="no"/>test cum Augustino Enchir. 44. numerum pluralem 
+      <lb ed="#P" n="17"/>pro singulari positum. 
+    </p>
+            <p xml:id="bt67yj-p143119-d1e182">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Quod &amp; respondetur ad illud Psal. 50. Ecce enim in 
+      <lb ed="#P" n="19"/>iniquitatibus, &amp;c. sicut eodem loco respondet 
+      Augu<lb ed="#P" n="20" break="no"/>stinus, cap. 46. &amp; post eum Leo epist. 86. Neque vero 
+      <lb ed="#P" n="21"/>haec numeri enallage in dictis sententiis ratione 
+      ca<lb ed="#P" n="22" break="no"/>ret. Nam peccatum originale, licet in se unicum sit, 
+      <lb ed="#P" n="23"/>radix tamen est &amp; causa (quoad concupiscentiam 
+      <lb ed="#P" n="24"/>relictam) plurium peccatorum. Siquidem in ipso 
+      <lb ed="#P" n="25"/>Davide, cujus illa sunt verba; Ecce enim in 
+      iniqui<lb ed="#P" n="26" break="no"/>tatibus conceptus sum, &amp;c. pepererat duo gravissima 
+      <lb ed="#P" n="27"/>peccata, adulterium &amp; homicidium. 
+    </p>
+            <p xml:id="bt67yj-p143119-d1e208">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Similis est responsio ad Ambrosii verba in 
+      apolo<lb ed="#P" n="29" break="no"/>gia David cap. 11. quae &amp; citantur ab Augustino lib. 
+      <lb ed="#P" n="30"/>1. contra Julianum capit. 3. ubi dicit parvulos non 
+      <lb ed="#P" n="31"/>unum habere peccati contagium, significans 
+      videli<lb ed="#P" n="32" break="no"/>cet in uno illo plura virtute contineri. 
+    </p>
+            <p xml:id="bt67yj-p143119-d1e224">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Possunt nihilominus &amp; alia ratione in uno 
+      origi<lb ed="#P" n="34" break="no"/>nali peccato plura peccata intelligi, quia nimirum 
+      <lb ed="#P" n="35"/>plures animae potentias inficit, ac depravat, nempe 
+      <lb ed="#P" n="36"/>intellectum, voluntatem &amp; appetitum inferiorem, 
+      <lb ed="#P" n="37"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="38"/>tam irascibilem, quam concupiscibilem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

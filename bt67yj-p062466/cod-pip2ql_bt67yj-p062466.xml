@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="161"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p062466"><!-- l2d18c2" -->
+            <head xml:id="bt67yj-p062466-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p062466-Hd1e103" type="question-title">Solvuntur argumenta Cajetani</head>
+            <p xml:id="bt67yj-p062466-d1e106">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> §. 2. Solvuntur argumenta Cajetani.
+    </p>
+            <p xml:id="bt67yj-p062466-d1e113">
+               <lb ed="#P" n="124"/>PRimum ac praecipuum Cajetani pro sua diversa 
+      <lb ed="#P" n="125"/>opinione argumentum est. Si ad literam 
+      intel<lb ed="#P" n="126" break="no"/>ligatur mulieris ex costa viri productio, 
+      necessa<lb ed="#P" n="127" break="no"/>rio fore consequens alterum istorum; scilicet aut 
+      <lb ed="#P" n="128"/>costam illam viro fuisse initio superfluam, &amp; 
+      pro<lb ed="#P" n="129" break="no"/>inde eum creatum fuisse monstrosum, velut si sex 
+      <lb ed="#P" n="130"/>in altera manu digitos habens factus fuisset; Aut 
+      <lb ed="#P" n="131"/>fuisse unam ex necessariis, atque ita ejus ablatione 
+      <lb ed="#P" n="132"/>virum mutilum, mancum &amp; imperfectum relictum 
+      <lb ed="#P" n="133"/>fuisse, utpote parte seu membro ad integritatem 
+      ne<lb ed="#P" n="134" break="no"/>cessario carentem, velut si digitorum unus de 
+      natura<lb ed="#P" n="135" break="no"/>li numero fuisset ablatus. Sicut enim decem digitos 
+      <lb ed="#P" n="136"/>in manibus ac totidem in pedibus naturaliter habet 
+      <!--0395.xml-->
+      <pb ed="#P" n="162"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>homo, sic 24. costis hinc inde pari numero 
+      disposi<lb ed="#P" n="2" break="no"/>tis compaginatum est naturaliter humanum corpus. 
+      <lb ed="#P" n="3"/>Ex quo numero si una desit, non servatur naturalis 
+      <lb ed="#P" n="4"/>corporis integritas &amp; perfectio, nihilo magis quam 
+      <lb ed="#P" n="5"/>in digitis. 
+    </p>
+            <p xml:id="bt67yj-p062466-d1e161">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Ad hoc argumentum ita fere respondent: 
+      Pri<lb ed="#P" n="7" break="no"/>mum hominem sic factum esse a Deo uti decuit; 
+      <lb ed="#P" n="8"/>neque in prima rerum institutione quicquam ut 
+      <lb ed="#P" n="9"/>monstrosum notari potuisse, quando natura 
+      non<lb ed="#P" n="10" break="no"/>dum aliter se habebat, licet etiam illud quod fieret, 
+      <lb ed="#P" n="11"/>diversum esset a modo &amp; conditione rerum ut nunc 
+      <lb ed="#P" n="12"/>secundum naturam existunt. Sublata quoque costa 
+      <lb ed="#P" n="13"/>ex qua facta est Eva, nihil hominis integritati ac 
+      <lb ed="#P" n="14"/>pulchritudinidecessisse: Utrumque enim condecens 
+      <lb ed="#P" n="15"/>fuisse ut ab initio cum ea costa prius homo 
+      creare<lb ed="#P" n="16" break="no"/>tur, &amp; paulo post ac suo tempore, eandem in usum, 
+      <lb ed="#P" n="17"/>ad quem data erat, convertendam amitteret. Quam 
+      <lb ed="#P" n="18"/>rem similitudine seminis in corpore virili, &amp; 
+      foe<lb ed="#P" n="19" break="no"/>tus in utero materno existentis, declarant. 
+      Utrum<lb ed="#P" n="20" break="no"/>que enim a parentis corpore citra ullam ejus 
+      muti<lb ed="#P" n="21" break="no"/>lationem aut perfectionis detrimentum congruenti 
+      <lb ed="#P" n="22"/>tempore separatur. Itaque dicunt horum instar 
+      <lb ed="#P" n="23"/>costam illam superfluam quidem Adamo fuisse, 
+      <lb ed="#P" n="24"/>quatenus consideretur ut homo singularis: 
+      neces<lb ed="#P" n="25" break="no"/>sariam vero quatenus erat primus homo, totiusque 
+      <lb ed="#P" n="26"/>generis futurus parens, ex quo non quidem 
+      natu<lb ed="#P" n="27" break="no"/>raliter, sed tamen secundum Dei ordinationem 
+      e<lb ed="#P" n="28" break="no"/>tiam ipsa mulier, quae illi ad procreationem generis 
+      <lb ed="#P" n="29"/>erat necessaria, formaretur. Quod autem 
+      necessa<lb ed="#P" n="30" break="no"/>rium cuipiam est ad certum usum, non posse dici 
+      <lb ed="#P" n="31"/>ei superfluum absolute. Hanc solutionem praeter 
+      <lb ed="#P" n="32"/>alios adfert sanctus Thomas prima parte quaest. 92. 
+      <lb ed="#P" n="33"/>art. 3. ad 2. licet eam non ita plane explicet. Est 
+      au<lb ed="#P" n="34" break="no"/>tem haec solutio bona, &amp; quae merito sufficere 
+      de<lb ed="#P" n="35" break="no"/>buisset <name xml:id="bt67yj-p062466-Nd1e230">Cajetano</name>. 
+    </p>
+            <p xml:id="bt67yj-p062466-d1e234">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Caeterum nonnullis magis placet costam illam 
+      <lb ed="#P" n="37"/>simpliciter fuisse unam de necessariis, neque tamen 
+      <lb ed="#P" n="38"/>ea detracta remansisse Adam mutilum &amp; 
+      imperfe<lb ed="#P" n="39" break="no"/>ctum, eo quod in locum ablatae costae mox alia 
+      si<lb ed="#P" n="40" break="no"/>milis reposita fuerit. Quod enim scriptura dicit 
+      <lb ed="#P" n="41"/>Deum replevisse carnem pro ea, non sic intelligunt, 
+      <lb ed="#P" n="42"/>quasi sola caro in locum costae fuerit substituta, sed 
+      <lb ed="#P" n="43"/>caro cum costa, id est, costa carne vestita &amp; 
+      conte<lb ed="#P" n="44" break="no"/>cta. Quomodo &amp; e diverso non ex sola costa viri 
+      <lb ed="#P" n="45"/>factam esse mulierem constat, sed etiam ex carne; 
+      <lb ed="#P" n="46"/>quippe cum diserte dicat Adam: Hoc nunc os ex 
+      ossi<lb ed="#P" n="47" break="no"/>bus meis, &amp; caro de carne mea, tametsi certi 
+      myste<lb ed="#P" n="48" break="no"/>rii causa, de quo proximo capite solam costam 
+      scri<lb ed="#P" n="49" break="no"/>ptura nominaverit, cum de formatione mulieris 
+      <lb ed="#P" n="50"/>loqueretur. Hanc responsionem adjuvat nonnihil 
+      <lb ed="#P" n="51"/>textus Hebraicus, in quo non legitur, replevit, sed 
+      <lb ed="#P" n="52"/>clausit carnem pro ea, ut sit sensus: Carnem Adae 
+      <lb ed="#P" n="53"/>educta costa apertam &amp; hiantem rursum a Deo 
+      <lb ed="#P" n="54"/>clausam &amp; continuatam fuisse. Itaque juxta hanc 
+      <lb ed="#P" n="55"/>expositionem non significatur carnem repositam 
+      <lb ed="#P" n="56"/>fuisse loco costae, sed clausam tantummodo. Quid 
+      <lb ed="#P" n="57"/>autem loco costae repositum fuerit, non dicitur. 
+      <lb ed="#P" n="58"/>Recte tamen intelligitur non carnem sed costam 
+      <lb ed="#P" n="59"/>pro costa fuisse repositam, &amp; proinde eam, quae 
+      de<lb ed="#P" n="60" break="no"/>tracta fuit, non superfluam fuisse, sed de necessariis, 
+      <lb ed="#P" n="61"/>id quod etiam hoc argumento probatur. Si enim 
+      <lb ed="#P" n="62"/>Adae ut particulari homini superflua fuisset ea 
+      co<lb ed="#P" n="63" break="no"/>sta, nec ad illius naturam pertinuisset; non ita 
+      re<lb ed="#P" n="64" break="no"/>cte diceretur Eva formata ex ipso Adam. Ac 
+      rur<lb ed="#P" n="65" break="no"/>sum, si costa illa non erat naturale ac proprium os 
+      <lb ed="#P" n="66"/>Adae, sed additum praeter naturam, haud satis 
+      con<lb ed="#P" n="67" break="no"/>venienter de eo dixisset Adam: Hoc nunc os ex 
+      ossi<lb ed="#P" n="68" break="no"/>bus meis. Membrum enim superfluum, quodque 
+      <lb ed="#P" n="69"/>quis malit abesse quam adesse, quantum ad 
+      natu<lb ed="#P" n="70" break="no"/>ram propriam, non reputat suum. Adde quod 
+      arctis<lb ed="#P" n="71" break="no"/>sima illa conjunctio Adami &amp; Evae, atque hujus ab 
+      <lb ed="#P" n="72"/>illo naturalis origo ac dependentia multo 
+      con<lb ed="#P" n="73" break="no"/>gruentius significatur per formationem Evae ex costa 
+      <lb ed="#P" n="74"/>viro naturali &amp; necessaria, quam ex superflua.
+    </p>
+            <p xml:id="bt67yj-p062466-d1e323">
+      <!--0395.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Placuit haec solutio non tantum Catharino &amp; 
+      Pe<lb ed="#P" n="76" break="no"/>rerio, verum etiam quibusdam antiquioribus, ut 
+      <lb ed="#P" n="77"/>ex Tostato colligitur, qui eam impugnat, sed 
+      ratio<lb ed="#P" n="78" break="no"/>nibus non admodum urgentibus. Quin &amp; Hugo 
+      <lb ed="#P" n="79"/>Victorinus in quaestionibus super Genes. videtur in 
+      <lb ed="#P" n="80"/>hac esse sententia, dum ostendit costam hanc non 
+      <lb ed="#P" n="81"/>fuisse superfluam, quia nec dentes puerorum qui 
+      <lb ed="#P" n="82"/>postea mutantur, superflui dicuntur. Exigit enim 
+      <lb ed="#P" n="83"/>haec comparatio pro costa adempta aliam costam 
+      <lb ed="#P" n="84"/>fuisse repositam, sicut pueri pro dentibus amissis 
+      <lb ed="#P" n="85"/>alios recipiunt dentes. Ex qua comparatione etiam 
+      <lb ed="#P" n="86"/>illa quaestio facile solvitur, qua quaeri solet, utrum 
+      <lb ed="#P" n="87"/>Adae an Evae reddenda sit illa costa. Sicut enim 
+      <lb ed="#P" n="88"/>dentes pro quibus amissis alii succrescunt, non 
+      red<lb ed="#P" n="89" break="no"/>dentur homini in resurrectione; ita nec illa costa 
+      <lb ed="#P" n="90"/>reddetur Adae, qui jam ejus loco aliam recepit, cum 
+      <lb ed="#P" n="91"/>qua &amp; mortuus est. Reddetur autem Evae, ut pote 
+      <lb ed="#P" n="92"/>cujus corpus ex illa principaliter formatum &amp; 
+      com<lb ed="#P" n="93" break="no"/>positum fuit. Verum de hac re ex professo 
+      disputa<lb ed="#P" n="94" break="no"/>tur ad distinctionem 44. lib. 4. 
+    </p>
+            <p xml:id="bt67yj-p062466-d1e373">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Aliud argumentum Cajetani: Moyses scribit 
+      <lb ed="#P" n="96"/>Deum adduxisse Evam ad Adam, quasi ex loco 
+      di<lb ed="#P" n="97" break="no"/>verso ac distanti, sicut adduxerat cuncta animantia; 
+      <lb ed="#P" n="98"/>non igitur ut litera sonat, ex latere viri formata est 
+      <lb ed="#P" n="99"/>Eva. Responsio. Dicitur adducta, quia statim ut 
+      <lb ed="#P" n="100"/>formata fuit, praesentata est viro a sopore 
+      experge<lb ed="#P" n="101" break="no"/>facto. Utitur autem ad id significandum scriptura 
+      <lb ed="#P" n="102"/>adducendi vocabulo, quia facta erat mulier ut esset 
+      <lb ed="#P" n="103"/>viro socia, eidemque subjecta, propter quod non 
+      <lb ed="#P" n="104"/>dicitur Adam adductus ad Evam, sed Eva ad Adam. 
+    </p>
+            <p xml:id="bt67yj-p062466-d1e399">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Aliud: Moyses significat Adam &amp; Evam simul 
+      <lb ed="#P" n="106"/>creatos fuisse, his verbis Genes. 1. Creavit Deus 
+      ho<lb ed="#P" n="107" break="no"/>minem ad imaginem suam, masculum &amp; foeminam 
+      <lb ed="#P" n="108"/>creavit eos; non ergo foeminam ex masculo. 
+      Res<lb ed="#P" n="109" break="no"/>pondeo Moysen non dicere quod simul, id est, 
+      eo<lb ed="#P" n="110" break="no"/>dem puncto temporis eos creaverit, licet 
+      creatio<lb ed="#P" n="111" break="no"/>nem eorum simul una sententia complectatur. 
+      Cae<lb ed="#P" n="112" break="no"/>terum quod ibi strictim &amp; breviter dicit mulierem a 
+      <lb ed="#P" n="113"/>Deo creatam esse; id quo modo &amp; ordine factum 
+      <lb ed="#P" n="114"/>sit, postea distincte edisserit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

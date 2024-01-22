@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="284"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p110433"><!-- l2d26c10" -->
+            <head xml:id="bt67yj-p110433-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p110433-Hd1e103" type="question-title">Quae dicatur gratia ducens, et quae comitans</head>
+            <p xml:id="bt67yj-p110433-d1e106">
+               <lb ed="#P" n="64"/>§. 10. Quae dicatur gratia ducens, &amp; quae comitans?
+    </p>
+            <p xml:id="bt67yj-p110433-d1e111">
+               <lb ed="#P" n="65"/>PArtitionis gratiae quandam speciem habet, quod 
+      <lb ed="#P" n="66"/>PPatres interdum gratiam vocant ducem &amp; 
+      comi<lb ed="#P" n="67" break="no"/>tem voluntatis, quia nimirum ipsa voluntatem &amp; 
+      <lb ed="#P" n="68"/>ducat &amp; comitetur. Unde Prosper in epigrammate 
+      <lb ed="#P" n="69"/>45. gratiae officium hoc disticho concludit: 
+      <lb ed="#P" n="70"/>
+               <quote xml:id="bt67yj-p110433-Qd1e126">Quae sic in cunctis implet sua dona vocatis, 
+      <lb ed="#P" n="71"/>Ut quorum dux est, fiat &amp; ipsa comes.</quote>
+               <!--0517.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Quam utramque etiam ecclesia nobis significat in 
+      <lb ed="#P" n="73"/>oratione secreta pro iter agentibus, dum precatur 
+      <lb ed="#P" n="74"/>Deum, ut viam illorum &amp; praecedente gratia sua 
+      di<lb ed="#P" n="75" break="no"/>rigat, &amp; subsequente comitari dignetur. Sic &amp; 
+      Au<lb ed="#P" n="76" break="no"/>gustinus loquitur de gratia in epistola 56. ad 
+      Dio<lb ed="#P" n="77" break="no"/>scorum. Fulgentius quoque in epistola 6. cap. ult. 
+      <lb ed="#P" n="78"/>distinguit gratiam praevenientem, comitantem &amp; 
+      <lb ed="#P" n="79"/>subsequentem. Legitur &amp; apud B. Bernardum lib. 
+      <lb ed="#P" n="80"/>de modo bene vivendi quaedam gratiae divisio in 
+      prae<lb ed="#P" n="81" break="no"/>venientem, comitantem &amp; cooperantem. Porro idem 
+      <lb ed="#P" n="82"/>Bernardus lib. de gratia &amp; libero arbitrio meminit 
+      <lb ed="#P" n="83"/>gratiae ducentis &amp; comitantis. 
+    </p>
+            <p xml:id="bt67yj-p110433-d1e162">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Qua in divisione notandum, Patres non aliud 
+      si<lb ed="#P" n="85" break="no"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="86"/>gnificasse, quam quod gratia &amp; operandi causa sit 
+      <lb ed="#P" n="87"/>voluntati, &amp; nihilominus voluntati operandi simul 
+      <lb ed="#P" n="88"/>cooperetur; ut priori quidem ratione dux seu ducens 
+      <lb ed="#P" n="89"/>gratia vocetur, posteriori autem omnes seu comitans 
+      <lb ed="#P" n="90"/>gratia. Neque enim comes hac significatione ad 
+      du<lb ed="#P" n="91" break="no"/>cem seu praeeuntem refertur; sed relatione 
+      aequipa<lb ed="#P" n="92" break="no"/>rantiae, ut loquuntur dialectici, ad comitem, id est, 
+      <lb ed="#P" n="93"/>in eundo socium &amp; conjunctum, quomodo supra 
+      <lb ed="#P" n="94"/>diximus, cooperantem ad cooperantem relative 
+      di<lb ed="#P" n="95" break="no"/>ci; ut comitans gratia, sit eadem quae concomitans, 
+      <lb ed="#P" n="96"/>quomodo &amp; a Bernardo vocatur, sicut idem 
+      signifi<lb ed="#P" n="97" break="no"/>cant frater &amp; confrater, socius &amp; conlocius. Ex qua 
+      <lb ed="#P" n="98"/>declaratione colligitur hanc divisionem gratiae in 
+      <lb ed="#P" n="99"/>ducentem &amp; comitantem fere eandem esse cum 
+      dua<lb ed="#P" n="100" break="no"/>bus superioribus, quod &amp; oratio ecclesiae citata 
+      sa<lb ed="#P" n="101" break="no"/>tis indicat, tametsi Fulgentius comitantem a 
+      subse<lb ed="#P" n="102" break="no"/>quente distinguit, comitantem intelligens gratiam 
+      <lb ed="#P" n="103"/>in progressu bonorum operum, sublequentem in 
+      re<lb ed="#P" n="104" break="no"/>muneratione caelestis beatitudinis. Bernardus 
+      au<lb ed="#P" n="105" break="no"/>tem concomitantem distinguit a cooperante; nam 
+      <lb ed="#P" n="106"/>praevenientem quidem gratiam interpretatur, ut 
+      bo<lb ed="#P" n="107" break="no"/>num velimus, concomitantem vero, ut idem illud 
+      <lb ed="#P" n="108"/>incipiamus; cooperantem autem, ut perficiamus. 
+      <lb ed="#P" n="109"/>Quae tamen utriusque authoris distinctio voluntaria 
+      <lb ed="#P" n="110"/>videtur. 
+    </p>
+            <p xml:id="bt67yj-p110433-d1e228">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Praeterea ex eadem declaratione patet, dictam 
+      di<lb ed="#P" n="112" break="no"/>)visionem nihil suffragari falsae quorundam 
+      opinio<lb ed="#P" n="113" break="no"/>ni, qui voluntatem in bono opere vel aliqua ejus 
+      <lb ed="#P" n="114"/>parte ducem gratiae esse volunt; quasi nimirum 
+      gra<lb ed="#P" n="115" break="no"/>tia a ducatu seu ductu &amp; consensu voluntatis 
+      depen<lb ed="#P" n="116" break="no"/>deat, ac non potius ipsa hunc consensum in 
+      volun<lb ed="#P" n="117" break="no"/>tate efficaciter operetur. Contra quam opinionem 
+      <lb ed="#P" n="118"/>suo loco pluribus agendum. 
+    </p>
+            <p xml:id="bt67yj-p110433-d1e250">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Quod autem voluntas in bono opere dux gratiae 
+      <lb ed="#P" n="120"/>dici non debeat, diserte testatur Augustinus 
+      episto<lb ed="#P" n="121" break="no"/>la 106. ad Paulinum dicens, voluntatem comitari 
+      <lb ed="#P" n="122"/>gratiam, non ducere; pedissequam ejus esse, non 
+      <lb ed="#P" n="123"/>praeviam. Quae verba etiam a Venerabili Beda 
+      tran<lb ed="#P" n="124" break="no"/>scripta sunt in commentarium super epist. ad 
+      Rom<lb ed="#P" n="125" break="no"/>5. Atque eodem pertinet illa apostolica sententia 
+      <lb ed="#P" n="126"/>Rom. 9. Non est volentis, neque currentis, sed 
+      mise<lb ed="#P" n="127" break="no"/>rentis Dei. Quam exponens Augustinus in opere 
+      im<lb ed="#P" n="128" break="no"/>perfecto contra Julianum, verbis a Beda ad hunc 
+      <lb ed="#P" n="129"/>ipsum Apostoli locum citatis, &amp; hac dist. a Magistro 
+      <lb ed="#P" n="130"/>inde repetitis sic ait. Non enim ideo miseretur Deus 
+      <lb ed="#P" n="131"/>alicujus, quia voluit &amp; cucurrit, sed ideo voluit &amp; 
+      <lb ed="#P" n="132"/>cucurrit, quia misertus est Deus. Paratur enim 
+      vo<lb ed="#P" n="133" break="no"/>luntas hominis a Deo, &amp;c. Proverb. 8. secundum 70. 
+      <lb ed="#P" n="134"/>Unde ostendit, quod etsi bonum opus hominis 
+      ne<lb ed="#P" n="135" break="no"/>que fiat a gratia sola, neque a voluntate sola, sed ab 
+      <lb ed="#P" n="136"/>utraque simul; non tamen e converso dicendum sit: 
+      <lb ed="#P" n="137"/>Non est Dei miserentis, sed hominis volentis atque 
+      <lb ed="#P" n="138"/>currentis. Quam expositionem pluribus prosequitur 
+      <lb ed="#P" n="139"/>idem Augustinus libr. 1. ad Simplicianum qu. 1. &amp; 
+      <lb ed="#P" n="140"/>Enchirid. cap. 32. eandemque breviter indicat libr. 
+      <lb ed="#P" n="141"/>de perfectione justitiae cap. 19 
+    </p>
+            <p xml:id="bt67yj-p110433-d1e305">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> His adde, quod Prosper in epistola ad 
+      Augusti<lb ed="#P" n="143" break="no"/>num, &amp; libro 1. de vocatione gentium cap. 1. 
+      gra<lb ed="#P" n="144" break="no"/>tiam ita asserit voluntatis ducem, ut comitem 
+      ne<lb ed="#P" n="145" break="no"/>get; scilicet juxta sensum jam a nobis improbatum. 
+      <lb ed="#P" n="146"/>Sed horum plenior petenda confirmatio est ex 
+      <!--0518.xml-->
+      <pb ed="#P" n="285"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dogmate superiori libro satis superque probato: 
+      <lb ed="#P" n="2"/>quod praedestinatio nostra non est ex meritis. Si enim 
+      <lb ed="#P" n="3"/>voluntas gratiae dux est, &amp; priores aliquo modo 
+      par<lb ed="#P" n="4" break="no"/>tes obtinet in negotio bonorum operum, jam 
+      con<lb ed="#P" n="5" break="no"/>tra Patrum definitionem &amp; gratia secundum 
+      meri<lb ed="#P" n="6" break="no"/>ta dabitur, &amp; ex aliquo merito voluntatis erit 
+      prae<lb ed="#P" n="7" break="no"/>destinatio. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

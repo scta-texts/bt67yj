@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="141"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p054432"><!-- l2d16c6" -->
+            <head xml:id="bt67yj-p054432-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p054432-Hd1e103" type="question-title">Secundum quid factus sit homo ad 
+      similitudinem Dei</head>
+            <p xml:id="bt67yj-p054432-d1e106">
+               <lb ed="#P" n="62"/>§. 6. Secundum quid factus sit homo ad 
+      simili<lb ed="#P" n="63" break="no"/>tudinem Dei.
+    </p>
+            <p xml:id="bt67yj-p054432-d1e113">
+               <lb ed="#P" n="64"/>SImilitudo generaliter accepta genus est 
+      imagi<lb ed="#P" n="65" break="no"/>nis, quomodo S. August. libr. 83. quaestionum 
+      <lb ed="#P" n="66"/>quaest. 51. &amp; super Deuter. quaest. 4. docet omnem 
+      <lb ed="#P" n="67"/>imaginem similitudinem esse non contra. Hoc 
+      mo<lb ed="#P" n="68" break="no"/>do similitudinem hac distinctione videtur 
+      intelle<lb ed="#P" n="69" break="no"/>xisse Magister in eo quod dicitur homo factus ad 
+      si<lb ed="#P" n="70" break="no"/>militudinem Dei. Scribit enim imaginem pertinere 
+      <lb ed="#P" n="71"/>ad formam, similitudinem ad naturam. In quam 
+      <!--0374.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>sententiam etiam S. Bernardus loquitur homilia 8 
+      <lb ed="#P" n="73"/>&amp; 81. super Cantica. 
+    </p>
+            <p xml:id="bt67yj-p054432-d1e142">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Verum hanc similitudinis interpretationem 
+      ver<lb ed="#P" n="75" break="no"/>ba scripturae dicentis hominem factum esse ad 
+      ima<lb ed="#P" n="76" break="no"/>ginem &amp; similitudinem Dei, non facile admittunt. 
+      <lb ed="#P" n="77"/>Si enim similitudo tanquam genus in imagine 
+      inclu<lb ed="#P" n="78" break="no"/>ditur; quid causae erat, ut post imaginem etiam 
+      si<lb ed="#P" n="79" break="no"/>militudo nominaretur? 
+    </p>
+            <p xml:id="bt67yj-p054432-d1e161">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Quare aliis magis placet ut similitudo quandam 
+      <lb ed="#P" n="81"/>imaginis determinationem &amp; perfectionem nobis 
+      <lb ed="#P" n="82"/>insinuet, sitque scripturae sensus hujusmodi: Fecit 
+      <lb ed="#P" n="83"/>Deus hominem ad imaginem suam, non 
+      qualemcun<lb ed="#P" n="84" break="no"/>que, sed valde similem, &amp; exemplari suo pulchre 
+      <lb ed="#P" n="85"/>respondentem. Quo pertinere existimant illud 
+      Sa<lb ed="#P" n="86" break="no"/>pient. 2. Ad imaginem similitudinis suae fecit illum, 
+      <lb ed="#P" n="87"/>ut phrasi Hebraea, imago similitudinis, pro imagine 
+      <lb ed="#P" n="88"/>multum simili posita sit, sicut apud Apostolum 
+      Co<lb ed="#P" n="89" break="no"/>Ioss. 1. Filius dilectionis, pro filio admodum 
+      dilecto<lb ed="#P" n="90" break="no"/>Ea vero similitudo juxta Joann. Damascenum libr. 2. 
+      <lb ed="#P" n="91"/>de fide cap. 12. sita est in justitia, pietate, sapientia, 
+      <lb ed="#P" n="92"/>caeterisque virtutibus ac donis quibus homines filii 
+      <lb ed="#P" n="93"/>Dei efficiuntur. 
+    </p>
+            <p xml:id="bt67yj-p054432-d1e196">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Haec similitudinis explicatio multorum. Patrum 
+      <lb ed="#P" n="95"/>sententiis comprobatur, ut Irenaei lib. 3. contra 
+      hae<lb ed="#P" n="96" break="no"/>reses cap. 20. Cypriani tractatu de patientia, 
+      Ori<lb ed="#P" n="97" break="no"/>genis libr. 3. periarchon capit. 6. Gregorii Nysseni 
+      <lb ed="#P" n="98"/>libr. de creatione hominis, Basilii homilia decima 
+      <lb ed="#P" n="99"/>Hexameron, S. Ambrosii lib. 6. ejusdem argumenti, 
+      <lb ed="#P" n="100"/>capit. 7. &amp; 8. &amp; libr. de dignitate hominis capit. 3. 
+      <lb ed="#P" n="101"/>S. Hieronymi super Ezechielis caput 28. &amp; 
+      prae<lb ed="#P" n="102" break="no"/>ceptoris ejus Victorini Afri, lib. 1. adversus Arium, 
+      <lb ed="#P" n="103"/>Joan. Chrysostomi homilia 9. in Genesim, 
+      Theo<lb ed="#P" n="104" break="no"/>doreti quaest. 20. super Genes. Eucherii 
+      Lugdunen<lb ed="#P" n="105" break="no"/>sis libr. 1. super Genes. &amp; Ruperti libr. 2. in Genes. 
+      <lb ed="#P" n="106"/>cap. 3. &amp; 5. S. Bernardus quoque, licet alibi aliter, 
+      <lb ed="#P" n="107"/>in libro tamen de gratia &amp; libero arbitrio sic 
+      distin<lb ed="#P" n="108" break="no"/>guit, ut imaginem consistere dicat in libertate 
+      ar<lb ed="#P" n="109" break="no"/>bitrii, similitudinem vero in libertate ad non 
+      pec<lb ed="#P" n="110" break="no"/>candum. Sed &amp; Magister hanc similitudinis 
+      expo<lb ed="#P" n="111" break="no"/>sitionem posuit priori loco, cum dixit factum 
+      ho<lb ed="#P" n="112" break="no"/>minem ad similitudinem Dei secundum 
+      innocen<lb ed="#P" n="113" break="no"/>tiam &amp; justitiam. Qua in re Magistrum S. Thomas 
+      <lb ed="#P" n="114"/>caeterique posteriores Theologi fere sequuntur. 
+      li<lb ed="#P" n="115" break="no"/>dem dicunt in descriptione creationis hominis ideo 
+      <lb ed="#P" n="116"/>non fuisse dictum secundo loco: Et creavit Deus 
+      <lb ed="#P" n="117"/>hominem ad imaginem &amp; similitudinem suam, sed 
+      <lb ed="#P" n="118"/>tantum ad imaginem suam, quia illud solum voluerit 
+      <lb ed="#P" n="119"/>Moyses secundo repetere quod in homine permansit, 
+      <lb ed="#P" n="120"/>illud vero quod peccando periit, reticere. 
+    </p>
+            <p xml:id="bt67yj-p054432-d1e259">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Porro sanctus Augustinus hujus sententiae 
+      memi<lb ed="#P" n="122" break="no"/>nit quidem quaest. 4. super. Deuteron. sed ita ut non 
+      <lb ed="#P" n="123"/>videatur eam probare, quando &amp; dictam rationem 
+      <lb ed="#P" n="124"/>similitud inis postea non repetitae alia meliori ratione 
+      <lb ed="#P" n="125"/>allata corrigit. Sic enim scribit: Sad quod non 
+      addi<lb ed="#P" n="126" break="no"/>dit, similitudinem, quibusdam visum est 
+      similitu<lb ed="#P" n="127" break="no"/>dinem aliquid amplius esse quam imaginem, quod 
+      ho<lb ed="#P" n="128" break="no"/>mini formando per Christi gratiam servaretur. 
+      Mi<lb ed="#P" n="129" break="no"/>ror autem si non propterea postea imaginem solam 
+      <lb ed="#P" n="130"/>voluit commemorare, quia ubi imago, continuo &amp; 
+      si<lb ed="#P" n="131" break="no"/>militudo est. Sic ille. Quitamen nec eo loco, nec qui 
+      <lb ed="#P" n="132"/>51. inter 83. suam sententiam plane exprimit; nisi 
+      <lb ed="#P" n="133"/>quod videatur, ut initio dictum est, similitudinem 
+      <lb ed="#P" n="134"/>facere genus imaginis: quod tamen ob rationem 
+      su<lb ed="#P" n="135" break="no"/>pra dictam non est probabile. 
+    </p>
+            <p xml:id="bt67yj-p054432-d1e296">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Certe non improbanda videtureorum sententia, 
+      <lb ed="#P" n="137"/>qui arbitrantur hic frustra quaeri discrimen inter 
+      <lb ed="#P" n="138"/>imagnem &amp; similitudinem, quod utroque 
+      no<lb ed="#P" n="139" break="no"/>mine rem eandem Moyses significare voluerit, 
+      id<lb ed="#P" n="140" break="no"/>que satis apparere ex collatione diversorum 
+      loco<lb ed="#P" n="141" break="no"/>rum scripturae, in quibus indiscrete nunc imago, 
+      <lb ed="#P" n="142"/>nunc similitudo, nunc utrumque vocabulum 
+      po<lb ed="#P" n="143" break="no"/>nitur. Ad id ostendendum imprimis facere 
+      scriptu<lb ed="#P" n="144" break="no"/>ram Genes. 1. ubi cum dictum fuisset: Faciamus 
+      <lb ed="#P" n="145"/>hominem ad imaginem &amp; similitudinem nostram, 
+      <!--0375.xml-->
+      <pb ed="#P" n="142"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>paulo post sola imago nominatur; nimirum 
+      relin<lb ed="#P" n="2" break="no"/>quens nobis intelligendum juxta Augustini 
+      colle<lb ed="#P" n="3" break="no"/>ctionem quod ubi imago, continuo &amp; similitudo 
+      <lb ed="#P" n="4"/>est. Sic Genes. 5. prius quidem sola similitudo 
+      no<lb ed="#P" n="5" break="no"/>minatur, postea vero utrumque. Quo loco nec 
+      om<lb ed="#P" n="6" break="no"/>nino retineri potest discrimen supra dictum, in eo 
+      <lb ed="#P" n="7"/>scilicet quod dicitur Adam genuisse filium Seth ad 
+      <lb ed="#P" n="8"/>imaginem &amp; similitudinem suam. Rursus autem 
+      <lb ed="#P" n="9"/>cap. 9. sola imago ponitur, quemadmodum &amp; apud 
+      <lb ed="#P" n="10"/>Ecclesiasticum cap. 17. Utrumque vero libro Sap. 
+      <lb ed="#P" n="11"/>cap. 2. sed sic ut alterum alteri jungatur in genitivo 
+      <lb ed="#P" n="12"/>dicendo imaginem similitudinis. Denique Jacobi 
+      <lb ed="#P" n="13"/>3. sola nominatur similitudo; mirum si non 
+      propte<lb ed="#P" n="14" break="no"/>rea (ut Augustini conjectura rursus utar) quia ubi 
+      <lb ed="#P" n="15"/>similitudo, continuo &amp; imago est. Non est autem 
+      <lb ed="#P" n="16"/>Hebraeis infrequens eandem rem diversis 
+      vocabu<lb ed="#P" n="17" break="no"/>lis aut etiam sententiis repetendo inculcare. Cui 
+      <lb ed="#P" n="18"/>rei vel maxime Psalmi Davidici fidem faciunt. Huc 
+      <lb ed="#P" n="19"/>accedit quod imaginis vocabulum apud Paulum 
+      <lb ed="#P" n="20"/>usurpatur pro similitudine quae in justitia 
+      caeteris<lb ed="#P" n="21" break="no"/>que virtutibus consistit, ut 1. Corinth. 15. cum ait: 
+      <lb ed="#P" n="22"/>Sicut portavimus imaginem terreni, portemus &amp; 
+      ima<lb ed="#P" n="23" break="no"/>ginem caelestis. Et coloss. 3. Induentes novum 
+      homi<lb ed="#P" n="24" break="no"/>nem qui renovatur secundum imaginem ejus qui 
+      crea<lb ed="#P" n="25" break="no"/>vit illum. 
+    </p>
+            <p xml:id="bt67yj-p054432-d1e383">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Quae omnia satis ostendere videntur eandem esse 
+      <lb ed="#P" n="27"/>vim &amp; significationem utriusque vocabuli; nec 
+      <lb ed="#P" n="28"/>ideo inepte utrumque simul positum interdum. Id 
+      <lb ed="#P" n="29"/>enim factum majoris expressionis gratia, ut in aliis 
+      <lb ed="#P" n="30"/>fieri solet. Qua responsione facile solvitur 
+      argumen<lb ed="#P" n="31" break="no"/>tum S. Basilii, quo probare nititur diversae 
+      signifi<lb ed="#P" n="32" break="no"/>cationis esse imaginem &amp; similitudinem, quod nefas 
+      <lb ed="#P" n="33"/>sit sentire verbum aliquod esse in scripturis otiosum 
+      <lb ed="#P" n="34"/>&amp; supervacaneum. Si enim non est otiosa repetitio 
+      <lb ed="#P" n="35"/>ejusdem vocabuli, cum fit majoris vehementiae 
+      cau<lb ed="#P" n="36" break="no"/>sa, ut cum dicitur, Domine Domine, Amen Amen, 
+      <lb ed="#P" n="37"/>Martha Martha; nec otiosa putanda est ejusdem 
+      <lb ed="#P" n="38"/>rei sub diversis vocabulis repetitio, dum fit ob 
+      cau<lb ed="#P" n="39" break="no"/>sam quam diximus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

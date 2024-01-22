@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="34"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p013339"><!-- l2d3c14" -->
+            <head xml:id="bt67yj-p013339-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-p013339-Hd1e103" type="question-title">Respondetur ad objectiones</head>
+            <p xml:id="bt67yj-p013339-d1e106">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> §. 14. Respondetur ad objectiones.
+    </p>
+            <p xml:id="bt67yj-p013339-d1e113">
+               <lb ed="#P" n="133"/>ARgumenta propter quae majorem instantium 
+      <lb ed="#P" n="134"/>numerum in negotio angelorum alii quidam 
+      <lb ed="#P" n="135"/>posuerunt, jam superius indicavimus. 
+      <lb ed="#P" n="136"/>Primum sumitur ex pluralitate actuum quibus 
+      an<lb ed="#P" n="137" break="no"/>geli meruerunt, aut demeruerunt. Cum enim 
+      gra<lb ed="#P" n="138" break="no"/>tia in qua fuerunt creati, comitata fuerit omnibus 
+      <lb ed="#P" n="139"/>virtutibus quae angelicae naturae conveniunt, plane 
+      <lb ed="#P" n="140"/>consentaneum fuit ut per omnium virtutum actus 
+      <lb ed="#P" n="141"/>beatitudinem mererentur, &amp; non per solum actum 
+      <lb ed="#P" n="142"/>charitatis. Similiter autem credibile est etiam 
+      ma<lb ed="#P" n="143" break="no"/>los non contra unam tantum, sed plures vel omnes 
+      <lb ed="#P" n="144"/>virtutes peccasse. 
+    </p>
+            <p xml:id="bt67yj-p013339-d1e142">
+               <lb ed="#P" n="145"/>Respondetur ob hujusmodi actuum pluralitatem 
+      <!--0268.xml-->
+      <pb ed="#P" n="35"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non esse multiplicanda instantia; quia sicut eidem 
+      <lb ed="#P" n="2"/>instanti ascribitur operatio naturae &amp; gratiae, 
+      quem<lb ed="#P" n="3" break="no"/>admodum explicatum est supra, sic simul eodem 
+      <lb ed="#P" n="4"/>instanti esse potuerunt actus plurium virtutum, ut 
+      <lb ed="#P" n="5"/>fidei, spei, charitatis, humilitatis &amp; aliarum, imo 
+      <lb ed="#P" n="6"/>omnium virtutum quas habebant. 
+    </p>
+            <p xml:id="bt67yj-p013339-d1e167">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Nec obstat axioma philosophi, intellectum non 
+      <lb ed="#P" n="8"/>posse plura simul intelligere; non enim potest per 
+      <lb ed="#P" n="9"/>modum plurium, sed bene per modum unius, ut 
+      <lb ed="#P" n="10"/>fit in his actibus, utpote invicem subordinatis. 
+      <lb ed="#P" n="11"/>Quod autem dictum est de actibus bonis, id de 
+      ma<lb ed="#P" n="12" break="no"/>lis consimili modo est intelligendum. Hinc patet 
+      <lb ed="#P" n="13"/>quo sensu doceat sanctus Thomas 1. quaest. 62. art. 5. 
+      <lb ed="#P" n="14"/>angelos statim post unum actum charitate informa 
+      <lb ed="#P" n="15"/>tum, id est, meritorium, fuisse consecutos 
+      beatitudi<lb ed="#P" n="16" break="no"/>nem. Non enim simpliciter negat in iis plures actus 
+      <lb ed="#P" n="17"/>meritorios, sed ita plures, qui simul esse non possent, 
+      <lb ed="#P" n="18"/>&amp; proinde plura requirerent instantia, 
+      quemadmo<lb ed="#P" n="19" break="no"/>dum ipse satis declarat ibidem in resp. ad 2. 
+      Quocir<lb ed="#P" n="20" break="no"/>ca nec dicit angelos consecutos beatitudinem per 
+      <lb ed="#P" n="21"/>unum actum, sed post unum actum, quia non fuit 
+      <lb ed="#P" n="22"/>actuum pluralitas secundum successionem ad 
+      me<lb ed="#P" n="23" break="no"/>rendam beatitudinem. 
+    </p>
+            <p xml:id="bt67yj-p013339-d1e209">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Secundum argumentum sumebatur ex profectu &amp; 
+      <lb ed="#P" n="25"/>incremento meriti in bonis, ac demeriti in malis. 
+      <lb ed="#P" n="26"/>Ubi enim est profectus &amp; incrementum, ibi neces 
+      <lb ed="#P" n="27"/>sario est prius &amp; posterius secundum successionem; 
+      <lb ed="#P" n="28"/>&amp; proinde plura instantia. 
+    </p>
+            <p xml:id="bt67yj-p013339-d1e225">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Sed ad hoc probabiliter respondetur, negando 
+      <lb ed="#P" n="30"/>hujusmodi profectum seu incrementum meriti, aut 
+      <lb ed="#P" n="31"/>demeriti fuisse in angelis. Nam quod ad meritum 
+      <lb ed="#P" n="32"/>attinet, profectum ab eis removet sanctus Basilius 
+      <lb ed="#P" n="33"/>in expositione psal. 32. his verbis: Non enim in 
+      in<lb ed="#P" n="34" break="no"/>fantili statura sunt creati, deinde paulatim 
+      exerci<lb ed="#P" n="35" break="no"/>tati, atque perfecti, sed in prima constitutione, &amp; 
+      <lb ed="#P" n="36"/>quasi quadam conspersione suae substantiae, simul 
+      in<lb ed="#P" n="37" break="no"/>fusam habuere sanctitatem, intellige perfectam, 
+      se<lb ed="#P" n="38" break="no"/>quitur enim: Quapropter &amp; ad malitiam 
+      diffici<lb ed="#P" n="39" break="no"/>le se poterant transmovere, nimirum in sibi 
+      indul<lb ed="#P" n="40" break="no"/>ta sanctitate quasi tinctura quadam confirmati, 
+      pe<lb ed="#P" n="41" break="no"/>ne momento, &amp;c. Hinc &amp; Ezechiel principem 
+      an<lb ed="#P" n="42" break="no"/>gelum ab initio perfectum describit. Nec ulla 
+      scri<lb ed="#P" n="43" break="no"/>ptura accessionem meritorum angelis ascribit. Nec 
+      <lb ed="#P" n="44"/>sanctus Augustinus aliud quam perseverantiam iis 
+      <lb ed="#P" n="45"/>attribuit. Quod autem pariter ad utrumque 
+      atti<lb ed="#P" n="46" break="no"/>net, meritum scilicet, &amp; demeritum, dicit sanctus 
+      <lb ed="#P" n="47"/>Thomas angelos quorum naturae proprium est, 
+      <lb ed="#P" n="48"/>non per discursum investigare conclusiones ex 
+      prin<lb ed="#P" n="49" break="no"/>cipiis, sed statim in principiis conclusiones videre, 
+      <lb ed="#P" n="50"/>similiter non per peofectum moveri voluntate ad 
+      <lb ed="#P" n="51"/>aliquid, sed statim toto conatu ferri in objectum, 
+      <lb ed="#P" n="52"/>vel bonum, vel malum. Caeterum in hominibus 
+      <lb ed="#P" n="53"/>quibus naturalis est discursiva cognitio, rem aliter 
+      <lb ed="#P" n="54"/>se habere. 
+    </p>
+            <p xml:id="bt67yj-p013339-d1e286">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Tertium sumitur ex perseverantia bonorum quae 
+      <lb ed="#P" n="56"/>non videtur intelligi posse, nisi per prius &amp; 
+      poste<lb ed="#P" n="57" break="no"/>rius in bono opere uno, vel pluribus. Unde 
+      con<lb ed="#P" n="58" break="no"/>sequens videtur in merito angelorum, ut minimum 
+      <lb ed="#P" n="59"/>agnoscenda esse duo instantia. Cui accedit quod 
+      se<lb ed="#P" n="60" break="no"/>cundum sententiam S. Augustini, &amp; ipsam 
+      verita<lb ed="#P" n="61" break="no"/>tem bonis perseverantibus alii per superbiam 
+      ceci<lb ed="#P" n="62" break="no"/>derunt; ergo si duo dantur instantia malis, scilicet 
+      <lb ed="#P" n="63"/>meriti &amp; peccati, necessario etiam bonis duo 
+      dan<lb ed="#P" n="64" break="no"/>da erunt illis duobus respondentia, scilicet meriti, 
+      <lb ed="#P" n="65"/>&amp; perseverantiae seu continuationis meriti usque ad 
+      <lb ed="#P" n="66"/>terminum. Hoc argumentum quod in praesenti 
+      ma<lb ed="#P" n="67" break="no"/>teria difficillimum judicatur, probabiliter ita 
+      dis<lb ed="#P" n="68" break="no"/>solvitur, si dicamus nihil prohibere quo minus uni 
+      <lb ed="#P" n="69"/>instanti operationis unius angeli respondeant duo, 
+      <lb ed="#P" n="70"/>imo quam plurima instantia duarum, aut 
+      plurima<lb ed="#P" n="71" break="no"/>rum operationum alterius angeli. Cum enim in 
+      <lb ed="#P" n="72"/>una operatione unius, non sit dare prius ac 
+      poste<lb ed="#P" n="73" break="no"/>rius, exempli gratia, in actu dilectionis Dei, si ea 
+      <lb ed="#P" n="74"/>duret per multos dies, potuerunt ei extrinsecus res¬ 
+      <!--0268.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>pondere multae operationes alterius angeli, sibi 
+      in<lb ed="#P" n="76" break="no"/>vicem succedentes, sicut &amp; respondent extrinsecus 
+      <lb ed="#P" n="77"/>multae operationes hominum, &amp; multi motus 
+      cor<lb ed="#P" n="78" break="no"/>porum. Igitur juxta hanc responsionem, unus fuit 
+      <lb ed="#P" n="79"/>actus angeli boni quo meruit &amp; perseveravit, 
+      <lb ed="#P" n="80"/>quia intrinsecus in eo non fuit prius &amp; posterius; 
+      <lb ed="#P" n="81"/>plures autem fuerunt actus angeli mali, dilectio 
+      <lb ed="#P" n="82"/>Dei &amp; superbia respondentes tamen durationi 
+      <lb ed="#P" n="83"/>actus angeli perseverantis, &amp; ita tandem duo 
+      <lb ed="#P" n="84"/>angeli, bonus &amp; malus, concurrerunt in idem 
+      <lb ed="#P" n="85"/>instans quo bonus tulit praemium, malus 
+      suppli<lb ed="#P" n="86" break="no"/>cium. 
+    </p>
+            <p xml:id="bt67yj-p013339-d1e364">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Quartum argumentum ex eo sumitur quod 
+      prin<lb ed="#P" n="88" break="no"/>ceps angelus caeteris fuit causa peccati 
+      persuasio<lb ed="#P" n="89" break="no"/>nem &amp; exemplum. Unde ex parte peccati, seu 
+      <lb ed="#P" n="90"/>demeriti, videntur ut minimum duo ponenda 
+      in<lb ed="#P" n="91" break="no"/>stantia, unum respondens primo peccato diaboli, 
+      <lb ed="#P" n="92"/>alterum peccato angelorum ejus. Respondetur 
+      to<lb ed="#P" n="93" break="no"/>tum hoc in angelica illa &amp; spirituali natura, 
+      perfi<lb ed="#P" n="94" break="no"/>ci potuisse uno &amp; eodem instanti; quia sicut non 
+      <lb ed="#P" n="95"/>sunt duo instantia, unum quo color moveat visum, 
+      <lb ed="#P" n="96"/>&amp; alterum quo visus a calore moveatur, sed uno &amp; 
+      <lb ed="#P" n="97"/>eodem instanti utrumque perficitur; ita suadere, 
+      <lb ed="#P" n="98"/>&amp; suaderi, darc exemplum, &amp; accipere, non 
+      re<lb ed="#P" n="99" break="no"/>quirunt diversa instantia, imo propriissime etiam 
+      <lb ed="#P" n="100"/>in humanis perficiuntur uno eodemque instanti, 
+      <lb ed="#P" n="101"/>cum sint simul natura. Quae res etiam 
+      hujusmo<lb ed="#P" n="102" break="no"/>di comparatione apposite declaratur. Sicut enim 
+      <lb ed="#P" n="103"/>eodem instanti sol illustrat lunam, &amp; luna 
+      ter<lb ed="#P" n="104" break="no"/>ram; ita eodem instanti potuit primus angelus 
+      <lb ed="#P" n="105"/>suadendo movere medios angelos, &amp; medii 
+      ulti<lb ed="#P" n="106" break="no"/>mos. 
+    </p>
+            <p xml:id="bt67yj-p013339-d1e412">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Postremo, ad locum Ezechielis cum sancto 
+      <lb ed="#P" n="108"/>Thoma quaestione 63. articulo sexto ad primum, 
+      <lb ed="#P" n="109"/>respondemus per motus corporales qui tempore 
+      <lb ed="#P" n="110"/>mensurantur, &amp; quorum alii aliis succedunt, in 
+      <lb ed="#P" n="111"/>scripturis interdum metaphorice significari motus 
+      <lb ed="#P" n="112"/>spirituales instantaneos, sive succedant alii aliis, 
+      <lb ed="#P" n="113"/>&amp; proinde diversa habeant instantia, sive 
+      coexi<lb ed="#P" n="114" break="no"/>stant in eodem instanti, ut fuerunt in angelis, 
+      ac<lb ed="#P" n="115" break="no"/>tus fidei, spei, charitatis, &amp;c. quia per illos actus 
+      <lb ed="#P" n="116"/>simul existentes ambulabant, id est, operabantur 
+      <lb ed="#P" n="117"/>in via. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

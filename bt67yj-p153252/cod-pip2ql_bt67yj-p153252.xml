@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="396"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p153252"><!-- l2d43c4" -->
+            <head xml:id="bt67yj-p153252-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p153252-Hd1e103" type="question-title">Solvitur objectio de peccato ad mortem.</head>
+            <p xml:id="bt67yj-p153252-d1e106">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> §. 4. Solvitur objectio de peccato ad mortem. 
+    </p>
+            <p xml:id="bt67yj-p153252-d1e113">
+               <lb ed="#P" n="26"/>ALtera est objectio de peccato ad mortem, pro 
+      <lb ed="#P" n="27"/>quo non esse oranduqum loan. admonet 1. epist. 
+      <lb ed="#P" n="28"/>ult. idque non ob aliud, ut apparet, quam quia 
+      <lb ed="#P" n="29"/>tale peccatum nunquam remittitur. De hoc 
+      pecca<lb ed="#P" n="30" break="no"/>to sic August. loco supra citato de serm. Domini in 
+      <lb ed="#P" n="31"/>monte: Peccatum, inquit, fratris ad mortem puto 
+      <lb ed="#P" n="32"/>esse, cum post agnitionem Dei per gratiam Domini 
+      <lb ed="#P" n="33"/>nostri Jesu Christi, quisquam oppugnat fraternitatem, 
+      <lb ed="#P" n="34"/>&amp; adversus ipsam gratiam, qua reconciliatus est 
+      <lb ed="#P" n="35"/>Deo, invidentiae facibus agitatur. Est igitur August. 
+      <lb ed="#P" n="36"/>peccatum ad mortem idem cum peccato in Spiritum 
+      <lb ed="#P" n="37"/>sanctum, quod eodem cap. si milibus verbis definit. 
+      <lb ed="#P" n="38"/>Quod &amp; sentit Beda in hunc Joan. locum scribens, 
+      <lb ed="#P" n="39"/>&amp; Graecorum quidam. Cum vero August. locum 
+      <lb ed="#P" n="40"/>dictum retractans, eum intelligi velit de solo 
+      pec<lb ed="#P" n="41" break="no"/>cato ad mortem usque perseverante, facile juxta 
+      <lb ed="#P" n="42"/>ejus expositionem intelligitur, quare pro eo non sit 
+      <lb ed="#P" n="43"/>orandum. Verum huic expositioni adversari 
+      vide<lb ed="#P" n="44" break="no"/>tur quod Joan. nominet praesens tempus, peccare, 
+      <lb ed="#P" n="45"/>non praeteritum, peccavisse. Unde juxta August. 
+      <lb ed="#P" n="46"/>expositionem, quamdiu quis vivit, incertum erit 
+      <lb ed="#P" n="47"/>utrum quis peccat peccato ad mortem. 
+    </p>
+            <p xml:id="bt67yj-p153252-d1e163">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Sunt qui exponant de pertinacia vindictae, ad 
+      ver<lb ed="#P" n="49" break="no"/>sus quod peccatum exstat gravis exaggeratio 
+      Eccle<lb ed="#P" n="50" break="no"/>siastici 28. Sunt qui de omni peccato mortali 
+      intel<lb ed="#P" n="51" break="no"/>ligant, in cujus affectu quis adhuc perseverat. Sane 
+      <lb ed="#P" n="52"/>probabile est illud peccatum intelligi, de quo 
+      <lb ed="#P" n="53"/>Hebr. 6. &amp; 10. &amp; 2. Petr. 2. Quamvis enim &amp; 
+      <lb ed="#P" n="54"/>priora illa ad mortem sunt; quia mortale vulnus 
+      <lb ed="#P" n="55"/>infligunt animae; maxime tamen hoc postremum 
+      <lb ed="#P" n="56"/>tale est. Sed quodcunque horum intelligatur, non 
+      <lb ed="#P" n="57"/>prohibet apost. simpliciter pro eo orari, sed 
+      tan<lb ed="#P" n="58" break="no"/>tum dicit: Non pro illo dico ut roget quis, id est, 
+      <lb ed="#P" n="59"/>non praecipio ut pro illo oretis. Cujus ratio est; vel 
+      <lb ed="#P" n="60"/>quia tales difficillime convertuntur, unde 1. Reg. 
+      <lb ed="#P" n="61"/>2. Si in Dominum peccaverit vir, quis orabit pro 
+      <lb ed="#P" n="62"/>eo? quasi dicat, oportet eum magni meriti apud 
+      <lb ed="#P" n="63"/>Deum esse, qui pro tam gravi peccato audeat se 
+      in<lb ed="#P" n="64" break="no"/>tercessorem ponere; vel quia etiam magnum est, 
+      <lb ed="#P" n="65"/>poenitentiam impetrari homini adhuc in affectu 
+      <lb ed="#P" n="66"/>mortalis peccati permanenti.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

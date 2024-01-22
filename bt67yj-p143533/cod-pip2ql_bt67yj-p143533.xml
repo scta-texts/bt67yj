@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="370"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p143533"><!-- l2d33c6" -->
+            <head xml:id="bt67yj-p143533-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p143533-Hd1e103" type="question-title">De poena peccati originalis quid certo 
+        tenendum sin</head>
+            <p xml:id="bt67yj-p143533-d1e106">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> §. 6. De poena peccati originalis quid certo 
+      <lb ed="#P" n="136"/>tenendum sin 
+      <lb ed="#P" n="137"/>POena peccati originalis alia temporalis est, alia 
+      <lb ed="#P" n="138"/>A aeterna. Ad poenam temporalem pertinet mors 
+      <lb ed="#P" n="139"/>corporis, aliaeque hujus mortalitatis aerumnae atque; 
+      <lb ed="#P" n="140"/>miseriae, juxta illud Rom. 5. Perunum hominem pec¬ 
+      <!--0604.xml-->
+      <pb ed="#P" n="371"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tatum intravit in hunc mundum, &amp; per peccatum mors. 
+      <lb ed="#P" n="2"/>Et Corinth. 15. In Adam omnes moriuntur. Et, Per 
+      <lb ed="#P" n="3"/>hominem mors. Et Rom. 8. Corpus mortuum est propter 
+      <lb ed="#P" n="4"/>peccatum. Idem a Patribus decretum est Can. 2. 
+      Con<lb ed="#P" n="5" break="no"/>cilii Arausicani, &amp; Can. 2. sess. 5. Concil. Trid. 
+      ver<lb ed="#P" n="6" break="no"/>bis ex Arausicano Canone repetitis. 
+    </p>
+            <p xml:id="bt67yj-p143533-d1e143">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Porro de futuri saeculi poena, seu propter rei 
+      ob<lb ed="#P" n="8" break="no"/>scuritatem, seu propter opinantium diversitatem, 
+      <lb ed="#P" n="9"/>difficilior existit quaestio, ubi tamen juxta Scripturae 
+      <lb ed="#P" n="10"/>authoritatem &amp; Patrum definitiones in primis certo 
+      <lb ed="#P" n="11"/>statuendum est, parvulos in solo originali peccato 
+      <lb ed="#P" n="12"/>decedentes non ingressuros regnum coelorum, cum 
+      <lb ed="#P" n="13"/>sit definita Domini sententia Jo. 3. Nisi quis renatus 
+      <lb ed="#P" n="14"/>fuerit ex aqua &amp; spiritu, non potest introire in regnum 
+      <lb ed="#P" n="15"/>Dei. Hoc autem etiam Pelagius de parvulis non 
+      ba<lb ed="#P" n="16" break="no"/>ptizatis, licet eos negaret peccato obnoxios, 
+      confes<lb ed="#P" n="17" break="no"/>sus est. Sed quia extra regnum caelorum vitam eis 
+      <lb ed="#P" n="18"/>promittebat aeternam, videndum utrum ejusmodi 
+      <lb ed="#P" n="19"/>opinionem sana doctrina permittat. 
+    </p>
+            <p xml:id="bt67yj-p143533-d1e176">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Certe manifestum satis est in Scripturis sacris, 
+      vi<lb ed="#P" n="21" break="no"/>tam &amp; salutem aeternam non aliud intelligi, quam 
+      <lb ed="#P" n="22"/>regnum caelorum. Quod enim Joan. 3. Dominus 
+      di<lb ed="#P" n="23" break="no"/>xerat regnum Dei, postea in eodem sermone 
+      aeter<lb ed="#P" n="24" break="no"/>nam vitam &amp; salutem vocat: Ut omnis, inquit, qui 
+      <lb ed="#P" n="25"/>credit in eum non pereat, sed habeat vitam aeternam. Et 
+      <lb ed="#P" n="26"/>iterum: Ut salvetur mundus per eum. Et in verbis 
+      <lb ed="#P" n="27"/>Joannis Baptistae eodem. cap. Qui incredulus est 
+      fi<lb ed="#P" n="28" break="no"/>lio, non habebit vitam. Act. 8 Non est aliud nomen sub 
+      <lb ed="#P" n="29"/>coelo datum hominibus, in quo oporteat nos salvos fieri. 
+      <lb ed="#P" n="30"/>Et Rom. 6. Gratia Dei vita aeterna. Et 1. Jo. 5. Qui non 
+      <lb ed="#P" n="31"/>habet filium Dei, vitam non habet. Aliaque ejusmodi 
+      <lb ed="#P" n="32"/>loca pene innumera, ut merito jam olim in Synodo 
+      <lb ed="#P" n="33"/>Palaestina contra Pelagium habita, damnatus sit iste 
+      <lb ed="#P" n="34"/>Pelagii articulus: Infantes, etiamsi non baptizentur, 
+      <lb ed="#P" n="35"/>habere vitam aternam, quemadmodum refert Aug. 
+      <lb ed="#P" n="36"/>epist. 106. ad Paulinum. Qua de re videre quoque 
+      <lb ed="#P" n="37"/>licet epistolas Concilii Carthaginensis &amp; Milevitani 
+      <lb ed="#P" n="38"/>ad Innocentium Papam, quae sunt apud Augustinum 
+      <lb ed="#P" n="39"/>numero 90. &amp; 92. necnon eam qua respondet 
+      Inno<lb ed="#P" n="40" break="no"/>centius Patribus Milevitani Concilii, quae apud 
+      eun<lb ed="#P" n="41" break="no"/>dem Augustinum est 93. in qua de parvulis 
+      interpre<lb ed="#P" n="42" break="no"/>tatur illud Joan. 6. Nisi manducaveritis carnem filii 
+      <lb ed="#P" n="43"/>hominis, &amp; biberitis ejus sanguinem, non habebitis 
+      vi<lb ed="#P" n="44" break="no"/>tam in vobis. Ipsaque Innocentii verba repetit Aug 
+      <lb ed="#P" n="45"/>lib. 2. contra 2. epist. Pelagianorum cap. 4 
+    </p>
+            <p xml:id="bt67yj-p143533-d1e238">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Leguntur autem verba prorsus ejusdem sententiae 
+      <lb ed="#P" n="47"/>apud Gelasium Papam in epistola ad Picenos, ubi 
+      <lb ed="#P" n="48"/>impiam &amp; profanam vocat eorum propositionem, 
+      <lb ed="#P" n="49"/>qui dicunt parvulos pro solo originali peccato non 
+      <lb ed="#P" n="50"/>damnari, sed tertium quendam eis locum tribuunt, 
+      <lb ed="#P" n="51"/>in quo extra regnum caelorum vitam agunt beatam. 
+      <lb ed="#P" n="52"/>Utitur quoque dicta probatione ex verbis Domini: 
+      <lb ed="#P" n="53"/>Nisi manducaveritis. Ex quibus concludit etiam 
+      par<lb ed="#P" n="54" break="no"/>vulos, nisi manducaverint, vitam in semetipsis 
+      ha<lb ed="#P" n="55" break="no"/>bere non posse. Disserit de eadem re contra 
+      Pela<lb ed="#P" n="56" break="no"/>gianos Augustinus variis locis, sed praecipue lib. 2. 
+      <lb ed="#P" n="57"/>de origine animae cap. 10. &amp; in libro de haeresibus, 
+      <lb ed="#P" n="58"/>in haeresi Pelagii. Et in Joan. ad illud; In domo patris 
+      <lb ed="#P" n="59"/>mei, &amp;c. tractat. 67. &amp; in lib. 3. de peccatorum 
+      me<lb ed="#P" n="60" break="no"/>ritis capite 4. 
+    </p>
+            <p xml:id="bt67yj-p143533-d1e275">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> His accessit postremo definitio Concilii Trident. 
+      <lb ed="#P" n="62"/>sess. 5. Can. 4. in quo damnantur anathemate qui 
+      no<lb ed="#P" n="63" break="no"/>gant parvulos ex Adam trahere peccatum, quod 
+      re<lb ed="#P" n="64" break="no"/>generationis lavacro necesse sit expiari, ad vitam 
+      <lb ed="#P" n="65"/>aeternam consequendam. 
+    </p>
+            <p xml:id="bt67yj-p143533-d1e291">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Praeter haec autem &amp; illud certo statuendum est, 
+      <lb ed="#P" n="67"/>eos qui ex hac vita decedunt in peccato originali, 
+      <lb ed="#P" n="68"/>nunquam a poena ejus in aeternum liberandos esse; 
+      <lb ed="#P" n="69"/>neque ullo modo auscultandum iis, qui illis salutem 
+      <lb ed="#P" n="70"/>id est, beatam quandam vitam promittunt in 
+      relur<lb ed="#P" n="71" break="no"/>rectione universali, ut habet periculosa &amp; 
+      temera<lb ed="#P" n="72" break="no"/>ria Catharini opinio, ad quam confirmandam 
+      uti<lb ed="#P" n="73" break="no"/>tur his &amp; hujusmodi Scripturis: Novissime inimica 
+      <lb ed="#P" n="74"/>destruetur mors: Princeps hujus mundi ejicietur foras. 
+      <!--0604.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>In Christo omnes vivificabuntar. Sed has Scriptura 
+      <lb ed="#P" n="76"/>sententias constat juxta sanam &amp; Catholicam 
+      inter<lb ed="#P" n="77" break="no"/>pretationem longe alium sensum habere. 
+    </p>
+            <p xml:id="bt67yj-p143533-d1e326">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Ad eum autem errorem destruendum non opus est 
+      <lb ed="#P" n="79"/>alia probatione, quam ea qua Patres usi sunt 
+      adver<lb ed="#P" n="80" break="no"/>sus Origenem, docentem damnatorem poenas 
+      ali<lb ed="#P" n="81" break="no"/>quando finem habituras. Qua de re satis dictum sub 
+      <lb ed="#P" n="82"/>finem 4. sententiarum. Neque enim dubitandum, 
+      <lb ed="#P" n="83"/>etiam parvulos qui solo peccato originis tenentur 
+      <lb ed="#P" n="84"/>obstricti, post hanc vitam in damnatorum 
+      nume<lb ed="#P" n="85" break="no"/>ro habendos, cum dicat Apostolus Rom. 5. per unius 
+      <lb ed="#P" n="86"/>delictum in omnes homines transire 
+      condemnatio<lb ed="#P" n="87" break="no"/>nem. 
+    </p>
+            <p xml:id="bt67yj-p143533-d1e352">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Ex his igitur quae diximus manifeste sequitur, 
+      poe<lb ed="#P" n="89" break="no"/>nam peccato originali debitam esse perpetuam 
+      ca<lb ed="#P" n="90" break="no"/>rentiam visionis divinae. Cum enim visio Dei, de 
+      <lb ed="#P" n="91"/>qua dictum est 1. Cor. 13. Videbimus cum facie 
+      adfa<lb ed="#P" n="92" break="no"/>eiem. Et 1. Joan. 3. Videbimus eum sicuti est, extra 
+      re<lb ed="#P" n="93" break="no"/>gnum caelorum &amp; vitam aeternam nulla sit; quin 
+      po<lb ed="#P" n="94" break="no"/>tius ipsa regnum caelorum &amp; vitam aeternam 
+      consti<lb ed="#P" n="95" break="no"/>tuat, minime dubitandum est, ab ea alienos fore quos 
+      <lb ed="#P" n="96"/>jam ostendimus, neque in regno caelorum, neque in 
+      <lb ed="#P" n="97"/>vita aeterna partem habituros. Ita docet Innocentius 
+      <lb ed="#P" n="98"/>III. in decretalibusc. Majores tit. de baptismo &amp; ejus 
+      <lb ed="#P" n="99"/>effectu. Estque haec adeo certa doctrina, ut contrarius 
+      <lb ed="#P" n="100"/>error superet etiam haeresim Pelagianam, 
+      quemad<lb ed="#P" n="101" break="no"/>modum ex supra dictis perspicuum est. Nam &amp; 
+      Cae<lb ed="#P" n="102" break="no"/>lestinus Pelagii discipulus cum de parvulis sine 
+      ba<lb ed="#P" n="103" break="no"/>ptismo morientibus interrogaretur, respondere 
+      soli<lb ed="#P" n="104" break="no"/>tus erat: Quo non eant scio, quo eant nescio; 
+      signi<lb ed="#P" n="105" break="no"/>ficans se certum quod non eant in regnum caelorum. 
+      <lb ed="#P" n="106"/>Testatur id August. libro de peccato originali cap. 1. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

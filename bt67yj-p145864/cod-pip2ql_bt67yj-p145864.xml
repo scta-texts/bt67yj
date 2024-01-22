@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="376"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p145864"><!-- l2d35c1" -->
+            <head xml:id="bt67yj-p145864-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p145864-Hd1e103" type="question-title">Quid sit peccatum, et ad quae extendatur</head>
+            <p xml:id="bt67yj-p145864-d1e106">
+               <lb ed="#P" n="112"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="113"/>TRICESIMAMQUINTAM. 
+      <lb ed="#P" n="114"/>§. 1. Quid sit peccatum, &amp; ad quae extendatur. 
+    </p>
+            <p xml:id="bt67yj-p145864-d1e115">
+               <lb ed="#P" n="115"/>TRES peccati definitiones sub initium hujus 
+      <lb ed="#P" n="116"/>dist. ponuntur a Magistro, quarum duae. 
+      <lb ed="#P" n="117"/>priores ex Augustino sumptae sunt, 
+      postre<lb ed="#P" n="118" break="no"/>ma ex Ambrosii lib. de paradiso cap. 8. Prima haec 
+      <lb ed="#P" n="119"/>est. Peccatum est omne dictum vel factum vel 
+      con<lb ed="#P" n="120" break="no"/>cupitum, quod sit contra legem Dei. Secunda: 
+      Pec<lb ed="#P" n="121" break="no"/>catum est voluntas retinendi, vel consequendi quod 
+      <lb ed="#P" n="122"/>justitia vetat. Tertia: Peccatum est legis divinae 
+      prae<lb ed="#P" n="123" break="no"/>varicatio, &amp; caelestium inobedientia praeceptorum. Sunt 
+      <lb ed="#P" n="124"/>&amp; aliae peccati definitiones apud authores, ut ista 
+      <lb ed="#P" n="125"/>apud Augustinum lib. I. de libero arbitrio cap. ult. 
+      <lb ed="#P" n="126"/>Peccare est neglectis rebus aeternis temporalia sectari. 
+      <lb ed="#P" n="127"/>Et haec apud eundem lib. 83. qu. 30. Peccatum est 
+      <lb ed="#P" n="128"/>uti fruendis, &amp; frui utendis. 
+    </p>
+            <p xml:id="bt67yj-p145864-d1e148">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Verum hae definitiones non omnia ea 
+      complectun<lb ed="#P" n="130" break="no"/>tur, quae veram peccati rationem habent. Ut enim 
+      <lb ed="#P" n="131"/>interim de venialibus peccatis quaestionem 
+      sepona<lb ed="#P" n="132" break="no"/>mus (de quibus proximo cap. dicendum) in quae 
+      cer<lb ed="#P" n="133" break="no"/>te postremae definitiones non videntur competere; 
+      <lb ed="#P" n="134"/>satis apparet, sola actualia peccata omnibus jam 
+      da<lb ed="#P" n="135" break="no"/>tis definitionibus contineri; ea, inquam, sola quae 
+      con<lb ed="#P" n="136" break="no"/>sistunt in actuali cogitatione, locutione, vel alia sive 
+      <lb ed="#P" n="137"/>interna, sive externa creaturae rationalis operatione, 
+      <!--0610.xml-->
+      <pb ed="#P" n="377"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quocirca peccatum originale, quod &amp; ipsum veram, 
+      <lb ed="#P" n="2"/>ac propriam peccati rationem habet, cum non sit 
+      <lb ed="#P" n="3"/>actus transiens, sed corruptio &amp; languor permanens, 
+      <lb ed="#P" n="4"/>dictis definitionibus non comprehenditur; 
+      quemad<lb ed="#P" n="5" break="no"/>modum nec ea malitia, quae post actum peccati 
+      <lb ed="#P" n="6"/>transeuntem relicta, hominem etsi non jam 
+      peccan<lb ed="#P" n="7" break="no"/>tem, peccatorem tamen constituit, remanetque 
+      tan<lb ed="#P" n="8" break="no"/>tisper donec per poenitentiam tollatur. Estque simile 
+      <lb ed="#P" n="9"/>judicium de quibuscunque habitibus malis, quibus 
+      <lb ed="#P" n="10"/>voluntas infecta &amp; subjecta tenetur, etiam tunc, 
+      <lb ed="#P" n="11"/>quando per eos actus non movetur, quemadmodum 
+      <lb ed="#P" n="12"/>intelligitur ex verbis Augustini lib. 6. contra 
+      Julia<lb ed="#P" n="13" break="no"/>num cap. 19. &amp; de perfectione justitiae sub initium. 
+      <lb ed="#P" n="14"/>Quo pertinent &amp; ea quae supra diximus circa dist. 30. 
+      <lb ed="#P" n="15"/>ad docendum non solos actus, sed &amp; habitus coram 
+      <lb ed="#P" n="16"/>Deo laudabiles aut vituperabiles esse. Deinde &amp; de 
+      <lb ed="#P" n="17"/>peccatis omissionis, quae proprie actus non sunt, sed 
+      <lb ed="#P" n="18"/>in nuda actuum cessatione consistunt, similis 
+      quae<lb ed="#P" n="19" break="no"/>stio moveri potest. 
+    </p>
+            <p xml:id="bt67yj-p145864-d1e221">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Ut ergo omnia ea in quibus vera peccati ratio 
+      in<lb ed="#P" n="21" break="no"/>venitur, una peccati definitione concludamus, 
+      pote<lb ed="#P" n="22" break="no"/>rit peccatum hac notione explicari, ut secundum 
+      <lb ed="#P" n="23"/>Scripturam dicatur omne peccatum esse iniquitas. Ita 
+      <lb ed="#P" n="24"/>enim Joan. 1. ep. 3. Omnis, inquit, qui facit peccatum, 
+      <lb ed="#P" n="25"/>&amp; iniquitatem facit, &amp; peccatum est iniquitas. Graece 
+      <lb ed="#P" n="26"/>ἄνομια, quasi dicas illegalitatem, id est, deviationem 
+      <lb ed="#P" n="27"/>a lege. Omne Ritur illud, quod vel est in homine, 
+      <lb ed="#P" n="28"/>vel fit ab homine, devians ac recedens a rectitudine 
+      <lb ed="#P" n="29"/>legis divinae, peccatum est. Qua peccati 
+      notificatio<lb ed="#P" n="30" break="no"/>ne manifestum est comprehendi non solos actus 
+      si<lb ed="#P" n="31" break="no"/>ve internos sive externos, sed &amp; actuum omissiones, 
+      <lb ed="#P" n="32"/>&amp; habitus malos; quatenus haec omnia vel voluntate 
+      <lb ed="#P" n="33"/>fiunt, vel voluntati placent. 
+    </p>
+            <p xml:id="bt67yj-p145864-d1e256">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Ex his facilis est responsio ad quaestionem quam §. 
+      <lb ed="#P" n="35"/>B. movet Magister, utrum videlicet sola voluntas sit 
+      <lb ed="#P" n="36"/>peccatum, non autem actus exteriores. Quod videri 
+      <lb ed="#P" n="37"/>cuipiam posset ex secunda Augustini definitione 
+      su<lb ed="#P" n="38" break="no"/>pra posita. An vero praeter voluntatem malam etiam 
+      <lb ed="#P" n="39"/>actus externi peccata sint, quod aliae definitiones 
+      si<lb ed="#P" n="40" break="no"/>gnificant: An denique propterea quod omnis actus 
+      <lb ed="#P" n="41"/>bonus sit, utpote Deum authorem habens, 
+      dicen<lb ed="#P" n="42" break="no"/>dum sit nullum actum neque internum, neque 
+      exter<lb ed="#P" n="43" break="no"/>num esse peccatum, sed eam solam quae actui 
+      conjun<lb ed="#P" n="44" break="no"/>gitur, boni privationem, atque a lege Dei 
+      defectio<lb ed="#P" n="45" break="no"/>nem, peccati nomine censeri. Respondendum est 
+      <lb ed="#P" n="46"/>enim cum Magistro, actus malos tam externos quam 
+      <lb ed="#P" n="47"/>internos peccata esse; qui omnes ejusmodi lege Dei 
+      <lb ed="#P" n="48"/>prohibentur, praecipue tamen in malo actu 
+      volun<lb ed="#P" n="49" break="no"/>tatis consistere peccatum; tum quia ex voluntate 
+      <lb ed="#P" n="50"/>mala, tanquam radice mala foras procedunt mala 
+      <lb ed="#P" n="51"/>opera tanquam fructus mali; tum quia opera 
+      exter<lb ed="#P" n="52" break="no"/>na malitiam suam sortiuntur ex actu interno 
+      volun<lb ed="#P" n="53" break="no"/>tatis, non contra. Unde secunda illa peccati 
+      defini<lb ed="#P" n="54" break="no"/>tio ex Augustino, solam voluntatem tanquam id 
+      <lb ed="#P" n="55"/>quod praecipue peccatum est, nominavit. Quomodo 
+      <lb ed="#P" n="56"/>autem non repugnet, omnem actum esse a Deo, &amp; 
+      <lb ed="#P" n="57"/>nihilominus quosdam actus malos esse &amp; vere 
+      pec<lb ed="#P" n="58" break="no"/>cata dici, plenius explicandum dist. 37. 
+    </p>
+            <p xml:id="bt67yj-p145864-d1e315">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Porro aliae quaedam peccati acceptiones 
+      impro<lb ed="#P" n="60" break="no"/>priae &amp; figuratae; cujusmodi subinde occurrunt in 
+      <lb ed="#P" n="61"/>sacris literis, velut quod peccatum dicatur sacrificium 
+      <lb ed="#P" n="62"/>pro peccatis oblatum, vel poena peccati, vel ad 
+      poe<lb ed="#P" n="63" break="no"/>nam obligatio, vel aliquid ad peccatum inclinans; 
+      <lb ed="#P" n="64"/>non sunt praesentis instituti, neque ad supradictam 
+      <lb ed="#P" n="65"/>peccati notionem referendae. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

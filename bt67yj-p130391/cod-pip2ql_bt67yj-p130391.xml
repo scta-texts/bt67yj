@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 44</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 44</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="336"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p130391"><!-- l2d26c44" -->
+            <head xml:id="bt67yj-p130391-Hd1e101">Capitulum 44</head>
+            <head xml:id="bt67yj-p130391-Hd1e103" type="question-title">Respondetur ad objectiones</head>
+            <p xml:id="bt67yj-p130391-d1e106">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> §. 44. Respondetur ad objectiones.
+    </p>
+            <p xml:id="bt67yj-p130391-d1e113">
+               <lb ed="#P" n="85"/>DOctrina superior his argumentis oppugnari 
+      po<lb ed="#P" n="86" break="no"/>test. Primo; Gratia habitualis ad hoc nobis 
+      da<lb ed="#P" n="87" break="no"/>tur, ut &amp; possimus bona operari, &amp; vitare peccata, 
+      <lb ed="#P" n="88"/>idque non semel aliquoties tantum, sed continuo &amp; 
+      <lb ed="#P" n="89"/>semper usque ad finem vitae; ergo ad id valet etiamsi 
+      <lb ed="#P" n="90"/>nullum accedat aliud speciale auxilium. Nam 
+      alio<lb ed="#P" n="91" break="no"/>qui frustra data videretur. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e131">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Secundo: Plus restitutum est homini per donum 
+      <lb ed="#P" n="93"/>Christi, quam amiserat per peccatum Adae, sicut 
+      te<lb ed="#P" n="94" break="no"/>statur Apostolus Rom. 5. Atqui Adam acceperat 
+      un<lb ed="#P" n="95" break="no"/>de posset perseverare absque alio auxilio, 
+      quemad<lb ed="#P" n="96" break="no"/>modum August. docet libro de nat. &amp; gra. cap. 48. 
+      <lb ed="#P" n="97"/>&amp; libro de correp. &amp; gr. cap. 11. &amp; 12. igitur multo 
+      <lb ed="#P" n="98"/>magis nobis hoc datur per gratiam Christi, ut 
+      perse<lb ed="#P" n="99" break="no"/>verare possimus sine novo ac speciali auxilio. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e154">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Tertio: Ad perseverantiam in bono sufficit non 
+      <lb ed="#P" n="101"/>peccare &amp; peccatum vitare; hoc autem utrumque 
+      <lb ed="#P" n="102"/>potest homo per liberum arbitrium sine gratia.- 
+      Pro<lb ed="#P" n="103" break="no"/>positiones enim quibus id negatur, habentur inter 
+      <lb ed="#P" n="104"/>articulos a Pio V. damnatos numero 27. &amp; 28. his 
+      <lb ed="#P" n="105"/>verbis; Liberam arbitrium sine gratiae Dei adjutorio 
+      <lb ed="#P" n="106"/>non nisi ad peccandum valet, &amp;: Pelagianus est error 
+      <lb ed="#P" n="107"/>dicere, quod liberum arbitrium valet ad ullum 
+      pecca<lb ed="#P" n="108" break="no"/>tum vitandum; ergo multo magis homo justificatus 
+      <lb ed="#P" n="109"/>per gratiam poterit absque novo auxilio gratiae non 
+      <lb ed="#P" n="110"/>peccare &amp; peccatum vitare, &amp; ex consequenti in 
+      bo<lb ed="#P" n="111" break="no"/>no perseverare. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e185">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Quarto: Potest homo peccator, imo &amp; infidelis 
+      <lb ed="#P" n="113"/>saltem ad breve aliquod tempus sine gratia servare 
+      <lb ed="#P" n="114"/>omnia praecepta legis naturae, quae per idem tempus 
+      <lb ed="#P" n="115"/>servanda occurrunt, uti dictum est in superioribus 
+      <lb ed="#P" n="116"/>igitur multo magis id poterit fidelis &amp; justificatus, 
+      <lb ed="#P" n="117"/>atque in gratia existens absque novo auxilio gratiae. 
+      <lb ed="#P" n="118"/>Quare &amp; sine eo perseverare poterit, si post breve 
+      <lb ed="#P" n="119"/>illud tempus statim finiat vitam.
+    </p>
+            <p xml:id="bt67yj-p130391-d1e207">
+               <lb ed="#P" n="120"/>Quinto: Deus sua gratia semel justificatum non 
+      de<lb ed="#P" n="121" break="no"/>serit nisi prius ab eo deseratur, uti affirmat concilium 
+      <lb ed="#P" n="122"/>Trident. sess. 6. cap. 11. ergo in potestate justificati 
+      <lb ed="#P" n="123"/>hominis est, per gratiam in justificatione acceptam 
+      <lb ed="#P" n="124"/>perseverare, absque eo quod ex parte Dei necessarium 
+      <lb ed="#P" n="125"/>sit ei aliud speciale auxilium ad retinendam justitiam 
+      <lb ed="#P" n="126"/>&amp; perseverandum in ea. Nam. alioqui hoc auxilio 
+      <lb ed="#P" n="127"/>non subministrato, quoniam non debetur, videretur 
+      <lb ed="#P" n="128"/>Deus hominem justificatum deserere, non prius ab 
+      <lb ed="#P" n="129"/>eo desertus. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e231">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Sexto: Constituantur duo justi habentes 
+      aequa<lb ed="#P" n="131" break="no"/>lem gratiam, &amp; insuper aequalia auxilia ad bene 
+      vi<lb ed="#P" n="132" break="no"/>vendum, quorum alter post annum moriatur in 
+      gra<lb ed="#P" n="133" break="no"/>tia, alter vero post decem annos, quibus in gratia 
+      vi<lb ed="#P" n="134" break="no"/>xit, tandem peccet mortaliter, &amp; in eo peccato 
+      mo<lb ed="#P" n="135" break="no"/>riens damnetur. Quo casu, prior ille nullum habuit 
+      <lb ed="#P" n="136"/>auxilium gratiae, quod posterior non habuit. Quin 
+      <lb ed="#P" n="137"/>potius posterior, qui pluribus annis ponitur in gratia 
+      <lb ed="#P" n="138"/>vixisse, plus accepit quam prior. Atquiposterior non 
+      <lb ed="#P" n="139"/>accepit a Deo donum perseverantiae; ergo nec prior: 
+      <lb ed="#P" n="140"/>&amp; proinde quod perseveraverit, non fuit ex speciali 
+      <lb ed="#P" n="141"/>dono Dei, sed ex libero arbitrio. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e262">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Hic praeterea objici possent argumenta, quibus 
+      <lb ed="#P" n="143"/>impugnatur gratia necessaria ad singulos actus, sed 
+      <lb ed="#P" n="144"/>ea cum solutionibus videatur suo loco. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e273">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Ad haec vero proposita nunc respondendum.
+    </p>
+            <p xml:id="bt67yj-p130391-d1e281">
+      <!--0570.xml-->
+               <pb ed="#P" n="337"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Ad primum dicimus cum S. Thoma 1. 2. qu. 109. 
+      <lb ed="#P" n="2"/>art. 9. ad I. non ad hoc dari nobis habitualis gratiae 
+      <lb ed="#P" n="3"/>donum, ut ipsum habentes, non ulterius egcamus 
+      <lb ed="#P" n="4"/>divino auxilio; quia non tantum habitus, verum etiam 
+      <lb ed="#P" n="5"/>actus sunt a Deo. Quamvis ergo gratia semel data 
+      <lb ed="#P" n="6"/>sufficiat in genere suo, id est, in genere doni 
+      habi<lb ed="#P" n="7" break="no"/>tualis (non enim opus est ad perseverandum alia 
+      <lb ed="#P" n="8"/>gratia habituali praeter eam quae semel data est) non 
+      <lb ed="#P" n="9"/>tamen sufficit ad actualiter perseverandum in bonis 
+      <lb ed="#P" n="10"/>operibus usque ad finem sine speciali Dei auxilio, 
+      <lb ed="#P" n="11"/>quod ad actualem hujusmodi perseverantiam 
+      done<lb ed="#P" n="12" break="no"/>tur; sicut nec sufficit sine speciali auxilio ad unum 
+      <lb ed="#P" n="13"/>aliquem actum, uti loco jam dicto latius est 
+      decla<lb ed="#P" n="14" break="no"/>ratum. Itaque non sequitur frustra esse gratiam, si 
+      <lb ed="#P" n="15"/>absque novo auxilio non sufficiat homini ad 
+      perse<lb ed="#P" n="16" break="no"/>verandum; imo nec sequitur eam esse imperfectam, 
+      <lb ed="#P" n="17"/>quia ut ibidem ait Sanctus Thomas, etiam in statu 
+      <lb ed="#P" n="18"/>gloriae, quando gratia erit omnino perfecta, homo 
+      <lb ed="#P" n="19"/>divino auxilio indigebit. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e331">
+               <lb ed="#P" n="20"/>
+               <pc type="indent"/> Ad secundum argumentum respondeo, quomodo 
+      <lb ed="#P" n="21"/>respondet idem S. Doctor eadem qu. art. 10. ad 3. ac 
+      <lb ed="#P" n="22"/>rursum 2. 2. qu. 137. art. 4. ad 2. plus nobis collatum 
+      <lb ed="#P" n="23"/>esse per Christum, quam amisimus in Adam; quia 
+      <lb ed="#P" n="24"/>ille in primo statu habebat donum per quod 
+      perseve<lb ed="#P" n="25" break="no"/>rare posset, non tamen acceperat, ut perseveraret. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e349">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Nunc autem per gratiam Christi, multi accipiunt 
+      <lb ed="#P" n="27"/>&amp; donum gratiae quo perseverare possunt, &amp; 
+      ulte<lb ed="#P" n="28" break="no"/>rius eis datur quod actu perseverent; quod quidem 
+      <lb ed="#P" n="29"/>est ipsum perseverantiae donum. Hoc autem Adam 
+      <lb ed="#P" n="30"/>tunc non habuit, quia quamvis poterat in illo statu 
+      <lb ed="#P" n="31"/>perseverare, idque multo facilius quam nos nunc 
+      <lb ed="#P" n="32"/>possimus, qui patimur rebellionem carnis adversus 
+      <lb ed="#P" n="33"/>spiritum, non tamen perseveravit. Haec responsio 
+      <lb ed="#P" n="34"/>habetur ex locis Augustini in argumento citatis, &amp; 
+      <lb ed="#P" n="35"/>praeterea ex cap. 1. lib. de dono perseverantiae. 
+      Cae<lb ed="#P" n="36" break="no"/>terum nec ipse Adam ante lapsum perseverare 
+      po<lb ed="#P" n="37" break="no"/>tuisset in accepta semel gratia per liberum arbitrium 
+      <lb ed="#P" n="38"/>absque alio auxilio, tametsi tunc non indiguerit 
+      au<lb ed="#P" n="39" break="no"/>xilio gratiae sanantis, quo nos indigemus, ut 
+      decla<lb ed="#P" n="40" break="no"/>ratum est ad dist. 25. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e386">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Ad tertium &amp; quartum argumentum respondent 
+      <lb ed="#P" n="42"/>nonnulli, posse hominem modico tempore 
+      perseve<lb ed="#P" n="43" break="no"/>rare in bono absque novo auxilio gratiae, si videlicet 
+      <lb ed="#P" n="44"/>nulla gravior occurrat tentatio, nec difficile aliquod 
+      <lb ed="#P" n="45"/>praeceptum servandum; non tamen absque eo posse 
+      <lb ed="#P" n="46"/>perse verare simpliciter, id est, per totam vitam, nisi 
+      <lb ed="#P" n="47"/>forte gratiam acquisiverit paulo ante mortem, ita ut 
+      <lb ed="#P" n="48"/>permodico tempore in ea vivat. Ut enim hoc casu 
+      <lb ed="#P" n="49"/>in gratia perseveret, existimant sufficere posse ipsam 
+      <lb ed="#P" n="50"/>gratiam justificantem cum iis auxiliis per quae illa 
+      <lb ed="#P" n="51"/>fuit acquisita, modo adsit protectio a tentatione; &amp; 
+      <lb ed="#P" n="52"/>quaedam providentia Dei circa genus mortis absque 
+      <lb ed="#P" n="53"/>periculo peccandi. Sed ut quis longo tempore ad 
+      <lb ed="#P" n="54"/>finem usque vitae in gratia perseveret, vincendo 
+      ten<lb ed="#P" n="55" break="no"/>tationes, &amp; servando difficiliora mandata, omnino 
+      <lb ed="#P" n="56"/>eum indigere actualibus etiam auxiliis de novo ac 
+      <lb ed="#P" n="57"/>saepius conferendis. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e428">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Verum haec distinctio, quoniam exceptionem 
+      quan<lb ed="#P" n="59" break="no"/>dam facit, eamque non infrequentem (quam multi 
+      <lb ed="#P" n="60"/>enim sunt, qui dilata dum sani essent, poenitentia, 
+      <lb ed="#P" n="61"/>gratiam justificationis accipiunt paulo ante 
+      mor<lb ed="#P" n="62" break="no"/>tem?) haudquaquam consistit cum doctrina sacris 
+      <lb ed="#P" n="63"/>Conciliorum canonibus, &amp; specialiter can. 22. sess. 
+      <lb ed="#P" n="64"/>6. Concilii Trid. exposita ac definita: qua generaliter 
+      <lb ed="#P" n="65"/>&amp; sine exceptione docetur, neminem posse in bono 
+      <lb ed="#P" n="66"/>perseverare absque speciali Dei auxilio, quod de 
+      no<lb ed="#P" n="67" break="no"/>vo semper a Deo petendum &amp; exspectandum sit; quo 
+      <lb ed="#P" n="68"/>nimirum Deus ipsum perseverare in homine 
+      opere<lb ed="#P" n="69" break="no"/>tur. Tale enim auxilium intelligi debere perspicuum 
+      <lb ed="#P" n="70"/>est ex supradictis, ac praecipue ex verbis Zozymi 
+      <lb ed="#P" n="71"/>Papae, &amp; ex canonibus Arausicani concilii. Neque 
+      <lb ed="#P" n="72"/>usquam Patres aut Concilia hac in re distinguunt 
+      in<lb ed="#P" n="73" break="no"/>ter justum diu aut non diu in gratia viventem, neque 
+      <lb ed="#P" n="74"/>inter tempus perseverantiae longum aut breve.
+    </p>
+            <p xml:id="bt67yj-p130391-d1e470">
+      <!--0570.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Proinde ad propositam difficultatem aliter ex 
+      men<lb ed="#P" n="76" break="no"/>te sanctorum Patrum &amp; Conciliorum respondendum 
+      <lb ed="#P" n="77"/>est: scilicet, ne brevissimo quidem tempore posse 
+      ho<lb ed="#P" n="78" break="no"/>minem in bono perseverare, sicut boni aliquid 
+      ope<lb ed="#P" n="79" break="no"/>retur quod ad salutem pertineat vitae aeternae, nisi hoc 
+      <lb ed="#P" n="80"/>accipiat ex dono gratiae Dei, bonum illud in eo &amp; 
+      <lb ed="#P" n="81"/>cum eo operantis, juxta illud: Sine me nihil potestis 
+      <lb ed="#P" n="82"/>facere. Et quia in homine justo &amp; perseverante 
+      con<lb ed="#P" n="83" break="no"/>ducit ad salutem vitae aeternae, etiam ipsum non 
+      pec<lb ed="#P" n="84" break="no"/>care, &amp; peccatum vitare, quantumvis illud sit ei 
+      fa<lb ed="#P" n="85" break="no"/>cile (per haec enim perseverat, quia conservatur in 
+      <lb ed="#P" n="86"/>gratia, quae sine dubio ordinatur ad vitam aeternam) 
+      <lb ed="#P" n="87"/>idcirco etiam haec in tali homine referenda sunt ad 
+      <lb ed="#P" n="88"/>auxilium Dei speciale; quo nimirum agit in homine 
+      <lb ed="#P" n="89"/>ea quae sunt salutis. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e510">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Igitur ut ad objecta respondeatur, dicendum, 
+      <lb ed="#P" n="91"/>aliam esse rationem ejus qui nullo modo est in 
+      gra<lb ed="#P" n="92" break="no"/>tia, ut hominis infidelis; aliam ejus qui in gratia est 
+      <lb ed="#P" n="93"/>aut simpliciter, aut inchoatione quadam. Nam quod 
+      <lb ed="#P" n="94"/>ille vitet peccatum, vel non peccet, nullo modo 
+      or<lb ed="#P" n="95" break="no"/>dinatur ad vitam aeternam; in isto autem ordinatur, 
+      <lb ed="#P" n="96"/>in quantum ipse homo jam habet gratiam, quae eum 
+      <lb ed="#P" n="97"/>ordinat ad vitam aeternam; atque ita speciale 
+      bene<lb ed="#P" n="98" break="no"/>ficium est gratiae Dei per Christum, quod a gratia 
+      <lb ed="#P" n="99"/>non excidat peccando. Sicut enim gratiae Christi 
+      <lb ed="#P" n="100"/>beneficium est, esse in statu gratiae, ita ejusdem 
+      be<lb ed="#P" n="101" break="no"/>neficium est, in eo statu continuo permanere, &amp; ab 
+      <lb ed="#P" n="102"/>eo non excidere. Quamvis igitur ad non peccandum 
+      <lb ed="#P" n="103"/>&amp; ad peccatum vitandum, &amp; ad bene moraliter 
+      <lb ed="#P" n="104"/>operandum, per se considerata, valeant aliquo 
+      us<lb ed="#P" n="105" break="no"/>que vires naturae, non tamen ad haec valent, 
+      quate<lb ed="#P" n="106" break="no"/>nus per ea permanetur in statu gratiae ducentis ad 
+      <lb ed="#P" n="107"/>vitam aeternam. Quod ex eo patet, quia omne 
+      be<lb ed="#P" n="108" break="no"/>neficium Dei pertinens ad salutem vitae aeternae, 
+      nu<lb ed="#P" n="109" break="no"/>merandum est inter beneficia gratiae Christi, uti alias 
+      <lb ed="#P" n="110"/>ostendimus. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e560">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Porro secundum opinionem nobis probatam, qua 
+      <lb ed="#P" n="112"/>dicitur hominis justificati nulla esse opera tantum 
+      <lb ed="#P" n="113"/>moraliter bona, sed quicquid ab eo laudabiliter ac 
+      <lb ed="#P" n="114"/>bene moraliter fit, totum id actu aut virtute tendere 
+      <lb ed="#P" n="115"/>in finem supernaturalem, juxta praeceptum Apostoli: 
+      <lb ed="#P" n="116"/>Omnia in gloriam Dei facite, 1. Corinth. 10. facilior 
+      <lb ed="#P" n="117"/>est hujus difficultatis solutio. Sic enim multo minus 
+      <lb ed="#P" n="118"/>constabit comparatio inter opera moraliter bona 
+      <lb ed="#P" n="119"/>ejus qui est in gratia &amp; ejus qui non est, quia sunt 
+      <lb ed="#P" n="120"/>diversi ordinis ratione finis intenti ab operante; illa 
+      <lb ed="#P" n="121"/>quidem directa mediate vel immediate ad finem 
+      su<lb ed="#P" n="122" break="no"/>pernaturalem, haec vero ad naturalem duntaxat. 
+      <lb ed="#P" n="123"/>Unde si haec potest homo sine gratia, non sequitur 
+      <lb ed="#P" n="124"/>quod &amp; illa possit. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e595">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Sed adhuc objicies: Homo justus saepe non 
+      pec<lb ed="#P" n="126" break="no"/>cat, non actione aliqua voluntatis, qua nolit 
+      pec<lb ed="#P" n="127" break="no"/>catum, sed omnino negative, utpote nihil agens, 
+      <lb ed="#P" n="128"/>velut dormiens aut mentis impos, aut nihil cogitans; 
+      <lb ed="#P" n="129"/>ergo saltem pro illo tempore non habet opus 
+      specia<lb ed="#P" n="130" break="no"/>li auxilio ad perseverandum. Respondeo plane 
+      fa<lb ed="#P" n="131" break="no"/>tendum esse, quod tota hominis in bono 
+      perseve<lb ed="#P" n="132" break="no"/>rantia ab initio usque ad finem, &amp; secundum 
+      om<lb ed="#P" n="133" break="no"/>nem sui partem, sive dum agit aliquid, sive dum 
+      ces<lb ed="#P" n="134" break="no"/>sat aut quieseit ab omni humana actione, speciale 
+      <lb ed="#P" n="135"/>Dei donum est. Nam utique pro tota perseverantia 
+      <lb ed="#P" n="136"/>rogandus est Deus per Christum. Unde &amp; 
+      generali<lb ed="#P" n="137" break="no"/>ter dictum est a Zozymo Papa, nullum tempus 
+      in<lb ed="#P" n="138" break="no"/>tervenire, quo Dei non egeamus auxilio. Sed hoc 
+      <lb ed="#P" n="139"/>intellige secundum modum ipsarum partium 
+      perse<lb ed="#P" n="140" break="no"/>verantiae. Nam ut homo justus operetur bonum, 
+      <lb ed="#P" n="141"/>opus est auxilio, quod faciat ipsum operari; &amp; ut 
+      no<lb ed="#P" n="142" break="no"/>lit peccare, opus est auxilio quod faciat eum nolle. 
+      <lb ed="#P" n="143"/>Ut autem cessans ab omni actione sit perseverans, 
+      <lb ed="#P" n="144"/>sufficit conservatio doni supernaturalis, quod est 
+      <lb ed="#P" n="145"/>gratia. Siquidem &amp; hujus conservationem divino 
+      <lb ed="#P" n="146"/>auxilio tribuit S. Thomas, ubi supra art. 9. ad 1. &amp;, 
+      <lb ed="#P" n="147"/>2. 2. qu. 137. art. 4. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e650">
+               <lb ed="#P" n="148"/>
+               <pc type="indent"/> Ad quintum respondetur, hoc ipsum includi in 
+      <!--0571.xml-->
+      <pb ed="#P" n="338"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dono perseverantiae quod homo justificatus &amp; in A 
+      <lb ed="#P" n="2"/>gratia constitutus Deum non deserat, &amp; proinde 
+      <lb ed="#P" n="3"/>hoc illi exspectandum esse a Deo. Ideo enim orat 
+      di<lb ed="#P" n="4" break="no"/>cens; Adjutormeus esto, ne derelinquas me. Et ne nos 
+      <lb ed="#P" n="5"/>inducas in tentationem, &amp; alia hujusmodi. Nec tamen 
+      <lb ed="#P" n="6"/>si justus derelinquatur a Deo ut fit in omnibus qui 
+      <lb ed="#P" n="7"/>non perseverant, ideo falsum erit quod dicunt 
+      Pa<lb ed="#P" n="8" break="no"/>tres Concilii, Deum sua gratia semel justificatos non 
+      <lb ed="#P" n="9"/>deserere, nisi ab eis prius deseratur. Hoc enim 
+      di<lb ed="#P" n="10" break="no"/>ctum est de gratia justificante, ut ex ipsis verbis 
+      pa<lb ed="#P" n="11" break="no"/>tet. Atque hunc sensum habet: Numquam Deus 
+      <lb ed="#P" n="12"/>gratiam justificantem aufert ab homine, neque 
+      il<lb ed="#P" n="13" break="no"/>lius amicitiae renunciat, nisi propter peccatum ejus 
+      <lb ed="#P" n="14"/>mortale. Nam mortale peccatum est, quod gratiam 
+      <lb ed="#P" n="15"/>expellit &amp; amicitiam dissolvit. Verum si loquamur de 
+      <lb ed="#P" n="16"/>subtractione auxilii efficacis, non semper ejus 
+      cau<lb ed="#P" n="17" break="no"/>sa est peccatum hominis Deum deserentis; sed 
+      ali<lb ed="#P" n="18" break="no"/>quando sola divina voluntas. Quod sine am 
+      higui<lb ed="#P" n="19" break="no"/>tate testatur Augustinus libro de correp. &amp; gr. cap. 
+      <lb ed="#P" n="20"/>8. &amp; libro de dono perseverantiae capite δ. &amp; 
+      om<lb ed="#P" n="21" break="no"/>nibus iis locis quibus docet ad inscrutab lia Dei 
+      <lb ed="#P" n="22"/>judicia pertinere, cur ex pluribus justis unidet 
+      per<lb ed="#P" n="23" break="no"/>severantiam usque in finem, non alteri. Hanc 
+      solu<lb ed="#P" n="24" break="no"/>tionem adfert &amp; pluribus explicat &amp; confirmat 
+      Bar<lb ed="#P" n="25" break="no"/>tholomaeus Medina super articulum 10. respons. ad 
+      <lb ed="#P" n="26"/>3. argumentum. Sed de ea re alibi nobis ex 
+      institu<lb ed="#P" n="27" break="no"/>to agendum. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e722">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Ad ultimum argumentum respondetur, eum qui 
+      <lb ed="#P" n="29"/>breviori tempore vixit in gratia, &amp; in eadem 
+      mor<lb ed="#P" n="30" break="no"/>tuus est, hoc amplius altero qui diutius in gratia 
+      <lb ed="#P" n="31"/>vixit, sed non in ea mortuus est, accepisse; quod per 
+      <lb ed="#P" n="32"/>singularem Dei providentiam, ordinantis oportuna 
+      <lb ed="#P" n="33"/>&amp; efficacia media ad salutem ejus, conservatus est 
+      <lb ed="#P" n="34"/>in gratia usque ad terminum vitae, quando jam 
+      ulte<lb ed="#P" n="35" break="no"/>rius a gratia excidere non potest. Et in eo consistit 
+      <lb ed="#P" n="36"/>donum perseverantiae. Hoc autem beneficium alter 
+      <lb ed="#P" n="37"/>quantumlibet diu justus non accepit; quia quamvis 
+      <lb ed="#P" n="38"/>diutius fuerit in gratia, &amp; forte eam habuerit etiam 
+      <lb ed="#P" n="39"/>majorem, non tamen ei datum est in ea usque ad 
+      <lb ed="#P" n="40"/>finem vitae perseverare. Cujus diversitatis ratio non 
+      <lb ed="#P" n="41"/>magis reddi potest a nobis, quam illius. Cur Deus 
+      <lb ed="#P" n="42"/>unum prae alio praedestina verit ad salutem. Nam, ut 
+      <lb ed="#P" n="43"/>supra diximus, perseverantiae donum praedestinatis 
+      <lb ed="#P" n="44"/>est proprium. 
+    </p>
+            <p xml:id="bt67yj-p130391-d1e764">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Quod autem ad specialem Dei circa suos electos 
+      <lb ed="#P" n="46"/>curam &amp; providentiam pertineat, aliquos justos cito 
+      <lb ed="#P" n="47"/>eripere ex hac vita, priusquam a justitia recedant, 
+      <lb ed="#P" n="48"/>ostendit illud Sap. 4. Raptus est, ne malitia mutaret 
+      <lb ed="#P" n="49"/>intellectum ejus, aut ne fictio deciperet animam ejus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

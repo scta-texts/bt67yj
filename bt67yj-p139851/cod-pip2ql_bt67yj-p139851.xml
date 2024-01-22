@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="361"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p139851"><!-- l2d31c2" -->
+            <head xml:id="bt67yj-p139851-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p139851-Hd1e103" type="question-title">Peccatum originale contrahi etiam ex 
+      parentibus justis</head>
+            <p xml:id="bt67yj-p139851-d1e106">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> §. 2. Peccatum originale contrahi etiam ex 
+      <lb ed="#P" n="46"/>parentibus justis.
+    </p>
+            <p xml:id="bt67yj-p139851-d1e115">
+               <lb ed="#P" n="47"/>EX generali doctrina, qua ostensum est 
+      superio<lb ed="#P" n="48" break="no"/>re dist. omnem hominem qui communi 
+      genera<lb ed="#P" n="49" break="no"/>tionis lege concipitur, nasci cum peccato originali, 
+      <lb ed="#P" n="50"/>consequens est, hoc peccatum etiam ab iis 
+      parenti<lb ed="#P" n="51" break="no"/>bus contrahi in quibus illud regeneratione deletum 
+      <lb ed="#P" n="52"/>atque remissum est, &amp; omnino a parentibus justis 
+      <lb ed="#P" n="53"/>&amp; sanctis. Idque certa fide tenendum contra haeresim 
+      <lb ed="#P" n="54"/>quondam Pelagianorum, &amp; hodie recentiorum 
+      quo<lb ed="#P" n="55" break="no"/>rundam, <name xml:id="bt67yj-p139851-Nd1e136">Zuinglii</name>, &amp; <name xml:id="bt67yj-p139851-Nd1e138">Calvini</name>, docentium baptismum 
+      <lb ed="#P" n="56"/>iis qui ex baptizatis vel alioqui justis parentibus 
+      nas<lb ed="#P" n="57" break="no"/>cuntur, non esse necessarium; eo quod peccatum 
+      <lb ed="#P" n="58"/>ex illis non contrahant, aut certe propter parentes, 
+      <lb ed="#P" n="59"/>quorum ex semine nati sunt, in peccatum non 
+      im<lb ed="#P" n="60" break="no"/>putetur. 
+    </p>
+            <p xml:id="bt67yj-p139851-d1e152">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Cui dogmati, praeter scripturas generales, 
+      recla<lb ed="#P" n="62" break="no"/>mat perpetua Ecclesiae traditio &amp; consuetudo. 
+      Tra<lb ed="#P" n="63" break="no"/>ditio quidem, qua semper tenuit &amp; credidit parentum 
+      <lb ed="#P" n="64"/>etiam fidelium &amp; justorum filios egere sacramento 
+      <lb ed="#P" n="65"/>regenerationis. Consuetudo vero, qua semper 
+      par<lb ed="#P" n="66" break="no"/>vulos etiam ex talibus natos baptizavit in 
+      remissio<lb ed="#P" n="67" break="no"/>nem peccati originalis, quemadmodum multis locis 
+      <lb ed="#P" n="68"/>docet August. ut lib. 2. de peccatorum meritis cap. 
+      <lb ed="#P" n="69"/>9. 25. 26. 27. &amp; 28. &amp; lib. 3. cap. 8. &amp; 9. Item lib. 1. de 
+      <lb ed="#P" n="70"/>nuptiis &amp; concupiscentia cap. 32. &amp; 33. lib. 6. contra 
+      <lb ed="#P" n="71"/>Julianum cap. 3. lib. de peccato originali cap. 39. &amp; 
+      <!--0594.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>lib. de sancta virginitate cap. 7. Est &amp; hujus rei 
+      cla<lb ed="#P" n="73" break="no"/>rum testimonium apud Leonem epist. 86. Quare 
+      <lb ed="#P" n="74"/>merito a Patribus Concilii Trid. anathema illis 
+      di<lb ed="#P" n="75" break="no"/>ctum est, qui negant parvulos recentes ab uteris 
+      <lb ed="#P" n="76"/>matrum, etiamsi fuerint a baptizatis parentibus orti, 
+      <lb ed="#P" n="77"/>baptizandos esse in remissionem originalis peccati, 
+      <lb ed="#P" n="78"/>sess. 5. can. 4. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

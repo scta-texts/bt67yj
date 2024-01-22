@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="133"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p051378"><!-- l2d15c3" -->
+            <head xml:id="bt67yj-p051378-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p051378-Hd1e103" type="question-title">Quare bestiis terrae non sit dictum: Crescite 
+      et multiplicamini</head>
+            <p xml:id="bt67yj-p051378-d1e106">
+               <lb ed="#P" n="88"/>§. 3. Quare bestiis terrae non sit dictum: Crescite 
+      <lb ed="#P" n="89"/>&amp; multiplicamini. 
+    </p>
+            <p xml:id="bt67yj-p051378-d1e113">
+               <lb ed="#P" n="90"/>SExtae diei opus est creatio quadrupedum ac 
+      caete<lb ed="#P" n="91" break="no"/>Orarum bestiarum terrae, &amp; inter has itaque etiam 
+      <lb ed="#P" n="92"/>eorum quae proprie Latinis reptilia dicuntur, 
+      cujus<lb ed="#P" n="93" break="no"/>modi est universum genus serpentum, &amp; postremo 
+      <lb ed="#P" n="94"/>creatio hominis. Quo loco quaestio occurrit, quare 
+      <lb ed="#P" n="95"/>in quadrupedum aliarumque terrae bestiarum 
+      crea<lb ed="#P" n="96" break="no"/>tione non dicat scriptura Deum dixisse: Crescite &amp; 
+      <lb ed="#P" n="97"/>multiplicamini, cum id in piscium &amp; avium 
+      crea<lb ed="#P" n="98" break="no"/>tione quinta die dictum legatur, nec dubium sit quin 
+      <lb ed="#P" n="99"/>sicut istis ita &amp; terrestribus animantibus a sua 
+      crea<lb ed="#P" n="100" break="no"/>tione indita fuerit foecunditas propagandi sui 
+      gene<lb ed="#P" n="101" break="no"/>ris, qua nimirum crescerent &amp; multiplicarentur. 
+      Res<lb ed="#P" n="102" break="no"/>pondent Hebraei id propterea omissum in terrestrium 
+      <lb ed="#P" n="103"/>creatione describenda, quod inter ea serpens esset, 
+      <lb ed="#P" n="104"/>cui Deus paulo post erat maledicturus. At eadem 
+      <lb ed="#P" n="105"/>ratione nec hominibus initio dicendum fuerat: 
+      Cre<lb ed="#P" n="106" break="no"/>scite &amp; multiplicamini, quandoquidem &amp; ipsi paulo 
+      <lb ed="#P" n="107"/>post propter transgressionem futuri erant obnoxii 
+      <lb ed="#P" n="108"/>maledicto. Quodque amplius est universa creatura 
+      <lb ed="#P" n="109"/>teste Apostolo Roman. 8. propter hominis 
+      pecca<lb ed="#P" n="110" break="no"/>tum subjecta est vanitati &amp; servituti corruptionis, 
+      <lb ed="#P" n="111"/>&amp; proinde facta maledictionis particeps. Praeterea 
+      <lb ed="#P" n="112"/>cum serpens suam etiam foecunditatem in creatione 
+      <lb ed="#P" n="113"/>acceptam qua secundum genus suum 
+      multiplicare<lb ed="#P" n="114" break="no"/>tur, postea retinuerit &amp; adhuc retineat, non debuit 
+      <lb ed="#P" n="115"/>propter maledictionem quae secuta est, taceri 
+      bene<lb ed="#P" n="116" break="no"/>dictio sic initio data ut semper esset permansura. 
+      <lb ed="#P" n="117"/>Rectius ergo August. lib. 3. de Genesi ad literam 
+      <lb ed="#P" n="118"/>cap. 13. respondet quod in uno expressum est, in 
+      al<lb ed="#P" n="119" break="no"/>tero intelligi. Fortassis autem idcirco in piscibus 
+      <lb ed="#P" n="120"/>avibusque expressum, hoc est, &amp; in aliis tacitum, 
+      <lb ed="#P" n="121"/>quod piscium prae caeteris animalibus magna sit 
+      foe<lb ed="#P" n="122" break="no"/>cunditas, deinde avium. Cui rei argumento est quod, 
+      <lb ed="#P" n="123"/>pisces &amp; aves ovipara sunt animalia; &amp; pisces 
+      qui<lb ed="#P" n="124" break="no"/>dem ova pariant minuta, eademque uno partu 
+      fun<lb ed="#P" n="125" break="no"/>dant pene innumera. Nam &amp; elementum aquae in 
+      <lb ed="#P" n="126"/>quo versantur ratione humidae qualitatis plurimum 
+      <lb ed="#P" n="127"/>foecunditati servit. 
+    </p>
+            <p xml:id="bt67yj-p051378-d1e198">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> At quamvis bestiis terrae dictum fuisse: Crescite &amp; 
+      <lb ed="#P" n="129"/>multiplicasnini, non legatur; homini tamen eodem 
+      <lb ed="#P" n="130"/>cum illisdie creato dictum legitur; Vel quia mira 
+      <lb ed="#P" n="131"/>Dei providentia futurum erat ut humanum genus 
+      <lb ed="#P" n="132"/>per omnes terras &amp; regiones disseminaretur, cum 
+      <lb ed="#P" n="133"/>animantium caeterorum alia alias terras refugiant 
+      <lb ed="#P" n="134"/>naturaliter, sicut in iis aut non nascantur, aut etiam 
+      <lb ed="#P" n="135"/>aliunde illata statim languescant ac brevi 
+      emorian<lb ed="#P" n="136" break="no"/>tur; vel quia homini simul cum hac benedictione 
+      <lb ed="#P" n="137"/>data est &amp; altera, qua dominium accepit in cuncta 
+      <lb ed="#P" n="138"/>bruta animalia. Unde cum hac posteriori etiam 
+      <lb ed="#P" n="139"/>prior illa exprimenda fuit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

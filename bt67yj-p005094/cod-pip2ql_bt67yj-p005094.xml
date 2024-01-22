@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="14"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p005094"><!-- l2d2c1" -->
+            <head xml:id="bt67yj-p005094-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p005094-Hd1e103" type="question-title">Angelos esse in rerum natura</head>
+            <p xml:id="bt67yj-p005094-d1e106">
+               <lb ed="#P" n="25"/>INDISTINCTIONEM 
+      <lb ed="#P" n="26"/>SECUNDAM. 
+      <lb ed="#P" n="27"/>§. 1. Angelos esse in rerum natura.
+    </p>
+            <p xml:id="bt67yj-p005094-d1e115">
+               <lb ed="#P" n="28"/>DE angelis quorum inter creaturas prima 
+      di<lb ed="#P" n="29" break="no"/>gnitas est, per decem distinctiones disserit 
+      <lb ed="#P" n="30"/>Magister, &amp; hac quidem distinctione, 
+      tem<lb ed="#P" n="31" break="no"/>pus, &amp; locum creationis eorum inquirit, sed quia 
+      <lb ed="#P" n="32"/>primo de unaquaque re quaeritur an sit, quam de 
+      <lb ed="#P" n="33"/>angelis quaestionem Magister intactam reliquit, ideo 
+      <lb ed="#P" n="34"/>eam hoc loco tractandam putamus. 
+    </p>
+            <p xml:id="bt67yj-p005094-d1e133">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Est autem hac de re antiquissima Sadducaeorum 
+      <lb ed="#P" n="36"/>haeresis qui Luca testante Actorum 23. non modo 
+      <lb ed="#P" n="37"/>corporum resurrectionem negabant, sed omnino 
+      <lb ed="#P" n="38"/>neque angelum, neque spiritum, id est, animam 
+      <lb ed="#P" n="39"/>separatam agnoscebant. Cujus erroris causam 
+      san<lb ed="#P" n="40" break="no"/>ctus Thomas prima quaestione 50. articulo primo 
+      <lb ed="#P" n="41"/>hanc assignat, quod Sadducaei perinde ut veteres 
+      qui<lb ed="#P" n="42" break="no"/>dam philosophi, non distinguentes inter sensum &amp; 
+      <lb ed="#P" n="43"/>intellectum existimaverint nihil esse in mundo, nisi 
+      <lb ed="#P" n="44"/>quod sensu &amp; imaginatione percipi possit, 
+      cujusmo<lb ed="#P" n="45" break="no"/>di sunt solae res corporeae, &amp; earum affectiones. Et 
+      <lb ed="#P" n="46"/>quamvis Sadducaei prophetarum vaticinia 
+      respuen<lb ed="#P" n="47" break="no"/>tes, ut Hieronymus scribit in Matth. 22. saltem 
+      <lb ed="#P" n="48"/>Moysi pentateuchum pro divina scriptura 
+      recipe<lb ed="#P" n="49" break="no"/>rent, in quo passim obvia est angelorum mentio, non 
+      <lb ed="#P" n="50"/>tamen hoc eos ab errore revocavit. Nam scripturam, 
+      <lb ed="#P" n="51"/>qui mos est haereticorum, perverse interpretantes, 
+      <lb ed="#P" n="52"/>per angelos non spiritus, aut substantias, aut 
+      perso<lb ed="#P" n="53" break="no"/>nas aliquas intelligi volebant, sed occultas 
+      inspira<lb ed="#P" n="54" break="no"/>tiones quibus quasi Dei nuntiis homines 
+      admone<lb ed="#P" n="55" break="no"/>rentur voluntatis divinae. Sic enim &amp; 
+      resurrectio<lb ed="#P" n="56" break="no"/>nem interpretabantur suscitationem seminis, qua 
+      <lb ed="#P" n="57"/>nimirum quis quodammodo reviviscit, ac resurgit 
+      <lb ed="#P" n="58"/>in filio, quem ex se genitum post se relinquit. 
+      Im<lb ed="#P" n="59" break="no"/>mortalitatem vero constituebant in perpetua 
+      succes<lb ed="#P" n="60" break="no"/>sione posteritatis. Quo exemplo alii quidam 
+      haere<lb ed="#P" n="61" break="no"/>tici tempore apostolorum dixerunt resurrectionem 
+      <lb ed="#P" n="62"/>jam esse factam 2. Timoth. 2. scilicet, non aliam 
+      <lb ed="#P" n="63"/>agnoscentes resurrectionem, nisi eam quae est a 
+      pec<lb ed="#P" n="64" break="no"/>catis ad justitiam. 
+    </p>
+            <p xml:id="bt67yj-p005094-d1e204">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Sadducaeorum errorem quadam ex parte 
+      resusci<lb ed="#P" n="66" break="no"/>tarunt hodie Anabaptistae, dum Angelorum 
+      custo<lb ed="#P" n="67" break="no"/>diam, &amp; daemonum oppugnationem ad solas 
+      trans<lb ed="#P" n="68" break="no"/>ferunt cogitationes vel bonas, vel malas; sed nulli 
+      <lb ed="#P" n="69"/>post Christum natum haeretici leguntur eo progressi, 
+      <lb ed="#P" n="70"/>ut cum Sadducaeis angelicam naturam prorsus ne¬ 
+      <!--0247.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>garent. Fac illimum est autem hunc errorem ex 
+      scri<lb ed="#P" n="72" break="no"/>pturis refellere, in quibus pene per omnes paginas 
+      <lb ed="#P" n="73"/>angeli nominantur ut substantiae &amp; personae 
+      quae<lb ed="#P" n="74" break="no"/>dam quarum dicta &amp; facta describuntur. Quae 
+      <lb ed="#P" n="75"/>omnia si quis ad solas cogitationes aut 
+      inspiratio<lb ed="#P" n="76" break="no"/>nes detorserit, rem fecerit a communi sensu &amp; 
+      ju<lb ed="#P" n="77" break="no"/>dicio alienissimam, nec difficile fuerit ex 
+      circum<lb ed="#P" n="78" break="no"/>stantiis hujusmodi violentam interpretationem 
+      re<lb ed="#P" n="79" break="no"/>darguere. 
+    </p>
+            <p xml:id="bt67yj-p005094-d1e246">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Caeteris autem manifestior locus est Heb. 1. ubi 
+      <lb ed="#P" n="81"/>personam filii Dei cum angelis tanquam personis, 
+      <lb ed="#P" n="82"/>natura ac dignitate inferioribus, comparat 
+      aposto<lb ed="#P" n="83" break="no"/>lus, &amp; capit. 2. ubi docet quomodo idem Dei filius 
+      <lb ed="#P" n="84"/>angelis minor factus sit, juxta illud psalmi 8. 
+      Mi<lb ed="#P" n="85" break="no"/>nuisti eum paulo minus ab angelis, scilicet propter 
+      na<lb ed="#P" n="86" break="no"/>turam humanam angelica inferiorem. Et ibidem cum 
+      <lb ed="#P" n="87"/>rursus ait de filio Dei, Nusquam angelos 
+      apprehen<lb ed="#P" n="88" break="no"/>dit, sed semen Abrahae apprehendit, id est, non 
+      an<lb ed="#P" n="89" break="no"/>gelicam sed humanam assumpsit naturam. 
+    </p>
+            <p xml:id="bt67yj-p005094-d1e272">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Sed &amp; Christus Sadducaeis respondens, ipsorum 
+      <lb ed="#P" n="91"/>de angelis errorem ex obliquo notavit, quando 
+      di<lb ed="#P" n="92" break="no"/>xit resurrectionis filios aequales fore Angelis Dei 
+      <lb ed="#P" n="93"/>Luc. 20. His adde quae de ministeriis &amp; gaudio 
+      an<lb ed="#P" n="94" break="no"/>gelorum, de beneficiis &amp; punitionibus per eos 
+      fa<lb ed="#P" n="95" break="no"/>ctis atque aliis eorum tanquam Dei ministrorum 
+      <lb ed="#P" n="96"/>operibus, leguntur, in quibus singulis non est quod 
+      <lb ed="#P" n="97"/>immoremur. 
+    </p>
+            <p xml:id="bt67yj-p005094-d1e294">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Peculiariter contra Sadducaeos solum Moysen 
+      re<lb ed="#P" n="99" break="no"/>cipientes haec res apertissime probatur ex historia 
+      <lb ed="#P" n="100"/>Gen. 16. 19. 21. 22. Exod. 14. Num. 22. aliisque 
+      pluri<lb ed="#P" n="101" break="no"/>mis pentateuchi locis. Quae profecto nemo nisi 
+      pro<lb ed="#P" n="102" break="no"/>tervus ac literalis atque historici sensus violator, de 
+      <lb ed="#P" n="103"/>solis ac nudis inspirationibus interpretabitur. Ex 
+      qui<lb ed="#P" n="104" break="no"/>bus omnibus patet veritatem esse fidei, quod angeli 
+      <lb ed="#P" n="105"/>sunt in rerum natura, ut personae &amp; substantiae 
+      quae<lb ed="#P" n="106" break="no"/>dam praestantia suae naturae excellentes omnia 
+      corpo<lb ed="#P" n="107" break="no"/>rea nobis sensu nota. Quam fidei veritatem 
+      profite<lb ed="#P" n="108" break="no"/>tur symbolum Constantin. pronuncians Deum 
+      invi<lb ed="#P" n="109" break="no"/>sibilium creatorem, &amp; expressius declaravit synodus 
+      <lb ed="#P" n="110"/>Lateranensis sub Innocentio tertio capit. 1. 
+      defi<lb ed="#P" n="111" break="no"/>niens Deum creasse substantiam spiritualem, id est, 
+      <lb ed="#P" n="112"/>angelicam. Nec minus efficax est probatio ex sensu, 
+      <lb ed="#P" n="113"/>&amp; consensu totius ecclesiae, quae angelos ut personas 
+      <lb ed="#P" n="114"/>natura valde excellentes veneratur, &amp; in vocat 
+      tan<lb ed="#P" n="115" break="no"/>quam Dei ministros &amp; hominum custodes beatifica 
+      <lb ed="#P" n="116"/>Dei visione fruentes. 
+    </p>
+            <p xml:id="bt67yj-p005094-d1e340">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Sed objiciet Sadducaeus, Genesis primo ubi de 
+      <lb ed="#P" n="118"/>mundi &amp; partium ejus creatione agitur, nihil dici 
+      <lb ed="#P" n="119"/>de angelis, quod tamen maxime oportuisse videatur, 
+      <lb ed="#P" n="120"/>si angcli sunt in genere rerum creatarum, ne forte 
+      <lb ed="#P" n="121"/>populus Judaicus cui Genesis scripta est, ad 
+      idolola<lb ed="#P" n="122" break="no"/>triam propensus ac nihil ibi legens de creatione 
+      an<lb ed="#P" n="123" break="no"/>gelorum, suspicaretur angelos increatos atque ideo 
+      <lb ed="#P" n="124"/>deos esse. Respondetur, populum illum magis 
+      pro<lb ed="#P" n="125" break="no"/>pensum fuisse ad colenda sensibilia, ut solem, lunam, 
+      <lb ed="#P" n="126"/>stellas. Quorum proinde creationem sollicite 
+      des<lb ed="#P" n="127" break="no"/>cripsit Moyses, ne putarentur aeterna &amp; increata: 
+      <lb ed="#P" n="128"/>Ideóque divinis honoribus afficienda. De angelis 
+      au<lb ed="#P" n="129" break="no"/>tem ut de rebus incorporeis &amp; insensibilibus non 
+      <lb ed="#P" n="130"/>oportuit apud eundem populum in creationis rerum 
+      <lb ed="#P" n="131"/>descriptione fieri mentionem. 
+    </p>
+            <p xml:id="bt67yj-p005094-d1e377">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> At dices, Moyses in eodem libro saepe angelorum 
+      <lb ed="#P" n="133"/>mentionem facit, ergo ne viderentur increati &amp; 
+      <lb ed="#P" n="134"/>aeterni, ac proinde tanquam Dii colerentur a 
+      Ju<lb ed="#P" n="135" break="no"/>daeis, debuit initio libricreationem eorum 
+      describe<lb ed="#P" n="136" break="no"/>re. Responsio, Moyses eorum mentionem non facit 
+      <lb ed="#P" n="137"/>nisi ut ministrorum &amp; nunciorum unius Dei, &amp; per 
+      <lb ed="#P" n="138"/>hoc non poterat Judaeis esse suspicio, quod essent 
+      <lb ed="#P" n="139"/>dii, quare nec usquam legimus angelos a Judaeis 
+      <lb ed="#P" n="140"/>cultu divino honoratos fuisse. 
+    </p>
+            <p xml:id="bt67yj-p005094-d1e402">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Iterum objiciet aliquis angelum non naturae sed 
+      <lb ed="#P" n="142"/>officii nomen esse. Significat enim nuncium seu 
+      lega<lb ed="#P" n="143" break="no"/>tum. Respondeo quamvis apud Graecos authores 
+      an<lb ed="#P" n="144" break="no"/>gelus sit nomen officii, quod tamen ei in Hebraeo 
+      <!--0248.xml-->
+      <pb ed="#P" n="15"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>respondet, nomen est substantiae, &amp; personae. Quin 
+      <lb ed="#P" n="2"/>etiam tam in scripturis sacris, quam apud scriptores 
+      <lb ed="#P" n="3"/>ecclesiasticos Graecos, atque Latinos, hoc nomen, 
+      <lb ed="#P" n="4"/>angelus, pro substantia spirituali quam angelicam 
+      <lb ed="#P" n="5"/>vocamus, usurpatur vocabulo officii ad naturam 
+      si<lb ed="#P" n="6" break="no"/>gnificandam translato. Sed etsi nihil aliud quam 
+      <lb ed="#P" n="7"/>officii nomen esset, recte tamen diceretur angelos 
+      <lb ed="#P" n="8"/>esse substantias &amp; personas, sicut dicimus nuntium 
+      <lb ed="#P" n="9"/>aut oratorem esse hominem quia officium 
+      hujusmo<lb ed="#P" n="10" break="no"/>di haerere non potest nisi in substantia &amp; persona 
+      <lb ed="#P" n="11"/>quae ab illo denominetur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

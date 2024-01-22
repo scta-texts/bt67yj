@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 13</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 13</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="13"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p004654"><!-- l2d1c13" -->
+            <head xml:id="bt67yj-p004654-Hd1e101">Capitulum 13</head>
+            <head xml:id="bt67yj-p004654-Hd1e103" type="question-title">Unum esse mundum non plures</head>
+            <p xml:id="bt67yj-p004654-d1e106">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> §. 13. Unum esse mundum non plures.
+    </p>
+            <p xml:id="bt67yj-p004654-d1e113">
+               <lb ed="#P" n="10"/>QUidam philosophi plures mundos, nonnulli 
+      <lb ed="#P" n="11"/>etiam innumerabiles fabulose magis quam 
+      <lb ed="#P" n="12"/>ex ratione introduxerunt, ut Leucippus, 
+      Democri<lb ed="#P" n="13" break="no"/>tus, Epicurus, Alexander, &amp; alii, quorum 
+      senten<lb ed="#P" n="14" break="no"/>tiam inter historicos secutus est Plinius, &amp; inter 
+      hae<lb ed="#P" n="15" break="no"/>reticos Ophaei, quemadmodum ex Philastrio 
+      re<lb ed="#P" n="16" break="no"/>fert Augustinus haeresi 77. Thalmudici quoque 
+      <lb ed="#P" n="17"/>scriptores decies ac novies mille mundos inter alia 
+      <lb ed="#P" n="18"/>suae doctrinae mysteria tradere dicuntur. Sed has 
+      <lb ed="#P" n="19"/>omnes de multis opiniones, non modo recta 
+      philo<lb ed="#P" n="20" break="no"/>sophia rejicit, ut videre est apud Platonem in 
+      Ti<lb ed="#P" n="21" break="no"/>maeo, Aristotelem libro primo de caelo &amp; mundo, 
+      <lb ed="#P" n="22"/>capite octavo &amp; nono ejusque commentatores, 
+      <lb ed="#P" n="23"/>verum etiam Theologorum omnium consensus 
+      tan<lb ed="#P" n="24" break="no"/>quam a recta fide alienas condemnat. Et quidem 
+      <lb ed="#P" n="25"/>Augustinus loco jam allegato, &amp; ante eum 
+      Phila<lb ed="#P" n="26" break="no"/>strius, ac post eum Isidorus libro octavo 
+      etimo<lb ed="#P" n="27" break="no"/>logiarum capite quinto, quod &amp; recitatur a 
+      Gra<lb ed="#P" n="28" break="no"/>tiano 24. quaest. 3. capitulo: quidam autem, sub 
+      <lb ed="#P" n="29"/>finem, opinionem ponentem mundos 
+      innumera<lb ed="#P" n="30" break="no"/>biles diserte inter haereses numerarunt. Sed &amp; alibi 
+      <lb ed="#P" n="31"/>doctrinam hanc idem Augustinus ut erroneam 
+      tra<lb ed="#P" n="32" break="no"/>ducit, ut libro de vera reiigione cap. 49. epistola 
+      <lb ed="#P" n="33"/>56. ad Dioscorum &amp; lib. 11. de civit. cap. 5. 
+    </p>
+            <p xml:id="bt67yj-p004654-d1e168">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Praeterea <ref xml:id="bt67yj-p004654-Rd1e174">
+                  <name xml:id="bt67yj-p004654-Nd1e176">Methodius</name> in libro de resurrectione</ref>, 
+      <lb ed="#P" n="35"/>referente Epiphanio in haeresi Origenistarum, &amp; 
+      <lb ed="#P" n="36"/>Hieronymus in epistola 59. ad Avitium capit. 2. &amp; 
+      <lb ed="#P" n="37"/>3. inter alios Origenis errores etiam hunc ei 
+      ascri<lb ed="#P" n="38" break="no"/>bunt, quod mundos asserat innumerabiles, non 
+      <lb ed="#P" n="39"/>quidem ut <name xml:id="bt67yj-p004654-Nd1e190">Epicurus</name> voluit, simul existentes, sed 
+      <lb ed="#P" n="40"/>perpetua successione alium post alium. Scripsit 
+      au<lb ed="#P" n="41" break="no"/>tem haec <name xml:id="bt67yj-p004654-Nd1e197">Origenes</name> lib. 2. &amp; 3. Periarchon. Cujus 
+      <lb ed="#P" n="42"/>verba Hieron. in Epist. memorata adducit. 
+    </p>
+            <p xml:id="bt67yj-p004654-d1e203">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Videtur &amp; Chrysostomus contra 
+      hujusmodierro<lb ed="#P" n="44" break="no"/>rem disserere homilia quarta super Genesim, cum 
+      <lb ed="#P" n="45"/>dicit non esse ferendos qui multos caelos esse 
+      affir<lb ed="#P" n="46" break="no"/>mant, utpote scripturae sacrae &amp; doctrinis 
+      ecclesia<lb ed="#P" n="47" break="no"/>sticis contraria docentes. Nam caelorum nomine 
+      <lb ed="#P" n="48"/>sicut &amp; philosophus interdum loquitur, mundos 
+      <lb ed="#P" n="49"/>intellexisse videtur. Nec sane immerito Patres eam 
+      <lb ed="#P" n="50"/>opinionem insectantur ut erroneam &amp; haereticam. 
+      <lb ed="#P" n="51"/>Neque enim scripturae veritas consistere potest, 
+      po<lb ed="#P" n="52" break="no"/>sita mundorum pluralitate. Nam secundum 
+      scrip<lb ed="#P" n="53" break="no"/>turas omne hominum genus ex uno factum est, 
+      <lb ed="#P" n="54"/>Actorum decimoseptimo, &amp; in uno homine 
+      om<lb ed="#P" n="55" break="no"/>nes homines peccaverunt, Romanorum quinto, 
+      <lb ed="#P" n="56"/>&amp; in uno omnes moriuntur, 1. Corinth. 15. &amp; 
+      <lb ed="#P" n="57"/>Christus Jesus salvator est omnium hominum, 1. 
+      <lb ed="#P" n="58"/>Timoth. 4. &amp; apostoli jussi sunt docere omnes 
+      gen<lb ed="#P" n="59" break="no"/>tes, Matth. ultimo. Quae vera non essent si praeter 
+      <lb ed="#P" n="60"/>hunc mundum alius esset mundus, in quo alii essent 
+      <lb ed="#P" n="61"/>homines non ex <name xml:id="bt67yj-p004654-Nd1e248">Adam</name> geniti, neque per Christum 
+      <lb ed="#P" n="62"/>redempti, neque apostolica praedicatione ad fidem 
+      <lb ed="#P" n="63"/>adducendi. Atque aliae hujusmodi multae 
+      genera<lb ed="#P" n="64" break="no"/>les sententiae de scripturis proferri possunt, quae 
+      ve<lb ed="#P" n="65" break="no"/>ritatem aliter habere nequant, nisi mundus 
+      pona<lb ed="#P" n="66" break="no"/>tur unus &amp; singularis. 
+    </p>
+            <p xml:id="bt67yj-p004654-d1e262">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Hinc etiam est quod scriptura volens 
+      signifi<lb ed="#P" n="68" break="no"/>care Deum esse omnium rerum quaecumque 
+      us<lb ed="#P" n="69" break="no"/>que sunt, authorem &amp; opificem, dicit eum 
+      fecis<lb ed="#P" n="70" break="no"/>se caelum &amp; terram &amp; omnia quae in eis sunt. 
+      <lb ed="#P" n="71"/>Unde &amp; apud Joannem capit. primo eadem sunt 
+      <!--0246.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>haec tria, Omnia per ipsum facta sunt, &amp; sine ipso 
+      <lb ed="#P" n="73"/>factum est nihil, &amp; mundus per ipsum factus est. 
+      <lb ed="#P" n="74"/>Ex quo manifestum est extra mundum unum &amp; 
+      <lb ed="#P" n="75"/>singularem nihil esse quod factum sit. Rationem 
+      <lb ed="#P" n="76"/>vero qua mundi unitas probatur, optimam hanc 
+      <lb ed="#P" n="77"/>affert sanctus Thomas prima quaestione 47. 
+      arti<lb ed="#P" n="78" break="no"/>culo tertio, quia quaecumque sunt a Deo, 
+      ordinem<lb ed="#P" n="79" break="no"/>habent ad invicem &amp; ad ipsum Deum, plures 
+      au<lb ed="#P" n="80" break="no"/>tem mundi ordinem ad invicem non haberent. 
+      Sic<lb ed="#P" n="81" break="no"/>enim mundi non essent, sed unius mundi partes, 
+      <lb ed="#P" n="82"/>quia mundus significat universum. Unde necesse 
+      <lb ed="#P" n="83"/>est omnia ad unum mundum pertinere. Nec 
+      dissi<lb ed="#P" n="84" break="no"/>milis est ratio qua Plato in Timaeo ex unitate 
+      <lb ed="#P" n="85"/>exemplaris probat unitatem mundi, atque e 
+      con<lb ed="#P" n="86" break="no"/>tra Aristoteles ex unitate ordinis qui est in rebus, 
+      <lb ed="#P" n="87"/>colligit unitatem Dei gubernantis libro 
+      duodeci<lb ed="#P" n="88" break="no"/>mo metaphys. Non est autem huic doctrinae 
+      con<lb ed="#P" n="89" break="no"/>trarium quod scriptura interdum ita nominat hunc 
+      <lb ed="#P" n="90"/>mundum quasi praeter eum sit alius, ut cum dicit 
+      <lb ed="#P" n="91"/>Dominus Joan. 19. Regnum meum non est de hoc 
+      <lb ed="#P" n="92"/>mundo. Et Apostolus 1. Timoth 1. Christus 
+      ve<lb ed="#P" n="93" break="no"/>nit in hunc mundum peccatores salvos facere, non 
+      <lb ed="#P" n="94"/>enim hujus mundi nomine, totum hoc universum 
+      <lb ed="#P" n="95"/>iis locis intelligitur, sed hominum genus in terris 
+      <lb ed="#P" n="96"/>degens, quae acceptio mundi in scripturis 
+      fre<lb ed="#P" n="97" break="no"/>quens est. 
+    </p>
+            <p xml:id="bt67yj-p004654-d1e338">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Solet etiam objici quod ex Clementis epistola 
+      <lb ed="#P" n="99"/>citat Hieronymus scribens in secundam ad Ephesios 
+      <lb ed="#P" n="100"/>ad illud, secundum saeculum mundi hujus. Oceanus, 
+      <lb ed="#P" n="101"/>inquit, &amp; mundi qui trans ipsum sunt: Quod ita 
+      <lb ed="#P" n="102"/>commemorare videtur Hieronymus, quasi 
+      suspi<lb ed="#P" n="103" break="no"/>cionem ingerat plurium mundorum. Sed aperta 
+      <lb ed="#P" n="104"/>responsio est mundos trans Oceanum positos 
+      intel<lb ed="#P" n="105" break="no"/>ligit terras seu regiones illic sitas, &amp; a nobis 
+      remo<lb ed="#P" n="106" break="no"/>tissimas, quomodo nos novum orbem appellamus 
+      <lb ed="#P" n="107"/>eum, qui ad occidentalem mundi plagam longe 
+      <lb ed="#P" n="108"/>ultra mare positus, nostri saeculi navigationibus 
+      fre<lb ed="#P" n="109" break="no"/>quentatur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

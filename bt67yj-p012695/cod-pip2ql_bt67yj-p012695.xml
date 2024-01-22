@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="33"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p012695"><!-- l2d3c12" -->
+            <head xml:id="bt67yj-p012695-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-p012695-Hd1e103" type="question-title">Responsio ad objectiones</head>
+            <p xml:id="bt67yj-p012695-d1e106">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> §. 12. Responsio ad objectiones.
+    </p>
+            <p xml:id="bt67yj-p012695-d1e113">
+               <lb ed="#P" n="39"/>INter ea quae contra superiorem doctrinam 
+      oppo<lb ed="#P" n="40" break="no"/>Inuntur, primum argumentum est ex cognitione 
+      <lb ed="#P" n="41"/>angelorum vespertina &amp; matutina, cujus supra 
+      me<lb ed="#P" n="42" break="no"/>minimus, quodque ab ipso S. Thomas 
+      suppedita<lb ed="#P" n="43" break="no"/>tum videtur art. 6. q. 63. supradictae ad 4. Sic enim 
+      <lb ed="#P" n="44"/>habet: Instans primum in angelis intelligitur 
+      respon<lb ed="#P" n="45" break="no"/>dere operationi mentis angelicae, qua se in seipsam 
+      <lb ed="#P" n="46"/>convertit per vespertinam cognitionem, quia in primo 
+      <lb ed="#P" n="47"/>die commemoratur vespere, sed non mane, &amp; haec 
+      qui<lb ed="#P" n="48" break="no"/>dem operatio in omnibus bona fuit; sed ab hac 
+      opera<lb ed="#P" n="49" break="no"/>tione quidam per matutinam cognitionem ad laudem 
+      <lb ed="#P" n="50"/>verbi sunt conversi, quidam vero in seipsis 
+      remanen<lb ed="#P" n="51" break="no"/>tes facti sunt nox, per superbiam intumescentes. Et sic 
+      <lb ed="#P" n="52"/>prima operatio fuit omnibus communis. Sed in 
+      secun<lb ed="#P" n="53" break="no"/>da sunt distincti, &amp; ideo in primo instanti omnes 
+      fue<lb ed="#P" n="54" break="no"/>runt boni, sed in secundo boni a malis distincti: Citat 
+      <lb ed="#P" n="55"/>autem S. Augustinum lib. 4. de Genes. ad litteram 
+      <lb ed="#P" n="56"/>cap. 24. ubi dicit angelum in creatione cognovisse 
+      <lb ed="#P" n="57"/>scipsum tanquam per vesperam, sed continuo factum 
+      <lb ed="#P" n="58"/>esse mane. Quia, inquit, non remanet angelica 
+      scien<lb ed="#P" n="59" break="no"/>tia in eo quod creatum est, quin hoc continuo referat 
+      <lb ed="#P" n="60"/>ad ejusdem Verbi laudem atque claritatem. Nam si 
+      <lb ed="#P" n="61"/>vel ad scipsam natura angelica converterctur sequo 
+      <lb ed="#P" n="62"/>amplius delectaretur, quam illo cujus participatione 
+      <lb ed="#P" n="63"/>beata est, intumescens superbia caderet sicut 
+      diabo<lb ed="#P" n="64" break="no"/>lus. Haec S. Augustinus. Ex quibus utriusque 
+      docto<lb ed="#P" n="65" break="no"/>ris verbis apparet in omnibus angelis primam 
+      ope<lb ed="#P" n="66" break="no"/>rationem primo instanti respondentem fuisse 
+      cog<lb ed="#P" n="67" break="no"/>nitionem sui; secundam vero in aliis quidem fuisse 
+      <lb ed="#P" n="68"/>conversionem in Deum per laudem ipsius; in aliis 
+      <lb ed="#P" n="69"/>autem actum superbiae, per inordinatam in propria 
+      <lb ed="#P" n="70"/>excellentia delectationem. Unde consequi videtur 
+      <lb ed="#P" n="71"/>primo instanti nullos angelos meruisse, secundo au¬ 
+      <!--0266.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>tem instanti alios meruisse, alios demeruisse. 
+    </p>
+            <p xml:id="bt67yj-p012695-d1e194">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Sed respondetur in verbis allegatis, nihil 
+      conti<lb ed="#P" n="74" break="no"/>neri contrarium iis quae ex iisdem doctoribus in 
+      di<lb ed="#P" n="75" break="no"/>versum supra allata sunt. Nam ut ex ipsius S. 
+      Augu<lb ed="#P" n="76" break="no"/>stini doctrina constat ponentis omnia sex dierum 
+      <lb ed="#P" n="77"/>opera simul creata, non potest secundum eum 
+      intel<lb ed="#P" n="78" break="no"/>ligi successionis ordo inter cognitionem angelorum 
+      <lb ed="#P" n="79"/>vespertinam &amp; matutinam, sed naturae seu 
+      causali<lb ed="#P" n="80" break="no"/>tatis dumtaxat. Cum enim altera cognitio in 
+      alte<lb ed="#P" n="81" break="no"/>ram referatur, nihil prohibet utramque simul, id 
+      <lb ed="#P" n="82"/>est, eodem instanti fieri, praesertim cum operatio 
+      <lb ed="#P" n="83"/>gratiae non impediat operationem naturae, sed 
+      ma<lb ed="#P" n="84" break="no"/>gis perficiat. Hoc autem etiam esse ex mente S. 
+      Tho<lb ed="#P" n="85" break="no"/>mae perspicuum est ex eo quod jam dixerat articulo 
+      <lb ed="#P" n="86"/>praecedenti omnes angelos in primo instanti 
+      meruis<lb ed="#P" n="87" break="no"/>se, quod non possent sine cognitione matutina, qua 
+      <lb ed="#P" n="88"/>converterentur a cognitione sui ad laudem Dei. 
+      <lb ed="#P" n="89"/>Quod ergo dicit a cognitione vespertina alios 
+      con<lb ed="#P" n="90" break="no"/>versos in Deum, quasi non omnes, intellige per 
+      ac<lb ed="#P" n="91" break="no"/>tum perseverantem, quomodo alii non fuorunt 
+      con<lb ed="#P" n="92" break="no"/>versi in Deum, quia statim in seipsos relapsi per 
+      su<lb ed="#P" n="93" break="no"/>perbiam peccaverunt. 
+    </p>
+            <p xml:id="bt67yj-p012695-d1e245">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Ad secundum argumentum superius indicatum, 
+      <lb ed="#P" n="95"/>nempe si diabolus meruisset beatitudinem, fuisset 
+      <lb ed="#P" n="96"/>eam adeptus, eo quod angeli per unum actum 
+      ap<lb ed="#P" n="97" break="no"/>prehendant beatitudinem; variae adferuntur 
+      res<lb ed="#P" n="98" break="no"/>ponsiones a Thomistis, sed concesso eo quod S. 
+      <lb ed="#P" n="99"/>Thomas docet (de quo tamen multiambigunt) 
+      sci<lb ed="#P" n="100" break="no"/>licet eam angelorum esse conditionem ut per unum 
+      <lb ed="#P" n="101"/>actum meritorium ad beatitudinem perveniant, 
+      vi<lb ed="#P" n="102" break="no"/>detur haec responsio caeteris praeferenda, qua 
+      dica<lb ed="#P" n="103" break="no"/>tur actum intelligi perfectum, id est, 
+      perseveran<lb ed="#P" n="104" break="no"/>tem. Quem quia diabolus non habuit, sed aliis in 
+      <lb ed="#P" n="105"/>hujusmodi actu perseverantibus, ipse statim ab eo 
+      <lb ed="#P" n="106"/>per inordinatum sui amorem deflexit, ad 
+      beatitudi<lb ed="#P" n="107" break="no"/>nem non pervenit. Quam solutionem S. Thomas 
+      <lb ed="#P" n="108"/>artic. 5. praedictae quaest. ad 4. satis aperte indicat. 
+      <lb ed="#P" n="109"/>Cum enim dixisset omnes angelos in primo instanti 
+      <lb ed="#P" n="110"/>meruisse; ita subjunxit: Sed quidam eorum statim 
+      im<lb ed="#P" n="111" break="no"/>pedimentum praestiterunt suae beatitudinis praecedens 
+      <lb ed="#P" n="112"/>meritum mortificantes; &amp; ideo beatitudine quam 
+      me<lb ed="#P" n="113" break="no"/>ruerunt, sunt privati. 
+    </p>
+            <p xml:id="bt67yj-p012695-d1e293">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Tertio sic argumentantur, Angeli in instanti suae 
+      <lb ed="#P" n="115"/>creationis non potuerunt habere actum liberum; 
+      er<lb ed="#P" n="116" break="no"/>go nec meritorium. Probant antecedens; quia pro 
+      <lb ed="#P" n="117"/>illo instanti non poterant non habere illum actum, 
+      <lb ed="#P" n="118"/>&amp; judicium exercendi actum cum quo Deus eos 
+      <lb ed="#P" n="119"/>creabat. Respondetur ad libertatem actus non 
+      re<lb ed="#P" n="120" break="no"/>quiri ut in sensu composito, dum quis exercet 
+      ac<lb ed="#P" n="121" break="no"/>tum, possit eundem non exercere; sed sufficit ut ex 
+      <lb ed="#P" n="122"/>modo producendi talem actum, id est, ex judicio 
+      <lb ed="#P" n="123"/>indifferentiae actus, ad finem possit non agere. In tali 
+      <lb ed="#P" n="124"/>enim judicio libertas actus voluntatis originaliter 
+      <lb ed="#P" n="125"/>consistit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

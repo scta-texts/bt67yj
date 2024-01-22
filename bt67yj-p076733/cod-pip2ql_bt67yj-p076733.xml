@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="199"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p076733"><!-- l2d22c6" -->
+            <head xml:id="bt67yj-p076733-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p076733-Hd1e103" type="question-title">Ad caetera objecta responsio</head>
+            <p xml:id="bt67yj-p076733-d1e106">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> §. 6. Ad caetera objecta responsio.
+    </p>
+            <p xml:id="bt67yj-p076733-d1e113">
+               <lb ed="#P" n="10"/>EX hoc nudo &amp; simplici verborum apostoli 
+      in<lb ed="#P" n="11" break="no"/>Etellectu jam patet nullum esse argumentum 
+      <lb ed="#P" n="12"/>quod adferebatur ex Genes. 3. &amp; 2. Corinth. 11. 
+      qui<lb ed="#P" n="13" break="no"/>bus locis peculiariter de muliere dicitur quod fuerit 
+      <lb ed="#P" n="14"/>seducta vel decepta. Jam enim ostensum est virum 
+      <lb ed="#P" n="15"/>proprie non fuisse seductum, &amp; tamen credidisse 
+      <lb ed="#P" n="16"/>verbis serpentis. 
+    </p>
+            <p xml:id="bt67yj-p076733-d1e131">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Ad locum Augustini qui est lib. I1. de Gen. ad 
+      li<lb ed="#P" n="18" break="no"/>teram capite 42. respondent quidam Augustinum 
+      <lb ed="#P" n="19"/>eo loco non absolute negare Adamum credidisse 
+      <lb ed="#P" n="20"/>promissis serpentis, sed tantum dicere eum non 
+      cre<lb ed="#P" n="21" break="no"/>didisse seductum; eo scilicet modo quo apostolus 
+      lo<lb ed="#P" n="22" break="no"/>quitur. Verum si locus ipse inspiciatur, plus aliquid 
+      <lb ed="#P" n="23"/>Augustinum dicere voluisse facile apparebit. Nam 
+      <lb ed="#P" n="24"/>pro ratione sui dicti adfert, quod Adam jam 
+      spiri<lb ed="#P" n="25" break="no"/>tali mente praeditus erat, quasi ob id non potuerit 
+      <lb ed="#P" n="26"/>induci ad credendum, quod eos Deus ab esca illius 
+      <lb ed="#P" n="27"/>ligni invidendo prohibuisset. Qua ratione 
+      sequere<lb ed="#P" n="28" break="no"/>tur quod nec ad caetera credenda potuisset induci. 
+      <lb ed="#P" n="29"/>Deinde haec ratio etiam mulieri proculdubio 
+      com<lb ed="#P" n="30" break="no"/>munis est. Nam &amp; illa ante peccatum spiritali 
+      men<lb ed="#P" n="31" break="no"/>te praedita erat. Unde consequeretur nec mulierem 
+      <lb ed="#P" n="32"/>serpenti credidisse, vel illud de quo loquitur 
+      Augu<lb ed="#P" n="33" break="no"/>stinus, vel quicquam aliud. Rectius igitur alii 
+      res<lb ed="#P" n="34" break="no"/>pondent Augustinum in eo opere multa disputando 
+      <lb ed="#P" n="35"/>magis quam definiendo dixisse, quemadmodum 
+      ip<lb ed="#P" n="36" break="no"/>se fatetur in retractationibus. Sicut ergo alibi de 
+      <lb ed="#P" n="37"/>muliere aliter loquitur, agnoscens in ea peccatum, 
+      <lb ed="#P" n="38"/>sicut omnino agnoscere oportet mentem 
+      spiritua<lb ed="#P" n="39" break="no"/>lem, perinde ut in viro, licet non aequaliter, ita &amp; de 
+      <lb ed="#P" n="40"/>eo quod negat virum credidisse verbis serpentis, 
+      exi<lb ed="#P" n="41" break="no"/>stimandum est. Quod quidem patet ex aliis locis in 
+      <lb ed="#P" n="42"/>contrarium ex ipso allegatis superiori capite. Ac 
+      sa<lb ed="#P" n="43" break="no"/>ne si potuit mulier, quod de ea August. sentit, 
+      cre<lb ed="#P" n="44" break="no"/>dere atque in animum inducere, Deum prae invidia 
+      <lb ed="#P" n="45"/>prohibuisse hominibus ne fructum illius ligni 
+      ede<lb ed="#P" n="46" break="no"/>rent; potuit &amp; animus viri per superbiam prius 
+      con<lb ed="#P" n="47" break="no"/>ceptam usque adeo excoecari, ut hoc idem crederet. 
+      <lb ed="#P" n="48"/>Si enim culpam suam in Deum quodammodo rejecit 
+      <lb ed="#P" n="49"/>dicendo: Mulier quam dedisti mihi, &amp;c. potuit &amp; 
+      <lb ed="#P" n="50"/>invidiae crimen Deo ascribere.
+    </p>
+            <p xml:id="bt67yj-p076733-d1e210">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Quod vero idem <ref xml:id="bt67yj-p076733-Rd1e216">Augustinus libro 14. de civitate 
+      <lb ed="#P" n="52"/>cap. 11.</ref> adducto exemplo Aaronis &amp; Salomonis, 
+      do<lb ed="#P" n="53" break="no"/>cet Adamus uxori non tanquam verum loquenti 
+      <lb ed="#P" n="54"/>credidisse seductum, sed sociali necessitudine 
+      pa<lb ed="#P" n="55" break="no"/>ruisse; id videtur intelligendum de ea seductione 
+      <lb ed="#P" n="56"/>qua putaretur non esse a Deo praeceptum ut de ligno 
+      <lb ed="#P" n="57"/>non ederent. Hoc enim modo non vir sed mulicr 
+      se<lb ed="#P" n="58" break="no"/>ducta fuit juxta quintam sententiae apostolicae 
+      ex<lb ed="#P" n="59" break="no"/>positionem; atque hoc discrimen inter virum &amp; 
+      <lb ed="#P" n="60"/>mulierem ponit eodem loco Augustinus, nempe 
+      <lb ed="#P" n="61"/>quod vir sciens prudensque peccaverit, id est, 
+      prae<lb ed="#P" n="62" break="no"/>ceptum sibi datum transgressus fuerit, non autem 
+      <lb ed="#P" n="63"/>mulier; ubi &amp; haec verba subjungit: Hos autem 
+      se<lb ed="#P" n="64" break="no"/>ductos intelligi voluit, qui id quod faciunt non 
+      pu<lb ed="#P" n="65" break="no"/>tant esse peccatum, ille autem scivit. Verumtamen 
+      <lb ed="#P" n="66"/>juxta postremam expositionem apostolicae sententiae 
+      <lb ed="#P" n="67"/>verba Augustini nullam habent difficultatem. Negat 
+      <lb ed="#P" n="68"/>enim virum seductum fuisse, sed non negat eum 
+      <lb ed="#P" n="69"/>credidisse vera esse quae dixerat serpens. 
+    </p>
+            <p xml:id="bt67yj-p076733-d1e259">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Quin potius id affirmat eodem lib. cap. 17. 
+      repre<lb ed="#P" n="71" break="no"/>hendens. Adamum in eo quod Deo non crediderit; 
+      <!--0432.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="73"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="74"/>utique propter hoc quia crediderat serpenti, saltem 
+      <lb ed="#P" n="75"/>in eo quod dixerat: Non moriemini: Nisi enim hoc 
+      <lb ed="#P" n="76"/>credidisset, non se in certam moriendi necessitatem 
+      <lb ed="#P" n="77"/>per esum fructus vetiti conjecisset. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

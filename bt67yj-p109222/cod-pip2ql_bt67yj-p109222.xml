@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="281"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p109222"><!-- l2d26c6" -->
+            <head xml:id="bt67yj-p109222-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p109222-Hd1e103" type="question-title">Habitualis gratiae subjectum esse 
+      voluntatem</head>
+            <p xml:id="bt67yj-p109222-d1e106">
+               <lb ed="#P" n="36"/>§. 6. Habitualis gratiae subjectum esse 
+      <lb ed="#P" n="37"/>voluntatem.
+    </p>
+            <p xml:id="bt67yj-p109222-d1e113">
+               <lb ed="#P" n="38"/>EX superiori doctrina facile est videre quodnam 
+      <lb ed="#P" n="39"/>sit habitualis gratiae subjectum. Si enim gratia 
+      <lb ed="#P" n="40"/>eadem est cum charitate, non potest aliud ejus 
+      assi<lb ed="#P" n="41" break="no"/>gnari subjectum, quam quod ipsius est charitatis. 
+      <lb ed="#P" n="42"/>Hoc autem sine dubio est voluntas; Charitas enim 
+      <lb ed="#P" n="43"/>est habitus quo Deum diligimus, dilectio autem 
+      <lb ed="#P" n="44"/>sive amor est actus voluntati proprius. Et quidem 
+      <lb ed="#P" n="45"/>hoc modo sentiunt quicunque gratiam ponunt 
+      ean<lb ed="#P" n="46" break="no"/>dem cum charitate. Idque adeo ex hac opinione 
+      <lb ed="#P" n="47"/>consequens esse fatetur &amp; docet ipse S. Thomas 1 
+      <lb ed="#P" n="48"/>2. quaestione 110. articulo 4. Si, inquit, gratia sit 
+      <lb ed="#P" n="49"/>idem quod virtus; necesse quod sit in potentia animae, 
+      <lb ed="#P" n="50"/>ut in subjecto. Nam potentia animae est proprium 
+      sub<lb ed="#P" n="51" break="no"/>jectum virtutis. Sic nos dicimus: Si gratia non 
+      quae<lb ed="#P" n="52" break="no"/>cunque virtus est, sed charitas, necesse est eam esse 
+      <lb ed="#P" n="53"/>in voluntate ut in subjecto. Nam voluntas est 
+      pro<lb ed="#P" n="54" break="no"/>prium subjectum charitatis. Quod. si ita est; non 
+      <lb ed="#P" n="55"/>ergo collocari potest in essentia animae tanquam 
+      pro<lb ed="#P" n="56" break="no"/>prio subjecto, ut habet eorum opinio qui gratiam a 
+      <lb ed="#P" n="57"/>charitate realiter distinguunt; nisi dicant animae 
+      <lb ed="#P" n="58"/>potentias ab ipsa animae essentia non esse realiter 
+      <lb ed="#P" n="59"/>distinctas, ut sentit Henricus a Gandavo, qui 
+      proin<lb ed="#P" n="60" break="no"/>de dicit gratiam ut gratia est, subjectari in essentia 
+      <lb ed="#P" n="61"/>animae, ut autem charitas est; inhaerere voluntati. 
+      <lb ed="#P" n="62"/>Verum posita opinione communiori, quae tenet 
+      ani<lb ed="#P" n="63" break="no"/>mae potentias ab ipsa secundum rem distingui, 
+      pro<lb ed="#P" n="64" break="no"/>batur adhuc utrumque; scilicet gratiam non in 
+      es<lb ed="#P" n="65" break="no"/>sentia, sed in potentia animae, id est, voluntate 
+      sub<lb ed="#P" n="66" break="no"/>jectari, his rationibus. 
+    </p>
+            <p xml:id="bt67yj-p109222-d1e178">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Prima: Habitus operativi sunt in potentiis, non 
+      <lb ed="#P" n="68"/>in essentia animae, ut fatentur etiam Thomistae, &amp; 
+      <lb ed="#P" n="69"/>patet hoc argumento; quia potentiae mediae sunt 
+      <lb ed="#P" n="70"/>inter essentiam &amp; operationem: At gratia est 
+      ha<lb ed="#P" n="71" break="no"/>bitus operativus. Ab ea enim ut principio opera¬ 
+      <!--0514.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>tivo procedunt bonae operationes. Unde &amp; operari 
+      <lb ed="#P" n="73"/>&amp; cooperari voluntati nonstrae dicitur etiam ipsa 
+      ha<lb ed="#P" n="74" break="no"/>bitualis gratia. Et ab authore Hypognosticon lib. 3. 
+      <lb ed="#P" n="75"/>comparatur ad liberum arbitrium sicut sessor ad 
+      e<lb ed="#P" n="76" break="no"/>quum. Quocirca &amp; Magister hac dist. §. 1. docet 
+      <lb ed="#P" n="77"/>gratiam non esse otiosam; ergo ponenda est in 
+      po<lb ed="#P" n="78" break="no"/>tentia, non in essentia animae. Quae tota ratio 
+      con<lb ed="#P" n="79" break="no"/>firmatur, quia essentia non videtur esse capax 
+      ali<lb ed="#P" n="80" break="no"/>cujus habitus proprie dicti, nisi mediante potentia, 
+      <lb ed="#P" n="81"/>siquidem habitus potentiam praesupponit, sicut &amp; 
+      <lb ed="#P" n="82"/>operatio. 
+    </p>
+            <p xml:id="bt67yj-p109222-d1e223">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Secunda: Quae sunt immediate in essentia, non 
+      <lb ed="#P" n="84"/>suscipiunt magis &amp; minus, ut patet in potentiis 
+      ani<lb ed="#P" n="85" break="no"/>mae, intellectu &amp; voluntate; gratia autem sine 
+      con<lb ed="#P" n="86" break="no"/>troversia suscipit augmentum; ergo non est 
+      imme<lb ed="#P" n="87" break="no"/>diate in essentia. 
+    </p>
+            <p xml:id="bt67yj-p109222-d1e239">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Tertia: Per gratiam formaliter homo justificatur; 
+      <lb ed="#P" n="89"/>at justitia Christiam a Theologis in voluntate 
+      po<lb ed="#P" n="90" break="no"/>nitur, non in essentia animae; ergo &amp; gratia in eo 
+      <lb ed="#P" n="91"/>subjecto ponenda est. 
+    </p>
+            <p xml:id="bt67yj-p109222-d1e252">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Quarta: Opposita versantur circa idem subjectum, 
+      <lb ed="#P" n="93"/>sed culpa quae gratiae opponitur, in voluntate est, 
+      <lb ed="#P" n="94"/>non in essentia animae; ergo &amp; ipsa gratia. Plures 
+      <lb ed="#P" n="95"/>alias rationes in hanc sententiam vide apud 
+      Bona<lb ed="#P" n="96" break="no"/>venturam super hac dist. q. 5. ubi &amp; argumenta 
+      <lb ed="#P" n="97"/>diversae opinionis dissolvit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

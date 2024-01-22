@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="370"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p143407"><!-- l2d33c5" -->
+            <head xml:id="bt67yj-p143407-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p143407-Hd1e103" type="question-title">An omnes nascantur aequaliter peccatores</head>
+            <p xml:id="bt67yj-p143407-d1e106">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> §. 5. An omnes nascantur aequaliter peccatores?
+    </p>
+            <p xml:id="bt67yj-p143407-d1e113">
+               <lb ed="#P" n="92"/>Communis est Scholasticorum post Hugonem 
+      <lb ed="#P" n="93"/>&amp; Magistrum doctrina, omnes homines nasci) 
+      <lb ed="#P" n="94"/>aequaliter peccato originali obnoxios; ita ut neque 
+      <lb ed="#P" n="95"/>in culpa neque in poena respondente sit ulla 
+      diversi<lb ed="#P" n="96" break="no"/>tas inter eos, qui in solo hoc peccato decedunt. 
+      <lb ed="#P" n="97"/>Quam sententiam &amp; Anselmus expressit libro de 
+      <lb ed="#P" n="98"/>conceptu Virg. cap. 23. 
+    </p>
+            <p xml:id="bt67yj-p143407-d1e131">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Ratio autem haec reddi potest ex verbis Cypriani 
+      <lb ed="#P" n="100"/>libro 3. epistola 8. quia infans recens natus nihil 
+      pec<lb ed="#P" n="101" break="no"/>cavit, nisi quod ex Adam carnaliter natus 
+      conta<lb ed="#P" n="102" break="no"/>gium mortis antiquae contraxit. Quare cum carnalis 
+      <lb ed="#P" n="103"/>illa nativitas ex Adam sit omnibus aequalis, erit &amp; 
+      <lb ed="#P" n="104"/>contagium aequale. 
+    </p>
+            <p xml:id="bt67yj-p143407-d1e150">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Addi potest &amp; altera ratio: Nam per secundum 
+      <lb ed="#P" n="106"/>hominem Christum parvulis omnibus in baptismo 
+      <lb ed="#P" n="107"/>aequalis confertur gratia, &amp; aequalis in futuro 
+      reddi<lb ed="#P" n="108" break="no"/>tur gloria, si ante usum rationis ex hac vita decedant, 
+      <lb ed="#P" n="109"/>&amp; neque alterius Sacramenti neque martyrii 
+      parti<lb ed="#P" n="110" break="no"/>cipes fiant. Quare consentaneum est per primum 
+      <lb ed="#P" n="111"/>hominem Adam, omnes ex eo nascentes aequaliter 
+      <lb ed="#P" n="112"/>peccatores constitui. 
+    </p>
+            <p xml:id="bt67yj-p143407-d1e172">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Quod si objicias, parvulos postquam ad aetatem 
+      ra<lb ed="#P" n="114" break="no"/>tione utentem venerint, non aequaliter omnes ad 
+      <lb ed="#P" n="115"/>malum propensos esse, sed alios plus, alios minus; 
+      ne<lb ed="#P" n="116" break="no"/>que ad eadem omnes vitia inclinari, sed alium ad 
+      <lb ed="#P" n="117"/>hoc, alium ad illud. Respondeo congenitam illam &amp; 
+      <lb ed="#P" n="118"/>radicalem concupiscentiam in omnibus esse 
+      aequa<lb ed="#P" n="119" break="no"/>lem, propter unitatem causae inficientis. Caeterum 
+      <lb ed="#P" n="120"/>quia in alio plus, in alio minus adminiculi ad 
+      peccan<lb ed="#P" n="121" break="no"/>dum reperitur, sive ex parte animae, sive ex parte 
+      cor<lb ed="#P" n="122" break="no"/>poris, idque juxta vitiorum diversitatem; inde fit, ut 
+      <lb ed="#P" n="123"/>in adulta aetate, non omnes aequaliter peccent, sed 
+      <lb ed="#P" n="124"/>vel plus vel minus, &amp; in alio atque alio peccati 
+      gene<lb ed="#P" n="125" break="no"/>re, pro varietate naturalis complexionis, ac 
+      natura<lb ed="#P" n="126" break="no"/>lium instrumentorum, vel etiam occasionum quae per 
+      <lb ed="#P" n="127"/>vitam offeruntur. Quomodo etiam fit, ut qui 
+      aequa<lb ed="#P" n="128" break="no"/>lem in baptismo gratiam infantes perceperunt, 
+      acce<lb ed="#P" n="129" break="no"/>pto jam usu rationis neque aequaliter Deo serviant, 
+      <lb ed="#P" n="130"/>neque iisdem pietatis operibus vacent, sed pro 
+      di<lb ed="#P" n="131" break="no"/>versitate donorum naturalium, vel aliorum 
+      admini<lb ed="#P" n="132" break="no"/>culorum &amp; occasionum diversimode acceptam Dei 
+      <lb ed="#P" n="133"/>gratiam dispensent, quemadmodum docent Petrus 
+      <lb ed="#P" n="134"/>Apostolus 1. epist. 4. &amp; Paulus Rom. 12. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

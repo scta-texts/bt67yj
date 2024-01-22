@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="4"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p001210"><!-- l2d1c5" -->
+            <head xml:id="bt67yj-p001210-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p001210-Hd1e103" type="question-title">Solvuntur argumenta in contrarium</head>
+            <p xml:id="bt67yj-p001210-d1e106">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> §. 5. Solvuntur argumenta in contrarium.
+    </p>
+            <p xml:id="bt67yj-p001210-d1e113">
+               <lb ed="#P" n="57"/>ADversus tertiam propositionem doctrinae 
+      su<lb ed="#P" n="58" break="no"/>perioris, non pauca solent afferri argumenta, 
+      <lb ed="#P" n="59"/>ab iis qui diversum sentiunt; quamquam eorum 
+      ple<lb ed="#P" n="60" break="no"/>raque talia sunt ut contra secundam propositionem 
+      <lb ed="#P" n="61"/>aeque proferri possint. Sunt autem haec praecipua. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e126">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Primum: Creatura potest cooperari Deo per 
+      mo<lb ed="#P" n="63" break="no"/>dum instrumenti ad faciendum miraculum, neque 
+      <lb ed="#P" n="64"/>ad hoc opus habet virtute infinita; ergo similites 
+      <lb ed="#P" n="65"/>cooperari poterit ad creandum, non obstante eo 
+      <lb ed="#P" n="66"/>quod infinita virtus ei communicari non possit. 
+      Se<lb ed="#P" n="67" break="no"/>quela brobatur, quia ad utrumque opus in causa 
+      <lb ed="#P" n="68"/>principali requiritur virtus infinita. Utrumque enim 
+      <lb ed="#P" n="69"/>tale est ut vim totius naturae creatae excedat. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e149">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Secundum: Creatura corporalis assumi potest a 
+      <lb ed="#P" n="71"/>Deo, imo reipsa assumitur ad actionem instrumen¬ 
+      <!--0235.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>talem exercendam circa rem spiritualem, etiamsi 
+      <lb ed="#P" n="73"/>propria virtute, &amp; ut S. Thomas loquitur, per 
+      ali<lb ed="#P" n="74" break="no"/>quid sibi proprium, non possit dispositive operari 
+      <lb ed="#P" n="75"/>circa ejusmodi subjectum; nam sacramenta 
+      instru<lb ed="#P" n="76" break="no"/>mentaliactione gratiam causant in anima, &amp; ignis 
+      <lb ed="#P" n="77"/>tartareus dolorem in daemonibus &amp; animabus 
+      sepa<lb ed="#P" n="78" break="no"/>ratis; ergo ad rationem instrumenti non requiritur 
+      <lb ed="#P" n="79"/>ut per aliquid sibi proprium dispositive possit 
+      ope<lb ed="#P" n="80" break="no"/>rari ad effectum agentis principalis, &amp; per 
+      conse<lb ed="#P" n="81" break="no"/>quens nihil prohibebit, quo minus creatura possit 
+      <lb ed="#P" n="82"/>aslumi divina virtute, tanquam instrumentum, ad 
+      <lb ed="#P" n="83"/>opus creationis. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e188">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Tertium: causa naturalis corrumpens species 
+      sa<lb ed="#P" n="85" break="no"/>cramentales Eucharistiae, producit aliud corpus 
+      no<lb ed="#P" n="86" break="no"/>vum secundum materiam &amp; formam; ergo creat. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e199">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Quartum: homo generat hominem, hoc autem 
+      <lb ed="#P" n="88"/>proprie verum non esset, nisi saltem instrumentaliter 
+      <lb ed="#P" n="89"/>produceret formam geniti, id est, animam 
+      rationa<lb ed="#P" n="90" break="no"/>lem Producitur autem ea per creationem; ergo 
+      ge<lb ed="#P" n="91" break="no"/>nitor, saltem per monum instrumenti, creat animam. 
+      <lb ed="#P" n="92"/>Confirmatur hoc argumentum ex ratione 
+      instrumen<lb ed="#P" n="93" break="no"/>ti physici, cujus est per aliquid sibi proprium 
+      coope<lb ed="#P" n="94" break="no"/>rari dispositive ad effectum agentis principalis, ut 
+      su<lb ed="#P" n="95" break="no"/>pra dictum est. Id enim facit homo, dum vi 
+      genera<lb ed="#P" n="96" break="no"/>tiva disponit materiam ad suscoptionem animae. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e225">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Quintum: potest Deus facere ut animal generet 
+      ani<lb ed="#P" n="98" break="no"/>mal, &amp; ignis generet ignem; ergo facere potest ut 
+      an<lb ed="#P" n="99" break="no"/>gelus producat angelum; sed hoc fieri nequit nisi per 
+      <lb ed="#P" n="100"/>creationem, cum angelus sit res immaterialis; ergo 
+      <lb ed="#P" n="101"/>Deus potest angelo communicare virtutem creandi. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e241">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Sextum: Creatura potest producere formam 
+      acci<lb ed="#P" n="103" break="no"/>dentariam extra materiam, ut calorem, frigus, &amp; 
+      <lb ed="#P" n="104"/>hujusmodi in speciebus sacramentalibus, nulla 
+      exi<lb ed="#P" n="105" break="no"/>stente materia in qua recipiatur; ergo potest creare. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e254">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Septimum: ejusdem virtutis est annihilare &amp; 
+      crea<lb ed="#P" n="107" break="no"/>re; potest autem creatura assumi a Deo ut 
+      instrumen<lb ed="#P" n="108" break="no"/>tum ad annihilandum aliquid; quia annihilationi 
+      <lb ed="#P" n="109"/>praeexistit res circa quam exerceri possit 
+      instrumen<lb ed="#P" n="110" break="no"/>talis actio; poterit ergo assumi etiam ad creandum.
+    </p>
+            <p xml:id="bt67yj-p001210-d1e271">
+               <lb ed="#P" n="111"/>Postremum: <ref xml:id="bt67yj-p001210-Rd1e275">Augustinus libro 3. de trin. cap. 8. &amp; 
+      <lb ed="#P" n="112"/>9.</ref> videtur a creaturis tantum removere, quod sint 
+      <lb ed="#P" n="113"/>principalis causa creationis, non autem negat, eas 
+      <lb ed="#P" n="114"/>instrumentaliter ad creationem cooperari posse, sed 
+      <lb ed="#P" n="115"/>magis hoc videtur asserere. Dicit enim cap. 8. nec 
+      <lb ed="#P" n="116"/>parentes dici creatores hominum, nec agricolas 
+      <lb ed="#P" n="117"/>creatores frugum, quamvis eorum extrinsecus 
+      adhi<lb ed="#P" n="118" break="no"/>bitis motibus ista creanda Dei virtus interius 
+      opere<lb ed="#P" n="119" break="no"/>tur, &amp; interposita similitudine de justificatione, 
+      <lb ed="#P" n="120"/>qua mentem nostram formare interius non potest 
+      <lb ed="#P" n="121"/>nisi Deus: Ita, inquit, creationem rerum visibilium 
+      <lb ed="#P" n="122"/>Deus interius operatur, exteriores autem operationes 
+      <lb ed="#P" n="123"/>sive bonorum, sive malorum angelorum, vel 
+      homi<lb ed="#P" n="124" break="no"/>num, ita rerum naturae adhibet in qua creat omnia, 
+      <lb ed="#P" n="125"/>quemadmodum terrae agriculturam, &amp; quae 
+      sequun<lb ed="#P" n="126" break="no"/>tur. Deinde initio capitis 9. Aliud est, inquit, ex 
+      in<lb ed="#P" n="127" break="no"/>timo ac summo causarum ordine condere atque 
+      admi<lb ed="#P" n="128" break="no"/>nistrare creaturam, quod qui facit, solus creator est 
+      <lb ed="#P" n="129"/>Deus, aliud autem pro distributis ab illo viribus &amp; 
+      <lb ed="#P" n="130"/>facultatibus aliquam operationem forinsecus 
+      admove<lb ed="#P" n="131" break="no"/>re, ut tunc vel tunc, sic vel sic exeat quod creatur, &amp;c. 
+      <lb ed="#P" n="132"/>Unde demum concludens, ait: Sed non est creator, 
+      <lb ed="#P" n="133"/>nisi qui principaliter ista format. Qua sententia, 
+      si<lb ed="#P" n="134" break="no"/>cut &amp; superioribus significat August. angelos vel 
+      <lb ed="#P" n="135"/>homines posse non principaliter, sed 
+      instrumenta<lb ed="#P" n="136" break="no"/>liter vel ministerialiter eadem illa formare, licet 
+      <lb ed="#P" n="137"/>neget illos propter hoc dici posse creatores, eo quod 
+      <lb ed="#P" n="138"/>creatoris nomen tantum sit principali causae 
+      tribuen<lb ed="#P" n="139" break="no"/>dum. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e339">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Pro solutione horum &amp; similium argumentorum. 
+      <lb ed="#P" n="141"/>multa &amp; varia dicuntur ab iis qui secundum Sancti 
+      <lb ed="#P" n="142"/>Thomae doctrinam in creaturis quae ad facienda 
+      mi<lb ed="#P" n="143" break="no"/>racula, &amp; producendos sacramentorum effectus 
+      alia<lb ed="#P" n="144" break="no"/>que hujusmodi a Deo assumuntur, physicam 
+      instru<lb ed="#P" n="145" break="no"/>menti rationem constituunt. De quibus videantur 
+      <!--0236.xml-->
+      <pb ed="#P" n="5"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>
+               <ref xml:id="bt67yj-p001210-Rd1e365">
+                  <name xml:id="bt67yj-p001210-Nd1e367">Cajetanus</name> &amp; <name xml:id="bt67yj-p001210-Nd1e369">D. Bannes</name> in 1. q. 45. a. 5.</ref> ubi 
+      quaeri<lb ed="#P" n="2" break="no"/>tur, an creare sit solius Dei, &amp; rursum <ref xml:id="bt67yj-p001210-Rd1e374">
+                  <name xml:id="bt67yj-p001210-Nd1e376">Cajetanus</name> ac 
+      <lb ed="#P" n="3"/>Medina in 3. q. 13. art. 2.</ref> ubi disputatur de potentia 
+      <lb ed="#P" n="4"/>animae Christi respectu immutationis creaturarum. 
+      <lb ed="#P" n="5"/>Nobis autem hoc loco satis fuerit breviter de 
+      singu<lb ed="#P" n="6" break="no"/>lis prout probabilius videtur respondere. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e388">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Ad primum itaque argumentum responderi 
+      po<lb ed="#P" n="8" break="no"/>test, creaturam in miraculis sese habere tantum per 
+      <lb ed="#P" n="9"/>modum instrumenti moralis, vel causae meritoriae 
+      <lb ed="#P" n="10"/>aut sine qua non. Quod S. Thomas ipse sentire visus 
+      <lb ed="#P" n="11"/>est, quando scribens in 3. dist. 16. q. 1. art. 3. dicit, 
+      <lb ed="#P" n="12"/>quod neque aliqua virtus corporalis, nec spiritualis 
+      <lb ed="#P" n="13"/>aut animae aut Angeli, nec etiam animae Christi 
+      po<lb ed="#P" n="14" break="no"/>tuit ad immutationem legis naturae impositae 
+      divi<lb ed="#P" n="15" break="no"/>nitus, nisi per modum orationis aut intercessionis, 
+      <lb ed="#P" n="16"/>&amp; ideo, inquit, hoc fuic signum Deitatis Christi, 
+      <lb ed="#P" n="17"/>quod imperando signa perficiebat, &amp; non orando, 
+      <lb ed="#P" n="18"/>sicut alii sancti. Quae tamen solutio si cui minus 
+      pla<lb ed="#P" n="19" break="no"/>cet, eo quod S. Thomas in summa aliter sentire 
+      vi<lb ed="#P" n="20" break="no"/>deatur, dicere poterit quod motus creaturae qua 
+      <lb ed="#P" n="21"/>Deus ad miraculum utitur, sit operatio ejus 
+      dispo<lb ed="#P" n="22" break="no"/>sitiva ad effectum causae principalis, non quidem 
+      <lb ed="#P" n="23"/>naturaliter ipsi competens, in ordine ad miraculum; 
+      <lb ed="#P" n="24"/>sed quatenus ad hoc a Deo assumitur &amp; elevatur. 
+      <lb ed="#P" n="25"/>Nec simile est de miraculo &amp; creatione, quia quod 
+      <lb ed="#P" n="26"/>miraculose sit, plerumque non ita superat naturae 
+      <lb ed="#P" n="27"/>vires, quin Deus hoc in natura potuerit constituere: 
+      <lb ed="#P" n="28"/>velut restituere caeco visum, claudo gressum, &amp;c. 
+      <lb ed="#P" n="29"/>secus de creatione propter rationes initio allatas. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e443">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Ad secundum respondetur multorum quoque 
+      sen<lb ed="#P" n="31" break="no"/>tentiam esse, quod nulla creatura corporalis ne 
+      qui<lb ed="#P" n="32" break="no"/>dem actione sibi divinitus communicata, agere 
+      pos<lb ed="#P" n="33" break="no"/>sit in rem mere spiritualem, sed tam sacramenta 
+      res<lb ed="#P" n="34" break="no"/>pectu gratiae in anima, quam ignem corporeum 
+      res<lb ed="#P" n="35" break="no"/>pectu doloris in daemonibus, instrumenta dici; quia 
+      <lb ed="#P" n="36"/>Deus ad illos effectus producendos his rebus utitur, 
+      <lb ed="#P" n="37"/>tanquam per ipsius voluntatem atque ordinationem 
+      <lb ed="#P" n="38"/>efficacibus, licet alioqui per modum naturae nihil 
+      <lb ed="#P" n="39"/>agant. Alii dicunt quod quamvis hujusmodi 
+      creatu<lb ed="#P" n="40" break="no"/>rae, subjectum ipsum in quo producitur effectus, 
+      <lb ed="#P" n="41"/>sua actione nequeant attingere, repugnante 
+      videli<lb ed="#P" n="42" break="no"/>cet natura spirituali, quae non est capax passionis a 
+      <lb ed="#P" n="43"/>re corporea, dispositive tamen operentur per 
+      ali<lb ed="#P" n="44" break="no"/>quid sibi proprium, id est per actionem vel motum 
+      <lb ed="#P" n="45"/>ad effectum principalis agentis, licet illius effectus 
+      <lb ed="#P" n="46"/>subjectum actione sua non attingant. Verum haec 
+      <lb ed="#P" n="47"/>solutio non modicam habet difficultatem, ut alibi 
+      <lb ed="#P" n="48"/>plenius declarandum est. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e489">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Ad tertium quidam respondent illam novi 
+      corpo<lb ed="#P" n="50" break="no"/>ris productionem non esse creationem, eo quod non 
+      <lb ed="#P" n="51"/>sit ex nihilo; quia, ut aiunt, accidentia supplent 
+      vi<lb ed="#P" n="52" break="no"/>cem materiae ad recipiendas dispositiones tali 
+      pro<lb ed="#P" n="53" break="no"/>ductioni praevias. Sed haec responsio nondum 
+      eva<lb ed="#P" n="54" break="no"/>cuat vim argumenti, quia cum materia nova 
+      pro<lb ed="#P" n="55" break="no"/>duci non possit, nisi per creationem, aut certe per 
+      <lb ed="#P" n="56"/>operationem creationi similem, consequens 
+      vide<lb ed="#P" n="57" break="no"/>bitur causam naturalem via generationis naturalis 
+      <lb ed="#P" n="58"/>producentem ipsum totum, etiam valere ad 
+      creatio<lb ed="#P" n="59" break="no"/>nem seu novam productionem materiae. Quare 
+      po<lb ed="#P" n="60" break="no"/>tius dicendum videtur causam corrumpentem 
+      spe<lb ed="#P" n="61" break="no"/>cies sacramentales non se extendere, ne quidem per 
+      <lb ed="#P" n="62"/>modum instrumenti physici, ad productionem 
+      ma<lb ed="#P" n="63" break="no"/>teriae, neque ad productionem totius compositi; sed 
+      <lb ed="#P" n="64"/>tantum ad praevias dispositiones, quas etsi forma 
+      <lb ed="#P" n="65"/>compositi naturaliter consequatur, non tamen 
+      ip<lb ed="#P" n="66" break="no"/>sum compositum, id est, corpus naturale; quippe 
+      <lb ed="#P" n="67"/>cujus altera pars essentiae est materia. Unde dici 
+      po<lb ed="#P" n="68" break="no"/>test quod haec causa operatur quidem dispositive 
+      <lb ed="#P" n="69"/>per aliquid sibi proprium ad formam compositi, 
+      <lb ed="#P" n="70"/>non tamen ad ipsum compositum, quia non 
+      opera<lb ed="#P" n="71" break="no"/>tur ad formam in materia. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e544">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Ad quartum respondetur cum S. Thoma 1. quaest. 
+      <lb ed="#P" n="73"/>118. art. 2. ad 4. quod homo generat hominem, in 
+      <lb ed="#P" n="74"/>quantum per virtutem seminis ejus disponitur ma¬ 
+      <!--0236.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>teria ad susceptionem animae rationalis. Sed quia 
+      <lb ed="#P" n="76"/>dispositionem illam non consequitur anima 
+      ratio<lb ed="#P" n="77" break="no"/>nalis ex virtute generantis, non enim educitur e 
+      po<lb ed="#P" n="78" break="no"/>tentia materiae, sed a Deo per creationem corpori sic 
+      <lb ed="#P" n="79"/>disposito infunditur; idcirco dici non potest 
+      homi<lb ed="#P" n="80" break="no"/>nem, ne quidem ut instrumentum physicum, sua 
+      <lb ed="#P" n="81"/>operatione attingere animam ejusve productionem. 
+      <lb ed="#P" n="82"/>Hinc est quod idem S. Thomas 1. quaest. 90. art. 3. 
+      <lb ed="#P" n="83"/>docet omnino esse impossibile, ut angeli secundum 
+      <lb ed="#P" n="84"/>quod operantur in virtute Dei, causent animas 
+      ra<lb ed="#P" n="85" break="no"/>tionales, propterea quod anima rationalis non possit 
+      <lb ed="#P" n="86"/>produci, nisi per creationem. Quod si angelus ad 
+      <lb ed="#P" n="87"/>hoc assumi non potest, ut in virtute Dei tanquam 
+      <lb ed="#P" n="88"/>ejus instrumentum producat animam rationalem. 
+      <lb ed="#P" n="89"/>certe ne homo id potest naturali virtute generativa. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e593">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Ad quintum, respondetur non esse antecedentis 
+      <lb ed="#P" n="91"/>&amp; consequentis similem rationem. Nam productio 
+      <lb ed="#P" n="92"/>angeli, utpote rei immaterialis, nihil praesupponit 
+      <lb ed="#P" n="93"/>circa quod exerceatur actio producentis; &amp; ideo 
+      im<lb ed="#P" n="94" break="no"/>possibilis est praeterquam soli Deo, generatio autem 
+      <lb ed="#P" n="95"/>animalis aut ignis praesupponit materiam circa 
+      <lb ed="#P" n="96"/>quam agere potest animal &amp; ignis. Hanc 
+      solutio<lb ed="#P" n="97" break="no"/>nem plenius &amp; subtilius explicatam vide apud S. 
+      <lb ed="#P" n="98"/>Thomam supra dicta q. 45. art. 5. ad 1. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e617">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Ad sextum respondetur mutationem 
+      accidenta<lb ed="#P" n="100" break="no"/>riam, quae fit in speciebus sacramentalibus, non fieri 
+      <lb ed="#P" n="101"/>nullo praesupposito subjecto. Quantitate enim 
+      subje<lb ed="#P" n="102" break="no"/>ctum est, in quo recipitur omnis illa mutatio. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e630">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Si dicas ipsam quantitatem ibi conservari sine 
+      sub<lb ed="#P" n="104" break="no"/>jecto. Respondeo id non fieri virtute alicujus 
+      creatu<lb ed="#P" n="105" break="no"/>rae, sed solius Dei; nec enim videtur ad 
+      productio<lb ed="#P" n="106" break="no"/>nem quantitatis, quae ingenerabilis est, &amp; 
+      incorrup<lb ed="#P" n="107" break="no"/>tibilis, maxime si extra subjectum ponatur, 
+      instru<lb ed="#P" n="108" break="no"/>mentaliter cooperari posse creatura, nisi secundum 
+      <lb ed="#P" n="109"/>generalem modum instrumenti. Quare nec ad 
+      ejus<lb ed="#P" n="110" break="no"/>modi conservationem. Si quidem conservatio reipsa 
+      <lb ed="#P" n="111"/>non aliud est, quam continua quaedam rei productio¬ 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e654">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Ad septimum nonnulli respondent praeter 
+      ratio<lb ed="#P" n="113" break="no"/>nem in argumento positam, creaturam posse assumi 
+      <lb ed="#P" n="114"/>ad annihilandum, non autem ad creandum, &amp; 
+      pro<lb ed="#P" n="115" break="no"/>inde licet utrumque sit ejusdem virtutis increatae. 
+      <lb ed="#P" n="116"/>non tamen ejusdem creatae. Sed probabilior est 
+      res<lb ed="#P" n="117" break="no"/>ponsio, nec ad annihilandum assumi posse 
+      creatu<lb ed="#P" n="118" break="no"/>ram per modum instrumentalis causae physicae. 
+      Cu<lb ed="#P" n="119" break="no"/>jus ratio est, quia annihilatio fieri non potest, nisi 
+      <lb ed="#P" n="120"/>per cessationem operationis divinae qua rem 
+      conser<lb ed="#P" n="121" break="no"/>vat. At hujusmodi vero cessationem nulla creatura 
+      <lb ed="#P" n="122"/>potest instrumentaliter operari. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e683">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Ad postremum respondetur Augustinum, ita soli 
+      <lb ed="#P" n="124"/>Deo tribuere principalem operationem in rerum 
+      <lb ed="#P" n="125"/>creatione, ut in creaturis agnoscat quidem aliquam 
+      <lb ed="#P" n="126"/>operationem secundariam respectu creationis 
+      qua<lb ed="#P" n="127" break="no"/>rundam rerum, non tamen se habentem per modum 
+      <lb ed="#P" n="128"/>actionis instrumentalis physicae, nisi quoad 
+      disposi<lb ed="#P" n="129" break="no"/>tiones praevias, quibus videlicet positis Deus creat. 
+      <lb ed="#P" n="130"/>Hoc enim Augustinum velle apparet ex eo quod 
+      ho<lb ed="#P" n="131" break="no"/>mines extrinsecus operationem suam adhibentes, 
+      <lb ed="#P" n="132"/>nullo modo patitur vocari creatores, quodque 
+      simi<lb ed="#P" n="133" break="no"/>litudinem adducit, de justificatione nostra quam 
+      in<lb ed="#P" n="134" break="no"/>terius operari non potest, nisi Deus. 
+    </p>
+            <p xml:id="bt67yj-p001210-d1e714">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Si vicissim objicias, comparationem quam adfert 
+      <lb ed="#P" n="136"/>ex agricultura, in qua homines applicando &amp; 
+      ordi<lb ed="#P" n="137" break="no"/>nando causas naturales revera ac proprie concurrunt 
+      <lb ed="#P" n="138"/>ad effectum principalis agentis, ubi &amp; ipsae causae 
+      na<lb ed="#P" n="139" break="no"/>turales quae sunt causae creatae; procul dubio effectum 
+      <lb ed="#P" n="140"/>producunt, etiam ut causae, aliquo modo 
+      principa<lb ed="#P" n="141" break="no"/>les. Respondeo homines in agricultura 
+      ministeriali<lb ed="#P" n="142" break="no"/>ter quidem operari ad effectum qui a Deo 
+      expecta<lb ed="#P" n="143" break="no"/>tur, id est, ad fruges percipiendas, non tamen 
+      instru<lb ed="#P" n="144" break="no"/>mentaliter, si de instrumento physico loquamur. 
+      Un<lb ed="#P" n="145" break="no"/>de &amp; Apost. hinc similitudinem transferens ad 
+      justifi<lb ed="#P" n="146" break="no"/>cationem ait 1. Cor. 3. Ego plantavi, Apollo rigavit. 
+      <lb ed="#P" n="147"/>sed Deus incrementum dedit. Itaque neque qui plantat, 
+      <lb ed="#P" n="148"/>est aliquid, neque qui rigat, sed qui incrementum da¬ 
+      <!-- trank 237 (page 4) repeat of 234 -->
+      <!-- trank 238 (page 5) repeat of 235 -->
+      <!--0239.xml-->
+      <pb ed="#P" n="6"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Deus. Causas autem naturales respectu incrementi 
+      <lb ed="#P" n="2"/>frugum, non adducit Augustinus in comparationem. 
+      <lb ed="#P" n="3"/>Et quamvis haec solutio sufficere possit, dici tamen 
+      <lb ed="#P" n="4"/>etiam potest Augustinum facere comparationem in 
+      <lb ed="#P" n="5"/>generali ratione causae tantum extrinsecus adhibentis 
+      <lb ed="#P" n="6"/>ea ad quae sive naturaliter, sive supernaturaliter, ex 
+      <lb ed="#P" n="7"/>divina ordinatione effectus Deo interius operante, 
+      <lb ed="#P" n="8"/>sequatur; haec autem ministerialis est causa, sive 
+      ef<lb ed="#P" n="9" break="no"/>fectum cujus gratia ministerium suum exhibet, vi &amp; 
+      <lb ed="#P" n="10"/>actione propria attingat, sive non, ut in sacramentis. 
+      <lb ed="#P" n="11"/>Neque enim oportet hujusmodi causam esse 
+      instru<lb ed="#P" n="12" break="no"/>mentum secundum modum efficientiae physicae, qua 
+      <lb ed="#P" n="13"/>contingat ipsum effectum, quomodo securis scinden 
+      <lb ed="#P" n="14"/>do producit figuram scamni, sed sufficit ut aliquid 
+      <lb ed="#P" n="15"/>operetur propria vi, quod saltem ex voluntate 
+      prin<lb ed="#P" n="16" break="no"/>cipalis causae requiritur, ut praevium &amp; 
+      praeparato<lb ed="#P" n="17" break="no"/>rium ad effectum. Et hoc modo non est dubium 
+      <lb ed="#P" n="18"/>quin ad opus creationis uti possit Deus creaturis 
+      mi<lb ed="#P" n="19" break="no"/>nistris &amp; instrumentis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

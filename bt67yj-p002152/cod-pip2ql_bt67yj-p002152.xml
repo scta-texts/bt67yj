@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="6"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p002152"><!-- l2d1c7" -->
+            <head xml:id="bt67yj-p002152-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p002152-Hd1e103" type="question-title">Omnem creaturam bonam esse</head>
+            <p xml:id="bt67yj-p002152-d1e106">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> §. 7. Omnem creaturam bonam esse.
+    </p>
+            <p xml:id="bt67yj-p002152-d1e113">
+               <lb ed="#P" n="108"/>EX eo quod superius ostensum est ab uno solo 
+      ve<lb ed="#P" n="109" break="no"/>Ero &amp; bono Deo res ab eo diversas conditas esse, 
+      <lb ed="#P" n="110"/>subvertitur fundamentum Manichaeorum, qui 
+      do<lb ed="#P" n="111" break="no"/>cuerunt propterea quasdam creaturas natura sua 
+      ma<lb ed="#P" n="112" break="no"/>las esse, quod a Deo malo, id est, malorum angelorum 
+      <lb ed="#P" n="113"/>principe, factae essent. Cum enim Deus universorum 
+      <lb ed="#P" n="114"/>author ita bonus sit, ut sit ipsa bonitas, ideóque in 
+      <lb ed="#P" n="115"/>opere suo deficere ab eo quod bonum est, non possit; 
+      <lb ed="#P" n="116"/>fit necessario ut opus ejus omne bonum sit. Cui 
+      argu<lb ed="#P" n="117" break="no"/>mento persimile est illud quo Theophylactus ad 
+      ean<lb ed="#P" n="118" break="no"/>dem rem atitur, scribens in Jo. 6. sumptum 
+      vide<lb ed="#P" n="119" break="no"/>licet ex eo quod Christus panes multiplicasse legitur: 
+      <lb ed="#P" n="120"/>Si enim, inquit, mala esset creatura, bonus quod 
+      ma<lb ed="#P" n="121" break="no"/>lum est, utique non multiplicasset. 
+    </p>
+            <p xml:id="bt67yj-p002152-d1e146">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Quod autem omnis creatura bona sit, apertissime 
+      <lb ed="#P" n="123"/>testatur scriptura Genes. 1. ubi &amp; de opere cujusque 
+      <lb ed="#P" n="124"/>diei sigillatim dicitur: Vidit Deus quod esset bonum, 
+      <lb ed="#P" n="125"/>Et de omnibus simul jam perfectis concluditur, 
+      Vi<lb ed="#P" n="126" break="no"/>dit Deus cuncta quae fecerat &amp; erant val de bona. 
+      Sin<lb ed="#P" n="127" break="no"/>gula namque bona sunt bonitate naturae suae, sed 
+      <lb ed="#P" n="128"/>omnia valde bona, quia bonitati singulorum ex 
+      qui<lb ed="#P" n="129" break="no"/>bus universum consistit, accedit pulcherrimus 
+      or<lb ed="#P" n="130" break="no"/>do, quo cuncta sibi invicem aptissime congruunt, 
+      at<lb ed="#P" n="131" break="no"/>que hunc ornatissimum mundum constituunt. Idem 
+      <lb ed="#P" n="132"/>probant illa Sapientis ad Deum verba, Sap. 11. 
+      Dili<lb ed="#P" n="133" break="no"/>gis omnia quae sunt, &amp; nihil odisti eorum quae fecisti. 
+      <lb ed="#P" n="134"/>Hinc enim sequitur omnia quae sunt, bona esse. Nam 
+      <lb ed="#P" n="135"/>si mala essent omnia vel aliqua, diligi non possent ab 
+      <lb ed="#P" n="136"/>eo qui summe bonus est. Denique plana ac definita 
+      <lb ed="#P" n="137"/>est Apostoli Pauli sententia 1. Tim. 4. Omnem 
+      crea<lb ed="#P" n="138" break="no"/>turam Dei bonam esse. Hanc porro Catholicam 
+      do<lb ed="#P" n="139" break="no"/>ctrinam contra Manichaeos confirmant &amp; 
+      propu<lb ed="#P" n="140" break="no"/>gnant cum alii patres, tum praecipue ac passim 
+      Au<lb ed="#P" n="141" break="no"/>gustinus in iis libris quos adversus eorum haeresim 
+      <lb ed="#P" n="142"/>non paucos elaboravit, docens mali originem non 
+      <lb ed="#P" n="143"/>in Deum, sed in solam mutabilem bonae, sed tamen 
+      <lb ed="#P" n="144"/>defectibilis creaturae voluntatem, referendam esse. 
+    </p>
+            <p xml:id="bt67yj-p002152-d1e202">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Assertionem vero Manichaeorum, quae eadem 
+      po<lb ed="#P" n="146" break="no"/>stea Priscillianistarum fuit, damnatam legimus in 
+      <!--0240.xml-->
+      <pb ed="#P" n="7"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>vetustis aliquot conciliis, ac nominatim in <ref xml:id="bt67yj-p002152-Rd1e219">concilio, 
+      <lb ed="#P" n="2"/>Bracarensi can. 7. 8. 12. 13. &amp; 14.</ref> tametsi constat non 
+      <lb ed="#P" n="3"/>Manichaeos primos hujus erroris authores fuisse; sed 
+      <lb ed="#P" n="4"/>jam tum apostolorum tempore a quibusdam 
+      pseudo<lb ed="#P" n="5" break="no"/>apostolis hanc doctrinam spargi cepisse, ut intelligi 
+      <lb ed="#P" n="6"/>potest ex epistolis apostolicis. Verum non prius 
+      inno<lb ed="#P" n="7" break="no"/>tuit haec pestifera doctrina, quam statim &amp; apostolica 
+      <lb ed="#P" n="8"/>authoritate, &amp; totius ecclesiae tanta consensione 
+      re<lb ed="#P" n="9" break="no"/>probaretur, id quod eadem scripta apostolica 
+      com<lb ed="#P" n="10" break="no"/>probant. De eadem haeresi legantur Epiphanius, 
+      Phi<lb ed="#P" n="11" break="no"/>lastrius, &amp; Augustinus, sub variis titulis haereticorum. 
+      <lb ed="#P" n="12"/>Coincidit autem haec haeresis cum ea quae Deum 
+      ma<lb ed="#P" n="13" break="no"/>li, id est, peccati facit authorem. Qui enim dixerunt 
+      <lb ed="#P" n="14"/>omnes, vel aliquas creaturas ex natura &amp; origine sua 
+      <lb ed="#P" n="15"/>malas esse, de ea malitia sunt locuti, quae bonitati 
+      di<lb ed="#P" n="16" break="no"/>vinae repugnet. Nam intellectualibus quidem 
+      sub<lb ed="#P" n="17" break="no"/>stantiis, quas ex natura &amp; creatione suas malas esse 
+      <lb ed="#P" n="18"/>dixerunt, malitiam peccati tribuerunt. Caeterum res 
+      <lb ed="#P" n="19"/>alias malas &amp; immundas esse, quod earum usus 
+      uten<lb ed="#P" n="20" break="no"/>tem redderet immundum, id est, peccato 
+      contami<lb ed="#P" n="21" break="no"/>natum. Contra quos apostolus Rom. 14. omnia 
+      <lb ed="#P" n="22"/>munda esse pronunciat, ut Tit. 1. ait: Omnia munda 
+      <lb ed="#P" n="23"/>mundis, &amp; Christus Matt. 15. non quod intrat in os, 
+      <lb ed="#P" n="24"/>coinquinat hominem, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p002152-d1e273">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Quae vero adversus hanc doctrinam ex scripturis 
+      <lb ed="#P" n="26"/>&amp; patribus afferri possunt, fere talia sunt quae non 
+      <lb ed="#P" n="27"/>de malo culpae, sed de malo poenae, quae utique bona 
+      <lb ed="#P" n="28"/>est quia justa, ut plenius explicabitur suo loco 
+      scili<lb ed="#P" n="29" break="no"/>cet infra ad dist. 36. debeant intelligi. 
+    </p>
+            <p xml:id="bt67yj-p002152-d1e289">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Alia interpretanda sunt de permissione &amp; 
+      ordina<lb ed="#P" n="31" break="no"/>tione peccati. Alia denique quibusdam creaturis, 
+      <lb ed="#P" n="32"/>praesertim animalibus immunditiam ascribentia, non 
+      <lb ed="#P" n="33"/>de naturali immunditia, sed de legali sunt 
+      intelligen<lb ed="#P" n="34" break="no"/>da, qua nimirum aliqua dicantur immunda, non quia 
+      <lb ed="#P" n="35"/>in natura sua quidquam habeant abominandum, sed 
+      <lb ed="#P" n="36"/>quoniam instituta sunt ad significandum aliquid, quod 
+      <lb ed="#P" n="37"/>non natura, sed vitio propriae voluntatis sit revera &amp; 
+      <lb ed="#P" n="38"/>coram Deo immundum, cujusmodi sunt quae cunque 
+      <lb ed="#P" n="39"/>secundum legem Mosaicam immunda reputantur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

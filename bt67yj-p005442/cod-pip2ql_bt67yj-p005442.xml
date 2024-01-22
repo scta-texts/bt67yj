@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="15"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p005442"><!-- l2d2c2" -->
+            <head xml:id="bt67yj-p005442-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p005442-Hd1e103" type="question-title">An ratione probari possit angelos esse</head>
+            <p xml:id="bt67yj-p005442-d1e106">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> §. 2. An ratione probari possit angelos esse.
+    </p>
+            <p xml:id="bt67yj-p005442-d1e113">
+               <lb ed="#P" n="13"/>QUaeritur an ratione naturali doceri, vel etiam 
+      <lb ed="#P" n="14"/>demonstrari possit angelos esse in rerum 
+      natu<lb ed="#P" n="15" break="no"/>ra. Nam sanctus Thomas quidem 1. quaest. 50. a. 1. 
+      <lb ed="#P" n="16"/>id probare nititur hujusmodi ratione. Postulat ordo 
+      <lb ed="#P" n="17"/>&amp; perfectio universi, ut in eo sint aliquae creaturae 
+      <lb ed="#P" n="18"/>quae Deo creatori assimilentur, secundum id per 
+      <lb ed="#P" n="19"/>quod causat ipsum universum. Causat autem per 
+      in<lb ed="#P" n="20" break="no"/>tellectum &amp; voluntatem; ergo ad universi 
+      perfe<lb ed="#P" n="21" break="no"/>ctionem requiritur ut in eo sint creaturae 
+      intellectua<lb ed="#P" n="22" break="no"/>les, id est, angeli. Philosophus autem l. 12. metaph. 
+      <lb ed="#P" n="23"/>&amp; lib. 8. phys. intelligentias esse probat ea 
+      potissi<lb ed="#P" n="24" break="no"/>mum ratione quae sumitur ex motu caelorum, cum 
+      <lb ed="#P" n="25"/>enim certum sit caelestia corpora moveri, nec tamen 
+      <lb ed="#P" n="26"/>moveantur a seipsis, consequens est moveantur ab 
+      <lb ed="#P" n="27"/>intelligentiis assistentibus, quas nos angelos 
+      voca<lb ed="#P" n="28" break="no"/>mus. 
+    </p>
+            <p xml:id="bt67yj-p005442-d1e150">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Tertia ratio petitur ab energumenis, id est, 
+      ob<lb ed="#P" n="30" break="no"/>sessis hominibus, quos videmus interdum ea facere 
+      <lb ed="#P" n="31"/>aut dicere, quae nullo modo possent nisi 
+      commove<lb ed="#P" n="32" break="no"/>rentur, &amp; agerentur a superiori aliqua substantia 
+      <lb ed="#P" n="33"/>intellectuali, velut cum peregrina &amp; inaudita 
+      lin<lb ed="#P" n="34" break="no"/>gua loquuntur, cum quaedam hominum ignotorum 
+      <lb ed="#P" n="35"/>secreta aperiunt, cum ea narrant quae locis 
+      remo<lb ed="#P" n="36" break="no"/>tissimis geruntur. Haec enim vim humanam 
+      supe<lb ed="#P" n="37" break="no"/>rant, nisi moveatur a mente superiori, id est, 
+      an<lb ed="#P" n="38" break="no"/>gelo bono, vel malo.
+    </p>
+            <p xml:id="bt67yj-p005442-d1e177">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Postremo non solum Aristoteles, verum etiam 
+      Pla<lb ed="#P" n="40" break="no"/>tonici &amp; Stoici, &amp; alii nonnulli gentiles philosophi 
+      <lb ed="#P" n="41"/>sola instructi ratione naturali, substantias quasdam 
+      <lb ed="#P" n="42"/>intellectuales agnoverunt, licet diversis eas 
+      appella<lb ed="#P" n="43" break="no"/>rint nominibus. Nam Plato duplex genus posuit, 
+      <lb ed="#P" n="44"/>alios inferiores, quos daemones vocabat, alios 
+      supe<lb ed="#P" n="45" break="no"/>riores, quos Deos. Unde &amp; Apuleius de Deo 
+      So<lb ed="#P" n="46" break="no"/>cratis librum inscripsit. Quidam vero genios, 
+      ple<lb ed="#P" n="47" break="no"/>rique intelligentias in universum eos 
+      nuncupave<lb ed="#P" n="48" break="no"/>runt. 
+    </p>
+            <p xml:id="bt67yj-p005442-d1e203">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Verum probationes istae ex ratione sumptae, etsi 
+      <lb ed="#P" n="50"/>bonae sint, in quantum probabile faciunt angelos 
+      <lb ed="#P" n="51"/>esse, non tamen videntur esse demonstrativae: 
+      Ne<lb ed="#P" n="52" break="no"/>que sane necesse est ut ratione naturali demonstretur 
+      <lb ed="#P" n="53"/>angelos esse, sicut superiori lib. demonstratum est 
+      <lb ed="#P" n="54"/>Deum esse. Deus enim prima &amp; universalis omnium 
+      <lb ed="#P" n="55"/>causa est, quae ex omni effectu evidenter &amp; 
+      necessa<lb ed="#P" n="56" break="no"/>rio colligitur, non sic angeli. Constat etiam 
+      ange<lb ed="#P" n="57" break="no"/>los a Deo creatos esse libere; ita ut potuerit eos non 
+      <lb ed="#P" n="58"/>creare: ac nihilominus totum hoc universum sine 
+      <lb ed="#P" n="59"/>illis administrare &amp; regere, caelos movere, 
+      homi<lb ed="#P" n="60" break="no"/>nibus providere potuisset haud dubie, si ita visum 
+      <lb ed="#P" n="61"/>eifuisset. Unde satis apparet ex his nullam peti 
+      pos<lb ed="#P" n="62" break="no"/>se demonstrationem existentiae angelorum. 
+      Quam<lb ed="#P" n="63" break="no"/>vis enim plurima in universo fiant per angelos, 
+      <lb ed="#P" n="64"/>quoniam tamen ab iis ut causis, res &amp; motus earum 
+      <lb ed="#P" n="65"/>non necessario dependent, sicut a Deo (potest enim 
+      <lb ed="#P" n="66"/>Deus omnia illa facere sine angelis) hinc non 
+      neces<lb ed="#P" n="67" break="no"/>saria est angelicae existentiae ex hujusmodi effectis 
+      <lb ed="#P" n="68"/>demonstratio. Quod autem rationes allatae non sint 
+      <lb ed="#P" n="69"/>demonstrativae, facile ostenditur. Nam ad rationem 
+      <lb ed="#P" n="70"/>sancti Thomae responderi posset, non fuisse 
+      neces<lb ed="#P" n="71" break="no"/>se ut universum conderetur a Deo in ea perfectione, 
+      <!--0248.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>in qua de facto conditum est. Deinde si non essent 
+      <lb ed="#P" n="73"/>angeli, non tamen deesset universo intellectualis 
+      <lb ed="#P" n="74"/>creatura. Nam ipse homo secundum animam talis 
+      <lb ed="#P" n="75"/>est. Veruntamen non est negandum, posita ea 
+      per<lb ed="#P" n="76" break="no"/>fectione universi, quae complecteretur omnes gradus 
+      <lb ed="#P" n="77"/>entitatis, ut loquuntur, demonstrative consequi ac 
+      <lb ed="#P" n="78"/>doceri angelos esse. 
+    </p>
+            <p xml:id="bt67yj-p005442-d1e277">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Nec obstat quod objicitur de anima rationali. 
+      <lb ed="#P" n="80"/>Nam gradus entitatis quos universi perfectio 
+      requi<lb ed="#P" n="81" break="no"/>rere dicitur, sunt naturae quaedam totales, quae 
+      sin<lb ed="#P" n="82" break="no"/>gulae proprium habent locum in ordinatione 
+      par<lb ed="#P" n="83" break="no"/>tium universi, quales sunt angeli, non autem anima 
+      <lb ed="#P" n="84"/>rationalis, quae tantum est pars hominis. 
+    </p>
+            <p xml:id="bt67yj-p005442-d1e295">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Philosophi quoque ratio non est necessaria, non ob 
+      <lb ed="#P" n="86"/>id solum, quia respondere quispiam posset, caelos 
+      <lb ed="#P" n="87"/>esse animatos, &amp; proinde ab interno principio 
+      move<lb ed="#P" n="88" break="no"/>ri, (qua de re quid sit sentiendum alibi dicetur) sed 
+      <lb ed="#P" n="89"/>maxime quia valde controversum est, utrum caelum 
+      <lb ed="#P" n="90"/>a forma sua qualicunque quam habet, moveatur, 
+      <lb ed="#P" n="91"/>an non. Nam si ab ea movetur, quod non leves 
+      ra<lb ed="#P" n="92" break="no"/>tiones ostendere videntur, jam corruit 
+      argumenta<lb ed="#P" n="93" break="no"/>tio Aristotelis, qua ex motu caelorum fundat suam 
+      <lb ed="#P" n="94"/>de assistentibus intelligentiis doctrinam. Quin etsi 
+      <lb ed="#P" n="95"/>non moveatur a sua forma, posset tamen aliquis 
+      ter<lb ed="#P" n="96" break="no"/>giversari, &amp; dicere caelum tanquam primum corpus 
+      <lb ed="#P" n="97"/>moveri immediate a Deo. 
+    </p>
+            <p xml:id="bt67yj-p005442-d1e328">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Ad rationem de energumenis diceret forte aliquis 
+      <lb ed="#P" n="99"/>ea quae supra facultatem humanam ab aliis fiunt, 
+      <lb ed="#P" n="100"/>non per angelos fieri, sed per Deum. 
+    </p>
+            <p xml:id="bt67yj-p005442-d1e339">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> At contra dices, saepe fieri ab illis mala, velut cum 
+      <lb ed="#P" n="102"/>blasphemant, &amp; rident res divinas, aut turpia 
+      lo<lb ed="#P" n="103" break="no"/>quuntur, quae a Deo esse non possunt, &amp; ita saltem 
+      <lb ed="#P" n="104"/>necessaria ratione colligi angelos malos esse. Sed 
+      <lb ed="#P" n="105"/>facile respondetur haec non superare facultatem 
+      hu<lb ed="#P" n="106" break="no"/>manam, multa enim talia fiunt ab hominibus non 
+      <lb ed="#P" n="107"/>obsessis. Itaque videtur dicendum totam hanc 
+      ra<lb ed="#P" n="108" break="no"/>tionem niti experientia particulari per sensum, ex 
+      <lb ed="#P" n="109"/>qua cognoscuntur quidem angeli boni, vel mali, 
+      <lb ed="#P" n="110"/>quatenus in assumptis, vel obsessis corporibus se per 
+      <lb ed="#P" n="111"/>) argumenta quaedam manifestant. Quae an vim 
+      de<lb ed="#P" n="112" break="no"/>monstrationis, id est, infallibilis probationis 
+      ha<lb ed="#P" n="113" break="no"/>beant, disputari potest. 
+    </p>
+            <p xml:id="bt67yj-p005442-d1e373">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Sed tamen ex dictis satis apparet praeveniendo 
+      <lb ed="#P" n="115"/>hujusmodi particulares experientias, quae potius 
+      <lb ed="#P" n="116"/>sunt instar revelationum quas de se illi spiritus 
+      fa<lb ed="#P" n="117" break="no"/>ciunt, non esse demonstrabile, sed tantum 
+      credi<lb ed="#P" n="118" break="no"/>bile angelos esse, neque enim ex sola 
+      contemplatio<lb ed="#P" n="119" break="no"/>ne mundi, &amp; partium ejus necessaria ratione 
+      vide<lb ed="#P" n="120" break="no"/>tur posse probari. Gentiles autem philosophi 
+      ponen<lb ed="#P" n="121" break="no"/>tes substantias intellectuales separatas, non certam 
+      <lb ed="#P" n="122"/>ac necessariam habuerunt ejus rei demonstrationem, 
+      <lb ed="#P" n="123"/>sed rationes secuti sunt probabiles, ut de Aristotele 
+      <lb ed="#P" n="124"/>jam diximus, licet forte eas loco demonstrationis 
+      ha<lb ed="#P" n="125" break="no"/>berent, quod in aliis quoque rebus interdum 
+      con<lb ed="#P" n="126" break="no"/>tingit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

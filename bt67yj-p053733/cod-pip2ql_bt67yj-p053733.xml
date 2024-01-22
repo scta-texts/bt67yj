@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="139"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p053733"><!-- l2d16c3" -->
+            <head xml:id="bt67yj-p053733-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p053733-Hd1e103" type="question-title">Ad rationem imaginis quae requirantur</head>
+            <p xml:id="bt67yj-p053733-d1e106">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> §. 3. Ad rationem imaginis quae requirantur?
+    </p>
+            <p xml:id="bt67yj-p053733-d1e113">
+               <lb ed="#P" n="86"/>QUid imaginis nomine significetur, jam 
+      supe<lb ed="#P" n="87" break="no"/>riori libr. ad dist. 27. ubi de filio Dei ut patris 
+      <lb ed="#P" n="88"/>imagine sermo erat; ostendimus. Hoc loco 
+      plenio<lb ed="#P" n="89" break="no"/>ris gratia explicationis adjiciendum tria ad 
+      imagi<lb ed="#P" n="90" break="no"/>nis rationem requiri; quemadmodum colligere licet 
+      <lb ed="#P" n="91"/>ex iis quae scribit August. lib. 83. q. 51. Primum est, 
+      <lb ed="#P" n="92"/>ut similis sit imago ei cujus dicitur imago: 
+      Proxi<lb ed="#P" n="93" break="no"/>mum ut ab eo cujus imago dicitur, existat, sive 
+      natu<lb ed="#P" n="94" break="no"/>raliter, quomodo resultat humani vultus imago in 
+      <lb ed="#P" n="95"/>speculo, quomodo etiam Genes. 5. Seth genitus 
+      di<lb ed="#P" n="96" break="no"/>citur ad imaginem Adae; sive per artem ut in 
+      pictu<lb ed="#P" n="97" break="no"/>ris. Tertium, ut eam rem cujus imago dicitur 
+      pro<lb ed="#P" n="98" break="no"/>prie ac peculiariter repraesentet. Non enim pictura 
+      <lb ed="#P" n="99"/>quaepiam imago regis dicenda erit, si non proprie 
+      <lb ed="#P" n="100"/>regem, sed in genere humanam formam 
+      repraesen<lb ed="#P" n="101" break="no"/>tet; recte tamen ea dicetur imago hominis. Ubi illud 
+      <lb ed="#P" n="102"/>quoque notandum etsi non omnis imago naturaliter 
+      <lb ed="#P" n="103"/>sit efformata secundum id cujus est imago, ut modo 
+      <lb ed="#P" n="104"/>dicebamus, attamen naturaliter semper eam rem 
+      <lb ed="#P" n="105"/>cujus est imago nostro intellectui repraesentat. Nam 
+      <lb ed="#P" n="106"/>imago regis arte depicta in tabula non ex instituto, 
+      <lb ed="#P" n="107"/>sed natura similis est regi; quo fit ut omnes qui 
+      re<lb ed="#P" n="108" break="no"/>gem viderunt, in tabula picta imaginem ejus 
+      agno<lb ed="#P" n="109" break="no"/>scant. Ob hanc causam signa ex instituto 
+      significan<lb ed="#P" n="110" break="no"/>tia non sunt imagines. 
+    </p>
+            <p xml:id="bt67yj-p053733-d1e170">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Porro ad rationem perfectae imaginis 
+      requiri<lb ed="#P" n="112" break="no"/>tur ut exacte &amp; per omnia suo respondeat 
+      exem<lb ed="#P" n="113" break="no"/>plari. 
+    </p>
+            <p xml:id="bt67yj-p053733-d1e182">
+               <lb ed="#P" n="114"/>Ex his perspicuum est imprimis patrem in divinis 
+      <lb ed="#P" n="115"/>non esse imaginem filii sed filium patris, uti lib. 
+      su<lb ed="#P" n="116" break="no"/>periori ostensum est. Quamvis enim summa sit inter 
+      <lb ed="#P" n="117"/>eos similitudo, non tamen pater existit a filio sed 
+      fi<lb ed="#P" n="118" break="no"/>lius a patre. Item creaturas rationis expertes non 
+      es<lb ed="#P" n="119" break="no"/>se vocandas Dei imagines, quemadmodum etiam 
+      <lb ed="#P" n="120"/>loco supra dicto docet August. Nam etsi aliquam Dei 
+      <lb ed="#P" n="121"/>similitudinem gerant, non tamen eum proprie ac 
+      pe<lb ed="#P" n="122" break="no"/>culiari modo repraesentant. Non enim excellentiae 
+      <lb ed="#P" n="123"/>divinae character in iis expressus est. Quae quidem 
+      <lb ed="#P" n="124"/>excellentiae in sapientia ac libertate naturae divinae 
+      <lb ed="#P" n="125"/>potissimum intelligitur. Unde creaturas 
+      irrationa<lb ed="#P" n="126" break="no"/>les rectius vestigia Dei, quam imagines appellamus, 
+      <lb ed="#P" n="127"/>eo quod generali tantum modo Deum nobis 
+      reprae<lb ed="#P" n="128" break="no"/>sentant, velut effectus causam; quemadmodum recte 
+      <lb ed="#P" n="129"/>docet Sanctus Thomas 1. p. quaest. 93. articulo 6. 
+      <lb ed="#P" n="130"/>in corpore. 
+    </p>
+            <p xml:id="bt67yj-p053733-d1e221">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Illud denique patet quod item lib. superiori 
+      co<lb ed="#P" n="132" break="no"/>posius est demonstratum, perfectam &amp; omnibus 
+      nu<lb ed="#P" n="133" break="no"/>meris absolutam Dei imaginem esse non hominem, 
+      <lb ed="#P" n="134"/>neque angelum, sed solum Deifilium, ut qui Patri 
+      <lb ed="#P" n="135"/>suo perfectissime similis, etiam per modum 
+      similitu<lb ed="#P" n="136" break="no"/>dinis ab eo procedat.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

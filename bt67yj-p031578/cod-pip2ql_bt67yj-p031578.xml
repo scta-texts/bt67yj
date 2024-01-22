@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 21</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 21</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="82"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p031578"><!-- l2d7c21" -->
+            <head xml:id="bt67yj-p031578-Hd1e101">Capitulum 21</head>
+            <head xml:id="bt67yj-p031578-Hd1e103" type="question-title">Artes Magicas esse prorsus illicitas</head>
+            <p xml:id="bt67yj-p031578-d1e106">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> §. 21. Artes Magicas esse prorsus illicitas.
+    </p>
+            <p xml:id="bt67yj-p031578-d1e113">
+               <lb ed="#P" n="11"/>VOcabulum artis magicae omnem eam notitiam 
+      <lb ed="#P" n="12"/>Vseu observationem complectitur, qua aliquid 
+      <lb ed="#P" n="13"/>ab homine fit cum exspectatione alicujus effectus 
+      <lb ed="#P" n="14"/>a daemone per pactionem quocumque modo, sive 
+      <lb ed="#P" n="15"/>expresse, sive tacite cum eo initam. Patet autem 
+      la<lb ed="#P" n="16" break="no"/>tissime. Nam imprimis huc pertinet totum genus 
+      <lb ed="#P" n="17"/>superstitionis divinatricis, sub qua plurimae species 
+      <lb ed="#P" n="18"/>continentur pro varietate rerum corporearum, 
+      cir<lb ed="#P" n="19" break="no"/>ca quas aut in quibus haec superstitio exercetur, &amp; 
+      <lb ed="#P" n="20"/>a quibus ipsae species nomina fere sortitae sunt, ut 
+      <lb ed="#P" n="21"/>pyromantia, aeromantia, hydromantia, 
+      geoman<lb ed="#P" n="22" break="no"/>tia, necromantia, chiromancia, scyomantia. Item 
+      <lb ed="#P" n="23"/>augurium, omen, aruspicium, pythonia, 
+      respon<lb ed="#P" n="24" break="no"/>sum ex tripode, ex specu, ex idolo, divinatio per 
+      <lb ed="#P" n="25"/>somnium, per speculum, per fumum, per 
+      pel<lb ed="#P" n="26" break="no"/>vim, per securim, per dolabram, per cribrum, 
+      <lb ed="#P" n="27"/>per sortes, per constellationes, per sternutationes, 
+      <lb ed="#P" n="28"/>per characteres, per vocabula peregrina, per 
+      in<lb ed="#P" n="29" break="no"/>spectionem scripturae sacrae, &amp; per ipsum 
+      evange<lb ed="#P" n="30" break="no"/>lium, per temporis, diei, horae observationem, 
+      <lb ed="#P" n="31"/>&amp; per alia innumera quae ab hominibus 
+      supersti<lb ed="#P" n="32" break="no"/>tiosis ex pacto diabolico ad divinandum futura 
+      <lb ed="#P" n="33"/>aut alioqui occulta adhiberi solent aut possunt. 
+      <lb ed="#P" n="34"/>De quibus vide sanctum Thomam 2. 2. 
+      quaestio<lb ed="#P" n="35" break="no"/>ne 95. per totum. Deinde pertinent huc artes 
+      <lb ed="#P" n="36"/>seu observationes omnes quibus interveniente 
+      pa<lb ed="#P" n="37" break="no"/>cto daemonum aut scientia quaeritur, aut 
+      corpo<lb ed="#P" n="38" break="no"/>rum immutationes procurantur, vel exspectantur, 
+      <lb ed="#P" n="39"/>ut ars notoria de qua S. Thomas ibidem qu. 96. 
+      <lb ed="#P" n="40"/>art. 1. &amp; artes maleficiandi, per quas scilicet 
+      nocu<lb ed="#P" n="41" break="no"/>menta inferuntur. Denique huc revocantur 
+      ligatu<lb ed="#P" n="42" break="no"/>rae, quas vocant, certo modo aut figura aut ex 
+      ma<lb ed="#P" n="43" break="no"/>teria certigeneris factae, nec non alia infinita 
+      obser<lb ed="#P" n="44" break="no"/>vationum genera, quae a superstitiosis adhibentur ad 
+      <lb ed="#P" n="45"/>morbos pellendos, ad avertenda infortunia, &amp; alios 
+      <lb ed="#P" n="46"/>hujusmodi effectus, de quibus idem S. Thomas 
+      <lb ed="#P" n="47"/>ibidem art. 2. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e196">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Universum autem hoc genus artium &amp; 
+      observa<lb ed="#P" n="49" break="no"/>tionum ideo prorsus illicitum est, quia pactum 
+      ali<lb ed="#P" n="50" break="no"/>quod aut societatem continet cum daemone. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e208">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Est autem societas cum daemone duplex. Altera 
+      <lb ed="#P" n="52"/>manifesta, quam vocant explicitam, qua nimirum 
+      <lb ed="#P" n="53"/>quis expresse daemonem consulit per se vel per alium, 
+      <lb ed="#P" n="54"/>aut ei quocumque alio modo aperta societate 
+      con<lb ed="#P" n="55" break="no"/>jungitur. Altera occulta seu tacita, quam 
+      implici<lb ed="#P" n="56" break="no"/>tam vocant, quae contrahitur, quoties nihil quidem 
+      <lb ed="#P" n="57"/>expresse cum daemone agitur; sed tamen aliquid fit 
+      <lb ed="#P" n="58"/>cum exspectatione alicujus effectus, qui non debet 
+      <lb ed="#P" n="59"/>a Deo vel natura rationabiliter exspectari. 
+      Cujus<lb ed="#P" n="60" break="no"/>modi plurima partim a daemonibus sacramentorum 
+      <lb ed="#P" n="61"/>Christi aemulis instituta &amp; hominibus tradita, 
+      par<lb ed="#P" n="62" break="no"/>tim ab ipsis hominibus qui vel scientes vel 
+      nescien<lb ed="#P" n="63" break="no"/>tes diabolicae nequitiae serviunt, excogitata sunt. 
+      <lb ed="#P" n="64"/>De quibus videre est Augustinum libro 
+      vicesimo<lb ed="#P" n="65" break="no"/>primo de civitate capite sexto, &amp; libro secundo 
+      <lb ed="#P" n="66"/>de doctrina Christiana capite vicesimo &amp; quatuor 
+      <lb ed="#P" n="67"/>seqq. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e250">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Quod si dubitet quis, an effectus possit 
+      rationa<lb ed="#P" n="69" break="no"/>biliter a Deo vel natura exspectari an non, stante 
+      <lb ed="#P" n="70"/>ea dubitatione non licet illud facere aut exercere, 
+      <lb ed="#P" n="71"/>per quod effectus exspectatur, quia nemini facere 
+      <!--0315.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>licet id de quo dubitat, sitne peccatum. Quod si 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e270">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> vero existimet rem valere naturaliter, etiamsi forte 
+      <lb ed="#P" n="74"/>non valeat, modo rationabiliter ad sic 
+      existiman<lb ed="#P" n="75" break="no"/>dum moveatur, ut interdum contingit medicis 
+      at<lb ed="#P" n="76" break="no"/>tribuentibus herbae virtutem quae ei non competit, 
+      <lb ed="#P" n="77"/>atque ea sic utentibus, is alienus est a vitio 
+      supersti<lb ed="#P" n="78" break="no"/>tionis.
+    </p>
+            <p xml:id="bt67yj-p031578-d1e288">
+               <lb ed="#P" n="79"/>Porro utraque cum daemone societas, tam 
+      occul<lb ed="#P" n="80" break="no"/>ta quam manifesta, prohibetur lege divina, 
+      Deute<lb ed="#P" n="81" break="no"/>ronom. 18. his verbis: Non invematur in te qui ariolos 
+      <lb ed="#P" n="82"/>sciscitetur, &amp; observet somnia atque auguria, nec sit 
+      <lb ed="#P" n="83"/>maleficus, nec incantator, neque qui pythones consulat, 
+      <lb ed="#P" n="84"/>nec divinos, &amp; quarat a mortuis veritatem. Omnia 
+      <lb ed="#P" n="85"/>enim haec abominatur Dominus, &amp; quae sequuntur. 
+      <lb ed="#P" n="86"/>Eadem prohibitio est Lev. 19. Non declinetis, inquit, 
+      <lb ed="#P" n="87"/>ad magos, nec ab ariolis aliquid sciscitemim, ut 
+      pol<lb ed="#P" n="88" break="no"/>luamini per eos 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e312">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Sunt &amp; aliae scripturae quibus hujus peccati 
+      gra<lb ed="#P" n="90" break="no"/>vitas indicatur, ut Exodi vicesimosecundo. M 
+      ale<lb ed="#P" n="91" break="no"/>ficos non patieris vivere, I. Reg. 15. Quasi peccatum 
+      <lb ed="#P" n="92"/>ariolandi est, repugnare, 1. Paral. 10. Mortuus est 
+      <lb ed="#P" n="93"/>Saul propter iniquitates suas, &amp; inter alia, quod 
+      py<lb ed="#P" n="94" break="no"/>thonissam consuluerit nec spera verit in Domino, &amp; 
+      <lb ed="#P" n="95"/>4. Regum I. graviter reprehenditur ac morte punitur 
+      <lb ed="#P" n="96"/>rex Ochozias, quod de morbi eventu consuluisset 
+      <lb ed="#P" n="97"/>Bcelzebub Deum Accaron. Tale etiam erat 
+      consi<lb ed="#P" n="98" break="no"/>lium Achab quando dicebat: Dii regum Syriae 
+      auxi<lb ed="#P" n="99" break="no"/>liantur eis, quos ego placabo hostiis &amp; aderunt mihi. 2. 
+      <lb ed="#P" n="100"/>Paralip. 28. Alia scripturae loca sunt Isa. 8. &amp; 47. 
+      <lb ed="#P" n="101"/>Gal. 5. &amp; Apoc. 21. Denique generaliter dictum est 
+      <lb ed="#P" n="102"/>ab apost. 1. Corinth. 10. Nolo vos socios fieri 
+      daemo<lb ed="#P" n="103" break="no"/>num, &amp; 2. Cor. 6. Quae societas luci ad tenebras? aut 
+      <lb ed="#P" n="104"/>quae conventio Christi ad Belial? Notandum autem 
+      <lb ed="#P" n="105"/>quod haec scripturae testimonia non solum probant 
+      <lb ed="#P" n="106"/>lege divina, verum etiam naturali totum hoc genus 
+      <lb ed="#P" n="107"/>diabolicae societatis prohibitum esse, &amp; proinde non 
+      <lb ed="#P" n="108"/>pertinere hanc prohibitionem ad leges mere 
+      posi<lb ed="#P" n="109" break="no"/>tivas. Est enim communis haec lex utrique 
+      testamen<lb ed="#P" n="110" break="no"/>to, ut ex scripturis allatis patet, sicut universus 
+      deca<lb ed="#P" n="111" break="no"/>logus; idque etiam ex eo clare docetur, quod 
+      Moy<lb ed="#P" n="112" break="no"/>ses in memorato Deut. loco testatur Chananaeos 
+      po<lb ed="#P" n="113" break="no"/>pulos qui legem Dei positivam nullam acceperant, 
+      <lb ed="#P" n="114"/>propter istiusmodi scelera (sic enim scriptura 
+      loqui<lb ed="#P" n="115" break="no"/>tur) delendos esse. Quare indubie tenendum est 
+      se<lb ed="#P" n="116" break="no"/>cundum scripturas sacras omnem cum daemone 
+      so<lb ed="#P" n="117" break="no"/>cietatem tam implicitam, quam expressam, etiamsi 
+      <lb ed="#P" n="118"/>sit in re minima &amp; proximis innoxia vel etiam ut ili, 
+      <lb ed="#P" n="119"/>&amp; prohibitam atque illicitam esse; neque id modo 
+      <lb ed="#P" n="120"/>lege divina aut ecclesiastica, verum prorsus ipsa 
+      le<lb ed="#P" n="121" break="no"/>ge naturae. Cujus etiam rei argumentum, quod apud 
+      <lb ed="#P" n="122"/>paganos quoque artes magicae semper ut illicitae 
+      at<lb ed="#P" n="123" break="no"/>que infames habitae fuerunt, ut patet ex legibus 
+      Ro<lb ed="#P" n="124" break="no"/>manis, &amp; tam Romanorum quam externorum 
+      hi<lb ed="#P" n="125" break="no"/>storiis. Propter quod &amp; Romani inventos libros 
+      <lb ed="#P" n="126"/>Numae Pompilii, qui de superstitionibus &amp; secretis 
+      <lb ed="#P" n="127"/>daemonum pactis tradebant, publico senatus decreto 
+      <lb ed="#P" n="128"/>jusserunt comburi, quos nec ipse Numa fuerat 
+      au<lb ed="#P" n="129" break="no"/>sus publicare, sed in suo sepulchro recondi fecerat, 
+      <lb ed="#P" n="130"/>ut refert Augustinus lib. 3. de civitate cap. 9. &amp; lib. 
+      <lb ed="#P" n="131"/>7. Quod certum &amp; indubitatum est naturalis 
+      dicta<lb ed="#P" n="132" break="no"/>minis argumentum. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e412">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Sed quaeritur, quae sit hujus naturalis 
+      prohibitio<lb ed="#P" n="134" break="no"/>nis ratio. Plerique hanc rationem reddunt, quia 
+      <lb ed="#P" n="135"/>daemonum intentio semper mala est &amp; ad 
+      fallen<lb ed="#P" n="136" break="no"/>dum spectat, ideóque ne fallamur &amp; pertrahamur 
+      <lb ed="#P" n="137"/>ad peccatum, omnis eorum societas, inquiunt, 
+      vi<lb ed="#P" n="138" break="no"/>tanda nobis est, nec ullum ab iis beneficium 
+      exspe<lb ed="#P" n="139" break="no"/>ctandum, quia beneficia daemonum, ut ait Leo 
+      serm<lb ed="#P" n="140" break="no"/>19. de passione Domini, omnibus sunt nocentiora 
+      <lb ed="#P" n="141"/>vulneribus. Verum haec ratio non videtur sufficiens. 
+      <lb ed="#P" n="142"/>Cum enim diabolus neminem ad peccatum 
+      indu<lb ed="#P" n="143" break="no"/>cere possit nisi volentem, nihil per hanc rationem 
+      <lb ed="#P" n="144"/>videretur obstare, quo minus quis exempli gratia, 
+      <lb ed="#P" n="145"/>fame pressus, panem a diabolo peteret, vel oblatum 
+      <!--0316.xml-->
+      <pb ed="#P" n="83"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>acciperet. Nam licet diabolus non sit daturus, nisi A 
+      <lb ed="#P" n="2"/>cum ca intentione ut in anima gravius noceat, 
+      po<lb ed="#P" n="3" break="no"/>terit tamen homo constantia bonae voluntatis 
+      fru<lb ed="#P" n="4" break="no"/>strare intentionem diaboli, sicut non est illicitum 
+      <lb ed="#P" n="5"/>accipere panem ab homine etiam pessimo atque 
+      in<lb ed="#P" n="6" break="no"/>corrigibili, &amp; de quo nobis constet, quod 
+      intentio<lb ed="#P" n="7" break="no"/>ne spiritualiter nocendi panem porrigat, dummodo 
+      <lb ed="#P" n="8"/>ejus malitiae nullo modo consentiatur. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e470">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Alii rationem hanc adferunt, quia cum constet, 
+      <lb ed="#P" n="10"/>perfectam cum daemone societatem per se illicitam 
+      <lb ed="#P" n="11"/>esse (non enim licitum esse potest omnia eadem 
+      vel<lb ed="#P" n="12" break="no"/>le &amp; nolle cum daemonibus, quod ad perfectam 
+      so<lb ed="#P" n="13" break="no"/>cietatem, id est, amicitiam pertinet) consequens esse 
+      <lb ed="#P" n="14"/>volunt etiam imperfectam cum eo societatem per se 
+      <lb ed="#P" n="15"/>illicitam esse. Sequelam probant; quia in moralibus 
+      <lb ed="#P" n="16"/>ejusdem sunt rationis inchoatio, progressus &amp; 
+      con<lb ed="#P" n="17" break="no"/>summatio operis, ut in peccatis libidinis, odii 
+      frater<lb ed="#P" n="18" break="no"/>ni &amp; similibus declarari potest. Quare cum 
+      imperfe<lb ed="#P" n="19" break="no"/>cta cum diabolo societas, qualis est dum exiguum 
+      <lb ed="#P" n="20"/>aliquod subsidium ab eo petitur, sit inchoatio 
+      quae<lb ed="#P" n="21" break="no"/>dam perfectae societatis cum eo contrahendae, 
+      simili<lb ed="#P" n="22" break="no"/>ter erit per se mala &amp; illicita. Quod autem sit 
+      inchoa<lb ed="#P" n="23" break="no"/>tio perfectae societatis probant, quia per eam fit ut 
+      <lb ed="#P" n="24"/>homo saltem imperfecte daemonem amare incipiat, 
+      <lb ed="#P" n="25"/>tanquam benefactorem. Amor autem socialis 
+      im<lb ed="#P" n="26" break="no"/>perfectus natus est perducere tandem ad amicitiam 
+      <lb ed="#P" n="27"/>perfectam. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e516">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Quibus si objicias imperfectam societatem recte 
+      <lb ed="#P" n="29"/>contrahi cum Turcis aliisque infidelibus aut malis 
+      <lb ed="#P" n="30"/>hominibus, quibus tamen perfecta societate 
+      jungi<lb ed="#P" n="31" break="no"/>non debemus; respondent non esse simile, eo quod 
+      <lb ed="#P" n="32"/>si converti possint ad veram pietatem, atque ita 
+      <lb ed="#P" n="33"/>perfecta amicitia tandem nobiscum copulari, quale 
+      <lb ed="#P" n="34"/>aliquid de daemonibus sperare non licet, cum 
+      qui<lb ed="#P" n="35" break="no"/>bus proinde non aliter nobis perfecta societas 
+      con<lb ed="#P" n="36" break="no"/>stare poterit, nisi nos eis ad omnem suggestionem 
+      <lb ed="#P" n="37"/>consentiamus. Cum enim daemones jam sint a sua 
+      <lb ed="#P" n="38"/>malitia immutabiles, non poterit eis homo 
+      per<lb ed="#P" n="39" break="no"/>fecta societate jungi, nisi mutatione sui ad ipsorum 
+      <lb ed="#P" n="40"/>perversam &amp; incorrigibilem voluntatem. Sed 
+      ne<lb ed="#P" n="41" break="no"/>que haec ratio satis solida videtur. Nam etsi 
+      scire<lb ed="#P" n="42" break="no"/>mus, hominem aliquem nobiscum degentem 
+      repro<lb ed="#P" n="43" break="no"/>bum esse, adeo ut perversa ejus voluntas nunquam, 
+      <lb ed="#P" n="44"/>ne ad horam quidem, esset mutanda in melius, 
+      mo<lb ed="#P" n="45" break="no"/>do non esset declaratus hostis Dei, liceret nobis &amp; 
+      <lb ed="#P" n="46"/>impendere ei temporale beneficium, &amp; vicissim ab 
+      <lb ed="#P" n="47"/>eo accipere, quae esset societas quaedam imperfecta, 
+      <lb ed="#P" n="48"/>nec tamen ob id dici posset inchoatio perfecta 
+      so<lb ed="#P" n="49" break="no"/>cietatis, quia perfecta societas quae vocatur 
+      amici<lb ed="#P" n="50" break="no"/>tia, versatur circa multo plura volita, quam 
+      socie<lb ed="#P" n="51" break="no"/>tas imperfecta. Neque consequens est, si quis sit 
+      <lb ed="#P" n="52"/>alicui socius in quibusdam, eundem illi socium 
+      <lb ed="#P" n="53"/>esse inchoative in aliis quae sunt prorsus diversi 
+      ge<lb ed="#P" n="54" break="no"/>neris. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e579">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Aliam rationem innuit <name xml:id="bt67yj-p031578-Nd1e585">Joannes Gerson</name> in trilogio 
+      <lb ed="#P" n="56"/>astrologiae theologizatae propositione decimaoctava. 
+      <lb ed="#P" n="57"/>Non est licitum, inquit, participare cum angelis 
+      <lb ed="#P" n="58"/>malis tanquam excommunicatis a Deo &amp; ecclesia tota. 
+      <lb ed="#P" n="59"/>Sed nec haec ratio sufficit, nisi urgeatur quidam 
+      spe<lb ed="#P" n="60" break="no"/>cialis modus excommunicationis daemonibus 
+      pro<lb ed="#P" n="61" break="no"/>prius. Nam constat multis casibus nos cum 
+      excom<lb ed="#P" n="62" break="no"/>municatis posse communicare. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e603">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Rectius igitur videtur hujus doctrinae ratio 
+      pe<lb ed="#P" n="64" break="no"/>tenda ex eo quia diabolus est inimicus &amp; hostis Dei, 
+      <lb ed="#P" n="65"/>non quomodocumque, sed talis qui Deiatque 
+      uni<lb ed="#P" n="66" break="no"/>versalis Domini nostri honorem &amp; gloriam ex 
+      pro<lb ed="#P" n="67" break="no"/>fesso &amp; irreconciliabiliter oppugnet, eamque 
+      rape<lb ed="#P" n="68" break="no"/>re &amp; ad se transferre studeat, omnemque suum 
+      co<lb ed="#P" n="69" break="no"/>natum in hunc finem convertat, multo magis quam 
+      <lb ed="#P" n="70"/>fit inter homines, dum unus alium capitali 
+      perse<lb ed="#P" n="71" break="no"/>quens odio simul ipsum &amp; omnes ei adhaerentes 
+      <lb ed="#P" n="72"/>omni studio perdere funditusque delere conatur. 
+      <lb ed="#P" n="73"/>Sicut ergo lex naturae dictat nullam subditis 
+      haben<lb ed="#P" n="74" break="no"/>dam esse locietatem cum connumeratis hostibus 
+      <!--0316.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>regis, maxime si omnia faciant in odium &amp; 
+      perni<lb ed="#P" n="76" break="no"/>ciem regis, sic &amp; nobis qui lumus ex parte Dei, 
+      pro<lb ed="#P" n="77" break="no"/>hibet eadem naturae lex omnem etiam minimam 
+      <lb ed="#P" n="78"/>cum diabolo &amp; angelis ejus societatem. Unde 
+      di<lb ed="#P" n="79" break="no"/>ctum est diabolo Genesis tertio. Inimicitias 
+      ponam<lb ed="#P" n="80" break="no"/>inter te &amp; mulierem, &amp; inter semen tuum &amp; 
+      semen<lb ed="#P" n="81" break="no"/>illius. Hinc etiam est quod ne angelis quidem bonis 
+      <lb ed="#P" n="82"/>qui ad peccatum seduci, &amp; ad perfectam cum 
+      dae<lb ed="#P" n="83" break="no"/>monibus amicitiam attrahi non possunt, licita sit 
+      <lb ed="#P" n="84"/>vel minima cum illis societas, sed contra potius 
+      per<lb ed="#P" n="85" break="no"/>fectam adversus eos inimicitiam pro gloria Domini 
+      <lb ed="#P" n="86"/>Dei sui, quam illi totis viribus oppugnant, exercere 
+      <lb ed="#P" n="87"/>student, quorum zelum &amp; studium nos homines 
+      <lb ed="#P" n="88"/>imitari debemus, ac dicere illud ex psalmo, Nonne 
+      <lb ed="#P" n="89"/>qui oderunt te Domine, oderam, &amp; super inimicos 
+      <lb ed="#P" n="90"/>tuos tabescebam? Perfecto odio oderam illos, inimici 
+      <lb ed="#P" n="91"/>facti sunt mihi. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e675">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Hanc rationem penitus interdictae nobis 
+      societa<lb ed="#P" n="93" break="no"/>tis cum daemonibus insinuant scripturae, dum 
+      signifi<lb ed="#P" n="94" break="no"/>cant eos qui daemones consulunt, a Deo recedere, 
+      <lb ed="#P" n="95"/>spem ac fiduciam quae in Deo habenda est, 
+      derelin<lb ed="#P" n="96" break="no"/>quere, auxilium ab eo qui hostis Dei sit, exspectare 
+      <lb ed="#P" n="97"/>&amp; petere, quasi Deus ipse, aut non possit, aut nolit 
+      <lb ed="#P" n="98"/>si rogetur; auxilium ferre &amp; beneficia desiderata 
+      <lb ed="#P" n="99"/>praestare. Nam 4. Reg. 1. sic ait Elias ad Regem 
+      <lb ed="#P" n="100"/>Ochoziam: Haec dicit Dominus: Quia misisti 
+      inimi<lb ed="#P" n="101" break="no"/>cos ad consulendum Beelzebub Deum Accaron, quasi 
+      <lb ed="#P" n="102"/>non esset Deus in Israel a quo posses interrogare 
+      sermo<lb ed="#P" n="103" break="no"/>nem, ideo de lectulo super quem ascendisti, non 
+      descen<lb ed="#P" n="104" break="no"/>des, sed morte morieris. Similiter Saul ex eo quod 
+      <lb ed="#P" n="105"/>Pythonissam consuluit, arguitur non sperasse in 
+      Do<lb ed="#P" n="106" break="no"/>mino 1. Paralip. 10. Ejusdem rei significatio est apud 
+      <lb ed="#P" n="107"/>apostolum 1. Corinth. 10. cum dixisset; Nolo vos 
+      se<lb ed="#P" n="108" break="no"/>cios fieri daemoniorum; non potestis calicem Domini 
+      bi<lb ed="#P" n="109" break="no"/>bere &amp; calicem daemoniorum, mox subjunxit: nunquid 
+      <lb ed="#P" n="110"/>aemulamur, id est, provocamus &amp; lacessimus 
+      Domi<lb ed="#P" n="111" break="no"/>num? Sicut enim irritatur princeps aliquis videns 
+      <lb ed="#P" n="112"/>subditos suos communicare &amp; commercium aliquod 
+      <lb ed="#P" n="113"/>habere cum hostibus, ita Deus de quo scriptum est 
+      <lb ed="#P" n="114"/>Exodi 34. Dominus Zelotes nomen ejus, provocatur ad 
+      <lb ed="#P" n="115"/>iram; &amp; quasi zelotypia commovetur, cum videt 
+      <lb ed="#P" n="116"/>nos aliqua in re sociari cum daemonibus hostibus suis. 
+      <lb ed="#P" n="117"/>Quem sensum post Chrysostomum expressit 
+      Theo<lb ed="#P" n="118" break="no"/>phylactus in ejus loci commentario. Nec alio 
+      spe<lb ed="#P" n="119" break="no"/>ctat illud ejusdem apostoli 2. Corinth. 6. Quae 
+      con<lb ed="#P" n="120" break="no"/>ventio Christi ad Belial. Significat enim propter 
+      ex<lb ed="#P" n="121" break="no"/>tremam inimicitiam quae est inter Christum &amp; 
+      Re<lb ed="#P" n="122" break="no"/>lial (quam quidem eodem loco aptissime declaravit 
+      <lb ed="#P" n="123"/>ex contrarietate lucis &amp; tenebrarum, justitiae &amp; 
+      inju<lb ed="#P" n="124" break="no"/>stitiae) nemini qui sit ex parte Christi, licere ullam 
+      <lb ed="#P" n="125"/>cum Belial habere conventionem. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e753">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Huc denique pertinet quod Chrysost. hom. 5. de 
+      <lb ed="#P" n="127"/>patientia Job, disserens contra eos qui vates, id est, 
+      <lb ed="#P" n="128"/>divinos consulunt de rebus amissis, affirmat eos qui 
+      <lb ed="#P" n="129"/>id faciunt, Deo adversari &amp; Deum suum negare. 
+      <lb ed="#P" n="130"/>Deo quippe adversantur in eo quod adversario ejus 
+      <lb ed="#P" n="131"/>sociantur; negant autem Deum suum, quia per hoc 
+      <lb ed="#P" n="132"/>quod hostium ejus castra petunt pro consequendo 
+      <lb ed="#P" n="133"/>beneficio, ipsum quasi impotentem aut 
+      involunta<lb ed="#P" n="134" break="no"/>rium ad praestanda beneficia causantur. Atque hinc 
+      <lb ed="#P" n="135"/>est, quod superstitionis vitium ex toto genere ad ea 
+      <lb ed="#P" n="136"/>peccata referatur, quae contra primum decalogi 
+      prae<lb ed="#P" n="137" break="no"/>ceptum committuntur, uti docetur ad distinctionem 
+      <lb ed="#P" n="138"/>tricesimam septimam lib. tertii. Porro similes 
+      senten<lb ed="#P" n="139" break="no"/>tias etiam alibi in scriptis Patrum reperire est. 
+      No<lb ed="#P" n="140" break="no"/>stram autem hanc rationem breviter indicat S. 
+      Tho<lb ed="#P" n="141" break="no"/>2. 2. q. 69. art. 2. &amp; 3. dicens homini contra 
+      dae<lb ed="#P" n="142" break="no"/>mones esse bellum indictum. Unde, inquit, nullo 
+      <lb ed="#P" n="143"/>modo licet homini daemonum auxilio uti per pacta 
+      ta<lb ed="#P" n="144" break="no"/>cita vel expressa. Ad quae verba Cajetanus: Nota 
+      <lb ed="#P" n="145"/>radicem, inquit, quare omnis societas cum 
+      daemo<lb ed="#P" n="146" break="no"/>ne ex suo genere est peccatum mortale, quia 
+      scili<lb ed="#P" n="147" break="no"/>cet est cum hoste jam indicto bello a principe 
+      univer<lb ed="#P" n="148" break="no"/>si inter nos &amp; daemones. Eandem rationem erudite 
+      <!--0317.xml-->
+      <pb ed="#P" n="84"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>explicat <name xml:id="bt67yj-p031578-Nd1e815">Dominicus Soto</name> libro octavo de justitia &amp; 
+      <lb ed="#P" n="2"/>jure quaestione 3. art. 3. docet enim omnem 
+      societa<lb ed="#P" n="3" break="no"/>tem, pactum &amp; commercium daemonum nobis 
+      illici<lb ed="#P" n="4" break="no"/>tum esse, non ideo tantum quia prava eorum 
+      volun<lb ed="#P" n="5" break="no"/>tas nihil nisi in malum nostrum molitur, sed quia 
+      ho<lb ed="#P" n="6" break="no"/>stes Dei sunt. Quam ob causam petere aut 
+      acci<lb ed="#P" n="7" break="no"/>pere ab illis aliquid beneficii esset desciscere a Deo 
+      <lb ed="#P" n="8"/>&amp; ad hostium ejus castra transfugere. Unde tandem 
+      <lb ed="#P" n="9"/>concludit omnem hujusmodi societatem esse 
+      pecca<lb ed="#P" n="10" break="no"/>tum apostasiae, quomodo in terrenis regnis 
+      aposta<lb ed="#P" n="11" break="no"/>tae seu desertoris crimen incurrit, ac violatae fidei reus 
+      <lb ed="#P" n="12"/>fit miles, qui aliquod donum ab hoste receperit. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e843">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Verum ex hac ipsa comparatione quispiam forte 
+      <lb ed="#P" n="14"/>movebit argumentum in contrarium. Non enim 
+      <lb ed="#P" n="15"/>illicitum est ab hoste regni aut reipublicae petere 
+      <lb ed="#P" n="16"/>subsidium in necessitate, ut panem in extrema fame, 
+      <lb ed="#P" n="17"/>aut liberationem e periculo ignis aut aquae, aut 
+      <lb ed="#P" n="18"/>morbi remedium. Quare videri potest etiam 
+      no<lb ed="#P" n="19" break="no"/>bis in simili necessitate constitutis permissum esse 
+      <lb ed="#P" n="20"/>ut daemonum opem imploremus non obstante 
+      hosti<lb ed="#P" n="21" break="no"/>litate quae est inter ipsos &amp; Deum reipublicae nostrae 
+      <lb ed="#P" n="22"/>principem. Sed facilis responsio est, 
+      comparatio<lb ed="#P" n="23" break="no"/>nem hanc quae sumitur a regno terreno ac rebus 
+      hu<lb ed="#P" n="24" break="no"/>manis, etsi bonam, non tamen esse prorsus 
+      exa<lb ed="#P" n="25" break="no"/>ctam, neque ad amussim convenire posse cum re 
+      <lb ed="#P" n="26"/>proposita. Nullus enim rex terrenus est Dominus 
+      <lb ed="#P" n="27"/>universalis, ne quidem respectu suorum 
+      subdito<lb ed="#P" n="28" break="no"/>rum, quia multa sunt in quibus subditi non 
+      depen<lb ed="#P" n="29" break="no"/>dent a suo principe, &amp; in quibus proinde non sunt 
+      <lb ed="#P" n="30"/>ei subjecti, ut natura cum toto genere actuum 
+      na<lb ed="#P" n="31" break="no"/>turalium, item actus interni, supernaturalia, &amp; alia 
+      <lb ed="#P" n="32"/>hujusmodi, &amp; ob id talium subditorum non potest 
+      <lb ed="#P" n="33"/>neque debet esse omnino perfecta hostilitas cum 
+      <lb ed="#P" n="34"/>hoste regis, quia poterit hostis aliquid eis praestare, 
+      <lb ed="#P" n="35"/>quod rex aut non potest, aut difficile potest, quo 
+      <lb ed="#P" n="36"/>casu si regiaut reipublicae per id non noceatur, non 
+      <lb ed="#P" n="37"/>erit illicitum ab hoste beneficium sibi necessarium 
+      <lb ed="#P" n="38"/>accipere, neque hanc cum hoste communicationem 
+      <lb ed="#P" n="39"/>merito poterit rex autm prohibere, aut indigne ferre. 
+      <lb ed="#P" n="40"/>Deus autem est Dominus universalis quoad omnia 
+      <lb ed="#P" n="41"/>sine exceptione, idemque omnipotens &amp; summe 
+      <lb ed="#P" n="42"/>beneficus, qui etiam illud ipsum beneficium 
+      prae<lb ed="#P" n="43" break="no"/>stat quod a daemonibus praestari videtur, quia nec 
+      <lb ed="#P" n="44"/>ipsi daemones quicquam possunt nisi ipso volente 
+      <lb ed="#P" n="45"/>&amp; praestante. Quocirca nulla potest esse ratio 
+      peten<lb ed="#P" n="46" break="no"/>di subsidii aut ineundae alicujus societatis cum iis 
+      <lb ed="#P" n="47"/>qui contra hunc Dominum, ejusque summum &amp; 
+      <lb ed="#P" n="48"/>universale dominium hostiliter se opponunt, &amp; ut 
+      <lb ed="#P" n="49"/>hostes perpetui atque irreconciliabiles sunt jam olim 
+      <lb ed="#P" n="50"/>declarati. 
+    </p>
+            <p xml:id="bt67yj-p031578-d1e930">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Ex his autem quae dicta sunt perspicuum est, non 
+      <lb ed="#P" n="52"/>modo artes magicas prorsus illicitas esse; sed &amp; ipsos 
+      <lb ed="#P" n="53"/>magos seu maleficos, qui daemonum interpretes &amp; 
+      <lb ed="#P" n="54"/>internuncios se praebent consulere, nemini licere. 
+      <lb ed="#P" n="55"/>Qua de re dicta sunt a nobis nonnulla circa dist. 34. 
+      <lb ed="#P" n="56"/>lib. 4. ubi &amp; ea tractata est quaestio, utrum 
+      malefi<lb ed="#P" n="57" break="no"/>cii signa removere liceat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

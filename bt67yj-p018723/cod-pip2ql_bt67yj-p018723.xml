@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="49"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p018723"><!-- l2d6c10" -->
+            <head xml:id="bt67yj-p018723-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p018723-Hd1e103" type="question-title">Utrum princeps daemonum fuerit omnium 
+      angelorum supremus</head>
+            <p xml:id="bt67yj-p018723-d1e106">
+      <!--0282.xml-->
+               <pb ed="#P" n="49"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 10. Utrum princeps daemonum fuerit omnium 
+      an<lb ed="#P" n="2" break="no"/>gelorum supremus?
+    </p>
+            <p xml:id="bt67yj-p018723-d1e119">
+               <lb ed="#P" n="3"/>PRincipem apostatarum angelorum fuisse 
+      prius<lb ed="#P" n="4" break="no"/>quam caderet, non modo caeteris omnibus qui 
+      <lb ed="#P" n="5"/>ceciderunt excellentiorem, verum simpliciter 
+      om<lb ed="#P" n="6" break="no"/>nium angelorum primum ac supremum, magna 
+      <lb ed="#P" n="7"/>probabilitate asseritur, in hanc enim sententiam 
+      <lb ed="#P" n="8"/>scriptura, traditio &amp; ratio convenire videntur. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e135">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Scriptura quidem ut Job 40. ubi sub typo 
+      Behe<lb ed="#P" n="10" break="no"/>moth de diabolo dicitur: Ipse est principium viarum 
+      <lb ed="#P" n="11"/>Dei, id est, opus, seu creatura Dei prima &amp; 
+      prae<lb ed="#P" n="12" break="no"/>stantissima: Et Ezechiel. 28. ubi sub typo regis Tyri 
+      <lb ed="#P" n="13"/>idem diabolus ita describitur, ut omnibus aliis 
+      per<lb ed="#P" n="14" break="no"/>fectior &amp; omnium princeps fuisse intelligatur; Et 
+      <lb ed="#P" n="15"/>cap. 31. ubi sub typo regis Assur de eo dicitur: Cedri 
+      <lb ed="#P" n="16"/>non fuerunt altiores illo in paradiso Dei, &amp; iterum, 
+      <lb ed="#P" n="17"/>Omne lignum paradisi non fuit assimilatum illi, e 
+      <lb ed="#P" n="18"/>pulchritudii ejus. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e162">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Ex his scripturis Greg. lib. 32. mor. c. 24. ostendit, 
+      <lb ed="#P" n="20"/>&amp; docet diabolum ab initio reliquis angelis 
+      eminen<lb ed="#P" n="21" break="no"/>tiorem factum fuisse, docet hoc idem lib. 4. c. 12. 
+      <lb ed="#P" n="22"/>&amp; lib. 9. cap. 2. &amp; homilia 34. super evangelia. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e175">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Consentiunt &amp; alii doctores tam veteres quam 
+      re<lb ed="#P" n="24" break="no"/>centiores. Tertull. l. 2. contra Marcionem circa 
+      me<lb ed="#P" n="25" break="no"/>dium. Orig. hom. 9. in Matth. ad illa verba cap. 20. 
+      <lb ed="#P" n="26"/>Erunt primi novissimi. Hieron. in Daniel. 4. 
+      Pruden<lb ed="#P" n="27" break="no"/>tius in Hamartigeniis. Chrys. hom. 3. &amp; 5. quae 
+      haben<lb ed="#P" n="28" break="no"/>tur tomo primo post eas quas scripsit in Genesim, &amp; 
+      <lb ed="#P" n="29"/>hom. 5. &amp; 7. ad populum Antiochenum. Aug. lib. II. 
+      <lb ed="#P" n="30"/>de Genesi ad literam c. 19. &amp; apud eundem author 
+      <lb ed="#P" n="31"/>operis de mirabilibus sacrae scripturae lib. 1. cap. 2. 
+      <lb ed="#P" n="32"/>Isidorus lib. 1. de summo bono c. 12. Beda super Job. 
+      <lb ed="#P" n="33"/>40. Bernard. serm. 1. de ad ventu, &amp; lib. de gradibus 
+      <lb ed="#P" n="34"/>humilitatis; Rupertus lib. 1. &amp; 2. de victoria verbi 
+      <lb ed="#P" n="35"/>Dei, &amp; passim alibi, &amp; Magister in hac distinctione 
+      <lb ed="#P" n="36"/>§. I. quem in hoc sequuntur omnes posteriores 
+      Theo<lb ed="#P" n="37" break="no"/>logi, eademque est communis fidelium persuasio¬ 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e212">
+               <lb ed="#P" n="38"/>
+               <pc type="indent"/> Ad cujus probationem sunt etiam hujusmodi 
+      ra<lb ed="#P" n="39" break="no"/>tiones. Prima, in angelorum peccato non tam attendi 
+      <lb ed="#P" n="40"/>debet pronitas peccandi, quae nulla in eis erat ante 
+      <lb ed="#P" n="41"/>peccatum, quam occasio movens ad peccandum; 
+      <lb ed="#P" n="42"/>haec autem major fuit in superioribus angelis quam 
+      <lb ed="#P" n="43"/>inferioribus, maxima vero in supremo. Fuit enim 
+      <lb ed="#P" n="44"/>angelorum peccatum superbia, cujus motivum est 
+      <lb ed="#P" n="45"/>excellentia; quae quidem in superioribus major erat, 
+      <lb ed="#P" n="46"/>&amp; in summo maxima; unde fit probabile eum qui 
+      <lb ed="#P" n="47"/>primus peccavit, fuisse caeteris omnibus superiorem. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e238">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Haec ratio est S. Thomae 1. parte q. 63. art. 7. 
+      Con<lb ed="#P" n="49" break="no"/>firmatur autem exemplis. Videmus enim plerosque 
+      <lb ed="#P" n="50"/>qui in aliquo genere primi &amp; praecellentes fuerunt, 
+      <lb ed="#P" n="51"/>occasione suae excellentiae in superbiam elatos 
+      ceci<lb ed="#P" n="52" break="no"/>disse, &amp; abjectos fuisse a Deo. Ita primus homo dum 
+      <lb ed="#P" n="53"/>universae creaturae corporeae Dominus constitutus 
+      <lb ed="#P" n="54"/>est, superbiendo cecidit, &amp; in ruinam traxit genus 
+      <lb ed="#P" n="55"/>humanum. Sic &amp; Judaicus populus prae caeteris 
+      gen<lb ed="#P" n="56" break="no"/>tibus electus a Deo, propter superbiam abjectus est; 
+      <lb ed="#P" n="57"/>&amp; Saul primus rex illius populi propter 
+      inobedien<lb ed="#P" n="58" break="no"/>tiam reprobatus est; &amp; Nabuchodonosor rex in 
+      or<lb ed="#P" n="59" break="no"/>be potentissimus propter superbiam ex hominum 
+      <lb ed="#P" n="60"/>consortio ejectus est. Quare &amp; primo angelo suam 
+      <lb ed="#P" n="61"/>excellentiam superbiae occasionem fuisse valde 
+      cre<lb ed="#P" n="62" break="no"/>dibile est. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e275">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Alia ratio: Deus angelorum peccatum permisit, ut 
+      <lb ed="#P" n="64"/>ostenderet non facultatem aut excellentiam natura 
+      <lb ed="#P" n="65"/>sed suam gratiam valere ad beatitudinem. Ad hujus 
+      <lb ed="#P" n="66"/>autem rei ostensionem maxime faciebat permissio 
+      <lb ed="#P" n="67"/>casus supremi angeli, ut qui inter omnes creaturas 
+      <lb ed="#P" n="68"/>naturam haberet excellentissimam. Hinc est quod 
+      le<lb ed="#P" n="69" break="no"/>gimus in scriptura Deum eos plerumque elegisse, 
+      <lb ed="#P" n="70"/>qui spectato naturae ordine posteriores erant, 
+      repro<lb ed="#P" n="71" break="no"/>batis aut posthabitis majoribus, ut probant exem¬ 
+      <!--0282.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>pla Abel &amp; Cain, Jacob &amp; Esau, Joseph e Ruben, 
+      <lb ed="#P" n="73"/>Ephraim &amp; Manassae, David &amp; fratrum ejus, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e308">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Tertia ratio: Quod si daemonum princeps non 
+      fuis<lb ed="#P" n="75" break="no"/>set angelorum summus, sed superiorem inter eos 
+      ali<lb ed="#P" n="76" break="no"/>quem habuisset, non primo contra Deum, sed 
+      con<lb ed="#P" n="77" break="no"/>tra superiorem angelum superbiendo sese extulisset, 
+      <lb ed="#P" n="78"/>volens ei aut aequari, aut praecellere; quod factum 
+      <lb ed="#P" n="79"/>nusquam legimus; quin potius cum in creaturis 
+      sci<lb ed="#P" n="80" break="no"/>ret nihil suae excellentiae comparandum, id 
+      appeti<lb ed="#P" n="81" break="no"/>vit quod solum supra se erat, nempe divinitatem. 
+      <lb ed="#P" n="82"/>Adfert hanc rationem S. Thomas in scripto super 
+      <lb ed="#P" n="83"/>hanc distinctionem. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e335">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Sciendum autem quod etsi hae rationes 
+      probabili<lb ed="#P" n="85" break="no"/>tatem aliquam adducunt, non tamen sunt 
+      necessa<lb ed="#P" n="86" break="no"/>riae, ut recte de prima ratione S. Thomas 
+      declara<lb ed="#P" n="87" break="no"/>vit. Unde absque authoritate scripturae &amp; patrum 
+      <lb ed="#P" n="88"/>non esset his rationibus multum innitendum. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e351">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Solet autem opponi huic sententiae quod principi 
+      <lb ed="#P" n="90"/>daemonum in persona regis Tyri dicitur Ezechiel. 
+      <lb ed="#P" n="91"/>28. Tu Cherub extentus &amp; protegens, &amp;c. quasi ex 
+      or<lb ed="#P" n="92" break="no"/>dine Cherubin qui secundus est, non ex Seraphin 
+      <lb ed="#P" n="93"/>qui primus est ordo, ceciderit. 
+    </p>
+            <p xml:id="bt67yj-p018723-d1e367">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> At respondetur eum Cherub a propheta vocari non 
+      <lb ed="#P" n="95"/>ratione ordinis, sed ut exponit S. Gregorius lib. 32. 
+      <lb ed="#P" n="96"/>moralium cap. 24. propter scientiae plenitudinem, 
+      <lb ed="#P" n="97"/>qua ille cunctos transcendisse non dubitatur; neque 
+      <lb ed="#P" n="98"/>inconveniens esse ut superior angelus accipiat 
+      no<lb ed="#P" n="99" break="no"/>men ordinis inferioris, cum ordo superior inferioris 
+      <lb ed="#P" n="100"/>includat perfectionem: Seraph autem dicinon 
+      de<lb ed="#P" n="101" break="no"/>buisse, quia peccando totam amiserat charitatem, 
+      <lb ed="#P" n="102"/>sed non totam scientiam. Et haec quidem non mala 
+      <lb ed="#P" n="103"/>solutio. est. Verumtamen rectius fortasse dixeris, 
+      <lb ed="#P" n="104"/>prophetam hoc loco respexisse ad Cherubin quae 
+      su<lb ed="#P" n="105" break="no"/>pra propitiatorium arcae extensa ipsum protegebant, 
+      <lb ed="#P" n="106"/>&amp; de iis loqui, quasi de animalibus quibusdam 
+      pro<lb ed="#P" n="107" break="no"/>ximis, ac familiaribus Deo, qui in arca 
+      repraesenta<lb ed="#P" n="108" break="no"/>batur. Unde etiam hac ratione per appellationem 
+      <lb ed="#P" n="109"/>Cherub significata est summa praecellentia naturae 
+      il<lb ed="#P" n="110" break="no"/>)lius angeli, quem propheta his verbis mystice 
+      descri<lb ed="#P" n="111" break="no"/>psit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

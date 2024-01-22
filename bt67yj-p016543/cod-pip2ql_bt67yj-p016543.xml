@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="43"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p016543"><!-- l2d6c5" -->
+            <head xml:id="bt67yj-p016543-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p016543-Hd1e103" type="question-title">Utrum diabolus per invidiam factus sit deterior</head>
+            <p xml:id="bt67yj-p016543-d1e106">
+               <lb ed="#P" n="46"/>§. 5. Utrum diabolus per invidiam factus sit deterior.
+    </p>
+            <p xml:id="bt67yj-p016543-d1e111">
+               <lb ed="#P" n="47"/>QUaeritur utrum angelus qui per superbiam 
+      fa<lb ed="#P" n="48" break="no"/>ctus est malus, per invidiam subsecutam 
+      fa<lb ed="#P" n="49" break="no"/>ctus fuerit deterior. Hoc enim ita esse videtur; quia 
+      <lb ed="#P" n="50"/>peccatum peccato additum reddit eum in quo est, 
+      <lb ed="#P" n="51"/>deteriorem, etiamsi alterum sit alterius causa, vel 
+      <lb ed="#P" n="52"/>ut si quis ex temulentia incidat in lasciviam, aut 
+      <lb ed="#P" n="53"/>ex furto in perjurium. 
+    </p>
+            <p xml:id="bt67yj-p016543-d1e129">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Deinde probatur ex <name xml:id="bt67yj-p016543-Nd1e135">Joanne Cassiano</name>, qui 
+      colla<lb ed="#P" n="55" break="no"/>tione 8. cap. 10. introducit Serenum abbatem ita de 
+      <lb ed="#P" n="56"/>lapsu diaboli disputantem, ut dicat eum prius 
+      ceci<lb ed="#P" n="57" break="no"/>disse per superbiam qua dixit, Similis ero altissimo; 
+      <lb ed="#P" n="58"/>ac postea rursum ac deterius corruisse per invidiam, 
+      <lb ed="#P" n="59"/>qua adversus hominem inflammatus fuit, &amp; sic 
+      qui<lb ed="#P" n="60" break="no"/>dem ut prior ruina posterioris esset causa: Et idcirco, 
+      <lb ed="#P" n="61"/>inquit, priorem ejus lapsum quo superbiendo 
+      cor<lb ed="#P" n="62" break="no"/>ruerat, quo etiam serpens meruerat nuncupari, 
+      se<lb ed="#P" n="63" break="no"/>cunda ruina per invidiam subsecuta est, quae 
+      inve<lb ed="#P" n="64" break="no"/>niens eum adhuc aliquid in se rectum habentem, ita 
+      <lb ed="#P" n="65"/>ut etiam cuiustam colloquii, atque consilii cum 
+      ho<lb ed="#P" n="66" break="no"/>mine posset habere consortium, sententia Domini 
+      <lb ed="#P" n="67"/>utiliter in ima dejectus est: ut non jam sicut ante, 
+      <lb ed="#P" n="68"/>sublime aliquid intuens, excelsus incederet, sed ut 
+      <lb ed="#P" n="69"/>solo cohaerens reperet. Quubus verbis manifeste signi¬ 
+      <!--0276.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>ficatur in diabolo ante secundam hanc invidiae 
+      rui<lb ed="#P" n="71" break="no"/>nam, fuisse adhuc aliquid rectitudinis, quod 
+      invi<lb ed="#P" n="72" break="no"/>diae merito amiserit, tunc quando audivit: Super 
+      <lb ed="#P" n="73"/>pectus tuum gradieris. Gen. 3. 
+    </p>
+            <p xml:id="bt67yj-p016543-d1e185">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Sed respondendum est si transgressioni ac 
+      deme<lb ed="#P" n="75" break="no"/>rito mali angeli plura assignemus instantia, quorum 
+      <lb ed="#P" n="76"/>primo peccaverit per superbiam, &amp; alio sequenti per 
+      <lb ed="#P" n="77"/>invidiam, qua vel in Deum, vel in hominem ex Dei 
+      <lb ed="#P" n="78"/>revelatione praecognitum exarserit; probabili 
+      ratio<lb ed="#P" n="79" break="no"/>ne dici quod diabolus per superbiam malus, &amp; 
+      <lb ed="#P" n="80"/>aeternae damnationis reus per invidiam factus fuerit 
+      <lb ed="#P" n="81"/>deterior, &amp; proinde graviori damnationi obnoxius. 
+      <lb ed="#P" n="82"/>Nam secundum hanc hypothesim adhuc in via erat, 
+      <lb ed="#P" n="83"/>non in termino, quando per actualem in vidiam 
+      pec<lb ed="#P" n="84" break="no"/>cavit, ideóque addendo peccata peccatis deterior 
+      <lb ed="#P" n="85"/>effici, ac damnationis suae reatum augere poterat. 
+    </p>
+            <p xml:id="bt67yj-p016543-d1e216">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Verum eam sententiam cum de instantibus meriti 
+      <lb ed="#P" n="87"/>ac demeriti angelorum ageremus, ut minus 
+      proba<lb ed="#P" n="88" break="no"/>bilem rejecimus. Quare sicut probabilius est 
+      trans<lb ed="#P" n="89" break="no"/>gressionem ac demeritum angeli non fuisse nisi unius 
+      <lb ed="#P" n="90"/>instantis; ita pari probabilitate asserendum, iis 
+      pec<lb ed="#P" n="91" break="no"/>catis quaecumque post illud instans commisit, sive 
+      <lb ed="#P" n="92"/>invidentia fuerit, sive quodcumque aliud; non 
+      fuis<lb ed="#P" n="93" break="no"/>se eum quoad internam voluntatis malitiam, factum 
+      <lb ed="#P" n="94"/>deteriorem. 
+    </p>
+            <p xml:id="bt67yj-p016543-d1e240">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Quod etiam ex opposito probatur; nam boni 
+      ange<lb ed="#P" n="96" break="no"/>li semel confirmati in bono, nullis deinceps operibus 
+      <lb ed="#P" n="97"/>bonis, quae quidem plurima exercent, efficiuntur 
+      <lb ed="#P" n="98"/>meliores; ergo nec mali angeli semel obdurati in 
+      <lb ed="#P" n="99"/>malo, (quod quidem ponimus factum statim post 
+      <lb ed="#P" n="100"/>primum instans demeriti) per ulla mala opera 
+      red<lb ed="#P" n="101" break="no"/>duntur pejores. Sicut enim bona opera a bonis 
+      an<lb ed="#P" n="102" break="no"/>gelis procedunt ex voluntate suam perfectam 
+      boni<lb ed="#P" n="103" break="no"/>tatem semel consecuta; sic &amp; mala opera a malis 
+      <lb ed="#P" n="104"/>procedunt ex voluntate completam malitiam jam 
+      <lb ed="#P" n="105"/>olim habente. Et idem judicium de hominibus seu 
+      <lb ed="#P" n="106"/>animabus damnatis &amp; beatis. 
+    </p>
+            <p xml:id="bt67yj-p016543-d1e271">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Denique responsionem hanc confirmat illa 
+      Da<lb ed="#P" n="108" break="no"/>masc. brevis &amp; trita apud Theologos sententia libro 
+      <lb ed="#P" n="109"/>2. de fide c. 4. Quod hominibus mors, hoc angelis 
+      <lb ed="#P" n="110"/>est lapsus; post lapsum enim non est illis poenitentiae 
+      <lb ed="#P" n="111"/>locus, ut neque post mortem hominibus. Unde 
+      con<lb ed="#P" n="112" break="no"/>sequitur angelum statim a lapsu totaliter malum 
+      af<lb ed="#P" n="113" break="no"/>fectum fuisse, ut neque demereri amplius, neque 
+      <lb ed="#P" n="114"/>deterior fieri posset, sicut &amp; homines a morte, juxta 
+      <lb ed="#P" n="115"/>illud Ecclesiastae: Lignum ubicunque ceciderit, illic 
+      <lb ed="#P" n="116"/>erit. Nam ante mortem dum adhuc sunt in via, id 
+      <lb ed="#P" n="117"/>est in statu merendi ac demerendi, non est 
+      negan<lb ed="#P" n="118" break="no"/>dum, imo vero constat peccata peccatis addita 
+      <lb ed="#P" n="119"/>reddere homines deteriores; unde patet solutio 
+      ra<lb ed="#P" n="120" break="no"/>tionis objectae. 
+    </p>
+            <p xml:id="bt67yj-p016543-d1e306">
+               <lb ed="#P" n="121"/>Quod autem ex <name xml:id="bt67yj-p016543-Nd1e310">Cassiano</name> affertur, dicente aliquid 
+      <lb ed="#P" n="122"/>in diabolo remansisse rectitudinis, donec per 
+      invi<lb ed="#P" n="123" break="no"/>diam contra hominem peccaret; cum id sit &amp; 
+      ratio<lb ed="#P" n="124" break="no"/>ni adversum, &amp; a communi Theologorum doctrina 
+      <lb ed="#P" n="125"/>alienum, facile rejicitur. Nec pro ejus opinione 
+      <lb ed="#P" n="126"/>quicquam facit, quod de consortio diaboli cum 
+      ho<lb ed="#P" n="127" break="no"/>mine quasi prius concesso, postea negato adducit. 
+      <lb ed="#P" n="128"/>Falsum enim hoc est; quia non minus post illam 
+      ho<lb ed="#P" n="129" break="no"/>minis seductionem, quam ante, quin potius multo 
+      <lb ed="#P" n="130"/>magis in poenam illius primae transgressionis 
+      primo<lb ed="#P" n="131" break="no"/>rum parentum diabolo permittitur consortium &amp; 
+      <lb ed="#P" n="132"/>colloquium cum hominibus; dum sese in humanam 
+      <lb ed="#P" n="133"/>speciem, vel etiam in angelum lucis subinde 
+      trans<lb ed="#P" n="134" break="no"/>format; &amp; quod majus est, intimis sensibus per 
+      pra<lb ed="#P" n="135" break="no"/>vas suggestiones sese ingerit ad fallendos &amp; 
+      sedu<lb ed="#P" n="136" break="no"/>cendos homines; cum primae matri tantum legatur 
+      <lb ed="#P" n="137"/>collocutus in forma serpentis. 
+    </p>
+            <p xml:id="bt67yj-p016543-d1e348">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Ad id vero quod Cassianus contendit per illa 
+      ver<lb ed="#P" n="139" break="no"/>ba, Super pectus tuum gradieris, &amp;c. rectitudinis 
+      <lb ed="#P" n="140"/>aliquid diaboli quod ei post primum superbiae 
+      lap<lb ed="#P" n="141" break="no"/>sum restabat, ademptum fuisse, respondemus, ea 
+      ver<lb ed="#P" n="142" break="no"/>ba quatenus ad spiritualem &amp; mysticum serpentem, 
+      <lb ed="#P" n="143"/>id est, diabolum pertinent, hunc habere sensum? 
+      <!--0277.xml-->
+      <pb ed="#P" n="44"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Tu qui imperium supra homines usurpare voluisti, 
+      <lb ed="#P" n="2"/>censeberis posthac ab omnibus maledictus, erisque 
+      <lb ed="#P" n="3"/>miserrimus &amp; vilissimus inter omnes peccatores, 
+      <lb ed="#P" n="4"/>nec aliud quam terram comedes, id est, terrenos 
+      <lb ed="#P" n="5"/>&amp; carnales homines. Nam, ut Augustinus ait, homo 
+      <lb ed="#P" n="6"/>in poenam peccati factus est diaboli cibus. Non ergo 
+      <lb ed="#P" n="7"/>sententia Dei contra serpentem lata quicquam ei 
+      <lb ed="#P" n="8"/>rectitudinis ademit, sed futuram ejus inter homines 
+      <lb ed="#P" n="9"/>vilitatem portendit. Vide Aug. lib. 1I. de Gen. ad 
+      <lb ed="#P" n="10"/>literam cap. 36. &amp; libr. 2. de Genes. contra 
+      Mani<lb ed="#P" n="11" break="no"/>chaeos cap. 17. &amp; de agone Christiano cap. 2. Porro 
+      <lb ed="#P" n="12"/>de maledictione serpentis quem sensum habeat, 
+      in<lb ed="#P" n="13" break="no"/>ferius agetur ad dist. 21. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

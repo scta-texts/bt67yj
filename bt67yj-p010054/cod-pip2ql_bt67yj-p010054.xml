@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="26"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p010054"><!-- l2d3c5" -->
+            <head xml:id="bt67yj-p010054-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p010054-Hd1e103" type="question-title">Ad quadam in contrarium argumenta responsio</head>
+            <p xml:id="bt67yj-p010054-d1e106">
+               <lb ed="#P" n="114"/>§. 5. Ad quadam in contrarium argumenta responsio. 
+    </p>
+            <p xml:id="bt67yj-p010054-d1e111">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> COntra doctrinam superiorem quaedam ex 
+      scri<lb ed="#P" n="116" break="no"/>pturis objiciuntur. Nam de diabolo dicitur 
+      <lb ed="#P" n="117"/>Joannis 8. Ille homicida erat ab initio, &amp; I. Joan. 3., 
+      <lb ed="#P" n="118"/>Ab initio diabolus peccat, &amp; psal. 103. Draco iste quem 
+      <lb ed="#P" n="119"/>formasti ad illudendum ei, &amp; Job. 40. secundum 70. 
+      <lb ed="#P" n="120"/>Hoc est principium figmenti Dei quod factum est ut 
+      il<lb ed="#P" n="121" break="no"/>ludatur ei ab angelis ejus, &amp; Eccl. 39. Sunt spiritus 
+      <lb ed="#P" n="122"/>qui ad vindictam creati sunt. Quae tria postrema loca 
+      <lb ed="#P" n="123"/>videri possent hoc etiam significare quod diabolus ex 
+      <lb ed="#P" n="124"/>creatione malus sit. 
+    </p>
+            <p xml:id="bt67yj-p010054-d1e137">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Afferuntur item loca quaedam ex patribus. Nam 
+      <lb ed="#P" n="126"/>Basilius oratione 9. dicit diabolum eadem 
+      ambitio<lb ed="#P" n="127" break="no"/>nis cupiditate quam ipse ab initio habuit, ut similis 
+      <lb ed="#P" n="128"/>vellet esse Deo, usum fuisse ad hominem 
+      decipien<lb ed="#P" n="129" break="no"/>dum. Augustinus quoque eam sententiam quae 
+      dia<lb ed="#P" n="130" break="no"/>bolum ponit semper malum fuisse, probabilem 
+      fa<lb ed="#P" n="131" break="no"/>cere conatur lib. I1. de Gen. ad lit. cap. 16. 19. 20. 21. 
+      <lb ed="#P" n="132"/>22. 23. &amp; 26. quibus etiam locis ad scripturae 
+      testimo<lb ed="#P" n="133" break="no"/>nia quae diversum sonant, quemadmodum 
+      responde<lb ed="#P" n="134" break="no"/>ri possit, ostendit. Idem scribens in psal. 96. Est, 
+      in<lb ed="#P" n="135" break="no"/>quit, insita malevolentia quaedam malis spiritibus. 
+      De<lb ed="#P" n="136" break="no"/>nique Rupertus lib. 13. in Matt. significat angelum 
+      <lb ed="#P" n="137"/>non de virtute in vitium, sed de vitio in vitium 
+      ceci<lb ed="#P" n="138" break="no"/>disse. Sic enim de eo scribit: Superbivit &amp; sibimetipsi 
+      <lb ed="#P" n="139"/>placuit tanquam sufficiens. Quod non fuit de virtute 
+      <lb ed="#P" n="140"/>in vitium cadere, sed in eo quod factus erat 
+      rema<lb ed="#P" n="141" break="no"/>nere, scilicet in vanitate, quod quiddam medium est 
+      <lb ed="#P" n="142"/>inter veram &amp; incontaminabilem essentiam Dei, &amp; 
+      <lb ed="#P" n="143"/>illud unde omnia creavit, scilicet nihil. 
+    </p>
+            <p xml:id="bt67yj-p010054-d1e184">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Sed ad haec ita respondemus, ac primum ad 
+      scri<lb ed="#P" n="145" break="no"/>pturas; Diabolus fuisse dicitur homicida ab initio 
+      <!--0260.xml-->
+      <pb ed="#P" n="27"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non suae creationis; quia tunc homo quem occideret, A 
+      <lb ed="#P" n="2"/>nondum erat, sed ab initio creationis hominis. Mox 
+      <lb ed="#P" n="3"/>enim ut homo conditus erat, cepit ejus felicitati 
+      Dia<lb ed="#P" n="4" break="no"/>bolus invidere, &amp; cogitare quomodo eum per 
+      pecca<lb ed="#P" n="5" break="no"/>tum praecipitaret in mortem. Quod &amp; paulo post 
+      per<lb ed="#P" n="6" break="no"/>fecit. Primum ergo voluntate homicida fuit, juxta 
+      <lb ed="#P" n="7"/>illud: Qui odit fratrem suum homicida est; Deinde 
+      <lb ed="#P" n="8"/>etiam ipsius operis perpetratione. Utrumque tamen 
+      <lb ed="#P" n="9"/>non prius quam homo conditus esset. 
+    </p>
+            <p xml:id="bt67yj-p010054-d1e219">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Peccare autem ab initio dicitur, quia ipse fuit 
+      pri<lb ed="#P" n="11" break="no"/>mus author peccati, quod &amp; postea suasu suo in 
+      ho<lb ed="#P" n="12" break="no"/>minem transfudit. Vel quod eodem recidit, ab initio 
+      <lb ed="#P" n="13"/>peccavit diabolus, quia nemo ante illum, sicut in 
+      <lb ed="#P" n="14"/>principio creavit Deus caelum &amp; terram, quia nihil 
+      <lb ed="#P" n="15"/>creavit ante caelum &amp; terram. Quidam etiam non 
+      <lb ed="#P" n="16"/>male ab initio interpretantur, statim post initium, 
+      <lb ed="#P" n="17"/>aut circa initium creationis mundi. 
+    </p>
+            <p xml:id="bt67yj-p010054-d1e241">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Jam quod in psalmo &amp; apud Job legitur, 
+      secun<lb ed="#P" n="19" break="no"/>dum sensum literalem, de quo vide interpretes; nihil 
+      <lb ed="#P" n="20"/>facit ad rem praesentem; quatenus autem ad 
+      diabo<lb ed="#P" n="21" break="no"/>lum mystice refertur, hunc sensum habet: Diabolum 
+      <lb ed="#P" n="22"/>fuisse praecipuam quandam Dei creaturam. Et 
+      quam<lb ed="#P" n="23" break="no"/>vis eum Deus peccaturum praesciret; creare tamen 
+      <lb ed="#P" n="24"/>voluisse, quod nihilominus etiam sciret, quantum 
+      <lb ed="#P" n="25"/>suis electis illius malitia ad virtutem esset profutura. 
+      <lb ed="#P" n="26"/>Qua ratione fieret ut ei a sanctis vel angelis vel 
+      ho<lb ed="#P" n="27" break="no"/>minibus conatus &amp; machinationes ipsius 
+      frustrapti<lb ed="#P" n="28" break="no"/>bus illuderetur. Hanc rem pulchre declarat Hilarius 
+      <lb ed="#P" n="29"/>in sermone quodam de Sancto Job. Qui quidem non 
+      <lb ed="#P" n="30"/>exstat, sed verba leguntur apud August. lib. 2. 
+      con<lb ed="#P" n="31" break="no"/>tra Jul. cap. 8. Ecclesiasticus autem non de spiritibus 
+      <lb ed="#P" n="32"/>incorporeis, sed de ventis &amp; procellis loquitur. Haec 
+      <lb ed="#P" n="33"/>enim constat in scripturis saepe vocari spiritus. Unde 
+      <lb ed="#P" n="34"/>illud psalmi, Spiritus procellarum. Si cui tamen de 
+      <lb ed="#P" n="35"/>angelis dictum videatur, sensus erit malos angelos 
+      <lb ed="#P" n="36"/>a Deo deputari ad punitionem hominum impiorum. 
+    </p>
+            <p xml:id="bt67yj-p010054-d1e287">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Porro Basilius dicens diabolum ab initio habuisse 
+      <lb ed="#P" n="38"/>cupiditatem similitudinis Dei, non aliud vult, quam 
+      <lb ed="#P" n="39"/>quod statim postquam conditus est, hanc 
+      cupidita<lb ed="#P" n="40" break="no"/>tem animo conceperit. Nam bonum initio fuisse 
+      <lb ed="#P" n="41"/>diabolum, ibidem aperte docet. 
+    </p>
+            <p xml:id="bt67yj-p010054-d1e303">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> De August. respondemus eum, tametsi aliquando 
+      <lb ed="#P" n="43"/>non fuerit ab hac opinione alienus, scilicet diabolum 
+      <lb ed="#P" n="44"/>semper malum fuisse, quemadmodum ex locis 
+      ad<lb ed="#P" n="45" break="no"/>ductis apparet, postmodum tamen re melius 
+      expen<lb ed="#P" n="46" break="no"/>sa, communem sententiam pro vera amplexum esse, 
+      <lb ed="#P" n="47"/>ut patet ex scriptis ejus posterioribus, ex quibus 
+      <lb ed="#P" n="48"/>loca superius allegavimus. Quod autem ex 
+      enarra<lb ed="#P" n="49" break="no"/>tione ejus in psalmos adducitur, nihil probat; 
+      Dici<lb ed="#P" n="50" break="no"/>tur enim insita malis spiritibus malevolentia, non a 
+      <lb ed="#P" n="51"/>natura, neque ab initio, sed quia ita radicitus inest 
+      <lb ed="#P" n="52"/>per propriae voluntatis obstinationem, ut quasi a 
+      <lb ed="#P" n="53"/>natura insita videatur: &amp; alioqui magis hoc 
+      argu<lb ed="#P" n="54" break="no"/>mentum eo vergit ut probet daemones natura malos 
+      <lb ed="#P" n="55"/>esse, quod ab Augustini doctrina constat esse 
+      alie<lb ed="#P" n="56" break="no"/>nissimum, quam quod ab initio mali fuerint propriae 
+      <lb ed="#P" n="57"/>voluntatis electione. 
+    </p>
+            <p xml:id="bt67yj-p010054-d1e342">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Ad postremum, quamvis Ruperti non sit 
+      perma<lb ed="#P" n="59" break="no"/>gna authoritas, respondetur tamen sententiam ejus 
+      <lb ed="#P" n="60"/>non esse, quod diabolus semper malus fuerit 
+      mali<lb ed="#P" n="61" break="no"/>tia peccati. Nam lib. 3. de process. Spiritus sancti cap. 
+      <lb ed="#P" n="62"/>9. asserit omnino fatendum esse secundum scripturas 
+      <lb ed="#P" n="63"/>quod inter creationem ejus &amp; lapsum mora aliqua 
+      in<lb ed="#P" n="64" break="no"/>tercesserit. Sed quod factus sit in vitio &amp; vanitate, id 
+      <lb ed="#P" n="65"/>est, gratia Dei vacuus, quod idem sentit de omnibus 
+      <lb ed="#P" n="66"/>angelis atque etiam de primo homine. Sed de ea re 
+      <lb ed="#P" n="67"/>agetur infra suis locis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

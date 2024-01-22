@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="381"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p147526"><!-- l2d38c1" -->
+            <head xml:id="bt67yj-p147526-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p147526-Hd1e103" type="question-title">Bonitas vel malitia voluntatis unde 
+      sit aestimanda</head>
+            <p xml:id="bt67yj-p147526-d1e106">
+               <lb ed="#P" n="22"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="23"/>TRICESIMAMOCTAVAM. 
+      <lb ed="#P" n="24"/>§. unicus. Bonitas vel malitia voluntatis unde 
+      <lb ed="#P" n="25"/>sit aestimanda.
+    </p>
+            <p xml:id="bt67yj-p147526-d1e117">
+               <lb ed="#P" n="26"/>DISPUTANS Magister hac dist. &amp; duabus 
+      <lb ed="#P" n="27"/>proxime sequentibus de bonitate &amp; malitia 
+      <lb ed="#P" n="28"/>voluntatis, nomine voluntatis non 
+      faculta<lb ed="#P" n="29" break="no"/>tem naturalem volendi aut nolendi quippiam 
+      in<lb ed="#P" n="30" break="no"/>telligit, quae tamen usitatius in scholis voluntas 
+      di<lb ed="#P" n="31" break="no"/>citur, (quamvis &amp; illa propter suos actus bona vel 
+      <lb ed="#P" n="32"/>mala recte dicatur, non minus quam animus &amp; 
+      No<lb ed="#P" n="33" break="no"/>mo ipse) sed internum voluntatis actum, quam 
+      vo<lb ed="#P" n="34" break="no"/>luntatem actualem appellant. Patet id ex sententiis 
+      <lb ed="#P" n="35"/>Augustini citatis a Magistro ex lib. 11. de Trinitate 
+      <lb ed="#P" n="36"/>cap. 6. &amp; ex ipsius Magistri verbis asserentis §. C. in 
+      <lb ed="#P" n="37"/>eodem homine plures esse bonas voluntates proprios 
+      <lb ed="#P" n="38"/>ac diversos fines habentes; qui tamen omnes 
+      referan<lb ed="#P" n="39" break="no"/>tur ad unum finem. Et §. G. ubi quaerit, utrum sit 
+      <lb ed="#P" n="40"/>una eademque voluntas, qua quis pascere vult 
+      esu<lb ed="#P" n="41" break="no"/>rientem, &amp; qua vult habere vitam aeternam. Quae 
+      <lb ed="#P" n="42"/>quaestio certissimam habet responsionem, si per 
+      vo<lb ed="#P" n="43" break="no"/>luntatem potentia intelligatur, cum tamen Magister 
+      <lb ed="#P" n="44"/>eam ut difficilem, indecisam relinquat. 
+    </p>
+            <p xml:id="bt67yj-p147526-d1e161">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Hoc igitur praemonito, ad quaestionem quam hac 
+      <lb ed="#P" n="46"/>&amp; 40. dist. tractat Magister, unde sit aestimanda 
+      <lb ed="#P" n="47"/>bonitas vel malitia voluntatis, &amp; cujuscunque actus 
+      <lb ed="#P" n="48"/>externi ab ea procedentis, utrum ex fine, an 
+      aliun<lb ed="#P" n="49" break="no"/>de; respondendum est, ad bonitatem voluntatis seu 
+      <lb ed="#P" n="50"/>cujuslibet actus voluntarii, a qua nimirum 
+      simpli<lb ed="#P" n="51" break="no"/>citer bona dicatur voluntas, tria requiri; nempe ut 
+      <lb ed="#P" n="52"/>&amp; finis sit bonus, &amp; actio quae ob finem suscipitur, 
+      <lb ed="#P" n="53"/>non sit per se mala, &amp; ut eadem illa actio in 
+      ta<lb ed="#P" n="54" break="no"/>lem finem sit ordinabilis. Bonitatem finis requiri 
+      <lb ed="#P" n="55"/>manifestum est. Non enim poterit opus quod 
+      pro<lb ed="#P" n="56" break="no"/>pter finem suscipitur, simpliciter bonum esse, si id 
+      <lb ed="#P" n="57"/>cujus gratia sit, non sit simpliciter bonum; velut si 
+      <lb ed="#P" n="58"/>quis det eleemosynam pauperi, ut eum abducat a 
+      fi<lb ed="#P" n="59" break="no"/>de Catholica; vel ut ipse ab hominibus laudetur. 
+      <lb ed="#P" n="60"/>Atque huc referenda sunt quae a Magistro citantur 
+      <lb ed="#P" n="61"/>dist. 40. ex Ambrosio lib. 1. officiorum capite 30. 
+      <lb ed="#P" n="62"/>&amp; ex Augustino in praefatione ad Psal. 31. quibus 
+      <lb ed="#P" n="63"/>testimoniis significatum est, bonitatem operis 
+      prae<lb ed="#P" n="64" break="no"/>cipue attendi ex bonitate finis, quem quis operando 
+      <lb ed="#P" n="65"/>intendit. 
+    </p>
+            <p xml:id="bt67yj-p147526-d1e212">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Requiritur deinde ut opus ipsum non sit per se 
+      <lb ed="#P" n="67"/>malum: Quod enim tale est, bonum fieri non potest 
+      <lb ed="#P" n="68"/>ex fine quantumlibet bono. Extenditur hoc ad omne 
+      <!--0614.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="69"/>opus aliqua lege prohibitum, tametsi positiva 
+      dum<lb ed="#P" n="70" break="no"/>taxat, sive divina, sive tantummodo humana. Non 
+      <lb ed="#P" n="71"/>enim possunt pro nostro arbitrio immutari leges 
+      no<lb ed="#P" n="72" break="no"/>bis constitutae, ut propter bonitatem finis quem 
+      in<lb ed="#P" n="73" break="no"/>tendimus, licita nobis sint, quae a legitima 
+      potesta<lb ed="#P" n="74" break="no"/>te sunt prohibita: v. g. furari non licet ut 
+      paupe<lb ed="#P" n="75" break="no"/>ris inopiam subleves; neque mentiri, ut hominem 
+      <lb ed="#P" n="76"/>a morte liberes; neque contra edictum Principis 
+      ci<lb ed="#P" n="77" break="no"/>vitatem egredi, ut damnum aliquod tuum avertas. 
+      <lb ed="#P" n="78"/>Unde Augustinus lib. contra mendacium capite 7. 
+      <lb ed="#P" n="79"/>Ea, inquit, quae constat esse peccata, nullo bona 
+      <lb ed="#P" n="80"/>causae obtentu, nullo quasi bono fine, nulla velut 
+      bo<lb ed="#P" n="81" break="no"/>na intentione facienda sunt. Et rursum: Cum 
+      ope<lb ed="#P" n="82" break="no"/>ra ipsa per se peccata sunt, ut furta, stapra, 
+      blas<lb ed="#P" n="83" break="no"/>phemiae, quis dicat ex causis bonis esse facienda, vel 
+      <lb ed="#P" n="84"/>peccata non eße, vel quod absurdius est, justa 
+      pec<lb ed="#P" n="85" break="no"/>cata esse? Quis dicat, furemur divitibus, ut 
+      habea<lb ed="#P" n="86" break="no"/>mus quod demus pauperibus? Et alia quae sequuntur 
+      <lb ed="#P" n="87"/>in eandem sententiam, tum eodem capite, tum 
+      ca<lb ed="#P" n="88" break="no"/>pite 8. 
+    </p>
+            <p xml:id="bt67yj-p147526-d1e271">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Postremo requiri diximus, ut medium quod 
+      agi<lb ed="#P" n="90" break="no"/>mus, sit in eum finem propter quem agitur, 
+      ordina<lb ed="#P" n="91" break="no"/>bile. Cum enim alia sint majora, alia minora bona, 
+      <lb ed="#P" n="92"/>non recte majora tanquam media ordinantur in ea 
+      <lb ed="#P" n="93"/>quae minora sunt, tanquam in fines. Debet enim finis 
+      <lb ed="#P" n="94"/>esse melior his quae sunt ad finem: v. g. peccat qui Deo 
+      <lb ed="#P" n="95"/>servit, ut ab eo temporalia bona percipiat, tanquam 
+      <lb ed="#P" n="96"/>ob finem proprium. Multo enim melior est Dei 
+      cul<lb ed="#P" n="97" break="no"/>tus quam bonorum temporalium perceptio¬ 
+    </p>
+            <p xml:id="bt67yj-p147526-d1e295">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Porro ad malitiam voluntatis vel cujuslibet actus 
+      <lb ed="#P" n="99"/>ejus sufficit, ut aliquid horum trium desit. Sicut 
+      <lb ed="#P" n="100"/>enim bonum requirit causam integram, ita malum 
+      <lb ed="#P" n="102"/>
+               <!-- line coord order error -->oritur ex singulis defectibus. 
+    </p>
+            <p xml:id="bt67yj-p147526-d1e310">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Non pugnat autem cum dicta doctrina id quod 
+      ab<lb ed="#P" n="104" break="no"/>solute a Domino dictum est Matth. 6. Si oculus tuus 
+      <lb ed="#P" n="105"/>fuerit simplex, totum corpus tuum lucidum erit, quasi 
+      <lb ed="#P" n="106"/>inde sit consequens, si intentio sit bona, omne opus 
+      <lb ed="#P" n="107"/>tali intentione susceptum bonum fore. Nam 
+      Chry<lb ed="#P" n="101" break="no"/>
+               <!--line coord order error-->sostomus in eum locum commentans, per oculum
+      <lb ed="#P" n="108"/>non intentionem, sed mentem intelligit: Mens 
+      au<lb ed="#P" n="109" break="no"/>tem simul &amp; intellectum &amp; voluntatem 
+      comprehen<lb ed="#P" n="110" break="no"/>dit. Itaque quicquid a mente recta proficiscitur, 
+      re<lb ed="#P" n="111" break="no"/>ctum est: Atqui mens recta non est, quae opus per 
+      <lb ed="#P" n="112"/>se malum faciendum imperat, tametsi bono fine. 
+      <lb ed="#P" n="113"/>Augustinus quidem lib. 4. contra Julianum capite 
+      <lb ed="#P" n="114"/>3. per oculum intentionem intellexit. Sed nec 
+      dicen<lb ed="#P" n="115" break="no"/>dum est intentionem illam qua opus illicitum 
+      ordi<lb ed="#P" n="116" break="no"/>natur ad bonum finem, simpliciter bonam esse, 
+      li<lb ed="#P" n="117" break="no"/>cet bona dici posset secundum quid; quatenus 
+      vide<lb ed="#P" n="118" break="no"/>licet finem respicit: Atque hoc est quod docent 
+      Scho<lb ed="#P" n="119" break="no"/>lastici, mala non posse fieri bono fine considerato sub 
+      <lb ed="#P" n="120"/>ratione finiendi, quia talia non sunt quae 
+      perfectio<lb ed="#P" n="121" break="no"/>nem a fine accipere possint, licet in ipsum 
+      ordinen<lb ed="#P" n="122" break="no"/>tur; finis autem est mediorum perfectio &amp; 
+      comple<lb ed="#P" n="123" break="no"/>mentum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

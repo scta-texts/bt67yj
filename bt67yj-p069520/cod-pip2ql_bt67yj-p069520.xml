@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="180"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p069520"><!-- l2d20c8" -->
+            <head xml:id="bt67yj-p069520-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-p069520-Hd1e103" type="question-title">Quando et quomodo translati fuissent homines 
+      ad aliam vitam</head>
+            <p xml:id="bt67yj-p069520-d1e106">
+               <lb ed="#P" n="44"/>§. 8. Quando &amp; quomodo translati fuissent homines 
+      <lb ed="#P" n="45"/>ad aliam vitam.
+    </p>
+            <p xml:id="bt67yj-p069520-d1e113">
+               <lb ed="#P" n="46"/>STatum perfectae foelicitatis secundum corpus &amp; 
+      <lb ed="#P" n="47"/>animam, quem nos mortales per resurrectionem 
+      <lb ed="#P" n="48"/>ex mortuis expectamus, primi homines &amp; eorum 
+      <lb ed="#P" n="49"/>posteri, si in justitia permansissent, accepturi erant 
+      <lb ed="#P" n="50"/>sine morte media; scilicet per immutationem 
+      cor<lb ed="#P" n="51" break="no"/>poris &amp; animae in melius, transferendi tandem ad 
+      <lb ed="#P" n="52"/>perfectam immortalitatem atque coelestem illam 
+      <lb ed="#P" n="53"/>beatitudinem ad quam conditi erant. Quaeritur 
+      au<lb ed="#P" n="54" break="no"/>tem quando &amp; quomodo id futurum esset. Quod ad 
+      <lb ed="#P" n="55"/>tempus attinet, S. Augustinus libr. 9. de Genesi ad 
+      <lb ed="#P" n="56"/>literam, cap. 3. &amp; 6. &amp; ex S. Aug. Magister hac 
+      <lb ed="#P" n="57"/>distinctione §. C. dubium relinquunt, utrum 
+      om<lb ed="#P" n="58" break="no"/>nes simul completa humana generatione, &amp; 
+      ele<lb ed="#P" n="59" break="no"/>ctorum hominum numero translatifuissent; an vero 
+      <lb ed="#P" n="60"/>per successionem. 
+    </p>
+            <p xml:id="bt67yj-p069520-d1e148">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Prior sententia reperitur in glossa interlineari ad 
+      <lb ed="#P" n="62"/>illud Genes. Ne forte sumat de ligno vitae, &amp;c. Sic 
+      <lb ed="#P" n="63"/>enim habet; Impleto numero electorum gustaturi erant 
+      <lb ed="#P" n="64"/>de ligno vitae, &amp; sic ad beatum statum migraturi. 
+      <lb ed="#P" n="65"/>Posteriorem vero plerique Scholastici doctores 
+      am<lb ed="#P" n="66" break="no"/>plectuntur: nec sine ratione. Primum, quia nisi prius 
+      <lb ed="#P" n="67"/>geniti, prius etiam translati fuissent, nimia fuisset 
+      <lb ed="#P" n="68"/>inaequalitas temporis vitae hujus animalis in diversis 
+      <lb ed="#P" n="69"/>hominibus, maxime primis &amp; postremis. 
+      Secun<lb ed="#P" n="70" break="no"/>do, quia si omnium translatio differenda erat usque 
+      <lb ed="#P" n="71"/>in finem, nimium fuisset multiplicatum genus 
+      <!--0413.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>hominum in terra, ita ut tandem omnes capere 
+      <lb ed="#P" n="73"/>non posset. Quod ex eo patet, quia si nunc omnes 
+      <lb ed="#P" n="74"/>homines qui ab initio mundi fuerunt, simul uno &amp; 
+      <lb ed="#P" n="75"/>eodem tempore viverent, commodae eorum 
+      habita<lb ed="#P" n="76" break="no"/>tioni non sufficeret orbis terrarum. Neque est cur 
+      <lb ed="#P" n="77"/>dicamus in illo statu pauciores quam nunc futuros 
+      <lb ed="#P" n="78"/>fuisse homines. Quomodo enim pauciores, ubi 
+      nul<lb ed="#P" n="79" break="no"/>lia conjugio vacassent, nec ulli vel ullae fuissent 
+      <lb ed="#P" n="80"/>steriles, nec ullus fuisset irritus seminum jactus, ut 
+      <lb ed="#P" n="81"/>ait S. Augustinus? 
+    </p>
+            <p xml:id="bt67yj-p069520-d1e204">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Tertio, quia totum tempus vitae animalis erat 
+      tem<lb ed="#P" n="83" break="no"/>pus meriti, hoc autem tempus verisimiliter certo 
+      <lb ed="#P" n="84"/>annorum numero definiendum erat. Quo finito 
+      sta<lb ed="#P" n="85" break="no"/>tim praemium caelestis beatitudinis essent accepturi. 
+      <lb ed="#P" n="86"/>Quomodo &amp; nunc animae sanctae non expectant ut 
+      <lb ed="#P" n="87"/>impleatur numerus electorum; sed quae tempus 
+      me<lb ed="#P" n="88" break="no"/>riti prius absolverunt, prius etiam, nisi quid obstet, 
+      <lb ed="#P" n="89"/>ad gloriam admittuntur. Unde &amp; improbabilis est 
+      <lb ed="#P" n="90"/>illa quorundam imagmatio, duplicem 
+      translatio<lb ed="#P" n="91" break="no"/>nem ponentium; unam priorem, qua 
+      transferren<lb ed="#P" n="92" break="no"/>tur ad statum confirmationis in bono qui totum 
+      <lb ed="#P" n="93"/>tempus datum ad merendum juste sancteque 
+      trans<lb ed="#P" n="94" break="no"/>egissent, quomodo nunc translati sunt Enoch &amp; 
+      <lb ed="#P" n="95"/>Elias. Quam translationem, quia subsequitur 
+      tem<lb ed="#P" n="96" break="no"/>pus meriti, censent non omnium simul futuram 
+      <lb ed="#P" n="97"/>fuisse, sed aliorum post alios. Alteram vero 
+      poste<lb ed="#P" n="98" break="no"/>riorem, qua tandem omnes simul transferrentur ad 
+      <lb ed="#P" n="99"/>perfectam beatitudinem; Hoc, inquam, 
+      improba<lb ed="#P" n="100" break="no"/>pile est, quia completo tempore meriti, non magis 
+      <lb ed="#P" n="101"/>tunc differri debuisset hominum beatitudo quam 
+      <lb ed="#P" n="102"/>nunc animarum sanctarum. Quarto, quia nulla 
+      ra<lb ed="#P" n="103" break="no"/>tio est cur primi homines tamdiu permanerent in 
+      <lb ed="#P" n="104"/>vita animali: Nam in posteris eorum futura erat 
+      <lb ed="#P" n="105"/>sufficiens scientia &amp; prudentia ad vitam bene 
+      agen<lb ed="#P" n="106" break="no"/>dam, sive quoad usum rerum corporearum, sive 
+      <lb ed="#P" n="107"/>quoad cultum Dei. 
+    </p>
+            <p xml:id="bt67yj-p069520-d1e265">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Jam quod ad modum illius translationis attinet, 
+      <lb ed="#P" n="109"/>quidam opinantur lignum vitae eam vim habuisse ut 
+      <lb ed="#P" n="110"/>semel gustatum redderet hominem perfecte 
+      immor<lb ed="#P" n="111" break="no"/>talem, qualis scilicet nunc fit per resurrectionem. 
+      <lb ed="#P" n="112"/>Unde dicunt non ante de eo sumpturum quemquam 
+      <lb ed="#P" n="113"/>fuisse, quam transferendus esset ad statum perfectae 
+      <lb ed="#P" n="114"/>foelicitatis, utpote ea sumptione perfectam corporis 
+      <lb ed="#P" n="115"/>immortalitatem assecuturus. Ita sentire videtur 
+      au<lb ed="#P" n="116" break="no"/>thor glossae interlinearis in verbis supra citatis. Item 
+      <lb ed="#P" n="117"/>in glossa ord inaria, ad illud: Faciamus hominem ad 
+      <lb ed="#P" n="118"/>imaginem, &amp;c. Dicit enim quod primus homo 
+      mul<lb ed="#P" n="119" break="no"/>tiplicata progenie, Deo jubente, sumeret etiam de 
+      <lb ed="#P" n="120"/>ligno vitae, quo perfecte immortalis factus cibi 
+      ul<lb ed="#P" n="121" break="no"/>terius adjumenta non requireret. 
+    </p>
+            <p xml:id="bt67yj-p069520-d1e300">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Eadem sententia videtur placuisse Chrysostomo 
+      <lb ed="#P" n="123"/>&amp; Theodoreto, quorum ille homilia decimaocta va 
+      <lb ed="#P" n="124"/>in Genes. iste quaestione 26. in Genes. dicunt lignum 
+      <lb ed="#P" n="125"/>vitae positum fuisse in medio paradisi, tanquam 
+      prae<lb ed="#P" n="126" break="no"/>mium obedientiae. Unde sequi videtur quod per 
+      <lb ed="#P" n="127"/>ejus esum transferendi erant homines ad eam 
+      im<lb ed="#P" n="128" break="no"/>mortalitatem, quae illis pro praemio justitiae erat 
+      ex<lb ed="#P" n="129" break="no"/>pectanda. 
+    </p>
+            <p xml:id="bt67yj-p069520-d1e322">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Sed in contrarium est quod habet communis 
+      scho<lb ed="#P" n="131" break="no"/>lasticorum sententia ex doctrina S. Augustini, 
+      <lb ed="#P" n="132"/>quam variis locis tradit, ut ad superiorem 
+      distin<lb ed="#P" n="133" break="no"/>ctionem ostendimus, lignum vitae institutum 
+      fuis<lb ed="#P" n="134" break="no"/>se ad arcendam mortem quae accidere solet ex 
+      se<lb ed="#P" n="135" break="no"/>nio, &amp; ob id saepius eo utendum, donec tempus 
+      <lb ed="#P" n="136"/>advenisset quo transferendus esset homo ad vitam 
+      <lb ed="#P" n="137"/>perfecte immortalem. Est &amp; perspicua ratio contra 
+      <lb ed="#P" n="138"/>praedictam opinionem. Sicut enim nunc perfecta 
+      <lb ed="#P" n="139"/>corporum immortalitas non expectatur a ligno 
+      vi<lb ed="#P" n="140" break="no"/>tae, vel alia quapiam causa externa, id est, extra 
+      <lb ed="#P" n="141"/>hominem posita, sed ejus causa erit perfecta 
+      beati<lb ed="#P" n="142" break="no"/>tudo ipsius animae redundans in corpus sibi 
+      subje<lb ed="#P" n="143" break="no"/>ctum; ita tunc futurum erat, ac proinde frustra 
+      <lb ed="#P" n="144"/>ponitur istiusmodi virtus in ligno vitae, quippe 
+      <lb ed="#P" n="145"/>cum ad effectum perfectae immortalitatis &amp; gloriae 
+      <!--0414.xml-->
+      <pb ed="#P" n="181"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>corporis sola animae beatitudo &amp; gloria sufficeret. 
+      <lb ed="#P" n="2"/>Satis igitur apparet illius translationis non alium 
+      <lb ed="#P" n="3"/>quaerendum esse modum, quam quod homo post 
+      ab<lb ed="#P" n="4" break="no"/>solutum tempus meriti divina virtute glorificandus 
+      <lb ed="#P" n="5"/>secundum animam, simul etiam consequenter 
+      glo<lb ed="#P" n="6" break="no"/>rificaretur in corpore, nimirum animae gloria in 
+      <lb ed="#P" n="7"/>corpus redundante &amp; in eo dotes beatae 
+      immortali<lb ed="#P" n="8" break="no"/>tatis producente, quemadmodum &amp; in nostris fiet 
+      <lb ed="#P" n="9"/>corporibus, quando per resurrectionem animabus 
+      <lb ed="#P" n="10"/>beatis sociabuntur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

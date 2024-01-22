@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="235"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p091110"><!-- l2d24c6" -->
+            <head xml:id="bt67yj-p091110-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p091110-Hd1e103" type="question-title">Ad objectiones responsio</head>
+            <p xml:id="bt67yj-p091110-d1e106">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> §. 6. Ad objectiones responsio.
+    </p>
+            <p xml:id="bt67yj-p091110-d1e113">
+               <lb ed="#P" n="42"/>COntra doctrinam superiorem prima objectio 
+      <lb ed="#P" n="43"/>est ex definitione liberi arbitrii, quam tradit 
+      <lb ed="#P" n="44"/>Magister his verbis: Liberum arbitrium est 
+      facul<lb ed="#P" n="45" break="no"/>tas rationis &amp; voluntatis, qua bonum eligitur gratia 
+      <lb ed="#P" n="46"/>assistente, vel, malum eadem desistente. Quae 
+      defi<lb ed="#P" n="47" break="no"/>nitio prius tradita est ab Hugone lib. 3. sententiarum 
+      <lb ed="#P" n="48"/>capite 7. tametsi verbis non omnino iisdem. 
+      De<lb ed="#P" n="49" break="no"/>sumpta autem videtur ex ea doctrina veterum, qua 
+      <lb ed="#P" n="50"/>docent agnoscendum esse in homine liberum 
+      arbi<lb ed="#P" n="51" break="no"/>trium quo &amp; bonum eligere possit &amp; malum. 
+      Libe<lb ed="#P" n="52" break="no"/>rum arbitrium, ait Augustinus de correptione &amp; 
+      <lb ed="#P" n="53"/>gratia cap. 1. &amp; ad malum &amp; ad bonum faciendum 
+      <lb ed="#P" n="54"/>confitendum est nos habere. Item ex scripturis quae 
+      <lb ed="#P" n="55"/>in declaranda hominis libertate meminerunt 
+      utrius<lb ed="#P" n="56" break="no"/>que, tam mali quam boni. Deut. 30. Eccles. 17. &amp; 
+      <lb ed="#P" n="57"/>31. Ex quibus apparet ad rationem liberi arbitrii 
+      <lb ed="#P" n="58"/>pertinere, quod ad utrumque, bonum scilicet &amp; 
+      <lb ed="#P" n="59"/>malum, flecti possit. 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e155">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Secunda: Origenes libr. 1. Periarchon in 
+      prooe<lb ed="#P" n="61" break="no"/>mio: Si, inquit, liberi arbitrii sumus, ergo non 
+      ne<lb ed="#P" n="62" break="no"/>cessitate cogimur vel agere recte, vel male. Idque 
+      <lb ed="#P" n="63"/>ponit inter ea quae ecclesiastica praedicatione 
+      defi<lb ed="#P" n="64" break="no"/>nita sunt; ergo necessitas bene agendi non consistit 
+      <lb ed="#P" n="65"/>cum libero arbitrio, &amp; proinde de ejus ratione est 
+      <lb ed="#P" n="66"/>posse bene agere &amp; male. 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e176">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Tertia: Hilarius in expositione psalmi 51. ad 
+      ulti<lb ed="#P" n="68" break="no"/>mum versiculum ita scribit: Non enim confessio 
+      <lb ed="#P" n="69"/>peccatorum nisi in hujus saeculi tempore est, dum 
+      <lb ed="#P" n="70"/>voluntati suae unusquisque permissus est, &amp; vitae 
+      li<lb ed="#P" n="71" break="no"/>centiam habet confessionis arbitrium, decidentes 
+      <!--0468.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>namque de vita, simul &amp; de jure didicimus 
+      volun<lb ed="#P" n="73" break="no"/>tatis. Et mox loquens de futuro saeculo: Cujus 
+      tem<lb ed="#P" n="74" break="no"/>poris, inquit, non jam liberam, sed necessariam 
+      vo<lb ed="#P" n="75" break="no"/>luntatem ostendit propheta dicens, non est mihi in 
+      <lb ed="#P" n="76"/>diebus illis voluntas. Cessante enim voluntatis 
+      li<lb ed="#P" n="77" break="no"/>bertate, etiam voluntatis; si qua erit, cessabit 
+      effe<lb ed="#P" n="78" break="no"/>ctus. Transire namque ad Abraham volens dives, 
+      <lb ed="#P" n="79"/>chaos medio non sinitur; cum tamen per libertatem 
+      <lb ed="#P" n="80"/>voluntatis in Abrahae finibus esse potuisset. 
+      Interclu<lb ed="#P" n="81" break="no"/>sa est ergo libertas voluntatis, quia confessio nulla sit 
+      <lb ed="#P" n="82"/>mortuis, &amp;c. Quibus verbis aperte removet 
+      arbi<lb ed="#P" n="83" break="no"/>trii libertatem a saeculo futuro, propterea quod ibi 
+      <lb ed="#P" n="84"/>desit facultas boni &amp; mali. 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e224">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Quarta: Hicronymus in epistola ad Damasum 
+      <lb ed="#P" n="86"/>Papam de filio prodigo; Solus, inquit, Deus est in 
+      <lb ed="#P" n="87"/>quem peccatum non cadit: caetera, cum sint liberi 
+      <lb ed="#P" n="88"/>arbitrii, possunt in utramque partem suam flectere 
+      <lb ed="#P" n="89"/>voluntatem. Intelligit autem haud dubie utramque 
+      <lb ed="#P" n="90"/>partem bonam &amp; malam, ut ex ipso loco 
+      perspi<lb ed="#P" n="91" break="no"/>cuum est, maxime ex eo quod dicit, solum Deum 
+      es<lb ed="#P" n="92" break="no"/>se in quem peccatum non cadit. Idem in 
+      commen<lb ed="#P" n="93" break="no"/>tario epistolae ad Philemonem scribit, quod homo 
+      <lb ed="#P" n="94"/>non esset conditus Deo similis, nec liberi arbitrii, si 
+      <lb ed="#P" n="95"/>ita bonus esset ut malum recipere non posset. 
+      Rur<lb ed="#P" n="96" break="no"/>sus idem in explanatione symboli ad Damasum, 
+      di<lb ed="#P" n="97" break="no"/>cit Jovinianum sustulisse arbitrii libertatem, eo 
+      <lb ed="#P" n="98"/>quod assereret hominem non posse peccare. Nos 
+      <lb ed="#P" n="99"/>vero dicimus, inquit, hominem semper &amp; peccare &amp; 
+      <lb ed="#P" n="100"/>non peccare posse: ut semper nos liberi confiteamur esse 
+      <lb ed="#P" n="101"/>arbitrii. Quae profecto sententiae ad rationem liberi 
+      <lb ed="#P" n="102"/>arbitrii exigunt posse peccare 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e268">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Quinta: Magister dist. 7. hujus libri docet in 
+      an<lb ed="#P" n="104" break="no"/>gelis bonis &amp; malis eatenus adhuc esse liberum 
+      ar<lb ed="#P" n="105" break="no"/>bitrium, quia quamvis nec illi male, nec hi bene 
+      <lb ed="#P" n="106"/>agere possint: spontanea tamen voluntate &amp; non 
+      <lb ed="#P" n="107"/>cogente aliqua necessitate illi bonum, &amp; hi malum 
+      <lb ed="#P" n="108"/>operantur. Constat autem ex iis quae initio diximus, 
+      <lb ed="#P" n="109"/>spontaneum non fufficere ad propriam liberi 
+      arbi<lb ed="#P" n="110" break="no"/>trii rationem; ergo secundum rei veritatem in bonis 
+      <lb ed="#P" n="111"/>&amp; malis angelis non est liberum arbitrium, quod 
+      <lb ed="#P" n="112"/>nec illi peccare possint, nec hi bene agere. 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e294">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Ad has objectiones ita respondemus. Ad primam 
+      <lb ed="#P" n="114"/>quidem, eam Magistri seu Hugonis definitionem, &amp; 
+      <lb ed="#P" n="115"/>si quae sint alia hujusmodi, non tam explicare quae 
+      <lb ed="#P" n="116"/>sit propria ratio liberi arbitrii &amp; quid ei 
+      essentiali<lb ed="#P" n="117" break="no"/>ter competat, quam notfficare rem per id quod ei 
+      <lb ed="#P" n="118"/>perpetuo accidit &amp; conjunctum est, durante hac 
+      <lb ed="#P" n="119"/>vita. Sic enim liberum arbitrium definitur per 
+      ele<lb ed="#P" n="120" break="no"/>ctionem boni &amp; mali, quomodo per mortalitatem 
+      <lb ed="#P" n="121"/>definitur homo non tantum a Porphyrio, verum 
+      <lb ed="#P" n="122"/>etiam a scriptoribus sacris, Ambrosio, Augustino, 
+      <lb ed="#P" n="123"/>&amp; aliis; cum tamen certissimum sit, mortalitatem 
+      <lb ed="#P" n="124"/>ad hominis essentiam vel etiam perfectionem 
+      acci<lb ed="#P" n="125" break="no"/>dentariam minime pertinere. Caeterum patres &amp; 
+      <lb ed="#P" n="126"/>scriptura sacra, etsi nostro arbitrio passim ascribant 
+      <lb ed="#P" n="127"/>libertatem boni &amp; mali, non tamen docent hoc in 
+      <lb ed="#P" n="128"/>ejus ratione contineri. 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e333">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Ad secundam: Origenes manifeste loquitur de 
+      ne<lb ed="#P" n="130" break="no"/>cessitate coactionis. Non, inquit, necessitate 
+      cogi<lb ed="#P" n="131" break="no"/>mur vel agere recte vel male. Nam &amp; in sententia 
+      <lb ed="#P" n="132"/>proxime praecedenti dixerat, nos non necessitati 
+      <lb ed="#P" n="133"/>esse subjectos, ut omni modo, etiamsi nolimus, vel 
+      <lb ed="#P" n="134"/>mala vel bona agere cogamur. Deinde etsi de 
+      ne<lb ed="#P" n="135" break="no"/>cessitate naturali loqueretur, verba ejus 
+      intelligen<lb ed="#P" n="136" break="no"/>da essent ad hunc modum: Si liberi arbitrii sumus, 
+      <lb ed="#P" n="137"/>ergo non necessitate agimus singula bona vel 
+      mala<lb ed="#P" n="138" break="no"/>Nam &amp; in bonis electio est &amp; in malis. Quanquam 
+      <lb ed="#P" n="139"/>possunt etiam verba ejus exponi de libero arbitrio 
+      <lb ed="#P" n="140"/>secundum statum hujus vitae 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e364">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Quae responsio omnino adhibenda est tertiae 
+      obje<lb ed="#P" n="142" break="no"/>ctioni. Manifestum est enim Hilarium loqui de 
+      vo<lb ed="#P" n="143" break="no"/>luntate ejusque libertate quantum ad eam 
+      condi<lb ed="#P" n="144" break="no"/>tionem quae ci competit in hac vita, id est, 
+      flexibi<lb ed="#P" n="145" break="no"/>litatem ad bonum &amp; malum, qua scilicet ratione 
+      <!--0469.xml-->
+      <pb ed="#P" n="236"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>voluntas parens est bonorum &amp; malorum 
+      merito<lb ed="#P" n="2" break="no"/>rum. Patet hic sensus ex ejusdem Hilarii 
+      commen<lb ed="#P" n="3" break="no"/>tario in psal. 2. ad illud: Tunc loquetur ad eos in tra 
+      <lb ed="#P" n="4"/>sua. Pro cujus rei declaratione notandum est, etiam 
+      <lb ed="#P" n="5"/>de virtute similiter interdum patres loqui, ut 
+      di<lb ed="#P" n="6" break="no"/>cant virtuti locum non esse in altera vita; videlicet 
+      <lb ed="#P" n="7"/>meriti rationem in ea considerantes. Ita 
+      Hierony<lb ed="#P" n="8" break="no"/>mus in commentario super Ecclesiasten ad illud 
+      ca<lb ed="#P" n="9" break="no"/>pitis 9. Nec habent ultra mercedem, virtutibus 
+      lo<lb ed="#P" n="10" break="no"/>cum negat esse in saeculo futuro, scilicet quatenus 
+      <lb ed="#P" n="11"/>valent ad comparanda merita, non autem quatenus 
+      <lb ed="#P" n="12"/>per eas Deus placatur. 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e413">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Ad ea quae quarto loco ex Hieronymo 
+      adferun<lb ed="#P" n="14" break="no"/>tur, quid sit respondendum, satis diximus ad dist. 
+      <lb ed="#P" n="15"/>45. libri 1. &amp; ad dist. 7. hujus libri, excepto loco 
+      <lb ed="#P" n="16"/>qui est in commentario epistolae ad Philemonem. 
+      <lb ed="#P" n="17"/>Ad quem proinde respondemus, ea Hieronymi 
+      ver<lb ed="#P" n="18" break="no"/>ba tametsi dure sonent, benigne tamen exponi 
+      pos<lb ed="#P" n="19" break="no"/>se hoc modo: Si homo ita bonus esset ut malum 
+      re<lb ed="#P" n="20" break="no"/>cipere non posset, jam non esset conditus Deo 
+      si<lb ed="#P" n="21" break="no"/>milis, sed aequalis, quia solus Deus sua natura 
+      im<lb ed="#P" n="22" break="no"/>peccabilis est. Item non esset liberi arbitrii 
+      secun<lb ed="#P" n="23" break="no"/>dum statum praesentis vitae. 
+    </p>
+            <p xml:id="bt67yj-p091110-d1e442">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Ad postremam objectionem respondetur, 
+      Magi<lb ed="#P" n="25" break="no"/>strum eo loco non exacte loqui, neque satis 
+      explica<lb ed="#P" n="26" break="no"/>re rationem liberae voluntatis in angelis bonis &amp; 
+      <lb ed="#P" n="27"/>malis. Qua de re videantur quae diximus ad 
+      ean<lb ed="#P" n="28" break="no"/>dem 7. dist. ubi quaerebatur quomodo consistat 
+      con<lb ed="#P" n="29" break="no"/>firmatio &amp; obduratio angelorum cum libero eorum 
+      <lb ed="#P" n="30"/>arbitrio. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="46"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p017638"><!-- l2d6c7" -->
+            <head xml:id="bt67yj-p017638-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p017638-Hd1e103" type="question-title">Aliae quorundam opiniones de superbia angeli 
+      refelluntur</head>
+            <p xml:id="bt67yj-p017638-d1e106">
+               <lb ed="#P" n="20"/>§. 7. Aliae quorundam opiniones de superbia angeli 
+      <lb ed="#P" n="21"/>refelluntur. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e113">
+               <lb ed="#P" n="22"/>PRaeter supra dictas opiniones de superbia 
+      angeli<lb ed="#P" n="23" break="no"/>ca, extant &amp; aliae quorundam, de quibus 
+      bre<lb ed="#P" n="24" break="no"/>viter agemus. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e122">
+               <lb ed="#P" n="25"/>Dicunt enim quidam angelis omnibus statim a 
+      <lb ed="#P" n="26"/>creatione fuisse revelatum a Deo futurum aliquando, 
+      <lb ed="#P" n="27"/>ut homo quidam terrenae substantiae idem esset 
+      fi<lb ed="#P" n="28" break="no"/>lius Dei, iisque praeceptum ut illi homini se 
+      sub<lb ed="#P" n="29" break="no"/>mitterent, eumque adorarent, &amp; in eum tanquam 
+      <lb ed="#P" n="30"/>salutis suae authorem crederent; atque alios quidem 
+      <lb ed="#P" n="31"/>Dei praecepto paruisse, alios vero minime; sed horum 
+      <lb ed="#P" n="32"/>principem honorem illum homini praeparatum, sibi 
+      <lb ed="#P" n="33"/>per superbiam &amp; invidiam vendicare, &amp; capere 
+      vo<lb ed="#P" n="34" break="no"/>luisse, caeteros autem ejus superbiae consensisse. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e147">
+               <lb ed="#P" n="35"/>Nonnulli vero dicunt principem angelum hac 
+      re<lb ed="#P" n="36" break="no"/>velatione accepta, sibi appetivisse unionem 
+      hyposta<lb ed="#P" n="37" break="no"/>ticam verbi divini, quam cognoscebat humanae 
+      na<lb ed="#P" n="38" break="no"/>turae praeparatam. Tradunt hanc opinionem 
+      Jaco<lb ed="#P" n="39" break="no"/>bus de Valentia scribens in psal. 81. &amp; 102. 
+      Vigue<lb ed="#P" n="40" break="no"/>rius inst. Theol. c. 3. §. 2. vers. 15. &amp; Ambr. 
+      Catha<lb ed="#P" n="41" break="no"/>rinus in lib. de gloria bonorum angelorum, &amp; lapsu 
+      <lb ed="#P" n="42"/>malorum, &amp; in comment. epist. ad Philip. c. 2. &amp; 
+      <lb ed="#P" n="43"/>ad Heb. 2. Dionysius etiam Carthusianus in 2. dist. 
+      <lb ed="#P" n="44"/>5. quaest. 1. hanc sententiam ut probabilem recitat; 
+      <lb ed="#P" n="45"/>nolens tamen temere quicquam affirmare. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e173">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Eam rem aliter narrat quidam Guilielmus 
+      Postel<lb ed="#P" n="47" break="no"/>lus in libro de arcanis mysteriis; scribit enim angelos 
+      <lb ed="#P" n="48"/>omnes primo jussos adorare filium Dei; quod cum 
+      <lb ed="#P" n="49"/>fecissent, revelatum eis fuisse, eundem Dei filium 
+      ali<lb ed="#P" n="50" break="no"/>quando suscepturum hominem, &amp; mandatum ut illi 
+      <lb ed="#P" n="51"/>homini se subjicerent; id vero alios prompte, alios 
+      <lb ed="#P" n="52"/>aegre fecisse. Deinde revelatum quod idem homo Der 
+      <lb ed="#P" n="53"/>filius seipsum aliquando in specie panis exhibiturus 
+      <lb ed="#P" n="54"/>esset, iterumque mandatum ut etiam sic eum 
+      ado<lb ed="#P" n="55" break="no"/>rent. Hoc autem alios ut jussi erant, fecisse, alios 
+      au<lb ed="#P" n="56" break="no"/>tem superbia &amp; invidia commotos, ut eo se 
+      demitte<lb ed="#P" n="57" break="no"/>rent, nullo modo adducere in animum suum potuisse. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e204">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> His porro non dissimile est, quod in Alcorano 
+      Ma<lb ed="#P" n="59" break="no"/>hometi legitur, atque identidem inculcatur: primum 
+      <lb ed="#P" n="60"/>hominem digniorem angelis creatum fuisse, angelos 
+      <lb ed="#P" n="61"/>proinde jussos a Deo coram homine se humiles 
+      ex<lb ed="#P" n="62" break="no"/>hibere, atque huic jussioni omnes obtemperasse, uno 
+      <lb ed="#P" n="63"/>excepto Beelzebub, ut qui se, quod igneae esset 
+      natu<lb ed="#P" n="64" break="no"/>rae, luteo illo figmento ionge meliorem esse diceret. 
+      <lb ed="#P" n="65"/>Refert hoc ipsum, sed ita ut tanquam fabulam 
+      reji<lb ed="#P" n="66" break="no"/>ciat Athanasius, vel quisquis author q. 6. ad 
+      Antio<lb ed="#P" n="67" break="no"/>chum, idque merito; quia multa manifeste falsa 
+      con<lb ed="#P" n="68" break="no"/>tinet: ut primum hominem fuisse creatum angelis 
+      di<lb ed="#P" n="69" break="no"/>gniorem, contra illud psal. 8. Minuisti eum paulo 
+      mi<lb ed="#P" n="70" break="no"/>nus ab angelis, angelos jussos ei se submittere, atque 
+      <lb ed="#P" n="71"/>hoc omnes fecisse uno excepto, quasi unus tantum 
+      <lb ed="#P" n="72"/>fuerit angelus inobediens &amp; praevaricator; denique 
+      <lb ed="#P" n="73"/>angelos esse igneae naturae. Ea vero narratio quam 
+      <!--0279.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>Postellus affert, licet jucunda, nec Christianae 
+      pie<lb ed="#P" n="75" break="no"/>tati palam adversa; jure tamen ut hominis alioqui 
+      <lb ed="#P" n="76"/>haeretici commentum exploditur, utpote cujus apud 
+      <lb ed="#P" n="77"/>catholicos nullum exstet vestigium. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e256">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> At prima opinio quia catholicos habet authores, 
+      <lb ed="#P" n="79"/>diligentius expendenda est. In ea autem quatuor 
+      <lb ed="#P" n="80"/>continentur. Quorum primum est, revelationem 
+      <lb ed="#P" n="81"/>angelis initio factam de filio Deinaturam humanam 
+      <lb ed="#P" n="82"/>assumpturo, quem proinde jussi fuerint adorare; 
+      id<lb ed="#P" n="83" break="no"/>que bonos fecisse, malos autem facere noluisse. Satis 
+      <lb ed="#P" n="84"/>enim cohaerent haec inter se. Totum autem hoc 
+      pro<lb ed="#P" n="85" break="no"/>babile videtur effici his argumentis. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e278">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Primo, quia si homini facta fuit revelatio de 
+      <lb ed="#P" n="87"/>Christo ante peccatum, quando dixit: Hoc nunc os 
+      <lb ed="#P" n="88"/>ex ossibus meis, &amp;c. magis profecto videtur id 
+      an<lb ed="#P" n="89" break="no"/>gelis tribuendum; ut quibus propter excellentiorem 
+      <lb ed="#P" n="90"/>naturam magis conveniat divinas futurorum 
+      myste<lb ed="#P" n="91" break="no"/>riorum accipere revelationes. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e296">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Secundo, quia Joan. 8. diabolus dicitur homicida 
+      <lb ed="#P" n="93"/>fuisse ab initio, ergo de homine, ejusque tanta 
+      ex<lb ed="#P" n="94" break="no"/>cellentia, quam illi invidere posset, revelationem 
+      <lb ed="#P" n="95"/>ab initio habuit. Haec autem excellentia quae alia 
+      <lb ed="#P" n="96"/>potuit esse, quam unio hypostatica verbi divini cum 
+      <lb ed="#P" n="97"/>natura humana? nam in caeteris omnibus homo est 
+      <lb ed="#P" n="98"/>angelis longe inferior. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e317">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Tertio, sicut homini ad probandum ejus 
+      obedien<lb ed="#P" n="100" break="no"/>tiam datum fuit in paradiso praeceptum positivum: 
+      <lb ed="#P" n="101"/>ita credibile est ob eandem causam angelo quoque 
+      <lb ed="#P" n="102"/>datum fuisse hujusmodi praeceptum, hoc autem non 
+      <lb ed="#P" n="103"/>aliud convenientius &amp; ad probandam angelorum 
+      <lb ed="#P" n="104"/>obedientiam aptius ponitur, quam adoratio verbi 
+      <lb ed="#P" n="105"/>incarnandi, seu hominis Dei; unde &amp; revelationem 
+      <lb ed="#P" n="106"/>ejus fieri prius oportebat. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e339">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Quamvis autem multis non improbabile 
+      videa<lb ed="#P" n="108" break="no"/>tur, primum hoc istius opinionis membrum, nec 
+      <lb ed="#P" n="109"/>quicquam revera contineat scripturis aut ecclesiae 
+      <lb ed="#P" n="110"/>doctrinae contrarium; attamen quia nec etiam e 
+      di<lb ed="#P" n="111" break="no"/>verso in scripturis aut patrum doctrina solidum 
+      <lb ed="#P" n="112"/>fundamentum habet, idcirco qua facilitate 
+      asseri<lb ed="#P" n="113" break="no"/>tur, eadem etiam negari, &amp; rejici potest. Ad 
+      argu<lb ed="#P" n="114" break="no"/>menta vero sic respondetur. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e361">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Ad primum, revelationem de Christo futuro ob 
+      <lb ed="#P" n="116"/>id potius homini quam angelo statim ab initio fieri 
+      <lb ed="#P" n="117"/>debuisse, quia verbi incarnatio non propter angelos, 
+      <lb ed="#P" n="118"/>sed propter hominem futura erat, tametsi non 
+      im<lb ed="#P" n="119" break="no"/>probabile est, revelationem prius angelo quam 
+      <lb ed="#P" n="120"/>nominifactam, non quidem angelo viatori, sed jam 
+      <lb ed="#P" n="121"/>confirmato, ac beato; solent enim a Deo 
+      revelatio<lb ed="#P" n="122" break="no"/>nes hominibus fieri mediante angelorum ministerio, 
+      <lb ed="#P" n="123"/>quod in Isaia, Daniele, Zacharia, aliisque prophetis 
+      <lb ed="#P" n="124"/>factum scriptura testatur.
+    </p>
+            <p xml:id="bt67yj-p017638-d1e387">
+               <lb ed="#P" n="125"/>Ad secundum jam alibi dictum est, quomodo 
+      se<lb ed="#P" n="126" break="no"/>cundum patrum expositiones diabolus ab initio 
+      di<lb ed="#P" n="127" break="no"/>catur homicida fuisse; neque enim quisquam est 
+      pa<lb ed="#P" n="128" break="no"/>trum, qui hoc sic intellexerit, quasi diabolus 
+      ho<lb ed="#P" n="129" break="no"/>mini dignitatem unionis hypostaticae sibi ab initio 
+      <lb ed="#P" n="130"/>revelatam invideret. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e403">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Ad tertium satis fuit, angelos in supremo gradu 
+      <lb ed="#P" n="132"/>creaturae constitutos per hoc probari, si se Deo 
+      sub<lb ed="#P" n="133" break="no"/>jicerent, &amp; sibi propter naturae suae excellentiam 
+      <lb ed="#P" n="134"/>non inordinate placerent. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e416">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Porro secundum, quod in hac opinione 
+      contine<lb ed="#P" n="136" break="no"/>tur, est Christum revelatum angelis tanquam salutis 
+      <lb ed="#P" n="137"/>authorem fuisse propositum, iisque mandatum ut in 
+      <lb ed="#P" n="138"/>eum tanquam salutis suae authorem crederent. Hoc 
+      <lb ed="#P" n="139"/>autem intelligi volunt de Christo ut homine, quasi 
+      <lb ed="#P" n="140"/>is per merita suarum actionum, quas ut homo 
+      exer<lb ed="#P" n="141" break="no"/>cuit, fuerit angelis author salutis, sicut eum per illa 
+      <lb ed="#P" n="142"/>credimus authorem esse salutis hominum. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e439">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Verum haec sententia, quam nonnulli ut valde 
+      plau<lb ed="#P" n="144" break="no"/>sibilem amplectuntur, quod videatur amplificare 
+      vir<lb ed="#P" n="145" break="no"/>tutem meritorum Christi, revera tamen scripturis, &amp; 
+      <lb ed="#P" n="146"/>patrum doctrinae parum consonat. Nam scripturae 
+      <lb ed="#P" n="147"/>causam incarnationis, &amp; passionis filii Dei non aliam 
+      <!--0280.xml-->
+      <pb ed="#P" n="47"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nobis commendant, quam redemptionem, &amp; salutem 
+      <lb ed="#P" n="2"/>generis humani, quod totum in primo parente 
+      perie<lb ed="#P" n="3" break="no"/>rat. Et ideo juxta apostolum Hebr. 2. Christus non 
+      <lb ed="#P" n="4"/>angelos apprehendit, sed semen Abrahae, quia 
+      ange<lb ed="#P" n="5" break="no"/>li liberatore non egebant. Hinc ipsi angeli 
+      nativita<lb ed="#P" n="6" break="no"/>tem Christi pastoribus annunciantes, non dicunt, 
+      <lb ed="#P" n="7"/>quia nobis, sed quia vobis natus est hodie salvator. 
+      <lb ed="#P" n="8"/>Hinc &amp; in symbolo Constantinopolitano, propter 
+      <lb ed="#P" n="9"/>nos homines, &amp; propter nostram salutem de caelis 
+      <lb ed="#P" n="10"/>descendisse dicitur filius Dei. Quod ita studiose &amp; 
+      <lb ed="#P" n="11"/>caute positum est a patribus ad exclusionem 
+      angelo<lb ed="#P" n="12" break="no"/>rum, scilicet propter Origenistas qui daemonum 
+      fu<lb ed="#P" n="13" break="no"/>turam aliquando per Christum liberationem 
+      finge<lb ed="#P" n="14" break="no"/>bant. Esset autem minus caute positum, si non malis 
+      <lb ed="#P" n="15"/>quidem, bonis tamen angelis, &amp; proinde non solis 
+      <lb ed="#P" n="16"/>hominibus profuerunt ad salutem merita Christi. 
+      <lb ed="#P" n="17"/>Ita docet Augustinus Enchiridii cap. 61. diserte 
+      ne<lb ed="#P" n="18" break="no"/>gans pro angelis Christum mortuum esse: sic &amp; 
+      Hi<lb ed="#P" n="19" break="no"/>larius in expositione plalmi 43. Quibus consentiunt 
+      <lb ed="#P" n="20"/>Scholasticorum praecipui, S. Tho. &amp; Bonaventura, 
+      <lb ed="#P" n="21"/>cum docent futuram non fuisse Christi 
+      incarnatio<lb ed="#P" n="22" break="no"/>nem, si homo non peccasset. De qua re ad 
+      distinctio<lb ed="#P" n="23" break="no"/>nem primam libri tertii. Quanquam nec alii qui 
+      ho<lb ed="#P" n="24" break="no"/>mine etiam non peccante verbum incarnandum 
+      fuis<lb ed="#P" n="25" break="no"/>se putant, hanc ejus reddunt rationem, quod 
+      Chri<lb ed="#P" n="26" break="no"/>stus angelorum mediator ad salutem esset futurus, 
+      <lb ed="#P" n="27"/>sed aliam, uti declarandum est loco jam dicto. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e520">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Quod autem alii pro sua opinione afferunt ex 
+      <lb ed="#P" n="29"/>apostolo Coloss. 1. dicente reconciliari omnia per 
+      <lb ed="#P" n="30"/>sanguinem Christi, sive quae in terris, sive quae in caelis 
+      <lb ed="#P" n="31"/>sunt, ab eodem Augustino solvitur loco jam 
+      allega<lb ed="#P" n="32" break="no"/>to. Intelligit enim reconciliari caelestia terrenis, dum 
+      <lb ed="#P" n="33"/>humanum genus solutis per Christum inimicitiis, 
+      <lb ed="#P" n="34"/>quas inter homines &amp; sanctos angelos peccata 
+      fece<lb ed="#P" n="35" break="no"/>rant, quodammodo redit in gratiam; vel dum etiam 
+      <lb ed="#P" n="36"/>ex ipsa hominum redemptione, ruinae angclicae 
+      de<lb ed="#P" n="37" break="no"/>trimenta reparantur. Quae etiam Chrysostomi 
+      inter<lb ed="#P" n="38" break="no"/>pretatio est in eum apostoli locum. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e549">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Neque vero dictae opinioni patrocinatur 
+      Bernar<lb ed="#P" n="40" break="no"/>dus (ut quidam falso arbitrantur) cum dicit n 
+      ser<lb ed="#P" n="41" break="no"/>mone 22. super Cantica, Christum non tantum 
+      no<lb ed="#P" n="42" break="no"/>bis, verum etiam angelis factum fuisse sapientiam, 
+      <lb ed="#P" n="43"/>justitiam, sanctificationem, &amp; redemptionem. 
+      Res<lb ed="#P" n="44" break="no"/>pondemus enim Bernardum ejusmodi verbis, ut 
+      pa<lb ed="#P" n="45" break="no"/>tet locum attentius consideranti, non aliud velle 
+      <lb ed="#P" n="46"/>quam Christum, in quantum est verbum patris, id 
+      <lb ed="#P" n="47"/>est, secundum naturam divinam anoelis fuisse salutis 
+      <lb ed="#P" n="48"/>authorem; qui &amp; perseverantiam illis dedit ne 
+      cade<lb ed="#P" n="49" break="no"/>rent, (hoc enim sensu, licet sermone improprio 
+      di<lb ed="#P" n="50" break="no"/>cit, &amp; explicat Christum sanctos angelos a ruina 
+      re<lb ed="#P" n="51" break="no"/>demisse) &amp; perseverantiae praemium contulit 
+      aeter<lb ed="#P" n="52" break="no"/>nam beatitudinem. Quod idem verbum postea caro 
+      <lb ed="#P" n="53"/>factum, nobis haec eadem promeruit, ac contulit per 
+      <lb ed="#P" n="54"/>suam passionem. Non autem haec sensisse Bernardum 
+      <lb ed="#P" n="55"/>quod isti volunt, patet ex sermone ejus primo de 
+      ad<lb ed="#P" n="56" break="no"/>ventu Domini, ubi causam adventus &amp; 
+      incarnatio<lb ed="#P" n="57" break="no"/>nis Christi non angelorum sed hominum salutem 
+      es<lb ed="#P" n="58" break="no"/>se confirmat; &amp; ex homilia tertia surper missus est, ubi 
+      <lb ed="#P" n="59"/>dicit parvulum natum esse nobis, non angelis, qui 
+      <lb ed="#P" n="60"/>cum magnum haberent, parvulum non requirebant. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e601">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Verum de hac re plura &amp; ex professo libro tertio 
+      <lb ed="#P" n="62"/>ad distinctionem primam, ubi causa incarnationis 
+      <lb ed="#P" n="63"/>Christi quaeritur; &amp; ad distinctionem 18. &amp; 19. ubi 
+      <lb ed="#P" n="64"/>de merito Christi &amp; redemptione per eum facta 
+      dis<lb ed="#P" n="65" break="no"/>putatur. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e617">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Tertium opinionis membrum est, principem 
+      an<lb ed="#P" n="67" break="no"/>gelum sibi vendicare, &amp; rapere voluisse divinitatem 
+      <lb ed="#P" n="68"/>quam habiturus erat homo. Hoc autem satis 
+      proba<lb ed="#P" n="69" break="no"/>biliter dicitur praesupposita revelatione supradicta. 
+      <lb ed="#P" n="70"/>Si enim per revelationem cognovit hominem Deum 
+      <lb ed="#P" n="71"/>futurum, credibile est quod inferiori creaturae 
+      tan<lb ed="#P" n="72" break="no"/>tam dignitatem inviderit; ita tamen ut invidiae 
+      cau<lb ed="#P" n="73" break="no"/>sa fuerit superbia, non contra, sicut jam ante 
+      di<lb ed="#P" n="74" break="no"/>ctum est.
+    </p>
+            <p xml:id="bt67yj-p017638-d1e641">
+      <!--0280.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Quartum ac postremum est, angelum rapere 
+      vo<lb ed="#P" n="76" break="no"/>luisse divinitatem appetendo sibi hypostaticam 
+      <lb ed="#P" n="77"/>unionem verbi quam videbat homini praeparatam, 
+      <lb ed="#P" n="78"/>scilicet ut non homo sed angelus, nec quicumque 
+      <lb ed="#P" n="79"/>angelus, sed ipse eorum princeps allumeretur a 
+      ver<lb ed="#P" n="80" break="no"/>bo Dei in unitatem personae, sicque ipse esset verus 
+      <lb ed="#P" n="81"/>Deus. Ad hoc rursum allegatur Bernardus sermone 
+      <lb ed="#P" n="82"/>6. de adventu; &amp; sermone 2. feriae 3. paschae; &amp; 
+      ser<lb ed="#P" n="83" break="no"/>mone 17. super Cantica. At iis locis significat 
+      qui<lb ed="#P" n="84" break="no"/>dem Bernardus diabolum Christo invidere 
+      divinita<lb ed="#P" n="85" break="no"/>tem, quod est verissimum, &amp; id facit usque in hunc 
+      <lb ed="#P" n="86"/>diem, sed non dicit hoc ejus primum peccatum fuisse 
+      <lb ed="#P" n="87"/>quo lapsus est, nec ulla ibi mentio hypostaticae 
+      unio<lb ed="#P" n="88" break="no"/>nis ab angelo concupitae. 
+    </p>
+            <p xml:id="bt67yj-p017638-d1e679">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Destruitur autem haec opinio, quia si sibi ipsi 
+      prin<lb ed="#P" n="90" break="no"/>ceps angelus eam unionem appetivit, ergo 
+      conse<lb ed="#P" n="91" break="no"/>quenter appetivit se, id est, suam personam non 
+      <lb ed="#P" n="92"/>esse; hoc enim ad illam unionem consequens est. 
+      <lb ed="#P" n="93"/>Nam cum angelus jam in propria hypostasi 
+      subsiste<lb ed="#P" n="94" break="no"/>ret, non poterat assumi a verbo in unitatem 
+      perso<lb ed="#P" n="95" break="no"/>nae ejus, nisi propria ipsius angeli persona esse 
+      desi<lb ed="#P" n="96" break="no"/>neret. Unde probatur hunc unionis hypostaticae 
+      ver<lb ed="#P" n="97" break="no"/>bi appetitum non potuisse esse primum angeli 
+      pec<lb ed="#P" n="98" break="no"/>catum; nisi forte dicatur ita appetivisse, quomodo 
+      <lb ed="#P" n="99"/>secundum Scotum supra diximus eum appetivisse 
+      <lb ed="#P" n="100"/>aequalitatem Dei. Sed hic intellectus est praeter 
+      men<lb ed="#P" n="101" break="no"/>tem eorum qui hanc opinionem tradunt. Si vero 
+      <lb ed="#P" n="102"/>dicatur hic appetitus non primum angeli peccatum 
+      <lb ed="#P" n="103"/>fuisse, sed ex alio priori consecutum, non erit 
+      in<lb ed="#P" n="104" break="no"/>conveniens hanc illi tribuere coecitatem mentis ex 
+      <lb ed="#P" n="105"/>praevio peccato contractam: ut illam unionem 
+      sal<lb ed="#P" n="106" break="no"/>va sua hypostasi sibi tanquam possibilem 
+      concu<lb ed="#P" n="107" break="no"/>piverit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

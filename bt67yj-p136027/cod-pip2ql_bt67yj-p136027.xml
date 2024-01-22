@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="351"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p136027"><!-- l2d30c1" -->
+            <head xml:id="bt67yj-p136027-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p136027-Hd1e103" type="question-title">Omnem hominem nasci peccato originali 
+      obnoxium</head>
+            <p xml:id="bt67yj-p136027-d1e106">
+               <lb ed="#P" n="38"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="39"/>TRICESIMAM. 
+      <lb ed="#P" n="40"/>§. 1. Omnem hominem nasci peccato originali 
+      <lb ed="#P" n="41"/>obnoxium.
+    </p>
+            <p xml:id="bt67yj-p136027-d1e117">
+               <lb ed="#P" n="56"/>
+               <!-- line coord order error -->
+               <pc type="indent"/> OCTRINAM de peccato originali vocat
+      <lb ed="#P" n="42"/>Augustinus fundamentum Christianae 
+      reli<lb ed="#P" n="43" break="no"/>gionis epist. 90. &amp; 94. epist. 157. ad 
+      Opta<lb ed="#P" n="44" break="no"/>tum. Idemque lib. de peccato originali cap. 24. 
+      te<lb ed="#P" n="45" break="no"/>statur, in causa duorum hominum, Adae 
+      videli<lb ed="#P" n="46" break="no"/>cet &amp; Christi, quorum per alterum venundati 
+      su<lb ed="#P" n="47" break="no"/>mus sub peccato, per alterum redimimur a 
+      pecca<lb ed="#P" n="48" break="no"/>tis, proprie fidem Christianam consistere. 
+      Caete<lb ed="#P" n="49" break="no"/>rum ejusdem doctrinae difficultatem idem doctor 
+      <lb ed="#P" n="50"/>in libro de moribus Ecclesiae Catholicae cap. 22. 
+      <lb ed="#P" n="51"/>his fere verbis indicavit. Homini inter omnia quae 
+      <lb ed="#P" n="52"/>possidet, molestissimum &amp; gravissimum est 
+      pro<lb ed="#P" n="53" break="no"/>prium corpus, propter antiquum peccatum; quo 
+      <lb ed="#P" n="54"/>nihil est praedicandum notius, nihil ad 
+      intelligen<lb ed="#P" n="55" break="no"/>dum secretius. De hoc igitur peccato ante 
+      om<lb ed="#P" n="57" break="no"/>
+               <!--line coord order error -->nia certa fide tenendum est, quod sit, quodque 
+      <lb ed="#P" n="58"/>omnis homo qui ordinaria generationis lege 
+      con<lb ed="#P" n="59" break="no"/>cipitur, ei nascatur obnoxius. Quae doctrina adeo 
+      <lb ed="#P" n="60"/>certa est, ut fides incarnationis, &amp; gratiae Christi 
+      <!--0584.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="61"/>huic potissimum fundamento nitatur. Ideo enim 
+    </p>
+            <p xml:id="bt67yj-p136027-d1e174">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> filius Dei carnem assumsit humanam &amp; in ea pati 
+      <lb ed="#P" n="63"/>voluit, ut humanum genus a servitute peccati, in 
+      <lb ed="#P" n="64"/>qua ex praevaricatione primi parentis detinebatur, 
+      <lb ed="#P" n="65"/>liberaret. Unde factum, ut jam olim Ecclesia 
+      eos<lb ed="#P" n="66" break="no"/>dem experta sit utriusque dogmatis, tam de gratia 
+      <lb ed="#P" n="67"/>Christi, quam peccato originali, oppugnatores, 
+      vi<lb ed="#P" n="68" break="no"/>delicet Pelagianos. Qui dum integritatem humanae 
+      <lb ed="#P" n="69"/>naturae student defendere, gratiam quoque Christi 
+      <lb ed="#P" n="70"/>conati sunt evacuare. 
+    </p>
+            <p xml:id="bt67yj-p136027-d1e199">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Porro, prima hujus dogmatis probatio fit ex 
+      Scri<lb ed="#P" n="72" break="no"/>ptura sicra, in qua illud evidentissimum est Apostoli 
+      <lb ed="#P" n="73"/>Pauli testimonium Rom. 5. Per unum hominem 
+      pec<lb ed="#P" n="74" break="no"/>catum in hunc mundum intravit, &amp; per peccatum mors; 
+      <lb ed="#P" n="75"/>&amp; ita in omnes homines mors pertranstit, in quo omnes 
+      <lb ed="#P" n="76"/>peccaverunt. Et postea: Sicut enim per mobedientiam 
+      <lb ed="#P" n="77"/>unius hominis peccatores constituti sunt multi; ita &amp; per 
+      <lb ed="#P" n="78"/>unius obeditionem, justi constituuntur multi. Quas 
+      Apo<lb ed="#P" n="79" break="no"/>stoli sententias de peccati transitu per 
+      propagatio<lb ed="#P" n="80" break="no"/>nem, non ut Pelagiani, per imitationem intelligere 
+      <lb ed="#P" n="81"/>oportere, multis modis ostenditur. Primum; quia 
+      <lb ed="#P" n="82"/>sic peccatum per Adam, sicut justitia per Christum, 
+      <lb ed="#P" n="83"/>quemadmodum eodem loco docet Apostolus: Atqui 
+      <lb ed="#P" n="84"/>Christus non solo exemplo, sed vel maxime 
+      occul<lb ed="#P" n="85" break="no"/>ta inspiratione gratiae justos facit. Quare &amp; Adam 
+      <lb ed="#P" n="86"/>occulta tabificatione naturae, ut Augustinus 
+      loqui<lb ed="#P" n="87" break="no"/>tur, peccatores constituit. Deinde imitatio proprie 
+      <lb ed="#P" n="88"/>non est cujuscunque rei similis (alioqui enim &amp; 
+      A<lb ed="#P" n="89" break="no"/>dam vicissim posteros suos imitatus diceretur; &amp; 
+      <lb ed="#P" n="90"/>quilibet peccator quemlibet alterum, sive aequalem 
+      <lb ed="#P" n="91"/>tempore, sive priorem; tametsi prorsus incognitum:) 
+      <lb ed="#P" n="92"/>sed ejus duntaxat rei quam quis cognovit, &amp; suo 
+      <lb ed="#P" n="93"/>facto exprimendam sibi &amp; effingendam proposuit. 
+      <lb ed="#P" n="94"/>Quare cum ex posteritate Adae sint fuerintque 
+      plu<lb ed="#P" n="95" break="no"/>rimi quibus de primo homine, ejusque 
+      transgressio<lb ed="#P" n="96" break="no"/>ne nihil auditum nihilque omnino cognitum sit; 
+      <lb ed="#P" n="97"/>consequens foret in eos, etsi gravissimos peccatores, 
+      <lb ed="#P" n="98"/>peccatum per primum hominem non transiisse; 
+      con<lb ed="#P" n="99" break="no"/>tra authoritatem universalis sententiae Apostolicae. 
+    </p>
+            <p xml:id="bt67yj-p136027-d1e267">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Nec tamen negandum, quin generaliori quadam 
+      <lb ed="#P" n="101"/>significatione quis dicatur imitari eos, qui ipsum in 
+      <lb ed="#P" n="102"/>similibus peccatis antecesserunt, etsi incogniti. 
+      Un<lb ed="#P" n="103" break="no"/>de dictum est de diabolo Sap. 2. Imitantur autem 
+      il<lb ed="#P" n="104" break="no"/>lum, qui sunt ex parte illius. Verum si de hoc 
+      imita<lb ed="#P" n="105" break="no"/>tionis modo loqueretur Apostolus, potius diceret, per 
+      <lb ed="#P" n="106"/>diabolum peccatum intrasse in mundum, quam per 
+      <lb ed="#P" n="107"/>unum hominem; propterea quod diaboli peccatum 
+      <lb ed="#P" n="108"/>fuerit omnium primum, quemadmodum recte contra 
+      <lb ed="#P" n="109"/>Pelagianorum commentarium ratiocinatur 
+      Augusti<lb ed="#P" n="110" break="no"/>nus libro 1. de peccatorum meritis cap. 8. 9. 10. &amp; 
+      <lb ed="#P" n="111"/>lib. 4. contra duas epist. Pelagianorum cap. 4. &amp; de 
+      <lb ed="#P" n="112"/>verbis Apostoli sermone 14. &amp; epist. 89. Et ne de 
+      <lb ed="#P" n="113"/>vero sensu verborum Apostoli relinqueretur 
+      dubi<lb ed="#P" n="114" break="no"/>tandi locus, definitum est in Concilio Milevitano 
+      ca<lb ed="#P" n="115" break="no"/>none 2. &amp; repetitum eisdem verbis in synodo Trid. 
+      <lb ed="#P" n="116"/>sess. 5. cap. 4. non aliter intelligenda esse Apostoli 
+      <lb ed="#P" n="117"/>verba, quam de propagatione peccati ex uno in 
+      om<lb ed="#P" n="118" break="no"/>nes; quo sensu etiam Ecclesia Catholica eadem 
+      ver<lb ed="#P" n="119" break="no"/>ba semper intellexerit. Quare commentarii seu 
+      recen<lb ed="#P" n="120" break="no"/>tiorum seu veterum qui diversam adfuerunt 
+      inter<lb ed="#P" n="121" break="no"/>pretationem, inter quos est is qui falso D. 
+      Hierony<lb ed="#P" n="122" break="no"/>mo ascribitur, revera autem, ut multis conjecturis 
+      <lb ed="#P" n="123"/>ostendi potest, ipsius est Pelagii, velut a Catholico 
+      <lb ed="#P" n="124"/>sensu alieni, rejiciendi sunt. 
+    </p>
+            <p xml:id="bt67yj-p136027-d1e326">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Praeter hunc locum sunt &amp; alia tam veteris quam 
+      <lb ed="#P" n="126"/>novae legis ad hanc doctrinam testimonia, ut Pl. 50. 
+      <lb ed="#P" n="127"/>Ecce enim in iniquitatibus conceptus sum, &amp; in peccatis 
+      <lb ed="#P" n="128"/>concepit me, &amp;c. Et Psal. 57. Alienati sunt peccatores 
+      <lb ed="#P" n="129"/>a vulva, erraverunt ab utero, Job 14. Quis potest facere 
+      <lb ed="#P" n="130"/>mundum de immundo conceptum semine: Et plenius 
+      <lb ed="#P" n="131"/>juxta versionem 70. Nemo mundus a sorde, ne infans 
+      <lb ed="#P" n="132"/>quidem, cujus est unius diei vita super terram. Qui 
+      lo<lb ed="#P" n="133" break="no"/>cus a veteribus frequentissime citatur. Item Gen. 8. 
+      <lb ed="#P" n="134"/>Sensus &amp; cogitatio humani cordis in malum prona 
+      <!--0585.xml-->
+      <pb ed="#P" n="352"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sunt ab adolescentia sua: vel, ut Chaldaeus Interpres P 
+      <lb ed="#P" n="2"/>vertit, ab infantia sua. Hoseae 6. Ipsi autem sicut Adam 
+      <lb ed="#P" n="3"/>transgressi sunt pactum meum, ibi praevaricati sunt in 
+      <lb ed="#P" n="4"/>me. Et Sap. 12. naturalis dicitur quorundam malitia, 
+      <lb ed="#P" n="5"/>&amp; semen maledictum ab initio. Quod ad universum 
+      <lb ed="#P" n="6"/>genus humanum extendit August. lib. 2. de nuptiis 
+      <lb ed="#P" n="7"/>&amp; concupiscentia cap. 8. Rursus Apostolus 2. Cor. 5. 
+      <lb ed="#P" n="8"/>Si unus pro omnibus mortuus est; ergo omnes mortui sunt. 
+      <lb ed="#P" n="9"/>Et Eph. 2. Eramus natura filii irae, sicut &amp; caeteri; id 
+      <lb ed="#P" n="10"/>est, ab ipso nativitatis ortu peccatores, atque 
+      obno<lb ed="#P" n="11" break="no"/>xii irae divinae, sicut omnes alii. 
+    </p>
+            <p xml:id="bt67yj-p136027-d1e383">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Ut autem ad Patrum testimonia descendamus, 
+      Au<lb ed="#P" n="13" break="no"/>gustinus sicut praecipuus fuit contra Pelagianos 
+      gra<lb ed="#P" n="14" break="no"/>tiae Christi defensor; ita &amp; hujus dogmatis de 
+      pec<lb ed="#P" n="15" break="no"/>cato soriginali contra eosdem gravissimus assertor, 
+      <lb ed="#P" n="16"/>quemadmodum plurima ejus volumina contra eam 
+      <lb ed="#P" n="17"/>haeresim elucubrata testantur. Nec dubium quin &amp; 
+      <lb ed="#P" n="18"/>ipsius tempore, &amp; post eum totius Ecclesiae 
+      consen<lb ed="#P" n="19" break="no"/>tiens cum eo fuerit doctrina, ut scripta Prosperi, 
+      <lb ed="#P" n="20"/>Fulgentii, Leonis, Gregorii, venerabilis Bedae &amp; 
+      <lb ed="#P" n="21"/>aliorum declarant. Inter quos Fulgentius in libro 
+      <lb ed="#P" n="22"/>de fide ad Petrum cap. 26. de regulis fidei, quas 
+      <lb ed="#P" n="23"/>Magister litera F. Ecclesiastica dogmata vocat, &amp; 
+      <lb ed="#P" n="24"/>hanc annumerat: Firmissime crede &amp; nullatenus 
+      du<lb ed="#P" n="25" break="no"/>bites, omnem hominem qui per concubitum viri &amp; 
+      mu<lb ed="#P" n="26" break="no"/>lieris concipitur, cum originali peccato nasci, impietat. 
+      <lb ed="#P" n="27"/>subditum, mortique subjectum, &amp; ob hoc natura trae 
+      <lb ed="#P" n="28"/>filium. 
+    </p>
+            <p xml:id="bt67yj-p136027-d1e425">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Eandem autem totius Ecclesiae fidem, etiam ante 
+      <lb ed="#P" n="30"/>Augustini tempora fuisse, docet ipse Augustinus 
+      pro<lb ed="#P" n="31" break="no"/>latis multorum praecedentium tractorum in eam rem 
+      <lb ed="#P" n="32"/>sententiis, toto fere libro 1. &amp; 2. contra Julianum, 
+      <lb ed="#P" n="33"/>quorum hi sunt praecipui, Irenaeus, Cyprianus, 
+      Hila<lb ed="#P" n="34" break="no"/>rius, Gregorius Nazianz. Bisilius, Ambrosius, Joan. 
+      <lb ed="#P" n="35"/>Chrys. &amp; Hicron. Quorum authoritatem etiam 
+      uni<lb ed="#P" n="36" break="no"/>versali Synodo comparat libro 2. capite ult. his verbis: 
+      <lb ed="#P" n="37"/>Si Episcopalis synodus ex toto orbe congregaretur, 
+      mi<lb ed="#P" n="38" break="no"/>rum si tales possent illic facile tot sedere; quia nec isti 
+      <lb ed="#P" n="39"/>uno tempore fuerunt. In similibus testimoniis 
+      recen<lb ed="#P" n="40" break="no"/>sendis occupatur Augustinus &amp; alibi, ut libro de 
+      pec<lb ed="#P" n="41" break="no"/>cato originali cap. 40. &amp; lib. 4. contra 2. epist. 
+      Pela<lb ed="#P" n="42" break="no"/>gianorum cap. 8. &amp; 11. 
+    </p>
+            <p xml:id="bt67yj-p136027-d1e460">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Sed his omnibus etiam Apostolicae sedis, &amp; 
+      Con<lb ed="#P" n="44" break="no"/>ciliorum tam particularium quam universalium 
+      au<lb ed="#P" n="45" break="no"/>thoritas accessit. Ita enim Innocentius primus in 
+      epi<lb ed="#P" n="46" break="no"/>stola ad Carthaginense Concilium, &amp; altera ad 
+      Mi<lb ed="#P" n="47" break="no"/>levitanum docet, &amp; post eum Zozymus in epistola 
+      <lb ed="#P" n="48"/>ad diversos orbis Episcopos, de qua vide Augustin. 
+      <lb ed="#P" n="49"/>epist. 157. ad Optatum. Concilia autem sunt 
+      Palae<lb ed="#P" n="50" break="no"/>stinum, in quo damnatus Pelagius; &amp; 
+      Carthaginen<lb ed="#P" n="51" break="no"/>se, cui interfuit Augustinus; &amp; Milevitanum can. 2. 
+      <lb ed="#P" n="52"/>&amp; Arausicanum can. 1. &amp; 2. Item oecumenicum 
+      Flo<lb ed="#P" n="53" break="no"/>rentinum in doctrina concorditer recepta a Graecis 
+      <lb ed="#P" n="54"/>&amp; Latinis ac postremo Trident. sess. 5. can. 2. 3. &amp; 
+      <lb ed="#P" n="55"/>4. Quorum canonum verba fere ex antiquis 
+      Con<lb ed="#P" n="56" break="no"/>ciliis Carthaginensi, Milevitano &amp; Arausicano 
+      de<lb ed="#P" n="57" break="no"/>sumpta sunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

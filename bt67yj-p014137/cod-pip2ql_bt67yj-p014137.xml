@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="37"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p014137"><!-- l2d5c1" -->
+            <head xml:id="bt67yj-p014137-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p014137-Hd1e103" type="question-title">Angelos non potuisse sine gratia converti 
+      ad Deum</head>
+            <p xml:id="bt67yj-p014137-d1e106">
+      <!--0270.xml-->
+               <pb ed="#P" n="37"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>INDISTINCTIONEM 
+      <lb ed="#P" n="2"/>QUINTAM. 
+      <lb ed="#P" n="3"/>§. 1. Angelos non potuisse sine gratia converti 
+      <lb ed="#P" n="4"/>ad Deum.
+    </p>
+            <p xml:id="bt67yj-p014137-d1e124">
+               <lb ed="#P" n="5"/>OISSERENS hac distinctione Magister de 
+      <lb ed="#P" n="6"/>conversione &amp; aversione angelorum, 
+      prae<lb ed="#P" n="7" break="no"/>supponit id quod in superioribus jam 
+      docue<lb ed="#P" n="8" break="no"/>rat, scilicet angelos fuisse creatos informes, id est, 
+      <lb ed="#P" n="9"/>gratia vacuos, atque hujus suae opinionis fundamen 
+      <lb ed="#P" n="10"/>tum hic indicat §. B. cum dicit angelos non esse 
+      crea<lb ed="#P" n="11" break="no"/>tos volentes averti vel converti; sed habiles ad 
+      volen<lb ed="#P" n="12" break="no"/>dum hoc vel illud, nempe per liberum arbitrium in 
+      <lb ed="#P" n="13"/>creatione acceptum, ut ibidem declarat; quam 
+      e<lb ed="#P" n="14" break="no"/>tiam rationem ejusdem suae opinionis Hugo 
+      Victori<lb ed="#P" n="15" break="no"/>nus reddit, dum lib. I. de Sacramentis c. 19. &amp; 20. 
+      <lb ed="#P" n="16"/>docet angelos non esse factos volentes, ideóque 
+      sta<lb ed="#P" n="17" break="no"/>tim initio nihil meruisse. Non potuisse autem eos ab 
+      <lb ed="#P" n="18"/>initio esse volentes probat, quia, inquit, velle &amp; 
+      fa<lb ed="#P" n="19" break="no"/>cere motum habet, &amp; successum, quod in principio 
+      <lb ed="#P" n="20"/>esse non potest, unde &amp; cap. 22. dicit liberum 
+      arbi<lb ed="#P" n="21" break="no"/>trium non ad praesens tempus referri, sed ad futurum. 
+      <lb ed="#P" n="22"/>Verum haec utriusque probatio invalida est duplici 
+      <lb ed="#P" n="23"/>ratione; nam etsi volendi actus ab initio esse non 
+      <lb ed="#P" n="24"/>posset in angelis, nihil tamen prohiberet quo minus 
+      <lb ed="#P" n="25"/>possent in habituali gratia creari, per quam etsi non 
+      <lb ed="#P" n="26"/>mererentur (quia proprie solis actibus meremur) 
+      <lb ed="#P" n="27"/>digni tamen essent vita aeterna, sicut fatemur de 
+      <lb ed="#P" n="28"/>infantibus baptizatis. Deinde quia quod pro 
+      funda<lb ed="#P" n="29" break="no"/>mento ponitur, falsum est. Nam ut ad distinctionem 
+      <lb ed="#P" n="30"/>tertiam ostendimus, sicut intelligendi sic &amp; volendi 
+      <lb ed="#P" n="31"/>actus, ac proinde &amp; meritum, in primo instanti esse 
+      <lb ed="#P" n="32"/>potest: Neque semper necesse est ut actum liberum 
+      <lb ed="#P" n="33"/>deliberatio praecedat, neque omnino hoc habet 
+      li<lb ed="#P" n="34" break="no"/>beri arbitrii ratio ut futurum tempus respiciat, 
+      <lb ed="#P" n="35"/>quemadmodum infra docebitur ad distinctionem 
+      <lb ed="#P" n="36"/>24. &amp; hic uno argumento breviter ostendo, quia 
+      li<lb ed="#P" n="37" break="no"/>berum arbitrium propriissime est in Deo, qui non 
+      <lb ed="#P" n="38"/>deliberat, &amp; cui nihil est futurum. Maneat ergo 
+      <lb ed="#P" n="39"/>quod alibi probatum est, omnes angelos fuisse in 
+      <lb ed="#P" n="40"/>gratia, &amp; primo instanti meruisse. 
+    </p>
+            <p xml:id="bt67yj-p014137-d1e205">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Quo posito neque conversionem angelorum, 
+      ne<lb ed="#P" n="42" break="no"/>que aversionem sic accipimus, quomodo Magister 
+      <lb ed="#P" n="43"/>intellexit, scilicet conversionem qua ex statu 
+      supra<lb ed="#P" n="44" break="no"/>dictae informitatis in qua creati erant, quidam 
+      ap<lb ed="#P" n="45" break="no"/>posita sibi gratia converterint se ad Deum, &amp; 
+      aver<lb ed="#P" n="46" break="no"/>sionem, qua ex eodem medio statu alii per peccatum 
+      <lb ed="#P" n="47"/>aversi sint a Deo, factique sint Deo contrarii; sed 
+      <lb ed="#P" n="48"/>conversionem intelligimus, qua in ipsa creatione per 
+      <lb ed="#P" n="49"/>gratiam simul cum natura inditam coeperunt omnes 
+      <lb ed="#P" n="50"/>dilectione tendere in Deum tanquam bonum 
+      beati<lb ed="#P" n="51" break="no"/>ficum, unde &amp; conversio vocatur, non quod vel 
+      ma<lb ed="#P" n="52" break="no"/>lus, vel medius status praecesserit, a quo 
+      converteren<lb ed="#P" n="53" break="no"/>tur, sed quia motus erat animi tendentis in Deum, 
+      <lb ed="#P" n="54"/>cujusmodi motum conversionem vocare solemus, 
+      <lb ed="#P" n="55"/>etiamsi animus prius non fuerit aversus aut omnino 
+      <lb ed="#P" n="56"/>non fuerit: Aversionem vero qua quidam a bono 
+      <lb ed="#P" n="57"/>quod diligebant propria voluntate fuerunt aversi, 
+      <lb ed="#P" n="58"/>juxta quam declarationem conversio fuit omnibus 
+      <lb ed="#P" n="59"/>angelis communis, tametsi non omnes in eodem 
+      vo<lb ed="#P" n="60" break="no"/>luntatis motu perstiterunt. Quod si vero 
+      conversio<lb ed="#P" n="61" break="no"/>nem intelligas qua tenditur in Deum per 
+      dilectio<lb ed="#P" n="62" break="no"/>nem consummatam, ea solis electis angelis propria 
+      <lb ed="#P" n="63"/>est, &amp; secuta fuit malorum aversionem, fuitque in 
+      <lb ed="#P" n="64"/>termino non in via, ut ex iis patet quae de 
+      instanti<lb ed="#P" n="65" break="no"/>bus angelorum ad tertiam distinctionem dicta sunt: 
+      <lb ed="#P" n="66"/>Quocumque autem modo conversionem accipias, 
+      <lb ed="#P" n="67"/>ad eam necessarium fuit auxilium gratiae Dei, quod 
+      <lb ed="#P" n="68"/>&amp; Magister in textu, &amp; S. Thomas 1. q. 62. art. 2. ad 
+      <lb ed="#P" n="69"/>3. plenius explicat his verbis: Quilibet, inquit, mo¬ 
+      <!--0270.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>tus voluntatis in Deum, potest dici conversio in ipsum, 
+      <lb ed="#P" n="71"/>&amp; ideo triplex est conversio in Deum: Una quidem 
+      <lb ed="#P" n="72"/>per dilectionem perfectam, quae est creaturae jam Deo 
+      <lb ed="#P" n="73"/>fruentis, &amp; ad hanc conversionem requiritur gratia 
+      <lb ed="#P" n="74"/>consummata. Alia conversio est quae est meritum 
+      bea<lb ed="#P" n="75" break="no"/>titudinis, &amp; ad hanc requiritur habitualis gratia 
+      <lb ed="#P" n="76"/>quae est merendi principium. Tertia condersio est per 
+      <lb ed="#P" n="77"/>quam aliquis praeparat se ad gratiam habendam, 
+      <lb ed="#P" n="78"/>&amp; ad hanc non exigitur aliqua habitualis gratia, 
+      <lb ed="#P" n="79"/>sed operatio Dei ad se animam convertentis, 
+      secun<lb ed="#P" n="80" break="no"/>dum illud Threnorum ultim. Converte nos Domine 
+      <lb ed="#P" n="81"/>ad te, &amp; convertemur. Haec ille, videlicet tacite 
+      <lb ed="#P" n="82"/>retractans quod minus recte dixerat in 2. distinct. 
+      <lb ed="#P" n="83"/>Cum ergo generaliter docetur gratiam ad 
+      conver<lb ed="#P" n="84" break="no"/>sionem in Deum esse necessariam, nomine gratiae 
+      <lb ed="#P" n="85"/>intelligendum est donum quoddam &amp; auxilium Dei 
+      <lb ed="#P" n="86"/>supernaturale quo mens elevatur ad bonum illud 
+      <lb ed="#P" n="87"/>supereminens, sive sit habituale donum, sive quid 
+      <lb ed="#P" n="88"/>aliud, quemadmodum eodem articulo in corpore 
+      <lb ed="#P" n="89"/>S. Thomas satis indicat: Hujusmodi autem donum 
+      <lb ed="#P" n="90"/>fuisse angelis ad conversionem necessarium adeo 
+      <lb ed="#P" n="91"/>certa doctrina est, ut August. lib. 12. de civitate cap. 
+      <lb ed="#P" n="92"/>9. tanquam absurdissimum rejiciat si quis dicat 
+      an<lb ed="#P" n="93" break="no"/>gelum propria voluntate se fecisse meliorem quam a 
+      <lb ed="#P" n="94"/>Deo factus sit. Itaque sive bonam voluntatem, qua 
+      <lb ed="#P" n="95"/>in Deum movebatur, habuerit simul cum natura, 
+      <lb ed="#P" n="96"/>sive illa postea ei accesserit; plane contendit S. 
+      Au<lb ed="#P" n="97" break="no"/>gustinus eam nisi operante adjutorio creatoris 
+      ange<lb ed="#P" n="98" break="no"/>lum habere non potuisse. Quae doctrina in scripturis 
+      <lb ed="#P" n="99"/>fundatissima est, utpote Deo authori omne bonum 
+      <lb ed="#P" n="100"/>intellectualis creaturae passim ascribentibus, ut 
+      Ja<lb ed="#P" n="101" break="no"/>cob. 1. Rom. 11. 1. Corinth. 4. &amp; 12. &amp;c. Quod 
+      qui<lb ed="#P" n="102" break="no"/>dem bonum si sit supernaturale, ipsum quoque 
+      auxi<lb ed="#P" n="103" break="no"/>lium Dei per quod tale bonum confertur, 
+      conse<lb ed="#P" n="104" break="no"/>quenter supernaturale esse intelligitur; quia vires 
+      <lb ed="#P" n="105"/>naturae ultra naturam se non extendunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

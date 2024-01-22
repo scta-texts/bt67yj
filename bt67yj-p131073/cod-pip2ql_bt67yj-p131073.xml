@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 45</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 45</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="338"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p131073"><!-- l2d26c45" -->
+            <head xml:id="bt67yj-p131073-Hd1e101">Capitulum 45</head>
+            <head xml:id="bt67yj-p131073-Hd1e103" type="question-title">An possit aliqua tentatio superari sine 
+      gratia Dei?</head>
+            <!-- 44 stated but different content so actually 45 -->
+            <p xml:id="bt67yj-p131073-d1e108">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> §. <sic>44.</sic> An possit aliqua tentatio superari sine 
+      <lb ed="#P" n="51"/>gratia Dei? 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e119">
+               <lb ed="#P" n="52"/>AGendum nunc de ea parte perseverantiae, 
+      <lb ed="#P" n="53"/>quam consistere diximus in superandis 
+      tenta<lb ed="#P" n="54" break="no"/>tionibus, quibus homo justus a cursu bonorum 
+      ope<lb ed="#P" n="55" break="no"/>rum, atque a via justitiae retrahitur. Hoc enim in 
+      <lb ed="#P" n="56"/>perseverantia praecipuum est, tentationibus non 
+      suc<lb ed="#P" n="57" break="no"/>cumbere, adeo ut dixerit Prosper l. 1. de vocatione 
+      <lb ed="#P" n="58"/>gentium cap. 24. Quid aliud est perseverare, quam 
+      <lb ed="#P" n="59"/>tentatione non vinci? Quod ideo recte dicitur; quia 
+      <lb ed="#P" n="60"/>qui non vincitur tentatione, multo minus deficiet 
+      <lb ed="#P" n="61"/>non tentatus. Caeterum ut intelligatur hanc 
+      perse<lb ed="#P" n="62" break="no"/>verantiae partem donum Dei esse, generaliter 
+      quae<lb ed="#P" n="63" break="no"/>rendum an possit ulla peccati tentatio superari ab 
+      <lb ed="#P" n="64"/>homine sine auxilio gratiae Dei¬ 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e151">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Cui quaestioni priusquam respondeamus, 
+      expli<lb ed="#P" n="66" break="no"/>candum breviter quibus modis intelligi possit, 
+      ten<lb ed="#P" n="67" break="no"/>tationem aliquam vinci ab homine. Unus modus 
+      <lb ed="#P" n="68"/>est, dum quis tanquam clavuum clavo pellens, ut ait 
+      <lb ed="#P" n="69"/>Hicron. ep. 4. ad Rusticum, unicupiditati resistit 
+      vi<lb ed="#P" n="70" break="no"/>ctus ab alia; ut si quis ab ebrietate &amp; luxu sibi 
+      tem<lb ed="#P" n="71" break="no"/>peret ex affectu avaritiae. Quomodo multi infideles 
+      <!--0571.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>ea vitia quae manifestam habent adjunctam 
+      turpitu<lb ed="#P" n="73" break="no"/>dinem aut infamiam, supera verunt cupiditate 
+      hono<lb ed="#P" n="74" break="no"/>ris. De hoc modo August. l. 21. de civ. cap. 16. 
+      Non<lb ed="#P" n="75" break="no"/>nunquam, inquit, apertissima vitia aliis vincuntur 
+      <lb ed="#P" n="76"/>occultis, quae putantur esse virtutes, in quibus regnat 
+      <lb ed="#P" n="77"/>superbia, &amp;c. Hinc est illud Poetae in Junium 
+      Bru<lb ed="#P" n="78" break="no"/>tum qui proprios natos in patriam perduelles morte 
+      <lb ed="#P" n="79"/>mulctavit: Vicit amor patriae, laudumque immensa 
+      <lb ed="#P" n="80"/>cupido. Aeneidos 6. De hoc etiam modo Hieron. ubi 
+      <lb ed="#P" n="81"/>supra ad Rusticum. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e197">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Alter modus est, cum alicujus peccati tentatio 
+      <lb ed="#P" n="83"/>laudabiliter superatur; quod fit quoties peccato 
+      re<lb ed="#P" n="84" break="no"/>sistitur odio peccati &amp; amore honesti, etiamsi id non 
+      <lb ed="#P" n="85"/>fiat ex charitate quam Scriptura commendat, neque 
+      <lb ed="#P" n="86"/>ob spem aeternae beatitudinis. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e213">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Tertius modus est, idemque perfectissimus, cum 
+      <lb ed="#P" n="88"/>tentatio peccati vincitur ex charitate Dei, id est, ex 
+      <lb ed="#P" n="89"/>eo amore, quo secundum Scripturas Deus 
+      diligen<lb ed="#P" n="90" break="no"/>dus est, &amp; ea victoria, quae sit homini conducibilis ad 
+      <lb ed="#P" n="91"/>salutem vitae aeternae. Hoc modo soli illi adversus 
+      <lb ed="#P" n="92"/>tentationem peccati victores esse possunt, qui Deum 
+      <lb ed="#P" n="93"/>ex fide noverunt. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e233">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> His praemissis ad propositae quaestionis 
+      determina<lb ed="#P" n="95" break="no"/>tionem, statuendae nobis videntur aliquot 
+      proposi<lb ed="#P" n="96" break="no"/>tiones. Quarum haec sit prima: Nullo Dei auxilio, 
+      <lb ed="#P" n="97"/>nec generali, nec speciali opus est ad vincendam 
+      ten<lb ed="#P" n="98" break="no"/>tationem peccati primo modo. Ratio manifesta est, 
+      <lb ed="#P" n="99"/>quia Deus non adjuvat ad peccandum. Non vincitur 
+      <lb ed="#P" n="100"/>autem primo modo peccatum, nisi per aliud 
+      pecca<lb ed="#P" n="101" break="no"/>tum. Nam ut vere loquamur, peccatum illo modo 
+      <lb ed="#P" n="102"/>non tam vincitur ab homine, quam ab alio peccato 
+      <lb ed="#P" n="103"/>tanquam contrario; cui succumbens homo non 
+      po<lb ed="#P" n="104" break="no"/>test alterum simul admittere. Quod enim ad 
+      homi<lb ed="#P" n="105" break="no"/>nem attinet, cum is simpliciter a peccato superetur, 
+      <lb ed="#P" n="106"/>victor peccati dici non potest 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e266">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Quanquam nec illud ipsum peccatum, cui 
+      prop<lb ed="#P" n="108" break="no"/>ter aliud resistitur, ita vincitur ut radicitus ex animo 
+      <lb ed="#P" n="109"/>tollatur. Nam, ut ait Augustinus lib. 3. contra duas 
+      <lb ed="#P" n="110"/>epist. Pelagianorum cap. 4. Carnalis cupiditas alia 
+      <lb ed="#P" n="111"/>cupiditate non sanatur. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e282">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Secunda propositio. Nulla tentatio potest vinci 
+      <lb ed="#P" n="113"/>laudabiliter &amp; sic ut peccatum nullum admittatur, 
+      <lb ed="#P" n="114"/>sine generali auxilio &amp; cooperatione ac beneficio 
+      <lb ed="#P" n="115"/>Dei. Quae propositio manifestam habet veritatem. 
+      <lb ed="#P" n="116"/>Deus enim omnium bonorum prima est &amp; 
+      universa<lb ed="#P" n="117" break="no"/>lis causa. Sicut igitur omne bonum naturale in Deum 
+      <lb ed="#P" n="118"/>ut causam propriissime efficientem referendum est, 
+      <lb ed="#P" n="119"/>sic &amp; omne bonum morale, cujusmodi bonum est 
+      <lb ed="#P" n="120"/>tentationem peccati quocunque modo laudabiliter 
+      <lb ed="#P" n="121"/>repellere ac superare. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e309">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Tertia propositio. Potest homo etiam in hac 
+      cor<lb ed="#P" n="123" break="no"/>ruptione constitutus sine speciali Dei auxilio, per 
+      <lb ed="#P" n="124"/>solas naturae vires levem aliquam peccati tentationem 
+      <lb ed="#P" n="125"/>vincere, sic ut non peccet, &amp; proinde etiam sit, ut 
+      <lb ed="#P" n="126"/>laudem aliquam mereatur. Probatur ex eo, quia per 
+      <lb ed="#P" n="127"/>transgressionem primi parentis non ita corrupta est 
+      <lb ed="#P" n="128"/>humana natura, ut bonum morale prorsus in ea sit 
+      <lb ed="#P" n="129"/>extinctum. Quare sicut potest homo per naturae 
+      vi<lb ed="#P" n="130" break="no"/>res servare quaedam praecepta legis naturae, imo 
+      si<lb ed="#P" n="131" break="no"/>cut potest omnia quae occurrunt, servare ad breve 
+      ali<lb ed="#P" n="132" break="no"/>quod tempus, uti docebamus sexta &amp; septima 
+      pro<lb ed="#P" n="133" break="no"/>positione circa quaestionem de observatione 
+      mandato<lb ed="#P" n="134" break="no"/>rum legis sine gratia; sic per easdem naturae vires potest 
+      <lb ed="#P" n="135"/>contra levem aliquam tentationem peccati pugnare, 
+      <lb ed="#P" n="136"/>&amp; vincere; nimirum ex eodem amore virtutis &amp; 
+      ho<lb ed="#P" n="137" break="no"/>nestatis, quo praecepta quaedam legis naturae 
+      obser<lb ed="#P" n="138" break="no"/>vat; maxime si meliorem quis sortitus fuerit 
+      indo<lb ed="#P" n="139" break="no"/>lem, ac majorem ad certa virtutum officia 
+      propen<lb ed="#P" n="140" break="no"/>sionem, vel etiam accesserit ex institutione quaedam 
+      <lb ed="#P" n="141"/>virtutum exercitatio, ut melioribus occupatus ac 
+      de<lb ed="#P" n="142" break="no"/>lectatus resistat vitiorum illecebris, juxta id quod 
+      <lb ed="#P" n="143"/>monet Horatius; invidia vel amore vigil torquebere, 
+      <lb ed="#P" n="144"/>si non intendas animum studiis &amp; rebus honestis. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e364">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Deinde rursum ex eo confirmatur propositio, 
+      <!--0572.xml-->
+      <pb ed="#P" n="339"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quia si non posset homo solis naturae viribus ullam 
+      <lb ed="#P" n="2"/>peccati tentationem ne levissimam quidem superare, 
+      <lb ed="#P" n="3"/>non videretur quod liberum arbitrium sine gratia 
+      <lb ed="#P" n="4"/>valeat ad ullum peccatum vitandum. Cujus tamen 
+      <lb ed="#P" n="5"/>oppositum improbatum esse a sede Apostolica supra 
+      <lb ed="#P" n="6"/>diximus. Nam proprie vitari dicuntur ea peccata, 
+      <lb ed="#P" n="7"/>ad quae homines aliquo modo per tentationem 
+      alli<lb ed="#P" n="8" break="no"/>ciuntur. Apertius autem confirmatur ex 
+      improba<lb ed="#P" n="9" break="no"/>tione alterius articuli numero 29. quo dicebatur 
+      <lb ed="#P" n="10"/>nulli tentationi sine gratiae Dei adjutorio resistere 
+      <lb ed="#P" n="11"/>hominem posse, sicut in eam non inducatur, aut ab 
+      <lb ed="#P" n="12"/>ea non superetur. Neque enim obstare videntur haec 
+      <lb ed="#P" n="13"/>postrema verba, sic ut in eam, &amp;c. quia sensus 
+      appa<lb ed="#P" n="14" break="no"/>ret iste, sic ut non inducatur in tentationem. 
+      Indu<lb ed="#P" n="15" break="no"/>citur autem in tentationem etiam ille, qui victus 
+      <lb ed="#P" n="16"/>cupiditate unius peccati abstinet ab alio 
+      perpetran<lb ed="#P" n="17" break="no"/>do. Quem sensum utique habet doctrina cui 
+      articu<lb ed="#P" n="18" break="no"/>lus visus est conducere. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e416">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Jam vero propositionem confirmemus etiam 
+      <lb ed="#P" n="20"/>Augustini testimonio: Verba ejus haec sunt lib. 1. 
+      <lb ed="#P" n="21"/>de peccatorum meritis cap. 22. Unde fit, inquit, ut 
+      <lb ed="#P" n="22"/>homo ab ineunte pueritia modestior, ingeniosior, 
+      <lb ed="#P" n="23"/>temperantior, ex magna parte libidinum victor, 
+      <lb ed="#P" n="24"/>qui oderit avaritiam, luxuriam detestetur, atque ad 
+      <lb ed="#P" n="25"/>virtutes caeteras provectior aptiorque consurgat; &amp; 
+      <lb ed="#P" n="26"/>tamen eo loco sit ubi ei praedicati gratia 
+      Christia<lb ed="#P" n="27" break="no"/>na non possit? Ac paulo post de eodem dicit, eum 
+      <lb ed="#P" n="28"/>sic natum, ut &amp; bonum haberet ingenium, &amp; 
+      con<lb ed="#P" n="29" break="no"/>cupiscentiis mitioribus urgeretur, quas posset facile 
+      <lb ed="#P" n="30"/>superare. Haec autem dicit Augustinus, ut patet, de 
+      <lb ed="#P" n="31"/>eo qui gratiae Christi, de qua nihil didicit, ac proinde 
+      <lb ed="#P" n="32"/>specialis auxilii, quod non nisi per Christum datur, 
+      <lb ed="#P" n="33"/>nondum est particeps. Idem lib. 1. de civit. cap. 15. 
+      <lb ed="#P" n="34"/>scribit, merito laudari virtutem Reguli, qui maluit 
+      <lb ed="#P" n="35"/>hostium crudelitatem experiri, quam quod jura 
+      ve<lb ed="#P" n="36" break="no"/>rat non implere. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e460">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Huc etiam facit quod Prosper lib. 1. de vocatione 
+      <lb ed="#P" n="38"/>gentium cap. 7. fatetur inter infideles fuisse, qui 
+      <lb ed="#P" n="39"/>naturali intellectu conati sunt vitiis reluctari, lice 
+      <lb ed="#P" n="40"/>ad veras virtutes aeternamque beatitudinem non 
+      <lb ed="#P" n="41"/>profecerint. Nam ipse conatus reluctandi, 
+      quod<lb ed="#P" n="42" break="no"/>dam est vincendi initium. Denique multa 
+      infide<lb ed="#P" n="43" break="no"/>lium opera, in quibus secundum communem &amp; 
+      <lb ed="#P" n="44"/>probatam Theologorum sententiam moralis 
+      agno<lb ed="#P" n="45" break="no"/>scitur bonitas; ejusmodi sunt ut non absque 
+      repu<lb ed="#P" n="46" break="no"/>gnantia quadam contrariae cupiditatis facta 
+      videan<lb ed="#P" n="47" break="no"/>tur. Quod facile est exemplis &amp; testimoniis 
+      decla<lb ed="#P" n="48" break="no"/>rare, sed ea vide ad dist. 41. ubi tractatur quaestio de 
+      <lb ed="#P" n="49"/>operibus infidelium. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e493">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Porro quidam ab hac nostra propositione non 
+      <lb ed="#P" n="51"/>tam re quam verbis dissentientes, negant absolute 
+      <lb ed="#P" n="52"/>concedendum esse, quod possit quis ullam 
+      tentatio<lb ed="#P" n="53" break="no"/>nem vincere per solas naturae vires, ac sine 
+      specia<lb ed="#P" n="54" break="no"/>li Dei auxilio. Dicunt enim se loqui de vera 
+      tenta<lb ed="#P" n="55" break="no"/>tione, id est, ea quae absolute &amp; proprie nomen 
+      <lb ed="#P" n="56"/>tentationis mereatur; qualem esse non putant 
+      quam<lb ed="#P" n="57" break="no"/>cunque levem tentationem, sed eam folam, quae 
+      <lb ed="#P" n="58"/>non sine difficultate aliqua superetur. Quibus 
+      res<lb ed="#P" n="59" break="no"/>pondendum est, sicut peccata levia vere &amp; 
+      pro<lb ed="#P" n="60" break="no"/>prie sunt peccata, sic &amp; leves ad peccandum 
+      ten<lb ed="#P" n="61" break="no"/>tationes vere &amp; proprie esse tentationes. Quas 
+      quo<lb ed="#P" n="62" break="no"/>niam &amp; ipsi consentiunt per solas naturae vires posse 
+      <lb ed="#P" n="63"/>superari, consequitur non esse negandum, quin 
+      <lb ed="#P" n="64"/>absolute verum sit, recteque dicatur, aliquam 
+      ten<lb ed="#P" n="65" break="no"/>tationem solis naturae viribus supprari posse. Nec 
+      <lb ed="#P" n="66"/>vero quisquam Patrum aut Scholasticorum legitur 
+      <lb ed="#P" n="67"/>sic locutus, ut leves tentationes non esse veras 
+      ten<lb ed="#P" n="68" break="no"/>tationes diceret. Quin potius omnes motus ad 
+      pec<lb ed="#P" n="69" break="no"/>candum etiam levissimos, tentationes computant. 
+      <lb ed="#P" n="70"/>Unde &amp; omnem quantumcunque levem 
+      tentatio<lb ed="#P" n="71" break="no"/>nem comprehendi volunt in eo quod dicimus: Et 
+      <lb ed="#P" n="72"/>ne nos inducas in tentationem, ut mirum sit qua 
+      au<lb ed="#P" n="73" break="no"/>thoritate ductus Bartholomaeus Medina, illam 
+      Do<lb ed="#P" n="74" break="no"/>minicae orationis petitionem restrinxerit ad tenta¬ 
+      <!--0572.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>tiones graviores, scribens in 1. 2. q. 109. art. 4. 
+      <lb ed="#P" n="76"/>conclus. 4. Certe Augustinus quando dixit: Gratiae 
+      <lb ed="#P" n="77"/>Dei deputo quaecunque non feci mala; nullam 
+      exci<lb ed="#P" n="78" break="no"/>pit tentationem ne levissimam quidem, pro qua 
+      su<lb ed="#P" n="79" break="no"/>perata Deo gratias non egerit. Quomodo autem 
+      <lb ed="#P" n="80"/>haec oratio &amp; gratiarum actio dictam propositionem 
+      <lb ed="#P" n="81"/>nostram non evertat, inferius explicabitur. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e571">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> Quarta propositio: Nulla gravis tentatio 
+      pecca<lb ed="#P" n="83" break="no"/>ti potest ab homine superari per solas naturae vires, 
+      <lb ed="#P" n="84"/>sic ut in peccatum non inducatur. Quod intellige 
+      <lb ed="#P" n="85"/>de peccato, vel eo ipso ad quod tentatur, vel alio 
+      <lb ed="#P" n="86"/>quo praevalente alterum excludatur. Ratio 
+      proposi<lb ed="#P" n="87" break="no"/>tionis ex ante dictis patet; quia netura humana etsi 
+      <lb ed="#P" n="88"/>ad ea praestanda quae sunt legis naturae, non 
+      pror<lb ed="#P" n="89" break="no"/>sus impotens est, valde tamen ex peccati 
+      corruptio<lb ed="#P" n="90" break="no"/>ne debilis est atque infirma. Quo fit ut nec 
+      diffici<lb ed="#P" n="91" break="no"/>liora legis mandata servare, nec graviores 
+      tentatio<lb ed="#P" n="92" break="no"/>nes superare possit, nisi specialiter a Deo adjuvetur. 
+      <lb ed="#P" n="93"/>Faciunt igitur ad confirmandam hanc 
+      propositio<lb ed="#P" n="94" break="no"/>nem, quae dudum allata sunt ad probationem nonae 
+      <lb ed="#P" n="95"/>propositionis de impletione praeceptorum legis; 
+      <lb ed="#P" n="96"/>facit etiam insignis sententia Hieronymi qua dicit 
+      <lb ed="#P" n="97"/>de Paulo nondum ad Christum converso in comm. 
+      <lb ed="#P" n="98"/>epist. ad Tit. 3. quod non poterat aestuantem 
+      flam<lb ed="#P" n="99" break="no"/>mam restinguere voluptatum, cum non esset 
+      tem<lb ed="#P" n="100" break="no"/>plum Dei. Hoc igitur est quod S. Bona ventura 
+      do<lb ed="#P" n="101" break="no"/>cet super dist. 28. art. 2. q. 2. hominem sine gratia 
+      <lb ed="#P" n="102"/>nec omni nec nulli tentationi posse resistere; volens 
+      <lb ed="#P" n="103"/>utique significare, quod levioribus tentationibus 
+      <lb ed="#P" n="104"/>possit, gravioribus non possit resistere, sensu a nobis 
+      <lb ed="#P" n="105"/>explicato. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e629">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Est autem obiter notandum, saepe contingere ut 
+      <lb ed="#P" n="107"/>tentatio quae uni alicui levis est, alteri sit gravis &amp; 
+      <lb ed="#P" n="108"/>contra; scilicet propter diversam indolem ac 
+      natu<lb ed="#P" n="109" break="no"/>ralem dispositionem; vel etiam institutionem 
+      super<lb ed="#P" n="110" break="no"/>additam, quemadmodum significat Augustinus lib. 
+      <lb ed="#P" n="111"/>1. de peccatorum meritis cap. 21. Ex quo consequens 
+      <lb ed="#P" n="112"/>est aliquem posse solis naturae viribus superare 
+      ten<lb ed="#P" n="113" break="no"/>tationem, quam alius non posset; quod etiam eodem 
+      <lb ed="#P" n="114"/>loco satis innuit idem Doctor. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e653">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Adversus hanc propositionem objici posset 
+      do<lb ed="#P" n="116" break="no"/>ctrina S. Thomae in 2. dist. 28. q. 1. art. 2. ubi docet 
+      <lb ed="#P" n="117"/>hominem sine gratia posse vitare omnia mortalia 
+      <lb ed="#P" n="118"/>peccata, licet difficulter. Imo &amp; (quod ex illo 
+      ma<lb ed="#P" n="119" break="no"/>nifeste sequitur) posse sine gratia resistere omnibus 
+      <lb ed="#P" n="120"/>tentationibus; tametsi fateri nolit, quod sine 
+      gra<lb ed="#P" n="121" break="no"/>tia possit eas vincere; quia ille proprie vincit 
+      pecca<lb ed="#P" n="122" break="no"/>tum, inquit, qui potest pertingere ad hoc contra 
+      <lb ed="#P" n="123"/>quod est pugna peccati, id est, ad vitam aeternam; 
+      <lb ed="#P" n="124"/>qui nimirum tertius erat vincendi modus supra a 
+      <lb ed="#P" n="125"/>nobis explicatus. Sed breviter respondeo S. 
+      Tho<lb ed="#P" n="126" break="no"/>mam haec &amp; similia quae scripsit super sententias, 
+      <lb ed="#P" n="127"/>secutus vulgatas quasdam sui temporis opiniones, ac 
+      <lb ed="#P" n="128"/>nondum re satis diligenter excussa, tacite 
+      retractas<lb ed="#P" n="129" break="no"/>se in scriptis posterioribus quibus expresse 
+      con<lb ed="#P" n="130" break="no"/>trarium docet. Loca sunt lib. 3. contra gentes cap. 
+      <lb ed="#P" n="131"/>160. de veritate q. 24. art. 12. in 1. 2. q. 63. art. 2. 
+      <lb ed="#P" n="132"/>ad 2. ac denique ex professo parte eadem q 109. art. 
+      <lb ed="#P" n="133"/>8. ubi etiam loca ad marginem ascripta reperies. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e699">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Objici deinde possunt exempla Romanorum &amp; 
+      <lb ed="#P" n="135"/>aliorum quorundam ethnicorum, quos historiae 
+      refe<lb ed="#P" n="136" break="no"/>runt mortem oppetere, ac diros cruciatus subire 
+      ma<lb ed="#P" n="137" break="no"/>luisse, quam ut vel patriae salutem proderent, vel fidem 
+      <lb ed="#P" n="138"/>etiam hosti datam non servarent, vel quicquam aliud 
+      <lb ed="#P" n="139"/>contra justitiam facerent. Inter quos praecipue laudari 
+      <lb ed="#P" n="140"/>solet virtus &amp; patientia Marci Reguli, de quo supra. 
+      <lb ed="#P" n="141"/>Quidam respondent haec ab eis facta fuisse non sine 
+      <lb ed="#P" n="142"/>speciali Dei auxilio. Hoc enim auxilium agnoscunt 
+      <lb ed="#P" n="143"/>etiam in infidelibus sicubi excellentia quaedam 
+      virtu<lb ed="#P" n="144" break="no"/>tum opera eis tribuuntur. Pro qua responsione potest 
+      <lb ed="#P" n="145"/>adferri quod Aug. epist. 130. dicit de quodam 
+      Pole<lb ed="#P" n="146" break="no"/>mone, qui cum non solum ebriosus, sed etiam ebrius 
+      <lb ed="#P" n="147"/>in scholam Xenocratis ingressus fuisset, ejus 
+      sermo<lb ed="#P" n="148" break="no"/>ne in alios mores repente conversus est. Quanquam 
+      <!--0573.xml-->
+      <pb ed="#P" n="340"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ille, inquit, non Deo fuerit acquisitus, sed tantum a 
+      <lb ed="#P" n="2"/>dominatu luxuriae liberatus; tamen ne idipsum quidem, 
+      <lb ed="#P" n="3"/>quod melius in eo factum est, humano operi tribuerim 
+      <lb ed="#P" n="4"/>sed divino. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e751">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Verum huic responsioni obstat, quod speciale Dei 
+      <lb ed="#P" n="6"/>auxilium non datur nisi per Christum. Ea vero 
+      be<lb ed="#P" n="7" break="no"/>neficia quae per Christum dantur, initium habent a 
+      <lb ed="#P" n="8"/>fide, sicut Augustinus &amp; Prosper saepe testantur; 
+      id<lb ed="#P" n="9" break="no"/>que ostendimus cum de primo effectu gratiae 
+      prae<lb ed="#P" n="10" break="no"/>venientis ageremus. Item inde cognoscimus quid 
+      <lb ed="#P" n="11"/>adhuc boni sit reliquum in natura, si quae bona 
+      vi<lb ed="#P" n="12" break="no"/>deamus agi ab infidelibus &amp; a Christo alienis; quod 
+      <lb ed="#P" n="13"/>non esset certumesignum, si speciale Dei auxilium 
+      <lb ed="#P" n="14"/>etiam apud eos esset. Ex quibus consequens fit, 
+      auxi<lb ed="#P" n="15" break="no"/>lium speciale non dari infidelibus ad ulla virtutum 
+      <lb ed="#P" n="16"/>opera, quantumvis in speciem excellentia. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e782">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Quare potius respondendum, fuisse quidem in 
+      <lb ed="#P" n="18"/>illis qui sic laudantur, amorem virtutis &amp; justitiae 
+      <lb ed="#P" n="19"/>moralis, sed non tantum qui sufficeret ad superandas 
+      <lb ed="#P" n="20"/>tam graves in contrarium tentationes, nisi 
+      con<lb ed="#P" n="21" break="no"/>juncta &amp; permixta illi fuisset humanae gloriae 
+      cupi<lb ed="#P" n="22" break="no"/>ditas &amp; amor sui, id est, boni privati, propriaeque 
+      <lb ed="#P" n="23"/>excellentiae. Qui cum sit in omnibus a Christi fide 
+      <lb ed="#P" n="24"/>alienis magis intimus, magisque radicatus, quam 
+      <lb ed="#P" n="25"/>possit esse ullius virtutis amor; plus cerce valuisse 
+      <lb ed="#P" n="26"/>putandus est ad resistendum magnis quibusdam 
+      <lb ed="#P" n="27"/>tentationibus, quam valere potuerit amor 
+      cujus<lb ed="#P" n="28" break="no"/>que virtutis; quod nec poeta dissimulavit quando 
+      <lb ed="#P" n="29"/>non contentus dixisse: Vicit amor patriae, addidit 
+      <lb ed="#P" n="30"/>quod praecipuum erat, laudumque immensa cupido. 
+      <lb ed="#P" n="31"/>Atque hinc est quod passim Augustinus &amp; Prosper 
+      <lb ed="#P" n="32"/>ea quae fortiter &amp; praeclare ab infidelibus gesta 
+      re<lb ed="#P" n="33" break="no"/>feruntur, ascribunt cupiditati gloriae. Quod &amp; de 
+      <lb ed="#P" n="34"/>Regulo quamvis laudato subindicat idem 
+      Augusti<lb ed="#P" n="35" break="no"/>nus paulo inferius eodem cap. dum virtutem ejus 
+      <lb ed="#P" n="36"/>in dubium vocat. Nec vero adversum nos facit, 
+      <lb ed="#P" n="37"/>quod de Polemone ex eodem Augustino adfertur; 
+      <lb ed="#P" n="38"/>quia divinum opus intelligit operationem Dei 
+      <lb ed="#P" n="39"/>quamcumque veram &amp; propriam, non tamen 
+      re<lb ed="#P" n="40" break="no"/>strictam ad auxilium speciale. Generaliter enim 
+      <lb ed="#P" n="41"/>dicit; quod melius in eo factum est, divino operi 
+      <lb ed="#P" n="42"/>tribuendum esse. Loquitur ergo de auxilio 
+      necessa<lb ed="#P" n="43" break="no"/>rio ad quodcunque morale bonum, &amp; non 
+      specia<lb ed="#P" n="44" break="no"/>liter ad excellentiora virtutum opera. Idem 
+      mani<lb ed="#P" n="45" break="no"/>festius patet ex verbis continuo subjunctis, quibus 
+      <lb ed="#P" n="46"/>divinum illud opus ac beneficium extendit ad 
+      om<lb ed="#P" n="47" break="no"/>nia corporis &amp; animi bona. Verba sic habent. Ipsius 
+      <lb ed="#P" n="48"/>namque corporis, quod est infimum nostrum 
+      <lb ed="#P" n="49"/>qua bona sunt, sicut forma &amp; vires &amp; salus, &amp; se 
+      <lb ed="#P" n="50"/>quid ejusmodi est, non sunt nisi ex Deo creatore 
+      <lb ed="#P" n="51"/>ac perfectore naturae; quanto magis animi bona 
+      <lb ed="#P" n="52"/>donare nullus alius potest? Quid enim superbius vel 
+      <lb ed="#P" n="53"/>ingratius cogitare potest humana vecordia, si 
+      puta<lb ed="#P" n="54" break="no"/>verit cum carne pulchrum faciat Deus hominem, 
+      <lb ed="#P" n="55"/>animo castum ab homine fieri? Et quae sequuntur. 
+      <lb ed="#P" n="56"/>Nec ob haec tamen existimandum est, a Polemone 
+      <lb ed="#P" n="57"/>gravem tentationem laudabiliter fuisse superatam; 
+      <lb ed="#P" n="58"/>quia quamvis totum quod melius in eo factum est, 
+      <lb ed="#P" n="59"/>vere censeat Augustinus divino operi tribuendum 
+      <lb ed="#P" n="60"/>esse, prout nunc exposuimus, non tamen affirmat, 
+      <lb ed="#P" n="61"/>quatenus aut quam multum fuerit in melius 
+      muta<lb ed="#P" n="62" break="no"/>tus. Potuit enim luxuriae dominatus a quo eum 
+      li<lb ed="#P" n="63" break="no"/>beratum dicit, opprimi a dominatu inanis gloriae, 
+      <lb ed="#P" n="64"/>accedente &amp; adjuvante qualicunque amore 
+      tempe<lb ed="#P" n="65" break="no"/>rantiae, concepto ex disputatione Xenocratis 
+      Philo<lb ed="#P" n="66" break="no"/>sophi. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e895">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Quinta propositio: Nulla tentatio quantumlibet 
+      <lb ed="#P" n="68"/>levis superari potest tertio vincendi modo, absque 
+      <lb ed="#P" n="69"/>speciali auxilio gratiae Dei, quae per Christum datur. 
+      <lb ed="#P" n="70"/>Hanc propositionem probant in primis ea omnia, 
+      <lb ed="#P" n="71"/>quae docent nullum bonum ad salutem vitae aeternae 
+      <lb ed="#P" n="72"/>pertinens, ab homine fieri posse sine gratia Christi. 
+      <lb ed="#P" n="73"/>De qua re satis dictum est suo loco. Certum est 
+      <lb ed="#P" n="74"/>enim victoriam cujusque tentationis, etiam minimae 
+      <!--0573.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>profectam ex amore Dei nobis in Scripturis 
+      com<lb ed="#P" n="76" break="no"/>mendato; quo nimirum diligitur ut author salutis ac 
+      <lb ed="#P" n="77"/>beatitudinis nostrae, numerandam esse inter bona 
+      <lb ed="#P" n="78"/>ad salutem aeternae vitae conducentia. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e931">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Sed accedant ad pleniorem probationem etiam 
+      <lb ed="#P" n="80"/>propria argumenta. Ea primum se offerunt ex 
+      Scri<lb ed="#P" n="81" break="no"/>pturis, cujusmodi sunt istae Psal. 17. Quoniam in te 
+      <lb ed="#P" n="82"/>eripiar a tentatione. 26. Adjutor meus esto, ne 
+      dere<lb ed="#P" n="83" break="no"/>linquas me. 29. Ego dixi in abundantia mea, non 
+      mo<lb ed="#P" n="84" break="no"/>vebor in aeternum. Avertisti faciem tuam &amp; factus sum 
+      <lb ed="#P" n="85"/>conturbatus. 36. Cum ceciderit non collidetur, quia 
+      Do<lb ed="#P" n="86" break="no"/>minus supponit manum sudm. 117. Impulsus eversus 
+      <lb ed="#P" n="87"/>sum ut caderem, &amp; Dominus suscepit me. 118. Non 
+      do<lb ed="#P" n="88" break="no"/>minetur mei omnis injustitia. Sic Christus nos docet 
+      <lb ed="#P" n="89"/>orare inter alia: Et ne nos inducas in tentationem. Et 
+      <lb ed="#P" n="90"/>Matth. 26. Orate ut non intretis in tentationem. Rom. 
+      <lb ed="#P" n="91"/>8. Sed in his omnibus superamus per eum qui dilexit 
+      <lb ed="#P" n="92"/>nos. Sic enim legunt Aug. &amp; alii conformiter Graeco 
+      <lb ed="#P" n="93"/>textui. Luc. 22. Ego pro te rogavi, ut non deficiat 
+      <lb ed="#P" n="94"/>fi des tua, ergo sine Christi gratia non potuisset in fide 
+      <lb ed="#P" n="95"/>perseverare. Quae verba apud Luc. 22. secundo 
+      re<lb ed="#P" n="96" break="no"/>petit Paulus Apostolus Romanorum ultimo: Deus, 
+      <lb ed="#P" n="97"/>inquit, conterat Satanam sub pedibus vestris, 1. 
+      Co<lb ed="#P" n="98" break="no"/>rinth. 15. Deo gratias, qui dedit nobis victoriam per 
+      <lb ed="#P" n="99"/>Dominum nostrum Jesum Christum, 2. Corinth. 2. Dee 
+      <lb ed="#P" n="100"/>gratias qui semper triumphat nos in Christo Jesu, 2. 
+      <lb ed="#P" n="101"/>Timoch. 4. Liberavit me Dominus ab omni opere 
+      ma<lb ed="#P" n="102" break="no"/>lo. Jacobus cum de sufferendis tentationibus ageret, 
+      <lb ed="#P" n="103"/>iis maxime quae concitantur a propria 
+      concupiscen<lb ed="#P" n="104" break="no"/>tia, subjecit. Omne datum optimum &amp; omne donum 
+      <lb ed="#P" n="105"/>perfectum de sursum est. Denique Apoc. 4. Seniores 
+      <lb ed="#P" n="106"/>vigintiquatuor in persona omnium sanctorum, qui 
+      <lb ed="#P" n="107"/>pugnaverunt contra carnem, mundum &amp; diabolum, 
+      <lb ed="#P" n="108"/>mittunt coronas victoriae suae ante thronum Dei 
+      di<lb ed="#P" n="109" break="no"/>centes: Dignus es Domine Deus noster accipere gloriam 
+      <lb ed="#P" n="110"/>&amp; honorem. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1005">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Secundum argumentum est quod petitur ex 
+      testi<lb ed="#P" n="112" break="no"/>moniis &amp; doctrina sanctorum Patrum &amp; 
+      Concilio<lb ed="#P" n="113" break="no"/>rum. Nam sicut contra Pelagium docuerunt Patres, 
+      <lb ed="#P" n="114"/>gratiam Dei ad singulos actus bonos esse 
+      necessa<lb ed="#P" n="115" break="no"/>riam; ita ejusdem gratiae necessitatem statuerunt ad 
+      <lb ed="#P" n="116"/>singulas tentationes superandas; suam hanc 
+      doctri<lb ed="#P" n="117" break="no"/>nam opponentes illi sententiae Pelagii qua dicebat: 
+      <lb ed="#P" n="118"/>Victoriam nostram non ex Deiadjutorio esse, sed ex 
+      <lb ed="#P" n="119"/>libero arbitrio, uti ex synodo Palaestina, quae Pelagis 
+      <lb ed="#P" n="120"/>doctrinam prima damnavit, commemorat August. 
+      <lb ed="#P" n="121"/>epist. 106. Hujus autem Catholicae sententiae 
+      firma<lb ed="#P" n="122" break="no"/>mentum praecipuum Patres posuerunt in oratione 
+      <lb ed="#P" n="123"/>Dominica. Sicut enim ex illa ejus orationis parte: 
+      <lb ed="#P" n="124"/>Fiat voluntas tua, docuerunt gratiam Dei ad 
+      singu<lb ed="#P" n="125" break="no"/>las bonas actiones dari; sic etiam ex ista: Ne nos 
+      in<lb ed="#P" n="126" break="no"/>ducas in tentationem, consequens esse voluerunt, 
+      <lb ed="#P" n="127"/>eam ad singulas tentationes superandas esse 
+      necessa<lb ed="#P" n="128" break="no"/>riam: nequaquam distinguentes inter tentationes 
+      <lb ed="#P" n="129"/>majores &amp; minores. Quae res tota ex subjectis 
+      testi<lb ed="#P" n="130" break="no"/>moniis evidenter intelligi poterit. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1053">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Synodus Carthaginensis in epist. data ad 
+      Innocen<lb ed="#P" n="132" break="no"/>tium Papam, quae est apud Augustinum 90. scribit 
+      <lb ed="#P" n="133"/>inter alia, ex Pelagii doctrina necessario consequi, 
+      <lb ed="#P" n="134"/>ut nec orare debeamus, ne intremus in tentationem; 
+      <lb ed="#P" n="135"/>quod Dominus &amp; discipulos monuit, &amp; posuit in 
+      <lb ed="#P" n="136"/>oratione quam docuit, aut ne deficiat fides nostra, 
+      <lb ed="#P" n="137"/>quod pro Apostolo Petro se rogasse ipse testatus est. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1073">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Vicissim Innocentius I. ad eam Synodum 
+      episto<lb ed="#P" n="139" break="no"/>la apud Augustinum 91. Nisi magnis precibus, 
+      <lb ed="#P" n="140"/>inquit, gratia in nos implorata descendat, 
+      nequic<lb ed="#P" n="141" break="no"/>quam terrenae labis &amp; mundani corporis vincere 
+      cona<lb ed="#P" n="142" break="no"/>mur errores; cum pares nos ad resistendum non 
+      <lb ed="#P" n="143"/>liberum arbitrium, sed Dei solum facere possit 
+      <lb ed="#P" n="144"/>auxilium. Et infra: Quotidiana praestat ille 
+      reme<lb ed="#P" n="145" break="no"/>dia, quibus nisi freti confisique nitamur, 
+      nullate<lb ed="#P" n="146" break="no"/>nus vincere humanos poterimus errores. Necesse est 
+      <lb ed="#P" n="147"/>enim, ut quo auxiliante vincimus, eodem 
+      rur<lb ed="#P" n="148" break="no"/>sus non adjuvante, vincamur. Quam sententiam 
+      <!--0574.xml-->
+      <pb ed="#P" n="341"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>repetit &amp; confirmat Caelestinus Papa in epist. 
+      scri<lb ed="#P" n="2" break="no"/>pta ad Episcopos Galliae cap. 5. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1112">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Synodus Milevitana in epist. ad eundem 
+      Innocen<lb ed="#P" n="4" break="no"/>tium, quae apud Augustinum est 62. cui synodo &amp; 
+      <lb ed="#P" n="5"/>Augustinus interfuit. Illud, inquit, Ne nos inferas 
+      <lb ed="#P" n="6"/>in tentationem, non ita intelligendum, Pelagiani 
+      di<lb ed="#P" n="7" break="no"/>cunt, tanquam divinum adjutorium poscere 
+      debea<lb ed="#P" n="8" break="no"/>mus, ne in peccatum tentati decidamus; sed hoc in 
+      no<lb ed="#P" n="9" break="no"/>stra positum esse potestate, &amp; ad hoc implendum 
+      so<lb ed="#P" n="10" break="no"/>lam sufficere voluntatem hominis, tanquam frustra 
+      <lb ed="#P" n="11"/>Apostolus dixerit: Non volentis neque currentis, 
+      <lb ed="#P" n="12"/>sed miserentis est Dei. Rursus Innocentius ad hanc 
+      <lb ed="#P" n="13"/>synodum epist. apud Augustinum 93. Gratia 
+      pri<lb ed="#P" n="14" break="no"/>vatus, inquit, necesse est, diaboli laqueis irretitus 
+      <lb ed="#P" n="15"/>occumbat. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1145">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/>
+               <name xml:id="bt67yj-p131073-Nd1e1151">Zozymus Papa</name> verbis a Caelestino recitatis in 
+      <lb ed="#P" n="17"/>epist. memorata cap. 9. dicit in omnibus actibus &amp; 
+      <lb ed="#P" n="18"/>cogitationibus Deum adjutorem &amp; protectorem 
+      <lb ed="#P" n="19"/>orandum esse; quia superbum est, ut quicquam sibi 
+      <lb ed="#P" n="20"/>humana natura praesumat, clamante Apostolo: Non 
+      <lb ed="#P" n="21"/>est nobis colluctatio adversus carnem &amp; sanguinem, sed 
+      <lb ed="#P" n="22"/>contra prencipes &amp; potestates, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1168">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Ipse Caelestinus in eadem epist. cap. 6. sic ait: 
+      <lb ed="#P" n="24"/>Nemo etiam baptismatis gratia renovatus idoneus 
+      <lb ed="#P" n="25"/>est ad superandas diaboli insidias, &amp; ad vincendas 
+      <lb ed="#P" n="26"/>carnis concupiscentias, nisi per quotidianum 
+      adjuto<lb ed="#P" n="27" break="no"/>rium Dei perseverantiam bonae conversationis 
+      acce<lb ed="#P" n="28" break="no"/>perit. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1186">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> His summorum Pontificum ac veterum 
+      Concilio<lb ed="#P" n="30" break="no"/>rum definitionibus consentiunt &amp; caeteri Patres. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1195">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Cyprianus in tract. de oratione Dominica: 
+      Quan<lb ed="#P" n="32" break="no"/>do rogamus, inquit, ne in tentationem incidamus, 
+      <lb ed="#P" n="33"/>admonemur infirmitatis &amp; imbecillitatis nostrae; dum 
+      <lb ed="#P" n="34"/>sic rogamus, ne quis se insolenter extollat, ne quis 
+      si<lb ed="#P" n="35" break="no"/>bi superbe atque arroganter aliquid assumat. Et paulo 
+      <lb ed="#P" n="36"/>post: Ut dum praecedit humilis &amp; submissa confessio, 
+      <lb ed="#P" n="37"/>&amp; datur totum Deo; quicquid suppliciter cum timore 
+      <lb ed="#P" n="38"/>&amp; honore Dei petitur, ipsius pietate praestetur. Verba 
+      <lb ed="#P" n="39"/>repetuntur ab Augustino lib. 4. contra duas 
+      episto<lb ed="#P" n="40" break="no"/>las Pelagianorum cap. 9. &amp; de dono perseverantiae 
+      <lb ed="#P" n="41"/>cap. 6. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1224">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Athanasius in vita S. Antonii: Ideo superavit 
+      dia<lb ed="#P" n="43" break="no"/>bolum Antonius, quia adjuvabat servum suum 
+      do<lb ed="#P" n="44" break="no"/>minus. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1235">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Basilius in regulis moralibus regula 62. Quod se 
+      <lb ed="#P" n="46"/>divinitus, inquit, permissum sit, ut in tentationes 
+      <lb ed="#P" n="47"/>quis incidat; precibus a Deo poscere debet 
+      faculta<lb ed="#P" n="48" break="no"/>tem, per quam illas possit sustinere, &amp; voluntati 
+      <lb ed="#P" n="49"/>ejus integre satisfacere. Idem homil. 20. 
+      introdu<lb ed="#P" n="50" break="no"/>cit 40. martyres orantes, ne quis eorum deficiat in 
+      <lb ed="#P" n="51"/>poenis. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1255">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Ambrosius in expositione Psal. 43. Quis est tam 
+      <lb ed="#P" n="53"/>fortis, inquit, ut nequaquam in tentatione moveatur, 
+      <lb ed="#P" n="54"/>nisi Dominus ei adjutor assistat? 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1267">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Hieronymus lib. 2. contra Pelagianos citatis 
+      Do<lb ed="#P" n="56" break="no"/>mini verbis: Surgite, vigilate &amp; orate ne intretis in 
+      <lb ed="#P" n="57"/>tentationem, subjungit: Debuisset dicere juxta vos. 
+      <lb ed="#P" n="58"/>surgite &amp; resistite: Liberum enim habetis arbitrium, &amp; 
+      <lb ed="#P" n="59"/>semel vobis concessa a Domino potestate, nullius 
+      alte<lb ed="#P" n="60" break="no"/>rius indigetis auxilio. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1285">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Joannes Chrysostomus hom. 24. in 1. Cor. 10. ad 
+      <lb ed="#P" n="62"/>illud: Fidelis Deus qui non patietur vos tentari supra 
+      <lb ed="#P" n="63"/>id quod potestis. Sunt ergo, inquit, tentationes quae 
+      <lb ed="#P" n="64"/>ferri non possunt, &amp; quae hae sunt? Omnes ut semel 
+      <lb ed="#P" n="65"/>dicam. Posse enim ferri situm est in Dei nutu. Et 
+      <lb ed="#P" n="66"/>o paulo post: Nam ne illas quidem moderatas ac 
+      me<lb ed="#P" n="67" break="no"/>diocres propria virtute feremus. Sed in his quoque 
+      <lb ed="#P" n="68"/>ejus auxilio, &amp;c. Ubi tandem concludit Apostolum 
+      <lb ed="#P" n="69"/>omnia Deo tribuere. Qui sane locus bene notandus 
+      <lb ed="#P" n="70"/>est, tum propter doctrinam valde expressam &amp; 
+      ge<lb ed="#P" n="71" break="no"/>neralem, tum ut intelligamus tentationis nomine 
+      <lb ed="#P" n="72"/>non eas solas comprehendi, quae graviores sunt. Vide 
+      <lb ed="#P" n="73"/>etiam locum in hom. 37. operis imperfecti in Matth. 
+      <lb ed="#P" n="74"/>quamvis falso attributi Joanni Chrysostomo, ubi di¬ 
+      <!--0574.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>citur; quomodo navis fracto gubernaculo illuc 
+      im<lb ed="#P" n="76" break="no"/>pellitur quo tempestas voluerit, sic &amp; hominem 
+      di<lb ed="#P" n="77" break="no"/>vinae gratiae auxilio per peccatum perdito, agere quod 
+      <lb ed="#P" n="78"/>non vult, sed quod diabolus vuit. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1333">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Augustinus hanc Catholicam doctrinam tradit 
+      <lb ed="#P" n="80"/>multis locis. Ex quibus sunt ista: In fine libri de 
+      <lb ed="#P" n="81"/>perfectione justitiae concludit ad hunc modum; 
+      <lb ed="#P" n="82"/>Quisquis negat nos orare debere ne intremus in 
+      <lb ed="#P" n="83"/>tentationem (negat autem hoc qui contendit ad 
+      <lb ed="#P" n="84"/>non peccandum gratiae Dei adjutorium non esse 
+      <lb ed="#P" n="85"/>homini necessarium, sed sola lege accepta 
+      huma<lb ed="#P" n="86" break="no"/>nam sufficere voluntatem) ab auribus omnium 
+      re<lb ed="#P" n="87" break="no"/>movendum, &amp; ore ommum anathematizandum esse 
+      <lb ed="#P" n="88"/>non dubito. Idem scribens in Psal. 89. Sine Dei, 
+      <lb ed="#P" n="89"/>3 inquit, adjutorio per liberum arbitrium tentationes 
+      <lb ed="#P" n="90"/>hujus vitae superare non possumus. Et in Psal. 
+      <lb ed="#P" n="91"/>106. Deo desistente ab adjutorio laborare potes; 
+      <lb ed="#P" n="92"/>vincere non potes. serm. 9. de diversis cap. 9. quia 
+      <lb ed="#P" n="93"/>sine dubio vinceris, si illum adjutorem non 
+      habue<lb ed="#P" n="94" break="no"/>ris, si te deseruit, ideo petis in oratione: Ne nos 
+      <lb ed="#P" n="95"/>inferas in tentationem. Idem lib. de gratia 
+      Chri<lb ed="#P" n="96" break="no"/>sti cap. 27. agens contra Pelagium dicentem, nos 
+      <lb ed="#P" n="97"/>posse per vires liberi arbitrii resistere spiritui 
+      ne<lb ed="#P" n="98" break="no"/>quam, sed facilius id posse per gratiam. Quantum, 
+      <lb ed="#P" n="99"/>inquit, detrimentum hoc additamento fecerit, quis 
+      <lb ed="#P" n="100"/>non intelligat? volens utique credi tantas esse 
+      natu<lb ed="#P" n="101" break="no"/>ra vires, quas extollendo praecipitat; ut etiam sine 
+      <lb ed="#P" n="102"/>auxilio Spiritus sancti, etsi minus facile, tamen 
+      ali<lb ed="#P" n="103" break="no"/>quo modo, nequam spiritu resistatur. Caeterum de 
+      <lb ed="#P" n="104"/>modo vincendi tentationes ita scribit lib. 21. de 
+      ci<lb ed="#P" n="105" break="no"/>vit. cap. 16. cum de vincendis peccatis verba faceret: 
+      <lb ed="#P" n="106"/>Neque id fit, inquit, veraciter atque sinceriter 
+      <lb ed="#P" n="107"/>verae delectatione justitiae. Haec est autem in fide 
+      <lb ed="#P" n="108"/>Christi. Et rursum. Tunc itaque victa vitia 
+      depu<lb ed="#P" n="109" break="no"/>tanda sunt, cum Dei amore vincuntur; quem nisi 
+      <lb ed="#P" n="110"/>Deus ipse non donat, nec aliter nisi per mediatorem 
+      <lb ed="#P" n="111"/>Christum; videatur idem Doctor in epist. 105. ad 
+      <lb ed="#P" n="112"/>Sixtum, lib. de nat. &amp; gr. cap. 18. 58. &amp; 67. lib. de 
+      <lb ed="#P" n="113"/>dono perseverantiae cap. 6. &amp; lib. 10. confess. cap. 31. 
+      <lb ed="#P" n="114"/>&amp; fragmento 1. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1416">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Prosper lib. contra Collatorem cap. 35. cum 
+      osten<lb ed="#P" n="116" break="no"/>disset sanctum Job non suis viribus, sed Dei 
+      auxi<lb ed="#P" n="117" break="no"/>lio diaboli tentationem superasse, generaliter infert: 
+      <lb ed="#P" n="118"/>Quisquis igitur in tribulatione non deficit, ab illo se 
+      <lb ed="#P" n="119"/>non dubitet adjuvari, ad quem quotidie corda 
+      uni<lb ed="#P" n="120" break="no"/>versorum fidelium clamant: Ne nos inferas in 
+      tenta<lb ed="#P" n="121" break="no"/>tionem sed libera nos a malo. Et lib. 2. de vocatione 
+      <lb ed="#P" n="122"/>gentium cap. 28. Universis, inquit, qui in fide &amp; 
+      di<lb ed="#P" n="123" break="no"/>lectione permanent, ab ipso donatur, ne in tentatione 
+      <lb ed="#P" n="124"/>superentur; ut qui gloriatur, in Demino glorietur. Docot 
+      <lb ed="#P" n="125"/>hoc idem epigr. 44. &amp; 85. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1445">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Gregorius lib. 4. dialog. cap. 10. Nemo, inquit, 
+      <lb ed="#P" n="127"/>sine Dei gratia in tentatione subsistit; &amp; nisi Deus 
+      <lb ed="#P" n="128"/>qui poenam irrogat, patientiam praestet, mox per 
+      <lb ed="#P" n="129"/>impatientiam peccatum auget ipsa corruptio 
+      peccato<lb ed="#P" n="130" break="no"/>rum. Et lib. 9. moral. cap. 7. ad illud; Et 
+      rur<lb ed="#P" n="131" break="no"/>sus in pulverem reduces me. Qui apte, inquit, 
+      redu<lb ed="#P" n="132" break="no"/>ci in pulverem dicitur, quiae dimissus sibi cujustibet 
+      <lb ed="#P" n="133"/>tentationis aura raptatur. Idem in exposit. Psalmi 
+      <lb ed="#P" n="134"/>3. Poenitentialis ad versiculum: Ne derelinquas me 
+      <lb ed="#P" n="135"/>Domine Deus meus, Illos, inquit, procul dubio 
+      do<lb ed="#P" n="136" break="no"/>minus relinquit, quibus constantiam in 
+      tribulatio<lb ed="#P" n="137" break="no"/>ne non tribuit. Necessario enim sequitur, ut omm 
+      <lb ed="#P" n="138"/>tentationi sit subditus, quicunque a Deo fuerit 
+      de<lb ed="#P" n="139" break="no"/>relictus. Quae postrema sententia plane consonat 
+      <lb ed="#P" n="140"/>cum illa Innocentii quam a Caelestino repetitam &amp; 
+      <lb ed="#P" n="141"/>confirmatam diximus. Idem Gregorius homil. 12. in 
+      <lb ed="#P" n="142"/>Ezechielem in fine loquens de insidiis, id est, 
+      ten<lb ed="#P" n="143" break="no"/>tationibus malignorum spirituum: Quibus, inquit, 
+      <lb ed="#P" n="144"/>si vere eripi appetit anima, scire debet quia eripi 
+      <lb ed="#P" n="145"/>sua virtute non possit, sed ejus necesse est ut 
+      adjuto<lb ed="#P" n="146" break="no"/>rium speret, qui nos, &amp;c. Nota illud, vere, id est, 
+      <lb ed="#P" n="147"/>salubriter. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1497">
+               <lb ed="#P" n="148"/>
+               <pc type="indent"/> Theophylactus in comment. super illud 1. 
+      <!--0575.xml-->
+      <pb ed="#P" n="342"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Corinth. 10. Fidelis Deus qui non sinet vos tentari, 
+      <lb ed="#P" n="2"/>&amp;c. Non sinet, inquit, vos tentari ultra vires vestras, 
+      <lb ed="#P" n="3"/>sed tentationem viribus vestris tolerabilem adoriri vos 
+      <lb ed="#P" n="4"/>faciet. Imo quaevis tentatio vires nostras exsuperat, 
+      <lb ed="#P" n="5"/>nisi ille auxilietur nobis, &amp; Felicem eventum 
+      pra<lb ed="#P" n="6" break="no"/>beat. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1524">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Oecumenius in ejusdem loci comment. Quaevis 
+      <lb ed="#P" n="8"/>tentatio vos everteret, nisi Christus auxiliaretur. Sic 
+      <lb ed="#P" n="9"/>duo illi authores Graeci, haud dubie secuti in ea re 
+      <lb ed="#P" n="10"/>Chrysostomum, ejusque sententiam suo calculo 
+      <lb ed="#P" n="11"/>probantes. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1540">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> His omnibus accedat synodus Trident. Cujus in 
+      <lb ed="#P" n="13"/>sess. 6. cap. 13. haec sunt verba: Formidare omnes 
+      <lb ed="#P" n="14"/>debent de pugna quae superest cum carne, cum 
+      <lb ed="#P" n="15"/>mundo, cum diabolo; in qua victores esse non possunt, 
+      <lb ed="#P" n="16"/>nisi cum Dei gratia Apostolo obtemperent dicenti; 
+      <lb ed="#P" n="17"/>Debitores sumus non carni, ut secundum carnem 
+      <lb ed="#P" n="18"/>vivamus &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1560">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Tertium argumentum est ex orationibus 
+      Eccle<lb ed="#P" n="20" break="no"/>siae. Nam non solum in oratione dominica petunt 
+      <lb ed="#P" n="21"/>omnes &amp; singuli fideles, ne inducantur in 
+      tentatio<lb ed="#P" n="22" break="no"/>nem, id est, ne a tentatione superentur, sed ipsi 
+      <lb ed="#P" n="23"/>potius eam superent, idque sine distinctione ulla 
+      <lb ed="#P" n="24"/>majoris aut minoris, aut etiam minimae tentationis; 
+      <lb ed="#P" n="25"/>verum etiam passim in publicis precibus idem aliis 
+      <lb ed="#P" n="26"/>verbis orat Ecclesia, velut dum petit; ut ab 
+      omni<lb ed="#P" n="27" break="no"/>bus quae nos pulsant tentationibus, &amp; ab omnibus 
+      <lb ed="#P" n="28"/>malis liberemur; ut ad nullum declinemus 
+      pecca<lb ed="#P" n="29" break="no"/>tum; ut percepta venia peccatorum deinceps 
+      pecca<lb ed="#P" n="30" break="no"/>ta vitemus, &amp; alia hujusmodi. Quo pertinent etiam 
+      <lb ed="#P" n="31"/>sacerdotales benedictiones super populum, quarum 
+      <lb ed="#P" n="32"/>meminit synodus Carthaginensis in epist. ad 
+      Inno<lb ed="#P" n="33" break="no"/>cent. Quae quidem orandi &amp; benedicendi 
+      consue<lb ed="#P" n="34" break="no"/>tudo in sacris literis fundata est, atque ab ipsis 
+      Apo<lb ed="#P" n="35" break="no"/>stolis ad nos manavit, uti ex supra positis scripturae 
+      <lb ed="#P" n="36"/>testimoniis palam est, frustra autem ut ejusdem 
+      sy<lb ed="#P" n="37" break="no"/>nodi Carthaginensis Patres docent, illa omnia 
+      pe<lb ed="#P" n="38" break="no"/>tuntur a Deo, si ad ea sufficiunt vires liberi arbitrii. 
+      <lb ed="#P" n="39"/>Unde &amp; Augustinus epist. 208. ad Palatinum ita 
+      <lb ed="#P" n="40"/>scribit: Oras ne intres in tentationem. Quod utique si 
+      <lb ed="#P" n="41"/>homo sibi praestare posset volendo, non posceretur 
+      oran<lb ed="#P" n="42" break="no"/>do. Quaepropter ut non intremus in tentationem, si 
+      vo<lb ed="#P" n="43" break="no"/>luntas sibi sufficeret, non oraremus. Hoc argumento 
+      <lb ed="#P" n="44"/>tum alibi Augustinus, tum alii Patres utuntur 
+      fre<lb ed="#P" n="45" break="no"/>quentissime. Videantur eorum testimonia superius 
+      <lb ed="#P" n="46"/>citata. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1625">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> Quartum argumentum a gratiarum actione 
+      fide<lb ed="#P" n="48" break="no"/>lium. Habet enim hoc eorum consuetudo, ut pro 
+      <lb ed="#P" n="49"/>quacunque tentatione superata Deo tanquam 
+      au<lb ed="#P" n="50" break="no"/>thori &amp; adjutori, gratias agant. Quod ipsum 
+      quo<lb ed="#P" n="51" break="no"/>que in scripturis fundatur, &amp; ex Apostolica venit 
+      <lb ed="#P" n="52"/>doctrina, quemadmodum apertissime docent loca 
+      <lb ed="#P" n="53"/>1. Corinth. 15. &amp; 2. Corinth. 2. quibus Apostolus 
+      <lb ed="#P" n="54"/>Deo gratias agit pro omni victoria &amp; 
+      triumpho<lb ed="#P" n="55" break="no"/>Sic Augustinus gratiae Dei deputat, quaecunque non 
+      <lb ed="#P" n="56"/>fecit mala, &amp; lib. 10. confess. cap. 31. refert ad gratiam 
+      <lb ed="#P" n="57"/>Dei, quod non fuerit ebriosus, ita inquiens: 
+      Ebrio<lb ed="#P" n="58" break="no"/>sus nunquam fui, sed ebriosos a te sobrios factos ego 
+      <lb ed="#P" n="59"/>novi. A te factum est, ut hoc non essent, qui nunquam 
+      <lb ed="#P" n="60"/>fuerunt; a quo factum est, ut hoc non semper essent, 
+      <lb ed="#P" n="61"/>qui fuerunt. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1662">
+               <lb ed="#P" n="62"/>
+               <pc type="indent"/> Quintum argumentum a gloriatione. Nam in 
+      so<lb ed="#P" n="63" break="no"/>lo Deo gloriandum esse de superata quacunque 
+      e<lb ed="#P" n="64" break="no"/>tiam minima tentatione, persuasio est fidelium ex 
+      <lb ed="#P" n="65"/>doctrina Apostoli dicentis: Qui gloriatur in Domino 
+      <lb ed="#P" n="66"/>glorietur, &amp; Psalmistae canentis. Non nobis Domine, 
+      <lb ed="#P" n="67"/>non nobis, sed nomini tuo da gloriam. Unde omnium 
+      <lb ed="#P" n="68"/>sanctorum universitas totius victoriae suae coronas 
+      <lb ed="#P" n="69"/>refert ad gloriam &amp; honorem Dei Apoc. 4. Et 
+      Ec<lb ed="#P" n="70" break="no"/>clesia petit nos custodiri a peccato in diurnis 
+      acti<lb ed="#P" n="71" break="no"/>bus, ut mundi per abstinentiam Deo canamus 
+      glo<lb ed="#P" n="72" break="no"/>riam. Item in laudibus Dei canit: Tu vincis in 
+      <lb ed="#P" n="73"/>martyribus. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1693">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Sed jam postremo loco breviter ostendamus su¬ 
+      <!--0575.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>periorem doctrinam tot argumentis &amp; testimoniis 
+      <lb ed="#P" n="76"/>confirmatam, intelligi debere de victoria 
+      tentatio<lb ed="#P" n="77" break="no"/>num, quae habetur ex charitate Dei &amp; spe 
+      beatitu<lb ed="#P" n="78" break="no"/>dinis aeternae. Qui erat tertius victoriae modus 
+      ini<lb ed="#P" n="79" break="no"/>tio expositus. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1716">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Probatur id primo; quia testimonia ex Scripturis 
+      <lb ed="#P" n="81"/>&amp; Patribus allegata, omnia aut fere omnia 
+      loquun<lb ed="#P" n="82" break="no"/>tur generaliter ac sine discrimine de quacunque 
+      ten<lb ed="#P" n="83" break="no"/>tatione etiam minima; sicut ea quibus dudum 
+      osten<lb ed="#P" n="84" break="no"/>sum fuit, nullum bonum nos posse sine gratia Dei, 
+      <lb ed="#P" n="85"/>loquebantur de omni bono agendo etiam minimo. 
+      <lb ed="#P" n="86"/>Quare sicut illa doctrina restringenda erat ad 
+      cer<lb ed="#P" n="87" break="no"/>tum modum agendi quod bonum est, scilicet ad eum 
+      <lb ed="#P" n="88"/>modum quo fit aliquid ob spem vitae aeternae; ita &amp; 
+      <lb ed="#P" n="89"/>hanc de superanda tentatione doctrinam necesse est 
+      <lb ed="#P" n="90"/>ad eundem vincendi modum limitari; cum alioqui 
+      <lb ed="#P" n="91"/>constet, atque hoc loco ex praemissis supponatur, 
+      <lb ed="#P" n="92"/>ut bonum aliquod morale fieri posse, sic &amp; levem 
+      <lb ed="#P" n="93"/>aliquam tentationem superari posse sine speciali Dei 
+      <lb ed="#P" n="94"/>auxilio. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1753">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Secundo; quia Scriptura docet omnes 
+      tentatio<lb ed="#P" n="96" break="no"/>nes superandas esse per fidem Ephes. 6. In, omnibus 
+      <lb ed="#P" n="97"/>sumentes scutum fidei, in quo possitis omnia tela 
+      ne<lb ed="#P" n="98" break="no"/>quissimi ignea extinguere. 1. Petri 5. Cui resistite fortes 
+      <lb ed="#P" n="99"/>in fide. Quae res etiam multis exemplis docetur in 
+      <lb ed="#P" n="100"/>epist. ad Heb. 11. scilicet eorum qui varias hujus 
+      <lb ed="#P" n="101"/>mundi persecutiones, ad versitates, tentationes 
+      devi<lb ed="#P" n="102" break="no"/>cerunt ex fide &amp; spe futurorum bonorum. Hic est 
+      <lb ed="#P" n="103"/>autem modus vincendi de quo agimus. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1777">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Tertio; quia quicunque orat: Ne nos inducas in 
+      <lb ed="#P" n="105"/>tentationem, intendit, aut certe intendere debet 
+      vi<lb ed="#P" n="106" break="no"/>ctoriam tentationum consequi ob spem vitae aeternae; 
+      <lb ed="#P" n="107"/>quia oratio proficisci debet ex fide &amp; spe caelestium 
+      <lb ed="#P" n="108"/>bonorum. Unde haec probatio communis est ad 
+      om<lb ed="#P" n="109" break="no"/>nem orationem, qua petimus a Deo liberationem 
+      <lb ed="#P" n="110"/>a tentatione. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1797">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Quarto; quia Scripturae victoriam tentationum 
+      <lb ed="#P" n="112"/>ascribunt meritis Christi. Id enim expressit 
+      Aposto<lb ed="#P" n="113" break="no"/>lus 1. Corinth. 15. &amp; 2. Cor. 2. dum addit, Per 
+      Chri<lb ed="#P" n="114" break="no"/>stum &amp; in Christo. Et David beatum vocat eum, qui 
+      <lb ed="#P" n="115"/>tenebit &amp; allidet parvulos ad petram. Quod Patres 
+      <lb ed="#P" n="116"/>mystice interpretantur de primis ac parvis 
+      tentatio<lb ed="#P" n="117" break="no"/>num initiis opprimendis, in vocato nomine Christi, 
+      <lb ed="#P" n="118"/>qui est petra &amp; fortitudo nostra. Hinc &amp; ipse 
+      Chri<lb ed="#P" n="119" break="no"/>stus ait ad discipulos Joan. 16. In mundo pressuram 
+      <lb ed="#P" n="120"/>habebitis, sed confidite ego vici mundum, quasi dicat, 
+      <lb ed="#P" n="121"/>per merita mea, qui mundum vici, sperare debetis 
+      <lb ed="#P" n="122"/>&amp; confidere, vos superaturos omnem tentationem 
+      <lb ed="#P" n="123"/>&amp; pressuram quam vobis mundus inferet. Atqui per 
+      <lb ed="#P" n="124"/>Christum, qui pontifex est futurorum bonorum, non 
+      <lb ed="#P" n="125"/>promittitur nobis, nec datur victoria nisi ordinata 
+      <lb ed="#P" n="126"/>ad spem vitae aeternae. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1836">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Quinto; quia &amp; Ecclesia omnes suas orationes 
+      <lb ed="#P" n="128"/>concludit, Per Christum Dominum nostrum; ergo 
+      quo<lb ed="#P" n="129" break="no"/>tiescunque orat pro superandis tentationibus, non 
+      <lb ed="#P" n="130"/>aliam quaerit victoriam, quam quae per Christum 
+      da<lb ed="#P" n="131" break="no"/>tur, id est, ordinatam ad spem aeternae vitae, ut modo 
+      <lb ed="#P" n="132"/>dictum est. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1854">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Ultimo; quia Patres &amp; Concilia dum negant 
+      ten<lb ed="#P" n="134" break="no"/>tationes superari posse sine Dei auxilio, loquuntur 
+      <lb ed="#P" n="135"/>conformiter Scripturis sacris, ex quibus doctrinam 
+      <lb ed="#P" n="136"/>suam hauserunt; ergo de ea loquuntur tentationum 
+      <lb ed="#P" n="137"/>victoria, de qua Scripturas loqui jam monstratum 
+      <lb ed="#P" n="138"/>est. Item sicut definiverunt gratiam Dei ad singulos 
+      <lb ed="#P" n="139"/>actus esse necessariam, ita ejusdem necessitatem 
+      <lb ed="#P" n="140"/>statuerunt ad singulas tentationes superandas. 
+      Qua<lb ed="#P" n="141" break="no"/>re sicut egerunt de actibus ad salutem 
+      pertinenti<lb ed="#P" n="142" break="no"/>bus; ita &amp; de victoria salutem hominis promovente. 
+      <lb ed="#P" n="143"/>Ac de ea re locum apertissimum supra produximus 
+      <lb ed="#P" n="144"/>ex Augustino lib. 21. de civitate cap. 16. ubi dicit, 
+      <lb ed="#P" n="145"/>veraciter ac sinceriter peccata vinci non posse, nisi 
+      <lb ed="#P" n="146"/>in fide Christi. Et tunc demum vitia victa deputari, 
+      <lb ed="#P" n="147"/>cum Deiamore vincuntur; quem non dat nisi Deus, 
+      <lb ed="#P" n="148"/>nec aliter nisi per mediatorem Christum. Similis 
+      <!--0576.xml-->
+      <pb ed="#P" n="343"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>locus est apud eum serm. 9. de verbis Domini, ubi 
+      <lb ed="#P" n="2"/>cum de periculis quae Paulus passum se 
+      commemo<lb ed="#P" n="3" break="no"/>rat 2. Corinth. 1. dixisset; quae numerari quidem 
+      pos<lb ed="#P" n="4" break="no"/>sunt, sed tolerari nisi Spiritu sancto juvante non possunt, 
+      <lb ed="#P" n="5"/>mox addit, eundem Spiritum sanctum in spe 
+      beati<lb ed="#P" n="6" break="no"/>tudinis aeternae omnia aspera lenivisse &amp; gravia 
+      rele<lb ed="#P" n="7" break="no"/>vasse. Nec vero aliud velle videntur verba 
+      Oecume<lb ed="#P" n="8" break="no"/>nii dicentis, quod quaevis tentatio nos everteret, nisi 
+      <lb ed="#P" n="9"/>Christus auxiliaretur. Christum enim intelligit 
+      auxi<lb ed="#P" n="10" break="no"/>liantem per meritum suum¬ 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1922">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> Ex his porro vice versa consequens est, in 
+      praedi<lb ed="#P" n="12" break="no"/>cta Patrum doctrina omnem peccati tentationem 
+      <lb ed="#P" n="13"/>sine exceptione intelligi debere. Ratio est, quia illo 
+      <lb ed="#P" n="14"/>victoriae modo, quem Patres secundum Scripturas in 
+      <lb ed="#P" n="15"/>sua doctrina spectasse docuimus, nulla tentatio ne 
+      <lb ed="#P" n="16"/>minima quidem superari potest, nisi per auxilium 
+      <lb ed="#P" n="17"/>gratiae Christi. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1942">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Verumtamen non putamus negandum, quin 
+      Pa<lb ed="#P" n="19" break="no"/>tres sicut interdum de modo agendi quod bonum 
+      <lb ed="#P" n="20"/>est, loquuntur generaliter, quando docent nullum 
+      <lb ed="#P" n="21"/>bonum nos posse sine Deo. Qua ratione dictum est 
+      <lb ed="#P" n="22"/>in concilio Arausicano, hominem non habere de 
+      <lb ed="#P" n="23"/>suo nisi mendacium &amp; peccatum, &amp; a Zozymo 
+      Pa<lb ed="#P" n="24" break="no"/>pa, omnia bona referenda esse ad authorem suum 
+      <lb ed="#P" n="25"/>unde nascuntur: Ita &amp; de modo vincendi 
+      tentatio<lb ed="#P" n="26" break="no"/>nes interdum generaliter loquuntur, quando negant 
+      <lb ed="#P" n="27"/>ullam tentationem vinci posse nisi Deo juvante, 
+      sci<lb ed="#P" n="28" break="no"/>licet ut sententiam extendant ad secundum 
+      vincen<lb ed="#P" n="29" break="no"/>di modum, quo nimirum tentatio peccati vincitur 
+      <lb ed="#P" n="30"/>amore honesti. Dum autem sic loquuntur, sive de 
+      <lb ed="#P" n="31"/>bono agendo, sive de tentatione superanda, 
+      conse<lb ed="#P" n="32" break="no"/>quens est, ut etiam de auxilio Deiloquantur 
+      gene<lb ed="#P" n="33" break="no"/>raliter, id est, de eo sine quo nulla causa creata 
+      quic<lb ed="#P" n="34" break="no"/>quam agere potest. 
+    </p>
+            <p xml:id="bt67yj-p131073-d1e1984">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Quae res hoc loco animadversa, ni fallor, aperit 
+      <lb ed="#P" n="36"/>intellectum quorundam dictorum, quae nos ex 
+      Pa<lb ed="#P" n="37" break="no"/>tribus citavimus; quae alioquin durius sonare 
+      vide<lb ed="#P" n="38" break="no"/>rentur. Quale fortassis est quod dicit Innocentius 
+      Pa<lb ed="#P" n="39" break="no"/>pa, necessarium esse ut quo auxiliante vincimus, 
+      <lb ed="#P" n="40"/>eodem rursus non adjuvante vincamur. Et quod 
+      Gre<lb ed="#P" n="41" break="no"/>gorius, necessario sequi, ut omni tentationi sit 
+      subdi<lb ed="#P" n="42" break="no"/>tus, quicunque a Deo fuerit derelictus, &amp; alia 
+      hujus<lb ed="#P" n="43" break="no"/>modi nonnulla. Nam omnes istas Patrum sententias 
+      <lb ed="#P" n="44"/>(quod quibusdam placet) ad graviores tentationes 
+      <lb ed="#P" n="45"/>restringere, nimis videtur violentum, &amp; ab eorum 
+      <lb ed="#P" n="46"/>mente alienum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

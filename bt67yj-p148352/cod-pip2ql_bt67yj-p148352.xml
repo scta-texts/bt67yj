@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="383"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p148352"><!-- l2d41c1" -->
+            <head xml:id="bt67yj-p148352-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p148352-Hd1e103" type="question-title">Argumenta quae probare videntur omnia 
+      infidelium opera esse peccata</head>
+            <p xml:id="bt67yj-p148352-d1e106">
+               <lb ed="#P" n="58"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="59"/>QUADRACESIMAMPRIMAM. 
+      <lb ed="#P" n="60"/>§. 1. Argumenta quae probare videntur omnia 
+      <lb ed="#P" n="61"/>infidelium opera esse peccata.
+    </p>
+            <p xml:id="bt67yj-p148352-d1e117">
+               <lb ed="#P" n="62"/>CUM supra sit ostensum, tam voluntatem 
+      <lb ed="#P" n="63"/>quam externum opus alioqui bonum, 
+      vi<lb ed="#P" n="64" break="no"/>tiari mala intentione, merito nunc subjicit 
+      <lb ed="#P" n="65"/>hanc quaestionem Magister, an omnia opera eorum 
+      <lb ed="#P" n="66"/>qui fide carent, sint mala, ideóque peccata. Quod 
+      <lb ed="#P" n="67"/>videri ex eo poterat, quia cum fides intentionem 
+      <!--0616.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>dirigat, &amp; intentio bonum opus faciat, teste 
+      Augu<lb ed="#P" n="69" break="no"/>stino in praefatione ad Psal. 31. consequens apparet, 
+      <lb ed="#P" n="70"/>ubi fides non est, nullum opus bonum esse. Hanc 
+      <lb ed="#P" n="71"/>igitur apud Doctores celebrem &amp; multorum 
+      dispu<lb ed="#P" n="72" break="no"/>tatione agitatam quaestionem, hoc ordine 
+      explica<lb ed="#P" n="73" break="no"/>re conabimur, ut primum affirmativae, deinde 
+      ne<lb ed="#P" n="74" break="no"/>gativae partis argumenta nude proponamus, ac 
+      po<lb ed="#P" n="75" break="no"/>stremo utra probabilius tenenda sit indicemus, cum 
+      <lb ed="#P" n="76"/>solutione eorum quae in diversam partem objecta 
+      <lb ed="#P" n="77"/>fuerint. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e159">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Affirmativae partis haec sunt argumenta ex 
+      Scriptu<lb ed="#P" n="79" break="no"/>ris, Patribus &amp; rationibus desumpta. Ex Scripturis 
+      <lb ed="#P" n="80"/>quidem ista. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e171">
+               <lb ed="#P" n="81"/>Primum: Rom. 14. manifesta est haec Apostoli 
+      sen<lb ed="#P" n="82" break="no"/>tentia: Omne quod non est ex fide, peccatum est. Fidem 
+      <lb ed="#P" n="83"/>autem co loco proprie accipi pro assensu eorum quae 
+      <lb ed="#P" n="84"/>divinitus revelantur, apparet ex antecedentibus. Nam 
+      <lb ed="#P" n="85"/>paulo ante, ubi dicitur: Tu fidem habes? &amp;c. Et in 
+      ip<lb ed="#P" n="86" break="no"/>so capitis initio, ubi disputationem de cibis non 
+      dis<lb ed="#P" n="87" break="no"/>cernendis ingreditur Apostolus, patet fidem juxta 
+      di<lb ed="#P" n="88" break="no"/>ctam significationem accipi. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e191">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Secundum: Heb. 11. Sine fide impossibile est 
+      place<lb ed="#P" n="90" break="no"/>re Deo; quare nec opus ullum sine fide Deo placere 
+      <lb ed="#P" n="91"/>poterit. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e202">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Tertium: Matth. 6. Si oculus tuus fuerit nequam, 
+      <lb ed="#P" n="93"/>totum corpus tuum tenebrosum erit; ergo si intentio 
+      <lb ed="#P" n="94"/>prava sit, utpote carens lumine fidei, universa 
+      ope<lb ed="#P" n="95" break="no"/>ra inde vitium contrahent, &amp; proinde peccata erunt, 
+      <lb ed="#P" n="96"/>quae tenebrarum nomine in Scripturis significari 
+      so<lb ed="#P" n="97" break="no"/>lent. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e220">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Quartum: Matth. 7. Non potest arbor mala bonos 
+      <lb ed="#P" n="99"/>fructus facere. Constat autem voluntatem hominis 
+      <lb ed="#P" n="100"/>infidelis, ut quae peccati dominio subjecta est, esse 
+      <lb ed="#P" n="101"/>arborem malam. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e233">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Quintum: Joan. 15. Sine me nihil potestis facere, id 
+      <lb ed="#P" n="103"/>est, nullum fructum producere. Hunc enim sensum 
+      <lb ed="#P" n="104"/>ea quae procedunt, postulant. Cum ergo infideles 
+      <lb ed="#P" n="105"/>prorsus alieni sint a gratia Christi, sequitur nullum 
+      <lb ed="#P" n="106"/>eorum opus bonum seu fructuosum esse. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e249">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Sextum: Coloss. 3. Omnia quaecunque facitis in 
+      no<lb ed="#P" n="108" break="no"/>mine Demini nostri Jesu Christi facite: At infideles in 
+      <lb ed="#P" n="109"/>ejus nomine nihil facere manifestum est; igitur in 
+      <lb ed="#P" n="110"/>omni opera contra hoc praeceptum peccant. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e263">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Septimum: 1. Corinth. 10. Omnia in gloriam Dei 
+      <lb ed="#P" n="112"/>facite: Hoc autem in nullo opere praestant qui Deum 
+      <lb ed="#P" n="113"/>non noverunt. Et hanc Scripturam sanct. Augustinus 
+      <lb ed="#P" n="114"/>praecepti vim habere intellexit epistola 81. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e276">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Porro ex Patribus haec loca proferri solent 
+      Augu<lb ed="#P" n="116" break="no"/>stinus contra Julianum disputans libro 4. capite 3. 
+      <lb ed="#P" n="117"/>manifestis, ut apparet, verbis hanc sententiam 
+      a<lb ed="#P" n="118" break="no"/>struit &amp; rationibus confirmat. Tractans enim hanc 
+      <lb ed="#P" n="119"/>de qua agimus quaestionem. Noveris, inquit, non 
+      <lb ed="#P" n="120"/>officiis, sed finibus a vitiis discernendas esse 
+      vir<lb ed="#P" n="121" break="no"/>tutes. Officium est autem quod faciendum est; finis 
+      <lb ed="#P" n="122"/>vero propter quod faciendum est. Cum itaque 
+      fa<lb ed="#P" n="123" break="no"/>cit homo aliquid, ubi peccare non videtur, si non 
+      <lb ed="#P" n="124"/>propter hoc facit propter quod facere debet, 
+      pecca<lb ed="#P" n="125" break="no"/>re convincitur. Et post nonnulla quae de veris &amp; 
+      fal<lb ed="#P" n="126" break="no"/>sis virtutibus interponit, sic ait: Quicquid autem 
+      <lb ed="#P" n="127"/>boni fit ab homine, &amp; non propter hoc fit propter 
+      <lb ed="#P" n="128"/>quod fieri debere vera sapientia praecipit, etsi 
+      offi<lb ed="#P" n="129" break="no"/>cio videatur bonum, ipso non recto fine, peccatum 
+      <lb ed="#P" n="130"/>est. Ac deinde interpositis testimoniis Scripturae, 
+      <lb ed="#P" n="131"/>Rom. 14. &amp; Heb. 11. supra citatis, dicit gentes, 
+      li<lb ed="#P" n="132" break="no"/>cet naturaliter quae legis sunt utcunque fecissent, eos 
+      <lb ed="#P" n="133"/>tamen peccasse, quod homines sine fide non ad eum 
+      <lb ed="#P" n="134"/>finem sua opera retulissent, ad quem referre 
+      debue<lb ed="#P" n="135" break="no"/>runt. Denique post multa cum ex persona Juliani 
+      <lb ed="#P" n="136"/>sibi objecisset haec verba: Si gentilis nudum 
+      ope<lb ed="#P" n="137" break="no"/>ruerit, nunquid quia non est ex fide, peccatum est ! 
+      <lb ed="#P" n="138"/>Respondet; prorsus inquantum non est ex fide, 
+      pec<lb ed="#P" n="139" break="no"/>catum est; non quia per scipsum factum, quod est 
+      <lb ed="#P" n="140"/>nudum operire, peccatam est, se! de tali opere 
+      <lb ed="#P" n="141"/>non in Domino gloriari, solus impius negat esse 
+      <!--0617.xml-->
+      <pb ed="#P" n="384"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>peccatum. Ac deinceps pluribus docet, infidelem A 
+      <lb ed="#P" n="2"/>bene quicquam facere non posse, adjungens etiam 
+      <lb ed="#P" n="3"/>testimonia illa Matth. 6. &amp; 7. supra a nobis posita. 
+      <lb ed="#P" n="4"/>Similia leguntur apud eundem sub finem capitis 8. 
+      <lb ed="#P" n="5"/>ejusdem libri. Item libro 10. de civit. capite 18. &amp; 
+      <lb ed="#P" n="6"/>libro 15. capite 20. &amp; libro 19. capite 21. &amp; 25. 
+      Rur<lb ed="#P" n="7" break="no"/>sum in Joannem scribens tract. 12. 25. 45. 72. &amp; 
+      <lb ed="#P" n="8"/>86. docet sine fide Christi nulla esse bona, sed 
+      om<lb ed="#P" n="9" break="no"/>nia mala opera. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e365">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Huic sententiae &amp; Prosper consentire videtur non 
+      <lb ed="#P" n="11"/>uno loco. Nam in lib. sententiarum Augustini 
+      sen<lb ed="#P" n="12" break="no"/>tentia 106. Omnis, inquit, infidelium vita 
+      pecca<lb ed="#P" n="13" break="no"/>tum est, &amp; nihil est bonum sine summo bono. Ubi 
+      <lb ed="#P" n="14"/>enim deest agnitio aeternae &amp; incommutabilis veritatis, 
+      <lb ed="#P" n="15"/>falsa virtus est etiam in optimis moribus. Quae verba 
+      <lb ed="#P" n="16"/>ab eo repetita sunt in titulo epigrammatis 81. Et 
+      con<lb ed="#P" n="17" break="no"/>tra Collatorem capite 28. manifestissime patere 
+      di<lb ed="#P" n="18" break="no"/>cit omnia opera impiorum immunda &amp; polluta esse. 
+      <lb ed="#P" n="19"/>Rationem autem praemittit, quia in omnibus 
+      stu<lb ed="#P" n="20" break="no"/>diis etiam quae honesta videntur, non Deo, sed 
+      <lb ed="#P" n="21"/>diabolo serviunt; scilicet appetitu honoris &amp; 
+      glo<lb ed="#P" n="22" break="no"/>riae. Et in carmine de ingratis sic canit: Omne etenim 
+      <lb ed="#P" n="23"/>virtutis opus, si semine verae justitiae careat, 
+      pecca<lb ed="#P" n="24" break="no"/>tum est, &amp;c. Nec dissimile est quod Fulgentius 
+      <lb ed="#P" n="25"/>libr. 2. de peccatorum remissione capite 1. probat 
+      <lb ed="#P" n="26"/>necessitatem fidei Catholicae ex eo, quia dictum 
+      <lb ed="#P" n="27"/>est ab Apostolo, quicquid non est ex fide, peccatum 
+      <lb ed="#P" n="28"/>esse. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e411">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Quibus accedit authoritas Concilii Arausicani. 
+      <lb ed="#P" n="30"/>cujus hic est Canon. 22. Nemo habet de suo nisi 
+      <lb ed="#P" n="31"/>mendacium &amp; peccatum. Quae verba sumpta sunt ex 
+      <lb ed="#P" n="32"/>tract. 5. Augustini in Joannem. Nec aliud sensisse 
+      <lb ed="#P" n="33"/>videtur Magister hac dist. tametsi non prorsus 
+      defi<lb ed="#P" n="34" break="no"/>nite loquatur. Denique inter Scholasticos eam 
+      sen<lb ed="#P" n="35" break="no"/>tentiam tuetur <name xml:id="bt67yj-p148352-Nd1e430">Gregorius Ariminensis</name>, &amp; 
+      nonnul<lb ed="#P" n="36" break="no"/>li alii. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e435">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Rationes autem sunt istae. Prima. Omne opus a 
+      <lb ed="#P" n="38"/>deliberata voluntate profectum, aut in Deum 
+      re<lb ed="#P" n="39" break="no"/>fertur ut finem ultimum, &amp; bonum est, aut in 
+      crea<lb ed="#P" n="40" break="no"/>turam &amp; malum est: At infidelis in Deum, quem 
+      <lb ed="#P" n="41"/>non novit, sua opera referre non potest; igitur 
+      om<lb ed="#P" n="42" break="no"/>nia refert in creaturam, atque ita in omnibus 
+      pec<lb ed="#P" n="43" break="no"/>cat. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e455">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Secunda: Omnis actio humana, aut est ordinata 
+      <lb ed="#P" n="45"/>aut inordinata; ordinata quidem, si in debitum 
+      <lb ed="#P" n="46"/>finem referatur; inordinata vero, si non in debitum 
+      <lb ed="#P" n="47"/>finem. Non potest autem esse ordinata actio ejus, 
+      <lb ed="#P" n="48"/>qui debitum finem ignorat; est igitur inordinata, &amp; 
+      <lb ed="#P" n="49"/>per consequens vitiosa. 
+    </p>
+            <p xml:id="bt67yj-p148352-d1e474">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Tertia: Primus homo ex lege naturae tenebatur 
+      <lb ed="#P" n="51"/>omnia opera sua referre in Deum; atqui lex naturae 
+      <lb ed="#P" n="52"/>per peccatum non est mutata: ergo ad idem 
+      praestan<lb ed="#P" n="53" break="no"/>dum tenetur homo lapsus; peccat ergo quoties id 
+      <lb ed="#P" n="54"/>non facit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

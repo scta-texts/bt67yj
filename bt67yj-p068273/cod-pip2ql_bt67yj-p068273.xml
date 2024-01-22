@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="177"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p068273"><!-- l2d20c4" -->
+            <head xml:id="bt67yj-p068273-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p068273-Hd1e103" type="question-title">Quales in primo statu nati fuissent 
+      <pc type="indent"/> filii</head>
+            <p xml:id="bt67yj-p068273-d1e108">
+               <lb ed="#P" n="15"/>
+               <pc type="indent"/> §. 4. Quales in primo statu nati fuissent 
+      <lb ed="#P" n="16"/>
+               <pc type="indent"/> filii.
+    </p>
+            <p xml:id="bt67yj-p068273-d1e119">
+               <lb ed="#P" n="17"/>ULterius quaeritur quales tam corpore quam 
+      <lb ed="#P" n="18"/>anima filios procrcassent primi homines, 
+      eo<lb ed="#P" n="19" break="no"/>rumque posteri, si in innocentia perstitissent. Et 
+      <lb ed="#P" n="20"/>quidem quoad corpus, utrum statura grandes an 
+      <lb ed="#P" n="21"/>parvulos, &amp; utrum imbecilles an membrorum 
+      of<lb ed="#P" n="22" break="no"/>ficiis utentes: Quoad animam vero, utrum &amp; 
+      sen<lb ed="#P" n="23" break="no"/>su parvulos ac mente infirmos, an autem ad 
+      discer<lb ed="#P" n="24" break="no"/>nendum bonum ac malum sufficientem rationis 
+      <lb ed="#P" n="25"/>usum habentes. 
+    </p>
+            <p xml:id="bt67yj-p068273-d1e141">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Quo loco constituendum imprimis est, nascituros 
+      <lb ed="#P" n="27"/>fuisse filios ut peccati, sic &amp; miseriae omnis expertes; 
+      <lb ed="#P" n="28"/>&amp; proinde quicquid ad miseriam pertinet, ab illo 
+      <lb ed="#P" n="29"/>nascentium ac recens natorum statu excludi 
+      opor<lb ed="#P" n="30" break="no"/>tere. Sed &amp; illud verum est quod aiunt naturam 
+      se<lb ed="#P" n="31" break="no"/>quendam esse, ubi divina non occurrit authoritas. 
+      <lb ed="#P" n="32"/>Erant igitur nascituri filii quales nunc nascuntur, iis 
+      <lb ed="#P" n="33"/>exceptis quae ab illo statu removet authoritas 
+      divi<lb ed="#P" n="34" break="no"/>na, peccato scilicet &amp; miseria. 
+    </p>
+            <p xml:id="bt67yj-p068273-d1e166">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Unde non est negandum eos propter uteri 
+      ma<lb ed="#P" n="36" break="no"/>terni angustias parvulos fuisse nascituros, uti nunc 
+      <lb ed="#P" n="37"/>nascuntur, nec non ea teneritudine corporis, quod 
+      <lb ed="#P" n="38"/>ad actiones viriles nondum esset idoneum. 
+      Quam<lb ed="#P" n="39" break="no"/>vis enim res omnes ab initio perfectae conditae sint a 
+      <lb ed="#P" n="40"/>Deo, quae tamen ex illis oriuntur, seu nativitate, 
+      <lb ed="#P" n="41"/>seu alio generationis modo, eas in ortu suo 
+      imper<lb ed="#P" n="42" break="no"/>fectas esse, deinde progressu temporis incrementa 
+      <lb ed="#P" n="43"/>capere tam virium quam magnitudinis, suamque 
+      <lb ed="#P" n="44"/>perfectionem consequi videmus. Attamen 
+      verisimi<lb ed="#P" n="45" break="no"/>se est eosdem parvulos habituros fuisse usum 
+      om<lb ed="#P" n="46" break="no"/>nium suorum membrorum ad actiones illi 
+      corpus<lb ed="#P" n="47" break="no"/>culo necessarias &amp; illi aetati congruentes, 
+      quemad<lb ed="#P" n="48" break="no"/>modum sensisse sanctum Augustinum satis apparet 
+      <lb ed="#P" n="49"/>ex iis quae disserit lib. I. de peccatorum meritis cap. 
+      <lb ed="#P" n="50"/>37. &amp; 38. Quae sententia plene expressa reperitur 
+      <lb ed="#P" n="51"/>apud Alexandrum Alensem parte secunda summae; 
+      <lb ed="#P" n="52"/>licet enim sanctus Thomas prima parte quaestione 
+      <lb ed="#P" n="53"/>99. articulo primo, non omnino sequatur, ut qui 
+      <lb ed="#P" n="54"/>agnoscat in illo statu defectus pueriles. Itaque ex 
+      <lb ed="#P" n="55"/>Augustini sententia consequens videtur, sicut 
+      de<lb ed="#P" n="56" break="no"/>ducit Alensis &amp; quidam alii, quod pueri recenter 
+      <lb ed="#P" n="57"/>nati usum habuissent manuum ad capiendum &amp; 
+      te<lb ed="#P" n="58" break="no"/>nendum quippiam, &amp; pedum ad progrediendum, 
+      <lb ed="#P" n="59"/>&amp; linguae ad loquendum. Unde nec proprie ulli 
+      <lb ed="#P" n="60"/>infantes essent in eo statu. Verumtamen non est 
+      <lb ed="#P" n="61"/>dubitandum quin ibi non tantum mares, sed &amp; 
+      <lb ed="#P" n="62"/>foeminae essent nasciturae, sicut initio masculus &amp; 
+      <lb ed="#P" n="63"/>foemina creati fuerunt. Sicut enim ad perfectionem 
+      <lb ed="#P" n="64"/>universi pertinent diversi gradus rerum, ita 
+      diver<lb ed="#P" n="65" break="no"/>sitas sexus ad perfectionem requiritur humanae 
+      na<lb ed="#P" n="66" break="no"/>turae; imo ad necessitatem, ut sine qua non pesset 
+      <lb ed="#P" n="67"/>natura propagari. Nec obstat quod ex sententia 
+      <lb ed="#P" n="68"/>philosophi, foemina imperfectum est animal, &amp; 
+      <lb ed="#P" n="69"/>praeter intentionem naturae velut ex occasione 
+      gene<lb ed="#P" n="70" break="no"/>ratum, lib. 2. de generatione animalium cap. 3. &amp; 
+      <lb ed="#P" n="71"/>libro 4. capite 2. 3. &amp; 6. licet enim in generatione 
+      <!--0410.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>foeminae natura particularis non assequatur 
+      inten<lb ed="#P" n="73" break="no"/>tionem suam, quae est ut nascatur animal in sua 
+      spe<lb ed="#P" n="74" break="no"/>cie perfectum, &amp; generanti simile etiam secundum 
+      <lb ed="#P" n="75"/>sexum; completur tamen intentio naturae 
+      universa<lb ed="#P" n="76" break="no"/>lis, dum nascitur animal in eo sexu qui necessarius 
+      <lb ed="#P" n="77"/>est ad generationem. Nec provenisset in illo statu 
+      <lb ed="#P" n="78"/>generatio foeminae ex imbecillitate virtutis 
+      generan<lb ed="#P" n="79" break="no"/>tis, sicut nunc plerumque accidit; sed ex aliis 
+      cau<lb ed="#P" n="80" break="no"/>sis, ac potissimum ex ipsius generantis voluntate, 
+      <lb ed="#P" n="81"/>quemadmodum id docte explicant sanctus Thomas 
+      <lb ed="#P" n="82"/>ubi supra, articulo 2. ad 2. &amp; Bonaventura in hanc 
+      <lb ed="#P" n="83"/>distinctionem quaestione 6. 
+    </p>
+            <p xml:id="bt67yj-p068273-d1e281">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Jam quod ad mentis officia attinet, quamvis 
+      igno<lb ed="#P" n="85" break="no"/>rantia earum rerum quae non debent sciri, non sit 
+      <lb ed="#P" n="86"/>in vitio ponenda; quaedam tamen sunt quorum 
+      co<lb ed="#P" n="87" break="no"/>grritio adeo congruit omni hominum aetati, ut non 
+      <lb ed="#P" n="88"/>possit non in quacunque aetate vitiosum videri si 
+      <lb ed="#P" n="89"/>nesciantur. Unde recte &amp; convenienter dicitur, 
+      <lb ed="#P" n="90"/>quod in illo rectitudinis statu parvuli etiam 
+      ratio<lb ed="#P" n="91" break="no"/>nis usum aliquem ab ipso nativitatis exordio 
+      habi<lb ed="#P" n="92" break="no"/>turi fuissent; ita ut pro conditione illius aetatis 
+      in<lb ed="#P" n="93" break="no"/>ter bonum &amp; malum, noxium &amp; innoxium, 
+      lici<lb ed="#P" n="94" break="no"/>tum &amp; illicitum discernerent, aliquam Dei suique 
+      <lb ed="#P" n="95"/>notitiam haberent, &amp; ad praecepta ad disciplinas 
+      <lb ed="#P" n="96"/>percipiendas jam tum formabiles esse inciperent, 
+      <lb ed="#P" n="97"/>ac fortassis etiam in utero materno Deum novissent 
+      <lb ed="#P" n="98"/>saltem tenui quadam notitia paulatim perficienda. 
+      <lb ed="#P" n="99"/>Haec omnia probabilia fiunt ex iis quae scribit 
+      san<lb ed="#P" n="100" break="no"/>ctus Augustinus libro 1. de peccatorum meritis 
+      <lb ed="#P" n="101"/>capite 36. &amp; 37. &amp; libro 2. capite 29. item libro 1. 
+      <lb ed="#P" n="102"/>confessionum eap. septimo, &amp; libro 22. de 
+      Civi<lb ed="#P" n="103" break="no"/>tate Dei, capite vicesimosecundo. Nam quod iis 
+      <lb ed="#P" n="104"/>locis non de habituali tantum scientia, sed de actu 
+      <lb ed="#P" n="105"/>&amp; usu scientiae loquatur, diligenti lectori facile 
+      ma<lb ed="#P" n="106" break="no"/>nifestum fiet. 
+    </p>
+            <p xml:id="bt67yj-p068273-d1e336">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Quod autem illiusmodi nascentium hominum 
+      sta<lb ed="#P" n="108" break="no"/>tus tam corpore quam anima tunc fuisset, ipsarum 
+      <lb ed="#P" n="109"/>etiam bestiarum exemplis astrui potest, quarum 
+      <lb ed="#P" n="110"/>pleraeque statim in lucem editae &amp; progrediuntur 
+      <lb ed="#P" n="111"/>&amp; ultro ad ubera materna accurrunt, &amp; 
+      nutrimen<lb ed="#P" n="112" break="no"/>tum quaerunt, &amp; vocem emittunt suo generi 
+      pro<lb ed="#P" n="113" break="no"/>priam, &amp; alia quae vitae suae necessaria sunt &amp; 
+      <lb ed="#P" n="114"/>commoda, cognoscunt &amp; prosequuntur; sicut &amp; 
+      <lb ed="#P" n="115"/>contra quae noxia sunt, natura duce &amp; impultrice 
+      <lb ed="#P" n="116"/>fugiunt &amp; aversantur. Quae cuncta magis 
+      consen<lb ed="#P" n="117" break="no"/>taneum erat homini, caeterorum omnium 
+      anima<lb ed="#P" n="118" break="no"/>lium domino, a nativitate competere, nisi per 
+      pec<lb ed="#P" n="119" break="no"/>catum secundum animam &amp; corpus, ut concilia 
+      lo<lb ed="#P" n="120" break="no"/>quuntur, ita deterius mutatus, &amp; non modo similis 
+      <lb ed="#P" n="121"/>jumentis insipientibus, ut canit Psalmista, sed &amp; 
+      in<lb ed="#P" n="122" break="no"/>fra illorum conditionem in multis, ut experientia 
+      <lb ed="#P" n="123"/>testatur, abjectus fuisset. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

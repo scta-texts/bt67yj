@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="39"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p015261"><!-- l2d6c1" -->
+            <head xml:id="bt67yj-p015261-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p015261-Hd1e103" type="question-title">Quae fuerit origo peccati in angelis</head>
+            <p xml:id="bt67yj-p015261-d1e106">
+               <lb ed="#P" n="130"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="131"/>SEXTAM.
+      <lb ed="#P" n="132"/>§. 1. Quae fuerit origo peccati in angelis.
+    </p>
+            <p xml:id="bt67yj-p015261-d1e115">
+               <lb ed="#P" n="133"/>ANGELOS peccare potuisse recte probat S. 
+      <lb ed="#P" n="134"/>Thomas 1. q. 63. art. 1. hac generali 
+      ratio<lb ed="#P" n="135" break="no"/>Ane, quia peccare nihil est aliud quam 
+      decli<lb ed="#P" n="136" break="no"/>nare rectitudine actus quam agens debet habere, sive 
+      <lb ed="#P" n="137"/>peccatum intelligatur in naturalibus, sive in 
+      artifi<lb ed="#P" n="138" break="no"/>cialibus, sive in moralibus; atqui solum eum actum a 
+      <!--0273.xml-->
+      <pb ed="#P" n="40"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rectitudine declinare non contingit, cujus regula est P 
+      <lb ed="#P" n="2"/>ipsa virtus agentis, quod quidem soli competit Deo; 
+      <lb ed="#P" n="3"/>sola quippe divina voluntas regula est sui actus, quia 
+      <lb ed="#P" n="4"/>non ordinatur ad finem superiorem. Nam voluntas 
+      <lb ed="#P" n="5"/>cujuscumque creaturae rectitudinem in suo actu non 
+      <lb ed="#P" n="6"/>habet, nisi quatenus regulatur a voluntate divina. 
+      <lb ed="#P" n="7"/>Patet igitur in sola divina voluntate peccatum esse 
+      <lb ed="#P" n="8"/>non posse, in caeteris autem posse, si secundum 
+      con<lb ed="#P" n="9" break="no"/>ditionem naturae suae spectentur, de qua re plura ad 
+      <lb ed="#P" n="10"/>distinctionem proxime sequentem. Quod autem 
+      an<lb ed="#P" n="11" break="no"/>geli quamvis supremum in creatura gradum 
+      obti<lb ed="#P" n="12" break="no"/>nentes, &amp; peccare potuerint, &amp; reipsa peccaverint 
+      <lb ed="#P" n="13"/>adeo secundum scripturas certum est, ut fide salva 
+      <lb ed="#P" n="14"/>negari non possit. At vero cum peccatum in 
+      homini<lb ed="#P" n="15" break="no"/>bus post lapsum primi parentis oriri soleat, vel ex 
+      <lb ed="#P" n="16"/>fomite concupiscentiae cum quo omnes nascimur, 
+      <lb ed="#P" n="17"/>quique in omnibus hac vita durante relinquitur, vel 
+      <lb ed="#P" n="18"/>ex prava consuetudine, vel ex immoderata passione, 
+      <lb ed="#P" n="19"/>vel ex ignorantia rerum agendarum, quorum nihil 
+      <lb ed="#P" n="20"/>in angrlis ipsum peccatum praecessisse videtur; quaeri 
+      <lb ed="#P" n="21"/>merito potest quo modo, quave via, peccatum in 
+      an<lb ed="#P" n="22" break="no"/>gelis ortum atque ingressum habere potuerit, id 
+      <lb ed="#P" n="23"/>quod etiam suo loco de primorum hominum 
+      pecca<lb ed="#P" n="24" break="no"/>to quaerendum est ad distinct. 22. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e189">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Ac primo cavendum ne peccati originem 
+      refera<lb ed="#P" n="26" break="no"/>mus in aliquod primum principium malum. Qui 
+      <lb ed="#P" n="27"/>fuit error Manichaeorum jam olim in Ecclesia 
+      dam<lb ed="#P" n="28" break="no"/>natus, cujus refutatio pertinet ad distinct. 34. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e203">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Deinde non est ponenda in angelis ante peccatum 
+      <lb ed="#P" n="30"/>ignorantia, sive judicium errans &amp; corruptum 
+      cir<lb ed="#P" n="31" break="no"/>ca res agendas. Non enim error culpam praecessit, 
+      <lb ed="#P" n="32"/>sed culpa errorem tanquam poenam comitem 
+      se<lb ed="#P" n="33" break="no"/>cum traxit, tam in angelis, quam in primo homine, 
+      <lb ed="#P" n="34"/>Sed nec fuit in eis prava aliqua inclinatio sicut in 
+      <lb ed="#P" n="35"/>nobis; Est ergo prima origo peccati ponenda in 
+      vo<lb ed="#P" n="36" break="no"/>luntate defectibili sese avertente a majori bono ad 
+      <lb ed="#P" n="37"/>minus bonum, dum videlicet consideratum seorsim 
+      <lb ed="#P" n="38"/>minus bonum, &amp; cum praestantiori bono non 
+      com<lb ed="#P" n="39" break="no"/>paratum, amat tanquam bonum simpliciter, sic ut 
+      <lb ed="#P" n="40"/>illud majori bono non subjiciat, sed in eo 
+      acquies<lb ed="#P" n="41" break="no"/>cat, sibique placeat, idque non necessitate aliqua 
+      <lb ed="#P" n="42"/>naturali, neque violentia extrinsecus adhibita, sed 
+      <lb ed="#P" n="43"/>libera electione. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e240">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Hoc igitur modo orta est in angelis superbia, dum 
+      <lb ed="#P" n="45"/>suam excellentiam considerantes, eamque non 
+      com<lb ed="#P" n="46" break="no"/>parantes cum excellentia divina, inordinato amore 
+      <lb ed="#P" n="47"/>sibi ipsis inhaeserunt, sicque a Deo aversi sunt. 
+      Quo<lb ed="#P" n="48" break="no"/>circa in eis pravum judicium non fuit antecedens, 
+      <lb ed="#P" n="49"/>sed consequens, aut certe concomitans ad primum 
+      <lb ed="#P" n="50"/>peccatum. Per hoc enim quod suam excellentiam 
+      <lb ed="#P" n="51"/>inordinate amaverunt, obtenebratum est in eis 
+      judi<lb ed="#P" n="52" break="no"/>cium mentis, ut putarent se sibi sufficere. Caecitas 
+      <lb ed="#P" n="53"/>enim mentis ex peccato, non peccatum ex caecitate, 
+      <lb ed="#P" n="54"/>si de prima peccati origine loquamur. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e269">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Quod autem non sit dicendum primum peccatum 
+      <lb ed="#P" n="56"/>fuisse ortum ex errore aliquo praevio, docet 
+      Augu<lb ed="#P" n="57" break="no"/>stinus lib. 11. de civit. cap. 11. &amp; lib. 14. c. 10. 11. &amp; 
+      <lb ed="#P" n="58"/>13. idemque sentit S. Thom. art. 1. supra dictae quaest. 
+      <lb ed="#P" n="59"/>ad 4. &amp; in 2. distinct. 5. q. 1. art. 1. eademque 
+      com<lb ed="#P" n="60" break="no"/>munis est doctorum sententia. Verum ut eisdem 
+      lo<lb ed="#P" n="61" break="no"/>cis sanctus Thomas docet, dicere necesse est quod 
+      <lb ed="#P" n="62"/>primum peccatum angeli quaedam praecesserit 
+      in<lb ed="#P" n="63" break="no"/>consideratio, non quidem temporis ordine, sed 
+      na<lb ed="#P" n="64" break="no"/>turae. Quod ita probatur, quia electio voluntatis, 
+      <lb ed="#P" n="65"/>qua elegit angelus propriam excellentiam, 
+      pecca<lb ed="#P" n="66" break="no"/>tum fuit ex eo quod caruerit ordine debitae 
+      mensu<lb ed="#P" n="67" break="no"/>rae seu regulae, id est, qua non fuit apposita regula 
+      <lb ed="#P" n="68"/>superioris, quae quidem regula non poterat apponi 
+      <lb ed="#P" n="69"/>nisi per intellectum, ad quem pertinet actus 
+      consi<lb ed="#P" n="70" break="no"/>derationis; ergo in intellectu fuit inconsideratio 
+      re<lb ed="#P" n="71" break="no"/>gulae, seu mensurae, id est, intellectui defuit 
+      actua<lb ed="#P" n="72" break="no"/>sis consideratio illius circumstantiae, quam illo suo 
+      <lb ed="#P" n="73"/>actu, quo propriam amabat excellentiam, angelus 
+      <lb ed="#P" n="74"/>tenebatur habere. Nam si non tenebatur, jam ele¬ 
+      <!--0273.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ctio voluntatis inde consecuta non fuisset peccatum. 
+      <lb ed="#P" n="76"/>Sicut enim omnis libertas quae est in actu voluntatis, 
+      <lb ed="#P" n="77"/>radicaliter est in intellectu; sic omnis ratio meriti, 
+      <lb ed="#P" n="78"/>vel demeriti, quae sunt differentiae quaedam actuum 
+      <lb ed="#P" n="79"/>voluntatis, praesupponit judicium intellectus rectum 
+      <lb ed="#P" n="80"/>aut deficiens. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e334">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Opinantur autem quidam etiam in homine lapso 
+      <lb ed="#P" n="82"/>peccatum non necessario ex errore judicii circa id 
+      <lb ed="#P" n="83"/>quod agendum est provenire, sed stante recto 
+      judi<lb ed="#P" n="84" break="no"/>cio rationis posse voluntatem pro naturali sua 
+      liber<lb ed="#P" n="85" break="no"/>tate, qua caeteris potentiis dominatur, avertere 
+      in<lb ed="#P" n="86" break="no"/>tellectum a consideratione boni melioris, &amp; movere 
+      <lb ed="#P" n="87"/>ad considerandum vehementer id quod minus est, 
+      <lb ed="#P" n="88"/>in eoque sic considerato per amorem inordinate 
+      im<lb ed="#P" n="89" break="no"/>morari. Unde dicunt quod apostolus 1. Cor. 4. 
+      glo<lb ed="#P" n="90" break="no"/>riationem Corinthiorum reprimere volens, non ait. 
+      <lb ed="#P" n="91"/>Quid gloriaris existimans te non accepisse? sed, quid 
+      <lb ed="#P" n="92"/>gloriaris quasi non acceperis? Quod si ita res se habere 
+      <lb ed="#P" n="93"/>potest in hominibus lapsis, etiam in angelo 
+      potuis<lb ed="#P" n="94" break="no"/>se, scilicet ut quamvis non ignoraret a quo tantum 
+      <lb ed="#P" n="95"/>naturae &amp; gratiae bonum accepisset, gloriatus 
+      ta<lb ed="#P" n="96" break="no"/>men in eo fuerit quasi non ab alio accepisset, dum 
+      <lb ed="#P" n="97"/>illud intuens non simul consideravit tanti boni 
+      au<lb ed="#P" n="98" break="no"/>thorem, eumdemque suo bono infinite 
+      excellentio<lb ed="#P" n="99" break="no"/>rem. Sed utrum hoc de homine lapso recte dicatur 
+      <lb ed="#P" n="100"/>non laevis quaestio est. Certe S. Thomas locis supra 
+      <lb ed="#P" n="101"/>dictis videtur etiam ad homines extendere, quod 
+      <lb ed="#P" n="102"/>sine errore peccent interdum per defectum 
+      conside<lb ed="#P" n="103" break="no"/>rationis ejus circumstantiae quae consideranda est, 
+      <lb ed="#P" n="104"/>ut si quis eligat orare, non attendens ad ordinem ab 
+      <lb ed="#P" n="105"/>ecclesia institutum; hoc enim exemplum adducit in 
+      <lb ed="#P" n="106"/>summa. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e395">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Verum adversus hanc doctrinam sive in angelo, 
+      <lb ed="#P" n="108"/>sive etiam in homine ponentem peccatum quod non 
+      <lb ed="#P" n="109"/>procedat ex errore judicii, facere videtur imprimis 
+      <lb ed="#P" n="110"/>ipsius sancti Thomae celebris sententia, qua docet 
+      <lb ed="#P" n="111"/>non posse esse peccatum in voluntate nisi ex 
+      praece<lb ed="#P" n="112" break="no"/>dente erfore judicii practici in intellectu. Habet 
+      <lb ed="#P" n="113"/>hoc multis locis, in summa &amp; alibi, &amp; nominatim 
+      <lb ed="#P" n="114"/>super distinct. 5. hujus libri q. 1. a. 1. ubi negat 
+      pec<lb ed="#P" n="115" break="no"/>catum posse esse in voluntate, nisi sit in aliquo modo 
+      <lb ed="#P" n="116"/>deceptio in ratione. Idque probat per Philosophum 
+      <lb ed="#P" n="117"/>lib. 3. ethicorum dicentem, quod omnis malus est 
+      <lb ed="#P" n="118"/>quodam modo ignorans. Unde &amp; ibidem fatetur in 
+      <lb ed="#P" n="119"/>angelis peccantibus fuisse errorem electionis. 
+      Pro<lb ed="#P" n="120" break="no"/>batur etiam hac ratione, quia nemo quicquam facit 
+      <lb ed="#P" n="121"/>voluntate rationali, nisi judicet id faciendum. Ut 
+      <lb ed="#P" n="122"/>enim sit electio in voluntate, judicium praecedere 
+      <lb ed="#P" n="123"/>debet in intellectu; quare si mala sit electio, pravum 
+      <lb ed="#P" n="124"/>&amp; erroneum est judicium. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e439">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Adde quod supradicta inconsideratio ponitur 
+      <lb ed="#P" n="126"/>fuisse voluntaria, nam alioqui non haberet 
+      ratio<lb ed="#P" n="127" break="no"/>nem inconsiderationis. Non enim dicitur 
+      inconsi<lb ed="#P" n="128" break="no"/>deratus, qui non considerat, quod non tenetur 
+      con<lb ed="#P" n="129" break="no"/>siderare; videtur ergo quod illam 
+      inconsideratio<lb ed="#P" n="130" break="no"/>nem mala voluntas praecesserit, a qua 
+      volunta<lb ed="#P" n="131" break="no"/>ria dici posset. Quod si ita est, nihil vetat loco 
+      <lb ed="#P" n="132"/>illius poni errorem judicii natum ex mala 
+      volun<lb ed="#P" n="133" break="no"/>tate 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e464">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> His argumentis moti quidam putant qua ratione 
+      <lb ed="#P" n="135"/>dicitur primum peccatum processisse ex 
+      inconside<lb ed="#P" n="136" break="no"/>ratione; dici posse quod processerit ex errore 
+      ju<lb ed="#P" n="137" break="no"/>dicii practici, quo judicabat angelus hunc actum, 
+      <lb ed="#P" n="138"/>qui utique peccatum erat, sibi esse faciendum. 
+      Ne<lb ed="#P" n="139" break="no"/>gant autem hinc esse consequens, quod error aliquis 
+      <lb ed="#P" n="140"/>primum peccatum praecesserit, si peccatum totum 
+      <lb ed="#P" n="141"/>consideretur. Dicunt enim, si proprie loquendum 
+      <lb ed="#P" n="142"/>sit, ignorantiam, seu errorem hujusmodi secundum 
+      <lb ed="#P" n="143"/>quem omnis peccans errat, non esse causam peccati, 
+      <lb ed="#P" n="144"/>sed magis aliquid peccati. Peccat enim homo eo 
+      <lb ed="#P" n="145"/>ipso quod ratio prave judicat, ipsumque peccatum 
+      <lb ed="#P" n="146"/>quasi duabus illis partibus ab invicem 
+      inseparabili<lb ed="#P" n="147" break="no"/>bus consummatur, falso judicio, &amp; mala electione, 
+      <lb ed="#P" n="148"/>&amp; utrumque fit libere secundum suum modum: quia 
+      <!--0274.xml-->
+      <pb ed="#P" n="41"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>origo libertatis in ratione est, terminus &amp; perfectio 
+      <lb ed="#P" n="2"/>in voluntate. Quod autem de homine dicitur, id 
+      si<lb ed="#P" n="3" break="no"/>militer de angelo dicendum. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e514">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Hanc vero doctrinam putant esse consentaneam 
+      <lb ed="#P" n="5"/>iis quae S. Thomas docet 1. 2. quaest. 6. art. 8. &amp; qui 
+      <lb ed="#P" n="6"/>76. art. 4. &amp; quaest. 77. art. 2. &amp; quaest. 78. art. 1. 
+      <lb ed="#P" n="7"/>Quod vero dicit 1. quaest. 63. art. 1. quoddam 
+      pecca<lb ed="#P" n="8" break="no"/>tum non praeexigere ignorantiam, sed solum 
+      absen<lb ed="#P" n="9" break="no"/>tiam considerationis eorum quae considerari debent, 
+      <lb ed="#P" n="10"/>&amp; hoc modo angelum peccasse convertendo se per 
+      <lb ed="#P" n="11"/>liberum arbitrium ad proprium bonum absque 
+      ordi<lb ed="#P" n="12" break="no"/>ne ad regulam divinae voluntatis, non eum 
+      arbitran<lb ed="#P" n="13" break="no"/>tur iis verbis significare voluisse, quod in primo 
+      pec<lb ed="#P" n="14" break="no"/>cato angeli non fuerit error judicii practici, cum 
+      <lb ed="#P" n="15"/>alibi aperte nominet in illo peccato errorem 
+      ele<lb ed="#P" n="16" break="no"/>ctionis, sed tantum excludere ignorantiam sive 
+      er<lb ed="#P" n="17" break="no"/>rorem, quo aliquid semotis circumstantiis 
+      judicare<lb ed="#P" n="18" break="no"/>tur bonum, &amp; proinde eligendum, quod non esset 
+      <lb ed="#P" n="19"/>tale, ut contingit in peccatis quae per ignorantiam 
+      <lb ed="#P" n="20"/>committi dicuntur. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e556">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Alii vero negantes in primo peccato fuisse errorem 
+      <lb ed="#P" n="22"/>judicii proprie dictum, generalem illam S. Thomae 
+      <lb ed="#P" n="23"/>doctrinam, qua vult omnem peccantem errare, sic 
+      <lb ed="#P" n="24"/>interpretantur, ut nomine erroris comprehendatur 
+      <lb ed="#P" n="25"/>inconsideratio, qua quod considerari debet, non 
+      con<lb ed="#P" n="26" break="no"/>sideratur. Quo sensu fatemur errorem electionis in 
+      <lb ed="#P" n="27"/>primo peccato fuisse, &amp; ad hoc significandum usum 
+      <lb ed="#P" n="28"/>fuisse S. Thomam illis vocabulis, aliquo modo, &amp; 
+      <lb ed="#P" n="29"/>quodammodo, eo quod hujusmodi inconsideratio 
+      <lb ed="#P" n="30"/>non proprie sit deceptio, nec omnis peccans proprie 
+      <lb ed="#P" n="31"/>ignoret, sed generali quodam modo. 
+    </p>
+            <p xml:id="bt67yj-p015261-d1e585">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Ad secundam autem objectionem respondent in 
+      <lb ed="#P" n="33"/>angelo peccante fuisse unam tantum 
+      inconsidera<lb ed="#P" n="34" break="no"/>tionem, &amp; unam malam electionem, quarum 
+      utra<lb ed="#P" n="35" break="no"/>que respectu alterius fuerit prior &amp; posterior 
+      diver<lb ed="#P" n="36" break="no"/>sis rationibus, sic ut illa quidem quatenus 
+      conjun<lb ed="#P" n="37" break="no"/>ctum habebat judicium practicum, prior esset 
+      ele<lb ed="#P" n="38" break="no"/>ctione in genere causae formalis, haec vero prior esset 
+      <lb ed="#P" n="39"/>eodem practico &amp; inconsiderato judicio, tanquam 
+      <lb ed="#P" n="40"/>causa ejus motiva. Sed haec utrum recte dicantur, 
+      <lb ed="#P" n="41"/>an secus, diligentius expendendum erit ad 
+      distin<lb ed="#P" n="42" break="no"/>ctionem vicesimamsecundam, ubi agitur de 
+      igno<lb ed="#P" n="43" break="no"/>rantia ut causa peccati, vel peccato conjuncta. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

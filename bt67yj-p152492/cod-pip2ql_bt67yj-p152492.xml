@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="394"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p152492"><!-- l2d43c1" -->
+            <head xml:id="bt67yj-p152492-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p152492-Hd1e103" type="question-title">Nullum in hac vita peccatum esse prorsus 
+      irremissibile</head>
+            <p xml:id="bt67yj-p152492-d1e106">
+               <lb ed="#P" n="18"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="19"/>QULADRACESIMAMTERTIAM. 
+      <lb ed="#P" n="20"/>§. 1. Nullum in hac vita peccatum esse prorsus 
+      <lb ed="#P" n="21"/>irremissibile. 
+    </p>
+            <p xml:id="bt67yj-p152492-d1e117">
+               <lb ed="#P" n="22"/>SIcuT nullum est peccatum, quod stante aeterno 
+      <lb ed="#P" n="23"/>Dei decreto aliter quam per Christi 
+      sangui<lb ed="#P" n="24" break="no"/>Onem expiari ac remitti possit, 
+      quantumcum<lb ed="#P" n="25" break="no"/>que seve sit; ita nullum est adeo grave, quod per 
+      <lb ed="#P" n="26"/>ejusdem redemptoris sanguinem expiari non possit. 
+      <lb ed="#P" n="27"/>Et prius quidem illud ex scripturis ostenditur. 
+      Ge<lb ed="#P" n="28" break="no"/>neraliter enim ab Apostolo dictum est Hebr. 9. Sine 
+      <lb ed="#P" n="29"/>sanguinis effusione non fieri remissionem. Et ad 
+      Gal<lb ed="#P" n="30" break="no"/>6. Mihi absit gloriari nisi in cruce Domini nostri Jesu 
+      <lb ed="#P" n="31"/>Christi; &amp; a Joanne Baptista Joan. 1. Ecce Agnus Dei. 
+      <lb ed="#P" n="32"/>ecce qui tollit peccata mundi. Hujus rationem 
+      indi<lb ed="#P" n="33" break="no"/>cans Apost. Rom. 8. ait; Quid impossibile erat legi, 
+      <lb ed="#P" n="34"/>in quo infirmabatur per carnem, Deus filium 
+      suummit<lb ed="#P" n="35" break="no"/>tens, &amp;c. Peculiariter autem de levioribus peccatis a 
+      <lb ed="#P" n="36"/>Christo dicitur Joan. 13. Si non lavero te, non 
+      habe<lb ed="#P" n="37" break="no"/>bis partem mecum. Denique nullum peccatum 
+      remit<lb ed="#P" n="38" break="no"/>tit pater nisi respiciens in faciem filii sui; quippe qui 
+      <lb ed="#P" n="39"/>solus idoneus est placare iram patris. Qua de re 
+      di<lb ed="#P" n="40" break="no"/>serte ab Aug. scriptum est libr. 6. contra Julianum 
+      <lb ed="#P" n="41"/>cap. 19. eam esse legem Dei scriptam in mentibus 
+      <lb ed="#P" n="42"/>angelorum, ut nulla sit iniquitas impunita, nisi 
+      <lb ed="#P" n="43"/>quam sanguis mediatoris expiaverit. 
+    </p>
+            <p xml:id="bt67yj-p152492-d1e167">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Posterius autem istud ex scriptura sacra non minus 
+      <lb ed="#P" n="45"/>clarum est. Passim enim scriptura peccatores omnes 
+      <lb ed="#P" n="46"/>etiam gravissimos ad poenitentiam invitat, non ob 
+      <lb ed="#P" n="47"/>aliud nisi ut per eam accepta venia Deo 
+      reconcilien<lb ed="#P" n="48" break="no"/>tur. Unde Christus in evangelio: Venite ad me omnes 
+      <lb ed="#P" n="49"/>qui laboratis &amp; onerati estis, &amp; ego reficiam vos. Et 
+      <lb ed="#P" n="50"/>Ezechiel. cap. 18. Si impius egerit poenitentiam ab 
+      om<lb ed="#P" n="51" break="no"/>nibus peccatis suis, vita vivet &amp; non morietur. Et cap. 
+      <lb ed="#P" n="52"/>33. Nolo mortem impii, sed ut convertatur, &amp;c. Eodem 
+      <lb ed="#P" n="53"/>pertinent scripturae, quae omnibus hominibus per 
+      <lb ed="#P" n="54"/>fidem in Christum spem salutis proponunt, ut 
+      Joan<lb ed="#P" n="55" break="no"/>2. Sic Deus dilexit mundum, ut omnis qui credit in 
+      il<lb ed="#P" n="56" break="no"/>lum non pereat. Rom 3. Justitia Dei per fidem Christi 
+      <lb ed="#P" n="57"/>in omnes &amp; super omnes qui credunt in eum: Et 9. 
+      <lb ed="#P" n="58"/>Omnis qui invocaverit, &amp;c. Denique Joann. 1. 
+      <lb ed="#P" n="59"/>epistol. 2. Ipse est propitiatio pro peccatis totius 
+      mun<lb ed="#P" n="60" break="no"/>di. Unde merito vox illa Candamnatur Genes. 4. 
+      <lb ed="#P" n="61"/>Major est iniquitas mea, quam ut veniam merear. 
+      <lb ed="#P" n="62"/>Quare &amp; generalem atque illimitatam solvendi 
+      <lb ed="#P" n="63"/>peccata potestatem in Ecclesia sua Christus reliquit 
+      <lb ed="#P" n="64"/>Matt. 16. &amp; 18. &amp; Joan. 20. 
+    </p>
+            <p xml:id="bt67yj-p152492-d1e218">
+               <lb ed="#P" n="65"/>Quid porro de hac re Patres senserint, minime est 
+      <lb ed="#P" n="66"/>obscurum. Ait enim August. Enchir. 65. Sed neque 
+      <lb ed="#P" n="67"/>de ipsis criminibus quamlibet magnis remittendis in 
+      <!--0627.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>sancta Ecclesia Dei desperanda est misericordia 
+      agen<lb ed="#P" n="69" break="no"/>tibus poenitentiam secundum modum sui cujusque 
+      <lb ed="#P" n="70"/>peccati. Et serm. 1I. de verbis Domini: De nullo 
+      <lb ed="#P" n="71"/>inquit, desperandum est, quandiu patientia Dei ad 
+      <lb ed="#P" n="72"/>poenitentiam adducit, nec de hac vita rapit 
+      im<lb ed="#P" n="73" break="no"/>pium. Et multa quae sequuntur. Idem cum dixisset 
+      <lb ed="#P" n="74"/>lib. 1. de ferm. Domini in monte cap. 22. quod 
+      puta<lb ed="#P" n="75" break="no"/>ret esse peccatum ad mortem, nempe veritatis 
+      agni<lb ed="#P" n="76" break="no"/>tae oppugnationem, eum locum retractans lib. 1. 
+      <lb ed="#P" n="77"/>retract. cap. 19. Addendum fuit, inquit, si in hac 
+      <lb ed="#P" n="78"/>tam scelerata mentis perversitate finierit hanc vitam. 
+      <lb ed="#P" n="79"/>Quoniam de quocumque pessimo in hac vita 
+      consti<lb ed="#P" n="80" break="no"/>tuto, non est utique desperandum, nec pro illo 
+      impru<lb ed="#P" n="81" break="no"/>denter oratur, de quo non desperatur. Quibus 
+      ver<lb ed="#P" n="82" break="no"/>bis &amp; aliud indicat argumentum Augustinus, quo 
+      <lb ed="#P" n="83"/>doctrina haec non parum confirmatur; nempe 
+      ora<lb ed="#P" n="84" break="no"/>tiones Ecclesiae &amp; singulorum fidelium pro inimicis 
+      <lb ed="#P" n="85"/>&amp; quibuscunque etiam pessimis peccatoribus, ut 
+      <lb ed="#P" n="86"/>convertantur. 
+    </p>
+            <p xml:id="bt67yj-p152492-d1e273">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Similia vero ante Augustinum scripta reliquit 
+      <lb ed="#P" n="88"/>Ambrosius in libris de poenitentia contra 
+      Novatia<lb ed="#P" n="89" break="no"/>nos editis, &amp; potissimum lib. 2. cap. 4. ubi inter alia 
+      <lb ed="#P" n="90"/>profert exemplum Simonis Magi, quem etsi 
+      pessi<lb ed="#P" n="91" break="no"/>mum Apostoli a spe veniae non excluserunt, 
+      dicen<lb ed="#P" n="92" break="no"/>te ad eum Petro Actor. 8. Poenitentiam age ab hac 
+      <lb ed="#P" n="93"/>nequitia tua, &amp; roga Deum, si forte remittatur tibi. 
+      <lb ed="#P" n="94"/>&amp;c. Et in fine ejusdem cap. ad Ecclesiam haereticos 
+      <lb ed="#P" n="95"/>&amp; schismaticos invitans, generalem clausulam 
+      testi<lb ed="#P" n="96" break="no"/>moniis &amp; exemplis scripturae confirmatam 
+      sub<lb ed="#P" n="97" break="no"/>jecit, dicens: Omnibus enim conversis promittitur 
+      <lb ed="#P" n="98"/>venia, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p152492-d1e304">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Patet etiam ex iis quae dicta sunt, vanum ac 
+      frivo<lb ed="#P" n="100" break="no"/>lum esse, quod quidam objiciunt: Deum quidem 
+      <lb ed="#P" n="101"/>omnibus poenitentibus veniam promisisse, citra 
+      ex<lb ed="#P" n="102" break="no"/>ceptionem; sed quaedam esse tam gravia peccata, aut 
+      <lb ed="#P" n="103"/>certe ad tantum numerum ea excrescere posse, ut 
+      <lb ed="#P" n="104"/>eorum poenitentiam salutarem inspirare nunquam 
+      <lb ed="#P" n="105"/>statuerit. Hoc enim non modo supradictis scripturae 
+      <lb ed="#P" n="106"/>testimoniis; sed &amp; patrum sententiis adversari 
+      ma<lb ed="#P" n="107" break="no"/>nifestum est, ut quae omnes omnino peccatores ad 
+      <lb ed="#P" n="108"/>poenitentiam invitant, omnibusque spem veniae 
+      fa<lb ed="#P" n="109" break="no"/>ciunt, quod frustra esset, si aliqua est peccatorum 
+      <lb ed="#P" n="110"/>vel magnitudo vel multitudo, quae certo aliquo Dei 
+      <lb ed="#P" n="111"/>decreto a venia excludatur. 
+    </p>
+            <p xml:id="bt67yj-p152492-d1e337">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Quin etiam gravissimis peccatoribus poenitentiae 
+      <lb ed="#P" n="113"/>donum collatum in scriptura legimus, ut Manassa 
+      <lb ed="#P" n="114"/>regi Judae divini cultus hosti gravissimo, &amp; Saulo 
+      <lb ed="#P" n="115"/>Christianorum acerrimo persecutori, &amp; Judaeis 
+      Chri<lb ed="#P" n="116" break="no"/>sti crucifixoribus &amp; illusoribus, in Actis. Quod 
+      po<lb ed="#P" n="117" break="no"/>stremum exemplum etiam ab Ambros. profertur 
+      lo<lb ed="#P" n="118" break="no"/>co supra citato. Unde August. super illud psalm. (7. 
+      <lb ed="#P" n="119"/>Convertam in profundum maris, eos significari dicit 
+      <lb ed="#P" n="120"/>convertendos, qui erant desperatissimi. Et rursus in 
+      <lb ed="#P" n="121"/>psal. 147. scribens illud, Mittit crystallum suam sicut 
+      <lb ed="#P" n="122"/>buccellas, de conversione eorum qui in perfidia 
+      <lb ed="#P" n="123"/>obstinati sunt, mystice interpretatur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

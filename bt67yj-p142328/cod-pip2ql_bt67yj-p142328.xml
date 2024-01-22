@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="367"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p142328"><!-- l2d32c11" -->
+            <head xml:id="bt67yj-p142328-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p142328-Hd1e103" type="question-title">Utrum animae omnes ex creatione sint 
+      aequales</head>
+            <p xml:id="bt67yj-p142328-d1e106">
+               <lb ed="#P" n="128"/>§. 11. Utrum animae omnes ex creatione sint 
+      <lb ed="#P" n="129"/>aequales.
+    </p>
+            <p xml:id="bt67yj-p142328-d1e113">
+               <lb ed="#P" n="130"/>POstrema apud Magistrum quaestio est, an omnes 
+      <lb ed="#P" n="131"/>animae ex creatione sint aequales in donis 
+      natu<lb ed="#P" n="132" break="no"/>ralibus. Ad quam probabilis admodum est 
+      Magi<lb ed="#P" n="133" break="no"/>stri responsio negativa, quae eadem est Bonaventurae 
+      <lb ed="#P" n="134"/>commentantis in hunc Magistri locum, &amp; 
+      quorun<lb ed="#P" n="135" break="no"/>dam aliorum; videlicet animas secundum id solum 
+      <lb ed="#P" n="136"/>quod ex creatione habent consideratas, &amp; 
+      praeve<lb ed="#P" n="137" break="no"/>niendo dispositionem corporis cui infunduntur, non 
+      <!--0601.xml-->
+      <pb ed="#P" n="368"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>esse in naturalibus aequales, sed alias ab aliis differre A 
+      <lb ed="#P" n="2"/>juxta eam diversitatem, quae in hominibus vel nunc 
+      <lb ed="#P" n="3"/>existit atque conspicitur, vel futura erat si homo non 
+      <lb ed="#P" n="4"/>peccasset. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e148">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Porro ea diversitas ad multa extenditur; velut quod 
+      <lb ed="#P" n="6"/>alius alium superet vel facilitate vel acumine ingenii, 
+      <lb ed="#P" n="7"/>vel vivacitate memoriae; quod alius ad scientias 
+      theo<lb ed="#P" n="8" break="no"/>reticas, alius ad practicas percipiendas natura 
+      pro<lb ed="#P" n="9" break="no"/>pensior sit, idque adeo per diversas harum 
+      scientia<lb ed="#P" n="10" break="no"/>rum species; quod alius ad misericordiam, alius ad 
+      <lb ed="#P" n="11"/>justitiam, alius ad aliud virtutis genus quadam 
+      in<lb ed="#P" n="12" break="no"/>clinatione feratur; quod item alius ad praecipiendum, 
+      <lb ed="#P" n="13"/>alius ad parendum aptior sit natura; &amp; quaecunque 
+      <lb ed="#P" n="14"/>aliae varietates animorum naturales &amp; non vitiolae in 
+      <lb ed="#P" n="15"/>hominibus reperiuntur. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e178">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Hanc igitur diversitatem animabus ex creatione 
+      <lb ed="#P" n="17"/>inesse, &amp; non semper, atque omnino ex corporum 
+      <lb ed="#P" n="18"/>varia dispositione provenire, satis imprimis arguit 
+      <lb ed="#P" n="19"/>creatio hominis protoplasti; qui secundum corpus de 
+      <lb ed="#P" n="20"/>limo terrrae factus animam donis naturalibus 
+      ornatis<lb ed="#P" n="21" break="no"/>simam accepit. Arguit &amp; formatio mulieris, quae cum 
+      <lb ed="#P" n="22"/>ex costa viri, firmiori videlicet &amp; duriore ejus parte 
+      <lb ed="#P" n="23"/>facta sit secundum corpus, animam tamen sexui 
+      infir<lb ed="#P" n="24" break="no"/>miori convenientem accepit. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e202">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Idem ostenditur ex animabus geminorum, qui cum 
+      <lb ed="#P" n="26"/>ex eodem parentum semine simul in eodem utero 
+      <lb ed="#P" n="27"/>formentur, &amp; simul in lucem prodeant; saepe tamen 
+      <lb ed="#P" n="28"/>moribus &amp; ingenio diversissimi apparent. Cujus rei 
+      <lb ed="#P" n="29"/>illustre exemplum est in Jacob &amp; Esau, Genes. 25. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e218">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Probatur quoque ex animabus separatis, quas 
+      om<lb ed="#P" n="31" break="no"/>nes donis naturalibus pares dicere, cum in hac vita 
+      <lb ed="#P" n="32"/>dissimillimae fuerine, absurdum est. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e229">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Aliud hujus rei argumentum sumit Magister ex 
+      <lb ed="#P" n="34"/>Angelis, qui cum corpore careant, naturalibus 
+      ta<lb ed="#P" n="35" break="no"/>men donis inter se plurimum differunt. Quae probatio 
+      <lb ed="#P" n="36"/>certior esset, si juxta quorundam doctrinam Angeli 
+      <lb ed="#P" n="37"/>omnes essent ejusdem speciei (qua de re disputatum 
+      <lb ed="#P" n="38"/>est circa dist. 3. hujus libri.) Ita enim probabile fiet 
+      <lb ed="#P" n="39"/>&amp; animas, etsi in eadem omnes sint specie, 
+      diversita<lb ed="#P" n="40" break="no"/>tem naturalium suarum qualitatem similiter ut illos 
+      <lb ed="#P" n="41"/>ex creatione accipere, &amp; non de materia corporali. 
+      <lb ed="#P" n="42"/>Neque obstabit, quod animae naturaliter corpori 
+      jun<lb ed="#P" n="43" break="no"/>gantur, non Angeli. Cum enim anima non sit 
+      pro<lb ed="#P" n="44" break="no"/>pter corpus, sed corpus propter animam; magis 
+      con<lb ed="#P" n="45" break="no"/>sentaneum est corpus ab anima, quam animam a 
+      cor<lb ed="#P" n="46" break="no"/>pore affici. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e264">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> Sicut enim materia praeparatur formae suscipiendae; 
+      <lb ed="#P" n="48"/>ita forma suscepta eandem materiam sibi magis 
+      ma<lb ed="#P" n="49" break="no"/>gisque aptam efficere solet. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e275">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> His accedit aperta sententia Scripturae Sap. 8. Puer 
+      <lb ed="#P" n="51"/>eram ingeniosus, inquit Sapiens, &amp; sortitus sum 
+      ani<lb ed="#P" n="52" break="no"/>mam bonam, &amp; cum essem magis bonus, veni ad 
+      cor<lb ed="#P" n="53" break="no"/>pus incoinquinatum. Vel ut ex Graeco clarius 
+      verti<lb ed="#P" n="54" break="no"/>tur: Et cum essem bonus, insuper veni ad corpus 
+      inco<lb ed="#P" n="55" break="no"/>inquinatum. Quibus verbis Sapiens animae 
+      bonita<lb ed="#P" n="56" break="no"/>tem a qua se dixerat ingeniosum, sibi tribuit velut 
+      <lb ed="#P" n="57"/>priorem bona &amp; apta dispositione corporis. Non 
+      <lb ed="#P" n="58"/>ergo illi bonitas animae ex corporis erat 
+      disposi<lb ed="#P" n="59" break="no"/>tione. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e302">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Haec quoque sententia a sancto Augustino 
+      proba<lb ed="#P" n="61" break="no"/>tur, qui libro 4. contra Julianum capite tertio 
+      refe<lb ed="#P" n="62" break="no"/>rens medicorum opinionem, dicentium omnem 
+      ani<lb ed="#P" n="63" break="no"/>marum inaequalitatem ex corpore adjuncto 
+      prove<lb ed="#P" n="64" break="no"/>nire, negat eos hanc suam assertionem posse 
+      pro<lb ed="#P" n="65" break="no"/>bare. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e320">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Adfert quidem divus Thomas hujusmodi 
+      probatio<lb ed="#P" n="67" break="no"/>nem; quia, inquit, ex corporis dispositione 
+      conjectan<lb ed="#P" n="68" break="no"/>Philosophi de ingenio animae, ut ex mollitie carnis, de 
+      <lb ed="#P" n="69"/>ingenii bonitate. Verum hoc neque perpetuum est, 
+      <lb ed="#P" n="70"/>ut satis docet experientia, neque si perpetuum sit, 
+      con<lb ed="#P" n="71" break="no"/>vincit bonitatem ingenii originaliter esse ex corpore, 
+      <lb ed="#P" n="72"/>non ex anima. Cum enim anima, cujus pauciores 
+      <lb ed="#P" n="73"/>in homine sunt partes, sibi corpus aptum finxerit, ni¬ 
+      <!--0601.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="74"/>hil jam vetat, quo minus ex qualitate corporis 
+      conje<lb ed="#P" n="75" break="no"/>ctura fiat de qualitate animae. Solent enim 
+      conjectu<lb ed="#P" n="76" break="no"/>rae peti ex effectibus, qui saepenumero suis causis 
+      no<lb ed="#P" n="77" break="no"/>tiores existunt. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e355">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Neque vero contrarium est quod Sapiens dicit, 
+      cor<lb ed="#P" n="79" break="no"/>pus corruptibile aggravare animam. 
+    </p>
+            <p xml:id="bt67yj-p142328-d1e364">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Non enim aliud ea sententia significatum est, quam 
+      <lb ed="#P" n="81"/>animam ex corpore, quod ei initio attributum erat, 
+      <lb ed="#P" n="82"/>tanquam aptissimum organum omnium suarum 
+      a<lb ed="#P" n="83" break="no"/>ctionum, nunc propter corruptionem ejus ex 
+      pecca<lb ed="#P" n="84" break="no"/>to contractam, ab iisdem actionibus, praesertim ad 
+      <lb ed="#P" n="85"/>pietatem pertinentibus, multipliciter impediri. Ex 
+      <lb ed="#P" n="86"/>quo tamen minime consequens est, eam diversitatem 
+      <lb ed="#P" n="87"/>naturalium qualitatum, quae in animabus est, vel 
+      om<lb ed="#P" n="88" break="no"/>nino vel principaliter ex corporibus provenire. Sicut 
+      <lb ed="#P" n="89"/>enim excellens artifex qui per aptum instrumentum 
+      <lb ed="#P" n="90"/>bene, per ineptum minus bene operatur, illam suam 
+      <lb ed="#P" n="91"/>excellentiam a commodo instrumento non accipit, 
+      <lb ed="#P" n="92"/>licet ab incommodo impedimentum accipiat 
+      excel<lb ed="#P" n="93" break="no"/>lentis operationis; alius vero minus excellens artifex 
+      <lb ed="#P" n="94"/>nec aeque bene per bonum instrumentum operabitur, 
+      <lb ed="#P" n="95"/>&amp; a malo plus impedimenti accipiet; ita de 
+      anima<lb ed="#P" n="96" break="no"/>rum diversitate tam quoad dona naturalia, quam 
+      <lb ed="#P" n="97"/>quoad operationes, quae in diversis ac diversimode 
+      <lb ed="#P" n="98"/>affectis fiunt corporibus, sentiendum est.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

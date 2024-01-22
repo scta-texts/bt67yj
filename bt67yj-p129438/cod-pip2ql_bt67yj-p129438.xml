@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 43</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 43</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="334"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p129438"><!-- l2d26c43" -->
+            <head xml:id="bt67yj-p129438-Hd1e101">Capitulum 43</head>
+            <head xml:id="bt67yj-p129438-Hd1e103" type="question-title">Neminem in bono perseverare posse 
+      sine gratia</head>
+            <p xml:id="bt67yj-p129438-d1e106">
+               <lb ed="#P" n="19"/>§. 43. Neminem in bono perseverare posse 
+      <lb ed="#P" n="20"/>sine gratia.
+    </p>
+            <p xml:id="bt67yj-p129438-d1e113">
+               <lb ed="#P" n="21"/>CUm quaeritur; an sine gratia possit quis in 
+      bo<lb ed="#P" n="22" break="no"/>no perseverare, non hoc quaeritur; an sine 
+      gra<lb ed="#P" n="23" break="no"/>tia habituali id possit. Hanc enim gratiam ejusque 
+      <lb ed="#P" n="24"/>permanentiam quaestio praesupponit, quia sine ea 
+      <lb ed="#P" n="25"/>gratia nemo justus est. Sed nec illud quaeritur, an 
+      <lb ed="#P" n="26"/>homo constitutus in gratia, ad perseverandum in ea 
+      <lb ed="#P" n="27"/>opus habcat alia gratia habituali. Nam gratia 
+      habi<lb ed="#P" n="28" break="no"/>tualis in uno homine, tantum una est. Sed quaeritur, 
+      <lb ed="#P" n="29"/>utrum ei ad perseverandum in bona &amp; sancta 
+      con<lb ed="#P" n="30" break="no"/>versatione opus sit speciali auxilio Dei, quale 
+      descri<lb ed="#P" n="31" break="no"/>psimus capite superiori. Ita quaestionem hanc 
+      expli<lb ed="#P" n="32" break="no"/>cat &amp; assi mative definit S. Thom. 1. 2. quaest. 109. 
+      <lb ed="#P" n="33"/>art. 10. Estque nobis ea doctrina certa fide tenenda, 
+      <lb ed="#P" n="34"/>quemadmodum patebit ex subjunctis. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e146">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Sit igitur hujus doctrinae prima probatio ex 
+      scriptu<lb ed="#P" n="36" break="no"/>ris. David. 1. Paralip. 29. divinum hoc 
+      perseve<lb ed="#P" n="37" break="no"/>rantiae donum agnoscere se profitetur, dum pro 
+      po<lb ed="#P" n="38" break="no"/>pulo, qui voluntatem bonam ostenderat in 
+      oblatio<lb ed="#P" n="39" break="no"/>nibus spontaneis pro domo Dei, sic orat: Custodi in 
+      <lb ed="#P" n="40"/>eis Domine hanc voluntatem, &amp; semper in veneratione 
+      <lb ed="#P" n="41"/>tui mens ista permaneat. Idem propheta in Psalmis 
+      <lb ed="#P" n="42"/>Deum precatur hujusmodi vocibus: Conserva me 
+      <lb ed="#P" n="43"/>Domine. Custodi nos ut pupillam oculi. Adjutor meus 
+      <lb ed="#P" n="44"/>esto. Ne derelinquas me. Ne discesseris a me. Ne 
+      ve<lb ed="#P" n="45" break="no"/>niat mihi pes superbiae. Viam iniquitatis amove a me. 
+      <lb ed="#P" n="46"/>Viam mandatorum tuorum cucurri, cum dilatasti cor 
+      <lb ed="#P" n="47"/>meum. Gressus meos dirige, &amp; non domineturmei omnis 
+      <lb ed="#P" n="48"/>injustitia. Item: Tu Domine servabis nos &amp; custodies 
+      <lb ed="#P" n="49"/>nos. Dominus eripuit pedes meos a lapsu. Et alibi ad 
+      <lb ed="#P" n="50"/>laudem Dei refert quod dicit; Et non defecimus a 
+      te<lb ed="#P" n="51" break="no"/>Neque enim hoc dicens Psalmista seipsum laudare 
+      <lb ed="#P" n="52"/>volebat, sed Dei beneficium praedicare. Quod 
+      com<lb ed="#P" n="53" break="no"/>memorat mater Samuelis in Cantico dicens: Pedes 
+      <lb ed="#P" n="54"/>sanctorum suorum servabit. Apud Isaiam cap. 42. 
+      pro<lb ed="#P" n="55" break="no"/>missiones novi testamenti describentem, post alia 
+      di<lb ed="#P" n="56" break="no"/>cit Dominus: Haec verba feci eis, &amp; non dereliqui eos, 
+      <lb ed="#P" n="57"/>quod 70. per futurum reddiderunt: Haec verba faciam 
+      <lb ed="#P" n="58"/>eis, &amp; non relinquam eos, citante Leone serm. 1. de 
+      je<lb ed="#P" n="59" break="no"/>junio 10. mensis. Atqui facere &amp; non derelinquere, 
+      <lb ed="#P" n="60"/>est facere continuo usque in finem. Jerem. 32. similis 
+      <lb ed="#P" n="61"/>est Dei promissio: Dabo eis cor unum &amp; viam unam, 
+      <lb ed="#P" n="62"/>ut timeant me universis diebus. Ac rursum: Et 
+      timo<lb ed="#P" n="63" break="no"/>rem meum dabo in corde eorum, ut non recedant a me. 
+      <lb ed="#P" n="64"/>Paulus 2. Cor. 13. Oramus Deum, inquit, ut nihil ma 
+      <lb ed="#P" n="65"/>li faciatis. Hoc autem est in bono perseverare. Et ad 
+      <lb ed="#P" n="66"/>Philip. 1. Confidens hoc ipsum quia qui coepit in vobis 
+      <lb ed="#P" n="67"/>obus bonum, perficiet usque in diem Christi Jesu. Et 2. 
+      <lb ed="#P" n="68"/>Timoth. 4. Liberavit me Dominus ab omni opere 
+      ma<lb ed="#P" n="69" break="no"/>lo. Item Petrus 1. epist. 1. Qui in virtute Dei 
+      custodi<lb ed="#P" n="70" break="no"/>mini per fidem in salutem. Et ipse Dominus in 
+      Evan<lb ed="#P" n="71" break="no"/>gelio perseverantiam fidei refert ad donum Dei, dum 
+      <!--0567.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Petrum sic alloquitur Luc. 22. Ego pro te rogavi, ut 
+      <lb ed="#P" n="73"/>non deficiat fides tua. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e241">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> His adde scripturas generales, quae omne bonum 
+      <lb ed="#P" n="75"/>nostrum quo tendimus ad salutem, Deo authori tris 
+      <lb ed="#P" n="76"/>buunt, ut: Sine me nihil potestis facere. Quid habes 
+      <lb ed="#P" n="77"/>quod non accepisti? Omnis sufficientia nostra ex Deo 
+      <lb ed="#P" n="78"/>est. Omne donum optimum de sursum est. Faciam ut in 
+      <lb ed="#P" n="79"/>praeceptis meis ambuletis, &amp;c. Ex his enim omnibus 
+      <lb ed="#P" n="80"/>evidenter consequens est, perseverantiam bonae 
+      con<lb ed="#P" n="81" break="no"/>versationis ac bonorum operum non haberi nisi per 
+      <lb ed="#P" n="82"/>gratiam Dei. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e265">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Secunda probatio sit ex patribus. Cyprianus in 
+      <lb ed="#P" n="84"/>expositione orationis dominicae, ad illud: 
+      Sanctifi<lb ed="#P" n="85" break="no"/>cetur nomen tuum. Id petimus, inquit, &amp; rogamus, 
+      <lb ed="#P" n="86"/>ut qui in baptismo sanctificati sumus, in eo quod esse 
+      <lb ed="#P" n="87"/>cepimus, perseveremus. Et paulo post. Haec, inquit, 
+      <lb ed="#P" n="88"/>sanctificatio ut in nobis permaneat, oramus. Et 
+      ite<lb ed="#P" n="89" break="no"/>rum: Hanc continuis orationibus precem facimus, hoc 
+      <lb ed="#P" n="90"/>diebus &amp; noctibus postulamus, ut sanctificatio &amp; 
+      vivi<lb ed="#P" n="91" break="no"/>ficatio, quae de Dei gratia sumitur, ipsias protectione 
+      <lb ed="#P" n="92"/>servetur. Citantur haec etiam ab Augustino ad 
+      hu<lb ed="#P" n="93" break="no"/>jus doctrinae confirmationem libro de dono 
+      perseve<lb ed="#P" n="94" break="no"/>rantiae cap. 2. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e296">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Hilarius libro 12. de trinit. in conclusione operis 
+      <lb ed="#P" n="96"/>pro fidei catholicae perseverantia, sic Deum 
+      preca<lb ed="#P" n="97" break="no"/>tur; Conserva, oro, hanc fidei meae incontaminatam 
+      <lb ed="#P" n="98"/>religionem, &amp; usque ad excessum spiritus mei dona 
+      <lb ed="#P" n="99"/>mihi hanc conscientiae meae vocem; ut quod in 
+      regenera<lb ed="#P" n="100" break="no"/>tionis meae symbolo baptizitus in Patre &amp; Filio &amp; 
+      Spi<lb ed="#P" n="101" break="no"/>ritu sancto professus sum, semper obtineam. Idem in 
+      <lb ed="#P" n="102"/>expositione Psalmi 123. Cum, inquit, in fi de 
+      manea<lb ed="#P" n="103" break="no"/>mus, cum in timore Dei resi deamus, cum in spe 
+      bono<lb ed="#P" n="104" break="no"/>rum aeternorum immoremur, adjuti Dei misericordia, 
+      <lb ed="#P" n="105"/>scientes fidelem eum qui dixit: Ecce ego vobiscum sum 
+      <lb ed="#P" n="106"/>ömnibus diebus usque ad consummationem saeculi, 
+      <lb ed="#P" n="107"/>&amp;c. Ubi rem probat etiam generali sententia, cum, 
+      <lb ed="#P" n="108"/>inquit, Deo, si quid in nobis est, debemus, a beato 
+      <lb ed="#P" n="109"/>Paulo docti nihil nostrum existimandum dicente; Quid 
+      <lb ed="#P" n="110"/>habes quod non accepisti? 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e335">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Basilius in liturgia, citante Petro Diacono libro de 
+      <lb ed="#P" n="112"/>incarnat. &amp; gratia Christi cap. 8. sic facerdotem 
+      in<lb ed="#P" n="113" break="no"/>ter alia facit orantem: Bonos in bonitate conserva: 
+      <lb ed="#P" n="114"/>Omnia enim potes, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e348">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Hieronymus in epist. ad Ctesiphontem contra 
+      <lb ed="#P" n="116"/>Pelag. Agamus, inquit, semper gratias largitori, 
+      <lb ed="#P" n="117"/>sciamusque nos nihil esse, nisi quod donavit, ipse 
+      ser<lb ed="#P" n="118" break="no"/>vaverit, dicente Apostolo. Non est volentis, neque 
+      <lb ed="#P" n="119"/>currentis, sed miserentis Dei. Et iterum: Deus 
+      sem<lb ed="#P" n="120" break="no"/>per largitor semperque donator est, non mihi sufficit 
+      <lb ed="#P" n="121"/>quod semel donavit, nisi semper donaverit. Peto, ut 
+      <lb ed="#P" n="122"/>accipiam, &amp; cum accepero rursus peto, &amp;c. Et 
+      li<lb ed="#P" n="123" break="no"/>bro 2. contra Pelagianos citans illud Psal. 88. In 
+      aeter<lb ed="#P" n="124" break="no"/>num misericordia aedificabitur: Nullum, inquit, 
+      tem<lb ed="#P" n="125" break="no"/>pus est, quo non aedificetur misericordia in singulis 
+      qui<lb ed="#P" n="126" break="no"/>buscunque sanctorum. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e379">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Augustinus in dono perseverantiae commendando 
+      <lb ed="#P" n="128"/>frequentissimus est, ac de ea re peculiarem scripsit 
+      <lb ed="#P" n="129"/>librum in quo post scripturas, etiam ex Cypriano 
+      <lb ed="#P" n="130"/>&amp; aliis late demonstrat, bonae vitae perseverantiam 
+      <lb ed="#P" n="131"/>Dei donum esse: idque tam magnum, quo, ut ait c. 2. 
+      <lb ed="#P" n="132"/>caetera Deidona conservantur. Similiter illud vocat 
+      <lb ed="#P" n="133"/>magnum Deidonum cap. 13. Praeterea libro de 
+      cor<lb ed="#P" n="134" break="no"/>rep. &amp; gratia c. 6. magnitudinem hujus doni 
+      praedi<lb ed="#P" n="135" break="no"/>cat, quo fiat in homine per gratiam Dei, ut bonum 
+      <lb ed="#P" n="136"/>non deserat, sed in eo perseveret. Vide ejusdem libi 
+      <lb ed="#P" n="137"/>cap. 7. 8. &amp; 22. Item lib. de gratia &amp; libero arbitrio 
+      <lb ed="#P" n="138"/>cap. 6. illud Cant. 8. Quae est ista quae ascendit 
+      <lb ed="#P" n="139"/>de deserto, enixa super dilectum suum? de ecclesia 
+      <lb ed="#P" n="140"/>interpretatur: quae enixa super dilectum suum 
+      as<lb ed="#P" n="141" break="no"/>cendit in caelum; quia Christi ope continuo 
+      susten<lb ed="#P" n="142" break="no"/>tatur, ut in gratia semel percepta perseveret, sicque 
+      <lb ed="#P" n="143"/>ad caelestem beatitudinem perveniat. Ejusdem 
+      sen<lb ed="#P" n="144" break="no"/>tentia est, qua ad Deum loquitur libro 2. confess. 
+      <lb ed="#P" n="145"/>cap. 7. Gratiae tuae deputo quaecunque non feci mala. 
+      <!--0568.xml-->
+      <pb ed="#P" n="335"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Quo etiam loco docet eum, magis teneri ad dili¬ A 
+      <lb ed="#P" n="2"/>gendum Deum qui non peccavit, quam qui post 
+      <lb ed="#P" n="3"/>peccatum reductus est ad poenitentiam, nempe ideo, 
+      <lb ed="#P" n="4"/>quia speciale Dei beneficium est, non peccasse, id 
+      <lb ed="#P" n="5"/>est, a peccato conservatum esse. Quae eadem 
+      doctri<lb ed="#P" n="6" break="no"/>na est S. Thomae 2. 2. q. 106. art. 2. ubi docet 
+      inno<lb ed="#P" n="7" break="no"/>centem magis teneri ad gratias Deoagendas, quam 
+      <lb ed="#P" n="8"/>a lapsu peenitentem, eo quod majus acceperst a Deo 
+      <lb ed="#P" n="9"/>beneficium. Eamque S. Thomae doctrinam 
+      compro<lb ed="#P" n="10" break="no"/>bat &amp; Joannes Driedo lib. 1. de gratia &amp; libero 
+      ar<lb ed="#P" n="11" break="no"/>bitrio c. 5. part. 2. Videantur etiam haec Augustini 
+      <lb ed="#P" n="12"/>loca libro de praedestinatione Sanctorum cap. 44. 
+      <lb ed="#P" n="13"/>libro de natura &amp; gratia cap. 26. epistola 59. quaest. 
+      <lb ed="#P" n="14"/>
+               <!-- line coord error -->
+               <lb ed="#P" n="15"/>6. epist. 142. &amp; 208. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e467">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Prosper resp. 6. ad capitula Gallorum. Dubium non 
+      <lb ed="#P" n="17"/>est, inquit, donum Dei esse perseverantiam in bono 
+      us<lb ed="#P" n="18" break="no"/>que in finem; quam istos, ex eo ipso quod non 
+      perseve<lb ed="#P" n="19" break="no"/>raverunt, non habuisse manifestum est, &amp;c. Et lib. 1. 
+      <lb ed="#P" n="20"/>de vocat. gent. cap. 23. docturum se promittit, 
+      om<lb ed="#P" n="21" break="no"/>ne hominis bonum meritum ab initio fidei usque ad 
+      <lb ed="#P" n="22"/>perseverantiae consummationem, donum atque opus 
+      <lb ed="#P" n="23"/>esse divinum; Atque hoc praestat deinceps usque ad 
+      <lb ed="#P" n="24"/>ejusdem libri finem. Docet hoc idem resp. 14. ad 
+      <lb ed="#P" n="25"/>objectiones Vincent. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e493">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Petrus Chrysologus serm. 135. in S. Laurentium: 
+      <lb ed="#P" n="27"/>ut fides non deficeret, ut spes non averteretur, ut 
+      cha<lb ed="#P" n="28" break="no"/>ritas inter poenas igneas corporales plus accenderetur. 
+      <lb ed="#P" n="29"/>Dei dona erant. Nemo arroget potentiae suae, quod non 
+      <lb ed="#P" n="30"/>dat nisi Deus. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e509">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> His adjunge Chrysostomum homil. 8. in Joan. 
+      <lb ed="#P" n="32"/>Cyrillum Alexandrinum lib. 11. in Joann. cap. 21. 
+      <lb ed="#P" n="33"/>Gregorium lib. 23. moral. cap. 28. &amp; hom. 8. in Ezech. 
+      <lb ed="#P" n="34"/>Bernardum serm. 3. in Cantica, &amp; reliquos, nemine 
+      <lb ed="#P" n="35"/>dissentiente. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e525">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Quod autem Patres hanc doctrinam velint ad 
+      fi<lb ed="#P" n="37" break="no"/>dem Catholicam pertinere, manisestum est ex eo, 
+      <lb ed="#P" n="38"/>quia contrarium ascribunt inter damnatos Pelagii 
+      at<lb ed="#P" n="39" break="no"/>que Caelestii errores, nominatim Augustinus haeresi 
+      <lb ed="#P" n="40"/>88. quae est Pelagianorum &amp; libro de perfectione 
+      ju<lb ed="#P" n="41" break="no"/>atitiae, &amp; Hieronymus in dialogis adversus 
+      Pelagia<lb ed="#P" n="42" break="no"/>nos. Quae res ut magis constet; Accedat tertia 
+      pro<lb ed="#P" n="43" break="no"/>batio ex definitione ecclesiae. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e547">
+               <lb ed="#P" n="44"/>
+               <pc type="indent"/> Innocentius I. in epist. data ad concilium 
+      Car<lb ed="#P" n="45" break="no"/>thaginense, quae est apud Augustinum in volumine 
+      <lb ed="#P" n="46"/>epistolarum 91. Quamvis, inquit, hominem 
+      rede<lb ed="#P" n="47" break="no"/>merit Deus a praeteritis peccatis, tamen sciens illum 
+      <lb ed="#P" n="48"/>aterum posse peccare, ad reparationem sibi multa 
+      ser<lb ed="#P" n="49" break="no"/>vavit, atque quotidiana praestat remedia, &amp;c. Ex 
+      qui<lb ed="#P" n="50" break="no"/>bus verbatim repetitis Caelestinus papa in epist. ad 
+      <lb ed="#P" n="51"/>episcopos Galliae c. 6. definit, neminem nisi per quo 
+      <lb ed="#P" n="52"/>tidianum Dei adjutorium perseverantiam bonae 
+      con<lb ed="#P" n="53" break="no"/>versationis accipere. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e573">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Item <name xml:id="bt67yj-p129438-Nd1e579">Zosymus papa</name> in epist. ad totius orbis 
+      epis<lb ed="#P" n="55" break="no"/>copos, verbis a Caelestino ibidem cap. 9. recitatis sic 
+      <lb ed="#P" n="56"/>loquitur: Quod ergo tempus intervenit, quo Dei non 
+      <lb ed="#P" n="57"/>egeamus auxilio? In omnibus igitur actibus, causisque, 
+      <lb ed="#P" n="58"/>cogitationibus, motibus adjutor &amp; protector orandus est. 
+      <lb ed="#P" n="59"/>Superbum est enim, ut quicquam sibi humana natura 
+      <lb ed="#P" n="60"/>praesumat. Et quae sequuntur. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e596">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Concilium Milevitanum can. 3. sub anathemate 
+      <lb ed="#P" n="62"/>definit gratiam Dei per Christum valere etiam ad 
+      <lb ed="#P" n="63"/>adjutorium, ut peccata non committantur. 
+      Con<lb ed="#P" n="64" break="no"/>stat autem concilium loqui de adjutorio necessario. 
+      <lb ed="#P" n="65"/>Nam alioqui nihil diceret contra Pelagium, qui 
+      <lb ed="#P" n="66"/>non negabat adjutorium, sed ejus necessitatem, ut 
+      <lb ed="#P" n="67"/>patet. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e616">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Concilium Arausicanum can. 9. sic statuit: 
+      Di<lb ed="#P" n="69" break="no"/>vini est muneris, cum &amp; recta cogitamus, &amp; pedes 
+      <lb ed="#P" n="70"/>nostros a falsitate &amp; injustitia tenemus; quoties 
+      e<lb ed="#P" n="71" break="no"/>nim bona agimus, Deus in nobis atque nobiscum, ut 
+      <lb ed="#P" n="72"/>operemur, operatur. Cujus canonis verba duobus 
+      <lb ed="#P" n="73"/>locis a B. Prospero integre referuntur, nempe 
+      sen<lb ed="#P" n="74" break="no"/>tentia 22. &amp; in expositione Psal. 118. ad illud: 
+      Cogi<lb ed="#P" n="75" break="no"/>tavi vias meas. Rursum can. 10. sic habet; Adjuto¬ 
+      <!--0568.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="76"/>rium Dei etiam renatis ac sanctis, semper est 
+      imploran<lb ed="#P" n="77" break="no"/>dum, ut ad finem bonum pervenire, vel in bono possint 
+      <lb ed="#P" n="78"/>opere perdurare. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e649">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p129438-Rd1e655">Concilium Trident. sess. 6. capite 13.</ref> definit, 
+      per<lb ed="#P" n="80" break="no"/>severantiae munus de quo scriptum est: Qui 
+      perseve<lb ed="#P" n="81" break="no"/>raverit usque in finem, hic salvus erit, aliunde haberi 
+      <lb ed="#P" n="82"/>&amp;non posse, nisi ab eo qui potens est eum quistat, 
+      sta<lb ed="#P" n="83" break="no"/>tuere ut perseveranter stet. Et can. 16. vocat illud 
+      <lb ed="#P" n="84"/>magnum perseverantiae donum. Et denique can. 22 
+      <lb ed="#P" n="85"/>ita statuit. Si quis dixerit justificatum vel sine 
+      specia<lb ed="#P" n="86" break="no"/>li auxilio Dei in accepta justitia perseverare posse, vel 
+      <lb ed="#P" n="87"/>cum eo non posse, anathema sit. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e675">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Quarta probatio sit ex orationibus totius 
+      eccle<lb ed="#P" n="89" break="no"/>siae. Nam oratio certissimum est argumentum 
+      au<lb ed="#P" n="90" break="no"/>xilii necessarii. Unde Augustinus libro de natura &amp; 
+      <lb ed="#P" n="91"/>gratia cap. 18. Quid stultius, inquit, quam orare 
+      <lb ed="#P" n="92"/>ut facias quod in potestate habeas? Hoc argumento 
+      <lb ed="#P" n="93"/>saepe utitur Augustinus, ut doceat perseverantiam 
+      <lb ed="#P" n="94"/>esse donum Dei, ut lib. de correp. &amp; gr. cap. 11. 
+      <lb ed="#P" n="95"/>&amp; alibi, sed praecipue libro de dono perseverantiae 
+      <lb ed="#P" n="96"/>capite 2. ubi sic ait: Cur perseverantia poscitur a 
+      <lb ed="#P" n="97"/>Deo si non datur a Deo? An &amp; ista irrisoria petitio 
+      <lb ed="#P" n="98"/>est, cum id ab eo petitur, quod scitur ipsum non 
+      da<lb ed="#P" n="99" break="no"/>re, sed ipso non donante esse in hominis potestate? 
+      Pe<lb ed="#P" n="100" break="no"/>ti autem perseverantiam a Deo docet his 
+      subsequen<lb ed="#P" n="101" break="no"/>tibus verbis. An ab illo perseverantia ista forte non 
+      <lb ed="#P" n="102"/>poscitur? Jam hoc qui dicit, non meis 
+      disputationi<lb ed="#P" n="103" break="no"/>bus refellendus, sed sanctorum orationibus 
+      revocan<lb ed="#P" n="104" break="no"/>dus est. An vero quisquam eorum est qui non sibi 
+      po<lb ed="#P" n="105" break="no"/>scat a Deo ut perseveret in eo, cum ipsa oratione qua 
+      <lb ed="#P" n="106"/>Dominica nuncupatur, quando oratur a sanctis, nihil 
+      <lb ed="#P" n="107"/>pene aliud quam perseverantia posci intelligatur. Haec 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e723">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Quo loco deinceps ex tractatu Cypriani de 
+      ora<lb ed="#P" n="109" break="no"/>tione Dominica confirmat quod dixerat, per 
+      singu<lb ed="#P" n="110" break="no"/>las fere partes orationis Dominicae justos a Deo pe 
+      <lb ed="#P" n="111"/>tere perseverantiam. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e736">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Sed &amp; praeter orationem Dominicam passim in 
+      pu<lb ed="#P" n="113" break="no"/>blicis ecclesiae precibus hoc perseverantiae donum a 
+      <lb ed="#P" n="114"/>Deo peti, patentissimum est. Oratur enim Deus, ut 
+      <lb ed="#P" n="115"/>det fidelibus suis perseverantem in sua voluntate 
+      fa<lb ed="#P" n="116" break="no"/>mulatum; ut custodiat opera misericordiae suae; ut 
+      <lb ed="#P" n="117"/>ecclesiam faciat in sui nominis confessione 
+      perseve<lb ed="#P" n="118" break="no"/>rare, &amp; ut eam custodiat propitiatione perpetua; 
+      <lb ed="#P" n="119"/>quatenus ejus semper auxiliis &amp; abstrahatur a 
+      no<lb ed="#P" n="120" break="no"/>xis, &amp; ad salutaria dirigatur: ut det cunctis qui 
+      <lb ed="#P" n="121"/>Christiana professione censentur, ea respuere quae 
+      <lb ed="#P" n="122"/>huic inimica sunt nomini; ut nominis sui timorem, 
+      <lb ed="#P" n="123"/>pariter &amp; amorem faciat nos habere perpetuum; ut 
+      <lb ed="#P" n="124"/>sua circa nos propitiatus dona custodiat; ut omni die 
+      <lb ed="#P" n="125"/>ac nocte sine peccato nos custodire dignetur; ut 
+      prae<lb ed="#P" n="126" break="no"/>stet ne ad ullum declinemus peccatum, sed semper 
+      <lb ed="#P" n="127"/>ad ejus justitiam faciendam nostra procedant 
+      elo<lb ed="#P" n="128" break="no"/>quia; dirigantur cogitationes &amp; opera; ut ab ejus 
+      <lb ed="#P" n="129"/>laude nunquam cessemus; ut faciat nos semper suis 
+      <lb ed="#P" n="130"/>inhaerere mandatis, nec unquam ab ipso nos 
+      sepa<lb ed="#P" n="131" break="no"/>rari permittat. Et alia hujusmodi, quae singula nimis 
+      <lb ed="#P" n="132"/>longum est recensere. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e787">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Quo pertinet etiam illud supra citatum ex 
+      ora<lb ed="#P" n="134" break="no"/>tione liturgica Basilii: Bonos in bonitate conserva. 
+      <lb ed="#P" n="135"/>Quam orationem, Petro Diacono teste, per totum 
+      <lb ed="#P" n="136"/>pene Orientem ecclesia frequentabat. Hujusmodi 
+      <lb ed="#P" n="137"/>autem orationes ecclesia facit exemplo sanctorum 
+      <lb ed="#P" n="138"/>Davidis &amp; Pauli, quos sic pro fidelibus orasse supra 
+      <lb ed="#P" n="139"/>vidimus, imo exemplo Christi qui sic oravit pro 
+      Pe<lb ed="#P" n="140" break="no"/>tro: quos proinde &amp; ipsi fides singuli pro se 
+      oran<lb ed="#P" n="141" break="no"/>do, ut vidimus in Hilario, imitari debent. Unde 
+      <lb ed="#P" n="142"/>Sanctus Thom. 1. 2. quaestione 109. articulo 10. 
+      <lb ed="#P" n="143"/>cum ostendisset ad habendam perseverantiam opus 
+      <lb ed="#P" n="144"/>esse auxilio gratiae Dei. Et ideo, inquit, postquan 
+      <lb ed="#P" n="145"/>aliquis est justificatus per gratiam, necesse habet e 
+      <lb ed="#P" n="146"/>Deo petere praedictum perseverantiae donum, ut 
+      sci<lb ed="#P" n="147" break="no"/>licet custodiatur a malo usque ad finem vitae. 
+      Mul<lb ed="#P" n="148" break="no"/>tis enim datur gratia, quibus non datur perseverare 
+      <!--0569.xml-->
+      <pb ed="#P" n="336"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>in gratia. Sic ille: Quem etiam vide lib. 3. contra 
+      <lb ed="#P" n="2"/>gentiles cap. 155. ubi hac eadem utitur probatione, 
+      <lb ed="#P" n="3"/>repetens illud ex Augustino, quod derisorium esset 
+      <lb ed="#P" n="4"/>aliquid petere a Deo, cujus ipse dator non esset. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e841">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Petunt autem fideles perseverantiae donum, non 
+      <lb ed="#P" n="6"/>solum quando generaliter orant, ut Deus det eis in 
+      <lb ed="#P" n="7"/>bono perseverare, verum etiam quoties a Deo 
+      pe<lb ed="#P" n="8" break="no"/>tunt aliquam virtutem quam habent. Idque vult 
+      <lb ed="#P" n="9"/>Augustinus authore Cypriano significari cum justi 
+      <lb ed="#P" n="10"/>&amp; sanctificati in oratione dicunt: Sanctificetur 
+      no<lb ed="#P" n="11" break="no"/>men tuum. Quid est enim aliud petere quod 
+      accepi<lb ed="#P" n="12" break="no"/>mus, inquit cap. 2.. de dono perseverantiae, nisi ut 
+      <lb ed="#P" n="13"/>id quoque nobis praestet, ne habere desinamus? sicut er¬ B 
+      <lb ed="#P" n="14"/>go sanctus cum Deum rogat, ut sanctus sit, id utique 
+      <lb ed="#P" n="15"/>rogat ut sanctus esse permaneat; ita &amp; castus cum 
+      ro<lb ed="#P" n="16" break="no"/>gat ut castus sit, continens ut continens sit, justus ut 
+      <lb ed="#P" n="17"/>justus sit, pius ut pius sit, &amp; caetera, quae contra 
+      Pela<lb ed="#P" n="18" break="no"/>gianos dona Dei esse defendimus; hoc sine dubio 
+      pe<lb ed="#P" n="19" break="no"/>tunt, ut in eis perseverent bonis, quae se accepisse 
+      nove<lb ed="#P" n="20" break="no"/>runt. Haec ille. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e880">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Quinta probatio ex gratiarum actione. Nam, ut 
+      <lb ed="#P" n="22"/>Augustinus ait dicto jam loco, irrisoria est etiam 
+      <lb ed="#P" n="23"/>gratiarum actio, si ob hoc gratiae aguntur Deo quod 
+      <lb ed="#P" n="24"/>non donavit ipse, nec fecit. Gratias autem agunt 
+      fi<lb ed="#P" n="25" break="no"/>deles Deo, dum in hac vita sunt, pro perseverantia 
+      <lb ed="#P" n="26"/>completa eorum qui ex hac vita decesserunt, ut &amp; pro 
+      <lb ed="#P" n="27"/>sua, qui nondum ad finem pervenerunt, incompleta 
+      <lb ed="#P" n="28"/>Atque id exemplo Davidis in Psal. &amp; Pauli Apostoli 
+      <lb ed="#P" n="29"/>in epistolis. Talis erat gratiarum actio S. Agathae 
+      <lb ed="#P" n="30"/>quando dicebat; Domine qui me custodisti ab 
+      infa<lb ed="#P" n="31" break="no"/>mia, qui abstulisti a me amorem saeculi, &amp;c. Talis &amp; 
+      <lb ed="#P" n="32"/>Augustini dicentis: Gratiae tuae deputo, quaecunque 
+      <lb ed="#P" n="33"/>non feci mala. Ad hujusmodi quoque gratiarum 
+      a<lb ed="#P" n="34" break="no"/>ctionem diligenter nos hortatur Hieronymus verbis 
+      <lb ed="#P" n="35"/>ex epistola ad Ctesiphontem supra adductis. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e917">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Sexta probatio ex glorificatione. Nam de 
+      perseve<lb ed="#P" n="37" break="no"/>rantia nemo sanctorum gloriatur, nisi in 
+      Deo<lb ed="#P" n="38" break="no"/>Septima ex universali operatione Dei, qua ut 
+      pri<lb ed="#P" n="39" break="no"/>ma causa, primumque principium omnia movet, 
+      <lb ed="#P" n="40"/>agit, conservat. Quam operationem ad beneficia 
+      gra<lb ed="#P" n="41" break="no"/>tiae Christi pertinere in omnibus his quae conducunt 
+      <lb ed="#P" n="42"/>ad salutem vitae aeternae, quale bonum imprimis est 
+      <lb ed="#P" n="43"/>perseverantia, satis alibi monstravimus. Hinc illa est 
+      <lb ed="#P" n="44"/>Prosperi sententia lib. 1. de vocatione gentium cap. 
+      <lb ed="#P" n="45"/>8. fixam hanc fidem in cordibus nostris, 
+      immobili<lb ed="#P" n="46" break="no"/>terque fundatam esse debere; quia saluberrime 
+      cre<lb ed="#P" n="47" break="no"/>dimus omnia bona, ac maxime ea quae ad aeternam 
+      <lb ed="#P" n="48"/>vitam provehunt, Dei munere custodiri. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e950">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Octava ex singulis operibus bonis. Nam si omne 
+      <lb ed="#P" n="50"/>etiam totum bonum opus gratiae Dei ascribendum 
+      <lb ed="#P" n="51"/>est, manifeste sequitur bonorum operum 
+      perseve<lb ed="#P" n="52" break="no"/>rantiam, quae non aliud est quam catena quaedam 
+      <lb ed="#P" n="53"/>perpetua ex bonis operibus conserta, contextaque, 
+      <lb ed="#P" n="54"/>donum esse ejusdem gratiae Dei. Hanc rationem 
+      con<lb ed="#P" n="55" break="no"/>tinet nonus canon Arausicani concilii. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e970">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Nona probatio ex praedestinatione nostra mere 
+      gra<lb ed="#P" n="57" break="no"/>tuita. Qualis utique non esset, si perseverantia non 
+      <lb ed="#P" n="58"/>esset gratuitum Dei donum. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e982">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Decima ex perseverantia sanctorum Angelorum, 
+      <lb ed="#P" n="60"/>quam gratuitum fuisse Dei donum ostendimus ad 
+      <lb ed="#P" n="61"/>dist. 5. hujus libri, &amp; ad dist. 41. libri superioris. 
+      <lb ed="#P" n="62"/>Tametsi illud discrimen est, quod hominum 
+      perse<lb ed="#P" n="63" break="no"/>verantia referenda sit ad meritum Christi, non item 
+      <lb ed="#P" n="64"/>angelorum. 
+    </p>
+            <p xml:id="bt67yj-p129438-d1e1000">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Ultima probatio ex corruptione &amp; infirmitate 
+      hu<lb ed="#P" n="66" break="no"/>manae naturae contracta ex peccato primi parentis, 
+      <lb ed="#P" n="67"/>de qua Apostolus Rom. 7. &amp; 8. &amp; Galat 5. &amp; alibi. 
+      <lb ed="#P" n="68"/>Cum enim gratia non ita sanet ac reparet naturam 
+      <lb ed="#P" n="69"/>lapsam in hac vita, quin usque ad mortem 
+      perma<lb ed="#P" n="70" break="no"/>neat in omnibus concupiscentia seu caro pugnans 
+      <lb ed="#P" n="71"/>contra spiritum, nec infirmitas &amp; agendi ignorantia 
+      <lb ed="#P" n="72"/>cum qua nati sumus, omnino tollatur etiam a valde 
+      <lb ed="#P" n="73"/>sanctis durante mortali hac vita; consequens est, 
+      <lb ed="#P" n="74"/>homines etiam justos &amp; sanctos, dum hic vivunt, 
+      <!--0569.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>semper egere gratia Dei sanantis, adjuvantis, 
+      diri<lb ed="#P" n="76" break="no"/>gentis &amp; protegentis. Hanc rationem urget S. 
+      Tho<lb ed="#P" n="77" break="no"/>mas articulo 9. &amp; 10. quaestionis praedictae. 
+      Eandem<lb ed="#P" n="78" break="no"/>que continet oratio Ecclesiae in qua dicitur; Et quia 
+      <lb ed="#P" n="79"/>sine te labitur humana mortalitas, tuis semper 
+      auxi<lb ed="#P" n="80" break="no"/>liis &amp; abstrahatur a noxiis &amp; ad salutaria dirigatur. 
+      <lb ed="#P" n="81"/>De Qua tamen probatione videantur ea quae diximus, 
+      <lb ed="#P" n="82"/>cum per rationes ostenderemus, gratiam dari ad 
+      <lb ed="#P" n="83"/>singulos actus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

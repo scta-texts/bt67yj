@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="222"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p086241"><!-- l2d23c8" -->
+            <head xml:id="bt67yj-p086241-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-p086241-Hd1e103" type="question-title">Ad objecta responsio</head>
+            <p xml:id="bt67yj-p086241-d1e106">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> §. 8. Ad objecta responsio.
+    </p>
+            <p xml:id="bt67yj-p086241-d1e113">
+               <lb ed="#P" n="128"/>SUperest ut ad argumenta in contrarium allata 
+      <lb ed="#P" n="129"/>respondeamus. 
+    </p>
+            <p xml:id="bt67yj-p086241-d1e120">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Ad primum itaque respondetur; non oportuisse 
+      <lb ed="#P" n="131"/>ut mulier serpentis astutiam aut fallaciam cognitam 
+      <lb ed="#P" n="132"/>haberet, sive loquamur de serpente corporeo, sive 
+      <lb ed="#P" n="133"/>de incorporeo; sicut nec nostra interest nosse 
+      homi<lb ed="#P" n="134" break="no"/>num fraudulentiam, dum tamen ad eam devitandam 
+      <lb ed="#P" n="135"/>satis prudentiae sit in nobis, sicut erat haud dubie in 
+      <lb ed="#P" n="136"/>prima muliere. 
+    </p>
+            <p xml:id="bt67yj-p086241-d1e141">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Ad secundum respondeo, mulierem non fuisse 
+      <lb ed="#P" n="138"/>deceptam, antequam peccaret. Nam seductio de 
+      <lb ed="#P" n="139"/>qua loquitur apostolus, etsi praecesserit peccatum 
+      <lb ed="#P" n="140"/>illius transgressionis, qua comedit de ligno vetito, 
+      <lb ed="#P" n="141"/>secuta tamen est peccatum internae elationis, 
+      quem<lb ed="#P" n="142" break="no"/>admodum ex Augustino libro 11. de Genesi ad lite¬ 
+      <!--0456.xml-->
+      <pb ed="#P" n="223"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ram cap. 30. docuimus ad distinct. 21. ubi de primo 
+      <lb ed="#P" n="2"/>mulieris peccato agebamus. Cur autem ignorantia 
+      <lb ed="#P" n="3"/>pravae electionis, ex qua procedit omne peccatum, 
+      <lb ed="#P" n="4"/>non sit agnoscenda in primis hominibus ante 
+      pec<lb ed="#P" n="5" break="no"/>catum, petenda est ratio ex iis quae ad superiorem 
+      <lb ed="#P" n="6"/>distinctionem postremo capite disputata sunt. 
+    </p>
+            <p xml:id="bt67yj-p086241-d1e178">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Tertio argumento satisfactum est ad dist. 21. ubi 
+      <lb ed="#P" n="8"/>dubitatio illa, cur loquentem serpentem mulier non 
+      <lb ed="#P" n="9"/>horruerit, ex professo fuit tractata. 
+    </p>
+            <p xml:id="bt67yj-p086241-d1e189">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Ad quartum respondetur, primum hominem nihil 
+      <lb ed="#P" n="11"/>illorum putasse seu opinatum fuisse proprie 
+      loquen<lb ed="#P" n="12" break="no"/>do, sed tantum sperasse. Spes autem non infert 
+      opi<lb ed="#P" n="13" break="no"/>nionem seu assensum rei speratae. Neque enim cum 
+      <lb ed="#P" n="14"/>jubeor sperare vitam aeternam, teneor assentiri huic 
+      <lb ed="#P" n="15"/>propositioni tanquam verae, consequar vitam 
+      aeter<lb ed="#P" n="16" break="no"/>nam. Quare negandum est, quod spes intellectum 
+      <lb ed="#P" n="17"/>determinat in rem speratam, ita scilicet, ut 
+      intelle<lb ed="#P" n="18" break="no"/>ctus dicat id futurum quod speratur. Nam spes ex 
+      <lb ed="#P" n="19"/>parte intellectus tantum requirit, ut bonum aliquod 
+      <lb ed="#P" n="20"/>apprehendatur tanquam arduum simul &amp; possibile; 
+      <lb ed="#P" n="21"/>in quod sic apprehensum dum tendit voluntas per 
+      <lb ed="#P" n="22"/>desiderium, res illa sperari dicitur. Unde constat 
+      <lb ed="#P" n="23"/>non proprie decipi eum, qui quod sperat, non 
+      asse<lb ed="#P" n="24" break="no"/>quitur; nisi forte quid aliud accedat, ut falsa 
+      pro<lb ed="#P" n="25" break="no"/>missio alterius, vel falsa opinio facilitatis 
+      assequen<lb ed="#P" n="26" break="no"/>di id quod speratur, vel aliud tale, quemadmodum 
+      <lb ed="#P" n="27"/>accidere solet in humanis. 
+    </p>
+            <p xml:id="bt67yj-p086241-d1e233">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Ad quintum, respondendum filios in illo statu 
+      nas<lb ed="#P" n="29" break="no"/>cituros fuisse cum usu rationis, &amp; cum ea notitia 
+      <lb ed="#P" n="30"/>quae pucrili aetati vitio carenti congrueret, uti 
+      dixi<lb ed="#P" n="31" break="no"/>mus ad dist. 20. Sed accessisset deinde instructio 
+      pa<lb ed="#P" n="32" break="no"/>rentum de iis quae scienda &amp; agenda essent in 
+      adul<lb ed="#P" n="33" break="no"/>tiori aetate; sic videlicet ut tempus ac necessitatem 
+      <lb ed="#P" n="34"/>agendi provida parentum instructio semper 
+      antece<lb ed="#P" n="35" break="no"/>deret. Qua ratione nunquam futurum erat, ut ante 
+      <lb ed="#P" n="36"/>instructionem esset in filiis ignorantia privationis. 
+    </p>
+            <p xml:id="bt67yj-p086241-d1e257">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Ad sextum, respondet S. Thomas loco 
+      praeallega<lb ed="#P" n="38" break="no"/>to, id quod accidit in somno, non imputare homini, 
+      <lb ed="#P" n="39"/>quia non habet usum rationis, qui est proprius 
+      ho<lb ed="#P" n="40" break="no"/>minis actus. Sed haec solutio non videtur 
+      argumen<lb ed="#P" n="41" break="no"/>to satisfacere; non enim quaeritur, an error aut 
+      de<lb ed="#P" n="42" break="no"/>ceptio fuisset homini reputata in peccatum, sed an 
+      <lb ed="#P" n="43"/>omnino accidisset homini. Nam certum est, 
+      homi<lb ed="#P" n="44" break="no"/>nem saepe decipi sine sua culpa. Alii respondent, 
+      <lb ed="#P" n="45"/>quod homo vel nulla somnia passus fuisset, sed 
+      pla<lb ed="#P" n="46" break="no"/>cidam omnino quietem cepisset sine somniorum 
+      in<lb ed="#P" n="47" break="no"/>terpellatione, vel ratio semper vigilans ea non aliud 
+      <lb ed="#P" n="48"/>quam somnia judicasset, quod &amp; nunc 
+      somnianti<lb ed="#P" n="49" break="no"/>bus interdum accidit, ut &amp; ipse S. Thom. testatur 1. 
+      <lb ed="#P" n="50"/>p. qu. 84. art. 8. ad 2. Rursus alii sic a somno primi 
+      ho<lb ed="#P" n="51" break="no"/>minis removent somnia, ut eorum loco tribuant ei 
+      <lb ed="#P" n="52"/>revelationes divinas, qualem accepit Adam somno 
+      <lb ed="#P" n="53"/>pressus, Genes. 2. vel certe continuas de Deo ac 
+      re<lb ed="#P" n="54" break="no"/>bus divinis contemplationes. Quod probabile fit ex 
+      <lb ed="#P" n="55"/>iis quae de somno primistatus diximus ad distin. 20. 
+      <lb ed="#P" n="56"/>Quanquam etiam dici potest, in phantasia proprie 
+      <lb ed="#P" n="57"/>non esse deceptionem, cum in ea proprie non habeat 
+      <lb ed="#P" n="58"/>locum compositio &amp; divisio, sed in solo intellectu. 
+      <lb ed="#P" n="59"/>Quocirca ipse homo in statu integro nunquam 
+      ad<lb ed="#P" n="60" break="no"/>haesisset rerum similitudinibus in somno 
+      repraesen<lb ed="#P" n="61" break="no"/>tatis tanquam rebus ipsis; quia homo non censetur 
+      <lb ed="#P" n="62"/>adhaerere nisi per id quod est homini proprium, 
+      sci<lb ed="#P" n="63" break="no"/>licet per intellectum aut voluntatem. Atque hoc 
+      <lb ed="#P" n="64"/>forte voluit S. Thomas in dicta solutione. 
+    </p>
+            <p xml:id="bt67yj-p086241-d1e322">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> Hinc etiam colligitur responsio ad postremum. 
+      <lb ed="#P" n="66"/>Nam error ac deceptio proprie locum non habent 
+      <lb ed="#P" n="67"/>in sensu, quia sensus neque falsa pro veris approbat, 
+      <lb ed="#P" n="68"/>neque incerta pro certis recipit, quomodo 
+      Augu<lb ed="#P" n="69" break="no"/>stinus in Enchiridio errorem definivit; sed 
+      natura<lb ed="#P" n="70" break="no"/>liter apprehendit objectum prout ei repraesentatur. 
+      <lb ed="#P" n="71"/>In nobis autem accidit, ut ex tali sensus 
+      apprehen<lb ed="#P" n="72" break="no"/>sione nascatur error intellectus circa sensibilia. Sed 
+      <lb ed="#P" n="73"/>hoc in primo statu nequaquam accidisset, partim 
+      <lb ed="#P" n="74"/>obstante scientia causarum naturalium, ex quibus 
+      <!--0456.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>provenire solent tales apparentiae in sensu; partim 
+      <lb ed="#P" n="76"/>obstante prudentia, qua praeditus homo non 
+      teme<lb ed="#P" n="77" break="no"/>re praebuisset assensum iis, quae secundum sensus 
+      <lb ed="#P" n="78"/>externos poterant apparere. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

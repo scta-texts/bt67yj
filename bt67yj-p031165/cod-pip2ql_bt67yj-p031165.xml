@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 20</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 20</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="81"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p031165"><!-- l2d7c20" -->
+            <head xml:id="bt67yj-p031165-Hd1e101">Capitulum 20</head>
+            <head xml:id="bt67yj-p031165-Hd1e103" type="question-title">Responsio ad objecta</head>
+            <p xml:id="bt67yj-p031165-d1e106">
+      <!--0314.xml-->
+               <pb ed="#P" n="81"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 20. Responsio ad objecta.
+    </p>
+            <p xml:id="bt67yj-p031165-d1e117">
+               <lb ed="#P" n="2"/>EX iis quae jam dicta sunt, proclive est 
+      responsio<lb ed="#P" n="3" break="no"/>nem petere ad argumenta initio proposita. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e124">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Nam primum argumentum recte probat per 
+      ho<lb ed="#P" n="5" break="no"/>mines malos, interdum fieri vera miracula; sed 
+      <lb ed="#P" n="6"/>non pro confirmatione falsi. Quod &amp; per 
+      daemo<lb ed="#P" n="7" break="no"/>nes facere potest Deus, velut si per eos hominem 
+      <lb ed="#P" n="8"/>aliquem insigniter sceleratum, extraordinario 
+      mo<lb ed="#P" n="9" break="no"/>do punire velit ad ostendendum hominibus, 
+      quan<lb ed="#P" n="10" break="no"/>topere ipsi peccata displiceant. Et hoc modo factae 
+      <lb ed="#P" n="11"/>intelligi possunt quaedam punitiones impiorum, 
+      <lb ed="#P" n="12"/>quas scriptura commemorat. Ubi tamen 
+      notan<lb ed="#P" n="13" break="no"/>dum, non hinc fore consequens ipsos daemones 
+      <lb ed="#P" n="14"/>facere miracula; quia nec quoties per hominem 
+      <lb ed="#P" n="15"/>quemcumque miraculum fit, ipse homo 
+      miracu<lb ed="#P" n="16" break="no"/>lum facere dicitur. Nam ut habetur Act. 
+      decimo<lb ed="#P" n="17" break="no"/>nono, quidam a corpore Pauli delata sudaria 
+      lan<lb ed="#P" n="18" break="no"/>guidis imponebant, a quibus statim recedebant 
+      <lb ed="#P" n="19"/>languores. Nec tamen illi deferentes &amp; 
+      imponen<lb ed="#P" n="20" break="no"/>tes dicebantur facere miracula, sed Paulus a 
+      cu<lb ed="#P" n="21" break="no"/>jus corpore talia deferebantur, &amp; ad cujus 
+      sancti<lb ed="#P" n="22" break="no"/>tatem denunciandam tali modo miracula fiebant, 
+      <lb ed="#P" n="23"/>ut docet sanctus Thomas, ubi supra articulo 
+      secun<lb ed="#P" n="24" break="no"/>do in corpore. Unde licet concedatur Deum per 
+      <lb ed="#P" n="25"/>daemones interdum facere miraculum, non tamen 
+      <lb ed="#P" n="26"/>conceditur ipsos daemones facere miracula; quia 
+      <lb ed="#P" n="27"/>nec ipsi daemones praedicant veritatem quam 
+      cu<lb ed="#P" n="28" break="no"/>piant miraculo confirmari, nec ad declarandam 
+      <lb ed="#P" n="29"/>eorum sanctitatem, quae nulla est, ulla miracula 
+      <lb ed="#P" n="30"/>vel ab ipsis fiunt vel ab aliis. Horum autem 
+      alteru<lb ed="#P" n="31" break="no"/>trum requiri videtur ad hoc ut quis secundum 
+      mo<lb ed="#P" n="32" break="no"/>dum loquendi fidelibus usitatum dicatur facere 
+      mi<lb ed="#P" n="33" break="no"/>raculum, quemadmodum eodem loco sanctus 
+      Tho<lb ed="#P" n="34" break="no"/>mas indicat. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e197">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Secundum argumentum non probat de veris 
+      mi<lb ed="#P" n="36" break="no"/>raculis, sed falsis verorum quandam similitudinem 
+      <lb ed="#P" n="37"/>habentibus, licet quaedam eorum vera sint quoad 
+      <lb ed="#P" n="38"/>rem sensibus exhibitam, velut cum ignis descendit 
+      <lb ed="#P" n="39"/>de caelo, qua in re sensus non decipitur, sed ideo 
+      <lb ed="#P" n="40"/>verum miraculum non est, quia fit per causas 
+      natu<lb ed="#P" n="41" break="no"/>rales. Et hoc sensu significat Augustinus apostoli 
+      <lb ed="#P" n="42"/>locum intelligi posse de veris prodigiis, ut supra 
+      <lb ed="#P" n="43"/>declaratum est. Vocantur autem Matth. 24. &amp; 
+      <lb ed="#P" n="44"/>Apoc. 13. signa magna, quia talia erunt in oculis 
+      <lb ed="#P" n="45"/>hominum, qui ad ea tanquam magna miracula 
+      <lb ed="#P" n="46"/>valde stupebunt. Quomodo autem daturus sit 
+      An<lb ed="#P" n="47" break="no"/>tichristus spiritum imagini bestiae, &amp; facturus ut 
+      <lb ed="#P" n="48"/>loquatur, jam supra dictum est; tametsi dici etiam 
+      <lb ed="#P" n="49"/>potest sensum illius loci esse figuratum &amp; 
+      allegori<lb ed="#P" n="50" break="no"/>cum, sicut multa alia in apocalypsi, de quo vide 
+      <lb ed="#P" n="51"/>commentatores. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e239">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Ad tertium respondetur id quod dicit Lactantius, 
+      <lb ed="#P" n="53"/>Antichristum facturum ut sol cursum sistat, nec in 
+      <lb ed="#P" n="54"/>scripturis legi, nec apud graviores authores. Potest 
+      <lb ed="#P" n="55"/>tamen intelligi cum id facturum apparenter, scilicet 
+      <lb ed="#P" n="56"/>oculos hominum fascinando, ut videatur sol stare 
+      <lb ed="#P" n="57"/>diemque facere solito longiorem; quomodo &amp; 
+      lu<lb ed="#P" n="58" break="no"/>nam arte diabolica caelo deducunt maleficae. De quo 
+      <lb ed="#P" n="59"/>vide Aug. lib. 10. de civitate cap. 16. &amp; Vivem in 
+      <lb ed="#P" n="60"/>ejusdem loci commentario.
+    </p>
+            <p xml:id="bt67yj-p031165-d1e263">
+               <lb ed="#P" n="61"/>Quarto loco adducta miracula sunt quidem ab 
+      hae<lb ed="#P" n="62" break="no"/>reticis quibusdam facta non ope daemonum, sed Dec 
+      <lb ed="#P" n="63"/>operante, non ad confirmandam haeresim, sed vel ad 
+      <lb ed="#P" n="64"/>asserendum verum aliquem fidei articulum quem 
+      <lb ed="#P" n="65"/>communiter nobiscum tenet haereticus, vel ad 
+      com<lb ed="#P" n="66" break="no"/>mendationem nominis Christi, quod invocat, vel 
+      <lb ed="#P" n="67"/>ad testificandum vera esse sacramenta etiam per 
+      <lb ed="#P" n="68"/>haereticum administrata. Quae omnia continentur 
+      <lb ed="#P" n="69"/>sub attestatione veritatis. Nec tamen quicquam 
+      ho<lb ed="#P" n="70" break="no"/>rum fieret, si haereticus actu protestaretur se 
+      mira<lb ed="#P" n="71" break="no"/>culum facere pro errore quem praedicat.
+    </p>
+            <p xml:id="bt67yj-p031165-d1e289">
+      <!--0314.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Ad quintum respondetur discrimen esse inter 
+      do<lb ed="#P" n="73" break="no"/>num miraculorum &amp; donum linguarum atque alia 
+      <lb ed="#P" n="74"/>hujus generis. Nam ut docet sanctus Thomas 
+      ejus<lb ed="#P" n="75" break="no"/>dem quaest. articulo primo ad primum principium 
+      <lb ed="#P" n="76"/>operandi miracula, non est aliqua qualitas 
+      habituali<lb ed="#P" n="77" break="no"/>ter manens in anima, ut ea pro arbitrio uti possit 
+      ho<lb ed="#P" n="78" break="no"/>mo ad quodcumque voluerit, sicut utitur habitu 
+      ar<lb ed="#P" n="79" break="no"/>tis aut scientiae, sed ille dicitur habere donum 
+      mira<lb ed="#P" n="80" break="no"/>culorum, cujus mens ex inspiratione divina 
+      aliquan<lb ed="#P" n="81" break="no"/>do movetur ad faciendum aliquid, ad quod sequitur 
+      <lb ed="#P" n="82"/>effectus miraculi, quod Deus sua virtute facit. Igitur 
+      <lb ed="#P" n="83"/>hoc donum non est habitus permanens, sed 
+      impres<lb ed="#P" n="84" break="no"/>sio transiens, quae cum non sit in hominis potestate, 
+      <lb ed="#P" n="85"/>non poterit homo eam recipere dum vult errorem 
+      <lb ed="#P" n="86"/>confirmare, quia repugnat ordinatio divina. At 
+      do<lb ed="#P" n="87" break="no"/>num linguarum habitus est semel infusus, quo dein 
+      <lb ed="#P" n="88"/>ceps utitur homo quando &amp; quomodo vult sine novo 
+      <lb ed="#P" n="89"/>miraculo, idemque judicium de gratia sermonis &amp; 
+      <lb ed="#P" n="90"/>caeteris hujusmodi. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e337">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Ad sextum dicendum posse aliquem facere 
+      mira<lb ed="#P" n="92" break="no"/>culum ex prava intentione in animo latente, aut 
+      e<lb ed="#P" n="93" break="no"/>tiam exterius se per aliquod signum prodente, velut 
+      <lb ed="#P" n="94"/>ad ostentationem aut quaestum, quomodo forte 
+      Ju<lb ed="#P" n="95" break="no"/>das fecit miracula, &amp; illi de quibus Matth. 7. quia 
+      <lb ed="#P" n="96"/>diceturillis, Nunquam novi vos. Sed qui sic facit, 
+      <lb ed="#P" n="97"/>non per hoc probat malum illud quod intendit 
+      bo<lb ed="#P" n="98" break="no"/>num esse aut Deo placere; quia non ad hujus rei 
+      te<lb ed="#P" n="99" break="no"/>stificationem facit miraculum, neque facere potest 
+      <lb ed="#P" n="100"/>ob rationem saepe dictam. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e363">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> Septimum argumentum tantummodo probat quid 
+      <lb ed="#P" n="102"/>absolute Deo possibile sit, non quid secundum 
+      poten<lb ed="#P" n="103" break="no"/>tiam ordinariam, ut dictum est supra. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e375">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Ad octavum respondetur, hujusmodi 
+      probatio<lb ed="#P" n="105" break="no"/>nem electorum non esse rationabilem, quia 
+      repu<lb ed="#P" n="106" break="no"/>gnat ordinationi Dei, qua voluit &amp; constituit vera 
+      <lb ed="#P" n="107"/>miracula esse veritatis indubitata testimonia.. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e388">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Ad nonum respondetur, locum Deut. rectius 
+      in<lb ed="#P" n="109" break="no"/>telligi de propheta diaboli, quales sunt arioli sive 
+      <lb ed="#P" n="110"/>divini per quos diabolus interdum vera quaedam, sed 
+      <lb ed="#P" n="111"/>naturali via sibi cognita praedicit. Nam quod ad Dei 
+      <lb ed="#P" n="112"/>prophetam attinet, cum nec prophetiae donum sit 
+      ha<lb ed="#P" n="113" break="no"/>bitus permanens, sed impressio transiens, ut modo 
+      <lb ed="#P" n="114"/>de gratia miraculorum dicebamus (consistit enim in 
+      <lb ed="#P" n="115"/>interiori illuminatione mentis) non videtur quod 
+      <lb ed="#P" n="116"/>propheta eodem instanti quo movetur a Deo ad 
+      ali<lb ed="#P" n="117" break="no"/>quid supernaturaliter cognoscendum, possit eo dono 
+      <lb ed="#P" n="118"/>uti ad seductionem aliorum. Posset tamen 
+      revelatio<lb ed="#P" n="119" break="no"/>nem prius acceptam postea proferre ad homines 
+      <lb ed="#P" n="120"/>quos per veritatem suae praedictionis vellet in 
+      erro<lb ed="#P" n="121" break="no"/>rem ducere, scilicet utens vera praedictione tanquam 
+      <lb ed="#P" n="122"/>sigillo confirmandi erroris. Quo pacto fieri etiam 
+      <lb ed="#P" n="123"/>potuit, ut daemones aliqua secreta per bonos angelos 
+      <lb ed="#P" n="124"/>cognita patefecerint hominibus per hoc inducere eos 
+      <lb ed="#P" n="125"/>volentes ad sui cultum. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e432">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Ad decimum respondeo Chrysostomum loqui eo 
+      <lb ed="#P" n="127"/>modo quo Paulus apostolus loquitur ad Gal. 1. 
+      di<lb ed="#P" n="128" break="no"/>cens: Licet angelus de celo evangelizet vobis 
+      praeter<lb ed="#P" n="129" break="no"/>quam quod evangelizavimus, anathema sit. 
+      Loquun<lb ed="#P" n="130" break="no"/>tur enim ambo sub conditione quae impossibilis est, 
+      <lb ed="#P" n="131"/>qua tamen posita negant vel angelo vel miraculis 
+      <lb ed="#P" n="132"/>credendum esse; quia tali casu nec angelus esset in 
+      <lb ed="#P" n="133"/>veritate confirmatus, nec miraculum esset ex 
+      ordi<lb ed="#P" n="134" break="no"/>natione divina certum &amp; infallibile veritatis 
+      testi<lb ed="#P" n="135" break="no"/>monium, &amp; proinde sepositis miraculis aliunde 
+      <lb ed="#P" n="136"/>petenda tunc esset catholicae veritatis confirmatio, 
+      <lb ed="#P" n="137"/>velut ex doctrina prophetarum &amp; apostolorum, &amp; 
+      <lb ed="#P" n="138"/>ex perpetua traditione ecclesiae, quam traditionem 
+      <lb ed="#P" n="139"/>ibidem, ut &amp; alibi saepe, urget apostolus. Quod 
+      <lb ed="#P" n="140"/>autem Chrysostomus conditionem intelligat 
+      im<lb ed="#P" n="141" break="no"/>possibilem, satis indicat superioribus verbis, quibus 
+      <lb ed="#P" n="142"/>negat vera esse haereticorum miracula ad 
+      seductio<lb ed="#P" n="143" break="no"/>nem facta. 
+    </p>
+            <p xml:id="bt67yj-p031165-d1e476">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Ad postremum, quamvis authoritate Gersonis 
+      <lb ed="#P" n="145"/>nolumus premi, respondemus tamen eum non 
+      <!--0315.xml-->
+      <pb ed="#P" n="82"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>omnino affirmare, sed dubitanter loqui de hac 
+      re<lb ed="#P" n="2" break="no"/>Dicit enim quod etsi Deus miracula faceret per 
+      men<lb ed="#P" n="3" break="no"/>daces &amp; seductores, nunquam tamen ita falsari 
+      sigil<lb ed="#P" n="4" break="no"/>lum suum permitteret, quin per scripturas &amp; 
+      prophe<lb ed="#P" n="5" break="no"/>tas vel etiam aliter reclamaret, &amp; mendacio 
+      contra<lb ed="#P" n="6" break="no"/>diceret. Verum est tamen hunc authorem in istam 
+      <lb ed="#P" n="7"/>sententiam satis propendere, propterea quod 
+      opine<lb ed="#P" n="8" break="no"/>tur Augustinum &amp; multos alios ita sentire. Qua in 
+      <lb ed="#P" n="9"/>re falli eum existimamus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

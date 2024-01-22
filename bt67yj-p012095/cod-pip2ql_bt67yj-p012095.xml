@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="31"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p012095"><!-- l2d3c10" -->
+            <head xml:id="bt67yj-p012095-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p012095-Hd1e103" type="question-title">Objectionum solutio</head>
+            <p xml:id="bt67yj-p012095-d1e106">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> §. 10. Objectionum solutio.
+    </p>
+            <p xml:id="bt67yj-p012095-d1e113">
+               <lb ed="#P" n="114"/>ADversus hanc doctrinam, qua parte angelis 
+      <lb ed="#P" n="115"/>attribuit gratiam secundum quantitatem 
+      na<lb ed="#P" n="116" break="no"/>turalium, una est &amp; altera objectio. 
+    </p>
+            <p xml:id="bt67yj-p012095-d1e122">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Primum enim ex ea consequens videtur, quod 
+      <lb ed="#P" n="118"/>saltem in angelis, &amp; primo homine, natura fuerit 
+      <lb ed="#P" n="119"/>dispositio ad gratiam, quódque naturalis conatus 
+      li<lb ed="#P" n="120" break="no"/>beri arbitrii ipsorum, praefinierit modum gratiae 
+      <lb ed="#P" n="121"/>quam acceperunt. Hoc autem contrarium apparet 
+      <lb ed="#P" n="122"/>Catholico dogmati jam olim contra Pelagium 
+      defi<lb ed="#P" n="123" break="no"/>nito, quo credimus gratiam non dari secundum 
+      <lb ed="#P" n="124"/>merita. Nam ut dicetur ad dist. 26. meriti nomine 
+      <lb ed="#P" n="125"/>in ea Patrum sententia comprehenditur quaevis 
+      dis<lb ed="#P" n="126" break="no"/>positio naturae ac praeparatio voluntatis. 
+    </p>
+            <p xml:id="bt67yj-p012095-d1e149">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Sed respondetur primo quidem Patres hoc 
+      defi<lb ed="#P" n="128" break="no"/>nientes locutos fuisse de gratia Dei per Christum qua 
+      <lb ed="#P" n="129"/>nimirum homo postquam gratiam in creatione 
+      acce<lb ed="#P" n="130" break="no"/>ptam perdidit, misericorditer reparatur inspiratio 
+      <lb ed="#P" n="131"/>ne fidei, ac bonae voluntatis. Hanc enim gratiam, 
+      <lb ed="#P" n="132"/>non secundum merita dari, sed meritum omne 
+      prae<lb ed="#P" n="133" break="no"/>venire, certissima est Patrum ex scripturis 
+      doctri<lb ed="#P" n="134" break="no"/>na. At de gratia data angelis &amp; primo homini in 
+      <lb ed="#P" n="135"/>creatione, nihil tale legimus definitum. Deinde nec 
+      <lb ed="#P" n="136"/>revera consequens est, si pro quantitate naturalium 
+      <lb ed="#P" n="137"/>collata fuerit angelis gratia, naturam seu 
+      quod<lb ed="#P" n="138" break="no"/>cumque naturale fuisse in illis dispositionem ad 
+      <lb ed="#P" n="139"/>gratiam, si de dispositione proprie loquamur. Cum 
+      <lb ed="#P" n="140"/>enim gratia sit donum supernaturale tanquam 
+      se<lb ed="#P" n="141" break="no"/>men quoddam gloriae, id est, beatitudinis 
+      superna<lb ed="#P" n="142" break="no"/>turalis; non potest angelum vel hominem ad eam 
+      di<lb ed="#P" n="143" break="no"/>sponere ac praeparare natura sive naturalis ulla 
+      perfe<lb ed="#P" n="144" break="no"/>ctio, vel motio, sed sola perfectio naturam excedens, 
+      <!--0265.xml-->
+      <pb ed="#P" n="32"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>scilicet motus liberi arbitrii excitati &amp; adjuti a 
+      su<lb ed="#P" n="2" break="no"/>pernaturali Dei motione atque auxilio. Omnis enim 
+      <lb ed="#P" n="3"/>naturalis perfectio improportionata est, ut 
+      loquun<lb ed="#P" n="4" break="no"/>tur, ad gratiam &amp; gloriam. Cum ergo dicitur 
+      gra<lb ed="#P" n="5" break="no"/>tiam fuisse datam angelis secundum quantitatem 
+      na<lb ed="#P" n="6" break="no"/>turalium, non aliud significatur, quam Deum 
+      quan<lb ed="#P" n="7" break="no"/>do angelis gratiam in creatione infudit, voluisse 
+      ra<lb ed="#P" n="8" break="no"/>tionem habere naturae eorum, sic ut gratiam 
+      infun<lb ed="#P" n="9" break="no"/>deret uberiorem iis qui naturae donis magis 
+      excelle<lb ed="#P" n="10" break="no"/>rent, non quod vel meritum, vel dispositio esset in 
+      <lb ed="#P" n="11"/>natura ad gratiam, sed quia placuit hunc ordinem 
+      <lb ed="#P" n="12"/>in conferenda gratia spectare. Quem tamen ordinem 
+      <lb ed="#P" n="13"/>uti supra diximus ut quam gratuitum sit gratiae 
+      do<lb ed="#P" n="14" break="no"/>num ostendat, in lapsis hominibus reparandis, 
+      se<lb ed="#P" n="15" break="no"/>qui noluit. 
+    </p>
+            <p xml:id="bt67yj-p012095-d1e232">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Quoniam autem ab initio natura ad gratiam, &amp; 
+      <lb ed="#P" n="17"/>gratia ad gloriam in angelis fuit ordinata; hinc 
+      di<lb ed="#P" n="18" break="no"/>versitas angelorum quoad gratiam &amp; gloriam, 
+      fina<lb ed="#P" n="19" break="no"/>liter in Deum, ejusque liberrimam voluntatem est 
+      <lb ed="#P" n="20"/>reducenda; quamvis enim gratiam &amp; consequenter 
+      <lb ed="#P" n="21"/>gloriam illis dederit pro capacitate, vel quantitate 
+      <lb ed="#P" n="22"/>naturalium horum, tamen diversitatem indidit 
+      pro<lb ed="#P" n="23" break="no"/>pter diversitatem gratiae, &amp; hanc rursus contulit 
+      <lb ed="#P" n="24"/>propter diversitatem gloriae, ad quam eos gratis ab 
+      <lb ed="#P" n="25"/>aeterno praedestinaverat. De hac re legatur <ref xml:id="bt67yj-p012095-Rd1e258">
+                  <name xml:id="bt67yj-p012095-Nd1e260">Cajetan</name>
+                  <lb ed="#P" n="26"/>in 2. 2. q. 24. art. 3. ad 3.</ref> &amp; <ref xml:id="bt67yj-p012095-Rd1e265">
+                  <name xml:id="bt67yj-p012095-Nd1e267">Banesius</name> in 1. q. 62. art. 6.</ref>
+            </p>
+            <p xml:id="bt67yj-p012095-d1e271">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Altera objectio est, quod ex superiori doctrina 
+      <lb ed="#P" n="28"/>consequi videatur; sicut in angelis, sic &amp; in 
+      homini<lb ed="#P" n="29" break="no"/>bus rem se habere, quoad gratiae &amp; gloriae 
+      inaequa<lb ed="#P" n="30" break="no"/>litatem, ita videlicet ut nulli duo homines pares 
+      fu<lb ed="#P" n="31" break="no"/>turi sint in gratia &amp; gloria. Quod quidam 
+      falsissi<lb ed="#P" n="32" break="no"/>mum esse nonnulli putant ostendi, vel solo exemplo 
+      <lb ed="#P" n="33"/>parvulorum baptizatorum ante rationis usum 
+      dece<lb ed="#P" n="34" break="no"/>dentium, quos omnes dicunt ut in baptismali gratia, 
+      <lb ed="#P" n="35"/>ita &amp; in caelesti gloria esse aequales. Sequelam autem 
+      <lb ed="#P" n="36"/>probant, quia ut communis est Patrum sententia, 
+      <lb ed="#P" n="37"/>homines assumuntur ut suppleant ruinas 
+      angelo<lb ed="#P" n="38" break="no"/>rum. Quare si angeli qui corruerunt, omnes 
+      inaequa<lb ed="#P" n="39" break="no"/>les fuerunt in gratia, similiter inaequales futuri in 
+      <lb ed="#P" n="40"/>gloria si perstitissent, oportet &amp; inter homines qui 
+      <lb ed="#P" n="41"/>locum eorum supplent, eandem retineri 
+      inaequalita<lb ed="#P" n="42" break="no"/>tem. Respondetur non eo sensu a Patribus dici quod 
+      <lb ed="#P" n="43"/>per homines supplenda sit angelorum ruina, quasi 
+      <lb ed="#P" n="44"/>&amp; totidem numero homines sint assumendi quot 
+      <lb ed="#P" n="45"/>angeli ceciderunt, &amp; eosdem gloriae gradus sint 
+      ha<lb ed="#P" n="46" break="no"/>bituri, quos habituri erant angeli si non cecidissent. 
+      <lb ed="#P" n="47"/>Nam Christus sine dubio longe majorem gratiae &amp; 
+      <lb ed="#P" n="48"/>gloriae gradum secundum humanitatem adeptus est, 
+      <lb ed="#P" n="49"/>quam summus angelorum, qui cecidit, habuit aut 
+      <lb ed="#P" n="50"/>habiturus fuit. Sed &amp; de numero res plane incerta 
+      <lb ed="#P" n="51"/>est. Supplenda est itaque ruina angelorum ex 
+      homi<lb ed="#P" n="52" break="no"/>nibus generali quadam ratione supplementi, sive 
+      <lb ed="#P" n="53"/>par numerus succedat, sive non, &amp; sive in pari 
+      gra<lb ed="#P" n="54" break="no"/>tiae &amp; gloriae gradu substituendi sint, sive non, ut 
+      <lb ed="#P" n="55"/>plenius explicabitur infra ad dist. 9. 
+    </p>
+            <p xml:id="bt67yj-p012095-d1e339">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> An autem necesse sit fateri multos homines 
+      futu<lb ed="#P" n="57" break="no"/>ros aequali inter se gradu gratiae &amp; gloriae, maxime 
+      <lb ed="#P" n="58"/>propter argumentum ductum a parvulis cum sola 
+      <lb ed="#P" n="59"/>captismali gratia decedentibus, alibi quaerendum 
+      <lb ed="#P" n="60"/>est, scilicet ad dist. 4. lib. 4. ubi disputatur de 
+      <lb ed="#P" n="61"/>aequalitate gratiae baptismalis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="395"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p153076"><!-- l2d43c3" -->
+            <head xml:id="bt67yj-p153076-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p153076-Hd1e103" type="question-title">Quomodo irremissibile dicatur peccatum in 
+      Spiritum sanctum</head>
+            <p xml:id="bt67yj-p153076-d1e106">
+               <lb ed="#P" n="104"/>§. 3. Quomodo irremissibile dicatur peccatum in 
+      <lb ed="#P" n="105"/>Spiritum sanctum. 
+    </p>
+            <p xml:id="bt67yj-p153076-d1e113">
+               <lb ed="#P" n="106"/>NUnc quo sensu peccato in Spiritum sanctum? 
+      <lb ed="#P" n="107"/>remissio negetur, videamus. Et quidem si 
+      pec<lb ed="#P" n="108" break="no"/>catum in Spiritum sanctum intelligitur 
+      impoeniten<lb ed="#P" n="109" break="no"/>tia, seu per versi cordis duritia usque ad finem vitae, 
+      <lb ed="#P" n="110"/>manifestum est peccatum illud absolute nunquam 
+      <lb ed="#P" n="111"/>dimitti; non ob magnitudinem peccati, sed ob 
+      per<lb ed="#P" n="112" break="no"/>manentiam ejus, &amp; complacentiam usque ad vitae 
+      <lb ed="#P" n="113"/>terminum, post quem non est poenitentiae locus. 
+      <lb ed="#P" n="114"/>Unde patet hoc non adversari doctrinae capitis 
+      su<lb ed="#P" n="115" break="no"/>perioris. Alio vero quocunque modo si 
+      intelliga<lb ed="#P" n="116" break="no"/>tur, major relinquitur quaestio.
+    </p>
+            <p xml:id="bt67yj-p153076-d1e139">
+               <lb ed="#P" n="117"/>Putant enim quidam Deum, etsi possibile ei sit 
+      ta<lb ed="#P" n="118" break="no"/>lis peccati poenitentiam homini inspirare, id tamen 
+      <lb ed="#P" n="119"/>nunquam facere; atque inde fieri, ut peccantibus in 
+      <lb ed="#P" n="120"/>Spiritum sanctum, peccatum illud nunquam 
+      remit<lb ed="#P" n="121" break="no"/>tatur, Deo videlicet illud semper puniente per 
+      ob<lb ed="#P" n="122" break="no"/>durationem finalem. Unde dicunt, nullo exemplo 
+      <lb ed="#P" n="123"/>doceri posse, quemdam aliquando qui in Spiritum 
+      <lb ed="#P" n="124"/>sanctum peccasset, resipuisse. Quam expositionem 
+      <lb ed="#P" n="125"/>tradere videtur Beda scribens in 3. Marci. Sed nos 
+      <lb ed="#P" n="126"/>eam ut improbabilem &amp; scripturis contrariam, jam 
+      <lb ed="#P" n="127"/>supra rejecimus, ostendentes Deum in nulla vel 
+      <lb ed="#P" n="128"/>magnitudine, vel multitudine peccatorum 
+      termi<lb ed="#P" n="129" break="no"/>num fixisse suae misericordiae, quandiu hic vivitur. 
+      <lb ed="#P" n="130"/>Rejicit &amp; Augustinus libro primo de serm. Domini. 
+      <lb ed="#P" n="131"/>in monte, cap. 22. 
+    </p>
+            <p xml:id="bt67yj-p153076-d1e175">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Theophylactus interpretatur non remittendum 
+      <lb ed="#P" n="133"/>hoc peccatum; quia non remittitur sine poenitentia, 
+      <lb ed="#P" n="134"/>cum ea peccata quae in filium hominis 
+      committun<lb ed="#P" n="135" break="no"/>tur, sine poenitentia remitti possint. Quod 
+      intelli<lb ed="#P" n="136" break="no"/>gendum de poenitentia severiore, qualem insinuat 
+      <lb ed="#P" n="137"/>Apostolus Hebr. 10. cum ait: Terribilis autem 
+      quae<lb ed="#P" n="138" break="no"/>dam expectatio judicii &amp; ignis aemulatio. Verum cum 
+      <lb ed="#P" n="139"/>sint &amp; alia multa peccata quae severiorem 
+      poeni<lb ed="#P" n="140" break="no"/>tentiam exigant, non consistet cum hac 
+      expositio<lb ed="#P" n="141" break="no"/>ne, quod universaliter a Domino dictum est, 
+      om<lb ed="#P" n="142" break="no"/>ne peccatum, excepto eo quod in Spiritum 
+      san<lb ed="#P" n="143" break="no"/>ctum committitur, remitti hominibus¬ 
+    </p>
+            <p xml:id="bt67yj-p153076-d1e206">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Dicendum igitur est quod sicut prior illa 
+      senten<lb ed="#P" n="145" break="no"/>tiae pars: Omne peccatum &amp; blasphemia remittetur 
+      <!--0629.xml-->
+      <pb ed="#P" n="396"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>hominibus, non significat omne ejusmodi omnibus 
+      <lb ed="#P" n="2"/>remitti, (multa enim sunt non in Spiritum sanctum 
+      <lb ed="#P" n="3"/>commissa peccata, quae revera nunquam 
+      remittun<lb ed="#P" n="4" break="no"/>tur) sed faciliorem esse talis peccati remissionem; 
+      <lb ed="#P" n="5"/>ita pars posterior, quae negat peccatum in Spiritum 
+      <lb ed="#P" n="6"/>sanctum unquam remitti, non significet id absolute 
+      <lb ed="#P" n="7"/>nunquam fieri, sed difficillime ejus veniam obtineri; 
+      <lb ed="#P" n="8"/>nam ut ait August. libro supra dicto de serm. 
+      Do<lb ed="#P" n="9" break="no"/>mini in monte, tanta est illius peccati labes, ut 
+      de<lb ed="#P" n="10" break="no"/>precandi humilitatem non subeat qui peccavit etiamsi 
+      <lb ed="#P" n="11"/>peccatum suum mala conscientia &amp; agnoscere &amp; 
+      an<lb ed="#P" n="12" break="no"/>nunciare cogatur. Aut certe quemadmodum 
+      Eu<lb ed="#P" n="13" break="no"/>thymius exponit peccatum in filium hominis 
+      re<lb ed="#P" n="14" break="no"/>mittendum dicitur; quia venia dignum videri 
+      po<lb ed="#P" n="15" break="no"/>test, eo quod habeat causam excusantem, nempe 
+      <lb ed="#P" n="16"/>humilitatem hominis assumpti, qua quis offenditur. 
+      <lb ed="#P" n="17"/>Et idem judicium de aliis peccatis ex ignorantia vel 
+      <lb ed="#P" n="18"/>infirmitate commissis. Peccatum autem in Spiritum 
+      <lb ed="#P" n="19"/>sanctum nunquam remittendum; quia cum sit 
+      pec<lb ed="#P" n="20" break="no"/>catum malitiae, nullam ejusmodi causam 
+      excusan<lb ed="#P" n="21" break="no"/>tem in homine relinquit. Recte namque illud 
+      furu<lb ed="#P" n="22" break="no"/>rum in aliquo negatur, cujus nulla in eo causa vel 
+      <lb ed="#P" n="23"/>dispositio relinquitur, etiamsi Deus id efficere 
+      pos<lb ed="#P" n="24" break="no"/>sit, &amp; interdum efficiat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

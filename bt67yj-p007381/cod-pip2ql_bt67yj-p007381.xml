@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="20"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p007381"><!-- l2d2c7" -->
+            <head xml:id="bt67yj-p007381-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p007381-Hd1e103" type="question-title">Quomodo Angeli sint in loco</head>
+            <p xml:id="bt67yj-p007381-d1e106">
+      <!--0253.xml-->
+               <pb ed="#P" n="20"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 7. Quomodo Angeli sint in loco.
+    </p>
+            <p xml:id="bt67yj-p007381-d1e117">
+               <lb ed="#P" n="2"/>NOn esse eundem modum existendi in loco, qui 
+      <lb ed="#P" n="3"/>competat corporibus, &amp; qui substantiis 
+      incor<lb ed="#P" n="4" break="no"/>poreis ut angelis &amp; animabus separatis; manifestum 
+      <lb ed="#P" n="5"/>est &amp; indubitatum. Nam corpora sunt in loco 
+      ratio<lb ed="#P" n="6" break="no"/>ne quantitatis dimensivae, per cujus contactum ap 
+      <lb ed="#P" n="7"/>plicantur loco. Unde &amp; circumscriptive in loco esse 
+      <lb ed="#P" n="8"/>dicuntur, hoc autem angelis non posse convenire 
+      <lb ed="#P" n="9"/>certum est; quia ut hic supponitur, incorporei sunt, 
+      <lb ed="#P" n="10"/>&amp; proinde quantitatis expertes. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e139">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> Quaeritur ergo qua ratione dicendum fit eos esse 
+      <lb ed="#P" n="12"/>in loco, &amp; quidem inter omnes convenit, eos esse 
+      <lb ed="#P" n="13"/>in loco definitive, id est, ita esse alicubi, ut non sint 
+      <lb ed="#P" n="14"/>ubique, saltem eo modo quo Deus ubique; quod 
+      <lb ed="#P" n="15"/>addo propter Durandum qui concedit aliquo sensu 
+      <lb ed="#P" n="16"/>angelos ubique esse; sed quis sit modus quo 
+      defini<lb ed="#P" n="17" break="no"/>tive sint in loco, in quaestionem venit. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e160">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/>
+               <name xml:id="bt67yj-p007381-Nd1e166">Scotus</name> &amp; <name xml:id="bt67yj-p007381-Nd1e168">Gabriel</name> in hanc distinct. scribentes, quos 
+      <lb ed="#P" n="19"/>&amp; alii nonnulli sequuntur, opinati sunt angelos esse 
+      <lb ed="#P" n="20"/>in loco per suam essentiam, sive ut aiunt per 
+      praesen<lb ed="#P" n="21" break="no"/>tiam substantialem, non habito respectu ad 
+      opera<lb ed="#P" n="22" break="no"/>tionem, vel operandi principium. Quam opinionem 
+      <lb ed="#P" n="23"/>praeter rationem superius indicatam quae ex 
+      commu<lb ed="#P" n="24" break="no"/>ni conceptione hominum sumitur, varie probant. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e184">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Primo, quia operari praesupponit esse, ergo 
+      ope<lb ed="#P" n="26" break="no"/>rari in loco praesupponit esse in loco. Prius ergo per 
+      <lb ed="#P" n="27"/>essentiam, quam per operationem angelus est in 
+      lo<lb ed="#P" n="28" break="no"/>co. Et eadem ratio est de virtute operandi. Nam haec 
+      <lb ed="#P" n="29"/>quoque praesupponit essentiam. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e200">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Secundo, quia si angelus est in loco ratione 
+      opera<lb ed="#P" n="31" break="no"/>tionis cum operatio recipiatur in patiente, &amp; 
+      proin<lb ed="#P" n="32" break="no"/>de sit commensurata loco patientis, sequetur etiam 
+      <lb ed="#P" n="33"/>angelum eidem loco commensurari. Unde 
+      conse<lb ed="#P" n="34" break="no"/>quens erit esse in loco circumscriptive. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e216">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Tertio, Si angelus non est in loco per essentiam 
+      <lb ed="#P" n="36"/>sed tantum per operationem; ergo angelus ab 
+      ope<lb ed="#P" n="37" break="no"/>ratione quiescens, nullo erit in loco; &amp; sic nusquam 
+      <lb ed="#P" n="38"/>erit; similiter &amp; anima separata. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e229">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> Quarto, Angeli &amp; animae sunt in caelo nihil 
+      ta<lb ed="#P" n="40" break="no"/>men circa illud operantes; ergo non aliter ibi sunt 
+      <lb ed="#P" n="41"/>quam per essentiam 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e240">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Quinto, Si Deus ab aliquo corpore existente in 
+      <lb ed="#P" n="43"/>loco tolleret quantitatem, maneret illud corpus in 
+      <lb ed="#P" n="44"/>eodem loco; ergo ibi est per essentiam; sic ergo &amp; 
+      <lb ed="#P" n="45"/>spiritus recte ponitur per essentiam esse in loco 
+      re<lb ed="#P" n="46" break="no"/>mota omni operatione. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e257">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> Sunt &amp; aliae rationes apud praedictos authores 
+      <lb ed="#P" n="48"/>quas brevitatis studio omittimus. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e266">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Refellitur haec opinio; Primo, quia substantia 
+      an<lb ed="#P" n="50" break="no"/>geli est indifferens ad quemcunque locum; ergo si 
+      <lb ed="#P" n="51"/>angelus ratione substantiae est in loco, erit hac 
+      ra<lb ed="#P" n="52" break="no"/>tione in omni loco. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e279">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Secundo, quia substantia angeli est indivisibilis; 
+      <lb ed="#P" n="54"/>ergo si ratione substantiae est in loco, non erit 
+      un<lb ed="#P" n="55" break="no"/>quam in loco divisibili, sed indivisibili tantum. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e290">
+               <lb ed="#P" n="56"/>
+               <pc type="indent"/> Tertio, quia si angelus ratione substantiae est in 
+      <lb ed="#P" n="57"/>loco corporeo; ergo ratione essentiae, &amp; praevenien, 
+      <lb ed="#P" n="58"/>do operationem, aliquantum spatium occupat, erit 
+      <lb ed="#P" n="59"/>ergo secundum essentiam angelus extensus, quod 
+      <lb ed="#P" n="60"/>est manifeste falsum, cum essentia sit indivisibilis. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e306">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Quarto, quia nec corpora quibus proprie 
+      compe<lb ed="#P" n="62" break="no"/>tit esse in loco, sunt in eo ratione substantiae, sed 
+      <lb ed="#P" n="63"/>quantitatis; multo minus igitur fatendum est 
+      incor<lb ed="#P" n="64" break="no"/>porea ratione substantiae esse in loco, sed aliud quip 
+      <lb ed="#P" n="65"/>piam quaerendum, cujus ratione sint in loco¬ 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e322">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Quinto, quia Deus potuisset angelos creare ante 
+      <lb ed="#P" n="67"/>mundum corporeum, &amp; ita non fuissent in loco; 
+      er<lb ed="#P" n="68" break="no"/>go ratione substantiae non requirunt locum, seu 
+      <lb ed="#P" n="69"/>spatium neque mundo postea creato, vel in eo aut 
+      <lb ed="#P" n="70"/>aliqua ejus parte, vel extra ipsum ad certam 
+      distan<lb ed="#P" n="71" break="no"/>tiam illos esse necessarium fuisset. Hanc rationem 
+      <lb ed="#P" n="72"/>bene explicat <name xml:id="bt67yj-p007381-Nd1e341">Cajetanus</name>.
+    </p>
+            <p xml:id="bt67yj-p007381-d1e345">
+      <!--0253.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Est igitur aliorum sententia angelos non esse in 
+      <lb ed="#P" n="74"/>loco nisi per operationem. Si enim non per essentiam 
+      <lb ed="#P" n="75"/>sunt in loco, nihil aliud probabilius dici posse 
+      vide<lb ed="#P" n="76" break="no"/>tur, quam quod in loco sint per operationem. Per 
+      <lb ed="#P" n="77"/>hanc enim corporalia attingunt, ea movendo atque 
+      <lb ed="#P" n="78"/>immutando. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e365">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Veruntamen etiam hic modus improbari videtur 
+      <lb ed="#P" n="80"/>per quaedam supra dicta. Nam si angelus nihil 
+      ope<lb ed="#P" n="81" break="no"/>retur, non per hoc incipiet esse extra mundum, uti 
+      <lb ed="#P" n="82"/>nec angeli &amp; animae beatae extra caelum si nihil circa 
+      <lb ed="#P" n="83"/>ipsum operentur. Nec dubitandum est daemones &amp; 
+      <lb ed="#P" n="84"/>animas damnatas esse in inferno, licet in ipsum 
+      ni<lb ed="#P" n="85" break="no"/>hil agant, sed potius ab eo patiantur. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e385">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Adde quod angeli custodes &amp; praesides hominum, 
+      <lb ed="#P" n="87"/>&amp; populorum, non semper operantur aliquid circa 
+      <lb ed="#P" n="88"/>eos, quos sibi habent commissos, quibus 
+      nihilomi<lb ed="#P" n="89" break="no"/>nus adesse vere dicuntur. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e398">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Quocirca alii dicunt angelos esse in loco per 
+      ap<lb ed="#P" n="91" break="no"/>plicationem virtutis eorum ad operandum, sive 
+      <lb ed="#P" n="92"/>operatio ipsa sequatur, sive non. Censent enim 
+      an<lb ed="#P" n="93" break="no"/>gelum posse per libertatem suam applicare virtutem 
+      <lb ed="#P" n="94"/>operativam ad locum, &amp; tamen non operari, sicut 
+      <lb ed="#P" n="95"/>dum quis nititur trahere navem, quam tamen non 
+      <lb ed="#P" n="96"/>trahit propter resistentiam alterius ex adverso. 
+      <lb ed="#P" n="97"/>Quod quidem in malis angelis quorum conatus 
+      sae<lb ed="#P" n="98" break="no"/>pe frustrantur, facilius declaratur quam in bonis. 
+      <lb ed="#P" n="99"/>Unde &amp; satis apparet applicationem virtutis ad 
+      <lb ed="#P" n="100"/>operandum, esse quid saltem natura prius ipsa 
+      ope<lb ed="#P" n="101" break="no"/>ratione, non ergo immediate propter operationem 
+      <lb ed="#P" n="102"/>sed propter applicationem operatione priorem 
+      an<lb ed="#P" n="103" break="no"/>gelos in loco esse volunt, &amp; hanc existimant esse 
+      <lb ed="#P" n="104"/>ipsius <ref xml:id="bt67yj-p007381-Rd1e434">sancti Thomae sententiam part. 1. quaest. 52. 
+      <lb ed="#P" n="105"/>art. 1.</ref> Cum enim loco quantitatis dimensivae per 
+      cu<lb ed="#P" n="106" break="no"/>jus contactum corpora sunt in loco, tribuisset 
+      ange<lb ed="#P" n="107" break="no"/>lis quantitatem virtualem, subjunxit: Per 
+      applica<lb ed="#P" n="108" break="no"/>tionem igitur virtutis angelicae ad aliquem locum 
+      <lb ed="#P" n="109"/>qualitercunque, dicitur angelus esse in loco 
+      cor<lb ed="#P" n="110" break="no"/>poreo. Sic autem mentem S. Thomae interpretatur 
+      <lb ed="#P" n="111"/>
+               <name xml:id="bt67yj-p007381-Nd1e453">Cajetanus</name>. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e456">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Porro alii sententiam sancti Thomae plenius 
+      ex<lb ed="#P" n="113" break="no"/>plicari putant, si dicatur angelos in loco esse per 
+      <lb ed="#P" n="114"/>operationem communiter dictam. Sub hac autem 
+      <lb ed="#P" n="115"/>comprehendunt non solum actualem operationem 
+      <lb ed="#P" n="116"/>qua res immutetur; sed etiam modo dictam 
+      applica<lb ed="#P" n="117" break="no"/>tionem virtutis, licet operatio non sequatur. Item 
+      <lb ed="#P" n="118"/>quemlibet contactum angelicae virtutis qui se habet 
+      <lb ed="#P" n="119"/>per modum operationis, uti sunt, praesidere, 
+      custo<lb ed="#P" n="120" break="no"/>dire, protegere, continere, defendere, quae sunt 
+      <lb ed="#P" n="121"/>aut esse possunt sine reali mutatione ejus quod 
+      di<lb ed="#P" n="122" break="no"/>ctis modis curatur. Hanc autem esse sententiam 
+      san<lb ed="#P" n="123" break="no"/>cti Thomae, probant primum, quia cum diceret 
+      an<lb ed="#P" n="124" break="no"/>gelum esse in loco per applicationem virtutis suae ad 
+      <lb ed="#P" n="125"/>aliquem locum addidit, qualitercumque scilicet ad 
+      <lb ed="#P" n="126"/>insinuandum se non intelligere applicationem 
+      vir<lb ed="#P" n="127" break="no"/>tutis per solam operationem proprie dictam, sed 
+      <lb ed="#P" n="128"/>applicationem &amp; operationem qualemcumque; 
+      il<lb ed="#P" n="129" break="no"/>lam quidem etsi non sequatur operatio; hanc vero 
+      <lb ed="#P" n="130"/>licet non conjunctam cum immutatione patientis. 
+      <lb ed="#P" n="131"/>Deinde quia in quodlib. 1. art. 4. expressius hoc 
+      <lb ed="#P" n="132"/>ipsum declaravit nis verbis: Sicut, inquit, corpus 
+      <lb ed="#P" n="133"/>est in loco per contactum dimensivae quantitatis, 
+      <lb ed="#P" n="134"/>ita angelus est in loco per contactum virtutis. Si 
+      <lb ed="#P" n="135"/>quis autem velit virtutis contactum operationem 
+      <lb ed="#P" n="136"/>vocare, propter hoc quod operari est proprius 
+      ef<lb ed="#P" n="137" break="no"/>fectus virtutis, dicatur quod angelus est in loco 
+      pe<lb ed="#P" n="138" break="no"/>operationem, ita tamen ut per operationem non 
+      in<lb ed="#P" n="139" break="no"/>telligatur sola motio, sed quaecumque unitio, qua 
+      <lb ed="#P" n="140"/>sua virtute se corpori unit, praesidendo vel 
+      conti<lb ed="#P" n="141" break="no"/>nendo, vel quocunque alio modo. Quibus sane 
+      ver<lb ed="#P" n="142" break="no"/>bis haud obscure sanctus Thomas exponit id quod 
+      <lb ed="#P" n="143"/>alibi multoties dixerat, spirituales substantias in 
+      <lb ed="#P" n="144"/>loco non esse, nisi per operationem ut in scripto 
+      su<lb ed="#P" n="145" break="no"/>per I. dist. 37. q. 2. art. 1. &amp; q. 3. art. 1. &amp; 3. &amp; qui 
+      <lb ed="#P" n="146"/>4. art. 1. Item super 2. dist. 6. a. 3. In his enim locis 
+      <!--0254.xml-->
+      <pb ed="#P" n="21"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ex authoris mente in quodlibetis explicata, 
+      intelli<lb ed="#P" n="2" break="no"/>gere oportet operationem generaliter dictam. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e547">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Verum praeterea notandum, quod idem doctor de 
+      <lb ed="#P" n="4"/>potentia quaest. 3. art. ultim. dicit angelos etiamsi 
+      <lb ed="#P" n="5"/>nihil operentur, semper tamen esse in loco propter 
+      <lb ed="#P" n="6"/>ordinem quo creatura spiritualis praesidet corporali, 
+      <lb ed="#P" n="7"/>&amp; ad hoc allegat Augustinum lib. 3. de Trinitate, 
+      <lb ed="#P" n="8"/>cap. 4. Unde quod dicit 1. quaest. 61. art. 4. sic 
+      <lb ed="#P" n="9"/>creatas esse spirituales creaturas, ut ad creaturam 
+      <lb ed="#P" n="10"/>corporalem aliquem ordinem habeant, &amp; toti 
+      crea<lb ed="#P" n="11" break="no"/>turae corporali praesideant, hoc solum ex sententia 
+      <lb ed="#P" n="12"/>S. Thomae sufficere videtur, ut dicantur ibi esse, 
+      <lb ed="#P" n="13"/>ubicumque est creatura corporalis, ad quam habent 
+      <lb ed="#P" n="14"/>ordinem, &amp; cui praesident, etiamsi cessent ab omni 
+      <lb ed="#P" n="15"/>operatione, vel virtutis applicatione; quia dictus 
+      <lb ed="#P" n="16"/>ordo &amp; praesidentia, non necessario operationem aut 
+      <lb ed="#P" n="17"/>virtutis applicationem habet conjunctam. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e585">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Ex his itaque colligitur quid secundum sententiam 
+      <lb ed="#P" n="19"/>sancti Thomae, eamque probabiliorem ac veriorem, 
+      <lb ed="#P" n="20"/>dicendum videatur de quaestione proposita, nempe 
+      <lb ed="#P" n="21"/>uno quidem modo angelos esse in loco per 
+      opera<lb ed="#P" n="22" break="no"/>tionem proprie dictam, qua scilicet effectum 
+      ali<lb ed="#P" n="23" break="no"/>quem producant in corpore, sive effectus ille sit 
+      <lb ed="#P" n="24"/>motus aut mutatio, aut forma consequens, sive sit 
+      <lb ed="#P" n="25"/>quies motui vel mutationi opposita; velut si 
+      lapi<lb ed="#P" n="26" break="no"/>dem angelus in alto detincat, ne cadat, aut si 
+      ho<lb ed="#P" n="27" break="no"/>minem currentem sistat. Alio autem modo angelos 
+      <lb ed="#P" n="28"/>esse in loco, per hoc, quia praesident rebus 
+      corpora<lb ed="#P" n="29" break="no"/>libus easque custodiunt, etiamsi nihil actualiter in 
+      <lb ed="#P" n="30"/>eis producant. Hoc modo, inquit, Cajetanus angeli 
+      <lb ed="#P" n="31"/>cuscodientes homines, &amp; praesidentes provincus, aut 
+      <lb ed="#P" n="32"/>locis, dicuntur ibi esse. Non enim qui custodit aut 
+      <lb ed="#P" n="33"/>praesidet oportet, quod semper in custodito ant 
+      sub<lb ed="#P" n="34" break="no"/>dito aliquid faciat, sed quod semper ad hoc vigilet, 
+      <lb ed="#P" n="35"/>studeat, &amp; vacet, &amp; nunc impedimenta amoveat, 
+      <lb ed="#P" n="36"/>nunc vero res commissas prowoveat, nunc eventum 
+      <lb ed="#P" n="37"/>rei exspectet, occurrentibus provisurus, sic ille. 
+      Dif<lb ed="#P" n="38" break="no"/>ferunt hi duo modi secundum perfectum &amp; 
+      imper<lb ed="#P" n="39" break="no"/>fectum, sive ut Cajetanus loquitur, secundum 
+      com<lb ed="#P" n="40" break="no"/>pletum &amp; incompletum. Ubi enim angelus 
+      opera<lb ed="#P" n="41" break="no"/>tur aliquid circa corpus, ibi complete est praesens, 
+      <lb ed="#P" n="42"/>incomplete autem tantum, ubi nihil operatur, sed 
+      <lb ed="#P" n="43"/>tantum ut custos ac praesidens attendit &amp; vacat ad 
+      <lb ed="#P" n="44"/>operandum. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e648">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Quidam insuper putant dici posse angclos esse in 
+      <lb ed="#P" n="46"/>loco propter ordinem quem habent ad corporalem 
+      <lb ed="#P" n="47"/>creaturam qui ordo spectetur ex virtute movendi, 
+      <lb ed="#P" n="48"/>etiamsi neque moveant aut operentur in ea 
+      quic<lb ed="#P" n="49" break="no"/>quam, neque virtutem ad operandum applicent, 
+      <lb ed="#P" n="50"/>neque omnino praefectura vel custodia sit iis 
+      com<lb ed="#P" n="51" break="no"/>missa, juxta quam opinionem fatendum esset 
+      ange<lb ed="#P" n="52" break="no"/>los esse ubique, id est, in omni loco corporeo, quod 
+      <lb ed="#P" n="53"/>&amp; Durandus fatetur. Sed hic loquendi modus etsi 
+      <lb ed="#P" n="54"/>aliquid rationis habeat, alienus tamen est a 
+      scriptu<lb ed="#P" n="55" break="no"/>ris &amp; patribus ecclesiasticis, &amp; proinde non temere 
+      <lb ed="#P" n="56"/>admittendus. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e679">
+               <lb ed="#P" n="57"/>
+               <pc type="indent"/> Sed nunc ad argumenta primae opinionis 
+      respon<lb ed="#P" n="58" break="no"/>dendum. Ad primum respondet sanctus Thomas 
+      <lb ed="#P" n="59"/>quod lib. 1. art. 4. nihil obstare quo minus aliquid 
+      <lb ed="#P" n="60"/>sit prius simpliciter, quod non est prius quantum ad 
+      <lb ed="#P" n="61"/>hoc. Corpus enim est subjectum simpliciter prius 
+      <lb ed="#P" n="62"/>superficie, sed non quantum ad hoc, quod est 
+      co<lb ed="#P" n="63" break="no"/>lorari. Ita similiter, inquit, prius simpliciter est 
+      cor<lb ed="#P" n="64" break="no"/>pus, quam tactus, &amp; tamen corpus est in loco per 
+      <lb ed="#P" n="65"/>tactum dimensivae quantitatis &amp; similiter angelus per 
+      <lb ed="#P" n="66"/>contactum virtutis. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e705">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Ad secundum respondeo quod in hujusmodi 
+      du<lb ed="#P" n="68" break="no"/>plex operatio intelligenda est, altera activa quae est 
+      <lb ed="#P" n="69"/>in agente, (non enim angelus operatur sine aliqua 
+      <lb ed="#P" n="70"/>sui mutatione qua ex non operante fit operans) 
+      al<lb ed="#P" n="71" break="no"/>tera passiva quae est in suscipiente, &amp; utraque est in 
+      <lb ed="#P" n="72"/>loco secundum modum suae naturae, passi va quidem 
+      <lb ed="#P" n="73"/>circumscriptive, quia extenditur ad extensionem 
+      <lb ed="#P" n="74"/>corporis, sicut omnes formae corporeae, activa ve¬ 
+      <!--0254.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ro quia est in subjecto incorporeo, &amp; proinde 
+      ex<lb ed="#P" n="76" break="no"/>tensionem non habet, tantum definitive est in loco, 
+      <lb ed="#P" n="77"/>quia sic ibi est ut non alibi, quomodo &amp; ipse 
+      ange<lb ed="#P" n="78" break="no"/>lus in quo subjectatur, est in loco¬ 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e740">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Quod tertio argumento tanquam absurdum 
+      col<lb ed="#P" n="80" break="no"/>ligitur, non est absurdum, scilicet angelos nusquam, 
+      <lb ed="#P" n="81"/>id est, nullo in loco esse, si nihil operentur saltem 
+      <lb ed="#P" n="82"/>secundum generalem modum superius explicatum, 
+      <lb ed="#P" n="83"/>sicut non est inconveniens ut angelus invisibilis &amp; 
+      <lb ed="#P" n="84"/>incoloratus dicatur, ut bene declarat <ref xml:id="bt67yj-p007381-Rd1e757">sanctus 
+      Tho<lb ed="#P" n="85" break="no"/>mas in 1. dist. 37. quaest. 3. art. 1.</ref> Idemque de 
+      ani<lb ed="#P" n="86" break="no"/>ma separata dicendum. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e765">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Quarti argumenti solutio patebit inferius. 
+      <lb ed="#P" n="88"/>Ad quintum bene respondet <name xml:id="bt67yj-p007381-Nd1e773">Cajetanus</name> ablata 
+      <lb ed="#P" n="89"/>quantitate substantiam corpoream non mansuram 
+      <lb ed="#P" n="90"/>in eodem loco, sed nusquam; id est, nullo in loco 
+      <lb ed="#P" n="91"/>futuram, si nimirum fingamus simul abesse virtutem 
+      <lb ed="#P" n="92"/>omnem activam &amp; passivam, secundum quam 
+      age<lb ed="#P" n="93" break="no"/>ret aut pateretur aliquid. Nam alioqui hac ratione 
+      <lb ed="#P" n="94"/>dici posset esse in loco, etiam quantitate seclusa 
+      ni<lb ed="#P" n="95" break="no"/>mirum definitive, non circumscriptive. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e792">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Ad argumentum vero superiori capite indicatum 
+      <lb ed="#P" n="97"/>quod ex communi hominum imaginatione 
+      sumeba<lb ed="#P" n="98" break="no"/>tur, respondendum est, imaginationi quae sensibi 
+      <lb ed="#P" n="99"/>lia &amp; continua non transcendit, non esse 
+      creden<lb ed="#P" n="100" break="no"/>dum, ubi de rebus incorporeis &amp; earum locatione 
+      <lb ed="#P" n="101"/>disputatur. Haec enim intellectu non imaginatione 
+      <lb ed="#P" n="102"/>percipiuntur. Qua de re vide <ref xml:id="bt67yj-p007381-Rd1e811">S. Thomam de 
+      poten<lb ed="#P" n="103" break="no"/>tia quaest. 3. articulo ultimo</ref>
+            </p>
+            <p xml:id="bt67yj-p007381-d1e817">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Nunc autem ut ad caelum empyreum redeamus, 
+      <lb ed="#P" n="105"/>sciendum est secundum e<ref xml:id="bt67yj-p007381-Rd1e825">undem doctorem super 
+      <lb ed="#P" n="106"/>hanc dist. q. 2. art. 1.</ref> caelum hoc a nobis non posse 
+      <lb ed="#P" n="107"/>ratione investigari, quia nec motui subjacet, nec 
+      vi<lb ed="#P" n="108" break="no"/>sui; sed per solam authoritatem haberi, qua 
+      disci<lb ed="#P" n="109" break="no"/>mus ipsum esse corpus quoddam supremum 
+      princi<lb ed="#P" n="110" break="no"/>paliter ordinatum ad hoc, ut sit habiratio 
+      beato<lb ed="#P" n="111" break="no"/>)rum. Et hoc magis, inquit, propter homines quorum 
+      <lb ed="#P" n="112"/>etiam corpora glorificabuntur quibus locus debetur, 
+      <lb ed="#P" n="113"/>quam propter angelos qui loco non indigent. 
+      Quomo<lb ed="#P" n="114" break="no"/>do autem cum loco non indigeant, esse dicantur 
+      <lb ed="#P" n="115"/>in caelo, &amp; creati in eo, explicat scribens sup. dist. 
+      <lb ed="#P" n="116"/>6. hujus libri art. 3. Dicendum, inquit, quod angelo 
+      <lb ed="#P" n="117"/>secundum suam essentiam locus non debetur, sed 
+      so<lb ed="#P" n="118" break="no"/>lum quantum ad operationem, idque vel per modum 
+      <lb ed="#P" n="119"/>congruentiae, sicut in opere contemplationis, vel per 
+      <lb ed="#P" n="120"/>modum necessitatis sicut in his quae circa nos 
+      operan<lb ed="#P" n="121" break="no"/>tur. Operatio autem angeli secundum naturam suam 
+      <lb ed="#P" n="122"/>cum sit intellectualis substantia, est contemplari. 
+      Un<lb ed="#P" n="123" break="no"/>de omnes in loco contemplationi congruente, scilicet 
+      <lb ed="#P" n="124"/>in caelo empyreo creati sunt. Operatio autem gloriae 
+      <lb ed="#P" n="125"/>non differt ab operatione naturae eorum, nisi ut 
+      per<lb ed="#P" n="126" break="no"/>fectum ab imperfecto; Et ideo idem locus debetur 
+      <lb ed="#P" n="127"/>angelis conditis &amp; gloriosis. Haec ibi. Cum quibus 
+      <lb ed="#P" n="128"/>conferenda sunt quae scribit idem doctor super 
+      di<lb ed="#P" n="129" break="no"/>stinct. 37. libr. 1. quaest. 3. articul. 2. in haec 
+      ver<lb ed="#P" n="130" break="no"/>ba: Operationi non debetur locus secundum quod 
+      <lb ed="#P" n="131"/>exit ab essertia ejus, quae secundum se absoluta est, 
+      <lb ed="#P" n="132"/>sed secundum objectum ad quod terminatur, &amp; idec 
+      <lb ed="#P" n="133"/>operationi contemplativae argeli non debetur aliquis 
+      <lb ed="#P" n="134"/>locus corporeus, cum objectum contemplationis 
+      spiritua<lb ed="#P" n="135" break="no"/>le sit; Ideoque caelum empyreum non est de 
+      necessi<lb ed="#P" n="136" break="no"/>tate contemplationis, sed assignatur contemplationi 
+      <lb ed="#P" n="137"/>per congruentiam, in quantum locus ille 
+      sanctifica<lb ed="#P" n="138" break="no"/>ius est ad gloriam beatorum, sicut etiam 
+      contem<lb ed="#P" n="139" break="no"/>plationis dicitur magis esse locus ecclesia, quam 
+      fo<lb ed="#P" n="140" break="no"/>rum. Unde non oportet quod quandocumque 
+      con<lb ed="#P" n="141" break="no"/>templatur angelus, sit in caelo empyreo. Rursus idem 
+      <lb ed="#P" n="142"/>in quaestionibus de potentia ubi sup. ad 4. dicit 
+      an<lb ed="#P" n="143" break="no"/>gelos esse in caelo empyreo, ut in loco, qui est 
+      <lb ed="#P" n="144"/>contemplationi congruus, non tamen de 
+      necessi<lb ed="#P" n="145" break="no"/>tate contemplationis. At in sum. 1. quaest. 61. art. 4. 
+      <lb ed="#P" n="146"/>sentire videtur quod hac ratione creati dicantur 
+      <lb ed="#P" n="147"/>angeli in caelo empyreo, quod toti corporeae naturae 
+      <lb ed="#P" n="148"/>praesideant, inqua scilicet primum &amp; summum est 
+      <!--0255.xml-->
+      <pb ed="#P" n="22"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>caelum empyreum. Deinde vero quaest. 102. art. 2. ad P 
+      <lb ed="#P" n="2"/>primum, de eadem re sic scribit: Dicendum, inquit, 
+      <lb ed="#P" n="3"/>quod caelum empyreum est supremum corporalium 
+      loco<lb ed="#P" n="4" break="no"/>rum, &amp; est extra omnem mutabilitatem. Et quantum 
+      <lb ed="#P" n="5"/>ad primum horum est locus congruus naturae angelicae, 
+      <lb ed="#P" n="6"/>quia Deus regit creaturam corporalem per spiritua 
+      <lb ed="#P" n="7"/>lem. Unde conveniens est quod spiritualis natura sit 
+      <lb ed="#P" n="8"/>supra omnem corporalem constituta, sicut ei 
+      praesi<lb ed="#P" n="9" break="no"/>dens. Quantum autem ad secundum convenit statui 
+      <lb ed="#P" n="10"/>beatitudinis qui est firmatus in summa stabilitates 
+      <lb ed="#P" n="11"/>Sic igitur locus beatitu linis congruit angelo secundum 
+      <lb ed="#P" n="12"/>naturam suam. Unde &amp; ibi creatus est. Hactenus 
+      san<lb ed="#P" n="13" break="no"/>ctus Thomas. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e957">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Ex his omnibus apparet ex mente angelici 
+      docto<lb ed="#P" n="15" break="no"/>ris angelos dici, esse, &amp; creatos esse in caelo 
+      empy<lb ed="#P" n="16" break="no"/>raeo, duplici ratione. Una, quia praesident toticor 
+      <lb ed="#P" n="17"/>poreae naturae in qua caelum primum praecellit. 
+      Al<lb ed="#P" n="18" break="no"/>tera, propter opus contemplationis, cum enim 
+      cae<lb ed="#P" n="19" break="no"/>lum empyreum, inter corpora sit praestantissimum 
+      <lb ed="#P" n="20"/>idemque immobile, propter illud quidem maxime 
+      <lb ed="#P" n="21"/>servit angelis inter omnia corpora ad 
+      contemplan<lb ed="#P" n="22" break="no"/>dum Deum in creaturis; propter utrumque vero, 
+      <lb ed="#P" n="23"/>locus est aptissimus gloriae Christi &amp; omnium 
+      homi<lb ed="#P" n="24" break="no"/>num beatorum, proinde &amp; angelorum quorum cum 
+      <lb ed="#P" n="25"/>illis una est societas. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e988">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Potest &amp; haec reddi ratio cur angeli in caelo esse 
+      <lb ed="#P" n="27"/>dicantur, quia caelum est locus &amp; habitaculum Dei, 
+      <lb ed="#P" n="28"/>secundum eum modum quo scriptura loquitur; 
+      lo<lb ed="#P" n="29" break="no"/>caliter enem Deus esse dicitur in rebus corporeis, quia 
+      <lb ed="#P" n="30"/>eas virtute sua continet. Quare maxime in eo 
+      corpo<lb ed="#P" n="31" break="no"/>reo esse dicendus est, cui maximam tribuit perfectio 
+      <lb ed="#P" n="32"/>nem. Hoc autem est supremum caelum; Atqui sancti 
+      <lb ed="#P" n="33"/>angeli Deo semper praesentes sunt per 
+      contemplatio<lb ed="#P" n="34" break="no"/>nem beatificam. Quare rectissime dicuntur esse in 
+      <lb ed="#P" n="35"/>caelo ubi Deus est modo jam dicto. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e1014">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Ex his tribus rationibus liquet angelos malos 
+      <lb ed="#P" n="37"/>jam non esse in caelo, licet in eo creati fuerint. Tunc 
+      <lb ed="#P" n="38"/>enim duae priores rationes locum adhuc in iis 
+      habe<lb ed="#P" n="39" break="no"/>bant. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e1027">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Sunt autem daemones &amp; animae damnatorum in 
+      <lb ed="#P" n="41"/>inferno, non tam ut operantes aliquid, quam ut 
+      <lb ed="#P" n="42"/>patientes; pati autem a re corporea recte 
+      compre<lb ed="#P" n="43" break="no"/>henditur sub operatione communiter dicta, de qua 
+      <lb ed="#P" n="44"/>supra, simili ratione daemones alii sunt in hoc aere 
+      <lb ed="#P" n="45"/>caliginoso, scilicet ut in carcere, quomodo Patres 
+      <lb ed="#P" n="46"/>loquuntur: Quamvis &amp; multa mala proprie circa 
+      <lb ed="#P" n="47"/>nos operentur. Sed &amp; Christi anima ad inferos 
+      <lb ed="#P" n="48"/>descendit aliquid ibi proprie operatura, id est, 
+      li<lb ed="#P" n="49" break="no"/>beratura animas justorum illis in locis poenaliter 
+      de<lb ed="#P" n="50" break="no"/>tentas. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e1057">
+               <lb ed="#P" n="51"/>
+               <pc type="indent"/> Porro quidam censent angelos hac ratione dici 
+      <lb ed="#P" n="52"/>creatos, atque esse in caelo empyreo, quia caelum 
+      <lb ed="#P" n="53"/>illud habet aliquam actionem in haec inferiora, 
+      <lb ed="#P" n="54"/>quam caelestem agendi virtutem dicunt ab angelis 
+      <lb ed="#P" n="55"/>perfici. Sed parum probabiliter hoc dicitur. 
+      Mani<lb ed="#P" n="56" break="no"/>festum est enim Patres dum angelos creatos fuisse 
+      <lb ed="#P" n="57"/>dicunt in caelo, ibidemque modo agere, non 
+      respe<lb ed="#P" n="58" break="no"/>xisse ad hujusmodi operationem, quam angelis 
+      di<lb ed="#P" n="59" break="no"/>rigentibus aut perficientibus caelum habere 
+      existi<lb ed="#P" n="60" break="no"/>metur, utpote sibi incognitam; sed potius 
+      conside<lb ed="#P" n="61" break="no"/>rasse rationes supra dictas velut magis Theologicas. 
+      <lb ed="#P" n="62"/>Quamquam nec juxta hanc rationem ostenderetur. 
+      <lb ed="#P" n="63"/>omnes angelos in caelo creatos esse, sed eos 
+      solum<lb ed="#P" n="64" break="no"/>modo quibus illa virtutis caelestis directio &amp; 
+      per<lb ed="#P" n="65" break="no"/>fectio commissa esset. 
+    </p>
+            <p xml:id="bt67yj-p007381-d1e1094">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Una restat objectio ex sancto Gregorio qui homil 
+      <lb ed="#P" n="67"/>8. super Ezechiel. &amp; 34. in evangel. angelos vocat 
+      <lb ed="#P" n="68"/>spiritus circumscriptos, ex quo videri potest eos 
+      <lb ed="#P" n="69"/>ex S. Gregorii sententia circumscriptive in loco 
+      <lb ed="#P" n="70"/>esse. Verum facilis est responsio sanctum 
+      Grego<lb ed="#P" n="71" break="no"/>rium non loqui de circumscriptione loci, sed 
+      na<lb ed="#P" n="72" break="no"/>turae &amp; potentiae; quomodo e contrario dicimus 
+      <lb ed="#P" n="73"/>Deum esse incircumscriptum, quia natura &amp; 
+      poten<lb ed="#P" n="74" break="no"/>tia infinitus est. Sunt igitur angeli spiritus circum 
+      <!--0255.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>scripti, quia finitam &amp; limitatam habent naturam &amp; 
+      <lb ed="#P" n="76"/>virtutem tametsi &amp; loco circumscripti dici possunt, si 
+      <lb ed="#P" n="77"/>circumscriptum intelligas idem quod finitum, quia 
+      <lb ed="#P" n="78"/>sic uno sunt in loco, ut non in alio, quod est 
+      defi<lb ed="#P" n="79" break="no"/>nitive esse in loco. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

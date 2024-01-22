@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="351"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p135990"><!-- l2d29c1" -->
+            <head xml:id="bt67yj-p135990-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p135990-Hd1e103" type="question-title">Hominem integrum eguisse gratia 
+      operante et cooperante</head>
+            <p xml:id="bt67yj-p135990-d1e106">
+               <lb ed="#P" n="27"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="28"/>VICESIMAMNONAM. 
+      <lb ed="#P" n="29"/>§. 1. Hominem integrum eguisse gratia 
+      <lb ed="#P" n="30"/>operante &amp; cooperante. 
+    </p>
+            <p xml:id="bt67yj-p135990-d1e117">
+               <lb ed="#P" n="31"/>QUAE hac distinct. tractantur a Magistro, 
+      <lb ed="#P" n="32"/>manifesta sunt ex iis quae commentati 
+      su<lb ed="#P" n="33" break="no"/>mus circa distinct. 24. &amp; 25. de gratia 
+      pri<lb ed="#P" n="34" break="no"/>mi hominis in qua creatus est, &amp; de adjutorio 
+      su<lb ed="#P" n="35" break="no"/>peraddito, quod ei ad gratiae continuationem &amp; 
+      ac<lb ed="#P" n="36" break="no"/>ceptae justitiae perseverantiam necessarium erat. 
+      Vi<lb ed="#P" n="37" break="no"/>de dictae dist. 25. §. 7.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

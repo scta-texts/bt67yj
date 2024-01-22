@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="241"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p093747"><!-- l2d24c12" -->
+            <head xml:id="bt67yj-p093747-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-p093747-Hd1e103" type="question-title">Liberum arbitrium non esse mere passivum, ne 
+        ad bonum quidem</head>
+            <p xml:id="bt67yj-p093747-d1e106">
+               <lb ed="#P" n="107"/>§. 12. Liberum arbitrium non esse mere passivum, ne 
+      <lb ed="#P" n="108"/>ad bonum quidem. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e113">
+               <lb ed="#P" n="109"/>AB illis qui liberum arbitrium peccato primi, 
+      <lb ed="#P" n="110"/>parentis extinctum esse dicunt, non re sed 
+      <lb ed="#P" n="111"/>vobis tantummodo diversi sunt, qui ipsum aut 
+      sim<lb ed="#P" n="112" break="no"/>pliciter, aut in negotio justificationis velut 
+      inani<lb ed="#P" n="113" break="no"/>me quiddam nihil omnino agere, mereque passi ve 
+      <lb ed="#P" n="114"/>se habere affirmant; dicentes solum Deum in nobis 
+      <lb ed="#P" n="115"/>operari, nobis nihil agentibus, sed tantum 
+      opera<lb ed="#P" n="116" break="no"/>tionem Dei recipientibus; videlicet instar 
+      instru<lb ed="#P" n="117" break="no"/>menti cujusdam manimati, quod seipsum ad 
+      actio<lb ed="#P" n="118" break="no"/>nem cujus est instrumentum, excitare &amp; movere 
+      <lb ed="#P" n="119"/>non potest. Quem errorem synodus Tridentina 
+      <lb ed="#P" n="120"/>damnavit sess. 6. cap. 5. &amp; can. 4. cujus canonis 
+      <lb ed="#P" n="121"/>haec sunt verba: Si quis dixerit liberum arbitrium 
+      <lb ed="#P" n="122"/>a Deo motum &amp; excitatum nihil cooperari 
+      assentien<lb ed="#P" n="123" break="no"/>de Deo excitanti atque vocanti, quo ad obtinendam
+      <lb ed="#P" n="124"/>justificationis gratiam se disponat ac praeparet, neque 
+      <lb ed="#P" n="125"/>posse dissentire si velit, sed veluti inanime quoddam 
+      <lb ed="#P" n="126"/>nihil omnino agere, mereque passive se habere, 
+      ana<lb ed="#P" n="127" break="no"/>thema sit. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e157">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Et quidem merito. Nam hujusmodi assertio 
+      reve<lb ed="#P" n="129" break="no"/>ra liberum arbitrium tollit, utpote cujus ad 
+      ratio<lb ed="#P" n="130" break="no"/>nem pertineat non agi tantum, sed agere; nec id 
+      quo<lb ed="#P" n="131" break="no"/>modocunque, sed ita, ut ex praevia cognitione 
+      men<lb ed="#P" n="132" break="no"/>tis ac deliberatione rationis ad libere eligendum 
+      a<lb ed="#P" n="133" break="no"/>liud prae alio, semetipsum moveat atque inclinet 
+      a<lb ed="#P" n="134" break="no"/>liarumque facultatum actus faciendos imperet. Et 
+      <lb ed="#P" n="135"/>hanc consecutionem satis agnovit ipse <name xml:id="bt67yj-p093747-Nd1e178">Lutherus</name>: 
+      <lb ed="#P" n="136"/>unde dicebat liberum arbitrium (subtracta nimirum 
+      <lb ed="#P" n="137"/>hac activitate, ut ille eam subtrahebat) rem esse 
+      <lb ed="#P" n="138"/>de solo titulo, vel potius titulum sine re 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e189">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Igitur quaecunque probant liberum arbitrium 
+      <lb ed="#P" n="140"/>in homine lapso reliquum esse, etiam ad 
+      electio<lb ed="#P" n="141" break="no"/>nem boni, eadem &amp; hunc errorem destruunt. 
+      <lb ed="#P" n="142"/>Praeter haec vero sunt peculiares scripturae, quibus 
+      <lb ed="#P" n="143"/>ista liberi arbitrii ad bonas operationes activitas 
+      <lb ed="#P" n="144"/>clare ostendatur, ut imprimis omnes illae quae 
+      te<lb ed="#P" n="145" break="no"/>stantur hominem posse semetipsum ab iniquitate 
+      <!--0475.xml-->
+      <pb ed="#P" n="242"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>avertere &amp; ad Deum convertere. Qui enim 
+      semetip<lb ed="#P" n="2" break="no"/>sum avertit &amp; convertit, seipsum inclinat &amp; movet; 
+      <lb ed="#P" n="3"/>&amp; proinde non tantum agitur &amp; movetur. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e222">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Idem probant hae scripturae &amp; similes: Josue ult. 
+      <lb ed="#P" n="5"/>Inolinate corda vestra ad Dominum. Psal. 118. 
+      Inclina<lb ed="#P" n="6" break="no"/>vi cor meum ad faciendas justificationes tuas. Ezechiel 
+      <lb ed="#P" n="7"/>18. Facite vobis cor novum &amp; spiritum novum. 1. Reg. 
+      <lb ed="#P" n="8"/>7. Praeparate corda vestra Domino. Matth. 12. Facite 
+      <lb ed="#P" n="9"/>arborem bonum &amp; fructum ejus bonum. 1. Cor 3. Dei 
+      <lb ed="#P" n="10"/>adjutores sumus, Graece, cooperatores, &amp; 9. Sic currite 
+      <lb ed="#P" n="11"/>ut comprehendatis, &amp; 15. Abundantius omnibus illis 
+      <lb ed="#P" n="12"/>laboravi, non ego autem, sed gratia Dei mecum. 1. 
+      <lb ed="#P" n="13"/>Tim. 4. Exerce teipsum ad pietatem, &amp; 2. c. 4. 
+      Bo<lb ed="#P" n="14" break="no"/>num certamen certavi, cursum consummavi. 1. Petri 1. 
+      <lb ed="#P" n="15"/>Anmas vestras castificate. 1. Joan. cap. 3. Omnis qui 
+      <lb ed="#P" n="16"/>habet hanc spem, sanctificat se. Quem locum exponens 
+      <lb ed="#P" n="17"/>Augustinus tractu 4. ait: Videte quema dmodum non 
+      <lb ed="#P" n="18"/>abstulit liberum arbitrium. Ubi deinde docet nos 
+      ad<lb ed="#P" n="19" break="no"/>jungere voluntatem nostram Deo, &amp; nos agere 
+      ali<lb ed="#P" n="20" break="no"/>quid voluntate. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e264">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Denique in universum huc spectant omnia loca 
+      <lb ed="#P" n="22"/>scripturae, quae laborem, operationem, cursum, 
+      <lb ed="#P" n="23"/>certamen, motionem homini tribuunt respectu 
+      bo<lb ed="#P" n="24" break="no"/>narum actionum. Nihil enim istorum vere 
+      compe<lb ed="#P" n="25" break="no"/>tit homini, nisi liberum ejus arbitrium ad ea active 
+      <lb ed="#P" n="26"/>sese habeat. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e282">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Idem probatur ex eo quod gratia Dei 
+      homi<lb ed="#P" n="28" break="no"/>nem adjuvare dicitur, ut Psalm. 26. Adjutor meus 
+      <lb ed="#P" n="29"/>esto, &amp; alibi. Nam, ut ait Augustinus lib. de 
+      per<lb ed="#P" n="30" break="no"/>fecta justitia cap. 19. nemo adjuvatur, nisi qui &amp; 
+      <lb ed="#P" n="31"/>ipse aliquid agit. Quo argumento utitur etiam tracta 
+      <lb ed="#P" n="32"/>4. in epistolam Joannis, &amp; sermone 13. de verbis 
+      <lb ed="#P" n="33"/>Apostoli cap. 11. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e302">
+               <lb ed="#P" n="34"/>
+               <pc type="indent"/> Rursum ex eo probatur quod scriptura non 
+      tan<lb ed="#P" n="35" break="no"/>tum dicit Deum operari, &amp; facere opera nostra 
+      bo<lb ed="#P" n="36" break="no"/>na, sed etiam testatur Deum facere ut nos ea 
+      facia<lb ed="#P" n="37" break="no"/>mus, id est, agere ut agamus: Faciam, inquit 
+      Do<lb ed="#P" n="38" break="no"/>minus Ezechiel. 36. ut in praeceptis meis ambuletis, 
+      <lb ed="#P" n="39"/>&amp; judicia mea custodiatis &amp; operemini. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e320">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Unde sequitur operationem Dei, qua facit in 
+      no<lb ed="#P" n="41" break="no"/>bis opera bona, adeo non tollere activitatem liberi 
+      <lb ed="#P" n="42"/>nostri arbitrii, ut potius eam statuat. Nam operatio 
+      <lb ed="#P" n="43"/>Dei efficax est ad producendam ipsius liberi arbitrii 
+      <lb ed="#P" n="44"/>operationem. Sed de hoc infra plenius. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e337">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Neque vero laborandum nobis, ut activitatem 
+      <lb ed="#P" n="46"/>liberi arbitrii patrum testimoniis comprobemus, cum 
+      <lb ed="#P" n="47"/>sicut pro libero arbitrio, ita pro virtute ejus activa 
+      <lb ed="#P" n="48"/>&amp; electiva passim obviae sint in eorum scriptis 
+      sen<lb ed="#P" n="49" break="no"/>tentiae. Quare suffecerit in eam rem huc ascripsisse 
+      <lb ed="#P" n="50"/>verba Leonis, quae sunt serm. 5. de quadragesima. 
+      <lb ed="#P" n="51"/>Quamvis, inquit, aedificium nostrum sine opere sui 
+      <lb ed="#P" n="52"/>non subsistat artificis; nec fabrica nostra possit esse 
+      <lb ed="#P" n="53"/>incolumis, nisi ei protectio praefuerit conditoris: 
+      ta<lb ed="#P" n="54" break="no"/>men quia rationabiles lapides sumus, &amp; viva 
+      ma<lb ed="#P" n="55" break="no"/>teries, sic nos authoris nostri extruxit manus, ut 
+      <lb ed="#P" n="56"/>cum opifice suo etiam is qui reparatur, operetur. 
+      Gra<lb ed="#P" n="57" break="no"/>tiae igitur Dei obedientia humana se non subtrahat, 
+      <lb ed="#P" n="58"/>nec ab illo bono, sine quo non potest bona esse, deficiat. 
+      <lb ed="#P" n="59"/>Haec ille. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e374">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Quibus verbis continetur etiam insignis ratio pro 
+      <lb ed="#P" n="61"/>praesenti doctrina; nempe Deum operari in homine 
+      <lb ed="#P" n="62"/>secundum modum naturae ejus. Quare cum homo 
+      <lb ed="#P" n="63"/>sit animal rationale &amp; liberi arbitrii, quod natum 
+      <lb ed="#P" n="64"/>est seipsum per rationem &amp; electionem movere ad 
+      <lb ed="#P" n="65"/>agendum; sic Deum in eo operari fatendum est, ut 
+      <lb ed="#P" n="66"/>etiam ipse homo vere operetur atque ad 
+      operatio<lb ed="#P" n="67" break="no"/>nem moveat seipsum. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e396">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Porro circa hanc Catholicam doctrinam 
+      notan<lb ed="#P" n="69" break="no"/>dum est, varie disputatum esse a Scholasticis, utrum 
+      <lb ed="#P" n="70"/>liberum arbitrium sit potentia activa, an passiva 
+      <lb ed="#P" n="71"/>Furrunt enim qui dicerent, voluntatem esse 
+      poten<lb ed="#P" n="72" break="no"/>tiam simpliciter &amp; pure passivam, ut quae actum 
+      <lb ed="#P" n="73"/>suum recipiat ab objecto, vel a phantasmate, vel 
+      <lb ed="#P" n="74"/>ab ipso intellectu apprehendente &amp; judicante ob¬ 
+      <!--0475.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>jectum, tanquam a causa efficiente totali: vel etiam, 
+      <lb ed="#P" n="76"/>ut nonnullis placuit, ab alia quadam voluntate 
+      a<lb ed="#P" n="77" break="no"/>gente, cujus scilicet officium sic producere actum 
+      <lb ed="#P" n="78"/>in voluntate passiva seu possibili; ita ut juxta istos 
+      <lb ed="#P" n="79"/>voluntas non a seipsa, sed tantum ab alio 
+      efficien<lb ed="#P" n="80" break="no"/>ter moveatur. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e433">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Alii alterum tenentes extremum, dixerunt, 
+      vo<lb ed="#P" n="82" break="no"/>luntatem ita mere activam esse, ut quoad actum 
+      <lb ed="#P" n="83"/>suum nullo modo dependeat ab intellectu, sed 
+      mo<lb ed="#P" n="84" break="no"/>vere seipsam possit in objectum etiam incognitum. 
+      <lb ed="#P" n="85"/>Alii vero dixerunt, voluntatem esse potentiam 
+      par<lb ed="#P" n="86" break="no"/>tim activam, partim passi vam; sic nimirum ut ex 
+      vo<lb ed="#P" n="87" break="no"/>luntate &amp; intellectu proponente objectum 
+      consti<lb ed="#P" n="88" break="no"/>tuatur una causa completa &amp; totalis in genere 
+      cau<lb ed="#P" n="89" break="no"/>sae efficientis respectu actus voluntatis. Ita docent 
+      <lb ed="#P" n="90"/>
+               <name xml:id="bt67yj-p093747-Nd1e459">Gregorius Ariminensis</name> in 2. dist. 25. quaest. 1. &amp; <name xml:id="bt67yj-p093747-Nd1e461">
+      Ga<lb ed="#P" n="91" break="no"/>briel</name> in eandem distinct dubio 3. &amp; <name xml:id="bt67yj-p093747-Nd1e466">Paludanus</name> in 4. 
+      <lb ed="#P" n="92"/>dist. 49. quaest. 3. artic. 1. Rursum alii dixerunt, 
+      vo<lb ed="#P" n="93" break="no"/>luntatem a seipsa quidem moveri quoad exercitium, 
+      <lb ed="#P" n="94"/>sed ab intellectu quoad specificationem; &amp; proinde 
+      <lb ed="#P" n="95"/>priori ratione activam esse, posteriori passivam. Ita 
+      <lb ed="#P" n="96"/>
+               <name xml:id="bt67yj-p093747-Nd1e479">Cajetanus</name> in 1. p. quaest. 80.: art. 2. &amp; quaest. 83. 
+      ar<lb ed="#P" n="97" break="no"/>tic. 4. &amp; 5. &amp; alibi. Denique alii sentiunt, 
+      volunta<lb ed="#P" n="98" break="no"/>tem respectu sui actus simpliciter activam esse, 
+      <lb ed="#P" n="99"/>ita ut neque ab objecto neque ab intellectu 
+      propo<lb ed="#P" n="100" break="no"/>nente objectum, moveatur efficienter, sed tantum 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e491">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> in genere causae formalis &amp; finalis; sola vero seipsam 
+      <lb ed="#P" n="102"/>efficienter moveat. Quae videtur esse sententia S. 
+      <lb ed="#P" n="103"/>Thomae 1. p. qu. 82. artic. 4. libro 2. contra gentes 
+      <lb ed="#P" n="104"/>cap. 72. ratione 6. &amp; de veritate quaest. 22. artic. 9. 
+      <lb ed="#P" n="105"/>&amp; 11. ad 5. Quo postremo loco expresse dicit, 
+      intel<lb ed="#P" n="106" break="no"/>lectum non inclinare voluntatem in bonum quod 
+      ap<lb ed="#P" n="107" break="no"/>petit, unde videtur ab intellectu simpliciter 
+      remo<lb ed="#P" n="108" break="no"/>vere rationem causae efficientis respectu voluntatis. 
+      <lb ed="#P" n="109"/>Tradit hanc sententiam Capreolus scribens in hanc 
+      <lb ed="#P" n="110"/>simul &amp; in sequentem dist. &amp; fere eam 
+      amplectun<lb ed="#P" n="111" break="no"/>tur S. Thomae sequaces. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e520">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Harum opinionum prima prorsus rejicienda est, 
+      <lb ed="#P" n="113"/>velut magnam affirmitatem habens cum errore dam 
+      <lb ed="#P" n="114"/>nato in Concilio Trid. scilicet eorum qui liberum 
+      <lb ed="#P" n="115"/>arbitrium in operibus bonis dicunt se habere mere 
+      <lb ed="#P" n="116"/>passive. Secunda stolida est &amp; contraria axiomati 
+      <lb ed="#P" n="117"/>ab omnibus recepto, appetitum non ferri in 
+      in<lb ed="#P" n="118" break="no"/>cognitum. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e541">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Tertia &amp; quarta, licet plus habeant probabilitatis 
+      <lb ed="#P" n="120"/>quam priores, refelli tamen possunt iisdem argumen 
+      <lb ed="#P" n="121"/>tis quibus postrema opinio, quam veram 
+      existima<lb ed="#P" n="122" break="no"/>mus, stabilitur. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e554">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Primo, quia voluntas est domina respectu 
+      caete<lb ed="#P" n="124" break="no"/>rarum potentiarum; ergo respectu intellectus 
+      <lb ed="#P" n="125"/>non est potentia passiva, quasi efficienter ab eo 
+      <lb ed="#P" n="126"/>mota. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e567">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Secundo, quia solus Deus imprimere potest in 
+      vo<lb ed="#P" n="128" break="no"/>luntate, quemadmodum docet S. Thomas non uno 
+      <lb ed="#P" n="129"/>loco. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e578">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Tertio, quia patres passim libero arbitrio 
+      simpli<lb ed="#P" n="131" break="no"/>citer tribuunt activitatem; ut, quod velle possit &amp; 
+      <lb ed="#P" n="132"/>non velle, agere &amp; non agere. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e589">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Quarto, quia dici non potest quod voluntas 
+      effe<lb ed="#P" n="134" break="no"/>ctive moveatur ab objecto, id est, a re volita; cum 
+      <lb ed="#P" n="135"/>res illa saepe non sit praesens, ac ne existat quidem in 
+      <lb ed="#P" n="136"/>rerum natura, sed tantum in apprehensione. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e602">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Quinto, quia nec dici potest eam moveri a 
+      phan<lb ed="#P" n="138" break="no"/>tasmate; tum quia animae separatae quae non minus 
+      <lb ed="#P" n="139"/>habent usum voluntatis quam conjunctae, carent 
+      <lb ed="#P" n="140"/>phantasmatibus; tum quia phantasma res quaedam 
+      <lb ed="#P" n="141"/>corporalis est, quae pronde in voluntatem, id est, 
+      <lb ed="#P" n="142"/>potentiam spiritualem &amp; immaterialem agere non 
+      <lb ed="#P" n="143"/>potest. 
+    </p>
+            <p xml:id="bt67yj-p093747-d1e623">
+               <lb ed="#P" n="144"/>
+               <pc type="indent"/> Postremo nec dici potest, quod effective 
+      movea<lb ed="#P" n="145" break="no"/>tur ab intellectu proponente objectum, quia 
+      intel<lb ed="#P" n="146" break="no"/>lectus est causa necessaria; quare sequeretur etiam 
+      <lb ed="#P" n="147"/>actum voluntatis necessarium &amp; non liberum esse, 
+      <lb ed="#P" n="148"/>si ab actu intellectus effective procederet. 
+      <!--0476.xml-->
+      <pb ed="#P" n="243"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Ee tota hac quaestione videat studiosus late 
+      dis<lb ed="#P" n="2" break="no"/>putantem <name xml:id="bt67yj-p093747-Nd1e649">Dominicum Bannes</name> in commentario 
+      su<lb ed="#P" n="3" break="no"/>per 1. partem q. 80. art. 2. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

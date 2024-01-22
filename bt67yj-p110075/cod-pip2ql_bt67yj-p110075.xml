@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 9</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 9</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="283"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p110075"><!-- l2d26c9" -->
+            <head xml:id="bt67yj-p110075-Hd1e101">Capitulum 9</head>
+            <head xml:id="bt67yj-p110075-Hd1e103" type="question-title">Explicatur divisio gratiae in praevonientem et 
+      subsequentem</head>
+            <p xml:id="bt67yj-p110075-d1e106">
+      <!--0516.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>§. 9. Explicatur divisio gratiae in praevonientem &amp; 
+      <lb ed="#P" n="71"/>subsequentem.
+    </p>
+            <p xml:id="bt67yj-p110075-d1e117">
+               <lb ed="#P" n="72"/>ALia divisione gratia dividitur in 
+      praevenien<lb ed="#P" n="73" break="no"/>tem &amp; subsequentem, juxta scripturas Psal. 58. 
+      <lb ed="#P" n="74"/>Misericordia bjus praeveniet me, &amp; Psal. 22. 
+      Misori<lb ed="#P" n="75" break="no"/>cordia tua subsequetur me. Quae divisio juxta easdem 
+      <lb ed="#P" n="76"/>scripturas &amp; usum loquendi SS. Patrum, 
+      aptissi<lb ed="#P" n="77" break="no"/>me de gratia increata intelligitur, id est, de 
+      Deo<lb ed="#P" n="78" break="no"/>Praevenit enim Deus hominem per gratiam &amp; 
+      mise<lb ed="#P" n="79" break="no"/>ricordiam suam; vel ordine temporis, dum homini 
+      <lb ed="#P" n="80"/>3 adhuc adverso &amp; impio, vel etiam nondum nato 
+      <lb ed="#P" n="81"/>praeparat quaedam beneficia, quibus aliquando 
+      fu<lb ed="#P" n="82" break="no"/>turum sit ut convertatur, vel solo ordine causalitatis, 
+      <lb ed="#P" n="83"/>dum causa est homini ut bene velit, operando in eo 
+      <lb ed="#P" n="84"/>bonam voluntatem. Quem utrumque modum 
+      spe<lb ed="#P" n="85" break="no"/>ctasse videtur Augustinus lib. 13. de civitate capite 
+      <lb ed="#P" n="86"/>15. docens; quomodo Dei voluntas sit prior bona 
+      <lb ed="#P" n="87"/>hominis voluntate. Quamquam posterior modus 
+      po<lb ed="#P" n="88" break="no"/>tius ac multo frequentius significari solet nomine 
+      <lb ed="#P" n="89"/>gratiae praevenientis; ut nimirum gratia praeveniens 
+      <lb ed="#P" n="90"/>ea proprie dicatur, quae initium boni in homine 
+      <lb ed="#P" n="91"/>operatur, vel absolute quoad totam ejus 
+      justifica<lb ed="#P" n="92" break="no"/>tionem, vel in quocunque bono opere, hoc est, ea 
+      <lb ed="#P" n="93"/>gratia quae tribuit homini bonum velle, quod prius 
+      <lb ed="#P" n="94"/>non habebat, idque vel absolute, vel quoad hoc 
+      <lb ed="#P" n="95"/>opus. Unde Patres concilii Tridentini sess. 6. cap. 
+      <lb ed="#P" n="96"/>5. doctrinae, cum respondemus: Converte nos 
+      Do<lb ed="#P" n="97" break="no"/>mine ad te &amp; convertemur; Dei nos gratia praeveniri 
+      <lb ed="#P" n="98"/>confitemur. Unde dum in eodem decreto gratiam 
+      <lb ed="#P" n="99"/>praevenientem, a qua justificationis exordium 
+      sumen<lb ed="#P" n="100" break="no"/>dum est, interpretantur vocationem Dei, qua nullis 
+      <lb ed="#P" n="101"/>hominum existentibus meritis eos vocat; interna &amp; 
+      <lb ed="#P" n="102"/>efficax vocatio, quae nimirum ipsam conversionem 
+      <lb ed="#P" n="103"/>operetur, intelligenda est. Similiter subsequens 
+      gra<lb ed="#P" n="104" break="no"/>tia dicitur, quae tribuit homini facere sive exequi 
+      bo<lb ed="#P" n="105" break="no"/>)num, quod jam volebat. 
+    </p>
+            <p xml:id="bt67yj-p110075-d1e193">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> De utraque sic Augustinus Enchiridii cap. 32. 
+      <lb ed="#P" n="107"/>Gratia Dei, inquit, nolentem praevenit, ut velit, 
+      vo<lb ed="#P" n="108" break="no"/>lentem subsequitur, ne frustra velit. Et paulo post: 
+      <lb ed="#P" n="109"/>Oramus ergo pro inimicis nostris, ut misericordia Dei 
+      <lb ed="#P" n="110"/>praeveniat eos, sicut praevenit &amp; nos: oramus autem 
+      <lb ed="#P" n="111"/>pro nobis, ut misericordia ejus subsequatur nos. Et 
+      <lb ed="#P" n="112"/>Greg. hom. 9. in Ezechielem: Deus, inquit, 
+      aspi<lb ed="#P" n="113" break="no"/>rando nos praevenit, ut velimus; qui adjuvando 
+      sub<lb ed="#P" n="114" break="no"/>sequitur, ne naniter velimus, sed possimus implero 
+      <lb ed="#P" n="115"/>quae volumus. Item lib. 22. moralium cap. 5. Deus 
+      <lb ed="#P" n="116"/>&amp; praeveniendo dedit sanctis bonum velle quod 
+      nolue<lb ed="#P" n="117" break="no"/>rant; &amp; subsequendo concessit bonum posse, quod 
+      vo<lb ed="#P" n="118" break="no"/>lunt. Quo utroque loco obiter nota, posse, pro 
+      fa<lb ed="#P" n="119" break="no"/>cere &amp; exequi, quod S. Thomas art. 3. vocat, 
+      effi<lb ed="#P" n="120" break="no"/>caciter operari, positum esse a Gregorio, idque 
+      usi<lb ed="#P" n="121" break="no"/>tato sermone veterum. Quod alibi a nobis plenius 
+      <lb ed="#P" n="122"/>declarandum. 
+    </p>
+            <p xml:id="bt67yj-p110075-d1e236">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Rursus, utramque hanc gratiam sonant orationes 
+      <lb ed="#P" n="124"/>ecclesiae; ut illa qua petit ut Deus actiones nostras 
+      <lb ed="#P" n="125"/>aspirando praeveniat, &amp; adjuvando prosequatur. 
+      <lb ed="#P" n="126"/>Item qua sic orat: Vota nostra quae praeveniendo 
+      aspi<lb ed="#P" n="127" break="no"/>ras, etiam adjuvando prosequere. Vide etiam quae 
+      <lb ed="#P" n="128"/>scribit Augustinus Enchirid. cap. 106. &amp; lib. 1. 
+      re<lb ed="#P" n="129" break="no"/>tractationum cap. 9. 
+    </p>
+            <p xml:id="bt67yj-p110075-d1e256">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Est autem notandum, generaliori quadam 
+      ratio<lb ed="#P" n="131" break="no"/>ne omnem gratiam priorem respectu posterioris 
+      di<lb ed="#P" n="132" break="no"/>ci posse praevenientem; &amp; similiter omnem 
+      poste<lb ed="#P" n="133" break="no"/>riorem respectu prioris, subsequentem, ut bene 
+      <lb ed="#P" n="134"/>docet S. Thomas art. 3. ubi supra. Et hoc modo de 
+      <lb ed="#P" n="135"/>gratia praeveniente &amp; subsequente loquitur 
+      Augu<lb ed="#P" n="136" break="no"/>stinus lib. de natura &amp; gratia c. 32. Praevenit, inquit, 
+      <lb ed="#P" n="137"/>ut sanemur; &amp; subsequitur, ut sanati glorificemur: 
+      <lb ed="#P" n="138"/>Praevenit ut vocemur, &amp; subsequitur ut glorificemur: 
+      <lb ed="#P" n="139"/>Praevenit ut pie vivamus, &amp; subsequitur ut cum illo 
+      <lb ed="#P" n="140"/>semper vivamus.
+    </p>
+            <p xml:id="bt67yj-p110075-d1e285">
+      <!--0517.xml-->
+               <pb ed="#P" n="284"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Est &amp; illud notandum, satis liquere ex iis quae jam 
+      <lb ed="#P" n="2"/>dicta sunt, subsequentem gratiam non sic 
+      intelligen<lb ed="#P" n="3" break="no"/>dam, quasi in aliquo bono opere vel parte ejus 
+      gra<lb ed="#P" n="4" break="no"/>tia Dei sit libero nostro arbitrio posterior. Qui 
+      sen<lb ed="#P" n="5" break="no"/>sus damnatus est in concilio Arausicano can. 6. &amp; 
+      <lb ed="#P" n="6"/>ult. sed subsequentem vocari sensu dudum explicato; 
+      <lb ed="#P" n="7"/>vel certe generali modo, inquantum Deus priora 
+      <lb ed="#P" n="8"/>gratiae suae beneficia nobis collata auget &amp; perficit, 
+      <lb ed="#P" n="9"/>eademque aliis posterioribus ac subsequentibus 
+      be<lb ed="#P" n="10" break="no"/>neficiis cumulat, nova subinde veteribus 
+      adji<lb ed="#P" n="11" break="no"/>ciens. 
+    </p>
+            <p xml:id="bt67yj-p110075-d1e318">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Tertio notandum, posse praedictam divisionem, 
+      <lb ed="#P" n="13"/>etsi minus apte, accommodari etiam gratiae creatae; 
+      <lb ed="#P" n="14"/>quatenus scilicet inter effectus gratiae divinae sunt 
+      <lb ed="#P" n="15"/>alii aliis priores aut posteriores. De qua re videatur 
+      <lb ed="#P" n="16"/>S. Thomas loco citato. 
+    </p>
+            <p xml:id="bt67yj-p110075-d1e334">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Quarto sciendum; quodam sensu ex parte Dei 
+      om<lb ed="#P" n="18" break="no"/>nem gratiam dici posse praevenientem; Quatenus 
+      <lb ed="#P" n="19"/>nimirum Deus omne bonum ac totum omni ex 
+      par<lb ed="#P" n="20" break="no"/>te, ab initio bonae voluntatis usque ad 
+      consumma<lb ed="#P" n="21" break="no"/>tionem boni operis, in nobis efficaciter operatur 
+      fa<lb ed="#P" n="22" break="no"/>ciens ut faciamus: Hoc enim verissime est 
+      praeveni<lb ed="#P" n="23" break="no"/>re, scilicet ordine causalitatis. Propter quod ab 
+      Au<lb ed="#P" n="24" break="no"/>gustino dictum est libro de spiritu &amp; litera cap. 34. 
+      <lb ed="#P" n="25"/>&amp; tractatu 86. in Jo. quod in omnibus 
+      misericor<lb ed="#P" n="26" break="no"/>dia, id est, gratia Dei praevenit nos. Quod non aliud 
+      <lb ed="#P" n="27"/>est quam quod dictum est a propheta: Omnia opera 
+      <lb ed="#P" n="28"/>nostra operatus es nobis, &amp; ab Apostolo: Quid habes 
+      <lb ed="#P" n="29"/>quod non accepisti? 
+    </p>
+            <p xml:id="bt67yj-p110075-d1e367">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Postremo quaeritur, quomodo differat haec 
+      divi<lb ed="#P" n="31" break="no"/>sio a superiori. Dicendum videtur, utramque 
+      di<lb ed="#P" n="32" break="no"/>visionem, si proprie accipiatur juxta datam 
+      supe<lb ed="#P" n="33" break="no"/>rius explicationem, coincidere. Nam omnis gratia 
+      <lb ed="#P" n="34"/>operans etiam praeveniens est, &amp; contra. Similiter, 
+      <lb ed="#P" n="35"/>omnis gratia cooperans etiam subsequens est, &amp; 
+      <lb ed="#P" n="36"/>contra. 
+    </p>
+            <p xml:id="bt67yj-p110075-d1e388">
+               <lb ed="#P" n="37"/>
+               <pc type="indent"/> Caeterum differunt ratione: Nam praeveniens &amp; 
+      <lb ed="#P" n="38"/>subsequens ordinem significant prioris &amp; 
+      posterio<lb ed="#P" n="39" break="no"/>ris, quem non significant ipsis vocabulis operans &amp; 
+      <lb ed="#P" n="40"/>cooperans. Ordo autem ille potest dupliciter 
+      acci<lb ed="#P" n="41" break="no"/>pi, vel respectu voluntatis humanae, vel respectu 
+      <lb ed="#P" n="42"/>mutuo. Priori modo dicitur gratia praeveniens, 
+      <lb ed="#P" n="43"/>quia praevenit voluntatem causando in ea boni 
+      mo<lb ed="#P" n="44" break="no"/>tus initium: Subsequens vero, quia subsequitur &amp; 
+      <lb ed="#P" n="45"/>provehit, &amp; executioni applicat bonum motum jam 
+      <lb ed="#P" n="46"/>in voluntate per gratiam praevenientem inchoatum. 
+      <lb ed="#P" n="47"/>Hunc ordinem manifeste significat Augustinus 
+      di<lb ed="#P" n="48" break="no"/>cens; gratia Dei nolentem praevenit, volentem 
+      subse<lb ed="#P" n="49" break="no"/>quitur. Significant &amp; alia quae pro hac divisione 
+      su<lb ed="#P" n="50" break="no"/>pra citata sunt. Posteriori modo praeveniens gratia 
+      <lb ed="#P" n="51"/>dicitur, quae sequentem gratiam praecedit; ut &amp; 
+      sub<lb ed="#P" n="52" break="no"/>sequens, quae praecedentem sequitur. Quem 
+      ordi<lb ed="#P" n="53" break="no"/>nem spectasse videtur Augustinus in verbis ante 
+      ci<lb ed="#P" n="54" break="no"/>tatis ex libro de natura &amp; gratia cap. 32. Sciendum. 
+      <lb ed="#P" n="55"/>tamen est prioris ordinis significationem magis esse 
+      <lb ed="#P" n="56"/>in usu, dum de gratia praeveniente &amp; subsequente 
+      <lb ed="#P" n="57"/>sermo est, ut facile est animadvertere ex orationibus 
+      <lb ed="#P" n="58"/>Ecclesiae, &amp; sententiis Patrum. 
+    </p>
+            <p xml:id="bt67yj-p110075-d1e440">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Illud denique observandum, etiam generaliter 
+      lo<lb ed="#P" n="60" break="no"/>quendo, omnem gratiam operantem esse 
+      praevenien<lb ed="#P" n="61" break="no"/>tem &amp; contra; sed non omnem gratiam 
+      cooperan<lb ed="#P" n="62" break="no"/>tem posse dici subsequentem, tametsi subsequens 
+      <lb ed="#P" n="63"/>omnis sit cooperans.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

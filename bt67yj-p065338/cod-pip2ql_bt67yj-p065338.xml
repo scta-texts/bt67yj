@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="169"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p065338"><!-- l2d19c5" -->
+            <head xml:id="bt67yj-p065338-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p065338-Hd1e103" type="question-title">Quomodo primus homo factus dicatur in animam 
+      viventem</head>
+            <p xml:id="bt67yj-p065338-d1e106">
+               <lb ed="#P" n="78"/>§. 5. Quomodo primus homo factus dicatur in animam 
+      <lb ed="#P" n="79"/>viventem.
+    </p>
+            <p xml:id="bt67yj-p065338-d1e113">
+               <lb ed="#P" n="80"/>POtest adhuc contra primi hominis 
+      immortali<lb ed="#P" n="81" break="no"/>tatem objici quod Moyses Genes. 2. scribit 
+      A<lb ed="#P" n="82" break="no"/>dam factum esse in animam viventem, utique 
+      tri<lb ed="#P" n="83" break="no"/>buens ei vitam quandam cum bestiis communem; 
+      <lb ed="#P" n="84"/>&amp; proinde, ut apparet, mortalem. Sic enim 
+      Apo<lb ed="#P" n="85" break="no"/>stolus illam sententiam intelligere &amp; exponere 
+      vi<lb ed="#P" n="86" break="no"/>detur 1. Corinth. 15. ita scribens; Seminatur corpus 
+      <lb ed="#P" n="87"/>animale, surget corpus spiritale. Si est corpus animale, 
+      <lb ed="#P" n="88"/>est &amp; spirituale, sicut scriptum est: Factus est primus 
+      <lb ed="#P" n="89"/>homo Adam in animam viventem, novissimus Adam 
+      <lb ed="#P" n="90"/>in spiritum vivificantem. Sed non prius quod 
+      spiritua<lb ed="#P" n="91" break="no"/>le est, sed quod animale: deinde quod spirituale. 
+      Pri<lb ed="#P" n="92" break="no"/>mus homo de terra terrenus, secundus homo de caelo 
+      cae<lb ed="#P" n="93" break="no"/>lestis. Qualis terrenus, tales terreni, &amp;c. Significare 
+      <lb ed="#P" n="94"/>videtur his verbis Apostolus primum hominem ideo 
+      <lb ed="#P" n="95"/>a Moyse dici factum esse in animam viventem, 
+      <lb ed="#P" n="96"/>quod similiter ut nos habuerit corpus animale 
+      at<lb ed="#P" n="97" break="no"/>que terrenum, quod morte resolutum aliquando 
+      <lb ed="#P" n="98"/>per resurrectionem transformandum sit in corpus 
+      <lb ed="#P" n="99"/>spiritale. Nam &amp; Augustinus epist. 146. ad 
+      Con<lb ed="#P" n="100" break="no"/>sentium intellexit illud de corpore animali ab 
+      Apo<lb ed="#P" n="101" break="no"/>stolo dictum propter mortis dissolutionem. 
+      Res<lb ed="#P" n="102" break="no"/>pondetur memoratis scripturae sententiis non 
+      signi<lb ed="#P" n="103" break="no"/>ficari mortalitatem primi hominis eam qua mori 
+      <lb ed="#P" n="104"/>illum necesse esset, sed magis confirmari discrimen 
+      <lb ed="#P" n="105"/>superius datum inter immortalitatem primi 
+      homi<lb ed="#P" n="106" break="no"/>nis, &amp; eorum qui participes erunt beatae 
+      resurre<lb ed="#P" n="107" break="no"/>ctionis. Quod ut intelligatur, breviter exponenda 
+      <lb ed="#P" n="108"/>sunt utriusque scripturae verba. Factus dicitur 
+      pri<lb ed="#P" n="109" break="no"/>mus Adam in animam viventem, quia corpus 
+      habe<lb ed="#P" n="110" break="no"/>bat quod alimentis egeret, &amp; mori posset: 
+      No<lb ed="#P" n="111" break="no"/>vissimus autem Adam in spiritum vivificantem, 
+      <lb ed="#P" n="112"/>quia corpus habet quod nec alimentis indigeat, nec 
+      <lb ed="#P" n="113"/>mori possit. Quomodo recte utrumque post 
+      Augu<lb ed="#P" n="114" break="no"/>stinum libr. 13. de civitate cap. 23. in textu exponit 
+      <lb ed="#P" n="115"/>Magister. Est autem in utroque sententiae membro 
+      <lb ed="#P" n="116"/>partim Hebraica proprietas, partim 
+      synecdoche<lb ed="#P" n="117" break="no"/>Ea namque phrasi dictum est: Factus est in animam 
+      <lb ed="#P" n="118"/>viventem; pro eo quod diceretur: Factus est anima 
+      <lb ed="#P" n="119"/>vivens. Qua dictum est alibi: Ero illi in partem, id 
+      <lb ed="#P" n="120"/>est, ero illi pater. Synecdoche vero in eo quod 
+      ani<lb ed="#P" n="121" break="no"/>ma pro animali posita est, ut sit sensus: Adam 
+      fa<lb ed="#P" n="122" break="no"/>ctum esse animel vivens, vita nimirum vegetativa, 
+      <lb ed="#P" n="123"/>quam ciborum alimonia conservari necesse fuerit. 
+      <lb ed="#P" n="124"/>Quamvis autem his verbis homo non distinguatur 
+      <lb ed="#P" n="125"/>a brutis animantibus, sed magis id ei tribuatur, 
+      <lb ed="#P" n="126"/>quod cum brutis habet commune; satis tamen per 
+      <lb ed="#P" n="127"/>alia tam praecedentia, quam sequentia ab iis 
+      distin<lb ed="#P" n="128" break="no"/>guitur, &amp; maxime per illud: (quantum ad rem 
+      <lb ed="#P" n="129"/>praesentem attinet.) In quacunque die ex eo 
+      comede<lb ed="#P" n="130" break="no"/>ris, morte morieris; &amp; illud: donec revertaris in terram 
+      <lb ed="#P" n="131"/>de qua sumptus es, quia pulvis es, &amp;c. Haec enim 
+      <lb ed="#P" n="132"/>ostendunt non ita eum factum fuisse in animam 
+      <lb ed="#P" n="133"/>viventem, ut mori eum neccsle esset sive 
+      pecca<lb ed="#P" n="134" break="no"/>ret sive non; sed potius ut mori non posset si non 
+      <lb ed="#P" n="135"/>peccaret. 
+    </p>
+            <p xml:id="bt67yj-p065338-d1e237">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Porro simili locutione dicitur novissimus Adam 
+      <lb ed="#P" n="137"/>factus in spiritum vivificantem, quia nimirum 
+      <lb ed="#P" n="138"/>Christus, qui quatenus humani generis instaurator 
+      <lb ed="#P" n="139"/>est alter Adam, factus est per suam resurrectionem 
+      <lb ed="#P" n="140"/>spiritus vivificans, id est, habens animam, vel ut 
+      <lb ed="#P" n="141"/>alii interpretantur, spiritum sanctum, qui 
+      perpe<lb ed="#P" n="142" break="no"/>tuam vitam subministret corpori, qua fiat ut 
+      <lb ed="#P" n="143"/>nec cibis egeat, nec mori possit. Sic enim &amp; 
+      Apo<lb ed="#P" n="144" break="no"/>stolus dixit ad Roman. S. Si spiritus ejus qui 
+      suscita<lb ed="#P" n="145" break="no"/>vit Jesum a mortuis, habitat in vobis; qui suscitavit 
+      <!--0403.xml-->
+      <pb ed="#P" n="170"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Jesum a mortuis, vivificabit &amp; mortalia corpora 
+      ve<lb ed="#P" n="2" break="no"/>strapropter inhabitantem spiritum ejus in vobis. 
+      Quan<lb ed="#P" n="3" break="no"/>quam priorem intellectum, quo per spiritum anima 
+      <lb ed="#P" n="4"/>ad hominis naturam pertinens intelligitur, Hilarius 
+      <lb ed="#P" n="5"/>elegisse videtur, cum in expositione Psalmi 67. sub 
+      <lb ed="#P" n="6"/>finem dicit, beatis fore naturam quae seipsam alat 
+      <lb ed="#P" n="7"/>conservetque, ita ut non egeat externo a quo 
+      con<lb ed="#P" n="8" break="no"/>servetur. 
+    </p>
+            <p xml:id="bt67yj-p065338-d1e288">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Jam vero similiter prorsus exponendum est corpus 
+      <lb ed="#P" n="10"/>animale &amp; corpus spirituale. Nam animale corpus 
+      <lb ed="#P" n="11"/>dicitur ab anima vivente, spirituale vero a spiritu 
+      vi<lb ed="#P" n="12" break="no"/>vificante, juxta expositionem jam datam. 
+    </p>
+            <p xml:id="bt67yj-p065338-d1e301">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Dicitur deinde primus homo de terra terrenus, non 
+      <lb ed="#P" n="14"/>propter peccatum, cujus merito audivit: Terra es &amp; 
+      <lb ed="#P" n="15"/>in terram ibis, sed quia secundum corpus de terra 
+      <lb ed="#P" n="16"/>factus, etiam in terram redire poterat, si peccaret, 
+      <lb ed="#P" n="17"/>uti Augustinus loco supra dicto exponit. Christus 
+      <lb ed="#P" n="18"/>autem de caelo caelestis, quia corpus habens de caelo, 
+      <lb ed="#P" n="19"/>id est, caelesti virtute formatum in utero virginis; 
+      <lb ed="#P" n="20"/>vel potius quia ipse habens originem de caelo, id est, 
+      <lb ed="#P" n="21"/>caelestem atque divinam, etiam corpore caelestis est 
+      <lb ed="#P" n="22"/>propter qualitates caelestes, utpote quod per 
+      spiri<lb ed="#P" n="23" break="no"/>tum sanctum ita sit resurrectione reformatum, ut in 
+      <lb ed="#P" n="24"/>terram redire jam non possit. Unde recte subjicit 
+      <lb ed="#P" n="25"/>Apostolus: Qualis terrenus, tales &amp; terreni, &amp; 
+      qua<lb ed="#P" n="26" break="no"/>lis caelestis, tales &amp; calestes; illud propter 
+      mortalita<lb ed="#P" n="27" break="no"/>tem, qua mori quis potest; istud propter 
+      immortali<lb ed="#P" n="28" break="no"/>tatem, qua non potest mori. 
+    </p>
+            <p xml:id="bt67yj-p065338-d1e340">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Ad locum Augustini respondetur eum non de 
+      cor<lb ed="#P" n="30" break="no"/>pore primi hominis, sed de nostro loqui, quod ita 
+      <lb ed="#P" n="31"/>animale est ut non nisi per mortis dissolutionem 
+      <lb ed="#P" n="32"/>transmutandum sit in spirituale, juxta id quod dicit 
+      <lb ed="#P" n="33"/>Apostolus, Seminatur corpus animale, surget corpus 
+      <lb ed="#P" n="34"/>spiritale. Nam de primo homine subjungit ibidem 
+      <lb ed="#P" n="35"/>Augustinus, eum nisi peccasset, accepturum fuisse 
+      <lb ed="#P" n="36"/>corpus spiritale sine mortis interventu. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

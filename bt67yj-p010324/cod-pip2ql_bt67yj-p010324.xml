@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 6</title>
+        <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 6</title>
+          <date when="2024-01-21">January 21, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-01-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="27"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bt67yj-p010324"><!-- l2d3c6" -->
+        <head xml:id="bt67yj-p010324-Hd1e101">Capitulum 6</head>
+        <head xml:id="bt67yj-p010324-Hd1e103" type="question-title">Utrum diabolus potuerit ab initio malus esse</head>
+        <p xml:id="bt67yj-p010324-d1e106">
+          <lb ed="#P" n="68"/>§. 6. Utrum diabolus potuerit ab initio malus esse. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e111">
+          <lb ed="#P" n="69"/>NUnc quaeritur an possibile fuerit ut diabolus in 
+          <lb ed="#P" n="70"/>ipso statim initio, sua voluntate malus esset. 
+          <lb ed="#P" n="71"/>Ubi ante omnia notandum hic non quaeri, an 
+          ange<lb ed="#P" n="72" break="no"/>lus creatus in gratia, potuerit primo instanti pecca¬ 
+          <!--0260.xml-->
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="73"/>re, &amp; esse malus; quia constat illa duo non consistere, 
+          <lb ed="#P" n="74"/>esse in gratia, &amp; esse malum; Sed quaestio est absoluta, 
+          <lb ed="#P" n="75"/>an potuerit angelus ab initio esse malus libera sua 
+          <lb ed="#P" n="76"/>voluntate peccando. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e135">
+          <lb ed="#P" n="77"/>
+          <pc type="indent"/> Ad hoc autem non eadem omnium responsio est.
+        </p>
+        <p xml:id="bt67yj-p010324-d1e143">
+          <lb ed="#P" n="78"/>Aug. lib. 11. de Gen. ad lit. cap. 20. &amp; 21. negat 
+          <lb ed="#P" n="79"/>eos qui putant diabolum ab initio creationis peccasse 
+          <lb ed="#P" n="80"/>in errorem Manichaeorum, quo Deus peccati 
+          au<lb ed="#P" n="81" break="no"/>thor asseritur, incidere. Idemque etiam postea 
+          do<lb ed="#P" n="82" break="no"/>cuit lib. II. de civit. cap. 13. &amp; rationem adfert, quia 
+          <lb ed="#P" n="83"/>etiam sic non Deus constituetur author primi 
+          pecca<lb ed="#P" n="84" break="no"/>ti; sed defectibilis voluntas creaturae, statim initio se 
+          <lb ed="#P" n="85"/>convertentis ad bonum commutabile. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e163">
+          <lb ed="#P" n="86"/>
+          <pc type="indent"/> Verum tota hic difficultas est: utrum hoc fieri 
+          po<lb ed="#P" n="87" break="no"/>tuerit. Quidam Theologi ut <name xml:id="bt67yj-p010324-Nd1e171">Scotus</name>, <name xml:id="bt67yj-p010324-Nd1e173">Ariminensis</name>, &amp; 
+          <lb ed="#P" n="88"/>
+          <name xml:id="bt67yj-p010324-Nd1e178">Gabriel</name>, ac nonnulli alii tenent affirmativam, his 
+          <lb ed="#P" n="89"/>inducti rationibus. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e183">
+          <lb ed="#P" n="90"/>Primo, quia potuit angelus ipso creationis 
+          mo<lb ed="#P" n="91" break="no"/>mento, intelligere non solum finem, sed &amp; media, 
+          <lb ed="#P" n="92"/>potuit ergo etiam velle; velle autem respectu 
+          medio<lb ed="#P" n="93" break="no"/>rum, liberum est; nec erat voluntas ad bonum 
+          con<lb ed="#P" n="94" break="no"/>firmata. Poterat ergo volendo in electione 
+          medio<lb ed="#P" n="95" break="no"/>rum deficere, &amp; proinde peccare. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e199">
+          <lb ed="#P" n="96"/>
+          <pc type="indent"/> Secundo, quia angelus primo instanti creationis 
+          <lb ed="#P" n="97"/>mereri potuit, imo &amp; meruit, ut multi sentiunt, 
+          at<lb ed="#P" n="98" break="no"/>que imprimis Thomistae, ergo &amp; potuit demereri. 
+          <lb ed="#P" n="99"/>Probatur sequela, quia utrumque &amp; mereri &amp; 
+          de<lb ed="#P" n="100" break="no"/>mereri, fundatur in voluntate nondum confirmata, 
+          <lb ed="#P" n="101"/>Item quia erat viator etiam primo instanti. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e217">
+          <lb ed="#P" n="102"/>
+          <pc type="indent"/> Tertio, Angelus in secundo instanti peccare 
+          po<lb ed="#P" n="103" break="no"/>tuit, ergo &amp; in primo. Non enim in secundo instanti 
+          <lb ed="#P" n="104"/>novam acquisivit libertatem ad malum, sed eandem 
+          <lb ed="#P" n="105"/>habuit, quam in primo. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e230">
+          <lb ed="#P" n="106"/>
+          <pc type="indent"/> Quarto, Angelus in primo instanti consensit 
+          gra<lb ed="#P" n="107" break="no"/>tiae, sicut &amp; primus homo, quemadmodum de eo 
+          <lb ed="#P" n="108"/>docet S. Thomas 1. q. 95. art. 1. ad 5. Consensit 
+          au<lb ed="#P" n="109" break="no"/>tem libere, potuit ergo non consentire, &amp; proinde 
+          <lb ed="#P" n="110"/>peccare. Nam tenebatur consentire, ideóque non 
+          <lb ed="#P" n="111"/>consentire, fuisset ei peccatum. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e249">
+          <lb ed="#P" n="112"/>
+          <pc type="indent"/> Quinto, Homo potest peccare primo instanti quo 
+          <lb ed="#P" n="113"/>incipit utiratione; ergo &amp; angelus in instanti 
+          crea<lb ed="#P" n="114" break="no"/>tionis. Quod enim attinet ad actionem liberam, 
+          qua<lb ed="#P" n="115" break="no"/>si tunc creatur homo, quando incipit uti ratione. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e262">
+          <lb ed="#P" n="116"/>
+          <pc type="indent"/> Postremo, Si potest homo nasci malus vitio 
+          volun<lb ed="#P" n="117" break="no"/>tatis alienae, quomodo nalcimur omnes ex Adam, 
+          <lb ed="#P" n="118"/>multo magis apparet fieri posse ut vel homo vel 
+          ange<lb ed="#P" n="119" break="no"/>lus initio ortus sui malus sit vitio voluntatis propriae. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e275">
+          <lb ed="#P" n="120"/>
+          <pc type="indent"/> Alii vero ut <name xml:id="bt67yj-p010324-Nd1e281">S. Thom.</name>
+          <name xml:id="bt67yj-p010324-Nd1e283">Alexander</name>, <name xml:id="bt67yj-p010324-Nd1e285">Bonav.</name>
+          <name xml:id="bt67yj-p010324-Nd1e288">Durand.</name>
+          <lb ed="#P" n="121"/><name xml:id="bt67yj-p010324-Nd1e292">Henricus a Gandavo</name>, <name xml:id="bt67yj-p010324-Nd1e294">Cajetanus</name>, caeterique 
+          Thomi<lb ed="#P" n="122" break="no"/>stae, fieri id posse negant, tametsi in ratione &amp; 
+          proba<lb ed="#P" n="123" break="no"/>tione sententiae non omnes conveniunt. <name xml:id="bt67yj-p010324-Nd1e301">Dominicus 
+            <lb ed="#P" n="124"/>Bannes</name> septem ex diversis rationes collegit quarum 
+          <lb ed="#P" n="125"/>nullam probat. ult. excepta, quae est S. Thomae 1. q. 
+          <lb ed="#P" n="126"/>63. art. 5. haec nimirum. Omnis operatio quae simul 
+          <lb ed="#P" n="127"/>incipit cum natura rei, eundem habet authorem 
+          <lb ed="#P" n="128"/>quem habet ipsa natura, sic ut moveri sursum, inest 
+          <lb ed="#P" n="129"/>igni a generante; Atqui naturae angelorum author 
+          <lb ed="#P" n="130"/>Deus est; ergo quaecunque operatio cum illis incepit, 
+          <lb ed="#P" n="131"/>eundem Deum habet authorem. Deus autem non est 
+          <lb ed="#P" n="132"/>author peccati; ergo nulla hujusmodi operatio potuit 
+          <lb ed="#P" n="133"/>esse peccatum. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e326">
+          <lb ed="#P" n="134"/>
+          <pc type="indent"/> Sed &amp; haec ratio perspicue solvi posse videtur, quia 
+          <lb ed="#P" n="135"/>quamvis omnis operatio quae simul incipit cum esse 
+          <lb ed="#P" n="136"/>rei, sit a Deo, non tamen oportet defectum, quem 
+          <lb ed="#P" n="137"/>Deus circa operationem hujusmodi permittit, ab ipso 
+          <lb ed="#P" n="138"/>esse; Peccatum autem non aliud est quam defectus 
+          <lb ed="#P" n="139"/>seu privatio boni. Neque videtur obstare quicquam, 
+          <lb ed="#P" n="140"/>quare circa primam operationem non possit Deus 
+          de<lb ed="#P" n="141" break="no"/>fectum permittere, cujus ratione operatio ipsa (quae 
+          <lb ed="#P" n="142"/>ut operatio vel actus, a Deo est) fiat peccatum quod 
+          <lb ed="#P" n="143"/>non est a Deo, ut in aliis operationibus contingit. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e352">
+          <lb ed="#P" n="144"/>
+          <pc type="indent"/> Quam refutationem confirmant etiam hoc modo, 
+          <lb ed="#P" n="145"/>Quia Deus non minori virtute agit ad 
+          conservatio<lb ed="#P" n="146" break="no"/>nem angeli, quam ad creationem. Est enim conserva¬ 
+          <!--0261.xml-->
+          <pb ed="#P" n="28"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tio, nihil aliud quam continuata quaedam creatio. 
+          Qua<lb ed="#P" n="2" break="no"/>re si in instanti creationis juxta dictam rationem 
+          pec<lb ed="#P" n="3" break="no"/>catum tribueretur Deo per hoc quia tribuitur 
+          ange<lb ed="#P" n="4" break="no"/>lo, similiter tribuendum esset Deo angelum 
+          conser<lb ed="#P" n="5" break="no"/>vanti in quocumque instanti sequente creationem. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e381">
+          <lb ed="#P" n="6"/>
+          <pc type="indent"/> His accedit quod S. Thomas in ratione hujus 
+          do<lb ed="#P" n="7" break="no"/>ctrinae assignanda subinde variaverit. Aliam enim 
+          <lb ed="#P" n="8"/>assignat ejus rationem in scripto super Magistrum 
+          <lb ed="#P" n="9"/>hoc loco, rursus aliam q 16. de malo, art. 4. denique 
+          <lb ed="#P" n="10"/>aliam &amp; a prioribus omnino diversam in summa 
+          lo<lb ed="#P" n="11" break="no"/>co allegato. Imo in dicta quaest. de malo fatetur 
+          dif<lb ed="#P" n="12" break="no"/>ficile esse hujus rei rationem assignare. Quod ipsum 
+          <lb ed="#P" n="13"/>fatetur etiam <name xml:id="bt67yj-p010324-Nd1e402">Dominicus Bannes</name>. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e406">
+          <lb ed="#P" n="14"/>
+          <pc type="indent"/> Praeterea, si supradicta ratio bona est, ergo si homo 
+          <lb ed="#P" n="15"/>nunc nasceretur cum usu rationis, non posset in 
+          pri<lb ed="#P" n="16" break="no"/>mo instanti peccare; quia quamvis nascatur in 
+          pecca<lb ed="#P" n="17" break="no"/>to originali, verum tamen est quod esse suum habeat 
+          <lb ed="#P" n="18"/>a Deo. Dicere autem quod homo qui in peccato 
+          nas<lb ed="#P" n="19" break="no"/>citur, non possit peccare primo instanti sui esse, posito 
+          <lb ed="#P" n="20"/>quod tunc habeat usum rationis, nimis paradoxum 
+          <lb ed="#P" n="21"/>videtur: quandoquidem totus est ad malum per 
+          con<lb ed="#P" n="22" break="no"/>cupiscentiae fomitem inclinatus. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e430">
+          <lb ed="#P" n="23"/>
+          <pc type="indent"/> Item si ratio illa bona est; ergo qui dicit angelum 
+          <lb ed="#P" n="24"/>ab initio suae creationis peccasse, facit Deum 
+          pecca<lb ed="#P" n="25" break="no"/>ti authorem, &amp; proinde sentit cum Manichaeis 
+          quo<lb ed="#P" n="26" break="no"/>rum illa fuit haeresis. Hoc autem negat Aug. loco 
+          su<lb ed="#P" n="27" break="no"/>pra citato, quem &amp; S. Thomas allegat in summa, &amp; 
+          <lb ed="#P" n="28"/>dictum ejus approbat. 
+        </p>
+        <p xml:id="bt67yj-p010324-d1e448">
+          <lb ed="#P" n="29"/>
+          <pc type="indent"/> Hae refutationes rationis quae pro parte negante 
+          po<lb ed="#P" n="30" break="no"/>tissima habetur, ad junctae rationibus in diversum 
+          al<lb ed="#P" n="31" break="no"/>latis, eam partem, id est, affirmantem valde 
+          probabi<lb ed="#P" n="32" break="no"/>lem reddunt. Qui tamen negantem tanquam 
+          tutio<lb ed="#P" n="33" break="no"/>rem amplecti maluerit, a commentatoribus S. 
+          Tho<lb ed="#P" n="34" break="no"/>mae praedictarum rationum solutionem, requirat, 
+          <lb ed="#P" n="35"/>consulat &amp; ipsum S. Thomam supradicta qu de 
+          ma<lb ed="#P" n="36" break="no"/>lo ubi 23. solvit argumenta quae sibi objecerat. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

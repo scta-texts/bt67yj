@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="244"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p094916"><!-- l2d24c14" -->
+            <head xml:id="bt67yj-p094916-Hd1e101">Capitulum 14</head>
+            <head xml:id="bt67yj-p094916-Hd1e103" type="question-title">Libertatem nostrae voluntatis non tolli per hoc 
+        quod movetur a Deo</head>
+            <p xml:id="bt67yj-p094916-d1e106">
+               <lb ed="#P" n="93"/>§. 14. Libertatem nostrae voluntatis non tolli per hoc 
+      <lb ed="#P" n="94"/>quod movetur a Deo.
+    </p>
+            <p xml:id="bt67yj-p094916-d1e113">
+               <lb ed="#P" n="95"/>QUae jam dicta sunt pro concordia gratiae &amp; 
+      li<lb ed="#P" n="96" break="no"/>beri arbitrii, clariora evadent, si 
+      ostenderi<lb ed="#P" n="97" break="no"/>mus, libertatem voluntatis nostrae non tolli per 
+      il<lb ed="#P" n="98" break="no"/>lam operationem Dei qua efficaciter movet &amp; ad 
+      <lb ed="#P" n="99"/>agendum determinat ipsam voluntatem; non 
+      tan<lb ed="#P" n="100" break="no"/>tum ad ea quae sine dono gratiae ipsius agi non 
+      pos<lb ed="#P" n="101" break="no"/>sunt, sed ad quamcunque actionem. Hoc enim 
+      ar<lb ed="#P" n="102" break="no"/>gumento ad tollendum penitus e creatura liberum 
+      <lb ed="#P" n="103"/>arbitrium, usi fuerunt <name xml:id="bt67yj-p094916-Nd1e134">Petrus Abaillardus</name> &amp; <name xml:id="bt67yj-p094916-Nd1e136">
+      Joan<lb ed="#P" n="104" break="no"/>nes Vvicleff</name>, atque etiam utitur <name xml:id="bt67yj-p094916-Nd1e142">Calvinus</name>. Itaque 
+      <lb ed="#P" n="105"/>hoc argumentum latius patet superiore, atque illud 
+      <lb ed="#P" n="106"/>intra se complectitur. Nam omne opus quod fit a 
+      <lb ed="#P" n="107"/>voluntate nostra per operationem gratiae Dei, fit 
+      <lb ed="#P" n="108"/>Deo efficaciter movente, sed non contra. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e153">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Pro hujus argumenti solutione primo 
+      declaran<lb ed="#P" n="110" break="no"/>creatum moveatur a Deo; &amp; utrum fatendum sit 
+      <lb ed="#P" n="111"/>liberum arbitrium nostrum a Deo determinari, 
+      <lb ed="#P" n="112"/>deinde satisfaciendum est argumento. 
+      <lb ed="#P" n="113"/>D dum est, quomodo voluntas seu liberum arbitrium 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e170">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Primum igitur non est dubitandum, quin 
+      volun<lb ed="#P" n="115" break="no"/>tas omnis creata ad operationes suas a Deo 
+      mo<lb ed="#P" n="116" break="no"/>veatur tanquam a prima causa &amp; primo motore. 
+      <lb ed="#P" n="117"/>Nam ab hoc ordine quo omnes causae creatae 
+      sub<lb ed="#P" n="118" break="no"/>ordinatae sunt Deo tanquam primae causae, ut ab ea 
+      <lb ed="#P" n="119"/>motum &amp; actionem suam omnem accipiant, 
+      ne<lb ed="#P" n="120" break="no"/>quaquam excepta est, neque excipi potest creata 
+      <lb ed="#P" n="121"/>voluntas. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e192">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Huc igitur pertinent generales scripturae Rom. I1. 
+      <lb ed="#P" n="123"/>Quoniam ex ipso &amp; per ipsum &amp; in ipso sunt omnia. 
+      <lb ed="#P" n="124"/>Et 1. Cor. 12. Qui operatur omnia in omnibus. Super 
+      <lb ed="#P" n="125"/>quem locum scribens S. Thomas dicit, quod Deus 
+      <lb ed="#P" n="126"/>tanquam prima causa creat omnes operationes. Ne 
+      <lb ed="#P" n="127"/>tamen, inquit, aliae causae videantur superfluae, idec 
+      <lb ed="#P" n="128"/>subdit Apostolus. In omnibus: quia in causis 
+      secun<lb ed="#P" n="129" break="no"/>dariis prima causa operatur. Et ut intelligas S. 
+      Tho<lb ed="#P" n="130" break="no"/>mam velle comprehendere etiam liberas actiones, 
+      <lb ed="#P" n="131"/>pro confirmatione sui commentarii citat illud Isa. 
+      <lb ed="#P" n="132"/>26. Omnia opera nostra operatus es nobis Domine. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e221">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Item pertinent hae scripturae: Proverb. 16. 
+      Uni<lb ed="#P" n="134" break="no"/>versa propter semetipsum operatus est Dominus. Act. 
+      <lb ed="#P" n="135"/>17. Cum ipse det omnibus vitam, &amp; inspirationem &amp; 
+      <lb ed="#P" n="136"/>omnia. Sap. 8. Attingit a fine usque ad finem fortiter, 
+      <lb ed="#P" n="137"/>&amp; disponit omnia suaviter. Et aliae hujusmodi, quae 
+      te<lb ed="#P" n="138" break="no"/>stantur Deum authorem esse, &amp; efficacem causam 
+      <lb ed="#P" n="139"/>omnium rerum, actionum, motuum, ita ut ipse 
+      om<lb ed="#P" n="140" break="no"/>nes alias causas moveat, &amp; ad operationes suas 
+      ap<lb ed="#P" n="141" break="no"/>plicet; adeóque prius natura etsi non tempore, 
+      effe<lb ed="#P" n="142" break="no"/>ctus omnes causarum secundarum producat. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e247">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Neque enim admittenda est ea quorumdam 
+      <lb ed="#P" n="144"/>opinio, qua dicunt Deum authorem naturae non 
+      <lb ed="#P" n="145"/>prius, sed simul tam natura quam tempore cum 
+      <!--0478.xml-->
+      <pb ed="#P" n="245"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>causis secundis operari, easque in operando 
+      comi<lb ed="#P" n="2" break="no"/>tari; scilicet eo modo quo se mutuo comitantur ea, 
+      <lb ed="#P" n="3"/>quae inter creaturas simul natura esse dicuntur. Quod 
+      <lb ed="#P" n="4"/>profecto non modo falsum est, sed prorsus 
+      impos<lb ed="#P" n="5" break="no"/>sibile; utpote repugnans rationi primae causae, &amp; 
+      <lb ed="#P" n="6"/>primi motoris. Nam si Deus non prius natura 
+      cau<lb ed="#P" n="7" break="no"/>sat &amp; movet, quam quaelibet causa creata, non 
+      po<lb ed="#P" n="8" break="no"/>terit earum respectu vere &amp; proprie dici prima 
+      cau<lb ed="#P" n="9" break="no"/>sa &amp; primum movens. Sic enim dicitur, non quia 
+      <lb ed="#P" n="10"/>ipse secundum se &amp; per essentiam suam est ens 
+      om<lb ed="#P" n="11" break="no"/>nium primum, sed quia in causando &amp; movendo, 
+      <lb ed="#P" n="12"/>sive, quod idem est, in ordine causarum &amp; 
+      moven<lb ed="#P" n="13" break="no"/>tium omnium primus est; quomodo dicuntur etiam 
+      <lb ed="#P" n="14"/>inter causas secundas aliae priores aliis, quia 
+      nimi<lb ed="#P" n="15" break="no"/>rum in causando priores sunt. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e297">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Deinde probatur etiam hac ratione, quia Deus 
+      u<lb ed="#P" n="17" break="no"/>titur omnibus causis secundis tanquam instrumentis 
+      <lb ed="#P" n="18"/>suis ad producendos effectus, ut saepe dicit S. 
+      Tho<lb ed="#P" n="19" break="no"/>mas: At causa principalis &amp; instrumentum non 
+      mo<lb ed="#P" n="20" break="no"/>vent simul natura, quia instrumentum ut tale non 
+      <lb ed="#P" n="21"/>movet nisi prius motum a causa principali; ergo 
+      <lb ed="#P" n="22"/>Deus non simul natura cum causis secundis 
+      produ<lb ed="#P" n="23" break="no"/>cit earum effectus, sed eas tanquam instrumenta 
+      <lb ed="#P" n="24"/>sua movet, &amp; applicat ad operandum. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e321">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Item: Omne creatum est a Deo, ut causa; atqui 
+      <lb ed="#P" n="26"/>causam secundam producere suum effectum est 
+      <lb ed="#P" n="27"/>quid creatum; ergo est a Deo, &amp; proinde Deus 
+      <lb ed="#P" n="28"/>prius natura causam secundam ad operandum 
+      ap<lb ed="#P" n="29" break="no"/>plicat, quam illa operetur. Omnino igitur 
+      faten<lb ed="#P" n="30" break="no"/>dum est, omnem effectum prius natura procedere 
+      <lb ed="#P" n="31"/>a causa prima quam a secunda, id est, causam 
+      pri<lb ed="#P" n="32" break="no"/>mam in producendo quemcunque effectum causae 
+      <lb ed="#P" n="33"/>secundae, natura esse priorem in illo effectu 
+      produ<lb ed="#P" n="34" break="no"/>cendo. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e348">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Quod quidem plenius probare ex doctrina sancti 
+      <lb ed="#P" n="36"/>Thomae &amp; aliorum doctorum, non est hujus loci. 
+      <lb ed="#P" n="37"/>Satis mihi nunc fuerit pro ejus confirmatione 
+      addu<lb ed="#P" n="38" break="no"/>xisse illud quod habet Romanus Catechismus ad 
+      <lb ed="#P" n="39"/>parochos in explicatione primi articuli fidei sub 
+      fi<lb ed="#P" n="40" break="no"/>nem: Non solum, inquit, Deus universa quae sunt, 
+      <lb ed="#P" n="41"/>providentia sua tuetur atque administrat, verum 
+      e<lb ed="#P" n="42" break="no"/>tiam quae moventur &amp; agunt aliquid, intima 
+      virtu<lb ed="#P" n="43" break="no"/>te ad motum atque actionem ita impellit; ut quamvis 
+      <lb ed="#P" n="44"/>secundarum causarum efficientiam non impediat, 
+      prae<lb ed="#P" n="45" break="no"/>veniat tamen: cum ejus occultissima vis ad singula 
+      <lb ed="#P" n="46"/>pertineat, &amp; quemadmodum Sapiens testatur, 
+      attin<lb ed="#P" n="47" break="no"/>gat a fine usque ad finem fortiter, &amp;c. Quae sane 
+      <lb ed="#P" n="48"/>verba manifeste significant Deum causas secundas 
+      <lb ed="#P" n="49"/>applicare ad actionem, &amp; per hoc earum 
+      efficien<lb ed="#P" n="50" break="no"/>tiam causaliter praevenire, quod non aliud est quam 
+      <lb ed="#P" n="51"/>prius natura causare earum effectus. Quae doctrina 
+      <lb ed="#P" n="52"/>cum sit universalis, necessario etiam ad actiones 
+      li<lb ed="#P" n="53" break="no"/>beras creatae voluntatis extendenda est. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e394">
+               <lb ed="#P" n="54"/>
+               <pc type="indent"/> Atque hoc ita esse docet S. Thomas multis locis. 
+      <lb ed="#P" n="55"/>Scribens enim in distinct. 37. hujus libri qu. 1. art. 2. 
+      <lb ed="#P" n="56"/>in fine, dicit de agentibus liberis, quod quamvis 
+      <lb ed="#P" n="57"/>per se agant, quia per propriam naturam &amp; 
+      pro<lb ed="#P" n="58" break="no"/>prium judicium actus suos determinant; non 
+      ta<lb ed="#P" n="59" break="no"/>men a se habent quod agant, sed a primo agente, 
+      <lb ed="#P" n="60"/>quod eis &amp; esse &amp; posse &amp; agere confert. Idque 
+      e<lb ed="#P" n="61" break="no"/>tiam plenius probat ibidem q. 2. art 2. Idem 1. p. 
+      <lb ed="#P" n="62"/>q. 103. art. 8. ita scribit: Omnis inclinatio alicujus rei 
+      <lb ed="#P" n="63"/>vel naturalis, vel voluntaria, nihil est aliud quam 
+      <lb ed="#P" n="64"/>quadam impressio a primo agente. Rursus 1. 2. q. 6. 
+      <lb ed="#P" n="65"/>articul. 1. ad 3. Dicendum, inquit, quod Deus movet 
+      <lb ed="#P" n="66"/>hominem ad agendum, non solum sicut proponens 
+      <lb ed="#P" n="67"/>sensui appetibile, vel sicut immutans corpus, sed 
+      <lb ed="#P" n="68"/>etiam sicut movens ipsam voluntatem; quia 
+      om<lb ed="#P" n="69" break="no"/>nis motus tam voluntatis quam naturae a Deo 
+      pro<lb ed="#P" n="70" break="no"/>cedit sicut a primo movente, &amp; quae sequuntur. 
+      <lb ed="#P" n="71"/>Et in 2. 2. quaest. 104. artic. 4. Deus, inquit, est 
+      <lb ed="#P" n="72"/>primus motor omnium voluntatum, sicut est 
+      pri<lb ed="#P" n="73" break="no"/>mus motor omnium quae naturaliter moventur. Item 
+      <lb ed="#P" n="74"/>libro 3. contra gentes cap. 67. docet omnem 
+      <!--0478.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>motum voluntatis reduci in Deum tanquam 
+      pri<lb ed="#P" n="76" break="no"/>mum volentem: Et capite 91. quod oportet 
+      om<lb ed="#P" n="77" break="no"/>nium voluntatum &amp; electionum motus in divinam 
+      <lb ed="#P" n="78"/>voluntatem reduci. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e457">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Huc etiam spectant ea loca quibus docet solum 
+      <lb ed="#P" n="80"/>Deum immutare posse voluntatem creatam &amp; in 
+      <lb ed="#P" n="81"/>eam imprimere, ut 1. p. qu. 105. artic. 4. &amp; 
+      quae<lb ed="#P" n="82" break="no"/>stione 111. artic. 2. &amp; 1. 2. quaest. 75. art. 3. Sunt &amp; 
+      <lb ed="#P" n="83"/>alia loca apud eundem doctorem fere innumera, 
+      <lb ed="#P" n="84"/>quibus haec eadem docet, sed haec adduximus e 
+      mul<lb ed="#P" n="85" break="no"/>tis pauca. Nec minus clare de hac voluntatis a Deo 
+      <lb ed="#P" n="86"/>motione loquitur Bonaventura scribens in dist. 25. 
+      <lb ed="#P" n="87"/>hujus libri artic. 2. quaest. 1. &amp; sequentibus &amp; in 
+      <lb ed="#P" n="88"/>dist. 37. quaest. 1. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e483">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Probant autem hanc doctrinam ex his &amp; 
+      hujus<lb ed="#P" n="90" break="no"/>modi scripturis specialiter de voluntate 
+      loquenti<lb ed="#P" n="91" break="no"/>bus. Proverb. 21. Cor regis in manu Domini: 
+      quocun<lb ed="#P" n="92" break="no"/>que voluerit inclinabit illud. Job. 12. Qui immutat 
+      <lb ed="#P" n="93"/>cor principum. Esdrae 6. Quoniam converterat Deus 
+      <lb ed="#P" n="94"/>cor regis Assur ad eos. Ester 14. Transfer cor regis 
+      <lb ed="#P" n="95"/>in odium hostis nostri, &amp; 15. Convertit Deus spiritum 
+      <lb ed="#P" n="96"/>regis in mansuetudinem. Isa. 26. Omnia opera 
+      no<lb ed="#P" n="97" break="no"/>stra operatus es nobis Domine. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e507">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Porro ex his jam consequens est illud etiam 
+      fa<lb ed="#P" n="99" break="no"/>tendum esse, voluntates nostras a Deo determinari 
+      <lb ed="#P" n="100"/>ad actiones suas etiam liberas. Si enim Deus 
+      effica<lb ed="#P" n="101" break="no"/>citer movet voluntatem, certe consequens est ut 
+      <lb ed="#P" n="102"/>eam determinet ad omnem illam actionem ad quam 
+      <lb ed="#P" n="103"/>eam efficaciter movet. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e525">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Deinde, si voluntas seipsam determinat; omnis 
+      <lb ed="#P" n="105"/>autem effectus causae creatae debet reduci in Deum 
+      <lb ed="#P" n="106"/>tanquam primam caulam: igitur Deus voluntatem 
+      <lb ed="#P" n="107"/>determinat. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e539">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Tertio: Deus in operationibus suis non est 
+      inde<lb ed="#P" n="109" break="no"/>terminatus, sed omnia operatur secundum 
+      consi<lb ed="#P" n="110" break="no"/>lium voluntatis suae, quod consilium certum est &amp; 
+      <lb ed="#P" n="111"/>determinatum, unde &amp; decretum vocatur: ergo ad 
+      <lb ed="#P" n="112"/>omne id quod agit, suam voluntatem determinat; 
+      <lb ed="#P" n="113"/>&amp; per consequens ad hoc idem determinat omnes 
+      <lb ed="#P" n="114"/>medias causas quibus utitur, inter quas sine dubio 
+      <lb ed="#P" n="115"/>est voluntas creata. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e561">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Quarto: Omne principale agens determinat suum 
+      <lb ed="#P" n="117"/>instrumentum ad opus; atqui voluntas creata est 
+      in<lb ed="#P" n="118" break="no"/>strumentum Dei, sicut omnis alia causa creata: 
+      er<lb ed="#P" n="119" break="no"/>go Deus eam ad omne opus determinat. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e574">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Quinto: Sicut voluntas habet dominium suarum 
+      <lb ed="#P" n="121"/>actionum, sed sub Deo supremo Domino; ita ipsa 
+      <lb ed="#P" n="122"/>se ad actiones suas determinat, sed Deo primo 
+      de<lb ed="#P" n="123" break="no"/>terminante. Nam sic voluntas habet plenum 
+      domi<lb ed="#P" n="124" break="no"/>nium sui actus, ut tamen ejusdem actus, plenius 
+      at<lb ed="#P" n="125" break="no"/>que perfectius dominium habeat Deus creator 
+      <lb ed="#P" n="126"/>ejus; quippe cujus dominium in omnem creaturam 
+      <lb ed="#P" n="127"/>perfectissimum sit &amp; prorsus absolutum. Unde dicit 
+      <lb ed="#P" n="128"/>Augustmus libro de correptione &amp; gratia capite 14. 
+      <lb ed="#P" n="129"/>quod Deus magis habet in potestate voluntates 
+      homi<lb ed="#P" n="130" break="no"/>num, quam ipsi suas. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e603">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Sexto: Deus non minus proprie &amp; perfecte causa 
+      <lb ed="#P" n="132"/>est actionum voluntatis, producens eas per 
+      volunta<lb ed="#P" n="133" break="no"/>tem tanquam causam secundam, quam si eas etiam 
+      <lb ed="#P" n="134"/>per impossibile sine causa secunda produceret. Hoc 
+      <lb ed="#P" n="135"/>enim verum est de omnibus effectibus per causas 
+      se<lb ed="#P" n="136" break="no"/>cundas productis. Unde dicit S. Thomas super 1. 
+      <lb ed="#P" n="137"/>Corinth. 12. Deum creare omnes operationes; ergo 
+      <lb ed="#P" n="138"/>adhibendo voluntatem creatam ad producendas 
+      e<lb ed="#P" n="139" break="no"/>jus actiones, non minus eas actiones determinat, 
+      <lb ed="#P" n="140"/>quam si solus eas produceret; &amp; consequenter ad 
+      <lb ed="#P" n="141"/>eas determinat voluntatem, sicut &amp; caeteras causas 
+      <lb ed="#P" n="142"/>secundas ad suos effectus. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e634">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Septimo: Deus producit determinationem 
+      volun<lb ed="#P" n="144" break="no"/>tatis ad actum; ergo determinat voluntatem ad 
+      a<lb ed="#P" n="145" break="no"/>ctum. Antecedens manifestum est, quia Deus 
+      pro<lb ed="#P" n="146" break="no"/>ducit omnem effectum; sequela quoque probatu 
+      fa<lb ed="#P" n="147" break="no"/>cilis est, quia similiter bene sequitur: Deus 
+      produ<lb ed="#P" n="148" break="no"/>cit motum lapidis; ergo movet lapidem. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e652">
+      <!--0479.xml-->
+               <pb ed="#P" n="246"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Nec valet objectio, qua dicunt non sequi in 
+      om<lb ed="#P" n="2" break="no"/>nibus similibus; Non enim sequitur, inquiunt, Deus 
+      <lb ed="#P" n="3"/>produeit ambulationem, cursum, volatum, ergo 
+      <lb ed="#P" n="4"/>Deus ambulat, currit, volat. Dicendum enim haec 
+      <lb ed="#P" n="5"/>non esse similia. Nam vocabula ista ambulare, 
+      cur<lb ed="#P" n="6" break="no"/>rere, volare, &amp; alia hujusmodi significant actionem 
+      <lb ed="#P" n="7"/>simul cum passione, id est, actionem ut suscipitur 
+      <lb ed="#P" n="8"/>in eo quod agere dicitur. Ambulare enim est 
+      produ<lb ed="#P" n="9" break="no"/>cere ambulationem in seipso, &amp; ita de aliis. Tale 
+      <lb ed="#P" n="10"/>autem vocabulum non est determinatum, sicut nec 
+      <lb ed="#P" n="11"/>movere, &amp; alia his similia. Nam determinare non 
+      <lb ed="#P" n="12"/>est aliud, quam producere determinationem, 
+      <lb ed="#P" n="13"/>sicut &amp; movere non aliud est, quam producere 
+      mo<lb ed="#P" n="14" break="no"/>tum sive in se, sive in alio; unde sicut optima 
+      con<lb ed="#P" n="15" break="no"/>sequentia est, Deus producit motum lapidis, ergo 
+      <lb ed="#P" n="16"/>movet lapidem, ita &amp; ista: Deus producit 
+      deter<lb ed="#P" n="17" break="no"/>minationem voluntatis nostrae; ergo eam 
+      deter<lb ed="#P" n="18" break="no"/>minat. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e701">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Postremo: Deus in voluntate operatur sicut in 
+      <lb ed="#P" n="20"/>natura, ut docet S. Thomas quaest. 22. de veritate 
+      <lb ed="#P" n="21"/>art. 8. at Deus sic operatur in natura ut eam 
+      deter<lb ed="#P" n="22" break="no"/>minet ad actionem; ergo sic etiam operatur in 
+      vo<lb ed="#P" n="23" break="no"/>luntate. Unde &amp; ibidem S. Thomas subjungit, 
+      <lb ed="#P" n="24"/>quod Deus tanquam primum agens, vehementius 
+      <lb ed="#P" n="25"/>imprimit in voluntatem, &amp; multo amplius actum 
+      <lb ed="#P" n="26"/>ejus immutare potest in aliud, quam ipsa voluntas. 
+      <lb ed="#P" n="27"/>Quod consonat cum eo quod in quinto argumento 
+      <lb ed="#P" n="28"/>citavimus ex Augustino. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e727">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Quin &amp; idem doctor alibi dicit expresse, 
+      volun<lb ed="#P" n="30" break="no"/>tatem creatam a Deo determinari, &amp; 
+      praedetermi<lb ed="#P" n="31" break="no"/>nari. Nam libro tertio contra gent. capite 90. 
+      ver<lb ed="#P" n="32" break="no"/>ba Damasceni dicentis libro 2. de fide capite 30. 
+      <lb ed="#P" n="33"/>quod Deus ea quae sunt in nobis, id est in nostro 
+      ar<lb ed="#P" n="34" break="no"/>bitrio, praenoscit, sed non praedeterminat, 
+      expo<lb ed="#P" n="35" break="no"/>nenda esse dicit hoc modo; ut intelligantur ea quae 
+      <lb ed="#P" n="36"/>sunt in nobis, divinae determinationi non esse 
+      sub<lb ed="#P" n="37" break="no"/>jecta, quasi ab ea necessitatem accipientia. Eodem 
+      <lb ed="#P" n="38"/>modo Damascenum exponit &amp; excusat parte 1. q. 
+      <lb ed="#P" n="39"/>23. articulo 1. ad 1. dicens eum praedeterminationis 
+      <lb ed="#P" n="40"/>nomine significasse impositionem necessitatis, 
+      qua<lb ed="#P" n="41" break="no"/>lis est in naturalibus quae sunt praedeterminata ad 
+      <lb ed="#P" n="42"/>unum. Et ante Thomam prorsus similiter verba 
+      <lb ed="#P" n="43"/>Damasceni exposuit Alexander Alensis. At vero 
+      <lb ed="#P" n="44"/>nulla excusatione opus erat, si simpliciter &amp; 
+      pro<lb ed="#P" n="45" break="no"/>prie verum est, Deum non praedeterminare 
+      actio<lb ed="#P" n="46" break="no"/>nes nostras. Igitur ex mente S. Thomae &amp; 
+      Alexan<lb ed="#P" n="47" break="no"/>dri simpliciter dicendum est, Deum actiones 
+      no<lb ed="#P" n="48" break="no"/>stras, vel quod idem est, voluntatem nostram ad 
+      a<lb ed="#P" n="49" break="no"/>ctiones praedeterminare. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e777">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Rursus S. Thomas quodlib. 12. art. 5. de fato 
+      dis<lb ed="#P" n="51" break="no"/>serens, probat eorum sententiam qui reducunt 
+      om<lb ed="#P" n="52" break="no"/>nia in providentiam Dei a qua omnia sunt 
+      praede<lb ed="#P" n="53" break="no"/>terminata &amp; ordinata. Quidam respondent S. 
+      Tho<lb ed="#P" n="54" break="no"/>mam non aliud velle, quam quod omnia ab aeterno 
+      <lb ed="#P" n="55"/>sint praedeterminata in Dei praescientia, non autem 
+      <lb ed="#P" n="56"/>causalitate: Atqui S. Thomas de causalitate 
+      disse<lb ed="#P" n="57" break="no"/>rit quando agit de fato, quia fatum non dicitur 
+      <lb ed="#P" n="58"/>praescientia, sed praeordinatio. Et manifestum est, 
+      <lb ed="#P" n="59"/>quando respondet ad objectionem ex Damasceno, 
+      <lb ed="#P" n="60"/>quod agat de prioritate causalitatis; nam de 
+      tem<lb ed="#P" n="61" break="no"/>pore non poterat ullum esse dubium, quin ab aeterno 
+      <lb ed="#P" n="62"/>Deus ordinasset. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e810">
+               <lb ed="#P" n="63"/>Huc praeterea facit quod idem doctor docet, Deum 
+      <lb ed="#P" n="64"/>applicare secundas causas ad agendum ut 1. parte 
+      <lb ed="#P" n="65"/>q. 105. art. 5. Deus, inquit, movet res ad 
+      operan<lb ed="#P" n="66" break="no"/>dum, quasi applicando formas &amp; virtutes rerum ad 
+      o<lb ed="#P" n="67" break="no"/>perationem. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e823">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Nec moveat, quod dicit, quasi applicando, 
+      tan<lb ed="#P" n="69" break="no"/>quam dicere velit eum non proprie applicare. Nam 
+      <lb ed="#P" n="70"/>illud, quasi, non est extenuantis, sed rem ipsam 
+      <lb ed="#P" n="71"/>declarantis quomodo dicit Joannes, Vidimus gloriam 
+      <lb ed="#P" n="72"/>eius, quasi unigeniti a patre. Et Paulus, quod habitu 
+      <lb ed="#P" n="73"/>inventus est ut homo. Quod enim non id addat S. 
+      <lb ed="#P" n="74"/>Thomas, ut rem diminuat, patet, quia alibi loqui 
+      <!--0479.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>tur absolute; ut de potentia quaestione 3. art. 7. ubi 
+      <lb ed="#P" n="76"/>dicit ac subinde repetit, Deum applicare virtutes 
+      <lb ed="#P" n="77"/>agentium ad agendum. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e854">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Rursus idipsum aperte significat, quoties dicit 
+      <lb ed="#P" n="79"/>Deum sic movere voluntatem nostram, ut eam non 
+      <lb ed="#P" n="80"/>ex necessitate determinet. Namque non ob aliud 
+      <lb ed="#P" n="81"/>addit illud, non ex necessitate; quam quia 
+      simplici<lb ed="#P" n="82" break="no"/>ter verum esse censet, quod Deus voluntatem 
+      no<lb ed="#P" n="83" break="no"/>stram movens eam determinat; sed quoniam ea 
+      de<lb ed="#P" n="84" break="no"/>terminatio non efficit quo minus motus voluntatis 
+      <lb ed="#P" n="85"/>sit liber &amp; non necessarius, exceptis dumtaxat iis 
+      <lb ed="#P" n="86"/>ad quae naturaliter movetur, hinc dicit eam 
+      deter<lb ed="#P" n="87" break="no"/>minari a Deo non ex necessitate. Sic loquitur &amp; 
+      <lb ed="#P" n="88"/>declarat 1. 2. quaestione decima, articulo quarto. 
+      <lb ed="#P" n="89"/>Similia loca sunt 1. parte quaestione 19. articulo 3. ad 
+      <lb ed="#P" n="90"/>5. de veritate, quaestione 23. articulo 14. &amp; alia 
+      <lb ed="#P" n="91"/>passim. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e890">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Similiter docent &amp; loquuntur alii clari Theologi. 
+      <lb ed="#P" n="93"/>Nam Scotus scribens in distinctionem 37. hujus 
+      li<lb ed="#P" n="94" break="no"/>bri, quaesito secundo, supponit in sua disputatione 
+      <lb ed="#P" n="95"/>tanquam rem confessam &amp; indubitatam, quod 
+      vo<lb ed="#P" n="96" break="no"/>luntas creata determinatur a voluntate divina, ad 
+      <lb ed="#P" n="97"/>dens etiam quae absurda sequantur, si id negetur. 
+      <lb ed="#P" n="98"/>Idem scribens in 4. distinctione 49. quaestione 6. 
+      <lb ed="#P" n="99"/>dubio 1. reprobat opinionem, quae dicit 
+      volunta<lb ed="#P" n="100" break="no"/>tem creatam non posse determinari a Deo, salva sua 
+      <lb ed="#P" n="101"/>libertate, &amp; solvit ejus opinionis argumenta. Vide 
+      <lb ed="#P" n="102"/>eundem quodlibeto 16. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e919">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p094916-Rd1e925">
+                  <name xml:id="bt67yj-p094916-Nd1e927">Joannes Bassolius</name> Scoti discipulus in 
+      distinctio<lb ed="#P" n="104" break="no"/>nem 27. hujus libri</ref> disputans tacito nomine contra 
+      <lb ed="#P" n="105"/>opinionem <name xml:id="bt67yj-p094916-Nd1e934">Durandi</name>, quae ponit Deum non aliter 
+      <lb ed="#P" n="106"/>esse causam actionum causarum secundarum, quam 
+      <lb ed="#P" n="107"/>quia causis secundis indidit virtutem agendi, 
+      vo<lb ed="#P" n="108" break="no"/>cansque eam opinionem periculosam, docet 
+      quo<lb ed="#P" n="109" break="no"/>modo idem actus voluntatis simul procedat a Deo 
+      <lb ed="#P" n="110"/>&amp; voluntate, tanquam utraque causa 
+      determinan<lb ed="#P" n="111" break="no"/>te, salva libertate voluntatis; ubi &amp; inter caetera 
+      <lb ed="#P" n="112"/>dicit voluntati hominis competere libertatem, 
+      qua<lb ed="#P" n="113" break="no"/>lis potest convenire creaturae quae non potest esse 
+      <lb ed="#P" n="114"/>primum agens, nec primum determinans in ulla 
+      <lb ed="#P" n="115"/>actione. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e959">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p094916-Rd1e965">
+                  <name xml:id="bt67yj-p094916-Nd1e967">Franciscus Ferrariensis</name> in commentario super lib. 
+      <lb ed="#P" n="117"/>5. S. Thomae contra gentes capite 89</ref>. aperte docet, 
+      <lb ed="#P" n="118"/>Deum determinare omnes causas secundas, etiam 
+      <lb ed="#P" n="119"/>liberas, ad suos effectus, idque sine praejudicio 
+      li<lb ed="#P" n="120" break="no"/>bertatis earum. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e980">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p094916-Rd1e986">
+                  <name xml:id="bt67yj-p094916-Nd1e988">Cajetanus</name> super 1. partem quaest. 83. art. 1.</ref> docet, 
+      <lb ed="#P" n="122"/>liberum arbitrium secundum se quidem non esse 
+      de<lb ed="#P" n="123" break="no"/>terminatum ad unum, sicut agentia naturalia, 
+      deter<lb ed="#P" n="124" break="no"/>minari tamen a Deo &amp; a seipso¬ 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e999">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p094916-Rd1e1005">
+                  <name xml:id="bt67yj-p094916-Nd1e1007">Joannes Driedo</name> libro de captivitate &amp; 
+      redem<lb ed="#P" n="126" break="no"/>ptione generis humani, tractatu 5. capite tertio</ref> 
+      fate<lb ed="#P" n="127" break="no"/>tur, voluntates humanas divina praedestinatione 
+      <lb ed="#P" n="128"/>determinari ad opera praedestinata. Et libro de 
+      con<lb ed="#P" n="129" break="no"/>cordia gratiae &amp; liberi arbitrii cap. 3. primum dicit 
+      <lb ed="#P" n="130"/>quod ad omnia quae facit &amp; facturus est Deus, sua 
+      <lb ed="#P" n="131"/>voluntas ab aeterno sese determinavit. Deinde 
+      ad<lb ed="#P" n="132" break="no"/>dit, Deum sua praedestinatione determinare 
+      homi<lb ed="#P" n="133" break="no"/>num voluntates, &amp; facere ut homines determinent 
+      <lb ed="#P" n="134"/>seipsos. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1030">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/>
+               <ref xml:id="bt67yj-p094916-Rd1e1036">
+                  <name xml:id="bt67yj-p094916-Nd1e1038">Ruardus</name> in explicatione articuli de libero arbitrio</ref>, 
+      <lb ed="#P" n="136"/>dicit voluntates nostras tam in politicis quam in 
+      <lb ed="#P" n="137"/>moralibus moveri &amp; determinari ad opus per 
+      divi<lb ed="#P" n="138" break="no"/>nam providentiam. Addit &amp; alia in eandem 
+      sen<lb ed="#P" n="139" break="no"/>tentiam. Idem in quadam altercatione de gratia &amp; 
+      <lb ed="#P" n="140"/>libero arbitrio, propositione. 9. Prius natura, 
+      in<lb ed="#P" n="141" break="no"/>quit, voluntatem Deus determinat &amp; applicat 
+      tan<lb ed="#P" n="142" break="no"/>quam principale agens suum instrumentum: nec major 
+      <lb ed="#P" n="143"/>est in operibus gratiae difficultas quam in operibus 
+      na<lb ed="#P" n="144" break="no"/>turae. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1063">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/>
+               <name xml:id="bt67yj-p094916-Nd1e1069">Dominicus Bannes</name> in 2. 2. quaestione 10. articulo 
+      <lb ed="#P" n="146"/>primo docet non primam causam determinari ad 
+      <lb ed="#P" n="147"/>actionem a libero arbitrio, sed e diverso liberum 
+      <lb ed="#P" n="148"/>arbitrium a divina providentia, certaque Dei 
+      <!--0480.xml-->
+      <pb ed="#P" n="247"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>praefinitione ad suos actus certissime determinari: 
+      <lb ed="#P" n="2"/>quia, inquit, agens increatum non determinatur ab 
+      <lb ed="#P" n="3"/>agente creato, sed contra. Deinde idem probat 
+      de<lb ed="#P" n="4" break="no"/>ductione ad absurda; quia nimirum sequeretur, 
+      <lb ed="#P" n="5"/>quod in actu libero, qui a Deo simul &amp; homine 
+      pro<lb ed="#P" n="6" break="no"/>cedit, homo esset primum deliberans, atque ita non 
+      <lb ed="#P" n="7"/>esset actus praedefinitus a Deo. Sequeretur etiam 
+      <lb ed="#P" n="8"/>providentiam hominis circa hunc singularem 
+      ac<lb ed="#P" n="9" break="no"/>tum perfectiorem esse providentia Dei. Haec &amp; alia 
+      <lb ed="#P" n="10"/>plura author ille eo loco, ut probet actus liberi 
+      no<lb ed="#P" n="11" break="no"/>stri arbitrii prius natura deliberari &amp; determinari a 
+      <lb ed="#P" n="12"/>Deo quam a nobis. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1111">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Cum igitur ex dictis pateat voluntatem nostram 
+      <lb ed="#P" n="14"/>ad actiones suas efficaciter moveri ac determinari a 
+      <lb ed="#P" n="15"/>Deo tanquam prima causa, primoque movente, 
+      <lb ed="#P" n="16"/>agente, deliberante, &amp; proinde ab eo praeveniri ac 
+      <lb ed="#P" n="17"/>praedeterminari; restat explicandum quomodo cum 
+      <lb ed="#P" n="18"/>efficaci illa motione ac determinatione, imo 
+      prae<lb ed="#P" n="19" break="no"/>motione ac praedeterminatione divina, consistat 
+      li<lb ed="#P" n="20" break="no"/>bertas voluntatis nostrae. Non enim videtur relinqui 
+      <lb ed="#P" n="21"/>liberum ad utrumlibet, id quod a priori causa 
+      effica<lb ed="#P" n="22" break="no"/>citer movetur ac determinatur in alteram partem 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1137">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> Pro hujus difficultatis enodatione sciendum 
+      im<lb ed="#P" n="24" break="no"/>primis, vehementer falli eos, qui existimant 
+      no<lb ed="#P" n="25" break="no"/>men libertatis arbitrii hoc includere, ut dicat 
+      cau<lb ed="#P" n="26" break="no"/>sam independentem ab aliqua priori respectu suae 
+      <lb ed="#P" n="27"/>liberae actionis. Hoc enim constat Deo, id est, 
+      pri<lb ed="#P" n="28" break="no"/>mae causae proprium esse. Unde S. Thomas in dist. 
+      <lb ed="#P" n="29"/>37. hujus libri quaestione 2. articulo 2. dicit, eos 
+      <lb ed="#P" n="30"/>qui aliquam actionem voluntatis negant esse a Deo, 
+      <lb ed="#P" n="31"/>propinquare errori. Sequeretur enim plura esse 
+      pri<lb ed="#P" n="32" break="no"/>ma principia, &amp; Deum qui est primum ens, non 
+      <lb ed="#P" n="33"/>esse causam universalem omnium entium. Quod 
+      <lb ed="#P" n="34"/>utrumque impossibile est &amp; sanae doctrinae 
+      con<lb ed="#P" n="35" break="no"/>trarium. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1170">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Itaque secundum ea quae dudum dicta sunt, 
+      dici<lb ed="#P" n="37" break="no"/>mus, ad rationem liberi arbitrii hoc sufficere; ut 
+      <lb ed="#P" n="38"/>oex praevio judicio intellectus practici sic eligat 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1181">
+               <lb ed="#P" n="39"/>
+               <pc type="indent"/> unum oppositorum, ut tamen ex ejusdem 
+      intelle<lb ed="#P" n="40" break="no"/>ctus diverso judicio possit eligere alterum. Nam, ut 
+      <lb ed="#P" n="41"/>illic ostendebamus, radix &amp; fundamentum 
+      liber<lb ed="#P" n="42" break="no"/>tatis arbitrii est in intellectu, quatenus ille diversas 
+      <lb ed="#P" n="43"/>boni rationes circa opposita potest considerare &amp; 
+      <lb ed="#P" n="44"/>voluntati proponere. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1199">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Quare impertinens est libero arbitrio, utrum 
+      il<lb ed="#P" n="46" break="no"/>lam suam electionem sibi impressam habeat a causa 
+      <lb ed="#P" n="47"/>priori, an non. Sola est enim voluntas increata quae 
+      <lb ed="#P" n="48"/>electionem suam ab aliquo priori non habet. Neque 
+      <lb ed="#P" n="49"/>vero potest Deus ullam facere creaturam, quae vel 
+      <lb ed="#P" n="50"/>in essendo, vel in operando ordinem sui creatoris, 
+      <lb ed="#P" n="51"/>ut primae causae, egrediatur; ita ut non dependeat 
+      <lb ed="#P" n="52"/>ab ea tanquam a primo efficiente conservante, 
+      ope<lb ed="#P" n="53" break="no"/>rante, denique etiam ut ab exemplari causa. Quare 
+      <lb ed="#P" n="54"/>sicut omnis creata sapientia &amp; omnis creata 
+      justi<lb ed="#P" n="55" break="no"/>tia habeatur ex participatione sapientiae &amp; 
+      justi<lb ed="#P" n="56" break="no"/>tiae increatae, ita ut Deus, qui est sapientia &amp; 
+      ju<lb ed="#P" n="57" break="no"/>stitia increata, sit causa prima, propria atque 
+      inti<lb ed="#P" n="58" break="no"/>ma omnis sapientiae &amp; justitiae creatae, omnisque 
+      <lb ed="#P" n="59"/>creatae actionis sapientis, &amp; justae, &amp; similiter de 
+      <lb ed="#P" n="60"/>aliis quibuscunque bonis creatis; sic omnis creata 
+      <lb ed="#P" n="61"/>libertas voluntatis non aliunde habetur, quam ex 
+      <lb ed="#P" n="62"/>participatione summae &amp; increatae libertatis, quae 
+      <lb ed="#P" n="63"/>est in voluntate divina; ita scilicet ut illa libertas 
+      <lb ed="#P" n="64"/>increata divinae voluntatis sit causa prima, propria 
+      <lb ed="#P" n="65"/>atque intima omnis creatae libertatis, omniumque 
+      <lb ed="#P" n="66"/>liberarum actionum creatarum. Tantum igitur 
+      ab<lb ed="#P" n="67" break="no"/>est ut efficax operatio liberrimae voluntatis divinae 
+      <lb ed="#P" n="68"/>destruat libertatem actionum voluntatis creatae, 
+      <lb ed="#P" n="69"/>ut haec absque illa prorsus consistere nequeat, sed 
+      <lb ed="#P" n="70"/>ab ea necessario dependeat tanquam bonum 
+      parti<lb ed="#P" n="71" break="no"/>cipatum a bono essentiali. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1263">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> In hanc sententiam explicat &amp; dissolvit 
+      praesen<lb ed="#P" n="73" break="no"/>tem difficultatem S. Thomas 1. p. quaestione 83. 
+      ar<lb ed="#P" n="74" break="no"/>ticulo 1. Cum enim sibi tertio loco objecisset hoc 
+      <!--0480.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>argumentum: Liberum est, quod sui causa est; 
+      er<lb ed="#P" n="76" break="no"/>go voluntas hominis quae movetur ab alio, scilicet a 
+      <lb ed="#P" n="77"/>Deo, non est libera. Dicendum, inquit, quod 
+      libe<lb ed="#P" n="78" break="no"/>rum arbitrium est causa sui motus, quia homo per 
+      li<lb ed="#P" n="79" break="no"/>berum arbitrium seipsum movet ad agendum. Non 
+      <lb ed="#P" n="80"/>tamen hoc est de necessitate libertatis, quod sit prima 
+      <lb ed="#P" n="81"/>causa sui ad id quod liberum est, sicut nec ad hoc 
+      <lb ed="#P" n="82"/>quod aliquid sit causa alterius, requiritur, quod sit 
+      <lb ed="#P" n="83"/>cansa prima ejus. Deus igitur est prima causa 
+      mo<lb ed="#P" n="84" break="no"/>vens &amp; naturales causas &amp; voluntarias. Et sicut 
+      <lb ed="#P" n="85"/>naturalibus causis movendo eas, non aufert quin actus 
+      <lb ed="#P" n="86"/>earum sint naturales, ita movendo causas voluntarias 
+      <lb ed="#P" n="87"/>non aufert quin actiones earum sint voluntariae, sed 
+      <lb ed="#P" n="88"/>potius hoc in eis facit. Operatur enim in unoquoque, 
+      <lb ed="#P" n="89"/>secundum ejus proprietatem. Sic ille &amp; quidem 
+      do<lb ed="#P" n="90" break="no"/>ctissime. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1313">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Vide eundem eadem parte 1. quaest. 19. 
+      articu<lb ed="#P" n="92" break="no"/>lo 8. ubi docet, omnem in rebus contingentiam 
+      <lb ed="#P" n="93"/>sequi ex efficacia voluntatis divinae, ut quae sit 
+      <lb ed="#P" n="94"/>efficacissima non tantum quoad effectus, sed etiam 
+      <lb ed="#P" n="95"/>quoad modum. Et libro 1. contra gentes capite 
+      <lb ed="#P" n="96"/>68. ubi ex professo docet quomodo libertas arbitrii 
+      <lb ed="#P" n="97"/>consistat cum Dei causalitate dantis esse &amp; 
+      opera<lb ed="#P" n="98" break="no"/>ri. Idem quaestio. 3. de malo articulo 2. in fine 
+      di<lb ed="#P" n="99" break="no"/>cit; Cum aliquid movet seipsum, non excluditur 
+      <lb ed="#P" n="100"/>quin ab alio moveatur, a quo habet hoc ipsum 
+      <lb ed="#P" n="101"/>quod seipsum movet; &amp; sic non repugnat 
+      liberta<lb ed="#P" n="102" break="no"/>ti, quod Deus est causa actus liberi arbitrii. Et 
+      <lb ed="#P" n="103"/>quaestione 6. articulo 1. ad 3. Deus, inquit, 
+      mo<lb ed="#P" n="104" break="no"/>vet voluntatem immutabiliter propter efficaciam 
+      <lb ed="#P" n="105"/>virtutis moventis, quae deficere non potest: sed 
+      <lb ed="#P" n="106"/>propter naturam voluntatis motae, quae 
+      indiffe<lb ed="#P" n="107" break="no"/>renter se habet ad diversa, non inducitur 
+      neces<lb ed="#P" n="108" break="no"/>sitas; sed manet libertas. Sicut etiam in omnibus 
+      <lb ed="#P" n="109"/>providentia divina infallibiliter operatur, &amp; tamen 
+      <lb ed="#P" n="110"/>a causis contingentibus proveniunt effectus 
+      contin<lb ed="#P" n="111" break="no"/>gentes, inquantum Deus omnia movet 
+      proportio<lb ed="#P" n="112" break="no"/>nabiliter, unumquodque secundum suum 
+      modum<lb ed="#P" n="113" break="no"/>Haec ibi. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1368">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Denique in compendio Theologiae, quod 
+      opus<lb ed="#P" n="115" break="no"/>culum scripsit omnium postremum, capite 129. 
+      <lb ed="#P" n="116"/>cujus titulus est, quod solus Deus movet 
+      volunta<lb ed="#P" n="117" break="no"/>tem hominis, non res creata, scribit in hunc 
+      mo<lb ed="#P" n="118" break="no"/>dum; Sed cum actus voluntatis sit inclinatio 
+      quae<lb ed="#P" n="119" break="no"/>dam ab interiori ad exterius procedens, &amp; 
+      com<lb ed="#P" n="120" break="no"/>paretur inclinationibus naturalibus: sicut 
+      incli<lb ed="#P" n="121" break="no"/>nationes naturales rebus naturalibus solum insunt 
+      <lb ed="#P" n="122"/>a causa suae naturae, ita actus voluntatis a solo 
+      <lb ed="#P" n="123"/>Deo est, qui solus causa est naturae rationali. 
+      <lb ed="#P" n="124"/>voluntatem habentis. Unde patet quod non est 
+      <lb ed="#P" n="125"/>contra arbitrii libertatem, si Deus voluntatem 
+      <lb ed="#P" n="126"/>hominis movet: sicuti non est contra naturam 
+      <lb ed="#P" n="127"/>quod Deus in rebus naturalibus operatur, sed 
+      <lb ed="#P" n="128"/>tam inclinatio naturalis quam voluntaria a Dec 
+      <lb ed="#P" n="129"/>est: utraque proveniens secundum conditionem 
+      <lb ed="#P" n="130"/>rei cujus est. Sic enim Deus res movet, secundum 
+      <lb ed="#P" n="131"/>quod competit earum naturae. Hactenus S. 
+      Tho<lb ed="#P" n="132" break="no"/>mas. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1414">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Nec diversum ab eo sentit <name xml:id="bt67yj-p094916-Nd1e1420">Bonaventura</name>: 
+      Scri<lb ed="#P" n="134" break="no"/>bens enim in dist. 25. hujus lib. par. 2. q. 1. affirmat 
+      <lb ed="#P" n="135"/>omne liberum arbitrium creatum immediate sub 
+      <lb ed="#P" n="136"/>Deo esse constitutum, &amp; quodlibet esse suarum 
+      <lb ed="#P" n="137"/>operationum post Deum primum principium. 
+      At<lb ed="#P" n="138" break="no"/>tenditur enim, inquit, secundum rationalis 
+      creatu<lb ed="#P" n="139" break="no"/>rae supremum, quo solus Deus superior est. Et q. 4. 
+      <lb ed="#P" n="140"/>Hanc dignitatem habet liberum arbitrium, ut in 
+      <lb ed="#P" n="141"/>quantum liberum, soli Deo sit subjectum. Quod 
+      <lb ed="#P" n="142"/>autem loquatur de ea subjectione, qua possit 
+      effi<lb ed="#P" n="143" break="no"/>caciter immutari a Deo, &amp; non tantum induci ad 
+      <lb ed="#P" n="144"/>actiones suas liberas, patet ex qu. proxime 
+      sequen<lb ed="#P" n="145" break="no"/>ti, qua id ex professo docet, adhibita distinctione 
+      <lb ed="#P" n="146"/>inter haec tria, voluntatem induci, &amp; voluntatem 
+      <lb ed="#P" n="147"/>immutari, &amp; voluntatem cogi; quorum primum 
+      <lb ed="#P" n="148"/>fieri posse doce tetiam ab agente creato, secundum 
+      <!--0481.xml-->
+      <pb ed="#P" n="248"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>a solo agente increato, tertium autem a nullo, quia . 
+      <lb ed="#P" n="2"/>hoc implicat contradictionem. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1466">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Ex his jam intelligitur quomodo non repugnet, 
+      <lb ed="#P" n="4"/>sed bene consistat, imo necessario cohaereat 
+      liber<lb ed="#P" n="5" break="no"/>tas actionum voluntatis nostrae cum efficaci 
+      motio<lb ed="#P" n="6" break="no"/>ne voluntatis divinae; tum quia libertas creata tam 
+      <lb ed="#P" n="7"/>secundum actum quam secundum potentiam 
+      neces<lb ed="#P" n="8" break="no"/>sario dependet a libertate increata; tum quia Deus 
+      <lb ed="#P" n="9"/>movet unamquamque rem juxta modum &amp; 
+      condi<lb ed="#P" n="10" break="no"/>tionem naturae ejus. Quamvis enim per efficacem 
+      <lb ed="#P" n="11"/>suam operationem attingat a fine ad finem fortiter, 
+      <lb ed="#P" n="12"/>tamen disponit omnia suaviter, non laedens rerum 
+      <lb ed="#P" n="13"/>naturas a se institutas, sed conservans, &amp; naturali 
+      <lb ed="#P" n="14"/>earum institutioni convenienter ipsas movens. Sic 
+      <lb ed="#P" n="15"/>igitur liberum Dei arbitrium influit libertatem in 
+      <lb ed="#P" n="16"/>creaturam angelicam &amp; humanam, non solum 
+      con<lb ed="#P" n="17" break="no"/>ferendo ei facultatem liberam, id est voluntatem, 
+      <lb ed="#P" n="18"/>sed etiam actum ipsum liberum, qui majus bonum 
+      <lb ed="#P" n="19"/>est, majorque perfectio quam sola facultas. Nam 
+      <lb ed="#P" n="20"/>potentiae sunt propter actus tanquam fines &amp; 
+      perfe<lb ed="#P" n="21" break="no"/>ctiones suas. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1512">
+               <lb ed="#P" n="22"/>
+               <pc type="indent"/> Quod vero nec determinatio primae causae 
+      prae<lb ed="#P" n="23" break="no"/>judicet voluntati creatae, quo minus libera sit ad 
+      <lb ed="#P" n="24"/>determinandum seipsam in quam partem voluerit, 
+      <lb ed="#P" n="25"/>similiter ex dictis manifestum est. Cum enim 
+      volun<lb ed="#P" n="26" break="no"/>tas creata libera sit sub Deo, necesse est ut sicut 
+      <lb ed="#P" n="27"/>movet seipsam mota a Deo; sic etiam determinet 
+      <lb ed="#P" n="28"/>se ipsam determinata a Deo. Sicut enim omnes alii 
+      <lb ed="#P" n="29"/>effectus causarum secundarum procedunt a causa 
+      <lb ed="#P" n="30"/>prima &amp; secunda, sic nihil prohibet, imo necesse est, 
+      <lb ed="#P" n="31"/>determinationem certi effectus vel causae secundae 
+      <lb ed="#P" n="32"/>ad certum effectum simul fieri a causa prima &amp; 
+      se<lb ed="#P" n="33" break="no"/>cunda, simul inquam, tempore. Nam ordine 
+      na<lb ed="#P" n="34" break="no"/>turae necesse est causam primam in omniactione esse 
+      <lb ed="#P" n="35"/>priorem. 
+    </p>
+            <p xml:id="bt67yj-p094916-d1e1548">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Neque tamen hic imaginari oportet duas 
+      deter<lb ed="#P" n="37" break="no"/>minationes ejusdem secundae causae ad suum 
+      effe<lb ed="#P" n="38" break="no"/>ctum. Sic enim revera prior excluderet posteriorem: 
+      <lb ed="#P" n="39"/>quia quod semel determinatum est, non potest 
+      se<lb ed="#P" n="40" break="no"/>cundo determinari, sicut quod semel factum est, non 
+      <lb ed="#P" n="41"/>potest iterum fieri. Sed intelligenda est una 
+      eadem<lb ed="#P" n="42" break="no"/>que determinatio, quam prius natura faciat causa 
+      <lb ed="#P" n="43"/>prima quam secunda, sicut &amp; quemlibet alium 
+      ef<lb ed="#P" n="44" break="no"/>fectum secundae causae. De hac re vide Scotum in 
+      <lb ed="#P" n="45"/>4. dist. 49. quaest. 6. &amp; Ferrariensem in 3. contra 
+      <lb ed="#P" n="46"/>gentes cap. 89. utrumque dissolventem argumenta 
+      <lb ed="#P" n="47"/>quae contra hujusmodi determinationem 
+      objiciun<lb ed="#P" n="48" break="no"/>tur. Faciunt etiam ad totius doctrinae praesentis 
+      <lb ed="#P" n="49"/>ampliorem intellectum, quae disputata sunt ad 
+      di<lb ed="#P" n="50" break="no"/>stinct. 38. lib. 1. de contingentia rerum subjectarum 
+      <lb ed="#P" n="51"/>providentiae Dei, &amp; ad dist. 39. ejusdem libri de 
+      <lb ed="#P" n="52"/>actibus humanis divinae providentiae subjectis, &amp; 
+      <lb ed="#P" n="53"/>ad dist. 45. ubi quaerebatur, an voluntas Dei 
+      ne<lb ed="#P" n="54" break="no"/>cessitatem rebus imponat; quaeque disputabuntur 
+      <lb ed="#P" n="55"/>infra ad dist. 37. hujus libri in quaestione, utrum 
+      ac<lb ed="#P" n="56" break="no"/>tus mali sint a Deo. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

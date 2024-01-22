@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="369"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p142931"><!-- l2d33c2" -->
+            <head xml:id="bt67yj-p142931-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p142931-Hd1e103" type="question-title">Respondetur ad argumenta in contrarium</head>
+            <p xml:id="bt67yj-p142931-d1e106">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> §. 2. Respondetur ad argumenta in contrarium.
+    </p>
+            <p xml:id="bt67yj-p142931-d1e113">
+               <lb ed="#P" n="65"/>SUperiori doctrinae contrarium illud imprimis 
+      es<lb ed="#P" n="66" break="no"/>Ose videtur, quod apud August. legitur Enchir. c. 
+      <lb ed="#P" n="67"/>46. ubi ex eo quod dictum est Exodi 34. Reddam 
+      <lb ed="#P" n="68"/>peccata patrum in filios, docet non esse improbabile, 
+      <lb ed="#P" n="69"/>parentum peccatis parvulos obligari non solum 
+      pri<lb ed="#P" n="70" break="no"/>morum hominum, sed etiam suorum, de quibus 
+      <lb ed="#P" n="71"/>proxime nati sunt, donec reatus ille Sacramento re¬ 
+      <!--0602.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>generationis solvatur. Et infra simpliciter asserit 
+      <lb ed="#P" n="73"/>aliorum peccata parentum, etsi non ita possint 
+      im<lb ed="#P" n="74" break="no"/>mutare naturam sicut primum illud peccatum, reatu 
+      <lb ed="#P" n="75"/>tamen obligare filios, nisi gratia Dei subveniat. Ac 
+      <lb ed="#P" n="76"/>deinde cap. proximo quaerit ulterius, quousque 
+      pec<lb ed="#P" n="77" break="no"/>cata parentum in filios extendantur, utrum videlicet 
+      <lb ed="#P" n="78"/>in omnem posteritatem, an vero tantum in tertiam 
+      <lb ed="#P" n="79"/>&amp; quartam generationem; ne illi quibus 
+      regenera<lb ed="#P" n="80" break="no"/>tionis gratia non confertur; nimia sarcina in sua 
+      ae<lb ed="#P" n="81" break="no"/>terna damnatione premerentur, &amp;c. Qua de re negat 
+      <lb ed="#P" n="82"/>se temere quicquam velle affirmare. Augustini 
+      ver<lb ed="#P" n="83" break="no"/>ba ex cap. 46. leguntur etiam apud Leonem epist. 86. 
+      <lb ed="#P" n="84"/>Porro simile quid Augustinus indicare videtur lib. 
+      <lb ed="#P" n="85"/>6. contra Juliinum cap. 10. explicans quo sensu 
+      pa<lb ed="#P" n="86" break="no"/>rentum peccata vel aliena vel nostra dicantur. Et 
+      <lb ed="#P" n="87"/>cap. 7. dicit: Quae sint ex parentibus, vel utrum sint 
+      <lb ed="#P" n="88"/>etiam alia contagia peccatorum, liberum nobis est 
+      <lb ed="#P" n="89"/>quaerere, sive sit facile, sive difficile, sive impossibile 
+      <lb ed="#P" n="90"/>reperire. Sed ad haec cum Magistro respondetur, 
+      Au<lb ed="#P" n="91" break="no"/>gustinum de quaestione proposita nullam his locis 
+      <lb ed="#P" n="92"/>definitam proferre sententiam, &amp; diputando atque 
+      <lb ed="#P" n="93"/>opinando locutum potius quam asserendo, ut patet 
+      <lb ed="#P" n="94"/>tum ex initio capitis 46. Enchir. tum ex fine 47. nec 
+      <lb ed="#P" n="95"/>non ex lib. 6. contra Julianum cap. 7. Notandum 
+      <lb ed="#P" n="96"/>etiam quod dicit, aliorum parentum peccata non 
+      <lb ed="#P" n="97"/>posse, sicut primum illud, mutare naturam, sed 
+      tan<lb ed="#P" n="98" break="no"/>tum reatu obligare filios. Per quod significare 
+      vide<lb ed="#P" n="99" break="no"/>tur filios puniri pro peccatis parentum, quorum ta¬ 
+    </p>
+            <p xml:id="bt67yj-p142931-d1e196">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> men propria peccata ad ipsos non transeant. Hoc 
+      <lb ed="#P" n="101"/>autem quomodo intelligendum sit secundum 
+      Scri<lb ed="#P" n="102" break="no"/>pturam, quae docet Deum peccata parentum 
+      vindi<lb ed="#P" n="103" break="no"/>care in filiis, postea a nobis explicabitur. 
+    </p>
+            <p xml:id="bt67yj-p142931-d1e210">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Aliud argumentum profertur ex Prospero 
+      senten<lb ed="#P" n="105" break="no"/>tia 306. quae sic habet: Sicut quidam parentes 
+      aggra<lb ed="#P" n="106" break="no"/>vant originale peccatum, ita quidam relevant. Ad 
+      <lb ed="#P" n="107"/>quod respondendum, quosdam parentes aggravare 
+      <lb ed="#P" n="108"/>peccatum originale, non quod ei propriis peccatis 
+      <lb ed="#P" n="109"/>aliquid addant, ipsumve majus efficiant, sed quia 
+      <lb ed="#P" n="110"/>poenam ejus temporalem aggravant. Ita enim filius 
+      <lb ed="#P" n="111"/>Davidis 2. Reg. 12. propter adulterium patris, in 
+      <lb ed="#P" n="112"/>quo conceptus erat, mortuus est adhuc infans; qui 
+      <lb ed="#P" n="113"/>victurus erat, si non ex patris adulterio natus 
+      fuis<lb ed="#P" n="114" break="no"/>set. Relevant autem illi, propter quorum 
+      sanctita<lb ed="#P" n="115" break="no"/>tem filii temporaliter minus puniuntur, quam juste 
+      <lb ed="#P" n="116"/>puniri poterant propter originale peccatum. Et 
+      no<lb ed="#P" n="117" break="no"/>ta, Prosperum non dixisse quosdam parentes 
+      auge<lb ed="#P" n="118" break="no"/>re, quosdam vero minuere peccatum illud in filiis, 
+      <lb ed="#P" n="119"/>sed aggravare, &amp; relevare; quae voces proprie 
+      poe<lb ed="#P" n="120" break="no"/>nam respiciunt. 
+    </p>
+            <p xml:id="bt67yj-p142931-d1e252">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Objicitur &amp; hoc argumentum: Si primo homine 
+      <lb ed="#P" n="122"/>in innocentia permanente quispiam ex ejus 
+      posteri<lb ed="#P" n="123" break="no"/>tate praeceptum Dei fuisset transgressus, is suo 
+      pec<lb ed="#P" n="124" break="no"/>cato suos posteros infecisset eodem modo, quo nunc 
+      <lb ed="#P" n="125"/>totum humanum genus peccato Adae infectum est: 
+      <lb ed="#P" n="126"/>igitur &amp; nunc peccata parentum posteriorum 
+      conta<lb ed="#P" n="127" break="no"/>gio quodam transeunt in filios. Ad quod 
+      responde<lb ed="#P" n="128" break="no"/>mus effectum semel productum ab antecedente 
+      cau<lb ed="#P" n="129" break="no"/>sa, eaque sufficiente, excludere causam posteriorem 
+      <lb ed="#P" n="130"/>utpote superfluam. Et proinde natura semel infecta 
+      <lb ed="#P" n="131"/>per primum peccatum, non ulterius inficitur per 
+      po<lb ed="#P" n="132" break="no"/>steriora, quemadmodum caecitas aut tenebrae semel 
+      <lb ed="#P" n="133"/>sufficienter causatae, non possunt iterum causari. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

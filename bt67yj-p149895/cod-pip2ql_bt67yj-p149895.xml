@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="387"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p149895"><!-- l2d41c5" -->
+            <head xml:id="bt67yj-p149895-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p149895-Hd1e103" type="question-title">Omne peccatum esse voluntarium</head>
+            <p xml:id="bt67yj-p149895-d1e106">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> §. 5. Omne peccatum esse voluntarium.
+    </p>
+            <p xml:id="bt67yj-p149895-d1e113">
+               <lb ed="#P" n="46"/>VOluntarium etsi non sit de ratione peccati 
+      <lb ed="#P" n="47"/>prorsus generaliter accepti (Sicut enim 
+      quae<lb ed="#P" n="48" break="no"/>dam peccata naturae, ut monstra &amp; monstrorum 
+      ge<lb ed="#P" n="49" break="no"/>nerationes, &amp; concupiscentia renatorum cum suis 
+      <lb ed="#P" n="50"/>motibus aliquo sensu peccatum dicitur, 
+      quemadmo<lb ed="#P" n="51" break="no"/>dum suo loco declaravimus) est tamen de ratione 
+      <lb ed="#P" n="52"/>peccati humani, id est, peccati proprie dicti, quale 
+      <lb ed="#P" n="53"/>supra definitionibus aliquot explicatum est dist. 35. 
+      <lb ed="#P" n="54"/>Hujus ratio reddi potest, quia peccatum est opus 
+      <lb ed="#P" n="55"/>malum intellectualis naturae, ut talis est. Censetur 
+      <lb ed="#P" n="56"/>autem ea operari ut talis, quando rationis judicio 
+      <lb ed="#P" n="57"/>utens operatur. Tale igitur opus si malum 
+      vitiosum<lb ed="#P" n="58" break="no"/>que sit, peccati humani seu proprie dicti 
+      appellatio<lb ed="#P" n="59" break="no"/>nem suscipit. Sed &amp; supra ad dist. 39. causam 
+      expo<lb ed="#P" n="60" break="no"/>suimus; quare a sola voluntate dicatur homo malus 
+      <lb ed="#P" n="61"/>vel bonus, quod videlicet imperio voluntatis 
+      caete<lb ed="#P" n="62" break="no"/>rae vires animae regantur &amp; subjectae sint. 
+    </p>
+            <p xml:id="bt67yj-p149895-d1e152">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Huc quoque referendae sunt quatuor rationes 
+      il<lb ed="#P" n="64" break="no"/>lae scripturis &amp; Patrum sententiis roboratae, quas 
+      <lb ed="#P" n="65"/>circa dist. 32. produximus ad docendum, 
+      concu<lb ed="#P" n="66" break="no"/>piscentiam renatorum &amp; motus inde surgentes, 
+      <lb ed="#P" n="67"/>quos justi patiuntur inviti, non esse proprii nominis 
+      <lb ed="#P" n="68"/>peccata, quas hoc loco repetere non est necesse. 
+      <lb ed="#P" n="69"/>Quatenus vero &amp; ad ipsum originale peccatum haec 
+      <lb ed="#P" n="70"/>doctrina extendatut, ex iis quae commentati sumus. 
+      <lb ed="#P" n="71"/>ad dist. 30. intelligi potest, ubi ostendimus qua ra¬ 
+      <!--0620.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>tione peccatum originale sit voluntarium. 
+    </p>
+            <p xml:id="bt67yj-p149895-d1e184">
+               <lb ed="#P" n="73"/>
+               <pc type="indent"/> Quod autem ex August. lib. de duabus animabus 
+      <lb ed="#P" n="74"/>capite 10. citat Magister, nusquam nisi in 
+      volunta<lb ed="#P" n="75" break="no"/>te peccatum esse, &amp; non nisi voluntate peccati, 
+      <lb ed="#P" n="76"/>quod &amp; reperit ac probat idem Augustinus lib. 1. 
+      <lb ed="#P" n="77"/>retract. c. 15. &amp; 16. non id sentit quod cuipiam 
+      pri<lb ed="#P" n="78" break="no"/>ma facie videri posset, solam voluntatem esse 
+      pecca<lb ed="#P" n="79" break="no"/>ti subjectum. Constat enim ex ipsius etiam 
+      Augu<lb ed="#P" n="80" break="no"/>stini sententia, per caeteras itidem animae potentias, 
+      <lb ed="#P" n="81"/>ut intellectum, memoriam, sensum &amp; appetirum 
+      <lb ed="#P" n="82"/>sensitivum, nec non motivas facultates, actus 
+      pecca<lb ed="#P" n="83" break="no"/>torum exerceri. Sed significare voluit voluntatem 
+      <lb ed="#P" n="84"/>ita esse causam &amp; originem peccati, ut sine ea 
+      pec<lb ed="#P" n="85" break="no"/>catum in quacunque alia animae facultate consistere 
+      <lb ed="#P" n="86"/>non possit. Itaque omnis peccati actus in voluntate 
+      <lb ed="#P" n="87"/>est, vel ipsum eliciente, ut loquuntur qualis est ipsa 
+      <lb ed="#P" n="88"/>motio voluntatis rectae rationi difformis; vel 
+      impe<lb ed="#P" n="89" break="no"/>rante, quales sunt vitiosae &amp; culpabiles actiones 
+      <lb ed="#P" n="90"/>aliarum potentiarum animae. 
+    </p>
+            <p xml:id="bt67yj-p149895-d1e228">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Porro doctrina ista qua dicitur omne peccatum 
+      <lb ed="#P" n="92"/>esse voluntarium, non de folis mortalibus 
+      univer<lb ed="#P" n="93" break="no"/>saliter accipienda est, ut sentire videtur Magister 
+      <lb ed="#P" n="94"/>§. D.E. F. quemadmodum &amp; supra dist. 36. §. I. dum 
+      <lb ed="#P" n="95"/>utroque loco ad sola mortalia generalem Augustini 
+      <lb ed="#P" n="96"/>doctrinam restringere conatur, quasi venialia non 
+      <lb ed="#P" n="97"/>omnia sint voluntaria; sed &amp; universalem de 
+      venia<lb ed="#P" n="98" break="no"/>libus veritatem obtinet. Hoc etiam &amp; Augustinum 
+      <lb ed="#P" n="99"/>sensisse satis arguunt generales illae ejus sententiae; 
+      <lb ed="#P" n="100"/>usque adeo peccatum voluntarium malum est, ut 
+      <lb ed="#P" n="101"/>nullo modo sit peccatum, si non sit voluntarium; 
+      <lb ed="#P" n="102"/>lib. de vera religione c. 14. &amp;. Non nisi voluntate 
+      <lb ed="#P" n="103"/>peccatur, &amp;, Nusquam nisi in voluntate peccatum 
+      <lb ed="#P" n="104"/>est. Et I. de duabus animabus c. 10. Et non est cui recte 
+      <lb ed="#P" n="105"/>imputetur peccatum, nisi voluntati: l. 3. de libero 
+      <lb ed="#P" n="106"/>arbitrio c. 17. Constat autem Augustinum generali 
+      <lb ed="#P" n="107"/>nomine peccati etiamveniale comprehendere. Quod 
+      <lb ed="#P" n="108"/>&amp; supra, circa peccati definitionem ostendimus. 
+    </p>
+            <p xml:id="bt67yj-p149895-d1e272">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Quod si veniale aliquod peccatum non esset 
+      vo<lb ed="#P" n="110" break="no"/>luntarium, nulla ratio reddi posset, cur non omnes 
+      <lb ed="#P" n="111"/>concupiscentiae motus in renatis, etsi non 
+      consen<lb ed="#P" n="112" break="no"/>tientibus, vere peccata dicerentur. Quem errorem 
+      <lb ed="#P" n="113"/>ab Ecclesia damnatum supra quoque rejecimus ad 
+      <lb ed="#P" n="114"/>distinctionem 21. &amp; 32. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

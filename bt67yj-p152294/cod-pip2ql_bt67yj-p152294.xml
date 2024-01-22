@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="393"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p152294"><!-- l2d42c7" -->
+            <head xml:id="bt67yj-p152294-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p152294-Hd1e103" type="question-title">De septem vitiis capitalibus annotatio</head>
+            <p xml:id="bt67yj-p152294-d1e106">
+               <lb ed="#P" n="89"/>§. 7. De septem vitiis capitalibus annotatio
+    </p>
+            <p xml:id="bt67yj-p152294-d1e111">
+               <lb ed="#P" n="90"/>LIcet a nonnullis, velut a Cassiano libro de 8. 
+      <lb ed="#P" n="91"/>principalibus vitiis, &amp; collatione 5. &amp; ab 
+      Isi<lb ed="#P" n="92" break="no"/>dor. super Deut. scribente, octo peccata capitalia 
+      <lb ed="#P" n="93"/>enumerentur; dum videlicet illi authores superbiam 
+      <lb ed="#P" n="94"/>&amp; inanem gloriam duo distincta vitia faciunt, 
+      com<lb ed="#P" n="95" break="no"/>munis tamen &amp; consuetudine fidelium recepta 
+      sen<lb ed="#P" n="96" break="no"/>tentia septem duntaxat agnoscit &amp; enumerat, quae 
+      <lb ed="#P" n="97"/>etiam a Gregor. enumerantur lib. 31. moral. cap. 17. 
+      <lb ed="#P" n="98"/>Quamquam ille non superbiam inter ea recenset, sed 
+      <lb ed="#P" n="99"/>eam omnibus superponit &amp; omnium viriorum 
+      regi<lb ed="#P" n="100" break="no"/>nam facit. Radix etiam omnis mali superbia est, 
+      in<lb ed="#P" n="101" break="no"/>quit Gregor. de qua scriptura attestante dicitur: 
+      <lb ed="#P" n="102"/>Initium omnis peccati est superbia. Primae autem ejus 
+      <lb ed="#P" n="103"/>soboles septem nimirum principalia vitia, de hac 
+      vi<lb ed="#P" n="104" break="no"/>rulenta radice proferuntur; scilicet inanis gloria, 
+      in<lb ed="#P" n="105" break="no"/>vidia, ira, tristitia, avaritia, ventris ingluvies, 
+      lu<lb ed="#P" n="106" break="no"/>xuria. Neque tamen hoc communi sententiae 
+      con<lb ed="#P" n="107" break="no"/>trarium est. Quando enim, ut vulgo fit, superbia 
+      re<lb ed="#P" n="108" break="no"/>liquis connumeratur, non aliud quam inordinatum 
+      <lb ed="#P" n="109"/>appetitum digitatis &amp; honoris, hoc est 
+      ambitio<lb ed="#P" n="110" break="no"/>nem seu inanem gloriam, quam Graeci κινοδοξίαι 
+      <lb ed="#P" n="111"/>vocant, significat. Dum autem reliquorum radix &amp; 
+      <lb ed="#P" n="112"/>regina a Gregor. appellatur, significat 
+      contem<lb ed="#P" n="113" break="no"/>ptum superioris, &amp; adversus eum animi 
+      erectio<lb ed="#P" n="114" break="no"/>nem, ut ait Bonavent. 
+    </p>
+            <p xml:id="bt67yj-p152294-d1e168">
+               <lb ed="#P" n="115"/>Quare autem 7. haec principalia seu capitalia 
+      di<lb ed="#P" n="116" break="no"/>cantur vitia, exposuit Magister; quiae, inquit, ex eis 
+      <lb ed="#P" n="117"/>quasi e septem fontibus cunctae animarum mortiferae 
+      <lb ed="#P" n="118"/>corruptelae emanant, quae etiam vulgo filiae illorum 
+      <lb ed="#P" n="119"/>vitiorum dicuntur. Quaenam porro sint hae 
+      corrup<lb ed="#P" n="120" break="no"/>telae &amp; morbi animi, qui in illa generalia vitia seu 
+      <lb ed="#P" n="121"/>fontes &amp; capita sint referendi, copiose a Gregorio 
+      <lb ed="#P" n="122"/>ibidem explicatum est. 
+    </p>
+            <p xml:id="bt67yj-p152294-d1e189">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Dividuntur haec vitia, quemadmodum eodem 
+      <lb ed="#P" n="124"/>loco Gregor. annotavit, in quinque spiritualiae &amp; 
+      <lb ed="#P" n="125"/>duo carnalia. Carnalia sunt, gula, &amp; luxuria; 
+      reli<lb ed="#P" n="126" break="no"/>qua spiritualia. Inter quae membra hoc discriminis 
+      <lb ed="#P" n="127"/>est, quod spiritualia per se sint gravioris culpae, 
+      <lb ed="#P" n="128"/>carnalia vero majoris infamiae. 
+    </p>
+            <p xml:id="bt67yj-p152294-d1e207">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Notandum praeterea quod quamvis haec 7. vitia 
+      <lb ed="#P" n="130"/>a plerisque mortalia dici soleant, non semper tamen 
+      <lb ed="#P" n="131"/>ejusmodi esse quae mortem inferant animae, sed 
+      sae<lb ed="#P" n="132" break="no"/>penumero propter actus sui imperfectionem, vel 
+      <lb ed="#P" n="133"/>ob alias circunstantias venialis culpae terminos non 
+      <lb ed="#P" n="134"/>excedere; ut patet de opere conjugali propter 
+      in<lb ed="#P" n="135" break="no"/>continentiam, de modicis excessibus in cibo &amp; 
+      po<lb ed="#P" n="136" break="no"/>tu, de ira subita, aliisque hujusmodi. Imo vix 
+      <lb ed="#P" n="137"/>ullum est veniale peccatum, quod non ad aliquod 
+      <lb ed="#P" n="138"/>horum septem capitum referatur. 
+    </p>
+            <p xml:id="bt67yj-p152294-d1e233">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Jam vero quod postremo loco a Magistro 
+      disputa<lb ed="#P" n="140" break="no"/>tur, quomodo vere dictum sit Ecclesiastici 10. 
+      Ini<lb ed="#P" n="141" break="no"/>tium omnis peccati superbiam esse, 
+      cumdicataposto<lb ed="#P" n="142" break="no"/>lus 1. Tim. ult. Radix omnium malorum est cupiditas, 
+      <lb ed="#P" n="143"/>recte ita explicatur, si dicamus superbiam propterea 
+      <lb ed="#P" n="144"/>omnis peccati initium vocari; quia superbia in 
+      pri<lb ed="#P" n="145" break="no"/>mis parentibus sic fuit primum peccatum, ut ipsa 
+      <!--0627.xml-->
+      <pb ed="#P" n="394"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>omnium deinceps peccatorum origo &amp; causa 
+      existe<lb ed="#P" n="2" break="no"/>pret. In ipsa enim, inquit Tobias cap. 4. initium. 
+      <lb ed="#P" n="3"/>sumpsit omnis perditio. Cupiditatem vero seu 
+      avari<lb ed="#P" n="4" break="no"/>tiam (nam Graece est ειλαργύρια, id est, amor 
+      pe<lb ed="#P" n="5" break="no"/>cuniae) omnium malorum radicem esse, non quod 
+      <lb ed="#P" n="6"/>omnia mala ex ea orta sint; sed partim ideo quod 
+      <lb ed="#P" n="7"/>inordinatum hujusmodi studium in omnis generis 
+      <lb ed="#P" n="8"/>peccata, velut homicidia, mendacia, perjuria, &amp;c. 
+      <lb ed="#P" n="9"/>homines propellere soleat; partim quod per illud 
+      <lb ed="#P" n="10"/>incurrant innumeras calamitates &amp; miserias; Hunc 
+      <lb ed="#P" n="11"/>namque sensum postulare videtur textus 
+      Apostoli<lb ed="#P" n="12" break="no"/>cus. Praecedit enim: Nam qui volunt divites fieri, 
+      <lb ed="#P" n="13"/>incidunt in tentationem, &amp; laqueum diaboli, &amp; 
+      de<lb ed="#P" n="14" break="no"/>sideria multa inutilia &amp; nociva, quae mergunt 
+      homi<lb ed="#P" n="15" break="no"/>nes in interitum &amp; perditionem. Et de ipsa 
+      cupidita<lb ed="#P" n="16" break="no"/>te sequitur: Quam quidam appetentes erraverunt a 
+      <lb ed="#P" n="17"/>fide, &amp; inseruerunt se doloribus multis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="226"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p087510"><!-- l2d24c1" -->
+            <head xml:id="bt67yj-p087510-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p087510-Hd1e103" type="question-title">Liberi arbitrii propria ratio. 
+      explicatur</head>
+            <p xml:id="bt67yj-p087510-d1e106">
+               <lb ed="#P" n="15"/>IN DISTINCTIONEM 
+      <lb ed="#P" n="16"/>VICESIMAMQUARTAM. 
+      <lb ed="#P" n="17"/>§. 1. Liberi arbitrii propria ratio. 
+      <lb ed="#P" n="18"/>explicatur.
+    </p>
+            <p xml:id="bt67yj-p087510-d1e117">
+               <lb ed="#P" n="19"/>PRiusquam ad tractationem gratiae tam 
+      ho<lb ed="#P" n="20" break="no"/>minis integri quam lapsi veniamus, 
+      muta<lb ed="#P" n="21" break="no"/>to nonnihil ordine qui est apud Magistrum, 
+      <lb ed="#P" n="22"/>visum est praemittere doctrinam de libero 
+      arbi<lb ed="#P" n="23" break="no"/>trio. Sicut enim prius est quod animale, deinde 
+      <lb ed="#P" n="24"/>quod spirituale, teste apostolo 1. Cor. 15. sic prius 
+      <lb ed="#P" n="25"/>est in homine liberum arbitrium tanquam ad 
+      natu<lb ed="#P" n="26" break="no"/>ram pertinens, quam gratia naturam perficiens. At 
+      <lb ed="#P" n="27"/>neque satis intelligi potest quid gratia operetur in 
+      <lb ed="#P" n="28"/>libero arbitrio, nisi prius ipsius liberi arbitrii natura 
+      <lb ed="#P" n="29"/>fuerit perspecta. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e143">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Primo autem ostendendum est in quo propria 
+      ra<lb ed="#P" n="31" break="no"/>tio libertatis arbitrii consistat. Pro cujus rei 
+      intel<lb ed="#P" n="32" break="no"/>lectu scire oportet, liberum arbitrium non 
+      habi<lb ed="#P" n="33" break="no"/>tus, sed potentiae nomen esse. Nam habitus inclinat 
+      <lb ed="#P" n="34"/>potentiam ad operationes certi generis: At liberum 
+      <lb ed="#P" n="35"/>arbitrium secundum se indeterminatum est &amp; 
+      in<lb ed="#P" n="36" break="no"/>differenter se habens ad actiones diversorum; imo 
+      <lb ed="#P" n="37"/>contrariorum habituum, velut virtutum &amp; 
+      vitio<lb ed="#P" n="38" break="no"/>rum; de qua re vide S. Thomam 1. part. quaest. 83. 
+      <lb ed="#P" n="39"/>articulo 2. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e170">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Est autem liberum arbitrium potentea reipsa 
+      ea<lb ed="#P" n="41" break="no"/>dem cum voluntate, tametsi ratione diversa, 
+      quem<lb ed="#P" n="42" break="no"/>admodum recte docet S. Tho. ibidem art. 4. &amp; ejus 
+      <lb ed="#P" n="43"/>ad eundem articulum commentatores. Quam 
+      sen<lb ed="#P" n="44" break="no"/>tentiam facile quoque probare est ex communi 
+      pa<lb ed="#P" n="45" break="no"/>trum consensu, qui liberum arbitrium &amp; liberam 
+      <lb ed="#P" n="46"/>voluntatem habent pro eodem, ac promiscue 
+      no<lb ed="#P" n="47" break="no"/>minant. Unde Augustinus lib. 1. retractationum c. 
+      <lb ed="#P" n="48"/>9. &amp; Chrysostomus in homilia super verbis Isa. 1. 
+      <lb ed="#P" n="49"/>Si volueritis &amp; audieritis me, &amp;c. liberum arbitrium 
+      <lb ed="#P" n="50"/>vocant liberam voluntatem, &amp; Gennadius lib. de 
+      <lb ed="#P" n="51"/>eccl. dog. cap. 20. libertatem arbitrii definit ipsam 
+      <lb ed="#P" n="52"/>rationalem voluntatem. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e203">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Probatur &amp; ratione. Nam secundum omnes recte. 
+      <lb ed="#P" n="54"/>philosophantes, in anima rationali duae tantum sunt 
+      <lb ed="#P" n="55"/>potentiae, re vel saltem ratione distinctae, 
+      intelle<lb ed="#P" n="56" break="no"/>ctus &amp; voluntas. Dico, re vel ratione distinctae; 
+      <lb ed="#P" n="57"/>nam utrum reipsa distinctae sint, a multis haud 
+      teme<lb ed="#P" n="58" break="no"/>re dubitatur; licet S. Thomas intellectum dividat 
+      <lb ed="#P" n="59"/>in agentem &amp; possibilem, velut distinctos 
+      rea<lb ed="#P" n="60" break="no"/>liter. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e225">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Cum ergo liberum arbitrium non sit eadem 
+      po<lb ed="#P" n="62" break="no"/>tentia cum intellectu, consequens est, ut eadem sit 
+      <lb ed="#P" n="63"/>cum voluntate. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e236">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Caeterum ita ratione differunt liberum arbitrium 
+      <lb ed="#P" n="65"/>&amp; voluntas, ut quoad objecta &amp; actiones latius 
+      pa<lb ed="#P" n="66" break="no"/>teat voluntas. Haec enim ad omnia quae volumus 
+      <lb ed="#P" n="67"/>extenditur, sive ea libere velimus, sive non. Nam 
+      <lb ed="#P" n="68"/>velle beatum esse, nolle miserum esse, 
+      volunta<lb ed="#P" n="69" break="no"/>tis quidem actiones sunt, at non liberi arbitrii; 
+      <!--0459.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="70"/>Unde quaecunque fiunt a libero arbitrio, eadem &amp; 
+      <lb ed="#P" n="71"/>a voluntate fiunt, sed non contra. Movetur enim 
+      <lb ed="#P" n="72"/>voluntas in finem naturaliter, in media vero libere; 
+      <lb ed="#P" n="73"/>unde in his locum habet liberum arbitrium, non 
+      au<lb ed="#P" n="74" break="no"/>tem in illo. Quomodo vero haec arbitrii libertas 
+      <lb ed="#P" n="75"/>etiam ad intellectum pertineat, neque ab eo 
+      de<lb ed="#P" n="76" break="no"/>pendeat, inferius explicabitur. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e273">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Nunc autem ut propria ratio libertatis arbitrii 
+      <lb ed="#P" n="78"/>cognoscatur, atque a caeteris modis quibus aliquid 
+      <lb ed="#P" n="79"/>liberum dicitur, haec arbitrii libertas discernatur, 
+      <lb ed="#P" n="80"/>distinguenda est multiplex libertas. Quaedam enim 
+      <lb ed="#P" n="81"/>opponitur servituti, quaedam coactioni, quaedam 
+      <lb ed="#P" n="82"/>naturali necessitati. Primo modo liberi non sunt 
+      <lb ed="#P" n="83"/>conditione servi; secundo modo liber non est qui 
+      <lb ed="#P" n="84"/>cogitur, scilicet in eo quod omnino coactus facit, 
+      <lb ed="#P" n="85"/>&amp; vim passus; tertio modo liber non est homo in 
+      <lb ed="#P" n="86"/>eo quod facit ex necessitate naturali, id est, ita ut 
+      <lb ed="#P" n="87"/>simpliciter non possit non facere, sive coacte id 
+      fa<lb ed="#P" n="88" break="no"/>ciat sive sponte. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e304">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Possent &amp; alii modi libertatis recenseri, ut 
+      liber<lb ed="#P" n="90" break="no"/>tas a peccato, a morte, a miseria, a diabolo: Item a 
+      <lb ed="#P" n="91"/>lege, a justitia. Quorumtomnium meminit 
+      scriptu<lb ed="#P" n="92" break="no"/>ra, ut Joan. 8. Rom. 6. 7. &amp; 8. 2. Petri 2. &amp; alibi. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e318">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Sed hi modi fere sunt metaphorici, &amp; ad 
+      mo<lb ed="#P" n="94" break="no"/>dum libertatis, quae est a servitute proprie dicta, 
+      fa<lb ed="#P" n="95" break="no"/>cile revocantur. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e329">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> Sciendum igitur libertatem arbitrii neque 
+      oppo<lb ed="#P" n="97" break="no"/>ni servituti, neque soli coactioni. Nam &amp; servi 
+      ho<lb ed="#P" n="98" break="no"/>mines non minus quam liberi eam. habent, 
+      praeser<lb ed="#P" n="99" break="no"/>tim cum Dei respectu omnes servi simus, &amp; hruta 
+      <lb ed="#P" n="100"/>animalia, quae in multis non coguntur, eam non 
+      <lb ed="#P" n="101"/>habent. Sed proprie &amp; praecise oppponitur naturali 
+      <lb ed="#P" n="102"/>necessitati. Dicitur enim voluntas libera, quae non 
+      <lb ed="#P" n="103"/>necessario vult aliquid, sed libere; sic nimirum ut in 
+      <lb ed="#P" n="104"/>ejus potestate sit hoc ipsum velle, &amp; non velle. Quod 
+      <lb ed="#P" n="105"/>quidem manifestum est brutis non competere, 
+      ut<lb ed="#P" n="106" break="no"/>pote quae ita suo appetitu feruntur in objecta 
+      sensi<lb ed="#P" n="107" break="no"/>bilia; eaque motu suo prosequuntur, ut in eorum 
+      <lb ed="#P" n="108"/>potestate non sit aliud agere, aut omnino id quod 
+      <lb ed="#P" n="109"/>agunt, non agere. Itaque in his sponte quidem agunt 
+      <lb ed="#P" n="110"/>non tamen libere. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e366">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Quod si coactioni solum, ut male quibusdam 
+      vi<lb ed="#P" n="112" break="no"/>sum est, opponeretur arbitrii libertas, non autem, 
+      <lb ed="#P" n="113"/>ut dictum est, naturali necessitati; nihil prohiberet 
+      <lb ed="#P" n="114"/>quo minus etiam in brutis, quoties non coacte, sed 
+      <lb ed="#P" n="115"/>sponte ad aliquid moventur, hujusmodi libertatem 
+      <lb ed="#P" n="116"/>agnosceremus. Quin etiam voluntas ipsa rationalis, 
+      <lb ed="#P" n="117"/>quamvis ejus sit naturae ut cogi non possit, ne 
+      qui<lb ed="#P" n="118" break="no"/>dem a Deo (sequitur enim contradictio si voluntas 
+      <lb ed="#P" n="119"/>cogi dicatur) non tamen in omni actione sua libera 
+      <lb ed="#P" n="120"/>est, ut paulo ante diximus. Ex quo perspicuum est, 
+      <lb ed="#P" n="121"/>non idem esse voluntatem agere libere, &amp; agere non 
+      <lb ed="#P" n="122"/>coacte. Quare non a coactione, quae in totum 
+      re<lb ed="#P" n="123" break="no"/>pugnat voluntati etiam non libere agenti, sed a 
+      ne<lb ed="#P" n="124" break="no"/>cessitate naturali liberum proprie dicitur voluntatis 
+      <lb ed="#P" n="125"/>arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e403">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Quae doctrina etiam ex eo ostenditur, quia per 
+      <lb ed="#P" n="127"/>hoc quod quis dicitur liberi arbitrii, tribuitur ei 
+      di<lb ed="#P" n="128" break="no"/>gnitas quaedam &amp; perfectio, quod videlicet 
+      domi<lb ed="#P" n="129" break="no"/>nium ac potestatem habeat suarum actionum, ut 
+      <lb ed="#P" n="130"/>eas &amp; facere possit &amp; omittere. Est enim proprium 
+      <lb ed="#P" n="131"/>dominantis naturae, nulia necessitate alligatum esse 
+      <lb ed="#P" n="132"/>ad res inferiores. Sicut ergo Deus libertatem habet 
+      <lb ed="#P" n="133"/>suarum actionum, velut creationis &amp; 
+      gubernatio<lb ed="#P" n="134" break="no"/>nis mundi, sanctificationis nostrae, electionis 
+      Pe<lb ed="#P" n="135" break="no"/>tri, &amp; caeterarum quaecunque ad extra tendunt, 
+      <lb ed="#P" n="136"/>&amp; proinde infra Deum sunt, quas omnes potuit 
+      po<lb ed="#P" n="137" break="no"/>testque facere &amp; omittere, quemadmodum 
+      osten<lb ed="#P" n="138" break="no"/>sum est libro primo, ubi de potentia &amp; voluntate 
+      <lb ed="#P" n="139"/>Dei agebatur; ita &amp; intellectualis creatura ex 
+      eoli<lb ed="#P" n="140" break="no"/>beri arbitrii esse demonstratur, quia circa res 
+      infe<lb ed="#P" n="141" break="no"/>riores sibique subjectas, quarum domina constituta 
+      <lb ed="#P" n="142"/>est, liberam potestatem habet agendi &amp; non 
+      a<lb ed="#P" n="143" break="no"/>gendi.
+    </p>
+            <p xml:id="bt67yj-p087510-d1e447">
+      <!--0460.xml-->
+               <pb ed="#P" n="227"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Atque hujus rei argumentum est, quoniam brutis, 
+      <lb ed="#P" n="2"/>animantibus ideo competere non potest aliquod 
+      <lb ed="#P" n="3"/>dominium, quia non habent liberum arbitrium. 
+      <lb ed="#P" n="4"/>Dico autem circa res inferiores; quia sicut Deus 
+      li<lb ed="#P" n="5" break="no"/>bertatem non habet ad seipsum ut non sit Deus, 
+      <lb ed="#P" n="6"/>vel ut non habeat filium &amp; caetera hujusmodi (
+      ta<lb ed="#P" n="7" break="no"/>lium enim libertas maximae esset imperfectionis; 
+      <lb ed="#P" n="8"/>ita nec homo circa ultimum finem a quo 
+      perficien<lb ed="#P" n="9" break="no"/>dus est, libertatem habet, sed naturalem necessita 
+      <lb ed="#P" n="10"/>tem. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e478">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> Haec probatio fundata est in scriptura, non 
+      tan<lb ed="#P" n="12" break="no"/>tum quatenus ea testatur homini in sua creatione 
+      <lb ed="#P" n="13"/>fuisse collatum dominium in alias creaturas, Genes. 
+      <lb ed="#P" n="14"/>1. verum in eo maxime quod homini diserte 
+      tri<lb ed="#P" n="15" break="no"/>buit dominium &amp; potestatem respectu suarum 
+      ac<lb ed="#P" n="16" break="no"/>tionum. Nam Gen. 4. ad Cain dicitur: Subter to 
+      <lb ed="#P" n="17"/>erit appetitus tuus, &amp; tu dominaberis illius, sive 
+      appe<lb ed="#P" n="18" break="no"/>titus, sive peccati. Et Apost. 1. Cor. 7. Non habens, 
+      <lb ed="#P" n="19"/>inquit, necessitatem, potestatem autem habens suae 
+      vo<lb ed="#P" n="20" break="no"/>luntatis. Et ad Titum 3. cap. Discant autem &amp; nostri 
+      <lb ed="#P" n="21"/>bonis operibus praeesse. Praeest enim suis operibus, qui 
+      <lb ed="#P" n="22"/>ea facit tanquam super ea dominium habens, ut 
+      <lb ed="#P" n="23"/>facere possit &amp; non facere; hoc autem hominum est 
+      <lb ed="#P" n="24"/>non bestiarum. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e514">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Alia probatio est exlibertate agendi, quae fuit in 
+      <lb ed="#P" n="26"/>primo homine ante peccatum. Quae plane talis erat 
+      <lb ed="#P" n="27"/>ut necessitatem agendi excluderet, quemadmodum 
+      <lb ed="#P" n="28"/>docent Basilius hom. 9. de eo quod Deus non est 
+      <lb ed="#P" n="29"/>author malorum, &amp; Augustinus libro 1. 
+      retractatio<lb ed="#P" n="30" break="no"/>num capite 15. ac saepe alibi, eademque ratio est de 
+      <lb ed="#P" n="31"/>libero arbitrio angelorum. Non est autem alia ratio 
+      <lb ed="#P" n="32"/>liberi arbitrii in primo homine &amp; in caeteris 
+      homi<lb ed="#P" n="33" break="no"/>nibus, neque alia in creatura humana &amp; 
+      ange<lb ed="#P" n="34" break="no"/>lica. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e540">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Rursum alia probatio ex eo, quia si libertas 
+      arbi<lb ed="#P" n="36" break="no"/>trii non excluderet necessitatem, non posset homo 
+      <lb ed="#P" n="37"/>peccare per liberum arbitrium: Nam, ut ait 
+      Augu<lb ed="#P" n="38" break="no"/>stinus libro 3. de libero arbitrio c. 1. nulla culpa 
+      inve<lb ed="#P" n="39" break="no"/>niri potest, ubi necessitas est. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e556">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Denique modum libertatis jam explicatum 
+      mul<lb ed="#P" n="41" break="no"/>tis locis asserit ipsa scriptura sacra, velut Deut. 30. 
+      <lb ed="#P" n="42"/>Proposui in conspectu tuo vitam &amp; bonum, &amp; e 
+      contra<lb ed="#P" n="43" break="no"/>rio mortem &amp; malum: Elige ergo vitam. Item 
+      Eccle<lb ed="#P" n="44" break="no"/>siastici 15. Deus reliquit hominem in manu consilii sui: 
+      <lb ed="#P" n="45"/>&amp; iterum: Ante hominem vita &amp; mors, bonum &amp; 
+      <lb ed="#P" n="46"/>malum, quod placuerit dabitur illi: &amp; cap. 31. Qui 
+      <lb ed="#P" n="47"/>potuit transgredi &amp; non est transgressus, facere mala 
+      <lb ed="#P" n="48"/>&amp; non fecit. Isa. 1. Si volueritis &amp; audieritis me, bona 
+      <lb ed="#P" n="49"/>terrae comedetis: Quod si nolueritis, &amp;c. Matth. 12. 
+      <lb ed="#P" n="50"/>Aut facite arborem bonam, &amp; fructum ejus bonum, 
+      <lb ed="#P" n="51"/>aut facite arborem malum, &amp;c. 2. Reg. 4. Trium. 
+      <lb ed="#P" n="52"/>tibi datur optio, quodcunque volueris elige. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e589">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Et alia innumera hujusmodi loca quae vel 
+      electio<lb ed="#P" n="54" break="no"/>nis, vel consilii, vel potestatis utrumlibet 
+      opposi<lb ed="#P" n="55" break="no"/>torum agendi meminerunt. Haec enim omnia clare 
+      <lb ed="#P" n="56"/>significant in eo sitam esse rationem liberi arbitrii: 
+      <lb ed="#P" n="57"/>quod agere possit &amp; non agere, nulla necessitate in 
+      <lb ed="#P" n="58"/>alteram partem inclinatum. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e607">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Est autem haec constans &amp; certa patrum 
+      senten<lb ed="#P" n="60" break="no"/>tia, atque imprimis Augustini, qui libro 3. de lib. 
+      <lb ed="#P" n="61"/>arb. cap. 1. &amp; sequentibus, totus in eo est ut 
+      osten<lb ed="#P" n="62" break="no"/>dat libertati arbitrii contrarii necessitatem, &amp; 
+      <lb ed="#P" n="63"/>hanc cum illa consistere non posse. Idem libr. 2. de 
+      <lb ed="#P" n="64"/>peccatorum meritis capite 18. liberi arbitrii 
+      ratio<lb ed="#P" n="65" break="no"/>nem in eo ponit, quod huc atque illuc, id est, ad 
+      <lb ed="#P" n="66"/>diversa libere flecti possit. Qua etiam phrasi utitur 
+      <lb ed="#P" n="67"/>libro 5. de libero arbitrio capite 1. Et ut alios 
+      omit<lb ed="#P" n="68" break="no"/>tamus; qui ut in asserendo libero arbitrio 
+      frequen<lb ed="#P" n="69" break="no"/>tissimi sunt, ita praedictum libertatis modum 
+      ubi<lb ed="#P" n="70" break="no"/>que ei tribuunt, velut Chrysostomus, Ambrosius, 
+      <lb ed="#P" n="71"/>Hieronymus ac caeteri; peculiariter &amp; ex professo 
+      <lb ed="#P" n="72"/>doctrinam hanc tradiderunt Anselmus libro de 
+      li<lb ed="#P" n="73" break="no"/>bero arbitrio, &amp; <name xml:id="bt67yj-p087510-Nd1e643">Bernardus</name> libro de gratia &amp; 
+      libe<lb ed="#P" n="74" break="no"/>ro arbitrio, &amp; sermone 181. in Cantica. Quibus 
+      <!--0460.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>accedit doctrina Magistri dist. 24. §. E. &amp; distinct. 
+      <lb ed="#P" n="76"/>25. fere per totam; Item <ref xml:id="bt67yj-p087510-Rd1e656">
+                  <name xml:id="bt67yj-p087510-Nd1e658">Hugonis</name> in summa 
+      sen<lb ed="#P" n="77" break="no"/>tentiarum tractatu 3. cap. 4.</ref> ac denique omnium 
+      <lb ed="#P" n="78"/>scholasticorum. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e667">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> Quae res magis adhuc fiet perspicua, si 
+      conside<lb ed="#P" n="80" break="no"/>rentur definitiones liberi arbitrii, tam a Patribus 
+      <lb ed="#P" n="81"/>quam a scholasticis traditae. Nam utique 
+      definitio<lb ed="#P" n="82" break="no"/>nis est propriam rei rationem explicare. Origenes 
+      <lb ed="#P" n="83"/>lib. 3. Periarchon cap. 1. liberum arbitrium definit. 
+      <lb ed="#P" n="84"/>facultatem discernendi bonum a malo, &amp; eligendi 
+      <lb ed="#P" n="85"/>quod probaverit. Theophilus Alexandrinus libro 2. 
+      <lb ed="#P" n="86"/>Paschali liberum arbitrium esse dicit, facultatem 
+      <lb ed="#P" n="87"/>operandi &amp; non operandi quod bonum est. 
+      Damas<lb ed="#P" n="88" break="no"/>cenus lib. de fide capite 25. dicit, liberum arbitrium 
+      <lb ed="#P" n="89"/>esse facultatem eligendi. Magister ac distinct. 24 
+      <lb ed="#P" n="90"/>definit liberum arbitrium esse facultatem rationis &amp; 
+      <lb ed="#P" n="91"/>voluntatis; qua bonum eligitur gratia assistente, 
+      <lb ed="#P" n="92"/>vel malum eadem desistente: Et addit, dici liberum 
+      <lb ed="#P" n="93"/>quantum ad voluntatem, quae ad utrumlibet flecti 
+      <lb ed="#P" n="94"/>potest. Iisdem pene verbis definitur ab Hugone 
+      <lb ed="#P" n="95"/>loco jam indicato: imo eam definitionem 
+      Bona<lb ed="#P" n="96" break="no"/>ventura Augustino tribuit non male. Quamvis enim 
+      <lb ed="#P" n="97"/>totidem verbis expressa apud Augustinum non 
+      re<lb ed="#P" n="98" break="no"/>periatur, sumpta tamen est ex ejus dictis; ac 
+      potis<lb ed="#P" n="99" break="no"/>simum ex eo quod Enchir. cap. 106. dicit, liberum 
+      <lb ed="#P" n="100"/>arbitrium per se posse malum eligere, bonum 
+      au<lb ed="#P" n="101" break="no"/>tem non posse, nisi adjuvante gratia. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e723">
+               <lb ed="#P" n="102"/>S. Thomas 1. p. q. 83. art. 4. dicit liberum 
+      arbi<lb ed="#P" n="103" break="no"/>trium non aliud esse quam vim electivam. Quae 
+      qui<lb ed="#P" n="104" break="no"/>dem definitio ut brevissima, ita &amp; optima est; 
+      sum<lb ed="#P" n="105" break="no"/>pta nimirum a proprio actu liberi arbitrii, qui est 
+      <lb ed="#P" n="106"/>eligere, id est, unum prae alio, cum utrumlibet 
+      <lb ed="#P" n="107"/>possit acceptare; aut certe unum idemque pro 
+      ar<lb ed="#P" n="108" break="no"/>bitrio acceptare, vel non acceptare. Nam duobus 
+      <lb ed="#P" n="109"/>modis fieri potest electio. Aut enim fit eligendo 
+      <lb ed="#P" n="110"/>unum ex duobus pluribusve propositis, quam 
+      vo<lb ed="#P" n="111" break="no"/>cant libertatem contrarietatis, alii specificationis, 
+      <lb ed="#P" n="112"/>aut unum aliquod, quod solum proponitur, 
+      acce<lb ed="#P" n="113" break="no"/>ptando vel non acceptando, quae vocatur libertas 
+      <lb ed="#P" n="114"/>contradictionis, ab aliis exercitii. Quod autem 
+      <lb ed="#P" n="115"/>electio proprius sit actus liberi arbitrii docet idem 
+      <lb ed="#P" n="116"/>S. Thomas ar. 3. &amp; 4. dictae quaestionis &amp; p. 3. q. 
+      <lb ed="#P" n="117"/>18. art. 4. Cum dictis definitionibus conveniunt &amp; 
+      <lb ed="#P" n="118"/>aliae quae passim apud authores leguntur. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e762">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Est autem diligenter observandum, non esse de 
+      <lb ed="#P" n="120"/>ratione liberi arbitrii ut habeat contrarietatis 
+      liber<lb ed="#P" n="121" break="no"/>tatem, velut inter bonum &amp; malum. Nam, ut infra 
+      <lb ed="#P" n="122"/>docebimus, posse peccare, id est malum eligere, 
+      <lb ed="#P" n="123"/>nequaquam est de ratione liberi arbitrii. Sic enim 
+      <lb ed="#P" n="124"/>Deus &amp; beati non haberent liberum arbitrium. Sed 
+      <lb ed="#P" n="125"/>de ratione ejus est libertas contradictionis, id est, 
+      <lb ed="#P" n="126"/>ut possit agere &amp; non agere. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e784">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> Ut autem intelligamus quam necessario tenenda 
+      <lb ed="#P" n="128"/>sit haec doctrina, qua dicimus ad liberi arbitrii 
+      pro<lb ed="#P" n="129" break="no"/>priam rationem pertinere, ut sit liberum a 
+      necessi<lb ed="#P" n="130" break="no"/>tate naturali, nec sufficere quod sit liberum a 
+      coactio<lb ed="#P" n="131" break="no"/>ne; notandum est quod habetur in concilio Trid. 
+      <lb ed="#P" n="132"/>sess. 6. cap. 5. Ibi enim dicitur hominem libere 
+      con<lb ed="#P" n="133" break="no"/>sentire divinae inspirationi, quippe qui illam &amp; 
+      ab<lb ed="#P" n="134" break="no"/>jicere queat. Et can. 4. liberum arbitrium Deo 
+      ex<lb ed="#P" n="135" break="no"/>citanti &amp; vocanti posse consentire &amp; dissentire. 
+    </p>
+            <p xml:id="bt67yj-p087510-d1e808">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Quare non immerito S. Thom. in disputatis qua 
+      <lb ed="#P" n="137"/>6. de malo, art. unico affirmat haeresim esse non 
+      <lb ed="#P" n="138"/>solum apud Theologos, sed etiam apud 
+      Philoso<lb ed="#P" n="139" break="no"/>phos, dicere quod ad liberam electionem non 
+      requi<lb ed="#P" n="140" break="no"/>ritur libertas a necessitate, sed sufficit libertas a 
+      <lb ed="#P" n="141"/>coactione. Patet etiam jure damnatas esse 
+      hujus<lb ed="#P" n="142" break="no"/>modi propositiones, &amp; si quae sunt similes: Sola 
+      vio<lb ed="#P" n="143" break="no"/>lentia repugnat libertati hominis naturali: Et, Quod 
+      <lb ed="#P" n="144"/>voluntarie fit, etiamsi necessario fiat, libere tamen 
+      <lb ed="#P" n="145"/>fit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

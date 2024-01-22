@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="279"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p108641"><!-- l2d26c5" -->
+            <head xml:id="bt67yj-p108641-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p108641-Hd1e103" type="question-title">Respondetur ad argumenta diversa 
+      opinionis</head>
+            <p xml:id="bt67yj-p108641-d1e106">
+               <lb ed="#P" n="113"/>§. 5. Respondetur ad argumenta diversa 
+      <lb ed="#P" n="114"/>opinionis.
+    </p>
+            <p xml:id="bt67yj-p108641-d1e113">
+               <lb ed="#P" n="115"/>QUi gratiam a charitate re distinguunt, his fere 
+      <lb ed="#P" n="116"/>nituntur argumentis, quae a nobis ordine 
+      dis<lb ed="#P" n="117" break="no"/>solvenda sunt. Primum ex ratione: Operatio &amp; 
+      vir<lb ed="#P" n="118" break="no"/>tus operativa cujusque rei praesupponit esse rei; &amp; si 
+      <lb ed="#P" n="119"/>sit operatio &amp; virtus naturalis seu naturaliter 
+      acqui<lb ed="#P" n="120" break="no"/>sita, praesupponit esse naturale; ergo similiter 
+      ope<lb ed="#P" n="121" break="no"/>ratio ac virtus supernaturalis praesupponit esse 
+      quod<lb ed="#P" n="122" break="no"/>dam supernaturale; charitas autem virtus est 
+      super<lb ed="#P" n="123" break="no"/>naturalis; ergo praesupponit gratiam tanquam 
+      tri<lb ed="#P" n="124" break="no"/>buentem homini esse supernaturale. Quare 
+      neces<lb ed="#P" n="125" break="no"/>se est hanc ab illa realiter distingui, quomodo 
+      na<lb ed="#P" n="126" break="no"/>tura distinguitur a virtute naturali naturam 
+      praesup<lb ed="#P" n="127" break="no"/>ponente. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e144">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Secundum: In naturalibus praeter virtutes 
+      acqui<lb ed="#P" n="129" break="no"/>sitas est naturale lumen rationis, ex quo virtutes 
+      il<lb ed="#P" n="130" break="no"/>lae derivantur; ergo &amp; in supernaturalibus praeter 
+      <lb ed="#P" n="131"/>virtutes infusas agnoscere oportet lumen gratiae, ex 
+      <lb ed="#P" n="132"/>quo procedant ejusdem ordinis virtutes. Hae duae 
+      ra<lb ed="#P" n="133" break="no"/>tiones sunt S. Thomae. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e163">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Tertium: Diversi sunt effectus formales gratiae &amp; 
+      <lb ed="#P" n="135"/>charitatis, adeo ut etiam ab invicem separari 
+      pos<lb ed="#P" n="136" break="no"/>sint; nam effectus formalis gratiae est esse gratum ac 
+      <lb ed="#P" n="137"/>dilectum; charitatis autem, esse diligentem; 
+      fieri<lb ed="#P" n="138" break="no"/>que potest, ut quis diligat, &amp; non diligat; &amp; 
+      con<lb ed="#P" n="139" break="no"/>tra, ut quis diligat, nec tamen diligatur; praesertim 
+      <lb ed="#P" n="140"/>ad illud bonum ad quod per gratiam homo sit 
+      accep<lb ed="#P" n="141" break="no"/>tus Deo, id est ad vitam aeternam. Igitur &amp; causas 
+      <lb ed="#P" n="142"/>ipsas formales, gratiam &amp; charitatem, diversas esse 
+      <lb ed="#P" n="143"/>oportet. Hanc rationem Bartholomaeus Medina 
+      pu<lb ed="#P" n="144" break="no"/>tat efficacem esse demonstrationem. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e192">
+               <lb ed="#P" n="145"/>Quartum, ex scriptura: Dicit enim Joan. 1. epist. 
+      <!--0513.xml-->
+      <pb ed="#P" n="280"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cap. 4. Non quasi nos dilexerimus Deum, sed quia A 
+      <lb ed="#P" n="2"/>ipse dilexit nos, scilicet prius quam nos eum 
+      diligere<lb ed="#P" n="3" break="no"/>mus; ergo gratia qua sumus dilecti &amp; amabiles Deo, 
+      <lb ed="#P" n="4"/>prior est charitate, qua nos Deum diligimus, &amp; 
+      pro<lb ed="#P" n="5" break="no"/>inde realiter ab ea distinguitur. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e214">
+               <lb ed="#P" n="6"/>
+               <pc type="indent"/> Quintum; Secundum scripturam prius est dari 
+      <lb ed="#P" n="7"/>nobis spiritum sanctum, quam dari nobis 
+      chari<lb ed="#P" n="8" break="no"/>tatem caeterasque virtutes. Dicit enim apostolus 
+      <lb ed="#P" n="9"/>Roman. 6. charitatem diffundi in cordibus nostris 
+      <lb ed="#P" n="10"/>per spiritum sanctum qui datus est nobis, &amp; Gal. 5. 
+      <lb ed="#P" n="11"/>Fructus spiritus, inquit, est chaeritas, gaudium, pax, 
+      <lb ed="#P" n="12"/>patientia, &amp;c. Datur autem spiritus eo ipso quo 
+      da<lb ed="#P" n="13" break="no"/>tur giatia: Prius est ergo dari nobis gratiam, quam 
+      <lb ed="#P" n="14"/>charitatem, quod fieri non posset, nisi re 
+      distingue<lb ed="#P" n="15" break="no"/>rentur. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e240">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Sextum; ex Dionysio qui libro de Ecclesiastica 
+      <lb ed="#P" n="17"/>Hierarchia cap. 2. parte 1. dicit, hominem non 
+      pos<lb ed="#P" n="18" break="no"/>se operari divina, nisi prius adeptus fuerit esse 
+      divi<lb ed="#P" n="19" break="no"/>num, sicut humana opera non potest operari, qui 
+      <lb ed="#P" n="20"/>non prius adeptus fuerit esse humanum. Igitur ex 
+      <lb ed="#P" n="21"/>sententia Dionysii, sicut in humanis &amp; naturalibus 
+      <lb ed="#P" n="22"/>prius est esse quam operari, vel etiam virtutem 
+      ha<lb ed="#P" n="23" break="no"/>bere operandi; ita &amp; in divinis, id est, 
+      supernatu<lb ed="#P" n="24" break="no"/>ralibus, res sese habet; esse autem supernaturale non 
+      <lb ed="#P" n="25"/>aliter habetur quam per gratiam. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e266">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Septimum; ex Augustino qui libro de dono 
+      per<lb ed="#P" n="27" break="no"/>severantiae cap. 14. manifeste gratiam a charitate 
+      di<lb ed="#P" n="28" break="no"/>stinguit; dum dicit quod gratia praevenit 
+      charita<lb ed="#P" n="29" break="no"/>tem. Hoc enim argumento S. Thomas utitur. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e279">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Octavum; ex concilio Viennensi quod definivit, 
+      <lb ed="#P" n="31"/>in baptismo tam parvulis quam adultis conferri 
+      gra<lb ed="#P" n="32" break="no"/>tiam informantem, &amp; virtutes. Ex qua definitione 
+      <lb ed="#P" n="33"/>satis apparet, concilium voluisse distinguere inter 
+      <lb ed="#P" n="34"/>gratiam habitualem, quam informantem vocat, &amp; 
+      <lb ed="#P" n="35"/>virtutes. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e298">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Postremum; ex concilio Tridentino, quod sess. 
+      <lb ed="#P" n="37"/>6. capite 7. tradit justificationem esse 
+      renovatio<lb ed="#P" n="38" break="no"/>nem hominis interioris per voluntariam 
+      susceptio<lb ed="#P" n="39" break="no"/>nem gratiae &amp; donorum. Et can. 11. anathema dicit 
+      <lb ed="#P" n="40"/>iis, qui docent hominem justificari vel sola 
+      impu<lb ed="#P" n="41" break="no"/>tatione justitiae Christi, vel sola peccatorum 
+      re<lb ed="#P" n="42" break="no"/>missione, exclusa gratia &amp; charitate. Quibus 
+      lo<lb ed="#P" n="43" break="no"/>cis similiter hoc concilium distincte nominando 
+      <lb ed="#P" n="44"/>gratiam &amp; dona, ac rursus gratiam &amp; charitatem, 
+      <lb ed="#P" n="45"/>videtur eam a donis, id est, infusis virtutibus, 
+      a<lb ed="#P" n="46" break="no"/>deóque ab ipsa charitate simpliciter voluisse 
+      distin<lb ed="#P" n="47" break="no"/>guere. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e329">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Ad haec argumenta sic respondemus. Ad 
+      pri<lb ed="#P" n="49" break="no"/>mum, omnis quidem operatio &amp; virtus 
+      operati<lb ed="#P" n="50" break="no"/>va praesupponit esse rei; non tamen, si 
+      supernatu<lb ed="#P" n="51" break="no"/>ralis sit operatio vel virtus, necesse est ipsum esse 
+      <lb ed="#P" n="52"/>quod praesupponitur, esse supernaturale. Nam 
+      u<lb ed="#P" n="53" break="no"/>num idemque esse quod est esse naturale, seu rei 
+      <lb ed="#P" n="54"/>substantia, sufficit ut supponatur quibuscunque 
+      <lb ed="#P" n="55"/>potentiis, habitibus, actionibus ejusdem rei, sive 
+      <lb ed="#P" n="56"/>naturalibus sive supernaturalibus. Quamvis enim 
+      <lb ed="#P" n="57"/>virtutes &amp; actiones supernaturales ex natura non 
+      <lb ed="#P" n="58"/>profluant; &amp; proinde natura non sit dicenda 
+      ea<lb ed="#P" n="59" break="no"/>rum principium in genere causae efficientis, habet 
+      <lb ed="#P" n="60"/>tamen natura ad eas potentiam quam vocat 
+      obe<lb ed="#P" n="61" break="no"/>dientialem; quia nimirum Deus naturam talibus 
+      <lb ed="#P" n="62"/>ornamentis supernaturalem conditionem 
+      honesta<lb ed="#P" n="63" break="no"/>re &amp; evehere potest. Unde non est necesse hic 
+      quae<lb ed="#P" n="64" break="no"/>rere aliquod esse supernaturale, diversum a virture 
+      <lb ed="#P" n="65"/>supernaturali. Sicut enim albedo dat esse album, 
+      <lb ed="#P" n="66"/>quod est esse quoddam accidentarium, ita 
+      virtu<lb ed="#P" n="67" break="no"/>tes divinae &amp; supernaturales dant esse divinum &amp; 
+      su<lb ed="#P" n="68" break="no"/>pernaturale, quod similiter non est nisi esse 
+      quod<lb ed="#P" n="69" break="no"/>dam accidentarium. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e381">
+               <lb ed="#P" n="70"/>
+               <pc type="indent"/> Ad secundum respondetur, si gratia est ut 
+      lu<lb ed="#P" n="71" break="no"/>men supernaturale; ergo non ut essentia, quia 
+      <lb ed="#P" n="72"/>lumen rationis superadditur naturae. Dicendum 
+      <lb ed="#P" n="73"/>itaque, lumini naturali rationis ex quo 
+      derivan<lb ed="#P" n="74" break="no"/>tur virtutes acquisitae, respondere in supernatu¬ 
+      <!--0513.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>ralibus hac vita durante lumen fidei. Ex ea enim 
+      <lb ed="#P" n="76"/>spes &amp; charitas suo modo derivantur, 
+      ejusdem<lb ed="#P" n="77" break="no"/>que directione morales virtutes ad finem 
+      super<lb ed="#P" n="78" break="no"/>naturalem ordinantur. In futura autem vita 
+      res<lb ed="#P" n="79" break="no"/>pondet lumen gloriae. Nec satis apte gratia 
+      poni<lb ed="#P" n="80" break="no"/>tur esse lumen supernaturale. Nam gratiae 
+      vocabu<lb ed="#P" n="81" break="no"/>lum, non sonat lumen seu cognitivum 
+      princi<lb ed="#P" n="82" break="no"/>pium, sed acceptationem &amp; dilectionem 
+      passi<lb ed="#P" n="83" break="no"/>vam. Quae res a luminis significatione multum 
+      re<lb ed="#P" n="84" break="no"/>mota est. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e423">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Tertium argumentum solummodo convincit 
+      ra<lb ed="#P" n="86" break="no"/>tionis diversitatem inter gratiam &amp; charitatem. Hi 
+      <lb ed="#P" n="87"/>enim effectus, esse dilectum &amp; esse diligentem, ab 
+      <lb ed="#P" n="88"/>una &amp; eadem qualitate seu forma diversimode 
+      con<lb ed="#P" n="89" break="no"/>siderata existere possunt. Una enim charitas, 
+      qua<lb ed="#P" n="90" break="no"/>tenus est virtus operativa, reddit hominem 
+      habi<lb ed="#P" n="91" break="no"/>lem ad opus, scilicet dilectionis, &amp; proinde 
+      for<lb ed="#P" n="92" break="no"/>maliter facit diligentem in habitu; quatenus autem 
+      <lb ed="#P" n="93"/>est forma quaedam pulcherrima animae inhaerens, 
+      <lb ed="#P" n="94"/>reddit animam formaliter formosam, eaque 
+      ra<lb ed="#P" n="95" break="no"/>tione Deo gratam &amp; dilectam; ut non sit necesse 
+      <lb ed="#P" n="96"/>propter hoc ponere qualitatem aliquam re 
+      distin<lb ed="#P" n="97" break="no"/>ctam a charitate, per quam formaliter sit homo 
+      <lb ed="#P" n="98"/>Deo gratus. Ad confirmationem quoque 
+      respon<lb ed="#P" n="99" break="no"/>detur, fieri quidem posse ut quis diligatur &amp; non 
+      <lb ed="#P" n="100"/>diligat, quomodo Deus nos non diligentes, ab 
+      ae<lb ed="#P" n="101" break="no"/>terno dilexit, ad hoc ut aliquando eum 
+      diligere<lb ed="#P" n="102" break="no"/>mus. Verum ea dilectione qua nos gratos habet &amp; 
+      <lb ed="#P" n="103"/>receptos ad vitam aeternam, non diligit nisi 
+      dili<lb ed="#P" n="104" break="no"/>gentes; quia nimirum dilectionis ejus qua sic 
+      dili<lb ed="#P" n="105" break="no"/>git, fundamentum est dilectio nostra qua eum 
+      dili<lb ed="#P" n="106" break="no"/>gimus, id est, charitas diffusa in cordibus nostris per 
+      <lb ed="#P" n="107"/>spiritum sanctum. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e478">
+               <lb ed="#P" n="108"/>
+               <pc type="indent"/> Hinc etiam ad quartum patet responsio, Deus 
+      <lb ed="#P" n="109"/>enim prius, imo ab aeterno dilexit nos ad hoc ut 
+      <lb ed="#P" n="110"/>ipsum in tempore diligeremus. Sed illa Dei dilectio 
+      <lb ed="#P" n="111"/>ante hunc nostrae dilectionis effectum nihil in 
+      no<lb ed="#P" n="112" break="no"/>bis ponebat, sicut nec electio &amp; praedestinatio 
+      ae<lb ed="#P" n="113" break="no"/>terna. Quare inde nullo modo sequitur, gratiam 
+      <lb ed="#P" n="114"/>nobis inhaerentem esse priorem aut diversam a 
+      cha<lb ed="#P" n="115" break="no"/>ritate qua nos Deum diligimus. Sequeretur enim 
+      <lb ed="#P" n="116"/>gratiam in nobis fuisse ab aeterno. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e502">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Ad quintum respondeo, cum dicitur charitas 
+      <lb ed="#P" n="118"/>in cordibus nostris diffundi per spiritum sanctum 
+      <lb ed="#P" n="119"/>nobis datum, cumque eadem charitas vocatur 
+      <lb ed="#P" n="120"/>fructus spiritus sancti, non significari, quod detur 
+      <lb ed="#P" n="121"/>nobis aliquod donum spiritus sancti, ex quo 
+      dein<lb ed="#P" n="122" break="no"/>de procedat in nobis charitas, qui intellectus 
+      <lb ed="#P" n="123"/>sine dubio falsus est. Sed significatur, dari 
+      no<lb ed="#P" n="124" break="no"/>bis ipsum spiritum sanctum, qui est donum 
+      in<lb ed="#P" n="125" break="no"/>creatum, cujus primarius ac principalis effectus 
+      <lb ed="#P" n="126"/>in nobis sit charitas. Quare non hic aliquis ordo 
+      <lb ed="#P" n="127"/>donorum nobis inhaerentium ponitur, sed eo ipso 
+      <lb ed="#P" n="128"/>quo datus est nobis spiritus sanctus, charitas Dei 
+      <lb ed="#P" n="129"/>diffusa dicitur in cordibus nostris. Nam utrumque 
+      <lb ed="#P" n="130"/>praeteritum, diffusa est, &amp; datus est, ad idem 
+      in<lb ed="#P" n="131" break="no"/>stans temporis &amp; naturae referendum est. Quamvis 
+      <lb ed="#P" n="132"/>enim prior est suis donis spiritus sanctus, non 
+      ta<lb ed="#P" n="133" break="no"/>men prius datur. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e545">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Ad sextum respondetur; Dionysium per esse 
+      divi<lb ed="#P" n="135" break="no"/>num non intelligere aliquod esse praesuppositum 
+      <lb ed="#P" n="136"/>virtutibus supernaturalibus, sed operationibus, ut 
+      <lb ed="#P" n="137"/>ex ejus verbis est manifestum. Itaque illud esse 
+      divi<lb ed="#P" n="138" break="no"/>num sine quo non potest homo operaridivina, cum 
+      <lb ed="#P" n="139"/>non sit esse substantiale sed accidentarium 
+      dumta<lb ed="#P" n="140" break="no"/>xat, non aliud esse putandum est, quam quod 
+      habe<lb ed="#P" n="141" break="no"/>tur formaliter per charitatem caeterasque virtutes 
+      <lb ed="#P" n="142"/>supernaturales. Per eas enim fit homo divinae 
+      con<lb ed="#P" n="143" break="no"/>sors naturae, ut secundum Dionysium, divina &amp; 
+      su<lb ed="#P" n="144" break="no"/>pernaturalia operetur. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e574">
+               <lb ed="#P" n="145"/>
+               <pc type="indent"/> Ad septimum facilis est responsio. Nam gratia 
+      <lb ed="#P" n="146"/>quae, secundum Augustinum, praevenit charitatem, 
+      <lb ed="#P" n="147"/>non est gratia habitualis, sed ea quae secundum 
+      eun<lb ed="#P" n="148" break="no"/>dem praevenit omnia nostra bona opera, id est, 
+      <!--0514.xml-->
+      <pb ed="#P" n="281"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>benevolentia Dei, quae non aliud est quam ipse 
+      <lb ed="#P" n="2"/>Deus quatenus haec omnia nobis gratuito largitur, 
+      <lb ed="#P" n="3"/>ut ad initium hujus distinct. ostendebamus. Hoc 
+      <lb ed="#P" n="4"/>igitur modo etiam vere dicere possimus quod 
+      gra<lb ed="#P" n="5" break="no"/>tia praevenit gratiam, id est, benevolentia Dei 
+      gra<lb ed="#P" n="6" break="no"/>tiam nobis inhaerentem; scilicet ut causa suum 
+      ef<lb ed="#P" n="7" break="no"/>fectum. Et eodem sensu charitas praevenit 
+      charita<lb ed="#P" n="8" break="no"/>tem; nimirum charitas qua Deus nos diligit, 
+      cha<lb ed="#P" n="9" break="no"/>ritatem qua nos eum vicissim diligimus. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e613">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Ad octavum respondeo, ex concilio Viennensi 
+      <lb ed="#P" n="11"/>non posse colligi nisi distinctionem aliquam 
+      ratio<lb ed="#P" n="12" break="no"/>nis inter gratiam &amp; virtutes. 
+    </p>
+            <p xml:id="bt67yj-p108641-d1e624">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Quae eadem responsio est ad postremum 
+      argumen<lb ed="#P" n="14" break="no"/>tum ex concilio Tridentino. Nam hujus concilii 
+      <lb ed="#P" n="15"/>patres data opera sic sua verba temperarunt, ut non 
+      <lb ed="#P" n="16"/>viderentur quaestionem inter Catholicos 
+      controver<lb ed="#P" n="17" break="no"/>sam &amp; utrimque probabilem in alterutram partem 
+      <lb ed="#P" n="18"/>definivisse videlicet contenti id solum definire, quod 
+      <lb ed="#P" n="19"/>ab haereticis contra totius ecclesiae consensum 
+      ne<lb ed="#P" n="20" break="no"/>gabatur, tametsi, uti superius demonstravimus, 
+      vi<lb ed="#P" n="21" break="no"/>dentur iidem patres in eandem sententiam fuisse 
+      <lb ed="#P" n="22"/>propensiores, quae gratiam a charitate sola ratione 
+      <lb ed="#P" n="23"/>distinguit. Id quod etiam apparet attentius 
+      consi<lb ed="#P" n="24" break="no"/>deranti verba canonis 11. Cum enim nominassent 
+      <lb ed="#P" n="25"/>patres gratiam &amp; charitatem, ne quis propterea 
+      exi<lb ed="#P" n="26" break="no"/>stimaret mentem concilii esse, quod gratia &amp; 
+      chari<lb ed="#P" n="27" break="no"/>tas sint duo distincta dona; provide subjecerunt 
+      <lb ed="#P" n="28"/>unum &amp; alterum verbum singularis numeri, 
+      vide<lb ed="#P" n="29" break="no"/>licet ad insinuandum aut debere, aut posse 
+      percom<lb ed="#P" n="30" break="no"/>mode duo praemissa vocabula de uno &amp; eodem 
+      do<lb ed="#P" n="31" break="no"/>no intelligi. Sequitur enim: quae in cordibus eorum 
+      <lb ed="#P" n="32"/>per spiritum sanctum diffundatur, atque illis 
+      inhae<lb ed="#P" n="33" break="no"/>reat, cum alioqui, si distincta dona vellent 
+      intelli<lb ed="#P" n="34" break="no"/>gi, potius dixissent plurali numero, diffundantur 
+      at<lb ed="#P" n="35" break="no"/>que inhaereant. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

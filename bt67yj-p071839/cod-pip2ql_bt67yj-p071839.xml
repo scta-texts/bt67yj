@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="186"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p071839"><!-- l2d21c8" -->
+            <head xml:id="bt67yj-p071839-Hd1e101">Capitulum 8</head>
+            <head xml:id="bt67yj-p071839-Hd1e103" type="question-title">Varii modi ac gradus tentationis explicantur</head>
+            <p xml:id="bt67yj-p071839-d1e106">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> §. 8. Varii modi ac gradus tentationis explicantur. 
+    </p>
+            <p xml:id="bt67yj-p071839-d1e113">
+               <lb ed="#P" n="94"/>OCcasione ejus tentationis qua primos parentes 
+      <lb ed="#P" n="95"/>ad peccandum sollicitavit diabolus, generaliter 
+      <lb ed="#P" n="96"/>hic aliquid dicendum de variis modis tentationis, 
+      de<lb ed="#P" n="97" break="no"/>que gradibus quibus ea perfici solet, nomine 
+      tenta<lb ed="#P" n="98" break="no"/>tionis intelligendo sollicitationem ad peccandum. 
+      <lb ed="#P" n="99"/>Modi seu causae tentationis multiplices sunt, quarum 
+      <lb ed="#P" n="100"/>aliquot enumerat Augustinus in explicatione Psalm. 
+      <lb ed="#P" n="101"/>106. Imo cum omnis tentatio de qua nunc 
+      loqui<lb ed="#P" n="102" break="no"/>mur, persecutio quaedam sit saluti animae intentata, 
+      <lb ed="#P" n="103"/>quot sunt genera hujusmodi persecutionis, tot sunt 
+      <lb ed="#P" n="104"/>&amp; tentationis. Unde quod dicit S. Job. Militia est 
+      <lb ed="#P" n="105"/>vita hominis super terram. 750. pro militia 
+      tentatio<lb ed="#P" n="106" break="no"/>nem scripserunt. 
+    </p>
+            <p xml:id="bt67yj-p071839-d1e144">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Verum omnis illa multiplicitas ad hanc 
+      genera<lb ed="#P" n="108" break="no"/>lem divisionem revocari potest, qua a Magistro §. 
+      <lb ed="#P" n="109"/>E. post. Greg. hom. 16. in Evangelia, tentatio in 
+      in<lb ed="#P" n="110" break="no"/>teriorem &amp; exteriorem dividitur. Sub qua 
+      compre<lb ed="#P" n="111" break="no"/>henditur &amp; illa vulgata divisio in eam quae a mundo 
+      <lb ed="#P" n="112"/>est, &amp; a carne, &amp; a diabolo. Harum enim prima 
+      <lb ed="#P" n="113"/>exterior est, secunda interior, tertia aliquando 
+      ex<lb ed="#P" n="114" break="no"/>terior, ut ea qua Christus &amp; primi homines tentati 
+      <lb ed="#P" n="115"/>sunt, aliquando interior, ut ea qua nos a diabolo 
+      <lb ed="#P" n="116"/>tentamur. 
+    </p>
+            <p xml:id="bt67yj-p071839-d1e171">
+               <lb ed="#P" n="117"/>
+               <pc type="indent"/> Sciendum autem quod tentatio a mundo, ut 
+      di<lb ed="#P" n="118" break="no"/>stinguitur ab ea quae est a carne, id est, a 
+      concupis<lb ed="#P" n="119" break="no"/>centia, sit ea sola, qua quis tentatur a malis 
+      homi<lb ed="#P" n="120" break="no"/>nibus suadendo, blandiendo, incitando, cogendo, 
+      <lb ed="#P" n="121"/>terrendo, inducentibus sive impellentibus ad 
+      pecca<lb ed="#P" n="122" break="no"/>tum: Nam tentationes quae sunt ab aliis rebus quae 
+      <lb ed="#P" n="123"/>vel male concupiscuntur, vel male timentur, ut sunt 
+      <lb ed="#P" n="124"/>aurum &amp; argentum, cibus &amp; potus, forma 
+      mulie<lb ed="#P" n="125" break="no"/>ris, mors, fames, paupertas: item inclinationes quae 
+      <lb ed="#P" n="126"/>dicuntur esse ab astris, a vino &amp; sicera, atque aliis 
+      <lb ed="#P" n="127"/>corpus humanum sic immutantibus, ut propensus 
+      <lb ed="#P" n="128"/>fiat homo ad certa quaedam peccata aut vitia, 
+      reve<lb ed="#P" n="129" break="no"/>ra sunt tentationes carnis. Neque enim putandum 
+      <lb ed="#P" n="130"/>est Dei creaturas, in quibus nihil est quod Deus non 
+      <lb ed="#P" n="131"/>fecerit, nos sollicitare aut inclinare ad malum. Sic 
+      <lb ed="#P" n="132"/>enim ipse Deus tentator esset ad malum, contra 
+      il<lb ed="#P" n="133" break="no"/>lud Jacobi c. 1. Nemo cum tentatur dicat, quoniam a 
+      <lb ed="#P" n="134"/>Deo tentatur. Deus enim intentator malorum est; ipse 
+      <lb ed="#P" n="135"/>autem neminem tentat. Sed omnis illa tentatio 
+      prove<lb ed="#P" n="136" break="no"/>nit a fomite peccati qui est in homine, quique 
+      occa<lb ed="#P" n="137" break="no"/>sione a rebus per se bonis accepta excitatus 
+      conci<lb ed="#P" n="138" break="no"/>pit prava desideria. De quo consequenter ibidem 
+      <lb ed="#P" n="139"/>Jacobus: Unusquisque vero tentatur a concupiscentia 
+      <lb ed="#P" n="140"/>sua abstractus &amp; illectus. 
+    </p>
+            <p xml:id="bt67yj-p071839-d1e228">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Jam quod ad gradus quibus tentatio perficitur, 
+      <lb ed="#P" n="142"/>attinet, docet Gregorius hom. 16. in evang. tribus 
+      <lb ed="#P" n="143"/>eam perfici, suggestione, delectatione, &amp; consensu. 
+      <lb ed="#P" n="144"/>Quod ipsum ante Greg. Augustinus tradidit libro 
+      <lb ed="#P" n="145"/>2. de Gen. contra Manichaeos cap. 14. lib. 1. de ser¬ 
+      <!--0420.xml-->
+      <pb ed="#P" n="187"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>mone Domini in monte ad illud: Qui viderit 
+      mu<lb ed="#P" n="2" break="no"/>lierem ad concupiscendum, &amp;c. &amp; serm. 44. de verbis 
+      <lb ed="#P" n="3"/>Domini. Et post utrumque Beda scribens in Jacobi 1. 
+      <lb ed="#P" n="4"/>ad illud: Concupiscentia cum conceperit, &amp;c. Quamvis 
+      <lb ed="#P" n="5"/>apostolus eo loco suggestionis non meminerit, sed 
+      <lb ed="#P" n="6"/>magis videatur hos gradus tentationis facere, 
+      pri<lb ed="#P" n="7" break="no"/>mum concupiscentiae motum qui non est peccatum, 
+      <lb ed="#P" n="8"/>cum dicit: Unusquisque vero tentatur, &amp;c. 
+      secun<lb ed="#P" n="9" break="no"/>dum motum quo jam commovetur atque illicitur 
+      <lb ed="#P" n="10"/>voluntas, qui proinde non est sine peccato, cum 
+      <lb ed="#P" n="11"/>dicit: Deinde concupiscentia cum conceperit, parit 
+      <lb ed="#P" n="12"/>peccatum. Consensum voluntatis deliberatum quo 
+      <lb ed="#P" n="13"/>jam peccatur mortaliter, cum dicit: Peccatum vero 
+      <lb ed="#P" n="14"/>cum consummatum fuerit, generat mortem.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

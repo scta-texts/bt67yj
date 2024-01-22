@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="118"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p045303"><!-- l2d13c4" -->
+            <head xml:id="bt67yj-p045303-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p045303-Hd1e103" type="question-title">Quomodo Deus dixisse aliquid, et res 
+      nominasse dicatur</head>
+            <p xml:id="bt67yj-p045303-d1e106">
+               <lb ed="#P" n="8"/>§. 4. Quomodo Deus dixisse aliquid, &amp; res 
+      <lb ed="#P" n="9"/>nominasse dicatur.
+    </p>
+            <p xml:id="bt67yj-p045303-d1e113">
+               <lb ed="#P" n="10"/>QUod ait scriptura: Dixit Deus, fiat lux, &amp; 
+      rur<lb ed="#P" n="11" break="no"/>sum: Appellavitque lucem diem &amp; tenebras 
+      no<lb ed="#P" n="12" break="no"/>ctem, Cujusmodi sequuntur &amp; aliae de aliis rebus 
+      <lb ed="#P" n="13"/>creandis vel creatis sententiae; non sono vocis 
+      in<lb ed="#P" n="14" break="no"/>telligendum est Deum usum fuisse ad rerum 
+      creatio<lb ed="#P" n="15" break="no"/>nem. Nondum enim creatus erat homo, cui sic 
+      lo<lb ed="#P" n="16" break="no"/>queretur, &amp; propter quem solum esset vocalis illa 
+      <lb ed="#P" n="17"/>locutio; sed dixisse dicitur, quia jussit &amp; voluit tunc 
+      <lb ed="#P" n="18"/>fieri, quod ab aeterno &amp; incommutabiliter 
+      disposue<lb ed="#P" n="19" break="no"/>rat ut tunc fieret. Utitur autem scriptura verbo, 
+      <lb ed="#P" n="20"/>dixit, ad innuendam operationis divinae 
+      facilita<lb ed="#P" n="21" break="no"/>tem. Quam enim facile est homini quod mente 
+      <lb ed="#P" n="22"/>concepit, eloqui; tam Deo facile fuit, imo longe 
+      <lb ed="#P" n="23"/>facilius, universum mundum creare. Quam 
+      facili<lb ed="#P" n="24" break="no"/>tatem psalmista quoque significavit dicens: Ipse 
+      di<lb ed="#P" n="25" break="no"/>xit &amp; facta sunt, ipse mandavit &amp; creata sunt. 
+    </p>
+            <p xml:id="bt67yj-p045303-d1e150">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Quod si quaeras, cur non similiter dixit Deus: fiat 
+      <lb ed="#P" n="27"/>caelum &amp; terra. Respondeo Deum hoc quoque 
+      di<lb ed="#P" n="28" break="no"/>xisse, neque solum de caelo &amp; terra, sed de omni 
+      <lb ed="#P" n="29"/>opere quod fecit, ut satis probat memoratus 
+      plal<lb ed="#P" n="30" break="no"/>mi versiculus. Si enim Deo dicere ut quid fiat, idem 
+      <lb ed="#P" n="31"/>est quod imperio voluntatis suae decernere ut fiat; 
+      <lb ed="#P" n="32"/>non dubium quin de omni opere suo dixerit ut fiat, 
+      <lb ed="#P" n="33"/>licet non sic ubique scriptura loquatur. Cur autem 
+      <lb ed="#P" n="34"/>non sic locuta fuerit de primo opere, id est, caelo &amp; 
+      <lb ed="#P" n="35"/>terra, cum inveniatur hoc locutionis modo usa de 
+      <lb ed="#P" n="36"/>caeteris deinceps usque ad finem sex dierum; hanc 
+      <lb ed="#P" n="37"/>assignat rationem Basilius homilia 3. Hexameron, 
+      <lb ed="#P" n="38"/>quia prius oportuit produci creaturam quae 
+      obedi<lb ed="#P" n="39" break="no"/>ret Deo quam fieri mentionem imperii divini, quod 
+      <lb ed="#P" n="40"/>significatur illo verbo; dixit Deus. Quam rationem 
+      <lb ed="#P" n="41"/>non improbat sanctus Thomas prima parte quaest. 
+      <lb ed="#P" n="42"/>74. art. 3. ad primum. Nec dissimilis erit ratio, si 
+      <lb ed="#P" n="43"/>respondeamus scripturam non debuisse Deum 
+      in<lb ed="#P" n="44" break="no"/>troducere dicentem aliquid, nisi postquam facta 
+      es<lb ed="#P" n="45" break="no"/>set creatura, quae dicentem audire &amp; intelligere 
+      <lb ed="#P" n="46"/>posset, nimirum angelica, quae quidem facta fuit 
+      <lb ed="#P" n="47"/>ante lucem, sed non ante caelum &amp; terram. Adde 
+      <lb ed="#P" n="48"/>quod inconvenienter scripsisset Moyses hoc modo: 
+      <lb ed="#P" n="49"/>In principio dixit Deus, fiat caelum &amp; terra. Nam 
+      <lb ed="#P" n="50"/>inde sequeretur Deum nihil dixisse ante creationem 
+      <lb ed="#P" n="51"/>caeli &amp; terrae. Sicut enim bene sequitur: In 
+      prin<lb ed="#P" n="52" break="no"/>cipio fecit caelum &amp; terram: ergo nihil ante fecit; 
+      <lb ed="#P" n="53"/>ita &amp; istud sequi videtur. Unde consequens 
+      ulte<lb ed="#P" n="54" break="no"/>rius videretur filium Dei, id est, verbum Patris 
+      <lb ed="#P" n="55"/>non fuisse ante caelum &amp; terram; quia verbum non 
+      <lb ed="#P" n="56"/>prius est quam dicitur. Hoc est enim ei esse quod 
+      <lb ed="#P" n="57"/>dici. 
+    </p>
+            <p xml:id="bt67yj-p045303-d1e225">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Porro quod Magister ex Augustino interpretatur 
+      <lb ed="#P" n="59"/>Deum dixisse ut fieret, quia in verbo suo, id est, in 
+      <lb ed="#P" n="60"/>filio fecit quaecunque fecit; ad mysticum hujus 
+      scri<lb ed="#P" n="61" break="no"/>pturae sensum potius quam literalem referendum 
+      pu<lb ed="#P" n="62" break="no"/>tamus. Nam plures ejusdem scripturae sensus 
+      lite<lb ed="#P" n="63" break="no"/>rales agnoscere nulla ratio cogit. Unde &amp; huic 
+      lo<lb ed="#P" n="64" break="no"/>co impertinens est quaestio; quomodo pater in 
+      fi<lb ed="#P" n="65" break="no"/>lio vel per filium operari dicatur, aut etiam in 
+      Spi<lb ed="#P" n="66" break="no"/>ritu sancto. Cujus rei petenda est explicatio ex iis 
+      <lb ed="#P" n="67"/>quae dicta sunt ad distict. 20. &amp; 36. lib. 1. &amp; ad 
+      di<lb ed="#P" n="68" break="no"/>stinct. 1. hujus libri. Tantum hoc loco breviter 
+      di<lb ed="#P" n="69" break="no"/>cimus ex hujusmodi locutione non esse cogitandam 
+      <lb ed="#P" n="70"/>aliquam operationis diversitatem in personis 
+      divi<lb ed="#P" n="71" break="no"/>nis; cum secundum fidem catholicam fatendum sit 
+      <!--0351.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>tres personas esse unicum principium &amp; causam 
+      to<lb ed="#P" n="73" break="no"/>tius creaturae, scilicet una eademque operatione 
+      <lb ed="#P" n="74"/>omnia producentem &amp; conservantem. Quare quod 
+      <lb ed="#P" n="75"/>dicitur Pater operari per filium vel in filio, hunc 
+      <lb ed="#P" n="76"/>sensum habet: Pater producit filium omnia eadem 
+      <lb ed="#P" n="77"/>eodem modo secum operantem; vel quod eodem 
+      <lb ed="#P" n="78"/>recidit: Pater operatur una cum filio, cui hoc 
+      ip<lb ed="#P" n="79" break="no"/>sum dedit producendo, ut eadem omnia cum ipso 
+      <lb ed="#P" n="80"/>operetur, &amp; similiter de Spiritu sancto. 
+    </p>
+            <p xml:id="bt67yj-p045303-d1e284">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Jam quod ad alterum attinet, ubi dicitur Deus 
+      <lb ed="#P" n="82"/>res a se factas certis appellasse nominibus, velut 
+      lu<lb ed="#P" n="83" break="no"/>cem diem, tenebras noctem, &amp; aridam terram; id 
+      <lb ed="#P" n="84"/>ita exponit Augustinus lib. I. de Genesi contra 
+      Ma<lb ed="#P" n="85" break="no"/>nichaeos cap. 9. &amp; 10. Appellavit eas, inquit, 
+      im<lb ed="#P" n="86" break="no"/>mutabilis suae sapientia aeternis internisque rationibus. 
+      <lb ed="#P" n="87"/>Quod sic intelligitur, quia rebus singulis suas 
+      indi<lb ed="#P" n="88" break="no"/>dit proprietates, per quas ab aliis omnibus 
+      distin<lb ed="#P" n="89" break="no"/>guerentur. Unde &amp; de stellis dicitur Psam. 146. Et 
+      <lb ed="#P" n="90"/>omnibus eis nomina vocat; quia nimirum eas omnes 
+      <lb ed="#P" n="91"/>&amp; condidit, &amp; proprietatibus inter se distinctas 
+      exa<lb ed="#P" n="92" break="no"/>cte cognoscit. 
+    </p>
+            <p xml:id="bt67yj-p045303-d1e315">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Nec multum ab hac diversa est altera expositio, 
+      <lb ed="#P" n="94"/>quae est apud eundem Augustinum, scilicet Deum 
+      <lb ed="#P" n="95"/>res appellasse nominibus, quia eas appellari fecit, id 
+      <lb ed="#P" n="96"/>est, ita creavit suis proprietatibus discretas, ut ab 
+      <lb ed="#P" n="97"/>hominibus distingui possent &amp; propriis nominibus 
+      <lb ed="#P" n="98"/>vocari. Ad quem sensum alludere videtur illud 
+      hym<lb ed="#P" n="99" break="no"/>ni ecclesiastici: Qui mane junctum vesperi diem 
+      voca<lb ed="#P" n="100" break="no"/>ri praecipis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 16</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 16</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="207"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p080022"><!-- l2d22c16" -->
+            <head xml:id="bt67yj-p080022-Hd1e101">Capitulum 16</head>
+            <head xml:id="bt67yj-p080022-Hd1e103" type="question-title">Ex infirmitate peccare qui dicantur</head>
+            <p xml:id="bt67yj-p080022-d1e106">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> §. 16. Ex infirmitate peccare qui dicantur.
+    </p>
+            <p xml:id="bt67yj-p080022-d1e113">
+               <lb ed="#P" n="22"/>CVM divisione Magistri ex Isidoro desumpta 
+      secun<lb ed="#P" n="23" break="no"/>Tdum membrum erat eorum qui peccant ex 
+      infir<lb ed="#P" n="24" break="no"/>mitate. Ubi primo explicandum est, quid nomen 
+      <lb ed="#P" n="25"/>infirmitatis significet. 
+    </p>
+            <p xml:id="bt67yj-p080022-d1e124">
+               <lb ed="#P" n="26"/>
+               <pc type="indent"/> Infirmitas ad animum translata in scriptura sacra, 
+      <lb ed="#P" n="27"/>interdum peccati &amp; culpae significationem habet. 
+      <lb ed="#P" n="28"/>Quomodo apost. Rom. 5. dicit Christum cum 
+      ad<lb ed="#P" n="29" break="no"/>huc infirmi essemus, pro impiis mortuum esse. 
+      <lb ed="#P" n="30"/>Quod postea repetens, cum adhuc peccatores 
+      esse<lb ed="#P" n="31" break="no"/>mus, eum pro nobis mortuum esse dicit, ut iidem 
+      <lb ed="#P" n="32"/>sint apostolo infirmi &amp; peccatores. Item Christus 
+      <lb ed="#P" n="33"/>Matt. 6. Non est, inquit, opus valentibus medico, sed 
+      <lb ed="#P" n="34"/>male habentibus, id est, infirmis, utique per male 
+      <lb ed="#P" n="35"/>habentes, sive infirmos intelligens peccatores, 
+      jux<lb ed="#P" n="36" break="no"/>ta id quod ibid. subjungit: Non enim veni vocare 
+      p<lb ed="#P" n="37" break="no"/>justos, sed peccatores. Hac significatione 
+      infirmita<lb ed="#P" n="38" break="no"/>tem usurpavit August. lib. 2. de peccatorum meritis 
+      <lb ed="#P" n="39"/>cap. 17. &amp; Ench. 81 Alias vero hoc nomen iis 
+      tri<lb ed="#P" n="40" break="no"/>buitur, qui sunt quidem bonae voluntatis, sed non 
+      <lb ed="#P" n="41"/>tam firmae quae passioni vel externae tentationi 
+      resi<lb ed="#P" n="42" break="no"/>stere possit. De qua infirmitate dictum est a 
+      Domi<lb ed="#P" n="43" break="no"/>no Matt. 26. Spiritus quidem promptus est, caro 
+      au<lb ed="#P" n="44" break="no"/>tem infirma, &amp; ad Petrum Joann. 12. Non potes me 
+      <lb ed="#P" n="45"/>sequi modo, quasi diceret: Nondum satis firmus &amp;. 
+      <lb ed="#P" n="46"/>fortis es ad me sequendum, &amp; psalm. 6. Miserere 
+      <lb ed="#P" n="47"/>mei, Domine, quia infirmus sum. Eodem pertinet 
+      <lb ed="#P" n="48"/>quod Matt. 13. in parabola seminantis, per petrosa 
+      <lb ed="#P" n="49"/>significantur qui verbum audiunt &amp; cum 
+      gaudio<lb ed="#P" n="50" break="no"/>suscipiunt, sed radicem, id est, firmitatem bonae 
+      <lb ed="#P" n="51"/>voluntatis non habent, ideóque per infirmitatem in 
+      <lb ed="#P" n="52"/>tempore tentationis recedunt. Hac 
+      significatio<lb ed="#P" n="53" break="no"/>ne de infirmis loquitur August. lib. de gratia &amp; 
+      <lb ed="#P" n="54"/>libero arbitrio c. 17. &amp; lib. de natura &amp; gratia cap. 
+      <lb ed="#P" n="55"/>29. quodoco infirmum a superbo distinguit. Igitur 
+      <lb ed="#P" n="56"/>juxta priorem acceptionem omne peccatum 
+      infir<lb ed="#P" n="57" break="no"/>mitas est; juxta posteriorem vero non ipsa infirmitas 
+      <lb ed="#P" n="58"/>peccatum est, sed ex ea quaedam peccata committi 
+      <lb ed="#P" n="59"/>dicuntur. 
+    </p>
+            <p xml:id="bt67yj-p080022-d1e203">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Peccat autem ex infirmitate ille, cui infirmitas 
+      <lb ed="#P" n="61"/>est causa peccandi, id est, qui cum esset bonae 
+      volun<lb ed="#P" n="62" break="no"/>tatis, supervenienti tentationi tanquam infirmior 
+      <lb ed="#P" n="63"/>cedit ac succumbit. Quale fuit peccatum Petri 
+      ne<lb ed="#P" n="64" break="no"/>gantis Christum, &amp; qualia multa committuntur ex 
+      <lb ed="#P" n="65"/>ira, metu, tentatione carnis, aliisque passionibus. 
+      <lb ed="#P" n="66"/>Unde &amp; hujusmodi peccata passioni tribuuntur 
+      <lb ed="#P" n="67"/>tanquam causae, &amp; ex passione committi dicuntur. 
+      <lb ed="#P" n="68"/>Est autem passio eorum causa hac ratione, quia 
+      <lb ed="#P" n="69"/>dum vehementior est, ita occupat animum 
+      homi<lb ed="#P" n="70" break="no"/>nis, ut in officium virtutis prout oportet, 
+      inten<lb ed="#P" n="71" break="no"/>dere non possit, adeóque judicet actum hunc 
+      par<lb ed="#P" n="72" break="no"/>ticularem ad quem passio inclinat, faciendum esse.
+      <!--0440.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>Cum enim homo in tentatione positus duo tanquam 
+      <lb ed="#P" n="74"/>conclusionis principia considerare debeat, nempe 
+      <lb ed="#P" n="75"/>nihil quod sit contra Dei legem faciendum esse, &amp; 
+      <lb ed="#P" n="76"/>hunc actum esse contra Dei legem; ex quibus 
+      infe<lb ed="#P" n="77" break="no"/>renda sit conclusio, hunc actum non esse faciendum, 
+      <lb ed="#P" n="78"/>ipsa passio vel utramque praemissam; vel alteram qua 
+      <lb ed="#P" n="79"/>particulare sub universali subsumitur, ita in mente 
+      <lb ed="#P" n="80"/>obscurat, ut vel falsa putetur, vel certe actu non 
+      <lb ed="#P" n="81"/>consideretur. Quo fit ut obnubilata &amp; corrupta ratio 
+      <lb ed="#P" n="82"/>statuat faciendum quod conclusioni illi contrarium 
+      <lb ed="#P" n="83"/>est, &amp; ad quod passio inclinabat tanquam ad bonum 
+      <lb ed="#P" n="84"/>quoddam utile aut delectabile. 
+    </p>
+            <p xml:id="bt67yj-p080022-d1e266">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> De toto hoc argumento videatur <ref xml:id="bt67yj-p080022-Rd1e272">S. Thom. 1. 2. q. 
+      <lb ed="#P" n="86"/>77. art. 1.</ref> ubi docet quemadmodum voluntas 
+      mo<lb ed="#P" n="87" break="no"/>veatur a passione appetitus sensitivi, &amp; art. 2. ubi 
+      <lb ed="#P" n="88"/>docet quibus modis contingat rationem superari a 
+      <lb ed="#P" n="89"/>passione contra suam scientiam, &amp; art. 3. ubi 
+      osten<lb ed="#P" n="90" break="no"/>dit omnia peccata quae ex passione procedunt, ex 
+      <lb ed="#P" n="91"/>quadam animi infirmitate committi. Item art. 6. 7. 
+      <lb ed="#P" n="92"/>&amp; 8. quibus docet utrum &amp; quatenus per 
+      passio<lb ed="#P" n="93" break="no"/>nem peccatum exculetur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="167"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p064522"><!-- l2d19c2" -->
+            <head xml:id="bt67yj-p064522-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p064522-Hd1e103" type="question-title">An homo stante innocentia potuisset 
+      mori</head>
+            <p xml:id="bt67yj-p064522-d1e106">
+               <lb ed="#P" n="44"/>§. 2. An homo stante innocentia potuisset 
+      <lb ed="#P" n="45"/>mori?
+    </p>
+            <p xml:id="bt67yj-p064522-d1e113">
+               <lb ed="#P" n="46"/>QUod dictum est &amp; probatum, mortem ex 
+      pec<lb ed="#P" n="47" break="no"/>cato originem traxisse, quidam de sola mortis 
+      <lb ed="#P" n="48"/>necessitate intelligunt; ita videlicet docentes 
+      homi<lb ed="#P" n="49" break="no"/>nem peccati merito subjectum esse necessitati 
+      mo<lb ed="#P" n="50" break="no"/>riendi, cui ante peccatum subjectus non erat; ut 
+      ta<lb ed="#P" n="51" break="no"/>men eum dicant permanentem in inocentia mori 
+      <lb ed="#P" n="52"/>potuisse, si ferro, igne vel alio quocunque modo vis 
+      <lb ed="#P" n="53"/>ejus corpori adferretur a quopiam alio qui 
+      inno<lb ed="#P" n="54" break="no"/>centiam primam deseruisset; nihil tale tamen 
+      even<lb ed="#P" n="55" break="no"/>turum fuisse, eo quod Deus per suam providentiam 
+      <lb ed="#P" n="56"/>omne periculum avertisset. Et addit Scotus primum 
+      <lb ed="#P" n="57"/>hominem omnesque ejus posteros naturae 
+      necessita<lb ed="#P" n="58" break="no"/>te tandem morituros fuisse; nimirum propter 
+      ele<lb ed="#P" n="59" break="no"/>mentorum pugnam, ex quibus compositum est 
+      cor<lb ed="#P" n="60" break="no"/>pus humanum, nisi Deus antequam illud accideret, 
+      <lb ed="#P" n="61"/>eos transferret ad statum immortalitatis, talemque 
+      <lb ed="#P" n="62"/>mortem, si accidisset, non magis homini quam 
+      be<lb ed="#P" n="63" break="no"/>stiis poenalem futuram fuisse, sed utriusque 
+      natu<lb ed="#P" n="64" break="no"/>ralem. 
+    </p>
+            <p xml:id="bt67yj-p064522-d1e157">
+               <lb ed="#P" n="65"/>
+               <pc type="indent"/> At vero cum hac opinione difficile fuerit 
+      concor<lb ed="#P" n="66" break="no"/>dare scripturas &amp; conciliorum decreta, quibus jam 
+      <lb ed="#P" n="67"/>ostendimus hominem nisi peccasset, non fuiss 
+      mo<lb ed="#P" n="68" break="no"/>riturum. Non enim ea tantum significant quid non 
+      <lb ed="#P" n="69"/>esset futurum, verum etiam quid juxta ordinem 
+      re<lb ed="#P" n="70" break="no"/>rum a Deo semel institutum, oporteret non fieri; 
+      <lb ed="#P" n="71"/>nempe, ut homo innocens &amp; peccati expers more¬ 
+      <!--0400.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>retur. Quocirca dicendum omnino videtur quod 
+      <lb ed="#P" n="73"/>homo stante innocentia non potuit mori. 
+    </p>
+            <p xml:id="bt67yj-p064522-d1e187">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Pro cujus rei intellectu sciendum hominem non 
+      <lb ed="#P" n="75"/>esse a Deo institutum ut creaturam mere servilem, 
+      <lb ed="#P" n="76"/>sicut instituta est brutorum natura, quae proinde 
+      na<lb ed="#P" n="77" break="no"/>turaliter &amp; morti sunt obnoxia, &amp; pro utilitate 
+      ho<lb ed="#P" n="78" break="no"/>minum occidi possunt, imo &amp; alia aliis per mortem 
+      <lb ed="#P" n="79"/>in usum nutrimenti cedunt; sed fecit Deus 
+      homi<lb ed="#P" n="80" break="no"/>nem perinde ut angelos, natura sua liberum, &amp; 
+      alia<lb ed="#P" n="81" break="no"/>rum rerum dominum, atque insuper ipsius Dei per 
+      <lb ed="#P" n="82"/>gratiam &amp; justitiam velut socium &amp; amicum. Unde 
+      <lb ed="#P" n="83"/>satis intelligitur sic hominem institutum esse, ut ei 
+      <lb ed="#P" n="84"/>nihil adversum accideret, quamdiu in ejus amicitia 
+      <lb ed="#P" n="85"/>permaneret; sed futurum ut semper juncta essent 
+      se<lb ed="#P" n="86" break="no"/>que invicem consequerentur haec duo, bonum esse, 
+      <lb ed="#P" n="87"/>&amp; beatum esse, itemque innocentem esse, &amp; 
+      exper<lb ed="#P" n="88" break="no"/>tem esse miseriae. Hanc enim legem Aug. lib. 1. de 
+      li<lb ed="#P" n="89" break="no"/>bero arbitrio cap. 6. &amp; lib. 3. cap. 9. ita perpetuam 
+      es<lb ed="#P" n="90" break="no"/>se vult, ut ea sublata ordo universi deformetur. 
+      Un<lb ed="#P" n="91" break="no"/>de &amp; lib. 4. contra duas epistolas Pelagianorum 
+      cap<lb ed="#P" n="92" break="no"/>4. injustum esse dicit, ut mors sine peccato 
+      propage<lb ed="#P" n="93" break="no"/>tur in posteros. Quod &amp; repetit lib. 6. contra 
+      Julia<lb ed="#P" n="94" break="no"/>num cap. 2. Eamque sententiam confirmat 
+      conci<lb ed="#P" n="95" break="no"/>lium Arausicanum can. 2. asserens illum Deo 
+      tribue<lb ed="#P" n="96" break="no"/>re injustitiam, qui mortem sine peccato in genus 
+      hu<lb ed="#P" n="97" break="no"/>manum transisse affirmat. Quanquam haec 
+      intelli<lb ed="#P" n="98" break="no"/>genda sunt, ut modo diximus, juxta ordinem semel 
+      <lb ed="#P" n="99"/>institutum. Nam si de absoluta Dei potentia 
+      loqua<lb ed="#P" n="100" break="no"/>mur, non dubium quin ita potuerit humanam 
+      natu<lb ed="#P" n="101" break="no"/>ram absque ulla ejus injuria tanquam totius 
+      creatu<lb ed="#P" n="102" break="no"/>rae dominus instituere; ut licet homo in anima 
+      con<lb ed="#P" n="103" break="no"/>servaret innocentiam, corporis tamen conditione 
+      <lb ed="#P" n="104"/>brutis animalibus similis esset, morti caeterisque 
+      mi<lb ed="#P" n="105" break="no"/>seriis non minus quam illa obnoxius. At nunc 
+      testa<lb ed="#P" n="106" break="no"/>tur scriptura longe excellentiori dignitatis gradu 
+      <lb ed="#P" n="107"/>secundum corpus conditum esse hominem; ita ut 
+      <lb ed="#P" n="108"/>per mortalitatem quam sibi peccando contraxit, 
+      de<lb ed="#P" n="109" break="no"/>jectus dicatur longe infra honorem primae suae 
+      con<lb ed="#P" n="110" break="no"/>ditionis, &amp; comparatus esse jumentis insipientibus. 
+      <lb ed="#P" n="111"/>Quod autem ne fieri quidem potuerit, ut stante 
+      in<lb ed="#P" n="112" break="no"/>nocentia homo moreretur, aperte testatur Sapiens, 
+      <lb ed="#P" n="113"/>cum dicit hominem factum a Deo 
+      inexterminabi<lb ed="#P" n="114" break="no"/>lem. Nam inexterminabile dicitur quod non potest 
+      <lb ed="#P" n="115"/>exterminari. Sic Methodius apud Epiphanium in 
+      <lb ed="#P" n="116"/>haeresi Origenis. Ab immortali Deo, inquit, 
+      simula<lb ed="#P" n="117" break="no"/>crum ejus, in quo sui excidisset imagnem, non nisi 
+      <lb ed="#P" n="118"/>immortale &amp; incorruptibile fieri debuit. At 
+      incorru<lb ed="#P" n="119" break="no"/>ptibile dicitur quod corrumpi non potest. 
+    </p>
+            <p xml:id="bt67yj-p064522-d1e291">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Hanc porro sententiam satis expressit Magister §. 
+      <lb ed="#P" n="121"/>D. quando ita hominem factum esse dicit 
+      immorta<lb ed="#P" n="122" break="no"/>lem, ut non posset mori si non peccaret, verbis 
+      scili<lb ed="#P" n="123" break="no"/>bet desumptis ex glossa ordinaria super illud 
+      Genes<lb ed="#P" n="124" break="no"/>1. Faciamus hominem ad imaginem, &amp;c. Eandem 
+      sen<lb ed="#P" n="125" break="no"/>tentiam inter Scholasticos tenent Albertus, S. 
+      Tho<lb ed="#P" n="126" break="no"/>mas, Durandus, &amp; omnium apertissime Bona 
+      ventu<lb ed="#P" n="127" break="no"/>ra, qui art. 2. super hanc distinctionem impossibile 
+      <lb ed="#P" n="128"/>esse dicit ut simul consistant innocentia &amp; 
+      corrup<lb ed="#P" n="129" break="no"/>tionis poena, propterea quod ordo divinae justite 
+      <lb ed="#P" n="130"/>nullam inordinationem in universo sustineat. Quod 
+      <lb ed="#P" n="131"/>similiter intelligendum est de ordine semel instituto, 
+      <lb ed="#P" n="132"/>secundum quem res creatae administrantur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

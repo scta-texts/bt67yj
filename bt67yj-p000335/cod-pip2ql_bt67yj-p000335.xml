@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="2"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p000335"><!-- l2d1c2" -->
+            <head xml:id="bt67yj-p000335-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p000335-Hd1e103" type="question-title">Mundum et quicquid in eo est, a solo Deo 
+      factum esse</head>
+            <p xml:id="bt67yj-p000335-d1e106">
+               <lb ed="#P" n="11"/>
+               <pc type="indent"/> §. 2. Mundum &amp; quicquid in eo est, a solo Deo 
+      <lb ed="#P" n="12"/>factum esse. 
+    </p>
+            <p xml:id="bt67yj-p000335-d1e115">
+               <lb ed="#P" n="13"/>CErta fide tenendum est, totum hoc universum, 
+      <lb ed="#P" n="14"/>quod mundum appellamus, cum omnibus suis 
+      <lb ed="#P" n="15"/>partibus, sive illae res sint corporeae, sive incorporeae, 
+      <lb ed="#P" n="16"/>simplices, compositae, animatae, inanimatae, mente 
+      <lb ed="#P" n="17"/>praeditae, aut non praeditae; ab uno vero Deo, eoque 
+      <lb ed="#P" n="18"/>solo, creatum esse. Id quod perspicue multis locis 
+      <lb ed="#P" n="19"/>docet scriptura sacra, praesertim Gen. I. ubi creatio 
+      <lb ed="#P" n="20"/>mundi solo verbo jussionis divinae facta, 
+      particula<lb ed="#P" n="21" break="no"/>tim describitur, prout Psalmista quoque testatur 
+      di<lb ed="#P" n="22" break="no"/>cens: Ipse dixit, &amp; facta sunt; ipse mandavit, &amp; 
+      crea<lb ed="#P" n="23" break="no"/>ta sunt. Aliae vero scripturae diserte tradunt, omnia a 
+      <lb ed="#P" n="24"/>Deo creata esse, ut Exod. 20. Sex diebus fecit 
+      Domi<lb ed="#P" n="25" break="no"/>nus caelum, &amp; terram, &amp; mare, &amp; omnia quae in eis 
+      <lb ed="#P" n="26"/>sunt. Quod iisdem verbis repetitum est Ps. 145. 
+      Rur<lb ed="#P" n="27" break="no"/>sum Sap. 1. dicitur: Creavit Deus, ut essent omnia, 
+      <lb ed="#P" n="28"/>Eccles. 18. Qui vivit in aeternum, creavit omnia simul, 
+      <lb ed="#P" n="29"/>&amp; Heb. 3. Qui omnia creavit, Deus est. Joannes 
+      au<lb ed="#P" n="30" break="no"/>tem cap. 1. de verbo Dei sic ait: Omnia per ipsum 
+      fa<lb ed="#P" n="31" break="no"/>cta sunt, &amp; iterum: Mundus per ipsum factus est, &amp; 
+      <lb ed="#P" n="32"/>de eodem, Paulus Col. I. In ipso condita sunt universa, 
+      <lb ed="#P" n="33"/>in caelis &amp; in terra; visibilia &amp; invisibilia; sive throni, 
+      <lb ed="#P" n="34"/>sive dominationes, &amp;c. Idem habet confessio 
+      Christia<lb ed="#P" n="35" break="no"/>na in multis symbolis fidei. Quamvis enim 
+      symbo<lb ed="#P" n="36" break="no"/>lum Apostolicum expresse tantum asserat, Deum 
+      cae<lb ed="#P" n="37" break="no"/>li &amp; terrae creatorem; sub his tamen duobus omnia I. 
+      <lb ed="#P" n="38"/>caetera comprehendi debere expressius in Nicaeno, 
+      <lb ed="#P" n="39"/>Constantinopolitano, aliisque symbolis declaratum 
+      <lb ed="#P" n="40"/>est, in quibus visibilium omnium, &amp; in visibilium 
+      fa<lb ed="#P" n="41" break="no"/>ctorem, unum Deum confitemur. 
+    </p>
+            <p xml:id="bt67yj-p000335-d1e180">
+               <lb ed="#P" n="42"/>
+               <pc type="indent"/> Peculiariter quoque contra haeresim Manichaei &amp; 
+      <lb ed="#P" n="43"/>Priscilliani in concilio Bracarensi I. ca. 13. decretum 
+      <lb ed="#P" n="44"/>est anathema, dicentibus creationem universae 
+      car<lb ed="#P" n="45" break="no"/>nis, non Dei, sed malorum angelorum opificium 
+      <lb ed="#P" n="46"/>esse. Est autem haec omnium Patrum constans 
+      do<lb ed="#P" n="47" break="no"/>ctrina, quam ex professo tradunt &amp; argumentis 
+      pro<lb ed="#P" n="48" break="no"/>bant, August. lib. 3. de Trin. ca. 8. &amp; l. 11. de civit. 
+      <lb ed="#P" n="49"/>c. 4. &amp; lib. 12. c. 24. &amp; aliis locis praeced. cap. 
+      cita<lb ed="#P" n="50" break="no"/>tis. Cyrillus l. 2. disputationis contra Julian. docens 
+      <lb ed="#P" n="51"/>unum &amp; solum Deum esse universorum opificem, qui 
+      <lb ed="#P" n="52"/>cuncta ex nihilo creaverit. Et unam ipsi esse 
+      glo<lb ed="#P" n="53" break="no"/>riam, omnia fecisse, quam neque angelis, neque alii 
+      <lb ed="#P" n="54"/>cuiquam creaturae communicaverit, juxta illud 
+      Isa<lb ed="#P" n="55" break="no"/>42. Gloriam meam alteri non dabo. Joannes Damasc. 
+      <lb ed="#P" n="56"/>l. 2. de fide orth. c. 3. in fine, ubi dicit: Quicunque 
+      <lb ed="#P" n="57"/>angelos cujuscunque substantiae dicunt esse 
+      creato<lb ed="#P" n="58" break="no"/>res, eos esse os diaboli, patris fui. Fulgentius de fide 
+      <lb ed="#P" n="59"/>ad Petrum c. 3. cujus initio docet, principaliter 
+      te<lb ed="#P" n="60" break="no"/>nendum esse, omnem naturam, quae non est 
+      Trini<lb ed="#P" n="61" break="no"/>tas Deus, ab ipsa sancta Trin. quae solus Deus 
+      aeter<lb ed="#P" n="62" break="no"/>nus &amp; verus est, creatam ex nihilo, &amp; quae sequuntur. 
+      <lb ed="#P" n="63"/>Item Epiph. Philastrius, &amp; Augustin. in libris suis 
+      <lb ed="#P" n="64"/>de haeresibus. Quibus omnibus demum accessit 
+      au<lb ed="#P" n="65" break="no"/>thoritas magni concilii Lateran. sub Innocent. III. 
+      <lb ed="#P" n="66"/>"habiti. In cujus I. cap. definitum est, unum, solum, 
+      <lb ed="#P" n="67"/>"verum Deum, Patrem &amp; Filium &amp; spiritum sanctum 
+      <lb ed="#P" n="68"/>" esse unum universorum principium, creatorem 
+      <lb ed="#P" n="69"/>"omnium visibilium &amp; invisibilium, spiritualium 
+      <lb ed="#P" n="70"/>"&amp; corporalium, qui sua omnipotenti virtute, 
+      si<lb ed="#P" n="71" break="no"/>"mul ab initio temporis, utramque de nihilo 
+      con<lb ed="#P" n="72" break="no"/>"diderit creaturam, spiritualem &amp; corporalem, an¬ 
+      <!--0233.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>gelicam videlicet &amp; mundanam. 
+    </p>
+            <p xml:id="bt67yj-p000335-d1e259">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Caeterum ex dictis patet per hanc doctrinam non 
+      so<lb ed="#P" n="75" break="no"/>lum excludi causam principalem creationis rerum, a 
+      <lb ed="#P" n="76"/>Deo diversam; verum etiam quamcunque causam 
+      in<lb ed="#P" n="77" break="no"/>strumentalem: nam ut scriptura testatur Gen. 1. &amp; a 
+      <lb ed="#P" n="78"/>libi, Deus in principio creavit omnia ex nihilo: 
+      nul<lb ed="#P" n="79" break="no"/>la igitur creationem universi alia creatura praecessit, 
+      <lb ed="#P" n="80"/>quam Deus ut instrumentum assumeret ad universum 
+      <lb ed="#P" n="81"/>creandum. Quod &amp; clarissime probant verba 
+      conci<lb ed="#P" n="82" break="no"/>lii Lateran. jam recitata. Quare, si quis diceret, 
+      <lb ed="#P" n="83"/>Deum in rerum creatione instrumento aliquo usum 
+      <lb ed="#P" n="84"/>fuisse; contra fidem loqui videretur. An autem 
+      simi<lb ed="#P" n="85" break="no"/>liter sentiendum sit de eo, quidiceret, Deum modo, 
+      <lb ed="#P" n="86"/>quando creat animas rationales, id facere mediante 
+      <lb ed="#P" n="87"/>aliqua causa instrumentali; diversa quaestio est. 
+      Cu<lb ed="#P" n="88" break="no"/>jus solutio ex infra dicendis est petenda. Hoc loco 
+      sa<lb ed="#P" n="89" break="no"/>tis est ostendisse, quod secundum fidem Catholicam 
+      <lb ed="#P" n="90"/>fatendum sit, solum verum Deum immediate &amp; 
+      abs<lb ed="#P" n="91" break="no"/>que cooperatione cujuscunque alterius causae, 
+      to<lb ed="#P" n="92" break="no"/>tum hoc universum ex nihilo produxisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

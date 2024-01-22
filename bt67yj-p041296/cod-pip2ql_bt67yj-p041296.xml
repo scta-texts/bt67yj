@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="107"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p041296"><!-- l2d11c2" -->
+            <head xml:id="bt67yj-p041296-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p041296-Hd1e103" type="question-title">Aliquot rationes angelicae custodiae</head>
+            <p xml:id="bt67yj-p041296-d1e106">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> §. 2. Aliquot rationes angelicae custodiae.
+    </p>
+            <p xml:id="bt67yj-p041296-d1e113">
+               <lb ed="#P" n="124"/>PRaeter eam rationem quae modo allata est, aliae 
+      <lb ed="#P" n="125"/>quaedam a causa finali sumptae colligi possunt e 
+      <lb ed="#P" n="126"/>scripturis angelicae custodiae rationes, ejus 
+      praeser<lb ed="#P" n="127" break="no"/>tim quae adhibetur electis. Quarum una est, ideo 
+      <lb ed="#P" n="128"/>bonos angelos homini custodes dari, ut ei suggerant 
+      <lb ed="#P" n="129"/>bonas cogitationes, &amp; subministrent bonorum 
+      ope<lb ed="#P" n="130" break="no"/>rum occasiones, quod Raphaelem apud Tob. fecisse 
+      <lb ed="#P" n="131"/>legimus. 
+    </p>
+            <p xml:id="bt67yj-p041296-d1e133">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Secunda, ut adversus impugnationes malignorum 
+      <lb ed="#P" n="133"/>spirituum hominem alioqui infirmum ac viribus 
+      in<lb ed="#P" n="134" break="no"/>firmiorem, &amp; ad ruinam pronum defendant &amp; 
+      sub<lb ed="#P" n="135" break="no"/>levent. Unde Hilarius scribens in psalm. 134. dicit 
+      <lb ed="#P" n="136"/>infirmitatem nostram contra diabolicas tentationes, 
+      <lb ed="#P" n="137"/>opus habere auxilio naturae potioris, idest, angelicae, 
+      <lb ed="#P" n="138"/>idque ex scriptura probat. 
+    </p>
+            <p xml:id="bt67yj-p041296-d1e154">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Tertia, ut corporalia mala ab homine depellant, 
+      <lb ed="#P" n="140"/>eumque periculis eripiant. Quomodo legimus 
+      Eli<lb ed="#P" n="141" break="no"/>zaeum contra Syros angelorum custodia protectum 
+      <lb ed="#P" n="142"/>fuisse 4. Reg. 6. Ad utrumque autem malorum genus 
+      <lb ed="#P" n="143"/>tam spiritualium quam corporalium referendum 
+      vi<lb ed="#P" n="144" break="no"/>detur, quod Jacop Gen. 48. dicit angelum eruisse 
+      <lb ed="#P" n="145"/>ipsum de cunctis malis, &amp; quod psalm. 90. dicitur: 
+      <!--0341.xml-->
+      <pb ed="#P" n="108"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Angelis suis mandavit de te ut custodiant te in 
+      omni<lb ed="#P" n="2" break="no"/>bus vus tus, &amp;c. Item quod Moysi dictum est 
+      Exo<lb ed="#P" n="3" break="no"/>32. Angelus meus praecedet te, nec non ea quae apud 
+      <lb ed="#P" n="4"/>Tob. de religato Asmodaeo leguntur. 
+    </p>
+            <p xml:id="bt67yj-p041296-d1e189">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Quarta ratio, ut preces ac pia hominis desideria 
+      <lb ed="#P" n="6"/>ac bona opera offerant in conspectu Dei, eademque 
+      <lb ed="#P" n="7"/>siia intercessione commendent. Unde Tob. 12. haec 
+      <lb ed="#P" n="8"/>sunt verba Raphaclis ad Tob. Quando orabas cum 
+      <lb ed="#P" n="9"/>lachrymis &amp; sepeliebas mortuos, &amp;c. Ego obtuli 
+      oratio<lb ed="#P" n="10" break="no"/>nem tuam Domino. Testatur hoc quoque Hilarius 
+      <lb ed="#P" n="11"/>scribens in Matt. 18. ac plenius ea re disserit 
+      Bern<lb ed="#P" n="12" break="no"/>serm. 8. &amp; 39. super Cant. 3. Meminit &amp; serm. 1. 
+      <lb ed="#P" n="13"/>de S. Michacle, &amp; aliis locis supra citatis. 
+    </p>
+            <p xml:id="bt67yj-p041296-d1e213">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Postremo vel ob id necessaria est homini 
+      bono<lb ed="#P" n="15" break="no"/>rum angelorum custodia, quod omnia jam dictis 
+      <lb ed="#P" n="16"/>contraria faciunt angeli mali. Nam &amp; malas 
+      cogi<lb ed="#P" n="17" break="no"/>tationes suggerunt atque occasiones peccatorum 
+      sub<lb ed="#P" n="18" break="no"/>ministrant, &amp; omni divino praesidio hominem 
+      de<lb ed="#P" n="19" break="no"/>nudare student, &amp; in mala etiam corporalia 
+      impel<lb ed="#P" n="20" break="no"/>lunt, &amp; apud Deum quoad possunt accusant, 
+      omnia<lb ed="#P" n="21" break="no"/>que ejus benefacta calumniantur, ut patet ex 
+      scrip<lb ed="#P" n="22" break="no"/>turis Apoc. 12. &amp; Job. 12 &amp; 2. &amp; aliunde.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

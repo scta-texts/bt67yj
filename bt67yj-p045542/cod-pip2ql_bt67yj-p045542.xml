@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="118"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p045542"><!-- l2d13c5" -->
+            <head xml:id="bt67yj-p045542-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p045542-Hd1e103" type="question-title">Utrum dies nocte prior fuerit, an 
+      contra</head>
+            <p xml:id="bt67yj-p045542-d1e106">
+               <lb ed="#P" n="101"/>
+               <pc type="indent"/> §. 5. Utrum dies nocte prior fuerit, an 
+      <lb ed="#P" n="102"/>contra?
+    </p>
+            <p xml:id="bt67yj-p045542-d1e115">
+               <lb ed="#P" n="103"/>QUaestio non parva est apud interpretes 
+      histo<lb ed="#P" n="104" break="no"/>riae Geneseos; utrum in exordio mundi dies 
+      <lb ed="#P" n="105"/>noctem praecesserit an contra? In qua quaestione, 
+      <lb ed="#P" n="106"/>quia dies nocti opponitur, manifestum est: 
+      artifi<lb ed="#P" n="107" break="no"/>cialem diem intelligi, de quo dictum est: Et 
+      appel<lb ed="#P" n="108" break="no"/>lavit lucem diem. Hic autem seponendae sunt 
+      opi<lb ed="#P" n="109" break="no"/>niones Philosophorum, qui veram mundi Genesim 
+      <lb ed="#P" n="110"/>ignorarunt. Inter quos Thales Milesius 
+      interroga<lb ed="#P" n="111" break="no"/>tus aliquando, num dies nocte prior fuisset an 
+      con<lb ed="#P" n="112" break="no"/>tra? respondit noctem praecessisse diem, videlicet 
+      <lb ed="#P" n="113"/>respiciens ad chaos &amp; tenebras perpetuas, quas 
+      <lb ed="#P" n="114"/>poetae &amp; Philosophorum nonnulli ponebant 
+      tan<lb ed="#P" n="115" break="no"/>quam longam noctem ante rerum exortum. Quod 
+      <lb ed="#P" n="116"/>cum fabulosum esse constet, nec juxta eam 
+      senten<lb ed="#P" n="117" break="no"/>tiam nox initium mundi fecerit, sed mundi 
+      crea<lb ed="#P" n="118" break="no"/>tionem praecesserit, quod non est controversum 
+      <lb ed="#P" n="119"/>sed plane falsum; quaestio praesens examinanda 
+      no<lb ed="#P" n="120" break="no"/>bis est ex scripturis &amp; probabili earum 
+      interpreta<lb ed="#P" n="121" break="no"/>tione. Et quidem utrique parti sua argumenta non 
+      <lb ed="#P" n="122"/>desunt. 
+    </p>
+            <p xml:id="bt67yj-p045542-d1e161">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Quod enim dies nocte prior fuerit, videri 
+      po<lb ed="#P" n="124" break="no"/>test primum ex eo quod scriptura diei appellationem 
+      <lb ed="#P" n="125"/>nocti praeposuit, dicens: Appellavitque lucem diem 
+      <lb ed="#P" n="126"/>&amp; tenebras noctem.
+    </p>
+            <p xml:id="bt67yj-p045542-d1e175">
+               <lb ed="#P" n="127"/>Deinde ex eo quod statim sequitur: Factumque est 
+      <lb ed="#P" n="128"/>vespere &amp; mane dies unus, id est, primus. Vespere 
+      <lb ed="#P" n="129"/>enim finis est praecedentis diei, sicut mane finis 
+      no<lb ed="#P" n="130" break="no"/>ctis praecedentis. Unde synecdochice per vespere &amp; 
+      <lb ed="#P" n="131"/>mane significatum putant diem &amp; noctem; diem, 
+      <lb ed="#P" n="132"/>inquam, praecedentem &amp; noctem sequentem velut 
+      <lb ed="#P" n="133"/>partes ex quibus dies unus naturalis constituitur. 
+      <lb ed="#P" n="134"/>Huic sententiae patrocinantur graves authores, 
+      san<lb ed="#P" n="135" break="no"/>ctus Basilius homilia secunda Hexameron. Sanctus 
+      <lb ed="#P" n="136"/>Ambrosius lib. 1. ejusdem argumenti capit. ultim. 
+      <lb ed="#P" n="137"/>Joan. Chrysostomus homilia tertia &amp; quinta in 
+      Ge<lb ed="#P" n="138" break="no"/>nesim. Sanctus Augustinus libro primo de 
+      Genesi<lb ed="#P" n="139" break="no"/>contra Manichaeos capit. decimo, &amp; lib. de Genesi 
+      <lb ed="#P" n="140"/>imperfecta capit. septimo. Item lib. quarto de 
+      Ci<lb ed="#P" n="141" break="no"/>vitate Dei, capit. sexto, &amp; lib. 12. confessionum, 
+      ca<lb ed="#P" n="142" break="no"/>pit. octavo, nono, duodecimo &amp; decimoquinto, ubi 
+      <!--0352.xml-->
+      <pb ed="#P" n="119"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>docet caelum &amp; terram facta fuisse ante omnem 
+      <lb ed="#P" n="2"/>diem. Quorum sententiam sequitur Hugo 
+      Victori<lb ed="#P" n="3" break="no"/>nus in annotationibus super Genesim cap. sexto, &amp; 
+      <lb ed="#P" n="4"/>Magister hac distinctione litera B. D. E. Vult enim 
+      <lb ed="#P" n="5"/>Magister ante lucem, quae post caelum &amp; terram 
+      fa<lb ed="#P" n="6" break="no"/>cta legitur, &amp; diei nomen accepit, neque diem 
+      fuis<lb ed="#P" n="7" break="no"/>se neque noctem, licet tunc tempus fuerit. Unde 
+      <lb ed="#P" n="8"/>juxta ejus quoque doctrinam caelum &amp; terra ante 
+      <lb ed="#P" n="9"/>primam diem extiterunt. Reperitur eadem sententia 
+      <lb ed="#P" n="10"/>in Glossa ordinaria super illud: Et factum est vespere 
+      <lb ed="#P" n="11"/>&amp; mane dies unus. Cujus glossae verba Magister 
+      ti<lb ed="#P" n="12" break="no"/>tulo Bedae super Genes. adducit, in ipsa vero glossa 
+      <lb ed="#P" n="13"/>Sanct. Augustino ascribuntur; tametsi quantum 
+      ar<lb ed="#P" n="14" break="no"/>bitror, apud neutrum inveniantur exstare. Docent 
+      <lb ed="#P" n="15"/>autem iidem Patres non sine magni mysterii ratione 
+      <lb ed="#P" n="16"/>factum, ut cum initio mundi dies noctem 
+      anteces<lb ed="#P" n="17" break="no"/>serit, postea tamen illo ordine converso ex 
+      institu<lb ed="#P" n="18" break="no"/>to legis Mosaicae nox diem antecederet in 
+      suppu<lb ed="#P" n="19" break="no"/>tatione diei naturalis, nimirum ad significandum 
+      <lb ed="#P" n="20"/>quod homo in luce gratiae &amp; justitiae creatus, 
+      per<lb ed="#P" n="21" break="no"/>praevaricationem ab ea lapsus sit in tenebras 
+      pecca<lb ed="#P" n="22" break="no"/>torum, postea vero per Christum a tenebris ad 
+      lu<lb ed="#P" n="23" break="no"/>cem sit revocatus, juxta illud Apostoli Ephes. 5. 
+      <lb ed="#P" n="24"/>Eratis aliquando tenebrae, nunc autem lux in Domino. 
+      <lb ed="#P" n="25"/>Hanc rationem videre est apud sanctum Ambrosium 
+      <lb ed="#P" n="26"/>loco paulo ante citato, &amp; apud sanctum 
+      Augusti<lb ed="#P" n="27" break="no"/>num lib. 4. de Civitate Dei, cap. 6. nec non apud 
+      <lb ed="#P" n="28"/>Magistrum §. E. 
+    </p>
+            <p xml:id="bt67yj-p045542-d1e279">
+               <lb ed="#P" n="29"/>
+               <pc type="indent"/> Contra vero noctem die priorem in exordio 
+      mun<lb ed="#P" n="30" break="no"/>di fuisse, nonnulli alii patres senserunt. Atque 
+      impri<lb ed="#P" n="31" break="no"/>mis Hilarius lib. de synodis haud procul a fine eam 
+      <lb ed="#P" n="32"/>sententiam expresse tradit. Suffragatur &amp; sanctus 
+      <lb ed="#P" n="33"/>Hieronymus in commentario super Jonam ad illud 
+      <lb ed="#P" n="34"/>cap. secundi. Et erat Jonas in ventre piscis tribus 
+      die<lb ed="#P" n="35" break="no"/>bus &amp; tribus noctibus. Ostendens enim quomodo 
+      <lb ed="#P" n="36"/>Christus fuerit tribus diebus &amp; noctibus in 
+      sepul<lb ed="#P" n="37" break="no"/>chro; haec addit: Nam &amp; in Genesi nox non 
+      praece<lb ed="#P" n="38" break="no"/>dentis diei est, sed sequentis, id est, principium 
+      fu<lb ed="#P" n="39" break="no"/>turi, non finis praeteriti. His inter recentiores 
+      acce<lb ed="#P" n="40" break="no"/>dunt Tostatus scribens in Genesim, Eugubinus in 
+      <lb ed="#P" n="41"/>Cosmopoeia &amp; Hesselius super hanc distinctionem. 
+      <lb ed="#P" n="42"/>Igitur juxta horum sententiam nihil immutatum est 
+      <lb ed="#P" n="43"/>per hominis peccatum de prima institutione ac 
+      sup<lb ed="#P" n="44" break="no"/>putatione dierum &amp; noctium. Quae quidem 
+      senten<lb ed="#P" n="45" break="no"/>tia etsi paucioribus ex vetustate nixa patronis; 
+      atta<lb ed="#P" n="46" break="no"/>men ex scripturis bene perpensis permagnam habet 
+      <lb ed="#P" n="47"/>probabilitatem. 
+    </p>
+            <p xml:id="bt67yj-p045542-d1e325">
+               <lb ed="#P" n="48"/>
+               <pc type="indent"/> Primum, in confesso est tempore legis Mosaicae 
+      <lb ed="#P" n="49"/>noctem semper habitam fuisse ut priorem naturalis 
+      <lb ed="#P" n="50"/>diei partem. Quod patet ex Levit. 23. ubi mandat. 
+      <lb ed="#P" n="51"/>Dominus a vespera usque in vesperam celebrari 
+      sab<lb ed="#P" n="52" break="no"/>batum. Patet etiam ex Evangelio Marci 15. &amp; Joan. 
+      <lb ed="#P" n="53"/>19. ubi legimus eos qui Christum sepeliebant, 
+      pro<lb ed="#P" n="54" break="no"/>pterea eam rem accelerasse quod sabbatum 
+      immine<lb ed="#P" n="55" break="no"/>ret, scilicet appetente vespera, a qua sabbati 
+      ob<lb ed="#P" n="56" break="no"/>servatio initium sumebat. Unde nec sanctae illae 
+      mu<lb ed="#P" n="57" break="no"/>lieres aromata ad condiendum corpus Domini emere 
+      <lb ed="#P" n="58"/>ausae fuerunt, donec sabbato praeterito altera vespera 
+      <lb ed="#P" n="59"/>advenisset, ut diei sequentis initium. 
+    </p>
+            <p xml:id="bt67yj-p045542-d1e356">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Deinde nisi noctem fateamur initium diei tunc 
+      <lb ed="#P" n="61"/>fuisse, doceri non poterit quomodo vel synecdochice 
+      <lb ed="#P" n="62"/>tribus diebus fuerit Christus in sepulchro. Nocte 
+      <lb ed="#P" n="63"/>enim resurrexit, quae si finis est diei praecedentis, non 
+      <lb ed="#P" n="64"/>autem principium sequentis; nulla ergo parte tertii 
+      <lb ed="#P" n="65"/>diei Christus in sepulchro jacuit. 
+    </p>
+            <p xml:id="bt67yj-p045542-d1e374">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Jam vero eam quam diximus sabbati inchoandi &amp; 
+      <lb ed="#P" n="67"/>finiendi rationem non habuisse initium ex lege 
+      Mo<lb ed="#P" n="68" break="no"/>saica, sed ad primam dierum institutionem 
+      pertinuis<lb ed="#P" n="69" break="no"/>se, ex eo ostenditur: quia Deus Exod. 20. praecepit 
+      <lb ed="#P" n="70"/>observationem sabbati ad imitationem ejus quietis, 
+      <lb ed="#P" n="71"/>qua ipsemet post opus sex dierum septimo die ab 
+      om<lb ed="#P" n="72" break="no"/>ni opere vacaverat. Quae septimi diei quies pertinuit 
+      <lb ed="#P" n="73"/>haud dubie ad primam institutionem, quia 
+      praeces<lb ed="#P" n="74" break="no"/>sit non modo Mosaicae legis lationem, sed &amp; pri¬ 
+      <!--0352.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>mam hominis transgressionem. Quare sicut 
+      sabba<lb ed="#P" n="76" break="no"/>tum a nocte habuit initium, ita &amp; septimus dies 
+      <lb ed="#P" n="77"/>quietis dominicae. 
+    </p>
+            <p xml:id="bt67yj-p045542-d1e409">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Quod &amp; alio argumento probatur. Nam sexta 
+      <lb ed="#P" n="79"/>luce creatus est homo, postremum opus Genesis 
+      <lb ed="#P" n="80"/>mundi; nox igitur subsequens quietis dominicae 
+      fe<lb ed="#P" n="81" break="no"/>cit initium, id est, septimi diei, quo perhibetur 
+      Do<lb ed="#P" n="82" break="no"/>minus ab omni opere quievisse. Quo dato, jam 
+      con<lb ed="#P" n="83" break="no"/>sequens est sex quoque dies praecedentes simili initio 
+      <lb ed="#P" n="84"/>processisse. Nam alioqui fatendum erit illorum 
+      die<lb ed="#P" n="85" break="no"/>rum aliquem fuisse sine nocte, &amp; proinde 
+      dimidia<lb ed="#P" n="86" break="no"/>tum dumtaxat. Quod nec rationi consonum est nec 
+      <lb ed="#P" n="87"/>scripturae. Nam de unoquoque sex dierum dicitur: 
+      <lb ed="#P" n="88"/>Factum est vespere &amp; mane dies. 
+    </p>
+            <p xml:id="bt67yj-p045542-d1e439">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Praeterea manifeste testatur scriptura Exod. 20. &amp; 
+      <lb ed="#P" n="90"/>31. sex diebus Deum fecisse caelum &amp; terram, &amp; 
+      <lb ed="#P" n="91"/>omnia quae in eis sunt; ergo caelum &amp; terra facta 
+      <lb ed="#P" n="92"/>sunt primo die, quia constat non esse facta aliquo 
+      <lb ed="#P" n="93"/>sequentium quinque dierum: Atqui caelum &amp; terra 
+      <lb ed="#P" n="94"/>facta sunt ante lucem; non ergo lux fuit initium 
+      pri<lb ed="#P" n="95" break="no"/>mi diei, sed tenebrae, quae ante omnem lucem 
+      te<lb ed="#P" n="96" break="no"/>gentes faciem abyssi noctem obscurissimam 
+      facie<lb ed="#P" n="97" break="no"/>bant. Quod quidem argumentum ex scriptura 
+      val<lb ed="#P" n="98" break="no"/>de evidens est, ac prorsus destruit opinionem 
+      Ma<lb ed="#P" n="99" break="no"/>gistri &amp; aliorum qui dicunt ante primam lucem nec 
+      <lb ed="#P" n="100"/>diem fuisse, nec noctem, atque omnino tempus 
+      il<lb ed="#P" n="101" break="no"/>lud luci praevium non fuisse partem primi diei, sed 
+      <lb ed="#P" n="102"/>quoddam ejus velut praeambulum. 
+    </p>
+            <p xml:id="bt67yj-p045542-d1e474">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Postremo ex ipsa historia Genesis eadem opinio 
+      <lb ed="#P" n="104"/>refellitur. Nam tenebrae de quibus dicitur: Tenebrae 
+      <lb ed="#P" n="105"/>erant super faciem abyssi, paulo post appellantur 
+      no<lb ed="#P" n="106" break="no"/>mine noctis, sicut lux post tenebras facta vocatur 
+      <lb ed="#P" n="107"/>nomine diei. Quum enim dicat scriptura: 
+      Appel<lb ed="#P" n="108" break="no"/>lavitque lucem diem, &amp; tenebras noctem; respicit 
+      <lb ed="#P" n="109"/>procul dubio ad lucem &amp; tenebras, de quibus jam 
+      <lb ed="#P" n="110"/>locuta fuerat. Unde subsistere non potest quod dicit 
+      <lb ed="#P" n="111"/>sanctus Basilius homilia secunda Hexameron, 
+      pri<lb ed="#P" n="112" break="no"/>mum illum mundi statum qui lucem primigeniam 
+      <lb ed="#P" n="113"/>antecessit, non noctem, sed tenebras dictam fuisse. 
+      <lb ed="#P" n="114"/>Nam scriptura eas ipsas tenebras (neque enim de 
+      <lb ed="#P" n="115"/>aliis tenebris adhuc mentio facta fuerat) noctem a 
+      <lb ed="#P" n="116"/>Deo appellatam testatur.
+    </p>
+            <p xml:id="bt67yj-p045542-d1e509">
+               <lb ed="#P" n="117"/>Ex his porro contra calumniatores haereticos 
+      osten<lb ed="#P" n="118" break="no"/>ditur ecclesiam non imitari ritus Judaeorum, dum in 
+      <lb ed="#P" n="119"/>celebratione divinorum officiorum, vel etiam in 
+      ob<lb ed="#P" n="120" break="no"/>servatione dierum festorum (ut praescribitur in 
+      con<lb ed="#P" n="121" break="no"/>cilio apud Compendium habito, &amp; allegatur extra, 
+      <lb ed="#P" n="122"/>de feriis capit. Omnes) exordium sumit a vespera; 
+      <lb ed="#P" n="123"/>sed id facere, quod primae dierum institutioni 
+      con<lb ed="#P" n="124" break="no"/>sentaneum est; tametsi hoc quod de festorum 
+      ob<lb ed="#P" n="125" break="no"/>servatione canon praecipit, jam non ita passim 
+      ob<lb ed="#P" n="126" break="no"/>servatur; sed magis ea recepta est consuetudo, ut a 
+      <lb ed="#P" n="127"/>media nocte festorum dierum sanctificationem 
+      vul<lb ed="#P" n="128" break="no"/>gus auspicetur, eamque ad subsequentem mediam 
+      <lb ed="#P" n="129"/>noctem producat, quantum ad operum servilium 
+      ab<lb ed="#P" n="130" break="no"/>stinentiam attinet. Nam &amp; Ecclesia rem istam 
+      con<lb ed="#P" n="131" break="no"/>suetudini locorum atque regionum permittit, ut 
+      vi<lb ed="#P" n="132" break="no"/>dere est in canone proxime sequenti, eodem tit. cap. 
+      <lb ed="#P" n="133"/>Quantum ex Alexandro III. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

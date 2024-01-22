@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="364"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p141169"><!-- l2d32c5" -->
+            <head xml:id="bt67yj-p141169-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p141169-Hd1e103" type="question-title">Ejusdem doctrinae probatio per rationes</head>
+            <p xml:id="bt67yj-p141169-d1e106">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> §. 5. Ejusdem doctrinae probatio per rationes.
+    </p>
+            <p xml:id="bt67yj-p141169-d1e113">
+               <lb ed="#P" n="125"/>HAnc Catholicam doctrinam cum sit rationi 
+      <lb ed="#P" n="126"/>vel maxime conformis, non difficile est 
+      ratio<lb ed="#P" n="127" break="no"/>nibus aliquot confirmare. 
+    </p>
+            <p xml:id="bt67yj-p141169-d1e122">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Prima ratio ex peccati definitione sumitur: Non 
+      <lb ed="#P" n="129"/>enim propria peccati ratio completur absque 
+      volun<lb ed="#P" n="130" break="no"/>tario; neque ulla justitia Patitur puniri in homine 
+      <lb ed="#P" n="131"/>vitium, quod non sit ei aliquomodo voluntarium. 
+      <lb ed="#P" n="132"/>Patet id ex lege divina Deut. 22. 28. &amp; 30. ubi 
+      homi<lb ed="#P" n="133" break="no"/>cidium involuntarium, &amp; stuprum quod virgo 
+      invi<lb ed="#P" n="134" break="no"/>ta patitur, prorsus a punitione legis eximitur. Et Mat. 
+      <lb ed="#P" n="135"/>15. ea demum coinquinare hominem dicuntur, qua 
+      <lb ed="#P" n="136"/>de corde, id est, ex voluntate procedunt. Et Rom. 7. 
+      <lb ed="#P" n="137"/>de involuntariis motibus ita se excusat Apostolus, ut 
+      <lb ed="#P" n="138"/>dicat. Jam non ego operor illud, sed quod habitat in me 
+      <lb ed="#P" n="139"/>peccatum. Unde rectissime infert, nihil esse 
+      damna<lb ed="#P" n="140" break="no"/>tionis his qui sunt in Christo Jesu. Quapropter 
+      Pa<lb ed="#P" n="141" break="no"/>tres orthodoxi, atque imprimis Augustinus contra 
+      <lb ed="#P" n="142"/>Manichaeos constanter docent, ad peccati rationem 
+      <!--0598.xml-->
+      <pb ed="#P" n="365"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>voluntarium pertinere, ut lib. de vera religione cap. 
+      <lb ed="#P" n="2"/>14. Usque adeo, inquit, peccatum voluntarium malum 
+      <lb ed="#P" n="3"/>est, ut nullo modo sit peccatum, si non sit voluntarium. 
+      <lb ed="#P" n="4"/>Et lib. 1. retract. cap. 13. &amp; 15. 
+    </p>
+            <p xml:id="bt67yj-p141169-d1e175">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Altera ratio, quae &amp; ex ipsa Scriptura fundamentum 
+      <lb ed="#P" n="6"/>habet, talis est Id quod minus est voluntarium, 
+      mi<lb ed="#P" n="7" break="no"/>nus est peccatum: Dicit enim Dominus Luc 12. 
+      Ser<lb ed="#P" n="8" break="no"/>vus nesciens voluntatem Domini, &amp; faciens digna 
+      pla<lb ed="#P" n="9" break="no"/>gis, vapulabit paucis. Et Jac. 4. Scienti bonum facere 
+      <lb ed="#P" n="10"/>&amp; non facienti, peccatum est illi. Hoc autem ideo, 
+      <lb ed="#P" n="11"/>quia sicut scientia auget, ita ignorantia minuit 
+      volun<lb ed="#P" n="12" break="no"/>tarii, &amp; per consequens peccati rationem. Quare ubi 
+      <lb ed="#P" n="13"/>prorsus deest voluntarium, desinet ratio peccati. 
+    </p>
+            <p xml:id="bt67yj-p141169-d1e199">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Tertia sumitur ex opposito actu bono: 
+      Quantum<lb ed="#P" n="15" break="no"/>cunque enim sit in homine actus secundum se bonus, 
+      <lb ed="#P" n="16"/>si non sit voluntarius, sed fiat ab invito, vel 
+      ignoran<lb ed="#P" n="17" break="no"/>te, nullam laudem meretur, quia ut de avaro ait Eccl. 
+      <lb ed="#P" n="18"/>cap. 14. Etsi bene fecerit, ignoranter &amp; non volens 
+      <lb ed="#P" n="19"/>fecit. Unde nec diabolus nec Judas proditor, quamvis 
+      <lb ed="#P" n="20"/>tradendo Christum in mortem, electis multum 
+      pro<lb ed="#P" n="21" break="no"/>fuerint, laudandi fuerunt. Et quod ad propositum 
+      <lb ed="#P" n="22"/>magis pertinet, nec usurarii &amp; fornicarii propter 
+      <lb ed="#P" n="23"/>sanctas inspirationes &amp; cogitationes, quibus eorum 
+      <lb ed="#P" n="24"/>conscientia subinde tangitur, laudandi sunt, quandiu 
+      <lb ed="#P" n="25"/>eas consentiente voluntate non suscipiunt, 
+      quemad<lb ed="#P" n="26" break="no"/>modum &amp; Aug. docet qu. 1. ad Simplicianum, &amp; S. 
+      <lb ed="#P" n="27"/>Thom. 1. 2. q. 21. art. 2. Quare nec reprehensionem 
+      <lb ed="#P" n="28"/>aut poenam merentur, qui concupiscentiam &amp; pravas 
+      <lb ed="#P" n="29"/>ejus commotiones sentiunt inviti, &amp; proinde ista nec 
+      <lb ed="#P" n="30"/>peccata sunt: siquidem peccatum omne 
+      reprehensio<lb ed="#P" n="31" break="no"/>ne &amp; poena dignum est. 
+    </p>
+            <p xml:id="bt67yj-p141169-d1e243">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Postrema ratio: Omne peccatum est actus 
+      huma<lb ed="#P" n="33" break="no"/>nus, at concupiscentiae motus involuntarii non sunt 
+      <lb ed="#P" n="34"/>actus humani; non enim a mente vel ratione 
+      proce<lb ed="#P" n="35" break="no"/>dunt, sed ea reluctante oriuntur, ut vere dictum sit 
+      <lb ed="#P" n="36"/>ab Apostolo: Non ego operor illud; non ergo proprie 
+      <lb ed="#P" n="37"/>peccata sunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 5</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 5</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="18"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p006775"><!-- l2d2c5" -->
+            <head xml:id="bt67yj-p006775-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p006775-Hd1e103" type="question-title">Quo in loco creati angeli</head>
+            <p xml:id="bt67yj-p006775-d1e106">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> §. 5. Quo in loco creati angeli.
+    </p>
+            <p xml:id="bt67yj-p006775-d1e113">
+               <lb ed="#P" n="69"/>DE loco creationis angelorum etsi nihil in 
+      scri<lb ed="#P" n="70" break="no"/>Dituris expressum habemus; communis tamen 
+      <lb ed="#P" n="71"/>est doctorum sententia, creatos esse in caelo, quod 
+      <lb ed="#P" n="72"/>beatorum sedes est, &amp; empyreum a Theologis vo¬ 
+      <!--0251.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="73"/>catur. Rationes vero hujus doctrinae afferuntur. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e131">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Prima, quia creatura spiritualis ita est pars 
+      univer<lb ed="#P" n="75" break="no"/>si, ut ad alteram partem, id est, creaturam corpora 
+      <lb ed="#P" n="76"/>lem habeat ordinem quemdam, quatenus ei 
+      praesi<lb ed="#P" n="77" break="no"/>det, eamque administrat. Quare conveniens fuit 
+      il<lb ed="#P" n="78" break="no"/>lam creari in supremo corpore scilicet tanquam toti 
+      <lb ed="#P" n="79"/>naturae corporeae praesidentem. Haec ratio est apud 
+      <lb ed="#P" n="80"/>S. Thomam 1. part. quaest. 61. art. 4. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e152">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Secunda, quia natura angelica inter creaturas 
+      <lb ed="#P" n="82"/>summa est, cui proinde nisi peccando mereretur de 
+      <lb ed="#P" n="83"/>jici, summus in universo debebatur locus. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e163">
+               <lb ed="#P" n="84"/>
+               <pc type="indent"/> Tertia, quia sicut homo, cujus habitatio in terra 
+      <lb ed="#P" n="85"/>futura erat, in terra creatus est: ita consentaneum 
+      <lb ed="#P" n="86"/>fuit, angelos quibus non aliud habitaculum quam 
+      <lb ed="#P" n="87"/>caelum destinatum fuit, in caelo creari. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e176">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Quidam etiam hac utuntur probatione, quia 
+      dia<lb ed="#P" n="89" break="no"/>bolus cum angelis suis caelo dejectus, ac de caelo 
+      ce<lb ed="#P" n="90" break="no"/>cidisse legitur dicente Domino Luc. 10. Videbam 
+      <lb ed="#P" n="91"/>Satanam sicut fulgur de caelo cadentem, &amp; Propheta 
+      <lb ed="#P" n="92"/>Isa. 14. Quomodo ae calo cecidisti Lucifer? &amp; August. 
+      <lb ed="#P" n="93"/>libro 11. de Civitate, capit. 33. affirmante damones 
+      <lb ed="#P" n="94"/>de caelis caelorum, id est, de summo caelo fuisse 
+      deje<lb ed="#P" n="95" break="no"/>ctos in hoc caelum aereum. Sed hoc argumentum 
+      <lb ed="#P" n="96"/>non satis firmum esse probat ejectio primi hominis 
+      <lb ed="#P" n="97"/>e paradiso, in quo tamen creatus non fuerat. Ac 
+      <lb ed="#P" n="98"/>cedit quoque quod Basilius in homil. quod Deus 
+      <lb ed="#P" n="99"/>non est author malorum, caeli nomine in verbis 
+      <lb ed="#P" n="100"/>Christi Luc. 10. non beatorum intelligit 
+      habitacu<lb ed="#P" n="101" break="no"/>lum, sed superiorem ac priorem aeris regionem: 
+      <lb ed="#P" n="102"/>quo in loco ut Augustinus testatur lib. 3. de Gen. ad 
+      <lb ed="#P" n="103"/>litter. cap. 10. nonnulli ecclesiastici scriptores 
+      puta<lb ed="#P" n="104" break="no"/>verunt daemones fuisse ante transgressionem, sed sic 
+      <lb ed="#P" n="105"/>ut eos distinguant ac diversos faciant ab angelis 
+      cae<lb ed="#P" n="106" break="no"/>lestibus vel supercaelestibus, quorum nullos putant 
+      <lb ed="#P" n="107"/>cecidisse. Quid vero Patres de loco creationis 
+      an<lb ed="#P" n="108" break="no"/>gelorum senserint non adeo liquet, quod vix 
+      quic<lb ed="#P" n="109" break="no"/>quam hac de re aperte scriptum reliquerint. Apud 
+      <lb ed="#P" n="110"/>Epiphanium in haeresi Origenistarum recitantur 
+      <lb ed="#P" n="111"/>) verba Methodii Martyris, quibus caelum tribuit 
+      lo<lb ed="#P" n="112" break="no"/>cum creationi angelorum, ita tamen ut caelum ip 
+      <lb ed="#P" n="113"/>sum in suas dividat portiones, quas singulas, singulis 
+      <lb ed="#P" n="114"/>angelorum ordinibus attribuere videtur. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e239">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> Expressior est V. Bedae sententia scribentis in 
+      Ge<lb ed="#P" n="116" break="no"/>nes. 1. ubi supremum caelum a mundi volubilitate 
+      <lb ed="#P" n="117"/>secretum, mox ut creatum fuit; sanctis angelis 
+      re<lb ed="#P" n="118" break="no"/>pletum fuisse dicit. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e252">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> Hanc sententiam Straboni Magister in textu 
+      asscri<lb ed="#P" n="120" break="no"/>bit eandemque suo calculo approbat. Leguntur 
+      au<lb ed="#P" n="121" break="no"/>tem ea verba in glossa ordinar. super illud Genesis, 
+      <lb ed="#P" n="122"/>In principio creavit, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e265">
+               <lb ed="#P" n="123"/>
+               <pc type="indent"/> Caeterum illud huic doctrinae non parum addit 
+      <lb ed="#P" n="124"/>probabilitatis, quod neque ratio postulet ullum 
+      <lb ed="#P" n="125"/>alium locum designari aptiorem creationi 
+      angelo<lb ed="#P" n="126" break="no"/>rum, neque ulla patrum in contrarium exstet 
+      au<lb ed="#P" n="127" break="no"/>thoritas. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e282">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Existimant autem neoterici quidam satis 
+      proba<lb ed="#P" n="129" break="no"/>biliter dici posse non omnes angelos fuisse creatos 
+      <lb ed="#P" n="130"/>in caelo empyreo, sed eos qui deputatisunt motioni 
+      <lb ed="#P" n="131"/>orbium caelestium, creatos fuisse unumquemque in 
+      <lb ed="#P" n="132"/>illo orbe, cujus motioni deputabatur. Eos quoque 
+      <lb ed="#P" n="133"/>qui praefecti sunt gubernationi naturae elementaris, 
+      <lb ed="#P" n="134"/>creatos fuisse in ipsa elementari natura. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e302">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Sed haec opinio necessario supponit orbes 
+      caele<lb ed="#P" n="136" break="no"/>stes ab ipso statim exordio creaturae fuisse distinctos. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e311">
+               <lb ed="#P" n="137"/>
+               <pc type="indent"/> Quod tamen non modicam habet dubitationem, 
+      <lb ed="#P" n="138"/>de qua alibi dicemus. 
+    </p>
+            <p xml:id="bt67yj-p006775-d1e320">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Obiter autem circa praesentem quaestionem, ne 
+      <lb ed="#P" n="140"/>quis fallatur, notandum angelos hic non dici 
+      crea<lb ed="#P" n="141" break="no"/>tos in caelo tanquam in loco, vel habitaculo 
+      prae<lb ed="#P" n="142" break="no"/>parato, sicut homo creatus est in terra jam prius 
+      exi<lb ed="#P" n="143" break="no"/>stente, sicut &amp; caetera animalia in suis quaeque 
+      lo<lb ed="#P" n="144" break="no"/>cis; jam enim ex superioribus patet spiritualem 
+      <lb ed="#P" n="145"/>&amp; corporalem naturam simul creatam esse. Sed 
+      si<lb ed="#P" n="146" break="no"/>gnificatur angelos ut primum creati sunt, non fuisse 
+      <!--0252.xml-->
+      <pb ed="#P" n="19"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sine loco, quomodo utique fuissent si ante caelum &amp; 
+      <lb ed="#P" n="2"/>terram creati essent, sed eos simul cum loco, id est, 
+      <lb ed="#P" n="3"/>corpore in quo ab initio essent, creatos fuisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

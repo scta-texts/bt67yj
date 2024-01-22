@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="126"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p048566"><!-- l2d14c6" -->
+            <head xml:id="bt67yj-p048566-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p048566-Hd1e103" type="question-title">Utrum omnes stellae lumen a sole 
+      accipiant</head>
+            <p xml:id="bt67yj-p048566-d1e106">
+               <lb ed="#P" n="82"/>
+               <pc type="indent"/> §. 6. Utrum omnes stellae lumen a sole 
+      <lb ed="#P" n="83"/>accipiant?
+    </p>
+            <p xml:id="bt67yj-p048566-d1e115">
+               <lb ed="#P" n="84"/>NOn intempestive quaeritur hoc loco ubi de 
+      cae<lb ed="#P" n="85" break="no"/>lestium luminum creatione agitur; utrum 
+      om<lb ed="#P" n="86" break="no"/>nes stellae a sole lumen suum accipiant. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e124">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Nam de luna quidem id certum est eam non 
+      pro<lb ed="#P" n="88" break="no"/>prio sed alieno, id est solari lumine lucere. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e134">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Demonstrant enim hoc luminis ejus incrementa 
+      <lb ed="#P" n="90"/>&amp; decrementa provenientia ex recessu ejus a sole vel 
+      <lb ed="#P" n="91"/>accessu ad solem, propterea quod sola illa parte 
+      lu<lb ed="#P" n="92" break="no"/>ceat, qua solem respicit tanquam lumen ab eo 
+      reci<lb ed="#P" n="93" break="no"/>piens. Demonstrat etiam eclipsis quam patitur, terra 
+      <lb ed="#P" n="94"/>inter ipsam &amp; solem interposita. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e152">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Sed de caeteris stellis dubia res est &amp; controversa. 
+      <lb ed="#P" n="96"/>Multis enim placuit idem de caeteris quod de luna 
+      <lb ed="#P" n="97"/>judicium esse. Plinius libro secundo naturalis 
+      histo<lb ed="#P" n="98" break="no"/>riae capite sexto affirmat solem caeteris syderibus 
+      lu<lb ed="#P" n="99" break="no"/>men foenerari. Idem sentiunt Avicenna, Albertus, 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e168">
+               <lb ed="#P" n="100"/>
+               <pc type="indent"/> Beda, aliique non pauci tam astrologi quam theo 
+      <lb ed="#P" n="101"/>logi; atque inter hos Hugo annotatione sexta in 
+      Ge<lb ed="#P" n="102" break="no"/>nesim, &amp; Titelmannus libro septimo Physices 
+      cap<lb ed="#P" n="103" break="no"/>vicesimotertio, qui &amp; Aristotelem pro hac 
+      senten<lb ed="#P" n="104" break="no"/>tia allegat. Moventur autem his rationibus. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e184">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Primo; quia cum astrorum omnium similis sit 
+      na<lb ed="#P" n="106" break="no"/>tura, si luna proprium lumen non habet, sed illud? 
+      <lb ed="#P" n="107"/>sole mutuatur, apparet idem de tota astrorum 
+      mul<lb ed="#P" n="108" break="no"/>titudine sentiendum. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e197">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Secundo; quia sol ita est in mundo positus, ut sua 
+      <lb ed="#P" n="110"/>luce gerat quandam similitudinem Dei qui est pater 
+      <lb ed="#P" n="111"/>luminum Jacobi primo; ergo sicut omne lumen 
+      spi<lb ed="#P" n="112" break="no"/>rituale a Deo est, ita omne lumen corporale a sole 
+      <lb ed="#P" n="113"/>tanquam fonte hauritur. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e213">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Tertio; quia quandocumque aliquid reperitur in 
+      <lb ed="#P" n="115"/>pluribus, necesse est ut uni eorum primo &amp; per se 
+      <lb ed="#P" n="116"/>conveniat, ac caeteris per ipsum; at lux in pluribus 
+      <lb ed="#P" n="117"/>reperitur, est igitur aliquod corpus cui primo 
+      con<lb ed="#P" n="118" break="no"/>veniat &amp; per quod a caeteris participetur. Hoc autem 
+      <lb ed="#P" n="119"/>non aliud esse potest quam sol, utpote corpus 
+      om<lb ed="#P" n="120" break="no"/>nium lucidissimum. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e234">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> At vero rationes istae non admodum urgent. 
+      <lb ed="#P" n="122"/>Non prima; quia si ex eo quod omnium astrorum 
+      <lb ed="#P" n="123"/>similis sit natura, recte colligitur omnia lumen suum 
+      <lb ed="#P" n="124"/>aliunde accipere, jam erit idem de sole dicendum; 
+      <lb ed="#P" n="125"/>quippe etiam inter astra numeratur non minus 
+      <lb ed="#P" n="126"/>quam luna. Sunt enim ambo de numero siderum 
+      <lb ed="#P" n="127"/>errantium quos planetas vocamus. Non ergo hoc in 
+      <lb ed="#P" n="128"/>universum pertinet ad naturam astrorum, ut 
+      aliun<lb ed="#P" n="129" break="no"/>de luceant, sed magis illud eorum natura postulare 
+      <lb ed="#P" n="130"/>videretur, ut ad similitudinem solis proprium lumen 
+      <lb ed="#P" n="131"/>habeant, nisi ab hac generalitate luna faceret 
+      ex<lb ed="#P" n="132" break="no"/>ceptionem. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e265">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Nec secunda; quia similitudo solis cum Deo 
+      quan<lb ed="#P" n="134" break="no"/>tum ad lumen, tantum in eo spectatur, quod sicut 
+      <lb ed="#P" n="135"/>omne lumen diei a sole est; ita omne lumen veritatis 
+      <lb ed="#P" n="136"/>&amp; virtutis a Deo. Quod autem non sit absoluta 
+      com<lb ed="#P" n="137" break="no"/>paratio etiam quoad lumen corporeum, evidenter 
+      pa<lb ed="#P" n="138" break="no"/>tet in multis quae propriam habent lucem, ut ignis &amp; 
+      <lb ed="#P" n="139"/>quaecumque apud nos lucent etiam in tenebris, quo 
+      <lb ed="#P" n="140"/>rum nihil lucet a lumine solis in se projecto. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e287">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Nec tertia; quia quamvis id quod in pluribus 
+      <lb ed="#P" n="142"/>reperitur, uni alicui conveniat excellentius quam 
+      <lb ed="#P" n="143"/>caeteris, ut hac ratione dici possit unum illud 
+      alio<lb ed="#P" n="144" break="no"/>rum in eo genere mensura, quomodo calor igni 
+      <lb ed="#P" n="145"/>convenit; non tamen est necesse ut unum illud 
+      cae<lb ed="#P" n="146" break="no"/>teris sit causa similis qualitatis. Non enim omnia 
+      <!--0360.xml-->
+      <pb ed="#P" n="127"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sunt calida ab igne; neque igitur necesse est omnia 
+      <lb ed="#P" n="2"/>quae lucent, a sole lumen accipere. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e316">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Porro diversa sententia quibusdam doctis multo 
+      <lb ed="#P" n="4"/>videtur probabilior ob has rationes. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e325">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Primo, quia si omnes stellae lumen a sole 
+      acci<lb ed="#P" n="6" break="no"/>piant perinde ut luna, deberet unaquaeque earum 
+      <lb ed="#P" n="7"/>pati incrementa &amp; decrementa luminis eodem 
+      pror<lb ed="#P" n="8" break="no"/>sus modo quo luna, quod est plane contra 
+      experien<lb ed="#P" n="9" break="no"/>tiam. Omnis enim plenum lumen suum habent tam 
+      <lb ed="#P" n="10"/>soli vicinae quam appositae, ac nominatim planetae 
+      <lb ed="#P" n="11"/>Mercurius &amp; Venus, qui licet infra solem positi, 
+      <lb ed="#P" n="12"/>quantumcumque tamen ad solem accedant, nihil 
+      <lb ed="#P" n="13"/>videntur nec de suo lumine, nec de rotunditate 
+      figu<lb ed="#P" n="14" break="no"/>rae amittere, quod quidem oporteret iis accidere 
+      <lb ed="#P" n="15"/>eadem ratione qua accidit lunae. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e354">
+               <lb ed="#P" n="16"/>
+               <pc type="indent"/> Secundo, quia sol secundum astronomos 
+      longis<lb ed="#P" n="17" break="no"/>sime abest a caelo stellato, idque etiam per se liquet, 
+      <lb ed="#P" n="18"/>si situm ejus comparemus ad eas stellas quae supra nos 
+      <lb ed="#P" n="19"/>sint media nocte. Quare non est verisimile quod 
+      <lb ed="#P" n="20"/>stellae hujusmodi tam praeclarum lumen quo media 
+      <lb ed="#P" n="21"/>nocte fulgere atque etiam scintillare a nobis 
+      conspi<lb ed="#P" n="22" break="no"/>ciuntur, non habeant nisi ex reflexione radiorum 
+      <lb ed="#P" n="23"/>solis in ipsas velut corpora quaedam per se opaca, 
+      lu<lb ed="#P" n="24" break="no"/>cisque expertia, cadentium. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e379">
+               <lb ed="#P" n="25"/>
+               <pc type="indent"/> Tertio, quia stellae lucent eo modo quo ignis apud 
+      <lb ed="#P" n="26"/>nos lucet, unde &amp; vocantur ignes caelestes. Ignis 
+      au<lb ed="#P" n="27" break="no"/>tem lucet luce propria. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e390">
+               <lb ed="#P" n="28"/>
+               <pc type="indent"/> Quarto, probatur ex similitudine cometarum, quos 
+      <lb ed="#P" n="29"/>constat lucere propria luce. Sunt enim exhalationes 
+      <lb ed="#P" n="30"/>quaedam accensae &amp; ignitae. Atqui horum luci 
+      persi<lb ed="#P" n="31" break="no"/>milis est lux stellarum, adeo ut solo visu discerni 
+      in<lb ed="#P" n="32" break="no"/>ter hanc &amp; illam lucem non possit. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e406">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Quinto, quia si corpora quaedam corruptibilia 
+      <lb ed="#P" n="34"/>quae apud nos sunt, ut ignis, &amp; quidam vermiculi 
+      <lb ed="#P" n="35"/>terrae, &amp; quorundam animalium oculi, &amp; quaedam 
+      <lb ed="#P" n="36"/>ligna proprium habent splendorem, quem de se 
+      e<lb ed="#P" n="37" break="no"/>mittunt in tenebris, cur non etiam astra corpora 
+      <lb ed="#P" n="38"/>caelestia &amp; incorruptibilia, ad hoc in caelo a Deo 
+      <lb ed="#P" n="39"/>posita ut luceant per noctem, propriam lucem 
+      ha<lb ed="#P" n="40" break="no"/>beant? 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e428">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Postremo, caelum octavum in quo est innumera 
+      <lb ed="#P" n="42"/>multitudo stellarum, superius est, &amp; proinde 
+      nobi<lb ed="#P" n="43" break="no"/>lius caelo solis; quare non est verisimile stellas in eo 
+      <lb ed="#P" n="44"/>caelo mirabili pulchritudine micantes omne suum 
+      lu<lb ed="#P" n="45" break="no"/>men a corpore infra se posito, mutuari. 
+    </p>
+            <p xml:id="bt67yj-p048566-d1e444">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Et haec quidem argumenta partem quaestionis 
+      ne<lb ed="#P" n="47" break="no"/>gantem non parum confirmant. Si tamen quaeras 
+      <lb ed="#P" n="48"/>quid magis secundum scripturas dicendum sit: 
+      Res<lb ed="#P" n="49" break="no"/>pondeo neutrum ex iis colligi posse ne quidem 
+      pro<lb ed="#P" n="50" break="no"/>babiliter. Nam quod dicit apost. 1. Cor. 15. Alia 
+      <lb ed="#P" n="51"/>claritas solis, alia claritas lunae, &amp; aliae claritas 
+      stella<lb ed="#P" n="52" break="no"/>rum. Stella enim a stella differt claritate, nihil facit 
+      <lb ed="#P" n="53"/>ad alterutrum probandum. Sicut enim iis verbis 
+      <lb ed="#P" n="54"/>ascribitur stellis alia claritas a claritate solis; ita &amp; 
+      <lb ed="#P" n="55"/>lunae, quam tamen apud omnes doctos in confesso 
+      <lb ed="#P" n="56"/>est claritatem accipere a sole. Dicitur autem alia 
+      cla<lb ed="#P" n="57" break="no"/>ritas quae diversa secundum magis &amp; minus, sive alia 
+      <lb ed="#P" n="58"/>ab alia accepta sit sive non. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

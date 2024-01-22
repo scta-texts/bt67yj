@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 16</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 16</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="155"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p059954"><!-- l2d17c16" -->
+            <head xml:id="bt67yj-p059954-Hd1e101">Capitulum 16</head>
+            <head xml:id="bt67yj-p059954-Hd1e103" type="question-title">Solvuntur argumenta diversae opinionis</head>
+            <p xml:id="bt67yj-p059954-d1e106">
+      <!--0388.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>§. 16. Solvuntur argumenta diversae opinionis. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e115">
+               <lb ed="#P" n="76"/>ARgumenta quae probare videntur animas 
+      ho<lb ed="#P" n="77" break="no"/>minum nascentium non creari, sed a parenti¬i 
+      <lb ed="#P" n="78"/>bus traduci; partìm e scriptura, partim a ratione 
+      <lb ed="#P" n="79"/>ducuntur. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e126">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Ac primum quidem testatur scriptura Genes. 2. 
+      <lb ed="#P" n="81"/>&amp; Exod. 20. Deum sex primis diebus totum 
+      creatio<lb ed="#P" n="82" break="no"/>nis opus absolvisse, postea vero requievisse ab 
+      uni<lb ed="#P" n="83" break="no"/>verso opere suo; non igitur animae nunc novae 
+      crean<lb ed="#P" n="84" break="no"/>tur, sed per rationes seminales creaturis initio 
+      in<lb ed="#P" n="85" break="no"/>ditas producuntur. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e145">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Secundo: In formatione Evae ex Adam non est 
+      <lb ed="#P" n="87"/>dictum: Inspiravit in faciem ejus spiraculum vitae, 
+      <lb ed="#P" n="88"/>sicut de Adam dictum fuerat; ergo anima ejus non 
+      <lb ed="#P" n="89"/>fuit creata sicut anima Adae, sed accepta ab eo a quo 
+      <lb ed="#P" n="90"/>&amp; corpus. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e161">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Tertio: Genes. 5. dicitur Adam genuisse filium 
+      <lb ed="#P" n="92"/>ad imaginem &amp; similitudinem suam; est autem 
+      fi<lb ed="#P" n="93" break="no"/>lius imago &amp; similitudo patris secundum animam; 
+      <lb ed="#P" n="94"/>ergo Adam genuit filium secundum animam. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e174">
+               <lb ed="#P" n="95"/>
+               <pc type="indent"/> Quarto: Genes. 12. dicuntur Abraham &amp; Loth. 
+      <lb ed="#P" n="96"/>tulisse secum omnes animas quas fecerant in 
+      Ha<lb ed="#P" n="97" break="no"/>ram; fecisse autem aliter intelligi non possunt quam 
+      <lb ed="#P" n="98"/>generando. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e187">
+               <lb ed="#P" n="99"/>
+               <pc type="indent"/> Quinto: Genes. 46. dicuntur 70. animae egressae 
+      <lb ed="#P" n="100"/>de femore Jacob, quod non est aliud quam seminis 
+      <lb ed="#P" n="101"/>propagatione traduci. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e198">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Sexto:. Levit. 17. dicit Dominus. Anima omnis 
+      <lb ed="#P" n="103"/>carnis in sanguine est: At sanguis cum semine 
+      tradu<lb ed="#P" n="104" break="no"/>citur: ergo &amp; anima¬ 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e209">
+               <lb ed="#P" n="105"/>
+               <pc type="indent"/> Septimo: Joannis 2. Quod natum est ex carne, 
+      <lb ed="#P" n="106"/>caro est. At homo secundum naturam est caro, id 
+      <lb ed="#P" n="107"/>est, carnalis quia peccatum primo est in anima; ergo, 
+      <lb ed="#P" n="108"/>secundum animam natus est ex carne. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e223">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Octavo: Rom. 5. In Adam omnes peccaverunt: 
+      <lb ed="#P" n="110"/>sola autem anima capax est peccati: ergo in Adam 
+      <lb ed="#P" n="111"/>secundum animam omnes fuerunt, quia peccasse 
+      <lb ed="#P" n="112"/>praesupponit fuisse 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e236">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Nono: Pro eo quod in Psalm. 32. dicitur: Qu 
+      <lb ed="#P" n="114"/>finxit sigillatim, &amp;c. in Hebraeo est; Qui finxit 
+      <lb ed="#P" n="115"/>pariter corda eorum, id est, animas; ergo in Adam 
+      <lb ed="#P" n="116"/>omnes animae factae sunt secundum seminalem 
+      ra<lb ed="#P" n="117" break="no"/>tionem. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e252">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> Decimo: Peccatum originale traducitur; igitur 
+      <lb ed="#P" n="119"/>&amp; anima quae illius peccati subjectum est. Neque 
+      <lb ed="#P" n="120"/>enim traduci potest accidens sine subjecto. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e263">
+               <lb ed="#P" n="121"/>
+               <pc type="indent"/> Undecimo: Si anima hominis non producitur 
+      <lb ed="#P" n="122"/>virtute seminis; igitur homo non generat hominem 
+      <lb ed="#P" n="123"/>E sed tantum corpus ejus, quae est pars hominis 
+      infe<lb ed="#P" n="124" break="no"/>rior atque ignobilior. Quare nec vere dici poterit 
+      <lb ed="#P" n="125"/>parens hominis, sed corporis tantum. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e279">
+               <lb ed="#P" n="126"/>Duodecimo: Si homo generando non producit 
+      <lb ed="#P" n="127"/>animam rationalem; ergo pejoris est conditionis 
+      <lb ed="#P" n="128"/>quam bruta &amp; plantae, quae producunt animas sibi 
+      <lb ed="#P" n="129"/>proprias, scilicet sensitivam &amp; vegetativam. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e290">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Decimotertio: Si Deus animas singulas in 
+      homi<lb ed="#P" n="131" break="no"/>nibus creat; igitur in ipso creationis instanti bonae 
+      <lb ed="#P" n="132"/>sunt, &amp; originalis peccati expertes. Non enim 
+      crea<lb ed="#P" n="133" break="no"/>re potest Deus animam peccatricem. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e304">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Decimoquarto: In homine secundum rem eadem 
+      <lb ed="#P" n="135"/>est anima vegetativa, sensitiva &amp; intellectiva: 
+      Pro<lb ed="#P" n="136" break="no"/>ducitur autem ex semine anima hominis vegetativa 
+      <lb ed="#P" n="137"/>&amp; sensitiva: igitur &amp; intellectiva. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e317">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Decimoquinto: Homo gignit sibi simile 
+      secun<lb ed="#P" n="139" break="no"/>dum speciem: At species humana constituitur per 
+      <lb ed="#P" n="140"/>animam rationalem; ergo anima rationalis est a 
+      <lb ed="#P" n="141"/>gignente.
+    </p>
+            <p xml:id="bt67yj-p059954-d1e330">
+               <lb ed="#P" n="142"/>Postremo: Si Deus sigillatim creat animas 
+      om<lb ed="#P" n="143" break="no"/>nium qui quomodocumque gignuntur; ergo 
+      coo<lb ed="#P" n="144" break="no"/>peratur stupris &amp; adulteriis ex quibus homines 
+      gi<lb ed="#P" n="145" break="no"/>gnuntur. Erat hoc argumentum Apollinaris, ut refert 
+      <!--0389.xml-->
+      <pb ed="#P" n="156"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Gregorius Nyssenus in lib. de anima cap. sexto. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e350">
+               <lb ed="#P" n="2"/>
+               <pc type="indent"/> Sunt &amp; alia quae objici possunt, quae qui volet, 
+      re<lb ed="#P" n="3" break="no"/>quirat apud S. Thomam lib. 2. contra Gent. cap. 
+      <lb ed="#P" n="4"/>88. &amp; de potentia q 3. art. 9. Quo quidem 
+      posterio<lb ed="#P" n="5" break="no"/>ri loco objectiones affert 29. numero; quas &amp; 
+      eo<lb ed="#P" n="6" break="no"/>dem ordine solvit. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e366">
+               <lb ed="#P" n="7"/>
+               <pc type="indent"/> Verum ad ista quae adduximus, nunc 
+      respon<lb ed="#P" n="8" break="no"/>deamus. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e375">
+               <lb ed="#P" n="9"/>
+               <pc type="indent"/> Ad primum itaque respondetur Deum omnia, id 
+      <lb ed="#P" n="10"/>est, omnes rerum species primis sex diebus creasse, 
+      <lb ed="#P" n="11"/>ipsamque naturam totam instituisse, quam postea 
+      <lb ed="#P" n="12"/>sua gubernatione conservaturus erat. Ad eam autem 
+      <lb ed="#P" n="13"/>conservationem pertinet, ut animae humanae ad 
+      <lb ed="#P" n="14"/>exemplum animae primi hominis divina velut 
+      inspi<lb ed="#P" n="15" break="no"/>ratione corporibus ad eam recipiendam praeparatis 
+      <lb ed="#P" n="16"/>infundantur. Qua de re plura diximus ad dist. 15. 
+      <lb ed="#P" n="17"/>Atque hanc solutionem suppeditat ipse Aug. lib. 10. 
+      <lb ed="#P" n="18"/>de Genes. ad literam cap. 3. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e402">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Ad secundum. Quamvis in creatione mulieris non 
+      <lb ed="#P" n="20"/>legatur dictum: Et inspiravit, &amp;c. intelligendum 
+      <lb ed="#P" n="21"/>tamen est Deum hoc fecisse, idque satis indicant 
+      <lb ed="#P" n="22"/>ipsius Adae verba, quando dicens: Hoc nunc os ex 
+      <lb ed="#P" n="23"/>ossibus meis &amp; caro de carne mea, non addidit: &amp; 
+      <lb ed="#P" n="24"/>anima de ammameae; quod tamen maxime 
+      adden<lb ed="#P" n="25" break="no"/>dum fuisset, si sic anima mulieris fuisset de anima 
+      <lb ed="#P" n="26"/>viri sicut os de osse, &amp; caro de carne. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e424">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> Ad tertium respondetur sensum esse quod Adam 
+      <lb ed="#P" n="28"/>genuit filium gerentem imaginem &amp; similitudinem 
+      <lb ed="#P" n="29"/>patris, id est, hominem patri homini similem; 
+      li<lb ed="#P" n="30" break="no"/>cet non illud genuerit in quo potissimum illa 
+      simi<lb ed="#P" n="31" break="no"/>litudo consistit. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e440">
+               <lb ed="#P" n="32"/>
+               <pc type="indent"/> Ad quartum &amp; quintum una responsio est animas 
+      <lb ed="#P" n="33"/>synecdochice pro hominibus positas esse, sicut &amp; 
+      <lb ed="#P" n="34"/>alibi saepe in scriptura, ut cum Jerem. 49. anima 
+      <lb ed="#P" n="35"/>percuti dicitur dum homo occiditur; licet etiam id 
+      <lb ed="#P" n="36"/>quod animae tribuitur, competat homini non 
+      secun<lb ed="#P" n="37" break="no"/>dum animam, sed secundum corpus. Haec responsio 
+      <lb ed="#P" n="38"/>est apud Aug. qu. 150. super Genesim. Quanquam 
+      <lb ed="#P" n="39"/>potest etiam his locis animae nomine vita in genere 
+      <lb ed="#P" n="40"/>intelligi, atque ita per animam, id est, vitam 
+      ulte<lb ed="#P" n="41" break="no"/>rius intelligetur ipsum animal vivens, sive pro 
+      ho<lb ed="#P" n="42" break="no"/>mine verificatio fiat, sive pro quocunque alio 
+      ani<lb ed="#P" n="43" break="no"/>mali. Sic enim generaliter animam accipi debere 
+      vi<lb ed="#P" n="44" break="no"/>detur Genes. 12. Nam eo loco non tantum homines, 
+      <lb ed="#P" n="45"/>sed &amp; pecora significantur una cum Abraham &amp; 
+      <lb ed="#P" n="46"/>Loth egressa in Haram in terram Chanaam. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e477">
+               <lb ed="#P" n="47"/>
+               <pc type="indent"/> Ad sextum, anima more scripturae in sanguine 
+      <lb ed="#P" n="48"/>esse dicitur, quia ut explicat Augustinus quaestione 
+      <lb ed="#P" n="49"/>super Levit. vita animalis quae consistit in 
+      conjun<lb ed="#P" n="50" break="no"/>ctione animae cum corpore, maxime &amp; potissimum 
+      <lb ed="#P" n="51"/>sanguine in corpore continetur. Cujus rationem 
+      ad<lb ed="#P" n="52" break="no"/>fert S. Thomas qu. 9. de potentia art. 3. quia 
+      quali<lb ed="#P" n="53" break="no"/>tates vitae sunt calidum &amp; humidum, quae in 
+      anima<lb ed="#P" n="54" break="no"/>li per sanguinem (in quo eaedem qualitates 
+      excel<lb ed="#P" n="55" break="no"/>lunt) conservantur. Hinc autem non est 
+      conse<lb ed="#P" n="56" break="no"/>quens animam cum sanguine traduci, sed ad ejus 
+      <lb ed="#P" n="57"/>infusionem &amp; receptionem certas in corpore 
+      qualita<lb ed="#P" n="58" break="no"/>tes requiri.
+    </p>
+            <p xml:id="bt67yj-p059954-d1e508">
+               <lb ed="#P" n="59"/>Ad septimum respondetur illa Domini verba 
+      ac<lb ed="#P" n="60" break="no"/>cipi debere de toto homine. Sensus enim est, ex 
+      ho<lb ed="#P" n="61" break="no"/>mine, qui vitio suae originis caro est, id est carnalis, 
+      <lb ed="#P" n="62"/>sicut dicit Apostolus Rom. 7. Ego autem carnalis 
+      <lb ed="#P" n="63"/>sum; non posse nasci hominem spiritualem sed 
+      car<lb ed="#P" n="64" break="no"/>nalem, ideoque ut spiritualis fiat, renasci eum 
+      opor<lb ed="#P" n="65" break="no"/>tere ex spiritu, juxta id quod sequitur: Quod 
+      na<lb ed="#P" n="66" break="no"/>tum est ex spiritu,, spiritus est. Quamvis autem 
+      ho<lb ed="#P" n="67" break="no"/>mo secundum animam sit caro, id est, carnalis, non 
+      <lb ed="#P" n="68"/>tamen necesse est inde traduci animam, unde 
+      con<lb ed="#P" n="69" break="no"/>trahitur vitium a quo homo carnalis dicitur, etiamsi 
+      <lb ed="#P" n="70"/>vitium illud sit in anima, ut mox declarabitur. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e537">
+               <lb ed="#P" n="71"/>
+               <pc type="indent"/> Ad octavum. In Adam omnes peccasse dicuntur, 
+      <lb ed="#P" n="72"/>quia ex Adam omnes peccatum contraxerunt. Hoc 
+      <lb ed="#P" n="73"/>autem quomodo fiat, scilicet ut peccatum ex Adam 
+      <lb ed="#P" n="74"/>traducatur, anima vero quae peccati subjectum est, 
+      <!--0389.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>non traducatur; non una doctorum responsio est. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e558">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Quidam dicunt peccatum in semine esse radicaliter; 
+      <lb ed="#P" n="77"/>ita nimirum ut semen vim habeat vitiandi &amp; peccato 
+      <lb ed="#P" n="78"/>inficiendi humanam naturam, sicque fieri ut anima 
+      <lb ed="#P" n="79"/>ex consortio corporis quod ex semine traducitur, &amp; 
+      <lb ed="#P" n="80"/>cum quo ipsa velut altera naturae pars hominem 
+      con<lb ed="#P" n="81" break="no"/>stituit; ipso creationis &amp; infusionis suae momento 
+      <lb ed="#P" n="82"/>peceatum contrahat. Quae sententia esse videtur 
+      Au<lb ed="#P" n="83" break="no"/>gustini libr. 2. de peccatorum meritis capit. 
+      vicesi<lb ed="#P" n="84" break="no"/>mosexto, &amp; libr. 4. contra Julianum capit. tertio. 
+      <lb ed="#P" n="85"/>Alii aliter respondent. Sed de ea re tractabitur ex 
+      <lb ed="#P" n="86"/>professo ad distinction. 31. ubi modus transfusionis 
+      <lb ed="#P" n="87"/>originalis peccati inquiretur. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e589">
+               <lb ed="#P" n="88"/>
+               <pc type="indent"/> Noni argumenti solutio jam superius indicata est 
+      <lb ed="#P" n="89"/>eo capit. quo creationem animarum ex scripturis 
+      <lb ed="#P" n="90"/>astruebamus. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e600">
+               <lb ed="#P" n="91"/>
+               <pc type="indent"/> Ad decimum respondetur frequens esse ut 
+      acci<lb ed="#P" n="92" break="no"/>dens traducatur, id est, quadam affectione vel 
+      in<lb ed="#P" n="93" break="no"/>fectione transeat in alterum non transeunte subjecto. 
+      <lb ed="#P" n="94"/>Nam scientia a Magistro transit in discipulum, 
+      ani<lb ed="#P" n="95" break="no"/>ma quae scientiae subjectum est, non transeunte: 
+      simi<lb ed="#P" n="96" break="no"/>liter haereses, errores, vitia; item calor ab igne transit 
+      <lb ed="#P" n="97"/>ad hominem astantem &amp; diffunditur in aerem 
+      vici<lb ed="#P" n="98" break="no"/>num non transfuso subjecto; sic lepra contrahitur &amp; 
+      <lb ed="#P" n="99"/>pestis, aliaque morum ac morborum contagia, 
+      <lb ed="#P" n="100"/>Transeunt autem haec non eadem numero, sed 
+      spe<lb ed="#P" n="101" break="no"/>cie. Quare nihil prohibet etiam originale peccatum 
+      <lb ed="#P" n="102"/>sine subjecto quod est anima, simili quapiam ratione 
+      <lb ed="#P" n="103"/>transire atque traduci. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e633">
+               <lb ed="#P" n="104"/>
+               <pc type="indent"/> Ad undecimum, Homo hominem generare 
+      dici<lb ed="#P" n="105" break="no"/>tur, non quia virtute ejus generativa forma 
+      essen<lb ed="#P" n="106" break="no"/>tialis hominis introducitur in materiam, quasi 
+      edu<lb ed="#P" n="107" break="no"/>cta e potentia materiae; sed quia causa est unionis 
+      <lb ed="#P" n="108"/>partium essentialium, in quantum eam 
+      dispositio<lb ed="#P" n="109" break="no"/>nem quae fit in materia virtute generantis, 
+      necessa<lb ed="#P" n="110" break="no"/>rio atque infallibiliter ex primaeva Dei institutione 
+      <lb ed="#P" n="111"/>sequitur unio illarum partium, scilicet animae cum 
+      <lb ed="#P" n="112"/>corpore. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e657">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Ad duodecimum respondetur hominem melioris 
+      <lb ed="#P" n="114"/>esse conditionis etiam in officio generandi, quam 
+      <lb ed="#P" n="115"/>sint bruta &amp; plantae; eo quod vis ejus generativa 
+      <lb ed="#P" n="116"/>non solum pertingat ad animam vegetativam &amp; 
+      <lb ed="#P" n="117"/>sensitivam, verum insuper ad eam materiae 
+      disposi<lb ed="#P" n="118" break="no"/>tionem, quam ut dictum est, necessario consequitur 
+      <lb ed="#P" n="119"/>adventus animae rationalis. Adde quod hoc ipsum 
+      <lb ed="#P" n="120"/>ad magnam dignitatem pertinet, talem habere 
+      ani<lb ed="#P" n="121" break="no"/>mam ad quam producendam propter ipsius 
+      excellen<lb ed="#P" n="122" break="no"/>tiam, nulla vis naturae possit attingere. Qua ratione 
+      <lb ed="#P" n="123"/>nec angelis, quorum excellentior est quam 
+      homi<lb ed="#P" n="124" break="no"/>num natura, vis ulla generandi competit. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e688">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Ad decimumtertium responsio patet ex solutione 
+      <lb ed="#P" n="126"/>octavi. Anima namque secundum substantiam suam 
+      <lb ed="#P" n="127"/>a Deo est, &amp; proinde bona, quia omnis creatura Dei 
+      <lb ed="#P" n="128"/>bona est, sed peccatum est a generante quatenus 
+      <lb ed="#P" n="129"/>quod ex carne nascitur, caro est; non ergo creat 
+      <lb ed="#P" n="130"/>Deus animam peccatricem, sed creat animam, quae 
+      <lb ed="#P" n="131"/>quod ipso creationis momento peccatrix sit, ab alia 
+      <lb ed="#P" n="132"/>causa contrahit. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e711">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Ad decimumquartum respondet sanctus Thomas 
+      <lb ed="#P" n="134"/>animam vegetativam &amp; sensitivam, ad quam 
+      per<lb ed="#P" n="135" break="no"/>tingit vis hominis generantis, non remanere in 
+      foe<lb ed="#P" n="136" break="no"/>tu, sed perfectiori anima, id est, intellectiva 
+      super<lb ed="#P" n="137" break="no"/>veniente pelli atque interire. Secundum quem 
+      pro<lb ed="#P" n="138" break="no"/>inde dicendum est animam intellectivam quae sola 
+      <lb ed="#P" n="139"/>remanet virtute vegetativam &amp; sensitivam esse, ut 
+      <lb ed="#P" n="140"/>quae omnem perfectionem inferiorum animarum 
+      <lb ed="#P" n="141"/>contineat. Aliis quibusdam, ut Scoto ejusque 
+      se<lb ed="#P" n="142" break="no"/>quacibus magis placet remanere in homine 
+      vegeta<lb ed="#P" n="143" break="no"/>tivam &amp; sensitivam animam simul cum intellectiva, 
+      <lb ed="#P" n="144"/>ut reipsa distinctas. Secundum quos dicendum est 
+      <lb ed="#P" n="145"/>illas quidem traduci virtute seminis, non autem 
+      <lb ed="#P" n="146"/>istam. Quae sane responsio suam quoque 
+      probabili<lb ed="#P" n="147" break="no"/>tatem habet. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e748">
+               <lb ed="#P" n="148"/>
+               <pc type="indent"/> Ad decimumquintum respondet idem sanctus 
+      <!--0390.xml-->
+      <pb ed="#P" n="157"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Thomas in summa, hominem generare sibi simile 
+      <lb ed="#P" n="2"/>inquantum per virtutem seminis ejus disponitur 
+      ma<lb ed="#P" n="3" break="no"/>teria ad susceptionem talis formae. 
+    </p>
+            <p xml:id="bt67yj-p059954-d1e768">
+               <lb ed="#P" n="4"/>
+               <pc type="indent"/> Ad postremum dicendum est Deum creando 
+      ani<lb ed="#P" n="5" break="no"/>maseor um qui ex stupris &amp; adulteriis nascuntur, 
+      <lb ed="#P" n="6"/>non his peccatis cooperari, sed naturae: Quod 
+      <lb ed="#P" n="7"/>quidem in aliis etiam peccatis locum habet, in 
+      qui<lb ed="#P" n="8" break="no"/>bus distinguere oportet deformitatem actus ab ipso 
+      <lb ed="#P" n="9"/>actu &amp; operatione naturali, ejusdemque 
+      operatio<lb ed="#P" n="10" break="no"/>nis naturali effectu. Horum enim causa Deus est, 
+      <lb ed="#P" n="11"/>deformitatis autem cohaerentis causa est voluntas. 
+      <lb ed="#P" n="12"/>creata deficiens. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 19</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 19</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="208"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p080480"><!-- l2d22c19" -->
+            <head xml:id="bt67yj-p080480-Hd1e101">Capitulum 19</head>
+            <head xml:id="bt67yj-p080480-Hd1e103" type="question-title">Non omne peccatum committi ex 
+      ignorantia</head>
+            <p xml:id="bt67yj-p080480-d1e106">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> §. 19. Non omne peccatum committi ex 
+      <lb ed="#P" n="44"/>ignorantia.
+    </p>
+            <p xml:id="bt67yj-p080480-d1e115">
+               <lb ed="#P" n="45"/>TRimembrem peccati divisionem jam 
+      explica<lb ed="#P" n="46" break="no"/>tam quidam oppugnantes, ostendere conantur 
+      <lb ed="#P" n="47"/>omne peccatum ad primum membrum pertinere, 
+      <lb ed="#P" n="48"/>quia nullum sit peccatum quod non ex ignorantia 
+      <lb ed="#P" n="49"/>committatur. Hoc autem probant. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e128">
+               <lb ed="#P" n="50"/>
+               <pc type="indent"/> Primum, quia generaliter dictum est, Proverb. 14. 
+      <lb ed="#P" n="51"/>Errant qui operantur malum. Et 21. Omnis via viri 
+      <lb ed="#P" n="52"/>recta sibi videtur. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e140">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Deinde ex hac sententia philosophis probata: 
+      Om<lb ed="#P" n="54" break="no"/>nis malus est ignorans, quae habetur apud 
+      Aristote<lb ed="#P" n="55" break="no"/>lem 3. Ethicorum cap. 1. Quibus accedit quod ait 
+      <lb ed="#P" n="56"/>Dionysius lib. de divinis nominibus cap. 4. nemo 
+      <lb ed="#P" n="57"/>respiciens ad malum operatur. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e156">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Item dicit S. Augustinus in prima expositione 
+      <lb ed="#P" n="59"/>Psalm. 18. Sicut tenebrae oculos, ita delicta 
+      men<lb ed="#P" n="60" break="no"/>tem claudunt, nec lucem sinunt videre, nec se: Et 
+      <lb ed="#P" n="61"/>in secunda ejusdem Psal. expositione. Quando 
+      quis<lb ed="#P" n="62" break="no"/>que delicto in volutus est, quasi obtenebratis oculis 
+      <lb ed="#P" n="63"/>non videt delictum. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e174">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Item Gregorius scribens in caput 15. lib. 1. 
+      Re<lb ed="#P" n="65" break="no"/>gum: Superbire nequeunt, nisi qui prius oculos 
+      cor<lb ed="#P" n="66" break="no"/>di perdunt, &amp;c. His addunt confirmationem ex 
+      ra<lb ed="#P" n="67" break="no"/>tione. Voluntas quae est appetitus rationalis, in 
+      ope<lb ed="#P" n="68" break="no"/>ratione sua semper &amp; necessario pendet ex judicio 
+      <lb ed="#P" n="69"/>rationis, igitur nunquam eliget peccatum, nisi ratio 
+      <lb ed="#P" n="70"/>corrupta judicet illud eligendum. Hoc autem 
+      judi<lb ed="#P" n="71" break="no"/>cium erroneum est.
+    </p>
+            <p xml:id="bt67yj-p080480-d1e196">
+      <!--0441.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Item: Voluntatis objectum est bonum verum 
+      <lb ed="#P" n="73"/>vel apparens; si verum, non peccat voluntas id 
+      <lb ed="#P" n="74"/>eligens; sin tantum apparens, est igitur in 
+      intelle<lb ed="#P" n="75" break="no"/>ctu error, quo id quod vere malum est, bonum 
+      <lb ed="#P" n="76"/>appareat. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e216">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Quin &amp; supra dictum est eum qui ex passione 
+      <lb ed="#P" n="78"/>peccat, dum peccat, perperam judicare de actu 
+      <lb ed="#P" n="79"/>particulari. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e227">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Verum absque dubitatione dicendum est, non 
+      <lb ed="#P" n="81"/>omnia peccata committi ex ignorantia, ut nunc 
+      qui<lb ed="#P" n="82" break="no"/>dem de peccatis ignorantiae loquimur. Nam illi 
+      so<lb ed="#P" n="83" break="no"/>li ex ignorantia peccare dicuntur, qui nec actu, nec 
+      <lb ed="#P" n="84"/>habitu noverunt omnes circunstantias sui actus. Et 
+      <lb ed="#P" n="85"/>hi non tantum in opere peccati ignorantes sunt, sed 
+      <lb ed="#P" n="86"/>etiam ante peccatum. Qui autem ex passione 
+      pec<lb ed="#P" n="87" break="no"/>cant saltem in habitu noverunt totum actum suum, 
+      <lb ed="#P" n="88"/>imo &amp; in actu eum noverunt ante passionem. In 
+      ip<lb ed="#P" n="89" break="no"/>sa vero passione dum ea jam praevalet, quadam 
+      igno<lb ed="#P" n="90" break="no"/>rantia circa particulare agibile laborant, donec 
+      pas<lb ed="#P" n="91" break="no"/>sio transeat. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e259">
+               <lb ed="#P" n="92"/>
+               <pc type="indent"/> Porro qui peccant ex certa malitia, hi &amp; 
+      cognos<lb ed="#P" n="93" break="no"/>cunt actum suum totum, &amp; peccatum esse sciunt, 
+      <lb ed="#P" n="94"/>nec tamen in eo quod peccant, omnino sine 
+      igno<lb ed="#P" n="95" break="no"/>rantia sunt. Nesciunt enim in particulari hunc 
+      ac<lb ed="#P" n="96" break="no"/>tum quem sciunt esse peccatum, non esse 
+      facien<lb ed="#P" n="97" break="no"/>dum pro consecutione ejus boni quod intendunt. 
+      <lb ed="#P" n="98"/>Hanc rem sanctus Thomas 1. 2. quaestione 78. 
+      arti<lb ed="#P" n="99" break="no"/>culo primo ad primum, docte &amp; breviter explicat 
+      <lb ed="#P" n="100"/>his verbis: Ignorantia quandoque quidem excludit 
+      <lb ed="#P" n="101"/>scientiam, qua aliquis simpliciter scit hoc esse 
+      ma<lb ed="#P" n="102" break="no"/>lum quod agit; &amp; tunc dicitur ex ignorantia 
+      pecca<lb ed="#P" n="103" break="no"/>re, quandoque autem excludit scientiam, quae homo 
+      <lb ed="#P" n="104"/>scit hoc nunc esse malum, sicut cum ex passione 
+      pec<lb ed="#P" n="105" break="no"/>catur, quandoque vero excludit scientiam qua 
+      ali<lb ed="#P" n="106" break="no"/>quis scit hoc malum non sustinendum esse, propter 
+      <lb ed="#P" n="107"/>consecutionem illius boni, scit tamen simpliciter hoc 
+      <lb ed="#P" n="108"/>esse malum; &amp; sic dicitur ignorare qui ex certa 
+      ma<lb ed="#P" n="109" break="no"/>litia peccat. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e303">
+               <lb ed="#P" n="110"/>
+               <pc type="indent"/> Quod autem multi peccent contra ea quorum 
+      <lb ed="#P" n="111"/>scientiam habent, &amp; proinde non sit dicendum 
+      om<lb ed="#P" n="112" break="no"/>nia peccata committi per ignorantiam, facile 
+      doce<lb ed="#P" n="113" break="no"/>tur ex scripturis. Dicit enim Dominus Luc. 12. 
+      Ser<lb ed="#P" n="114" break="no"/>vus qui cognovit voluntatem Domini sui &amp; non fecit, 
+      <lb ed="#P" n="115"/>vapulabit multis; &amp; Jacobus c. 4. Scienti bonum &amp; 
+      <lb ed="#P" n="116"/>non facienti, peccatum est illi. Nec diceret Paulus 1. 
+      <lb ed="#P" n="117"/>Tim. 1. se misericordiam consecutum a Deo, quia 
+      <lb ed="#P" n="118"/>ignorans fecerat, id est, per ignorantiam 
+      peccave<lb ed="#P" n="119" break="no"/>rat, si non essent alii multi, qui scientes peccant. 
+      <lb ed="#P" n="120"/>Idem Apostolus Roman. 2. Judaeum graviterarguit, 
+      <lb ed="#P" n="121"/>quod cum legis scientiam haberet, aliosque 
+      doce<lb ed="#P" n="122" break="no"/>ret, atque in hac legis scientia gloriaretur, ipse 
+      ta<lb ed="#P" n="123" break="no"/>men per praevaricationem legis Deum inhonoraret. 
+      <lb ed="#P" n="124"/>Et capite 7. docet cognitionem legis sine gratia 
+      red<lb ed="#P" n="125" break="no"/>dere hominem etiam magis peccatorem. Quo item 
+      <lb ed="#P" n="126"/>pertinet illud Poetae: 
+      <lb ed="#P" n="127"/>
+               <quote xml:id="bt67yj-p080480-Qd1e346">Video meliora, proboque; deteriora sequor.</quote>
+            </p>
+            <p xml:id="bt67yj-p080480-d1e349">
+               <lb ed="#P" n="128"/>Certe constat angelum &amp; primos hominos, 
+      quan<lb ed="#P" n="129" break="no"/>do primum peccaverunt, non ex ignorantia 
+      pec<lb ed="#P" n="130" break="no"/>casse. Neque enim poterat ignorantia ejus quod 
+      <lb ed="#P" n="131"/>agendum esset, praecedere peccatum. Sic enim 
+      <lb ed="#P" n="132"/>angelus &amp; homo miser fuisset antequam malus. 
+      <lb ed="#P" n="133"/>Quod est contra primaevam institutionem 
+      intelle<lb ed="#P" n="134" break="no"/>ctualis creaturae. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e367">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Ea vero quae in contrarium allata sunt, satis 
+      qui<lb ed="#P" n="136" break="no"/>dem ostendunt omnem peccantem eo ipso quo 
+      pec<lb ed="#P" n="137" break="no"/>cat, errare, sive ignorare aliquo modo, de quo mox 
+      <lb ed="#P" n="138"/>plura dicemus; non tamen ex iis est consequens, 
+      om<lb ed="#P" n="139" break="no"/>nem peccantem ex errore seu ignorantia peccare, 
+      <lb ed="#P" n="140"/>uti jam explicatum est. 
+    </p>
+            <p xml:id="bt67yj-p080480-d1e385">
+               <lb ed="#P" n="141"/>
+               <pc type="indent"/> Quanquam quod ad duas scripturas attinet e 
+      Pro<lb ed="#P" n="142" break="no"/>verbiis adductas, si diligenter expendantur, non 
+      <lb ed="#P" n="143"/>ad hoc quod jam diximus pertinere videntur. 
+      Sen<lb ed="#P" n="144" break="no"/>sus enim prioris est: Qui operantur malum, 
+      aber<lb ed="#P" n="145" break="no"/>rant a bonis futuris, &amp; incidunt in multa mala; ut 
+      <!--0442.xml-->
+      <pb ed="#P" n="209"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>solent homines aberrantes a recta via. Hunc 
+      intel<lb ed="#P" n="2" break="no"/>lectum postulat alterum sententiae membrum: 
+      Mi<lb ed="#P" n="3" break="no"/>sericordia &amp; veritas praeparant bona. Posterio autem 
+      <lb ed="#P" n="4"/>sententia significat plerosque homines sibi placere 
+      <lb ed="#P" n="5"/>in opinionibus &amp; actionibus suis. Unde sequitur: 
+      <lb ed="#P" n="6"/>Appendit autem corda Dominus, id est, Deus cordium 
+      <lb ed="#P" n="7"/>scrutator videt &amp; perfecte cognoscit opera &amp; 
+      inten<lb ed="#P" n="8" break="no"/>tiones singulorum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="148"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p057049"><!-- l2d17c7" -->
+            <head xml:id="bt67yj-p057049-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p057049-Hd1e103" type="question-title">Animam rationalem esse formam hominis 
+      substantialem</head>
+            <p xml:id="bt67yj-p057049-d1e106">
+               <lb ed="#P" n="37"/>§. 7. Animam rationalem esse formam hominis 
+      <lb ed="#P" n="38"/>substantialem.
+    </p>
+            <p xml:id="bt67yj-p057049-d1e113">
+               <lb ed="#P" n="39"/>QUorundam philosophorum maxime 
+      Platoni<lb ed="#P" n="40" break="no"/>corum opinio fuit, animam rationalem 
+      huma<lb ed="#P" n="41" break="no"/>no corpori additam esse velut nauclerum navi; 
+      vi<lb ed="#P" n="42" break="no"/>delicet tanquam externum quoddam principium 
+      <lb ed="#P" n="43"/>movens atque gubernans, quomodo intelligentiae 
+      <lb ed="#P" n="44"/>assistunt caelis quos movent, non autem ut formam 
+      <lb ed="#P" n="45"/>substantialiter informantem. Hujus sententiae 
+      me<lb ed="#P" n="46" break="no"/>minit <ref xml:id="bt67yj-p057049-Rd1e132">
+                  <name xml:id="bt67yj-p057049-Nd1e134">Aristoteles</name> lib. 2. de anima cap. 1.</ref> Quin hanc 
+      <lb ed="#P" n="47"/>ipsius <name xml:id="bt67yj-p057049-Nd1e139">Aristotelis</name> fuisse sententiam, ex aliis ejus 
+      scri<lb ed="#P" n="48" break="no"/>ptis quidam haud temere colligunt, uti indicavimus 
+      <lb ed="#P" n="49"/>ad distin. 14. ubi ejusdem philosophi mentem de 
+      ani<lb ed="#P" n="50" break="no"/>ma caeli exquirebamus. Eandem opinionem 
+      Chri<lb ed="#P" n="51" break="no"/>stiani quidam sive <name xml:id="bt67yj-p057049-Nd1e150">Platonem</name> sive <name xml:id="bt67yj-p057049-Nd1e152">Aristotelem</name> secuti 
+      <lb ed="#P" n="52"/>dogmatizarunt ante annos fere trecentos. Sed eos 
+      <lb ed="#P" n="53"/>tanquam haereticos damnandos censuerunt, <ref xml:id="bt67yj-p057049-Rd1e159">
+      Cle<lb ed="#P" n="54" break="no"/>mens quintus in concilio Viennensi</ref>, cujus super 
+      <lb ed="#P" n="55"/>hac re decretum exstat in <ref xml:id="bt67yj-p057049-Rd1e166">Clementina cap. unico 
+      <lb ed="#P" n="56"/>de summa Trinit. &amp; fide Catholica:</ref> &amp; <ref xml:id="bt67yj-p057049-Rd1e171">Leo 10. in 
+      <lb ed="#P" n="57"/>conc. Lateranensi sess. 8.</ref>
+            </p>
+            <p xml:id="bt67yj-p057049-d1e177">
+               <lb ed="#P" n="58"/>
+               <pc type="indent"/> Probatur autem haec Catholica veritas imprimis 
+      <lb ed="#P" n="59"/>ex fide resurrectionis. Ex ea enim constat esse 
+      natu<lb ed="#P" n="60" break="no"/>rale bonum animae ut sit in corpore, sicut ei malum 
+      <lb ed="#P" n="61"/>est contra &amp; naturalem ejus appetitum, quod sit a 
+      <lb ed="#P" n="62"/>corpore separata. Unde manifestum est eam non 
+      <lb ed="#P" n="63"/>tantum ut motricem &amp; gubernatricem corpori 
+      ad<lb ed="#P" n="64" break="no"/>hibitam esse, sed ut formam suae materiae 
+      conjun<lb ed="#P" n="65" break="no"/>ctam inesse. 
+    </p>
+            <p xml:id="bt67yj-p057049-d1e200">
+               <lb ed="#P" n="66"/>
+               <pc type="indent"/> Deinde demonstratur id ex fide incarnationis 
+      <lb ed="#P" n="67"/>Christi. Siquidem eo ipso quo credimus Christum 
+      <lb ed="#P" n="68"/>humanam accepisse naturam, credimus eum 
+      assum<lb ed="#P" n="69" break="no"/>psisse animam. Quod profecto consequens non 
+      es<lb ed="#P" n="70" break="no"/>set, si anima non esset hominis pars essentialis, sed 
+      <lb ed="#P" n="71"/>tantummodo corporis humani, vel ipsius hominis 
+      <!--0381.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>gubernatrix. Ad eam enim gubernationem abunde 
+      <lb ed="#P" n="73"/>sufficere poterat Christi divinitas. Quocirca 
+      Apol<lb ed="#P" n="74" break="no"/>linaris, qui Christo animam rationalem detraxit, 
+      <lb ed="#P" n="75"/>dicens ipsum verbum officia animae in eo abunde 
+      <lb ed="#P" n="76"/>supplere, damnatus est haereseos, propterea quod 
+      <lb ed="#P" n="77"/>subtractione animae veritatem humanae in Christo 
+      <lb ed="#P" n="78"/>naturae tolleret. 
+    </p>
+            <p xml:id="bt67yj-p057049-d1e237">
+               <lb ed="#P" n="79"/>
+               <pc type="indent"/> His adde quod si anima non est pars essentialis 
+      ho<lb ed="#P" n="80" break="no"/>minis, sed tantum forma quaedam assistens; 
+      conse<lb ed="#P" n="81" break="no"/>quens erit hominem non esse essentialiter animal 
+      <lb ed="#P" n="82"/>rationale, sed hoc quod rationale est, ei tantum 
+      com<lb ed="#P" n="83" break="no"/>petere a forma quadam assistente. Qua ratione caelos 
+      <lb ed="#P" n="84"/>animatos sive intellectuales esse ex eo quod anima 
+      <lb ed="#P" n="85"/>sive intelligentia iis assistat, dici posset. Quae autem 
+      <lb ed="#P" n="86"/>inde absurda consequantur, ut hominem perinde ut 
+      <lb ed="#P" n="87"/>brutum nec legum, nec praemiorum, nec 
+      supplicio<lb ed="#P" n="88" break="no"/>rum, nec mercedis aut meriti, nec ipsius denique 
+      <lb ed="#P" n="89"/>religionis capacem esse, sed haec omnia soli animae 
+      <lb ed="#P" n="90"/>rationali forinsecus advenienti &amp; assistenti 
+      compete<lb ed="#P" n="91" break="no"/>re, quomodo fabulatus est Orig. animas quae caelis 
+      <lb ed="#P" n="92"/>assistunt, ad Dei tribunal &amp; judicium trahi, non 
+      au<lb ed="#P" n="93" break="no"/>tem ipsos caelos, quid attinet commemorare? 
+    </p>
+            <p xml:id="bt67yj-p057049-d1e274">
+               <lb ed="#P" n="94"/>
+               <pc type="indent"/> Huc porro pertinent omnes illae patrum sententiae 
+      <lb ed="#P" n="95"/>quibus toties affirmant hominem ex anima &amp; 
+      corpo<lb ed="#P" n="96" break="no"/>re constare, partes nimirum substantiales hominis 
+      <lb ed="#P" n="97"/>intelligentes. Quin hoc ipsum Ecclesia palam 
+      profite<lb ed="#P" n="98" break="no"/>tur in symbolo Athanasii: in quo non minus proprie 
+      <lb ed="#P" n="99"/>quam vere dicitur animam rationalem &amp; carnem 
+      u<lb ed="#P" n="100" break="no"/>num esse hominem, scilicet unitate naturae, sicut 
+      <lb ed="#P" n="101"/>Deus &amp; homo unus est Christus unitate personae. 
+    </p>
+            <p xml:id="bt67yj-p057049-d1e296">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Quod autem in singulis hominibus singulae insint 
+      <lb ed="#P" n="103"/>animae quibus informentur, &amp; a quibus esse suum 
+      <lb ed="#P" n="104"/>accipiant, non autem vel plures animae rationales 
+      <lb ed="#P" n="105"/>in uno homine, vel unica in omnibus hominibus, 
+      <lb ed="#P" n="106"/>ut quidam. male philosophantes senserunt; 
+      defini<lb ed="#P" n="107" break="no"/>tum est in synodo 8. oecumenica Constantinopoli 
+      <lb ed="#P" n="108"/>celebrata can. I1. nec non in Lateranensi habita sub 
+      <lb ed="#P" n="109"/>Leone 10. sess. 8. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

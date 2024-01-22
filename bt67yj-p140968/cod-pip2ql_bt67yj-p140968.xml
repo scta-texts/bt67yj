@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="364"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p140968"><!-- l2d32c4" -->
+            <head xml:id="bt67yj-p140968-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p140968-Hd1e103" type="question-title">Ex Patribus docetur, neque concupiscentiam 
+      renatorum, neque motus ejus involuntarios esse peccata</head>
+            <p xml:id="bt67yj-p140968-d1e106">
+               <lb ed="#P" n="47"/>§. 4. Ex Patribus docetur, neque concupiscentiam 
+      rena<lb ed="#P" n="48" break="no"/>torum, neque motus ejus involuntarios esse peccata. 
+    </p>
+            <p xml:id="bt67yj-p140968-d1e113">
+               <lb ed="#P" n="49"/>QUoniam indifferenter tam de concupiscentia 
+      <lb ed="#P" n="50"/>renatorum, quam de motibus ejus 
+      involunta<lb ed="#P" n="51" break="no"/>riis docent Sectarii, ea proprii nominis esse peccata; 
+      <lb ed="#P" n="52"/>propterea quod altero eorum ostenso alterum 
+      con<lb ed="#P" n="53" break="no"/>sequens esse videatur (est enim revera de habitu &amp; 
+      <lb ed="#P" n="54"/>actu, quantum ad praesens negotium attinet eadem 
+      <lb ed="#P" n="55"/>ratio) idcirco ad refellendam hanc eorum 
+      doctri<lb ed="#P" n="56" break="no"/>nam, ex sententiis Patrum ostendemus, neque 
+      habi<lb ed="#P" n="57" break="no"/>tualem concupiscentiam renatorum, neque actuales 
+      <lb ed="#P" n="58"/>ejus motiones, quamdiu voluntas eis nullo modo 
+      <lb ed="#P" n="59"/>consentit, merito in peccatum imputari, aut omnino 
+      <lb ed="#P" n="60"/>peccata esse. Igitur praeter citata paulo ante loca 
+      Au<lb ed="#P" n="61" break="no"/>gustini, Prosperi &amp; Bedae, quibus negant sine 
+      con<lb ed="#P" n="62" break="no"/>sensu ullum admitti peccatum, &amp; praeter ea quae 
+      su<lb ed="#P" n="63" break="no"/>pra annotavimus ad dist. 21. ubi quaerebatur, an 
+      ten<lb ed="#P" n="64" break="no"/>tatio carnis esse possit absque peccato; sunt &amp; alia 
+      lo<lb ed="#P" n="65" break="no"/>ca Patrum, quibus apertissime contra hunc errorem 
+      <lb ed="#P" n="66"/>Catholica fides confirmatur. 
+    </p>
+            <p xml:id="bt67yj-p140968-d1e155">
+               <lb ed="#P" n="67"/>
+               <pc type="indent"/> Augustinus enim libro 2. de peccatorum meritis 
+      <lb ed="#P" n="68"/>capite 4. Concupiscentia, inquit, cum parvulis 
+      nas<lb ed="#P" n="69" break="no"/>citur, in baptizatis a reatu solvitur, in grandibus ad 
+      <lb ed="#P" n="70"/>agonem manet, non sibi ad illicita consentientibus 
+      <lb ed="#P" n="71"/>nihil omnino nocitura. Et libro 2. de Gen. contra 
+      <!--0597.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Manich. cap. 14. Aliquando, inquit, ratio viriliter 
+      <lb ed="#P" n="73"/>etiam commotam concupiscentiam refraenat atque 
+      <lb ed="#P" n="74"/>compescit. Quod cum fit, non labimur in 
+      pecca<lb ed="#P" n="75" break="no"/>tum, sed cum aliquanta luctatione coronamur. Et 
+      <lb ed="#P" n="76"/>lib. 1. contra 2. epist. Pelagianorum cap. 13. de 
+      concu<lb ed="#P" n="77" break="no"/>piscentia inquiens: Nec propter ipsam, inquit, cujus 
+      <lb ed="#P" n="78"/>jam reatus lavacro regenerationis absumptus est, 
+      di<lb ed="#P" n="79" break="no"/>cunt in oratione baptiziti: Dimitte nobis debita 
+      no<lb ed="#P" n="80" break="no"/>stra, sed propter peccata quae fiunt, sive in ejus 
+      con<lb ed="#P" n="81" break="no"/>sensionibus, &amp;c. Similia docet ejusdem lib. cap. 14. 
+      <lb ed="#P" n="82"/>Item contra Julianum lib. 2. c. 3. 8. 9. &amp; 10. &amp; lib. 4. 
+      <lb ed="#P" n="83"/>cap. 5. &amp; lib. 6. cap. 5. &amp; in opere homiliarum hom. 
+      <lb ed="#P" n="84"/>50. cap. 3. &amp; 8. lib. 1. de civit. cap. 18. lib. 1. de nuptiis 
+      <lb ed="#P" n="85"/>&amp; concupiscentia cap. 23. &amp; lib. 2. cap. 34. lib. 2. de 
+      <lb ed="#P" n="86"/>Gen. ad literam, cap. 15. &amp; in expositione 
+      quarun<lb ed="#P" n="87" break="no"/>dam propositionum epist. ad Rom. propositione 16. 
+      <lb ed="#P" n="88"/>&amp; 45. Nec tantum vult August. concupiscentiam in 
+      <lb ed="#P" n="89"/>renatis vel motus ejus involuntarios, propterea non 
+      <lb ed="#P" n="90"/>esse peccata, quia Deus ea ad peccatum non 
+      impu<lb ed="#P" n="91" break="no"/>tat; quasi non secundum veritatem sit judicium &amp; 
+      <lb ed="#P" n="92"/>aestimatio Dei, ut quod vere peccatum est, in ejus 
+      <lb ed="#P" n="93"/>reputatione peccatum non sit; sed quia revera in iis 
+      <lb ed="#P" n="94"/>jam non reperitur ratio peccati. Unde quamvis 
+      ali<lb ed="#P" n="95" break="no"/>quando dicat renatis concupiscentiam ad peccatum 
+      <lb ed="#P" n="96"/>non imputari, ut lib. 2. de nuptiis &amp; concupiscentia 
+      <lb ed="#P" n="97"/>C cap. 24. qua phrasi etiam Scriptura utitur Psal. 31. &amp; 
+      <lb ed="#P" n="98"/>Rom. 4. alibi tamen absolute negat peccatum esse, 
+      <lb ed="#P" n="99"/>usque adeo ut affirmet lib. 2. de peccatorum 
+      meri<lb ed="#P" n="100" break="no"/>tis cap. 28. hoc malum in renatis superatum esse &amp; 
+      <lb ed="#P" n="101"/>peremptum, superatum videlicet, ne regnet; 
+      perem<lb ed="#P" n="102" break="no"/>ptum ne vivat; nisi, inquit, illicito consensu 
+      quo<lb ed="#P" n="103" break="no"/>dammodo reviviscat, &amp; in regnum proprium, 
+      domi<lb ed="#P" n="104" break="no"/>nationemque revocetur. Huc pertinent &amp; ea 
+      Au<lb ed="#P" n="105" break="no"/>gustini loca, quibus docet parentes justos 
+      transfun<lb ed="#P" n="106" break="no"/>dere peccatum quod non habent. 
+    </p>
+            <p xml:id="bt67yj-p140968-d1e252">
+               <lb ed="#P" n="107"/>
+               <pc type="indent"/> Porro in eandem sententiam annotari possunt &amp; 
+      <lb ed="#P" n="108"/>haec loca aliorum Patrum: Ambrosii in lib. de arca 
+      <lb ed="#P" n="109"/>&amp; Noe capite 9. Hilarii ab Augustino citati libro 
+      <lb ed="#P" n="110"/>secundo contra Julianum capite nono. Hieronymi 
+      <lb ed="#P" n="111"/>ad illud Matth. 5. Qui viderit mulierem: 
+      Epipha<lb ed="#P" n="112" break="no"/>nii in haeresi Origenis, ubi refert verba Methodii 
+      <lb ed="#P" n="113"/>dicentis sanctos exercere justitiam sine admixtione 
+      <lb ed="#P" n="114"/>peccati. Item Chrysostomi hom. 50. in Matth. &amp; 
+      Cy<lb ed="#P" n="115" break="no"/>rilli libro 4. in Jo. capite 51. in hanc denique 
+      sen<lb ed="#P" n="116" break="no"/>tentiam tanquam certam &amp; indubitatam, 
+      conces<lb ed="#P" n="117" break="no"/>sit omnis posteriorum Theologorum schola, quoad 
+      <lb ed="#P" n="118"/>concupiscentiam, etsi non omnes consentiant quoad 
+      <lb ed="#P" n="119"/>motus concupiscentiae. Quare merito errorem illi 
+      <lb ed="#P" n="120"/>contrarium primum Leo decimus in bulla 
+      dam<lb ed="#P" n="121" break="no"/>nationis articulorum <name xml:id="bt67yj-p140968-Nd1e288">Lutheri</name>; deinde <ref xml:id="bt67yj-p140968-Rd1e291">Patres 
+      Con<lb ed="#P" n="122" break="no"/>cilii Trident. sessione 5. canon. 5.</ref> anathemate 
+      no<lb ed="#P" n="123" break="no"/>tarunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="344"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p133330"><!-- l2d27c3" -->
+            <head xml:id="bt67yj-p133330-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p133330-Hd1e103" type="question-title">Quo sensu virtus interdum dicatur actus</head>
+            <p xml:id="bt67yj-p133330-d1e106">
+               <lb ed="#P" n="27"/>
+               <pc type="indent"/> §. 3. Quo sensu virtus interdum dicatur actus.
+    </p>
+            <p xml:id="bt67yj-p133330-d1e113">
+               <lb ed="#P" n="28"/>VIrtutis nomen actibus attributum interdum 
+      <lb ed="#P" n="29"/>legimus apud veteres. Nam Augustinus lib. 1. 
+      <lb ed="#P" n="30"/>retract. cap. 9. bonum usum liberi arbitrii virtutem 
+      <lb ed="#P" n="31"/>esse dicit, quae in magnis numeratur bonis. Et tract 
+      <lb ed="#P" n="32"/>40. in Joann. Quid est fides, inquit: Credere quod 
+      <lb ed="#P" n="33"/>non vides. Item lib. 3. de doctrina Christiana cap. 
+      <lb ed="#P" n="34"/>10. &amp; quaest. 36. lib. 83. quaest. Charitatem vocat 
+      <lb ed="#P" n="35"/>motum animi. Praeterea lib. 4. contra Julianum 
+      <lb ed="#P" n="36"/>cap. 3. viitutes veras &amp; Christianas vocat officia 
+      <lb ed="#P" n="37"/>recta cum recto fine. Unde &amp; Ambrosius volens de 
+      <lb ed="#P" n="38"/>virtutibus loqui, de officiis librum inscripsit, 
+      Ci<lb ed="#P" n="39" break="no"/>ceronem imitatus. Rursum Augustinus lib. de 
+      mo<lb ed="#P" n="40" break="no"/>ribus Ecclesiae Catholicae, cap. 15. virtutes per 
+      an<lb ed="#P" n="41" break="no"/>gorem describit. Item Hugo Victorinus in summa 
+      <lb ed="#P" n="42"/>sententiarum tract. 3. cap. 9. virtutem vocat velle 
+      <lb ed="#P" n="43"/>bonum; quod &amp; repetit lib. I. de Sacramentis parte 
+      <lb ed="#P" n="44"/>6. cap. 17. 
+    </p>
+            <p xml:id="bt67yj-p133330-d1e152">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> His &amp; hujusmodi Doctorum sententiis quidam 
+      <lb ed="#P" n="46"/>moti, quorum opinionem refert S. Thomas 
+      scri<lb ed="#P" n="47" break="no"/>bens in hanc dist. dixerunt virtutes esse actus 
+      con<lb ed="#P" n="48" break="no"/>tinuos, sed latentes. Quod &amp; si quodam sensu 
+      ve<lb ed="#P" n="49" break="no"/>rum sit; quia nimirum per virtutes Christianas sic 
+      <lb ed="#P" n="50"/>voluntas affecta est, ut data occasione secundum eas 
+      <lb ed="#P" n="51"/>operetur, vereque propter illas justus dicere possit: 
+      <lb ed="#P" n="52"/>Paratum cor meum Deus, &amp;c. proprie tamen 
+      verita<lb ed="#P" n="53" break="no"/>tem non habet; quia falsum est voluntatem esse in 
+      <lb ed="#P" n="54"/>continua actione. 
+    </p>
+            <p xml:id="bt67yj-p133330-d1e179">
+               <lb ed="#P" n="55"/>
+               <pc type="indent"/> Alii opinati sunt habitum ab actu non distingui 
+      <lb ed="#P" n="56"/>reipsa, sed tantum ratione &amp; modo; quia putant 
+      <lb ed="#P" n="57"/>sic ex virtute actum oriri, sicut ex gemma flos 
+      nas<lb ed="#P" n="58" break="no"/>citur, cum flos non aliud sit quam gemma aperta, 
+      <lb ed="#P" n="59"/>&amp; gemma non aliud quam flos clausus; quomodo 
+      <lb ed="#P" n="60"/>Zeno philosophus olim inter Dialecticam &amp; 
+      Rhe<lb ed="#P" n="61" break="no"/>thoricam non aliud discrimen agnoscebat, quam 
+      <lb ed="#P" n="62"/>quale est inter manum clausam &amp; apertam. Sed haec 
+      <lb ed="#P" n="63"/>comparatio non consistit cum iis quae sunt apud 
+      Au<lb ed="#P" n="64" break="no"/>gust. lib. 6. contra Julianum cap. 8. &amp; de 
+      perfectio<lb ed="#P" n="65" break="no"/>ne justitiae cap. 2. Ex quibus manifestum est 
+      Augu<lb ed="#P" n="66" break="no"/>stino reipsa distingui habitum tam virtutis quam vitii 
+      <lb ed="#P" n="67"/>ab actibus inde prodeuntibus; sicut reipsa 
+      distingui<lb ed="#P" n="68" break="no"/>tur claudicatio ab eo pedis vitio ex quo nascitur. Et 
+      <lb ed="#P" n="69"/>proinde dicendum, virtutem esse habitum qui 
+      nun<lb ed="#P" n="70" break="no"/>quam est actus, sed tantum causa &amp; principium 
+      <lb ed="#P" n="71"/>agendi. 
+      <!--0577.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>Quod autem Patres virtutis nomen interdum 
+      acti<lb ed="#P" n="73" break="no"/>bus, praesertim internis tribuunt, factum est 
+      exten<lb ed="#P" n="74" break="no"/>sione quadam, qua virtutis vocabulum etiam ad 
+      ac<lb ed="#P" n="75" break="no"/>tus qui ex virtute procedunt, extenditur, 
+      quemad<lb ed="#P" n="76" break="no"/>modum Magister declarat §. ultimo, idque magis 
+      <lb ed="#P" n="77"/>patebit, si ad species virtutum descendamus, ut 
+      fi<lb ed="#P" n="78" break="no"/>dem, spem, charitatem, justitiam, quae pro actibus 
+      <lb ed="#P" n="79"/>usurpata tum in Scriptura sacra non raro legimus, 
+      <lb ed="#P" n="80"/>tum apud Patres. Nam de fide &amp; charitate loca sunt 
+      <lb ed="#P" n="81"/>apud August. jam allegata, de justitia locus est in 
+      <lb ed="#P" n="82"/>Ps. 118. ad illud: Feci judicium &amp; justitiam. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

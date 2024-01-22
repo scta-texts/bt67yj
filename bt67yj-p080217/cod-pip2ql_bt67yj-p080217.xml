@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 17</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 17</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="207"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p080217"><!-- l2d22c17" -->
+            <head xml:id="bt67yj-p080217-Hd1e101">Capitulum 17</head>
+            <head xml:id="bt67yj-p080217-Hd1e103" type="question-title">Utrum gravius ex infirmitate peccetur, an 
+      ex ignorantia</head>
+            <p xml:id="bt67yj-p080217-d1e106">
+               <lb ed="#P" n="94"/>§. 17. Utrum gravius ex infirmitate peccetur, an 
+      <lb ed="#P" n="95"/>ex ignorantia?
+    </p>
+            <p xml:id="bt67yj-p080217-d1e113">
+               <lb ed="#P" n="96"/>PEccatum ex infirmitate sive ex passione, caeteris 
+      <lb ed="#P" n="97"/>paribus, gravius est peccato quod fit ex igno 
+      <lb ed="#P" n="98"/>rantia, uti recte asserit Magister ex Isidoro. Cujus 
+      <lb ed="#P" n="99"/>ratio est, quia illud isto magis est voluntarium. Qui 
+      <lb ed="#P" n="100"/>enim ex passione peccat, novit totum actum quem 
+      <lb ed="#P" n="101"/>eligit; licet ob vehementiam passionis, ut dictum 
+      <lb ed="#P" n="102"/>est impediatur, quominus in particulari 
+      consi<lb ed="#P" n="103" break="no"/>deret id quod novit in universali. Qui autem ex 
+      <lb ed="#P" n="104"/>ignorantia peccat, non novit totum actum, suum, 
+      <lb ed="#P" n="105"/>sed aliqua ejus circunstantia eum latet. Inquantum 
+      <lb ed="#P" n="106"/>igitur ignorat, intantum minus habet de 
+      volunta<lb ed="#P" n="108" break="no"/>
+               <!-- line coord order error -->rio, &amp; proinde levius delinquit quam is qui peccat
+      <lb ed="#P" n="107"/>ex passione. 
+       
+    </p>
+            <p xml:id="bt67yj-p080217-d1e146">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Praeterea quaedam ignorantia in notum excusat a 
+      <lb ed="#P" n="110"/>peccato, quia contingit ut prorsus tollat voluntarium, 
+      <lb ed="#P" n="111"/>etiam permanente usu rationis: At passio vel 
+      infirmi<lb ed="#P" n="112" break="no"/>tas, etiam causans &amp; ad actum peccatiantecedenter se 
+      <lb ed="#P" n="113"/>habens, quoniam voluntarium nunquam tollit, 
+      dum<lb ed="#P" n="114" break="no"/>modo rationis usus permaneat, nunquam in totum 
+      <lb ed="#P" n="115"/>excusat, quemadmodum bene docet S. Tho. art. 7. 
+    </p>
+            <p xml:id="bt67yj-p080217-d1e167">
+               <lb ed="#P" n="116"/>
+               <pc type="indent"/> Deinde de ignorantia concomitante dictum est 
+      <lb ed="#P" n="117"/>quod licet ipsa neque excuset, neque accuset; actus 
+      <lb ed="#P" n="118"/>tamen cui ipsa conjuncta est, non potest imputari 
+      <lb ed="#P" n="119"/>ad culpam, eo quod reddat actum non voluntarium: 
+      <lb ed="#P" n="120"/>Passio vero nunquam ita concomitatur actum, ut 
+      <lb ed="#P" n="121"/>eum reddere possit non voluntarium, quia non tollit 
+      <lb ed="#P" n="122"/>scientiam: Unde actus cui talis passio conjungitur, 
+      <lb ed="#P" n="123"/>peccatum est tam praesente passione quam absente, 
+      <lb ed="#P" n="124"/>licet non aeque magnum. 
+    </p>
+            <p xml:id="bt67yj-p080217-d1e191">
+               <lb ed="#P" n="125"/>
+               <pc type="indent"/> Denique quamvis utique, scilicet ignorantiae &amp; 
+      <lb ed="#P" n="126"/>passioni, commune sit quod affectata non excuset 
+      pec<lb ed="#P" n="127" break="no"/>catum, sed aggravet, videtur tamen peccatum ex 
+      af<lb ed="#P" n="128" break="no"/>fectata passione secundum se gravius esse 
+      judican<lb ed="#P" n="129" break="no"/>dum, quam quod procedit ex ignorantia affectata; 
+      <lb ed="#P" n="130"/>tum quia ignorantia affectata, quatenus tollit 
+      scien<lb ed="#P" n="131" break="no"/>tiam oppositam, magis minuit voluntarium quam 
+      <lb ed="#P" n="132"/>passio, quae ut diximus, scientiam non tollit; tum quia 
+      <lb ed="#P" n="133"/>ignorantia saepe assumitur &amp; affectatur ex passione, 
+      <lb ed="#P" n="134"/>passio vero assumitur non ex passione, sed ex malitia. 
+      <lb ed="#P" n="135"/>Unde qui peccant affectata passione, non tam ex 
+      <lb ed="#P" n="136"/>passione quam ex malitia peccare dicendi sunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="15"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p005750"><!-- l2d2c3" -->
+            <head xml:id="bt67yj-p005750-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p005750-Hd1e103" type="question-title">Quando facta sit angelica creatura</head>
+            <p xml:id="bt67yj-p005750-d1e106">
+               <lb ed="#P" n="127"/>
+               <pc type="indent"/> §. 3. Quando facta sit angelica creatura.
+    </p>
+            <p xml:id="bt67yj-p005750-d1e113">
+               <lb ed="#P" n="128"/>DE tempore creationis angelorum imprimis 
+      cer<lb ed="#P" n="129" break="no"/>ta fide tenendum est, eos aliquando creatos 
+      es<lb ed="#P" n="130" break="no"/>se, suaeque durationis aliquod habuisse initium. 
+      Do<lb ed="#P" n="131" break="no"/>cetur hoc iisdem fere testimoniis sci ipturae, quibus id 
+      <lb ed="#P" n="132"/>supra generaliter de mundo ostensum est. 
+      Peculiari<lb ed="#P" n="133" break="no"/>ter autem de angelis convincit hoc ipsum Apostoli 
+      <lb ed="#P" n="134"/>sententia, qua de filio Dei sic loquitur Coloss. 1. In 
+      <lb ed="#P" n="135"/>ipso condita sunt universa in caelis &amp; in terra, visibilia 
+      <lb ed="#P" n="136"/>&amp; invisibilia, sive throni, sive dominationes, sive 
+      <lb ed="#P" n="137"/>principatus, sive potestates. Omnia per ipsum, &amp; in 
+      <lb ed="#P" n="138"/>ipso creata sunt, &amp; ipse est ante omnes. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e139">
+               <lb ed="#P" n="139"/>
+               <pc type="indent"/> Quoniam autem Moyses Genesim mundi 
+      des<lb ed="#P" n="140" break="no"/>cribens de angelorum creatione prorsus non 
+      me<lb ed="#P" n="141" break="no"/>minit, idque eam ob causam, ut testatur Joan. 
+      <lb ed="#P" n="142"/>Chrysostomus homil. 2. in Genes. &amp; sermon. de 
+      <!--0249.xml-->
+      <pb ed="#P" n="16"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>jejuniis tom. 1. &amp; sanctus Augustinus lib. 12. 
+      Con<lb ed="#P" n="2" break="no"/>fess. cap. 17. &amp; S. Thomas opusc. 15. de angelis 
+      cap<lb ed="#P" n="3" break="no"/>17. quod scriberet rudi &amp; carnali populo, nec 
+      secre<lb ed="#P" n="4" break="no"/>tioris illius doctrinae capaci, cumque nec alibi 
+      quic<lb ed="#P" n="5" break="no"/>quam in scripturis hac de re clare expressum 
+      habea<lb ed="#P" n="6" break="no"/>mus, hinc factum ut de tempore creationis 
+      angelo<lb ed="#P" n="7" break="no"/>rum diversae doctorum extiterint opiniones. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e175">
+               <lb ed="#P" n="8"/>
+               <pc type="indent"/> Sunt enim non pauci qui eos existiment ante 
+      con<lb ed="#P" n="9" break="no"/>ditum mundum corporeum, aut multo, aut nonnullo 
+      <lb ed="#P" n="10"/>tempore extitisse. Qua in opinione Graeci maxime 
+      <lb ed="#P" n="11"/>fuisse reperiuntur, ut Origenes in libris periarchon, 
+      <lb ed="#P" n="12"/>ac potissimum lib. 3. cap. 3. nec non homil. 1. in 
+      Ge<lb ed="#P" n="13" break="no"/>nesim, &amp; homil. 4. in Isa. Basilius hom. 1. &amp; 2. hexa. 
+      <lb ed="#P" n="14"/>Gregor. Nazianz. oratione in Christi nativitatem 
+      <lb ed="#P" n="15"/>Joan. Chrysostomus lib. 1. de providentia Dei sub 
+      <lb ed="#P" n="16"/>initium, Joannes Damascenus lib. 2. de fide orth. c. 
+      <lb ed="#P" n="17"/>3. ubi proposita hac quaestione, &amp; allegata Gregorii 
+      <lb ed="#P" n="18"/>Nazianzeni sententia dicentis, quod ante omnem 
+      <lb ed="#P" n="19"/>aliam creaturam angeli factifuerint, eidem se 
+      quo<lb ed="#P" n="20" break="no"/>que assentiri declarat addita hac ratione. Nam 
+      par<lb ed="#P" n="21" break="no"/>fuit, inquit, intellectualem substantiam primum 
+      om<lb ed="#P" n="22" break="no"/>nium creari, postea sensibilem, ac deinde hominem ex 
+      <lb ed="#P" n="23"/>utraque compositum. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e214">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Inter Latinos autem, similiter opinati sunt 
+      Hi<lb ed="#P" n="25" break="no"/>larius lib. 12. da trinitate, post medium libri, &amp; in 
+      <lb ed="#P" n="26"/>libello contra Auxentium non procul a fine. 
+      Ambro<lb ed="#P" n="27" break="no"/>sius lib. 1. hexa. cap. 5. Basilium secutus, &amp; 
+      praefa<lb ed="#P" n="28" break="no"/>tione in primum psalmum. Hieronymus in Tit. 1. 
+      <lb ed="#P" n="29"/>verbis a Magistro recitatis. <name xml:id="bt67yj-p005750-Nd1e231">Isidorus</name> lib. 1. de 
+      sum<lb ed="#P" n="30" break="no"/>mo bono cap. 12. <name xml:id="bt67yj-p005750-Nd1e235">Joannes Cassianus</name> coll. 8. cap. 7. 
+      <lb ed="#P" n="31"/>ubi affirmat neminem fidclium dubitare, quin ante 
+      <lb ed="#P" n="32"/>conditionem hujus visibilis creaturae, spirituales, 
+      cae<lb ed="#P" n="33" break="no"/>lestesque virtutes Deus fecerit. <name xml:id="bt67yj-p005750-Nd1e244">Hugo</name> quoque 
+      Vi<lb ed="#P" n="34" break="no"/>ctorinus super 2. Tim. q. 3 &amp; <ref xml:id="bt67yj-p005750-Rd1e248">lib. 1. de Sacramentis 
+      <lb ed="#P" n="35"/>parte prima cap. 3.</ref> in hanc sententiam manifeste 
+      pro<lb ed="#P" n="36" break="no"/>pendet. Allegatur etiam Augustinus lib. de ecclesiae 
+      <lb ed="#P" n="37"/>dogmatibus c. 10. dicens angelos &amp; omnes caelestes 
+      <lb ed="#P" n="38"/>virtutes factas esse ante visibilem hunc mundum, ut 
+      <lb ed="#P" n="39"/>non esset otiosa Dei bonitas, sed haberet in quibus 
+      <lb ed="#P" n="40"/>per multa ante spatia bonitatem suam ostenderet. 
+      <lb ed="#P" n="41"/>Quod ipsum significat etiam de materia se sentire. 
+      <lb ed="#P" n="42"/>Ac rursum lib. 65. quaest. 21. dicens primo die 
+      spiri<lb ed="#P" n="43" break="no"/>tualem, id est, angelicam naturam factam esse, &amp; 
+      <lb ed="#P" n="44"/>deinde hoc caelum quod oculis cernimus. Verum 
+      con<lb ed="#P" n="45" break="no"/>stat hos libros non esse Augustini, sed priorem 
+      qui<lb ed="#P" n="46" break="no"/>dem Gennadii presbyteri Massiliensis, posteriorem 
+      ve<lb ed="#P" n="47" break="no"/>ro incerti authoris. Eadem opinio est ejus authoris 
+      <lb ed="#P" n="48"/>qui scripsit opus qui veteris &amp; novi testamenti. Dicens 
+      <lb ed="#P" n="49"/>enim q 2. mundum factum esse propter 
+      praesumptio<lb ed="#P" n="50" break="no"/>nem diaboli, plane sentire se significat diabolum 
+      an<lb ed="#P" n="51" break="no"/>te mundum conditum fuisse &amp; peccasse. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e289">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Sunt autem nonnulli qui angelos creatos asserunt 
+      <lb ed="#P" n="53"/>post conditum mundum visibilem. Quae opinio 
+      Phi<lb ed="#P" n="54" break="no"/>lonis esse dicitur, in historia sacra narrantis illud ex 
+      <lb ed="#P" n="55"/>1. lib. Reg. de Saule arreptitio, &amp; Davide cytharam 
+      <lb ed="#P" n="56"/>pulsante. Quo loco Davidem introducit daemonum 
+      <lb ed="#P" n="57"/>superbiam increpantem, iisque objicientem, quod 
+      <lb ed="#P" n="58"/>sciret eos creatos post caelum &amp; terram. Idem sensit 
+      <lb ed="#P" n="59"/>Eucherius super Gen. 1. scribens: Si primo omnium 
+      <lb ed="#P" n="60"/>factum est caelum &amp; terra, angeli postmodum facti sunt, 
+      <lb ed="#P" n="61"/>&amp;c. Huc etiam adducunt locum modo citatum ex 
+      <lb ed="#P" n="62"/>libro de ecclesiasticis dogmatibus. Nam ibi dicitur 
+      <lb ed="#P" n="63"/>angelos esse factos quando adhuc tenebrae aquam, &amp; 
+      <lb ed="#P" n="64"/>aqua terram occultabat. Sed ex sequentibus satis 
+      li<lb ed="#P" n="65" break="no"/>quet authorem non aliud velle, quam materiam esse 
+      <lb ed="#P" n="66"/>angelis antiquiorem, ipsos vero angelos mundo 
+      visi<lb ed="#P" n="67" break="no"/>bili, uti dictum est. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e328">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Porro tertia sententia inter has duas media 
+      proce<lb ed="#P" n="69" break="no"/>dit, quae nec ante, nec post, sed simul cum mundo 
+      <lb ed="#P" n="70"/>visibili invisibilem, id est, angelicam creaturam 
+      fa<lb ed="#P" n="71" break="no"/>ctam esse tradit, ita docent inter Latinos Gregorius 
+      <lb ed="#P" n="72"/>Roman. lib. 28. moral. cap. 7. &amp; 14. &amp; lib. 32. cap. 
+      <lb ed="#P" n="73"/>10. Cassiodorus &amp; Beda super Gen. 1. Magister sen 
+      <lb ed="#P" n="74"/>tentiarum in textu. Hugo c. 5. annotationum super 
+      <!--0249.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>Genesim. Qui etiam super Rom. 16. &amp; 2. Tim. 
+      <lb ed="#P" n="76"/>quamvis diversam sententiam magis probare 
+      videa<lb ed="#P" n="77" break="no"/>tur, ut supra diximus, fatetur tamen fere omnes 
+      a<lb ed="#P" n="78" break="no"/>liter sentire. Magistrum. vero omnes posteriores 
+      <lb ed="#P" n="79"/>Theologi secuti sunt, maxime propter authoritatem 
+      <lb ed="#P" n="80"/>magni Concilii Lateranensis in quo scribitur cap. 1. 
+      <lb ed="#P" n="81"/>Deum omnipotenti sua virtute simul ab initio 
+      tem<lb ed="#P" n="82" break="no"/>poris utramque de nihilo condidisse creaturam 
+      spiri<lb ed="#P" n="83" break="no"/>tualem &amp; corporalem, angelicam videlicet &amp; 
+      mun<lb ed="#P" n="84" break="no"/>danam. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e374">
+               <lb ed="#P" n="85"/>
+               <pc type="indent"/> Inter Graecos autem Epiphanius in haeresi Pauli 
+      <lb ed="#P" n="86"/>Samosateni quae est 65. &amp; Theodoretus qu. 3. super 
+      <lb ed="#P" n="87"/>Gen. &amp; author quaestionum ad Antiochum quaest. 3. 
+      <lb ed="#P" n="88"/>apud Athanasium, hanc sententiam diserte astruunt. 
+      <lb ed="#P" n="89"/>Ex quo patet non posse universaliter intelligi quod S 
+      <lb ed="#P" n="90"/>Thomas dicit 1. quaest. 61. art. 3. ad 1. omnes 
+      docto<lb ed="#P" n="91" break="no"/>res Graecos concorditer sentire quod angeli sunt 
+      an<lb ed="#P" n="92" break="no"/>te mundum corporeum creati. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e396">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Etsi vero Augustinus alicubi dubitanter de hac 
+      <lb ed="#P" n="94"/>controversia loquitur, permittens ut quisque quod 
+      <lb ed="#P" n="95"/>velit opinetur, ut lib. 11. de civitate cap. 32. &amp; 
+      <lb ed="#P" n="96"/>lib. 12. capit. 15. eam tamen sententiam quae 
+      ange<lb ed="#P" n="97" break="no"/>los simul cum mundo visibili conditos docet, 
+      ma<lb ed="#P" n="98" break="no"/>gis sibi placere, cum ibidem, tum aliis quibusdam 
+      <lb ed="#P" n="99"/>locis aperte significavit, ut libro undecimo de 
+      ci<lb ed="#P" n="100" break="no"/>vitate capit. sexto &amp; nono &amp; lib. 12. confess. cap. 
+      <lb ed="#P" n="101"/>13. Quare omnino cum assertoribus hujus 
+      senten<lb ed="#P" n="102" break="no"/>tiae connumerandus est. Neque huic obstare potest 
+      <lb ed="#P" n="103"/>quod libro 12. confess. capite 15. dicit, angelicam 
+      <lb ed="#P" n="104"/>substantiam antecedere creaturam temporis. Nam 
+      <lb ed="#P" n="105"/>idem etiam dicit de materia corporum informi 
+      <lb ed="#P" n="106"/>capite tertio &amp; sequentibus ejusdem libri. 
+      Sen<lb ed="#P" n="107" break="no"/>sus autem est, angelicam creaturam, &amp; 
+      mate<lb ed="#P" n="108" break="no"/>riam corporum informem ordine quodam 
+      prae<lb ed="#P" n="109" break="no"/>cessisse tempus &amp; vicissitudinem rerum jam 
+      for<lb ed="#P" n="110" break="no"/>matarum, ipsasque res formatas. Utrum autem 
+      <lb ed="#P" n="111"/>praecesserint ordine naturae tantum, an etiam 
+      <lb ed="#P" n="112"/>temporis, ex Augustini sententia non prorsus 
+      <lb ed="#P" n="113"/>liquet. Ac de ea re tractabitur ex professo ad 
+      <lb ed="#P" n="114"/>distinctionem duodecimam hujus libri. Illud 
+      <lb ed="#P" n="115"/>constat Augustinum non asscrere quod 
+      spiritua<lb ed="#P" n="116" break="no"/>lis creatura praecesserit creationem materiae 
+      cor<lb ed="#P" n="117" break="no"/>poralis. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e456">
+               <lb ed="#P" n="118"/>
+               <pc type="indent"/> His subjungi potest quorundam sententia nihil 
+      <lb ed="#P" n="119"/>certi eligentium de tempore creationis angelorum, 
+      <lb ed="#P" n="120"/>eo quod rem esse putent nusquam in scripturis 
+      pro<lb ed="#P" n="121" break="no"/>ditam, &amp; proinde a nostra cogitatione remotam nec 
+      <lb ed="#P" n="122"/>a nobis scrutandam. Sic sentire videtur aut hor libri 
+      <lb ed="#P" n="123"/>de incarnatione verbi, cap. 6. inter opera 
+      Augusti<lb ed="#P" n="124" break="no"/>ni tomo quarto, &amp; Prudentius in apotheosi cap. de 
+      <lb ed="#P" n="125"/>natura animae. Quin &amp; Ambrosius alicubi sic 
+      lo<lb ed="#P" n="126" break="no"/>quitur ut libro de sacramento incarnationis 
+      Domi<lb ed="#P" n="127" break="no"/>nicae cap. 3. dicit enim se angelorum principium 
+      in<lb ed="#P" n="128" break="no"/>venire non posse, tametsi principium eos habere non 
+      <lb ed="#P" n="129"/>dubitet. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e487">
+               <lb ed="#P" n="130"/>
+               <pc type="indent"/> Quod si vero scripturas sacras consulamus, 
+      quam<lb ed="#P" n="131" break="no"/>vis in iis expressam temporis quo creati sunt 
+      ange<lb ed="#P" n="132" break="no"/>li, mentionem non habeamus, reperietur tamen 
+      <lb ed="#P" n="133"/>unde prima &amp; secunda opiniones destruantur. 
+      <lb ed="#P" n="134"/>Quo fiet necessario consequens ut statuatur ter¬ 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e503">
+               <lb ed="#P" n="135"/>
+               <pc type="indent"/> Primae opinioni adversatur exordium Gen. 
+      se<lb ed="#P" n="136" break="no"/>cundum litteram acceptum quo dictum est: In 
+      prin<lb ed="#P" n="137" break="no"/>cipio creavit Deus caelum &amp; terram, &amp; illud Psalmi 
+      <lb ed="#P" n="138"/>101. Initio tu Domine terram fundasti, hinc enim 
+      se<lb ed="#P" n="139" break="no"/>quitur nihil ante caelum &amp; terram creatum esse, &amp; 
+      <lb ed="#P" n="140"/>proinde nec angelos. Hac scriptura tanquam 
+      evi<lb ed="#P" n="141" break="no"/>denti utitur Rupertus ad hujus sententiae 
+      interpreta<lb ed="#P" n="142" break="no"/>tionem lib. 1. de vict. v. Dei cap. 28. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e525">
+               <lb ed="#P" n="143"/>
+               <pc type="indent"/> Alius locus est Exod. 20. ubi sic dicitur: Sex 
+      die<lb ed="#P" n="144" break="no"/>bus fecit Deus caelum &amp; terram, &amp; omnia quae in eis 
+      <lb ed="#P" n="145"/>sunt, haec enim clausula, omnia quae in eis sunt, 
+      mo<lb ed="#P" n="146" break="no"/>re scripturae etiam angelos comprehendit. Nam Psi 
+      <lb ed="#P" n="147"/>148. angeli his annumerantur quae in caelis sunt. 
+      <!--0250.xml-->
+      <pb ed="#P" n="17"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ubi &amp; generaliter de opere creationis subditur, Ipse 
+      <lb ed="#P" n="2"/>dixit &amp; facta sunt, &amp; Psal. 103. iidem 
+      annumeran<lb ed="#P" n="3" break="no"/>tur operibus sex dierum. Alibi quoque passim ut 
+      <lb ed="#P" n="4"/>Matth. 18. Luc. 15. &amp;c. angeli in caelis esse dicuntur. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e556">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> Nec parum urget locus Proverb. 8. ubi sapientia 
+      <lb ed="#P" n="6"/>Dei volens ostendere se omni creatura priorem esse, 
+      <lb ed="#P" n="7"/>dicit se fuisse antequam terra fieret &amp; caelum. Quae 
+      <lb ed="#P" n="8"/>probatio firma non est, si quid creatum fuit ante 
+      <lb ed="#P" n="9"/>caelum &amp; terram. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e572">
+               <lb ed="#P" n="10"/>
+               <pc type="indent"/> Quod autem angeli non sint facti post caelum, 
+      <lb ed="#P" n="11"/>quae crat secunda opinio, Dominus indicat Job. 38. 
+      <lb ed="#P" n="12"/>dicens tunc angelos ipsum laudasse quando terram 
+      <lb ed="#P" n="13"/>fundabat. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e586">
+               <lb ed="#P" n="14"/>
+               <pc type="indent"/> Hoc &amp; ratio suadet: Si enim facti essent post 
+      cae<lb ed="#P" n="15" break="no"/>lum &amp; terram; igitur pro eo tempore quo nondum 
+      <lb ed="#P" n="16"/>erat angelica creatura, non fuisset Deus in creatura 
+      <lb ed="#P" n="17"/>sua glorificatus, quippe nulla existente creatura quae 
+      <lb ed="#P" n="18"/>eum glorificaret: Atqui Deus omnia creavit ad 
+      glo<lb ed="#P" n="19" break="no"/>riam suam; ergo statim initio glorificari voluit in 
+      <lb ed="#P" n="20"/>creatura, fuit igitur ab initio creatura quae Deum 
+      <lb ed="#P" n="21"/>glorificaret. Juxta id quod ex Job jam allegatum 
+      <lb ed="#P" n="22"/>est. Idem videtur monstrari ex cantico Ecclesiae. 
+      <lb ed="#P" n="23"/>Gloria Patri &amp; Filio, &amp; Spiritui sancto. Sicut erat in 
+      <lb ed="#P" n="24"/>principio, scilicet, creaturae: hinc enim sequitur ab 
+      <lb ed="#P" n="25"/>nitio quo facta est creatura, fuisse Deum a creatura 
+      <lb ed="#P" n="26"/>glorificatum, quae non fuit alia quam angelica. Nec 
+      <lb ed="#P" n="27"/>tamen voluit Deus hujusmodi creaturam producere 
+      <lb ed="#P" n="28"/>ante mundum corporeum, ut videlicet ea non 
+      tan<lb ed="#P" n="29" break="no"/>tum in se, sed etiam in aliis creaturis Deum jam inde 
+      <lb ed="#P" n="30"/>ab initio glorificare posset. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e628">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Cum igitur angeli secundum scripturam nec ante 
+      <lb ed="#P" n="32"/>nec post corporeum mundum creati sint, 
+      conse<lb ed="#P" n="33" break="no"/>quens fit ex ejusdem scripturae authoritate simul 
+      <lb ed="#P" n="34"/>cum eo creatos fuisse. Ad hoc autem proferunt 
+      qui<lb ed="#P" n="35" break="no"/>dam pro expresso scripturae testimonio illud 
+      Eccle<lb ed="#P" n="36" break="no"/>siastici 18. Qui vivit in aeternum creavit omnia simul. 
+      <lb ed="#P" n="37"/>Nam inquiunt post primum diem proprie nihil 
+      <lb ed="#P" n="38"/>creatum est, id est, ex nihilo factum, sed cuncta e 
+      <lb ed="#P" n="39"/>materia primo die creata; sicque vere dici posse 
+      crea<lb ed="#P" n="40" break="no"/>tionem omnium spirituum &amp; corporum simul, id 
+      <lb ed="#P" n="41"/>est uno instanti factam esse. Sed verum hujus 
+      scri<lb ed="#P" n="42" break="no"/>pturae intellectum aperiemus infra ad distinct. 12. 
+      <lb ed="#P" n="43"/>Caeterum optima ratione probat hanc sententiam 
+      <lb ed="#P" n="44"/>S. Thomas loco superius citato, quae talis est: 
+      An<lb ed="#P" n="45" break="no"/>geli per se non constituunt aliquod universum, sed 
+      <lb ed="#P" n="46"/>hujus universi pars quaedam sunt, simul cum 
+      creatu<lb ed="#P" n="47" break="no"/>ra corporea tanquam comparte universum 
+      consti<lb ed="#P" n="48" break="no"/>tuentes: Atqui nulla pars perfecta est a suo toto 
+      se<lb ed="#P" n="49" break="no"/>parata: Ergo non sunt creati angeli ante creaturam 
+      <lb ed="#P" n="50"/>corpoream, sed simul cum ea. Nam si post eam 
+      crea<lb ed="#P" n="51" break="no"/>ti fuissent, idem incommodum sequeretur ex parte 
+      <lb ed="#P" n="52"/>creaturae corporeae. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e680">
+               <lb ed="#P" n="53"/>
+               <pc type="indent"/> Si dicas post primum diem multas partes universo 
+      <lb ed="#P" n="54"/>accessisse, respondetur, omnes eas jam primo die 
+      se<lb ed="#P" n="55" break="no"/>cundum materiam &amp; principaliores universi partes 
+      <lb ed="#P" n="56"/>extitisse. Haec ratio opponenda est ei quam pro 
+      pri<lb ed="#P" n="57" break="no"/>ma opinione Joan. Damascenum adferre diximus. 
+      <lb ed="#P" n="58"/>Magis enim conveniens fuit ut universum 
+      secun<lb ed="#P" n="59" break="no"/>dum partes principales completum crearetur, quam 
+      <lb ed="#P" n="60"/>ut una pars aliam tempore antecederet. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e702">
+               <lb ed="#P" n="61"/>
+               <pc type="indent"/> Argumentum vero Eucherii pro secunda opinione 
+      <lb ed="#P" n="62"/>facile solvitur; nam caelum &amp; terra in principio, id 
+      <lb ed="#P" n="63"/>est, primo omnium facta dicuntur, non quia ante 
+      cae<lb ed="#P" n="64" break="no"/>tera omnia, sed quia nihil ante ipsa, hoc est, quod 
+      <lb ed="#P" n="65"/>dici solet, non affirmative, sed negative 
+      superlati<lb ed="#P" n="66" break="no"/>vum exponendum esse. Quod patet ex versiculo 
+      <lb ed="#P" n="67"/>Psal. 101. in quo sola terra nominatur, quem si 
+      af<lb ed="#P" n="68" break="no"/>firmative exponas, sequetur terram caelo priorem 
+      <lb ed="#P" n="69"/>esse. Idem responderi posset ad illud Ecclesiastici 1. 
+      <lb ed="#P" n="70"/>Prior omnium cre ata est sapientia. Quam quidam 
+      in<lb ed="#P" n="71" break="no"/>telligunt angelicam naturam, hinc volentes 
+      osten<lb ed="#P" n="72" break="no"/>dere angelos ante mundum corporeum factos esse. 
+      <lb ed="#P" n="73"/>Sed melius respondetur Ecclesiasticum loqui de 
+      sa<lb ed="#P" n="74" break="no"/>pientia aeterna, quam dicit omnium primam crea¬ 
+      <!--0250.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>tam esse, id est, genitam ex patre. Patet enim hi 
+      <lb ed="#P" n="76"/>sensus ex circumstantiis. 
+    </p>
+            <p xml:id="bt67yj-p005750-d1e746">
+               <lb ed="#P" n="77"/>
+               <pc type="indent"/> Quod autem ad Patrum tam Graecorum quam 
+      <lb ed="#P" n="78"/>Latinorum sententias in contrarium adductas 
+      atti<lb ed="#P" n="79" break="no"/>net, non aliud respondemus quam mirandum non 
+      <lb ed="#P" n="80"/>esse si in re nondum satis excussa secus aliquid 
+      sen<lb ed="#P" n="81" break="no"/>serint, quam veritas se haberet. Unde &amp; nonnullos 
+      <lb ed="#P" n="82"/>ut Ambrosium &amp; Hugonem velut in re dubia varie 
+      <lb ed="#P" n="83"/>locutos videmus. Hieronymum excusat Magister 
+      <lb ed="#P" n="84"/>quod non ita sentiendo sed aliorum opinionem 
+      re<lb ed="#P" n="85" break="no"/>ferendo, ut saepe solet in commentariis, taliter 
+      locu<lb ed="#P" n="86" break="no"/>tus fuerit, sic enim ipse se excusat de aliis nonnullis 
+      <lb ed="#P" n="87"/>in apol. cont. Ruff. Quae excusatio probabilis foret 
+      <lb ed="#P" n="88"/>si alius quispiam apud Hieron. locus exstaret in quo 
+      <lb ed="#P" n="89"/>suam ipsius in contrarium sententiam declararet. 
+      <lb ed="#P" n="90"/>Quare potius fatendum est Hieronymum Graecis, 
+      <lb ed="#P" n="91"/>quorum diligens lector erat, ac nominatim Grego 
+      <lb ed="#P" n="92"/>rio Nazianz. praeceptori suo consensisse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

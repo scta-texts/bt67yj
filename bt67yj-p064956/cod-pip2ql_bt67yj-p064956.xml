@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 4</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 4</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="168"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p064956"><!-- l2d19c4" -->
+            <head xml:id="bt67yj-p064956-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p064956-Hd1e103" type="question-title">Responsio ad ea quae contra primi hominis 
+      immortalitatem objiciuntur</head>
+            <p xml:id="bt67yj-p064956-d1e106">
+      <!--0401.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>§. 4. Responsio ad ea quae contra primi hominis 
+      immor<lb ed="#P" n="72" break="no"/>talitatem objiciuntur. 
+    </p>
+            <p xml:id="bt67yj-p064956-d1e117">
+               <lb ed="#P" n="73"/>PRo majori declaratione ejus immortalitatis, in 
+      <lb ed="#P" n="74"/>quam creatus fuit homo, adducenda sunt &amp; 
+      sol<lb ed="#P" n="75" break="no"/>venda quaedam argumenta quibus illa oppugnatur. 
+    </p>
+            <p xml:id="bt67yj-p064956-d1e126">
+               <lb ed="#P" n="76"/>
+               <pc type="indent"/> Primum jam supra indicatum tale est: Corpus 
+      <lb ed="#P" n="77"/>primi hominis compositum erat ex 4. elementis, 
+      <lb ed="#P" n="78"/>quorum contrariae &amp; pugnantes inter se qualitates 
+      <lb ed="#P" n="79"/>in quibuscunque reperiuntur corporibus, ea 
+      tan<lb ed="#P" n="80" break="no"/>dem naturalcessitate ad corruptionem &amp; 
+      interi<lb ed="#P" n="81" break="no"/>tum ducunt Igitur &amp; in corpore primi hominis sic 
+      <lb ed="#P" n="82"/>futurum erat. Ad hoc responderi quidem potest, 
+      <lb ed="#P" n="83"/>etsi ea sit elementorum natura, ut in omni mixto 
+      <lb ed="#P" n="84"/>corpore per qualitates suas contrarias pugnam 
+      ex<lb ed="#P" n="85" break="no"/>citent tendentem ad mixti dissolutionem; 
+      huma<lb ed="#P" n="86" break="no"/>num tamen corpus Dei voluntate atque potentia ab 
+      <lb ed="#P" n="87"/>eo corruptionis &amp; mortis periculo futurum fuisse 
+      <lb ed="#P" n="88"/>immune, quomodo respondet Aug. lib. 1. de 
+      pec<lb ed="#P" n="89" break="no"/>catorum meritis cap. 3. adducens simile de 
+      vesti<lb ed="#P" n="90" break="no"/>mentis &amp; calceamentis Israelitarum per annos 40. 
+      <lb ed="#P" n="91"/>non detritis, &amp; lib. 5. contra Julianum cap. 5. &amp; 7. 
+      <lb ed="#P" n="92"/>necnon Cyrillus lib. 3. contra Julianum Augustum, 
+      <lb ed="#P" n="93"/>ubi ex authoritate Platonis philosophi tribuentis 
+      <lb ed="#P" n="94"/>diis inferioribus immortalitatem ex voluntate &amp; 
+      <lb ed="#P" n="95"/>consilio summi Dei, quam non habeant ex natura, 
+      <lb ed="#P" n="96"/>ostendit non esse incredibile, hominem etsi 
+      corrup<lb ed="#P" n="97" break="no"/>tibili natura prognatum, Deo tamen volente non 
+      <lb ed="#P" n="98"/>fuisse moriturum si non peccaret. Verum restat 
+      ex<lb ed="#P" n="99" break="no"/>plicandum quomodo per Dei voluntatem futurum 
+      <lb ed="#P" n="100"/>esset ut corpus ex contrariis constans non tandem 
+      <lb ed="#P" n="101"/>corrumperetur. Quidam dicunt qualitates illas 
+      tam<lb ed="#P" n="102" break="no"/>etsi contrarias, non tamen inter se pugnaturas 
+      <lb ed="#P" n="103"/>fuisse, quia talis earum fuisset in humano corpore 
+      <lb ed="#P" n="104"/>proportio ac contemperatio, ut nulla aliam aut 
+      de<lb ed="#P" n="105" break="no"/>strueret, aut quoquo modo laederet, minueretve; 
+      <lb ed="#P" n="106"/>idque propter optimam &amp; perfecte 
+      contempera<lb ed="#P" n="107" break="no"/>tam corporis constitutionem. Nam &amp; post 
+      resurre<lb ed="#P" n="108" break="no"/>ctionem erunt in nostris corporibus contrariae 
+      qua<lb ed="#P" n="109" break="no"/>litates, sed sine mutua actione &amp; pugna. Hic 
+      mo<lb ed="#P" n="110" break="no"/>dus placere videtur Augustino libro quinto contra 
+      <lb ed="#P" n="111"/>Julianum cap. 5. &amp; Bonaventurae super hanc 
+      distin<lb ed="#P" n="112" break="no"/>ctionem art. 2. Quod autem nulla qualitatum 
+      pu<lb ed="#P" n="113" break="no"/>gna ibi futura esset, probat Augustinus quia 
+      nul<lb ed="#P" n="114" break="no"/>lum malum in homine esse potuit ante peccatum: 
+      <lb ed="#P" n="115"/>pugna autem non est sine malo, quia vel est inter 
+      <lb ed="#P" n="116"/>ponum &amp; malum, vel inter duo mala: nam bonum 
+      <lb ed="#P" n="117"/>bono non contrariatur. S. Thomas 1. p. q. 97. art. 
+      <lb ed="#P" n="118"/>1. causam immortalitatis refert in animam. Non 
+      <lb ed="#P" n="119"/>enim, inquit, corpus hominis erat indissolubile per 
+      <lb ed="#P" n="120"/>aliquem immortalitatis vigorem in ipso existentem, 
+      <lb ed="#P" n="121"/>sed inerat animae vis quaedam supernaturaliter 
+      di<lb ed="#P" n="122" break="no"/>vinitus data, per quam poterat corpus ab omni 
+      <lb ed="#P" n="123"/>corruptione praeservare, quamdiu ipsa Deo subjecta 
+      <lb ed="#P" n="124"/>mansisset, &amp;c. Quam sententiam contra Scoti 
+      im<lb ed="#P" n="125" break="no"/>pugnationem defendit Cajetanus in ejusdem loci 
+      <lb ed="#P" n="126"/>commentario. Ad eandem confirmandam facit 
+      il<lb ed="#P" n="127" break="no"/>lud Augustini epistola 56. ad Dioscorum: Tam 
+      po<lb ed="#P" n="128" break="no"/>tenti natura Deus fecit animam, ut ex ejus 
+      bea<lb ed="#P" n="129" break="no"/>titudine redundet in corpus plenitudo sanitatis 
+      <lb ed="#P" n="130"/>&amp; incorruptionis vigor. Quod etsi ab Augustino 
+      <lb ed="#P" n="131"/>scriptum est de perfecta beatitudine animae, &amp; 
+      si<lb ed="#P" n="132" break="no"/>militer de perfecta incorruptione corporis, 
+      scili<lb ed="#P" n="133" break="no"/>cet ea quam habebimus post resurrectionem, 
+      po<lb ed="#P" n="134" break="no"/>test tamen servata analogia applicari ad 
+      beatitu<lb ed="#P" n="135" break="no"/>dinem &amp; immortalitatem primi status. Non est 
+      au<lb ed="#P" n="136" break="no"/>tem haec sententia sic intelligenda, quasi prorsus 
+      <lb ed="#P" n="137"/>omnem contrariorum pugnam a corpore hominis 
+      <lb ed="#P" n="138"/>integri excludat. Nam pugnam ibi aliquam 
+      ne<lb ed="#P" n="139" break="no"/>cessario agnoscendam esse patet, quia in homine 
+      <lb ed="#P" n="140"/>etiam adulto &amp; plenam corporis mensuram 
+      con<lb ed="#P" n="141" break="no"/>secuto, locum habuisset nutritio. Semper enim 
+      <lb ed="#P" n="142"/>in illa vita animali durasset necessitas sumendi 
+      <!--0402.xml-->
+      <pb ed="#P" n="169"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>alimenti. At nutritio semper aliquid addit corpori. 
+      <lb ed="#P" n="2"/>Quocirca ne corpus immodice excresceret, necesse 
+      <lb ed="#P" n="3"/>erat semper aliquid decedere. Neque rursum per 
+      <lb ed="#P" n="4"/>hujusmodi recessum corpus ipsum passurum erat 
+      de<lb ed="#P" n="5" break="no"/>fectum aliquem, sed in statu suo conservatum 
+      fuis<lb ed="#P" n="6" break="no"/>set; quia quantum pugna absumebat, tantum 
+      nutri<lb ed="#P" n="7" break="no"/>tio apponebat. Simul enim fiunt nutritio &amp; 
+      absum<lb ed="#P" n="8" break="no"/>ptio. Quae res utcumque declarari potest exemplo 
+      <lb ed="#P" n="9"/>hominis mortalis existentis in statu, licet non sit 
+      si<lb ed="#P" n="10" break="no"/>mile per omnia. Hinc quoque sequitur priorem 
+      sen<lb ed="#P" n="11" break="no"/>tentiam quatenus omnem pugnam omnino 
+      exclu<lb ed="#P" n="12" break="no"/>dit, non subsistere. Nec obstat objectio de malo. Nam 
+      <lb ed="#P" n="13"/>etsi pugna non sit sine malo ejus particulae quae 
+      cor<lb ed="#P" n="14" break="no"/>rumpitur; esse tamen potest sine malo totius 
+      corpo<lb ed="#P" n="15" break="no"/>ris, quod integrum &amp; indefectibile perseverat, 
+      mo<lb ed="#P" n="16" break="no"/>do jam explicato. 
+    </p>
+            <p xml:id="bt67yj-p064956-d1e318">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Aliud argumentum sumitur a vi externa, qua 
+      in<lb ed="#P" n="18" break="no"/>gruente laedi potuisset corpus hominis, ut a ferro, 
+      <lb ed="#P" n="19"/>vel igne. Sed respondetur stante Dei ordinatione 
+      <lb ed="#P" n="20"/>qui constituit malum poenae non futurum in natura 
+      <lb ed="#P" n="21"/>rationali sine malo culpae, fieri non potuisse, ut quae„ 
+      <lb ed="#P" n="22"/>cunque vis externa homini inferretur. Quamvis 
+      e<lb ed="#P" n="23" break="no"/>tiam tale esset corpus hominis, quod ab igne, ferro 
+      <lb ed="#P" n="24"/>aliisve ejusmodi nocumentis pati ac laedi posset, si 
+      <lb ed="#P" n="25"/>quid eorum incideret; ita tamen Dei providentia 
+      <lb ed="#P" n="26"/>protegebatur hominis innocentia, ut nihil tale 
+      un<lb ed="#P" n="27" break="no"/>quam ei in innocentia permanenti accideret. Sic enim 
+      <lb ed="#P" n="28"/>de homine in hoc statu corruptionis secundum 
+      quen<lb ed="#P" n="29" break="no"/>dam modum integro cecinit poeta: 
+    </p>
+            <p xml:id="bt67yj-p064956-d1e351">
+               <lb ed="#P" n="30"/>
+               <pc type="indent"/> Integer vitae scelerisque purus, 
+      <lb ed="#P" n="31"/>Non eget Mauri jaculis nec arcu, &amp;c. 
+      <lb ed="#P" n="32"/>quanto magis homini in ea integritate qua factus est, 
+      <lb ed="#P" n="33"/>constituto sic adfutura erat Dei providentia ut 
+      nul<lb ed="#P" n="34" break="no"/>lum ei malum appropinquaret. 
+    </p>
+            <p xml:id="bt67yj-p064956-d1e367">
+               <lb ed="#P" n="35"/>
+               <pc type="indent"/> Tertio, potest objici quod dicitur 4. Esdrae 3. Et 
+      <lb ed="#P" n="36"/>dedisti Adam corpus mortuum; scilicet ab initio &amp; 
+      an<lb ed="#P" n="37" break="no"/>te peccatum, ut apparet ex contextu. Mortuum 
+      au<lb ed="#P" n="38" break="no"/>tem dicere videtur mortale; quomodo accipitur apud 
+      <lb ed="#P" n="39"/>Apostolum Rom. 8. Respondetur librum illum non 
+      <lb ed="#P" n="40"/>habere authoritatem in Ecclesia, &amp; aliter loqui 
+      Apo<lb ed="#P" n="41" break="no"/>stolum cum ait: Corpus quidem mortuum propter 
+      <lb ed="#P" n="42"/>peccatum. Quanquam potest hic reddi sensus 
+      senten<lb ed="#P" n="43" break="no"/>tiae: Dedisti ei corpus mortuum, id est, inanime, 
+      <lb ed="#P" n="44"/>cui postea animam iufudisti, secundum scripturam 
+      <lb ed="#P" n="45"/>Genes. 1. 
+    </p>
+            <p xml:id="bt67yj-p064956-d1e396">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Quarto, primus homo non potuisset vivere in 
+      aeter<lb ed="#P" n="47" break="no"/>num sine ligno vitae; ergo corpus ejus non magis 
+      <lb ed="#P" n="48"/>erat immortale ante peccatum quam post, quando 
+      <lb ed="#P" n="49"/>pulsus fuit e paradiso, ne comedens de ligno vitae 
+      vi<lb ed="#P" n="50" break="no"/>veret in aeternum. Sed hujus argumenti solutio 
+      pate<lb ed="#P" n="51" break="no"/>bit infra, cum de ligno vitae ejusque virtute agemus. 
+    </p>
+            <p xml:id="bt67yj-p064956-d1e414">
+               <lb ed="#P" n="52"/>
+               <pc type="indent"/> Quinto, Ambrosius libro de fide resurrectionis 
+      <lb ed="#P" n="53"/>cap. 6. mortem nobis naturalem esse dicit, nec pro 
+      <lb ed="#P" n="54"/>poena sed pro remedio datam. Et similiter loquitur 
+      <lb ed="#P" n="55"/>lib. 7. in Luc. ergo secundum Ambrosium 
+      necessita<lb ed="#P" n="56" break="no"/>te naturae mors accidit homini, non autem merito 
+      <lb ed="#P" n="57"/>peccati; &amp; proinde moriturus erat homo etiamsi 
+      <lb ed="#P" n="58"/>non peccasset. Respondeo mortem recte dici 
+      natu<lb ed="#P" n="59" break="no"/>ralem, quia ex causis accidit naturalibus; idque 
+      ne<lb ed="#P" n="60" break="no"/>cessario, ita ut evitari non queat in hoc statu 
+      cor<lb ed="#P" n="61" break="no"/>ruptionis. Quod enim non sentiat Ambrosius 
+      mor<lb ed="#P" n="62" break="no"/>tem naturalem esse, quasi natura hominis instituta 
+      <lb ed="#P" n="63"/>sit cum necessitate moriendi; clare docent haec ejus 
+      <lb ed="#P" n="64"/>verba ejusdem libri cap. 9. Mors, inquit, in natura 
+      <lb ed="#P" n="65"/>non fuit, sed conversa in naturam est; scilicet per 
+      <lb ed="#P" n="66"/>peccatum &amp; ex merito peccati. Qua ratione etiam 
+      <lb ed="#P" n="67"/>ipsum peccatum versum est in naturam, juxta illud 
+      <lb ed="#P" n="68"/>Apostoli Ephes. 9. Eramus natura filii irae. Quomodo 
+      <lb ed="#P" n="69"/>enim natura (ait Augustinus tract. 4. in Joannem) 
+      <lb ed="#P" n="70"/>nisi quia vitium pro natura inolevit? Dicit autem 
+      <lb ed="#P" n="71"/>Ambrosius mortem esse pro remedio, non pro 
+      poe<lb ed="#P" n="72" break="no"/>na; quia est talis poena quae sit remedium &amp; finis 
+      <lb ed="#P" n="73"/>omnium poenarum &amp; miseriarum hujus vitae. Quem 
+      <lb ed="#P" n="74"/>sensum ipsa ejus sequentia verba diserte exprimunt. 
+      <!--0402.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>An autem mors etiam eo sensu possit dici naturalis, 
+      <lb ed="#P" n="76"/>quia naturalis esset homini etiam innocenti, insolis 
+      <lb ed="#P" n="77"/>naturae bonis constituto, postea videbitur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

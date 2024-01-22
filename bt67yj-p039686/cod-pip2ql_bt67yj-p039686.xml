@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="103"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p039686"><!-- l2d10c2" -->
+            <head xml:id="bt67yj-p039686-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p039686-Hd1e103" type="question-title">Angelos per sua ministeria non impediri 
+      a beatitudine</head>
+            <p xml:id="bt67yj-p039686-d1e106">
+               <lb ed="#P" n="97"/>§. 2. Angelos per sua ministeria non impediri 
+      <lb ed="#P" n="98"/>a beatitudine.
+    </p>
+            <p xml:id="bt67yj-p039686-d1e113">
+               <lb ed="#P" n="99"/>Iterum hoc loco notandum est, angelos per 
+      <lb ed="#P" n="100"/>sua ministeria quae Deo circa nos exhibent, non 
+      <lb ed="#P" n="101"/>solum impediri quo minus continuo Dei videant 
+      es<lb ed="#P" n="102" break="no"/>sentiam, eaque visione semper beati sint, sed nec 
+      im<lb ed="#P" n="103" break="no"/>pediri quo minus tam perfecte videant quam si 
+      nul<lb ed="#P" n="104" break="no"/>lum tale ministerium obirent. Sicut enim etiam dum 
+      <lb ed="#P" n="105"/>in terra sunt &amp; circa hominum custodiam 
+      occupan<lb ed="#P" n="106" break="no"/>tur, semper &amp; absque intermissione vident faciem 
+      <lb ed="#P" n="107"/>Patris Matth. 18. quod ostendimus ad distinctionem 
+      <lb ed="#P" n="108"/>7. ita &amp; vident aeque perfectae atque si in caelo essent. 
+      <lb ed="#P" n="109"/>Deum enim ubique etiam in terris positi praesentem 
+      <lb ed="#P" n="110"/>habent, non minus quam dum sunt in caelo. Quam 
+      <lb ed="#P" n="111"/>ob causam etiam dum in terris sunt, in caelo esse 
+      di<lb ed="#P" n="112" break="no"/>cuntur a Christo Matth. 18. &amp; ab Ecclesia in 
+      ora<lb ed="#P" n="113" break="no"/>tione de angelis. 
+    </p>
+            <p xml:id="bt67yj-p039686-d1e148">
+               <lb ed="#P" n="114"/>
+               <pc type="indent"/> Nec vero putandum est ejusmodi procuratione 
+      <lb ed="#P" n="115"/>humana, mentes angelicas ullo modo retardari aut 
+      <lb ed="#P" n="116"/>distrahi a perfecta contemplatione summi boni, ut 
+      <lb ed="#P" n="117"/>nec amorem ejus in illis ullo pacto minui. Sic enim 
+      <lb ed="#P" n="118"/>teste Gregorio ad exteriora procedunt, ut ab intimis 
+      <lb ed="#P" n="119"/>nunquam recedant. Neque id mirum, cum perfectus 
+      <lb ed="#P" n="120"/>amor Dei quem parit perfecta Dei contemplatio, sit 
+      <lb ed="#P" n="121"/>causa obedientiae atque obsequii aeterni, neque in 
+      <lb ed="#P" n="122"/>angelis impedimentum occurrat quo minus hoc 
+      ex<lb ed="#P" n="123" break="no"/>ternum cum illo interno perfecte consistat. Nam 
+      <lb ed="#P" n="124"/>quod homines mortales dum circa necessitates 
+      pro<lb ed="#P" n="125" break="no"/>ximorum &amp; humanitatis officia occupantur, 
+      impe<lb ed="#P" n="126" break="no"/>diri se sentiunt a rerum divinarum liberiori 
+      contem<lb ed="#P" n="127" break="no"/>platione; partim inde provenit quod nondum 
+      perfe<lb ed="#P" n="128" break="no"/>ctam Dei visionem sint assecuti; partim ex eo quod 
+      <lb ed="#P" n="129"/>propter humanae naturae corruptionem actualis 
+      sen<lb ed="#P" n="130" break="no"/>sibilium perceptio mentis intentionem avocet a 
+      con<lb ed="#P" n="131" break="no"/>templatione spiritualium. Hoc autem neque in 
+      an<lb ed="#P" n="132" break="no"/>gelis est, neque in Christo fuit, neque in nobis post 
+      <lb ed="#P" n="133"/>resurrectionem futurum est. 
+    </p>
+            <p xml:id="bt67yj-p039686-d1e197">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Si quaeritur an per hoc ministerium 
+      accidenta<lb ed="#P" n="135" break="no"/>lis beatitudo angelorum aliqua ex parte &amp; ad 
+      tem<lb ed="#P" n="136" break="no"/>pus minuatur, forte cuipiam videbitur id non 
+      ne<lb ed="#P" n="137" break="no"/>gandum, tum quia caelum est locus eorum naturae 
+      <lb ed="#P" n="138"/>&amp; felicitati convenientior quam terra; tum quia 
+      <lb ed="#P" n="139"/>in caelo est sanctorum &amp; beatorum societas, a qua 
+      <lb ed="#P" n="140"/>illi absunt ad tempus. Hanc autem qualemcumque 
+      <!--0337.xml-->
+      <pb ed="#P" n="104"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>diminutionem beatitudinis compensari voluptate P 
+      <lb ed="#P" n="2"/>quam capiunt tum ex hominum salute quam 
+      pro<lb ed="#P" n="3" break="no"/>curant, tum ex eo quod versantur in ministerio Dei, 
+      <lb ed="#P" n="4"/>quem super omnia diligunt. 
+    </p>
+            <p xml:id="bt67yj-p039686-d1e232">
+               <lb ed="#P" n="5"/>
+               <pc type="indent"/> At veriorem responsionem arbitror negativam. 
+      <lb ed="#P" n="6"/>Cum enim angeli non sint in loco nisi per 
+      opera<lb ed="#P" n="7" break="no"/>tionem, consequens videtur angelos hominum 
+      cu<lb ed="#P" n="8" break="no"/>stodes, neque a caelo, neque a beatorum societate 
+      <lb ed="#P" n="9"/>revera abesse, juxta ea quae de loco angelorum ad 2. 
+      <lb ed="#P" n="10"/>dist. dicta sunt, &amp; proinde per hujusmodi custodiam 
+      <lb ed="#P" n="11"/>nihil decedere de beatitudine eorum accidentali. 
+      <lb ed="#P" n="12"/>Quae vero adversus jam dicta possunt objici, facilem 
+      <lb ed="#P" n="13"/>habent solutionem ex iis quae ad dist. 7. docuimus de 
+      <lb ed="#P" n="14"/>beatitudine angelorum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

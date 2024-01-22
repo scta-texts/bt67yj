@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 18</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 18</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="251"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p097770"><!-- l2d24c18" -->
+            <head xml:id="bt67yj-p097770-Hd1e101">Capitulum 18</head>
+            <head xml:id="bt67yj-p097770-Hd1e103" type="question-title">Quibus modis vitiata sit hominis natura 
+        per peccatum</head>
+            <p xml:id="bt67yj-p097770-d1e106">
+               <lb ed="#P" n="115"/>
+               <pc type="indent"/> §. 18. Quibus modis vitiata sit hominis natura 
+      <lb ed="#P" n="116"/>per peccatum. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e115">
+               <lb ed="#P" n="117"/>NAturam humanam peccato primorum 
+      paren<lb ed="#P" n="118" break="no"/>tum corruptam seu vitiatam esse, Catholica 
+      <lb ed="#P" n="119"/>doctrina est a Patribus contra Pelagianos tradita, &amp; 
+      <lb ed="#P" n="120"/>duobus primis canonibus Arausicani Concilii 
+      com<lb ed="#P" n="121" break="no"/>prehensa. Quorum videlicet priore definitur, per 
+      <lb ed="#P" n="122"/>offensam praevaricationis Adae totum hominem 
+      se<lb ed="#P" n="123" break="no"/>cundum corpus &amp; animam in deterius esse 
+      com<lb ed="#P" n="124" break="no"/>mutatum; posteriore vero, praevaricationem Adae 
+      <lb ed="#P" n="125"/>non ipsi soli, sed ejus etiam propagini nocuisse, tam 
+      <lb ed="#P" n="126"/>quoad animam quam quoad corpus. Quae 
+      defini<lb ed="#P" n="127" break="no"/>tio repetita est in Concilio Trident. sess. 5. can. 1. 
+      <lb ed="#P" n="128"/>&amp; 2. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e144">
+               <lb ed="#P" n="129"/>
+               <pc type="indent"/> Non mirum autem, si per peccatum invecta est 
+      <lb ed="#P" n="130"/>corruptio in naturam humanam; quandoquidem 
+      ip<lb ed="#P" n="131" break="no"/>sum peccatum, per quod corruptionem invectam 
+      di<lb ed="#P" n="132" break="no"/>cimus, prima est &amp; praecipua naturae nostrae 
+      corru<lb ed="#P" n="133" break="no"/>ptio. Hoc enim nomine vocatur in scripturis, ut 2. 
+      <lb ed="#P" n="134"/>Pet. 2. Libertatem, inquit, illis promittentes, cum 
+      <lb ed="#P" n="135"/>ipsi servi sint corruptionis, id est, peccati. Nam 
+      se<lb ed="#P" n="136" break="no"/>equitur: A quo enim quis superatus est, hujus &amp; servus 
+      <lb ed="#P" n="137"/>est: Quod de peccato dictum esse a Petro probat 
+      si<lb ed="#P" n="138" break="no"/>milis sententia magistri ejus, Joannis cap. 8. Qui 
+      <lb ed="#P" n="139"/>peccatum, servus est peccati 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e174">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Porro ad eandem Catholicam doctrinam 
+      perti<lb ed="#P" n="141" break="no"/>net illud a Patribus frequentatum: Quod homo 
+      <lb ed="#P" n="142"/>per peccatum vulneratus est in bonis naturalibus, 
+      <!--0485.xml-->
+      <pb ed="#P" n="252"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>spoliatus autem gratuitis. Sic enim docent 
+      Ambro<lb ed="#P" n="2" break="no"/>sius in expositione Lucae 10. tractans parabolam de 
+      <lb ed="#P" n="3"/>eo qui incidit in latrones, &amp; Beda commentans in 
+      <lb ed="#P" n="4"/>eundem locum, &amp; Augustinus libro secundo 
+      quae<lb ed="#P" n="5" break="no"/>stionum evangelicarum qu. 19. qua eandem 
+      narra<lb ed="#P" n="6" break="no"/>tionem edisserit. Et idem rursus libro de natura &amp; 
+      <lb ed="#P" n="7"/>gratia capite 3. Quos authores secutus Magister 
+      <lb ed="#P" n="8"/>dist. 25. §. H. ita scribit: Per illud namque 
+      pecca<lb ed="#P" n="9" break="no"/>tum naturalia bona in ipso homine corrupta sunt, &amp; 
+      <lb ed="#P" n="10"/>gratuita detracta. Hic est enim ille qui a latronibus 
+      <lb ed="#P" n="11"/>vulneratus est &amp; spoliatus: vulneratus quidem in 
+      na<lb ed="#P" n="12" break="no"/>turalibus bonis, quibus non est privatus, alioqui non 
+      <lb ed="#P" n="13"/>posset fieri reparatio, spoliatus autem gratuitis, quae 
+      <lb ed="#P" n="14"/>per gratiam naturalibus addita fuerant. Haec 
+      Ma<lb ed="#P" n="15" break="no"/>gister. Ubi &amp; naturalium bonorum quae per 
+      pecca<lb ed="#P" n="16" break="no"/>tum corrupta, id est, vitiata esse dicit, haec ponit 
+      <lb ed="#P" n="17"/>exempla, ingenium, memoriam, intellectum, 
+      arbi<lb ed="#P" n="18" break="no"/>trii libertatem, quae ad animam pertinent. Quibus 
+      ad<lb ed="#P" n="19" break="no"/>de naturalia bona corporis, &amp; maxime appetitum 
+      <lb ed="#P" n="20"/>sensitivum. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e235">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Quaeritur autem quo sensu dicatur homo 
+      vulne<lb ed="#P" n="22" break="no"/>ratus in bonis naturalibus. Quidam dicunt eum in 
+      <lb ed="#P" n="23"/>naturalibus vulneratum ac laesum esse eo ipso quo 
+      <lb ed="#P" n="24"/>spoliatus est gratuitis. Nam, ut aiunt, per hoc quod 
+      <lb ed="#P" n="25"/>justitiam, fidem, spem, charitatem, sapientiam, 
+      <lb ed="#P" n="26"/>caeteraque dona amisit; vulneratus censetur in 
+      na<lb ed="#P" n="27" break="no"/>turalibus bonis intellectu, memoria, voluntate, 
+      <lb ed="#P" n="28"/>parte animae inferiore, a quibus ablatae sunt illae 
+      <lb ed="#P" n="29"/>perfectiones. Unde &amp; proprie loquendo censent 
+      <lb ed="#P" n="30"/>negandum esse, quod homo laesus sit in 
+      naturali<lb ed="#P" n="31" break="no"/>bus, eo quod spoliatus ac denudatus gratuitis 
+      ni<lb ed="#P" n="32" break="no"/>hil minus habeat quam habiturus erat si conditus 
+      <lb ed="#P" n="33"/>fuisset in puris naturalibus. Ita docet Barth. 
+      Medi<lb ed="#P" n="34" break="no"/>na 1. 2. quaest. 85. articulo 3. &amp; quaest. 109. in 
+      pro<lb ed="#P" n="35" break="no"/>oemio, &amp; alibi saepe. Idque profecto consequens est 
+      <lb ed="#P" n="36"/>ad eorum opinionem qui hominem qualis ex Adam 
+      <lb ed="#P" n="37"/>nascitur, ab homine in solis naturalibus creato non 
+      <lb ed="#P" n="38"/>aliter differre volunt, quam hominem vestibus 
+      nu<lb ed="#P" n="39" break="no"/>datum ab homine nudo qui nunquam vestitus 
+      <lb ed="#P" n="40"/>fuit. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e283">
+               <lb ed="#P" n="41"/>
+               <pc type="indent"/> Sed ea sententia aliis non placet, nec nobis 
+      pla<lb ed="#P" n="42" break="no"/>cere potest. Nam patres dicentes hominem per 
+      pec<lb ed="#P" n="43" break="no"/>catum esse vulneratum in naturalibus, non ad 
+      so<lb ed="#P" n="44" break="no"/>lam aspexerunt gratuitorum spoliationem, verum 
+      <lb ed="#P" n="45"/>etiam ad ipsorum naturalium quandam in seipsis 
+      <lb ed="#P" n="46"/>corruptionem, ut Magister loquitur, id est, in 
+      de<lb ed="#P" n="47" break="no"/>terius mutationem. Quod quidem etiam 
+      postula<lb ed="#P" n="48" break="no"/>re omnino videtur nomen vulnerationis. Quis enim 
+      <lb ed="#P" n="49"/>dicat eum vulnera accepisse in corpore, cui 
+      ve<lb ed="#P" n="50" break="no"/>stium tegumenta &amp; ornamenta fuerint detracta, 
+      <lb ed="#P" n="51"/>corpore ipso manente illaeso? Spoliatum quidem 
+      <lb ed="#P" n="52"/>&amp; nudatum dicimus talem hominem, sed 
+      vulnera<lb ed="#P" n="53" break="no"/>tum nequaquam. At patres vulneratum fuisse 
+      affir<lb ed="#P" n="54" break="no"/>mat, idque ad modum illius evangelici viatoris, 
+      <lb ed="#P" n="55"/>quem latrones non tantum despoliaverunt; verum 
+      <lb ed="#P" n="56"/>etiam plagis seu vulneribus ita affecerunt, ut 
+      semi<lb ed="#P" n="57" break="no"/>vivum relinquerent, non tantum spoliatum. His 
+      <lb ed="#P" n="58"/>accedit quod vulnera ipsa quae ex sententia patrum 
+      <lb ed="#P" n="59"/>inflicta sunt humanae naturae per peccatum, aliena 
+      <lb ed="#P" n="60"/>videntur esse a statu hominis naturali, etiamsi sine 
+      <lb ed="#P" n="61"/>gratuitis donis fuisset creatus, sed de hac re alibi 
+      <lb ed="#P" n="62"/>plenius. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e335">
+               <lb ed="#P" n="63"/>
+               <pc type="indent"/> Illud huic loco proprium, ut exponamus, 
+      quae<lb ed="#P" n="64" break="no"/>nam sint naturae vulnera, quae per peccatum sunt 
+      <lb ed="#P" n="65"/>homini inflicta. Ea numero quatuor recenset &amp; 
+      ex<lb ed="#P" n="66" break="no"/>plicat S. Thomas 1. 2. quaest. 85. articulo 3. idque 
+      <lb ed="#P" n="67"/>juxta quatuor principalia naturae bona, id est, 
+      <lb ed="#P" n="68"/>quatuor potentias animae, rationis imperio directe 
+      <lb ed="#P" n="69"/>ex prima institutione naturae subjectas, quae sunt 
+      <lb ed="#P" n="70"/>intellectus, voluntas, vis concupiscibilis, &amp; 
+      irasci<lb ed="#P" n="71" break="no"/>bilis. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e359">
+               <lb ed="#P" n="72"/>
+               <pc type="indent"/> Primum igitur naturae vulnus est in intellectu, 
+      <lb ed="#P" n="73"/>scilicet ignorantia privativa agendorum, atque 
+      <lb ed="#P" n="74"/>insuper ignorantia positiva, adeóque pronitas ad 
+      <!--0485.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>sequendum errores &amp; credendum falsitati, in iis 
+      ma<lb ed="#P" n="76" break="no"/>xime quae ad salutem animae spectant. Quod vulnus 
+      <lb ed="#P" n="77"/>agnovisse videtur etiam philosophus, licet causam 
+      <lb ed="#P" n="78"/>ejus ignoraret, quando libro 3. de anima capite 3. 
+      di<lb ed="#P" n="79" break="no"/>xit, errorem &amp; deceptionem magis esse propria 
+      ho<lb ed="#P" n="80" break="no"/>minibus, quam eorum contraria. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e388">
+               <lb ed="#P" n="81"/>
+               <pc type="indent"/> Scriptura vero sacra frequentissime hoc vitiatae 
+      na<lb ed="#P" n="82" break="no"/>turae vulnus attingit, ut cum ait Joannis 3. Dilexerut 
+      <lb ed="#P" n="83"/>homines magis tenebras quam lucem, &amp; Psal. 4. filis 
+      <lb ed="#P" n="84"/>hominum usquequo gravi corde, ut quid diligitis 
+      va<lb ed="#P" n="85" break="no"/>nitatem &amp; quaeritis mendacium? Et alibi. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e405">
+               <lb ed="#P" n="86"/>
+               <pc type="indent"/> Secundum vulnus est in voluntate, nempe 
+      mali<lb ed="#P" n="87" break="no"/>tia seu pronitas ad eligendum &amp; committendum 
+      ma<lb ed="#P" n="88" break="no"/>la, non modo per ignorantiam intellectus, verum 
+      <lb ed="#P" n="89"/>etiam scienter &amp; contra dictamen rectae rationis. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e418">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Quod vitium notasse videtur Dominus, quando 
+      dis<lb ed="#P" n="91" break="no"/>cipulis suis dixit Matth. 7. Si vos cum sitis mali, nostis 
+      <lb ed="#P" n="92"/>bona dare filiis vestris. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e429">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Tertium est in appetitu concupiscibili, scilicet 
+      il<lb ed="#P" n="94" break="no"/>lud vitium quo contra rectam rationem ac Dei 
+      le<lb ed="#P" n="95" break="no"/>gem movetur appetitus ad ea quae sensibus jucunda 
+      <lb ed="#P" n="96"/>sunt, &amp; quae molesta sunt refugit, vocaturque 
+      spe<lb ed="#P" n="97" break="no"/>ciali nomine concupiscentia. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e445">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Quartum in appetitu irascibili, per quod videlicet 
+      <lb ed="#P" n="99"/>inordinate se habet appetens ad bona seu mala ardua 
+      <lb ed="#P" n="100"/>prosequenda, fugienda vel repellenda; quod vulnus 
+      <lb ed="#P" n="101"/>vocatur infirmitas. Ad hoc autem pertinent honoris 
+      <lb ed="#P" n="102"/>&amp; gloriae cupiditas, vindicandi libido, temeritas, 
+      des<lb ed="#P" n="103" break="no"/>peratio, acedia, sive inclinationes ad hujusmodi 
+      vi<lb ed="#P" n="104" break="no"/>tia. Haec tria postrema vulnera in triplici appetitu 
+      <lb ed="#P" n="105"/>residentia notat scriptura Genes. 6. dicens vidisse 
+      <lb ed="#P" n="106"/>Deum, quod multa malitia hominum esset in terra, &amp; 
+      <lb ed="#P" n="107"/>cuncta cogitatio cordis intenta esset ad malum omni 
+      tem<lb ed="#P" n="108" break="no"/>pore; Et capite 8. dicente Domino. Sensus enam &amp; 
+      <lb ed="#P" n="109"/>cogitatio humam cordis in malum prona sunt ab ado 
+      <lb ed="#P" n="110"/>lescentia sua; sive ut in Hebraeo est, a pueritia siua. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e478">
+               <lb ed="#P" n="111"/>
+               <pc type="indent"/> Notandum autem per quatuor vulnera jam 
+      enu<lb ed="#P" n="112" break="no"/>merata quadruplicem ordinem subverti &amp; corrumpi 
+      <lb ed="#P" n="113"/>in homine. Nam, ut ait S. Thomas loco supra 
+      cita<lb ed="#P" n="114" break="no"/>to, inquantum intellectus seu ratio destituitur suo 
+      or<lb ed="#P" n="115" break="no"/>dine ad verum, est vulnus ignorantiae: Inquantum 
+      <lb ed="#P" n="116"/>vero voluntas destituitur ordine ad bonum est vulnus 
+      <lb ed="#P" n="117"/>malitiae. Inquantum vero appetitus concupiscibilis 
+      <lb ed="#P" n="118"/>destituitur ordine ad delectabile moderatum ratione, 
+      <lb ed="#P" n="119"/>est vulnus concupiscentiae. Inquantum vero 
+      irasci<lb ed="#P" n="120" break="no"/>bilis destituitur suo ordine ad arduum, est vulnus 
+      <lb ed="#P" n="121"/>infirmitatis. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e507">
+               <lb ed="#P" n="122"/>
+               <pc type="indent"/> Porro quatuor haec naturae vulnera totiquidem 
+      hu<lb ed="#P" n="123" break="no"/>mano generi communia sunt, quemadmodum docet 
+      <lb ed="#P" n="124"/>eodem loco S. Thomas; verum aliter in bonis sunt, 
+      <lb ed="#P" n="125"/>aliter in malis. In his enim cruda sunt &amp; 
+      putrescen<lb ed="#P" n="126" break="no"/>tia, ideóque mortifera; in illis secundum parabolam 
+      <lb ed="#P" n="127"/>evangelicam Luc. 10. infuso oleo ac vino mitigata 
+      <lb ed="#P" n="128"/>atque alligata confoventur, ne mortem adferant, 
+      <lb ed="#P" n="129"/>imo &amp; paulatim sanantur juxta illud Psalmi, Que 
+      <lb ed="#P" n="130"/>sanat omnes infirmitates tuas. 
+    </p>
+            <p xml:id="bt67yj-p097770-d1e532">
+               <lb ed="#P" n="131"/>
+               <pc type="indent"/> Etsi autem haec vulnera juxta dictarum 
+      potentia<lb ed="#P" n="132" break="no"/>rum divisionem numero sint quatuor; a Patribus 
+      <lb ed="#P" n="133"/>tamen plerumque breviori numero comprehendi 
+      so<lb ed="#P" n="134" break="no"/>lent, praesertim ab Augustino, qui modo duabus, 
+      mo<lb ed="#P" n="135" break="no"/>do tribus vocibus ea complectitur. Interdum enim 
+      <lb ed="#P" n="136"/>nominat ignorantiam &amp; difficultatem, ut libro de 
+      <lb ed="#P" n="137"/>natura &amp; gratia capite 67. &amp; libro 1. retractationum 
+      <lb ed="#P" n="138"/>cap. 9. interdum ignorantiam agendorum, &amp; 
+      con<lb ed="#P" n="139" break="no"/>cupiscentiam noxiorum; interdum vero ignorantiam, 
+      <lb ed="#P" n="140"/>malitiam &amp; concupiscentiam. Itaque secundum 
+      Au<lb ed="#P" n="141" break="no"/>gustinum concupiscentia nunc ad duo, nunc ad tria 
+      <lb ed="#P" n="142"/>postrema naturae vulnera referri debet, cum 
+      igno<lb ed="#P" n="143" break="no"/>rantia semper in solo sit intellectu.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="238"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p092600"><!-- l2d24c10" -->
+            <head xml:id="bt67yj-p092600-Hd1e101">Capitulum 10</head>
+            <head xml:id="bt67yj-p092600-Hd1e103" type="question-title">Eadem doctrina probatur ex Patribus</head>
+            <p xml:id="bt67yj-p092600-d1e106">
+               <lb ed="#P" n="119"/>
+               <pc type="indent"/> §. 10. Eadem doctrina probatur ex Patribus.
+    </p>
+            <p xml:id="bt67yj-p092600-d1e113">
+               <lb ed="#P" n="120"/>TAntus est omnium patrum cujuscunque aetatis 
+      <lb ed="#P" n="121"/>tam Graecorum, quam Latinorum consensus 
+      in<lb ed="#P" n="122" break="no"/>eam doctrinam, quae tradit hominem etiam lapsum, 
+      <lb ed="#P" n="123"/>sive adhuc in peccato jaceat, sive erectus sit a lapsu 
+      <lb ed="#P" n="124"/>tam in moralibus, quam in civilibus actionibus, 
+      <lb ed="#P" n="125"/>liberum habere arbitrium, ut supervacaneum videri 
+      <lb ed="#P" n="126"/>possit, testimoniis eorum referendis vel locis 
+      desi<lb ed="#P" n="127" break="no"/>gnandis immorari. Sed quoniam adversarii qui 
+      <lb ed="#P" n="128"/>hoc saeculo liberum arbitrium oppugnant, 
+      potissi<lb ed="#P" n="129" break="no"/>mum niti sese profitentur authoritate eorum qui 
+      <lb ed="#P" n="130"/>contra Pelagianos scripserunt, quasi illi re 
+      accura<lb ed="#P" n="131" break="no"/>tius expensa, quaestionem liberi arbitrii sincerius 
+      <lb ed="#P" n="132"/>quam alii tractaverint; idcirco nobis sufficiet 
+      eo<lb ed="#P" n="133" break="no"/>rum quaedam de multis testimonia produxisse, ex 
+      <lb ed="#P" n="134"/>quibus planissimum fiat, quae fit etiam illorum de 
+      <lb ed="#P" n="135"/>libero arbitrio sententia. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e150">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Atque horum primus sit Augustinus, ut quem 
+      <lb ed="#P" n="137"/>constat causam fidei Catholicae contra Pelagianos 
+      <lb ed="#P" n="138"/>prae caeteris ecclesiasticis scriptoribus acrius 
+      ube<lb ed="#P" n="139" break="no"/>riusque defendisse 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e164">
+               <lb ed="#P" n="140"/>
+               <pc type="indent"/> Is igitur lib. de quantitate animae capite 36. sic 
+      <lb ed="#P" n="141"/>inter alia scribit: Datum est animae liberum 
+      <!--0472.xml-->
+      <pb ed="#P" n="239"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>arbitrium, quod qui nugatoriis ratiocinationibus 
+      <lb ed="#P" n="2"/>labefactare conantur, usque adeo caeci sunt; ut ne 
+      <lb ed="#P" n="3"/>ista ipsa quidem vana atque sacrilega, propria 
+      vo<lb ed="#P" n="4" break="no"/>luntate se dicere intelligant. Item lib. 1. 
+      Soliloquio<lb ed="#P" n="5" break="no"/>rum cap. 1. Deus cujus legibus arbitrium animae 
+      li<lb ed="#P" n="6" break="no"/>berum est, bonisque praemia &amp; malis poenae 
+      distri<lb ed="#P" n="7" break="no"/>butae sunt. Item lib. de fide contra Manichaeos c. 10. 
+      <lb ed="#P" n="8"/>Quis non clamet stultum esse, praecepta dare ei, cut 
+      <lb ed="#P" n="9"/>liberum non est quod praecipitur facere, &amp; iniquum 
+      <lb ed="#P" n="10"/>esse eum damnare, cui non fuit potestas jussa 
+      com<lb ed="#P" n="11" break="no"/>plere? Item lib. de duabus animabus cap. 11. 
+      Pecca<lb ed="#P" n="12" break="no"/>tum est voluntas retinendi vel consequendi quod 
+      justi<lb ed="#P" n="13" break="no"/>tia vetat, &amp; unde liberum est abstinere. Et cap. 12. 
+      <lb ed="#P" n="14"/>Peccati reum teneri quemquam, quia non fecit quod 
+      <lb ed="#P" n="15"/>facere non potuit, summae iniquitatis est &amp; insaniae. 
+      <lb ed="#P" n="16"/>Et alia quae scribit utroque hoc cap. Item lib. 5. de 
+      <lb ed="#P" n="17"/>civit. Dei cap. 10. Quocirca, inquit, nullo modo 
+      <lb ed="#P" n="18"/>cogimur; aut retenta praescientia Dei, tollere voluntatis 
+      <lb ed="#P" n="19"/>arbitrium, aut retento voluntatis arbitrio, Deum, 
+      <lb ed="#P" n="20"/>quod nefas est, negare praescium futurorum: sed 
+      utrum<lb ed="#P" n="21" break="no"/>que amplectimur, utrumque fideliter &amp; veraciter 
+      con<lb ed="#P" n="22" break="no"/>fitemur. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e227">
+               <lb ed="#P" n="23"/>
+               <pc type="indent"/> His adde tres ejus libros, quibus de libero arbitrio 
+      <lb ed="#P" n="24"/>titulum fecit; nempe quod in co opere id agat ex 
+      <lb ed="#P" n="25"/>professo, ut contra Manichaeos liberum arbitrium 
+      <lb ed="#P" n="26"/>statuat ac defendat. Videantur autem praecipue quae 
+      <lb ed="#P" n="27"/>scribit lib. I. cap. 12. lib. 2. cap. 1. lib. 3. cap. 4. &amp; 18. 
+      <lb ed="#P" n="28"/>Adde &amp; haec loca, libro primo de vera religione cap. 
+      <lb ed="#P" n="29"/>14. lib. de unitate ecclesiae cap. 9. &amp; lib. 2. de actis 
+      <lb ed="#P" n="30"/>cum Felice Manichaeo cap. 3. &amp; 4. tractatu 4. in 
+      <lb ed="#P" n="31"/>epistolam Joannis quaestione 24. inter 83. &amp; alia 
+      <lb ed="#P" n="32"/>quam plurima. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e253">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> At dicunt adversarii haec ab Augustino scripta 
+      <lb ed="#P" n="34"/>fuisse ante exortam haeresim Pelagii, idcóque cum 
+      <lb ed="#P" n="35"/>judicio &amp; cautela esse legenda. Primum respondeo, 
+      <lb ed="#P" n="36"/>Augustinum nihil istorum postea retractasse, 
+      tamet<lb ed="#P" n="37" break="no"/>si quaedam exposuerit, sed non ita ut veritati liberi 
+      <lb ed="#P" n="38"/>arbitrii in homine etiam lapso quicquam vellet 
+      de<lb ed="#P" n="39" break="no"/>tractum. Quod certo argumento est, hanc ejus 
+      fuis<lb ed="#P" n="40" break="no"/>se certam &amp; stabilem &amp; irretractabilem doctrinam. 
+      <lb ed="#P" n="41"/>Deinde quod amplius est, dico hanc doctrinam ab 
+      <lb ed="#P" n="42"/>ipso postea repetitam, &amp; clarissimis testimoniis 
+      con<lb ed="#P" n="43" break="no"/>firmatam fuisse in iis libris &amp; tractatibus, quos 
+      edi<lb ed="#P" n="44" break="no"/>dit adversus Pelagianos. Cujusmodi sunt ista, lib. 
+      <lb ed="#P" n="45"/>de spiritu &amp; liter. cap. 30. liberum ergo arbitrium 
+      <lb ed="#P" n="46"/>evacuamus per gratiam? Absit, sed magis liberum 
+      <lb ed="#P" n="47"/>arbitrium statuimus. Sicut enim lex per fidem, sic 
+      <lb ed="#P" n="48"/>pliberum arbitrium per gratiam non evacuatur, sed 
+      <lb ed="#P" n="49"/>statuitur? Lib. de gratia &amp; libero arbitrio c. 1. 
+      Reve<lb ed="#P" n="50" break="no"/>lavit Deus per scripturas snas sanctas esse in homino 
+      <lb ed="#P" n="51"/>liberum voluntatis arbitrium. Et cap. 2. Praecepta 
+      <lb ed="#P" n="52"/>divina homini non prodessent, nisi haberet liberum 
+      <lb ed="#P" n="53"/>voluntatis arbitrium, quo ea faciens ad promissa 
+      <lb ed="#P" n="54"/>praemia perveniret. Et infra, Quomodo jubet Deus, 
+      <lb ed="#P" n="55"/>si non est liberum arbitrium? Lib. I. contra duas 
+      epi<lb ed="#P" n="56" break="no"/>stolas Pelagianorum cap. 2. Quis nostrum dicat, quod 
+      <lb ed="#P" n="57"/>primi hominis peccato perierit liberum arbitrium 
+      <lb ed="#P" n="58"/>de humano genere? Et paulo post: Nam liberum 
+      ar<lb ed="#P" n="59" break="no"/>bitrium usque adeo in peccatore non periit, ut per 
+      <lb ed="#P" n="60"/>illud peccet. In epistola 46. Credite divinis 
+      elo<lb ed="#P" n="61" break="no"/>quiis, quia liberum est hominis arbitrium. Et 
+      epi<lb ed="#P" n="62" break="no"/>stola 47. Fides Catholica neque liberum arbitrium 
+      <lb ed="#P" n="63"/>negat, sive in vitam malam, sive in bonam, neque 
+      <lb ed="#P" n="64"/>tantum ei tribuit, ut sine gratia valeat aliquid. Et 
+      <lb ed="#P" n="65"/>alia quae scribit in his duabus epistolis. Item epistola 
+      <lb ed="#P" n="66"/>89. q. 2. Neque enim voluntatis arbitrium ideo 
+      tol<lb ed="#P" n="67" break="no"/>litur, quia juvatur; sed ideo juvatur, quia non 
+      tolli<lb ed="#P" n="68" break="no"/>tur. Et libro 2. de peccatorum meritis capite 18. 
+      <lb ed="#P" n="69"/>Ipsa ratio quemlibet nostrum quaerentem vehementer 
+      <lb ed="#P" n="70"/>angustat, ne sic defendamus gratiam, ut liberum 
+      ar<lb ed="#P" n="71" break="no"/>bitrium auferre videamur: rursus nec liberum sic 
+      as<lb ed="#P" n="72" break="no"/>seramus arbitrium, ut superba impietate ingrati Dei 
+      <lb ed="#P" n="73"/>gratiae judicemur. Ac ne dubites, proprie eum loqui 
+      <lb ed="#P" n="74"/>de libero arbitrio, paulo inferius docet agnoscen¬ 
+      <!--0472.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="75"/>dum esse voluntatis arbitrium, quod huc atque illuc 
+      <lb ed="#P" n="76"/>liberum flectitur; atque in eis naturalibus bonis est, 
+      <lb ed="#P" n="77"/>quibus etiam male homines utuntur. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e360">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Et ne singula persequamur, sciendum est, adeo post 
+      <lb ed="#P" n="79"/>exortam haeresim Pelagii Augustinum a priori 
+      sen<lb ed="#P" n="80" break="no"/>tentia quam de libero hominis arbitrio tenuerat, 
+      <lb ed="#P" n="81"/>non recessisse, ut etiam graviter atque indigne 
+      tu<lb ed="#P" n="82" break="no"/>lerit, hoc sibi objici a Pelagianis, quod immodica 
+      <lb ed="#P" n="83"/>&amp; incauta gratiae defensione liberum arbitrium 
+      de<lb ed="#P" n="84" break="no"/>strueret, eamque calumniam calamo suo studiose 
+      <lb ed="#P" n="85"/>depulerit, ut lib. 2. de nuptiis &amp; concupiscentia 
+      <lb ed="#P" n="86"/>cap. 3. libr. 4. contra Julianum cap. 8. lib. 1. contra 
+      <lb ed="#P" n="87"/>duas epistolas Pelagianorum cap. 2. &amp; alibi. Quin 
+      <lb ed="#P" n="88"/>&amp; post exortum Pelagium, non minus quam ante, 
+      <lb ed="#P" n="89"/>retulit Aug. ad haeresim Manichaeorum eam 
+      doctri<lb ed="#P" n="90" break="no"/>nam quae negat liberum arbitrium, ut patet ex lib. 
+      <lb ed="#P" n="91"/>4. contra duas epistolas Pelagianorum capit. 4. &amp; 
+      <lb ed="#P" n="92"/>plenius ex opusculo de haeresibus ad Quodvult 
+      <lb ed="#P" n="93"/>Deum. Itaque ex his concludo, Augustinum etiam 
+      <lb ed="#P" n="94"/>in iis quae contra Pelagium scripsit, non modo non 
+      <lb ed="#P" n="95"/>favere sententiae eorum qui hodie liberum 
+      arbi<lb ed="#P" n="96" break="no"/>trium negant, verum etiam eos censere pro 
+      haereti<lb ed="#P" n="97" break="no"/>cis habendos. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e408">
+               <lb ed="#P" n="98"/>
+               <pc type="indent"/> Nunc caeteros qui contra Pelagianos gratiam Dei 
+      <lb ed="#P" n="99"/>defenderunt adducamus. Hieronymum quidem in 
+      <lb ed="#P" n="100"/>iis quae scripsit Pelagio nondum exorto, admodum 
+      <lb ed="#P" n="101"/>esse frequentem in assertione liberi arbitrii, palam 
+      <lb ed="#P" n="102"/>est. Loca sunt in epistola 147. ad Damasum de filio 
+      <lb ed="#P" n="103"/>prodigo: in epistola 150. ad Hedibiam qu. 10. &amp; I1. 
+      <lb ed="#P" n="104"/>lib. 2. contra <name xml:id="bt67yj-p092600-Nd1e427">Jovinianum</name> cap. 2. In commentario 
+      <lb ed="#P" n="105"/>super Isa. cap. 1. &amp; 50. super Jerem. cap. 5. 26. &amp; 
+      <lb ed="#P" n="106"/>32. super Ezechiel. cap. 3. &amp; 20. &amp; alia pene 
+      innu<lb ed="#P" n="107" break="no"/>mera. Ab hac autem doctrina nequaquam eum 
+      de<lb ed="#P" n="108" break="no"/>clinasse, quando jam senex in Pelagium scribere 
+      coe<lb ed="#P" n="109" break="no"/>pit, apertissime docent ex iis quae contra ejus 
+      haere<lb ed="#P" n="110" break="no"/>sim scripsit, haec testimonia. In epistola ad 
+      Ctesi<lb ed="#P" n="111" break="no"/>phontem sic alloquitur Pelagium; Frustra 
+      blasphe<lb ed="#P" n="112" break="no"/>mas &amp; ignorantiam auribus ingeris, nos liberum 
+      ar<lb ed="#P" n="113" break="no"/>bitrium condemnare, damnetur ille qui damnat. Et 
+      <lb ed="#P" n="114"/>in prooemio dialogorum contra Pelagianos: 
+      Mani<lb ed="#P" n="115" break="no"/>chaeorum est hominum damnare naturam, &amp; liberum 
+      <lb ed="#P" n="116"/>auferre arbitrium, &amp; adjutorium Dei tollere. Et in 
+      <lb ed="#P" n="117"/>tertio dialogo: Hoc est quod tibi in principio dixeram, 
+      <lb ed="#P" n="118"/>in nostra esse potestate peccare vel non peccare, ut 
+      libe<lb ed="#P" n="119" break="no"/>rum servetur arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e463">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Innocentius I. in epistola ad concilium 
+      Cartha<lb ed="#P" n="121" break="no"/>ginense contra Pelagianos habitum: Liberum 
+      arbi<lb ed="#P" n="122" break="no"/>trium, inquit, cum nasceremur accepimus. Et in 
+      <lb ed="#P" n="123"/>epistola ad concilium Milevitanum item habitum 
+      <lb ed="#P" n="124"/>contra Pelagianos: In omnibus divinis paginis 
+      vo<lb ed="#P" n="125" break="no"/>luntati liberae non nisi adjutorium Dei legimus esse 
+      <lb ed="#P" n="126"/>nectendum, eamque nihil posse caelestibus auxiliis 
+      de<lb ed="#P" n="127" break="no"/>stitutam. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e486">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Author hypognosticon, quod opus scriptum est 
+      <lb ed="#P" n="129"/>contra Pelagianam haeresim, lib. 3. sic loquitur. 
+      Ip<lb ed="#P" n="130" break="no"/>sum liberum arbitrium in hominibus esse, certa fide 
+      <lb ed="#P" n="131"/>credimus, &amp; praedicamus indubitanter. Et infra: 
+      Libe<lb ed="#P" n="132" break="no"/>rum arbitrium quisquis negaverit, Catholicus non est. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e502">
+               <lb ed="#P" n="133"/>
+               <pc type="indent"/> Caelestinus in prima epist. ad episcopos Galliae 
+      cap<lb ed="#P" n="134" break="no"/>13. ita scribit. Auxilio &amp; munere Dei liberum 
+      arbi<lb ed="#P" n="135" break="no"/>trium non tollitur, sed liberatur, ut de tenebroso 
+      luci<lb ed="#P" n="136" break="no"/>dum, de pravo rectum, de languido sanum, de 
+      impru<lb ed="#P" n="137" break="no"/>dente sit providum. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e518">
+               <lb ed="#P" n="138"/>
+               <pc type="indent"/> Prosper libro 1. de vocatione gentium cap. 8. 
+      bre<lb ed="#P" n="139" break="no"/>viter ostendit, nec gratiam nec peccatum tollere 
+      li<lb ed="#P" n="140" break="no"/>berum arbitrium his verbis: Nec quia spiritu Dei 
+      <lb ed="#P" n="141"/>agitur, ideo se putet homo liberum arbitrium non 
+      ha<lb ed="#P" n="142" break="no"/>bere; quod ne tunc quidem perdidit quando 
+      diabo<lb ed="#P" n="143" break="no"/>lo voluntate se dedit; a quo judicium voluntatis 
+      <lb ed="#P" n="144"/>depravatum est, non ablatum. Quod ergo non 
+      inter<lb ed="#P" n="145" break="no"/>fectum est per vulnerantem, non tollitur per 
+      meden<lb ed="#P" n="146" break="no"/>tem. Item in epistola ad Ruffinum de libero 
+      arbi<lb ed="#P" n="147" break="no"/>trio: Nimium vero inepte, nimiumque inconsi 
+      de<lb ed="#P" n="148" break="no"/>rate ab adversantibus dicitur, quod per hanc Dei 
+      <!--0473.xml-->
+      <pb ed="#P" n="240"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>gratiam libero nihil relinquatur arbitrio. Et ad 
+      capi<lb ed="#P" n="2" break="no"/>tula Gallorum sententia 6. Qui dicit quod liberum 
+      <lb ed="#P" n="3"/>arbitrium in homine nihil sit, sed sive ad bonum, sive 
+      <lb ed="#P" n="4"/>ad malum praedestinatio Dei in hominibus operetur, 
+      <lb ed="#P" n="5"/>non est Catholicus. Arbritrium enim hominis gratia 
+      <lb ed="#P" n="6"/>Dei non abolet, sed adolet, &amp; ab errore in viam 
+      <lb ed="#P" n="7"/>revocat ac reducit; ut quod sua libertate erat 
+      pra<lb ed="#P" n="8" break="no"/>vum, spiritu Dei agente sit rectum. Et contra 
+      Colla<lb ed="#P" n="9" break="no"/>torem cap. 11. Non est periculum libero arbitrio ex 
+      <lb ed="#P" n="10"/>gratia Dei, nec voluntas aufertur cum in ipsa velle 
+      <lb ed="#P" n="11"/>bene generatur. Vide etiam carmen de ingratis cap 
+      <lb ed="#P" n="12"/>26. 28. &amp; ult. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e579">
+               <lb ed="#P" n="13"/>
+               <pc type="indent"/> Leo in epist. 19. ad Turibium episcopum in 
+      prooe<lb ed="#P" n="14" break="no"/>mio docet, ex necessitate fatali, quam ponebant 
+      <lb ed="#P" n="15"/>Priscillianistae, consequi ut nec virtutibus praemia, 
+      <lb ed="#P" n="16"/>nec vitiis poenae debeantur, omniaque non solum 
+      hu<lb ed="#P" n="17" break="no"/>manarum legum, sed etiam divinarum 
+      constitutio<lb ed="#P" n="18" break="no"/>num decreta solvantur; nimirum sublato per eam 
+      <lb ed="#P" n="19"/>doctrinam libero hominum arbitrio, sine quo nihil 
+      <lb ed="#P" n="20"/>istorum consistat 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e601">
+               <lb ed="#P" n="21"/>
+               <pc type="indent"/> Fulgentii lib. de incarnatione &amp; gratia Christi 
+      <lb ed="#P" n="22"/>cap. 20. sententia est, gratia Dei humanum non 
+      au<lb ed="#P" n="23" break="no"/>ferri sed sanari arbitrium. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e612">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Gregorius primus lib. 18. Moral. cap. 22. ita 
+      scri<lb ed="#P" n="25" break="no"/>bit: Ex aspiratione gratiae virtutum opera in corde 
+      <lb ed="#P" n="26"/>generantur, ut ex libero quoque arbitrio subsequatus 
+      <lb ed="#P" n="27"/>actio, cui post hanc vitam retributio aeterna respondeat; 
+      <lb ed="#P" n="28"/>&amp; lib. Moral. 33. c. 25. Idcirco nequaquam caelestis 
+      <lb ed="#P" n="29"/>patriae praemia aeterna percipiunt, quia nunc dum 
+      prome<lb ed="#P" n="30" break="no"/>reri poterant ex libero arbitrio, contempserunt. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e633">
+               <lb ed="#P" n="31"/>
+               <pc type="indent"/> Beda in Gen. 4. super verbis Domini ad Cain ita 
+      <lb ed="#P" n="32"/>commentatur. Sub te erit appetitus ejus, id est, 
+      pec<lb ed="#P" n="33" break="no"/>cati, &amp; tu dominaberis illius. Ac si aperte diceret, sub 
+      <lb ed="#P" n="34"/>tua potestate est, si bene vel male egeris. Et in 
+      com<lb ed="#P" n="35" break="no"/>mentario super Luc. 20. Abire Dominus dicitur a 
+      vi<lb ed="#P" n="36" break="no"/>nea, ut vinitoribus liberum operandi arbitrium 
+      derelin<lb ed="#P" n="37" break="no"/>quat. Et infra: Sed semper ambigere dicitur Deus, ut 
+      <lb ed="#P" n="38"/>libera voluntas homini reservetur. Quae eadem 
+      ha<lb ed="#P" n="39" break="no"/>bentur in hom. feriae 6. post Reminiscere. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e657">
+               <lb ed="#P" n="40"/>
+               <pc type="indent"/> Anselmus super 2. Tim. 2. Liberum, inquit, 
+      ar<lb ed="#P" n="41" break="no"/>bitrium dedit nobis Deus, ut arbitrio propriae 
+      volun<lb ed="#P" n="42" break="no"/>tatis recedamus ab iniquitate, vel permaneamus in 
+      <lb ed="#P" n="43"/>iniquitate. Hujus etiam authoris exstat liber de 
+      libe<lb ed="#P" n="44" break="no"/>ro arbitrio, &amp; alter de concordia gratiae cum libero 
+      <lb ed="#P" n="45"/>arbitrio. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e675">
+               <lb ed="#P" n="46"/>
+               <pc type="indent"/> Bernardus serm. 81. in Cantica sic ait: Arbitrii 
+      li<lb ed="#P" n="47" break="no"/>bertas est plane divinum quiddam praefulgens in anima, 
+      <lb ed="#P" n="48"/>tanquam gemma in auro. Ex hac nempe inest illi inter 
+      <lb ed="#P" n="49"/>bonum &amp; malum, vitam &amp; mortem, lucem &amp; tenebras 
+      <lb ed="#P" n="50"/>cognitio judicii &amp; optio eligendi. Et post pauca: Unde 
+      <lb ed="#P" n="51"/>&amp; liberum nominatur arbitrium, quod liceat versari 
+      <lb ed="#P" n="52"/>in his pro arbitrio voluntatis, &amp; caetera quae 
+      sequun<lb ed="#P" n="53" break="no"/>tur. Exstat etiam Bernardi liber de gratia &amp; libero 
+      <lb ed="#P" n="54"/>arbitrio, in quo commonstrat per gratiam liberum 
+      <lb ed="#P" n="55"/>arbitrium non evacuari. Et quidem omnes hi patres 
+      <lb ed="#P" n="56"/>quos commemoravi, non modo post exortum dogma 
+      <lb ed="#P" n="57"/>Pelagii vixerunt, verum etiam Pelagianam haeresim 
+      <lb ed="#P" n="58"/>scriptis suis impugnarunt. 
+    </p>
+            <p xml:id="bt67yj-p092600-d1e708">
+               <lb ed="#P" n="59"/>
+               <pc type="indent"/> Sed his omnibus demum conclusionis loco 
+      subjun<lb ed="#P" n="60" break="no"/>gatur definitio duorum generalium conciliorum, 
+      sci<lb ed="#P" n="61" break="no"/>licet concilii Constantiensis, in quo hic articulus 
+      <lb ed="#P" n="62"/>Joannis Vvicleff num. 27. condemnatus est: Omnia 
+      <lb ed="#P" n="63"/>de necessitate absoluta eveniunt: per quem ille 
+      libe<lb ed="#P" n="64" break="no"/>rum arbitrium tollebat. Et concilii Tridentini 
+      sessio<lb ed="#P" n="65" break="no"/>ne 6 can. 5. directe contra Lutherum ejusque 
+      do<lb ed="#P" n="66" break="no"/>ctrinae sectatores edito, qui sic habet. Si quis 
+      libe<lb ed="#P" n="67" break="no"/>rum hominis arbitrium post Adae peccatum amissum C 
+      <lb ed="#P" n="68"/>extinctum esse dixerit, aut rem esse de solo titulo, imo 
+      <lb ed="#P" n="69"/>titulum sine re, figmentum denique a Satana invectum 
+      <lb ed="#P" n="70"/>in ecclesiam, anathema fit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

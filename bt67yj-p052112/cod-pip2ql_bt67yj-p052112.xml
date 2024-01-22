@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 6</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 6</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="135"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p052112"><!-- l2d15c6" -->
+            <head xml:id="bt67yj-p052112-Hd1e101">Capitulum 6</head>
+            <head xml:id="bt67yj-p052112-Hd1e103" type="question-title">Animalia quae non ex suo nascuntur genere 
+      quando facta</head>
+            <p xml:id="bt67yj-p052112-d1e106">
+      <!--0368.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="71"/>§. 6. Animalia quae non ex suo nascuntur genere 
+      <lb ed="#P" n="72"/>quando facta.
+    </p>
+            <p xml:id="bt67yj-p052112-d1e117">
+               <lb ed="#P" n="73"/>ILlud praeterea quaeritur, animalia quae generantur 
+      <lb ed="#P" n="74"/>Lex putrescente materia vel terrae, vel aquae, vel 
+      <lb ed="#P" n="75"/>aeris, vel plantarum, vel fructuum, vel mortuorum? 
+      <lb ed="#P" n="76"/>animalium, vel ex sudore, vel alia quacumque 
+      eva<lb ed="#P" n="77" break="no"/>poratione, vel quoruncumque corporum 
+      corruptio<lb ed="#P" n="78" break="no"/>ne, &amp; omnino quae aliter quam ex suo genere 
+      nas<lb ed="#P" n="79" break="no"/>cuntur; utrum facta fuerint in exordio mundi simul 
+      <lb ed="#P" n="80"/>cum aliis animantibus aquatilibus, aut volatilibus, 
+      <lb ed="#P" n="81"/>aut terrestribus, nimirum quinto aut sexto die. Sic 
+      <lb ed="#P" n="82"/>enim videri potest ex generali scriptura quae tradit 
+      <lb ed="#P" n="83"/>omnia quaecumque sunt in caelo, terra, mari, primis 
+      <lb ed="#P" n="84"/>sex diebus condita fuisse Exod. 20. Tum hoc 
+      argu<lb ed="#P" n="85" break="no"/>mento; quia Deus initio mundum fecit perfectum, 
+      <lb ed="#P" n="86"/>ita ut merito appellaretur universum: Tale autem 
+      <lb ed="#P" n="87"/>non esset, si non omnes animalium species initio 
+      <lb ed="#P" n="88"/>productae fuissent. 
+    </p>
+            <p xml:id="bt67yj-p052112-d1e154">
+               <lb ed="#P" n="89"/>
+               <pc type="indent"/> Accedit authoritas Sancti Basilii, qui homilia 
+      <lb ed="#P" n="90"/>septima Hexameron quintae diei opus edisserens 
+      <lb ed="#P" n="91"/>etiam ea recenset tanquam ad imperium Dei 
+      dicen<lb ed="#P" n="92" break="no"/>tis; Producant aquae, &amp;c. subito tunc exorta, 
+      quo<lb ed="#P" n="93" break="no"/>rum e locis palustribus ac limosis esse solet 
+      genera<lb ed="#P" n="94" break="no"/>tio, ut sunt ranae, muliones, culices &amp; alia id 
+      <lb ed="#P" n="95"/>genus. 
+    </p>
+            <p xml:id="bt67yj-p052112-d1e175">
+               <lb ed="#P" n="96"/>
+               <pc type="indent"/> In diversum est sancti Augustini sententia lib. 3. 
+      <lb ed="#P" n="97"/>de Genesi ad literam cap. decimoquarto, ubi mota 
+      <lb ed="#P" n="98"/>hac quaestione respondet absurdum videri, ea quae 
+      <lb ed="#P" n="99"/>ex mortuis animalibus generantur, in prima 
+      anima<lb ed="#P" n="100" break="no"/>lium creatione facta esse, quando nullum adhuc 
+      <lb ed="#P" n="101"/>erat mortuum aut corruptum animal: Ea vero quae 
+      <lb ed="#P" n="102"/>ex vitio &amp; corruptione aliarum rerum generantur, 
+      <lb ed="#P" n="103"/>posse citra absurditatem dici initio facta. Idem 
+      pror<lb ed="#P" n="104" break="no"/>sus sentit sanctus Thomas prima parte quaest. 72. ad 
+      <lb ed="#P" n="105"/>quintum. 
+    </p>
+            <p xml:id="bt67yj-p052112-d1e201">
+               <lb ed="#P" n="106"/>
+               <pc type="indent"/> Aliorum vero plenior in hanc partem sententia 
+      <lb ed="#P" n="107"/>est, scilicet unam esse rationem corruptionis 
+      plan<lb ed="#P" n="108" break="no"/>tarum atque animalium; &amp; proinde sicut 
+      verisimi<lb ed="#P" n="109" break="no"/>le non est ea quae ex animalium corruptione 
+      nascun<lb ed="#P" n="110" break="no"/>tur, initio facta fuisse, ita nec ea quorum ex 
+      plan<lb ed="#P" n="111" break="no"/>tarum corruptione, vel etiam aliarum rerum 
+      pu<lb ed="#P" n="112" break="no"/>trefactione generatio est. Non enim credendum 
+      <lb ed="#P" n="113"/>est hujusmodi corruptionem vel putrefactionem 
+      <lb ed="#P" n="114"/>spontaneam aliquarum rerum fuisse statim initio 
+      <lb ed="#P" n="115"/>postquam fuerunt creatae. Adde quod animalia 
+      <lb ed="#P" n="116"/>perfectiora quae generatione animalium ejusdem 
+      <lb ed="#P" n="117"/>speciei propaganda erant, nisi initio fuissent a Deo 
+      <lb ed="#P" n="118"/>creata, nunquam postea nasci potuissent, ut equi, 
+      <lb ed="#P" n="119"/>boves, oves, leones, &amp;c. at ea quae nascuntur ex 
+      <lb ed="#P" n="120"/>putri materia, non habebant necesse ut initio 
+      <lb ed="#P" n="121"/>crearentur. Semper enim nasci possunt ex 
+      mate<lb ed="#P" n="122" break="no"/>ria taliter disposita, etiamsi species ipsa tota 
+      defe<lb ed="#P" n="123" break="no"/>cisset. 
+    </p>
+            <p xml:id="bt67yj-p052112-d1e245">
+               <lb ed="#P" n="124"/>
+               <pc type="indent"/> De omnibus igitur hujusmodi dici potest, quod 
+      <lb ed="#P" n="125"/>de iis quae ex animalium corruptione nascuntur, 
+      di<lb ed="#P" n="126" break="no"/>cit S. Augustinus; videlicet ea initio creata non 
+      fuis<lb ed="#P" n="127" break="no"/>se, nisi causaliter &amp; potentialiter, id est virtute &amp; in 
+      <lb ed="#P" n="128"/>seminali ratione, quia nimirum ea rerum genera 
+      ini<lb ed="#P" n="129" break="no"/>tiofacta sunt, ex quorum corruptione, 
+      putrefactio<lb ed="#P" n="130" break="no"/>ne, seu quacumque alia immutatione haec animalia 
+      <lb ed="#P" n="131"/>postmodum naturaliter erant enascitura. 
+    </p>
+            <p xml:id="bt67yj-p052112-d1e267">
+               <lb ed="#P" n="132"/>
+               <pc type="indent"/> Atque hoc sensu verum est primis sex diebus 
+      om<lb ed="#P" n="133" break="no"/>nia fuisse facta, mundumque factum fuisse 
+      perfe<lb ed="#P" n="134" break="no"/>ctum, &amp; universum merito appellari debuisse, 
+      <lb ed="#P" n="135"/>quia jam res sic institutae erant a Deo, ut caeterae 
+      <lb ed="#P" n="136"/>rerum species quae actu nondum erant, in illis 
+      ta<lb ed="#P" n="137" break="no"/>men essent potentia, ac suo tempore ex illis 
+      natura<lb ed="#P" n="138" break="no"/>liter secundum rationes seminales exoriturae. Nam 
+      <lb ed="#P" n="139"/>alioqui ne nunc quidem adhuc perfectus esset 
+      mun<lb ed="#P" n="140" break="no"/>dus, imo vero nunquam perfectus esse posset. 
+      Sem<lb ed="#P" n="141" break="no"/>per enim aliae atque aliae species ex varia contem¬ 
+      <!--0369.xml-->
+      <pb ed="#P" n="136"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>peratione rerum prius existentium, elici possunt, ut 
+      <lb ed="#P" n="2"/>physicis &amp; medicis notissimum est. 
+    </p>
+            <p xml:id="bt67yj-p052112-d1e304">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Idem porro sentiendum videtur de iis animalibus 
+      <lb ed="#P" n="4"/>quae gignuntur ex commixtione animalium diversae 
+      <lb ed="#P" n="5"/>speciei, ut sunt mulus, hinnus seu burdo, leopardus, 
+      <lb ed="#P" n="6"/>canis Arabicus quem Graeci leontomigem vocant, &amp; 
+      <lb ed="#P" n="7"/>si quae sunt similia. Ita sentit Rupertus libro primo 
+      <lb ed="#P" n="8"/>super Genes. capit. 57. Videtur, inquam, ita 
+      sentien<lb ed="#P" n="9" break="no"/>dum, non tam ob rationes quas eo loco adfert 
+      Ru<lb ed="#P" n="10" break="no"/>pertus, alii vero nonnulli haud temere oppugnant, 
+      <lb ed="#P" n="11"/>sed ob rationem superius allatam; quia nimirum 
+      se<lb ed="#P" n="12" break="no"/>cundum rationes seminales in illis erant rerum 
+      ge<lb ed="#P" n="13" break="no"/>neribus quae initio facta sunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

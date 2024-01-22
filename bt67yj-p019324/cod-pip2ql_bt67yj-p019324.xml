@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="50"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p019324"><!-- l2d6c12" -->
+            <head xml:id="bt67yj-p019324-Hd1e101">Capitulum 12</head>
+            <head xml:id="bt67yj-p019324-Hd1e103" type="question-title">In quem locum dejecti daemones</head>
+            <p xml:id="bt67yj-p019324-d1e106">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> §. 12. In quem locum dejecti daemones?
+    </p>
+            <p xml:id="bt67yj-p019324-d1e113">
+               <lb ed="#P" n="79"/>DAemones postquam e loco supernae foelicitatis 
+      <lb ed="#P" n="80"/>dejecti sunt, versari super terram, &amp; in hoc 
+      ae<lb ed="#P" n="81" break="no"/>re terris proximo, complures scripturae significant. 
+      <lb ed="#P" n="82"/>Nam Job I. &amp; 2. Satan a Deo interrogatus unde 
+      veni<lb ed="#P" n="83" break="no"/>ret, ait: Circuivi terram, &amp; perambulavi eam. Et 
+      Pe<lb ed="#P" n="84" break="no"/>trus 1. epist. cap. 5. Adversarius, inquit, vester 
+      dia<lb ed="#P" n="85" break="no"/>bolus tanquam leo rugiens circuit quaerens quem 
+      devo<lb ed="#P" n="86" break="no"/>ret: Paulus quoque Ephes. 2. diabolum vocat 
+      prin<lb ed="#P" n="87" break="no"/>cipem potestatis aeris hujus, &amp;c. 6. daemones vocat 
+      <lb ed="#P" n="88"/>mundi rectores tenebrarum harum, &amp; spirituales 
+      ne<lb ed="#P" n="89" break="no"/>quitias in caelestibus, id est, aeriis locis; scilicet ea 
+      <lb ed="#P" n="90"/>locutione qua alibi volucres caeli, id est, aeris, 
+      dicun<lb ed="#P" n="91" break="no"/>tur. Idipsum videntur significare Petrus 2. epist. 2. &amp; 
+      <lb ed="#P" n="92"/>Judas in sua epistola quando dicunt daemones 
+      vin<lb ed="#P" n="93" break="no"/>culis quibusdam sub caligine detentos ad extremum 
+      <lb ed="#P" n="94"/>judicium reservari. Detinentur autem hoc loco; tum 
+      <lb ed="#P" n="95"/>ut aer iste caliginosus, quemadmodum Aug. 
+      loqui<lb ed="#P" n="96" break="no"/>tur lib. 3. de Genesi ad literam cap. 10. quasi carcer 
+      <lb ed="#P" n="97"/>eis sit usque ad diem judicii, quando scilicet 
+      produ<lb ed="#P" n="98" break="no"/>centur manifeste coram omnibus judicandi; tum ut 
+      <lb ed="#P" n="99"/>genus humanum diabolicae servituti merito peccati 
+      <lb ed="#P" n="100"/>obnoxium secundum terminos divinae providentiae 
+      <lb ed="#P" n="101"/>tentare, &amp; vexare sinatur. 
+    </p>
+            <p xml:id="bt67yj-p019324-d1e165">
+               <lb ed="#P" n="102"/>
+               <pc type="indent"/> Haec vero de loco daemonum doctrina adeo 
+      com<lb ed="#P" n="103" break="no"/>munis in ecclesia semper fuit, ut S. Hier. scribens 
+      su<lb ed="#P" n="104" break="no"/>per Ephes. c. 6. testetur omnium doctorum 
+      opinio<lb ed="#P" n="105" break="no"/>nem esse, quod aer iste, qui caelum, &amp; terram medius 
+      <lb ed="#P" n="106"/>dividens inane appellatur, plenus sit contrariis 
+      forti<lb ed="#P" n="107" break="no"/>tudinibus: videatur idem S. Hieron. in Ephes. c. 2. 
+      <lb ed="#P" n="108"/>Nec non S. Basilius hom. 9. &amp; S. Aug. Enchiridiic. 
+      <lb ed="#P" n="109"/>28. &amp; lib. 1. de civit. Dei, cap. 19. &amp; lib. 11. c. 33. &amp; 
+      <lb ed="#P" n="110"/>lib. 14. c. 3. Item lib. 11. de Genesi ad lit. c. 26. lib. 
+      <lb ed="#P" n="111"/>3. de Trinit. cap. 7. lib. de natura boni c. 33. 
+    </p>
+            <p xml:id="bt67yj-p019324-d1e192">
+               <lb ed="#P" n="112"/>
+               <pc type="indent"/> Quod vero Magister dicit §. 3. non esse concessum 
+      <lb ed="#P" n="113"/>daemonibus, habitare nobiscum in terra, ne homines 
+      <lb ed="#P" n="114"/>nimis infestarent; sed tantum in aere inter caelum &amp; 
+      <lb ed="#P" n="115"/>terram medio; ut vera sit sententia, videtur 
+      exponen<lb ed="#P" n="116" break="no"/>dum de familiari daemonum cum hominibus 
+      habita<lb ed="#P" n="117" break="no"/>tione, &amp; conversatione, qualis est hominum inter 
+      se<lb ed="#P" n="118" break="no"/>Nam alioqui daemones in terris inter homines versari 
+      <lb ed="#P" n="119"/>secundum scripturas, &amp; patrum doctrinam non 
+      du<lb ed="#P" n="120" break="no"/>bium est. Et quidem id manifeste significant 
+      scriptu<lb ed="#P" n="121" break="no"/>rae Job 1. &amp; 2. &amp; 1. Pet. 5. jam citatae; quibus adde 
+      <lb ed="#P" n="122"/>locum Apoc. 12. ubi dicitur Draco secum traxisse 
+      <lb ed="#P" n="123"/>tertiam partem stellarum, &amp; misisse eas in terram; 
+      <lb ed="#P" n="124"/>&amp; rursum ubi ipse cum angelis suis projectus dicitur 
+      <lb ed="#P" n="125"/>in terram. Denique cum caelesti voce proclamatur, 
+      <lb ed="#P" n="126"/>Vae terrae &amp; mari, quia descendit diabolus ad vos 
+      ha<lb ed="#P" n="127" break="no"/>bens iram magnam, &amp;c. 
+    </p>
+            <p xml:id="bt67yj-p019324-d1e231">
+               <lb ed="#P" n="128"/>
+               <pc type="indent"/> Idem probat obsessio hominum a daemonibus. Sed 
+      <lb ed="#P" n="129"/>omnium certissime tentatio, qua illi quotidie, sicut 
+      <lb ed="#P" n="130"/>multis locis scriptura docet, homines ad peccata 
+      sol<lb ed="#P" n="131" break="no"/>licitant, quod facere non possent nisi in terra &amp; inter 
+      <lb ed="#P" n="132"/>homines versantes; neque profecto aliud significari 
+      <lb ed="#P" n="133"/>videtur, cum in aere caliginoso versari dicuntur; 
+      <lb ed="#P" n="134"/>nam aer caliginosus terrae proximus est, in quo ipsi 
+      <lb ed="#P" n="135"/>etiam homines super terram versantur. 
+    </p>
+            <p xml:id="bt67yj-p019324-d1e253">
+               <lb ed="#P" n="136"/>
+               <pc type="indent"/> Porro quod nonnulli adversus praedicta 
+      conan<lb ed="#P" n="137" break="no"/>tur ostendere, daemones omnes esse in inferno, ex eo 
+      <lb ed="#P" n="138"/>quia sancti angeli omnes in caelo; facilem ex hac 
+      <lb ed="#P" n="139"/>ipsa sanctorum angelorum comparatione 
+      solutio<lb ed="#P" n="140" break="no"/>nem habet. Nam ut S. Thomas docet 1. part. q. 64. 
+      <lb ed="#P" n="141"/>art. 4. duplex est locus tam sanctorum angelorum, 
+      <lb ed="#P" n="142"/>quam daemonum, utrisque a Deo assignatus; alter 
+      re<lb ed="#P" n="143" break="no"/>spondens meritis eorum, qua ratione sanctorum 
+      an<lb ed="#P" n="144" break="no"/>gelorum locus est caelum, &amp; daemonum locus 
+      infer<lb ed="#P" n="145" break="no"/>nus; alter ex peculiari ordinatione divina propter 
+      <lb ed="#P" n="146"/>homines facta, quo modo sanctorum angelorum 
+      <!--0284.xml-->
+      <pb ed="#P" n="51"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>locus est apud homines, quibus custodiendis &amp; re¬ ¬ 
+      <lb ed="#P" n="2"/>gendis praeficiuntur, &amp; daemonum locus apud 
+      eos<lb ed="#P" n="3" break="no"/>dem ob rationem supra dictam; qua quidem in re 
+      <lb ed="#P" n="4"/>etiam ipsi suo modo voluntati, ac justitiae Dei 
+      sub<lb ed="#P" n="5" break="no"/>serviunt. Veruntamen sicut angeli quidam in caelo 
+      <lb ed="#P" n="6"/>sunt, sanctarum animarum socii, sic &amp; daemonum 
+      <lb ed="#P" n="7"/>quidam in infernum relegati sunt, ubidamnatas 
+      ani<lb ed="#P" n="8" break="no"/>mas torquent. Ita namque docent sancti patres, ut 
+      <lb ed="#P" n="9"/>Gregorius Nazianz. oratione in S. Cyprianum, 
+      Am<lb ed="#P" n="10" break="no"/>brosius in Luc. 8. ubi de legione daemonum 
+      agi<lb ed="#P" n="11" break="no"/>tur. Hieronymus in Isa. 14. ad illud: Infernus subter 
+      <lb ed="#P" n="12"/>te conturbatus est. Joan. Chrysostomus homilia 24. 
+      <lb ed="#P" n="13"/>in Matth. ad illud capitis 8. venisti ante tempus 
+      tor<lb ed="#P" n="14" break="no"/>quere nos. Cyrillus lib. 6. contra Julianum ante 
+      me<lb ed="#P" n="15" break="no"/>dium, quem &amp; S. Thomas citat in catena ad Luc. 6. 
+      <lb ed="#P" n="16"/>S. Gregorius lib. 4. Dialog. Beda lib. 5. historiae 
+      gen<lb ed="#P" n="17" break="no"/>tis Anglorum cap. 13. &amp; Oecumenius in 2. Pet. 2. 
+    </p>
+            <p xml:id="bt67yj-p019324-d1e325">
+               <lb ed="#P" n="18"/>
+               <pc type="indent"/> Hanc autem doctrinam suam ex scriptura 
+      sumpse<lb ed="#P" n="19" break="no"/>runt, ea maxime quae est Luc. 8. ubi daemones 
+      legun<lb ed="#P" n="20" break="no"/>tur rogasse Christum, ne imperaret illis ut in 
+      abys<lb ed="#P" n="21" break="no"/>sum irent, sed ut permitterentur in porcos ingredi, 
+      <lb ed="#P" n="22"/>non enim totum quod petebant, impetraverunt, sed 
+      <lb ed="#P" n="23"/>permissi quidem sunt intrare in porcos, ut 
+      intellige<lb ed="#P" n="24" break="no"/>retur quanta daemonum multitudo unum hominem 
+      <lb ed="#P" n="25"/>obsedisset, &amp; sic innotesceret magnitudo beneficii 
+      <lb ed="#P" n="26"/>divini erga obsessum; at nihilominus jussi sunt in 
+      a<lb ed="#P" n="27" break="no"/>byssum descendere, quod &amp; statim fecerunt, dum 
+      <lb ed="#P" n="28"/>porcos ingressi eos impetu praecipitaverunt in mare, 
+      <lb ed="#P" n="29"/>simul eo facto adhuc quamdiu possent, &amp; 
+      permitte<lb ed="#P" n="30" break="no"/>rentur, hominibus nocentes. Permissi sunt autem 
+      <lb ed="#P" n="31"/>porcos perdere, quia Gerazeni per illos peccabant, 
+      <lb ed="#P" n="32"/>scilicet alendo ad cibum animal lege vetitum. 
+    </p>
+            <p xml:id="bt67yj-p019324-d1e362">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Caeterum hic meminisse oportet, cum in aere vel 
+      <lb ed="#P" n="34"/>terra tanquam in loco daemones versari dicuntur, id 
+      <lb ed="#P" n="35"/>intelligendum de eo modo existendi in loco quem ad 
+      <lb ed="#P" n="36"/>distinctionem 2. ostendimus angelis competere 
+      pos<lb ed="#P" n="37" break="no"/>se, nempe secundum operationem saltem 
+      generali<lb ed="#P" n="38" break="no"/>ter dictam. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

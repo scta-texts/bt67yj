@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="355"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p137423"><!-- l2d30c7" -->
+            <head xml:id="bt67yj-p137423-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p137423-Hd1e103" type="question-title">Peccatum originale parvulis internum esse 
+      et cuique proprium</head>
+            <p xml:id="bt67yj-p137423-d1e106">
+      <!--0588.xml-->
+               <pb ed="#P" n="355"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>§. 7. Peccatum originale parvulis internum esse 
+      <lb ed="#P" n="2"/>&amp; cuique proprium.
+    </p>
+            <p xml:id="bt67yj-p137423-d1e119">
+               <lb ed="#P" n="3"/>QUaecunque probant in parvulos non poenam 
+      <lb ed="#P" n="4"/>tantum transire, sed &amp; culpam, eadem fere 
+      <lb ed="#P" n="5"/>omnia valent ad probandum peccatum originale 
+      par<lb ed="#P" n="6" break="no"/>vulis internum esse, &amp; non tantum peccatores eos 
+      <lb ed="#P" n="7"/>dici ab actuali transgressione primi parentis. 
+      Scriptu<lb ed="#P" n="8" break="no"/>rae enim ipsis nascentibus peccatum, iniquitatem, 
+      <lb ed="#P" n="9"/>immunditiam tribuunt velut inhaerentem; ob quam 
+      <lb ed="#P" n="10"/>iidem ipsi merito culpentur, &amp; a facie Dei 
+      projician<lb ed="#P" n="11" break="no"/>tur, cum actualis illa transgressio primi parentis jam 
+      <lb ed="#P" n="12"/>olim transierit; atque adeo etiam in authore suo per 
+      <lb ed="#P" n="13"/>poenitentiam remissa sit &amp; expiata. Itaque si non 
+      es<lb ed="#P" n="14" break="no"/>sent peccatores nisi ab illo primo peccato, essent 
+      pec<lb ed="#P" n="15" break="no"/>catores a peccato, quod non est neque actu neque 
+      <lb ed="#P" n="16"/>reatu, quia plene remissum. 
+    </p>
+            <p xml:id="bt67yj-p137423-d1e152">
+               <lb ed="#P" n="17"/>
+               <pc type="indent"/> Praeterea, teste Apostolo Rom. 5. sic peccatum 
+      si<lb ed="#P" n="18" break="no"/>cut &amp; mors in omnes homines pertransiit; sicut ergo 
+      <lb ed="#P" n="19"/>mors unicuique propria accidit, ita peccatum 
+      uni<lb ed="#P" n="20" break="no"/>cuique proprium inest. Quod &amp; de aliis poenis 
+      si<lb ed="#P" n="21" break="no"/>militer assumi potest. Rursum eodem loco docet 
+      A<lb ed="#P" n="22" break="no"/>postolus, sic per unius inobedientiam multos 
+      consti<lb ed="#P" n="23" break="no"/>tutos peccatores, sicut per unius obeditionem justi 
+      <lb ed="#P" n="24"/>constituuntur multi. Cum ergo inter Catholicos 
+      con<lb ed="#P" n="25" break="no"/>stet, his qui in Christo regenerantur, internam 
+      in<lb ed="#P" n="26" break="no"/>haerere justitiam singulis propriam, quemadmodum 
+      <lb ed="#P" n="27"/>sess. 6. cap. 7. &amp; Can. 10. &amp; 11. Concilii Trident. 
+      <lb ed="#P" n="28"/>definitum est; constare etiam debet, iis qui 
+      nascun<lb ed="#P" n="29" break="no"/>tur ex Adam, propriam &amp; internam injustitiam 
+      ines<lb ed="#P" n="30" break="no"/>se. Quo argumento utitur Augustinus lib. I. de 
+      pec<lb ed="#P" n="31" break="no"/>catorum meritis cap. 9. &amp; 10. docens ex eo, quod 
+      <lb ed="#P" n="32"/>Christus dat fidelibus occultissimam sui spiritus 
+      gra<lb ed="#P" n="33" break="no"/>tiam, quam latenter infundit &amp; parvulis, etiam 
+      A<lb ed="#P" n="34" break="no"/>dam occulta tabe carnalis concupiscentiae tabificasse1 
+      <lb ed="#P" n="35"/>in se omnes de sua stirpe venientes. 
+    </p>
+            <p xml:id="bt67yj-p137423-d1e199">
+               <lb ed="#P" n="36"/>
+               <pc type="indent"/> Aliud argumentum sumitur ex Rom. 9. ubi de 
+      Ja<lb ed="#P" n="37" break="no"/>cob &amp; Esau dicitur, eos nondum quicquam boni 
+      <lb ed="#P" n="38"/>aut mali egisse, quando matri eorum dictum est: 
+      <lb ed="#P" n="39"/>Major serviet minori. Quare illud Rom. 5. in quo 
+      om<lb ed="#P" n="40" break="no"/>nos peccaverunt, non potest de actuali peccato primi 
+      <lb ed="#P" n="41"/>hominis intelligi. Sic enim jam olim aliquid mali 
+      <lb ed="#P" n="42"/>egissent. 
+    </p>
+            <p xml:id="bt67yj-p137423-d1e219">
+               <lb ed="#P" n="43"/>
+               <pc type="indent"/> Item ex baptismi effectu redarguitur hoc 
+      com<lb ed="#P" n="44" break="no"/>mentum. Non enim solum adultis, sed &amp; parvulis 
+      <lb ed="#P" n="45"/>vere peccatum remittitur in baptismo. Quibus cum 
+      <lb ed="#P" n="46"/>non remittatur peccatum primi parentis, cujus ille 
+      <lb ed="#P" n="47"/>jam olim veniam consecutus est, consequens est, ad 
+      <lb ed="#P" n="48"/>proprium peccatum remitti. 
+    </p>
+            <p xml:id="bt67yj-p137423-d1e237">
+               <lb ed="#P" n="49"/>
+               <pc type="indent"/> Denique ex Synodo Trid. praeter illud de justitia 
+      <lb ed="#P" n="50"/>interna, cujus modo meminimus, duo alia 
+      argumen<lb ed="#P" n="51" break="no"/>ta peti possunt contra hanc doctrinam ponentium 
+      <lb ed="#P" n="52"/>originale peccatum extra parvulos. Prius est ex sess. 
+      <lb ed="#P" n="53"/>5. can. 3. ubi definitur, peccatum Adae quod 
+      origi<lb ed="#P" n="54" break="no"/>ne unum est, &amp; propagatione transfusum in omnes 
+      <lb ed="#P" n="55"/>homines, inesse unicuique proprium. Posterius ex 
+      <lb ed="#P" n="56"/>ejusdem sess. Can. 5. ubi dicitur, in renatis Deum 
+      <lb ed="#P" n="57"/>nihil odisse. Ex quo evidenter colligitur, nondum 
+      <lb ed="#P" n="58"/>renatis inesse aliquid quod oderit Deus. Atque haec 
+      <lb ed="#P" n="59"/>Concilii sententia evertit fundamentum eorum, qui 
+      <lb ed="#P" n="60"/>parvulo negant peccatum esse internum. Aiunt 
+      <lb ed="#P" n="61"/>enim nihil inesse parvulo, nisi quod in eo Deus 
+      con<lb ed="#P" n="62" break="no"/>didit; quod verum esse non potest, si in parvulo, 
+      <lb ed="#P" n="63"/>juxta Patrum sententiam, aliquid odcrit Deus cum 
+      <lb ed="#P" n="64"/>Scriptura teste Sap. 11. Deus nihil oderit eorum quae 
+      <lb ed="#P" n="65"/>fecit. Et sane idem sui erroris fundamentum 
+      statuo<lb ed="#P" n="66" break="no"/>rat olim Pelagius, &amp; discipulus ejus Cclestius, ut 
+      <lb ed="#P" n="67"/>patet ex Augustino lib. de peccato originali cap. 6. 
+      <lb ed="#P" n="68"/>&amp; 13. Quo loco haec Pelagii verba ab Augustino 
+      re<lb ed="#P" n="69" break="no"/>feruntur: Omne bonum ac malum, quo vel 
+      lauda<lb ed="#P" n="70" break="no"/>biles vel vituperabiles sumus, non nobiscum oritur, 
+      <lb ed="#P" n="71"/>sed agitur a nobis. Capaces enim utriusque rei, 
+      <!--0588.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>non pleni nascimur; &amp; ut sine virtute, ita &amp; sine 
+      <lb ed="#P" n="73"/>vitio procreamur, atque ante actionem propriae 
+      vo<lb ed="#P" n="74" break="no"/>luntatis id solum in homine est, quod Deus 
+      condi<lb ed="#P" n="75" break="no"/>dit. Sed hoc errore, quemadmodum ibidem 
+      Augu<lb ed="#P" n="76" break="no"/>stinus docet, plane evertitur fides Catholica de 
+      pec<lb ed="#P" n="77" break="no"/>cato originali. 
+    </p>
+            <p xml:id="bt67yj-p137423-d1e309">
+               <lb ed="#P" n="78"/>
+               <pc type="indent"/> Porro plenior dictae opinionis refutatio petenda est 
+      <lb ed="#P" n="79"/>ex iis, quae de propria peccati originalis ratione 
+      di<lb ed="#P" n="80" break="no"/>cenda restant. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

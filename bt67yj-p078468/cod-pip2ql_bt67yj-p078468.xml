@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-01-21">January 21, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-21" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="203"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bt67yj-p078468"><!-- l2d22c11" -->
+            <head xml:id="bt67yj-p078468-Hd1e101">Capitulum 11</head>
+            <head xml:id="bt67yj-p078468-Hd1e103" type="question-title">Respondetur ad objectiones</head>
+            <p xml:id="bt67yj-p078468-d1e106">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> §. 11. Respondetur ad objectiones.
+    </p>
+            <p xml:id="bt67yj-p078468-d1e113">
+               <lb ed="#P" n="61"/>NUnc proferenda sunt quaedam in contrarium 
+      <lb ed="#P" n="62"/>argumenta, ut ex eorum solutione planiora 
+      <lb ed="#P" n="63"/>fiant quae dicta sunt. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e122">
+               <lb ed="#P" n="64"/>
+               <pc type="indent"/> Primum tale est: Peccatum Aug. definiente libro 
+      <lb ed="#P" n="65"/>22. contra Faustum cap. 27. est dictum, factum vel 
+      <lb ed="#P" n="66"/>concupitum contra legem Dei. At ignorantia nihil ho 
+      <lb ed="#P" n="67"/>rum est; ergo non est peccatum. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e136">
+               <lb ed="#P" n="68"/>
+               <pc type="indent"/> Secundum: Si ignorantia aliqua in nobis est 
+      pec<lb ed="#P" n="69" break="no"/>catum, ea non est peccatum originale. Hoc enim 
+      re<lb ed="#P" n="70" break="no"/>missum est in baptismo; ergo est peccatum actuale. 
+      <lb ed="#P" n="71"/>Quod non videtur dici posse, quia omne actuale 
+      <!--0436.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="72"/>peccatum est actus a voluntate elicitus vel 
+      impera<lb ed="#P" n="73" break="no"/>tus, quorum neutrum est ignorantia. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e158">
+               <lb ed="#P" n="74"/>
+               <pc type="indent"/> Tertium: Peccatum non opponitur nisi virtuti 
+      <lb ed="#P" n="75"/>vel actui virtutis: Ignorantia autem non opponitur 
+      <lb ed="#P" n="76"/>virtuti sed scientiae; ergo non est peccatum; vel 
+      <lb ed="#P" n="77"/>brevius hoc modo: Scientia agendorum non est 
+      <lb ed="#P" n="78"/>virtus; ergo ignorantia agendorum non est 
+      pecca<lb ed="#P" n="79" break="no"/>catum. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e176">
+               <lb ed="#P" n="80"/>
+               <pc type="indent"/> Quartum: Privatio gratiae non est peccatum; 
+      <lb ed="#P" n="81"/>ergo nec privatio scientiae, quae est ignorantia, 
+      pec<lb ed="#P" n="82" break="no"/>catum est. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e187">
+               <lb ed="#P" n="83"/>
+               <pc type="indent"/> Quintum: Sicut multa peccata committuntur ex 
+      <lb ed="#P" n="84"/>ignorantia, ita &amp; ex infirmitate seu passione. Sed 
+      <lb ed="#P" n="85"/>tamen ipsa infirmitas &amp; passio non ideo sunt 
+      pec<lb ed="#P" n="86" break="no"/>cata; ergo nec ignorantia. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e200">
+               <lb ed="#P" n="87"/>
+               <pc type="indent"/> Sextum: Peccatum per poenitentiam tollitur; 
+      <lb ed="#P" n="88"/>ignorantia saepe non tollitur, sed manet in homine 
+      <lb ed="#P" n="89"/>poenitente; ergo non est peccatum. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e211">
+               <lb ed="#P" n="90"/>
+               <pc type="indent"/> Septimum: Si ignorantia esset peccatum; igitur 
+      <lb ed="#P" n="91"/>ea durante homo continuo peccaret, quod est 
+      ab<lb ed="#P" n="92" break="no"/>surdum. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e223">
+               <lb ed="#P" n="93"/>
+               <pc type="indent"/> Octavum: Ignorantia omnis aliqua ex parte 
+      ex<lb ed="#P" n="94" break="no"/>cusat peccatum; ergo ipsa nunquam est peccatum. 
+      <lb ed="#P" n="95"/>Nam peccatum conjunctum peccato potius 
+      aggra<lb ed="#P" n="96" break="no"/>vat quam extenuat. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e236">
+               <lb ed="#P" n="97"/>
+               <pc type="indent"/> Nonum: Nulla ignorantia est simpliciter 
+      volun<lb ed="#P" n="98" break="no"/>taria; ergo nulla peccatum est. Probatur antecedens, 
+      <lb ed="#P" n="99"/>quia teste philosopho, omnes homines naturaliter 
+      <lb ed="#P" n="100"/>scire desiderant, sicut enim voluntas naturaliter 
+      <lb ed="#P" n="101"/>tendit in bonum, ita intellectus naturaliter in 
+      ve<lb ed="#P" n="102" break="no"/>rum. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e254">
+               <lb ed="#P" n="103"/>
+               <pc type="indent"/> Decimum: Mors &amp; morbi aliaeque miseriae non 
+      <lb ed="#P" n="104"/>sunt peccata, licet eas contrahant homines sua 
+      cul<lb ed="#P" n="105" break="no"/>pa, scilicet per intemperantiam vel aliter, imo 
+      etiam<lb ed="#P" n="106" break="no"/>si adsit negligentia cavendi; ergo nec ignorantia 
+      pec<lb ed="#P" n="107" break="no"/>catum est, licet incurratur ex peccato, vel etiam 
+      <lb ed="#P" n="108"/>adsit negligentia vel contemptus sciendi. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e272">
+               <lb ed="#P" n="109"/>
+               <pc type="indent"/> Postremum: Augustinus libro 3. de libero 
+      arbi<lb ed="#P" n="110" break="no"/>) trio capite 19. ignorantiae peccata tantum vult 
+      im<lb ed="#P" n="111" break="no"/>proprie peccata esse, quomodo sermo improprie 
+      <lb ed="#P" n="112"/>lingua vocatur. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e285">
+               <lb ed="#P" n="113"/>
+               <pc type="indent"/> Ad haec singula respondemus. Ad primum, in 
+      <lb ed="#P" n="114"/>eo quod dicitur dictum, factum vel concupitum, 
+      <lb ed="#P" n="115"/>intelligi debere negationes oppositas. Unde sicut 
+      <lb ed="#P" n="116"/>omissio ejus quod faciendum est, vere peccatum 
+      <lb ed="#P" n="117"/>est; ita &amp; ignorantia ejus quod sciendum est, 
+      sci<lb ed="#P" n="118" break="no"/>licet inquantum quis negliget discere ea quae scire 
+      <lb ed="#P" n="119"/>tenetur. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e305">
+               <lb ed="#P" n="120"/>
+               <pc type="indent"/> Ad secundum simili modo respondetur. Nam 
+      igno<lb ed="#P" n="121" break="no"/>rantia pertinet ad genus actualis peccati, quatenus 
+      <lb ed="#P" n="122"/>sub actu comprehenditur debiti actus negatio vel 
+      <lb ed="#P" n="123"/>omissio. Est autem ignorantia quam peccatum 
+      di<lb ed="#P" n="124" break="no"/>cimus, a voluntate imperata saltem indirecte seu 
+      in<lb ed="#P" n="125" break="no"/>terpretative, ut explicatum est supra 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e324">
+               <lb ed="#P" n="126"/>
+               <pc type="indent"/> Ad tertium respondetur scientiam eam quae in 
+      <lb ed="#P" n="127"/>praecepto est, esse virtutem seu actum virtutis, non 
+      <lb ed="#P" n="128"/>quidem moralis sed intellectualis, quae &amp; ipsa suo 
+      <lb ed="#P" n="129"/>modo perficit hominem, quemadmodum fides quae 
+      <lb ed="#P" n="130"/>in intellectu est. Sicut autem non tantum 
+      praecipi<lb ed="#P" n="131" break="no"/>tur homini comparare scientiam agendorum, sed &amp; 
+      <lb ed="#P" n="132"/>ipsum scire, juxta illud: Cognosce Dominum, ita 
+      <lb ed="#P" n="133"/>prohibetur ipsum ignorare. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e346">
+               <lb ed="#P" n="134"/>
+               <pc type="indent"/> Ad quartum respondet sanctus Thomas, licet 
+      <lb ed="#P" n="135"/>privatio gratiae secundum se non sit peccatum, posse 
+      <lb ed="#P" n="136"/>tamen eam habere rationem peecati ratione 
+      negli<lb ed="#P" n="137" break="no"/>gentiae praenarandi se ad gratiam, sicut &amp; ignorantia, 
+      <lb ed="#P" n="138"/>tametsi dissimilitudo sit in eo, quod scientiam 
+      ac<lb ed="#P" n="139" break="no"/>quirere potest homo per suos actus, non autem 
+      <lb ed="#P" n="140"/>ipsam gratiam. Item gratia est habitus, scientia 
+      <lb ed="#P" n="141"/>quae est in praecepto, est actus. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e368">
+               <lb ed="#P" n="142"/>
+               <pc type="indent"/> Ad quintum similiter dici potest quod inquantum 
+      <lb ed="#P" n="143"/>infirmitas hujusmodi &amp; passio subjacet nostrae 
+      po<lb ed="#P" n="144" break="no"/>testati, ut eam tollere vel evitare possimus, eatenus 
+      <lb ed="#P" n="145"/>etiam sit peccatum. Unde &amp; firmitas illi infirmitati 
+      <!--0437.xml-->
+      <pb ed="#P" n="204"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>opposita, &amp; passionibus, quibus tentamur ad 
+      pec<lb ed="#P" n="2" break="no"/>catum, carere aliquatenus in praecepto est. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e392">
+               <lb ed="#P" n="3"/>
+               <pc type="indent"/> Ad sextum dicendum cum S. Thoma, licet 
+      igno<lb ed="#P" n="4" break="no"/>rantia remaneat sublato per poenitentiam reatu, 
+      <lb ed="#P" n="5"/>ejus non tamen remanere negligentiam voluntatis, 
+      <lb ed="#P" n="6"/>sine qua ignorantia non habet peccati rationem, 
+      <lb ed="#P" n="7"/>quia definit esse voluntaria. Ac breviter 
+      ignoran<lb ed="#P" n="8" break="no"/>tia non manet secundum rationem peccati, sicut 
+      <lb ed="#P" n="9"/>concupiscentia quae peccatum est in non renatis, 
+      <lb ed="#P" n="10"/>post baptismum eadem manet, sed sublata ratione 
+      <lb ed="#P" n="11"/>peccati. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e416">
+               <lb ed="#P" n="12"/>
+               <pc type="indent"/> Ad septimum, sicut in aliis peccatis omissionis 
+      <lb ed="#P" n="13"/>solo eo tempore quis peccat actus, pro quo 
+      praece<lb ed="#P" n="14" break="no"/>ptum affirmativum obligat; ita quoque sentiendum 
+      <lb ed="#P" n="15"/>de peccato ignorantiae. Quocirca non continuo 
+      pec<lb ed="#P" n="16" break="no"/>cat is qui ignorat, quamdiu ignorat, sed tunc solum 
+      <lb ed="#P" n="17"/>quando tempus est comparandi scientiam quam 
+      te<lb ed="#P" n="18" break="no"/>netur habere. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e436">
+               <lb ed="#P" n="19"/>
+               <pc type="indent"/> Ad octavum, ignorantia excusat peccatum non 
+      <lb ed="#P" n="20"/>qua ratione ipsa peccatum est, sed quatenus tollit 
+      <lb ed="#P" n="21"/>aliquid de voluntario, ut infra dicetur. Et hoc 
+      mo<lb ed="#P" n="22" break="no"/>do non est absurdum peccatum conjunctum 
+      pecca<lb ed="#P" n="23" break="no"/>to ipsum extenuare. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e453">
+               <lb ed="#P" n="24"/>
+               <pc type="indent"/> Ad nonum respondetur, homines saepe aliis 
+      affe<lb ed="#P" n="25" break="no"/>ctibus impulsos facere contra id quod naturaliter 
+      <lb ed="#P" n="26"/>appetunt. Nam mater naturaliter amat filium, quem 
+      <lb ed="#P" n="27"/>tamen potest ex aliqua causa odisse; &amp; quisque 
+      na<lb ed="#P" n="28" break="no"/>turaliter amat vitam, quam tamen aliqui sibi 
+      aufe<lb ed="#P" n="29" break="no"/>runt. Sic ergo naturaliter homines amant scientiam, 
+      <lb ed="#P" n="30"/>quam tamen repellunt aliquando ut liberius 
+      pec<lb ed="#P" n="31" break="no"/>cent; &amp; lapis naturaliter movetur deorsum, qui 
+      ta<lb ed="#P" n="32" break="no"/>men projectus sursum movetur. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e477">
+               <lb ed="#P" n="33"/>
+               <pc type="indent"/> Ad decimum respondetur ignorantiam prohiberi 
+      <lb ed="#P" n="34"/>lege Dei, non autem prohiberi mortem, aut morbos 
+      <lb ed="#P" n="35"/>aut hujusmodi miserias, sed tantum prohiberi 
+      in<lb ed="#P" n="36" break="no"/>temperantiam, &amp; alia vitia per quae homo sibi ipsi 
+      <lb ed="#P" n="37"/>istiusmodi miserias accersit, sicut &amp; lege naturae 
+      <lb ed="#P" n="38"/>praecipitur custodia sanitatis &amp; vitae. Itaque nunc 
+      <lb ed="#P" n="39"/>peccat homo quando sua culpa in morbum vel 
+      mor<lb ed="#P" n="40" break="no"/>tem incidit, non autem peccat aegrotando vel 
+      mo<lb ed="#P" n="41" break="no"/>riendo. Ibi autem ipsa ignorantia prohibetur, &amp; 
+      <lb ed="#P" n="42"/>proinde ipsa durante manet peccatum, nisi 
+      praece<lb ed="#P" n="43" break="no"/>dens voluntas mala, qua eam homo contraxit, 
+      cor<lb ed="#P" n="44" break="no"/>rigatur per poenitentiam. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e508">
+               <lb ed="#P" n="45"/>
+               <pc type="indent"/> Si quaeras, cur potius ignorantia prohibeatur 
+      <lb ed="#P" n="46"/>quam morbus? Respondeo, quia scientia 
+      praecipi<lb ed="#P" n="47" break="no"/>tur, non sanitas. Hujus autem ratio est, quia 
+      scien<lb ed="#P" n="48" break="no"/>tia est actus mentis per se bonus, &amp; ad alias 
+      actio<lb ed="#P" n="49" break="no"/>nes bonas necessarius, idemque voluntati aliquo 
+      <lb ed="#P" n="50"/>modo subjectus. Unde &amp; illi opposita ignorantia 
+      <lb ed="#P" n="51"/>per se mala est &amp; bonarum actionum impeditiva. 
+      <lb ed="#P" n="52"/>Sanitas vero non est actus noster, sed dispositio 
+      quae<lb ed="#P" n="53" break="no"/>edam corporis quae simpliciter non subjacet imperio 
+      <lb ed="#P" n="54"/>voluntatis; &amp; ideo praecepti ratio non potest ad eam 
+      <lb ed="#P" n="55"/>extendi. Solutionem hanc insinuat sanctus Thomas 
+      <lb ed="#P" n="56"/>1. 2. q. 74. art. 1. ad 2. ubi dicit defectum 
+      apprehen<lb ed="#P" n="57" break="no"/>sivae virtutis, si nullo modo subjaceret voluntati, 
+      <lb ed="#P" n="58"/>non fore peccatum, sicut in iis patet qui laborant 
+      <lb ed="#P" n="59"/>ignorantia invincibili. 
+    </p>
+            <p xml:id="bt67yj-p078468-d1e545">
+               <lb ed="#P" n="60"/>
+               <pc type="indent"/> Ad postremum, Augustinus in ea sententia illud 
+      <lb ed="#P" n="61"/>proprie non opponit ei quod est improprie, seu 
+      fi<lb ed="#P" n="62" break="no"/>gurate; sed ei quod est minus proprie. Vult enim 
+      <lb ed="#P" n="63"/>illud maxime proprie peccatum dici, quod scienter 
+      <lb ed="#P" n="64"/>&amp; omnino volenter committitur, sine praevia 
+      infir<lb ed="#P" n="65" break="no"/>mitate, passione vel necessitate aliqua hominem 
+      <lb ed="#P" n="66"/>impellente. Unde addit pro ratione: Non enim 
+      libe<lb ed="#P" n="67" break="no"/>ra voluntate &amp; a sciente committitur, id est, minus 
+      <lb ed="#P" n="68"/>libere committitur, propterea quod non fiat a non 
+      <lb ed="#P" n="69"/>sciente, sed ignorante. Loquitur autem non de 
+      igno<lb ed="#P" n="70" break="no"/>rantia, sed de ignorantiae peccatis, id est, quae ex 
+      <lb ed="#P" n="71"/>ignorantia committuntur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
