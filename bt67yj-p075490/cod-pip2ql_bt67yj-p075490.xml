@@ -1,167 +1,165 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Capitulum 2</title>
-            <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Capitulum 2</title>
-               <date when="2024-01-21">January 21, 2024</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2024-01-21" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="195"/>
-            <cb ed="#P" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xmlns="" xml:id="bt67yj-p075490" alias="l1d22c2">
-            <head>Capitulum 2</head>
-            <head type="question-title">Responsio ad objectiones</head>
-            <p>
-               <lb ed="#P" n="135"/>
-               <pc type="indent"/> §. 2. Responsio ad objectiones.
-    </p>
-            <p>
-               <lb ed="#P" n="136"/>SOlvenda nunc eorum argumenta qui non 
-      super<lb ed="#P" n="137" break="no"/>biam, sed aliud quoddam faciunt primum 
-      homi<lb ed="#P" n="138" break="no"/>nis peccatum. Et quidem ad illa duo quae pro 
-      infide<lb ed="#P" n="139" break="no"/>litate adferebantur, respondemus. 
-    </p>
-            <p>
-               <lb ed="#P" n="140"/>
-               <pc type="indent"/> Ad primum, In verbis serpentis prius quidem 
-      au<lb ed="#P" n="141" break="no"/>diri illud: Non moriemini, quam istud: Eritis sicut 
-      <lb ed="#P" n="142"/>dii, &amp;c. sed intentantis intentione prius fuisse ut 
-      <lb ed="#P" n="143"/>homo hoc posteriori audito moveretur ad amorem 
-      <lb ed="#P" n="144"/>inordinatum propriae excellentiae, quam ut crederet 
-      <lb ed="#P" n="145"/>quod dicebatur priori loco; atque ita factum fuisse¬ 
-      <!--0429.xml-->
-      <pb ed="#P" n="196"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Tota enim propositione serpentis audita haesit 
-      cogi<lb ed="#P" n="2" break="no"/>tatio hominis tam viri quam mulieris in verbis 
-      po<lb ed="#P" n="3" break="no"/>stremis, quae continebant insignis cujusdam 
-      excel<lb ed="#P" n="4" break="no"/>lentiae promissionem. Hinc igitur concepta superbia, 
-      <lb ed="#P" n="5"/>statim per eam ita excaecati sunt, ut etiam illud quod 
-      <lb ed="#P" n="6"/>primum erat in verbis tentatoris, scilicet: Non 
-      mo<lb ed="#P" n="7" break="no"/>riemini, verum esse crederent. 
-    </p>
-            <p>
-               <lb ed="#P" n="8"/>
-               <pc type="indent"/> Ad alterum; collectionem esse vitiosam, ac potius 
-      <lb ed="#P" n="9"/>oppositum consequentis sequi ex illo antecedente. 
-      <lb ed="#P" n="10"/>Quod enim primum est in generatione, id ultimum 
-      <lb ed="#P" n="11"/>esse solet in resolutione. Nam in animali primum 
-      vi<lb ed="#P" n="12" break="no"/>vit cor, &amp; ultimum moritur, ut &amp; radix in plantis. 
-      <lb ed="#P" n="13"/>Sic in aedificio primum ponitur fundamentum, sed 
-      <lb ed="#P" n="14"/>ultimum evertitur; &amp; ita in aliis. Quare si fides 
-      ini<lb ed="#P" n="15" break="no"/>tium est &amp; fundamentum justitiae, sequitur eam in 
-      <lb ed="#P" n="16"/>destructione justitiae non primam, sed potius 
-      postre<lb ed="#P" n="17" break="no"/>mam auferri. Itaque infidelitas, qua fides velut 
-      emo<lb ed="#P" n="18" break="no"/>ritur, atque evertitur, non principium, sed potius 
-      fi<lb ed="#P" n="19" break="no"/>nis ac complementum erit injustitiae. Quod &amp; 
-      scri<lb ed="#P" n="20" break="no"/>pturis sacris consentaneum est, quae docent per 
-      ma<lb ed="#P" n="21" break="no"/>lam vitam eo tandem delabi fideles ut ipsam quoque 
-      <lb ed="#P" n="22"/>fidem amittant. Unde Apostolus 1. Timoth. I. 
-      Ha<lb ed="#P" n="23" break="no"/>bens, inquit, fidem &amp; bonam conscientiam, quam 
-      qui<lb ed="#P" n="24" break="no"/>dam repellentes circa fidem naufragaverunt. Et capite 
-      <lb ed="#P" n="25"/>6. Radix omnium malorum cupiditas, quam quidam 
-      <lb ed="#P" n="26"/>appetentes errauerunt a fide. Hinc Prosper ait, justo 
-      <lb ed="#P" n="27"/>Dei judicio fieri ut amittat inutilem fidem, qui noluit 
-      <lb ed="#P" n="28"/>exercere charitatem. Quocirca recte August. non 
-      <lb ed="#P" n="29"/>superbiam ex fidelitate nasci, sed ipsius infidelitatis 
-      <lb ed="#P" n="30"/>matrem esse testatur, lib. de Pastoribus cap. 8. 
-    </p>
-            <p>
-               <lb ed="#P" n="31"/>
-               <pc type="indent"/> Porro ad loca Augustini quae pro se adducunt qui 
-      <lb ed="#P" n="32"/>inordinatum amorem uxoris fuisse putant primum 
-      <lb ed="#P" n="33"/>Adae peccatum, ex ipso August. prompta est 
-      respon<lb ed="#P" n="34" break="no"/>sio. Nam sentit quidem ille hujusmodi amorem viri 
-      <lb ed="#P" n="35"/>erga uxorem fuisse priorem inobedientia aperta qua 
-      <lb ed="#P" n="36"/>transgressus est praeceptum divinum. Et recte sentit. 
-      <lb ed="#P" n="37"/>Siquidem &amp; ipsa scriptura satis hoc significat, ubi 
-      <lb ed="#P" n="38"/>memorat Deum dixisse ad Adam: Quia audisti 
-      vo<lb ed="#P" n="39" break="no"/>cem uxoris tuae, &amp; comedisti de ligno, &amp;c. non tamen 
-      <lb ed="#P" n="40"/>vult. August. illud peccatum fuisse in viro omnium 
-      <lb ed="#P" n="41"/>primum. Quin aperte docet occultam superbiam 
-      <lb ed="#P" n="42"/>jam in eo praecessisse: Nisi enim, inquit, inter alia 
-      <lb ed="#P" n="43"/>lib. 15. de Civitate cap. 13. ad sibi placendum 
-      averte<lb ed="#P" n="44" break="no"/>retur a superiori immutabili bono, non Dei mandate 
-      <lb ed="#P" n="45"/>uxoris praeponeret voluntatem, putaretque se venialiter 
-      <lb ed="#P" n="46"/>esse transgressorem praecepti, si vitae suae sociam non 
-      de<lb ed="#P" n="47" break="no"/>sereret etiam in societate peccati. 
-    </p>
-            <p>
-               <lb ed="#P" n="48"/>
-               <pc type="indent"/> Nec obstat quod lib. 11. de Genesi ad literam cap. 
-      <lb ed="#P" n="49"/>42. dicit idem August. Adam tunc quando consensit 
-      <lb ed="#P" n="50"/>uxori ad esum fructus vetiti, nondum 
-      concupiscen<lb ed="#P" n="51" break="no"/>tiam sensisse in membris suis; quasi hinc sit 
-      conse<lb ed="#P" n="52" break="no"/>quens eum ante hunc consensum non amisisse 
-      pri<lb ed="#P" n="53" break="no"/>mam innocentiam. Cui utique amissae continuo 
-      suc<lb ed="#P" n="54" break="no"/>cessit concupiscentiae vitium &amp; lex membrorum; 
-      <lb ed="#P" n="55"/>Non enim dicit Augustinus quod concupiscentiam 
-      <lb ed="#P" n="56"/>in membris suis nondum habebat, sed quod eam 
-      <lb ed="#P" n="57"/>nondum senserat. Inest enim concupiscentia etiam 
-      <lb ed="#P" n="58"/>quando non sentitur. 
-    </p>
-            <p>
-               <lb ed="#P" n="59"/>
-               <pc type="indent"/> Deinde fieri potuit ut quamvis ei inesset 
-      concupis<lb ed="#P" n="60" break="no"/>centia; non statim tamen existeret in membris ejus 
-      <lb ed="#P" n="61"/>illa rebellio quae postea sese prodidit, quando 
-      con<lb ed="#P" n="62" break="no"/>summata transgressione, quemadmodum scriptura 
-      <lb ed="#P" n="63"/>loquitur, aperti sunt oculi amborum, &amp; 
-      cognove<lb ed="#P" n="64" break="no"/>runt se esse nudos. Imo hoc ipsum valde congruebat 
-      <lb ed="#P" n="65"/>justitiae divinae, ut quando homo peccavit interius, 
-      <lb ed="#P" n="66"/>etiam exterius puniretur per vitium concupiscentiae 
-      <lb ed="#P" n="67"/>inficientis vires animae; quando autem prorupit in 
-      <lb ed="#P" n="68"/>opus externum transgressionis, etiam puniretur per 
-      <lb ed="#P" n="69"/>apertam &amp; conspicuam membrorum rebellionem, 
-      <lb ed="#P" n="70"/>de qua dicitur: Et aperti sunt, &amp;c.
-    </p>
-         </div>
-      </body>
-   </text>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 2</title>
+        <author ref="#WillemHesselsVanEst">Guillelmus Estius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 2</title>
+          <date when="2024-01-21">January 21, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pip2ql">Paris 1696, v. 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-01-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="195"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bt67yj-p075490"><!-- "l1d22c2"-->
+        <head xml:id="bt67yj-p075490-Hd1e101">Capitulum 2</head>
+        <head xml:id="bt67yj-p075490-Hd1e103" type="question-title">Responsio ad objectiones</head>
+        <p xml:id="bt67yj-p075490-d1e106">
+          <lb ed="#P" n="135"/>
+          <pc type="indent"/> §. 2. Responsio ad objectiones.
+        </p>
+        <p xml:id="bt67yj-p075490-d1e113">
+          <lb ed="#P" n="136"/>SOlvenda nunc eorum argumenta qui non 
+          super<lb ed="#P" n="137" break="no"/>biam, sed aliud quoddam faciunt primum 
+          homi<lb ed="#P" n="138" break="no"/>nis peccatum. Et quidem ad illa duo quae pro 
+          infide<lb ed="#P" n="139" break="no"/>litate adferebantur, respondemus. 
+        </p>
+        <p xml:id="bt67yj-p075490-d1e124">
+          <lb ed="#P" n="140"/>
+          <pc type="indent"/> Ad primum, In verbis serpentis prius quidem 
+          au<lb ed="#P" n="141" break="no"/>diri illud: Non moriemini, quam istud: Eritis sicut 
+          <lb ed="#P" n="142"/>dii, &amp;c. sed intentantis intentione prius fuisse ut 
+          <lb ed="#P" n="143"/>homo hoc posteriori audito moveretur ad amorem 
+          <lb ed="#P" n="144"/>inordinatum propriae excellentiae, quam ut crederet 
+          <lb ed="#P" n="145"/>quod dicebatur priori loco; atque ita factum fuisse¬ 
+          <!--0429.xml-->
+          <pb ed="#P" n="196"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Tota enim propositione serpentis audita haesit 
+          cogi<lb ed="#P" n="2" break="no"/>tatio hominis tam viri quam mulieris in verbis 
+          po<lb ed="#P" n="3" break="no"/>stremis, quae continebant insignis cujusdam 
+          excel<lb ed="#P" n="4" break="no"/>lentiae promissionem. Hinc igitur concepta superbia, 
+          <lb ed="#P" n="5"/>statim per eam ita excaecati sunt, ut etiam illud quod 
+          <lb ed="#P" n="6"/>primum erat in verbis tentatoris, scilicet: Non 
+          mo<lb ed="#P" n="7" break="no"/>riemini, verum esse crederent. 
+        </p>
+        <p xml:id="bt67yj-p075490-d1e164">
+          <lb ed="#P" n="8"/>
+          <pc type="indent"/> Ad alterum; collectionem esse vitiosam, ac potius 
+          <lb ed="#P" n="9"/>oppositum consequentis sequi ex illo antecedente. 
+          <lb ed="#P" n="10"/>Quod enim primum est in generatione, id ultimum 
+          <lb ed="#P" n="11"/>esse solet in resolutione. Nam in animali primum 
+          vi<lb ed="#P" n="12" break="no"/>vit cor, &amp; ultimum moritur, ut &amp; radix in plantis. 
+          <lb ed="#P" n="13"/>Sic in aedificio primum ponitur fundamentum, sed 
+          <lb ed="#P" n="14"/>ultimum evertitur; &amp; ita in aliis. Quare si fides 
+          ini<lb ed="#P" n="15" break="no"/>tium est &amp; fundamentum justitiae, sequitur eam in 
+          <lb ed="#P" n="16"/>destructione justitiae non primam, sed potius 
+          postre<lb ed="#P" n="17" break="no"/>mam auferri. Itaque infidelitas, qua fides velut 
+          emo<lb ed="#P" n="18" break="no"/>ritur, atque evertitur, non principium, sed potius 
+          fi<lb ed="#P" n="19" break="no"/>nis ac complementum erit injustitiae. Quod &amp; 
+          scri<lb ed="#P" n="20" break="no"/>pturis sacris consentaneum est, quae docent per 
+          ma<lb ed="#P" n="21" break="no"/>lam vitam eo tandem delabi fideles ut ipsam quoque 
+          <lb ed="#P" n="22"/>fidem amittant. Unde Apostolus 1. Timoth. I. 
+          Ha<lb ed="#P" n="23" break="no"/>bens, inquit, fidem &amp; bonam conscientiam, quam 
+          qui<lb ed="#P" n="24" break="no"/>dam repellentes circa fidem naufragaverunt. Et capite 
+          <lb ed="#P" n="25"/>6. Radix omnium malorum cupiditas, quam quidam 
+          <lb ed="#P" n="26"/>appetentes errauerunt a fide. Hinc Prosper ait, justo 
+          <lb ed="#P" n="27"/>Dei judicio fieri ut amittat inutilem fidem, qui noluit 
+          <lb ed="#P" n="28"/>exercere charitatem. Quocirca recte August. non 
+          <lb ed="#P" n="29"/>superbiam ex fidelitate nasci, sed ipsius infidelitatis 
+          <lb ed="#P" n="30"/>matrem esse testatur, lib. de Pastoribus cap. 8. 
+        </p>
+        <p xml:id="bt67yj-p075490-d1e219">
+          <lb ed="#P" n="31"/>
+          <pc type="indent"/> Porro ad loca Augustini quae pro se adducunt qui 
+          <lb ed="#P" n="32"/>inordinatum amorem uxoris fuisse putant primum 
+          <lb ed="#P" n="33"/>Adae peccatum, ex ipso August. prompta est 
+          respon<lb ed="#P" n="34" break="no"/>sio. Nam sentit quidem ille hujusmodi amorem viri 
+          <lb ed="#P" n="35"/>erga uxorem fuisse priorem inobedientia aperta qua 
+          <lb ed="#P" n="36"/>transgressus est praeceptum divinum. Et recte sentit. 
+          <lb ed="#P" n="37"/>Siquidem &amp; ipsa scriptura satis hoc significat, ubi 
+          <lb ed="#P" n="38"/>memorat Deum dixisse ad Adam: Quia audisti 
+          vo<lb ed="#P" n="39" break="no"/>cem uxoris tuae, &amp; comedisti de ligno, &amp;c. non tamen 
+          <lb ed="#P" n="40"/>vult. August. illud peccatum fuisse in viro omnium 
+          <lb ed="#P" n="41"/>primum. Quin aperte docet occultam superbiam 
+          <lb ed="#P" n="42"/>jam in eo praecessisse: Nisi enim, inquit, inter alia 
+          <lb ed="#P" n="43"/>lib. 15. de Civitate cap. 13. ad sibi placendum 
+          averte<lb ed="#P" n="44" break="no"/>retur a superiori immutabili bono, non Dei mandate 
+          <lb ed="#P" n="45"/>uxoris praeponeret voluntatem, putaretque se venialiter 
+          <lb ed="#P" n="46"/>esse transgressorem praecepti, si vitae suae sociam non 
+          de<lb ed="#P" n="47" break="no"/>sereret etiam in societate peccati. 
+        </p>
+        <p xml:id="bt67yj-p075490-d1e261">
+          <lb ed="#P" n="48"/>
+          <pc type="indent"/> Nec obstat quod lib. 11. de Genesi ad literam cap. 
+          <lb ed="#P" n="49"/>42. dicit idem August. Adam tunc quando consensit 
+          <lb ed="#P" n="50"/>uxori ad esum fructus vetiti, nondum 
+          concupiscen<lb ed="#P" n="51" break="no"/>tiam sensisse in membris suis; quasi hinc sit 
+          conse<lb ed="#P" n="52" break="no"/>quens eum ante hunc consensum non amisisse 
+          pri<lb ed="#P" n="53" break="no"/>mam innocentiam. Cui utique amissae continuo 
+          suc<lb ed="#P" n="54" break="no"/>cessit concupiscentiae vitium &amp; lex membrorum; 
+          <lb ed="#P" n="55"/>Non enim dicit Augustinus quod concupiscentiam 
+          <lb ed="#P" n="56"/>in membris suis nondum habebat, sed quod eam 
+          <lb ed="#P" n="57"/>nondum senserat. Inest enim concupiscentia etiam 
+          <lb ed="#P" n="58"/>quando non sentitur. 
+        </p>
+        <p xml:id="bt67yj-p075490-d1e290">
+          <lb ed="#P" n="59"/>
+          <pc type="indent"/> Deinde fieri potuit ut quamvis ei inesset 
+          concupis<lb ed="#P" n="60" break="no"/>centia; non statim tamen existeret in membris ejus 
+          <lb ed="#P" n="61"/>illa rebellio quae postea sese prodidit, quando 
+          con<lb ed="#P" n="62" break="no"/>summata transgressione, quemadmodum scriptura 
+          <lb ed="#P" n="63"/>loquitur, aperti sunt oculi amborum, &amp; 
+          cognove<lb ed="#P" n="64" break="no"/>runt se esse nudos. Imo hoc ipsum valde congruebat 
+          <lb ed="#P" n="65"/>justitiae divinae, ut quando homo peccavit interius, 
+          <lb ed="#P" n="66"/>etiam exterius puniretur per vitium concupiscentiae 
+          <lb ed="#P" n="67"/>inficientis vires animae; quando autem prorupit in 
+          <lb ed="#P" n="68"/>opus externum transgressionis, etiam puniretur per 
+          <lb ed="#P" n="69"/>apertam &amp; conspicuam membrorum rebellionem, 
+          <lb ed="#P" n="70"/>de qua dicitur: Et aperti sunt, &amp;c.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
