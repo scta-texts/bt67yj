@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,15 +52,15 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="bt67yj-p105857" alias="l1d26c1">
-            <head>Capitulum 1</head>
-            <head type="question-title">Vocabuli gratiae multiplex acceptio</head>
-            <p>
+         <div xml:id="bt67yj-p105857"><!-- l1d26c1" -->
+            <head xml:id="bt67yj-p105857-Hd1e101">Capitulum 1</head>
+            <head xml:id="bt67yj-p105857-Hd1e103" type="question-title">Vocabuli gratiae multiplex acceptio</head>
+            <p xml:id="bt67yj-p105857-d1e106">
                <lb ed="#P" n="85"/>IN DISTINCTIONEM 
       <lb ed="#P" n="86"/>VICESIMAMSEXTAM. 
       <lb ed="#P" n="87"/>1. Vocabuli gratiae multiplex acceptio.
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e115">
                <lb ed="#P" n="88"/>QUoniam gratia primo parenti nostro data. 
       <lb ed="#P" n="89"/>
                <pc type="indent"/> in sua creatione, per peccatum ejus 
@@ -78,7 +76,7 @@
       <lb ed="#P" n="99"/>acceptio quatenus ad Theologum pertinet, 
       expli<lb ed="#P" n="100" break="no"/>canda est. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e148">
                <lb ed="#P" n="101"/>
                <pc type="indent"/> Ubi notandum imprimis gratiam intelligi posse, 
       <lb ed="#P" n="102"/>vel ex parte Dei vel ex parte nostra. Ex parte Dei 
@@ -97,7 +95,7 @@
       undeci<lb ed="#P" n="115" break="no"/>mo: Reliquiae secundum electionem gratiae salvae factae 
       <lb ed="#P" n="116"/>sunt. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e188">
                <lb ed="#P" n="117"/>
                <pc type="indent"/> Hanc gratiam alibi scriptura misericordiam &amp; 
       <lb ed="#P" n="118"/>bonitatem &amp; beneplacitum Dei &amp; bonam 
@@ -111,7 +109,7 @@
       <lb ed="#P" n="126"/>voluntate. Psal. 29. Ira in indignatione ejus, &amp; vita 
       <lb ed="#P" n="127"/>in voluntate ejus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e217">
                <lb ed="#P" n="128"/>
                <pc type="indent"/> Loquitur ad hunc modum de gratia Augustinus 
       <lb ed="#P" n="129"/>epistola 16. ad Paulinum &amp; alibi, cum dicit 
@@ -130,7 +128,7 @@
       Gra<lb ed="#P" n="142" break="no"/>tia igitur hoc modo accepta reipsa non est aliquid a 
       <lb ed="#P" n="143"/>Deo divinaque essentia diversum. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e256">
                <lb ed="#P" n="144"/>
                <pc type="indent"/> Est autem haec acceptio gratiae frequens etiam 
       <!--0506.xml-->
@@ -150,7 +148,7 @@
       <lb ed="#P" n="12"/>Dei, quae nomine gratiae intelligitur, est causa omms 
       <lb ed="#P" n="13"/>boni creati, Sic ille. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e298">
                <lb ed="#P" n="14"/>
                <pc type="indent"/> Caeterum ex parte nostra nomine gratiae Dei 
       ge<lb ed="#P" n="15" break="no"/>neraliter intelliguntur quaecunque gratuita Dei 
@@ -183,7 +181,7 @@
       gra<lb ed="#P" n="42" break="no"/>tiam. De qua re diximus ad distinctionem 8. hujus 
       <lb ed="#P" n="43"/>libri. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e368">
                <lb ed="#P" n="44"/>
                <pc type="indent"/> Sub hac generali significatione gratiae Pelagius 
       <lb ed="#P" n="45"/>gratiae Christi inimicus, haeresim suam occultare &amp; 
@@ -207,7 +205,7 @@
       <lb ed="#P" n="63"/>sacra gratiae vocabulo sic utitur, ut naturam aut 
       na<lb ed="#P" n="64" break="no"/>turae bona sub eo comprehendat. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e418">
                <lb ed="#P" n="65"/>
                <pc type="indent"/> Porro specialiter &amp; quidem frequentissime in 
       scri<lb ed="#P" n="66" break="no"/>pturis praesertim novi testamenti, significatur 
@@ -216,7 +214,7 @@
       vi<lb ed="#P" n="69" break="no"/>tam aeternam; sive illud in habitu, sive in actu 
       con<lb ed="#P" n="70" break="no"/>sistat, &amp; sive internum, sive externum sit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e437">
                <lb ed="#P" n="71"/>
                <pc type="indent"/> Hoc modo accepta gratia adhuc bifariam 
       dividi<lb ed="#P" n="72" break="no"/>tur prout beneficia Dei spectantia ad hoc genus, 
@@ -262,7 +260,7 @@
       <lb ed="#P" n="110"/>Rom. 6. Gratia Dei vita aeterna, priora omnia Dei 
       <lb ed="#P" n="111"/>beneficia destinantur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e535">
                <lb ed="#P" n="112"/>
                <pc type="indent"/> Quaecunque igitur ad hoc posterius genus 
       perti<lb ed="#P" n="113" break="no"/>nent Dei beneficia, continentur appellatione 
@@ -286,7 +284,7 @@
       <lb ed="#P" n="131"/>Christi non est sine aliquo saltem initio verae 
       justi<lb ed="#P" n="132" break="no"/>tiae &amp; salutis. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e585">
                <lb ed="#P" n="133"/>
                <pc type="indent"/> Ex his igitur patet, ad gratiam Christi secundum 
       <lb ed="#P" n="134"/>se non pertinere quantumcunque magnam divinae 
@@ -323,7 +321,7 @@
       <lb ed="#P" n="14"/>bonitatis nomine etiam prima bonae voluntatis initia 
       <lb ed="#P" n="15"/>comprehendens. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e663">
                <lb ed="#P" n="16"/>
                <pc type="indent"/> Postremo nec timor servilis sub hac gratia 
       conti<lb ed="#P" n="17" break="no"/>netur. Nam gratia Christi eadem est cum gratia 
@@ -345,7 +343,7 @@
       conci<lb ed="#P" n="33" break="no"/>lium Arausicanum can. 7. Qua de re infra plenius 
       <lb ed="#P" n="34"/>agetur proprio capite. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e709">
                <lb ed="#P" n="35"/>
                <pc type="indent"/> Porro qui plenius cognoscere volet in quo 
       pro<lb ed="#P" n="36" break="no"/>prie consistat gratia Christi, &amp; quae Dei beneficia 
@@ -363,7 +361,7 @@
       per<lb ed="#P" n="48" break="no"/>tinere possibilitatem boni operis; sed ipsam bonam 
       <lb ed="#P" n="49"/>voluntatem, &amp; bonam actionem. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p105857-d1e746">
                <lb ed="#P" n="50"/>
                <pc type="indent"/> Quibus tamen etiam annumerandi veniunt 
       habi<lb ed="#P" n="51" break="no"/>tus virtutum, quales in Christianis requiruntur; de 

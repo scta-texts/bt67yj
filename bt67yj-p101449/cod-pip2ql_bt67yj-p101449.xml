@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,15 +52,15 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="bt67yj-p101449" alias="l1d25c4">
-            <head>Capitulum 4</head>
-            <head type="question-title">Distincta ad quaestionem responsio cum solutione 
+         <div xml:id="bt67yj-p101449"><!-- l1d25c4" -->
+            <head xml:id="bt67yj-p101449-Hd1e101">Capitulum 4</head>
+            <head xml:id="bt67yj-p101449-Hd1e103" type="question-title">Distincta ad quaestionem responsio cum solutione 
         objectionum</head>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e106">
                <lb ed="#P" n="20"/>§. 4. Distincta ad quaestionem responsio cum solutione 
       <lb ed="#P" n="21"/>objectionum. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e113">
                <lb ed="#P" n="22"/>PRo determinatione quaestionis propositae, 
       me<lb ed="#P" n="23" break="no"/>moria repetenda sunt quae ad dist. 19. dicta sunt 
       <lb ed="#P" n="24"/>de quaestione: Utrum immortalitas corporis fuerit 
@@ -71,7 +69,7 @@
       <lb ed="#P" n="27"/>varietatis distinctione quaestionem explicavimus, 
       <lb ed="#P" n="28"/>quod &amp; hic nobis faciendum est. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e131">
                <lb ed="#P" n="29"/>
                <pc type="indent"/> Nam si naturale id dicatur, quod Deus indidit aut 
       <lb ed="#P" n="30"/>contulit cuique rei quando naturam ejus instituit; 
@@ -91,7 +89,7 @@
       gra<lb ed="#P" n="44" break="no"/>tiae privatio naturalis est, juxta illud Apostoli Ephes. 
       <lb ed="#P" n="45"/>2. Eramus natura filii irae. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e174">
                <lb ed="#P" n="46"/>
                <pc type="indent"/> Verum praeter haec &amp; propriissime id dicitur 
       na<lb ed="#P" n="47" break="no"/>turale, quod est aut ipsa natura, aut pars naturae, aut 
@@ -108,7 +106,7 @@
       ha<lb ed="#P" n="58" break="no"/>bitus ejusmodi, quem solis naturae viribus acquirere 
       <lb ed="#P" n="59"/>possibile sit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e209">
                <lb ed="#P" n="60"/>
                <pc type="indent"/> Sciendum autem, inter quatuor modos jam 
       enu<lb ed="#P" n="61" break="no"/>meratos, quibus aliquid naturale dici consuevit, 
@@ -129,7 +127,7 @@
       respon<lb ed="#P" n="74" break="no"/>sio, non naturalem, sed supernaturalem primo 
       ho<lb ed="#P" n="75" break="no"/>mini fuisse gratiam. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e253">
                <lb ed="#P" n="76"/>
                <pc type="indent"/> Quod ut plenius intelligatur, diligentius 
       consi<lb ed="#P" n="77" break="no"/>derandum est, qualis sine vitio creari potuerit 
@@ -159,7 +157,7 @@
       tan<lb ed="#P" n="101" break="no"/>quam unus cum eo spiritus, arctissimo cujusdam 
       so<lb ed="#P" n="102" break="no"/>cietatis vinculo jungeretur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e316">
                <lb ed="#P" n="103"/>
                <pc type="indent"/> Illud porro nequaquam credibile est, ad eum 
       fi<lb ed="#P" n="104" break="no"/>nem ultimum, qui in clara Dei visione consistit, quo 
@@ -172,7 +170,7 @@
       be<lb ed="#P" n="111" break="no"/>nignitate, quae vires naturae ejus ad eam rem 
       pror<lb ed="#P" n="112" break="no"/>sus deficientes longissime excellat 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e342">
                <lb ed="#P" n="113"/>
                <pc type="indent"/> Nam nec illud negari potest, Deum potuisse 
       ho<lb ed="#P" n="114" break="no"/>minem facere servili conditione, qui pro suis 
@@ -185,7 +183,7 @@
       <lb ed="#P" n="121"/>qua sola secundum naturam suam contentus, 
       subli<lb ed="#P" n="122" break="no"/>miori illa felicitate sine molestia careret. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e368">
                <lb ed="#P" n="123"/>
                <pc type="indent"/> Quod igitur homo in tanto honore a Deo 
       condi<lb ed="#P" n="124" break="no"/>tus &amp; constitutus est, ut non tantum servus ejus 
@@ -201,15 +199,15 @@
                <!--line coord error -->
                <lb ed="#P" n="134"/>turaliter appetere finem illum, qui est videre Deum 
       <lb ed="#P" n="135"/>per essentiam (de qua re varie disputant scholastici 
-      <lb ed="#P" n="136"/>doctores, quorum sententias expendit <ref>
-                  <name>Dominicus 
+      <lb ed="#P" n="136"/>doctores, quorum sententias expendit <ref xml:id="bt67yj-p101449-Rd1e404">
+                  <name xml:id="bt67yj-p101449-Nd1e406">Dominicus 
       <lb ed="#P" n="137"/>Soto</name> in 4. dist. 49. q. 2. art. 1.</ref> &amp; 2.) omnium 
       ta<lb ed="#P" n="138" break="no"/>men constans doctrina est, ad eum finem neque 
       ho<lb ed="#P" n="139" break="no"/>minem neque angelum pertingere unquam potuisse 
       <lb ed="#P" n="140"/>sine mediis supernaturalibus, quorum praecipuum 
       <lb ed="#P" n="141"/>est, quod gratiam vocamus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e423">
                <lb ed="#P" n="142"/>
                <pc type="indent"/> Hanc nostram de praesenti quaestione responsionem 
       <lb ed="#P" n="143"/>&amp; sententiam satis probant testimonia Patrum 
@@ -217,7 +215,7 @@
       sub<lb ed="#P" n="145" break="no"/>junctae, tametsi non negamus quasdam earum non 
       <lb ed="#P" n="146"/>omnino convincere.
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e439">
       <!--0495.xml-->
                <pb ed="#P" n="262"/>
                <cb ed="#P" n="a"/>
@@ -234,7 +232,7 @@
       <lb ed="#P" n="11"/>Leone, Prospero, Cassiodoro, Caelestino, &amp; 
       Arau<lb ed="#P" n="12" break="no"/>sicano concilio allata sunt. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e474">
                <lb ed="#P" n="13"/>
                <pc type="indent"/> Tertium testimonium quod erat ex Augustino, 
       <lb ed="#P" n="14"/>veritatem habet de homine &amp; angelo quales facti 
@@ -246,7 +244,7 @@
       <lb ed="#P" n="20"/>gratiae privationem, non posse non homini &amp; 
       ange<lb ed="#P" n="21" break="no"/>o esse vitiosam. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e498">
                <lb ed="#P" n="22"/>
                <pc type="indent"/> Per quod etiam responsum videtur ad 
       testimo<lb ed="#P" n="23" break="no"/>nium quintum ex eodem Augustino 
@@ -255,7 +253,7 @@
       <lb ed="#P" n="26"/>haberet, quo numquam destituta fuisset, si non 
       pec<lb ed="#P" n="27" break="no"/>casset. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e516">
                <lb ed="#P" n="28"/>
                <pc type="indent"/> Ad quartum quod ex eodem est Augustino, 
       re<lb ed="#P" n="29" break="no"/>sponderi potest, omnia animorum vitia dici 
@@ -267,7 +265,7 @@
       crea<lb ed="#P" n="35" break="no"/>to carere dono gratiae non fuisset vitium, nunc autem 
       <lb ed="#P" n="36"/>vitium est ob rationes paulo ante dictas. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e540">
                <lb ed="#P" n="37"/>
                <pc type="indent"/> Ad testimonium allatum ex Apostolo Paulo 
       re<lb ed="#P" n="38" break="no"/>spondetur, non ideo dictum esse ab eo, gentes legem 
@@ -290,7 +288,7 @@
       <lb ed="#P" n="55"/>admodum conveniens &amp; perfectivum. Quid enim 
       <lb ed="#P" n="56"/>naturae convenientius quam credere Deo? 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e589">
                <lb ed="#P" n="57"/>
                <pc type="indent"/> Nunc ad rationes quoque breviter 
       respondea<lb ed="#P" n="58" break="no"/>mus. Ad primam respondetur, controversum esse, 
@@ -311,7 +309,7 @@
       asse<lb ed="#P" n="73" break="no"/>quendum tribuat, &amp; tandem seipsum illi, cujus est 
       <lb ed="#P" n="74"/>finis, conjungat.
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e633">
       <!--0495.xml-->
                <cb ed="#P" n="b"/>
                <lb ed="#P" n="75"/>Ad secundam rationem potest responderi, si 
@@ -323,7 +321,7 @@
       <lb ed="#P" n="81"/>non avertatur, quodque media ad eum ducentia suo 
       <lb ed="#P" n="82"/>tempore sit habitura. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e657">
                <lb ed="#P" n="83"/>
                <pc type="indent"/> Ad tertiam, ideo caelestis beatitudo patria nostra 
       <lb ed="#P" n="84"/>vocatur a Patribus, quia ad eam consequendam in 
@@ -333,7 +331,7 @@
       praevaricatio<lb ed="#P" n="88" break="no"/>onem, qua factum est, ut ejus consequendae media 
       <lb ed="#P" n="89"/>amitteremus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e677">
                <lb ed="#P" n="90"/>
                <pc type="indent"/> Ad quartum respondetur, naturam gratiae 
       amis<lb ed="#P" n="91" break="no"/>sione spoliatam esse, vulneratam autem propter 
@@ -347,7 +345,7 @@
       <lb ed="#P" n="99"/>omni peccato laedi ac minui bonum naturae. Qua de 
       <lb ed="#P" n="100"/>re diximus ad superiorem distinct. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p101449-d1e706">
                <lb ed="#P" n="101"/>
                <pc type="indent"/> Ad ultimam rationem respondetur, 
       argumentatio<lb ed="#P" n="102" break="no"/>nem S. Thomae recte procedere in statu naturae lapsae. 

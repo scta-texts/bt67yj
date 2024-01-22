@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,27 +52,27 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="bt67yj-p106528" alias="l1d26c2">
-            <head>Capitulum 2</head>
-            <head type="question-title">Non solum actualem, sed et habitualem gratiam 
+         <div xml:id="bt67yj-p106528"><!-- l1d26c2" -->
+            <head xml:id="bt67yj-p106528-Hd1e101">Capitulum 2</head>
+            <head xml:id="bt67yj-p106528-Hd1e103" type="question-title">Non solum actualem, sed et habitualem gratiam 
       agnosci oportere</head>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e106">
                <lb ed="#P" n="58"/>§. 2. Non solum actualem, sed &amp; habitualem gratiam 
       <lb ed="#P" n="59"/>agnosci oportere. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e113">
                <lb ed="#P" n="60"/>QUidam authores ita haeserunt in 
       commendatio<lb ed="#P" n="61" break="no"/>ne gratiae actualis, id est, ejus quam in actu 
       <lb ed="#P" n="62"/>consistere diximus, ut gratiam habitualem penitus 
       <lb ed="#P" n="63"/>non agnoscerent, imo velut supervacaneam 
-      exclu<lb ed="#P" n="64" break="no"/>derent. Ita praeter <name>Joannem Calvinum</name> &amp; alios 
+      exclu<lb ed="#P" n="64" break="no"/>derent. Ita praeter <name xml:id="bt67yj-p106528-Nd1e126">Joannem Calvinum</name> &amp; alios 
       hae<lb ed="#P" n="65" break="no"/>reticos nostri saeculi, quibus sola placet imputativa 
-      <lb ed="#P" n="66"/>justitia, sensit etiam <name>doctor Catholicus Albertus 
+      <lb ed="#P" n="66"/>justitia, sensit etiam <name xml:id="bt67yj-p106528-Nd1e132">doctor Catholicus Albertus 
       <lb ed="#P" n="67"/>Pighius</name>, ut liquet ex quinto ejus libro de libero 
       ar<lb ed="#P" n="68" break="no"/>bitrio, ubi commentitia existimat &amp; a scripturis 
       alie<lb ed="#P" n="69" break="no"/>na quae in scholis tradi solent de gratia habituali. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e142">
                <lb ed="#P" n="70"/>
                <pc type="indent"/> Verum haec illius authoris opinio praesertim iis 
       <lb ed="#P" n="71"/>verbis proposita, quae contemptum sonare viden¬ 
@@ -101,23 +99,23 @@
       <lb ed="#P" n="90"/>esse virtutem nobis a Deo infusam; virtutem autem 
       <lb ed="#P" n="91"/>definit esse bonam animi qualitatem. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e200">
                <lb ed="#P" n="92"/>
-               <pc type="indent"/> Porro <ref>concilium Viennense</ref> decrevit inter varias 
-      <lb ed="#P" n="93"/>doctorum opiniones, <quote>quae ferebantur de effectu 
+               <pc type="indent"/> Porro <ref xml:id="bt67yj-p106528-Rd1e206">concilium Viennense</ref> decrevit inter varias 
+      <lb ed="#P" n="93"/>doctorum opiniones, <quote xml:id="bt67yj-p106528-Qd1e210">quae ferebantur de effectu 
       ba<lb ed="#P" n="94" break="no"/>ptismi in parvulis; eam opinionem quae dicit, tam 
       <lb ed="#P" n="95"/>parvulis quam adultis conferri in baptismo &amp; 
       quo<lb ed="#P" n="96" break="no"/>ad habitum infundi informantem gratiam &amp; 
       virtu<lb ed="#P" n="97" break="no"/>tes, tanquam probabiliorem, &amp; dictis Sanctorum 
       <lb ed="#P" n="98"/>modernorum, ut ait, Theologiae doctorum magis 
-        <lb ed="#P" n="99"/>consonam, eligendam esse</quote>, ut habetur in <ref target="http://scta.info/resource/kdhaWs-d1e65-d1e135@66-105">
+        <lb ed="#P" n="99"/>consonam, eligendam esse</quote>, ut habetur in <ref xml:id="bt67yj-p106528-Rd1e227" target="http://scta.info/resource/kdhaWs-d1e65-d1e135@66-105">
       Clemen<lb ed="#P" n="100" break="no"/>tina, titulo De summa Trinitate &amp; fide Catholica</ref>
                <lb ed="#P" n="101"/>Hoc vero concilii decretum continere absolutam 
-      de<lb ed="#P" n="102" break="no"/>finitionem recte ostendit <ref>
-                  <name>Guido Carmelita</name> libro de 
+      de<lb ed="#P" n="102" break="no"/>finitionem recte ostendit <ref xml:id="bt67yj-p106528-Rd1e236">
+                  <name xml:id="bt67yj-p106528-Nd1e238">Guido Carmelita</name> libro de 
       <lb ed="#P" n="103"/>haeresibus</ref>. Unde etiam satis apparet non esse 
-      ve<lb ed="#P" n="104" break="no"/>rum, quod dicit <ref>
-                  <name>Dominicus Soto</name> in 4. dist. 14. q. 
+      ve<lb ed="#P" n="104" break="no"/>rum, quod dicit <ref xml:id="bt67yj-p106528-Rd1e245">
+                  <name xml:id="bt67yj-p106528-Nd1e247">Dominicus Soto</name> in 4. dist. 14. q. 
       <lb ed="#P" n="105"/>2. art. 5</ref>. quod usque ad concilium Viennense nulla 
       <lb ed="#P" n="106"/>fuerit inter doctores habita mentio de infusione 
       qua<lb ed="#P" n="107" break="no"/>litatis. Nam concilium manifeste meminit 
@@ -127,7 +125,7 @@
       <lb ed="#P" n="111"/>qualitatis facta mentio, concilium non processisset 
       <lb ed="#P" n="112"/>ad eam rem definiendam. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e269">
                <lb ed="#P" n="113"/>
                <pc type="indent"/> Sed &amp; si decretum illud non haberet vim 
       abso<lb ed="#P" n="114" break="no"/>lutae definitionis, quod quidam opinantur, propter 
@@ -169,7 +167,7 @@
       <lb ed="#P" n="2"/>ut totum hoc intelligatur de qualitate permanente, 
       <lb ed="#P" n="3"/>velut habitu quodam. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e358">
                <lb ed="#P" n="4"/>
                <pc type="indent"/> Ut autem intelligatur hanc doctrinam jure ac 
       <lb ed="#P" n="5"/>merito placuisse utrique concilio, veritatem ejus 
@@ -182,7 +180,7 @@
       <lb ed="#P" n="12"/>quam ipsa inclinat. Hoc autem est inesse per 
       mo<lb ed="#P" n="13" break="no"/>dum habitus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e384">
                <lb ed="#P" n="14"/>
                <pc type="indent"/> Hujusmodi sunt scripturae quae significant gratiam 
       <lb ed="#P" n="15"/>nobis infundi, ut Rom. 5. Charitas Dei diffusa est in 
@@ -192,7 +190,7 @@
       <lb ed="#P" n="19"/>abunde. Quibus consonat illud ex oratione Ecclesiae: 
       <lb ed="#P" n="20"/>Gratiam tuam Domine mentibus nostris infunde. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e404">
                <lb ed="#P" n="21"/>
                <pc type="indent"/> Atqui per infusionem, effusionem, diffusionem 
       <lb ed="#P" n="22"/>gratiae seu charitatis in corda nostra proprie 
@@ -204,7 +202,7 @@
       <lb ed="#P" n="28"/>cordibus, quomodo de cogitationibus, aliisque 
       a<lb ed="#P" n="29" break="no"/>ctionibus loquitur Dominus, Matth. 15. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e428">
                <lb ed="#P" n="30"/>
                <pc type="indent"/> Nec obstare videtur illud hymni ecclesiastici, 
       In<lb ed="#P" n="31" break="no"/>funde amorem cordibus. Nam &amp; ibi non actus 
@@ -212,7 +210,7 @@
       <lb ed="#P" n="33"/>lumen in versiculo praecedente: Accende lumen 
       sen<lb ed="#P" n="34" break="no"/>sibus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e445">
                <lb ed="#P" n="35"/>
                <pc type="indent"/> Alia scriptura est Joannis 4. Qui biberit ex aqua 
       <lb ed="#P" n="36"/>quam ego dabo ei, fiet in eo fons aquae salientis in 
@@ -235,7 +233,7 @@
       <lb ed="#P" n="53"/>aquae bonarum actionum, quibus mereatur vitam 
       <lb ed="#P" n="54"/>aeternam 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e493">
                <lb ed="#P" n="55"/>
                <pc type="indent"/> Item alia scriptura 2. Petri 1. ubi testatur. 
       Aposto<lb ed="#P" n="56" break="no"/>lus, Deum maxima &amp; preciosa nobis promissa 
@@ -245,7 +243,7 @@
       <lb ed="#P" n="60"/>transeunte constitui potest; ergo consistit in eo 
       <lb ed="#P" n="61"/>quod sit instar habitus naturae permanentis. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e513">
                <lb ed="#P" n="62"/>
                <pc type="indent"/> Praeterea pertinent huc scripturae quae gratiam 
       <lb ed="#P" n="63"/>Dei comparant rebus creatis &amp; permanentibus, vel. 
@@ -261,7 +259,7 @@
       <lb ed="#P" n="73"/>cordibus nostris. Nunc eandem doctrinam probemus 
       <lb ed="#P" n="74"/>ex Patribus.
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e546">
       <!--0508.xml-->
                <cb ed="#P" n="b"/>
                <lb ed="#P" n="75"/>Dionysius Areopagita libro de Ecclesiastica 
@@ -273,7 +271,7 @@
       divi<lb ed="#P" n="81" break="no"/>num esse; scilicet hoc ipsum quod Petrus appellat 
       <lb ed="#P" n="82"/>divinae naturae consortium. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e570">
                <lb ed="#P" n="83"/>
                <pc type="indent"/> Irenaeus lib. 5. contra haereses cap. 6. dicit &amp; 
       sub<lb ed="#P" n="84" break="no"/>inde repetit, hominem perfectum, id est, justum 
@@ -285,7 +283,7 @@
       <lb ed="#P" n="90"/>commisceri. Quod intelligi non potest nisi de dono 
       <lb ed="#P" n="91"/>permanenter inhaerente. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e594">
                <lb ed="#P" n="92"/>
                <pc type="indent"/> Basilius libro de Spiritu sancto cap. 26. Sicut, 
       <lb ed="#P" n="93"/>inquit, vis cernendi est in oculo sana, sic operatio 
@@ -296,14 +294,14 @@
       <lb ed="#P" n="98"/>eundem cap. 9. ejusdem libri, &amp; in homilia de 
       Spi<lb ed="#P" n="99" break="no"/>ritu sancto. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e617">
                <lb ed="#P" n="100"/>
                <pc type="indent"/> Ambrosius libr. 6. Hexameron capite 8. gratiam 
       <lb ed="#P" n="101"/>Dei comparat picturae, qua pictus est homo in 
       ani<lb ed="#P" n="102" break="no"/>ma a pictore &amp; artifice Deo; pictura autem res 
       per<lb ed="#P" n="103" break="no"/>manens est. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e630">
                <lb ed="#P" n="104"/>
                <pc type="indent"/> Hieronymus in commentario epistolae ad 
       Phile<lb ed="#P" n="105" break="no"/>monem, exponens illud extremum epistolae: Gratia 
@@ -316,7 +314,7 @@
       Hierony<lb ed="#P" n="112" break="no"/>mi verba non possunt aperte intelligi, nisi de gratia 
       <lb ed="#P" n="113"/>habituali. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e656">
                <lb ed="#P" n="114"/>
                <pc type="indent"/> Chrysostomus homilia ad Neophytos, quam &amp; 
       <lb ed="#P" n="115"/>Augustinus citat libro 1. contra Julianum, dicit 
@@ -328,7 +326,7 @@
       ani<lb ed="#P" n="121" break="no"/>mum inquinatum, verum etiam mentem solis radiis 
       <lb ed="#P" n="122"/>puriorem efficiat. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e680">
                <lb ed="#P" n="123"/>
                <pc type="indent"/> Augustinus libro 1. de peccatorum meritis cap. 9. 
       <lb ed="#P" n="124"/>de Christo loquens, in quo omnes vivificabuntur. 
@@ -345,7 +343,7 @@
       perun<lb ed="#P" n="135" break="no"/>xisse. Haec autem omnia permanentem indicant 
       qua<lb ed="#P" n="136" break="no"/>litatem. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e715">
                <lb ed="#P" n="137"/>
                <pc type="indent"/> Cyrillus libro 4. in Isa. oratione 2. exponens 
       il<lb ed="#P" n="138" break="no"/>lud cap. 44. Formavit te puerum meum: ita scribit, 
@@ -375,7 +373,7 @@
       <lb ed="#P" n="11"/>procedentis, &amp; initio libri quod Spiritus sanctus est 
       <lb ed="#P" n="12"/>Deus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e778">
                <lb ed="#P" n="13"/>
                <pc type="indent"/> Leo serm. 1. de jejunio decimi mensis: Diligende 
       <lb ed="#P" n="14"/>nos Deus ad imaginem suamnos reparat; &amp; ut in 
@@ -385,14 +383,14 @@
       in<lb ed="#P" n="18" break="no"/>flammans, ut non solum ipsum, sed quicquid diligit, 
       <lb ed="#P" n="19"/>diligamus. Sic ille. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e799">
                <lb ed="#P" n="20"/>
                <pc type="indent"/> Quae verba sunt bene notanda. Nam licet nec 
       gra<lb ed="#P" n="21" break="no"/>tiam, nec habitum nominet; ea tamen dicit, quae 
       <lb ed="#P" n="22"/>non in aliud aptius quam in donum habitualis 
       gra<lb ed="#P" n="23" break="no"/>tiae competant. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e812">
                <lb ed="#P" n="24"/>
                <pc type="indent"/> Est item locus insignis de hac re apud Caesarium 
       <lb ed="#P" n="25"/>Arelatensem in homil. 7. quae est de corpore 
@@ -401,7 +399,7 @@
       mirifi<lb ed="#P" n="28" break="no"/>ce exornante. Quanquam &amp; apud alios Patres similes 
       <lb ed="#P" n="29"/>sententiae passim reperiuntur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e830">
                <lb ed="#P" n="30"/>
                <pc type="indent"/> Rationes autem quibus haec doctrina 
       confirma<lb ed="#P" n="31" break="no"/>tur, hujusmodi sunt. Prima: Deus sic rebus creatis 
@@ -435,7 +433,7 @@
       <lb ed="#P" n="59"/>divina operari, nisi divinum esse quoddam prius 
       <lb ed="#P" n="60"/>acceperit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e902">
                <lb ed="#P" n="61"/>
                <pc type="indent"/> Secunda ratio: Homo gratus est Deo non per 
       <lb ed="#P" n="62"/>solum ac nudum favorem externum Dei, quod 
@@ -448,7 +446,7 @@
       <lb ed="#P" n="69"/>necesse est eam esse quiddam permanens per modum 
       <lb ed="#P" n="70"/>habitus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e928">
                <lb ed="#P" n="71"/>
                <pc type="indent"/> Tertia: Gratia augetur in homine per bona 
       ope<lb ed="#P" n="72" break="no"/>ra: Unde synodus Tridentina sess. 6. can. 32. 
@@ -460,7 +458,7 @@
       <lb ed="#P" n="76"/>transiset, succedere possit ejusdem generis alia 
       for<lb ed="#P" n="77" break="no"/>ma perfectior. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e952">
                <lb ed="#P" n="78"/>
                <pc type="indent"/> Quarta: Per baptismum justificantur non solum 
       <lb ed="#P" n="79"/>adulti, sed etiam parvuli, imo etiam interdum 
@@ -473,7 +471,7 @@
       par<lb ed="#P" n="86" break="no"/>vulis, quod in baptismo suscipiant gratiam 
       habitua<lb ed="#P" n="87" break="no"/>lem, ex professo docetur ad dist. 4. lib. 4. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e979">
                <lb ed="#P" n="88"/>
                <pc type="indent"/> Quinta; Ex Adam quicunque nascuntur, 
       contra<lb ed="#P" n="89" break="no"/>hunt injustitiam haerentem ac permanentem in 
@@ -485,7 +483,7 @@
       <lb ed="#P" n="95"/>unius hominis peccatores constituti sunt multi, ita &amp; per 
       <lb ed="#P" n="96"/>unius obeditionem justi constituentur multi. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e1003">
                <lb ed="#P" n="97"/>
                <pc type="indent"/> Postrema: Quin &amp; ipsius regenerationis ratio 
       po<lb ed="#P" n="98" break="no"/>stulat, ut gratia quae per eam habetur, sit 
@@ -497,7 +495,7 @@
       super<lb ed="#P" n="104" break="no"/>naturale non est actus, sed habet se per modum 
       per<lb ed="#P" n="105" break="no"/>manentis. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p106528-d1e1027">
                <lb ed="#P" n="106"/>
                <pc type="indent"/> Faciunt praeterea ad hujus doctrinae 
       corrobora<lb ed="#P" n="107" break="no"/>tionem ea quae de charitate habituali dicta sunt 

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,13 +52,13 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="bt67yj-p102090" alias="l1d25c5">
-            <head>Capitulum 5</head>
-            <head type="question-title">Justitia originalis quae sit, et quae ejus partes</head>
-            <p>
+         <div xml:id="bt67yj-p102090"><!-- l1d25c5" -->
+            <head xml:id="bt67yj-p102090-Hd1e101">Capitulum 5</head>
+            <head xml:id="bt67yj-p102090-Hd1e103" type="question-title">Justitia originalis quae sit, et quae ejus partes</head>
+            <p xml:id="bt67yj-p102090-d1e106">
                <lb ed="#P" n="114"/>§. 5. Justitia originalis quae sit, &amp; quae ejus partes. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e111">
                <lb ed="#P" n="115"/>NOn eadem est quaestio, sitne primus homo 
       <lb ed="#P" n="116"/>creatus cum gratia, &amp; an creatus sit cum 
       justi<lb ed="#P" n="117" break="no"/>tia originali. Nam omnes quidem Catholici doctores 
@@ -72,7 +70,7 @@
       quemad<lb ed="#P" n="123" break="no"/>modum a gratia differat; &amp; utrum fuerit donum 
       su<lb ed="#P" n="124" break="no"/>pernaturale.
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e135">
                <lb ed="#P" n="125"/>Quod igitur ad primum attinet, nomen ipsum 
       ori<lb ed="#P" n="126" break="no"/>ginalis justitiae expendendum est. Nam justitia 
       qui<lb ed="#P" n="127" break="no"/>dem vocatur, non quae principalis est inter virtutes 
@@ -99,7 +97,7 @@
                <lb ed="#P" n="1"/>origine creati sunt, Deo perfecte subjecti &amp; in 
       qui<lb ed="#P" n="2" break="no"/>bus nihil esset inordinatum. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e193">
                <lb ed="#P" n="3"/>
                <pc type="indent"/> Porro justitia originalis in qua primum hominem 
       <lb ed="#P" n="4"/>conditum dicimus, quaenam res sit, utrum habitus 
@@ -110,22 +108,22 @@
       <lb ed="#P" n="9"/>atque perfectum redderet, idque esse justitiam 
       ori<lb ed="#P" n="10" break="no"/>ginalem. Atque horum alii censent hujusmodi 
       ha<lb ed="#P" n="11" break="no"/>bitum esse reipsa eundem cum gratia, ac sola 
-      ratio<lb ed="#P" n="12" break="no"/>ne distinctum, ut <name>Dominicus Soto</name> lib. 1. de natura 
-      <lb ed="#P" n="13"/>&amp; gratia cap. 5. &amp; <name>Medina</name> in 1. 2. qu. 83. art. 2. Alij 
+      ratio<lb ed="#P" n="12" break="no"/>ne distinctum, ut <name xml:id="bt67yj-p102090-Nd1e219">Dominicus Soto</name> lib. 1. de natura 
+      <lb ed="#P" n="13"/>&amp; gratia cap. 5. &amp; <name xml:id="bt67yj-p102090-Nd1e223">Medina</name> in 1. 2. qu. 83. art. 2. Alij 
       <lb ed="#P" n="14"/>ponunt realiter a gratia seu dono supernaturali 
-      di<lb ed="#P" n="15" break="no"/>stinctum, ut <name>Henricus</name> quodlibet. 6. qu. 11. <name>
-      Duran<lb ed="#P" n="16" break="no"/>dus</name> in 2. distin. 20. qu. 5. art. 1. <name>Scotus</name> in 2. 
-      distin<lb ed="#P" n="17" break="no"/>ctio. 29. ad 4. <name>Gabriel</name> in 2. distin. 30. qu. 2. artic. 3. 
-      <lb ed="#P" n="18"/>dubio 2. <name>Cajetanus</name> in 1. partem quaest. 95. art. 1. &amp; 
+      di<lb ed="#P" n="15" break="no"/>stinctum, ut <name xml:id="bt67yj-p102090-Nd1e229">Henricus</name> quodlibet. 6. qu. 11. <name xml:id="bt67yj-p102090-Nd1e232">
+      Duran<lb ed="#P" n="16" break="no"/>dus</name> in 2. distin. 20. qu. 5. art. 1. <name xml:id="bt67yj-p102090-Nd1e237">Scotus</name> in 2. 
+      distin<lb ed="#P" n="17" break="no"/>ctio. 29. ad 4. <name xml:id="bt67yj-p102090-Nd1e241">Gabriel</name> in 2. distin. 30. qu. 2. artic. 3. 
+      <lb ed="#P" n="18"/>dubio 2. <name xml:id="bt67yj-p102090-Nd1e245">Cajetanus</name> in 1. partem quaest. 95. art. 1. &amp; 
       <lb ed="#P" n="19"/>
-               <name>Bannes</name> ibidem, aliique complures, qui suam 
+               <name xml:id="bt67yj-p102090-Nd1e250">Bannes</name> ibidem, aliique complures, qui suam 
       sen<lb ed="#P" n="20" break="no"/>tentiam colligunt ex S. Thoma in 1. p. q. 100. art. 1. 
       <lb ed="#P" n="21"/>ad 2. quo loco gratiam vocat radicem justitiae 
       origi<lb ed="#P" n="22" break="no"/>nalis, &amp; proinde intelligere videtur esse res 
       diver<lb ed="#P" n="23" break="no"/>sas. Siquidem radix diversa est ab eo quod ex 
       radi<lb ed="#P" n="24" break="no"/>ce nascitur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e264">
                <lb ed="#P" n="25"/>
                <pc type="indent"/> At vero qua parte ab his omnibus justitia 
       origina<lb ed="#P" n="26" break="no"/>lis ponitur habitus quispiam unus, sive ille sit idem 
@@ -144,7 +142,7 @@
       in<lb ed="#P" n="39" break="no"/>tellectum. Ac rursus non in utralibet, quia sic 
       appe<lb ed="#P" n="40" break="no"/>titum sensitivum perficere non posset. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e303">
                <lb ed="#P" n="41"/>
                <pc type="indent"/> Aliorum itaque sententia est, justitiam 
       origina<lb ed="#P" n="42" break="no"/>lem fuisse quid aggregatum ex pluribus, ac 
@@ -162,7 +160,7 @@
       er<lb ed="#P" n="54" break="no"/>ga proximum: In appetitu sensitivo, temperantia &amp; 
       <lb ed="#P" n="55"/>fortitudo. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e340">
                <lb ed="#P" n="56"/>
                <pc type="indent"/> Verum etsi non sit dubitandum, quin justitia 
       ori<lb ed="#P" n="57" break="no"/>ginalis haec bona vel omnia vel pleraque in primo 
@@ -184,7 +182,7 @@
       <lb ed="#P" n="73"/>utpote nihil habens in se inordinatum, curvum aut 
       <lb ed="#P" n="74"/>vitiosum.
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e386">
       <!--0496.xml-->
                <cb ed="#P" n="b"/>
                <lb ed="#P" n="75"/>Haec autem rectitudo atque integritas primi 
@@ -200,14 +198,14 @@
       homi<lb ed="#P" n="85" break="no"/>nis per scientiam &amp; amorem Deo conjungere atque 
       <lb ed="#P" n="86"/>subjicere. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e419">
                <lb ed="#P" n="87"/>
                <pc type="indent"/> Secundo, consistebat in eo, quod partes animae 
       in<lb ed="#P" n="88" break="no"/>feriores, id est, appetitus sensitivus tam 
       concupisci<lb ed="#P" n="89" break="no"/>bilis quam irascibilis, sine ulla pugna &amp; rebellione 
       <lb ed="#P" n="90"/>superioribus subjacerent. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e433">
                <lb ed="#P" n="91"/>
                <pc type="indent"/> Tertio, in eo quod omnia corporis membra 
       vo<lb ed="#P" n="92" break="no"/>luntatis seu rationis imperio ad nutum subservirent; 
@@ -215,7 +213,7 @@
       inferio<lb ed="#P" n="94" break="no"/>ri animae contra rationem, ita nec in ullo corporis 
       <lb ed="#P" n="95"/>membro 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e449">
                <lb ed="#P" n="96"/>
                <pc type="indent"/> Ex his porro tribus quasi partibus originalis 
       justi<lb ed="#P" n="97" break="no"/>tiae colligere licet aliquot insignes effectus ejusdem 
@@ -224,7 +222,7 @@
       <lb ed="#P" n="100"/>suas expedite perfecteque exercere, habebant enim 
       <lb ed="#P" n="101"/>singulae in seipsis optimam dispositionem. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e467">
                <lb ed="#P" n="102"/>
                <pc type="indent"/> Secundus effectus erat, quod inferiores animae 
       vi<lb ed="#P" n="103" break="no"/>res ita subjicerentur superioribus, ut earum 
@@ -243,13 +241,13 @@
       <lb ed="#P" n="116"/>certe non videtur dubitandum, ut mox ex scripturis 
       <lb ed="#P" n="117"/>ostendemus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e506">
                <lb ed="#P" n="118"/>
                <pc type="indent"/> Tertius effectus, erat plena corporis ac 
       membro<lb ed="#P" n="119" break="no"/>rum ejus subjectio sub imperio rationis, ut paulo 
       <lb ed="#P" n="120"/>ante diximus 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e517">
                <lb ed="#P" n="121"/>
                <pc type="indent"/> Quarto, fiebat ex illa originali rectitudine, ut 
       es<lb ed="#P" n="122" break="no"/>set in homine ingens cupiditas, sed ordinata tamen, 
@@ -257,13 +255,13 @@
       <lb ed="#P" n="124"/>naturaliter sciri possunt, perfectam scientiam 
       con<lb ed="#P" n="125" break="no"/>sequendi. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e533">
                <lb ed="#P" n="126"/>
                <pc type="indent"/> Quinto, sequebatur vehemens quaedam ad omne 
       <lb ed="#P" n="127"/>bonum propensio, &amp; ab omni malo voluntatis 
       alie<lb ed="#P" n="128" break="no"/>natio. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e545">
                <lb ed="#P" n="129"/>
                <pc type="indent"/> Postremum addunt, quod justitia originalis 
       con<lb ed="#P" n="130" break="no"/>stituebat hominem in foelicitate naturali, id est, ea 
@@ -275,7 +273,7 @@
       <lb ed="#P" n="136"/>hominis feliciter viventis carnem vel animam ob 
       <lb ed="#P" n="137"/>fenderet. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e569">
                <lb ed="#P" n="138"/>
                <pc type="indent"/> Sed nunc ea per quae diximus justitiam 
       origina<lb ed="#P" n="139" break="no"/>lem constitui, scripturae sacrae testimoniis 
@@ -311,7 +309,7 @@
       origi<lb ed="#P" n="18" break="no"/>nalem consistere dicebamus, satis ex hujusmodi 
       te<lb ed="#P" n="19" break="no"/>stimoniis scripturae confirmat. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e645">
                <lb ed="#P" n="20"/>
                <pc type="indent"/> Alterum vero &amp; tertium probatur ex scripturis, 
       <lb ed="#P" n="21"/>quae in peccatum primi hominis, &amp; corruptionem 
@@ -329,7 +327,7 @@
       au<lb ed="#P" n="33" break="no"/>tem adversus carnem: Haec enim sibi invicem 
       adver<lb ed="#P" n="34" break="no"/>santur, ut non quaecunque vultis, illa faciatis 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e682">
                <lb ed="#P" n="35"/>
                <pc type="indent"/> Eodem referendum videtur illud Sap. 9. Corpus 
       <lb ed="#P" n="36"/>quod corrumpitur aggravat animam, &amp; terrena 
@@ -351,7 +349,7 @@
       cau<lb ed="#P" n="52" break="no"/>sam confitetur Adam dicens: Timui eo quod nudus 
       <lb ed="#P" n="53"/>essem, &amp; abscondi me¬ 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e728">
                <lb ed="#P" n="54"/>
                <pc type="indent"/> Jam quod in hac rebellione, seu partis 
       inferio<lb ed="#P" n="55" break="no"/>ris animae contra superiorem, seu membrorum 
@@ -369,14 +367,14 @@
       pro<lb ed="#P" n="67" break="no"/>pter hanc carnis rebellionem dicit se Deo esse 
       con<lb ed="#P" n="68" break="no"/>trarium. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e765">
                <lb ed="#P" n="69"/>
                <pc type="indent"/> Unde &amp; Patres in hac carnis rebellione contra 
       <lb ed="#P" n="70"/>spiritum, iniquitatem agnoscunt. Iniquum est 
       e<lb ed="#P" n="71" break="no"/>nim, ait Augustinus lib. 2. contra Julianum cap. 5. 
       <lb ed="#P" n="72"/>ut caro concupiscat adversus spiritum. Et lib. 5. cap. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e779">
                <lb ed="#P" n="73"/>
                <pc type="indent"/> Julianum alloquens: Si, inquit, prudenter 
       <lb ed="#P" n="74"/>hic saperes, profecto esse iniquitatem videres, qua 
@@ -393,7 +391,7 @@
       ma<lb ed="#P" n="83" break="no"/>nere iniquitatem, contra quam iis assidue 
       pugnan<lb ed="#P" n="84" break="no"/>dum sit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e814">
                <lb ed="#P" n="85"/>
                <pc type="indent"/> Quae omnia non eo dicta sunt a Patribus, quod 
       <lb ed="#P" n="86"/>concupiscentiam in renatis veri nominis esse 
@@ -406,7 +404,7 @@
       assentien<lb ed="#P" n="93" break="no"/>dum non trahat, ideóque nec peccatum proprie dici 
       <lb ed="#P" n="94"/>possit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e840">
                <lb ed="#P" n="95"/>
                <pc type="indent"/> Praeterea nisi &amp; illud iniquum esset, quod pars 
       ali<lb ed="#P" n="96" break="no"/>qua corporis resistat imperio voluntatis, inhonesta 
@@ -416,7 +414,7 @@
       <lb ed="#P" n="100"/>nostro caro non servit, ut ait Augustinus lib. 2. de 
       <lb ed="#P" n="101"/>peccatorum meritis cap. 22. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e860">
                <lb ed="#P" n="102"/>
                <pc type="indent"/> Satis igitur ex dictis patet, primum hominem per 
       <lb ed="#P" n="103"/>peccatum amisisse eam rectitudinem qua inferiora 
@@ -433,14 +431,14 @@
       <lb ed="#P" n="114"/>Deo, &amp; hanc in membris adversus legem mentis sua 
       <lb ed="#P" n="115"/>lecem concupiscentiae non habere. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e895">
                <lb ed="#P" n="116"/>
                <pc type="indent"/> Patet insuper ex iis quae diximus, gratiam &amp; 
       justi<lb ed="#P" n="117" break="no"/>tiam originalem non esse remunam &amp; eandem, sed 
       <lb ed="#P" n="118"/>alteram in altera comprehendi &amp; ejus quodammodo 
       <lb ed="#P" n="119"/>partem esse. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e908">
                <lb ed="#P" n="120"/>
                <pc type="indent"/> Illud etiam ex dictis colligi potest, quod quaeri 
       so<lb ed="#P" n="121" break="no"/>let de subjecto justitiae originalis, de quo quidem 
@@ -453,7 +451,7 @@
       <lb ed="#P" n="128"/>habentibus, a quo totum quod ex illis constat, 
       re<lb ed="#P" n="129" break="no"/>ctum dicatur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e935">
                <lb ed="#P" n="130"/>
                <pc type="indent"/> Quod si quaeras, an sine gratia potuerit esse 
       justi<lb ed="#P" n="131" break="no"/>tia originalis. Respondeo, potuisse quodam 
@@ -466,7 +464,7 @@
       te<lb ed="#P" n="138" break="no"/>stetur. Sed justitiam solummodo naturalem ei 
       tribuis<lb ed="#P" n="139" break="no"/>se videntur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p102090-d1e961">
                <lb ed="#P" n="140"/>
                <pc type="indent"/> Postremo quaeret aliquis, an justitia originalis 
       <lb ed="#P" n="141"/>complectatur etiam immortalitatem &amp; 

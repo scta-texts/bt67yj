@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,15 +52,15 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="bt67yj-p104416" alias="l1d25c7">
-            <head>Capitulum 7</head>
-            <head type="question-title">Quale adjutorium fuerit primo homini 
+         <div xml:id="bt67yj-p104416"><!-- l1d25c7" -->
+            <head xml:id="bt67yj-p104416-Hd1e101">Capitulum 7</head>
+            <head xml:id="bt67yj-p104416-Hd1e103" type="question-title">Quale adjutorium fuerit primo homini 
        necessarium</head>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e106">
                <lb ed="#P" n="116"/>§. 7. Quale adjutorium fuerit primo homini 
       <lb ed="#P" n="117"/> necessarium.
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e113">
                <lb ed="#P" n="118"/>PRaeter justitiam seu gratiam in qua primus 
       ho<lb ed="#P" n="119" break="no"/>mo creatus fuit a Deo, quam nec retinere 
       pos<lb ed="#P" n="120" break="no"/>set, nisi conservante eo qui dederat; quaeritur, 
@@ -72,7 +70,7 @@
       <lb ed="#P" n="124"/>posset; &amp; si quod tale necessarium fuerit, quodnam 
       <lb ed="#P" n="125"/>&amp; quale illud sit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e133">
                <lb ed="#P" n="126"/>
                <pc type="indent"/> Respondetur autem ad priorem quaestionem 
       af<lb ed="#P" n="127" break="no"/>firmative. Nam fuisse primo homini necessarium 
@@ -90,7 +88,7 @@
       <lb ed="#P" n="139"/>veritatem fuerit, dubitatur ac varie disputatur a 
       <lb ed="#P" n="140"/>doctoribus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e171">
                <lb ed="#P" n="141"/>
                <pc type="indent"/> Magister distinct. 24. §. D. ad quaestionem 
       respon<lb ed="#P" n="142" break="no"/>det his verbis: Illud, inquit, adjutorium fuit 
@@ -110,7 +108,7 @@
       <lb ed="#P" n="7"/>Nam gratia nata &amp; conservata unum idemque 
       do<lb ed="#P" n="8" break="no"/>num est. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e213">
                <lb ed="#P" n="9"/>
                <pc type="indent"/> Alii proinde praeter gratiam &amp; rectitudinem in 
       <lb ed="#P" n="10"/>qua factus est homo, dicunt ei ab initio adfuisse 
@@ -132,7 +130,7 @@
       <lb ed="#P" n="26"/>habito vellet perseverare, dicunt relictum fuisse in 
       <lb ed="#P" n="27"/>ejus arbitrio¬ 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e259">
                <lb ed="#P" n="28"/>
                <pc type="indent"/> Probant autem hanc suam sententiam ex ipso 
       Au<lb ed="#P" n="29" break="no"/>gustino, qui locis supra citatis, ac praecipue libro 
@@ -148,7 +146,7 @@
       <lb ed="#P" n="39"/>utitur, sine quo extrinsecus subministrato, natura 
       <lb ed="#P" n="40"/>animantis vel ignis non potest conservari. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e292">
                <lb ed="#P" n="41"/>
                <pc type="indent"/> Dicunt itaque qui hujus sunt opinionis, gratiam 
       <lb ed="#P" n="42"/>quidem seu rectam voluntatem primi hominis fuisse 
@@ -176,7 +174,7 @@
       fomen<lb ed="#P" n="64" break="no"/>tum justitiae bonaeque voluntatis, quodque a nullo 
       <lb ed="#P" n="65"/>alio quam a Deo praestari posset. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e351">
                <lb ed="#P" n="66"/>
                <pc type="indent"/> Ab iisdem porro si quaeritur, quomodo primus 
       ho<lb ed="#P" n="67" break="no"/>mo divinum illum influxum, quem adjutorium 
@@ -198,7 +196,7 @@
       <lb ed="#P" n="81"/>de quo Augustinus, interpretantur cooperationem 
       <lb ed="#P" n="82"/>Dei cum homine per auxilium speciale. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e397">
                <lb ed="#P" n="83"/>
                <pc type="indent"/> Hujus autem necessitatem etiam in primo 
       homi<lb ed="#P" n="84" break="no"/>ne ponunt ex eo, quia causae secundae nihil operari 
@@ -211,7 +209,7 @@
       <lb ed="#P" n="91"/>a Romano pontifice in Canonem 19. concilii 
       Arau<lb ed="#P" n="92" break="no"/>sieani. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e424">
                <lb ed="#P" n="93"/>
                <pc type="indent"/> Addunt praeterea non opus fuisse primo homini 
       <lb ed="#P" n="94"/>motione aliqua Dei per auxilium excitans, quae 
@@ -268,7 +266,7 @@
       <lb ed="#P" n="145"/>gratia qua primus homo stare potuisset, si mandata 
       <lb ed="#P" n="146"/>servare voluisset. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e546">
                <lb ed="#P" n="147"/>
                <pc type="indent"/> His locis putant significatum, in viribus liberi 
       <lb ed="#P" n="148"/>arbitrii hominis integri fuisse ipsum bene velle, 
@@ -287,7 +285,7 @@
       <lb ed="#P" n="10"/>secundo, nisi quando homini licitum fuisset aliquid 
       <lb ed="#P" n="11"/>operari. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e585">
                <lb ed="#P" n="12"/>
                <pc type="indent"/> De his duabus postremis opinionibus, quas 
       ex<lb ed="#P" n="13" break="no"/>plicandi gratia latius prosecuti sumus, quid 
@@ -317,7 +315,7 @@
       <lb ed="#P" n="37"/>non aliud in homine erat, quam gratia conservata 
       <lb ed="#P" n="38"/>&amp; continuata. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e648">
                <lb ed="#P" n="39"/>
                <pc type="indent"/> Illud vero adjutorium quod ponit posterior 
       opi<lb ed="#P" n="40" break="no"/>nio, nequaquam sufficit, eo quidem modo 
@@ -332,7 +330,7 @@
       cau<lb ed="#P" n="49" break="no"/>sae operanti non subjiciunt, sed magis 
       cooperatio<lb ed="#P" n="50" break="no"/>nem Dei subjiciunt hominis voluntati. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e679">
                <lb ed="#P" n="51"/>
                <pc type="indent"/> At veritas habet nec angelum, nec primum atque 
       <lb ed="#P" n="52"/>integrum hominem potuisse bene velle, bene 
@@ -343,7 +341,7 @@
       <lb ed="#P" n="57"/>tam angelis quam primo homini ad omnia ea quae 
       <lb ed="#P" n="58"/>jam diximus, necessarium. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e701">
                <lb ed="#P" n="59"/>
                <pc type="indent"/> Quae sententia quanquam facile potest iisdem 
       ar<lb ed="#P" n="60" break="no"/>gumentis probari de primo homine, quibus eam 
@@ -354,7 +352,7 @@
       <lb ed="#P" n="65"/>homini quam angelo, certioris tamen doctrinae 
       cau<lb ed="#P" n="66" break="no"/>sa profcremus etiam hoc loco nonnulla. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e724">
                <lb ed="#P" n="67"/>
                <pc type="indent"/> Quorum hoc primum est &amp; praecipuum. In Deum 
       <lb ed="#P" n="68"/>authorem &amp; causam primam, primumque 
@@ -375,7 +373,7 @@
       <lb ed="#P" n="81"/>sunt omnia. Jacobi cap. 1. Omne datum optimum &amp; 
       <lb ed="#P" n="82"/>omne donum perfectum de sursum est, &amp;c. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e768">
                <lb ed="#P" n="83"/>
                <pc type="indent"/> Secundum: Primus homo debebat Deum orare 
       <lb ed="#P" n="84"/>pro perseverantia; ergo ipsum perseverare etiam in 
@@ -386,7 +384,7 @@
       recti<lb ed="#P" n="89" break="no"/>tudo secundum totam naturam humanam, legatur 
       <lb ed="#P" n="90"/>saepe Deum patrem orasse. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e790">
                <lb ed="#P" n="91"/>
                <pc type="indent"/> Tertium: Primus homo si perseverasset usque 
       <lb ed="#P" n="92"/>in finem, debuisset pro illo bono peculiares agere 
@@ -394,14 +392,14 @@
       <lb ed="#P" n="94"/>a Deo: Nam gratiarum actio beneficii accepti 
       testi<lb ed="#P" n="95" break="no"/>ficatio est. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e806">
                <lb ed="#P" n="96"/>
                <pc type="indent"/> Quartum: Si primi homines superassent 
       tenta<lb ed="#P" n="97" break="no"/>tionem diaboli, debuissent Deo pro illa victoria 
       gra<lb ed="#P" n="98" break="no"/>tias agere; ergo &amp; hoc bonum non aliunde 
       habuis<lb ed="#P" n="99" break="no"/>sent quam a Deo¬ 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e819">
                <lb ed="#P" n="100"/>
                <pc type="indent"/> Quintum: Homines integri de sua 
       perseveran<lb ed="#P" n="101" break="no"/>tia &amp; victoria parta contra diabolum gloriari 
@@ -413,7 +411,7 @@
       <lb ed="#P" n="107"/>nomini tua da gloriam. Maledictus homo qui confidit 
       <lb ed="#P" n="108"/>in homine, &amp;c. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e843">
                <lb ed="#P" n="109"/>
                <pc type="indent"/> Hanc vero de auxilio necessario primo homini 
       <lb ed="#P" n="110"/>sententiam esse S. Thomae, satis est manifestum, 
@@ -446,7 +444,7 @@
       <lb ed="#P" n="137"/>ab hujusmodi conditione, si homo vellet, sed 
       po<lb ed="#P" n="138" break="no"/>tius hoc ipsum efficeret. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e914">
                <lb ed="#P" n="139"/>
                <pc type="indent"/> Idem doctor in 1. 2. q. 109. art. 1. Manifestum. 
       <lb ed="#P" n="140"/>est, inquit, omnes motus tam corporales quam 
@@ -456,7 +454,7 @@
       <lb ed="#P" n="144"/>suum actum procedere, nisi moveatur a Deo. Et 
       plu<lb ed="#P" n="145" break="no"/>ra quae sequuntur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e934">
                <lb ed="#P" n="146"/>
                <pc type="indent"/> Item articulo 2. clare asserit, hominem in 
       utro<lb ed="#P" n="147" break="no"/>que statu tam naturae integrae quam corruptae, 
@@ -473,7 +471,7 @@
       obser<lb ed="#P" n="7" break="no"/>va, hominem esse dominum sui actus, sed sub Deo 
       <lb ed="#P" n="8"/>movente. Similia repetit art. 3. 4. 6. &amp; 8. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e969">
                <lb ed="#P" n="9"/>
                <pc type="indent"/> Deinde articulo 9. docet, quod homo in gratia 
       <lb ed="#P" n="10"/>constitutus non indiget quidem alio auxilio gratiae, 
@@ -490,7 +488,7 @@
       <lb ed="#P" n="21"/>gratia erit omnino perfecta, homo divino auxilio 
       <lb ed="#P" n="22"/>indigebit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1004">
                <lb ed="#P" n="23"/>
                <pc type="indent"/> Denique articulo 10. agens de auxilio gratiae ad 
       <lb ed="#P" n="24"/>perseverandum, ita scribit: Ad perseverantiam 
@@ -521,7 +519,7 @@
       neces<lb ed="#P" n="49" break="no"/>sarium fuisse Dei adjutorium, quo ad ea omnia 
       effi<lb ed="#P" n="50" break="no"/>caciter moveretur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1069">
                <lb ed="#P" n="51"/>
                <pc type="indent"/> Hanc vero etiam Augustini esse sententiam, 
       pri<lb ed="#P" n="52" break="no"/>mum ex eo colligitur, quod libro 12. de civitate 
@@ -546,7 +544,7 @@
       ad<lb ed="#P" n="71" break="no"/>jutorium defuisse, quod ei ad perseverantiae bonum 
       <lb ed="#P" n="72"/>erat necessarium. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1121">
                <lb ed="#P" n="73"/>
                <pc type="indent"/> Accedit quod idem Augustinus libro 2. confessio 
       <lb ed="#P" n="74"/>num capite 7. docet, eum magis teneri ad diligen¬ 
@@ -562,7 +560,7 @@
       custo<lb ed="#P" n="82" break="no"/>dientis eum a peccato acceptum ferre debuisset, 
       si<lb ed="#P" n="83" break="no"/>eut acceptum ferunt sancti angeli. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1155">
                <lb ed="#P" n="84"/>
                <pc type="indent"/> Quo etiam pertinet quod docet fanctus Thomas 
       <lb ed="#P" n="85"/>2. 2. quaest. 106. art. 2. ubi ad quaestionem, an 
@@ -576,7 +574,7 @@
       <lb ed="#P" n="93"/>peccatum non declinet; quod utique alteri qui 
       pec<lb ed="#P" n="94" break="no"/>casse ponitur, non est datum.
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1184">
                <lb ed="#P" n="95"/>
                <pc type="indent"/> Quare quod Adam aliquamdiu conservatus fuit in 
       <lb ed="#P" n="96"/>innocentia, fuit singulare beneficium Dei 
@@ -585,7 +583,7 @@
       <lb ed="#P" n="99"/>permanens, &amp; pro eo beneficio singulares gratias 
       <lb ed="#P" n="100"/>agere Deo debuisset. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1202">
                <lb ed="#P" n="101"/>
                <pc type="indent"/> Rursum huc praeclare facit quod idem Augustinus 
       <lb ed="#P" n="102"/>libro 12. de civitate capite nono, &amp; libro secundo 
@@ -601,7 +599,7 @@
       <lb ed="#P" n="112"/>hoc adjutorium quo ficret ut vellet, ei ad 
       perseve<lb ed="#P" n="113" break="no"/>randum fuisse necessarium. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1235">
                <lb ed="#P" n="114"/>
                <pc type="indent"/> Alius apud Augustinum locus est valde apertus 
       <lb ed="#P" n="115"/>lib. 8. de Gen. ad literam capite 12. ubi has 
@@ -622,7 +620,7 @@
       <lb ed="#P" n="130"/>esse, non solum ut sit, verum etiam ut non nisi ab illo 
       <lb ed="#P" n="131"/>bene sibi sit, a quo habetur sit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1279">
                <lb ed="#P" n="132"/>
                <pc type="indent"/> Eadem sententia confirmatur authoritate S. 
       Ber<lb ed="#P" n="133" break="no"/>nardi, qui lib. de gratia &amp; libero arbitrio circa 
@@ -649,9 +647,9 @@
       <lb ed="#P" n="3"/>statu integro illud esse, quo datur &amp; ipsum 
       perseve<lb ed="#P" n="4" break="no"/>rare. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1336">
                <lb ed="#P" n="5"/>
-               <pc type="indent"/> Denique <ref>concilii Arausicani canon. 19. </ref>sumptus ex 
+               <pc type="indent"/> Denique <ref xml:id="bt67yj-p104416-Rd1e1342">concilii Arausicani canon. 19. </ref>sumptus ex 
       <lb ed="#P" n="6"/>Augustini epist. 106. ad Paulinum, valde favet huic 
       <lb ed="#P" n="7"/>sententiae. Verba haec sunt: Natura humana etiamsi 
       <lb ed="#P" n="8"/>in illa integritate, in qua est condita, permaneret, 
@@ -671,7 +669,7 @@
       <lb ed="#P" n="22"/>eum expressius Petrus a Soto in disputatione quadam 
       <lb ed="#P" n="23"/>ad Ruardum. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1385">
                <lb ed="#P" n="24"/>
                <pc type="indent"/> Quid vero ad ea quae ex Augustino in contrarium 
       <lb ed="#P" n="25"/>sunt allata, responderi possit, idque ex sententia S. 
@@ -697,7 +695,7 @@
       <lb ed="#P" n="45"/>Augustini verba quae objiciebantur, intelligenda 
       <lb ed="#P" n="46"/>esse. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1440">
                <lb ed="#P" n="47"/>
                <pc type="indent"/> Neque tamen ex eo consequens est, primum 
       ho<lb ed="#P" n="48" break="no"/>minem non eguisse adjutorio gratiae excitantis, ut 
@@ -718,7 +716,7 @@
       <lb ed="#P" n="63"/>"implendo meliorem, prius faciens excitando 
       avidio<lb ed="#P" n="64" break="no"/>"rem. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1484">
                <lb ed="#P" n="65"/>
                <pc type="indent"/> Multo autem minus ex illa naturae humanae in 
       pri<lb ed="#P" n="66" break="no"/>mo statu sanitate &amp; integritate consequitur, 
@@ -731,7 +729,7 @@
       <lb ed="#P" n="73"/>sive acceptis sive oblatis, nihil prorsus boni ab eo 
       <lb ed="#P" n="74"/>fieri potuisse.
     </p>
-            <p>
+            <p xml:id="bt67yj-p104416-d1e1510">
       <!--0505.xml-->
                <cb ed="#P" n="b"/>
                <lb ed="#P" n="75"/>Ad extremum vero illud observa, tametsi ex supra 

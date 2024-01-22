@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,21 +52,21 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="bt67yj-p100499" alias="l1d25c3">
-            <head>Capitulum 3</head>
-            <head type="question-title">An gratia fuerit primo homini naturalis</head>
-            <p>
+         <div xml:id="bt67yj-p100499"><!-- l1d25c3" -->
+            <head xml:id="bt67yj-p100499-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p100499-Hd1e103" type="question-title">An gratia fuerit primo homini naturalis</head>
+            <p xml:id="bt67yj-p100499-d1e106">
                <lb ed="#P" n="128"/>
                <pc type="indent"/> §. 3. An gratia fuerit primo homini naturalis?
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e113">
                <lb ed="#P" n="129"/>NOn est hoc loco praetereunda quaestio a 
       non<lb ed="#P" n="130" break="no"/>Nnullis agitata: Utrum gratia in qua primum? 
       <lb ed="#P" n="131"/>hominem conditum diximus, fuerit ei naturalis, 
       <lb ed="#P" n="132"/>an supernaturalis. Nam utrique parti sua non desunt 
       <lb ed="#P" n="133"/>argumenta, tum ex Patribus, tum ex ratione. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e126">
                <lb ed="#P" n="134"/>
                <pc type="indent"/> Pro priori parte proferuntur haec Patrum 
       testi<lb ed="#P" n="135" break="no"/>monia. Primum: Leo sermone primo de jejunio 
@@ -79,7 +77,7 @@
       Sal<lb ed="#P" n="140" break="no"/>vatoris; dum quod cecidit in Adam primo, erigitur 
       <lb ed="#P" n="141"/>in secundo. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e149">
                <lb ed="#P" n="142"/>
                <pc type="indent"/> Secundum: Idem Leo serm. 13. de passione 
       Do<lb ed="#P" n="143" break="no"/>mini, innocentiam primi hominis naturalem vocat 
@@ -95,7 +93,7 @@
       <lb ed="#P" n="6"/>Christum dicit naturalem hominis libertatem 
       re<lb ed="#P" n="7" break="no"/>parari. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e182">
                <lb ed="#P" n="8"/>
                <pc type="indent"/> Tertium: Augustinus lib. 12. de civitate capit. 1. 
       <lb ed="#P" n="9"/>ita scribit de angelis: Cum vitium creaturae 
@@ -108,7 +106,7 @@
       natu<lb ed="#P" n="16" break="no"/>rae, cujus id vitium est, potius competeret esse cum 
       <lb ed="#P" n="17"/>Deo. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e208">
                <lb ed="#P" n="18"/>
                <pc type="indent"/> Quartum: Ejusdem Augustini sententia est 
       En<lb ed="#P" n="19" break="no"/>chir. capite 11. Animorum quaecunque sunt vitia 
@@ -117,7 +115,7 @@
       <lb ed="#P" n="22"/>naturalis; &amp; consequenter ipsa gratia bonum 
       natu<lb ed="#P" n="23" break="no"/>rale. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e226">
                <lb ed="#P" n="24"/>
                <pc type="indent"/> Quintum: Rursum Aug. lib. 13. de civit. cap. ult. 
       <lb ed="#P" n="25"/>dicit animam carentem spiritu Dei, esse mortuam, 
@@ -126,14 +124,14 @@
       <lb ed="#P" n="28"/>Non enim recte mortua diceretur ex eo solo quod C 
       <lb ed="#P" n="29"/>careat supernaturali. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e244">
                <lb ed="#P" n="30"/>
                <pc type="indent"/> Sextum: Prosper lib. 2. de vita contemplativa cap. 
       <lb ed="#P" n="31"/>18. dicit hominem peccato corruptum perdidisse 
       be<lb ed="#P" n="32" break="no"/>neficia Dei sui, quae in natura suae conditionis 
       acce<lb ed="#P" n="33" break="no"/>perat. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e257">
                <lb ed="#P" n="34"/>
                <pc type="indent"/> Septimum: Idem Prosper contra Collatorem 
       scri<lb ed="#P" n="35" break="no"/>bens cap. 18. Dubitare fas non est, inquit, primum 
@@ -141,26 +139,26 @@
       auxilian<lb ed="#P" n="37" break="no"/>tem sibi dominum non desereret, posset in bonis, quae 
       na<lb ed="#P" n="38" break="no"/>turaliter acceperat, perseverare. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e274">
                <lb ed="#P" n="39"/>
                <pc type="indent"/> Octavum: Cassiodorus lib. de anima cap. 15. 
       bea<lb ed="#P" n="40" break="no"/>titudinem primi hominis, id est, felicem illum 
       sta<lb ed="#P" n="41" break="no"/>tum in quo conditus est, naturalem vocat. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e285">
                <lb ed="#P" n="42"/>
                <pc type="indent"/> Nonum: Author quaestionum novi testamenti 
       <lb ed="#P" n="43"/>apud Aug. parte 2. qu. 41. affirmat, hominem per 
       <lb ed="#P" n="44"/>fidem Christi redire ad naturalem justitiam. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e296">
                <lb ed="#P" n="45"/>
                <pc type="indent"/> Decimum: Caelestinus papa in epistola ad 
       episco<lb ed="#P" n="46" break="no"/>pos Galliarum cap. 14. definit, in praevaricatione Adae 
       <lb ed="#P" n="47"/>omnes homines naturalem possibilitatem &amp; 
       innocen<lb ed="#P" n="48" break="no"/>tiam perdidisse. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e309">
                <lb ed="#P" n="49"/>
                <pc type="indent"/> Undecimum: Concilium Arausicanum capite 25. 
       <lb ed="#P" n="50"/>credendum esse docet, antiquis sanctis illam 
@@ -171,7 +169,7 @@
       <lb ed="#P" n="55"/>quae fuit in primo homine, ad bonum naturae ejus 
       <lb ed="#P" n="56"/>pertinuisse. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e331">
                <lb ed="#P" n="57"/>
                <pc type="indent"/> Duodecimum testimonium est ipsius Apostoli 
       Pau<lb ed="#P" n="58" break="no"/>li, qui Rom. 2. de fidelibus ex praeputio sic loqui 
@@ -204,7 +202,7 @@
       <lb ed="#P" n="83"/>Augustino libro 1. contra Julianum cap. 3. &amp; libr. 2. 
       <lb ed="#P" n="84"/>capite 5. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e401">
                <lb ed="#P" n="85"/>
                <pc type="indent"/> His Patrum testimoniis videtur etiam ratio 
       suf<lb ed="#P" n="86" break="no"/>fragari, qualis haec imprimis: Naturalis finis 
@@ -228,7 +226,7 @@
       assequun<lb ed="#P" n="102" break="no"/>
                <!-- line coord order error -->tur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e452">
                <lb ed="#P" n="104"/>
                <pc type="indent"/> Alia ratio: Nulla natura bene se habet, nisi aut 
       <lb ed="#P" n="105"/>fine suo jam potiatur, aut congruo modo tendat 
@@ -239,7 +237,7 @@
       <lb ed="#P" n="110"/>secundum naturam, &amp; proinde gratia bonum est ei 
       <lb ed="#P" n="111"/>naturale. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e474">
                <lb ed="#P" n="112"/>
                <pc type="indent"/> Tertia ratio: Caelestis beatitudo, quam per 
       gra<lb ed="#P" n="113" break="no"/>tiam meremur, &amp; ad quam gratia directe ordinatur, 
@@ -249,7 +247,7 @@
       <lb ed="#P" n="117"/>accepimus, ergo sic conditus est homo, ut tam 
       bea<lb ed="#P" n="118" break="no"/>titudo quam gratia ei esset naturalis. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e494">
                <lb ed="#P" n="119"/>
                <pc type="indent"/> Quarta: Homo per transgressionem non solum 
       spo<lb ed="#P" n="120" break="no"/>liatus dicitur; sed etiam vulneratus, scilicet propter 
@@ -261,7 +259,7 @@
       <lb ed="#P" n="126"/>amissione vulnerata dicitur hominis natura, 
       pertine<lb ed="#P" n="127" break="no"/>bat ad naturalia ejus bona. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e518">
                <lb ed="#P" n="128"/>
                <pc type="indent"/> Quinta: Ea naturalia sunt alicui speciei, quae 
       om<lb ed="#P" n="129" break="no"/>nibus insunt ejus individuis. Inde enim cognoscimus 
@@ -273,20 +271,20 @@
       <lb ed="#P" n="135"/>habuissent gratiam, imo cum gratia nati fuissent; er 
       <lb ed="#P" n="136"/>go in illo statu erat gratia naturalis. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e542">
                <lb ed="#P" n="137"/>
                <pc type="indent"/> Porro pro ea sententia, quae gratiam asserit esse 
       <lb ed="#P" n="138"/>donum supernaturale, tam angelo quam homini, 
       <lb ed="#P" n="139"/>sunt haec Patrum testimonia. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e553">
                <lb ed="#P" n="140"/>
                <pc type="indent"/> Primum: Dionysius libro de divii 
       nomini<lb ed="#P" n="141" break="no"/>bus capite 4. parte 4. de daemonibus inter alia sic 
       <lb ed="#P" n="142"/>dicit: Nec angelica munera his tributa aliquando 
       <lb ed="#P" n="143"/>permutata, sed integra sunt penitusque conspicua,
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e567">
                <lb ed="#P" n="144"/>Ex quibus Dionysii verbis acceptum est illud 
       com<lb ed="#P" n="145" break="no"/>mune pronunciatum: Naturalia in daemonibus 
       <lb ed="#P" n="146"/>post casum mansisse integra. Cum ergo gratia in 
@@ -294,17 +292,17 @@
       <lb ed="#P" n="148"/>naturalia bona non pertinere, sed supra naturam 
       <lb ed="#P" n="149"/>esse. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e583">
       <!--0493.xml-->
                <pb ed="#P" n="260"/>
                <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Secundum, <name>Athanasius</name> oratione 1. contra 
+               <lb ed="#P" n="1"/>Secundum, <name xml:id="bt67yj-p100499-Nd1e593">Athanasius</name> oratione 1. contra 
       Aria<lb ed="#P" n="2" break="no"/>nos: Disciplinae quidem, inquit, &amp; gratiae Dei 
       <lb ed="#P" n="3"/>in nos collocatae, magnae haud dubie sunt, &amp; 
       su<lb ed="#P" n="4" break="no"/>pra hominem; ut est caelestis politiae specimen, 
       po<lb ed="#P" n="5" break="no"/>testas contra daemones, adoptio jusque filiorum, 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e605">
                <lb ed="#P" n="6"/>
                <pc type="indent"/> Tertium: Basilius lib. de Spiritu sancto cap. 16. sic 
       <lb ed="#P" n="7"/>ait: Sanctificatio non est absque spiritu. Non enim 
@@ -312,7 +310,7 @@
       proportio<lb ed="#P" n="9" break="no"/>nem eminentiae inter ipsas, sanctificationis mensuram a 
       <lb ed="#P" n="10"/>Spiritu sancto habent. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e621">
                <lb ed="#P" n="11"/>
                <pc type="indent"/> Quartum: Cyrillus lib. 1. in Joannem cap. 9. dicit 
       <lb ed="#P" n="12"/>creaturam supra naturam suam glorificantis Dei 
@@ -322,7 +320,7 @@
       <lb ed="#P" n="16"/>abjectam secundum naturam, magnam atque 
       mirabi<lb ed="#P" n="17" break="no"/>lem sua efficit bonitate. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e641">
                <lb ed="#P" n="18"/>
                <pc type="indent"/> Quintum: Idem Cyrillus cap. 13. ejusdem libri 
       <lb ed="#P" n="19"/>tractans illud. Dedit eis potestatem filios Dei fieri. 
@@ -335,7 +333,7 @@
       <lb ed="#P" n="26"/>splendida induti purpura, in supernaturalem 
       dignita<lb ed="#P" n="27" break="no"/>tem ascendunt. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e667">
                <lb ed="#P" n="28"/>
                <pc type="indent"/> Sextum: Idem author libro decimo ejusdem 
       ope<lb ed="#P" n="29" break="no"/>ris cap. 23. exponens illud; Vos amici mei estis. Quid 
@@ -346,7 +344,7 @@
       <lb ed="#P" n="34"/>servos sed amicos appellans. Similia repetit lib. 12. 
       <lb ed="#P" n="35"/>cap. 51. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e690">
                <lb ed="#P" n="36"/>
                <pc type="indent"/> Septimum: Rursus idem in libro quod spiritus sit I 
       <lb ed="#P" n="37"/>Deus, sub initium ita scribit: Cum posse facere &amp; 
@@ -356,7 +354,7 @@
       <lb ed="#P" n="41"/>utpote deificus? Vide etiam librum de adoratione in 
       <lb ed="#P" n="42"/>spiritu ante medium. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e710">
                <lb ed="#P" n="43"/>
                <pc type="indent"/> Octavum: Bernardus sermone primo de 
       annuncia<lb ed="#P" n="44" break="no"/>tione dominica dicit, Adam praevaricando amisisse 
@@ -368,7 +366,7 @@
       <lb ed="#P" n="50"/>extrinsecus superadditam, &amp; proinde supernatura 
       <lb ed="#P" n="51"/>lem. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e734">
                <lb ed="#P" n="52"/>
                <pc type="indent"/> His testimoniis adde, si placet, scripturas, 
       maxi<lb ed="#P" n="53" break="no"/>me eas quibus Cyrillus fere utitur locis praedictis; ut 
@@ -381,7 +379,7 @@
       pre<lb ed="#P" n="60" break="no"/>ciosa nobis promissa donavit, ut per haec efficiamini 
       di<lb ed="#P" n="61" break="no"/>vinae consortes naturae. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e760">
                <lb ed="#P" n="62"/>
                <pc type="indent"/> Jam etiam rationes quae pro hac doctrina faciunt 
       <lb ed="#P" n="63"/>subjiciendae sunt. Prima, naturalis qualitas dicitur, 
@@ -394,7 +392,7 @@
       <lb ed="#P" n="70"/>ex naturae viribus orta, sed supra naturam divino 
       mu<lb ed="#P" n="71" break="no"/>nere collata. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e786">
                <lb ed="#P" n="72"/>
                <pc type="indent"/> Secunda: Peccatum non est ejus naturae, ut tollat 
       <lb ed="#P" n="73"/>principium aut donum aliquod naturale: sed tan¬ 
@@ -412,7 +410,7 @@
       gra<lb ed="#P" n="83" break="no"/>tia in primo homine non erat donum naturale, sed 
       <lb ed="#P" n="84"/>supernaturale. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e823">
                <lb ed="#P" n="85"/>
                <pc type="indent"/> Tertia: Homo propter amissionem gratiae non 
       <lb ed="#P" n="86"/>dicitur vulneratus, sed spoliatus; nam &amp; ipsa gratia 
@@ -439,7 +437,7 @@
       indu<lb ed="#P" n="107" break="no"/>menta gratiae spiritualis, &amp; sic vulnera inferre 
       consue<lb ed="#P" n="108" break="no"/>verunt. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e881">
                <lb ed="#P" n="109"/>
                <pc type="indent"/> Quarta ratio potest accipi ex ipso nomine gratiae, 
       <lb ed="#P" n="110"/>quam patres contra naturam distinguunt, etiam in 
@@ -454,7 +452,7 @@
       gra<lb ed="#P" n="119" break="no"/>tiam vocant, vide supra ubi docebimus primum 
       ho<lb ed="#P" n="120" break="no"/>minem conditum in gratia. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e912">
                <lb ed="#P" n="121"/>
                <pc type="indent"/> Quinta: Deus potuit hominem creare sine gratia; 
       <lb ed="#P" n="122"/>nam &amp; multi sentiunt ita factum esse, quos supra 
@@ -471,7 +469,7 @@
       homi<lb ed="#P" n="133" break="no"/>nem crearet line pedibus aut manibus, quod divinae 
       <lb ed="#P" n="134"/>sapientiae non congruit. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e947">
                <lb ed="#P" n="135"/>
                <pc type="indent"/> Sexta: Omnis creatura Dei serva est, juxta illud 
       <lb ed="#P" n="136"/>Psal. 11. Omnia serviunt tibi, &amp; alibi: Dominus 
@@ -482,7 +480,7 @@
       <lb ed="#P" n="141"/>prorsus supernaturale. Utitur hoc argumento 
       Cyril<lb ed="#P" n="142" break="no"/>lus non semel. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e969">
                <lb ed="#P" n="143"/>
                <pc type="indent"/> Septima: Ideo creatus est homo extra paradisum, 
       <lb ed="#P" n="144"/>&amp; postea in eo positus, ut intelligeret sibi non esse 
@@ -490,17 +488,17 @@
       <lb ed="#P" n="146"/>conditus esset, sed agnosceret in ea re beneficium 
       <lb ed="#P" n="147"/>supernaturale.
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e985">
       <!--0494.xml-->
                <pb ed="#P" n="261"/>
                <cb ed="#P" n="a"/>
                <lb ed="#P" n="1"/>Accedit his omnibus communis in hanc partem 
-      <lb ed="#P" n="2"/>Scholasticorum sententia, de qua vide <ref>
-                  <name>Dom. Soto</name>
-                  <lb ed="#P" n="3"/>lib. 1. de natura &amp; gratia cap. 13.</ref> &amp; <name>Bartholomaeum 
+      <lb ed="#P" n="2"/>Scholasticorum sententia, de qua vide <ref xml:id="bt67yj-p100499-Rd1e998">
+                  <name xml:id="bt67yj-p100499-Nd1e1000">Dom. Soto</name>
+                  <lb ed="#P" n="3"/>lib. 1. de natura &amp; gratia cap. 13.</ref> &amp; <name xml:id="bt67yj-p100499-Nd1e1005">Bartholomaeum 
       <lb ed="#P" n="4"/>Medinam</name> in 1. 2. q. 83. art. 3. &amp; 6. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p100499-d1e1011">
                <lb ed="#P" n="5"/>
                <pc type="indent"/> Accessit denique reprobatio quorundam 
       articu<lb ed="#P" n="6" break="no"/>lorum authoritate sedis apostolicae facta, inter quos 

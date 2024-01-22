@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,16 +52,16 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="bt67yj-p107479" alias="l1d26c3">
-            <head>Capitulum 3</head>
-            <head type="question-title">Utrum secundum fidem ponenda sit gratia 
+         <div xml:id="bt67yj-p107479"><!-- l1d26c3" -->
+            <head xml:id="bt67yj-p107479-Hd1e101">Capitulum 3</head>
+            <head xml:id="bt67yj-p107479-Hd1e103" type="question-title">Utrum secundum fidem ponenda sit gratia 
       habitualis</head>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e106">
                <lb ed="#P" n="114"/>
                <pc type="indent"/> §. 3. Utrum secundum fidem ponenda sit gratia 
       <lb ed="#P" n="115"/>habitualis.
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e115">
                <lb ed="#P" n="116"/>DIsputatur a quibusdam, sitne fidei, gratiam qua, 
       <lb ed="#P" n="117"/>justificamur &amp; Deo grati sumus, esse habitum 
       <lb ed="#P" n="118"/>nobis infusum &amp; inhaerentem. Quibusdam placet 
@@ -92,11 +90,11 @@
       <lb ed="#P" n="141"/>Patrum &amp; scholasticorum magis consonam &amp; 
       con<lb ed="#P" n="142" break="no"/>cordem. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e176">
                <lb ed="#P" n="143"/>
-               <pc type="indent"/> Hoc modo sentire videtur <name>Dominicus Soto</name>, qui 
+               <pc type="indent"/> Hoc modo sentire videtur <name xml:id="bt67yj-p107479-Nd1e182">Dominicus Soto</name>, qui 
       <lb ed="#P" n="144"/>concilio Tridentino interfuit, libr. 2. de natura &amp; 
-      <lb ed="#P" n="145"/>gratia cap. 17. &amp; 58. Sed apertius id docet <ref>Bartho¬ 
+      <lb ed="#P" n="145"/>gratia cap. 17. &amp; 58. Sed apertius id docet <ref xml:id="bt67yj-p107479-Rd1e189">Bartho¬ 
       <!--0510.xml-->
       <pb ed="#P" n="277"/>
                   <cb ed="#P" n="a"/>
@@ -113,13 +111,13 @@
       <lb ed="#P" n="11"/>actualem auxilii divini, id negat a concilio 
       defini<lb ed="#P" n="12" break="no"/>tum esse; quia, inquit, illa quaestio non pertinebat 
       <lb ed="#P" n="13"/>ad id quod in concilio erat propositum. Caeterum. in 
-      di<lb ed="#P" n="14" break="no"/>versa sententia est <ref>
-                  <name>Andraeas Vega</name> scribens in capite 
+      di<lb ed="#P" n="14" break="no"/>versa sententia est <ref xml:id="bt67yj-p107479-Rd1e228">
+                  <name xml:id="bt67yj-p107479-Nd1e230">Andraeas Vega</name> scribens in capite 
       <lb ed="#P" n="15"/>7. sess. 6. concilii Tridentini</ref>: Affirmat enim esse 
       <lb ed="#P" n="16"/>dogma definitum in eo loco concilii, quod gratia 
       <lb ed="#P" n="17"/>&amp; virtutes sint habitus infusi. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e241">
                <lb ed="#P" n="18"/>
                <pc type="indent"/> Sane respondendum nobis videtur, opinionem 
       <lb ed="#P" n="19"/>Medinae non posse sustineri, propter decreta tam 
@@ -133,7 +131,7 @@
       inhae<lb ed="#P" n="27" break="no"/>rentia per modum habituum, sive ea vocentur 
       ha<lb ed="#P" n="28" break="no"/>bitus, sive non. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e270">
                <lb ed="#P" n="29"/>
                <pc type="indent"/> Primo: Quia concilium Viennense loquitur de 
       <lb ed="#P" n="30"/>gratia quam infantes in baptismo recipiunt; 
@@ -146,7 +144,7 @@
       ha<lb ed="#P" n="37" break="no"/>
                <!-- line cord order error -->bitus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e296">
                <lb ed="#P" n="35"/>
                <!-- line cord order error -->
                <pc type="indent"/> Secundo: Quia Viennense concilium disertis 
@@ -155,14 +153,14 @@
       informan<lb ed="#P" n="40" break="no"/>tem infundi parvulis quoad habitum, etsi non quoad 
       <lb ed="#P" n="41"/>actum. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e314">
                <lb ed="#P" n="42"/>
                <pc type="indent"/> Tertio: Ex ipso numine virtutum, quae omnium 
       <lb ed="#P" n="43"/>consensu non sint actus, sed habitus, licet 
       Tri<lb ed="#P" n="44" break="no"/>dentini concilii patres pro virtutibus dona dicere 
       <lb ed="#P" n="45"/>maluerint. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e327">
                <lb ed="#P" n="46"/>
                <pc type="indent"/> Quarto: Quia nec caetera quae dudum allegata 
       <lb ed="#P" n="47"/>sunt in concilio Tridentino, stare possunt cum 
@@ -178,7 +176,7 @@
       per<lb ed="#P" n="57" break="no"/>ferant ante tribunal Domini nostri Jesu Christi, &amp; 
       <lb ed="#P" n="58"/>habeant vitam aeternam. Haec ibi. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e360">
                <lb ed="#P" n="59"/>
                <pc type="indent"/> Quinto: Quia mentem concilii Tridentini in 
       <lb ed="#P" n="60"/>hunc sensum interpretatur author catechismi 
@@ -202,7 +200,7 @@
       inhae<lb ed="#P" n="76" break="no"/>rens &amp; permanens in anima per modum habitus: 
       <lb ed="#P" n="77"/>quod &amp; nobis videtur. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e411">
                <lb ed="#P" n="78"/>
                <pc type="indent"/> Nec ob id tamen verum arbitramur, rem esse 
       <lb ed="#P" n="79"/>definitam, quod gratia &amp; virtutes quae 
@@ -227,7 +225,7 @@
       <lb ed="#P" n="98"/>expediebat, in decretis memoratis admiscere 
       no<lb ed="#P" n="99" break="no"/>men habitus. 
     </p>
-            <p>
+            <p xml:id="bt67yj-p107479-d1e463">
                <lb ed="#P" n="100"/>
                <pc type="indent"/> Ad id vero quod objicitur. Viennense concilium 
       <lb ed="#P" n="101"/>eam opinionem quae ponit in parvulis gratiam &amp; 
