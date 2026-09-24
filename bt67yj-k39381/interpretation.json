@@ -1,0 +1,65 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-09-24T00:00:00Z",
+    "model": "claude-sonnet-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "a47f6453be6c8bb0aff69832d0694130082b0c12",
+    "generation_method": "hierarchical"
+  },
+  "bt67yj-k39381-d1e106": {
+    "summary": "Rubric heading for section 2, announcing the topic: that God is in certain things (the just and the saints) in a peculiar, special way.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["bt67yj-k39381-Hd1e101", "bt67yj-k39381-Hd1e103"]
+    }
+  },
+  "bt67yj-k39381-d1e113": {
+    "summary": "The paragraph argues that although God is in all things by the three modes already explained, he is present in a diverse and peculiar way in the just and the holy, angels and human beings alike, who in scriptural usage are said to be 'inhabited' by God and are called his temple, because they are joined to him by faith, hope, and charity. This indwelling is reserved to those graciously governed by God — pardoned of sin and justified through the spirit of adoption — not merely to those who in some way know God or through whom he works for the salvation of others; the metaphor of dwelling is drawn from the human custom of frequenting and inhabiting loved and pleasing places, as illustrated by John 14.",
+    "claims": [
+      "God is present in the just and the saints (angels and humans) in a special way beyond the three general modes of presence.",
+      "This special indwelling belongs only to those whom God graciously governs — those pardoned of sin and justified by the spirit of adoption — not to everyone who merely knows God or is instrumental in others' salvation.",
+      "The scriptural language of God 'dwelling' in the just is a metaphor transferred from the human practice of inhabiting places one loves."
+    ],
+    "concepts": ["indwelling of God (inhabitatio)", "grace and justification", "temple/habitaculum metaphor", "special vs. general modes of divine presence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["bt67yj-k39381-d1e106"]
+    }
+  },
+  "bt67yj-k39381-d1e163": {
+    "summary": "The paragraph explains that the degree of this special indwelling is proportional to a person's justice, perfection, and beatitude, so that God is more perfectly and fully present in the blessed (angels or humans) than in the just still living this life; but the most excellent and ineffable mode of all is God's presence in Christ the man, in whom divinity dwells so excellently that Christ is truly and properly called God, per Colossians 2 ('in him the fullness of divinity dwells bodily'). This bodily indwelling is explained not merely as opposed to figurative dwelling (as God was said to dwell in the ark) but as grounded in the hypostatic union of the divine and human natures in one person, with further treatment deferred to Book 3, distinction 5.",
+    "claims": [
+      "The degree of divine indwelling corresponds to the degree of a creature's justice, perfection, and beatitude, being greatest in the blessed.",
+      "God's presence in Christ the man is the most excellent and ineffable mode of indwelling, grounded in the hypostatic union rather than in mere figurative or symbolic presence.",
+      "Because of this union, it is proper to say that divinity is incarnate and incorporated in the assumed humanity of Christ."
+    ],
+    "concepts": ["hypostatic union", "indwelling of God in Christ", "gradation of grace and beatitude", "bodily vs. figurative presence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["bt67yj-k39381-d1e113"]
+    }
+  },
+  "bt67yj-k39381": {
+    "summary": "Capitulum 2 treats a special, graced mode of divine presence beyond the three general modes of chapter 1: God's indwelling in the just and the saints by grace, a presence that intensifies with a creature's holiness and beatitude, and reaches its unique, unsurpassable form in Christ, where the fullness of divinity dwells bodily by virtue of the hypostatic union.",
+    "claims": [
+      "Beyond the general modes of omnipresence, God dwells specially in the just and holy by grace.",
+      "This graced indwelling admits of degrees, culminating uniquely and ineffably in Christ through the hypostatic union."
+    ],
+    "concepts": ["indwelling of God", "grace", "hypostatic union", "gradation of presence by holiness"],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "bt67yj-k39381-d1e106",
+        "bt67yj-k39381-d1e113",
+        "bt67yj-k39381-d1e163"
+      ]
+    }
+  }
+}

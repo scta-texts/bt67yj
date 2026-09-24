@@ -1,0 +1,51 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-09-24T00:00:00Z",
+    "model": "claude-sonnet-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "a47f6453be6c8bb0aff69832d0694130082b0c12",
+    "generation_method": "hierarchical"
+  },
+  "bt67yj-k40308-d1e106": {
+    "summary": "Rubric heading for section 6, announcing the topic: why God is not defiled by the filth of the things in which he is present.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["bt67yj-k40308-Hd1e101", "bt67yj-k40308-Hd1e103"]
+    }
+  },
+  "bt67yj-k40308-d1e113": {
+    "summary": "The paragraph answers the Master's question of why God, being in all things, is not defiled by their filth, giving a brief and easy twofold reason: first, God's nature is such that it cannot be defiled or affected by anything at all, as established elsewhere; second, no thing, insofar as it simply is (qua being), is sordid or polluted with respect to God, even though it may rightly be called physically unclean with respect to us or another creature whose nature it offends or corrupts — only sin, which is not a thing but a defect and privation of a thing, and which God neither causes nor commits, constitutes spiritual uncleanness and abomination before God. It applies Wisdom 7 ('nothing defiled falls into her') to both kinds of uncleanness, and cites Augustine's numerous anti-Manichaean writings, since the Manichees denied the truth of Christ's flesh and nativity (attributing to him a merely phantasmal body) precisely because they thought God, if he assumed flesh in a woman's womb, would be defiled by its impurities.",
+    "claims": [
+      "God cannot be defiled or affected by anything, because of the kind of nature he has.",
+      "No created thing, considered simply as being, is sordid with respect to God, even though it may be physically unclean relative to other creatures.",
+      "Only sin — a privation, not a positive thing, and never caused by God — constitutes true spiritual uncleanness before God.",
+      "The Manichaean denial of the reality of Christ's flesh stemmed from the mistaken worry that God would be defiled by assuming a body from a woman's womb."
+    ],
+    "concepts": ["divine impassibility", "sin as privation rather than a positive entity", "anti-Manichaean polemic", "physical vs. spiritual uncleanness"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["bt67yj-k40308-d1e106"]
+    }
+  },
+  "bt67yj-k40308": {
+    "summary": "Capitulum 6 answers the Master's question of why God, though present in all things, is not defiled by their impurity, giving a twofold reason grounded in divine impassibility and the metaphysical status of sin as privation rather than substance, and connects the issue to the Manichaean denial of Christ's real flesh, which arose from the mistaken fear that God would be sullied by a fleshly incarnation.",
+    "claims": [
+      "God's presence in all things, including physically unclean ones, does not defile him, because of his impassible nature and because sin (the only true 'uncleanness' before God) is a privation, not a thing, which God never causes.",
+      "The Manichaean rejection of the true incarnation of Christ was rooted in a mistaken worry about divine defilement by fleshly matter."
+    ],
+    "concepts": ["divine impassibility", "sin as privation", "anti-Manichaean polemic", "incarnation and bodily reality of Christ"],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "bt67yj-k40308-d1e106",
+        "bt67yj-k40308-d1e113"
+      ]
+    }
+  }
+}
